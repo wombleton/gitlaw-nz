@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -483,7 +483,9 @@ Prohibited and regulated activities
     
     (3) Every person commits an offence who, knowing that a gamete, an embryo or foetus, or a being has been formed by an action described in [Schedule 1][119], possesses, without reasonable excuse, that gamete, embryo, foetus, or being.
     
-    (4) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 5 years or a fine not exceeding $200,000, or both.
+    (4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $200,000, or both.
+    
+    Section 8(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Duty to stop development of _in vitro_ human or hybrid embryos
     
@@ -513,9 +515,13 @@ Prohibited and regulated activities
     
     *   (b) in relation to a hybrid embryo, the 14th day after its formation (exclusive of any day during which the development of the embryo is suspended) or the day on which the primitive streak appears, whichever is the earlier.
     
-    (5) Every person who commits an offence against subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
+    (5) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
     
-    (6) Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $50,000\.
+    (6) Every person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 9(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 9(6): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Restriction and prohibition on further storage of human _in vitro_ embryos and human _in vitro_ gametes stored for applicable period (10 years and extensions)
     
@@ -543,9 +549,11 @@ Prohibited and regulated activities
     
     *   (b) that is, or is part of, any assisted reproductive procedure or human reproductive research.
     
-    (9) Every person commits an offence who contravenes this section and is liable on summary conviction to a fine not exceeding $20,000\.
+    (9) Every person commits an offence who contravenes this section and is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 10: substituted (with effect on 22 November 2004), on 16 October 2010, by [section 5][125] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 10: substituted (with effect on 22 November 2004), on 16 October 2010, by [section 5][126] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    
+    Section 10(9): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10A Ethics committee may approve extensions
     
@@ -555,7 +563,7 @@ Prohibited and regulated activities
     
     (3) [Sections 29][42] and [30][43] apply (without limitation) to, and to the giving, changing, or cancelling in accordance with [sections 10B to 10D][15] of, an approval under this section.
     
-    Section 10A: inserted, on 16 October 2010, by [section 6][126] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 10A: inserted, on 16 October 2010, by [section 6][127] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 10B Giving of approval under section 10A
     
@@ -573,7 +581,7 @@ Prohibited and regulated activities
     
     (3) The ethics committee may give an approval subject to any conditions it thinks fit to impose.
     
-    Section 10B: inserted, on 16 October 2010, by [section 6][126] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 10B: inserted, on 16 October 2010, by [section 6][127] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 10C Changing of approval under section 10A
     
@@ -607,7 +615,7 @@ Prohibited and regulated activities
     
     (5) The ethics committee may change the approval at the request of the person storing the gamete or embryo under the approval if it is satisfied that the change is consistent with relevant guidelines issued or relevant advice given by the advisory committee before or after the date on which the approval was given.
     
-    Section 10C: inserted, on 16 October 2010, by [section 6][126] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 10C: inserted, on 16 October 2010, by [section 6][127] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 10D Cancellation of approval under section 10A
     
@@ -651,7 +659,7 @@ Prohibited and regulated activities
     
     *   (b) if the cancellation relates to only part of the approval, identify the part to which it relates.
     
-    Section 10D: inserted, on 16 October 2010, by [section 6][126] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 10D: inserted, on 16 October 2010, by [section 6][127] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 11 Restrictions on sex selection of human embryos
     
@@ -661,9 +669,11 @@ Prohibited and regulated activities
     
     *   (b) perform any procedure, or provide, prescribe, or administer any thing in order to ensure, or in order to increase the probability, that a human embryo will be of a particular sex.
     
-    (2) Every person commits an offence who contravenes this section and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    (2) Every person commits an offence who contravenes this section and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
     
     (3) It is a defence to a charge of an offence against this section if the defendant proves that the act to which the charge relates was performed to prevent or treat a genetic disorder or disease.
+    
+    Section 11(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Restriction on obtaining gametes from minors
     
@@ -673,7 +683,7 @@ Prohibited and regulated activities
     
     *   (b) use a gamete that has been obtained from an individual who is under 16 years.
     
-    (2) Every person commits an offence who contravenes this section and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    (2) Every person commits an offence who contravenes this section and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
     
     (3) It is a defence to a charge of an offence against this section if the defendant proves that the gamete concerned was obtained or used by a person---
         
@@ -681,19 +691,21 @@ Prohibited and regulated activities
     
     *   (b) to bring about the birth of a child that was, in the reasonable opinion of the person, likely to be brought up by the individual from whom the gamete was obtained.
     
-    
+    Section 12(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Commercial supply of human embryos or human gametes prohibited
     
 *   (1) No person may give or receive, or agree to give or receive, valuable consideration for the supply of a human embryo or human gamete.
     
-    (2) Every person commits an offence who contravenes subsection (1) and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    (2) Every person commits an offence who contravenes subsection (1) and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    
+    Section 13(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Status of surrogacy arrangements and prohibition of commercial surrogacy arrangements
     
 *   (1) A surrogacy arrangement is not of itself illegal, but is not enforceable by or against any person.
     
-    (2) Subsection (1) does not affect the [Part 2][127] of the Status of Children Act 1969\.
+    (2) Subsection (1) does not affect the [Part 2][128] of the Status of Children Act 1969\.
     
     (3) Every person commits an offence who gives or receives, or agrees to give or receive, valuable consideration for his or her participation, or for any other person's participation, or for arranging any other person's participation, in a surrogacy arrangement.
     
@@ -713,9 +725,11 @@ Prohibited and regulated activities
     
     *   (b) to a legal adviser for independent legal advice to the woman who is, or who might become, pregnant under the surrogacy arrangement.
     
-    (5) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
+    (5) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000, or both.
     
-    Section 14(2): amended, on 20 September 2007, by [section 4][128] of the Human Assisted Reproductive Technology Amendment Act 2007 (2007 No 63).
+    Section 14(2): amended, on 20 September 2007, by [section 4][129] of the Human Assisted Reproductive Technology Amendment Act 2007 (2007 No 63).
+    
+    Section 14(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Advertising for illegal action prohibited
     
@@ -729,7 +743,7 @@ Prohibited and regulated activities
     
     *   (c) deliver to any person or leave upon premises occupied by any person; or
     
-    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][129]; or
+    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][130]; or
     
     *   (e) include in any film or video recording; or
     
@@ -743,7 +757,9 @@ Prohibited and regulated activities
     
     *   (j) bring to the notice of the public in New Zealand in any other manner.
     
-    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500, or both.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500, or both.
+    
+    Section 15(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Activities requiring approval of ethics committee
 
@@ -753,7 +769,9 @@ Prohibited and regulated activities
     
 *   (1) Every person commits an offence who performs an assisted reproductive procedure or conducts human reproductive research without the prior approval in writing of the ethics committee.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $50,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Approved activities must proceed in accordance with applicable conditions and regulations
     
@@ -907,7 +925,7 @@ Prohibited and regulated activities
     
     *   (b) if the cancellation relates to only part of the approval, identify the part to which it relates.
     
-    Section 22(1)(b)(i): amended, on 16 October 2010, by [section 7][130] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 22(1)(b)(i): amended, on 16 October 2010, by [section 7][131] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 23 If approval cancelled, activity must be stopped
     
@@ -947,7 +965,9 @@ Prohibited and regulated activities
         
         
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $100,000, or both.
+    
+    Section 26(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Designation and functions of ethics committee
 
@@ -963,7 +983,7 @@ Prohibited and regulated activities
     
     (3) In designating a committee under this section, the Minister must ensure that the committee---
         
-    *   (a) complies in its composition with any applicable standard governing ethics committees determined by the national advisory committee appointed under [section 16(1)][131] of the New Zealand Public Health and Disability Act 2000; and
+    *   (a) complies in its composition with any applicable standard governing ethics committees determined by the national advisory committee appointed under [section 16(1)][132] of the New Zealand Public Health and Disability Act 2000; and
     
     *   (b) includes---
             
@@ -973,7 +993,7 @@ Prohibited and regulated activities
         
         
     
-    (4) The committee designated under this section is subject to any applicable ethical standards determined by the national advisory committee appointed under [section 16(1)][131] of the New Zealand Public Health and Disability Act 2000\.
+    (4) The committee designated under this section is subject to any applicable ethical standards determined by the national advisory committee appointed under [section 16(1)][132] of the New Zealand Public Health and Disability Act 2000\.
     
     (5) Each meeting of the ethics committee may be attended by the chairperson of the advisory committee or a member of the advisory committee nominated by the chairperson for the meeting, but a person attending under this subsection is not a member of the ethics committee.
     
@@ -1007,7 +1027,7 @@ Prohibited and regulated activities
     
     (2) For the purpose of assisting the ethics committee in the performance of its functions under this Part, the Director-General of Health must provide the committee with administrative support.
     
-    Section 28(1)(aa): inserted, on 16 October 2010, by [section 8][132] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 28(1)(aa): inserted, on 16 October 2010, by [section 8][133] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 #### Duties of ethics committee in relation to advisory committee
 
@@ -1095,7 +1115,7 @@ Prohibited and regulated activities
     
     (7) For the purposes of subsection (6), a layperson is a person who, at no time during the person's membership of the advisory committee or in the 3 years before becoming a member of the committee,---
         
-    *   (a) is a health practitioner within the meaning of the [Health Practitioners Competence Assurance Act 2003][133]; or
+    *   (a) is a health practitioner within the meaning of the [Health Practitioners Competence Assurance Act 2003][134]; or
     
     *   (b) is involved in health research; or
     
@@ -1139,9 +1159,9 @@ Prohibited and regulated activities
     
     (3) For the purpose of assisting the advisory committee in the performance of its functions, the Director-General of Health must provide the committee with administrative support.
     
-    Section 35(1)(aa): inserted, on 16 October 2010, by [section 9(1)][134] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 35(1)(aa): inserted, on 16 October 2010, by [section 9(1)][135] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
     
-    Section 35(1)(a): amended, on 16 October 2010, by [section 9(2)][134] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 35(1)(a): amended, on 16 October 2010, by [section 9(2)][135] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 #### Guidelines and advice
 
@@ -1346,7 +1366,7 @@ Information about donors of donated embryos or donated cells and donor offspring
     
     *   (h) the availability of counselling.
     
-    (4) To avoid any doubt, this section does not limit any right or duty set out in the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][135].
+    (4) To avoid any doubt, this section does not limit any right or duty set out in the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][136].
 
 #### Information about donors
 
@@ -1738,7 +1758,7 @@ Information about donors of donated embryos or donated cells and donor offspring
     
     (11) The Registrar-General, when giving access to information under this section to a person, must advise the person of the desirability of counselling.
     
-    Section 63(2)(ja): inserted, on 20 September 2007, by [section 5][136] of the Human Assisted Reproductive Technology Amendment Act 2007 (2007 No 63).
+    Section 63(2)(ja): inserted, on 20 September 2007, by [section 5][137] of the Human Assisted Reproductive Technology Amendment Act 2007 (2007 No 63).
 
 ##### 64 Application of this Part to section 63
     
@@ -1754,13 +1774,13 @@ Information about donors of donated embryos or donated cells and donor offspring
     
     (3) If satisfied that it is in the best interests of the donor offspring to do so, a Family Court Judge may make an order that requires a named provider or the Registrar-General, or both, to treat, for the purposes of 1 or more of the provisions specified in subsection (2), the donor offspring as a donor offspring who is 18 years old.
     
-    (4) Rules may be made under [section 16A][137] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
+    (4) Rules may be made under [section 16A][138] of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
 
 #### Application of Privacy Act 1993
 
 ##### 66 Application of Privacy Act 1993
     
-*   (1) Any person may make a complaint to the Privacy Commissioner holding that office under [section 12][138] of the Privacy Act 1993 if---
+*   (1) Any person may make a complaint to the Privacy Commissioner holding that office under [section 12][139] of the Privacy Act 1993 if---
         
     *   (a) the person is dissatisfied with any decision, action, or failure to act by a provider or the Registrar-General in relation to---
             
@@ -1778,11 +1798,11 @@ Information about donors of donated embryos or donated cells and donor offspring
         
         
     
-    (2) [Sections 40][139] and [41][140] of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)(a).
+    (2) [Sections 40][140] and [41][141] of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to any request of a kind referred to in subsection (1)(a).
     
-    (3) [Parts 8][141], [9][142], and [12][143] of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to the making of a complaint under subsection (1) as if the matter to which the complaint relates were an interference with privacy within the meaning of [section 66][144] of that Act.
+    (3) [Parts 8][142], [9][143], and [12][144] of the Privacy Act 1993, so far as applicable and with any necessary modifications, apply to the making of a complaint under subsection (1) as if the matter to which the complaint relates were an interference with privacy within the meaning of [section 66][145] of that Act.
     
-    (4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][145] to investigate any complaint made under [Part 8][141] of that Act.
+    (4) Nothing in this section limits the jurisdiction of the Privacy Commissioner under the [Privacy Act 1993][146] to investigate any complaint made under [Part 8][142] of that Act.
 
 ## Part 4  
 Enforcement and miscellaneous provisions
@@ -1817,7 +1837,7 @@ Enforcement and miscellaneous provisions
         
         
     
-    Section 67(2)(c): amended, on 16 October 2010, by [section 10][146] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
+    Section 67(2)(c): amended, on 16 October 2010, by [section 10][147] of the Human Assisted Reproductive Technology (Storage) Amendment Act 2010 (2010 No 117).
 
 ##### 68 Powers of authorised persons
     
@@ -1857,7 +1877,7 @@ Enforcement and miscellaneous provisions
     
     *   (i) require any person appearing to be in charge of the place concerned (or any part of it) to answer any question the authorised person may reasonably ask for the purpose of exercising the powers of the authorised person.
     
-    (2) The provisions of [Part 4][147] of the Search and Surveillance Act 2012 (except [subpart 3][148] and [sections 118][149] and [119][150]) apply.
+    (2) The provisions of [Part 4][148] of the Search and Surveillance Act 2012 (except [subpart 3][149] and [sections 118][150] and [119][151]) apply.
     
     (3) \[Repealed\]
     
@@ -1865,19 +1885,19 @@ Enforcement and miscellaneous provisions
     
     (5) This section does not limit the privilege against self-incrimination.
     
-    Section 68(1)(c): repealed, on 1 October 2012, by [section 257(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(c): repealed, on 1 October 2012, by [section 257(2)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(f): repealed, on 1 October 2012, by [section 257(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(f): repealed, on 1 October 2012, by [section 257(2)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(g): repealed, on 1 October 2012, by [section 257(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(g): repealed, on 1 October 2012, by [section 257(2)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(1)(h): repealed, on 1 October 2012, by [section 257(2)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(1)(h): repealed, on 1 October 2012, by [section 257(2)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(2): replaced, on 1 October 2012, by [section 257(3)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(2): replaced, on 1 October 2012, by [section 257(3)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(3): repealed, on 1 October 2012, by [section 257(3)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(3): repealed, on 1 October 2012, by [section 257(3)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 68(4): repealed, on 1 October 2012, by [section 257(3)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 68(4): repealed, on 1 October 2012, by [section 257(3)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 69 Entry of dwellinghouses
     
@@ -1887,7 +1907,7 @@ Enforcement and miscellaneous provisions
     
     *   (b) with the authority of a search warrant issued under subsection (2).
     
-    (2) An issuing officer (within the meaning of [section 3][152] of the Search and Surveillance Act 2012) may, on an application made in the manner provided in [subpart 3][148] of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house---
+    (2) An issuing officer (within the meaning of [section 3][153] of the Search and Surveillance Act 2012) may, on an application made in the manner provided in [subpart 3][149] of Part 4 of that Act, issue a search warrant in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house---
         
     *   (a) an offence against this Act has been or is being committed; or
     
@@ -1895,31 +1915,31 @@ Enforcement and miscellaneous provisions
     
     (3) The search warrant authorises the authorised person to whom it is directed to exercise in respect of the dwellinghouse all or any of the powers described in [section 68][96], and the provisions of that section apply to the execution of the warrant.
     
-    (4) Subject to [section 72][153], the provisions of [Part 4][147] of the Search and Surveillance Act 2012 (except [sections 118][149] and [119][150]) apply.
+    (4) Subject to [section 72][154], the provisions of [Part 4][148] of the Search and Surveillance Act 2012 (except [sections 118][150] and [119][151]) apply.
     
     (5) \[Repealed\]
     
-    Section 69(2): amended, on 1 October 2012, by [section 257(4)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(2): amended, on 1 October 2012, by [section 257(4)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(4): replaced, on 1 October 2012, by [section 257(5)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(4): replaced, on 1 October 2012, by [section 257(5)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 69(5): repealed, on 1 October 2012, by [section 257(5)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 69(5): repealed, on 1 October 2012, by [section 257(5)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 70 Identification of authorised person
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 1 October 2012, by [section 257(6)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 70: repealed, on 1 October 2012, by [section 257(6)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 71 Notice requirements when place entered
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 1 October 2012, by [section 257(6)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 71: repealed, on 1 October 2012, by [section 257(6)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 72 Disposal of property seized
     
-*   [Subpart 6][154] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under [section 68(1)(d)][96], subject to the following provisions:
+*   [Subpart 6][155] of Part 4 of the Search and Surveillance Act 2012 applies to any property seized by an authorised person under [section 68(1)(d)][96], subject to the following provisions:
         
     *   (a) \[Repealed\]
     
@@ -1929,17 +1949,17 @@ Enforcement and miscellaneous provisions
     
     *   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
     
-    Section 72: amended, on 1 October 2012, by [section 257(7)(a)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72: amended, on 1 October 2012, by [section 257(7)(a)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(a): repealed, on 1 October 2012, by [section 257(7)(b)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(a): repealed, on 1 October 2012, by [section 257(7)(b)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(b): repealed, on 1 October 2012, by [section 257(7)(b)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(b): repealed, on 1 October 2012, by [section 257(7)(b)][152] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 72(c): repealed, on 1 October 2012, by [section 257(7)(b)][151] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 72(c): repealed, on 1 October 2012, by [section 257(7)(b)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 73 Detection of import and export offences
     
-*   (1) A Customs officer may detain any matter or item that he or she finds in the course of exercising any power of search or examination under the [Customs and Excise Act 1996][155], if he or she believes on reasonable grounds that the matter or item is---
+*   (1) A Customs officer may detain any matter or item that he or she finds in the course of exercising any power of search or examination under the [Customs and Excise Act 1996][156], if he or she believes on reasonable grounds that the matter or item is---
         
     *   (a) a gamete, an embryo, or a foetus, or being that is being imported or exported in contravention of [section 8(2)][11] or [section 9(2)][12]; or
     
@@ -1953,23 +1973,23 @@ Enforcement and miscellaneous provisions
     
     *   (b) [section 72][100] applies to that matter or item as if it had been seized under [section 68(1)(d)][96].
     
-    (4) The following sections of the [Customs and Excise Act 1996][155] apply, with any necessary modifications, to any gamete, embryo, foetus, or being that is imported or exported in contravention of [section 8(2)][11] or [section 9(2)][12] as if the gamete, embryo, foetus, or being and any equipment or device used in relation to that import or export were a prohibited import or, as the case requires, a prohibited export within the meaning of that Act:
+    (4) The following sections of the [Customs and Excise Act 1996][156] apply, with any necessary modifications, to any gamete, embryo, foetus, or being that is imported or exported in contravention of [section 8(2)][11] or [section 9(2)][12] as if the gamete, embryo, foetus, or being and any equipment or device used in relation to that import or export were a prohibited import or, as the case requires, a prohibited export within the meaning of that Act:
         
-    *   (a) [section 145][156] (questioning persons about goods and debt):
+    *   (a) [section 145][157] (questioning persons about goods and debt):
     
-    *   (b) [section 147][157] (evidence of identity and entitlement to travel):
+    *   (b) [section 147][158] (evidence of identity and entitlement to travel):
     
-    *   (c) [section 148][158] (detention of persons questioned about goods or debt):
+    *   (c) [section 148][159] (detention of persons questioned about goods or debt):
     
-    *   (d) [section 160][159] (requisition to produce documents):
+    *   (d) [section 160][160] (requisition to produce documents):
     
-    *   (e) [section 161][160] (further powers in relation to documents).
+    *   (e) [section 161][161] (further powers in relation to documents).
     
     (5) If a Customs officer requests an authorised person to assist the Customs officer in the exercise of a power under this section or any of the sections applied by subsection (4), the authorised person may exercise the relevant power under the direction of the Customs officer.
 
 ##### 74 Exclusion of liability of authorised persons, Customs officers, and assistants
     
-*   No authorised person, or a person requested to assist an authorised person, or a Customs officer who does, or omits to do, an act in pursuance of a function or power conferred on that person by this Act or by the [Customs and Excise Act 1996][155] as applied by [section 73][101] is under civil or criminal liability for that act or omission unless the person acts, or omits to act, in bad faith or without reasonable cause.
+*   No authorised person, or a person requested to assist an authorised person, or a Customs officer who does, or omits to do, an act in pursuance of a function or power conferred on that person by this Act or by the [Customs and Excise Act 1996][156] as applied by [section 73][101] is under civil or criminal liability for that act or omission unless the person acts, or omits to act, in bad faith or without reasonable cause.
 
 ##### 75 Offences related to inspections and searches
     
@@ -1979,7 +1999,9 @@ Enforcement and miscellaneous provisions
     
     *   (b) intentionally refuses or fails to comply with any lawful requirements of an authorised person under this Act.
     
-    (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $20,000\.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $20,000\.
+    
+    Section 75(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -1989,15 +2011,15 @@ Enforcement and miscellaneous provisions
         
     *   (a) providing for the circumstances and the manner in which, and the conditions subject to which, any kind of assisted reproductive procedure may be performed or any kind of human reproductive research may be conducted, including, without limitation:
             
-        *   (i) prescribing requirements for informed consent in relation to the performance of assisted reproductive procedures or the conduct of human reproductive research, not being requirements that are inconsistent with this Act or the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][135]:
+        *   (i) prescribing requirements for informed consent in relation to the performance of assisted reproductive procedures or the conduct of human reproductive research, not being requirements that are inconsistent with this Act or the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][136]:
         
         *   (ii) providing for the use or destruction of _in vitro_ gametes or _in vitro_ embryos, in particular, without limitation, in cases where one party from whom such a gamete or embryo has been obtained or formed withdraws his or her consent to any course of action:
         
-        *   (iii) prescribing requirements or conditions for, or imposing restrictions on, the import into, or the export from, New Zealand of _in vitro_ gametes or _in vitro_ embryos, including, without limitation, requirements for the giving of informed consent (not being requirements that are inconsistent with this Act or the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][135]) by persons from whom gametes are obtained overseas:
+        *   (iii) prescribing requirements or conditions for, or imposing restrictions on, the import into, or the export from, New Zealand of _in vitro_ gametes or _in vitro_ embryos, including, without limitation, requirements for the giving of informed consent (not being requirements that are inconsistent with this Act or the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][136]) by persons from whom gametes are obtained overseas:
         
         *   (iv) requiring any person approved under [section 20][30] as the person responsible for an activity to keep records of information of a kind provided for by the regulations (not being identifying information) in relation to that activity, and requiring that person to disclose, in the manner provided for by the regulations, that information to the advisory committee or any duly authorised representative of that committee or the Director-General of Health:
         
-        *   (v) requiring persons who perform, or who arrange for the performance of, established procedures or any class of health practitioner (within the meaning of the [Health Practitioners Competence Assurance Act 2003][133]) to keep records of information of a kind provided for by the regulations (not being identifying information) in relation to established procedures, and requiring those persons and health practitioners to disclose, in the manner provided for by the regulations, that information to the advisory committee or to any duly authorised representative of that committee or to the Director-General of Health:
+        *   (v) requiring persons who perform, or who arrange for the performance of, established procedures or any class of health practitioner (within the meaning of the [Health Practitioners Competence Assurance Act 2003][134]) to keep records of information of a kind provided for by the regulations (not being identifying information) in relation to established procedures, and requiring those persons and health practitioners to disclose, in the manner provided for by the regulations, that information to the advisory committee or to any duly authorised representative of that committee or to the Director-General of Health:
         
         
     
@@ -2007,7 +2029,7 @@ Enforcement and miscellaneous provisions
     
     *   (d) providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
     
-    (1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][135], or the [Human Tissue Act 2008][161]) for informed consent for collection of gametes, embryos, or both---
+    (1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the [Health and Disability Commissioner (Code of Health and Disability Services Consumers' Rights) Regulations 1996][136], or the [Human Tissue Act 2008][162]) for informed consent for collection of gametes, embryos, or both---
         
     *   (a) from dead individuals; and
     
@@ -2017,9 +2039,9 @@ Enforcement and miscellaneous provisions
     
     (2) Regulations under subsection (1)(a) may be made only on the recommendation of the Minister after the Minister has consulted and received advice from the advisory committee and consulted any other person the Minister thinks fit to consult.
     
-    Section 76(1A): inserted, on 1 November 2008, by [section 91(2)][162] of the Human Tissue Act 2008 (2008 No 28).
+    Section 76(1A): inserted, on 1 November 2008, by [section 91(2)][163] of the Human Tissue Act 2008 (2008 No 28).
     
-    Section 76(1B): inserted, on 1 November 2008, by [section 91(2)][162] of the Human Tissue Act 2008 (2008 No 28).
+    Section 76(1B): inserted, on 1 November 2008, by [section 91(2)][163] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 77 Liability of employers, principals, and directors
     
@@ -2057,7 +2079,7 @@ Enforcement and miscellaneous provisions
 
 ##### 80 Health and Disability Services (Safety) Act 2001 applies to fertility services
     
-*   (1) For the purposes of the [Health and Disability Services (Safety) Act 2001][163], fertility services are deemed to be included in the definition of specified health or disability services in [section 4(1)][164] of that Act.
+*   (1) For the purposes of the [Health and Disability Services (Safety) Act 2001][164], fertility services are deemed to be included in the definition of specified health or disability services in [section 4(1)][165] of that Act.
     
     (2) In this section and in [sections 81][111] and [82][112], _fertility services_ means services performed for the purpose of assisting human reproduction that involve---
         
@@ -2069,11 +2091,11 @@ Enforcement and miscellaneous provisions
     
     *   (d) the implantation in a human being of human gametes or human embryos.
     
-    (3) Subsection (1) overrides [section 7][165] of the Health and Disability Services (Safety) Act 2001\.
+    (3) Subsection (1) overrides [section 7][166] of the Health and Disability Services (Safety) Act 2001\.
 
 ##### 81 Compliance with Health and Disability Services (Safety) Act 2001 by providers of fertility services during interim period
     
-*   (1) During the interim period, the provision of fertility services by a person is deemed to comply with [section 9][166] of the Health and Disability Services (Safety) Act 2001 if the person who provides those services---
+*   (1) During the interim period, the provision of fertility services by a person is deemed to comply with [section 9][167] of the Health and Disability Services (Safety) Act 2001 if the person who provides those services---
         
     *   (a) is certified by the Director-General of Health; and
     
@@ -2083,15 +2105,15 @@ Enforcement and miscellaneous provisions
     
     *   (d) complies with any standards approved by the Director-General of Health under [section 82][112].
     
-    (2) For the purposes of subsection (1)(a), a person who is accredited by an organisation approved under subsection (4) is deemed to be certified for the purposes of [section 26][167] of the Health and Disability Services (Safety) Act 2001\.
+    (2) For the purposes of subsection (1)(a), a person who is accredited by an organisation approved under subsection (4) is deemed to be certified for the purposes of [section 26][168] of the Health and Disability Services (Safety) Act 2001\.
     
-    (3) The provision of fertility services is not in compliance with [section 9][166] of the Health and Disability Services (Safety) Act 2001 unless it is deemed to comply with that section by subsection (1).
+    (3) The provision of fertility services is not in compliance with [section 9][167] of the Health and Disability Services (Safety) Act 2001 unless it is deemed to comply with that section by subsection (1).
     
     (4) The Director-General may approve any organisation to act as auditing agency to accredit a person for the purposes of the interim period if the Director-General is satisfied that the organisation has the expertise and experience to carry out that function.
     
     (5) An organisation approved under subsection (4) may be a body corporate or an association of persons, whether or not that body is incorporated, or any of those persons reside, in New Zealand or overseas.
     
-    (6) In this section and in [section 82][112], _interim period_ means the period that commences on the day after the date on which this Act receives the Royal assent and ends immediately before the commencement of the first notice under [section 13][168] of the Health and Disability Services (Safety) Act 2001 that approves standards for fertility services.
+    (6) In this section and in [section 82][112], _interim period_ means the period that commences on the day after the date on which this Act receives the Royal assent and ends immediately before the commencement of the first notice under [section 13][169] of the Health and Disability Services (Safety) Act 2001 that approves standards for fertility services.
 
 ##### 82 Approval of standards during interim period
     
@@ -2147,17 +2169,17 @@ Enforcement and miscellaneous provisions
 
 ##### 85 Amendment to Customs and Excise Act 1996
     
-*   _Amendment(s) incorporated in the [Act(s)][158]_.
+*   _Amendment(s) incorporated in the [Act(s)][159]_.
 
 ##### 86 Amendment to Medicines Act 1981
     
-*   (1), (2) _Amendment(s) incorporated in the [Act(s)][169]_.
+*   (1), (2) _Amendment(s) incorporated in the [Act(s)][170]_.
     
-    (3) Any application made, before the commencement of this section, under [section 96G][170] of the Medicines Act 1981 for the grant of an authorisation in relation to any germ-cell genetic procedure or any cloning procedure must be treated as if this Act had not been enacted; and an authorisation under [section 96C][171] or [section 96D][172] of that Act granted in respect of such an application has effect as if this Act had not been enacted.
+    (3) Any application made, before the commencement of this section, under [section 96G][171] of the Medicines Act 1981 for the grant of an authorisation in relation to any germ-cell genetic procedure or any cloning procedure must be treated as if this Act had not been enacted; and an authorisation under [section 96C][172] or [section 96D][173] of that Act granted in respect of such an application has effect as if this Act had not been enacted.
 
 ##### 87 Amendment to Summary Proceedings Act 1957
     
-*   _Amendment(s) incorporated in the [Act(s)][173]_.
+*   _Amendment(s) incorporated in the [Act(s)][174]_.
 
 ---
 
@@ -2166,41 +2188,23 @@ Prohibited actions
 
 [s 8][11]
 
-##### 1
-    
-*   Artificially form, for reproductive purposes, a cloned embryo. For the purposes of this item, a cloned embryo is not formed by splitting, on 1 or more occasions, an embryo that has been formed by the fusion of gametes.
+*   1 Artificially form, for reproductive purposes, a cloned embryo. For the purposes of this item, a cloned embryo is not formed by splitting, on 1 or more occasions, an embryo that has been formed by the fusion of gametes.
 
-##### 2
-    
-*   Artificially form, for reproductive purposes, a hybrid embryo.
+*   2 Artificially form, for reproductive purposes, a hybrid embryo.
 
-##### 3
-    
-*   Implant into a human being a cloned embryo.
+*   3 Implant into a human being a cloned embryo.
 
-##### 4
-    
-*   Implant into a human being an animal gamete or embryo.
+*   4 Implant into a human being an animal gamete or embryo.
 
-##### 5
-    
-*   Implant into a human being a hybrid embryo.
+*   5 Implant into a human being a hybrid embryo.
 
-##### 6
-    
-*   Implant into an animal a human gamete or human embryo.
+*   6 Implant into an animal a human gamete or human embryo.
 
-##### 7
-    
-*   Implant into an animal a hybrid embryo.
+*   7 Implant into an animal a hybrid embryo.
 
-##### 8
-    
-*   Implant into a human being a genetically modified gamete, human embryo, or hybrid embryo.
+*   8 Implant into a human being a genetically modified gamete, human embryo, or hybrid embryo.
 
-##### 9
-    
-*   Implant into a human being gametes derived from a foetus, or an embryo that has been formed from a gamete or gametes derived from a foetus.
+*   9 Implant into a human being gametes derived from a foetus, or an embryo that has been formed from a gamete or gametes derived from a foetus.
 
 ---
 
@@ -2211,77 +2215,7 @@ Form of search warrant
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 October 2012, by [section 257(6)][151] of the Search and Surveillance Act 2012 (2012 No 24).
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][174].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][175] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+*   Schedule 2: repealed, on 1 October 2012, by [section 257(6)][152] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -2299,23 +2233,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Human Assisted Reproductive Technology Act 2004\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Human Assisted Reproductive Technology Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][176] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][175] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][177] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][176] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][178] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][177] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][179] and [17E][180] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][178] and [17E][179] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2346,17 +2280,19 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 257][151]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 257][152]
     
-    [Human Assisted Reproductive Technology (Storage) Amendment Act 2010][181] (2010 No 117)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][125]
+    
+    [Human Assisted Reproductive Technology (Storage) Amendment Act 2010][180] (2010 No 117)
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][124]
     
-    Human Tissue Act 2008 (2008 No 28): [section 91(2)][162]
+    Human Tissue Act 2008 (2008 No 28): [section 91(2)][163]
     
-    [Human Assisted Reproductive Technology Amendment Act 2007][182] (2007 No 63)
+    [Human Assisted Reproductive Technology Amendment Act 2007][181] (2007 No 63)
     
-    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 79][183]
+    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 79][182]
 
 
 
@@ -2485,62 +2421,61 @@ Amendments, repeals, and miscellaneous provisions
 [122]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM364757
 [123]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM359378
 [124]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM1048943
-[125]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3240202
-[126]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019502
-[127]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM391031
-[128]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968343
-[129]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM155364
-[130]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019508
-[131]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM80498
-[132]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019509
-[133]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM203311
-[134]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2398915
-[135]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM209079
-[136]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968344
-[137]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM42296
-[138]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297053
-[139]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297400
-[140]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297401
-[141]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297439
-[142]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297902
-[143]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM298408
-[144]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297441
-[145]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM296638
-[146]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019510
-[147]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136770
-[148]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136781
-[149]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136813
-[150]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136815
-[151]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136999
-[152]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136542
-[153]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136747
-[154]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136860
-[155]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM377336
-[156]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378960
-[157]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378967
-[158]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378972
-[159]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM379234
-[160]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM379235
-[161]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM1152935
-[162]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM1154309
-[163]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM119974
-[164]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM119982
-[165]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120535
-[166]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120538
-[167]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120559
-[168]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120545
-[169]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56505
-[170]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56540
-[171]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56531
-[172]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56533
-[173]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM314307
-[174]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136500
-[175]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM4686448
-[176]: http://www.pco.parliament.govt.nz/reprints/
-[177]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195439
-[178]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[179]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195468
-[180]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195470
-[181]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2398900
-[182]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968336
-[183]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM319816
+[125]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3360714
+[126]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3240202
+[127]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019502
+[128]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM391031
+[129]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968343
+[130]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM155364
+[131]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019508
+[132]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM80498
+[133]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019509
+[134]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM203311
+[135]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2398915
+[136]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM209079
+[137]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968344
+[138]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM42296
+[139]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297053
+[140]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297400
+[141]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297401
+[142]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297439
+[143]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297902
+[144]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM298408
+[145]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM297441
+[146]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM296638
+[147]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM3019510
+[148]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136770
+[149]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136781
+[150]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136813
+[151]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136815
+[152]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136999
+[153]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136542
+[154]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136747
+[155]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2136860
+[156]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM377336
+[157]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378960
+[158]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378967
+[159]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM378972
+[160]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM379234
+[161]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM379235
+[162]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM1152935
+[163]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM1154309
+[164]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM119974
+[165]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM119982
+[166]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120535
+[167]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120538
+[168]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120559
+[169]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM120545
+[170]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56505
+[171]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56540
+[172]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56531
+[173]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM56533
+[174]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM314307
+[175]: http://www.pco.parliament.govt.nz/reprints/
+[176]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195439
+[177]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[178]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195468
+[179]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM195470
+[180]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM2398900
+[181]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM968336
+[182]: http://www.legislation.govt.nz/act/public/2004/0092/latest/link.aspx?id=DLM319816
