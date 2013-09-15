@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,9 +15,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of Internal Affairs.
 
@@ -763,7 +763,7 @@ Births
     
 *   (1) Unless authorised by the Registrar-General to register births, a Registrar who is notified of a birth in New Zealand shall, to the extent that the information given is information required by the standard form (and subject to [section 12A][19]), send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
     
-    (2) Subject to [sections 12A][19] [14 to 16][21] and [82][131],---
+    (2) Subject to [sections 12A][19], [14 to 16][21] and [82][131],---
         
     *   (a) a Registrar (being a Registrar authorised by the Registrar-General to register births) who---
             
@@ -1394,7 +1394,9 @@ Declarations of Family Court as to sex
     
 *   (1) Subject to subsection (2), where there is deposited with the Registrar-General a declaration issued under [section 28][42] or [section 29][43] that relates to a person whose birth has been registered or is later registered, the Registrar-General shall, on payment of the prescribed fee (if any), include in the information relating to the birth recorded under this Act or a former Act information that the person is a person of the nominated sex.
     
-    (2) The Registrar-General shall not at any time act under subsection (1) if the person concerned is then lawfully married to a person of the nominated sex.
+    (2) \[Repealed\]
+    
+    Section 30(2): repealed, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 ##### 31 Registrar-General may delete information where procedures not completed
     
@@ -1437,9 +1439,9 @@ Deaths
     
 *   (1) Every death in New Zealand must be notified and registered in accordance with this Part.
     
-    (2) Subsection (1) does not apply to a death to which [section 19(1)][220] of the Visiting Forces Act 2004 applies.
+    (2) Subsection (1) does not apply to a death to which [section 19(1)][221] of the Visiting Forces Act 2004 applies.
     
-    Section 34: substituted, on 1 July 2004, by [section 26][221] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 34: substituted, on 1 July 2004, by [section 26][222] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 35 Deaths outside New Zealand
     
@@ -1451,37 +1453,37 @@ Deaths
     
     Compare: 1951 No 22 s 33A
     
-    Section 36: amended, on 7 July 2010, by [section 9][222] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
+    Section 36: amended, on 7 July 2010, by [section 9][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
 
 ##### 37 Medical certificates in relation to illness
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 24 January 2009, by [section 18][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 37: repealed, on 24 January 2009, by [section 18][224] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 38 Medical certificates in relation to accidents to elderly persons
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 24 January 2009, by [section 18][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 38: repealed, on 24 January 2009, by [section 18][224] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 39 Bodies to be disposed of within reasonable time
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 24 January 2009, by [section 18][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 39: repealed, on 24 January 2009, by [section 18][224] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 40 Transfer of charge of body
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 24 January 2009, by [section 18][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 40: repealed, on 24 January 2009, by [section 18][224] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 41 Medical certificate or coroner's order to be obtained before body disposed of
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 24 January 2009, by [section 18][223] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 41: repealed, on 24 January 2009, by [section 18][224] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 42 Registrar to be notified when body disposed of or removed
     
@@ -1491,17 +1493,17 @@ Deaths
         
     *   (a) from New Zealand for disposal outside New Zealand; or
     
-    *   (b) for anatomical examination under the [Human Tissue Act 2008][224],---
+    *   (b) for anatomical examination under the [Human Tissue Act 2008][225],---
     
     the person proposing to remove it shall notify a Registrar of the death of the person concerned.
     
     Compare: 1964 No 22 ss 29, 30, 32
     
-    Section 42(2)(b): amended, on 1 November 2008, by [section 92][225] of the Human Tissue Act 2008 (2008 No 28).
+    Section 42(2)(b): amended, on 1 November 2008, by [section 92][226] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 43 Notification of death where court gives leave to swear to death
     
-*   Where, in any proceedings under the [Administration Act 1969][226], the High Court gives leave to swear to the death of any person,---
+*   Where, in any proceedings under the [Administration Act 1969][227], the High Court gives leave to swear to the death of any person,---
         
     *   (a) the Registrar of the court shall forthwith notify the Registrar-General; and
     
@@ -1597,7 +1599,7 @@ Deaths
     
     the death may be notified at any time; but (without limiting the generality of [section 82][131]) the Registrar-General may decline to allow information relating to it to be recorded if not satisfied that its registration is appropriate.
     
-    Section 48(2): amended, on 1 July 2007, by [section 146][227] of the Coroners Act 2006 (2006 No 38).
+    Section 48(2): amended, on 1 July 2007, by [section 146][228] of the Coroners Act 2006 (2006 No 38).
 
 ##### 49 Registrars to register deaths
     
@@ -1641,7 +1643,7 @@ Deaths
         
         
     
-    *   (b) a United Nations activity within the meaning of [sections 91 to 95][228] of the Policing Act 2008,---
+    *   (b) a United Nations activity within the meaning of [sections 91 to 95][229] of the Policing Act 2008,---
     
     all the information (so far as it is known) described in subsection (2).
     
@@ -1701,7 +1703,7 @@ Deaths
         
     *   (a) from New Zealand for disposal outside New Zealand; or
     
-    *   (b) for anatomical examination under the [Human Tissue Act 2008][224],---
+    *   (b) for anatomical examination under the [Human Tissue Act 2008][225],---
     
     a body that has been disinterred shall notify a Registrar of the removal.
     
@@ -1711,11 +1713,11 @@ Deaths
     
     *   (b) that the body has been removed from New Zealand for disposal outside New Zealand; or
     
-    *   (c) that the body has been removed for anatomical examination under the [Human Tissue Act 2008][224].
+    *   (c) that the body has been removed for anatomical examination under the [Human Tissue Act 2008][225].
     
-    Section 51(2)(b): amended, on 1 November 2008, by [section 92][225] of the Human Tissue Act 2008 (2008 No 28).
+    Section 51(2)(b): amended, on 1 November 2008, by [section 92][226] of the Human Tissue Act 2008 (2008 No 28).
     
-    Section 51(3)(c): amended, on 1 November 2008, by [section 92][225] of the Human Tissue Act 2008 (2008 No 28).
+    Section 51(3)(c): amended, on 1 November 2008, by [section 92][226] of the Human Tissue Act 2008 (2008 No 28).
 
 ##### 52 Deposit with Registrar-General of death certificates issued outside New Zealand
     
@@ -1745,7 +1747,7 @@ Deaths
     
     (7) Nothing in this section limits or affects the provisions of [sections 48(3)(b)][63] and [50][65].
     
-    Section 52(6A): inserted, on 24 January 2009, by [section 19][229] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 52(6A): inserted, on 24 January 2009, by [section 19][230] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ## Part 7  
 Marriages
@@ -1758,7 +1760,7 @@ Marriages
     
 *   Except as provided in [sections 56][72], [57][73], and [58][74], no marriage solemnised outside New Zealand shall be registered.
     
-    Section 54: amended, on 7 July 2010, by [section 10][230] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
+    Section 54: amended, on 7 July 2010, by [section 10][231] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
 
 ##### 55 Marriage information to be sent to Registrar
     
@@ -1766,9 +1768,9 @@ Marriages
         
     *   (a) forthwith after solemnising a marriage,---
             
-        *   (i) enter on both forms provided under [section 24][231] of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
+        *   (i) enter on both forms provided under [section 24][232] of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
         
-        *   (ii) ensure that both forms are signed by the husband, the wife, the celebrant, and 2 witnesses to the solemnisation; and
+        *   (ii) ensure that both forms are signed by each spouse, the celebrant, and 2 witnesses to the solemnisation; and
         
         *   (iii) give one form to the parties; and
         
@@ -1778,11 +1780,11 @@ Marriages
     
     (2) If a marriage has been solemnised in accordance with the marriage regulations of the religious Society of Friends (commonly called Quakers) or, as the case may require, in accordance with the rules and procedures of an exempt religious body,---
         
-    *   (a) the husband and wife must, immediately after the solemnisation,---
+    *   (a) each spouse must, immediately after the solemnisation,---
             
-        *   (i) enter on both forms provided under [section 24][231] of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
+        *   (i) enter on both forms provided under [section 24][232] of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
         
-        *   (ii) ensure that both forms are signed by the husband, the wife, and 2 witnesses to the solemnisation; and
+        *   (ii) ensure that both forms are signed by each spouse and 2 witnesses to the solemnisation; and
         
         *   (iii) ensure that 1 form is given, sent, or posted to the registering officer of the Society of Friends or, as the case may require, the registering officer of the exempt religious body; and
         
@@ -1790,15 +1792,15 @@ Marriages
     
     *   (b) as soon as is practicable after receiving a form under paragraph (a)(iii) or subsection (4), the registering officer of the Society of Friends or, as the case may require, the registering officer of the exempt religious body must give, send, or post it to a Registrar.
     
-    (2A) In subsection (2), **exempt religious body** has the same meaning as in [section 32A(5)][232] of the Marriage Act 1955\.
+    (2A) In subsection (2), **exempt religious body** has the same meaning as in [section 32A(5)][233] of the Marriage Act 1955\.
     
     (3) A person who solemnises a service marriage (other than a service marriage solemnised in a Commonwealth country, particulars of which have been recorded in that country in accordance with its laws) shall,---
         
     *   (a) forthwith after the solemnisation,---
             
-        *   (i) make and keep a record of information relating to the marriage on the form for the time being supplied with licences under [section 24][231] of the Marriage Act 1955, or in a form as nearly as possible in accordance with that form; and
+        *   (i) make and keep a record of information relating to the marriage on the form for the time being supplied with licences under [section 24][232] of the Marriage Act 1955, or in a form as nearly as possible in accordance with that form; and
         
-        *   (ii) ensure that the record and 2 copies of it are signed by the husband, the wife, the person, and 2 witnesses to the solemnisation; and
+        *   (ii) ensure that the record and 2 copies of it are signed by each spouse, the person, and 2 witnesses to the solemnisation; and
         
         *   (iii) give one copy to the parties; and
         
@@ -1808,11 +1810,19 @@ Marriages
     
     (4) Where a form or copy record prepared under this section (or a document prepared under an equivalent provision of a former Act) has been lost or mislaid, the Registrar-General may direct the person or persons who prepared it to prepare and give, send, or post another; and in that case the person or persons shall do so.
     
-    Compare: 1955 No 92 [ss 11(2)][233], [32][234], [36][235]
+    Compare: 1955 No 92 [ss 11(2)][234], [32][235], [36][236]
     
-    Section 55(2): substituted, on 1 January 2002, by [section 46][236] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 55(1)(a)(ii): amended, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 55(2A): inserted, on 1 January 2002, by [section 46][236] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 55(2): substituted, on 1 January 2002, by [section 46][237] of the Human Rights Amendment Act 2001 (2001 No 96).
+    
+    Section 55(2)(a): amended, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
+    
+    Section 55(2)(a)(ii): amended, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
+    
+    Section 55(2A): inserted, on 1 January 2002, by [section 46][237] of the Human Rights Amendment Act 2001 (2001 No 96).
+    
+    Section 55(3)(a)(ii): amended, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 ##### 56 Registrars to register marriages
     
@@ -1830,7 +1840,7 @@ Marriages
     
     *   (c) if sent marriage information under subsection (1), the Registrar-General shall, to the extent that it is information required by the standard form, register it.
     
-    Compare: 1955 No 92 [s 36][235]
+    Compare: 1955 No 92 [s 36][236]
     
     Section 56(1)(a): amended, on 24 January 2009, by [section 46][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
@@ -1842,7 +1852,7 @@ Marriages
     
 *   (1) Subject to [section 82][131], the Registrar-General may record any of the prescribed information relating to a marriage that has not been recorded under this Act or a former Act---
         
-    *   (a) whether or not a form has been prepared in respect of the marriage under [section 55][71] (or a part of the register, certificate, or copy of particulars has been prepared in respect of the marriage under [section 11(2)][233], [section 32][234], or [section 36][235] of the Marriage Act 1955, or a corresponding provision of a former Act); and
+    *   (a) whether or not a form has been prepared in respect of the marriage under [section 55][71] (or a part of the register, certificate, or copy of particulars has been prepared in respect of the marriage under [section 11(2)][234], [section 32][235], or [section 36][236] of the Marriage Act 1955, or a corresponding provision of a former Act); and
     
     *   (b) whether or not information to the same effect, or conflicting information, was contained in any such form, part, certificate, or copy.
     
@@ -1852,7 +1862,7 @@ Marriages
             
         *   (i) an original record of information relating to the marriage recorded under [section 55(3)(a)][71], purporting to be signed by the person who solemnised it; or
         
-        *   (ii) an original certificate of its solemnisation under [section 45(1)][237] of the Marriage Act 1955 (or a corresponding provision of a former Act), containing information relating to it and purporting to be signed by the person who solemnised it; or
+        *   (ii) an original certificate of its solemnisation under [section 45(1)][238] of the Marriage Act 1955 (or a corresponding provision of a former Act), containing information relating to it and purporting to be signed by the person who solemnised it; or
         
         *   (iii) some other information relating to the marriage; and
         
@@ -1864,13 +1874,13 @@ Marriages
     
     the Registrar-General may record the information or any of it.
     
-    Compare: 1955 No 92 [ss 38(2)][238], [46(2)][239]
+    Compare: 1955 No 92 [ss 38(2)][239], [46(2)][240]
 
 ##### 58 Overseas ceremony where New Zealand representative attends
     
-*   The Registrar-General shall record all information contained in a duplicate copy of a certificate forwarded to the Registrar-General under [section 43(1)][240] of the Marriage Act 1955\.
+*   The Registrar-General shall record all information contained in a duplicate copy of a certificate forwarded to the Registrar-General under [section 43(1)][241] of the Marriage Act 1955\.
     
-    Compare: 1955 No 92 [s 43(2)][240]
+    Compare: 1955 No 92 [s 43(2)][241]
 
 ##### 59 Dissolutions to be recorded
     
@@ -1882,15 +1892,15 @@ Marriages
     
     *   (c) an order declaring a marriage to be void _ab initio_,---
     
-    under the [Family Proceedings Act 1980][241], the Registrar of the Family Court concerned shall forthwith send to the Registrar-General a certificate of the order; and the Registrar-General shall record the information it contains as part of the information recorded under this Act or a former Act relating to the marriage.
+    under the [Family Proceedings Act 1980][242], the Registrar of the Family Court concerned shall forthwith send to the Registrar-General a certificate of the order; and the Registrar-General shall record the information it contains as part of the information recorded under this Act or a former Act relating to the marriage.
     
     (2) The Registrar-General may record, as part of the information recorded under this Act or a former Act relating to a marriage, any information contained in---
         
     *   (a) any order described in subsection (1); or
     
-    *   (b) any equivalent order or decree made under a former divorce enactment (that is to say an Act repealed by the [Family Proceedings Act 1980][241] or by a former divorce enactment).
+    *   (b) any equivalent order or decree made under a former divorce enactment (that is to say an Act repealed by the [Family Proceedings Act 1980][242] or by a former divorce enactment).
     
-    Compare: 1955 No 92 [ss 53][242], [55][243]
+    Compare: 1955 No 92 [ss 53][243], [55][244]
     
     Section 59(1): amended, on 24 January 2009, by [section 46][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
@@ -1898,13 +1908,13 @@ Marriages
     
 *   Upon the conviction of any person for bigamy, the Registrar of the court concerned shall forthwith send to the Registrar-General a certificate of the conviction specifying in respect of each bigamous marriage the parties to the marriage, the date and place of the marriage, and the date of the conviction; and the Registrar-General shall, if information relating to the bigamous marriage has been recorded under this Act or a former Act, record as part of that information the information sent to the Registrar-General.
     
-    Compare: 1955 No 92 [ss 54][244], [55][243]
+    Compare: 1955 No 92 [ss 54][245], [55][244]
 
 ##### 61 Celebrants and Registrars to be notified
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 7 July 2010, by [section 11][245] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
+    Section 61: repealed, on 7 July 2010, by [section 11][246] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
 
 ##### 62 Recording new names in relation to marriages
     
@@ -1916,12 +1926,12 @@ Marriages
     
     (4) The Registrar-General must include the new name or change of name as requested, if the request is accompanied by the prescribed fee (if any).
     
-    Section 62: substituted, on 24 January 2009, by [section 20][246] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 62: substituted, on 24 January 2009, by [section 20][247] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ## Part 7A  
 Civil unions
     
-*   Part 7A: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+*   Part 7A: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62A Civil unions under Civil Union Act 2004 to be registered
     
@@ -1929,7 +1939,7 @@ Civil unions
     
     (2) No other type of civil union may be registered under this Act.
     
-    Section 62A: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62A: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62B Civil unions solemnised by celebrant
     
@@ -1937,7 +1947,7 @@ Civil unions
         
     *   (a) immediately after solemnising the civil union,---
             
-        *   (i) enter on both information return forms provided under [section 12][248] of the Civil Union Act 2004 the prescribed information relating to the civil union; and
+        *   (i) enter on both information return forms provided under [section 12][249] of the Civil Union Act 2004 the prescribed information relating to the civil union; and
         
         *   (ii) ensure that both forms are signed by the parties to the civil union, the celebrant, and 2 witnesses to the solemnisation; and
         
@@ -1947,7 +1957,7 @@ Civil unions
     
     *   (b) within 10 days of solemnising the civil union, forward the other form to a Registrar.
     
-    Section 62B: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62B: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62C Registrars to register civil unions
     
@@ -1965,7 +1975,7 @@ Civil unions
     
     (3) Subsections (1) and (2) may be overridden by [section 82][131].
     
-    Section 62C: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62C: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
     
     Section 62C(1)(a): amended, on 24 January 2009, by [section 46][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
@@ -1973,7 +1983,7 @@ Civil unions
 
 ##### 62D Change to form of relationship to be recorded
     
-*   If the Registrar-General or a Registrar receives information that the parties to a marriage or civil union have, under [section 18][249] of the Civil Union Act 2004, changed the form of their relationship, the Registrar-General or Registrar must---
+*   If the Registrar-General or a Registrar receives information that the parties to a marriage or civil union have, under [section 18][250] of the Civil Union Act 2004, changed the form of their relationship, the Registrar-General or Registrar must---
         
     *   (a) note on any information relating to the earlier marriage or civil union that is registered under this Act that the marriage or civil union has been changed, and note when and where the change was effected; and
     
@@ -1981,11 +1991,11 @@ Civil unions
     
     *   (c) ensure that a link is created between the registered information relating to the earlier marriage or civil union and the registered information relating to the later marriage or civil union.
     
-    Section 62D: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62D: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62E Dissolutions to be recorded
     
-*   (1) The Registrar of a Family Court must immediately send to the Registrar-General a certificate of any of the following orders made in that court under the [Family Proceedings Act 1980][241]:
+*   (1) The Registrar of a Family Court must immediately send to the Registrar-General a certificate of any of the following orders made in that court under the [Family Proceedings Act 1980][242]:
         
     *   (a) an order dissolving a civil union:
     
@@ -1995,7 +2005,7 @@ Civil unions
     
     (2) The Registrar-General must record the information contained in a certificate received under subsection (1) as part of the information recorded under this Act relating to the civil union.
     
-    Section 62E: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62E: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62F Convictions for bigamy to be recorded
     
@@ -2009,7 +2019,7 @@ Civil unions
     
     (2) If the information relating to a bigamous marriage or civil union is recorded under this Act, the Registrar-General must record the information received under subsection (1) as part of that information.
     
-    Section 62F: inserted, on 26 April 2005, by [section 39][247] of the Civil Union Act 2004 (2004 No 102).
+    Section 62F: inserted, on 26 April 2005, by [section 39][248] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 62G Recording new names in relation to civil unions
     
@@ -2021,20 +2031,20 @@ Civil unions
     
     (4) The Registrar-General must include the new name or change of name as requested, if the request is accompanied by the prescribed fee (if any).
     
-    Section 62G: substituted, on 24 January 2009, by [section 21][250] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 62G: substituted, on 24 January 2009, by [section 21][251] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ## Part 8  
 Certificates
 
 ##### 63 Birth certificates for adopted persons
     
-*   (1) Except as provided in [section 11(4)(a)][251] of the Adult Adoption Information Act 1985, no birth certificate shall be provided in respect of an adopted person unless it has been requested---
+*   (1) Except as provided in [section 11(4)(a)][252] of the Adult Adoption Information Act 1985, no birth certificate shall be provided in respect of an adopted person unless it has been requested---
         
     *   (a) by reference to the names most recently included in the registration of the person's birth under [section 24][36] or [section 25][37] of this Act, or under a corresponding provision of a former Act (not being names derived from an adoption that has been discharged); or
     
     *   (b) by reference to a name or names later recorded for the person under [section 21B][32], or an earlier corresponding provision.
     
-    (2) Except as provided in the [Adult Adoption Information Act 1985][252], a birth certificate provided in respect of a person in respect of whom information (not being information derived from an adoption order that has been discharged) has been recorded under [section 24][36] or [section 25][37] of this Act,---
+    (2) Except as provided in the [Adult Adoption Information Act 1985][253], a birth certificate provided in respect of a person in respect of whom information (not being information derived from an adoption order that has been discharged) has been recorded under [section 24][36] or [section 25][37] of this Act,---
         
     *   (a) subject to paragraph (b), shall contain the information that such a certificate would contain if the adoptive parents by whom the person was most recently adopted (otherwise than under an adoption order that has been discharged) were the person's biological mother and father, and the name or names recorded under that section had been recorded as information relating to the person's birth; and
     
@@ -2044,7 +2054,7 @@ Certificates
     
     Compare: 1951 No 22 s 21(7)
     
-    Section 63(1)(b): substituted, on 24 January 2009, by [section 22][253] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 63(1)(b): substituted, on 24 January 2009, by [section 22][254] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 64 Birth certificates after sexual assignment or reassignment
     
@@ -2114,11 +2124,11 @@ Certificates
     
     (5) In this section,---
     
-    _employee_ and _officer_ have the same meaning as in [section 2][254] of the New Zealand Security Intelligence Service Act 1969
+    _employee_ and _officer_ have the same meaning as in [section 2][255] of the New Zealand Security Intelligence Service Act 1969
     
     _undercover Police officer _ means a person who is a member of the Police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
     
-    Section 65: substituted, on 24 January 2009, by [section 23][255] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 65: substituted, on 24 January 2009, by [section 23][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 66 Birth certificates where error in birth registration corrected
     
@@ -2152,13 +2162,13 @@ Certificates
     
     (6) \[Repealed\]
     
-    Section 67(3): amended, on 24 January 2009, by [section 24(1)][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 67(3): amended, on 24 January 2009, by [section 24(1)][257] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 67(4): repealed, on 24 January 2009, by [section 24(2)][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 67(4): repealed, on 24 January 2009, by [section 24(2)][257] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 67(5): repealed, on 24 January 2009, by [section 24(2)][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 67(5): repealed, on 24 January 2009, by [section 24(2)][257] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 67(6): repealed, on 24 January 2009, by [section 24(2)][256] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 67(6): repealed, on 24 January 2009, by [section 24(2)][257] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 68 Surnames on certain birth certificates
     
@@ -2182,7 +2192,7 @@ Certificates
     
 *   Every civil union certificate must contain as much information (being information relating to the civil union to which the certificate relates that is recorded under this Act at the time the certificate is issued) as is then prescribed.
     
-    Section 70A: inserted, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 70A: inserted, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 70B Name change certificates
     
@@ -2190,7 +2200,7 @@ Certificates
     
     (2) A name change certificate must not be issued for a person whose birth has been registered.
     
-    Section 70B: inserted, on 24 January 2009, by [section 25][258] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 70B: inserted, on 24 January 2009, by [section 25][259] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 71 Certificates to be prima facie evidence
     
@@ -2200,7 +2210,7 @@ Certificates
     
     Section 71: amended, on 24 January 2009, by [section 46][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 71: amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 71: amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 72 Fees for certificates
     
@@ -2208,12 +2218,12 @@ Certificates
     
     Section 72: amended, on 24 January 2009, by [section 46][194] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 72: amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 72: amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
 
 ## Part 9  
 Searches and disclosure of information
     
-*   Part 9 heading: substituted, on 24 January 2009, by [section 26][259] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+*   Part 9 heading: substituted, on 24 January 2009, by [section 26][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 73 Definitions for sections 74 to 75G
     
@@ -2229,7 +2239,7 @@ Searches and disclosure of information
     
     *   (b) if the person has attained the age of 18 years or has earlier married or entered into a civil union or de facto relationship, a person who has been granted a power of attorney or has been given written authority by the person.
     
-    Section 73: substituted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 73: substituted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 74 Access to birth information, death information, marriage information, civil union information, or name change information
     
@@ -2259,7 +2269,7 @@ Searches and disclosure of information
     
     (4) This section is subject to [sections 75B(2)][105] and [75G to 78H][110].
     
-    Section 74: substituted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 74: substituted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75 Persons authorised to access source documents
     
@@ -2273,7 +2283,7 @@ Searches and disclosure of information
     
     (2) However, a person described in subsection (1)(a) may not inspect or obtain a copy of information from a register, or an index to a register, that is regarded by the Registrar-General as a source document because it is maintained in documentary form and was created before 1 January 1998\.
     
-    Section 75: substituted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75: substituted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75A Subject of birth information, marriage information, civil union information, or name change information may search access register and request non-disclosure direction
     
@@ -2301,7 +2311,7 @@ Searches and disclosure of information
     
     (7) Subsection (2)(b) is subject to [sections 75F][109] and [75G][110].
     
-    Section 75A: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75A: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75B Effect and duration of non-disclosure direction
     
@@ -2341,7 +2351,7 @@ Searches and disclosure of information
     
     (6) Subsection (2) is subject to [sections 75F][109] and [75G][110].
     
-    Section 75B: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75B: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75C Registrar may provide limited verification of registered information that becomes publicly available while non-disclosure direction in force
     
@@ -2361,7 +2371,7 @@ Searches and disclosure of information
     
     (4) A person making the request and, if applicable, the person for whom the request is made must provide the Registrar with any means of identification that are reasonably necessary to allow the identity of the person or the identities of those persons to be readily ascertained.
     
-    Section 75C: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75C: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75D Registrar-General must keep access register
     
@@ -2383,17 +2393,17 @@ Searches and disclosure of information
     
     (3) Subsection (2)(a) is subject to [sections 75F(2)][109] and [75G][110].
     
-    Section 75D: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75D: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75E Public sector agencies may search access register
     
-*   (1) Despite [section 75A(2)(a)][104], a public sector agency (within the meaning of [section 2][261] of the Privacy Act 1993) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
+*   (1) Despite [section 75A(2)(a)][104], a public sector agency (within the meaning of [section 2][262] of the Privacy Act 1993) may request the Registrar-General to provide a copy of all entries made in the access register in relation to any person if it is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences).
     
     (2) The Registrar-General must comply with a request under subsection (1) as soon as practicable after it is made.
     
     (3) To avoid doubt, [section 75A(3) and (4)][104] do not apply to a request under subsection (1).
     
-    Section 75E: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75E: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75F Searches for certain authorised purposes
     
@@ -2419,7 +2429,7 @@ Searches and disclosure of information
     
     *   (d) the Police so they can notify next of kin of a person's death.
     
-    Section 75F: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75F: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 75G Searches for purposes of gathering statistics, or for health, historical, or demographic research
     
@@ -2471,7 +2481,7 @@ Searches and disclosure of information
     
     *   (b) take those comments into account.
     
-    Section 75G: inserted, on 24 January 2009, by [section 27][260] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 75G: inserted, on 24 January 2009, by [section 27][261] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 76 Restrictions on searches relating to adopted persons
     
@@ -2503,7 +2513,7 @@ Searches and disclosure of information
         
         
     
-    *   (c) that [section 11(4)(a)][251] of the Adult Adoption Information Act 1985 so authorises (but in that case shall permit it to the extent only that the said section 11(4)(a) so authorises); or
+    *   (c) that [section 11(4)(a)][252] of the Adult Adoption Information Act 1985 so authorises (but in that case shall permit it to the extent only that the said section 11(4)(a) so authorises); or
     
     *   (d) that the adopted person concerned, the adoptive parents, and such of the adopted person's natural parents as had information relating to them recorded under this Act or a former Act as part of the information relating to the adopted person's birth, are all dead; or
     
@@ -2519,9 +2529,9 @@ Searches and disclosure of information
     
     Compare: 1951 No 22 s 21(8), (9)
     
-    Section 76(3)(b)(i): amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 76(3)(b)(i): amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 76(3)(c): amended, on 7 July 2010, by [section 12][262] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
+    Section 76(3)(c): amended, on 7 July 2010, by [section 12][263] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010 (2010 No 49).
 
 ##### 77 Restrictions on searches where error relating to person's sex has been corrected or sexual assignment or reassignment has been registered
     
@@ -2615,9 +2625,9 @@ Searches and disclosure of information
     
     *   (c) any new names later adopted by the person.
     
-    Section 77(8)(c): amended, on 28 July 1997, by [section 5][263] of the Births, Deaths, and Marriages Registration Amendment Act 1997 (1997 No 35).
+    Section 77(8)(c): amended, on 28 July 1997, by [section 5][264] of the Births, Deaths, and Marriages Registration Amendment Act 1997 (1997 No 35).
     
-    Section 77(9)(a): amended, on 28 July 1997, by [section 5][263] of the Births, Deaths, and Marriages Registration Amendment Act 1997 (1997 No 35).
+    Section 77(9)(a): amended, on 28 July 1997, by [section 5][264] of the Births, Deaths, and Marriages Registration Amendment Act 1997 (1997 No 35).
 
 ##### 78 Restrictions on searches relating to new names of certain witnesses, etc
     
@@ -2673,17 +2683,17 @@ Searches and disclosure of information
     
     *   (d) the information (if any) provided to the person as a result of the request.
     
-    Section 78(3)(b): amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 78(3)(b): amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78(4): substituted, on 24 January 2009, by [section 28][264] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78(4): substituted, on 24 January 2009, by [section 28][265] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78(5): added, on 24 January 2009, by [section 28][264] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78(5): added, on 24 January 2009, by [section 28][265] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78(6): added, on 24 January 2009, by [section 28][264] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78(6): added, on 24 January 2009, by [section 28][265] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78(7): added, on 24 January 2009, by [section 28][264] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78(7): added, on 24 January 2009, by [section 28][265] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78(8): added, on 24 January 2009, by [section 28][264] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78(8): added, on 24 January 2009, by [section 28][265] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78A Disclosure of birth information, death information, marriage information, civil union information, and name change information to certain specified agencies for certain purposes
     
@@ -2697,29 +2707,29 @@ Searches and disclosure of information
     
     (4A) [Sections 74][102], [75A(2)(b)][104], [75B(2)][105], and [75D(2)][107] do not apply if this section applies.
     
-    (5) In this section, _specified agency_ has the meaning given to it by [section 97][265] of the Privacy Act 1993\.
+    (5) In this section, _specified agency_ has the meaning given to it by [section 97][266] of the Privacy Act 1993\.
     
     (6) In this section, a reference to the _chief executive of a specified agency_ means, in the case of the Government Superannuation Fund Authority or the National Provident Fund, a reference to the Board of the Government Superannuation Fund Authority or, as the context requires, the Board of Trustees of the National Provident Fund.
     
-    Section 78A: inserted, on 27 September 2001, by [section 3][266] of the Births, Deaths, and Marriages Registration Amendment Act 2001 (2001 No 56).
+    Section 78A: inserted, on 27 September 2001, by [section 3][267] of the Births, Deaths, and Marriages Registration Amendment Act 2001 (2001 No 56).
     
-    Section 78A heading: amended, on 24 January 2009, by [section 29(1)][267] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78A heading: amended, on 24 January 2009, by [section 29(1)][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78A heading: amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 78A heading: amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78A(1): amended, on 24 January 2009, by [section 29(2)][267] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78A(1): amended, on 24 January 2009, by [section 29(2)][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78A(1): amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 78A(1): amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78A(4): amended, on 27 February 2013, by [section 4][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013 (2013 No 3).
+    Section 78A(4): amended, on 27 February 2013, by [section 4][269] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013 (2013 No 3).
     
-    Section 78A(4): amended, on 24 January 2009, by [section 29(3)][267] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78A(4): amended, on 24 January 2009, by [section 29(3)][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78A(4): amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 78A(4): amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 78A(4A): inserted, on 24 January 2009, by [section 29(4)][267] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78A(4A): inserted, on 24 January 2009, by [section 29(4)][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 78A(6): added, on 24 January 2009, by [section 29(5)][267] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78A(6): added, on 24 January 2009, by [section 29(5)][268] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78AA Disclosure of birth information, death information, marriage information, civil union information, and name change information under approved information sharing agreement
     
@@ -2743,37 +2753,37 @@ Searches and disclosure of information
     
     (5) In this section,---
     
-    _approved information sharing agreement_ and _information sharing agreement_ have the meanings given to them by [section 96C][269] of the Privacy Act 1993
+    _approved information sharing agreement_ and _information sharing agreement_ have the meanings given to them by [section 96C][270] of the Privacy Act 1993
     
     _non-disclosure direction_ means a direction made by the Registrar-General on a request under [section 75A(2)(b)][104] that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public.
     
-    Section 78AA: inserted, on 27 February 2013, by [section 5][270] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013 (2013 No 3).
+    Section 78AA: inserted, on 27 February 2013, by [section 5][271] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013 (2013 No 3).
 
 ##### 78B Information matching to trace unregistered births
     
-*   (1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the [Social Security Act 1964][271] (the _department_) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
+*   (1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the [Social Security Act 1964][272] (the _department_) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
     
     (2) The Registrar-General may request the department to supply the postal address and residential address (if different from the postal address) of a person---
         
-    *   (a) in respect of whom that information is held for the purposes of the [Social Security Act 1964][271]; and
+    *   (a) in respect of whom that information is held for the purposes of the [Social Security Act 1964][272]; and
     
     *   (b) who the Registrar-General has grounds to believe may be the mother of a child whose birth is unregistered.
     
     (3) No request may be made unless---
         
-    *   (a) there is an agreement between the department and the Registrar-General in accordance with [section 99][272] of the Privacy Act 1993; and
+    *   (a) there is an agreement between the department and the Registrar-General in accordance with [section 99][273] of the Privacy Act 1993; and
     
     *   (b) the request is in accordance with the agreement.
     
     (4) The Registrar-General may cause a comparison to be made between information supplied as a result of a request under this section and other information held by the Registrar-General for the purposes of this Act.
     
-    Section 78B: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78B: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78C Disclosure of statistical information
     
 *   The Registrar-General may publish or otherwise disclose statistical information obtained from registered information if he or she is of the opinion that the statistical information may be of interest to the public and is not readily available elsewhere.
     
-    Section 78C: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78C: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78D Registrar-General may share name change information and death information with foreign registration authorities
     
@@ -2789,7 +2799,7 @@ Searches and disclosure of information
     
     *   (b) who is a New Zealand citizen or is entitled, under the [Immigration Act 2009][188], to be in New Zealand indefinitely.
     
-    Section 78D: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78D: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
     Section 78D(4)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][192] of the Immigration Act 2009 (2009 No 51).
 
@@ -2815,7 +2825,7 @@ Searches and disclosure of information
     
     (5) The Privacy Commissioner may require the Registrar-General to review an agreement, and report on the outcome of the review to the Privacy Commissioner, at intervals not shorter than 12 months.
     
-    Section 78E: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78E: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78F Disclosure of death information to non-government organisations for certain purposes
     
@@ -2857,7 +2867,7 @@ Searches and disclosure of information
     
     (8) Subsection (7)(b) does not prevent the other party that obtains information under this section from placing the information on an Internet site that is not generally available to members of the public if the Registrar-General so agrees.
     
-    Section 78F: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78F: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78G Definition for sections 78H and 78I
     
@@ -2873,7 +2883,7 @@ Searches and disclosure of information
     
     *   (e) a death that occurred 50 years ago or more, or if 80 years or more has passed since the birth of the deceased person.
     
-    Section 78G: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78G: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78H Registrar-General may make certain historical information available
     
@@ -2959,7 +2969,7 @@ Searches and disclosure of information
     
     (5) If this section applies, [sections 74(2)(e) and (3)][102] and [75D(2)][107] do not apply.
     
-    Section 78H: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78H: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78I Index information must not be made available on Internet
     
@@ -2989,11 +2999,11 @@ Searches and disclosure of information
     
     _Internet site_ includes part of an Internet site that is not generally accessible to members of the public.
     
-    Section 78I: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78I: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78J Review of operation of sections 74 to 75G, 78F, and 78H 
     
-*   (1) As soon as practicable after the expiry of the period of 5 years beginning on the commencement of the [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][274] ![](/images/external_link.gif), the Minister must---
+*   (1) As soon as practicable after the expiry of the period of 5 years beginning on the commencement of the [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][275] ![](/images/external_link.gif), the Minister must---
         
     *   (a) review the operation of [sections 74 to 75G][102], [78F][120], and [78H ][122] since the date of that commencement; and
     
@@ -3003,11 +3013,11 @@ Searches and disclosure of information
     
     (2) In preparing the report, the Minister must consult with interested parties (including the Privacy Commissioner and the Chief Archivist).
     
-    Section 78J: inserted, on 24 January 2009, by [section 30][273] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 78J: inserted, on 24 January 2009, by [section 30][274] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 78K Disclosure of certain information for purposes of Identity Information Confirmation Act 2012
     
-*   (1) Any information specified in subsection (2) in relation to an individual about whom an identity information check was carried out under [section 9][275] of the Identity Information Confirmation Act 2012 may be disclosed to an agency or intermediary (within the meaning of that Act) if the check indicates that death information or name change information is recorded for that individual.
+*   (1) Any information specified in subsection (2) in relation to an individual about whom an identity information check was carried out under [section 9][276] of the Identity Information Confirmation Act 2012 may be disclosed to an agency or intermediary (within the meaning of that Act) if the check indicates that death information or name change information is recorded for that individual.
     
     (2) The information referred to in subsection (1) is as follows:
         
@@ -3015,14 +3025,14 @@ Searches and disclosure of information
     
     *   (b) that name change information in relation to the individual exists.
     
-    Section 78K: inserted, on 19 December 2012, by [section 22][276] of the Identity Information Confirmation Act 2012 (2012 No 124).
+    Section 78K: inserted, on 19 December 2012, by [section 22][277] of the Identity Information Confirmation Act 2012 (2012 No 124).
 
 ## Part 10  
 Registrar-General and Registrars
 
 ##### 79 Registrar-General
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][277] a Registrar-General.
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][278] a Registrar-General.
     
     (2) The Registrar-General is charged with the general administration of this Act.
     
@@ -3032,7 +3042,7 @@ Registrar-General and Registrars
 
 ##### 80 Deputy Registrar-General
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][277] 1 or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][278] 1 or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
     
     (2) Subject to the control of the Registrar-General, a Deputy Registrar-General has and may exercise and perform any of the powers, functions, and duties of the Registrar-General.
     
@@ -3048,7 +3058,7 @@ Registrar-General and Registrars
     
     Compare: 1951 No 22 s 3
     
-    Section 80(3)(b): amended, on 1 October 1995, by [section 10(3)][278] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 80(3)(b): amended, on 1 October 1995, by [section 10(3)][279] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 81 Registrars
     
@@ -3056,7 +3066,7 @@ Registrar-General and Registrars
     
     (2) Appointments under subsection (1) shall,---
         
-    *   (a) in the case of persons who on their appointment will become employed in the Public Service, be in accordance with the [State Sector Act 1988][277]; and
+    *   (a) in the case of persons who on their appointment will become employed in the Public Service, be in accordance with the [State Sector Act 1988][278]; and
     
     *   (b) in every other case, be in writing under the hand of the Registrar-General, specifying either---
             
@@ -3070,14 +3080,14 @@ Registrar-General and Registrars
     
     Compare: 1951 No 22 s 4(1), (2); 1982 No 61 s 2(1)
     
-    Section 81(1): amended, on 24 January 2009, by [section 31(1)][279] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 81(1): amended, on 24 January 2009, by [section 31(1)][280] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 81(2)(c): amended, on 24 January 2009, by [section 31(2)][279] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 81(2)(c): amended, on 24 January 2009, by [section 31(2)][280] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ## Part 11  
 Powers of inquiry and correction and updating of records
     
-*   Part 11 heading: substituted, on 24 January 2009, by [section 32][280] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+*   Part 11 heading: substituted, on 24 January 2009, by [section 32][281] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 82 Registrar-General's powers of inquiry
     
@@ -3095,15 +3105,17 @@ Powers of inquiry and correction and updating of records
     
     (4) In this section, _registrable event_ means an adoption, birth, death, marriage, civil union, name change, or sexual assignment or reassignment.
     
-    Section 82: substituted, on 24 January 2009, by [section 33][281] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 82: substituted, on 24 January 2009, by [section 33][282] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 83 Registrars must decline to record certain information
     
 *   (1) If a Registrar is satisfied (on reasonable grounds) after making any inquiries under [section 82][131] that seem appropriate, that information in respect of a birth, death, marriage, civil union, or name change is or is likely to be incorrect, he or she must decline to record the information.
     
-    (2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under [sections 24(2), 24(3)(b)][36], [25(b)][37], [30(2)][44], and [31][45].
+    (2) This section overrides anything in this Act to the contrary and is in addition to the powers of the Registrar-General under [sections 24(2), 24(3)(b)][36], [25(b)][37], and [31][45].
     
-    Section 83: substituted, on 24 January 2009, by [section 33][281] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 83: substituted, on 24 January 2009, by [section 33][282] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 83(2): amended, on 19 August 2013, by [section 9][220] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 ##### 84 Correction of errors
     
@@ -3115,21 +3127,21 @@ Powers of inquiry and correction and updating of records
     
     *   (b) in the Registrar-General's possession and not recorded under this Act or a former Act is correct and should have been recorded, he or she must cause the information to be recorded.
     
-    Section 84: substituted, on 24 January 2009, by [section 33][281] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 84: substituted, on 24 January 2009, by [section 33][282] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 84A Amendments to birth registrations to include details of parents under Part 2 of Status of Children Act 1969
     
 *   (1) The Registrar-General must amend a person's birth information in accordance with subsection (2) if the Registrar-General is satisfied, after making any inquiries under [section 82][131] that seem appropriate, that---
         
-    *   (a) the person was conceived as a result of an AHR procedure to which [Part 2][282] of the Status of Children Act 1969 applies; and
+    *   (a) the person was conceived as a result of an AHR procedure to which [Part 2][283] of the Status of Children Act 1969 applies; and
     
     *   (b) the person's birth information does not include information about a parent of the person as determined under that Act, or includes information about a person purporting to be a parent but who is not a parent in terms of that Act.
     
     (2) The Registrar-General must amend the birth information by adding or deleting (or both) information described in subsection (1)(b).
     
-    (3) In this section, _AHR procedure_ has the same meaning as in [section 15][283] of the Status of Children Act 1969\.
+    (3) In this section, _AHR procedure_ has the same meaning as in [section 15][284] of the Status of Children Act 1969\.
     
-    Section 84A: inserted, on 24 January 2009, by [section 33][281] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 84A: inserted, on 24 January 2009, by [section 33][282] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 85 Family Court may consider proposed corrections in cases of difficulty or dispute
     
@@ -3145,15 +3157,15 @@ Powers of inquiry and correction and updating of records
     
     determine whether or not the Registrar-General should act under that section.
     
-    Section 85(1): amended, on 24 January 2009, by [section 34(1)][284] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 85(1): amended, on 24 January 2009, by [section 34(1)][285] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 85(2): amended, on 24 January 2009, by [section 34(2)][284] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 85(2): amended, on 24 January 2009, by [section 34(2)][285] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 85(3): amended, on 24 January 2009, by [section 34(3)][284] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 85(3): amended, on 24 January 2009, by [section 34(3)][285] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 85A Health information may be used to correct records
     
-*   (1) The chief executive of the department for the time being responsible for administering the [New Zealand Public Health and Disability Act 2000][285] may---
+*   (1) The chief executive of the department for the time being responsible for administering the [New Zealand Public Health and Disability Act 2000][286] may---
         
     *   (a) advise the Registrar-General of an apparent omission or error if he or she believes on reasonable grounds that a person's birth or death has not been registered under this Act or has been registered incorrectly; and
     
@@ -3161,7 +3173,7 @@ Powers of inquiry and correction and updating of records
     
     (2) The Registrar-General may correct birth information or death information in accordance with information provided under this section.
     
-    Section 85A: inserted, on 24 January 2009, by [section 35][286] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 85A: inserted, on 24 January 2009, by [section 35][287] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 85B Information recorded under Act may be used to update information kept under Human Assisted Reproductive Technology Act 2004
     
@@ -3171,18 +3183,18 @@ Powers of inquiry and correction and updating of records
     
     (3) In this section,---
     
-    _donor_, _donor offspring_, and _guardian_ have the same meaning as in the [Human Assisted Reproductive Technology Act 2004][285]
+    _donor_, _donor offspring_, and _guardian_ have the same meaning as in the [Human Assisted Reproductive Technology Act 2004][286]
     
-    _HART information_ means information kept by the Registrar-General under [Part 3][287] of the Human Assisted Reproductive Technology Act 2004
+    _HART information_ means information kept by the Registrar-General under [Part 3][288] of the Human Assisted Reproductive Technology Act 2004
     
     _registered information_ means birth information, death information, or name change information.
     
-    Section 85B: inserted, on 24 January 2009, by [section 35][286] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 85B: inserted, on 24 January 2009, by [section 35][287] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ## Part 11A  
 Miscellaneous provisions
     
-*   Part 11A heading: added, on 24 January 2009, by [section 36][288] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+*   Part 11A heading: added, on 24 January 2009, by [section 36][289] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 86 Entries relating to illegitimate children
     
@@ -3192,23 +3204,23 @@ Miscellaneous provisions
 
 ##### 87 Statutory declarations
     
-*   The Registrar-General and every Registrar shall, in respect of any statutory declaration made for the purposes of this Act, the [Marriage Act 1955][163], or the [Civil Union Act 2004][164], be deemed to be persons duly authorised to take and receive a statutory declaration under [section 9][289] of the Oaths and Declarations Act 1957\.
+*   The Registrar-General and every Registrar shall, in respect of any statutory declaration made for the purposes of this Act, the [Marriage Act 1955][163], or the [Civil Union Act 2004][164], be deemed to be persons duly authorised to take and receive a statutory declaration under [section 9][290] of the Oaths and Declarations Act 1957\.
     
     Compare: 1951 No 22 s 44
     
-    Section 87: amended, on 26 April 2005, by [section 46][257] of the Civil Union Act 2004 (2004 No 102).
+    Section 87: amended, on 26 April 2005, by [section 46][258] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 87A Provision of information to Statistics New Zealand
     
-*   This Act does not limit the provision of information under the [Statistics Act 1975][290].
+*   This Act does not limit the provision of information under the [Statistics Act 1975][291].
     
-    Section 87A: inserted, on 24 January 2009, by [section 37][291] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 87A: inserted, on 24 January 2009, by [section 37][292] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 87AB Access to information for purposes of Identity Information Confirmation Act 2012
     
-*   Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the [Identity Information Confirmation Act 2012][292].
+*   Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the [Identity Information Confirmation Act 2012][293].
     
-    Section 87AB: inserted, on 19 December 2012, by [section 22][276] of the Identity Information Confirmation Act 2012 (2012 No 124).
+    Section 87AB: inserted, on 19 December 2012, by [section 22][277] of the Identity Information Confirmation Act 2012 (2012 No 124).
 
 ##### 87B Registrar-General may issue standard forms
     
@@ -3216,7 +3228,7 @@ Miscellaneous provisions
     
     (2) Information required by the forms must be prescribed by regulations and may include information prescribed to be contained in certificates under this Act.
     
-    Section 87B: inserted, on 24 January 2009, by [section 37][291] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 87B: inserted, on 24 January 2009, by [section 37][292] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 88 Regulations
     
@@ -3236,11 +3248,11 @@ Miscellaneous provisions
     
     Compare: 1951 No 22 s 45
     
-    Section 88(1)(ab): inserted, on 24 January 2009, by [section 38][293] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 88(1)(ab): inserted, on 24 January 2009, by [section 38][294] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 88(1)(ac): inserted, on 24 January 2009, by [section 38][293] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 88(1)(ac): inserted, on 24 January 2009, by [section 38][294] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 88(1)(ad): inserted, on 24 January 2009, by [section 38][293] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 88(1)(ad): inserted, on 24 January 2009, by [section 38][294] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 89 Offences and penalties
     
@@ -3290,11 +3302,11 @@ Miscellaneous provisions
     
     *   (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
     
-    (2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+    (2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) shall be liable on conviction to imprisonment for a term not exceeding 5 years.
     
-    (2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on summary conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
+    (2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
     
-    (3) A person who commits any other offence against this Act is liable, on summary conviction, to a fine not exceeding---
+    (3) A person who commits any other offence against this Act is liable, on conviction, to a fine not exceeding---
         
     *   (a) $50,000 for a contravention of or failure to comply with [section 78F(7)][120] or [78I][123]:
     
@@ -3308,17 +3320,23 @@ Miscellaneous provisions
         
         
     
-    (4) Nothing in this section derogates from [section 150][294] of the Crimes Act 1961\.
+    (4) Nothing in this section derogates from [section 150][295] of the Crimes Act 1961\.
     
-    Section 89(1)(g): added, on 24 January 2009, by [section 39(1)][295] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89(1)(g): added, on 24 January 2009, by [section 39(1)][296] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 89(1)(h): added, on 24 January 2009, by [section 39(1)][295] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89(1)(h): added, on 24 January 2009, by [section 39(1)][296] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 89(2): amended, on 24 January 2009, by [section 39(2)][295] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89(2): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 89(2A): inserted, on 24 January 2009, by [section 39(3)][295] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89(2): amended, on 24 January 2009, by [section 39(2)][296] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 89(3): substituted, on 24 January 2009, by [section 39(3)][295] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89(2A): inserted, on 24 January 2009, by [section 39(3)][296] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 89(2A): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 89(3): substituted, on 24 January 2009, by [section 39(3)][296] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 89(3): amended, on 1 July 2013, by [section 413][297] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 89A Electronic transactions
     
@@ -3326,9 +3344,9 @@ Miscellaneous provisions
     
     (2) If allowing a transaction to be conducted electronically, the Registrar-General may dispense with a requirement that a signature be provided.
     
-    (3) In this section, _transaction_ has the same meaning as in [section 5][296] of the Electronic Transactions Act 2002\.
+    (3) In this section, _transaction_ has the same meaning as in [section 5][298] of the Electronic Transactions Act 2002\.
     
-    Section 89A: inserted, on 24 January 2009, by [section 40][297] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 89A: inserted, on 24 January 2009, by [section 40][299] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 90 No prosecution without authority of Registrar-General
     
@@ -3356,19 +3374,19 @@ Miscellaneous provisions
     
     Compare: 1951 No 22 ss 36(5), 50
     
-    Section 91(3): substituted, on 24 January 2009, by [section 41][298] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91(3): substituted, on 24 January 2009, by [section 41][300] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 91A No liability for costs incurred in supplying information
     
 *   To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by this Act.
     
-    Section 91A: inserted, on 24 January 2009, by [section 42][299] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91A: inserted, on 24 January 2009, by [section 42][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 91B Protection for supply of information
     
 *   No civil or criminal proceedings may be brought against the Crown, a Registrar, or any other person for the disclosure or supply of information in the course of the exercise or performance or intended exercise or performance of any powers, functions, or duties under this Act, unless it is shown that the information was disclosed or supplied in bad faith.
     
-    Section 91B: inserted, on 24 January 2009, by [section 42][299] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 91B: inserted, on 24 January 2009, by [section 42][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 #### Amendments to Marriage Act 1955
 
@@ -3378,11 +3396,11 @@ Miscellaneous provisions
 
 ##### 93 Issue of marriage licence and information return
     
-*   _Amendment(s) incorporated in the [Act(s)][231]_.
+*   _Amendment(s) incorporated in the [Act(s)][232]_.
 
 ##### 94 Validity of service marriages
     
-*   _Amendment(s) incorporated in the [Act(s)][300]_.
+*   _Amendment(s) incorporated in the [Act(s)][302]_.
 
 #### Consequential amendments and repeals
 
@@ -3401,7 +3419,7 @@ Disclosure of information to specified agencies
 
 [s 78A][114]
 
-*   Schedule 1A: substituted, on 24 January 2009, by [section 45][301] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+*   Schedule 1A: substituted, on 24 January 2009, by [section 45][303] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 **Specified agency** **Type of information** **Purpose**
 
@@ -3481,9 +3499,9 @@ Marriage information and civil union information To verify the name change of th
 
 Death information To identify deceased holders of driver licences
 
-*   Schedule 1A : amended, on 13 June 2013, by [section 43][302] of the Education Amendment Act 2013 (2013 No 34).
+*   Schedule 1A : amended, on 13 June 2013, by [section 43][304] of the Education Amendment Act 2013 (2013 No 34).
 *   Schedule 1A: amended, at 2 am on 29 November 2010, by [section 406(1)][192] of the Immigration Act 2009 (2009 No 51).
-*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][303] of the Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1A: amended, on 24 January 2009, pursuant to [section 50(1)][305] of the Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -3494,23 +3512,23 @@ Consequential amendments
 
 ##### Adoption Act 1955 (1955 No 93) (RS Vol 1, p 35)
 
-_Amendment(s) incorporated in the [Act(s)][304]_.
+_Amendment(s) incorporated in the [Act(s)][306]_.
 
 ##### Adult Adoption Information Act 1985 (1985 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][305]_.
+_Amendment(s) incorporated in the [Act(s)][307]_.
 
 ##### Burial and Cremation Act 1964 (1964 No 75) (RS Vol 16, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][308]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][307]_.
+_Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Status of Children Act 1969 (1969 No 18) (RS Vol 4, p 893)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][310]_.
 
 ---
 
@@ -3521,7 +3539,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][309]_.
+_Amendment(s) incorporated in the [Act(s)][311]_.
 
 ##### Births and Deaths Registration Act 1951 (1951 No 22) (RS Vol 1, p 333)
 
@@ -3553,15 +3571,15 @@ _Amendment(s) incorporated in the [Act(s)][309]_.
 
 ##### Citizenship Act 1977 (1977 No 61) (RS Vol 31, p 45)
 
-_Amendment(s) incorporated in the [Act(s)][310]_.
+_Amendment(s) incorporated in the [Act(s)][312]_.
 
 ##### Family Proceedings Act 1980 (1980 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][311]_.
+_Amendment(s) incorporated in the [Act(s)][313]_.
 
 ##### Marriage Act 1955 (1955 No 92) (RS Vol 10, p 39)
 
-_Amendment(s) incorporated in the [Act(s)][312]_.
+_Amendment(s) incorporated in the [Act(s)][314]_.
 
 ##### Marriage Amendment Act 1959 (1959 No 11)
 
@@ -3571,11 +3589,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Marriage Amendment Act 1976 (1976 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][313]_.
+_Amendment(s) incorporated in the [Act(s)][315]_.
 
 ##### Marriage Amendment Act 1982 (1982 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][314]_.
+_Amendment(s) incorporated in the [Act(s)][316]_.
 
 ##### Marriage Amendment Act 1991 (1991 No 129)
 
@@ -3583,113 +3601,51 @@ _Amendment(s) incorporated in the [Act(s)][314]_.
 
 ##### Status of Children Act 1969 (1969 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][315]_.
+_Amendment(s) incorporated in the [Act(s)][317]_.
+
+#### 
 
 ---
 
-# Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008Public Act2008 No 48
-
-Date of assent24 July 2008
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][274] ![](/images/external_link.gif).
-
-##### 2 Commencement
-    
-*   This Act comes into force 6 months after the date on which it receives the Royal assent.
-
-## Part 1  
-Amendments to principal Act
-
-##### 43 Transitional provision relating to applications under principal Act
-    
-*   Applications under the Births, Deaths, and Marriages Registration Act 1995 made before the commencement of this Act are to be continued and completed in accordance with the Births, Deaths, and Marriages Registration Act 1995 as if this Act had not been enacted.
-
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Births, Deaths, Marriages, and Relationships Registration Act 1995\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][316] ![](/images/external_link.gif).
+*   This is a reprint of the Births, Deaths, Marriages, and Relationships Registration Act 1995 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][317] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][318] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][319] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][318] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][320] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][321] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][319] and [17E][320] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Education Amendment Act 2013 (2013 No 34): [section 43][304]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][220]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][322] (2013 No 3)
     
+    Identity Information Confirmation Act 2012 (2012 No 124): [section 22][277]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][297]
     
-*   Education Amendment Act 2013 (2013 No 34): [section 43][302]
-    
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2013][321] (2013 No 3)
-    
-    Identity Information Confirmation Act 2012 (2012 No 124): [section 22][276]
-    
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][322] (2010 No 49)
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2010][323] (2010 No 49)
     
     Immigration Act 2009 (2009 No 51): [section 406(1)][192]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][323]
+    Policing Act 2008 (2008 No 72): [section 130(1)][324]
     
-    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][274] ![](/images/external_link.gif) (2008 No 48)
+    [Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008][275] ![](/images/external_link.gif) (2008 No 48)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][303]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][305]
     
-    Human Tissue Act 2008 (2008 No 28): [section 92][225]
+    Human Tissue Act 2008 (2008 No 28): [section 92][226]
     
-    Coroners Act 2006 (2006 No 38): [section 146][227]
+    Coroners Act 2006 (2006 No 38): [section 146][228]
     
     Citizenship Amendment Act 2005 (2005 No 43): [section 16][195]
     
@@ -3697,30 +3653,30 @@ Amendments to principal Act
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][205]
     
-    Civil Union Act 2004 (2004 No 102): [sections 38][175], [39][247], [46][257]
+    Civil Union Act 2004 (2004 No 102): [sections 38][175], [39][248], [46][258]
     
     Care of Children Act 2004 (2004 No 90): [section 151][211]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][221]
+    Visiting Forces Act 2004 (2004 No 59): [section 26][222]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][179]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 46][236]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 46][237]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][172]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 2001][324] (2001 No 56)
+    [Births, Deaths, and Marriages Registration Amendment Act 2001][325] (2001 No 56)
     
     Adoption (Intercountry) Act 1997 (1997 No 109): [section 30][216]
     
-    [Births, Deaths, and Marriages Registration Amendment Act 1997][325] (1997 No 35)
+    [Births, Deaths, and Marriages Registration Amendment Act 1997][326] (1997 No 35)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][278]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][279]
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048811
-[1]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1995/0016/latest/whole.html#DLM359371
 [3]: http://www.legislation.govt.nz/act/public/1995/0016/latest/whole.html#DLM359376
 [4]: http://www.legislation.govt.nz/act/public/1995/0016/latest/whole.html#DLM359377
@@ -3939,109 +3895,110 @@ Amendments to principal Act
 [217]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048855
 [218]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250720
 [219]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250721
-[220]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM302835
-[221]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM302851
-[222]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040111
-[223]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048868
-[224]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1152935
-[225]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1154311
-[226]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM392629
-[227]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM378303
-[228]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102322
-[229]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048869
-[230]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040112
-[231]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292310
-[232]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292337
-[233]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292082
-[234]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292333
-[235]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292361
-[236]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM122523
-[237]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292379
-[238]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292367
-[239]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292381
-[240]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292375
-[241]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM39722
-[242]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292606
-[243]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292610
-[244]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292608
-[245]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040113
-[246]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048870
-[247]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323466
-[248]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323422
-[249]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323429
-[250]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048872
-[251]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80568
-[252]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80512
-[253]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048874
-[254]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391611
-[255]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048875
-[256]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048882
-[257]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323483
-[258]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048883
-[259]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048885
-[260]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250722
-[261]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM296645
-[262]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040114
-[263]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409954
-[264]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048892
-[265]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM297916
-[266]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110961
-[267]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048893
-[268]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020512
-[269]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5060408
-[270]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020513
-[271]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM359106
-[272]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM297958
-[273]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048894
-[274]: file://C:/epicuser/doctypes/NZAct/fragxyxz_DLM1048800.xml
-[275]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136850
-[276]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136868
-[277]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM129109
-[278]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM367235
-[279]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048907
-[280]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048908
-[281]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048909
-[282]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391031
-[283]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391051
-[284]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048916
-[285]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80050
-[286]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048917
-[287]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80801
-[288]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048928
-[289]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM314584
-[290]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM430704
-[291]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048929
-[292]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136800
-[293]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250744
-[294]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM329287
-[295]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048932
-[296]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM154193
-[297]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048933
-[298]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048936
-[299]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250746
-[300]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292377
-[301]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048940
-[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5138522
-[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
-[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
-[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
-[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
-[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
-[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
-[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
-[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
-[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
-[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
-[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
-[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
-[315]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
-[316]: http://www.pco.parliament.govt.nz/reprints/
-[317]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195439
-[318]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195468
-[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM195470
-[321]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
-[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
-[323]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
-[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
-[325]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
+[220]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5045103
+[221]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM302835
+[222]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM302851
+[223]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040111
+[224]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048868
+[225]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1152935
+[226]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1154311
+[227]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM392629
+[228]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM378303
+[229]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102322
+[230]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048869
+[231]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040112
+[232]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292310
+[233]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292337
+[234]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292082
+[235]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292333
+[236]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292361
+[237]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM122523
+[238]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292379
+[239]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292367
+[240]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292381
+[241]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292375
+[242]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM39722
+[243]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292606
+[244]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292610
+[245]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292608
+[246]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040113
+[247]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048870
+[248]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323466
+[249]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323422
+[250]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323429
+[251]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048872
+[252]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80568
+[253]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80512
+[254]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048874
+[255]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391611
+[256]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048875
+[257]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048882
+[258]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM323483
+[259]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048883
+[260]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048885
+[261]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250722
+[262]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM296645
+[263]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040114
+[264]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409954
+[265]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048892
+[266]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM297916
+[267]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110961
+[268]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048893
+[269]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020512
+[270]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5060408
+[271]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020513
+[272]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM359106
+[273]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM297958
+[274]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048894
+[275]: file://C:/epicuser/doctypes/NZAct/fragxyxz_DLM1048800.xml
+[276]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136850
+[277]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136868
+[278]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM129109
+[279]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM367235
+[280]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048907
+[281]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048908
+[282]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048909
+[283]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391031
+[284]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391051
+[285]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048916
+[286]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80050
+[287]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048917
+[288]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80801
+[289]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048928
+[290]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM314584
+[291]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM430704
+[292]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048929
+[293]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3136800
+[294]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250744
+[295]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM329287
+[296]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048932
+[297]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3360714
+[298]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM154193
+[299]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048933
+[300]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048936
+[301]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1250746
+[302]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292377
+[303]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1048940
+[304]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5138522
+[305]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1313622
+[306]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM293189
+[307]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM80518
+[308]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM355842
+[309]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM298477
+[310]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM391005
+[311]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM396810
+[312]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM444029
+[313]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM42220
+[314]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM292059
+[315]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM437925
+[316]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM59717
+[317]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM390653
+[318]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998516
+[319]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998515
+[320]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM2998532
+[321]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[322]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM5020520
+[323]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM3040100
+[324]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM1102349
+[325]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM110955
+[326]: http://www.legislation.govt.nz/act/public/1995/0016/latest/link.aspx?id=DLM409945
