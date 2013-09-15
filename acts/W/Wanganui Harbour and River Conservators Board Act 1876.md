@@ -1,177 +1,187 @@
+Reprint  
+as at 1 July 2013
+
 # Wanganui Harbour and River Conservators Board Act 1876Public Act1876 No 86
 
 Date of assent30 October 1876
 
+---
+
+###### Note
+
+Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
+
+A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+
+---
+
 ## Contents
 
-[Title][0]
+[Title][1]
 
-[1][1] [Short Title][1] \[Repealed\]
+[1][2][][2][Short Title][2] \[Repealed\]
 
-[2][2] [Interpretation][2] \[Repealed\]
+[2][3][][3][Interpretation][3] \[Repealed\]
 
-[Constitution of board.][3]
+[Constitution of board][4]
 
-[3][4] [Board constituted][4] \[Repealed\]
+[3][5][][5][Board constituted][5] \[Repealed\]
 
-[4][5] [Of what persons Board to consist][5] \[Repealed\]
+[4][6][][6][Of what persons Board to consist][6] \[Repealed\]
 
-[5][6] [Board incorporated][6] \[Repealed\]
+[5][7][][7][Board incorporated][7] \[Repealed\]
 
-[Elections][7]
+[Elections][8]
 
-[6][8] [Election of first Board][8] \[Repealed\]
+[6][9][][9][Election of first Board][9] \[Repealed\]
 
-[7][9] [Elections how conducted][9] \[Repealed\]
+[7][10][][10][Elections how conducted][10] \[Repealed\]
 
-[8][10] [Election of members of subsequent Boards][10] \[Repealed\]
+[8][11][][11][Election of members of subsequent Boards][11] \[Repealed\]
 
-[9][11] [Vacancies][11] \[Repealed\]
+[9][12][][12][Vacancies][12] \[Repealed\]
 
-[10][12] [How filled up][12] \[Repealed\]
+[10][13][][13][How filled up][13] \[Repealed\]
 
-[11][13] [In default of members being elected, Governor may appoint persons to fill vacancies][13] \[Repealed\]
+[11][14][][14][In default of members being elected, Governor may appoint persons to fill vacancies][14] \[Repealed\]
 
-[Chairman][14]
+[Chairman][15]
 
-[12][15] [Election of Chairman][15] \[Repealed\]
+[12][16][][16][Election of Chairman][16] \[Repealed\]
 
-[Meetings][16]
+[Meetings][17]
 
-[13][17] [Annual meetings to be held][17] \[Repealed\]
+[13][18][][18][Annual meetings to be held][18] \[Repealed\]
 
-[Officers][18]
+[Officers][19]
 
-[14][19] [Board may appoint secretary and other officers][19] \[Repealed\]
+[14][20][][20][Board may appoint secretary and other officers][20] \[Repealed\]
 
-[By-laws][20]
+[By-laws][21]
 
-[15][21] [Board may make by-laws][21] \[Repealed\]
+[15][22][][22][Board may make by-laws][22] \[Repealed\]
 
-[16][22] [Disallowance of by-laws][22] \[Repealed\]
+[16][23][][23][Disallowance of by-laws][23] \[Repealed\]
 
-[Provision as to liabilities of Corporation][23]
+[Provision as to liabilities of Corporation][24]
 
-[17][24] [Sinking fund in respect of debentures issued under The Wanganui Bridge and Wharf Act 1872, to remain vested in Trustees appointed under that Act][24] \[Repealed\]
+[17][25][][25][Sinking fund in respect of debentures issued under the Wanganui Bridge and Wharf Act 1872, to remain vested in Trustees appointed under that Act][25] \[Repealed\]
 
-[18][25] [Board to indemnify Corporation from all liabilities in respect of bridge and wharf][25] \[Repealed\]
+[18][26][][26][Board to indemnify Corporation from all liabilities in respect of bridge and wharf][26] \[Repealed\]
 
-[19][26] [Disputes as to such liabilities to be referred to Arbitrator appointed by Governor][26] \[Repealed\]
+[19][27][][27][Disputes as to such liabilities to be referred to Arbitrator appointed by Governor][27] \[Repealed\]
 
-[Harbour Fund][27]
+[Harbour Fund][28]
 
-[20][28] [Moneys constituting Harbour Fund][28] \[Repealed\]
+[20][29][][29][Moneys constituting Harbour Fund][29] \[Repealed\]
 
-[21][29] [Disposal of moneys comprising Harbour Fund][29] \[Repealed\]
+[21][30][][30][Disposal of moneys comprising Harbour Fund][30] \[Repealed\]
 
-[Rates and dues.][30]
+[Rates and dues][31]
 
-[(1) Tonnage dues.][31]
+[(1) Tonnage dues.][32]
 
-[22][32] [Board may make regulations respecting tonnage dues, etc][32] \[Repealed\]
+[22][33][][33][Board may make regulations respecting tonnage dues, etc][33] \[Repealed\]
 
-[(2) Exemptions from dues and tolls.][33]
+[(2) Exemptions from dues and tolls.][34]
 
-[23][34] [Vessels and goods the property of Crown or Government exempt from tolls and dues][34] \[Repealed\]
+[23][35][][35][Vessels and goods the property of Crown or Government exempt from tolls and dues][35] \[Repealed\]
 
-[24][35] [Steamers carrying mails exempt from dues in certain cases][35] \[Repealed\]
+[24][36][][36][Steamers carrying mails exempt from dues in certain cases][36] \[Repealed\]
 
-[25][36] [Goods of Corporation exempt from tolls][36] \[Repealed\]
+[25][37][][37][Goods of Corporation exempt from tolls][37] \[Repealed\]
 
-[(3) River and harbour improvement rate.][37]
+[(3) River and harbour improvement rate.][38]
 
-[26][38] [Special rate may be levied on consent of Mayor and two-thirds of Councillors for general river improvements][38] \[Repealed\]
+[26][39][][39][Special rate may be levied on consent of Mayor and two-thirds of Councillors for general river improvements][39] \[Repealed\]
 
-[27][39] [How rate to be recovered][39] \[Repealed\]
+[27][40][][40][How rate to be recovered][40] \[Repealed\]
 
-[28][40] [Rate to be general rate within meaning of the Financial Arrangements Act 1876][40] \[Repealed\]
+[28][41][][41][Rate to be general rate within meaning of the Financial Arrangements Act 1876][41] \[Repealed\]
 
-[Powers of Board][41]
+[Powers of Board][42]
 
-[(1) Contracts.][42]
+[(1) Contracts.][43]
 
-[29][43] [Board may enter into contracts for certain works][43] \[Repealed\]
+[29][44][][44][Board may enter into contracts for certain works][44] \[Repealed\]
 
-[30][44] [No contract exceeding twenty pounds to be let except by public tender][44] \[Repealed\]
+[30][45][][45][No contract exceeding twenty pounds to be let except by public tender][45] \[Repealed\]
 
-[31][45] [Board may compound for breaches of contract][45] \[Repealed\]
+[31][46][][46][Board may compound for breaches of contract][46] \[Repealed\]
 
-[(2) Provisions as to bridge and wharf.][46]
+[(2) Provisions as to bridge and wharf.][47]
 
-[32][47] [Control and management of Wanganui Bridge and Wharf vested in Board][47] \[Repealed\]
+[32][48][][48][Control and management of Wanganui Bridge and Wharf vested in Board][48] \[Repealed\]
 
-[33][48] [Tolls by-laws regulations etc at present in force in respect of bridge and wharf to remain in force][48] \[Repealed\]
+[33][49][][49][Tolls by-laws regulations etc at present in force in respect of bridge and wharf to remain in force][49] \[Repealed\]
 
-[34][49] [Tolls and dues on bridge and wharf may be levied by Board][49] \[Repealed\]
+[34][50][][50][Tolls and dues on bridge and wharf may be levied by Board][50] \[Repealed\]
 
-[(3) Letting lands.][50]
+[(3) Letting lands.][51]
 
-[35][51] [Board may lease lands][51] \[Repealed\]
+[35][52][][52][Board may lease lands][52] \[Repealed\]
 
-[(4) Harbour and river works, and river protection works.][52]
+[(4) Harbour and river works, and river protection works.][53]
 
-[36][53] [Reclamation works][53] \[Repealed\]
+[36][54][][54][Reclamation works][54] \[Repealed\]
 
-[37][54] [Breakwaters, docks, etc][54] \[Repealed\]
+[37][55][][55][Breakwaters, docks, etc][55] \[Repealed\]
 
-[38][55] [River protection works][55] \[Repealed\]
+[38][56][][56][River protection works][56] \[Repealed\]
 
-[(5) Miscellaneous.][56]
+[(5) Miscellaneous.][57]
 
-[39][57] [Powers of Superintendent under sections 30, 31, and 32 of Marine Act 1867, vested in Board][57] \[Repealed\]
+[39][58][][58][Powers of Superintendent under sections 30, 31, and 32 of Marine Act 1867, vested in Board][58] \[Repealed\]
 
-[40][58] [Certain provisions of Marine Act 1867, and Harbour Works Act 1874, to apply][58] \[Repealed\]
+[40][59][][59][Certain provisions of Marine Act 1867, and Harbour Works Act 1874, to apply][59] \[Repealed\]
 
-[41][59] [Certain of the lands reclaimed to form part of borough][59] \[Repealed\]
+[41][60][][60][Certain of the lands reclaimed to form part of borough][60] \[Repealed\]
 
-[42][60] [Corporation to have power to lay out streets and drains on and through land reclaimed][60] \[Repealed\]
+[42][61][][61][Corporation to have power to lay out streets and drains on and through land reclaimed][61] \[Repealed\]
 
-[43][61] [Board authorized to remove sand or ballast from such places as Corporation may indicate][61] \[Repealed\]
+[43][62][][62][Board authorized to remove sand or ballast from such places as Corporation may indicate][62] \[Repealed\]
 
-[Accounts and audit][62]
+[Accounts and audit][63]
 
-[44][63] [Board to keep books of account, etc][63] \[Repealed\]
+[44][64][][64][Board to keep books of account, etc][64] \[Repealed\]
 
-[45][64] [Accounts to be balanced, and statement prepared][64] \[Repealed\]
+[45][65][][65][Accounts to be balanced, and statement prepared][65] \[Repealed\]
 
-[46][65] [Accounts and statement to be laid before Auditors][65] \[Repealed\]
+[46][66][][66][Accounts and statement to be laid before Auditors][66] \[Repealed\]
 
-[47][66] [Accounts and statement to be printed, and left open for inspection][66] \[Repealed\]
+[47][67][][67][Accounts and statement to be printed, and left open for inspection][67] \[Repealed\]
 
-[48][67] [Notice to be given of meeting to consider accounts and statement][67] \[Repealed\]
+[48][68][][68][Notice to be given of meeting to consider accounts and statement][68] \[Repealed\]
 
-[49][68] [Accounts and statement to be laid before meeting for final examination][68] \[Repealed\]
+[49][69][][69][Accounts and statement to be laid before meeting for final examination][69] \[Repealed\]
 
-[50][69] [Governor to appoint Auditors][69] \[Repealed\]
+[50][70][][70][Governor to appoint Auditors][70] \[Repealed\]
 
-[51][70] [Auditors' fees][70] \[Repealed\]
+[51][71][][71][Auditors' fees][71] \[Repealed\]
 
-[Endowments][71]
+[Endowments][72]
 
-[52][72] [Repeal of Wanganui River Foreshore Grant Act 1874\.][72] \[Repealed\]
+[52][73][][73][Repeal of Wanganui River Foreshore Grant Act 1874][73] \[Repealed\]
 
-[53][73] [Interpretation of **plan.**][73]
+[53][74][][74][Interpretation of plan][74]
 
-[54][74] [Governor empowered to take portion of lands vested in Board for purposes of public utility][74] \[Repealed\]
+[54][75][][75][Governor empowered to take portion of lands vested in Board for purposes of public utility][75] \[Repealed\]
 
-[Miscellaneous][75]
+[Miscellaneous][76]
 
-[55][76] [Building or other societies may invest their funds in debentures issued under this Act][76] \[Repealed\]
+[55][77][][77][Building or other societies may invest their funds in debentures issued under this Act][77] \[Repealed\]
 
-[56][77] [Penalties, etc, how recovered][77] \[Repealed\]
+[56][78][][78][Penalties, etc, how recovered][78] \[Repealed\]
 
-[57][78] [Board to be deemed a Harbour Board under Harbour Boards Act 1870][78] \[Repealed\]
+[57][79][][79][Board to be deemed a Harbour Board under Harbour Boards Act 1870][79] \[Repealed\]
 
-[58][79] [Production of _Gazette_ to be _prima facie_ evidence of validity of by-laws or regulations][79] \[Repealed\]
+[58][80][][80][Production of _Gazette_ to be _prima facie_ evidence of validity of by-laws or regulations][80] \[Repealed\]
 
-[Schedule][80]  
-[][80]
+[Schedule][81]  
 
 ---
 
 An Act to constitute a Harbour and River Conservators Board for the Port and River of Wanganui.
-
-BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, and by the authority of the same, as follows:---
 
 ##### 1 Short Title
     
@@ -185,7 +195,7 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
     
     Sections 1 to 16 were repealed, as from 1 January 1879, by section 3 Harbours Act 1878 (1878 No 35).
 
-## Constitution of board.
+## Constitution of board
 
 ##### 3 Board constituted
     
@@ -283,7 +293,7 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
 
 ## Provision as to liabilities of Corporation
 
-##### 17 Sinking fund in respect of debentures issued under The Wanganui Bridge and Wharf Act 1872, to remain vested in Trustees appointed under that Act
+##### 17 Sinking fund in respect of debentures issued under the Wanganui Bridge and Wharf Act 1872, to remain vested in Trustees appointed under that Act
     
 *   \[Repealed\]
     
@@ -315,7 +325,7 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
     
     Sections 20 to 25 were repealed, as from 1 January 1879, by section 3 Harbours Act 1878 (1878 No 35).
 
-## Rates and dues.
+## Rates and dues
 
 #### (1) Tonnage dues.
 
@@ -351,21 +361,21 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
     
 *   \[Repealed\]
     
-    The expression ""five cents in the dollar"" was substituted, as from 10 July 1967, for the expression ""one shilling in the pound"" pursuant to section [7(1)][81] Decimal Currency Act 1964 (1964 No 27).
+    The expression ""five cents in the dollar"" was substituted, as from 10 July 1967, for the expression ""one shilling in the pound"" pursuant to [section 7(1)][82] Decimal Currency Act 1964 (1964 No 27).
     
-    Sections 26 to 28 were repealed, as from 1 July 2003, by section [266][82] Local Government Act 2002 (2002 No 84).
+    Sections 26 to 28 were repealed, as from 1 July 2003, by [section 266][83] Local Government Act 2002 (2002 No 84).
 
 ##### 27 How rate to be recovered
     
 *   \[Repealed\]
     
-    Sections 26 to 28 were repealed, as from 1 July 2003, by section [266][82] Local Government Act 2002 (2002 No 84).
+    Sections 26 to 28 were repealed, as from 1 July 2003, by [section 266][83] Local Government Act 2002 (2002 No 84).
 
 ##### 28 Rate to be general rate within meaning of the Financial Arrangements Act 1876
     
 *   \[Repealed\]
     
-    Sections 26 to 28 were repealed, as from 1 July 2003, by section [266][82] Local Government Act 2002 (2002 No 84).
+    Sections 26 to 28 were repealed, as from 1 July 2003, by [section 266][83] Local Government Act 2002 (2002 No 84).
 
 ## Powers of Board
 
@@ -521,27 +531,29 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
 
 ## Endowments
 
-##### 52 Repeal of Wanganui River Foreshore Grant Act 1874\.
+##### 52 Repeal of Wanganui River Foreshore Grant Act 1874
     
 *   \[Repealed\]
     
     Sections 35 to 52 were repealed, as from 1 January 1879, by section 3 Harbours Act 1878 (1878 No 35).
 
-##### 53 Interpretation of **plan.**
+##### 53 Interpretation of plan
     
 *   In the construction of this section, the word _plan_ means the plan authenticated for the purposes of this Act by the signatures of the Speakers of the Legislative Council and House of Representatives respectively, and deposited in the office of the Minister for Public Works at Wellington.
     
-    The Governor, with the advice and consent of the Executive Council of New Zealand, may, in the name and on behalf of Her Majesty, grant to the Board the several lots and parcels of land marked respectively with the letters A, B, C, D, E, F, G, H, J, K, and L on the plan, and thereon coloured pink, and respectively containing the acreage specified in the [Schedule][80] hereto.
+    The Governor, with the advice and consent of the Executive Council of New Zealand, may, in the name and on behalf of Her Majesty, grant to the Board the several lots and parcels of land marked respectively with the letters A, B, C, D, E, F, G, H, J, K, and L on the plan, and thereon coloured pink, and respectively containing the acreage specified in the [Schedule][81] hereto.
     
-    There shall be excepted out of Lot E of the said lands hereby authorized to be granted, such part of the said Lot E, not exceeding one acre in extent, as the Governor shall think fit, and the same shall be deemed to be vested in Her Majesty as a reserve for the use of the Maori inhabitants of the Town of Wanganui and the neighbourhood, as a market-place and place for landing and embarking goods and persons, and for such other purposes as the Governor may from time to time determine.
+    There shall be excepted out of Lot E of the said lands hereby authorized to be granted, such part of the said Lot E, not exceeding 1 acre in extent, as the Governor shall think fit, and the same shall be deemed to be vested in Her Majesty as a reserve for the use of the Maori inhabitants of the Town of Wanganui and the neighbourhood, as a market-place and place for landing and embarking goods and persons, and for such other purposes as the Governor may from time to time determine.
     
-    The Governor in Council may from time to time make alter and repeal by-laws regulating the use of the said piece of land and the conduct of persons using the same, and may appoint by such by-laws penalties not exceeding in any case ten dollars for the breach of such by-laws or any of them, and all such penalties shall be recoverable before any one or more Justices in a summary way.
+    The Governor in Council may from time to time make alter and repeal by-laws regulating the use of the said piece of land and the conduct of persons using the same, and may appoint by such by-laws penalties not exceeding in any case $10 for the breach of such by-laws or any of them, and all such penalties shall be recoverable in accordance with [Part 3][84] of the Summary Proceedings Act 1957\.
     
     There shall be excepted out of Lot H of the said lands hereby authorized to be granted, such portions of the said lot as are marked on the plan as reserves for a flagstaff battery and for a signal station respectively, each of which said reserves shall contain an area of ten acres.
     
     There shall be excepted out of Lot J of the said lands, such portion of the said lot as is marked on the plan as a reserve for a land-guard battery, containing an area of twenty acres.
     
-    The expression ""ten dollars"" was substituted, as from 10 July 1967, for the expression ""five pounds"" pursuant to section [7(1)][81] Decimal Currency Act 1964 (1964 No 27).
+    Section 53: amended, on 1 July 2013, by [section 413][85] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    The expression ""ten dollars"" was substituted, as from 10 July 1967, for the expression ""five pounds"" pursuant to [section 7(1)][82] Decimal Currency Act 1964 (1964 No 27).
 
 ##### 54 Governor empowered to take portion of lands vested in Board for purposes of public utility
     
@@ -579,100 +591,130 @@ BE IT ENACTED by the General Assembly of New Zealand in Parliament assembled, an
 
 ## Schedule
 
-*   Lot A---Twenty-one acres and twenty-eight perches.
-*   Lot B---Eleven acres and twelve perches.
-*   Lot C---Nine acres two roods and thirteen perches.
-*   Lot D---One acre three roods and four perches.
-*   Lot E---Two acres one rood and four perches.
-*   Lot F---Seven acres one rood and twenty-seven perches.
-*   Lot G---One acre three roods and thirty-two perches.
-*   Lot H---Two hundred acres.
-*   Lot J---One thousand acres.
-*   Lot K---Sixty-seven acres.
-*   Lot L---Eight acres.
+*   Lot A---21 acres and 28 perches.
+*   Lot B---11 acres and 12 perches.
+*   Lot C---9 acres 2 roods and 13 perches.
+*   Lot D---1 acre 3 roods and 4 perches.
+*   Lot E---2 acres 1 rood and 4 perches.
+*   Lot F---7 acres 1 rood and 27 perches.
+*   Lot G---1 acre 3 roods and 32 perches.
+*   Lot H---200 acres.
+*   Lot J---1 000 acres.
+*   Lot K---67 acres.
+*   Lot L---8 acres.
+
+---
+
+#### Contents
+    
+*   1General
+*   2About this eprint
+*   3List of amendments incorporated in this eprint (most recent first) 
+
+---
+
+##### Notes
+
+###### 1 General
+    
+*   This is an eprint of the Wanganui Harbour and River Conservators Board Act 1876\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
+    
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+
+###### 2 About this eprint
+    
+*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][86] ![](/images/external_link.gif).
+
+###### 3 List of amendments incorporated in this eprint (most recent first)
+    
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][85]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131543
-[1]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131545
-[2]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131547
-[3]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131549
-[4]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131550
-[5]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131552
-[6]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131554
-[7]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131556
-[8]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131557
-[9]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131559
-[10]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131561
-[11]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131563
-[12]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131565
-[13]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131567
-[14]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131569
-[15]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131570
-[16]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131572
-[17]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131573
-[18]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131575
-[19]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131576
-[20]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131578
-[21]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131579
-[22]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131581
-[23]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131583
-[24]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131584
-[25]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131586
-[26]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131588
-[27]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131590
-[28]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131591
-[29]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131593
-[30]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131595
-[31]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131596
-[32]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131597
-[33]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131599
-[34]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131900
-[35]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131902
-[36]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131904
-[37]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131906
-[38]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131907
-[39]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131910
-[40]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131912
-[41]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131914
-[42]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131915
-[43]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131916
-[44]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131918
-[45]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131920
-[46]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131922
-[47]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131923
-[48]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131925
-[49]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131927
-[50]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131929
-[51]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131930
-[52]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131932
-[53]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131933
-[54]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131935
-[55]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131937
-[56]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131939
-[57]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131940
-[58]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131942
-[59]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131944
-[60]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131946
-[61]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131948
-[62]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131950
-[63]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131951
-[64]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131953
-[65]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131955
-[66]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131957
-[67]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131959
-[68]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131961
-[69]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131963
-[70]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131965
-[71]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131967
-[72]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131968
-[73]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131970
-[74]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131973
-[75]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131975
-[76]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131976
-[77]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131978
-[78]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131980
-[79]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131982
-[80]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131984
-[81]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM351265
-[82]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM174092
+[0]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131543
+[2]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131545
+[3]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131547
+[4]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131549
+[5]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131550
+[6]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131552
+[7]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131554
+[8]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131556
+[9]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131557
+[10]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131559
+[11]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131561
+[12]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131563
+[13]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131565
+[14]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131567
+[15]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131569
+[16]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131570
+[17]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131572
+[18]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131573
+[19]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131575
+[20]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131576
+[21]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131578
+[22]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131579
+[23]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131581
+[24]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131583
+[25]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131584
+[26]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131586
+[27]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131588
+[28]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131590
+[29]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131591
+[30]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131593
+[31]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131595
+[32]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131596
+[33]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131597
+[34]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131599
+[35]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131900
+[36]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131902
+[37]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131904
+[38]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131906
+[39]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131907
+[40]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131910
+[41]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131912
+[42]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131914
+[43]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131915
+[44]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131916
+[45]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131918
+[46]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131920
+[47]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131922
+[48]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131923
+[49]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131925
+[50]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131927
+[51]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131929
+[52]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131930
+[53]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131932
+[54]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131933
+[55]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131935
+[56]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131937
+[57]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131939
+[58]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131940
+[59]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131942
+[60]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131944
+[61]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131946
+[62]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131948
+[63]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131950
+[64]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131951
+[65]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131953
+[66]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131955
+[67]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131957
+[68]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131959
+[69]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131961
+[70]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131963
+[71]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131965
+[72]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131967
+[73]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131968
+[74]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131970
+[75]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131973
+[76]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131975
+[77]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131976
+[78]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131978
+[79]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131980
+[80]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131982
+[81]: http://www.legislation.govt.nz/act/public/1876/0086/latest/whole.html#DLM131984
+[82]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM351265
+[83]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM174092
+[84]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM311863
+[85]: http://www.legislation.govt.nz/act/public/1876/0086/latest/link.aspx?id=DLM3360714
+[86]: http://www.pco.parliament.govt.nz/eprints/
