@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1750,29 +1750,31 @@ Corrections system
     
     *   (b) [section 13A][424] of the Misuse of Drugs Amendment Act 1978 (which confers powers in relation to internal concealment):
     
-    *   (c) [sections 56 to 58][425] of the Misuse of Drugs Amendment Act 2005 (which confer enforcement powers in relation to restricted substances):
+    *   (c) \[Repealed\]
     
-    *   (d) [section 23][426] of the Search and Surveillance Act 2012 (which confers powers in relation to internal searches):
+    *   (d) [section 23][425] of the Search and Surveillance Act 2012 (which confers powers in relation to internal searches):
     
-    *   (e) [sections 48][427] and [49][428] of the Search and Surveillance Act 2012 (which confer powers in relation to surveillance devices).
+    *   (e) [sections 48][426] and [49][427] of the Search and Surveillance Act 2012 (which confer powers in relation to surveillance devices).
     
     Compare: 1954 No 51 s 8B
     
-    Section 23(1): amended, on 1 October 2012, by [section 324(2)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(1): amended, on 1 October 2012, by [section 324(2)][428] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 23(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
     Section 23(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(3): substituted, on 3 April 2009, by [section 5][430] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 23(3): substituted, on 3 April 2009, by [section 5][429] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 23(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(3)(a): replaced, on 1 October 2012, by [section 324(3)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(3)(a): replaced, on 1 October 2012, by [section 324(3)][428] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(3)(d): replaced, on 1 October 2012, by [section 324(4)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(3)(c): repealed, on 18 July 2013, by [section 110(1)][430] of the Psychoactive Substances Act 2013 (2013 No 53).
     
-    Section 23(3)(e): inserted, on 1 October 2012, by [section 324(4)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(3)(d): replaced, on 1 October 2012, by [section 324(4)][428] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 23(3)(e): inserted, on 1 October 2012, by [section 324(4)][428] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Persons with powers and functions in relation to administration of community-based sentences, sentences of home detention, conditions of release, parole, or sentences of imprisonment served on home detention
     
@@ -3862,7 +3864,7 @@ Corrections system
     
     *   (b) for the purposes of paragraph (a), use any physical force (and no more) that is reasonably necessary in the circumstances.
     
-    (2) An officer may detain a person under this section only for the purpose of obtaining the attendance of a constable who is entitled to exercise any power conferred by [section 18][423] of the Misuse of Drugs Act 1975 or [section 13][476] or [section 13A][424] of the Misuse of Drugs Amendment Act 1978 or [section 23][426] of the Search and Surveillance Act 2012\.
+    (2) An officer may detain a person under this section only for the purpose of obtaining the attendance of a constable who is entitled to exercise any power conferred by [section 18][423] of the Misuse of Drugs Act 1975 or [section 13][476] or [section 13A][424] of the Misuse of Drugs Amendment Act 1978 or [section 23][425] of the Search and Surveillance Act 2012\.
     
     (3) An officer who detains a person under this section must---
         
@@ -3874,9 +3876,9 @@ Corrections system
     
     (5) A person who is detained under this section is not a _prisoner_ (within the meaning of section (3)(1)).
     
-    Section 103(2): amended, on 1 October 2012, by [section 324(5)(a)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 103(2): amended, on 1 October 2012, by [section 324(5)(a)][428] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 103(2): amended, on 1 October 2012, by [section 324(5)(b)][429] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 103(2): amended, on 1 October 2012, by [section 324(5)(b)][428] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 103(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][396] of the Policing Act 2008 (2008 No 72).
     
@@ -7782,7 +7784,7 @@ Transitional provision and consequential amendments
 
 ###### 1 General
     
-*   This is a reprint of the Corrections Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Corrections Act 2004\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][670] ![](/images/external_link.gif).
 
@@ -7829,9 +7831,11 @@ Transitional provision and consequential amendments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Corrections Amendment Act 2013][675] (2013 No 5)
+*   Psychoactive Substances Act 2013 (2013 No 53): [section 110(1)][430]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 324][429]
+    [Corrections Amendment Act 2013][675] (2013 No 5)
+    
+    Search and Surveillance Act 2012 (2012 No 24): [section 324][428]
     
     [Corrections Amendment Act 2011][676] (2011 No 84)
     
@@ -8302,12 +8306,12 @@ Transitional provision and consequential amendments
 [422]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM72679
 [423]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM436426
 [424]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM23471
-[425]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM356845
-[426]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136658
-[427]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136701
-[428]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136703
-[429]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2137118
-[430]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098322
+[425]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136658
+[426]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136701
+[427]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2136703
+[428]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM2137118
+[429]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM1098322
+[430]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM5043149
 [431]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM78579
 [432]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM139601
 [433]: http://www.legislation.govt.nz/act/public/2004/0050/latest/link.aspx?id=DLM138832
