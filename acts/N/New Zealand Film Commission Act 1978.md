@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,89 +25,89 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Constitution][4]
 
-[3][5] [New Zealand Film Commission][5]
+[3][5][][5][New Zealand Film Commission][5]
 
-[4][6] [Term of office of appointed members][6] \[Repealed\]
+[4][6][][6][Term of office of appointed members][6] \[Repealed\]
 
-[5][7] [Extraordinary vacancies][7] \[Repealed\]
+[5][7][][7][Extraordinary vacancies][7] \[Repealed\]
 
-[6][8] [Deputy chairman][8] \[Repealed\]
+[6][8][][8][Deputy chairman][8] \[Repealed\]
 
-[6A][9] [Alternate members of Commission][9] \[Repealed\]
+[6A][9][][9][Alternate members of Commission][9] \[Repealed\]
 
-[7][10] [Deputy of Secretary for Internal Affairs][10] \[Repealed\]
+[7][10][][10][Deputy of Secretary for Internal Affairs][10] \[Repealed\]
 
-[8][11] [Meetings of Commission][11] \[Repealed\]
+[8][11][][11][Meetings of Commission][11] \[Repealed\]
 
-[9][12] [Committees][12] \[Repealed\]
+[9][12][][12][Committees][12] \[Repealed\]
 
-[9A][13] [Disclosure of interests][13] \[Repealed\]
+[9A][13][][13][Disclosure of interests][13] \[Repealed\]
 
-[10][14] [Remuneration of members of Commission and committees][14] \[Repealed\]
+[10][14][][14][Remuneration of members of Commission and committees][14] \[Repealed\]
 
-[11][15] [Proceedings not affected by irregularities][15] \[Repealed\]
+[11][15][][15][Proceedings not affected by irregularities][15] \[Repealed\]
 
-[12][16] [Limitation of personal liability of members][16] \[Repealed\]
+[12][16][][16][Limitation of personal liability of members][16] \[Repealed\]
 
-[13][17] [Staff][17]
+[13][17][][17][Staff][17]
 
-[14][18] [Status of members and staff][18] \[Repealed\]
+[14][18][][18][Status of members and staff][18] \[Repealed\]
 
-[15][19] [Delegation of powers][19]
+[15][19][][19][Delegation of powers][19]
 
-[16][20] [Rules][20] \[Repealed\]
+[16][20][][20][Rules][20] \[Repealed\]
 
 [Functions and powers][21]
 
-[17][22] [Functions of Commission][22]
+[17][22][][22][Functions of Commission][22]
 
-[18][23] [Content of films][23]
+[18][23][][23][Content of films][23]
 
-[19][24] [General powers of Commission][24]
+[19][24][][24][General powers of Commission][24]
 
 [Financial provisions][25]
 
-[20][26] [Funds of Commission][26] \[Repealed\]
+[20][26][][26][Funds of Commission][26] \[Repealed\]
 
-[21][27] [Estimates of expenditure][27] \[Repealed\]
+[21][27][][27][Estimates of expenditure][27] \[Repealed\]
 
-[22][28] [Annual grants to Commission][28] \[Repealed\]
+[22][28][][28][Annual grants to Commission][28] \[Repealed\]
 
-[23][29] [Gifts][29]
+[23][29][][29][Gifts][29]
 
-[24][30] [Borrowing powers][30] \[Repealed\]
+[24][30][][30][Borrowing powers][30] \[Repealed\]
 
-[25][31] [Bank accounts][31] \[Repealed\]
+[25][31][][31][Bank accounts][31] \[Repealed\]
 
-[26][32] [Overdrafts][32] \[Repealed\]
+[26][32][][32][Overdrafts][32] \[Repealed\]
 
-[27][33] [Investment of money][33] \[Repealed\]
+[27][33][][33][Investment of money][33] \[Repealed\]
 
-[28][34] [Unauthorised expenditure][34] \[Repealed\]
+[28][34][][34][Unauthorised expenditure][34] \[Repealed\]
 
-[29][35] [Commission to be a charity for certain purposes][35]
+[29][35][][35][Commission to be a charity for certain purposes][35]
 
-[30][36] [Crown entity][36] \[Repealed\]
+[30][36][][36][Crown entity][36] \[Repealed\]
 
-[31][37] [Auditor-General to be auditor of Commission][37] \[Repealed\]
+[31][37][][37][Auditor-General to be auditor of Commission][37] \[Repealed\]
 
 [Miscellaneous provisions][38]
 
-[32][39] [Annual report][39] \[Repealed\]
+[32][39][][39][Annual report][39] \[Repealed\]
 
-[33][40] [Tabling of report in Parliament][40] \[Repealed\]
+[33][40][][40][Tabling of report in Parliament][40] \[Repealed\]
 
-[34][41] [Protection of name][41]
+[34][41][][41][Protection of name][41]
 
-[35][42] [Application of other enactments][42]
+[35][42][][42][Application of other enactments][42]
 
-[36][43] [Transitional provisions][43] \[Repealed\]
+[36][43][][43][Transitional provisions][43] \[Repealed\]
 
 [Schedule][44]  
 [Enactments amended][44]
@@ -524,9 +524,11 @@ An Act to establish the New Zealand Film Commission, and to define its functions
     
     *   (b) trade or carry on business under any other name, knowing that the name so resembles the name of the Commission as to be likely to mislead any person.
     
-    (3) Any person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $200\.
+    (3) Any person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $200\.
     
     (4) In any criminal proceedings in which a person is charged with having contravened subsection (2), it shall be a defence to the charge if he proves that, either by himself or with any other person or persons, he has carried on business continuously under the name to which the charge relates since any date before 23 August 1978\.
+    
+    Section 34(3): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Application of other enactments
     
@@ -547,15 +549,15 @@ Enactments amended
 
 ##### Higher Salaries Commission Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][63]._
+_Amendment(s) incorporated in the [Act(s)][64]._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (Reprinted 1974, Vol 3, p 2399)
 
-_Amendment(s) incorporated in the [Act(s)][64]._
+_Amendment(s) incorporated in the [Act(s)][65]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (Reprinted 1975, Vol 3, p 2251)
 
-_Amendment(s) incorporated in the [Act(s)][65]._
+_Amendment(s) incorporated in the [Act(s)][66]._
 
 ---
 
@@ -573,23 +575,23 @@ _Amendment(s) incorporated in the [Act(s)][65]._
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Film Commission Act 1978\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Film Commission Act 1978\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][66] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][67] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][67] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][68] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][68] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][69] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][69] and [17E][70] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][70] and [17E][71] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -620,7 +622,9 @@ _Amendment(s) incorporated in the [Act(s)][65]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Entities Act 2004 (2004 No 115): [section 200][46]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][63]
+    
+    Crown Entities Act 2004 (2004 No 115): [section 200][46]
     
     Gambling Act 2003 (2003 No 51): [section 374][61]
     
@@ -630,11 +634,11 @@ _Amendment(s) incorporated in the [Act(s)][65]._
     
     Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][47]
     
-    [New Zealand Film Commission Amendment Act 1999][71] (1999 No 42)
+    [New Zealand Film Commission Amendment Act 1999][72] (1999 No 42)
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    [New Zealand Film Commission Amendment Act 1994][72] (1994 No 49)
+    [New Zealand Film Commission Amendment Act 1994][73] (1994 No 49)
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][62]
     
@@ -707,13 +711,14 @@ _Amendment(s) incorporated in the [Act(s)][65]._
 [60]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM207496
 [61]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM210735
 [62]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM289849
-[63]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM16430
-[64]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM390061
-[65]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM324235
-[66]: http://www.pco.parliament.govt.nz/reprints/
-[67]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195439
-[68]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[69]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195468
-[70]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195470
-[71]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM24744
-[72]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM331896
+[63]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM3360714
+[64]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM16430
+[65]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM390061
+[66]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM324235
+[67]: http://www.pco.parliament.govt.nz/reprints/
+[68]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195439
+[69]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[70]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195468
+[71]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM195470
+[72]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM24744
+[73]: http://www.legislation.govt.nz/act/public/1978/0061/latest/link.aspx?id=DLM331896
