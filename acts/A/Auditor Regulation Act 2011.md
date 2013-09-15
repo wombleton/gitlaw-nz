@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -27,251 +27,249 @@ This Act is administered by the Ministry of Economic Development.
 
 [2][2][][2][Commencement][2]
 
-[][3]
+[Part 1][3]  
+[Preliminary and key provisions][3]
 
-[Part 1][4]  
-[Preliminary and key provisions][4]
+[Preliminary provisions][4]
 
-[Preliminary provisions][5]
+[3][5][][5][Purpose][5]
 
-[3][6][][6][Purpose][6]
+[4][6][][6][Overview][6]
 
-[4][7][][7][Overview][7]
+[5][7][][7][FMA's functions under this Act][7]
 
-[5][8][][8][FMA's functions under this Act][8]
+[6][8][][8][Interpretation][8]
 
-[6][9][][9][Interpretation][9]
+[7][9][][9][Act binds the Crown][9]
 
-[7][10][][10][Act binds the Crown][10]
+[Key provisions][10]
 
-[Key provisions][11]
+[8][11][][11][Auditors in respect of issuer audits must be licensed][11]
 
-[8][12][][12][Auditors in respect of issuer audits must be licensed][12]
+[9][12][][12][Audit firms engaged or appointed to act as auditor in respect of issuer audits must be registered][12]
 
-[9][13][][13][Audit firms engaged or appointed to act as auditor in respect of issuer audits must be registered][13]
+[10][13][][13][Partners who are responsible if issuer audit not carried out in accordance with requirements][13]
 
-[10][14][][14][Partners who are responsible if issuer audit not carried out in accordance with requirements][14]
+[Part 2][14]  
+[Licences, registration, accreditation, and role of FMA][14]
 
-[Part 2][15]  
-[Licences, registration, accreditation, and role of FMA][15]
+[Subpart 1][15][---][15][Licences][15]
 
-[Subpart 1][16][---][16][Licences][16]
+[Issue of licences by accredited bodies][16]
 
-[Issue of licences by accredited bodies][17]
+[11][17][][17][Licences issued by accredited bodies][17]
 
-[11][18][][18][Licences issued by accredited bodies][18]
+[Issue of licences by FMA to overseas auditors][18]
 
-[Issue of licences by FMA to overseas auditors][19]
+[12][19][][19][Licences issued by FMA to overseas auditors][19]
 
-[12][20][][20][Licences issued by FMA to overseas auditors][20]
+[13][20][][20][Person that holds licence under section 12 must notify FMA of relevant changes][20]
 
-[13][21][][21][Person that holds licence under section 12 must notify FMA of relevant changes][21]
+[Licence details to be sent to Registrar][21]
 
-[Licence details to be sent to Registrar][22]
+[14][22][][22][Accredited body or FMA must send licence details to Registrar][22]
 
-[14][23][][23][Accredited body or FMA must send licence details to Registrar][23]
+[Conditions][23]
 
-[Conditions][24]
+[15][24][][24][Licence subject to conditions][24]
 
-[15][25][][25][Licence subject to conditions][25]
+[16][25][][25][FMA must have regard to limits on overseas auditors][25]
 
-[16][26][][26][FMA must have regard to limits on overseas auditors][26]
+[Duration of licence][26]
 
-[Duration of licence][27]
+[17][27][][27][Duration of licence][27]
 
-[17][28][][28][Duration of licence][28]
+[Ongoing competence requirements][28]
 
-[Ongoing competence requirements][29]
+[18][29][][29][Ongoing competence requirements][29]
 
-[18][30][][30][Ongoing competence requirements][30]
+[19][30][][30][Unsatisfactory results of competence programme][30]
 
-[19][31][][31][Unsatisfactory results of competence programme][31]
+[Cancellation and suspension of licences][31]
 
-[Cancellation and suspension of licences][32]
+[20][32][][32][Cancellation of licences][32]
 
-[20][33][][33][Cancellation of licences][33]
+[21][33][][33][Suspension of licences][33]
 
-[21][34][][34][Suspension of licences][34]
+[22][34][][34][Procedure relating to exercise of cancellation or suspension powers][34]
 
-[22][35][][35][Procedure relating to exercise of cancellation or suspension powers][35]
+[23][35][][35][FMA may authorise person to continue to act in respect of issuer audit despite cancellation or suspension of licence][35]
 
-[23][36][][36][FMA may authorise person to continue to act in respect of issuer audit despite cancellation or suspension of licence][36]
+[Appeals in respect of licensing and related matters][36]
 
-[Appeals in respect of licensing and related matters][37]
+[24][37][][37][Appeals in respect of licensing and related matters][37]
 
-[24][38][][38][Appeals in respect of licensing and related matters][38]
+[Subpart 2][38][---][38][Registration of audit firms][38]
 
-[Subpart 2][39][---][39][Registration of audit firms][39]
+[25][39][][39][Accredited body may authorise registration of audit firms][39]
 
-[25][40][][40][Accredited body may authorise registration of audit firms][40]
+[26][40][][40][FMA may authorise registration of overseas audit firms][40]
 
-[26][41][][41][FMA may authorise registration of overseas audit firms][41]
+[27][41][][41][Registration of audit firm][41]
 
-[27][42][][42][Registration of audit firm][42]
+[28][42][][42][Registration subject to conditions][42]
 
-[28][43][][43][Registration subject to conditions][43]
+[29][43][][43][Cancellation of registration][43]
 
-[29][44][][44][Cancellation of registration][44]
+[30][44][][44][Relevant body must give notice before exercising power][44]
 
-[30][45][][45][Relevant body must give notice before exercising power][45]
+[31][45][][45][Appeals in respect of registration matters][45]
 
-[31][46][][46][Appeals in respect of registration matters][46]
+[Subpart 3][46][---][46][FMA may prescribe licensing, registration, and other matters][46]
 
-[Subpart 3][47][---][47][FMA may prescribe licensing, registration, and other matters][47]
+[32][47][][47][FMA may prescribe licensing, registration, and other matters][47]
 
-[32][48][][48][FMA may prescribe licensing, registration, and other matters][48]
+[33][48][][48][Minimum standards for licence][48]
 
-[33][49][][49][Minimum standards for licence][49]
+[34][49][][49][Minimum standards for registration of audit firm][49]
 
-[34][50][][50][Minimum standards for registration of audit firm][50]
+[35][50][][50][Principles guiding prescribing of licensing, registration, and other matters][50]
 
-[35][51][][51][Principles guiding prescribing of licensing, registration, and other matters][51]
+[36][51][][51][FMA must consult before publishing notices][51]
 
-[36][52][][52][FMA must consult before publishing notices][52]
+[37][52][][52][Other provisions relating to notices under section 32][52]
 
-[37][53][][53][Other provisions relating to notices under section 32][53]
+[Subpart 4][53][---][53][Register of licensed auditors and registered audit firms][53]
 
-[Subpart 4][54][---][54][Register of licensed auditors and registered audit firms][54]
+[38][54][][54][Register of licensed auditors and registered audit firms][54]
 
-[38][55][][55][Register of licensed auditors and registered audit firms][55]
+[39][55][][55][Operation of and access to register][55]
 
-[39][56][][56][Operation of and access to register][56]
+[40][56][][56][Purpose of register][56]
 
-[40][57][][57][Purpose of register][57]
+[41][57][][57][Contents of register][57]
 
-[41][58][][58][Contents of register][58]
+[42][58][][58][Obligation to notify Registrar of prescribed changes][58]
 
-[42][59][][59][Obligation to notify Registrar of prescribed changes][59]
+[43][59][][59][Annual confirmation by accredited bodies and FMA][59]
 
-[43][60][][60][Annual confirmation by accredited bodies and FMA][60]
+[44][60][][60][Registrar must amend register in certain circumstances][60]
 
-[44][61][][61][Registrar must amend register in certain circumstances][61]
+[45][61][][61][Registrar may refuse to accept document][61]
 
-[45][62][][62][Registrar may refuse to accept document][62]
+[46][62][][62][Search of register][62]
 
-[46][63][][63][Search of register][63]
+[47][63][][63][Power of Registrar to delegate][63]
 
-[47][64][][64][Power of Registrar to delegate][64]
+[Subpart 5][64][---][64][Accreditation][64]
 
-[Subpart 5][65][---][65][Accreditation][65]
+[48][65][][65][FMA may grant accreditation][65]
 
-[48][66][][66][FMA may grant accreditation][66]
+[49][66][][66][Accreditation subject to conditions][66]
 
-[49][67][][67][Accreditation subject to conditions][67]
+[50][67][][67][New Zealand Institute of Chartered Accountants treated as having been granted accreditation][67]
 
-[50][68][][68][New Zealand Institute of Chartered Accountants treated as having been granted accreditation][68]
+[51][68][][68][Accredited bodies must supply annual report to FMA][68]
 
-[51][69][][69][Accredited bodies must supply annual report to FMA][69]
+[52][69][][69][FMA must publish plan relating to auditor regulation and oversight][69]
 
-[52][70][][70][FMA must publish plan relating to auditor regulation and oversight][70]
+[53][70][][70][Publication of policies][70]
 
-[53][71][][71][Publication of policies][71]
+[54][71][][71][FMA must monitor audit regulatory systems][71]
 
-[54][72][][72][FMA must monitor audit regulatory systems][72]
+[55][72][][72][FMA must report on audit regulatory systems of each accredited body][72]
 
-[55][73][][73][FMA must report on audit regulatory systems of each accredited body][73]
+[56][73][][73][FMA may issue directions][73]
 
-[56][74][][74][FMA may issue directions][74]
+[57][74][][74][Miscellaneous matters relating to directions][74]
 
-[57][75][][75][Miscellaneous matters relating to directions][75]
+[58][75][][75][Offence to contravene directions][75]
 
-[58][76][][76][Offence to contravene directions][76]
+[59][76][][76][FMA may suspend or cancel accreditation or censure accredited body in certain circumstances][76]
 
-[59][77][][77][FMA may suspend or cancel accreditation or censure accredited body in certain circumstances][77]
+[60][77][][77][Miscellaneous matters relating to orders][77]
 
-[60][78][][78][Miscellaneous matters relating to orders][78]
+[61][78][][78][Effect of cancellation or suspension on licences issued and registrations authorised by accredited body or former accredited body][78]
 
-[61][79][][79][Effect of cancellation or suspension on licences issued and registrations authorised by accredited body or former accredited body][79]
+[62][79][][79][FMA must give opportunity to make submissions][79]
 
-[62][80][][80][FMA must give opportunity to make submissions][80]
+[63][80][][80][Appeals][80]
 
-[63][81][][81][Appeals][81]
+[64][81][][81][Certain provisions of New Zealand Institute of Chartered Accountants Act 1996 apply to other accredited bodies][81]
 
-[64][82][][82][Certain provisions of New Zealand Institute of Chartered Accountants Act 1996 apply to other accredited bodies][82]
+[Subpart 6][82][---][82][Quality review][82]
 
-[Subpart 6][83][---][83][Quality review][83]
+[65][83][][83][FMA must ensure that regular quality reviews are carried out][83]
 
-[65][84][][84][FMA must ensure that regular quality reviews are carried out][84]
+[66][84][][84][FMA may make arrangements for quality review to be carried out on its behalf][84]
 
-[66][85][][85][FMA may make arrangements for quality review to be carried out on its behalf][85]
+[67][85][][85][Restrictions on application of section 65][85]
 
-[67][86][][86][Restrictions on application of section 65][86]
+[68][86][][86][Quality review must include certain matters][86]
 
-[68][87][][87][Quality review must include certain matters][87]
+[69][87][][87][Offence to hinder, obstruct, or delay FMA][87]
 
-[69][88][][88][Offence to hinder, obstruct, or delay FMA][88]
+[70][88][][88][FMA may issue directions][88]
 
-[70][89][][89][FMA may issue directions][89]
+[71][89][][89][Consequences of failing to comply with directions][89]
 
-[71][90][][90][Consequences of failing to comply with directions][90]
+[72][90][][90][Miscellaneous matters relating to directions and orders][90]
 
-[72][91][][91][Miscellaneous matters relating to directions and orders][91]
+[73][91][][91][FMA must prepare annual report][91]
 
-[73][92][][92][FMA must prepare annual report][92]
+[74][92][][92][FMA may prepare reports about particular quality reviews][92]
 
-[74][93][][93][FMA may prepare reports about particular quality reviews][93]
+[Subpart 7][93][---][93][Investigations by FMA][93]
 
-[Subpart 7][94][---][94][Investigations by FMA][94]
+[75][94][][94][FMA may start or take over investigation or investigate in conjunction with accredited body][94]
 
-[75][95][][95][FMA may start or take over investigation or investigate in conjunction with accredited body][95]
+[76][95][][95][Relationship between FMA's investigation and other investigations or proceedings][95]
 
-[76][96][][96][Relationship between FMA's investigation and other investigations or proceedings][96]
+[77][96][][96][Accredited body must give reasonable assistance][96]
 
-[77][97][][97][Accredited body must give reasonable assistance][97]
+[78][97][][97][Disciplinary powers of FMA][97]
 
-[78][98][][98][Disciplinary powers of FMA][98]
+[79][98][][98][Miscellaneous matters relating to orders][98]
 
-[79][99][][99][Miscellaneous matters relating to orders][99]
+[Subpart 8][99][---][99][FMA may take over and perform regulatory functions][99]
 
-[Subpart 8][100][---][100][FMA may take over and perform regulatory functions][100]
+[80][100][][100][FMA may take over and perform regulatory functions][100]
 
-[80][101][][101][FMA may take over and perform regulatory functions][101]
+[81][101][][101][Powers of FMA when acting under this subpart][101]
 
-[81][102][][102][Powers of FMA when acting under this subpart][102]
+[Part 3][102]  
+[Amendments to other enactments, regulations, transitional provisions, and other miscellaneous matters][102]
 
-[Part 3][103]  
-[Amendments to other enactments, regulations, transitional provisions, and other miscellaneous matters][103]
+[Subpart 1][103][---][103][Amendments to other enactments][103]
 
-[Subpart 1][104][---][104][Amendments to other enactments][104]
+[82][104][][104][Amendments to other Acts][104]
 
-[82][105][][105][Amendments to other Acts][105]
+[83][105][][105][Amendment to Securities Regulations 2009][105]
 
-[83][106][][106][Amendment to Securities Regulations 2009][106]
+[Subpart 2][106][---][106][Regulations][106]
 
-[Subpart 2][107][---][107][Regulations][107]
+[84][107][][107][Regulations][107]
 
-[84][108][][108][Regulations][108]
+[Subpart 3][108][---][108][Transitional provisions][108]
 
-[Subpart 3][109][---][109][Transitional provisions][109]
+[85][109][][109][Certain auditors treated as holding licence][109]
 
-[85][110][][110][Certain auditors treated as holding licence][110]
+[86][110][][110][Certain overseas auditors treated as holding licence][110]
 
-[86][111][][111][Certain overseas auditors treated as holding licence][111]
+[87][111][][111][Certain audit firms treated as registered][111]
 
-[87][112][][112][Certain audit firms treated as registered][112]
+[88][112][][112][Transitional provisions do not prevent exercise of powers][112]
 
-[88][113][][113][Transitional provisions do not prevent exercise of powers][113]
+[89][113][][113][Requirements do not apply to accounting periods that have ended][113]
 
-[89][114][][114][Requirements do not apply to accounting periods that have ended][114]
+[Subpart 4][114][---][114][Miscellaneous provisions][114]
 
-[Subpart 4][115][---][115][Miscellaneous provisions][115]
+[90][115][][115][Application of Act in respect of Auditor-General][115]
 
-[90][116][][116][Application of Act in respect of Auditor-General][116]
+[91][116][][116][FMA may act as accredited body][116]
 
-[91][117][][117][FMA may act as accredited body][117]
+[92][117][][117][Power to amend or revoke][117]
 
-[92][118][][118][Power to amend or revoke][118]
+[93][118][][118][Protection from liability for accredited bodies and others][118]
 
-[93][119][][119][Protection from liability for accredited bodies and others][119]
+[94][119][][119][Sharing of information and documents with FMA][119]
 
-[94][120][][120][Sharing of information and documents with FMA][120]
+[95][120][][120][Notice and service of documents][120]
 
-[95][121][][121][Notice and service of documents][121]
+[96][121][][121][False declarations and representations][121]
 
-[96][122][][122][False declarations and representations][122]
-
-[Schedule][123]  
-[Amendments to other Acts relating to auditor regulation][123]
+[Schedule][122]  
+[Amendments to other Acts relating to auditor regulation][122]
 
 ---
 
@@ -283,21 +281,17 @@ The Parliament of New Zealand enacts as follows:
 
 ##### 2 Commencement
     
-*   (1) [Sections 1 to 7][1] and [84][108] come into force on the day after the date on which this Act receives the Royal assent.
+*   (1) [Sections 1 to 7][1] and [84][107] come into force on the day after the date on which this Act receives the Royal assent.
     
     (2) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
     
     (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 July 2012\.
     
-    Section 2(2): subpart 3 of Part 2 and section 92 brought into force, on 1 February 2012, by [clause 2(1)][124] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
+    Section 2(2): subpart 3 of Part 2 and section 92 brought into force, on 1 February 2012, by [clause 2(1)][123] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
     
-    Section 2(2): subpart 5 of Part 2 (except sections 51, 52, and 55), subpart 8 of Part 2, section 91, and sections 93--96 brought into force, on 1 April 2012, by [clause 2(2)][124] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
+    Section 2(2): subpart 5 of Part 2 (except sections 51, 52, and 55), subpart 8 of Part 2, section 91, and sections 93--96 brought into force, on 1 April 2012, by [clause 2(2)][123] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
     
-    Section 2(2): subpart 4 of Part 2 and sections 85--88 brought into force, on 1 May 2012, by [clause 2(3)][124] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
-
-##### 
-    
-*   
+    Section 2(2): subpart 4 of Part 2 and sections 85--88 brought into force, on 1 May 2012, by [clause 2(3)][123] of the Auditor Regulation Act Commencement Order 2011 (SR 2011/380).
 
 ## Part 1  
 Preliminary and key provisions
@@ -328,7 +322,7 @@ Preliminary and key provisions
         
         
     
-    *   (b) [Part 2][15] provides for---
+    *   (b) [Part 2][14] provides for---
             
         *   (i) the issue of licences; and
         
@@ -338,11 +332,11 @@ Preliminary and key provisions
         
         *   (iv) the register of licensed auditors and registered audit firms; and
         
-        *   (v) the FMA to perform the functions referred to in section 5; and
+        *   (v) the FMA to perform the functions referred to in [section 5][7]; and
         
         
     
-    *   (c) [Part 3][103] provides for amendments to other enactments, regulations, and transitional and other miscellaneous matters.
+    *   (c) [Part 3][102] provides for amendments to other enactments, regulations, and transitional and other miscellaneous matters.
     
     (2) This section is only a guide to the general scheme and effect of this Act.
 
@@ -352,15 +346,15 @@ Preliminary and key provisions
         
     *   (a) to issue licences to overseas auditors and to authorise the registration of overseas audit firms:
     
-    *   (b) to prescribe licensing, registration, and other matters under [subpart 3][47] of Part 2:
+    *   (b) to prescribe licensing, registration, and other matters under [subpart 3][46] of Part 2:
     
-    *   (c) to grant accreditation to persons under [subpart 5][65] of Part 2:
+    *   (c) to grant accreditation to persons under [subpart 5][64] of Part 2:
     
     *   (d) to monitor the audit regulatory systems of accredited bodies, report on the adequacy and effectiveness of those systems, and take action in respect of those systems that are inadequate or ineffective:
     
-    *   (e) to conduct quality reviews and investigations under [subparts 6][83] and [7][94] of Part 2:
+    *   (e) to conduct quality reviews and investigations under [subparts 6][82] and [7][93] of Part 2:
     
-    *   (f) to take over and perform regulatory functions under [subpart 8][100] of Part 2:
+    *   (f) to take over and perform regulatory functions under [subpart 8][99] of Part 2:
     
     *   (g) to perform or exercise any other functions, powers, and duties conferred or imposed on it by or under this Act.
     
@@ -370,21 +364,21 @@ Preliminary and key provisions
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _accredited body_ means a person that is granted accreditation, or is treated as having been granted accreditation, under [subpart 5][65] of Part 2
+    _accredited body_ means a person that is granted accreditation, or is treated as having been granted accreditation, under [subpart 5][64] of Part 2
     
     _audit firm_ means a partnership or body corporate that carries on the business of providing auditing services (whether or not it provides other services)
     
     _audit regulatory systems_ means, in relation to an accredited body, the body's systems and processes for performing its regulatory functions
     
-    _auditing and assurance standard_ has the same meaning as in [section 2(1)][125] of the Financial Reporting Act 1993
+    _auditing and assurance standard_ has the same meaning as in [section 2(1)][124] of the Financial Reporting Act 1993
     
-    _Auditor-General_ has the same meaning as in [section 4][126] of the Public Audit Act 2001
+    _Auditor-General_ has the same meaning as in [section 4][125] of the Public Audit Act 2001
     
-    _director_ has the same meaning as in [section 2][127] of the Securities Act 1978
+    _director_ has the same meaning as in [section 2][126] of the Securities Act 1978
     
     _disciplinary body_,---
         
-    *   (a) in relation to the Institute, means the Disciplinary Tribunal referred to in [section 6(1)(g)][128] of the New Zealand Institute of Chartered Accountants Act 1996:
+    *   (a) in relation to the Institute, means the Disciplinary Tribunal referred to in [section 6(1)(g)][127] of the New Zealand Institute of Chartered Accountants Act 1996:
     
     *   (b) in relation to any other accredited body, means the tribunal, committee, or other body that has been---
             
@@ -396,45 +390,45 @@ Preliminary and key provisions
     
     _engagement partner_, in respect of an issuer audit where an audit firm is acting, means the partner or other person in the firm who is responsible for the audit and the performance of the audit, and for the audit report that is issued on behalf of the firm
     
-    _financial statements_ has the same meaning as in [section 8][129] of the Financial Reporting Act 1993
+    _financial statements_ has the same meaning as in [section 8][128] of the Financial Reporting Act 1993
     
-    _FMA_ means the Financial Markets Authority established under the [Financial Markets Authority Act 2011][130]
+    _FMA_ means the Financial Markets Authority established under the [Financial Markets Authority Act 2011][129]
     
-    _group financial statements_ has the same meaning as in [section 9][131] of the Financial Reporting Act 1993
+    _group financial statements_ has the same meaning as in [section 9][130] of the Financial Reporting Act 1993
     
-    _Institute_ means the New Zealand Institute of Chartered Accountants constituted under the [New Zealand Institute of Chartered Accountants Act 1996][132]
+    _Institute_ means the New Zealand Institute of Chartered Accountants constituted under the [New Zealand Institute of Chartered Accountants Act 1996][131]
     
-    _issuer_ has the same meaning as in [section 4][133] of the Financial Reporting Act 1993
+    _issuer_ has the same meaning as in [section 4][132] of the Financial Reporting Act 1993
     
     _issuer audit_---
         
     *   (a) means the audit of---
             
-        *   (i) the financial statements of an issuer and, if the issuer is required to complete group financial statements, of those group financial statements (being financial statements or group financial statements that are prepared under the [Financial Reporting Act 1993][134]); or
+        *   (i) the financial statements of an issuer and, if the issuer is required to complete group financial statements, of those group financial statements (being financial statements or group financial statements that are prepared under the [Financial Reporting Act 1993][133]); or
         
-        *   (ii) the financial statements of a scheme, a fund, or a retirement village referred to in [section 9A][135] of the Financial Reporting Act 1993; and
+        *   (ii) the financial statements of a scheme, a fund, or a retirement village referred to in [section 9A][134] of the Financial Reporting Act 1993; and
         
         
     
-    *   (b) includes any audit or review required to be carried out under the [Securities Act 1978][136], or regulations made or exemptions granted under that Act, by a qualified auditor (within the meaning of that Act); but
+    *   (b) includes any audit or review required to be carried out under the [Securities Act 1978][135], or regulations made or exemptions granted under that Act, by a qualified auditor (within the meaning of that Act); but
     
-    *   (c) does not include any audit carried out under the [Public Audit Act 2001][137] (whether the Auditor-General or any other person is acting as the auditor)
+    *   (c) does not include any audit carried out under the [Public Audit Act 2001][136] (whether the Auditor-General or any other person is acting as the auditor)
     
     _licence_---
         
-    *   (a) means a licence issued by an accredited body or the FMA under [Part 2][15]; and
+    *   (a) means a licence issued by an accredited body or the FMA under [Part 2][14]; and
     
-    *   (b) includes a licence that a person is treated as holding under [subpart 3][109] of Part 3
+    *   (b) includes a licence that a person is treated as holding under [subpart 3][108] of Part 3
     
     _licensed auditor_ means a person who holds, or is treated as holding, a licence
     
     _limited partnership_ means---
         
-    *   (a) a limited partnership that is registered under [section 51][138] of the Limited Partnerships Act 2008; or
+    *   (a) a limited partnership that is registered under [section 51][137] of the Limited Partnerships Act 2008; or
     
     *   (b) a partnership formed or incorporated outside New Zealand that is---
             
-        *   (i) an overseas limited partnership within the meaning of the [Limited Partnerships Act 2008][139]; or
+        *   (i) an overseas limited partnership within the meaning of the [Limited Partnerships Act 2008][138]; or
         
         *   (ii) a body corporate
         
@@ -448,15 +442,15 @@ Preliminary and key provisions
     
     _overseas auditor_ means a person who is entitled to act as an auditor in a country, state, or territory outside New Zealand that is prescribed for the purposes of this definition
     
-    _prescribed minimum standards_ means the prescribed minimum standards for the issue of a licence or for the registration of an audit firm (as the case may be) prescribed under [subpart 3][47] of Part 2
+    _prescribed minimum standards_ means the prescribed minimum standards for the issue of a licence or for the registration of an audit firm (as the case may be) prescribed under [subpart 3][46] of Part 2
     
-    _quality review_ means a quality review under [subpart 6][83] of Part 2
+    _quality review_ means a quality review under [subpart 6][82] of Part 2
     
-    _register_ means the register kept under [subpart 4][54] of Part 2
+    _register_ means the register kept under [subpart 4][53] of Part 2
     
-    _registered audit firm_ means an audit firm that is, or is treated as being, registered under [subpart 2][39] of Part 2
+    _registered audit firm_ means an audit firm that is, or is treated as being, registered under [subpart 2][38] of Part 2
     
-    _Registrar_ means the Registrar of Companies appointed in accordance with [section 357(1)][140] of the Companies Act 1993
+    _Registrar_ means the Registrar of Companies appointed in accordance with [section 357(1)][139] of the Companies Act 1993
     
     _regulatory function_ includes any of the following functions that are performed by an accredited body or any committee or disciplinary body of an accredited body (to the extent that those functions relate to, or are in connection with, persons who apply for, hold, or have held a licence or audit firms that apply to be, or are, registered or have been registered):
         
@@ -506,7 +500,9 @@ Preliminary and key provisions
     
     *   (b) is recorded in the register.
     
-    (2) A person who acts as the auditor in respect of an issuer audit in breach of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $50,000\.
+    (2) A person who acts as the auditor in respect of an issuer audit in breach of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 8(2): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Audit firms engaged or appointed to act as auditor in respect of issuer audits must be registered
     
@@ -518,13 +514,13 @@ Preliminary and key provisions
     
     *   (b) the audit firm must ensure that each engagement partner is a licensed auditor.
     
-    (3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on summary conviction to a fine not exceeding $50,000 if---
+    (3) If an audit firm breaches subsection (1) or (2)(b), every partner or director of the audit firm commits an offence and is liable on conviction to a fine not exceeding $50,000 if---
         
     *   (a) the breach took place with his or her authority, permission, or consent; or
     
     *   (b) he or she could reasonably have known that the breach was to be or was being made and failed to take all reasonable steps to prevent or stop it.
     
-    
+    Section 9(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Partners who are responsible if issuer audit not carried out in accordance with requirements
     
@@ -536,7 +532,7 @@ Preliminary and key provisions
     
     *   (c) otherwise with reasonable care, diligence, and skill.
     
-    (2) Despite [section 9(2)(a)][13], a partner of the registered audit firm may have his or her licence cancelled under [section 20(1)(c)][33] or suspended under [section 21(1)(b)][34], or be subject to an order under [section 78][98], in relation to the failure to carry out the issuer audit in accordance with the matters referred to in subsection (1)(a) or (b) or otherwise with reasonable care, diligence, and skill only if---
+    (2) Despite [section 9(2)(a)][12], a partner of the registered audit firm may have his or her licence cancelled under [section 20(1)(c)][32] or suspended under [section 21(1)(b)][33], or be subject to an order under [section 78][97], in relation to the failure to carry out the issuer audit in accordance with the matters referred to in subsection (1)(a) or (b) or otherwise with reasonable care, diligence, and skill only if---
         
     *   (a) he or she was the engagement partner in respect of the issuer audit; or
     
@@ -561,7 +557,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) is otherwise a fit and proper person to hold a licence.
     
-    (2) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under [section 14(1)(c)][23] or refund to the applicant if the licence is not issued).
+    (2) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under [section 14(1)(c)][22] or refund to the applicant if the licence is not issued).
 
 #### Issue of licences by FMA to overseas auditors
 
@@ -573,9 +569,9 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the person meets the prescribed minimum standards; and
     
-    *   (c) the person is required, under the law or the regulatory requirements of the person's home jurisdiction, to comply with requirements for maintaining the person's ongoing competence, and that those requirements are equivalent to, or as satisfactory as, the requirements under [section 18][30]; and
+    *   (c) the person is required, under the law or the regulatory requirements of the person's home jurisdiction, to comply with requirements for maintaining the person's ongoing competence, and that those requirements are equivalent to, or as satisfactory as, the requirements under [section 18][29]; and
     
-    *   (d) the person's practice is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under [subpart 6][83]; and
+    *   (d) the person's practice is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under [subpart 6][82]; and
     
     *   (e) the systems, policies, and procedures of the person's practice are satisfactory in terms of---
             
@@ -601,15 +597,15 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) accompanied by payment of the prescribed fee for the application (if any); and
     
-    *   (c) accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under [section 14(1)(c)][23] or refund to the applicant if the licence is not issued).
+    *   (c) accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under [section 14(1)(c)][22] or refund to the applicant if the licence is not issued).
     
     (4) Every applicant under subsection (1) must provide to the FMA the information that is required by the FMA to assist it in determining the application.
     
-    (5) This section does not prevent a licence from being issued to an overseas auditor under [section 11][18].
+    (5) This section does not prevent a licence from being issued to an overseas auditor under [section 11][17].
 
 ##### 13 Person that holds licence under section 12 must notify FMA of relevant changes
     
-*   (1) Every person who holds a licence under [section 12][20] must give written notice to the FMA of any relevant change within 10 working days after the person first became aware of the change.
+*   (1) Every person who holds a licence under [section 12][19] must give written notice to the FMA of any relevant change within 10 working days after the person first became aware of the change.
     
     (2) In this section, _relevant change_---
         
@@ -619,13 +615,15 @@ Licences, registration, accreditation, and role of FMA
         
         *   (ii) meeting the prescribed minimum standards; or
         
-        *   (iii) being required to comply with the requirements referred to in [section 12(1)(c)][20]; and
+        *   (iii) being required to comply with the requirements referred to in [section 12(1)(c)][19]; and
         
         
     
     *   (b) includes any change that may be prescribed.
     
-    (3) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (3) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $10,000\.
+    
+    Section 13(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Licence details to be sent to Registrar
 
@@ -633,7 +631,7 @@ Licences, registration, accreditation, and role of FMA
     
 *   (1) An accredited body or the FMA must, after issuing a licence to a person, send to the Registrar notification of the issue of the licence together with---
         
-    *   (a) the relevant information referred to in [section 41(1)][58]; and
+    *   (a) the relevant information referred to in [section 41(1)][57]; and
     
     *   (b) any other prescribed information; and
     
@@ -647,9 +645,9 @@ Licences, registration, accreditation, and role of FMA
     
 *   (1) A licence issued to a person by an accredited body or the FMA---
         
-    *   (a) must be subject to any applicable conditions of the kinds prescribed under [section 32(1)(b)(i)][48]; and
+    *   (a) must be subject to any applicable conditions of the kinds prescribed under [section 32(1)(b)(i)][47]; and
     
-    *   (b) may be subject to any other conditions of a kind prescribed under [section 32(1)(b)(ii)][48] that the accredited body or the FMA thinks fit; and
+    *   (b) may be subject to any other conditions of a kind prescribed under [section 32(1)(b)(ii)][47] that the accredited body or the FMA thinks fit; and
     
     *   (c) must specify a condition relating to the kinds of issuer audits in respect of which the person is authorised to act under the licence.
     
@@ -673,7 +671,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 16 FMA must have regard to limits on overseas auditors
     
-*   The FMA must, in considering what conditions to impose under [section 15(1)(c)][25] in respect of an overseas auditor, have regard to any limitations on the overseas auditor's ability to act in respect of an audit that are imposed by or in relation to any certificate, registration, licence, or other authorisation that entitles the overseas auditor to act as an auditor in a country, state, or territory outside New Zealand.
+*   The FMA must, in considering what conditions to impose under [section 15(1)(c)][24] in respect of an overseas auditor, have regard to any limitations on the overseas auditor's ability to act in respect of an audit that are imposed by or in relation to any certificate, registration, licence, or other authorisation that entitles the overseas auditor to act as an auditor in a country, state, or territory outside New Zealand.
 
 #### Duration of licence
 
@@ -691,7 +689,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 18 Ongoing competence requirements
     
-*   (1) An accredited body must, in accordance with the requirements prescribed under [section 32(1)(c)][48],---
+*   (1) An accredited body must, in accordance with the requirements prescribed under [section 32(1)(c)][47],---
         
     *   (a) require its members to complete competence programmes to maintain their ongoing competence; and
     
@@ -717,11 +715,11 @@ Licences, registration, accreditation, and role of FMA
     
 *   (1) If any member who is required to complete a competence programme does not satisfy the requirements of the programme, the accredited body may---
         
-    *   (a) vary, remove, add to, or substitute any conditions of the member's licence under [section 15][25]; or
+    *   (a) vary, remove, add to, or substitute any conditions of the member's licence under [section 15][24]; or
     
     *   (b) suspend the member's licence under section 21\.
     
-    (2) This section does not limit [sections 15][25] and [21][34].
+    (2) This section does not limit [sections 15][24] and [21][33].
 
 #### Cancellation and suspension of licences
 
@@ -741,7 +739,7 @@ Licences, registration, accreditation, and role of FMA
         
         *   (iv) the person has failed to comply with a condition of the licence; or
         
-        *   (v) the person has failed to comply with [section 13][21], [85(3)][110], or [86(3)][111]; or
+        *   (v) the person has failed to comply with [section 13][20], [85(3)][109], or [86(3)][110]; or
         
         *   (vi) the person is otherwise not a fit and proper person to hold a licence; or
         
@@ -757,9 +755,9 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    (2) In this section and [sections 21][34] and [22][35], _relevant authority_ means,---
+    (2) In this section and [sections 21][33] and [22][34], _relevant authority_ means,---
         
-    *   (a) in the case of a licence issued under [section 11][18], either or both of the following:
+    *   (a) in the case of a licence issued under [section 11][17], either or both of the following:
             
         *   (i) the accredited body that issued the licence:
         
@@ -767,15 +765,15 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    *   (b) in the case of a licence issued under [section 12][20], the FMA.
+    *   (b) in the case of a licence issued under [section 12][19], the FMA.
     
-    (3) The rules of an accredited body may authorise a disciplinary body to act under this section or [section 21][34] and provide for any other reasonable matters, not inconsistent with this Act, in respect of the exercise of that power to act.
+    (3) The rules of an accredited body may authorise a disciplinary body to act under this section or [section 21][33] and provide for any other reasonable matters, not inconsistent with this Act, in respect of the exercise of that power to act.
     
     (4) A licence may also be---
         
-    *   (a) treated as cancelled under [section 61][79]:
+    *   (a) treated as cancelled under [section 61][78]:
     
-    *   (b) cancelled by the FMA under [subpart 6][83] or [7][94].
+    *   (b) cancelled by the FMA under [subpart 6][82] or [7][93].
     
     
 
@@ -787,9 +785,9 @@ Licences, registration, accreditation, and role of FMA
             
         *   (i) has failed to comply with a condition of the licence; or
         
-        *   (ii) has failed to comply with [section 13][21], [85(3)][110], or [86(3)][111]; or
+        *   (ii) has failed to comply with [section 13][20], [85(3)][109], or [86(3)][110]; or
         
-        *   (iii) has not satisfied the requirements of a competence programme that he or she is required to complete (in the case of a licence issued under [section 11][18]) or has failed to comply with the requirements referred to in [section 12(1)(c)][20] (in the case of a licence issued under section 12); or
+        *   (iii) has not satisfied the requirements of a competence programme that he or she is required to complete (in the case of a licence issued under [section 11][17]) or has failed to comply with the requirements referred to in [section 12(1)(c)][19] (in the case of a licence issued under section 12); or
         
         
     
@@ -813,13 +811,13 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) treated as suspended under section 61:
     
-    *   (b) suspended by the FMA under [subpart 6][83] or [7][94].
+    *   (b) suspended by the FMA under [subpart 6][82] or [7][93].
     
     
 
 ##### 22 Procedure relating to exercise of cancellation or suspension powers
     
-*   (1) A relevant authority must not cancel a licence under [section 20(1)(b)(ii) to (vi) or (c)][33] or suspend a licence under [section 21(1)][34] unless---
+*   (1) A relevant authority must not cancel a licence under [section 20(1)(b)(ii) to (vi) or (c)][32] or suspend a licence under [section 21(1)][33] unless---
         
     *   (a) the relevant authority gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
             
@@ -871,7 +869,7 @@ Licences, registration, accreditation, and role of FMA
     
     (5) The authorisation may be subject to the terms and conditions that the FMA thinks fit.
     
-    (6) A person who acts, or continues to act, as the auditor in respect of an issuer audit in accordance with the terms and conditions of an authorisation does not commit an offence under [section 8][12].
+    (6) A person who acts, or continues to act, as the auditor in respect of an issuer audit in accordance with the terms and conditions of an authorisation does not commit an offence under [section 8][11].
 
 #### Appeals in respect of licensing and related matters
 
@@ -881,17 +879,17 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) decline to issue a licence to the person; or
     
-    *   (b) include conditions under [section 15(1)(b) or (c)][25] on the person's licence or proposed licence (or to act under section 15(3)); or
+    *   (b) include conditions under [section 15(1)(b) or (c)][24] on the person's licence or proposed licence (or to act under section 15(3)); or
     
     *   (c) suspend or cancel his or her licence; or
     
-    *   (d) decline to act on an application made by the person under [section 23][36] (or to include terms and conditions on an authorisation following such an application); or
+    *   (d) decline to act on an application made by the person under [section 23][35] (or to include terms and conditions on an authorisation following such an application); or
     
-    *   (e) issue a direction to the person under [subpart 6][83]; or
+    *   (e) issue a direction to the person under [subpart 6][82]; or
     
-    *   (f) make any other order under [subpart 6][83] or [7][94] in respect of the person.
+    *   (f) make any other order under [subpart 6][82] or [7][93] in respect of the person.
     
-    (2) A person may appeal to a District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in [section 6(1)(h)][128] of the New Zealand Institute of Chartered Accountants Act 1996).
+    (2) A person may appeal to a District Court against any decision of a disciplinary body to cancel or suspend his or her licence unless the rules of the accredited body provide for an appeal against the decision to a body established to hear appeals against the decision (for example, the Appeals Council referred to in [section 6(1)(h)][127] of the New Zealand Institute of Chartered Accountants Act 1996).
     
     (3) An appeal to a District Court under this section must be brought---
         
@@ -913,7 +911,7 @@ Licences, registration, accreditation, and role of FMA
     
     (2) A limited partnership may not apply under subsection (1) (and may not be a registered audit firm).
     
-    (3) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under [section 27(1)(c)][42] or refund to the audit firm if it is not registered).
+    (3) The application must be accompanied by payment of the prescribed registration fee (which the accredited body must either send to the Registrar under [section 27(1)(c)][41] or refund to the audit firm if it is not registered).
 
 ##### 26 FMA may authorise registration of overseas audit firms
     
@@ -921,7 +919,7 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) 1 or more of the partners of the firm are licensed auditors; and
     
-    *   (b) the firm is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under [subpart 6][83]; and
+    *   (b) the firm is subject to review arrangements that are equivalent to, or as satisfactory as, the quality review arrangements under [subpart 6][82]; and
     
     *   (c) the systems, policies, and procedures of the firm are satisfactory in terms of---
             
@@ -937,13 +935,13 @@ Licences, registration, accreditation, and role of FMA
     
     (2) A limited partnership may not apply under subsection (1) (and may not be a registered audit firm).
     
-    (3) The application must be accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under [section 27(1)(c)][42] or refund to the audit firm if it is not registered).
+    (3) The application must be accompanied by payment of the prescribed registration fee (which the FMA must either send to the Registrar under [section 27(1)(c)][41] or refund to the audit firm if it is not registered).
 
 ##### 27 Registration of audit firm
     
 *   (1) An accredited body or the FMA (as the case may be) must, after deciding to authorise the registration of an audit firm, send to the Registrar notification of that decision together with---
         
-    *   (a) the relevant information referred to in [section 41(2)][58]; and
+    *   (a) the relevant information referred to in [section 41(2)][57]; and
     
     *   (b) any other prescribed information; and
     
@@ -971,9 +969,9 @@ Licences, registration, accreditation, and role of FMA
     
     *   (d) has failed to comply with a condition of its registration; or
     
-    *   (e) has failed to comply with a direction issued under [subpart 6][83]; or
+    *   (e) has failed to comply with a direction issued under [subpart 6][82]; or
     
-    *   (f) has failed to comply with [section 87(6)][112].
+    *   (f) has failed to comply with [section 87(6)][111].
     
     (2) After receiving the notification under subsection (1), the Registrar must---
         
@@ -985,11 +983,11 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 30 Relevant body must give notice before exercising power
     
-*   The relevant body must not exercise a power referred to in [section 28(2)][43] or [29][44] unless---
+*   The relevant body must not exercise a power referred to in [section 28(2)][42] or [29][43] unless---
         
     *   (a) the relevant body gives the audit firm (or at least 1 of the partners of the firm) at least 10 working days' written notice of the following matters before it exercises the power:
             
-        *   (i) that the relevant body may exercise a power under [section 28(2)][43] or [29][44] (as the case may be); and
+        *   (i) that the relevant body may exercise a power under [section 28(2)][42] or [29][43] (as the case may be); and
         
         *   (ii) the reasons why it is considering exercising that power; and
         
@@ -1005,7 +1003,7 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) decline to authorise the registration of the firm; or
     
-    *   (b) include conditions under [section 28][43] on the firm's registration (or to act under section 28(2)); or
+    *   (b) include conditions under [section 28][42] on the firm's registration (or to act under section 28(2)); or
     
     *   (c) give notice to the Registrar to cancel the firm's registration.
     
@@ -1033,7 +1031,7 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    *   (c) prescribe requirements for ongoing competence that must be complied with by persons who are issued with a licence under [section 11][18]; and
+    *   (c) prescribe requirements for ongoing competence that must be complied with by persons who are issued with a licence under [section 11][17]; and
     
     *   (d) prescribe the minimum standards for registration of an audit firm that an audit firm must meet in order to be registered as a registered audit firm; and
     
@@ -1041,7 +1039,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (f) prescribe the procedure that accredited bodies must follow when performing regulatory functions; and
     
-    *   (g) prescribe transitional requirements for the purposes of [subpart 3][109] of Part 3 (including requirements relating to required competence, qualifications, and experience and, in the case of audit firms, requirements relating to the firm's systems, policies, and procedures).
+    *   (g) prescribe transitional requirements for the purposes of [subpart 3][108] of Part 3 (including requirements relating to required competence, qualifications, and experience and, in the case of audit firms, requirements relating to the firm's systems, policies, and procedures).
     
     (2) Matters prescribed under subsection (1) may---
         
@@ -1053,7 +1051,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 33 Minimum standards for licence
     
-*   (1) A notice under [section 32][48] may prescribe minimum standards for licensing in any way the FMA thinks fit, including in 1 or more of the following ways:
+*   (1) A notice under [section 32][47] may prescribe minimum standards for licensing in any way the FMA thinks fit, including in 1 or more of the following ways:
         
     *   (a) by requiring a degree or diploma or certificate of a stated kind recognised by the FMA:
     
@@ -1071,7 +1069,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 34 Minimum standards for registration of audit firm
     
-*   (1) A notice under [section 32][48] may prescribe minimum standards for the registration of an audit firm in any way the FMA thinks fit, including prescribing requirements relating to the firm's systems, policies, and procedures that relate to---
+*   (1) A notice under [section 32][47] may prescribe minimum standards for the registration of an audit firm in any way the FMA thinks fit, including prescribing requirements relating to the firm's systems, policies, and procedures that relate to---
         
     *   (a) promoting compliance with---
             
@@ -1107,7 +1105,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 36 FMA must consult before publishing notices
     
-*   (1) Before the FMA publishes a notice in the _Gazette_ under [section 32][48], the FMA must consult the following about its proposal for the contents of the notice:
+*   (1) Before the FMA publishes a notice in the _Gazette_ under [section 32][47], the FMA must consult the following about its proposal for the contents of the notice:
         
     *   (a) persons who the FMA considers are able to represent the views of auditors who carry out issuer audits (including the Institute); and
     
@@ -1119,11 +1117,11 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    (2) A failure to comply with subsection (1) does not affect the validity of any notice under [section 32][48].
+    (2) A failure to comply with subsection (1) does not affect the validity of any notice under [section 32][47].
 
 ##### 37 Other provisions relating to notices under section 32
     
-*   (1) The FMA must ensure that an up-to-date version of each notice under [section 32][48] is---
+*   (1) The FMA must ensure that an up-to-date version of each notice under [section 32][47] is---
         
     *   (a) available at all reasonable times on an Internet site maintained by or on behalf of the FMA; and
     
@@ -1135,13 +1133,13 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    (2) Each notice under [section 32][48]---
+    (2) Each notice under [section 32][47]---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][141] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][142]; and
+    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][141]; and
     
-    *   (b) must be presented to the House of Representatives in accordance with [section 4][143] of the Regulations (Disallowance) Act 1989\.
+    *   (b) must be presented to the House of Representatives under [section 41][142] of that Act.
     
-    
+    Section 37(2): replaced, on 5 August 2013, by [section 77(3)][143] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 4---Register of licensed auditors and registered audit firms
 
@@ -1199,7 +1197,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (d) the date on which each licence was recorded in the register; and
     
-    *   (e) the expiry date of each licence that is currently in force (and whether the licence continues in force under [section 17(4)][28]); and
+    *   (e) the expiry date of each licence that is currently in force (and whether the licence continues in force under [section 17(4)][27]); and
     
     *   (f) the kinds of issuer audits in respect of which the licensed auditor is authorised to act under each licence; and
     
@@ -1239,7 +1237,9 @@ Licences, registration, accreditation, and role of FMA
     
     (2) In subsection (1), _prescribed changes_ means changes to the information included in the register that are of a kind that is prescribed for the purposes of this section.
     
-    (3) An accredited body commits an offence if it fails to comply with this section and is liable on summary conviction to a fine not exceeding $30,000\.
+    (3) An accredited body commits an offence if it fails to comply with this section and is liable on conviction to a fine not exceeding $30,000\.
+    
+    Section 42(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Annual confirmation by accredited bodies and FMA
     
@@ -1311,7 +1311,7 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) by an individual, or a person with the consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][144]:
     
-    *   (b) by a person for a purpose referred to in [section 40][57].
+    *   (b) by a person for a purpose referred to in [section 40][56].
     
     (4) A person who searches the register for personal information in breach of this section must be treated, for the purposes of [Part 8][145] of the Privacy Act 1993, as having breached an information privacy principle under [section 66(1)(a)(i)][146] of that Act.
 
@@ -1341,7 +1341,7 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) will implement and maintain audit regulatory systems that are adequate and effective; and
     
-    *   (b) meets the minimum standards for the grant of accreditation prescribed under [section 32(1)(e)][48]; and
+    *   (b) meets the minimum standards for the grant of accreditation prescribed under [section 32(1)(e)][47]; and
     
     *   (c) is a fit and proper person to perform regulatory functions for the purposes of this Act.
     
@@ -1373,9 +1373,9 @@ Licences, registration, accreditation, and role of FMA
     
     (2) Subsection (1) does not prevent the FMA from---
         
-    *   (a) imposing, varying, removing, adding to, or substituting any conditions of accreditation under [section 49][67]; or
+    *   (a) imposing, varying, removing, adding to, or substituting any conditions of accreditation under [section 49][66]; or
     
-    *   (b) cancelling or suspending the accreditation of the Institute under [section 59][77]; or
+    *   (b) cancelling or suspending the accreditation of the Institute under [section 59][76]; or
     
     *   (c) exercising or performing any other functions, powers, or duties under this Act in respect of the Institute.
     
@@ -1393,7 +1393,7 @@ Licences, registration, accreditation, and role of FMA
             
         *   (i) information relating to the accredited body's performance in carrying out regulatory functions for the purposes of this Act; and
         
-        *   (ii) information relating to any material changes to the accredited body's audit regulatory systems that it has implemented, is in the process of implementing, or is considering implementing (including stating what it has done in response to any direction issued under [section 56][74]); and
+        *   (ii) information relating to any material changes to the accredited body's audit regulatory systems that it has implemented, is in the process of implementing, or is considering implementing (including stating what it has done in response to any direction issued under [section 56][73]); and
         
         *   (iii) any other prescribed information.
         
@@ -1407,7 +1407,9 @@ Licences, registration, accreditation, and role of FMA
     
     *   (c) publish the direction on an Internet site maintained by or on behalf of the FMA.
     
-    (4) An accredited body that fails to supply an annual report in accordance with this section commits an offence and is liable on summary conviction to a fine not exceeding $50,000\.
+    (4) An accredited body that fails to supply an annual report in accordance with this section commits an offence and is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 51(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 FMA must publish plan relating to auditor regulation and oversight
     
@@ -1421,9 +1423,9 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the ways in which the FMA expects accredited bodies to contribute to those impacts, outcomes, or objectives; and
     
-    *   (c) how the FMA proposes to monitor accredited bodies under [section 54][72].
+    *   (c) how the FMA proposes to monitor accredited bodies under [section 54][71].
     
-    (4) In this section and [section 55][73], _financial year_ means a financial year of the FMA.
+    (4) In this section and [section 55][72], _financial year_ means a financial year of the FMA.
 
 ##### 53 Publication of policies
     
@@ -1447,13 +1449,15 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) otherwise hinders, obstructs, or delays the FMA in acting under subsection (1).
     
-    (4) An accredited body that commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding $100,000\.
+    (4) An accredited body that commits an offence under subsection (3) is liable on conviction to a fine not exceeding $100,000\.
+    
+    Section 54(4): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 FMA must report on audit regulatory systems of each accredited body
     
 *   (1) The FMA must, no later than 6 months after the start of each financial year, prepare a report on the extent to which the audit regulatory systems of each accredited body are adequate and effective.
     
-    (2) Subsection (1) does not apply in respect of an accredited body if the FMA has, in the preceding financial year, been monitoring the accredited body under [section 54][72] for less than 6 months.
+    (2) Subsection (1) does not apply in respect of an accredited body if the FMA has, in the preceding financial year, been monitoring the accredited body under [section 54][71] for less than 6 months.
     
     (3) The FMA must, no later than 1 month after preparing a report under subsection (1), publish a notice in the _Gazette_ that---
         
@@ -1461,7 +1465,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) names the accredited bodies covered by the report; and
     
-    *   (c) summarises any directions given under [section 56][74] in the preceding financial year (but not the reasons); and
+    *   (c) summarises any directions given under [section 56][73] in the preceding financial year (but not the reasons); and
     
     *   (d) specifies where a copy of the report may be inspected or obtained.
     
@@ -1477,13 +1481,13 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the adequacy or effectiveness of its audit regulatory systems can be improved in order to better meet the purposes of this Act; or
     
-    *   (c) its audit regulatory systems are inconsistent in a material respect with the FMA's plan under [section 52][70].
+    *   (c) its audit regulatory systems are inconsistent in a material respect with the FMA's plan under [section 52][69].
     
     (2) The directions may require the accredited body, within the time and in the manner specified by the FMA in the directions, to amend its audit regulatory systems to effectively address the matters that caused the FMA to give the directions.
 
 ##### 57 Miscellaneous matters relating to directions
     
-*   A direction given under [section 56][74] must---
+*   A direction given under [section 56][73] must---
         
     *   (a) be in writing; and
     
@@ -1493,7 +1497,9 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 58 Offence to contravene directions
     
-*   An accredited body that fails to comply with a direction under [section 56][74] commits an offence and is liable on summary conviction to a fine not exceeding $50,000\.
+*   An accredited body that fails to comply with a direction under [section 56][73] commits an offence and is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 58: amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 FMA may suspend or cancel accreditation or censure accredited body in certain circumstances
     
@@ -1503,11 +1509,11 @@ Licences, registration, accreditation, and role of FMA
             
         *   (i) comply with a condition of its accreditation; or
         
-        *   (ii) supply an annual report in accordance with [section 51][69]; or
+        *   (ii) supply an annual report in accordance with [section 51][68]; or
         
-        *   (iii) comply with a direction under [section 56][74]; or
+        *   (iii) comply with a direction under [section 56][73]; or
         
-        *   (iv) comply with [section 18][30], [42][59], [43][60], [54(2)][72], or [77][97]; or
+        *   (iv) comply with [section 18][29], [42][58], [43][59], [54(2)][71], or [77][96]; or
         
         
     
@@ -1531,7 +1537,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (e) order the accredited body to pay to the FMA any sum that the FMA considers just and reasonable towards the costs and expenses of, and incidental to, the FMA's consideration of whether an order should be made under this section:
     
-    *   (f) make an order under [section 61][79].
+    *   (f) make an order under [section 61][78].
     
     (3) However, the FMA may only cancel or suspend the accreditation of an accredited body if the FMA is satisfied on reasonable grounds that---
         
@@ -1543,7 +1549,7 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 60 Miscellaneous matters relating to orders
     
-*   An order made under [section 59][77] must---
+*   An order made under [section 59][76] must---
         
     *   (a) be in writing; and
     
@@ -1555,33 +1561,33 @@ Licences, registration, accreditation, and role of FMA
     
 *   (1) If the accreditation of a person (_A_) is---
         
-    *   (a) cancelled under [section 59][77], each licence issued by A is treated as cancelled:
+    *   (a) cancelled under [section 59][76], each licence issued by A is treated as cancelled:
     
-    *   (b) suspended under [section 59][77], each licence issued by A is treated as suspended during the period in which A's accreditation is suspended.
+    *   (b) suspended under [section 59][76], each licence issued by A is treated as suspended during the period in which A's accreditation is suspended.
     
     (2) The FMA may order that subsection (1) does not apply in respect of 1 or more classes of licences.
     
-    (3) If 1 or more classes of licences issued by A continue in force as a result of an order under subsection (2), the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may perform regulatory functions in respect of those licences as if the other accredited body issued those licences (and that other accredited body may be the FMA acting under [section 91][117]).
+    (3) If 1 or more classes of licences issued by A continue in force as a result of an order under subsection (2), the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may perform regulatory functions in respect of those licences as if the other accredited body issued those licences (and that other accredited body may be the FMA acting under [section 91][116]).
     
-    (4) The FMA may authorise a person whose licence is suspended or cancelled under subsection (1) to act, or continue to act, in respect of an issuer audit under [section 23][36].
+    (4) The FMA may authorise a person whose licence is suspended or cancelled under subsection (1) to act, or continue to act, in respect of an issuer audit under [section 23][35].
     
     (5) Subsection (1) is subject to subsections (2) and (4).
     
-    (6) If A was the relevant body under [subpart 2][39] in respect of a registered audit firm,---
+    (6) If A was the relevant body under [subpart 2][38] in respect of a registered audit firm,---
         
-    *   (a) the cancellation or suspension of A's accreditation under [section 59][77] does not result in the cancellation or suspension of the registration of the audit firm; but
+    *   (a) the cancellation or suspension of A's accreditation under [section 59][76] does not result in the cancellation or suspension of the registration of the audit firm; but
     
-    *   (b) the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may act as the relevant body under that subpart (and that other accredited body may be the FMA acting under [section 91][117]).
+    *   (b) the FMA may order, on the terms and conditions that it thinks fit, that another accredited body may act as the relevant body under that subpart (and that other accredited body may be the FMA acting under [section 91][116]).
     
     
 
 ##### 62 FMA must give opportunity to make submissions
     
-*   The FMA must not exercise a power referred to in [section 49(3)][67], [56][74], or [59][77] unless---
+*   The FMA must not exercise a power referred to in [section 49(3)][66], [56][73], or [59][76] unless---
         
     *   (a) the FMA gives the accredited body at least 10 working days' written notice of the following matters before it exercises the power:
             
-        *   (i) that the FMA may exercise a power under [section 49(3)][67], [56][74], or [59][77] (as the case may be); and
+        *   (i) that the FMA may exercise a power under [section 49(3)][66], [56][73], or [59][76] (as the case may be); and
         
         *   (ii) the reasons why it is considering exercising that power; and
         
@@ -1597,13 +1603,13 @@ Licences, registration, accreditation, and role of FMA
         
     *   (a) to decline to grant accreditation to the person under this subpart; or
     
-    *   (b) to include conditions under [section 49][67] on the person's accreditation or proposed accreditation; or
+    *   (b) to include conditions under [section 49][66] on the person's accreditation or proposed accreditation; or
     
-    *   (c) to give a direction under [section 56][74] in respect of the person's accreditation; or
+    *   (c) to give a direction under [section 56][73] in respect of the person's accreditation; or
     
-    *   (d) to make an order under [section 59][77] in respect of the person's accreditation; or
+    *   (d) to make an order under [section 59][76] in respect of the person's accreditation; or
     
-    *   (e) to decline to make an order under [section 61(2)][79] in respect of the person's licence.
+    *   (e) to decline to make an order under [section 61(2)][78] in respect of the person's licence.
     
     (2) An appeal must be brought---
         
@@ -1631,9 +1637,9 @@ Licences, registration, accreditation, and role of FMA
     
 *   (1) The FMA must, for the purpose referred to in subsection (2), ensure that a review is carried out of the systems, policies, and procedures of---
         
-    *   (a) each registered audit firm, and every other audit firm that has at least 1 partner, director, or employee who holds a licence issued under [section 11][18]; and
+    *   (a) each registered audit firm, and every other audit firm that has at least 1 partner, director, or employee who holds a licence issued under [section 11][17]; and
     
-    *   (b) each licensed auditor who holds a licence issued under [section 11][18] that is not a partner, director, or employee of an audit firm.
+    *   (b) each licensed auditor who holds a licence issued under [section 11][17] that is not a partner, director, or employee of an audit firm.
     
     (2) The quality review is for the purpose of ensuring that the systems, policies, and procedures are satisfactory in terms of---
         
@@ -1649,9 +1655,9 @@ Licences, registration, accreditation, and role of FMA
     
     (3) A quality review must be carried out at least once in every 4-year period during which,---
         
-    *   (a) in the case of subsection (1)(a), at least 1 partner, director, or employee of the audit firm holds a licence issued under [section 11][18]:
+    *   (a) in the case of subsection (1)(a), at least 1 partner, director, or employee of the audit firm holds a licence issued under [section 11][17]:
     
-    *   (b) in the case of subsection (1)(b), the person holds a licence issued under [section 11][18].
+    *   (b) in the case of subsection (1)(b), the person holds a licence issued under [section 11][17].
     
     (4) The audit firm or licensed auditor (as the case may be) must pay to the FMA the prescribed fees and charges in respect of a quality review at the prescribed time or times.
 
@@ -1665,15 +1671,15 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 67 Restrictions on application of section 65
     
-*   (1) [Section 65][84] does not apply to---
+*   (1) [Section 65][83] does not apply to---
         
     *   (a) an overseas auditor who is issued with a licence by the FMA (and holds no other licence issued by an accredited body); or
     
-    *   (b) an overseas audit firm that is a registered audit firm (as a result of an application made under [section 26][41]); or
+    *   (b) an overseas audit firm that is a registered audit firm (as a result of an application made under [section 26][40]); or
     
     *   (c) the Auditor-General or any of his or her employees.
     
-    (2) If a licensed auditor or registered audit firm is acting under the [Public Audit Act 2001][137], the quality review under [section 65][84] may not extend to a review of any matter relating to the carrying out of an audit under [section 15][150] of that Act, or to the provision of a specific service under [section 17][151] of that Act, unless the Auditor-General gives his or her written approval.
+    (2) If a licensed auditor or registered audit firm is acting under the [Public Audit Act 2001][136], the quality review under [section 65][83] may not extend to a review of any matter relating to the carrying out of an audit under [section 15][150] of that Act, or to the provision of a specific service under [section 17][151] of that Act, unless the Auditor-General gives his or her written approval.
     
     (3) Subsection (2) does not limit subsection (1).
     
@@ -1735,13 +1741,13 @@ Licences, registration, accreditation, and role of FMA
     
     *   (d) every issuer in relation to which the licensed auditor (or any of his or her employees) has carried out, or is carrying out, an issuer audit.
     
-    (3) Every person to whom this section applies commits an offence if the person hinders, obstructs, or delays the FMA (or a person referred to in [section 66(1)][85]) in connection with the carrying out of a quality review and is liable on summary conviction,---
+    (3) Every person to whom this section applies commits an offence if the person hinders, obstructs, or delays the FMA (or a person referred to in [section 66(1)][84]) in connection with the carrying out of a quality review and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $40,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    
+    Section 69(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 FMA may issue directions
     
@@ -1759,7 +1765,7 @@ Licences, registration, accreditation, and role of FMA
     
     (2) The FMA may give directions to the audit firm or the licensed auditor that require the audit firm or the licensed auditor, within the time and in the manner specified by the FMA in the directions, to amend the systems, policies, and procedures of the audit firm or the licensed auditor to effectively address the matters that caused the FMA to give the directions.
     
-    (3) Subsection (4) applies if, after inquiries are made under [section 68(3)][87] in respect of an issuer audit, the FMA is satisfied on reasonable grounds that the issuer audit has not been carried out---
+    (3) Subsection (4) applies if, after inquiries are made under [section 68(3)][86] in respect of an issuer audit, the FMA is satisfied on reasonable grounds that the issuer audit has not been carried out---
         
     *   (a) in accordance with---
             
@@ -1775,13 +1781,13 @@ Licences, registration, accreditation, and role of FMA
     
     (5) However, the FMA may not require a person, under subsection (4), to pay compensation to any other person in respect of the failure.
     
-    (6) Subsection (4) does not limit the action that the FMA may take in respect of the matter under [subpart 7][94] (and, for that purpose, the FMA's inquiries under [section 68(3)][87] may form part of or constitute the FMA's investigation under that subpart).
+    (6) Subsection (4) does not limit the action that the FMA may take in respect of the matter under [subpart 7][93] (and, for that purpose, the FMA's inquiries under [section 68(3)][86] may form part of or constitute the FMA's investigation under that subpart).
 
 ##### 71 Consequences of failing to comply with directions
     
-*   (1) If an audit firm fails to comply with a direction given to it under [section 70][89],---
+*   (1) If an audit firm fails to comply with a direction given to it under [section 70][88],---
         
-    *   (a) every partner or director of the firm commits an offence and is liable on summary conviction to a fine not exceeding $25,000 if---
+    *   (a) every partner or director of the firm commits an offence and is liable on conviction to a fine not exceeding $25,000 if---
             
         *   (i) the failure to comply took place with his or her authority, permission, or consent; or
         
@@ -1797,11 +1803,11 @@ Licences, registration, accreditation, and role of FMA
         
         
     
-    *   (c) a notice may be given to the Registrar under [section 29][44] to cancel the registration of the audit firm.
+    *   (c) a notice may be given to the Registrar under [section 29][43] to cancel the registration of the audit firm.
     
-    (2) If a licensed auditor fails to comply with a direction given to him or her under [section 70][89],---
+    (2) If a licensed auditor fails to comply with a direction given to him or her under [section 70][88],---
         
-    *   (a) he or she commits an offence and is liable on summary conviction to a fine not exceeding $25,000; and
+    *   (a) he or she commits an offence and is liable on conviction to a fine not exceeding $25,000; and
     
     *   (b) the FMA may make an order that his or her licence be---
             
@@ -1812,16 +1818,20 @@ Licences, registration, accreditation, and role of FMA
         
     
     (3) If the FMA orders the cancellation of a licence, it may also make an order that the person whose licence is cancelled may not apply to be relicensed, whether with the same or a different accredited body, before the expiry of a specified period.
+    
+    Section 71(1)(a): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 71(2)(a): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 72 Miscellaneous matters relating to directions and orders
     
-*   (1) A direction given under [section 70][89] and an order made under [section 71][90] must---
+*   (1) A direction given under [section 70][88] and an order made under [section 71][89] must---
         
     *   (a) be in writing; and
     
     *   (b) state the grounds on which it is given or made.
     
-    (2) The FMA must give a copy of the order made under [section 71][90] to---
+    (2) The FMA must give a copy of the order made under [section 71][89] to---
         
     *   (a) the licensed auditor; and
     
@@ -1829,11 +1839,11 @@ Licences, registration, accreditation, and role of FMA
     
     *   (c) the Registrar.
     
-    (3) The FMA must not give a direction to an audit firm under [section 70][89] unless---
+    (3) The FMA must not give a direction to an audit firm under [section 70][88] unless---
         
     *   (a) the FMA gives to the audit firm (or to at least 1 of the partners or directors of the audit firm) at least 10 working days' written notice of the following matters before it gives the direction:
             
-        *   (i) that the FMA may give a direction under [section 70][89]; and
+        *   (i) that the FMA may give a direction under [section 70][88]; and
         
         *   (ii) the reasons why it is considering exercising that power; and
         
@@ -1841,11 +1851,11 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the FMA gives the audit firm or a representative of the audit firm an opportunity to make written submissions and to be heard on the matter within that notice period.
     
-    (4) The FMA must not give a direction to a licensed auditor under [section 70][89] or make an order under [section 71][90] in respect of a licensed auditor unless---
+    (4) The FMA must not give a direction to a licensed auditor under [section 70][88] or make an order under [section 71][89] in respect of a licensed auditor unless---
         
     *   (a) the FMA gives the licensed auditor at least 10 working days' written notice of the following matters before it exercises the power:
             
-        *   (i) that the FMA may give a direction under [section 70][89] or make an order under [section 71][90] (as the case may be); and
+        *   (i) that the FMA may give a direction under [section 70][88] or make an order under [section 71][89] (as the case may be); and
         
         *   (ii) the reasons why it is considering exercising that power; and
         
@@ -1853,7 +1863,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the FMA gives the licensed auditor or his or her representative an opportunity to make written submissions and to be heard on the matter within that notice period.
     
-    (5) The FMA may order that an order under [section 71][90] is to take effect immediately or at some later time.
+    (5) The FMA may order that an order under [section 71][89] is to take effect immediately or at some later time.
 
 ##### 73 FMA must prepare annual report
     
@@ -1897,7 +1907,7 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) the accredited body has asked the FMA to act under this subpart in respect of the matter.
     
-    (3) In this subpart, an _investigation_ is an investigation into the conduct of a licensed auditor in respect of 1 or more issuer audits (whether he or she holds a licence issued under [section 11][18] or [12][20]).
+    (3) In this subpart, an _investigation_ is an investigation into the conduct of a licensed auditor in respect of 1 or more issuer audits (whether he or she holds a licence issued under [section 11][17] or [12][19]).
     
     (4) This subpart does not limit any other powers of the FMA, under any other enactment, to investigate or inquire into any matter.
 
@@ -1921,11 +1931,13 @@ Licences, registration, accreditation, and role of FMA
     
     *   (b) otherwise hinders, obstructs, or delays the FMA in carrying out an investigation.
     
-    (3) An accredited body that commits an offence under subsection (2) is liable on summary conviction to a fine not exceeding $100,000\.
+    (3) An accredited body that commits an offence under subsection (2) is liable on conviction to a fine not exceeding $100,000\.
+    
+    Section 77(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Disciplinary powers of FMA
     
-*   (1) The FMA may, after acting under [section 75][95], make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more issuer audits carried out by the licensed auditor are not being, or have not been, carried out---
+*   (1) The FMA may, after acting under [section 75][94], make 1 or more of the orders specified in subsection (2) if it is satisfied on reasonable grounds that 1 or more issuer audits carried out by the licensed auditor are not being, or have not been, carried out---
         
     *   (a) in accordance with---
             
@@ -1971,13 +1983,13 @@ Licences, registration, accreditation, and role of FMA
 
 ##### 79 Miscellaneous matters relating to orders
     
-*   (1) An order made under [section 78][98] must---
+*   (1) An order made under [section 78][97] must---
         
     *   (a) be in writing; and
     
     *   (b) state the grounds on which it is made.
     
-    (2) The FMA must give a copy of the order made under [section 78][98] to---
+    (2) The FMA must give a copy of the order made under [section 78][97] to---
         
     *   (a) the licensed auditor; and
     
@@ -2016,7 +2028,7 @@ Amendments to other enactments, regulations, transitional provisions, and other 
 
 ##### 82 Amendments to other Acts
     
-*   The enactments specified in the [Schedule][123] are amended in the manner indicated in that schedule.
+*   The enactments specified in the [Schedule][122] are amended in the manner indicated in that schedule.
 
 ##### 83 Amendment to Securities Regulations 2009
     
@@ -2042,15 +2054,15 @@ Amendments to other enactments, regulations, transitional provisions, and other 
         
     *   (a) prescribing countries, states, or territories for the purposes of the definition of overseas auditor:
     
-    *   (b) prescribing changes for the purposes of [sections 13][21] and [42][59]:
+    *   (b) prescribing changes for the purposes of [sections 13][20] and [42][58]:
     
-    *   (c) prescribing information or documents for the purposes of [section 14][23], [27][42], [43][60], [51][69], [85][110], [86][111], or [87][112]:
+    *   (c) prescribing information or documents for the purposes of [section 14][22], [27][41], [43][59], [51][68], [85][109], [86][110], or [87][111]:
     
-    *   (d) prescribing conditions or matters that conditions may relate to for the purposes of [section 49(2)(c)][67]:
+    *   (d) prescribing conditions or matters that conditions may relate to for the purposes of [section 49(2)(c)][66]:
     
     *   (e) prescribing the manner in which a quality review must be carried out (including prescribing matters that must be considered, reviewed, or tested):
     
-    *   (f) prescribing powers for the purposes of [subpart 8][100] of Part 2:
+    *   (f) prescribing powers for the purposes of [subpart 8][99] of Part 2:
     
     *   (g) prescribing forms for the purposes of this Act, and prescribing---
             
@@ -2108,9 +2120,9 @@ Amendments to other enactments, regulations, transitional provisions, and other 
         
     *   (a) immediately before the commencement of this section, is a chartered accountant who has, at any time within the 2-year period before that commencement, acted as the auditor in respect of an issuer audit; and
     
-    *   (b) satisfies the transitional requirements prescribed under [section 32(1)(g)][48] for the purposes of this section.
+    *   (b) satisfies the transitional requirements prescribed under [section 32(1)(g)][47] for the purposes of this section.
     
-    (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the Institute under [section 11][18] that---
+    (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the Institute under [section 11][17] that---
         
     *   (a) is recorded in the register; and
     
@@ -2118,7 +2130,7 @@ Amendments to other enactments, regulations, transitional provisions, and other 
     
     *   (c) expires on the earliest of---
             
-        *   (i) the date that the person is issued with another licence under [section 11][18]; or
+        *   (i) the date that the person is issued with another licence under [section 11][17]; or
         
         *   (ii) the date that the licence is cancelled; or
         
@@ -2128,7 +2140,7 @@ Amendments to other enactments, regulations, transitional provisions, and other 
     
     (3) For the purpose of including information in the register in respect of a person that is treated as holding a licence under this section, the person must provide to the Registrar the prescribed information within 40 working days after the commencement of this section.
     
-    (4) If a person fails to comply with subsection (3), the licence may be cancelled under [section 20][33] or suspended under [section 21][34].
+    (4) If a person fails to comply with subsection (3), the licence may be cancelled under [section 20][32] or suspended under [section 21][33].
 
 ##### 86 Certain overseas auditors treated as holding licence
     
@@ -2136,9 +2148,9 @@ Amendments to other enactments, regulations, transitional provisions, and other 
         
     *   (a) immediately before the commencement of this section, is a person referred to in [section 199(1)(c) or (d)][155] of the Companies Act 1993 and who has, at any time within the 2-year period before that commencement, acted as the auditor in respect of an issuer audit; and
     
-    *   (b) satisfies the transitional requirements prescribed under [section 32(1)(g)][48] for the purposes of this section.
+    *   (b) satisfies the transitional requirements prescribed under [section 32(1)(g)][47] for the purposes of this section.
     
-    (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the FMA under [section 12][20] that---
+    (2) The person must, on and after the commencement of this section, be treated as holding a licence issued by the FMA under [section 12][19] that---
         
     *   (a) is recorded in the register; and
     
@@ -2146,7 +2158,7 @@ Amendments to other enactments, regulations, transitional provisions, and other 
     
     *   (c) expires on the earliest of---
             
-        *   (i) the date that the person is issued with another licence under [section 12][20]; or
+        *   (i) the date that the person is issued with another licence under [section 12][19]; or
         
         *   (ii) the date that the licence is cancelled; or
         
@@ -2156,43 +2168,43 @@ Amendments to other enactments, regulations, transitional provisions, and other 
     
     (3) For the purpose of including information in the register in respect of a person that is treated as holding a licence under this section, the person must provide to the Registrar the prescribed information within 40 working days after the commencement of this section.
     
-    (4) If a person fails to comply with subsection (3), the licence may be cancelled under [section 20][33] or suspended under [section 21][34].
+    (4) If a person fails to comply with subsection (3), the licence may be cancelled under [section 20][32] or suspended under [section 21][33].
 
 ##### 87 Certain audit firms treated as registered
     
 *   (1) This section applies to an audit firm that,---
         
-    *   (a) immediately after the commencement of [section 85][110], is a partnership that has at least 1 partner who is a licensed auditor; and
+    *   (a) immediately after the commencement of [section 85][109], is a partnership that has at least 1 partner who is a licensed auditor; and
     
     *   (b) has, at any time within the 2-year period before that commencement, been appointed or engaged to act as the auditor in respect of an issuer audit; and
     
-    *   (c) satisfies the transitional requirements prescribed under [section 32(1)(g)][48] for the purposes of this section.
+    *   (c) satisfies the transitional requirements prescribed under [section 32(1)(g)][47] for the purposes of this section.
     
     (2) However, this section does not apply to an overseas audit firm or a limited partnership.
     
-    (3) On and from the commencement of this section, the audit firm must be treated as being a registered audit firm and the Institute must be treated as being the relevant body for the purposes of [subpart 2][39] of Part 2\.
+    (3) On and from the commencement of this section, the audit firm must be treated as being a registered audit firm and the Institute must be treated as being the relevant body for the purposes of [subpart 2][38] of Part 2\.
     
     (4) However, the audit firm ceases to be treated as being a registered audit firm under this section on the earliest of---
         
-    *   (a) the date that the Registrar registers the audit firm under [section 27][42] (following an application under [section 25][40]); or
+    *   (a) the date that the Registrar registers the audit firm under [section 27][41] (following an application under [section 25][39]); or
     
-    *   (b) the date that the registration is cancelled under [section 29][44]; or
+    *   (b) the date that the registration is cancelled under [section 29][43]; or
     
     *   (c) the date that is 2 years after the commencement of this section.
     
-    (5) Subsection (4) does not prevent an audit firm from continuing to be a registered audit firm by virtue of registration under [subpart 2][39] of Part 2\.
+    (5) Subsection (4) does not prevent an audit firm from continuing to be a registered audit firm by virtue of registration under [subpart 2][38] of Part 2\.
     
     (6) For the purpose of including information in the register in respect of an audit firm that is treated as being a registered audit firm under this section, the audit firm must provide to the Registrar the prescribed information within 40 working days after the commencement of this section.
     
-    (7) If an audit firm fails to comply with subsection (6), the registration of the firm may be cancelled under [section 29][44].
+    (7) If an audit firm fails to comply with subsection (6), the registration of the firm may be cancelled under [section 29][43].
 
 ##### 88 Transitional provisions do not prevent exercise of powers
     
-*   Nothing in [section 85][110] or [86][111] or [87][112] prevents---
+*   Nothing in [section 85][109] or [86][110] or [87][111] prevents---
         
     *   (a) the Institute or the FMA (as the case may be) from---
             
-        *   (i) varying, removing, adding, or substituting conditions of the licence or registration (including varying the condition referred to in [section 85(2)(b)][110] or [86(2)(b)][111]); or
+        *   (i) varying, removing, adding, or substituting conditions of the licence or registration (including varying the condition referred to in [section 85(2)(b)][109] or [86(2)(b)][110]); or
         
         *   (ii) cancelling or suspending the licence of a person or giving a notice to the Registrar to cancel the registration of an audit firm; or
         
@@ -2206,25 +2218,25 @@ Amendments to other enactments, regulations, transitional provisions, and other 
 
 ##### 89 Requirements do not apply to accounting periods that have ended
     
-*   (1) The requirements in [sections 8][12] and [9][13] do not apply to issuer audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section.
+*   (1) The requirements in [sections 8][11] and [9][12] do not apply to issuer audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section.
     
-    (2) The amendments made by [section 82][105] and the [Schedule][123] do not apply to audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section and, accordingly, the requirements and provisions that would have applied if those amendments had not been made continue to apply to those audits.
+    (2) The amendments made by [section 82][104] and the [Schedule][122] do not apply to audits in respect of financial statements, or group financial statements, prepared for accounting periods that ended before the commencement of this section and, accordingly, the requirements and provisions that would have applied if those amendments had not been made continue to apply to those audits.
 
 ### Subpart 4---Miscellaneous provisions
 
 ##### 90 Application of Act in respect of Auditor-General
     
-*   Nothing in [section 8][12] or [9][13] applies to the Auditor-General (and, accordingly, the Auditor-General is not required to hold a licence).
+*   Nothing in [section 8][11] or [9][12] applies to the Auditor-General (and, accordingly, the Auditor-General is not required to hold a licence).
 
 ##### 91 FMA may act as accredited body
     
 *   (1) The FMA may act as an accredited body if it---
         
-    *   (a) suspends or cancels the accreditation of a body under [section 59][77]; and
+    *   (a) suspends or cancels the accreditation of a body under [section 59][76]; and
     
     *   (b) considers that it is in the public interest for it to act as an accredited body having regard to the purposes of this Act.
     
-    (2) If the FMA decides to act under subsection (1), it must be treated as being an accredited body (except for the purposes of [subpart 5][65] of Part 2).
+    (2) If the FMA decides to act under subsection (1), it must be treated as being an accredited body (except for the purposes of [subpart 5][64] of Part 2).
 
 ##### 92 Power to amend or revoke
     
@@ -2302,26 +2314,28 @@ Amendments to other enactments, regulations, transitional provisions, and other 
     
     (2) In subsection (1), _specified body_ means an accredited body, the Registrar, or the FMA.
     
-    (3) A person who is convicted of an offence under subsection (1) is liable on summary conviction to a fine not exceeding $50,000\.
+    (3) A person who is convicted of an offence under subsection (1) is liable on conviction to a fine not exceeding $50,000\.
+    
+    Section 96(3): amended, on 1 July 2013, by [section 413][140] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
 ## Schedule  
 Amendments to other Acts relating to auditor regulation
 
-[s 82][105]
+[s 82][104]
 
-##### [Building Societies Act 1965][157] (1965 No 22)
+##### Building Societies Act 1965 (1965 No 22)
 
-[Section 2(1)][158]: insert in their appropriate alphabetical order:
+[Section 2(1)][157]: insert in their appropriate alphabetical order:
 
 > "_licensed auditor_ has the same meaning as in section 6 of the Auditor Regulation Act 2011
 > 
 > "_registered audit firm_ has the same meaning as in section 6 of the Auditor Regulation Act 2011".
 
-[Section 98(2)][159]: omit ""at the time of the appointment"" and substitute ""from time to time"".
+[Section 98(2)][158]: omit ""at the time of the appointment"" and substitute ""from time to time"".
 
-[Section 98][159]: insert after subsection (2):
+[Section 98][158]: insert after subsection (2):
 
 > *   "(2A) However, if the society is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),---
 >         
@@ -2333,7 +2347,7 @@ Amendments to other Acts relating to auditor regulation
 > 
 > 
 
-[Section 100(1)][160]: repeal and substitute:
+[Section 100(1)][159]: repeal and substitute:
 
 > *   "(1) No person is qualified for appointment as auditor of a society unless he or she is,---
 >         
@@ -2351,9 +2365,9 @@ Amendments to other Acts relating to auditor regulation
 > 
 > 
 
-##### [Companies Act 1993][161] (1993 No 105)
+##### Companies Act 1993 (1993 No 105)
 
-[Section 198][162]: repeal and substitute:
+[Section 198][160]: repeal and substitute:
 
 > ##### "198 Appointment of partnership
 >     
@@ -2387,27 +2401,27 @@ Amendments to other Acts relating to auditor regulation
 > 
 > 
 
-##### [Financial Markets Authority Act 2011][130] (2011 No 5)
+##### Financial Markets Authority Act 2011 (2011 No 5)
 
-Paragraph (a) of the definition of _financial markets participant_ in [section 4][163]: insert ""accredited,"" after ""appointed,"" in each place where it appears.
+Paragraph (a) of the definition of _financial markets participant_ in [section 4][161]: insert ""accredited,"" after ""appointed,"" in each place where it appears.
 
-Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
+Definition of _law enforcement or regulatory agency_ in [section 4][161]: add:
 
 > *   "(i) an accredited body (within the meaning of section 6(1) of the Auditor Regulation Act 2011)".
 > 
 > 
 
-[Part 1][164] of Schedule 1: insert before the item relating to the Financial Advisers Act 2008 ""Auditor Regulation Act 2011"".
+[Part 1][162] of Schedule 1: insert before the item relating to the Financial Advisers Act 2008 ""Auditor Regulation Act 2011"".
 
-##### [Friendly Societies and Credit Unions Act 1982][165] (1982 No 118)
+##### [Friendly Societies and Credit Unions Act 1982][163] (1982 No 118)
 
-[Section 2][166]: insert in their appropriate alphabetical order:
+[Section 2][164]: insert in their appropriate alphabetical order:
 
 > "_licensed auditor_ has the same meaning as in section 6 of the Auditor Regulation Act 2011
 > 
 > "_registered audit firm_ has the same meaning as in section 6 of the Auditor Regulation Act 2011".
 
-[Section 63(1)][167]: repeal and substitute:
+[Section 63(1)][165]: repeal and substitute:
 
 > *   "(1) No person is qualified for appointment as auditor of a registered society or branch under this Act unless he or she is,---
 >         
@@ -2425,9 +2439,9 @@ Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
 > 
 > 
 
-[Section 63(2)][167]: omit ""at the time of the appointment"" and substitute ""from time to time"".
+[Section 63(2)][165]: omit ""at the time of the appointment"" and substitute ""from time to time"".
 
-[Section 63][167]: insert after subsection (2):
+[Section 63][165]: insert after subsection (2):
 
 > *   "(2A) However, if the registered society or branch is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),---
 >         
@@ -2439,9 +2453,9 @@ Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
 > 
 > 
 
-[Section 63(5)][167]: insert "", (2A),"" after ""Subsections (1)"".
+[Section 63(5)][165]: insert "", (2A),"" after ""Subsections (1)"".
 
-[Section 123(1)][168]: repeal and substitute:
+[Section 123(1)][166]: repeal and substitute:
 
 > *   "(1) For the purposes of section 122(1), no person is qualified for appointment as auditor of a credit union unless he or she is,---
 >         
@@ -2459,9 +2473,9 @@ Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
 > 
 > 
 
-[Section 123(2)][168]: omit ""at the time of the appointment"" and substitute ""from time to time"".
+[Section 123(2)][166]: omit ""at the time of the appointment"" and substitute ""from time to time"".
 
-[Section 123][168]: insert after subsection (2):
+[Section 123][166]: insert after subsection (2):
 
 > *   "(2A) However, if the credit union is an issuer (within the meaning of section 4 of the Financial Reporting Act 1993),---
 >         
@@ -2473,11 +2487,11 @@ Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
 > 
 > 
 
-[Section 123(5)][168]: insert "", (2A),"" after ""Subsections (1)"".
+[Section 123(5)][166]: insert "", (2A),"" after ""Subsections (1)"".
 
-##### [Industrial and Provident Societies Act 1908][169] (1908 No 81)
+##### Industrial and Provident Societies Act 1908 (1908 No 81)
 
-[Section 19][170]: insert after subsection (2):
+[Section 19][167]: insert after subsection (2):
 
 > *   "(2A) However, if the registered society is an issuer, the registered society must appoint---
 >         
@@ -2491,29 +2505,29 @@ Definition of _law enforcement or regulatory agency_ in [section 4][163]: add:
 > 
 > 
 
-[Section 19(3)][170]: insert ""(except subsection (2A))"" after ""Nothing in this section"".
+[Section 19(3)][167]: insert ""(except subsection (2A))"" after ""Nothing in this section"".
 
-##### [KiwiSaver Act 2006][171] (2006 No 40)
+##### KiwiSaver Act 2006 (2006 No 40)
 
-[Section 174(b)][172]: omit ""audited"" and substitute ""audited by a licensed auditor or a registered audit firm (within the meaning of section 6 of the Auditor Regulation Act 2011)"".
+[Section 174(b)][168]: omit ""audited"" and substitute ""audited by a licensed auditor or a registered audit firm (within the meaning of section 6 of the Auditor Regulation Act 2011)"".
 
-##### [New Zealand Institute of Chartered Accountants Act 1996][132] (1996 No 39)
+##### New Zealand Institute of Chartered Accountants Act 1996 (1996 No 39)
 
-[Section 15][173]: add:
+[Section 15][169]: add:
 
 > *   "(5) Nothing in this section limits sections 8 and 9 of the Auditor Regulation Act 2011\."
 > 
 > 
 
-##### [Privacy Act 1993][144] (1993 No 28)
+##### Privacy Act 1993 (1993 No 28)
 
-[Part 1][174] of Schedule 2: insert in its appropriate alphabetical order:
+[Part 1][170] of Schedule 2: insert in its appropriate alphabetical order:
 
 > Auditor Regulation Act 2011 section 38
 > 
 > 
 
-##### [Public Audit Act 2001][137] (2001 No 10)
+##### Public Audit Act 2001 (2001 No 10)
 
 New section 15A: insert after [section 15][150]:
 
@@ -2539,7 +2553,7 @@ New section 15A: insert after [section 15][150]:
 > 
 > 
 
-[Section 32][175]: insert after subsection (1):
+[Section 32][171]: insert after subsection (1):
 
 > *   "(1A) The Auditor-General must, before appointing a person to act as the auditor of an issuer under subsection (1)(a) or (b), be satisfied that the person---
 >         
@@ -2561,9 +2575,9 @@ New section 15A: insert after [section 15][150]:
 > 
 > 
 
-##### [Securities Act 1978][136] (1978 No 103)
+##### Securities Act 1978 (1978 No 103)
 
-[Section 2C(1)][176]: repeal and substitute:
+[Section 2C(1)][172]: repeal and substitute:
 
 > *   "(1) For the purposes of this Act, _qualified auditor_ means---
 >         
@@ -2581,9 +2595,9 @@ New section 15A: insert after [section 15][150]:
 > 
 > 
 
-##### [Superannuation Schemes Act 1989][177] (1989 No 10)
+##### Superannuation Schemes Act 1989 (1989 No 10)
 
-Definition of _auditor_ in [section 2(1)][178]: repeal and substitute:
+Definition of _auditor_ in [section 2(1)][173]: repeal and substitute:
 
 > "_auditor_ means---
 >     
@@ -2593,217 +2607,178 @@ Definition of _auditor_ in [section 2(1)][178]: repeal and substitute:
 > 
 > 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Auditor Regulation Act 2011\. The reprint incorporates all the amendments to the Act as at 1 May 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][179] ![](/images/external_link.gif).
+*   This is a reprint of the Auditor Regulation Act 2011 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][180] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][174] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][175] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][181] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][176] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][177] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][182] and [17E][183] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][143]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Auditor Regulation Act Commencement Order 2011][178] (SR 2011/380)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Auditor Regulation Act Commencement Order 2011][184] (SR 2011/380)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][140]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3701602
 [2]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3701603
-[3]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM4442101
-[4]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230576
-[5]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230577
-[6]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230578
-[7]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230579
-[8]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230580
-[9]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230581
-[10]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231433
-[11]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231434
-[12]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231435
-[13]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616753
-[14]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616754
-[15]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231437
-[16]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231438
-[17]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231439
-[18]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231440
-[19]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231441
-[20]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231442
-[21]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231444
-[22]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231446
-[23]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231447
-[24]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231448
-[25]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231449
-[26]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231450
-[27]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231451
-[28]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231452
-[29]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231454
-[30]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231455
-[31]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231456
-[32]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231457
-[33]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231458
-[34]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231460
-[35]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231461
-[36]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231462
-[37]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231463
-[38]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231464
-[39]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616755
-[40]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616756
-[41]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616757
-[42]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616758
-[43]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3444401
-[44]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616760
-[45]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616761
-[46]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616762
-[47]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231465
-[48]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231466
-[49]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231467
-[50]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616763
-[51]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231468
-[52]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231469
-[53]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231470
-[54]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231471
-[55]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231472
-[56]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231473
-[57]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231474
-[58]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231475
-[59]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616764
-[60]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231478
-[61]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231479
-[62]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231480
-[63]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231481
-[64]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231482
-[65]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231483
-[66]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231484
-[67]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231485
-[68]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231486
-[69]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231487
-[70]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231488
-[71]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231490
-[72]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231491
-[73]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231492
-[74]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231493
-[75]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231494
-[76]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231495
-[77]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231496
-[78]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231497
-[79]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231498
-[80]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231500
-[81]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231501
-[82]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231502
-[83]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231503
-[84]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231504
-[85]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231505
-[86]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231506
-[87]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231507
-[88]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231508
-[89]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231509
-[90]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231510
-[91]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231511
-[92]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616766
-[93]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616767
-[94]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231513
-[95]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231514
-[96]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231516
-[97]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231517
-[98]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231518
-[99]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231519
-[100]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231520
-[101]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231521
-[102]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231522
-[103]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231523
-[104]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231524
-[105]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231525
-[106]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616768
-[107]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231526
-[108]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231527
-[109]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231529
-[110]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231530
-[111]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231531
-[112]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616770
-[113]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231532
-[114]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616771
-[115]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231533
-[116]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231534
-[117]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616772
-[118]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231535
-[119]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3701502
-[120]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231536
-[121]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231537
-[122]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231538
-[123]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231602
-[124]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM4115723
-[125]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324804
-[126]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88548
-[127]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM26805
-[128]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391405
-[129]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324914
-[130]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3231004
-[131]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324920
-[132]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391363
-[133]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324887
-[134]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM323597
-[135]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324926
-[136]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM25999
-[137]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88540
-[138]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM1139205
-[139]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM1139100
-[140]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM323200
-[141]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195534
-[142]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195097
-[143]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195549
+[3]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230576
+[4]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230577
+[5]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230578
+[6]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230579
+[7]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230580
+[8]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3230581
+[9]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231433
+[10]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231434
+[11]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231435
+[12]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616753
+[13]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616754
+[14]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231437
+[15]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231438
+[16]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231439
+[17]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231440
+[18]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231441
+[19]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231442
+[20]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231444
+[21]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231446
+[22]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231447
+[23]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231448
+[24]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231449
+[25]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231450
+[26]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231451
+[27]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231452
+[28]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231454
+[29]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231455
+[30]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231456
+[31]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231457
+[32]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231458
+[33]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231460
+[34]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231461
+[35]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231462
+[36]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231463
+[37]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231464
+[38]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616755
+[39]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616756
+[40]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616757
+[41]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616758
+[42]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3444401
+[43]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616760
+[44]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616761
+[45]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616762
+[46]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231465
+[47]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231466
+[48]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231467
+[49]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616763
+[50]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231468
+[51]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231469
+[52]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231470
+[53]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231471
+[54]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231472
+[55]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231473
+[56]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231474
+[57]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231475
+[58]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616764
+[59]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231478
+[60]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231479
+[61]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231480
+[62]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231481
+[63]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231482
+[64]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231483
+[65]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231484
+[66]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231485
+[67]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231486
+[68]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231487
+[69]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231488
+[70]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231490
+[71]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231491
+[72]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231492
+[73]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231493
+[74]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231494
+[75]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231495
+[76]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231496
+[77]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231497
+[78]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231498
+[79]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231500
+[80]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231501
+[81]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231502
+[82]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231503
+[83]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231504
+[84]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231505
+[85]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231506
+[86]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231507
+[87]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231508
+[88]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231509
+[89]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231510
+[90]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231511
+[91]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616766
+[92]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616767
+[93]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231513
+[94]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231514
+[95]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231516
+[96]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231517
+[97]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231518
+[98]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231519
+[99]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231520
+[100]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231521
+[101]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231522
+[102]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231523
+[103]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231524
+[104]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231525
+[105]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616768
+[106]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231526
+[107]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231527
+[108]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231529
+[109]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231530
+[110]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231531
+[111]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616770
+[112]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231532
+[113]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616771
+[114]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231533
+[115]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231534
+[116]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3616772
+[117]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231535
+[118]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3701502
+[119]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231536
+[120]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231537
+[121]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231538
+[122]: http://www.legislation.govt.nz/act/public/2011/0021/latest/whole.html#DLM3231602
+[123]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM4115723
+[124]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324804
+[125]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88548
+[126]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM26805
+[127]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391405
+[128]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324914
+[129]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3231004
+[130]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324920
+[131]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391363
+[132]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324887
+[133]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM323597
+[134]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM324926
+[135]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM25999
+[136]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88540
+[137]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM1139205
+[138]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM1139100
+[139]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM323200
+[140]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3360714
+[141]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2997643
+[142]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998573
+[143]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998633
 [144]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM296638
 [145]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM297439
 [146]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM297441
@@ -2817,31 +2792,25 @@ Definition of _auditor_ in [section 2(1)][178]: repeal and substitute:
 [154]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2285682
 [155]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM320887
 [156]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM31483
-[157]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM367767
-[158]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM367774
-[159]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM372070
-[160]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM372072
-[161]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM319569
-[162]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM320886
-[163]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3231030
-[164]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3232235
-[165]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM59731
-[166]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM59737
-[167]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM60211
-[168]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM60841
-[169]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM144405
-[170]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM144646
-[171]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM378371
-[172]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM379404
-[173]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391416
-[174]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM298477
-[175]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88919
-[176]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM27265
-[177]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM143291
-[178]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM143297
-[179]: http://www.pco.parliament.govt.nz/reprints/
-[180]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195439
-[181]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[182]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195468
-[183]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM195470
-[184]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM4115718
+[157]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM367774
+[158]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM372070
+[159]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM372072
+[160]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM320886
+[161]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3231030
+[162]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM3232235
+[163]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM59731
+[164]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM59737
+[165]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM60211
+[166]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM60841
+[167]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM144646
+[168]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM379404
+[169]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM391416
+[170]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM298477
+[171]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM88919
+[172]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM27265
+[173]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM143297
+[174]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998516
+[175]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998515
+[176]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM2998532
+[177]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[178]: http://www.legislation.govt.nz/act/public/2011/0021/latest/link.aspx?id=DLM4115718
