@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Secondhand Dealers and Pawnbrokers Act 2004Public Act2004 No 70
 
@@ -23,241 +23,241 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Licences and certificates][7]
 
 [Licences: who must be licensed][8]
 
-[6][9] [Secondhand dealers engaged in business to be licensed][9]
+[6][9][][9][Secondhand dealers engaged in business to be licensed][9]
 
-[7][10] [Pawnbrokers to be licensed][10]
+[7][10][][10][Pawnbrokers to be licensed][10]
 
 [Licences: how to get licensed][11]
 
-[8][12] [Application for licence][12]
+[8][12][][12][Application for licence][12]
 
-[9][13] [Issue of licence: individual applicant][13]
+[9][13][][13][Issue of licence: individual applicant][13]
 
-[10][14] [Issue of licence: company applicant][14]
+[10][14][][14][Issue of licence: company applicant][14]
 
-[11][15] [Refusal to issue licence][15]
+[11][15][][15][Refusal to issue licence][15]
 
-[12][16] [Certified copies of licence][16]
+[12][16][][16][Certified copies of licence][16]
 
-[13][17] [Effect of licence][17]
+[13][17][][17][Effect of licence][17]
 
-[14][18] [Individual licence holder regarded as holding certificate][18]
+[14][18][][18][Individual licence holder regarded as holding certificate][18]
 
-[15][19] [Expiry and renewal of licences][19]
+[15][19][][19][Expiry and renewal of licences][19]
 
-[16][20] [Cancellation of licences][20]
+[16][20][][20][Cancellation of licences][20]
 
-[17][21] [Updating licence information][21]
+[17][21][][21][Updating licence information][21]
 
-[18][22] [Licences not transferable, except to temporary licence holder][22]
+[18][22][][22][Licences not transferable, except to temporary licence holder][22]
 
 [Certificates: who must hold them][23]
 
-[19][24] [Who must hold certificate][24]
+[19][24][][24][Who must hold certificate][24]
 
-[20][25] [Offences relating to failure to hold certificate][25]
+[20][25][][25][Offences relating to failure to hold certificate][25]
 
 [Certificates: how to get them][26]
 
-[21][27] [Application for certificate][27]
+[21][27][][27][Application for certificate][27]
 
-[22][28] [Disqualification from holding certificate][28]
+[22][28][][28][Disqualification from holding certificate][28]
 
-[23][29] [Waiver of disqualification][29]
+[23][29][][29][Waiver of disqualification][29]
 
-[24][30] [Checks on applicants][30]
+[24][30][][30][Checks on applicants][30]
 
-[25][31] [Police objection][31]
+[25][31][][31][Police objection][31]
 
-[26][32] [What happens if Police object to applicant][32]
+[26][32][][32][What happens if Police object to applicant][32]
 
-[27][33] [Hearing into Police objection][33]
+[27][33][][33][Hearing into Police objection][33]
 
-[28][34] [Eligibility for, and issue of, certificate][34]
+[28][34][][34][Eligibility for, and issue of, certificate][34]
 
-[29][35] [Complaints by Police about certificate holders, licence holders, and persons concerned in management of company][35]
+[29][35][][35][Complaints by Police about certificate holders, licence holders, and persons concerned in management of company][35]
 
-[30][36] [Expiry and renewal of certificates][36]
+[30][36][][36][Expiry and renewal of certificates][36]
 
-[31][37] [Cancellation and suspension of certificates][37]
+[31][37][][37][Cancellation and suspension of certificates][37]
 
 [Obligations of certificate holders][38]
 
-[32][39] [Obligation to show certificate][39]
+[32][39][][39][Obligation to show certificate][39]
 
-[33][40] [Updating certificate information][40]
+[33][40][][40][Updating certificate information][40]
 
 [Appeals][41]
 
-[34][42] [Appeals against decision of Licensing Authority][42]
+[34][42][][42][Appeals against decision of Licensing Authority][42]
 
-[35][43] [Determination of appeal][43]
+[35][43][][43][Determination of appeal][43]
 
 [Part 3][44]  
 [Obligations of licence holders, promoters, and Internet auction providers][44]
 
-[Subpart 1][45]---[Obligations of all licence holders][45]
+[Subpart 1][45][---][45][Obligations of all licence holders][45]
 
 [Licences and records][46]
 
-[36][47] [Obligation to show and to display licence][47]
+[36][47][][47][Obligation to show and to display licence][47]
 
-[37][48] [Employee records][48]
+[37][48][][48][Employee records][48]
 
-[38][49] [Police access to employee records][49]
+[38][49][][49][Police access to employee records][49]
 
 [Goods][50]
 
-[39][51] [Obligation to report and hold stolen goods][51]
+[39][51][][51][Obligation to report and hold stolen goods][51]
 
-[40][52] [Police may issue hold notice][52]
+[40][52][][52][Police may issue hold notice][52]
 
-[41][53] [Obligation to give Police access to goods][53]
+[41][53][][53][Obligation to give Police access to goods][53]
 
-[Subpart 2][54]---[Obligations of licensed secondhand dealers][54]
+[Subpart 2][54][---][54][Obligations of licensed secondhand dealers][54]
 
 [Records and verification of identity][55]
 
-[42][56] [Dealers record][56]
+[42][56][][56][Dealers record][56]
 
-[43][57] [Verifying identity][57]
+[43][57][][57][Verifying identity][57]
 
-[44][58] [Storage of dealers record][58]
+[44][58][][58][Storage of dealers record][58]
 
-[45][59] [Police access to dealers record][59]
+[45][59][][59][Police access to dealers record][59]
 
 [Secondhand dealing][60]
 
-[46][61] [Secondhand dealers not to enter into buyback contracts][61]
+[46][61][][61][Secondhand dealers not to enter into buyback contracts][61]
 
-[47][62] [Articles to be kept for 14 days][62]
+[47][62][][62][Articles to be kept for 14 days][62]
 
-[48][63] [Articles to be labelled][63]
+[48][63][][63][Articles to be labelled][63]
 
-[49][64] [Modification of rules where groups of articles acquired as single item][64]
+[49][64][][64][Modification of rules where groups of articles acquired as single item][64]
 
-[50][65] [Offences relating to secondhand dealing][65]
+[50][65][][65][Offences relating to secondhand dealing][65]
 
-[Subpart 3][66]---[Obligations of licensed pawnbrokers][66]
+[Subpart 3][66][---][66][Obligations of licensed pawnbrokers][66]
 
 [Records and verification of identity][67]
 
-[51][68] [Pawnbrokers record][68]
+[51][68][][68][Pawnbrokers record][68]
 
-[52][69] [Verifying identity of pledgers][69]
+[52][69][][69][Verifying identity of pledgers][69]
 
-[53][70] [Storage of pawnbrokers record][70]
+[53][70][][70][Storage of pawnbrokers record][70]
 
-[54][71] [Police access to pawnbrokers record][71]
+[54][71][][71][Police access to pawnbrokers record][71]
 
 [Pawnbroking][72]
 
-[55][73] [Pawnbrokers not to enter into buyback contracts][73]
+[55][73][][73][Pawnbrokers not to enter into buyback contracts][73]
 
-[56][74] [Pawnbrokers to enter into contracts only at pawnbroking premises][74]
+[56][74][][74][Pawnbrokers to enter into contracts only at pawnbroking premises][74]
 
-[57][75] [Redemption price][75]
+[57][75][][75][Redemption price][75]
 
-[58][76] [Redemption date][76]
+[58][76][][76][Redemption date][76]
 
-[59][77] [Pledge tickets][77]
+[59][77][][77][Pledge tickets][77]
 
-[60][78] [Pawned goods to be retained until redemption date][78]
+[60][78][][78][Pawned goods to be retained until redemption date][78]
 
-[61][79] [Pawned goods to be labelled][79]
+[61][79][][79][Pawned goods to be labelled][79]
 
-[62][80] [Right of pledger to redeem and inspect pawned goods][80]
+[62][80][][80][Right of pledger to redeem and inspect pawned goods][80]
 
-[63][81] [Right of pawnbroker to sell unredeemed goods after redemption date and retain redemption price][81]
+[63][81][][81][Right of pawnbroker to sell unredeemed goods after redemption date and retain redemption price][81]
 
-[64][82] [What happens if sale price is greater than redemption price][82]
+[64][82][][82][What happens if sale price is greater than redemption price][82]
 
-[65][83] [Miscellaneous rules about pawnbroking][83]
+[65][83][][83][Miscellaneous rules about pawnbroking][83]
 
-[66][84] [Sale of goods by pledger to pawnbroker][84]
+[66][84][][84][Sale of goods by pledger to pawnbroker][84]
 
-[67][85] [Offences relating to pawnbroking][85]
+[67][85][][85][Offences relating to pawnbroking][85]
 
-[Subpart 4][86]---[Obligations of promoters and Internet auction providers][86]
+[Subpart 4][86][---][86][Obligations of promoters and Internet auction providers][86]
 
 [Records][87]
 
-[68][88] [Promoters record][88]
+[68][88][][88][Promoters record][88]
 
-[69][89] [Internet auction providers record][89]
+[69][89][][89][Internet auction providers record][89]
 
 [Part 4][90]  
 [Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions][90]
 
 [Licensing Authority and Deputy Licensing Authority][91]
 
-[70][92] [Appointment of Licensing Authority][92]
+[70][92][][92][Appointment of Licensing Authority][92]
 
-[71][93] [Deputy Licensing Authorities][93]
+[71][93][][93][Deputy Licensing Authorities][93]
 
-[72][94] [Remuneration, and status under certain Acts][94]
+[72][94][][94][Remuneration, and status under certain Acts][94]
 
-[73][95] [Immunity][95]
+[73][95][][95][Immunity][95]
 
-[74][96] [Functions of Licensing Authority][96]
+[74][96][][96][Functions of Licensing Authority][96]
 
-[75][97] [Administrative support for Licensing Authority][97]
+[75][97][][97][Administrative support for Licensing Authority][97]
 
-[76][98] [Delegations][98]
+[76][98][][98][Delegations][98]
 
-[77][99] [Annual report][99]
+[77][99][][99][Annual report][99]
 
 [Registers][100]
 
-[78][101] [Public registers of licence holders and of certificate holders][101]
+[78][101][][101][Public registers of licence holders and of certificate holders][101]
 
-[79][102] [Content of licence holders register][102]
+[79][102][][102][Content of licence holders register][102]
 
-[80][103] [Content of certificate holders register][103]
+[80][103][][103][Content of certificate holders register][103]
 
-[81][104] [Public access to public registers][104]
+[81][104][][104][Public access to public registers][104]
 
-[82][105] [Police access to other information held by Licensing Authority][105]
+[82][105][][105][Police access to other information held by Licensing Authority][105]
 
 [Defences to certain charges][106]
 
-[83][107] [Charges involving failure to show or make copy of document, or show or make available any thing][107]
+[83][107][][107][Charges involving failure to show or make copy of document, or show or make available any thing][107]
 
 [Regulations][108]
 
-[84][109] [Regulations][109]
+[84][109][][109][Regulations][109]
 
 [Transitional provisions][110]
 
-[85][111] [Existing licence deemed to be transitional licence][111]
+[85][111][][111][Existing licence deemed to be transitional licence][111]
 
-[86][112] [Applications not complete by commencement date][112]
+[86][112][][112][Applications not complete by commencement date][112]
 
 [Repeals and consequential amendments][113]
 
-[87][114] [Repeal of Secondhand Dealers Act 1963 and Pawnbrokers Act 1908][114]
+[87][114][][114][Repeal of Secondhand Dealers Act 1963 and Pawnbrokers Act 1908][114]
 
-[88][115] [Repeal of regulations][115]
+[88][115][][115][Repeal of regulations][115]
 
-[89][116] [Consequential amendments][116]
+[89][116][][116][Consequential amendments][116]
 
 [Schedule 1][117]  
 [Articles for purposes of this Act][117]
@@ -432,9 +432,11 @@ Licences and certificates
     
     (5) Acquiring secondhand articles as trade-ins when selling new goods does not of itself indicate that a person is engaged in business as a secondhand dealer.
     
-    (6) A person who carries on business as a secondhand dealer without holding a licence commits an offence and is liable on summary conviction to a fine not exceeding $20,000\.
+    (6) A person who carries on business as a secondhand dealer without holding a licence commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
     Compare: 1963 No 10 s 3
+    
+    Section 6(6): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Pawnbrokers to be licensed
     
@@ -442,9 +444,11 @@ Licences and certificates
     
     (2) If 2 or more people act as pawnbrokers in partnership, each partner must hold a licence.
     
-    (3) A person who acts as a pawnbroker without holding a licence commits an offence and is liable on summary conviction to a fine not exceeding $20,000\.
+    (3) A person who acts as a pawnbroker without holding a licence commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
     Compare: 1908 No 141 s 3
+    
+    Section 7(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Licences: how to get licensed
 
@@ -608,9 +612,11 @@ Licences and certificates
     
     (4) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
     
-    (5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
+    (5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
     
     Compare: 1908 No 141 s 14; 1963 No 10 ss 17, 18
+    
+    Section 16(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Updating licence information
     
@@ -620,9 +626,11 @@ Licences and certificates
     
     (3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to the Licensing Authority.
     
-    (4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
+    (4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
     
     Compare: 1908 No 141 s 8; 1963 No 10 s 7
+    
+    Section 17(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Licences not transferable, except to temporary licence holder
     
@@ -634,7 +642,7 @@ Licences and certificates
     
     *   (b) the assignee in bankruptcy of a licence holder; or
     
-    *   (c) the manager, as defined in [section 2][125] of the Protection of Personal and Property Rights Act 1988, of a licence holder.
+    *   (c) the manager, as defined in [section 2][126] of the Protection of Personal and Property Rights Act 1988, of a licence holder.
     
     (3) A temporary licence holder has all the rights and responsibilities of a licence holder.
     
@@ -662,7 +670,7 @@ Licences and certificates
 
 ##### 20 Offences relating to failure to hold certificate
     
-*   (1) A person who does not hold a certificate, or who is not regarded (under [section 14][18]) as holding a certificate, commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, knowing that he or she does not hold, or is not regarded as holding, a certificate,---
+*   (1) A person who does not hold a certificate, or who is not regarded (under [section 14][18]) as holding a certificate, commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, knowing that he or she does not hold, or is not regarded as holding, a certificate,---
         
     *   (a) enters into a transaction on behalf of a licensed secondhand dealer, whether or not the person is in fact authorised by the secondhand dealer to do so; or
     
@@ -672,7 +680,7 @@ Licences and certificates
     
     (2) It is a defence to a charge under subsection (1)(a) or (b) if the person charged proves that he or she was not, at the relevant time, required to hold a certificate, by virtue of [section 19(2)][24].
     
-    (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if, other than in the circumstances described in [section 19(2)][24],---
+    (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if, other than in the circumstances described in [section 19(2)][24],---
         
     *   (a) he or she authorises a person to engage in transactions or issue pledge tickets on his or her behalf; and
     
@@ -680,7 +688,9 @@ Licences and certificates
     
     *   (c) the licence holder knows, or should know, that the person does not have a certificate.
     
+    Section 20(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 20(3: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Certificates: how to get them
 
@@ -806,7 +816,7 @@ Licences and certificates
 
 ##### 27 Hearing into Police objection
     
-*   (1) For the purpose of conducting a hearing into a Police objection, [sections 4 to 12][126] of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
+*   (1) For the purpose of conducting a hearing into a Police objection, [sections 4 to 12][127] of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
     
     (2) Without limiting subsection (1), at a hearing before the Licensing Authority,---
         
@@ -816,7 +826,7 @@ Licences and certificates
     
     (3) At the conclusion of the hearing, the Licensing Authority must determine whether to uphold or dismiss the Police objection.
     
-    Section 27(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 27(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ##### 28 Eligibility for, and issue of, certificate
     
@@ -898,9 +908,11 @@ Licences and certificates
     
     (3) If the Licensing Authority suspends a certificate, the suspension must be for a fixed period of not more than 3 months, and at the end of that period the Licensing Authority must either lift the suspension or cancel the certificate.
     
-    (4) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to the Licensing Authority immediately upon cancellation of the certificate.
+    (4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to the Licensing Authority immediately upon cancellation of the certificate.
     
     Compare: 1908 No 141 s 14; 1963 No 10 ss 17, 18
+    
+    Section 31(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Obligations of certificate holders
 
@@ -908,11 +920,13 @@ Licences and certificates
     
 *   (1) At any time when a certificate holder is engaged in secondhand dealing or pawnbroking, he or she must, on request by a constable, show his or her certificate to that constable.
     
-    (2) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with a request under subsection (1).
+    (2) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with a request under subsection (1).
     
     (3) [Section 83][107] applies to a charge under subsection (2).
     
-    Section 32(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 32(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 32(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Updating certificate information
     
@@ -922,9 +936,11 @@ Licences and certificates
     
     (3) If an amended certificate is issued, the certificate holder must immediately return the old certificate to the Licensing Authority.
     
-    (4) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
+    (4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
     
     Compare: 1908 No 141 s 8; 1963 No 10 s 7
+    
+    Section 33(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appeals
 
@@ -959,13 +975,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (2) Every licence holder must ensure that a certified copy of his or her licence is prominently displayed so as to be readily visible to the public at every place of business used by the licence holder for secondhand dealing or pawnbroking purposes.
     
-    (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (2).
+    (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (2).
     
     (4) [Section 83][107] applies to a charge under subsection (3).
     
     Compare: 1908 No 141 s 11; 1963 No 10 s 16
     
-    Section 36(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 36(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 36(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Employee records
     
@@ -989,7 +1007,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (4) An employer must keep the records on the employee record that relate to each employee for at least 12 months from the date on which the relevant employee ceases employment with the employer.
     
-    (5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to---
+    (5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to---
         
     *   (a) keep an employee record; or
     
@@ -997,7 +1015,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (c) keep it at the place and for the period required by this section.
     
-    
+    Section 37(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Police access to employee records
     
@@ -1013,19 +1031,21 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (b) return it within 2 hours.
     
-    (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+    (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
     
     (4) [Section 83][107] applies to a charge under subsection (3).
     
     Compare: 1908 No 141 ss 11, 28, 29; 1963 No 10 s 16
     
-    Section 38(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 38(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 38(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 38(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 38(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 38(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 38(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Goods
 
@@ -1043,7 +1063,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)(a) and (b).
     
-    (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
+    (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
     
     (4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the Police issue a hold notice under [section 40][52] with respect to the goods.
     
@@ -1051,13 +1071,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 34, 36
     
-    Section 39(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 39(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 39(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 39(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 39(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 39(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 39(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Police may issue hold notice
     
@@ -1065,27 +1087,31 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (2) If a licence holder is issued with a hold notice, he or she must not dispose of the goods identified in the notice for 28 days from the date of the notice except with the authority of a constable.
     
-    (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a constable.
+    (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a constable.
     
     (4) Subsection (2) does not override [section 60][78].
     
-    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 40(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 40(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 40(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 40(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ##### 41 Obligation to give Police access to goods
     
 *   (1) A licence holder must, when required to do so by a constable, show, or make available to, that constable all or any of the goods held by the licence holder for the purpose of secondhand dealing or pawnbroking.
     
-    (2) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a constable, to show or make available to the constable any goods as required by subsection (1).
+    (2) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a constable, to show or make available to the constable any goods as required by subsection (1).
     
     (3) [Section 83][107] applies to a charge under subsection (2).
     
-    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 41(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 41(2): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ### Subpart 2---Obligations of licensed secondhand dealers
 
@@ -1143,7 +1169,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (4) The information required to be shown in the dealers record must be added to the record as soon as practicable after the information is available.
     
-    (5) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she---
+    (5) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she---
         
     *   (a) fails without reasonable excuse to---
             
@@ -1158,6 +1184,8 @@ Obligations of licence holders, promoters, and Internet auction providers
     *   (b) makes a false entry in his or her dealers record.
     
     Compare: 1963 No 10 ss 12, 12A
+    
+    Section 42(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Verifying identity
     
@@ -1199,11 +1227,13 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (3) Every dealers record must be kept available for inspection (at any reasonable hour) on request by a constable.
     
-    (4) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
+    (4) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
     
     Compare: 1963 No 10 ss 12, 12A
     
-    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 44(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Police access to dealers record
     
@@ -1219,17 +1249,19 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (b) return the document to the dealer within 2 hours.
     
-    (3) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+    (3) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
     
     (4) [Section 83][107] applies to a charge under subsection (3).
     
-    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 45(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 45(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 45(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Secondhand dealing
 
@@ -1261,7 +1293,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1963 No 10 ss 14, 15
     
-    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ##### 48 Articles to be labelled
     
@@ -1289,15 +1321,17 @@ Obligations of licence holders, promoters, and Internet auction providers
 
 ##### 50 Offences relating to secondhand dealing
     
-*   (1) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she enters into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
+*   (1) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she enters into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
     
-    (2) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse,---
+    (2) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse,---
         
     *   (a) to comply with [section 47(1) and (2)][62] (which relate to retaining articles), other than in the circumstances set out in section 47(3); or
     
     *   (b) to comply with [section 48][63] (which relates to labelling articles).
     
+    Section 50(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 50(2: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Obligations of licensed pawnbrokers
 
@@ -1345,7 +1379,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (3) The information required to be shown in the pawnbrokers record must be added to the record as soon as practicable after the information is available.
     
-    (4) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she---
+    (4) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she---
         
     *   (a) fails without reasonable excuse---
             
@@ -1360,6 +1394,8 @@ Obligations of licence holders, promoters, and Internet auction providers
     *   (b) makes a false entry in his or her pawnbrokers record.
     
     Compare: 1908 No 141 s 17
+    
+    Section 51(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52 Verifying identity of pledgers
     
@@ -1387,11 +1423,13 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (3) Every pawnbrokers record must be available for inspection on request at any reasonable hour by a constable.
     
-    (4) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to store his or her pawnbrokers record as required by this section.
+    (4) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to store his or her pawnbrokers record as required by this section.
     
     Compare: 1908 No 141 s 17
     
-    Section 53(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 53(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 53(4): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Police access to pawnbrokers record
     
@@ -1407,19 +1445,21 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (b) return the document to the pawnbroker within 2 hours.
     
-    (3) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
+    (3) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
     
     (4) [Section 83][107] applies to a charge under subsection (3).
     
     Compare: 1908 No 141 ss 28, 29
     
-    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 54(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 54(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 54(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
+    
+    Section 54(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Pawnbroking
 
@@ -1533,7 +1573,7 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     Compare: 1908 No 141 ss 24, 25
     
-    Section 63(2)(a)(ii): substituted, on 26 April 2005, by [section 7][128] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 63(2)(a)(ii): substituted, on 26 April 2005, by [section 7][129] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 ##### 64 What happens if sale price is greater than redemption price
     
@@ -1583,7 +1623,7 @@ Obligations of licence holders, promoters, and Internet auction providers
 
 ##### 67 Offences relating to pawnbroking
     
-*   (1) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
+*   (1) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
         
     *   (a) enters into a buyback contract as a buyer while apparently acting in the course of business as a pawnbroker:
     
@@ -1603,9 +1643,13 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     *   (i) fails to comply with any of the conditions set out in [section 66(1)][84] when purchasing goods that are subject to a pawnbroking contract.
     
-    (2) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails, without reasonable excuse, to comply with any other obligation under any of [sections 55 to 65][73].
+    (2) A licensed pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails, without reasonable excuse, to comply with any other obligation under any of [sections 55 to 65][73].
     
     Compare: 1908 No 141 s 24
+    
+    Section 67(1): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 67(2: amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Obligations of promoters and Internet auction providers
 
@@ -1657,7 +1701,7 @@ Obligations of licence holders, promoters, and Internet auction providers
         
         
     
-    (6) A promoter commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
+    (6) A promoter commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
         
     *   (a) fails to comply with the requirements of this section relating to the promoters record; or
     
@@ -1667,13 +1711,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (7) [Section 83][107] applies to a charge under subsection (6)(c).
     
-    Section 68(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 68(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 68(5)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 68(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 68(6)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 68(6): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 68(6)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ##### 69 Internet auction providers record
     
@@ -1699,7 +1745,7 @@ Obligations of licence holders, promoters, and Internet auction providers
         
         
     
-    (5) An Internet auction provider commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
+    (5) An Internet auction provider commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,---
         
     *   (a) fails to comply with the requirements of this section relating to his or her Internet auction providers record; or
     
@@ -1709,13 +1755,15 @@ Obligations of licence holders, promoters, and Internet auction providers
     
     (6) [Section 83][107] applies to a charge under subsection (5)(c).
     
-    Section 69(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 69(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 69(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 69(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 69(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 69(5): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 69(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions
@@ -1758,7 +1806,7 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
 *   (1) The Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if the Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
     
-    (2) For the purposes of the [State Sector Act 1988][129] and the [Government Superannuation Fund Act 1956][130], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
+    (2) For the purposes of the [State Sector Act 1988][130] and the [Government Superannuation Fund Act 1956][131], a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ##### 73 Immunity
     
@@ -1880,7 +1928,7 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
     *   (c) information relating to the cancellation of any licence or to the cancellation or suspension of any certificate.
     
-    Section 82: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 82: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 #### Defences to certain charges
 
@@ -1894,9 +1942,9 @@ Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous pro
     
     (2) This section does not limit any other defences that may be available.
     
-    Section 83(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 83(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
     
-    Section 83(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][127] of the Policing Act 2008 (2008 No 72).
+    Section 83(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][128] of the Policing Act 2008 (2008 No 72).
 
 #### Regulations
 
@@ -2128,22 +2176,22 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Auctioneers Act 1928 (1928 No 29)
 
-_Amendment(s) incorporated in the [Act(s)][131]._
+_Amendment(s) incorporated in the [Act(s)][132]._
 
 ##### Motor Vehicle Sales Act 2003 (2003 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][132]._
+_Amendment(s) incorporated in the [Act(s)][133]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][133]._
+_Amendment(s) incorporated in the [Act(s)][134]._
 
 ## Part 2  
 Regulations amended
 
 ##### District Courts Rules 1992 (SR 1992/109)
 
-_Amendment(s) incorporated in the [rules][134]._
+_Amendment(s) incorporated in the [rules][135]._
 
 ---
 
@@ -2161,13 +2209,13 @@ _Amendment(s) incorporated in the [rules][134]._
 
 ###### 1 General
     
-*   This is a reprint of the Secondhand Dealers and Pawnbrokers Act 2004\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Secondhand Dealers and Pawnbrokers Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][135] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][136] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -2177,7 +2225,7 @@ _Amendment(s) incorporated in the [rules][134]._
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][136] and [17E][137] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][137] and [17E][138] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2208,9 +2256,11 @@ _Amendment(s) incorporated in the [rules][134]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][127]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][125]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][128]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][128]
+    
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][129]
 
 
 
@@ -2339,16 +2389,17 @@ _Amendment(s) incorporated in the [rules][134]._
 [122]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM11234
 [123]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM329886
 [124]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM96438
-[125]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM126533
-[126]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM139145
-[127]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM1102349
-[128]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM333795
-[129]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM129109
-[130]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM446000
-[131]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205334
-[132]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM188542
-[133]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM298477
-[134]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM158826
-[135]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195439
-[136]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195468
-[137]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195470
+[125]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM3360714
+[126]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM126533
+[127]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM139145
+[128]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM1102349
+[129]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM333795
+[130]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM129109
+[131]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM446000
+[132]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM205334
+[133]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM188542
+[134]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM298477
+[135]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM158826
+[136]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195439
+[137]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195468
+[138]: http://www.legislation.govt.nz/act/public/2004/0070/latest/link.aspx?id=DLM195470
