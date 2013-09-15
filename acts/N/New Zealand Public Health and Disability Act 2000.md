@@ -1,5 +1,5 @@
 Reprint  
-as at 21 May 2013
+as at 27 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -528,7 +528,7 @@ Preliminary provisions
     
     _Crown_ means Her Majesty the Queen in right of New Zealand
     
-    _Crown entity subsidiary_ has the meaning set out in [section 8(2)][178] of the Crown Entities Act 2004
+    _Crown entity subsidiary_ has the meaning set out in the second column of [section 7(1)(c)][178] of the Crown Entities Act 2004
     
     _Crown funding agreement_ has the meaning given to it by [section 10][12]
     
@@ -682,27 +682,29 @@ Preliminary provisions
     
     Section 6(1) **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
+    Section 6(1) **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][186] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
     Section 6(1) **district strategic plan**: repealed, on 24 February 2011, by [section 5(1)][183] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 6(1) **eligible people**: amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 6(1) **good employer**: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 6(1) **health practitioner**: inserted, on 18 September 2004, by [section 175(1)][186] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 6(1) **health practitioner**: inserted, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 6(1) **health professional body**: inserted, on 18 September 2004, by [section 175(1)][186] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 6(1) **health professional body**: inserted, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 6(1) **HPA**: inserted, on 1 July 2012, by [section 5(3)][184] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 6(1) **HQSC**: inserted, on 9 November 2010, by [section 5(2)][187] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 6(1) **HQSC**: inserted, on 9 November 2010, by [section 5(2)][188] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 6(1) **partner**: inserted, on 26 April 2005, by [section 7][185] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
     Section 6(1) **publicly-owned health and disability organisation**: amended, on 1 July 2012, by [section 5(2)][184] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 6(1) **publicly-owned health and disability organisation**: amended, on 9 November 2010, by [section 5(3)][187] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 6(1) **publicly-owned health and disability organisation**: amended, on 9 November 2010, by [section 5(3)][188] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 6(1) **RHMU**: repealed, on 17 May 2005, by [section 5(1)][188] of the New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63).
+    Section 6(1) **RHMU**: repealed, on 17 May 2005, by [section 5(1)][189] of the New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63).
     
     Section 6(1) **sitting day**: repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -771,7 +773,7 @@ Responsibilities of Minister
     
     *   (c) monitor performance under a Crown funding agreement.
     
-    (2A) A Crown funding agreement is an output agreement for the purposes of [Part 4][189] of the Crown Entities Act 2004 in respect of any outputs covered by the agreement and [section 170(2) to (5)][190] of the Crown Entities Act 2004 applies to a Crown funding agreement, with any necessary modifications.
+    (2A) A Crown funding agreement is an output agreement for the purposes of [Part 4][190] of the Crown Entities Act 2004 in respect of any outputs covered by the agreement and [section 170(2) to (5)][191] of the Crown Entities Act 2004 applies to a Crown funding agreement, with any necessary modifications.
     
     (3) Except to the extent that the Minister determines by written notice to the Ministry of Health, the Ministry of Health may exercise the Minister's powers under subsection (2) on the Minister's behalf.
     
@@ -779,7 +781,7 @@ Responsibilities of Minister
     
     (5) As soon as practicable after giving a notice under subsection (3), the Minister must publish a copy of the notice in the _Gazette_.
     
-    (6) To avoid doubt, a Minister may not require a publicly-owned health and disability organisation to have in place a separate output agreement under [section 170(1)][190] of the Crown Entities Act 2004, in respect of any outputs covered by a Crown funding agreement.
+    (6) To avoid doubt, a Minister may not require a publicly-owned health and disability organisation to have in place a separate output agreement under [section 170(1)][191] of the Crown Entities Act 2004, in respect of any outputs covered by a Crown funding agreement.
     
     Section 10(2A): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -807,9 +809,9 @@ Responsibilities of Minister
     
     (5) Nothing in this section or in [sections 13 to 16][15] limits any powers that the Minister has under any other enactment or rule of law.
     
-    Section 11(2): amended, on 23 April 2011, by [section 6(1)][191] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 11(2): amended, on 23 April 2011, by [section 6(1)][192] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 11(5): amended, on 23 April 2011, by [section 6(2)][191] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 11(5): amended, on 23 April 2011, by [section 6(2)][192] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 12 Information about committees to be made public
     
@@ -921,7 +923,7 @@ Responsibilities of Minister
         
     *   (a) 1 or more committees established under [section 11][13]:
     
-    *   (b) the ethics committee of the Health Research Council established under [section 24][192] of the Health Research Council Act 1990---
+    *   (b) the ethics committee of the Health Research Council established under [section 24][193] of the Health Research Council Act 1990---
     
     to consider matters specified by the Minister and to report to the Minister or a person specified by the Minister.
     
@@ -937,13 +939,13 @@ Responsibilities of Minister
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 23 April 2011, by [section 7][193] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 17: repealed, on 23 April 2011, by [section 7][194] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 18 Mortality review committees
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 23 April 2011, by [section 7][193] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 18: repealed, on 23 April 2011, by [section 7][194] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ## Part 3  
 District Health Boards
@@ -960,7 +962,7 @@ District Health Boards
     
     *   (b) the number of members of the board of the DHB that are to be elected by the electors of each constituency.
     
-    (4) An Order in Council under this section may not take effect in the period commencing after 30 April in a year in which triennial elections under the [Local Electoral Act 2001][194] are to be held and ending with the close of the 58th day after polling day appointed for those elections if the Order---
+    (4) An Order in Council under this section may not take effect in the period commencing after 30 April in a year in which triennial elections under the [Local Electoral Act 2001][195] are to be held and ending with the close of the 58th day after polling day appointed for those elections if the Order---
         
     *   (a) alters a geographical area specified in [Schedule 1][159]; or
     
@@ -972,7 +974,7 @@ District Health Boards
     
     (5) With the written permission of the Minister, a DHB may adopt an operating name that is different from the name of the DHB specified in [Schedule 1][159].
     
-    Section 19(4): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Section 19(4): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 20 Process for restructuring geographical areas of DHBs
     
@@ -998,7 +1000,7 @@ District Health Boards
 
 ##### 21 Application of Crown Entities Act 2004 to DHBs
     
-*   (1) Each DHB is a Crown entity owned by the Crown for the purposes of [section 7][196] of the Crown Entities Act 2004\.
+*   (1) Each DHB is a Crown entity owned by the Crown for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
     (2) The [Crown Entities Act 2004][173] applies to each DHB except to the extent that this Act expressly provides otherwise.
     
@@ -1024,7 +1026,7 @@ District Health Boards
     
     *   (j) [section 161][208] (in relation to shares and interests covered by [section 28][209]):
     
-    *   (k) [section 170(1)][190] (in relation to any outputs covered by a Crown funding agreement):
+    *   (k) [section 170(1)][191] (in relation to any outputs covered by a Crown funding agreement):
     
     *   (l) [Schedule 5][202] (board procedure for statutory entities).
     
@@ -1120,7 +1122,7 @@ District Health Boards
     
     Section 23(1)(ba): inserted, on 9 November 2010, by [section 9(1)][214] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 23(1)(j): amended, on 18 September 2004, by [section 175(1)][186] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 23(1)(j): amended, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 23(1)(l): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1536,7 +1538,7 @@ District Health Boards
 
 ##### 42 Accountability documents under Crown Entities Act 2004
     
-*   (1) Each DHB must prepare statements of intent, annual financial statements, and annual reports in accordance with [Part 4][189] of the Crown Entities Act 2004 and regulations made under [section 92(1)(d)][128] of this Act.
+*   (1) Each DHB must prepare statements of intent, annual financial statements, and annual reports in accordance with [Part 4][190] of the Crown Entities Act 2004 and regulations made under [section 92(1)(d)][128] of this Act.
     
     (2) Without limiting [sections 141 to 149][239] of the Crown Entities Act 2004, every statement of intent of a DHB must include provisions stating the procedure for any disposal of land transferred to, or vested in, the DHB under the [Health Sector (Transfers) Act 1993][240].
     
@@ -1623,7 +1625,7 @@ Other publicly-owned health and disability organisations
     
 *   (1) An organisation called the Pharmaceutical Management Agency (**Pharmac**) is established.
     
-    (2) Pharmac is a Crown entity for the purposes of [section 7][196] of the Crown Entities Act 2004\.
+    (2) Pharmac is a Crown entity for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
     (3) The [Crown Entities Act 2004][173] applies to Pharmac except to the extent that this Act expressly provides otherwise.
     
@@ -1739,7 +1741,7 @@ Other publicly-owned health and disability organisations
     
 *   (1) An organisation called the New Zealand Blood Service (_NZBS_) is established.
     
-    (2) NZBS is a Crown entity for the purposes of [section 7][196] of the Crown Entities Act 2004\.
+    (2) NZBS is a Crown entity for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
     (3) The [Crown Entities Act 2004][173] applies to NZBS except to the extent that this Act expressly provides otherwise.
     
@@ -1795,7 +1797,7 @@ Other publicly-owned health and disability organisations
     
 *   (1) An organisation called the Health Promotion Agency (_HPA_) is established.
     
-    (2) HPA is a Crown entity for the purposes of [section 7][196] of the Crown Entities Act 2004\.
+    (2) HPA is a Crown entity for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
     (3) The board of HPA consists of not fewer than 5 and not more than 7 members appointed under [section 28][209] of the Crown Entities Act 2004\.
     
@@ -1903,7 +1905,7 @@ Other publicly-owned health and disability organisations
     
 *   (1) An organisation called the Health Quality and Safety Commission (_HQSC_) is established.
     
-    (2) HQSC is a Crown entity for the purposes of [section 7][196] of the Crown Entities Act 2004\.
+    (2) HQSC is a Crown entity for the purposes of [section 7][178] of the Crown Entities Act 2004\.
     
     (3) The [Crown Entities Act 2004][173] applies to HQSC except to the extent that this Act expressly provides otherwise.
     
@@ -1999,13 +2001,17 @@ Other publicly-owned health and disability organisations
     
     (4) The provisions of [Schedule 5][165] apply in relation to a mortality review committee.
     
-    (5) Every person who fails, without reasonable excuse, to comply with a requirement imposed under [Schedule 5][165] by the chairperson of a mortality review committee commits an offence and is liable to a fine not exceeding $10,000\.
+    (5) Every person who fails, without reasonable excuse, to comply with a requirement imposed under [Schedule 5][165] by the chairperson of a mortality review committee commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    (6) Every person who discloses information contrary to [Schedule 5][165] commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (6) Every person who discloses information contrary to [Schedule 5][165] commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     (7) Any member of a registered occupational profession who commits an offence under subsection (5) or (6) is liable to any disciplinary proceedings of that profession in respect of the offence, whether or not he or she is fined under that subsection.
     
     Section 59E: inserted, on 9 November 2010, by [section 17][256] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    
+    Section 59E(5): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 59E(6): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Other provisions
 
@@ -2021,9 +2027,9 @@ Other publicly-owned health and disability organisations
     
     *   (d) HQSC.
     
-    Section 60(c): replaced, on 1 July 2012, by [section 7][257] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 60(c): replaced, on 1 July 2012, by [section 7][258] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 60(d): added, on 9 November 2010, by [section 18][258] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 60(d): added, on 9 November 2010, by [section 18][259] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 61 Role of board
     
@@ -2071,13 +2077,13 @@ Other publicly-owned health and disability organisations
     
     (4A) Despite anything in the [Crown Entities Act 2004][173], subsection (4) does not limit---
         
-    *   (a) the ability of the Minister to direct NZBS under [section 147][259] of that Act; or
+    *   (a) the ability of the Minister to direct NZBS under [section 147][260] of that Act; or
     
     *   (b) [section 107][210] of that Act.
     
     (5) \[Repealed\]
     
-    (6) Directions given under [section 20][260] of the Health Sector (Transfers) Act 1993 to RHMU are deemed to be directions given under [section 103][180] of the Crown Entities Act 2004\.
+    (6) Directions given under [section 20][261] of the Health Sector (Transfers) Act 1993 to RHMU are deemed to be directions given under [section 103][180] of the Crown Entities Act 2004\.
     
     Section 65 heading: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -2099,7 +2105,7 @@ Other publicly-owned health and disability organisations
     
     Section 65(6): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 65(6): amended, on 1 January 2001, pursuant to [section 4(3)][261] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 65(6): amended, on 1 January 2001, pursuant to [section 4(3)][262] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 66 Pharmac, NZBS, and HPA to operate in financially responsible manner
     
@@ -2109,11 +2115,11 @@ Other publicly-owned health and disability organisations
     
     (2) This section does not limit [section 51][237] of the Crown Entities Act 2004\.
     
-    Section 66 heading: amended, on 1 July 2012, by [section 8][262] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 66 heading: amended, on 1 July 2012, by [section 8][263] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 66(1): substituted, on 9 November 2010, by [section 19(2)][263] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 66(1): substituted, on 9 November 2010, by [section 19(2)][264] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 66(1A): inserted, on 9 November 2010, by [section 19(3)][263] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 66(1A): inserted, on 9 November 2010, by [section 19(3)][264] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 66(2): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -2149,14 +2155,14 @@ Other publicly-owned health and disability organisations
     
 *   The provisions set out in [Schedule 6][166] apply in respect of Pharmac, NZBS, HPA, and HQSC.
     
-    Section 70: amended, on 1 July 2012, by [section 9][264] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 70: amended, on 1 July 2012, by [section 9][265] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 70: amended, on 9 November 2010, by [section 20][265] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 70: amended, on 9 November 2010, by [section 20][266] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ## Part 4A  
 Family care policies
     
-*   Part 4A: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+*   Part 4A: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70A Purpose of this Part
     
@@ -2168,7 +2174,7 @@ Family care policies
     
     *   (b) declares that the Crown and DHBs have always been authorised, and continue to be authorised, to adopt or have family care policies that permit persons to be paid, in certain cases, for providing support services to family members:
     
-    *   (c) stops (subject to certain savings) any complaint to the Human Rights Commission and any proceeding in any court if the complaint or proceeding is, in whole or in part, based on an assertion that a person's right to freedom from discrimination on any of the grounds of marital status, disability, age, or family status (affirmed by [section 19][267] of the New Zealand Bill of Rights Act 1990) has been breached by---
+    *   (c) stops (subject to certain savings) any complaint to the Human Rights Commission and any proceeding in any court if the complaint or proceeding is, in whole or in part, based on an assertion that a person's right to freedom from discrimination on any of the grounds of marital status, disability, age, or family status (affirmed by [section 19][268] of the New Zealand Bill of Rights Act 1990) has been breached by---
             
         *   (i) a provision of this Part; or
         
@@ -2178,7 +2184,7 @@ Family care policies
         
         
     
-    Section 70A: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70A: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70B Interpretation
     
@@ -2210,7 +2216,7 @@ Family care policies
     
     *   (g) first cousin.
     
-    Section 70B: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70B: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70C Persons generally not to be paid for providing support services to family members
     
@@ -2220,7 +2226,7 @@ Family care policies
     
     *   (b) expressly authorised by or under an enactment.
     
-    Section 70C: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70C: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70D Family care policy
     
@@ -2262,7 +2268,7 @@ Family care policies
     
     (4) Where, after the commencement of this Part, the Crown or a DHB adopts a family care policy, or changes or cancels a family care policy, the chief executive of the Ministry of Health or the DHB, as the case requires, must make a copy of the document that states the family care policy, or that changes or cancels it, available for inspection, on request, during working hours at the appropriate head office and at any other places that the chief executive determines are appropriate.
     
-    (5) None of the following is a disallowable instrument for the purposes of the [Legislation Act 2012][268]:
+    (5) None of the following is a disallowable instrument for the purposes of the [Legislation Act 2012][269]:
         
     *   (a) a family care policy:
     
@@ -2270,15 +2276,15 @@ Family care policies
     
     *   (c) a determination cancelling a family care policy.
     
-    (6) Before the commencement of [section 38][269] of the Legislation Act 2012, subsection (5) must be read as if the reference to a disallowable instrument for the purposes of the Legislation Act 2012 were a reference to a regulation within the meaning of the Regulations (Disallowance) Act 1989\.
+    (6) Before the commencement of [section 38][270] of the Legislation Act 2012, subsection (5) must be read as if the reference to a disallowable instrument for the purposes of the Legislation Act 2012 were a reference to a regulation within the meaning of the Regulations (Disallowance) Act 1989\.
     
-    (7) Subsection (6) and this subsection are repealed on the day after the commencement of [section 38][269] of the Legislation Act 2012\.
+    (7) Subsection (6) and this subsection are repealed on the day after the commencement of [section 38][270] of the Legislation Act 2012\.
     
-    Section 70D: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70D: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70E Claims of unlawful discrimination in respect of this Act or family care policy precluded
     
-*   (1) In this section, **specified allegation** means any assertion to the effect that a person's right to freedom from discrimination on 1 or more of the grounds stated in [section 21(1)(b), (h), (i), and (l)][270] of the Human Rights Act 1993, being the right affirmed by [section 19][267] of the New Zealand Bill of Rights Act 1990, has been breached---
+*   (1) In this section, **specified allegation** means any assertion to the effect that a person's right to freedom from discrimination on 1 or more of the grounds stated in [section 21(1)(b), (h), (i), and (l)][271] of the Human Rights Act 1993, being the right affirmed by [section 19][268] of the New Zealand Bill of Rights Act 1990, has been breached---
         
     *   (a) by this Part; or
     
@@ -2304,9 +2310,9 @@ Family care policies
     
     (6) Despite subsection (5)(b), if in proceedings to which that subsection applies the Human Rights Review Tribunal or a court finds that a specified allegation has been proved, the Human Rights Review Tribunal or the court may grant no remedy other than the declaration described in subsection (7).
     
-    (7) The declaration that may be granted by the Human Rights Review Tribunal or the court in proceedings to which subsection (5)(b) applies is a declaration that the policy to which the finding relates is inconsistent with the right to freedom from discrimination affirmed by [section 19][267] of the New Zealand Bill of Rights Act 1990\.
+    (7) The declaration that may be granted by the Human Rights Review Tribunal or the court in proceedings to which subsection (5)(b) applies is a declaration that the policy to which the finding relates is inconsistent with the right to freedom from discrimination affirmed by [section 19][268] of the New Zealand Bill of Rights Act 1990\.
     
-    Section 70E: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70E: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70F Certificates relating to family care policies
     
@@ -2322,7 +2328,7 @@ Family care policies
     
     *   (b) in the absence of proof to the contrary, sufficient evidence of the facts stated in it.
     
-    Section 70F: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70F: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ##### 70G Savings
     
@@ -2346,7 +2352,7 @@ Family care policies
     
     (5) Subsections (3) and (4) override [section 70C][98].
     
-    Section 70G: inserted, on 21 May 2013, by [section 4][266] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
+    Section 70G: inserted, on 21 May 2013, by [section 4][267] of the New Zealand Public Health and Disability Amendment Act 2013 (2013 No 22).
 
 ## Part 5  
 Inquiries
@@ -2355,7 +2361,7 @@ Inquiries
 
 ##### 71 Minister may appoint Commission under Commissions of Inquiry Act 1908 to conduct inquiry or investigation
     
-*   (1) The Minister may appoint 1 or more persons as a Commission under the [Commissions of Inquiry Act 1908][271] to conduct an inquiry or investigation into, and report to the Minister on, 1 or more of the following:
+*   (1) The Minister may appoint 1 or more persons as a Commission under the [Commissions of Inquiry Act 1908][272] to conduct an inquiry or investigation into, and report to the Minister on, 1 or more of the following:
         
     *   (a) the funding or provision of health services, disability support services, or both:
     
@@ -2365,7 +2371,7 @@ Inquiries
     
     (2) Any appointment under subsection (1) may be made subject to any terms and conditions (being terms and conditions not inconsistent with any enactment) the Minister determines.
     
-    (3) [Sections 11][272] and [12][273] of the Commissions of Inquiry Act 1908 (which relate to costs) do not apply to any Commission appointed under subsection (1).
+    (3) [Sections 11][273] and [12][274] of the Commissions of Inquiry Act 1908 (which relate to costs) do not apply to any Commission appointed under subsection (1).
     
     (4) There may be paid out of money appropriated by Parliament for the purpose to any person or persons appointed under subsection (1)---
         
@@ -2429,9 +2435,9 @@ Inquiries
     
     *   (c) that includes a complaint---
             
-        *   (i) that is made against, or that directly involves, a health practitioner (within the meaning of [section 4][274] of the Health and Disability Commissioner Act 1994); and
+        *   (i) that is made against, or that directly involves, a health practitioner (within the meaning of [section 4][275] of the Health and Disability Commissioner Act 1994); and
         
-        *   (ii) that is the subject of proceedings before the appropriate health professional body (within the meaning of [section 38(2)][275] of that Act).
+        *   (ii) that is the subject of proceedings before the appropriate health professional body (within the meaning of [section 38(2)][276] of that Act).
         
         
     
@@ -2439,7 +2445,7 @@ Inquiries
     
     (3) If the Minister proposes to appoint an inquiry board under [section 72(1)][107] to inquire into a matter in which the Ministry of Health is, or was, or may be, or may have been, involved, the Minister must seek advice on the proposed appointment from any adviser independent from the Ministry of Health (for example, the Solicitor-General) the Minister thinks fit.
     
-    Section 73(1)(c)(i): amended, on 18 September 2004, by [section 175(1)][186] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 73(1)(c)(i): amended, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 74 Discussion required before inquiry board appointed
     
@@ -2461,7 +2467,7 @@ Inquiries
         
         
     
-    Section 74(b): amended, on 23 April 2011, by [section 21][276] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 74(b): amended, on 23 April 2011, by [section 21][277] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 75 Establishment and alteration of inquiry
     
@@ -2503,7 +2509,7 @@ Inquiries
     
 *   No member of an inquiry board (or of the support personnel for an inquiry board) has any civil liability for anything the member does or says or reports, or omits to do or say or report, in good faith in pursuance or intended pursuance of his or her duties as a member of the inquiry board (or of the support personnel for the inquiry board).
     
-    Compare: 1908 No 25 [s 3][277]
+    Compare: 1908 No 25 [s 3][278]
 
 ##### 77 Instructions as to procedure
     
@@ -2519,7 +2525,7 @@ Inquiries
     
     *   (e) that the inquiry board recognise tikanga Maori where appropriate:
     
-    *   (f) that the inquiry board receive any evidence written or spoken in Maori (but the fact that this instruction has, or has not, been given to the inquiry board is not to affect the application (if any) of the [Maori Language Act 1987][278] in proceedings before the inquiry board):
+    *   (f) that the inquiry board receive any evidence written or spoken in Maori (but the fact that this instruction has, or has not, been given to the inquiry board is not to affect the application (if any) of the [Maori Language Act 1987][279] in proceedings before the inquiry board):
     
     *   (g) that the questioning of witnesses (other than by the inquiry board or its support personnel) be available only if---
             
@@ -2571,7 +2577,7 @@ Inquiries
     
     *   (b) in the case of an order made under subsection (3)(b) or (c), the time (if any) at which, or the circumstances (if any) in which, the order ceases to have effect.
     
-    (6) If an inquiry board makes an order, under subsection (3)(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the [Local Government Official Information and Meetings Act 1987][279], the [Official Information Act 1982][213], or the [Privacy Act 1993][212].
+    (6) If an inquiry board makes an order, under subsection (3)(b) or (c), in respect of information, that information must not while that order has effect be made available under any of the [Local Government Official Information and Meetings Act 1987][280], the [Official Information Act 1982][213], or the [Privacy Act 1993][212].
     
     (7) An inquiry board may at any time deliberate in private as to its decision on any matter or question arising in the course of the inquiry.
     
@@ -2595,7 +2601,7 @@ Inquiries
     
     (3) An inquiry board may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the inquiry board thinks fit, verifying it by oath.
     
-    Compare: 1908 No 25 [s 4B][280]
+    Compare: 1908 No 25 [s 4B][281]
 
 ##### 82 Powers to investigate
     
@@ -2611,7 +2617,7 @@ Inquiries
     
     (3) Every person has the same privileges in relation to the giving of information to the inquiry board, the answering of questions put by the inquiry board, and the production of books, papers, documents, records, and things to the inquiry board, as witnesses have in courts of law.
     
-    Compare: 1908 No 25 [s 4C][281]
+    Compare: 1908 No 25 [s 4C][282]
 
 ##### 83 Power to summon witnesses
     
@@ -2621,7 +2627,7 @@ Inquiries
     
     *   (b) produce any books, papers, documents, records, or things in the person's possession or control that are relevant to the subject of the inquiry.
     
-    (2) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness' allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the [Summary Proceedings Act 1957][282].
+    (2) A witness is not required to attend and give evidence or produce any things in accordance with a summons issued under subsection (1) unless, at the time of the service of the summons or at some other reasonable time before the day on which the attendance of the witness would, apart from this subsection, be required, there is tendered or paid to the witness a sum in respect of the witness' allowances and travelling expenses in accordance with the scale prescribed for the time being by regulations made under the [Criminal Procedure Act 2011][283].
     
     (3) The summons must be in writing and state the place and time at which the witness is required to attend.
     
@@ -2633,7 +2639,9 @@ Inquiries
     
     *   (b) any other member of the inquiry board purporting to act by direction or with the authority of the principal member of the inquiry board.
     
-    Compare: 1908 No 25 [s 4D][283]
+    Compare: 1908 No 25 [s 4D][284]
+    
+    Section 83(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 84 Service of summons
     
@@ -2649,13 +2657,13 @@ Inquiries
     
     (3) A summons served under subsection (1)(c) must be treated as having been served at the time when the letter would be delivered in the ordinary course of post.
     
-    Compare: 1908 No 25 [s 5][284]
+    Compare: 1908 No 25 [s 5][285]
 
 ##### 85 Protection of witnesses
     
 *   Every witness giving evidence, and every counsel or agent or other person appearing, before an inquiry board, has the same privileges and immunities as witnesses and counsel in courts of law.
     
-    Compare: 1908 No 25 [s 6][285]
+    Compare: 1908 No 25 [s 6][286]
 
 ##### 86 Offences
     
@@ -2677,9 +2685,11 @@ Inquiries
     
     (4) Every person commits an offence who wilfully interrupts or obstructs any hearing conducted by an inquiry board.
     
-    (5) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $10,000\.
+    (5) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1908 No 25 [s 9(1)--(3)][286]
+    Compare: 1908 No 25 [s 9(1)--(3)][287]
+    
+    Section 86(5): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -2698,7 +2708,7 @@ Miscellaneous provisions
     
     *   (e) any direction or requirement given under this Act or any other Act.
     
-    Section 87(d): amended, on 24 February 2011, by [section 22][287] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 87(d): amended, on 24 February 2011, by [section 22][288] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 88 Arrangements relating to payments
     
@@ -2754,7 +2764,7 @@ Miscellaneous provisions
     
     (2) A member of a board, or of a committee of a board, of a publicly-owned health and disability organisation is not liable to the organisation for any act or omission done or omitted in his or her capacity as a member, if he or she acted in good faith, and with reasonable care, in pursuance of the functions of the organisation.
     
-    (2A) [Section 59(3)][288] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply to a member of a publicly-owned health and disability organisation, unless it is shown by that publicly-owned health and disability organisation that the person did not act with good faith, or with reasonable care.
+    (2A) [Section 59(3)][289] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply to a member of a publicly-owned health and disability organisation, unless it is shown by that publicly-owned health and disability organisation that the person did not act with good faith, or with reasonable care.
     
     (3) Every member of the board, or of any committee of the board, of a publicly-owned health and disability organisation is indemnified by the organisation---
         
@@ -2794,7 +2804,7 @@ Miscellaneous provisions
     
     *   (e) imposing procedural requirements in relation to any consultation required by or under this Act, not being requirements that are inconsistent with any provision of this Act:
     
-    *   (f) specifying kinds of information for the purposes of [clause 49][289] of Schedule 3:
+    *   (f) specifying kinds of information for the purposes of [clause 49][290] of Schedule 3:
     
     *   (g) in relation to any plans to be prepared under [section 38(1)(a)][47] or 38(1)(b),---
             
@@ -2816,7 +2826,7 @@ Miscellaneous provisions
     
     (3) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
         
-    *   (a) providing for the issue of entitlement cards (including cards that may record information of any description that is capable of being read or processed by a computer, but not including cards that are themselves capable of processing information) to various classes of persons or the continuation of use of such cards issued under the [Health Entitlement Cards Regulations 1993][290]:
+    *   (a) providing for the issue of entitlement cards (including cards that may record information of any description that is capable of being read or processed by a computer, but not including cards that are themselves capable of processing information) to various classes of persons or the continuation of use of such cards issued under the [Health Entitlement Cards Regulations 1993][291]:
     
     *   (b) prescribing the classes of persons eligible to be issued with the cards:
     
@@ -2836,7 +2846,7 @@ Miscellaneous provisions
     
     *   (e) prescribing offences relating to the improper use of the cards and the fines (not exceeding $10,000) that may be imposed in respect of any such offences.
     
-    (4) The [Health Entitlement Card Regulations 1993][290] are deemed to have been made under subsection (3) and may be amended or revoked accordingly.
+    (4) The [Health Entitlement Card Regulations 1993][291] are deemed to have been made under subsection (3) and may be amended or revoked accordingly.
     
     (5) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
@@ -2848,7 +2858,7 @@ Miscellaneous provisions
     
     (6) Regulations under subsection (5)(c) may be made only---
         
-    *   (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in [section 76A][291] of the Customs and Excise Act 1996); and
+    *   (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in [section 76A][292] of the Customs and Excise Act 1996); and
     
     *   (b) after consultation with the Minister of Customs.
     
@@ -2860,17 +2870,17 @@ Miscellaneous provisions
     
     Section 92(1)(d): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 92(1)(g): substituted, on 24 February 2011, by [section 23(1)][292] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 92(1)(g): substituted, on 24 February 2011, by [section 23(1)][293] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Section 92(1)(h): repealed, on 25 December 2002, by [section 51(1)][293] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Section 92(1)(h): repealed, on 25 December 2002, by [section 51(1)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Section 92(2): amended, on 24 February 2011, by [section 23(2)][292] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Section 92(2): amended, on 24 February 2011, by [section 23(2)][293] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
     Section 92(3)(c)(i): amended, on 26 April 2005, by [section 7][185] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 92(5): inserted, on 1 July 2012, by [section 10][294] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 92(5): inserted, on 1 July 2012, by [section 10][295] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Section 92(6): inserted, on 1 July 2012, by [section 10][294] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Section 92(6): inserted, on 1 July 2012, by [section 10][295] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ## Part 7  
 Transitional and consequential provisions
@@ -2879,7 +2889,7 @@ Transitional and consequential provisions
     
 *   In this Part, unless the context otherwise requires,---
     
-    _assets_ has the same meaning as in [section 2(1)][295] of the Health Sector (Transfers) Act 1993
+    _assets_ has the same meaning as in [section 2(1)][296] of the Health Sector (Transfers) Act 1993
     
     _dissolved entity_ means any of the following:
         
@@ -2895,13 +2905,13 @@ Transitional and consequential provisions
     
     _hospital and health service_ means every company formed and registered in accordance with section 37 of the Health and Disability Services Act 1993
     
-    _liabilities_ has the same meaning as in [section 2(1)][295] of the Health Sector (Transfers) Act 1993
+    _liabilities_ has the same meaning as in [section 2(1)][296] of the Health Sector (Transfers) Act 1993
     
     _New Zealand Blood Service Limited_ means the hospital and health service incorporated with the name New Zealand Blood Service Limited
     
-    _Pharmaceutical Management Agency Limited_ means the company incorporated under the [Companies Act 1993][296] with the name Pharmaceutical Management Agency Limited
+    _Pharmaceutical Management Agency Limited_ means the company incorporated under the [Companies Act 1993][297] with the name Pharmaceutical Management Agency Limited
     
-    _transfer_ has the same meaning as in [section 2(1)][295] of the Health Sector (Transfers) Act 1993\.
+    _transfer_ has the same meaning as in [section 2(1)][296] of the Health Sector (Transfers) Act 1993\.
 
 #### Assets and liabilities of dissolved entities to vest in publicly-owned health and disability organisations
 
@@ -2923,7 +2933,7 @@ Transitional and consequential provisions
     
     (4) The assets and liabilities vested by subsection (3) do not include rights or obligations under any contract of service under which a person was, before the commencement of this section, employed as the chief executive of a hospital and health service.
     
-    (5) The Registrar of Companies must remove from the register of companies kept under [section 360(1)(a)][297] of the Companies Act 1993 the name of every hospital and health service.
+    (5) The Registrar of Companies must remove from the register of companies kept under [section 360(1)(a)][298] of the Companies Act 1993 the name of every hospital and health service.
 
 ##### 96 Assets and liabilities of New Zealand Blood Service Limited vested in NZBS
     
@@ -2945,7 +2955,7 @@ Transitional and consequential provisions
     
     (3) On the commencement of this section, the assets and liabilities of the Pharmaceutical Management Agency Limited vest in Pharmac.
     
-    (4) The Registrar of Companies must remove from the register of companies kept under [section 360(1)(a)][297] of the Companies Act 1993 the name of Pharmaceutical Management Agency Limited.
+    (4) The Registrar of Companies must remove from the register of companies kept under [section 360(1)(a)][298] of the Companies Act 1993 the name of Pharmaceutical Management Agency Limited.
 
 ##### 99 Former directors of Pharmaceutical Management Agency Limited to be transitional members of board of Pharmac
     
@@ -2957,25 +2967,25 @@ Transitional and consequential provisions
 
 ##### 100 Health Sector (Transfers) Act 1993 to apply to vestings under this Act
     
-*   (1) [Section 6][7], [sections 8 to 14][10], and [Schedule 1][298] of the Health Sector (Transfers) Act 1993 apply to the vestings effected by [sections 94 to 96][132] and [section 98][136] as if---
+*   (1) [Section 6][7], [sections 8 to 14][10], and [Schedule 1][299] of the Health Sector (Transfers) Act 1993 apply to the vestings effected by [sections 94 to 96][132] and [section 98][136] as if---
         
     *   (a) each vesting had been effected under [section 5][6] of that Act; and
     
     *   (b) each dissolved entity were a transferor within the meaning of that Act.
     
-    (2) For the purposes of the [Government Superannuation Fund Act 1956][299], a person who, as a result of any of the vestings by [sections 94 to 96][132] and [section 98][136] becomes an employee of a transferee and who, immediately before becoming such an employee, was an officer or employee of a dissolved entity and a contributor to the Government Superannuation Fund under that Act is, so long as that person continues to be employed by a transferee,---
+    (2) For the purposes of the [Government Superannuation Fund Act 1956][300], a person who, as a result of any of the vestings by [sections 94 to 96][132] and [section 98][136] becomes an employee of a transferee and who, immediately before becoming such an employee, was an officer or employee of a dissolved entity and a contributor to the Government Superannuation Fund under that Act is, so long as that person continues to be employed by a transferee,---
         
     *   (a) to be taken to be employed in the Government service; and
     
     *   (b) that Act applies to that person as if service with the transferee were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][299], nothing in subsection (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][300], nothing in subsection (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][299], in accordance with subsection (2), to a person who is in the service of a transferee and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the chief executive of the transferee.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][300], in accordance with subsection (2), to a person who is in the service of a transferee and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the chief executive of the transferee.
 
 ##### 101 Modifications of Health Sector (Transfers) Act 1993 in respect of former employees of dissolved entities and certain employees of Ministry of Health
     
-*   (1) [Section 13][300] of the Health Sector (Transfers) Act 1993 applies to any person who, at any time in the period commencing on 1 April 2000 and ending with the commencement of this section, was an employee of a dissolved entity as if---
+*   (1) [Section 13][301] of the Health Sector (Transfers) Act 1993 applies to any person who, at any time in the period commencing on 1 April 2000 and ending with the commencement of this section, was an employee of a dissolved entity as if---
         
     *   (a) in subsection (1) of that section there were inserted, before the words ""an employee of a transferor"", the words ""on or after 1 April 2000"":
     
@@ -2987,17 +2997,17 @@ Transitional and consequential provisions
     
     (2) For the purposes of subsection (1), every dissolved entity is to be taken to be a transferor as well as a transferee within the meaning of the [Health Sector (Transfers) Act 1993][240].
     
-    (3) Before 31 December 2002, the Director-General may give notice to any employee of the Director-General that the employee may, through the operation of [section 4][301] or [section 5][302] of the Health Sector (Transfers) Act 1993, become an employee of a DHB or of a subsidiary of a DHB.
+    (3) Before 31 December 2002, the Director-General may give notice to any employee of the Director-General that the employee may, through the operation of [section 4][302] or [section 5][303] of the Health Sector (Transfers) Act 1993, become an employee of a DHB or of a subsidiary of a DHB.
     
     (4) From the date of a notice given to an employee under subsection (3), the [Health Sector (Transfers) Act 1993][240] applies to the employee as if---
         
-    *   (a) in [section 13(2)][300] there were substituted for the expression ""9 months"", the expression ""3 months"":
+    *   (a) in [section 13(2)][301] there were substituted for the expression ""9 months"", the expression ""3 months"":
     
-    *   (b) in [section 13(6)][300] there were substituted for the words ""the 31st day of December 1994"", the expression ""31 December 2002"":
+    *   (b) in [section 13(6)][301] there were substituted for the words ""the 31st day of December 1994"", the expression ""31 December 2002"":
     
-    *   (c) in [section 15(1)][303] there were substituted for the words ""the 31st day of March 1994"", the expression ""31 December 2002"".
+    *   (c) in [section 15(1)][304] there were substituted for the words ""the 31st day of March 1994"", the expression ""31 December 2002"".
     
-    Section 101(1)(d): amended, on 22 October 2003, by [section 3][304] of the New Zealand Public Health and Disability Amendment Act 2003 (2003 No 87).
+    Section 101(1)(d): amended, on 22 October 2003, by [section 3][305] of the New Zealand Public Health and Disability Amendment Act 2003 (2003 No 87).
 
 ##### 102 References to dissolved entities to be references to their successors
     
@@ -3017,7 +3027,7 @@ Transitional and consequential provisions
     
 *   Every person in whom the assets and liabilities of a dissolved entity are vested by any of [sections 94 to 96][132] and [98][136] is deemed to be the dissolved entity for the purposes of any requirement or entitlement under---
         
-    *   (a) the [Goods and Services Tax Act 1985][305]; or
+    *   (a) the [Goods and Services Tax Act 1985][306]; or
     
     *   (b) any enactment or accounting practice relating to accounting records or financial statements.
     
@@ -3029,13 +3039,13 @@ Transitional and consequential provisions
     
 *   In [section 105][144], _final report_, in relation to a dissolved entity, means---
         
-    *   (a) a report setting out the information specified in [section 41I][306] of the Public Finance Act 1989 in relation to the dissolved entity's operations for the period beginning on 1 July 2000 and ending with the close of the day immediately before the commencement of this section; and
+    *   (a) a report setting out the information specified in [section 41I][307] of the Public Finance Act 1989 in relation to the dissolved entity's operations for the period beginning on 1 July 2000 and ending with the close of the day immediately before the commencement of this section; and
     
     *   (b) the dissolved entity's financial statements for that period, which---
             
-        *   (i) set out the information specified in [section 41][307] of the Public Finance Act 1989; and
+        *   (i) set out the information specified in [section 41][308] of the Public Finance Act 1989; and
         
-        *   (ii) are accompanied by an audit opinion prepared by the Audit Office in accordance with [section 43][308] of that Act.
+        *   (ii) are accompanied by an audit opinion prepared by the Audit Office in accordance with [section 43][309] of that Act.
         
         
     
@@ -3067,13 +3077,13 @@ Transitional and consequential provisions
     
     *   (b) such a member need not complete the statement under [section 29(6)][33] before his or her appointment, but must complete that statement before the 29th day after his or her appointment; and
     
-    *   (c) if such members hold a meeting of a board of a DHB before 1 February 2001, [clauses 16 to 24][309], [28][310] and [31 to 35][311] of Schedule 3 do not apply to that meeting.
+    *   (c) if such members hold a meeting of a board of a DHB before 1 February 2001, [clauses 16 to 24][310], [28][311] and [31 to 35][312] of Schedule 3 do not apply to that meeting.
     
     (3) As soon as practicable after the commencement of this section, the Minister must make appointments under subsection (1) to enable each DHB to operate on and from 1 January 2001\.
     
     (4) For the purpose of enabling a DHB to operate on and from 1 January 2001, the members appointed under subsection (1) in respect of a DHB may, before that date, exercise or perform any duty, power, or function of the board of the DHB.
     
-    (5) A record of every meeting of the board of a DHB held in accordance with subsection (2)(c) and of every decision taken in respect of the board of a DHB under subsection (4) must be tabled at the first meeting of the board that is publicly notified under [clause 16][309] of Schedule 3\.
+    (5) A record of every meeting of the board of a DHB held in accordance with subsection (2)(c) and of every decision taken in respect of the board of a DHB under subsection (4) must be tabled at the first meeting of the board that is publicly notified under [clause 16][310] of Schedule 3\.
     
     (6) Despite subsection (2), when the first elected members of a board of a DHB come into office, every member appointed under subsection (1) ceases to be a member of the board.
 
@@ -3081,15 +3091,15 @@ Transitional and consequential provisions
 
 ##### 107 Amendments to Commerce Act 1986
     
-*   _Amendment(s) incorporated in the [Act(s)][312]._
+*   _Amendment(s) incorporated in the [Act(s)][313]._
 
 ##### 108 Amendments to State Sector Act 1988
     
-*   _Amendment(s) incorporated in the [Act(s)][313]._
+*   _Amendment(s) incorporated in the [Act(s)][314]._
 
 ##### 109 Amendment to Mental Health Commission Act 1998
     
-*   _Amendment(s) incorporated in the [Act(s)][314]._
+*   _Amendment(s) incorporated in the [Act(s)][315]._
 
 #### Consequential repeals, revocations, and amendments
 
@@ -3133,7 +3143,7 @@ Transitional and consequential provisions
     
 *   (1) Liabilities of up to a total of $1,200,000,000 may, during the 2000/01 year, be incurred in advance of appropriation in relation to Vote Health to provide the capital injections required to establish the District Health Boards.
     
-    (2) All liabilities incurred under this section must be charged in the manner to be specified in an Appropriation Act for the 2000/01 year and, until the coming into force of the Appropriation Act in which that manner is specified, may be incurred during the 2000/01 year as if they had been incurred in accordance with one of the separate appropriations specified in [section 4(3)][315] of the Public Finance Act 1989\.
+    (2) All liabilities incurred under this section must be charged in the manner to be specified in an Appropriation Act for the 2000/01 year and, until the coming into force of the Appropriation Act in which that manner is specified, may be incurred during the 2000/01 year as if they had been incurred in accordance with one of the separate appropriations specified in [section 4(3)][316] of the Public Finance Act 1989\.
 
 #### Transitional provisions relating to New Zealand health strategy and New Zealand disability strategy
 
@@ -3192,10 +3202,10 @@ South Canterbury DHB Timaru District, Mackenzie District, Waimate District
 
 Southern DHB Waitaki District, Central Otago District, Dunedin City, Clutha District, Southland District, Gore District, Invercargill City, Queenstown-Lakes District
 
-*   Schedule 1: amended, on 1 May 2010, by [clause 4(1)][316] of the Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78).
-*   Schedule 1: amended, on 1 May 2010, by [clause 4(2)][316] of the Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78).
-*   Schedule 1: amended, on 6 August 2004, by [clause 3][317] of the Health (Geographical Areas of District Health Boards) Order 2004 (SR 2004/227).
-*   Schedule 1: amended, on 27 April 2001, by [clause 7][318] of the Health (Constituencies of District Health Boards) Order 2001 (SR 2001/77).
+*   Schedule 1: amended, on 1 May 2010, by [clause 4(1)][317] of the Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78).
+*   Schedule 1: amended, on 1 May 2010, by [clause 4(2)][317] of the Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78).
+*   Schedule 1: amended, on 6 August 2004, by [clause 3][318] of the Health (Geographical Areas of District Health Boards) Order 2004 (SR 2004/227).
+*   Schedule 1: amended, on 27 April 2001, by [clause 7][319] of the Health (Constituencies of District Health Boards) Order 2001 (SR 2001/77).
 
 ---
 
@@ -3206,71 +3216,71 @@ Membership of boards: Election and appointment of members, and effect of boundar
 
 ## Contents
 
-[Interpretation][319]
+[Interpretation][320]
 
-[1][320][][320][Interpretation][320]
+[1][321][][321][Interpretation][321]
 
-[Purpose of this schedule][321]
+[Purpose of this schedule][322]
 
-[2][322][][322][Purpose][322]
+[2][323][][323][Purpose][323]
 
-[Electors and candidates][323]
+[Electors and candidates][324]
 
-[3][324][][324][Residential qualification for electors][324]
+[3][325][][325][Residential qualification for electors][325]
 
-[4][325][][325][Qualification for candidates][325]
+[4][326][][326][Qualification for candidates][326]
 
-[5][326][][326][Candidates not to stand for more than 1 district][326]
+[5][327][][327][Candidates not to stand for more than 1 district][327]
 
-[6][327][][327][Candidate to declare conflicts of interest][327]
+[6][328][][328][Candidate to declare conflicts of interest][328]
 
-[7][328][][328][Employees of DHBs may stand for elections][328]
+[7][329][][329][Employees of DHBs may stand for elections][329]
 
-[Application of Local Electoral Act 2001][329]
+[Application of Local Electoral Act 2001][330]
 
-[8][330][][330][Elections governed by Local Electoral Act 2001 and regulations made under that Act][330]
+[8][331][][331][Elections governed by Local Electoral Act 2001 and regulations made under that Act][331]
 
-[9][331][][331][Timing of elections][331]
+[9][332][][332][Timing of elections][332]
 
-[9A][332][][332][Elections in 2004 and subsequently to be conducted using Single Transferable Voting][332]
+[9A][333][][333][Elections in 2004 and subsequently to be conducted using Single Transferable Voting][333]
 
-[9B][333][][333][Related amendments to New Zealand Public Health and Disability Act 2000][333]
+[9B][334][][334][Related amendments to New Zealand Public Health and Disability Act 2000][334]
 
-[10][334][][334][No by-elections][334]
+[10][335][][335][No by-elections][335]
 
-[Rolls for election][335]
+[Rolls for election][336]
 
-[11][336][][336][Rolls for election][336]
+[11][337][][337][Rolls for election][337]
 
-[Conduct of election][337]
+[Conduct of election][338]
 
-[12][338][][338][Postal voting][338]
+[12][339][][339][Postal voting][339]
 
-[Cost of elections][339]
+[Cost of elections][340]
 
-[13][340][][340][Cost to be borne by DHB][340]
+[13][341][][341][Cost to be borne by DHB][341]
 
-[When members come into office][341]
+[When members come into office][342]
 
-[14][342][][342][When elected members come into office][342]
+[14][343][][343][When elected members come into office][343]
 
-[15][343][][343][When appointed members come into office][343]
+[15][344][][344][When appointed members come into office][344]
 
-[Appointment to boards of newly created DHBs][344]
+[Appointment to boards of newly created DHBs][345]
 
-[16][345][][345][Appointment of new DHB][345]
+[16][346][][346][Appointment of new DHB][346]
 
-[Persons who may not be members of boards][346]
+[Persons who may not be members of boards][347]
 
-[17][347][][347][Certain persons disqualified from membership][347]
+[17][348][][348][Certain persons disqualified from membership][348]
 
-[Effect of boundary changes][348]
+[Effect of boundary changes][349]
 
-[18][349][][349][Reorganisation of districts][349]
+[18][350][][350][Reorganisation of districts][350]
 
-[19][350][][350][Other alterations of districts][350]
+[19][351][][351][Other alterations of districts][351]
 
-[20][351][][351][Inquiries by Local Government Commission][351]
+[20][352][][352][Inquiries by Local Government Commission][352]
 
 ---
 
@@ -3292,13 +3302,13 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     _elector_ means an elector at an election of a DHB
     
-    _territorial authority_ has the same meaning as in [section 5(1)][352] of the Local Government Act 2002; but does not include the Minister of the Crown responsible for the administration of that Act
+    _territorial authority_ has the same meaning as in [section 5(1)][353] of the Local Government Act 2002; but does not include the Minister of the Crown responsible for the administration of that Act
     
-    _triennial general election_ means a triennial general election held under the [Local Electoral Act 2001][194].
+    _triennial general election_ means a triennial general election held under the [Local Electoral Act 2001][195].
     
-    Schedule 2 clause 1 **territorial authority**: substituted, on 1 July 2003, by [section 262][353] of the Local Government Act 2002 (2002 No 84).
+    Schedule 2 clause 1 **territorial authority**: substituted, on 1 July 2003, by [section 262][354] of the Local Government Act 2002 (2002 No 84).
     
-    Schedule 2 clause 1 **triennial general election**: amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 1 **triennial general election**: amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 #### Purpose of this schedule
 
@@ -3320,7 +3330,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
 
 ##### 3 Residential qualification for electors
     
-*   A person who is lawfully registered as a parliamentary elector under the [Electoral Act 1993][354] in respect of an address that is within the constituency of a DHB is qualified to be an elector of that constituency at an election of the DHB.
+*   A person who is lawfully registered as a parliamentary elector under the [Electoral Act 1993][355] in respect of an address that is within the constituency of a DHB is qualified to be an elector of that constituency at an election of the DHB.
 
 ##### 4 Qualification for candidates
     
@@ -3328,7 +3338,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
         
     *   (a) is qualified to be a parliamentary elector; and
     
-    *   (b) is not disqualified by [clause 17][347].
+    *   (b) is not disqualified by [clause 17][348].
     
     
 
@@ -3346,7 +3356,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     *   (b) discloses any such conflicts of interest that the candidate believes are likely to arise in future, or states that the candidate does not believe that any such conflicts of interest are likely to arise in future.
     
-    Schedule 2 clause 6: amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 6: amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 7 Employees of DHBs may stand for elections
     
@@ -3354,17 +3364,17 @@ Membership of boards: Election and appointment of members, and effect of boundar
 
 #### Application of Local Electoral Act 2001
     
-*   Heading: amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+*   Heading: amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 8 Elections governed by Local Electoral Act 2001 and regulations made under that Act
     
-*   (1) The provisions of the [Local Electoral Act 2001][194] and any regulations made under that Act apply, with all necessary modifications, to every election of a DHB.
+*   (1) The provisions of the [Local Electoral Act 2001][195] and any regulations made under that Act apply, with all necessary modifications, to every election of a DHB.
     
     (2) Subclause (1) is subject to the provisions of this Act and to any regulations made under this Act.
     
-    Schedule 2 clause 8 heading: amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 8 heading: amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
     
-    Schedule 2 clause 8(1): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 8(1): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 ##### 9 Timing of elections
     
@@ -3376,21 +3386,21 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
 *   The elections of DHBs to be held at the triennial general election in 2004 and at every subsequent triennial general election must be conducted by the Single Transferable Voting electoral system (**STV**) using the New Zealand method of counting single transferable votes.
     
-    Schedule 2 clause 9A: inserted, on 1 July 2001, by [section 150][355] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 9A: inserted, on 1 July 2001, by [section 150][356] of the Local Electoral Act 2001 (2001 No 35).
     
-    Schedule 2 clause 9A: amended, on 25 December 2002, by [section 51(2)][293] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Schedule 2 clause 9A: amended, on 25 December 2002, by [section 51(2)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 9B Related amendments to New Zealand Public Health and Disability Act 2000
     
-*   The person appointed by a District Health Board under [section 12][356] of the Local Electoral Act 2001 must be a person who is also the electoral officer of a territorial authority in whose district the District Health Board is wholly or partly situated.
+*   The person appointed by a District Health Board under [section 12][357] of the Local Electoral Act 2001 must be a person who is also the electoral officer of a territorial authority in whose district the District Health Board is wholly or partly situated.
     
-    Schedule 2 clause 9B: inserted, on 25 December 2002, by [section 51(3)][293] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Schedule 2 clause 9B: inserted, on 25 December 2002, by [section 51(3)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 10 No by-elections
     
-*   No by-election or poll may be held under the [Local Electoral Act 2001][194] for the purpose of electing a member to a board.
+*   No by-election or poll may be held under the [Local Electoral Act 2001][195] for the purpose of electing a member to a board.
     
-    Schedule 2 clause 10: amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 10: amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 #### Rolls for election
 
@@ -3402,11 +3412,11 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     (3) The electoral officer of every territorial authority whose district is situated wholly or partly within the district of a DHB must indicate on the roll of electors for the district of that territorial authority, by appropriate words, abbreviations, or marks, the names of the persons entitled to vote at the election of the DHB; and if the district of the DHB has, by an Order in Council under [section 19][22], been divided into constituencies, that officer must also indicate the constituency in respect of which those persons may vote at that election.
     
-    Schedule 2 clause 11(1): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 11(1): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
     
-    Schedule 2 clause 11(2): substituted, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 11(2): substituted, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
     
-    Schedule 2 clause 11(3): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 11(3): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 #### Conduct of election
 
@@ -3416,15 +3426,15 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     (2) \[Repealed\]
     
-    (3) Every electoral officer must include in the papers that are sent to electors a copy of the statement relating to conflicts of interest provided to the electoral officer by each candidate under [clause 6][327].
+    (3) Every electoral officer must include in the papers that are sent to electors a copy of the statement relating to conflicts of interest provided to the electoral officer by each candidate under [clause 6][328].
     
     (4) This clause is subject to any regulations made under this Act.
     
-    Schedule 2 clause 12(1): repealed, on 25 December 2002, by [section 51(4)][293] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Schedule 2 clause 12(1): repealed, on 25 December 2002, by [section 51(4)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Schedule 2 clause 12(2): repealed, on 25 December 2002, by [section 51(4)][293] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Schedule 2 clause 12(2): repealed, on 25 December 2002, by [section 51(4)][294] of the Local Electoral Amendment Act 2002 (2002 No 85).
     
-    Schedule 2 clause 12(3): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 12(3): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
 
 #### Cost of elections
 
@@ -3436,9 +3446,9 @@ Membership of boards: Election and appointment of members, and effect of boundar
 
 ##### 14 When elected members come into office
     
-*   Despite anything in [section 115][357] of the Local Electoral Act 2001, every person who is elected as a member of a board at an election of a DHB comes into office on the 58th day after polling day.
+*   Despite anything in [section 115][358] of the Local Electoral Act 2001, every person who is elected as a member of a board at an election of a DHB comes into office on the 58th day after polling day.
     
-    Schedule 2 clause 14: amended, on 25 December 2002, by [section 52][358] of the Local Electoral Amendment Act 2002 (2002 No 85).
+    Schedule 2 clause 14: amended, on 25 December 2002, by [section 52][359] of the Local Electoral Amendment Act 2002 (2002 No 85).
 
 ##### 15 When appointed members come into office
     
@@ -3452,7 +3462,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     (2) [Section 29(2)][33] applies with any necessary modifications to an appointment made under subclause (1).
     
-    (3) Persons appointed under subclause (1) hold office until the 58th day after polling day for the next election of the DHB (subject to [clauses 7][359] and [8][360] of Schedule 3).
+    (3) Persons appointed under subclause (1) hold office until the 58th day after polling day for the next election of the DHB (subject to [clauses 7][360] and [8][361] of Schedule 3).
     
     (4) To avoid any doubt, for the purposes of subclause (1), the renaming of a DHB is not the creation of a new DHB.
 
@@ -3462,7 +3472,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
 *   (1) None of the following persons may be elected or appointed as a member of a board, or appointed as a member of a board committee, of a DHB:
         
-    *   (a) a person described in [section 30(2)(a) to (f)][361] of the Crown Entities Act 2004:
+    *   (a) a person described in [section 30(2)(a) to (f)][362] of the Crown Entities Act 2004:
     
     *   (b) \[Repealed\]
     
@@ -3470,13 +3480,13 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     *   (d) \[Repealed\]
     
-    *   (e) a person who has, since the date on which members of boards elected at the immediately preceding triennial general election came into office, been removed as a member of a board for any reason specified in [clause 9(c) or (e)][362] of Schedule 3:
+    *   (e) a person who has, since the date on which members of boards elected at the immediately preceding triennial general election came into office, been removed as a member of a board for any reason specified in [clause 9(c) or (e)][363] of Schedule 3:
     
     *   (f) a person who has failed to declare a material conflict of interest before accepting nomination as candidate for an election of a DHB held in conjunction with the immediately preceding triennial general election.
     
-    (2) In addition to the grounds specified in subclause (1), a person may not be elected as a member of a board if the person is incapable of being elected as a member of a local authority because of [section 25][363] of the Local Electoral Act 2001\.
+    (2) In addition to the grounds specified in subclause (1), a person may not be elected as a member of a board if the person is incapable of being elected as a member of a local authority because of [section 25][364] of the Local Electoral Act 2001\.
     
-    (3) However, subclause (1)(a) does not disqualify a person described in [section 30(2)(f)][361] of that Act who is elected (rather than appointed) to office as a member under any other Act.
+    (3) However, subclause (1)(a) does not disqualify a person described in [section 30(2)(f)][362] of that Act who is elected (rather than appointed) to office as a member under any other Act.
     
     Schedule 2 clause 17(1)(a): substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -3486,7 +3496,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
     Schedule 2 clause 17(1)(d): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 2 clause 17(2): amended, on 1 July 2001, by [section 151][195] of the Local Electoral Act 2001 (2001 No 35).
+    Schedule 2 clause 17(2): amended, on 1 July 2001, by [section 151][196] of the Local Electoral Act 2001 (2001 No 35).
     
     Schedule 2 clause 17(3): added, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -3512,7 +3522,7 @@ Membership of boards: Election and appointment of members, and effect of boundar
     
 *   The membership of a board is not affected by---
         
-    *   (a) an alteration of the district or the constituency of the DHB made by an Order in Council under [section 19][22] (other than a reorganisation of districts described in [clause 18][349]); or
+    *   (a) an alteration of the district or the constituency of the DHB made by an Order in Council under [section 19][22] (other than a reorganisation of districts described in [clause 18][350]); or
     
     *   (b) the abolition or alteration of any local government area or ward specified in column 2 of [Schedule 1][159].
     
@@ -3533,151 +3543,151 @@ Provisions applying to DHBs and their boards
 
 ## Contents
 
-[Interpretation][364]
+[Interpretation][365]
 
-[1][365][][365][Interpretation][365]
+[1][366][][366][Interpretation][366]
 
-[Members][366]
+[Members][367]
 
-[2][367][][367][Appointed members][367]
+[2][368][][368][Appointed members][368]
 
-[3][368][][368][Elected members][368]
+[3][369][][369][Elected members][369]
 
-[4][369][][369][Terms or conditions of office, and remuneration][369] \[Repealed\]
+[4][370][][370][Terms or conditions of office, and remuneration][370] \[Repealed\]
 
-[5][370][][370][Training relating to members' obligations and duties][370]
+[5][371][][371][Training relating to members' obligations and duties][371]
 
-[6][371][][371][Resignation][371] \[Repealed\]
+[6][372][][372][Resignation][372] \[Repealed\]
 
-[7][359][][359][Vacation of office][359]
+[7][360][][360][Vacation of office][360]
 
-[8][360][][360][Removal from office][360]
+[8][361][][361][Removal from office][361]
 
-[9][362][][362][Reasons for removal of elected members][362]
+[9][363][][363][Reasons for removal of elected members][363]
 
-[Chairperson and deputy chairperson][372]
+[Chairperson and deputy chairperson][373]
 
-[10][373][][373][Chairperson and deputy chairperson][373]
+[10][374][][374][Chairperson and deputy chairperson][374]
 
-[11][374][][374][Resignation][374]
+[11][375][][375][Resignation][375]
 
-[12][375][][375][Vacation of office][375]
+[12][376][][376][Vacation of office][376]
 
-[13][376][][376][Removal from office][376]
+[13][377][][377][Removal from office][377]
 
-[Teleconferences][377]
+[Teleconferences][378]
 
 [14][226][][226][Teleconferences][226]
 
-[15][378][][378][Further provisions relating to teleconferences][378] \[Repealed\]
+[15][379][][379][Further provisions relating to teleconferences][379] \[Repealed\]
 
-[Notice of meetings][379]
+[Notice of meetings][380]
 
-[16][309][][309][Meetings of boards to be publicly notified][309]
+[16][310][][310][Meetings of boards to be publicly notified][310]
 
-[17][380][][380][Meetings not publicly notified in accordance with clause 16][380]
+[17][381][][381][Meetings not publicly notified in accordance with clause 16][381]
 
-[18][381][][381][Members to be notified of meetings][381]
+[18][382][][382][Members to be notified of meetings][382]
 
-[Information relating to meetings][382]
+[Information relating to meetings][383]
 
-[19][383][][383][Availability of agendas and reports][383]
+[19][384][][384][Availability of agendas and reports][384]
 
-[20][384][][384][Availability of agendas and reports in special circumstances][384]
+[20][385][][385][Availability of agendas and reports in special circumstances][385]
 
-[21][385][][385][Public may inspect or request copies of minutes of meeting][385]
+[21][386][][386][Public may inspect or request copies of minutes of meeting][386]
 
-[22][386][][386][Public notification of resolution at emergency meeting][386]
+[22][387][][387][Public notification of resolution at emergency meeting][387]
 
-[23][387][][387][Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting][387]
+[23][388][][388][Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting][388]
 
-[24][388][][388][Oral statements at meetings privileged][388]
+[24][389][][389][Oral statements at meetings privileged][389]
 
-[Procedure at meetings][389]
+[Procedure at meetings][390]
 
-[25][390][][390][Quorum][390]
+[25][391][][391][Quorum][391]
 
-[26][391][][391][Further provisions relating to quorum][391]
+[26][392][][392][Further provisions relating to quorum][392]
 
-[27][392][][392][Presiding member][392]
+[27][393][][393][Presiding member][393]
 
-[28][310][][310][Dealing with items not on agenda for meeting][310]
+[28][311][][311][Dealing with items not on agenda for meeting][311]
 
-[29][393][][393][Voting][393]
+[29][394][][394][Voting][394]
 
-[30][394][][394][Supplementary procedure][394]
+[30][395][][395][Supplementary procedure][395]
 
-[Admission of public][395]
+[Admission of public][396]
 
-[31][311][][311][Admission of public][311]
+[31][312][][312][Admission of public][312]
 
-[32][396][][396][Right of board to exclude public][396]
+[32][397][][397][Right of board to exclude public][397]
 
-[33][397][][397][Resolution excluding public][397]
+[33][398][][398][Resolution excluding public][398]
 
-[34][398][][398][Provisions applying when meeting open to public][398]
+[34][399][][399][Provisions applying when meeting open to public][399]
 
-[35][399][][399][Maintenance of order][399]
+[35][400][][400][Maintenance of order][400]
 
-[Disclosure of members' interests][400]
+[Disclosure of members' interests][401]
 
 [36][228][][228][Disclosure of interests][228]
 
 [37][227][][227][Minister may waive or modify application of clause 36(2)][227]
 
-[Committees][401]
+[Committees][402]
 
 [38][174][][174][Committees][174]
 
-[Delegations][402]
+[Delegations][403]
 
 [39][218][][218][Delegations][218]
 
-[40][403][][403][Effect of delegation][403]
+[40][404][][404][Effect of delegation][404]
 
-[Seal][404]
-
-\[Repealed\]
-
-[41][405][][405][Seal][405] \[Repealed\]
-
-[Contracts and other enforceable obligations][406]
+[Seal][405]
 
 \[Repealed\]
 
-[42][407][][407][Contracts and other enforceable obligations][407] \[Repealed\]
+[41][406][][406][Seal][406] \[Repealed\]
 
-[Dealings with land][408]
+[Contracts and other enforceable obligations][407]
 
-[43][409][][409][Dealings with land][409]
+\[Repealed\]
 
-[Employees of DHBs][410]
+[42][408][][408][Contracts and other enforceable obligations][408] \[Repealed\]
+
+[Dealings with land][409]
+
+[43][410][][410][Dealings with land][410]
+
+[Employees of DHBs][411]
 
 [44][219][][219][Employees of DHBs][219]
 
-[Borrowing and investment][411]
+[Borrowing and investment][412]
 
-[45][412][][412][Borrowing][412]
+[45][413][][413][Borrowing][413]
 
-[45A][413][][413][Restrictions on giving of guarantees and indemnities and the use of derivatives][413]
+[45A][414][][414][Restrictions on giving of guarantees and indemnities and the use of derivatives][414]
 
-[46][414][][414][Investment][414]
+[46][415][][415][Investment][415]
 
-[Tax status][415]
-
-\[Repealed\]
-
-[47][416][][416][Tax status][416] \[Repealed\]
-
-[Address for service][417]
+[Tax status][416]
 
 \[Repealed\]
 
-[48][418][][418][Address for service][418] \[Repealed\]
+[47][417][][417][Tax status][417] \[Repealed\]
 
-[Public Records Act 2005 to apply][419]
+[Address for service][418]
 
-[49][289][][289][Public Records Act 2005 to apply][289]
+\[Repealed\]
+
+[48][419][][419][Address for service][419] \[Repealed\]
+
+[Public Records Act 2005 to apply][420]
+
+[49][290][][290][Public Records Act 2005 to apply][290]
 
 ---
 
@@ -3701,7 +3711,7 @@ Provisions applying to DHBs and their boards
     
     *   (c) notices available on the Internet, or given by any other electronic means.
     
-    Compare: 1987 No 174 [ss 2(1)][420], [45][421]
+    Compare: 1987 No 174 [ss 2(1)][421], [45][422]
 
 #### Members
 
@@ -3715,7 +3725,7 @@ Provisions applying to DHBs and their boards
     
     *   (c) may also hold office as appointed members of the board of 1 or more other DHBs.
     
-    (2) Subclause (1)(b) applies despite [section 32(2)][422] of the Crown Entities Act 2004\.
+    (2) Subclause (1)(b) applies despite [section 32(2)][423] of the Crown Entities Act 2004\.
     
     Schedule 3 clause 2(1)(a): repealed, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -3731,9 +3741,9 @@ Provisions applying to DHBs and their boards
     
     *   (c) may hold office as appointed members of the board of 1 or more other DHBs.
     
-    Schedule 3 clause 3(b): substituted, on 9 November 2010, by [section 24(1)][423] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Schedule 3 clause 3(b): substituted, on 9 November 2010, by [section 24(1)][424] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
     
-    Schedule 3 clause 3(c): added, on 9 November 2010, by [section 24(1)][423] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Schedule 3 clause 3(c): added, on 9 November 2010, by [section 24(1)][424] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ##### 4 Terms or conditions of office, and remuneration
     
@@ -3769,15 +3779,15 @@ Provisions applying to DHBs and their boards
     
 *   (1) A member of a board ceases to hold office if the DHB to which the board relates is disestablished by an Order in Council made under [section 19(2)][22].
     
-    (1A) Subclause (1) applies to appointed members of a board in addition to the grounds in [section 45][424] of the Crown Entities Act 2004\.
+    (1A) Subclause (1) applies to appointed members of a board in addition to the grounds in [section 45][425] of the Crown Entities Act 2004\.
     
     (2) For the purposes of subclause (1), a DHB is not disestablished just because it---
         
     *   (a) is renamed; or
     
-    *   (b) is involved in a reorganisation of districts (as described in [clause 18][349] of Schedule 2); or
+    *   (b) is involved in a reorganisation of districts (as described in [clause 18][350] of Schedule 2); or
     
-    *   (c) has its district altered (as described in [clause 19][350] of Schedule 2).
+    *   (c) has its district altered (as described in [clause 19][351] of Schedule 2).
     
     (3) Subclause (1) overrides any deed or agreement, but does not limit [section 31][35] (replacement of board by commissioner).
     
@@ -3789,19 +3799,19 @@ Provisions applying to DHBs and their boards
 
 ##### 8 Removal from office
     
-*   (1AA) The Minister may remove an appointed member of a board from that office in accordance with [section 36][425] of the Crown Entities Act 2004\.
+*   (1AA) The Minister may remove an appointed member of a board from that office in accordance with [section 36][426] of the Crown Entities Act 2004\.
     
     (1) The Minister may remove an elected member of a board from that office by notice in the _Gazette_ stating the date on which the removal takes effect, but---
         
     *   (a) only if the Minister has first consulted the member, and the board, about the removal; and
     
-    *   (b) only for a reason stated in [clause 9][362].
+    *   (b) only for a reason stated in [clause 9][363].
     
     (2) Subclause (1) overrides any deed or agreement.
     
-    (3) [Sections 38][197] and [45(c)][424] of the Crown Entities Act 2004 do not apply to an elected member of a board of a DHB.
+    (3) [Sections 38][197] and [45(c)][425] of the Crown Entities Act 2004 do not apply to an elected member of a board of a DHB.
     
-    (4) An elected member is not disqualified from office for failure to comply with [section 30(2)][361] of the Crown Entities Act 2004, but may be removed from office under subclause (1)(b) and [clause 9(a)][362].
+    (4) An elected member is not disqualified from office for failure to comply with [section 30(2)][362] of the Crown Entities Act 2004, but may be removed from office under subclause (1)(b) and [clause 9(a)][363].
     
     Schedule 3 clause 8(1AA): inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -3813,11 +3823,11 @@ Provisions applying to DHBs and their boards
 
 ##### 9 Reasons for removal of elected members
     
-*   The reasons referred to in [clause 8(1)(b)][360] are---
+*   The reasons referred to in [clause 8(1)(b)][361] are---
         
-    *   (a) that, if an election of members of the board were held immediately, the member would be disqualified from that election for a reason stated in [clause 17][347] of Schedule 2 (other than the reasons stated in clause 17(1)(e) and (f) of that schedule):
+    *   (a) that, if an election of members of the board were held immediately, the member would be disqualified from that election for a reason stated in [clause 17][348] of Schedule 2 (other than the reasons stated in clause 17(1)(e) and (f) of that schedule):
     
-    *   (b) that the Minister is satisfied that the member failed to declare an interest in circumstances where [clause 6][327] of Schedule 2, or [clause 36][228], required the member to do so:
+    *   (b) that the Minister is satisfied that the member failed to declare an interest in circumstances where [clause 6][328] of Schedule 2, or [clause 36][228], required the member to do so:
     
     *   (c) that the Minister is satisfied that the integrity of the board, or of the DHB to which the board relates, has been seriously compromised because the member---
             
@@ -3829,7 +3839,7 @@ Provisions applying to DHBs and their boards
     
     *   (d) that the member has, without permission from the board or Minister and without any reasonable excuse, been absent from 4 consecutive meetings of the board:
     
-    *   (e) that the member has breached any of the obligations and duties of a board member and [section 58(2)][221] or [section 59(2)][288] of the Crown Entities Act 2004 applies.
+    *   (e) that the member has breached any of the obligations and duties of a board member and [section 58(2)][221] or [section 59(2)][289] of the Crown Entities Act 2004 applies.
     
     Schedule 3 clause 9(e): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -3857,7 +3867,7 @@ Provisions applying to DHBs and their boards
     
 *   (1) A chairperson or deputy chairperson may resign from that office by written notice to the Minister and board stating the date on which the resignation takes effect.
     
-    (2) A chairperson or deputy chairperson who resigns from that office continues to be a member of the board unless he or she also resigns from that office, under [clause 6][371].
+    (2) A chairperson or deputy chairperson who resigns from that office continues to be a member of the board unless he or she also resigns from that office, under [clause 6][372].
 
 ##### 12 Vacation of office
     
@@ -3873,7 +3883,7 @@ Provisions applying to DHBs and their boards
     
     (2) Subclause (1) overrides any deed or agreement.
     
-    (3) A chairperson or deputy chairperson removed from that office continues to be a member of the board unless also removed from that office, under [section 36][425] of the Crown Entities Act 2004 or [clause 8(1)][360], as the case may be.
+    (3) A chairperson or deputy chairperson removed from that office continues to be a member of the board unless also removed from that office, under [section 36][426] of the Crown Entities Act 2004 or [clause 8(1)][361], as the case may be.
     
     Schedule 3 clause 13(3): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -3915,19 +3925,19 @@ Provisions applying to DHBs and their boards
     
     (4) If an emergency meeting of a board is called and notice of the meeting cannot be given in the manner required or permitted by this clause for a scheduled or special meeting, the board or member of the board calling the meeting must give any public notice of the meeting and the business to be transacted at the meeting that is reasonable in the circumstances.
     
-    Compare: 1987 No 174 [s 46(1)--(4)][426]
+    Compare: 1987 No 174 [s 46(1)--(4)][427]
 
 ##### 17 Meetings not publicly notified in accordance with clause 16
     
-*   (1) No meeting of a board is invalid just because it was not publicly notified in accordance with [clause 16][309].
+*   (1) No meeting of a board is invalid just because it was not publicly notified in accordance with [clause 16][310].
     
-    (2) If a board becomes aware that any meeting of the board has not been publicly notified in accordance with [clause 16][309], the board must, as soon as practicable, give public notice that the meeting was not so notified, and must, in that notice,---
+    (2) If a board becomes aware that any meeting of the board has not been publicly notified in accordance with [clause 16][310], the board must, as soon as practicable, give public notice that the meeting was not so notified, and must, in that notice,---
         
     *   (a) state the general nature of the business transacted at the meeting; and
     
     *   (b) give the reasons why the meeting was not so notified.
     
-    Compare: 1987 No 174 [s 46(5), (6)][426]
+    Compare: 1987 No 174 [s 46(5), (6)][427]
 
 ##### 18 Members to be notified of meetings
     
@@ -3961,9 +3971,9 @@ Provisions applying to DHBs and their boards
     
     (6) Every member of the public who inspects an agenda or report made available under this clause and requests a copy of all or any part of any such agenda or report must, if he or she tenders an amount that represents the reasonable costs of making one available, be given such a copy as soon as practicable.
     
-    (7) This clause is subject to [clause 20][384].
+    (7) This clause is subject to [clause 20][385].
     
-    Compare: 1987 No 174 [s 46A(1)--(5), (8)--(9)][427]
+    Compare: 1987 No 174 [s 46A(1)--(5), (8)--(9)][428]
 
 ##### 20 Availability of agendas and reports in special circumstances
     
@@ -3975,7 +3985,7 @@ Provisions applying to DHBs and their boards
     
     *   (b) must indicate on each agenda items the meeting discussed with the public excluded.
     
-    Compare: 1987 No 174 [s 46A(6), (8)--(9)][427]
+    Compare: 1987 No 174 [s 46A(6), (8)--(9)][428]
 
 ##### 21 Public may inspect or request copies of minutes of meeting
     
@@ -3989,17 +3999,17 @@ Provisions applying to DHBs and their boards
     
     (5) If any person requests a copy of the minutes of any meeting or part of a meeting from which the public was excluded, the board must deal with the request as follows:
         
-    *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][428] of the Privacy Act 1993:
+    *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][429] of the Privacy Act 1993:
     
     *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][213].
     
-    Compare: 1987 No 174 [s 51][429]
+    Compare: 1987 No 174 [s 51][430]
 
 ##### 22 Public notification of resolution at emergency meeting
     
 *   If a resolution is passed at an emergency meeting of a board, the board must publicly notify the resolution as soon as practicable, unless it was passed at a meeting or part of a meeting from which the public was excluded.
     
-    Compare: 1987 No 174 [s 51A][430]
+    Compare: 1987 No 174 [s 51A][431]
 
 ##### 23 Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting
     
@@ -4013,7 +4023,7 @@ Provisions applying to DHBs and their boards
     
     (3) This clause does not apply if, in any proceedings for defamation in respect of that publication, the plaintiff proves that, in publishing the matter, the defendant was predominantly motivated by ill will towards the plaintiff, or otherwise took improper advantage of the occasion of publication.
     
-    Compare: 1987 No 174 [s 52][431]
+    Compare: 1987 No 174 [s 52][432]
 
 ##### 24 Oral statements at meetings privileged
     
@@ -4023,7 +4033,7 @@ Provisions applying to DHBs and their boards
     
     (3) The privilege conferred by this clause is in addition to and not in substitution for or derogation of any other privilege, whether absolute or qualified, that applies, by virtue of any other enactment or rule of law, to meetings of any board.
     
-    Compare: 1987 No 174 [s 53][432]
+    Compare: 1987 No 174 [s 53][433]
 
 #### Procedure at meetings
 
@@ -4047,7 +4057,7 @@ Provisions applying to DHBs and their boards
 
 ##### 26 Further provisions relating to quorum
     
-*   For the purposes of subclauses (2) and (3) of [clause 25][390],---
+*   For the purposes of subclauses (2) and (3) of [clause 25][391],---
         
     *   (a) a member who has declared an interest under [clause 36][228] in relation to a transaction must not, for the purposes of that transaction, be counted, unless the Minister has waived or modified the application of clause 36(2); and
     
@@ -4087,7 +4097,7 @@ Provisions applying to DHBs and their boards
     
     *   (b) no resolution, decision, or recommendation may be made in respect of the item except to refer the item to a later meeting of the board for further discussion.
     
-    Compare: 1987 No 174 [s 46A(7), (7A)][427]
+    Compare: 1987 No 174 [s 46A(7), (7A)][428]
 
 ##### 29 Voting
     
@@ -4103,15 +4113,15 @@ Provisions applying to DHBs and their boards
 
 ##### 31 Admission of public
     
-*   Except as provided in [clauses 32 to 35][396], every meeting of a board must be open to the public.
+*   Except as provided in [clauses 32 to 35][397], every meeting of a board must be open to the public.
     
-    Compare: 1987 No 174 [s 47][433]
+    Compare: 1987 No 174 [s 47][434]
 
 ##### 32 Right of board to exclude public
     
 *   A board may by resolution exclude the public from the whole or any part of any meeting of the board only on 1 or more of the following grounds:
         
-    *   (a) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information for which good reason for withholding would exist under any of [sections 6][434], [7][435], or [9][436] (except section 9(2)(g)(i)) of the Official Information Act 1982:
+    *   (a) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information for which good reason for withholding would exist under any of [sections 6][435], [7][436], or [9][437] (except section 9(2)(g)(i)) of the Official Information Act 1982:
     
     *   (b) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information the public disclosure of which would---
             
@@ -4121,13 +4131,13 @@ Provisions applying to DHBs and their boards
         
         
     
-    *   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under [section 30(1)][437] or [section 35(2)][438] of the Official Information Act 1982 to the board:
+    *   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under [section 30(1)][438] or [section 35(2)][439] of the Official Information Act 1982 to the board:
     
-    *   (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under [Part 8][439] of the Privacy Act 1993:
+    *   (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under [Part 8][440] of the Privacy Act 1993:
     
     *   (e) that the exclusion of the public from the whole or the relevant part of the meeting is necessary to enable the board to deliberate in private on a decision or recommendation as to whether any of the grounds in paragraphs (a) to (d) are established in relation to all or any part of any meeting of the board.
     
-    Compare: 1987 No 174 [s 48(1)][440]
+    Compare: 1987 No 174 [s 48(1)][441]
 
 ##### 33 Resolution excluding public
     
@@ -4135,9 +4145,9 @@ Provisions applying to DHBs and their boards
         
     *   (a) the general subject of each matter to be considered while the public is excluded; and
     
-    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on [clause 32(a)][396], the particular interest or interests protected by [section 6][434] or [section 7][435] or [section 9][436] of the Official Information Act 1982 which would be prejudiced by the holding of the whole or the relevant part of the meeting in public; and
+    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on [clause 32(a)][397], the particular interest or interests protected by [section 6][435] or [section 7][436] or [section 9][437] of the Official Information Act 1982 which would be prejudiced by the holding of the whole or the relevant part of the meeting in public; and
     
-    *   (c) the grounds on which that resolution is based (being 1 or more of the grounds stated in [clause 32][396]).
+    *   (c) the grounds on which that resolution is based (being 1 or more of the grounds stated in [clause 32][397]).
     
     (2) Every resolution to exclude the public must be put at a time when the meeting is open to the public, and the text of that resolution (or copies of it) must---
         
@@ -4155,7 +4165,7 @@ Provisions applying to DHBs and their boards
     
     (5) The person or persons must not disclose to anyone not present at the meeting while the public was excluded and the person or persons remained any information that the person or persons became aware of only at the meeting while the public was excluded and the person or persons remained.
     
-    Compare: 1987 No 174 [s 48(3)--(6)][440]
+    Compare: 1987 No 174 [s 48(3)--(6)][441]
 
 ##### 34 Provisions applying when meeting open to public
     
@@ -4169,7 +4179,7 @@ Provisions applying to DHBs and their boards
     
     *   (d) copies of the agenda supplied for members of the public as provided in paragraph (b) must include any further statements or particulars necessary to indicate the nature of any items included in the agenda, unless that item refers to any matter to be considered by the board when the meeting is not likely to be open to the public.
     
-    Compare: 1987 No 174 [s 49][441]
+    Compare: 1987 No 174 [s 49][442]
 
 ##### 35 Maintenance of order
     
@@ -4181,9 +4191,9 @@ Provisions applying to DHBs and their boards
     
     *   (b) having left it, attempts to re-enter it without the permission of the presiding member.
     
-    Compare: 1987 No 174 [s 50][442]
+    Compare: 1987 No 174 [s 50][443]
     
-    Schedule 3 clause 35(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][443] of the Policing Act 2008 (2008 No 72).
+    Schedule 3 clause 35(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][444] of the Policing Act 2008 (2008 No 72).
 
 #### Disclosure of members' interests
 
@@ -4195,7 +4205,7 @@ Provisions applying to DHBs and their boards
         
     *   (a) take part, after the disclosure in any deliberation or decision of the board relating to the transaction; or
     
-    *   (b) be included in the quorum required by [clause 25][390] for any such deliberation or decision; or
+    *   (b) be included in the quorum required by [clause 25][391] for any such deliberation or decision; or
     
     *   (c) sign any document relating to the entry into a transaction or the initiation of the transaction.
     
@@ -4211,7 +4221,7 @@ Provisions applying to DHBs and their boards
     
     (6) Every member of a board of a DHB must ensure that---
         
-    *   (a) the statement completed by the member under [section 31(1)(c)][225] of the Crown Entities Act 2004 or [clause 6][327] of Schedule 2 is incorporated in the interests register maintained under subclause (3); and
+    *   (a) the statement completed by the member under [section 31(1)(c)][225] of the Crown Entities Act 2004 or [clause 6][328] of Schedule 2 is incorporated in the interests register maintained under subclause (3); and
     
     *   (b) any relevant change in the member's circumstances affecting a matter disclosed in that statement is entered in that register as soon as practicable after the change occurs.
     
@@ -4257,7 +4267,7 @@ Provisions applying to DHBs and their boards
     
     (4) A board may regulate the procedure of each committee of the board in any manner not inconsistent with this Act the board thinks fit.
     
-    (5) If meetings of a committee of a board involve making decisions or resolutions on behalf of the board, [clauses 16 to 24][309], [28][310], and [31 to 35][311] apply to those meetings as if the committee were the board.
+    (5) If meetings of a committee of a board involve making decisions or resolutions on behalf of the board, [clauses 16 to 24][310], [28][311], and [31 to 35][312] apply to those meetings as if the committee were the board.
     
     (6) Before a board of a DHB appoints a person who is not a member of the board to a committee of the board, the person must give the board a statement completed by the person in good faith that---
         
@@ -4269,7 +4279,7 @@ Provisions applying to DHBs and their boards
     
     (8) [Clauses 38][242] and [39][243] of Schedule 4 apply to every committee established under this clause.
     
-    Schedule 3 clause 38(1)(a): amended, on 9 November 2010, by [section 24(2)][423] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Schedule 3 clause 38(1)(a): amended, on 9 November 2010, by [section 24(2)][424] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 #### Delegations
 
@@ -4383,7 +4393,7 @@ Provisions applying to DHBs and their boards
     
     (8) In this clause, _DHB_ includes a Crown entity subsidiary of a DHB.
     
-    (9) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of [clause 3][444] of Schedule 1 of the Health Sector (Transfers) Act 1993\.
+    (9) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of [clause 3][445] of Schedule 1 of the Health Sector (Transfers) Act 1993\.
     
     Schedule 3 clause 43(8): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4421,7 +4431,7 @@ Provisions applying to DHBs and their boards
     
     (2) In subclause (1), _DHB_ includes a Crown entity subsidiary of a DHB.
     
-    (3) [Sections 160][445] and [162][446] of the Crown Entities Act 2004 set out the circumstances in which a DHB may borrow.
+    (3) [Sections 160][446] and [162][447] of the Crown Entities Act 2004 set out the circumstances in which a DHB may borrow.
     
     Schedule 3 clause 45(1): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -4431,15 +4441,15 @@ Provisions applying to DHBs and their boards
 
 ##### 45A Restrictions on giving of guarantees and indemnities and the use of derivatives
     
-*   (1) [Sections 160][445] and [163][447] of the Crown Entities Act 2004 set out the circumstances in which a DHB may give a guarantee to, or indemnify, another person.
+*   (1) [Sections 160][446] and [163][448] of the Crown Entities Act 2004 set out the circumstances in which a DHB may give a guarantee to, or indemnify, another person.
     
-    (2) [Sections 160][445] and [164][448] of the Crown Entities Act 2004 set out the circumstances in which a DHB may enter into or amend the terms of a derivative transaction.
+    (2) [Sections 160][446] and [164][449] of the Crown Entities Act 2004 set out the circumstances in which a DHB may enter into or amend the terms of a derivative transaction.
     
     Schedule 3 clause 45A: inserted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 46 Investment
     
-*   [Sections 160][445] and [161][208] of the Crown Entities Act 2004 (which relate to acquisition of securities) apply to a DHB subject to [section 28][32].
+*   [Sections 160][446] and [161][208] of the Crown Entities Act 2004 (which relate to acquisition of securities) apply to a DHB subject to [section 28][32].
     
     Schedule 3 clause 46: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4469,13 +4479,13 @@ Provisions applying to DHBs and their boards
 
 #### Public Records Act 2005 to apply
     
-*   Heading: substituted, on 21 April 2005, by [section 67(1)][449] of the Public Records Act 2005 (2005 No 40).
+*   Heading: substituted, on 21 April 2005, by [section 67(1)][450] of the Public Records Act 2005 (2005 No 40).
 
 ##### 49 Public Records Act 2005 to apply
     
-*   The [Public Records Act 2005][450] applies to information held by DHBs that is of a kind specified by regulations made under this Act.
+*   The [Public Records Act 2005][451] applies to information held by DHBs that is of a kind specified by regulations made under this Act.
     
-    Schedule 3 clause 49: substituted, on 21 April 2005, by [section 67(1)][449] of the Public Records Act 2005 (2005 No 40).
+    Schedule 3 clause 49: substituted, on 21 April 2005, by [section 67(1)][450] of the Public Records Act 2005 (2005 No 40).
 
 ---
 
@@ -4486,107 +4496,107 @@ Provisions applying to community and public health advisory committees, disabili
 
 ## Contents
 
-[Interpretation][451]
+[Interpretation][452]
 
-[1][452][][452][Interpretation][452]
+[1][453][][453][Interpretation][453]
 
-[Functions of community and public health advisory committees][453]
+[Functions of community and public health advisory committees][454]
 
-[2][454][][454][Functions of community and public health advisory committees][454]
+[2][455][][455][Functions of community and public health advisory committees][455]
 
-[Functions of disability support advisory committees][455]
+[Functions of disability support advisory committees][456]
 
-[3][456][][456][Functions of disability support advisory committees][456]
+[3][457][][457][Functions of disability support advisory committees][457]
 
-[Functions of hospital advisory committees][457]
+[Functions of hospital advisory committees][458]
 
-[4][458][][458][Functions of hospital advisory committees][458]
+[4][459][][459][Functions of hospital advisory committees][459]
 
-[Other functions][459]
+[Other functions][460]
 
-[5][460][][460][Committees may be given other functions by Order in Council][460]
+[5][461][][461][Committees may be given other functions by Order in Council][461]
 
-[Members][461]
+[Members][462]
 
-[6][462][][462][Members][462]
+[6][463][][463][Members][463]
 
-[7][463][][463][Terms or conditions of office, and remuneration][463]
+[7][464][][464][Terms or conditions of office, and remuneration][464]
 
-[8][464][][464][Resignation][464]
+[8][465][][465][Resignation][465]
 
-[9][465][][465][Vacation of office][465]
+[9][466][][466][Vacation of office][466]
 
-[10][466][][466][Removal from office][466]
+[10][467][][467][Removal from office][467]
 
-[Chairperson and deputy chairperson][467]
+[Chairperson and deputy chairperson][468]
 
-[11][468][][468][Chairperson and deputy chairperson][468]
+[11][469][][469][Chairperson and deputy chairperson][469]
 
-[12][469][][469][Resignation][469]
+[12][470][][470][Resignation][470]
 
-[13][470][][470][Vacation of office][470]
+[13][471][][471][Vacation of office][471]
 
-[14][471][][471][Removal from office][471]
+[14][472][][472][Removal from office][472]
 
-[Board to notify Minister of appointments, etc][472]
+[Board to notify Minister of appointments, etc][473]
 
-[15][473][][473][Board to notify Minister of appointments, etc][473]
+[15][474][][474][Board to notify Minister of appointments, etc][474]
 
-[Teleconferences][474]
+[Teleconferences][475]
 
-[16][475][][475][Teleconferences][475]
+[16][476][][476][Teleconferences][476]
 
-[17][476][][476][Further provisions relating to teleconferences][476] \[Repealed\]
+[17][477][][477][Further provisions relating to teleconferences][477] \[Repealed\]
 
-[Notice of meetings][477]
+[Notice of meetings][478]
 
-[18][478][][478][Meetings of committees to be publicly notified][478]
+[18][479][][479][Meetings of committees to be publicly notified][479]
 
-[19][479][][479][Meetings not publicly notified in accordance with clause 18][479]
+[19][480][][480][Meetings not publicly notified in accordance with clause 18][480]
 
-[20][480][][480][Members to be notified of meetings][480]
+[20][481][][481][Members to be notified of meetings][481]
 
-[Information relating to meetings][481]
+[Information relating to meetings][482]
 
-[21][482][][482][Availability of agendas and reports][482]
+[21][483][][483][Availability of agendas and reports][483]
 
-[22][483][][483][Availability of agendas and reports in special circumstances][483]
+[22][484][][484][Availability of agendas and reports in special circumstances][484]
 
-[23][484][][484][Public may inspect or request copies of minutes of meeting][484]
+[23][485][][485][Public may inspect or request copies of minutes of meeting][485]
 
-[24][485][][485][Public notification of resolution at emergency meeting][485]
+[24][486][][486][Public notification of resolution at emergency meeting][486]
 
-[25][486][][486][Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting][486]
+[25][487][][487][Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting][487]
 
-[26][487][][487][Oral statements at meetings privileged][487]
+[26][488][][488][Oral statements at meetings privileged][488]
 
-[Procedure at meetings][488]
+[Procedure at meetings][489]
 
-[27][489][][489][Quorum][489]
+[27][490][][490][Quorum][490]
 
-[28][490][][490][Further provisions relating to quorum][490]
+[28][491][][491][Further provisions relating to quorum][491]
 
-[29][491][][491][Presiding member][491]
+[29][492][][492][Presiding member][492]
 
-[30][492][][492][Dealing with items not on agenda for meeting][492]
+[30][493][][493][Dealing with items not on agenda for meeting][493]
 
-[31][493][][493][Voting][493]
+[31][494][][494][Voting][494]
 
-[32][494][][494][Supplementary procedure][494]
+[32][495][][495][Supplementary procedure][495]
 
-[Admission of public][495]
+[Admission of public][496]
 
-[33][496][][496][Admission of public][496]
+[33][497][][497][Admission of public][497]
 
-[34][497][][497][Right of committee to exclude public][497]
+[34][498][][498][Right of committee to exclude public][498]
 
-[35][498][][498][Resolution excluding public][498]
+[35][499][][499][Resolution excluding public][499]
 
-[36][499][][499][Provisions applying when meeting open to public][499]
+[36][500][][500][Provisions applying when meeting open to public][500]
 
-[37][500][][500][Maintenance of order][500]
+[37][501][][501][Maintenance of order][501]
 
-[Disclosure of members' interests][501]
+[Disclosure of members' interests][502]
 
 [38][242][][242][Disclosure of interests][242]
 
@@ -4618,7 +4628,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (c) notices available on the Internet, or given by any other electronic means.
     
-    Compare: 1987 No 174 [ss 2(1)][420], [45][421]
+    Compare: 1987 No 174 [ss 2(1)][421], [45][422]
 
 #### Functions of community and public health advisory committees
 
@@ -4674,7 +4684,7 @@ Provisions applying to community and public health advisory committees, disabili
 
 ##### 5 Committees may be given other functions by Order in Council
     
-*   (1) In addition to the functions specified in [clauses 2 to 4][454], a committee has such functions as are specified as functions of the committee, or of committees of the class to which the committee belongs, by the Governor-General by Order in Council on the recommendation of the Minister.
+*   (1) In addition to the functions specified in [clauses 2 to 4][455], a committee has such functions as are specified as functions of the committee, or of committees of the class to which the committee belongs, by the Governor-General by Order in Council on the recommendation of the Minister.
     
     (2) Before making a recommendation for the purposes of subclause (1), the Minister must consult with such persons as the Minister considers appropriate.
 
@@ -4704,7 +4714,7 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) have the terms or conditions of office, consistent with this Act, that the board determines; and
     
-    *   (b) are remunerated in accordance with [section 47][502] of the Crown Entities Act 2004 and are entitled to be reimbursed for expenses in accordance with [section 48][503] of that Act as if the members of the committee were members of the DHB.
+    *   (b) are remunerated in accordance with [section 47][503] of the Crown Entities Act 2004 and are entitled to be reimbursed for expenses in accordance with [section 48][504] of that Act as if the members of the committee were members of the DHB.
     
     Schedule 4 clause 7(b): amended, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4726,9 +4736,9 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) is renamed; or
     
-    *   (b) is involved in a reorganisation of districts (as described in [clause 18][349] of Schedule 2); or
+    *   (b) is involved in a reorganisation of districts (as described in [clause 18][350] of Schedule 2); or
     
-    *   (c) has its district altered (as described in [clause 19][350] of Schedule 2).
+    *   (c) has its district altered (as described in [clause 19][351] of Schedule 2).
     
     (3) Subclause (1) overrides any deed or agreement.
 
@@ -4752,7 +4762,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     (2) The appointment must be by notice in writing to the member and committee that---
         
-    *   (a) may be the same notice as the notice under [clause 6(1)(a)][462] appointing the member; and
+    *   (a) may be the same notice as the notice under [clause 6(1)(a)][463] appointing the member; and
     
     *   (b) must state the period (starting at or after the time the member comes into that office, and ending at or before the time he or she must cease to be a member) for which the member is appointed chairperson or deputy chairperson and the date on which he or she comes into that office.
     
@@ -4770,7 +4780,7 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) may resign from that office by notice in writing to the committee and board stating the date on which the resignation takes effect; but
     
-    *   (b) if he or she does so, continues to be a member of the committee unless he or she also resigns from that office, under [clause 8][464].
+    *   (b) if he or she does so, continues to be a member of the committee unless he or she also resigns from that office, under [clause 8][465].
     
     
 
@@ -4790,13 +4800,13 @@ Provisions applying to community and public health advisory committees, disabili
     
     (3) Subclauses (1) and (2) override any deed or agreement.
     
-    (4) A chairperson or deputy chairperson removed from that office continues to be a member of the committee unless also removed from that office, under [clause 10(1)][466].
+    (4) A chairperson or deputy chairperson removed from that office continues to be a member of the committee unless also removed from that office, under [clause 10(1)][467].
 
 #### Board to notify Minister of appointments, etc
 
 ##### 15 Board to notify Minister of appointments, etc
     
-*   (1) The board must give the Minister notice of any appointment, resignation, vacation of office, or removal from office, of any chairperson, deputy chairperson, or member of a committee, under any of [clauses 6][462], or [8 to 14][464].
+*   (1) The board must give the Minister notice of any appointment, resignation, vacation of office, or removal from office, of any chairperson, deputy chairperson, or member of a committee, under any of [clauses 6][463], or [8 to 14][465].
     
     (2) The notice must be in writing and given as soon as practicable, and no later than 10 working days, after the board becomes aware of the appointment, resignation, vacation of office, or removal from office.
 
@@ -4838,19 +4848,19 @@ Provisions applying to community and public health advisory committees, disabili
     
     (4) If an emergency meeting of a committee is called and notice of the meeting cannot be given in the manner required or permitted by this clause for a scheduled or special meeting, the committee or member of the committee calling the meeting must give any public notice of the meeting and the business to be transacted at the meeting that is reasonable in the circumstances.
     
-    Compare: 1987 No 174 [s 46(1)--(4)][426]
+    Compare: 1987 No 174 [s 46(1)--(4)][427]
 
 ##### 19 Meetings not publicly notified in accordance with clause 18
     
-*   (1) No meeting of a committee is invalid just because it was not publicly notified in accordance with [clause 18][478].
+*   (1) No meeting of a committee is invalid just because it was not publicly notified in accordance with [clause 18][479].
     
-    (2) If a committee becomes aware that any meeting of the committee has not been publicly notified in accordance with [clause 18][478], the committee must, as soon as practicable, give public notice that the meeting was not so notified, and must, in that notice,---
+    (2) If a committee becomes aware that any meeting of the committee has not been publicly notified in accordance with [clause 18][479], the committee must, as soon as practicable, give public notice that the meeting was not so notified, and must, in that notice,---
         
     *   (a) state the general nature of the business transacted at the meeting; and
     
     *   (b) give the reasons why the meeting was not so notified.
     
-    Compare: 1987 No 174 [s 46(5), (6)][426]
+    Compare: 1987 No 174 [s 46(5), (6)][427]
 
 ##### 20 Members to be notified of meetings
     
@@ -4884,9 +4894,9 @@ Provisions applying to community and public health advisory committees, disabili
     
     (6) Every member of the public who inspects an agenda or report made available under this clause and requests a copy of all or any part of any such agenda or report must, if he or she tenders an amount that represents the reasonable costs of making one available, be given such a copy as soon as practicable.
     
-    (7) This clause is subject to [clause 22][483].
+    (7) This clause is subject to [clause 22][484].
     
-    Compare: 1987 No 174 [s 46A(1)--(5), (8)--(9)][427]
+    Compare: 1987 No 174 [s 46A(1)--(5), (8)--(9)][428]
 
 ##### 22 Availability of agendas and reports in special circumstances
     
@@ -4898,7 +4908,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (b) must indicate on each agenda items the meeting discussed with the public excluded.
     
-    Compare: 1987 No 174 [s 46A(6), (8)--(9)][427]
+    Compare: 1987 No 174 [s 46A(6), (8)--(9)][428]
 
 ##### 23 Public may inspect or request copies of minutes of meeting
     
@@ -4912,17 +4922,17 @@ Provisions applying to community and public health advisory committees, disabili
     
     (5) If any person requests a copy of the minutes of any meeting or part of a meeting from which the public was excluded, the committee must deal with the request as follows:
         
-    *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][428] of the Privacy Act 1993:
+    *   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of [principle 6][429] of the Privacy Act 1993:
     
     *   (b) in any other case, as if it were a request for access to official information made under the [Official Information Act 1982][213].
     
-    Compare: 1987 No 174 [s 51][429]
+    Compare: 1987 No 174 [s 51][430]
 
 ##### 24 Public notification of resolution at emergency meeting
     
 *   If a resolution is passed at an emergency meeting of a committee, the committee must publicly notify the resolution as soon as practicable, unless it was passed at a meeting or part of a meeting from which the public was excluded.
     
-    Compare: 1987 No 174 [s 51A][430]
+    Compare: 1987 No 174 [s 51A][431]
 
 ##### 25 Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting
     
@@ -4936,7 +4946,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     (3) This clause does not apply if, in any proceedings for defamation in respect of that publication, the plaintiff proves that, in publishing the matter, the defendant was predominantly motivated by ill will towards the plaintiff, or otherwise took improper advantage of the occasion of publication.
     
-    Compare: 1987 No 174 [s 52][431]
+    Compare: 1987 No 174 [s 52][432]
 
 ##### 26 Oral statements at meetings privileged
     
@@ -4946,7 +4956,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     (3) The privilege conferred by this clause is in addition to and not in substitution for or derogation of any other privilege, whether absolute or qualified, that applies, by virtue of any other enactment or rule of law, to the meetings of any committee.
     
-    Compare: 1987 No 174 [s 53][432]
+    Compare: 1987 No 174 [s 53][433]
 
 #### Procedure at meetings
 
@@ -4970,9 +4980,9 @@ Provisions applying to community and public health advisory committees, disabili
 
 ##### 28 Further provisions relating to quorum
     
-*   (1) For the purposes of [clause 27(3)][489], it is enough if the board made all reasonable efforts to give all members of the committee the notice before the meeting or meetings.
+*   (1) For the purposes of [clause 27(3)][490], it is enough if the board made all reasonable efforts to give all members of the committee the notice before the meeting or meetings.
     
-    (2) For the purposes of [clause 27(2) and (3)][489], a member who has declared an interest under [clause 38][242] in relation to a transaction must not, for the purposes of that transaction, be counted, unless the board has waived or modified the application of clause 38(2).
+    (2) For the purposes of [clause 27(2) and (3)][490], a member who has declared an interest under [clause 38][242] in relation to a transaction must not, for the purposes of that transaction, be counted, unless the board has waived or modified the application of clause 38(2).
 
 ##### 29 Presiding member
     
@@ -5002,7 +5012,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (b) no resolution, decision, or recommendation may be made in respect of the item except to refer the item to a later meeting of the committee for further discussion.
     
-    Compare: 1987 No 174 [s 46A(7), (7A)][427]
+    Compare: 1987 No 174 [s 46A(7), (7A)][428]
 
 ##### 31 Voting
     
@@ -5018,15 +5028,15 @@ Provisions applying to community and public health advisory committees, disabili
 
 ##### 33 Admission of public
     
-*   Except as provided in [clauses 34 to 37][497], every meeting of a committee must be open to the public.
+*   Except as provided in [clauses 34 to 37][498], every meeting of a committee must be open to the public.
     
-    Compare: 1987 No 174 [s 47][433]
+    Compare: 1987 No 174 [s 47][434]
 
 ##### 34 Right of committee to exclude public
     
 *   A committee may by resolution exclude the public from the whole or any part of any meeting of the committee only on 1 or more of the following grounds:
         
-    *   (a) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information for which good reason for withholding would exist under any of [sections 6][434], [7][435], or [9][436] (except section 9(2)(g)(i)) of the Official Information Act 1982:
+    *   (a) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information for which good reason for withholding would exist under any of [sections 6][435], [7][436], or [9][437] (except section 9(2)(g)(i)) of the Official Information Act 1982:
     
     *   (b) that the public conduct of the whole or the relevant part of the meeting would be likely to result in the disclosure of information the public disclosure of which would---
             
@@ -5036,13 +5046,13 @@ Provisions applying to community and public health advisory committees, disabili
         
         
     
-    *   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under [section 30(1)][437] or [section 35(2)][438] of the Official Information Act 1982 to the committee:
+    *   (c) that the purpose of the whole or the relevant part of the meeting is to consider a recommendation of an Ombudsman made under [section 30(1)][438] or [section 35(2)][439] of the Official Information Act 1982 to the committee:
     
-    *   (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under [Part 8][439] of the Privacy Act 1993 to the committee:
+    *   (d) that the purpose of the whole or the relevant part of the meeting is to consider a communication from the Privacy Commissioner arising out of an investigation under [Part 8][440] of the Privacy Act 1993 to the committee:
     
     *   (e) that the exclusion of the public from the whole or the relevant part of the meeting is necessary to enable the committee to deliberate in private on a decision or recommendation as to whether any of the grounds in paragraphs (a) to (d) are established in relation to all or any part of any meeting of the committee.
     
-    Compare: 1987 No 174 [s 48(1)][440]
+    Compare: 1987 No 174 [s 48(1)][441]
 
 ##### 35 Resolution excluding public
     
@@ -5050,9 +5060,9 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) the general subject of each matter to be considered while the public is excluded; and
     
-    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on [clause 34(a)][497], the particular interest or interests protected by [section 6][434] or [section 7][435] or [section 9][436] of the Official Information Act 1982 which would be prejudiced by the holding of the whole or the relevant part of the meeting in public; and
+    *   (b) the reason for the passing of that resolution in relation to that matter, including, where that resolution is passed in reliance on [clause 34(a)][498], the particular interest or interests protected by [section 6][435] or [section 7][436] or [section 9][437] of the Official Information Act 1982 which would be prejudiced by the holding of the whole or the relevant part of the meeting in public; and
     
-    *   (c) the grounds on which that resolution is based (being 1 or more of the grounds stated in [clause 34][497]).
+    *   (c) the grounds on which that resolution is based (being 1 or more of the grounds stated in [clause 34][498]).
     
     (2) Every resolution to exclude the public must be put at a time when the meeting is open to the public, and the text of that resolution (or copies of it) must---
         
@@ -5070,7 +5080,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     (5) The person or persons must not disclose to anyone not present at the meeting while the public was excluded and the person or persons remained any information that the person or persons became aware of only at the meeting while the public was excluded and the person or persons remained.
     
-    Compare: 1987 No 174 [s 48(3)--(6)][440]
+    Compare: 1987 No 174 [s 48(3)--(6)][441]
 
 ##### 36 Provisions applying when meeting open to public
     
@@ -5084,7 +5094,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (d) copies of the agenda supplied for members of the public as provided in paragraph (b) must include any further statements or particulars necessary to indicate the nature of any items included in the agenda, unless that item refers to any matter to be considered by the committee when the meeting is not likely to be open to the public.
     
-    Compare: 1987 No 174 [s 49][441]
+    Compare: 1987 No 174 [s 49][442]
 
 ##### 37 Maintenance of order
     
@@ -5096,9 +5106,9 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (b) having left it, attempts to re-enter it without the permission of the presiding member.
     
-    Compare: 1987 No 174 [s 50][442]
+    Compare: 1987 No 174 [s 50][443]
     
-    Schedule 4 clause 37(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][443] of the Policing Act 2008 (2008 No 72).
+    Schedule 4 clause 37(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][444] of the Policing Act 2008 (2008 No 72).
 
 #### Disclosure of members' interests
 
@@ -5110,7 +5120,7 @@ Provisions applying to community and public health advisory committees, disabili
         
     *   (a) take part, after the disclosure, in any deliberation or decision of the committee relating to the transaction; or
     
-    *   (b) be included in the quorum required by [clause 27][489] for any such deliberation or decision; or
+    *   (b) be included in the quorum required by [clause 27][490] for any such deliberation or decision; or
     
     *   (c) sign any document relating to the entry into a transaction or the initiation of the transaction.
     
@@ -5124,7 +5134,7 @@ Provisions applying to community and public health advisory committees, disabili
     
     *   (b) what the member says in any deliberation of the committee relating to the transaction concerned.
     
-    (6) Every member of a committee who has completed a statement under [clause 38(6)][174] of Schedule 3 or [clause 6(3)][462] must ensure that---
+    (6) Every member of a committee who has completed a statement under [clause 38(6)][174] of Schedule 3 or [clause 6(3)][463] must ensure that---
         
     *   (a) the statement is incorporated in the interests register maintained under subclause (3); and
     
@@ -5155,15 +5165,15 @@ Provisions relating to imposition and payment of HPA levies
 
 [s 59AA][76]
 
-*   Schedule 4A: inserted, on 1 July 2012, by [section 12][504] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 4A: inserted, on 1 July 2012, by [section 12][505] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 ##### 1 Interpretation
     
 *   (1) In this schedule, unless the context otherwise requires,---
     
-    _aggregate expenditure figure_, in relation to any financial year, means the aggregate expenditure figure assessed in respect of that year by the Minister under [clause 2(1)][505]
+    _aggregate expenditure figure_, in relation to any financial year, means the aggregate expenditure figure assessed in respect of that year by the Minister under [clause 2(1)][506]
     
-    _aggregate levy figure_, in relation to any financial year, means the aggregate levy figure determined in respect of that year by the Minister under [clause 2(2)][505]
+    _aggregate levy figure_, in relation to any financial year, means the aggregate levy figure determined in respect of that year by the Minister under [clause 2(2)][506]
     
     _beer_ means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extracts that on analysis is found to contain more than 1.15% volume of alcohol
     
@@ -5193,15 +5203,15 @@ Provisions relating to imposition and payment of HPA levies
         
         
     
-    _winemaker_ has the same meaning as in the [Wine Act 2003][506].
+    _winemaker_ has the same meaning as in the [Wine Act 2003][507].
     
-    (2) For the purposes of [clauses 3][507] and [5][508], where any wine manufactured in New Zealand is sold to another winemaker for blending with other wine, the wine so sold is deemed to be manufactured by the person who blends it, and not by its original maker.
+    (2) For the purposes of [clauses 3][508] and [5][509], where any wine manufactured in New Zealand is sold to another winemaker for blending with other wine, the wine so sold is deemed to be manufactured by the person who blends it, and not by its original maker.
     
-    (3) For the purposes of [clause 3(2)][507], the total number of litres of wine manufactured in New Zealand during any statistical year is deemed to be the same as the total number of litres of wine sold by winemakers during that year.
+    (3) For the purposes of [clause 3(2)][508], the total number of litres of wine manufactured in New Zealand during any statistical year is deemed to be the same as the total number of litres of wine sold by winemakers during that year.
     
-    (4) For the purposes of [clauses 5][508] and [6][509], the total number of litres of wine sold in New Zealand during any financial year is deemed to be the same as the total number of litres of wine sold in New Zealand during the preceding statistical year.
+    (4) For the purposes of [clauses 5][509] and [6][510], the total number of litres of wine sold in New Zealand during any financial year is deemed to be the same as the total number of litres of wine sold in New Zealand during the preceding statistical year.
     
-    (5) For the purposes of [clause 3(2)][507] and [Schedule 4B][164], alcohol that is exported from New Zealand during the preceding statistical year is not to be treated as alcohol that is imported into or manufactured in New Zealand.
+    (5) For the purposes of [clause 3(2)][508] and [Schedule 4B][164], alcohol that is exported from New Zealand during the preceding statistical year is not to be treated as alcohol that is imported into or manufactured in New Zealand.
 
 ##### 2 Minister to assess aggregate expenditure figure and determine aggregate levy figure
     
@@ -5219,7 +5229,7 @@ Provisions relating to imposition and payment of HPA levies
 
 ##### 3 Minister to determine amounts of levy for each class of alcohol
     
-*   (1) After assessing the aggregate levy figure for any financial year, the Minister must determine, in accordance with subclause (2), the amounts of the levies payable under [clause 5][508], in respect of each class of alcohol, in order to yield an amount equivalent to the aggregate levy figure.
+*   (1) After assessing the aggregate levy figure for any financial year, the Minister must determine, in accordance with subclause (2), the amounts of the levies payable under [clause 5][509], in respect of each class of alcohol, in order to yield an amount equivalent to the aggregate levy figure.
     
     (2) The process for determining the amounts of levy is as follows:
         
@@ -5243,43 +5253,43 @@ Provisions relating to imposition and payment of HPA levies
 
 ##### 4 Rate of levy fixed by Order in Council
     
-*   (1) The Governor-General may, by Order in Council, fix for the next financial year, by reference to each class of alcohol, the amount of levy payable under [clause 5][508].
+*   (1) The Governor-General may, by Order in Council, fix for the next financial year, by reference to each class of alcohol, the amount of levy payable under [clause 5][509].
     
-    (2) The amount of levy for each class of alcohol must be as determined by the Minister in accordance with [clause 3(2)][507].
+    (2) The amount of levy for each class of alcohol must be as determined by the Minister in accordance with [clause 3(2)][508].
     
-    (3) If a rate for a class of alcohol is described in the table in [Schedule 4B][164] as a variable rate, the Order in Council must identify the rate determined by the Minister under [clause 3(3)][507] and used for the purpose of clause 3(2).
+    (3) If a rate for a class of alcohol is described in the table in [Schedule 4B][164] as a variable rate, the Order in Council must identify the rate determined by the Minister under [clause 3(3)][508] and used for the purpose of clause 3(2).
 
 ##### 5 Levies payable by importers and manufacturers of alcohol
     
-*   (1) In every financial year, a levy of the amount set by Order in Council made under [clause 4][510] is payable by every person who---
+*   (1) In every financial year, a levy of the amount set by Order in Council made under [clause 4][511] is payable by every person who---
         
-    *   (a) enters for home consumption (as that expression is used in the [Customs and Excise Act 1996][511]) any imported alcohol that contains more than 1.15% volume of alcohol; or
+    *   (a) enters for home consumption (as that expression is used in the [Customs and Excise Act 1996][512]) any imported alcohol that contains more than 1.15% volume of alcohol; or
     
     *   (b) manufactures in New Zealand any beer or spirits; or
     
     *   (c) sells any wine manufactured by that person in New Zealand.
     
-    (2) No levy is payable under this Act in respect of any alcohol that is not subject to or is exempt from Customs duty under the [Customs and Excise Act 1996][511].
+    (2) No levy is payable under this Act in respect of any alcohol that is not subject to or is exempt from Customs duty under the [Customs and Excise Act 1996][512].
     
-    (3) If any person may be allowed, under the [Customs and Excise Act 1996][511], any drawback in respect of any alcohol, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that alcohol.
+    (3) If any person may be allowed, under the [Customs and Excise Act 1996][512], any drawback in respect of any alcohol, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that alcohol.
     
-    (4) In this section, _Customs duty_ has the meaning given to the term duty by [section 2(1)][512] of the Customs and Excise Act 1996\.
+    (4) In this section, _Customs duty_ has the meaning given to the term duty by [section 2(1)][513] of the Customs and Excise Act 1996\.
 
 ##### 6 Payment and collection of levies in respect of beer, wine, and spirits
     
-*   (1) All levies payable under this Act in respect of any beer, wine, or spirits are payable to the Customs in addition to any duty payable to the Customs in respect of the beer, wine, or spirits under the [Customs and Excise Act 1996][511].
+*   (1) All levies payable under this Act in respect of any beer, wine, or spirits are payable to the Customs in addition to any duty payable to the Customs in respect of the beer, wine, or spirits under the [Customs and Excise Act 1996][512].
     
-    (2) For the purposes of subclause (1), the levies are payable to the Customs at the same time as the excise duty or excise-equivalent duty is payable under the [Customs and Excise Act 1996][511] in respect of the beer, wine, or spirits concerned.
+    (2) For the purposes of subclause (1), the levies are payable to the Customs at the same time as the excise duty or excise-equivalent duty is payable under the [Customs and Excise Act 1996][512] in respect of the beer, wine, or spirits concerned.
 
 ##### 7 Powers of the Customs
     
-*   The powers and authorities of the Customs under the [Customs and Excise Act 1996][511], with any necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
+*   The powers and authorities of the Customs under the [Customs and Excise Act 1996][512], with any necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
 
 ##### 8 All levies collected to be paid to HPA
     
 *   (1) The Customs must pay to HPA all levies received under this Act by the Customs.
     
-    (2) This clause is subject to [clause 9][513].
+    (2) This clause is subject to [clause 9][514].
 
 ##### 9 Crown may be reimbursed for collection of levies
     
@@ -5296,7 +5306,7 @@ Classes of alcohol and rates for each class
 
 [s 59AA][76]
 
-*   Schedule 4B: inserted, on 1 July 2012, by [section 12][504] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 4B: inserted, on 1 July 2012, by [section 12][505] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
 
 **Class****Legal definition of class** **Indicative description** **Rate**
 
@@ -5325,31 +5335,31 @@ Provisions applying to mortality review committees
 
 [s 59E][82]
 
-*   Schedule 5 heading: amended, on 9 November 2010, by [section 25][514] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+*   Schedule 5 heading: amended, on 9 November 2010, by [section 25][515] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ## Contents
 
-[Interpretation][515]
+[Interpretation][516]
 
-[1][516][][516][Interpretation][516]
+[1][517][][517][Interpretation][517]
 
-[Chairperson may require person to give information][517]
+[Chairperson may require person to give information][518]
 
-[2][518][][518][Chairperson may require person to give information][518]
+[2][519][][519][Chairperson may require person to give information][519]
 
-[Production, disclosure, and recording of information][519]
+[Production, disclosure, and recording of information][520]
 
-[3][520][][520][Meaning of information][520]
+[3][521][][521][Meaning of information][521]
 
-[4][521][][521][Prohibitions on production, disclosure, and recording of information][521]
+[4][522][][522][Prohibitions on production, disclosure, and recording of information][522]
 
-[5][522][][522][Exceptions to prohibitions][522]
+[5][523][][523][Exceptions to prohibitions][523]
 
-[6][523][][523][Minister may authorise disclosure of information][523]
+[6][524][][524][Minister may authorise disclosure of information][524]
 
-[Supplementary procedure][524]
+[Supplementary procedure][525]
 
-[7][525][][525][Supplementary procedure][525]
+[7][526][][526][Supplementary procedure][526]
 
 ---
 
@@ -5359,13 +5369,13 @@ Provisions applying to mortality review committees
     
 *   In this schedule, unless the context otherwise requires,---
     
-    _document_ has the same meaning as in [section 2(1)][526] of the Official Information Act 1982
+    _document_ has the same meaning as in [section 2(1)][527] of the Official Information Act 1982
     
-    _judicial proceeding_ means a proceeding that is judicial within the meaning of [section 108][527] of the Crimes Act 1961
+    _judicial proceeding_ means a proceeding that is judicial within the meaning of [section 108][528] of the Crimes Act 1961
     
     _ministerial authority_ means an authority---
         
-    *   (a) given by the Minister under [clause 6(1)][523]; and
+    *   (a) given by the Minister under [clause 6(1)][524]; and
     
     *   (b) in force for the time being
     
@@ -5385,19 +5395,19 @@ Provisions applying to mortality review committees
     
     *   (b) answers to questions posed by the chairperson in the notice, and that the person is able to answer:
     
-    *   (c) information that became known solely as a result of a declared quality assurance activity, within the meaning of Part 6 of the Medical Practitioners Act 1995, or a protected quality assurance activity within the meaning of [section 53(1)][528] of the Health Practitioners Competence Assurance Act 2003\.
+    *   (c) information that became known solely as a result of a declared quality assurance activity, within the meaning of Part 6 of the Medical Practitioners Act 1995, or a protected quality assurance activity within the meaning of [section 53(1)][529] of the Health Practitioners Competence Assurance Act 2003\.
     
     (3) The person must take all reasonable steps to comply with the notice.
     
-    Schedule 5 clause 2(2)(c): amended, on 18 September 2004, by [section 175(1)][186] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Schedule 5 clause 2(2)(c): amended, on 18 September 2004, by [section 175(1)][187] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 #### Production, disclosure, and recording of information
 
 ##### 3 Meaning of information
     
-*   In [clauses 4 to 6][521], _information_ means any information---
+*   In [clauses 4 to 6][522], _information_ means any information---
         
-    *   (a) that is personal information within the meaning of [section 2(1)][529] of the Privacy Act 1993; and
+    *   (a) that is personal information within the meaning of [section 2(1)][530] of the Privacy Act 1993; and
     
     *   (b) that became known to any member or executive officer or agent of a mortality review committee only because of the committee's functions being carried out (for example, because it is contained in a document created, and made available to the member or executive officer or agent, only because of those functions being carried out), whether or not the carrying out of those functions is completed.
     
@@ -5409,7 +5419,7 @@ Provisions applying to mortality review committees
         
     *   (a) for the purposes of carrying out the committee's functions; or
     
-    *   (b) in accordance with an exception stated in [clause 5][522]; or
+    *   (b) in accordance with an exception stated in [clause 5][523]; or
     
     *   (c) in accordance with a ministerial authority.
     
@@ -5419,7 +5429,7 @@ Provisions applying to mortality review committees
 
 ##### 5 Exceptions to prohibitions
     
-*   [Clause 4][521] does not prohibit---
+*   [Clause 4][522] does not prohibit---
         
     *   (a) the production, disclosure, or recording of information if the information does not identify, either expressly or by implication, any particular individual:
     
@@ -5441,7 +5451,9 @@ Provisions applying to mortality review committees
         
     *   (a) for the purposes of the investigation and prosecution of offences:
     
-    *   (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][271].
+    *   (b) for the purposes of a Royal Commission, or a commission of inquiry appointed by an Order in Council made under the [Commissions of Inquiry Act 1908][272]:
+    
+    *   (c) for the purposes of an inquiry to which [section 6][531] of the Inquiries Act 2013 applies.
     
     (2) However, a ministerial authority may be given for information of a non-factual nature (for example, expressions of opinion) only if that information consists only of matter contained in a report or advice prepared by the mortality review committee.
     
@@ -5458,6 +5470,8 @@ Provisions applying to mortality review committees
     *   (b) create a duty to disclose that information.
     
     Compare: 1995 No 95 s 72
+    
+    Schedule 5 clause 6(1)(c): inserted, on 27 August 2013, by [section 39][532] of the Inquiries Act 2013 (2013 No 60).
 
 #### Supplementary procedure
 
@@ -5472,132 +5486,132 @@ Further provisions applying to Pharmac, NZBS, HPA, and HQSC
 
 [s 70][94]
 
-*   Schedule 6 heading: amended, on 1 July 2012, by [section 11(1)][530] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 6 heading: amended, on 9 November 2010, by [section 26(1)][531] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+*   Schedule 6 heading: amended, on 1 July 2012, by [section 11(1)][533] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 6 heading: amended, on 9 November 2010, by [section 26(1)][534] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 ## Contents
 
-[Meaning of organisation][532]
+[Meaning of organisation][535]
 
-[1][533][][533][Meaning of organisation][533]
+[1][536][][536][Meaning of organisation][536]
 
-[Members][534]
-
-\[Repealed\]
-
-[2][535][][535][Members][535] \[Repealed\]
-
-[3][536][][536][Terms and conditions of office, and remuneration][536] \[Repealed\]
-
-[4][537][][537][Resignation][537] \[Repealed\]
-
-[5][538][][538][Vacation of office][538] \[Repealed\]
-
-[6][539][][539][Removal from office][539] \[Repealed\]
-
-[Chairperson and deputy chairperson][540]
+[Members][537]
 
 \[Repealed\]
 
-[7][541][][541][Chairperson and deputy chairperson][541] \[Repealed\]
+[2][538][][538][Members][538] \[Repealed\]
 
-[8][542][][542][Resignation][542] \[Repealed\]
+[3][539][][539][Terms and conditions of office, and remuneration][539] \[Repealed\]
 
-[9][543][][543][Vacation of office][543] \[Repealed\]
+[4][540][][540][Resignation][540] \[Repealed\]
 
-[10][544][][544][Removal from office][544] \[Repealed\]
+[5][541][][541][Vacation of office][541] \[Repealed\]
 
-[Teleconferences][545]
+[6][542][][542][Removal from office][542] \[Repealed\]
 
-\[Repealed\]
-
-[11][546][][546][Teleconferences][546] \[Repealed\]
-
-[12][547][][547][Further provisions relating to teleconferences][547] \[Repealed\]
-
-[Meetings][548]
+[Chairperson and deputy chairperson][543]
 
 \[Repealed\]
 
-[13][549][][549][Members to be notified of meetings][549] \[Repealed\]
+[7][544][][544][Chairperson and deputy chairperson][544] \[Repealed\]
 
-[14][550][][550][Quorum][550] \[Repealed\]
+[8][545][][545][Resignation][545] \[Repealed\]
 
-[15][551][][551][Presiding member][551] \[Repealed\]
+[9][546][][546][Vacation of office][546] \[Repealed\]
 
-[16][552][][552][Voting][552] \[Repealed\]
+[10][547][][547][Removal from office][547] \[Repealed\]
 
-[17][553][][553][Supplementary procedure][553] \[Repealed\]
-
-[Draft resolutions circulated for members' assent][554]
+[Teleconferences][548]
 
 \[Repealed\]
 
-[18][555][][555][Draft resolution may be circulated to members for assent][555] \[Repealed\]
+[11][549][][549][Teleconferences][549] \[Repealed\]
 
-[19][556][][556][Members to respond to draft resolution circulated][556] \[Repealed\]
+[12][550][][550][Further provisions relating to teleconferences][550] \[Repealed\]
 
-[20][557][][557][Draft resolutions assented to by a majority of members][557] \[Repealed\]
-
-[Disclosure of members' interests][558]
-
-[21][559][][559][Disclosure of interests][559]
-
-[22][560][][560][Minister may waive or modify application of clause 21(2)][560] \[Repealed\]
-
-[Committees][561]
-
-[23][562][][562][Committees][562]
-
-[Delegations][563]
-
-[24][564][][564][Delegations][564]
-
-[25][565][][565][Effect of delegation][565] \[Repealed\]
-
-[Seal][566]
+[Meetings][551]
 
 \[Repealed\]
 
-[26][567][][567][Seal][567] \[Repealed\]
+[13][552][][552][Members to be notified of meetings][552] \[Repealed\]
 
-[Contracts and other enforceable obligations][568]
+[14][553][][553][Quorum][553] \[Repealed\]
 
-\[Repealed\]
+[15][554][][554][Presiding member][554] \[Repealed\]
 
-[27][569][][569][Contracts and other enforceable obligations][569] \[Repealed\]
+[16][555][][555][Voting][555] \[Repealed\]
 
-[Dealings with land][570]
+[17][556][][556][Supplementary procedure][556] \[Repealed\]
 
-[28][571][][571][Dealings with land][571]
-
-[Employees][572]
-
-[29][573][][573][Employees][573]
-
-[Borrowing and investment][574]
+[Draft resolutions circulated for members' assent][557]
 
 \[Repealed\]
 
-[30][575][][575][Borrowing][575] \[Repealed\]
+[18][558][][558][Draft resolution may be circulated to members for assent][558] \[Repealed\]
 
-[31][576][][576][Investment][576] \[Repealed\]
+[19][559][][559][Members to respond to draft resolution circulated][559] \[Repealed\]
 
-[Tax status][577]
+[20][560][][560][Draft resolutions assented to by a majority of members][560] \[Repealed\]
+
+[Disclosure of members' interests][561]
+
+[21][562][][562][Disclosure of interests][562]
+
+[22][563][][563][Minister may waive or modify application of clause 21(2)][563] \[Repealed\]
+
+[Committees][564]
+
+[23][565][][565][Committees][565]
+
+[Delegations][566]
+
+[24][567][][567][Delegations][567]
+
+[25][568][][568][Effect of delegation][568] \[Repealed\]
+
+[Seal][569]
 
 \[Repealed\]
 
-[32][578][][578][Tax status][578] \[Repealed\]
+[26][570][][570][Seal][570] \[Repealed\]
 
-[Public Records Act 2005 to apply][579]
-
-[33][580][][580][Public Records Act 2005 to apply][580]
-
-[Address for service][581]
+[Contracts and other enforceable obligations][571]
 
 \[Repealed\]
 
-[34][582][][582][Address for service][582] \[Repealed\]
+[27][572][][572][Contracts and other enforceable obligations][572] \[Repealed\]
+
+[Dealings with land][573]
+
+[28][574][][574][Dealings with land][574]
+
+[Employees][575]
+
+[29][576][][576][Employees][576]
+
+[Borrowing and investment][577]
+
+\[Repealed\]
+
+[30][578][][578][Borrowing][578] \[Repealed\]
+
+[31][579][][579][Investment][579] \[Repealed\]
+
+[Tax status][580]
+
+\[Repealed\]
+
+[32][581][][581][Tax status][581] \[Repealed\]
+
+[Public Records Act 2005 to apply][582]
+
+[33][583][][583][Public Records Act 2005 to apply][583]
+
+[Address for service][584]
+
+\[Repealed\]
+
+[34][585][][585][Address for service][585] \[Repealed\]
 
 ---
 
@@ -5615,9 +5629,9 @@ Further provisions applying to Pharmac, NZBS, HPA, and HQSC
     
     *   (d) HQSC.
     
-    Schedule 6 clause 1(c): replaced, on 1 July 2012, by [section 11(2)][530] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+    Schedule 6 clause 1(c): replaced, on 1 July 2012, by [section 11(2)][533] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
     
-    Schedule 6 clause 1(d): added, on 9 November 2010, by [section 26(2)][531] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+    Schedule 6 clause 1(d): added, on 9 November 2010, by [section 26(2)][534] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
 
 #### Members
 
@@ -5767,7 +5781,7 @@ Further provisions applying to Pharmac, NZBS, HPA, and HQSC
 
 ##### 21 Disclosure of interests
     
-*   [Section 66][583] of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of the board of another organisation or of a DHB.
+*   [Section 66][586] of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of the board of another organisation or of a DHB.
     
     Schedule 6 clause 21: substituted, on 25 January 2005, by [section 200][175] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5881,7 +5895,7 @@ Further provisions applying to Pharmac, NZBS, HPA, and HQSC
     
     (5) In this clause, _organisation_ includes a Crown entity subsidiary of an organisation.
     
-    (6) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of [clause 3][444] of Schedule 1 of the Health Sector (Transfers) Act 1993\.
+    (6) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of [clause 3][445] of Schedule 1 of the Health Sector (Transfers) Act 1993\.
     
     (7) This clause applies despite [sections 16][254] and [17][255] of the Crown Entities Act 2004\.
     
@@ -5953,9 +5967,9 @@ Further provisions applying to Pharmac, NZBS, HPA, and HQSC
 
 ##### 33 Public Records Act 2005 to apply
     
-*   An organisation (other than NZBS) is a public office for the purposes of the [Public Records Act 2005][450].
+*   An organisation (other than NZBS) is a public office for the purposes of the [Public Records Act 2005][451].
     
-    Schedule 6 clause 33: substituted, on 21 April 2005, by [section 67(1)][449] of the Public Records Act 2005 (2005 No 40).
+    Schedule 6 clause 33: substituted, on 21 April 2005, by [section 67(1)][450] of the Public Records Act 2005 (2005 No 40).
 
 #### Address for service
 
@@ -6066,11 +6080,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Charitable Trusts Act 1957 (1957 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][584]._
+_Amendment(s) incorporated in the [Act(s)][587]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][585]._
+_Amendment(s) incorporated in the [Act(s)][588]._
 
 ##### Civil Defence Act 1983 (1983 No 46)
 
@@ -6078,11 +6092,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][586]._
+_Amendment(s) incorporated in the [Act(s)][589]._
 
 ##### Contraception, Sterilisation, and Abortion Act 1977 (1977 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][587]._
+_Amendment(s) incorporated in the [Act(s)][590]._
 
 ##### Dental Act 1988 (1988 No 150)
 
@@ -6090,47 +6104,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][588]._
+_Amendment(s) incorporated in the [Act(s)][591]._
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][589]._
+_Amendment(s) incorporated in the [Act(s)][592]._
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][590]._
+_Amendment(s) incorporated in the [Act(s)][593]._
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][591]._
+_Amendment(s) incorporated in the [Act(s)][594]._
 
 ##### Finance Act 1994 (1994 No 73)
 
-_Amendment(s) incorporated in the [Act(s)][592]._
+_Amendment(s) incorporated in the [Act(s)][595]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][593]._
+_Amendment(s) incorporated in the [Act(s)][596]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][594]._
+_Amendment(s) incorporated in the [Act(s)][597]._
 
 ##### Health Amendment Act 1998 (1998 No 86)
 
-_Amendment(s) incorporated in the [Act(s)][595]._
+_Amendment(s) incorporated in the [Act(s)][598]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][596]._
+_Amendment(s) incorporated in the [Act(s)][599]._
 
 ##### Health Research Council Act 1990 (1990 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][597]._
+_Amendment(s) incorporated in the [Act(s)][600]._
 
 ##### Health Sector (Transfers) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][598]._
+_Amendment(s) incorporated in the [Act(s)][601]._
 
 ##### Hospitals Act 1957 (1957 No 40)
 
@@ -6142,11 +6156,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][599]._
+_Amendment(s) incorporated in the [Act(s)][602]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][600]._
+_Amendment(s) incorporated in the [Act(s)][603]._
 
 ##### Medical Practitioners Act 1995 (1995 No 95)
 
@@ -6154,39 +6168,39 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][601]._
+_Amendment(s) incorporated in the [Act(s)][604]._
 
 ##### Mental Health Commission Act 1998 (1998 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][602]._
+_Amendment(s) incorporated in the [Act(s)][605]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][603]._
+_Amendment(s) incorporated in the [Act(s)][606]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][604]._
+_Amendment(s) incorporated in the [Act(s)][607]._
 
 ##### Ngāi Tahu Claims Settlement Act 1998 (1998 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][605]._
+_Amendment(s) incorporated in the [Act(s)][608]._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][606]._
+_Amendment(s) incorporated in the [Act(s)][609]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][607]._
+_Amendment(s) incorporated in the [Act(s)][610]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][608]._
+_Amendment(s) incorporated in the [Act(s)][611]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][609]._
+_Amendment(s) incorporated in the [Act(s)][612]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -6194,19 +6208,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves Act 1977 (1977 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][610]._
+_Amendment(s) incorporated in the [Act(s)][613]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][611]._
+_Amendment(s) incorporated in the [Act(s)][614]._
 
 ##### Social Security Amendment Act (No 3) 1993 (1993 No 57)
 
-_Amendment(s) incorporated in the [Act(s)][612]._
+_Amendment(s) incorporated in the [Act(s)][615]._
 
 ##### Tuberculosis Act 1948 (1948 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][613]._
+_Amendment(s) incorporated in the [Act(s)][616]._
 
 ---
 
@@ -6217,47 +6231,47 @@ Consequential amendments to other instruments
 
 ##### Accident Insurance (Insurer's Liability to Pay Cost of Treatment) Regulations 1999 (SR 1999/104)
 
-_Amendment(s) incorporated in the [regulations][614]._
+_Amendment(s) incorporated in the [regulations][617]._
 
 ##### Cremation Regulations 1973 (SR 1973/154)
 
-_Amendment(s) incorporated in the [regulations][615]._
+_Amendment(s) incorporated in the [regulations][618]._
 
 ##### Education (Early Childhood Centres) Regulations 1998 (SR 1998/85)
 
-_Amendment(s) incorporated in the [regulations][616]._
+_Amendment(s) incorporated in the [regulations][619]._
 
 ##### Education (Home-Based Care) Order 1992 (SR 1992/238)
 
-_Amendment(s) incorporated in the [order(s)][617]._
+_Amendment(s) incorporated in the [order(s)][620]._
 
 ##### Health (Burial) Regulations 1946 (SR 1946/132)
 
-_Amendment(s) incorporated in the [regulations][618]._
+_Amendment(s) incorporated in the [regulations][621]._
 
 ##### Health Entitlement Cards Regulations 1993 (SR 1993/169)
 
-_Amendment(s) incorporated in the [regulations][619]._
+_Amendment(s) incorporated in the [regulations][622]._
 
 ##### Health (Infectious and Notifiable Diseases) Regulations 1966 (SR 1966/87)
 
-_Amendment(s) incorporated in the [regulations][620]._
+_Amendment(s) incorporated in the [regulations][623]._
 
 ##### Health (Infirm and Neglected Persons) Regulations 1958 (SR 1958/54)
 
-_Amendment(s) incorporated in the [regulations][621]._
+_Amendment(s) incorporated in the [regulations][624]._
 
 ##### Health (Needles and Syringes) Regulations 1998 (SR 1998/254)
 
-_Amendment(s) incorporated in the [regulations][622]._
+_Amendment(s) incorporated in the [regulations][625]._
 
 ##### Health (Retention of Health Information) Regulations 1996 (SR 1996/343)
 
-_Amendment(s) incorporated in the [regulations][623]._
+_Amendment(s) incorporated in the [regulations][626]._
 
 ##### Medicines Regulations 1984 (SR 1984/143)
 
-_Amendment(s) incorporated in the [regulations][624]._
+_Amendment(s) incorporated in the [regulations][627]._
 
 ##### Social Security (Disability Services) Regulations 1993 (SR 1993/250)
 
@@ -6269,15 +6283,15 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Venereal Diseases Regulations 1982 (SR 1982/215)
 
-_Amendment(s) incorporated in the [regulations][625]._
+_Amendment(s) incorporated in the [regulations][628]._
 
 ##### War Pensions Regulations 1956 (SR 1956/7)
 
-_Amendment(s) incorporated in the [regulations][626]._
+_Amendment(s) incorporated in the [regulations][629]._
 
 ##### Water Supplies Protection Regulations 1961 (SR 1961/86)
 
-_Amendment(s) incorporated in the [regulations][627]._
+_Amendment(s) incorporated in the [regulations][630]._
 
 ##### Wine Makers Regulations 1990 (SR 1990/77)
 
@@ -6293,7 +6307,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [New Zealand Public Health and Disability Amendment Act 2010][628].
+*   This Act is the [New Zealand Public Health and Disability Amendment Act 2010][631].
 
 ##### 2 Commencement
     
@@ -6352,7 +6366,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [New Zealand Public Health and Disability Amendment Act 2012][629].
+*   This Act is the [New Zealand Public Health and Disability Amendment Act 2012][632].
 
 ##### 2 Commencement
     
@@ -6554,108 +6568,71 @@ Commencementsee section 2
     
 *   The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of an entity under this Part, including the transfer of functions formerly carried out by the entity.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Public Health and Disability Act 2000\. The reprint incorporates all the amendments to the Act as at 21 May 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][630] ![](/images/external_link.gif).
+*   This is a reprint of the New Zealand Public Health and Disability Act 2000 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][631] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][633] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][634] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][632] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][635] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][636] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][633] and [17E][634] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Inquiries Act 2013 (2013 No 60): [section 39][532]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Crown Entities Amendment Act 2013 (2013 No 51): [section 42][186]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [New Zealand Public Health and Disability Amendment Act 2013][637] (2013 No 22)
     
+    [New Zealand Public Health and Disability Amendment Act 2012][632] (2012 No 41)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][257]
     
-*   [New Zealand Public Health and Disability Amendment Act 2013][635] (2013 No 22)
+    [New Zealand Public Health and Disability Amendment Act 2010][631] (2010 No 118)
     
-    [New Zealand Public Health and Disability Amendment Act 2012][629] (2012 No 41)
+    Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78): [clause 4][317]
     
-    [New Zealand Public Health and Disability Amendment Act 2010][628] (2010 No 118)
-    
-    Health and Disability (Establishment of Southern DHB) Order 2010 (SR 2010/78): [clause 4][316]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][443]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][444]
     
     Human Tissue Act 2008 (2008 No 28): [section 92][251]
     
-    [New Zealand Public Health and Disability Amendment Act 2005][636] (2005 No 63)
+    [New Zealand Public Health and Disability Amendment Act 2005][638] (2005 No 63)
     
-    Public Records Act 2005 (2005 No 40): [section 67(1)][449]
+    Public Records Act 2005 (2005 No 40): [section 67(1)][450]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][185]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][175]
     
-    Health (Geographical Areas of District Health Boards) Order 2004 (SR 2004/227): [clause 3][317]
+    Health (Geographical Areas of District Health Boards) Order 2004 (SR 2004/227): [clause 3][318]
     
-    [New Zealand Public Health and Disability Amendment Act 2003][637] (2003 No 87)
+    [New Zealand Public Health and Disability Amendment Act 2003][639] (2003 No 87)
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][186]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][187]
     
-    Local Electoral Amendment Act 2002 (2002 No 85): [sections 51][293], [52][358]
+    Local Electoral Amendment Act 2002 (2002 No 85): [sections 51][294], [52][359]
     
-    Local Government Act 2002 (2002 No 84): [section 262][353]
+    Local Government Act 2002 (2002 No 84): [section 262][354]
     
-    Local Electoral Act 2001 (2001 No 35): [sections 150][355], [151][195]
+    Local Electoral Act 2001 (2001 No 35): [sections 150][356], [151][196]
     
-    Health (Constituencies of District Health Boards) Order 2001 (SR 2001/77): [clause 7][318]
+    Health (Constituencies of District Health Boards) Order 2001 (SR 2001/77): [clause 7][319]
     
-    Health Sector (Transfers) Amendment Act 2000 (2000 No 92): [section 4(3)][261]
+    Health Sector (Transfers) Amendment Act 2000 (2000 No 92): [section 4(3)][262]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM80054
 [2]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM80055
 [3]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM80056
@@ -6833,7 +6810,7 @@ Commencementsee section 2
 [175]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM331111
 [176]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901011
 [177]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484065
-[178]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329647
+[178]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329641
 [179]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM129109
 [180]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330351
 [181]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330368
@@ -6841,17 +6818,17 @@ Commencementsee section 2
 [183]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329639
 [184]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484067
 [185]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333795
-[186]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM205009
-[187]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901012
-[188]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM348477
-[189]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330504
-[190]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330577
-[191]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242701
-[192]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM213088
-[193]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901015
-[194]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93300
-[195]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM95330
-[196]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329641
+[186]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5326977
+[187]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM205009
+[188]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901012
+[189]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM348477
+[190]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330504
+[191]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330577
+[192]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242701
+[193]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM213088
+[194]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901015
+[195]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93300
+[196]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM95330
 [197]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329965
 [198]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329991
 [199]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329995
@@ -6912,384 +6889,386 @@ Commencementsee section 2
 [254]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329930
 [255]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329931
 [256]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901027
-[257]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484082
-[258]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901032
-[259]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330548
-[260]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295149
-[261]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM83573
-[262]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484084
-[263]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901033
-[264]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484085
-[265]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901034
-[266]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5205111
-[267]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM225519
-[268]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2997643
-[269]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998567
-[270]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM304475
-[271]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139130
-[272]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139172
-[273]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139174
-[274]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333890
-[275]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333973
-[276]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242710
-[277]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139144
-[278]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM124115
-[279]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM122241
-[280]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139153
-[281]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139155
-[282]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM310742
-[283]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139157
-[284]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139159
-[285]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139161
-[286]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139167
-[287]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901035
-[288]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329990
-[289]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82539
-[290]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM176252
-[291]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2642621
-[292]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901036
-[293]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM181938
-[294]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484086
-[295]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294922
-[296]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM319569
-[297]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM323203
-[298]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295183
-[299]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM446000
-[300]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295135
-[301]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294993
-[302]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294994
-[303]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295138
-[304]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM218115
-[305]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM81034
-[306]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162455
-[307]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162420
-[308]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162464
-[309]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82071
-[310]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82085
-[311]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82089
-[312]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM87631
-[313]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM129117
-[314]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM424170
-[315]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM161256
-[316]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2823915
-[317]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM275813
-[318]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM24876
-[319]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763100
-[320]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81657
-[321]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763101
-[322]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81673
-[323]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763102
-[324]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81675
-[325]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81676
-[326]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81677
-[327]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81678
-[328]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81680
-[329]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763103
-[330]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81683
-[331]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81686
-[332]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81687
-[333]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81690
-[334]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81692
-[335]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763105
-[336]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81695
-[337]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763106
-[338]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82000
-[339]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763107
-[340]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82006
-[341]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763108
-[342]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82008
-[343]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82011
-[344]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763109
-[345]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82013
-[346]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763110
-[347]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82015
-[348]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763111
-[349]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82021
-[350]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82024
-[351]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82025
-[352]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM170881
-[353]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM174088
-[354]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM307518
-[355]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM95328
-[356]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93444
-[357]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM94769
-[358]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM181939
-[359]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82048
-[360]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82052
-[361]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329956
-[362]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82056
-[363]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93965
-[364]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763112
-[365]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82029
-[366]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763113
-[367]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82039
-[368]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82042
-[369]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82043
-[370]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82045
-[371]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82046
-[372]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763114
-[373]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82059
-[374]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82061
-[375]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82062
-[376]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82063
-[377]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763115
-[378]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82068
-[379]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763116
-[380]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82072
-[381]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82073
-[382]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763117
-[383]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82075
-[384]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82076
-[385]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82077
-[386]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82078
-[387]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82079
-[388]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82080
-[389]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763118
-[390]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82082
-[391]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82083
-[392]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82084
-[393]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82086
-[394]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82087
-[395]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763119
-[396]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82090
-[397]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82091
-[398]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82092
-[399]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82093
-[400]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763121
-[401]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763122
-[402]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763123
-[403]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82506
-[404]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763124
-[405]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82509
-[406]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763126
-[407]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82513
-[408]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763128
-[409]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82516
-[410]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763129
-[411]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763130
-[412]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82522
-[413]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82525
-[414]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82527
-[415]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763131
-[416]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82530
-[417]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763133
-[418]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82534
-[419]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763135
-[420]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM122247
-[421]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123072
-[422]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329959
-[423]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901037
-[424]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329972
-[425]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329963
-[426]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123080
-[427]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123087
-[428]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM297038
-[429]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123600
-[430]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123601
-[431]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123606
-[432]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123608
-[433]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123094
-[434]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65366
-[435]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65368
-[436]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65371
-[437]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65663
-[438]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65679
-[439]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM297439
-[440]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123095
-[441]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123098
-[442]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123099
-[443]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM1102349
-[444]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295186
-[445]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330565
-[446]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330567
-[447]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330568
-[448]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330569
-[449]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM346105
-[450]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM345528
-[451]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765505
-[452]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82544
-[453]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763137
-[454]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82558
-[455]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763138
-[456]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82560
-[457]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763139
-[458]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82562
-[459]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763140
-[460]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82564
-[461]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763141
-[462]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82566
-[463]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82567
-[464]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82569
-[465]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82570
-[466]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82571
-[467]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763142
-[468]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82573
-[469]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82574
-[470]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82575
-[471]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82576
-[472]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763143
-[473]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82578
-[474]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763144
-[475]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82580
-[476]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82582
-[477]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763145
-[478]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82585
-[479]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82586
-[480]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82587
-[481]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765506
-[482]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82588
-[483]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82589
-[484]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82590
-[485]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82591
-[486]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82592
-[487]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82593
-[488]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765507
-[489]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82594
-[490]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82595
-[491]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82596
-[492]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82597
-[493]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82598
-[494]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82599
-[495]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763146
-[496]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82801
-[497]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82802
-[498]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82803
-[499]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82804
-[500]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82805
-[501]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763147
-[502]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329975
-[503]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329976
-[504]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484089
-[505]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587065
-[506]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM222446
-[507]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587066
-[508]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587068
-[509]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587070
-[510]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587067
-[511]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM377336
-[512]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM377342
-[513]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587073
-[514]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242711
-[515]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763148
-[516]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82814
-[517]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763149
-[518]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82824
-[519]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763150
-[520]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82827
-[521]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82828
-[522]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82829
-[523]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82830
-[524]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763151
-[525]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82832
-[526]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM64790
-[527]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM328793
-[528]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM203835
-[529]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM296645
-[530]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484087
-[531]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901038
-[532]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763152
-[533]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82837
-[534]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763154
-[535]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82840
-[536]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82842
-[537]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82844
-[538]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82846
-[539]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82848
-[540]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763156
-[541]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82851
-[542]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82853
-[543]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82855
-[544]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82857
-[545]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763158
-[546]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82860
-[547]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82862
-[548]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763160
-[549]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82865
-[550]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82867
-[551]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82869
-[552]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82871
-[553]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82873
-[554]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763162
-[555]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82876
-[556]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82878
-[557]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82880
-[558]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763164
-[559]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82883
-[560]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82885
-[561]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763165
-[562]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82888
-[563]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763166
-[564]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82892
-[565]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82895
-[566]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763167
-[567]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82898
-[568]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763169
-[569]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83101
-[570]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763171
-[571]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83104
-[572]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763172
-[573]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83108
-[574]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763173
-[575]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83113
-[576]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83115
-[577]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763175
-[578]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83119
-[579]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763177
-[580]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83124
-[581]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763179
-[582]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83129
-[583]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330300
-[584]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM309983
-[585]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM149457
-[586]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM328991
-[587]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM18175
-[588]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM436795
-[589]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM187046
-[590]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM309174
-[591]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM61717
-[592]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM332872
-[593]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM381228
-[594]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM305845
-[595]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM428186
-[596]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333589
-[597]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM213089
-[598]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295712
-[599]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM434836
-[600]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM415539
-[601]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM55484
-[602]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM424120
-[603]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM262181
-[604]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM436242
-[605]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM429752
-[606]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65325
-[607]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM430989
-[608]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM163544
-[609]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM45433
-[610]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM444310
-[611]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM359124
-[612]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM302667
-[613]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM248405
-[614]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM283526
-[615]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM39806
-[616]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM247775
-[617]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM165974
-[618]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2950
-[619]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM176257
-[620]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM24226
-[621]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM12194
-[622]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM258076
-[623]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM225620
-[624]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM96553
-[625]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM82381
-[626]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM60402
-[627]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM15475
-[628]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901000
-[629]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4047300
-[630]: http://www.pco.parliament.govt.nz/reprints/
-[631]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM195439
-[632]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[633]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM195468
-[634]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM195470
-[635]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5205101
-[636]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM348467
-[637]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM218109
+[257]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3360714
+[258]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484082
+[259]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901032
+[260]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330548
+[261]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295149
+[262]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM83573
+[263]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484084
+[264]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901033
+[265]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484085
+[266]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901034
+[267]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5205111
+[268]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM225519
+[269]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2997643
+[270]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998567
+[271]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM304475
+[272]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139130
+[273]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139172
+[274]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139174
+[275]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333890
+[276]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333973
+[277]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242710
+[278]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139144
+[279]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM124115
+[280]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM122241
+[281]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139153
+[282]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139155
+[283]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3359902
+[284]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139157
+[285]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139159
+[286]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139161
+[287]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM139167
+[288]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901035
+[289]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329990
+[290]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82539
+[291]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM176252
+[292]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2642621
+[293]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901036
+[294]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM181938
+[295]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484086
+[296]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294922
+[297]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM319569
+[298]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM323203
+[299]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295183
+[300]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM446000
+[301]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295135
+[302]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294993
+[303]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM294994
+[304]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295138
+[305]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM218115
+[306]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM81034
+[307]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162455
+[308]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162420
+[309]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM162464
+[310]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82071
+[311]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82085
+[312]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82089
+[313]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM87631
+[314]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM129117
+[315]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM424170
+[316]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM161256
+[317]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2823915
+[318]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM275813
+[319]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM24876
+[320]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763100
+[321]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81657
+[322]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763101
+[323]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81673
+[324]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763102
+[325]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81675
+[326]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81676
+[327]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81677
+[328]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81678
+[329]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81680
+[330]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763103
+[331]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81683
+[332]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81686
+[333]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81687
+[334]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81690
+[335]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81692
+[336]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763105
+[337]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM81695
+[338]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763106
+[339]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82000
+[340]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763107
+[341]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82006
+[342]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763108
+[343]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82008
+[344]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82011
+[345]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763109
+[346]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82013
+[347]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763110
+[348]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82015
+[349]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763111
+[350]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82021
+[351]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82024
+[352]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82025
+[353]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM170881
+[354]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM174088
+[355]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM307518
+[356]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM95328
+[357]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93444
+[358]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM94769
+[359]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM181939
+[360]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82048
+[361]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82052
+[362]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329956
+[363]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82056
+[364]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM93965
+[365]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763112
+[366]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82029
+[367]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763113
+[368]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82039
+[369]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82042
+[370]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82043
+[371]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82045
+[372]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82046
+[373]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763114
+[374]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82059
+[375]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82061
+[376]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82062
+[377]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82063
+[378]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763115
+[379]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82068
+[380]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763116
+[381]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82072
+[382]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82073
+[383]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763117
+[384]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82075
+[385]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82076
+[386]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82077
+[387]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82078
+[388]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82079
+[389]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82080
+[390]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763118
+[391]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82082
+[392]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82083
+[393]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82084
+[394]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82086
+[395]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82087
+[396]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763119
+[397]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82090
+[398]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82091
+[399]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82092
+[400]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82093
+[401]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763121
+[402]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763122
+[403]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763123
+[404]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82506
+[405]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763124
+[406]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82509
+[407]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763126
+[408]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82513
+[409]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763128
+[410]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82516
+[411]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763129
+[412]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763130
+[413]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82522
+[414]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82525
+[415]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82527
+[416]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763131
+[417]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82530
+[418]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763133
+[419]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82534
+[420]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763135
+[421]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM122247
+[422]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123072
+[423]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329959
+[424]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901037
+[425]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329972
+[426]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329963
+[427]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123080
+[428]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123087
+[429]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM297038
+[430]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123600
+[431]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123601
+[432]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123606
+[433]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123608
+[434]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123094
+[435]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65366
+[436]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65368
+[437]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65371
+[438]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65663
+[439]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65679
+[440]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM297439
+[441]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123095
+[442]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123098
+[443]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM123099
+[444]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM1102349
+[445]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295186
+[446]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330565
+[447]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330567
+[448]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330568
+[449]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330569
+[450]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM346105
+[451]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM345528
+[452]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765505
+[453]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82544
+[454]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763137
+[455]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82558
+[456]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763138
+[457]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82560
+[458]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763139
+[459]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82562
+[460]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763140
+[461]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82564
+[462]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763141
+[463]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82566
+[464]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82567
+[465]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82569
+[466]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82570
+[467]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82571
+[468]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763142
+[469]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82573
+[470]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82574
+[471]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82575
+[472]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82576
+[473]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763143
+[474]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82578
+[475]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763144
+[476]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82580
+[477]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82582
+[478]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763145
+[479]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82585
+[480]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82586
+[481]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82587
+[482]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765506
+[483]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82588
+[484]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82589
+[485]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82590
+[486]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82591
+[487]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82592
+[488]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82593
+[489]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2765507
+[490]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82594
+[491]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82595
+[492]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82596
+[493]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82597
+[494]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82598
+[495]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82599
+[496]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763146
+[497]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82801
+[498]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82802
+[499]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82803
+[500]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82804
+[501]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82805
+[502]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763147
+[503]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329975
+[504]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM329976
+[505]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484089
+[506]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587065
+[507]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM222446
+[508]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587066
+[509]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587068
+[510]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587070
+[511]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587067
+[512]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM377336
+[513]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM377342
+[514]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM4587073
+[515]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM3242711
+[516]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763148
+[517]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82814
+[518]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763149
+[519]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82824
+[520]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763150
+[521]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82827
+[522]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82828
+[523]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82829
+[524]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82830
+[525]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763151
+[526]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82832
+[527]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM64790
+[528]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM328793
+[529]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM203835
+[530]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM296645
+[531]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM1566136
+[532]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM1566190
+[533]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4484087
+[534]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901038
+[535]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763152
+[536]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82837
+[537]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763154
+[538]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82840
+[539]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82842
+[540]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82844
+[541]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82846
+[542]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82848
+[543]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763156
+[544]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82851
+[545]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82853
+[546]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82855
+[547]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82857
+[548]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763158
+[549]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82860
+[550]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82862
+[551]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763160
+[552]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82865
+[553]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82867
+[554]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82869
+[555]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82871
+[556]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82873
+[557]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763162
+[558]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82876
+[559]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82878
+[560]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82880
+[561]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763164
+[562]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82883
+[563]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82885
+[564]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763165
+[565]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82888
+[566]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763166
+[567]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82892
+[568]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82895
+[569]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763167
+[570]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM82898
+[571]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763169
+[572]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83101
+[573]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763171
+[574]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83104
+[575]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763172
+[576]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83108
+[577]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763173
+[578]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83113
+[579]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83115
+[580]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763175
+[581]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83119
+[582]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763177
+[583]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83124
+[584]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM2763179
+[585]: http://www.legislation.govt.nz/act/public/2000/0091/latest/whole.html#DLM83129
+[586]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM330300
+[587]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM309983
+[588]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM149457
+[589]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM328991
+[590]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM18175
+[591]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM436795
+[592]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM187046
+[593]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM309174
+[594]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM61717
+[595]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM332872
+[596]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM381228
+[597]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM305845
+[598]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM428186
+[599]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM333589
+[600]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM213089
+[601]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM295712
+[602]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM434836
+[603]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM415539
+[604]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM55484
+[605]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM424120
+[606]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM262181
+[607]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM436242
+[608]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM429752
+[609]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM65325
+[610]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM430989
+[611]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM163544
+[612]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM45433
+[613]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM444310
+[614]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM359124
+[615]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM302667
+[616]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM248405
+[617]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM283526
+[618]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM39806
+[619]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM247775
+[620]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM165974
+[621]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2950
+[622]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM176257
+[623]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM24226
+[624]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM12194
+[625]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM258076
+[626]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM225620
+[627]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM96553
+[628]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM82381
+[629]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM60402
+[630]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM15475
+[631]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2901000
+[632]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM4047300
+[633]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998516
+[634]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998515
+[635]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM2998532
+[636]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[637]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM5205101
+[638]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM348467
+[639]: http://www.legislation.govt.nz/act/public/2000/0091/latest/link.aspx?id=DLM218109
