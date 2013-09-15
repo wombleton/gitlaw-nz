@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -1513,7 +1513,7 @@ Preventive security measures
         
         
     
-    (4) If a direction takes effect on a date on or after the notice is published in the _Gazette_, the notice is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][113].
+    (4) The notice is not a legislative instrument for the purposes of the [Legislation Act 2012][113], but if the direction in the notice takes effect on a date on or after the notice is published in the _Gazette_, the notice is a disallowable instrument for the purposes of that Act and must be presented to the House of Representatives under [section 41][114] of that Act.
     
     (5) A direction may,---
         
@@ -1524,10 +1524,12 @@ Preventive security measures
     (6) Subject to subsection (3), a direction remains in effect until it is rescinded.
     
     Compare: 1990 No 98 [ss 77A][111], [77B][112]
+    
+    Section 49(4): replaced, on 5 August 2013, by [section 77(3)][115] of the Legislation Act 2012 (2012 No 119).
 
 ##### 50 Taking weapons on to ships or into port security areas
     
-*   (1) A person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the written permission of the ship security officer (with respect to boarding a ship) or the port facility security officer (with respect to entering a port security area), intentionally takes, or attempts to take, on board a ship or into a port security area---
+*   (1) A person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years, who, without lawful authority or reasonable excuse, or without the written permission of the ship security officer (with respect to boarding a ship) or the port facility security officer (with respect to entering a port security area), intentionally takes, or attempts to take, on board a ship or into a port security area---
         
     *   (a) a firearm, or any other dangerous or offensive weapon or instrument of any kind; or
     
@@ -1553,7 +1555,9 @@ Preventive security measures
     
     *   (b) is dismantled.
     
-    Compare: 1972 No 137 [s 11][114]
+    Compare: 1972 No 137 [s 11][116]
+    
+    Section 50(1): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Screening and searching powers
     
@@ -1615,7 +1619,7 @@ Preventive security measures
         
         
     
-    (4) An issuing officer (within the meaning of [section 3][115] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][116] of Part 4 of that Act, is satisfied that there are reasonable grounds to believe that an offence against this Act has been, is being, or is likely to be committed, may issue to an authorised person (named in the warrant) a warrant to search---
+    (4) An issuing officer (within the meaning of [section 3][118] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][119] of Part 4 of that Act, is satisfied that there are reasonable grounds to believe that an offence against this Act has been, is being, or is likely to be committed, may issue to an authorised person (named in the warrant) a warrant to search---
         
     *   (a) a person specified in subsection (1)(b)(i); or
     
@@ -1631,9 +1635,9 @@ Preventive security measures
     
     *   (b) if the search is not made by means of a mechanical or electronic device or similar mechanism, that person must be searched by an authorised person of the same gender.
     
-    (6A) Subject to subsections (5), (6), and (6B), the provisions of [Part 4][117] of the Search and Surveillance Act 2012 apply in respect of a warrant issued under subsection (4).
+    (6A) Subject to subsections (5), (6), and (6B), the provisions of [Part 4][120] of the Search and Surveillance Act 2012 apply in respect of a warrant issued under subsection (4).
     
-    (6B) Despite subsection (6A), [sections 118][118] and [119][119] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (6B) Despite subsection (6A), [sections 118][121] and [119][122] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
     (7) Screening and searching may only be undertaken in a port security area in areas that are designated for that purpose by signage that---
         
@@ -1657,15 +1661,15 @@ Preventive security measures
     
     (12) \[Repealed\]
     
-    Section 51(4): amended, on 1 October 2012, by [section 277(2)][120] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(4): amended, on 1 October 2012, by [section 277(2)][123] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 51(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
-    Section 51(6A): inserted, on 1 October 2012, by [section 277(3)][120] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(6A): inserted, on 1 October 2012, by [section 277(3)][123] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(6B): inserted, on 1 October 2012, by [section 277(3)][120] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(6B): inserted, on 1 October 2012, by [section 277(3)][123] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 51(12): repealed, on 1 October 2012, by [section 277(4)][120] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 51(12): repealed, on 1 October 2012, by [section 277(4)][123] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 52 Power to seize items
     
@@ -1721,7 +1725,7 @@ Preventive security measures
     
     (4) Despite subsection (3), the complainant is not liable to indemnify the Designated Authority for any costs arising from the detention of a ship incurred on or after a date 2 days after the Designated Authority determines that the information provided by the complainant was false.
     
-    Compare: 1994 No 104 [s 56][121]
+    Compare: 1994 No 104 [s 56][124]
 
 ##### 54 Persons who refuse to consent to be screened or searched
     
@@ -1769,11 +1773,11 @@ Preventive security measures
     
     (4) If a constable exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
     
-    Compare: 1972 No 137 [s 13][122]
+    Compare: 1972 No 137 [s 13][125]
     
     Section 55(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
-    Section 55(1)(b): replaced, on 1 October 2012, by [section 277(5)][120] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 55(1)(b): replaced, on 1 October 2012, by [section 277(5)][123] of the Search and Surveillance Act 2012 (2012 No 24).
     
     Section 55(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
@@ -1789,9 +1793,9 @@ Preventive security measures
     
     *   (b) [section 73][85]:
     
-    *   (c) [section 45][123] of the Arms Act 1983 (which relates to unlawful carriage of firearms or explosives):
+    *   (c) [section 45][126] of the Arms Act 1983 (which relates to unlawful carriage of firearms or explosives):
     
-    *   (d) [section 4][124] of the Maritime Crimes Act 1999 (which relates to crimes relating to ships).
+    *   (d) [section 4][127] of the Maritime Crimes Act 1999 (which relates to crimes relating to ships).
     
     (2) A person may, in good faith, assist an authorised person in arresting any person if called upon to do so by that authorised person.
     
@@ -1807,7 +1811,7 @@ Preventive security measures
     
     (5) An authorised person who arrests a person and delivers him or her to a constable, and any person who at the request of the authorised person and in good faith assists an authorised person in doing so, is justified in so arresting and delivering that person and in using any force that may be reasonably necessary.
     
-    Compare: 1990 No 98 [ss 85][125], [86(3)][126]
+    Compare: 1990 No 98 [ss 85][128], [86(3)][129]
     
     Section 56(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
@@ -1819,7 +1823,7 @@ Preventive security measures
     
     (2) A constable who accepts delivery of a detained person may arrest that person.
     
-    Compare: 1990 No 98 [s 86][126]
+    Compare: 1990 No 98 [s 86][129]
     
     Section 57(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
@@ -1849,7 +1853,7 @@ Preventive security measures
     
     *   (c) if not in uniform, provide, if asked, evidence that he or she is an authorised person to the occupier.
     
-    Compare: 1990 No 98 [s 83][127]
+    Compare: 1990 No 98 [s 83][130]
     
     Section 58(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
     
@@ -1871,7 +1875,7 @@ Preventive security measures
             
             *   (C) the Ministry of Agriculture and Forestry; and
             
-            *   (D) the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Immigration Act 2009][128]; and
+            *   (D) the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the [Immigration Act 2009][131]; and
             
             *   (E) the Ministry of Health; and
             
@@ -1903,7 +1907,7 @@ Preventive security measures
     
     (2) If the chief executive makes a declaration under subsection (1), the chief executive must notify the master, the port facility security officer, the port facility operator, and the harbourmaster by the means of communication, whether or not of a permanent nature, that the chief executive considers appropriate in the circumstances.
     
-    Section 59(1)(a)(ii)(D): substituted, at 2 am on 29 November 2010, by [section 406(1)][129] of the Immigration Act 2009 (2009 No 51).
+    Section 59(1)(a)(ii)(D): substituted, at 2 am on 29 November 2010, by [section 406(1)][132] of the Immigration Act 2009 (2009 No 51).
 
 ##### 60 Duration of declarations
     
@@ -1960,7 +1964,7 @@ Miscellaneous provisions
     
     *   (b) the company and the crew of every ship referred to in paragraph (a).
     
-    Compare: 1994 No 104 [s 42][130]
+    Compare: 1994 No 104 [s 42][133]
 
 #### Ceasing work
 
@@ -1986,7 +1990,7 @@ Miscellaneous provisions
     
     *   (b) a port facility security plan, the chief executive must notify the port facility operator in writing.
     
-    Compare: 1990 No 98 [ss 27P][131], [66][132]
+    Compare: 1990 No 98 [ss 27P][134], [66][135]
 
 #### Offences
 
@@ -2136,7 +2140,7 @@ Miscellaneous provisions
     
     (2) Every person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
     
-    Compare: 1990 No 98 [s 55][133]
+    Compare: 1990 No 98 [s 55][136]
 
 ##### 75 Defence
     
@@ -2186,13 +2190,15 @@ Miscellaneous provisions
     
     *   (e) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
     
-    (2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the summary conviction of any offender, not exceeding,---
+    (2) Regulations made under this section may prescribe offences and penalties for contravention of, or non-compliance with, their provisions, on the conviction of any offender, not exceeding,---
         
     *   (a) in the case of an individual, a fine of $5,000; and
     
     *   (b) in the case of a body corporate, a fine of $30,000\.
     
     (3) For the purposes of this section, _Crown entity_ includes the Aviation Security Service established under the [Civil Aviation Act 1990][108].
+    
+    Section 76(2): amended, on 1 July 2013, by [section 413][117] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77 Exemptions from regulations
     
@@ -2220,7 +2226,7 @@ Miscellaneous provisions
     
     (4) Nothing in this section applies in any case where the Maritime Rules specify that exemptions may not be granted.
     
-    Compare: 1994 No 104 [s 47][134]
+    Compare: 1994 No 104 [s 47][137]
 
 ##### 78 Minister may extend application of Act
     
@@ -2268,7 +2274,7 @@ Miscellaneous provisions
     
     (7) A _Gazette_ notice issued under subsection (4)(a)---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][113], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][135]; and
+    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][113] and must be presented to the House of Representatives under [section 41][114] of that Act; and
     
     *   (b) expires 90 days after the day on which it is published in the _Gazette_.
     
@@ -2302,7 +2308,7 @@ Miscellaneous provisions
     
     *   (d) pleasure craft (as defined in [section 2(1)][97] of the Maritime Transport Act 1994).
     
-    
+    Section 78(7)(a): replaced, on 5 August 2013, by [section 77(3)][115] of the Legislation Act 2012 (2012 No 119).
 
 #### Miscellaneous
 
@@ -2316,35 +2322,35 @@ Miscellaneous provisions
     
     *   (c) require that person to demonstrate to the chief executive that any operational, maintenance, or servicing procedure in respect of the security of a ship is capable of being carried out in a competent and timely manner.
     
-    Compare: 1994 No 104 [s 54(3)][136]
+    Compare: 1994 No 104 [s 54(3)][138]
 
 ##### 80 Instructions of chief executive under certain provisions that conflict with other instructions
     
-*   (1) If a harbourmaster or any other person gives, under the [Local Government Act 1974][137], instructions (_harbourmaster's instructions_) that conflict with instructions given by the chief executive under [section 30(4)][35], [section 31(1)][36], or [section 34(1)][39] (_chief executive's instructions_), the chief executive's instructions prevail.
+*   (1) If a harbourmaster or any other person gives, under the [Local Government Act 1974][139], instructions (_harbourmaster's instructions_) that conflict with instructions given by the chief executive under [section 30(4)][35], [section 31(1)][36], or [section 34(1)][39] (_chief executive's instructions_), the chief executive's instructions prevail.
     
     (2) If the chief executive becomes aware of any conflict between any chief executive's instructions and any harbourmaster's instructions, the chief executive must, as soon as practicable, advise the person who has made the harbourmaster's instructions of the conflict, and that person must immediately upon being so advised withdraw those instructions or alter them so as to remove the conflict.
     
     (3) The chief executive must not issue chief executive's instructions that conflict with the exercise of a power by---
         
-    *   (a) a person under [Part 5][138] of the Civil Defence Emergency Management Act 2002; or
+    *   (a) a person under [Part 5][140] of the Civil Defence Emergency Management Act 2002; or
     
-    *   (b) a Recovery Co-ordinator appointed under [section 29][139] of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
+    *   (b) a Recovery Co-ordinator appointed under [section 29][141] of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
     
-    *   (c) any constable under [section 10][140] of the International Terrorism (Emergency Powers) Act 1987; or
+    *   (c) any constable under [section 10][142] of the International Terrorism (Emergency Powers) Act 1987; or
     
-    *   (d) a person under [Part 4][141] of the Health Act 1956\.
+    *   (d) a person under [Part 4][143] of the Health Act 1956\.
     
-    Compare: 1994 No 104 [s 254][142]
+    Compare: 1994 No 104 [s 254][144]
     
     Section 80(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][102] of the Policing Act 2008 (2008 No 72).
 
 ##### 81 Consequential amendments
     
-*   (1)--(8) _Amendment(s) incorporated in the [Act(s)][143]._
+*   (1)--(8) _Amendment(s) incorporated in the [Act(s)][145]._
     
-    (9) The [Maritime (Offences) Regulations 1998][144] (1998/444) are amended in the manner set out in [Part 1][145] of the Schedule.
+    (9) The [Maritime (Offences) Regulations 1998][146] (1998/444) are amended in the manner set out in [Part 1][147] of the Schedule.
     
-    (10) The Maritime Rules are amended in the manner set out in [Part 2][146] of the Schedule.
+    (10) The Maritime Rules are amended in the manner set out in [Part 2][148] of the Schedule.
 
 ---
 
@@ -2358,7 +2364,7 @@ Maritime Regulations
 
 ##### Maritime (Offences) Regulations 1998
 
-_Amendment(s) incorporated in the [regulations][147]._
+_Amendment(s) incorporated in the [regulations][149]._
 
 ## Part 2  
 Maritime Rules
@@ -2391,148 +2397,39 @@ Add, after rule 40B.32, the following rules:
 > 
 > 
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][148].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][149] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maritime Security Act 2004\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][150] ![](/images/external_link.gif).
+*   This is a reprint of the Maritime Security Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][151] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][150] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][151] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][152] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][152] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][153] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint (most recent first)
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][153] and [17E][154] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][115]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 277][123]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][117]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 277][120]
-    
-    Immigration Act 2009 (2009 No 51): [section 406(1) ][129]
+    Immigration Act 2009 (2009 No 51): [section 406(1) ][132]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][102]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241602
 [2]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241603
 [3]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241604
@@ -2645,45 +2542,44 @@ Amendments, repeals, and miscellaneous provisions
 [110]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217805
 [111]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217480
 [112]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217483
-[113]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195534
-[114]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM409201
-[115]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136542
-[116]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136781
-[117]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136770
-[118]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136813
-[119]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136815
-[120]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2137028
-[121]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335735
-[122]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM409207
-[123]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM72984
-[124]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM28233
-[125]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217807
-[126]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217808
-[127]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217804
-[128]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM1440300
-[129]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM1441347
-[130]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335707
-[131]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM216328
-[132]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217153
-[133]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM216974
-[134]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335714
-[135]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195097
-[136]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335733
-[137]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM415531
-[138]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150786
-[139]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150725
-[140]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM124852
-[141]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM307455
-[142]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM337341
-[143]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM338804
-[144]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM269594
-[145]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241892
-[146]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241895
-[147]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM269913
-[148]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136500
-[149]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM4686448
-[150]: http://www.pco.parliament.govt.nz/reprints/
-[151]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195439
-[152]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[153]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195468
-[154]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM195470
+[113]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2997643
+[114]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998573
+[115]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998633
+[116]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM409201
+[117]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM3360714
+[118]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136542
+[119]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136781
+[120]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136770
+[121]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136813
+[122]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2136815
+[123]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2137028
+[124]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335735
+[125]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM409207
+[126]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM72984
+[127]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM28233
+[128]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217807
+[129]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217808
+[130]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217804
+[131]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM1440300
+[132]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM1441347
+[133]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335707
+[134]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM216328
+[135]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM217153
+[136]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM216974
+[137]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335714
+[138]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM335733
+[139]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM415531
+[140]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150786
+[141]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM150725
+[142]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM124852
+[143]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM307455
+[144]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM337341
+[145]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM338804
+[146]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM269594
+[147]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241892
+[148]: http://www.legislation.govt.nz/act/public/2004/0016/latest/whole.html#DLM241895
+[149]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM269913
+[150]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998516
+[151]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998515
+[152]: http://www.legislation.govt.nz/act/public/2004/0016/latest/link.aspx?id=DLM2998532
+[153]: http://www.pco.parliament.govt.nz/editorial-conventions/
