@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 1997
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement28 September 1934
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -78,7 +78,7 @@ This Act is administered by the Ministry of Justice.
 
 [11][26][][26][Issue of certificates of judgments obtained in New Zealand][26]
 
-[11A][27][][27][Orders in Council deemed to be regulations][27]
+[11A][27][][27][Application of Legislation Act 2012 to orders][27]
 
 [12][28][][28][Repeal and savings][28]
 
@@ -595,11 +595,11 @@ Miscellaneous and general
     
     Section 11: replaced, on 13 March 1992, by section 12 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
 
-##### 11A Orders in Council deemed to be regulations
+##### 11A Application of Legislation Act 2012 to orders
     
-*   Every Order in Council made under this Act is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][35].
+*   An Order in Council made under this Act is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][35] and must be presented to the House of Representatives under [section 41][36] of that Act.
     
-    Section 11A: inserted, on 13 March 1992, by section 13 of the Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10).
+    Section 11A: replaced, on 5 August 2013, by [section 77(3)][37] of the Legislation Act 2012 (2012 No 119).
 
 ##### 12 Repeal and savings
     
@@ -609,84 +609,43 @@ Miscellaneous and general
 
 ##### 13 Section 56 of Judicature Act 1908 modified
     
-*   [Section 56][36] of the Judicature Act 1908 shall hereafter apply only in respect of such judgments, decrees, rules, and orders as, being enforceable under that section, are not enforceable in New Zealand in accordance with the foregoing provisions of this Act.
+*   [Section 56][38] of the Judicature Act 1908 shall hereafter apply only in respect of such judgments, decrees, rules, and orders as, being enforceable under that section, are not enforceable in New Zealand in accordance with the foregoing provisions of this Act.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Reciprocal Enforcement of Judgments Act 1934\. The reprint incorporates all the amendments to the Act as at 1 July 1997, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+*   This is a reprint of the Reciprocal Enforcement of Judgments Act 1934 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][39] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][40] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][41] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][37]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Arbitration Act 1996 (1996 No 99): [section 17][32]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Arbitration Act 1996 (1996 No 99): [section 17][32]
-    
-    Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10)
+    Reciprocal Enforcement of Judgments Amendment Act 1992 (1992 No 10) 
     
     Reciprocal Enforcement of Judgments Amendment Act 1990 (1990 No 45)
     
-    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 12(1)][34]
+    Judicature Amendment Act (No 2) 1985 (1985 No 112): [section 12(1) ][34]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][31]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1934/0011/latest/whole.html#DLM216425
 [2]: http://www.legislation.govt.nz/act/public/1934/0011/latest/whole.html#DLM216427
 [3]: http://www.legislation.govt.nz/act/public/1934/0011/latest/whole.html#DLM216428
@@ -721,10 +680,11 @@ Miscellaneous and general
 [32]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM405707
 [33]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146607
 [34]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM75962
-[35]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM195534
-[36]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146660
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM195470
+[35]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2997643
+[36]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998573
+[37]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998633
+[38]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM146660
+[39]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998516
+[40]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998515
+[41]: http://www.legislation.govt.nz/act/public/1934/0011/latest/link.aspx?id=DLM2998532
+[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
