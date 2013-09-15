@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement19 December 1989
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1997,13 +1997,13 @@ General provisions
     
     (3) Every person commits an offence who, in purported compliance with any requirement made under subsection (1), furnishes information, or produces a document, knowing it to be false or misleading in a material respect.
     
-    (4) Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding,---
+    (4) Every person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding,---
         
     *   (a) in the case of an individual, $10,000:
     
     *   (b) in the case of a body corporate, $25,000\.
     
-    
+    Section 66(4): amended, on 1 July 2013, by [section 413][340] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appeals
 
@@ -2055,11 +2055,11 @@ General provisions
     
     (2) Nothing in subsection (1) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][340] or [section 78A][341] or [section 105][342] or [section 105A][343] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][341] or [section 78A][342] or [section 105][343] or [section 105A][344] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][340] or [section 78A][341] or [section 105][342] or [section 105A][343] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][341] or [section 78A][342] or [section 105][343] or [section 105A][344] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][340] or [section 78A][341] or [section 105][342] or [section 105A][343] of the Crimes Act 1961\.
+    *   (c) the offence of attempting to commit an offence against [section 78][341] or [section 78A][342] or [section 105][343] or [section 105A][344] of the Crimes Act 1961\.
     
     (3) Where any civil proceedings are brought against the Registrar, or any employee employed to assist the Registrar in the exercise of the Registrar's functions under this Act, in their personal capacities, for anything the Registrar or employee has done or failed to do in the course of the exercise or intended exercise of the functions of the Registrar, the Registrar or employee is entitled to be indemnified by the Crown in respect of all expenses incurred by him or her in connection with the proceedings, and in respect of any amount awarded against him or her in those proceedings, unless it is shown that the Registrar or employee acted, or failed to act, in bad faith.
 
@@ -2067,7 +2067,7 @@ General provisions
     
 *   \[Repealed\]
     
-    Section 72A: repealed, on 31 October 2006, by [section 23][344] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 72A: repealed, on 31 October 2006, by [section 23][345] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ## Part 9  
 Mortgages
@@ -2200,9 +2200,9 @@ Mortgages
     
     (2) A discharge of mortgage, when registered under this Act, shall effectually discharge the management rights or spectrum licence from the mortgage to the extent specified in the memorandum of discharge.
     
-    Section 86(1): amended, on 12 October 2001, by [section 27(1)][345] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 86(1): amended, on 12 October 2001, by [section 27(1)][346] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 86(2): amended, on 12 October 2001, by [section 27(2)][345] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 86(2): amended, on 12 October 2001, by [section 27(2)][346] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ## Part 10  
 Acquisitions by operation of law, caveats
@@ -2251,7 +2251,7 @@ Acquisitions by operation of law, caveats
     
     Section 89(1)(a)(ii): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 89(1)(b)(ii): amended, on 31 October 2006, by [section 24][346] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 89(1)(b)(ii): amended, on 31 October 2006, by [section 24][347] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 90 Service of notices as to caveats
     
@@ -2368,13 +2368,13 @@ Rights and duties of managers and rightholders
     
     (4) If the rightholder complies with [section 102][147], the right to transmit radio waves includes the right to transmit unwanted emissions.
     
-    Section 99: substituted, on 12 October 2001, by [section 28][347] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 99: substituted, on 12 October 2001, by [section 28][348] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 100 Rights of holders of certain licences
     
 *   \[Repealed\]
     
-    Section 100: repealed, on 12 October 2001, by [section 29][348] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 100: repealed, on 12 October 2001, by [section 29][349] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 101 Requirements to be complied with in exercise of rights
     
@@ -2388,11 +2388,11 @@ Rights and duties of managers and rightholders
     
     (2) Every person who fails to comply with subsection (1) shall be deemed not to be acting in accordance with the person's rights as rightholder for the purposes of [section 103][148].
     
-    Section 101(1)(a): amended, on 12 October 2001, by [section 30(a)][349] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 101(1)(a): amended, on 12 October 2001, by [section 30(a)][350] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 101(1)(b): amended, on 12 October 2001, by [section 30(b)][349] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 101(1)(b): amended, on 12 October 2001, by [section 30(b)][350] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 101(1)(b): amended, on 12 October 2001, by [section 30(c)][349] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 101(1)(b): amended, on 12 October 2001, by [section 30(c)][350] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 102 Compliance with unwanted emission limits
     
@@ -2402,9 +2402,9 @@ Rights and duties of managers and rightholders
     
     (3) Every person who contravenes subsection (1) or subsection (2) shall be deemed not to be acting in accordance with the person's rights as rightholder for the purposes of [section 103][148].
     
-    Section 102(1): amended, on 12 October 2001, by [section 31(1)][350] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 102(1): amended, on 12 October 2001, by [section 31(1)][351] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 102(2): substituted, on 12 October 2001, by [section 31(2)][350] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 102(2): substituted, on 12 October 2001, by [section 31(2)][351] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 103 Transmission other than in accordance with spectrum licence
     
@@ -2418,11 +2418,11 @@ Rights and duties of managers and rightholders
     
     (3) Nothing in subsection (1) applies to the transmission of unintended emissions from a receiver tuned to receive emissions from a rightholder transmitting in accordance with the rightholder's spectrum licence.
     
-    Section 103 heading: amended, on 12 October 2001, by [section 32(1)][351] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 103 heading: amended, on 12 October 2001, by [section 32(1)][352] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 103(1): substituted, on 12 October 2001, by [section 32(2)][351] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 103(1): substituted, on 12 October 2001, by [section 32(2)][352] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 103(3): amended, on 12 October 2001, by [section 32(3)][351] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 103(3): amended, on 12 October 2001, by [section 32(3)][352] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 104 Transmission under radio licence not affected
     
@@ -2432,7 +2432,7 @@ Rights and duties of managers and rightholders
     
     *   (b) an exemption exempting that transmission of radio waves from any requirement to be licensed, being an exemption granted by or under any regulations made under [section 116(1)(c)][168].
     
-    Section 104: substituted, on 12 October 2001, by [section 33][352] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 104: substituted, on 12 October 2001, by [section 33][353] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ## Part 12  
 Interference
@@ -2443,7 +2443,7 @@ Interference
     
 *   For the purposes of any action in tort, it is declared that where a receiver is tuned to receive emissions from a transmitter operated by a rightholder in accordance with the rightholder's spectrum licence or by the holder of a radio licence in accordance with that radio licence, and that receiver is situated on land within the protection area of that licence, any harmful interference to the reception, by that receiver, of radio waves constitutes an interference with the enjoyment of land on which the receiver is situated.
     
-    Section 105: substituted, on 12 October 2001, by [section 34][353] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 105: substituted, on 12 October 2001, by [section 34][354] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 #### Interference caused by lawful transmission and reception
 
@@ -2451,7 +2451,7 @@ Interference
     
 *   (1) For the purposes of [sections 108 to 109C][156],---
     
-    _arbitral tribunal_ has the same meaning as in the [Arbitration Act 1996][354]
+    _arbitral tribunal_ has the same meaning as in the [Arbitration Act 1996][355]
     
     _claimant_ means---
         
@@ -2465,13 +2465,13 @@ Interference
     
     (3) Despite the lack of a radio licence or the lack of a protection area specified in that radio licence, where that radio licence is for a radionavigation or safety service, the owner of the radionavigation receiver or a safety receiver may proceed as a claimant if there is harmful interference with reception by that receiver that endangers the functioning of that radionavigation service or safety service.
     
-    Section 106: substituted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 106: substituted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 107 Sections 106 to 109C apply where transmissions not commenced
     
 *   Where a radio licence or a spectrum licence has been granted and registered but lawful transmissions have not commenced, and a rightholder or holder of a radio licence believes that lawful transmissions made in accordance with that licence are very likely to cause harmful interference in the protection area of that licence, the provisions of [sections 106 to 109C][154] apply as though the lawful transmissions had commenced.
     
-    Section 107: substituted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 107: substituted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 108 Notice of harmful interference
     
@@ -2515,7 +2515,7 @@ Interference
     
     *   (c) agree with the claimant on a method of reaching an agreement to deal with the harmful interference; or
     
-    *   (d) agree with the claimant to refer the matter to arbitration to be determined in accordance with the [Arbitration Act 1996][354].
+    *   (d) agree with the claimant to refer the matter to arbitration to be determined in accordance with the [Arbitration Act 1996][355].
     
     (6) If, within 10 working days of a notice being properly given under subsection (1),---
         
@@ -2529,15 +2529,15 @@ Interference
     
     (7) Where the claimant and the respondent agree on a method of reaching an agreement to deal with the harmful interference under subsection (5)(c), but no agreement is reached within 20 working days of a notice properly given under subsection (1), the claimant may, following the expiry of that 20-working day period, by notice in the prescribed form to the Secretary, request the Secretary to refer the matter to arbitration under [section 109][157].
     
-    Section 108: substituted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 108: substituted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 108(2): substituted, on 17 May 2005, by [section 3][356] of the Radiocommunications Amendment Act 2005 (2005 No 67).
+    Section 108(2): substituted, on 17 May 2005, by [section 3][357] of the Radiocommunications Amendment Act 2005 (2005 No 67).
     
-    Section 108(2)(a): amended, on 31 October 2006, by [section 25(1)][357] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 108(2)(a): amended, on 31 October 2006, by [section 25(1)][358] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 108(2A): inserted, on 31 October 2006, by [section 25(2)][357] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 108(2A): inserted, on 31 October 2006, by [section 25(2)][358] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 108(2B): inserted, on 31 October 2006, by [section 25(2)][357] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 108(2B): inserted, on 31 October 2006, by [section 25(2)][358] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 109 Reference to arbitration by Secretary
     
@@ -2555,17 +2555,17 @@ Interference
     
     *   (f) the respondent has not taken the action specified in that notice,---
     
-    the Secretary may refer the matter to arbitration and, except as provided in [sections 109A][158] and [109C][160], the provisions of the [Arbitration Act 1996][354] apply as though the claimant and the respondent had agreed to refer the matter to arbitration.
+    the Secretary may refer the matter to arbitration and, except as provided in [sections 109A][158] and [109C][160], the provisions of the [Arbitration Act 1996][355] apply as though the claimant and the respondent had agreed to refer the matter to arbitration.
     
-    (2) The reference by the Secretary may specify the matters that would otherwise be included in an arbitration agreement, and that reference is an arbitration agreement for the purposes of the [Arbitration Act 1996][354].
+    (2) The reference by the Secretary may specify the matters that would otherwise be included in an arbitration agreement, and that reference is an arbitration agreement for the purposes of the [Arbitration Act 1996][355].
     
-    Section 109: substituted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 109: substituted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 109(1): amended, on 31 October 2006, by [section 26][358] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 109(1): amended, on 31 October 2006, by [section 26][359] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 109A Matters relevant to arbitration
     
-*   (1) [Article 28(4)][359] of Schedule 1 of the Arbitration Act 1996 does not apply to matters referred to arbitration under [section 108(5)(d)][156] or [section 109][157]; instead, the arbitral tribunal's decision must seek to balance the reasonable expectations, rights, and duties of the claimant and the respondent or other persons, without compromising public safety, and having regard to---
+*   (1) [Article 28(4)][360] of Schedule 1 of the Arbitration Act 1996 does not apply to matters referred to arbitration under [section 108(5)(d)][156] or [section 109][157]; instead, the arbitral tribunal's decision must seek to balance the reasonable expectations, rights, and duties of the claimant and the respondent or other persons, without compromising public safety, and having regard to---
         
     *   (a) the costs and effects of possible alternative solutions; and
     
@@ -2599,30 +2599,30 @@ Interference
     
     (2) Unless a person proceeds as a claimant in accordance with [section 106(3)][154], where the claimant is the holder of a radio licence that does not specify an area as a protection area, the arbitral tribunal must determine, from the technical details on the licence, whether the area considered by the claimant as the protection area for that licence is the protection area.
     
-    Section 109A: inserted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 109A: inserted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 109A(1): substituted, on 31 October 2006, by [section 27][360] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 109A(1): substituted, on 31 October 2006, by [section 27][361] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 109A(1A): inserted, on 31 October 2006, by [section 27][360] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 109A(1A): inserted, on 31 October 2006, by [section 27][361] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 109B Offence to transmit in breach of Secretary's direction
     
 *   Every person who contravenes a direction given by the Secretary under [section 108(3)][156] commits an offence against this Act.
     
-    Section 109B: inserted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 109B: inserted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 109C Powers when deciding disputes
     
-*   (1) In addition to the powers given to the arbitral tribunal by [section 12][361] of the Arbitration Act 1996, the arbitral tribunal has the power to determine the cause of the harmful interference and has the power to direct the parties to the dispute or the Secretary to take action to reduce or eliminate harmful interference.
+*   (1) In addition to the powers given to the arbitral tribunal by [section 12][362] of the Arbitration Act 1996, the arbitral tribunal has the power to determine the cause of the harmful interference and has the power to direct the parties to the dispute or the Secretary to take action to reduce or eliminate harmful interference.
     
     (2) Where the arbitral tribunal directs that a spectrum licence or radio licence be modified or amended, then, despite any provision to the contrary in this Act or any spectrum licence, the manager or rightholder in the case of a spectrum licence, or the Secretary in the case of a radio licence, must modify or amend the licence as directed by the arbitral tribunal.
     
-    Section 109C: inserted, on 12 October 2001, by [section 35][355] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 109C: inserted, on 12 October 2001, by [section 35][356] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ## Part 13  
 Radio licences
     
-*   Part 13 heading: substituted, on 12 October 2001, by [section 36][362] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+*   Part 13 heading: substituted, on 12 October 2001, by [section 36][363] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 110 Part to apply to frequencies unless or until record of management rights registered and rights commence
     
@@ -2640,21 +2640,21 @@ Radio licences
     
     *   (b) a transmission by a person in accordance with a general user spectrum licence.
     
-    Section 110: substituted, on 12 October 2001, by [section 36][362] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 110: substituted, on 12 October 2001, by [section 36][363] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 110 heading: amended, on 19 December 2002, by [section 6(1)][363] of the Radiocommunications Amendment Act 2002 (2002 No 74).
+    Section 110 heading: amended, on 19 December 2002, by [section 6(1)][364] of the Radiocommunications Amendment Act 2002 (2002 No 74).
     
-    Section 110(1): substituted, on 19 December 2002, by [section 6(2)][363] of the Radiocommunications Amendment Act 2002 (2002 No 74).
+    Section 110(1): substituted, on 19 December 2002, by [section 6(2)][364] of the Radiocommunications Amendment Act 2002 (2002 No 74).
     
-    Section 110(2): amended, on 19 December 2002, by [section 6(3)][363] of the Radiocommunications Amendment Act 2002 (2002 No 74).
+    Section 110(2): amended, on 19 December 2002, by [section 6(3)][364] of the Radiocommunications Amendment Act 2002 (2002 No 74).
 
 ##### 111 Granting of radio licences
     
 *   (1) For the purposes of this section, _New Zealand ship_ includes---
         
-    *   (a) any New Zealand ship within the meaning of the [Crimes Act 1961][364]; and
+    *   (a) any New Zealand ship within the meaning of the [Crimes Act 1961][365]; and
     
-    *   (b) any vessel for the time being registered in New Zealand as a ship under the [Ship Registration Act 1992][365].
+    *   (b) any vessel for the time being registered in New Zealand as a ship under the [Ship Registration Act 1992][366].
     
     (2) The Secretary may, in accordance with regulations made under this Part, grant radio licences authorising the transmission of radio waves on the frequencies specified in the radio licence within the territorial limits of New Zealand, or from any New Zealand ship, or from any aircraft registered in New Zealand or providing protection from harmful interference from co-channel emissions.
     
@@ -2662,7 +2662,7 @@ Radio licences
     
     (4) Every licence issued in accordance with regulations made under this Part includes a requirement that any person transmitting under that radio licence must comply with [Schedule 1][265].
     
-    Section 111: substituted, on 12 October 2001, by [section 37][366] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 111: substituted, on 12 October 2001, by [section 37][367] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 112 Secretary to have regard to Government policy
     
@@ -2680,7 +2680,7 @@ Radio licences
         
     *   (a) applications made before the date of the direction but not dealt with before that date:
     
-    *   (b) applications made pursuant to [Part 2][367] of the Telecommunications Act 1987 after the close of 23 November 1989 but not dealt with before the date of the direction.
+    *   (b) applications made pursuant to [Part 2][368] of the Telecommunications Act 1987 after the close of 23 November 1989 but not dealt with before the date of the direction.
     
     (5) Where a notice is given to the Secretary under subsection (1), the Minister shall, as soon as practicable after the giving of the notice,---
         
@@ -2688,25 +2688,25 @@ Radio licences
     
     *   (b) lay a copy of it before the House of Representatives.
     
-    Section 112(1): amended, on 12 October 2001, by [section 38(1)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(1): amended, on 12 October 2001, by [section 38(1)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 112(1): amended, on 12 October 2001, by [section 38(2)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(1): amended, on 12 October 2001, by [section 38(2)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 112(1): amended, on 28 March 1990, by section 2 of the Radiocommunications Amendment Act 1990 (1990 No 22).
     
-    Section 112(2): amended, on 12 October 2001, by [section 38(2)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(2): amended, on 12 October 2001, by [section 38(2)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 112(2): amended, on 12 October 2001, by [section 38(3)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(2): amended, on 12 October 2001, by [section 38(3)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 112(2): amended, on 28 March 1990, by section 2 of the Radiocommunications Amendment Act 1990 (1990 No 22).
     
-    Section 112(3): amended, on 12 October 2001, by [section 38(2)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(3): amended, on 12 October 2001, by [section 38(2)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 112(3): amended, on 28 March 1990, by section 2 of the Radiocommunications Amendment Act 1990 (1990 No 22).
     
-    Section 112(3)(a): amended, on 12 October 2001, by [section 38(3)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(3)(a): amended, on 12 October 2001, by [section 38(3)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 112(4): amended, on 12 October 2001, by [section 38(3)][368] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 112(4): amended, on 12 October 2001, by [section 38(3)][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 113 Offences
     
@@ -2716,7 +2716,7 @@ Radio licences
     
     *   (b) in accordance with regulations made under [section 116(1)(c)][168] exempting the transmission of radio waves from the need to obtain a radio licence.
     
-    Section 113: substituted, on 12 October 2001, by [section 39][369] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 113: substituted, on 12 October 2001, by [section 39][370] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 114 Presumptions
     
@@ -2724,7 +2724,7 @@ Radio licences
     
     (2) Where a radio transmitter is temporarily inoperative or has been partially dismantled, that radio transmitter is deemed to be, and to remain, capable of transmitting radiocommunications unless the Secretary is satisfied that the transmitter has been rendered inoperative.
     
-    Section 114: substituted, on 12 October 2001, by [section 40][370] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 114: substituted, on 12 October 2001, by [section 40][371] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 115 Radiocommunication within territorial limits
     
@@ -2752,17 +2752,17 @@ Radio licences
     
     (2) Without limiting the Interpretation Act 1999, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person or because it authorises the Secretary or any other person to give any consent or approval or to set any standard on or subject to conditions to be approved by the Secretary.
     
-    Section 116(1): substituted, on 12 October 2001, by [section 41][371] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 116(1): substituted, on 12 October 2001, by [section 41][372] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 116(1)(a): substituted, on 31 October 2006, by [section 28(1)][372] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 116(1)(a): substituted, on 31 October 2006, by [section 28(1)][373] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 116(1)(b): substituted, on 31 October 2006, by [section 28(1)][372] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 116(1)(b): substituted, on 31 October 2006, by [section 28(1)][373] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 116(1)(e): substituted, on 31 October 2006, by [section 28(2)][372] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 116(1)(e): substituted, on 31 October 2006, by [section 28(2)][373] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 116(1)(f): substituted, on 31 October 2006, by [section 28(2)][372] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 116(1)(f): substituted, on 31 October 2006, by [section 28(2)][373] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 116(2): amended, on 1 November 1999, pursuant to [section 38(1)][373] of the Interpretation Act 1999 (1999 No 85).
+    Section 116(2): amended, on 1 November 1999, pursuant to [section 38(1)][374] of the Interpretation Act 1999 (1999 No 85).
 
 ## Part 14  
 Enforcement and remedies
@@ -2813,7 +2813,7 @@ Enforcement and remedies
     
 *   \[Repealed\]
     
-    Section 119: repealed, on 12 October 2001, by [section 42][374] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 119: repealed, on 12 October 2001, by [section 42][375] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 #### Powers to obtain evidence
 
@@ -2827,67 +2827,67 @@ Enforcement and remedies
     
     (2) No person shall exercise the powers conferred by subsection (1) unless the person obtains a warrant authorising that person to exercise those powers in accordance with subsection (3).
     
-    (3) Where any issuing officer (within the meaning of [section 3][375] of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in [subpart 3][376] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under [section 134(1)(g)][198], that issuing officer may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
+    (3) Where any issuing officer (within the meaning of [section 3][376] of the Search and Surveillance Act 2012) is satisfied, on application made in the manner provided in [subpart 3][377] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that any person has committed or is committing an offence against this Act, or against any regulations made under [section 134(1)(g)][198], that issuing officer may, by warrant, authorise an employee of the Ministry of Economic Development authorised for the purpose, or a constable, to exercise the powers conferred by subsection (1) in relation to any premises, building, aircraft, ship, carriage, vehicle, box, receptacle, or place specified in the warrant.
     
-    (4) The provisions of [Part 4][377] of the Search and Surveillance Act 2012 (except [sections 118][378] and [119][379]) apply.
+    (4) The provisions of [Part 4][378] of the Search and Surveillance Act 2012 (except [sections 118][379] and [119][380]) apply.
     
-    Section 120(1): amended, on 7 September 2000, pursuant to [section 5(a)][380] of the Ministry of Economic Development Act 2000 (2000 No 28).
+    Section 120(1): amended, on 7 September 2000, pursuant to [section 5(a)][381] of the Ministry of Economic Development Act 2000 (2000 No 28).
     
-    Section 120(3): amended, on 1 October 2012, by [section 295(2)(a)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120(3): amended, on 1 October 2012, by [section 295(2)(a)][382] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 120(3): amended, on 1 October 2012, by [section 295(2)(b)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120(3): amended, on 1 October 2012, by [section 295(2)(b)][382] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 120(3): amended, on 7 September 2000, pursuant to [section 5(a)][380] of the Ministry of Economic Development Act 2000 (2000 No 28).
+    Section 120(3): amended, on 7 September 2000, pursuant to [section 5(a)][381] of the Ministry of Economic Development Act 2000 (2000 No 28).
     
-    Section 120(4): inserted, on 1 October 2012, by [section 295(3)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120(4): inserted, on 1 October 2012, by [section 295(3)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 121 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 121: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 121: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 122 Person executing warrant to produce evidence of authority and identity
     
 *   \[Repealed\]
     
-    Section 122: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 122: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 123 Schedule of evidence taken to be prepared
     
 *   \[Repealed\]
     
-    Section 123: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 123: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 124 Duty to provide all reasonable facilities and assistance
     
 *   \[Repealed\]
     
-    Section 124: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 124: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 125 Power to inspect and take copies of documents, etc
     
 *   \[Repealed\]
     
-    Section 125: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 125: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 126 Offence
     
 *   \[Repealed\]
     
-    Section 126: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 126: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 127 Proceedings privileged
     
 *   \[Repealed\]
     
-    Section 127: repealed, on 1 October 2012, by [section 295(4)][381] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 127: repealed, on 1 October 2012, by [section 295(4)][382] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Penalties
 
 ##### 128 Penalties
     
-*   (1) Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section shall be liable on summary conviction to a fine not exceeding,---
+*   (1) Every person who commits an offence against this Act, or against any regulations made under this Act, for which no penalty is provided elsewhere than in this section shall be liable on conviction to a fine not exceeding,---
         
     *   (a) in the case of an individual, $30,000:
     
@@ -2895,19 +2895,21 @@ Enforcement and remedies
     
     (2) Where an offence is a continuing offence, a further fine of an amount not exceeding $1,000 for every day or part of a day during which the offence has continued may be imposed.
     
-    Section 128(2): added, on 12 October 2001, by [section 43][382] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 128(1): amended, on 1 July 2013, by [section 413][340] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 128(2): added, on 12 October 2001, by [section 43][383] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 128A Commission of infringement offence
     
 *   Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against for an alleged offence against this Act under the [Summary Proceedings Act 1957][383]; or
+    *   (a) be proceeded against by filing a charging document under [section 14][384] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided for in [section 128B][186].
     
-    Section 128A: inserted, on 12 October 2001, by [section 44][384] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 128A: inserted, on 12 October 2001, by [section 44][385] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 128A(a): amended, on 31 October 2006, by [section 29][385] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 128A(a): replaced, on 1 July 2013, by [section 413][340] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 128B Infringement notices
     
@@ -2921,7 +2923,7 @@ Enforcement and remedies
     
     *   (c) by sending it by post addressed to that person at that person's last known place of residence or business.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][383], an infringement notice sent to a person by post under subsection (2)(c) is deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+    (3) For the purposes of the [Summary Proceedings Act 1957][386], an infringement notice sent to a person by post under subsection (2)(c) is deemed to have been served on the person when it would have been delivered in the ordinary course of post.
     
     (4) Every infringement notice must be in the prescribed form and must contain the following particulars:
         
@@ -2933,7 +2935,7 @@ Enforcement and remedies
     
     *   (d) the time within which the infringement fee must be paid:
     
-    *   (e) a summary of the provisions of [section 21(10)][386] of the Summary Proceedings Act 1957:
+    *   (e) a summary of the provisions of [section 21(10)][387] of the Summary Proceedings Act 1957:
     
     *   (f) a statement that the person served with the notice has the right to request a hearing:
     
@@ -2941,9 +2943,9 @@ Enforcement and remedies
     
     *   (h) such other particulars as are prescribed in regulations made under this Act.
     
-    (5) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][386] of the Summary Proceedings Act 1957\.
+    (5) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][387] of the Summary Proceedings Act 1957\.
     
-    Section 128B: inserted, on 12 October 2001, by [section 44][384] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 128B: inserted, on 12 October 2001, by [section 44][385] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 129 Forfeiture
     
@@ -2966,9 +2968,9 @@ Miscellaneous provisions
     
     (3) Where the Secretary is satisfied that any person approved under subsection (1) is no longer qualified by virtue of subsection (2) to be an approved radio engineer, the Secretary may revoke that person's approval.
     
-    Section 130(1): amended, on 12 October 2001, by [section 45(a)][387] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 130(1): amended, on 12 October 2001, by [section 45(a)][388] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 130(2): amended, on 12 October 2001, by [section 45(b)][387] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 130(2): amended, on 12 October 2001, by [section 45(b)][388] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 #### Licensing of supply of radio apparatus
 
@@ -2978,7 +2980,7 @@ Miscellaneous provisions
     
     (2) Subject to any such regulations, every such licence shall be in such form and for such period, and shall contain such terms, conditions, and restrictions, as the Secretary thinks fit.
     
-    Section 131(1): amended, on 7 July 2010, by [section 4][388] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 131(1): amended, on 7 July 2010, by [section 4][389] of the Radiocommunications Amendment Act 2010 (2010 No 80).
 
 ##### 132 Offence
     
@@ -2992,9 +2994,9 @@ Miscellaneous provisions
     
     *   (c) possesses for supply any restricted radio apparatus.
     
-    Section 132(1): amended, on 7 July 2010, by [section 5(1)][389] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 132(1): amended, on 7 July 2010, by [section 5(1)][390] of the Radiocommunications Amendment Act 2010 (2010 No 80).
     
-    Section 132(2): substituted, on 7 July 2010, by [section 5(2)][389] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 132(2): substituted, on 7 July 2010, by [section 5(2)][390] of the Radiocommunications Amendment Act 2010 (2010 No 80).
 
 #### Reference standards
 
@@ -3010,7 +3012,7 @@ Miscellaneous provisions
     
     (2) Any reference standard may be in like manner amended or revoked at any time.
     
-    (3) Any reference standard may adopt as a standard or specification any New Zealand Standard within the meaning of the [Standards Act 1988][390], or any specified part of any such New Zealand Standard.
+    (3) Any reference standard may adopt as a standard or specification any New Zealand Standard within the meaning of the [Standards Act 1988][391], or any specified part of any such New Zealand Standard.
 
 ##### 133A Offence to disclose contents of radiocommunications
     
@@ -3036,41 +3038,41 @@ Miscellaneous provisions
         
         
     
-    *   (d) by a member of the New Zealand Defence Force, in connection with any of the purposes specified in [section 5(a) to (d)][391] of the Defence Act 1990; or
+    *   (d) by a member of the New Zealand Defence Force, in connection with any of the purposes specified in [section 5(a) to (d)][392] of the Defence Act 1990; or
     
     *   (e) by a person acting under, and in accordance with, any authority conferred on him or her by or under---
             
-        *   (i) [Part 1][392] of the Telecommunications (Residual Provisions) Act 1987; or
+        *   (i) [Part 1][393] of the Telecommunications (Residual Provisions) Act 1987; or
         
-        *   (ii) the [New Zealand Security Intelligence Service Act 1969][393]; or
+        *   (ii) the [New Zealand Security Intelligence Service Act 1969][394]; or
         
-        *   (iia) the [Government Communications Security Bureau Act 2003][394]; or
+        *   (iia) the [Government Communications Security Bureau Act 2003][395]; or
         
-        *   (iii) the [Misuse of Drugs Amendment Act 1978][395]; or
+        *   (iii) the [Misuse of Drugs Amendment Act 1978][396]; or
         
-        *   (iv) the [International Terrorism (Emergency Powers) Act 1987][396].
+        *   (iv) the [International Terrorism (Emergency Powers) Act 1987][397].
         
         
     
     (3) For the purposes of this section,---
         
-    *   (a) _foreign intelligence_ has the same meaning as in [section 4][397] of the Government Communications Security Bureau Act 2003:
+    *   (a) _foreign intelligence_ has the same meaning as in [section 4][398] of the Government Communications Security Bureau Act 2003:
     
-    *   (b) _security_ has the same meaning as in [section 2(1)][398] of the New Zealand Security Intelligence Service Act 1969\.
+    *   (b) _security_ has the same meaning as in [section 2(1)][399] of the New Zealand Security Intelligence Service Act 1969\.
     
-    (4) Subsection (2) does not authorise the interception of any private communications within the meaning of [section 216A][399] of the Crimes Act 1961\.
+    (4) Subsection (2) does not authorise the interception of any private communications within the meaning of [section 216A][400] of the Crimes Act 1961\.
     
-    Section 133A: inserted, on 12 October 2001, by [section 46][400] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 133A: inserted, on 12 October 2001, by [section 46][401] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 133A(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][401] of the Policing Act 2008 (2008 No 72).
+    Section 133A(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][402] of the Policing Act 2008 (2008 No 72).
     
-    Section 133A(2)(e)(i): amended, on 20 December 2001, pursuant to [section 159(3)][402] of the Telecommunications Act 2001 (2001 No 103).
+    Section 133A(2)(e)(i): amended, on 20 December 2001, pursuant to [section 159(3)][403] of the Telecommunications Act 2001 (2001 No 103).
     
-    Section 133A(2)(e)(iia): inserted, on 2 April 2003, by [section 32(1)][403] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 133A(2)(e)(iia): inserted, on 2 April 2003, by [section 32(1)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
-    Section 133A(3): substituted, on 2 April 2003, by [section 32(2)][403] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 133A(3): substituted, on 2 April 2003, by [section 32(2)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
-    Section 133A(4): amended, on 2 April 2003, by [section 32(3)][403] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 133A(4): amended, on 2 April 2003, by [section 32(3)][404] of the Government Communications Security Bureau Act 2003 (2003 No 9).
 
 #### Regulations
 
@@ -3144,49 +3146,49 @@ Miscellaneous provisions
     
     (5) In this section, _Conformity Cooperation Agreement_ means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008\.
     
-    Section 134(1)(a): amended, on 7 July 2010, by [section 6(1)][404] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 134(1)(a): amended, on 7 July 2010, by [section 6(1)][405] of the Radiocommunications Amendment Act 2010 (2010 No 80).
     
-    Section 134(1)(b): amended, on 7 July 2010, by [section 6(2)][404] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 134(1)(b): amended, on 7 July 2010, by [section 6(2)][405] of the Radiocommunications Amendment Act 2010 (2010 No 80).
     
-    Section 134(1)(c): amended, on 7 July 2010, by [section 6(3)][404] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 134(1)(c): amended, on 7 July 2010, by [section 6(3)][405] of the Radiocommunications Amendment Act 2010 (2010 No 80).
     
-    Section 134(1)(d): repealed, on 12 October 2001, by [section 47(1)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(d): repealed, on 12 October 2001, by [section 47(1)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(e): substituted, on 31 October 2006, by [section 30(1)][406] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134(1)(e): substituted, on 31 October 2006, by [section 30(1)][407] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 134(1)(g): substituted, on 12 October 2001, by [section 47(2)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(g): substituted, on 12 October 2001, by [section 47(2)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(g): amended, on 7 July 2010, by [section 6(4)][404] of the Radiocommunications Amendment Act 2010 (2010 No 80).
+    Section 134(1)(g): amended, on 7 July 2010, by [section 6(4)][405] of the Radiocommunications Amendment Act 2010 (2010 No 80).
     
-    Section 134(1)(ga): inserted, on 12 October 2001, by [section 47(2)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(ga): inserted, on 12 October 2001, by [section 47(2)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(gb): inserted, on 12 October 2001, by [section 47(2)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(gb): inserted, on 12 October 2001, by [section 47(2)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(gc): inserted, on 12 October 2001, by [section 47(2)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(gc): inserted, on 12 October 2001, by [section 47(2)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(gd): inserted, on 12 October 2001, by [section 47(2)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(gd): inserted, on 12 October 2001, by [section 47(2)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(j): substituted, on 12 October 2001, by [section 47(3)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(j): substituted, on 12 October 2001, by [section 47(3)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(ja): inserted, on 12 October 2001, by [section 47(3)][405] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 134(1)(ja): inserted, on 12 October 2001, by [section 47(3)][406] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 134(1)(jb): substituted, on 31 October 2006, by [section 30(2)][406] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134(1)(jb): substituted, on 31 October 2006, by [section 30(2)][407] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 134(1A): inserted, on 31 October 2006, by [section 30(3)][406] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134(1A): inserted, on 31 October 2006, by [section 30(3)][407] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 134(1B): inserted, on 31 October 2006, by [section 30(3)][406] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134(1B): inserted, on 31 October 2006, by [section 30(3)][407] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 134(1C): inserted, on 31 October 2006, by [section 30(3)][406] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134(1C): inserted, on 31 October 2006, by [section 30(3)][407] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 134(1D): inserted, on 29 July 2008, by [section 5(1)][407] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
+    Section 134(1D): inserted, on 29 July 2008, by [section 5(1)][408] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
     
-    Section 134(2): amended, on 1 November 1999, pursuant to [section 38(1)][373] of the Interpretation Act 1999 (1999 No 85).
+    Section 134(2): amended, on 1 November 1999, pursuant to [section 38(1)][374] of the Interpretation Act 1999 (1999 No 85).
     
-    Section 134(3): added, on 29 July 2008, by [section 5(2)][407] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
+    Section 134(3): added, on 29 July 2008, by [section 5(2)][408] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
     
-    Section 134(4): added, on 29 July 2008, by [section 5(2)][407] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
+    Section 134(4): added, on 29 July 2008, by [section 5(2)][408] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
     
-    Section 134(5): added, on 29 July 2008, by [section 5(2)][407] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
+    Section 134(5): added, on 29 July 2008, by [section 5(2)][408] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
 
 ##### 134AA Secretary may prescribe forms
     
@@ -3194,13 +3196,13 @@ Miscellaneous provisions
     
     (2) Different forms may be prescribed for different infringement offences.
     
-    Section 134AA: inserted, on 31 October 2006, by [section 31][408] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 134AA: inserted, on 31 October 2006, by [section 31][409] of the Radiocommunications Amendment Act 2006 (2006 No 54).
 
 ##### 134A Regulations prohibiting unauthorised broadcasting from high seas
     
 *   (1) The Governor-General may from time to time, by Order in Council, make regulations prohibiting broadcasting contrary to international regulations from a ship or installation on the high seas.
     
-    (2) Regulations made under subsection (1) may make a breach of the regulations an offence punishable on summary conviction in New Zealand if---
+    (2) Regulations made under subsection (1) may make a breach of the regulations an offence punishable on conviction in New Zealand if---
         
     *   (a) the ship is a New Zealand ship; or
     
@@ -3220,25 +3222,27 @@ Miscellaneous provisions
     
     (6) In this section,---
     
-    _broadcasting_ has the same meaning as it has in the [Broadcasting Act 1989][409]
+    _broadcasting_ has the same meaning as it has in the [Broadcasting Act 1989][410]
     
-    _New Zealand ship_ has the same meaning as it has in the [Maritime Transport Act 1994][410]
+    _New Zealand ship_ has the same meaning as it has in the [Maritime Transport Act 1994][411]
     
-    _ship_ has the same meaning as it has in the [Maritime Transport Act 1994][410].
+    _ship_ has the same meaning as it has in the [Maritime Transport Act 1994][411].
     
     Compare: United Nations Convention on the Law of the Sea, art 109
     
     Section 134A: inserted, on 1 August 1996, by section 2 of the Radiocommunications Amendment Act 1996 (1996 No 76).
+    
+    Section 134A(2): amended, on 1 July 2013, by [section 413][340] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 135 Regulations prescribing fees
     
 *   (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the matters in respect of which fees are payable under this Act; the amounts of those fees or the method by which they are to be assessed; and the persons liable for payment of the fees; and providing for the method of payment of, or the waiver or refund of any such fees by the Secretary or the Registrar.
     
-    (2) Without limiting the generality of subsection (1), any regulations made under this section may make provision for the payment, by managers or rightholders or both (being persons who are broadcasters within the meaning of the [Broadcasting Act 1989][409]), of an annual fee payable to the Secretary, which fee may include an amount to cover the costs incurred by the Secretary in respect of measures taken to deal with interference with the reception of broadcast signals.
+    (2) Without limiting the generality of subsection (1), any regulations made under this section may make provision for the payment, by managers or rightholders or both (being persons who are broadcasters within the meaning of the [Broadcasting Act 1989][410]), of an annual fee payable to the Secretary, which fee may include an amount to cover the costs incurred by the Secretary in respect of measures taken to deal with interference with the reception of broadcast signals.
     
-    Section 135(1): amended, on 19 December 2002, by [section 7][411] of the Radiocommunications Amendment Act 2002 (2002 No 74).
+    Section 135(1): amended, on 19 December 2002, by [section 7][412] of the Radiocommunications Amendment Act 2002 (2002 No 74).
     
-    Section 135(1): amended, on 12 October 2001, by [section 48][412] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 135(1): amended, on 12 October 2001, by [section 48][413] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 135(1): amended, on 28 August 1990, by section 8(2) of the Radiocommunications Amendment Act (No 2) 1990 (1990 No 104).
 
@@ -3266,21 +3270,21 @@ Miscellaneous provisions
     
     (6) As soon as practicable after receiving a notice under subsection (3)(b), the Registrar must ensure that the details specified in the notice are sent, by electronic or other means, to the rightholder.
     
-    Section 136(1): amended, on 12 October 2001, by [section 49(1)][413] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 136(1): amended, on 12 October 2001, by [section 49(1)][414] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 136(1): amended, on 12 October 2001, by [section 49(2)(a)][413] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 136(1): amended, on 12 October 2001, by [section 49(2)(a)][414] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 136(2): amended, on 12 October 2001, by [section 49(2)(b)][413] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 136(2): amended, on 12 October 2001, by [section 49(2)(b)][414] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 136(3): added, on 31 October 2006, by [section 32][414] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 136(3): added, on 31 October 2006, by [section 32][415] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 136(3)(b): amended, on 31 August 2012, by [section 6(1)][415] of the Radiocommunications Amendment Act 2012 (2012 No 65).
+    Section 136(3)(b): amended, on 31 August 2012, by [section 6(1)][416] of the Radiocommunications Amendment Act 2012 (2012 No 65).
     
-    Section 136(4): repealed, on 31 August 2012, by [section 6(2)][415] of the Radiocommunications Amendment Act 2012 (2012 No 65).
+    Section 136(4): repealed, on 31 August 2012, by [section 6(2)][416] of the Radiocommunications Amendment Act 2012 (2012 No 65).
     
-    Section 136(5): added, on 31 October 2006, by [section 32][414] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 136(5): added, on 31 October 2006, by [section 32][415] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
-    Section 136(6): inserted, on 31 August 2012, by [section 6(3)][415] of the Radiocommunications Amendment Act 2012 (2012 No 65).
+    Section 136(6): inserted, on 31 August 2012, by [section 6(3)][416] of the Radiocommunications Amendment Act 2012 (2012 No 65).
 
 #### Distress calls
 
@@ -3292,7 +3296,7 @@ Miscellaneous provisions
 
 ##### 138 Application of Commerce Act 1986 to acquisition or disposition of management rights or licence in relation to radio frequencies
     
-*   (1) Subject to subsections (2) and (3), for the purposes of [section 47][416] of the Commerce Act 1986, management rights in relation to radio frequencies and spectrum licences created under [section 48][71] shall be deemed to be assets of a business.
+*   (1) Subject to subsections (2) and (3), for the purposes of [section 47][417] of the Commerce Act 1986, management rights in relation to radio frequencies and spectrum licences created under [section 48][71] shall be deemed to be assets of a business.
     
     (2) Nothing in subsection (1) applies in respect of the acquisition, by the Crown, of the management rights in relation to any radio frequencies where those management rights are acquired by the Crown---
         
@@ -3302,19 +3306,19 @@ Miscellaneous provisions
     
     (3) Nothing in subsection (1) applies in respect of the acquisition, by any person, of any management rights or any spectrum licence, where those management rights or that spectrum licence are or is acquired by that person pursuant to any right conferred on that person by [Part 16][210].
     
-    Section 138(1): substituted, on 1 January 1991, by [section 47][417] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 138(1): substituted, on 1 January 1991, by [section 47][418] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 138(1): amended, on 12 October 2001, by [section 50(1)][418] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 138(1): amended, on 12 October 2001, by [section 50(1)][419] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 138(2)(b): repealed, on 12 October 2001, by [section 50(2)][418] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 138(2)(b): repealed, on 12 October 2001, by [section 50(2)][419] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 138(3): amended, on 12 October 2001, by [section 50(3)][418] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 138(3): amended, on 12 October 2001, by [section 50(3)][419] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 #### Repeals and consequential amendments
 
 ##### 139 Repeals and consequential amendments
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][367]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][368]._
     
     (2) _Amendment(s) incorporated in the Act(s)_.
     
@@ -3325,7 +3329,7 @@ Transitional provisions
 
 ##### 140 Licences granted under Part 2 of Telecommunications Act 1987
     
-*   Every licence granted under [Part 2][367] of the Telecommunications Act 1987 and in force immediately before the commencement of this Act shall be deemed to be a radio licence granted under [Part 13][161].
+*   Every licence granted under [Part 2][368] of the Telecommunications Act 1987 and in force immediately before the commencement of this Act shall be deemed to be a radio licence granted under [Part 13][161].
     
     Section 140: amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
@@ -3335,13 +3339,13 @@ Transitional provisions
 
 ##### 142 Saving for documents made or acts done under Part 2 of Telecommunications Act 1987
     
-*   Without limiting [sections 140][211] and [141][212], any document made or any thing whatsoever done under any provision of [Part 2][367] of the Telecommunications Act 1987, so far as it is subsisting or in force immediately before the commencement of this Act and could have been made or done under [Part 13][161], shall continue and have effect as if it had been made or done under the corresponding provision of Part 13\.
+*   Without limiting [sections 140][211] and [141][212], any document made or any thing whatsoever done under any provision of [Part 2][368] of the Telecommunications Act 1987, so far as it is subsisting or in force immediately before the commencement of this Act and could have been made or done under [Part 13][161], shall continue and have effect as if it had been made or done under the corresponding provision of Part 13\.
 
 ##### 143 Forms approved by Secretary may be used where no form prescribed
     
 *   \[Expired\]
     
-    Section 143: expired, on 1 April 1990, by [section 143(2)][419].
+    Section 143: expired, on 1 April 1990, by [section 143(2)][420].
 
 #### Transitional rights in relation to Schedule 4 frequencies
 
@@ -3397,7 +3401,7 @@ Transitional provisions
             
         *   (i) a right to transmit that is identical to the right conferred by the radio licence held by the incumbent in relation to that frequency immediately before the record of management rights was recorded in relation to that frequency; or
         
-        *   (ii) where the incumbent did not hold such a radio licence, but was entitled, immediately before that record of management rights was so recorded, to be granted a radio licence in relation to that frequency pursuant to [section 95(2)][420] of the Broadcasting Act 1989, a right to transmit that is identical to the right that would have been conferred had that radio licence been granted; and
+        *   (ii) where the incumbent did not hold such a radio licence, but was entitled, immediately before that record of management rights was so recorded, to be granted a radio licence in relation to that frequency pursuant to [section 95(2)][421] of the Broadcasting Act 1989, a right to transmit that is identical to the right that would have been conferred had that radio licence been granted; and
         
         
     
@@ -3421,9 +3425,9 @@ Transitional provisions
         
     *   (a) in the case of a frequency that is used for the purposes of any television service to which this paragraph applies,---
             
-        *   (i) where that frequency is within any of the ranges of frequencies specified in [Part A][421] of Schedule 4, the person who, immediately before a record of management rights is recorded, pursuant to [section 10(2)][14], in relation to that frequency, is the holder of a radio licence in relation to that frequency; or
+        *   (i) where that frequency is within any of the ranges of frequencies specified in [Part A][422] of Schedule 4, the person who, immediately before a record of management rights is recorded, pursuant to [section 10(2)][14], in relation to that frequency, is the holder of a radio licence in relation to that frequency; or
         
-        *   (ii) where that frequency is within any of the ranges of frequencies specified in [Part B][422] of Schedule 4, the person who holds the radio licence in relation to that frequency on 8 December 1989; or
+        *   (ii) where that frequency is within any of the ranges of frequencies specified in [Part B][423] of Schedule 4, the person who holds the radio licence in relation to that frequency on 8 December 1989; or
         
         
     
@@ -3431,9 +3435,9 @@ Transitional provisions
             
         *   (i) is the holder of a radio licence in relation to that frequency, being a radio licence that was issued to that person in order to enable that person to exercise that person's rights under a sound-radio warrant under the Broadcasting Act 1976 of which that person was the holder at the close of 30 June 1989; or
         
-        *   (ii) is the holder of a radio licence in relation to that frequency, being a radio licence granted to that person pursuant to [section 95(2)][420] of the Broadcasting Act 1989; or
+        *   (ii) is the holder of a radio licence in relation to that frequency, being a radio licence granted to that person pursuant to [section 95(2)][421] of the Broadcasting Act 1989; or
         
-        *   (iii) is entitled, pursuant to [section 95(2)][420] of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
+        *   (iii) is entitled, pursuant to [section 95(2)][421] of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
         
         
     
@@ -3483,15 +3487,15 @@ Transitional provisions
         
     *   (a) at the close of 30 June 1989, held a sound-radio warrant under the Broadcasting Act 1976 in relation to that frequency; or
     
-    *   (b) is or was entitled, pursuant to [section 95(2)][420] of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
+    *   (b) is or was entitled, pursuant to [section 95(2)][421] of the Broadcasting Act 1989, to be granted a radio licence in relation to that frequency.
     
     (2) The Broadcasting Tribunal shall, on application made on the form provided for the purpose by the Tribunal, issue a certificate certifying whether or not the applicant---
         
     *   (a) at the close of 30 June 1989, held a sound-radio warrant under the Broadcasting Act 1976 in relation to a frequency to which [section 145][217] applies; or
     
-    *   (b) is or was entitled, pursuant to [section 95(2)][420] of the Broadcasting Act 1989, to be granted a radio licence in relation to any such frequency.
+    *   (b) is or was entitled, pursuant to [section 95(2)][421] of the Broadcasting Act 1989, to be granted a radio licence in relation to any such frequency.
     
-    (3) Notwithstanding the repeals and revocations effected by the [Broadcasting Act 1989][409], and without limiting [section 93][423] of that Act, the Broadcasting Tribunal shall remain in office until the close of 31 March 1990 for the purpose of carrying out the function conferred on it by subsection (2).
+    (3) Notwithstanding the repeals and revocations effected by the [Broadcasting Act 1989][410], and without limiting [section 93][424] of that Act, the Broadcasting Tribunal shall remain in office until the close of 31 March 1990 for the purpose of carrying out the function conferred on it by subsection (2).
     
     Section 147(1): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -3641,13 +3645,13 @@ Transitional provisions
     
 *   (1) Where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to [section 145][217] are transferred to any other person, any payment that would have been required by [section 149][222] to be made in respect of that spectrum licence by the incumbent if those rights had not been transferred shall be payable by the transferee, and sections 149 to 152 shall apply accordingly as if the transferee were the incumbent.
     
-    (2) Notwithstanding anything in subsection (1), where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to [section 145][217] are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of [subpart YB][424] of the Income Tax Act 2007, any payment that would have been required by subsection (1) to be made in respect of that spectrum licence by the transferee shall be payable by the incumbent as if those rights had not been transferred.
+    (2) Notwithstanding anything in subsection (1), where the rightholder's rights pursuant to a spectrum licence granted to an incumbent pursuant to [section 145][217] are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of [subpart YB][425] of the Income Tax Act 2007, any payment that would have been required by subsection (1) to be made in respect of that spectrum licence by the transferee shall be payable by the incumbent as if those rights had not been transferred.
     
     Section 153(1): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 153(2): amended, on 1 April 2010, by [section 861][425] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 153(2): amended, on 1 April 2010, by [section 861][426] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 153(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][426] of the Income Tax Act 2007 (2007 No 97).
+    Section 153(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][427] of the Income Tax Act 2007 (2007 No 97).
     
     Section 153(2): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
@@ -3777,11 +3781,11 @@ Transitional provisions
     
 *   (1) Where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to [section 155][229] are transferred to any other person, any payment that would have been required by [section 157(1)][231] to be made in respect of the incumbent's registration as manager if those management rights had not been transferred shall be payable by the transferee, and [sections 157 to 160][231] shall apply accordingly as if the transferee were the incumbent.
     
-    (2) Notwithstanding anything in subsection (1), where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to [section 155][229] are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of [subpart YB][424] of the Income Tax Act 2007, any payment that would have been required by subsection (1) to be made in respect of the transferee's registration as manager shall be payable by the incumbent as if those management rights had not been transferred.
+    (2) Notwithstanding anything in subsection (1), where the management rights in relation to any frequency in respect of which an incumbent is registered as manager pursuant to [section 155][229] are transferred to any other person, and the incumbent and the transferee are associated persons within the meaning of [subpart YB][425] of the Income Tax Act 2007, any payment that would have been required by subsection (1) to be made in respect of the transferee's registration as manager shall be payable by the incumbent as if those management rights had not been transferred.
     
-    Section 161(2): amended, on 1 April 2010, by [section 861][425] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
+    Section 161(2): amended, on 1 April 2010, by [section 861][426] of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34).
     
-    Section 161(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][426] of the Income Tax Act 2007 (2007 No 97).
+    Section 161(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][427] of the Income Tax Act 2007 (2007 No 97).
 
 #### Transitional rights in relation to 2 frequency land mobile
 
@@ -3819,11 +3823,11 @@ Transitional provisions
     
     (5) Where, but for this subsection, the expiry date of any record of management rights relating to any frequency in relation to which a spectrum licence is granted pursuant to subsection (2) or, as the case may be, any person is registered as manager pursuant to subsection (4) is earlier than the expiry of the period of 20 years commencing on the date on which that record of management rights was recorded under [section 10(2)][14], the expiry date of that record of management rights shall be deemed to be the date of the expiry of the period of 20 years commencing on the date on which that record of management rights was recorded under that section, and the Registrar shall amend the register accordingly.
     
-    Section 162(1A): inserted, on 12 October 2001, by [section 51][427] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 162(1A): inserted, on 12 October 2001, by [section 51][428] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 162(2): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 162(2): amended, on 12 October 2001, by [section 62][428] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 162(2): amended, on 12 October 2001, by [section 62][429] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 162(2)(c): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -3985,27 +3989,27 @@ Transitional provisions
     
     Section 170(1): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 170(1): amended, on 12 October 2001, by [section 63][429] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 170(1): amended, on 12 October 2001, by [section 63][430] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(2): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(3): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 170(3): amended, on 12 October 2001, by [section 63][429] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 170(3): amended, on 12 October 2001, by [section 63][430] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(3)(a): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(3)(b)(ii): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 170(4): amended, on 12 October 2001, by [section 52][430] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 170(4): amended, on 12 October 2001, by [section 52][431] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(4): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 170(4): amended, on 12 October 2001, by [section 63][429] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 170(4): amended, on 12 October 2001, by [section 63][430] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 170(5): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 170(5): amended, on 12 October 2001, by [section 63][429] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 170(5): amended, on 12 October 2001, by [section 63][430] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 171 Continuation of advertising restrictions, etc
     
@@ -4019,7 +4023,7 @@ Transitional provisions
         
         
     
-    *   (b) where, as the result of a decision of the Broadcasting Tribunal, that body or organisation has, before the commencement of this Act, been granted a radio licence in relation to that frequency pursuant to [section 95(2)][420] of the Broadcasting Act 1989, or is granted any such licence on or after the commencement of this Act, the restrictions that are specified in the decision of the Broadcasting Tribunal in relation to---
+    *   (b) where, as the result of a decision of the Broadcasting Tribunal, that body or organisation has, before the commencement of this Act, been granted a radio licence in relation to that frequency pursuant to [section 95(2)][421] of the Broadcasting Act 1989, or is granted any such licence on or after the commencement of this Act, the restrictions that are specified in the decision of the Broadcasting Tribunal in relation to---
             
         *   (i) the broadcasting, by that body or organisation, on that frequency, of advertising programmes; and
         
@@ -4043,7 +4047,7 @@ Transitional provisions
     
     *   (b) any conditions that, by virtue of [section 170(3)(b)][246], apply to any spectrum licence.
     
-    Section 172: amended, on 12 October 2001, by [section 53][431] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+    Section 172: amended, on 12 October 2001, by [section 53][432] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
     Section 172(a): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -4065,7 +4069,7 @@ Transitional provisions
     
     Section 173(1): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 173(2): amended, on 31 October 2006, by [section 33][432] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 173(2): amended, on 31 October 2006, by [section 33][433] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
     Section 173(2): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -4107,7 +4111,7 @@ Transitional provisions
     
 *   (1) This section applies to the following licences in any case where the licence is or was granted to Radio New Zealand for the purposes of any service referred to in paragraph (a) or paragraph (b) of [section 174(1)][252]:
         
-    *   (a) a radio licence granted under the [Telecommunications Act 1987][433] that is deemed, on the commencement of this Act, to be a licence granted under [Part 13][161]:
+    *   (a) a radio licence granted under the [Telecommunications Act 1987][434] that is deemed, on the commencement of this Act, to be a licence granted under [Part 13][161]:
     
     *   (b) a radio licence granted after the commencement of this Act:
     
@@ -4121,7 +4125,7 @@ Transitional provisions
         
         *   (ii) in the case of a licence that relates to the service known as National Radio, that service,---
         
-        as each such service is for the time being required to be operated in accordance with the conditions on which funds are made available for that purpose by the Broadcasting Commission under [section 36][434] of the Broadcasting Act 1989:
+        as each such service is for the time being required to be operated in accordance with the conditions on which funds are made available for that purpose by the Broadcasting Commission under [section 36][435] of the Broadcasting Act 1989:
     
     *   (b) that no advertising programme shall be broadcast on the frequency to which the licence relates when that frequency is used for the purposes of any service referred to in paragraph (a) or paragraph (b) of [section 174(1)][252].
     
@@ -4147,9 +4151,9 @@ Transitional provisions
     
     *   (b) where there is no contract of the kind referred to in paragraph (a), the last day of the financial year during which public funds were made available for the purposes of the service known as the FM Concert Programme or the service known as National Radio during that financial year.
     
-    Section 176: substituted, on 1 December 1995, by [section 20][435] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 176: substituted, on 1 December 1995, by [section 20][436] of the Radio New Zealand Act 1995 (1995 No 52).
     
-    Section 176(1)(a): amended, on 31 October 2006, by [section 34][436] of the Radiocommunications Amendment Act 2006 (2006 No 54).
+    Section 176(1)(a): amended, on 31 October 2006, by [section 34][437] of the Radiocommunications Amendment Act 2006 (2006 No 54).
     
     Section 176(1)(a): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
@@ -4185,7 +4189,7 @@ Transitional provisions
     
     Section 177(2)(a): amended, on 1 July 1994, by section 2 of the Radiocommunications Amendment Act 1994 (1994 No 57).
     
-    Section 177(2)(b): repealed, on 1 December 1995, by [section 20][435] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 177(2)(b): repealed, on 1 December 1995, by [section 20][436] of the Radio New Zealand Act 1995 (1995 No 52).
     
     Section 177(2)(c): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -4193,7 +4197,7 @@ Transitional provisions
     
     Section 177(3)(b): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 177(3)(b): amended, on 1 December 1995, by [section 20][435] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 177(3)(b): amended, on 1 December 1995, by [section 20][436] of the Radio New Zealand Act 1995 (1995 No 52).
 
 ##### 178 Conditions of licences relating to 2YB service
     
@@ -4225,7 +4229,7 @@ Transitional provisions
     
     Section 178(2)(a): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 178(2)(b): repealed, on 1 December 1995, by [section 20][435] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 178(2)(b): repealed, on 1 December 1995, by [section 20][436] of the Radio New Zealand Act 1995 (1995 No 52).
     
     Section 178(2)(c): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
@@ -4233,7 +4237,7 @@ Transitional provisions
     
     Section 178(3)(b): amended, on 12 October 2001, by [section 54][288] of the Radiocommunications Amendment Act 2000 (2000 No 8).
     
-    Section 178(3)(b): amended, on 1 December 1995, by [section 20][435] of the Radio New Zealand Act 1995 (1995 No 52).
+    Section 178(3)(b): amended, on 1 December 1995, by [section 20][436] of the Radio New Zealand Act 1995 (1995 No 52).
 
 #### Crown not entitled to transitional rights
 
@@ -4247,7 +4251,7 @@ Transitional provisions
     
 *   (1) This section applies to the following licences in any case where the licence was or is granted for the purposes of the television service known as TV3:
         
-    *   (a) a radio licence granted under the [Telecommunications Act 1987][433] that is deemed, on the commencement of this Act, to be a licence granted under [Part 13][161]:
+    *   (a) a radio licence granted under the [Telecommunications Act 1987][434] that is deemed, on the commencement of this Act, to be a licence granted under [Part 13][161]:
     
     *   (b) a radio licence granted after the commencement of this Act:
     
@@ -4299,7 +4303,7 @@ Transitional provisions
 
 ##### 182 Payments inclusive of goods and services tax
     
-*   The amount of any payment required to be made by [section 149][222] or [section 157][231] or [section 164][239] or [section 177(2)(c)][255] or [section 178(2)(c)][256], whether that amount is specified in any of those sections or is calculated in accordance with any of the provisions of this Part, is inclusive of goods and services tax under the [Goods and Services Tax Act 1985][437].
+*   The amount of any payment required to be made by [section 149][222] or [section 157][231] or [section 164][239] or [section 177(2)(c)][255] or [section 178(2)(c)][256], whether that amount is specified in any of those sections or is calculated in accordance with any of the provisions of this Part, is inclusive of goods and services tax under the [Goods and Services Tax Act 1985][438].
 
 ##### 183 Recovery of payments
     
@@ -4307,7 +4311,7 @@ Transitional provisions
     
     (2) Where any person fails wholly or in part to make any payment required by [section 149][222] or [section 157][231] or [section 164][239] or [section 177(2)(c)][255] or [section 178(2)(c)][256] to be made to the Secretary by that person, an amount equal to the total for the time being unpaid to the Secretary in respect of that payment, and in respect of any judgment obtained for that payment (including any costs, fees, or expenses included in the judgment or otherwise payable by that person to the Secretary in respect of the judgment) shall be a charge on all the real and personal property of that person.
     
-    (3) The provisions of [section 169][438] of the Tax Administration Act 1994 (other than subsections (1) and (10)) shall, with all necessary modifications, apply in respect of any charge created by subsection (2) as if that charge were a charge created by that section and as if every reference in those provisions to the Commissioner were a reference to the Secretary.
+    (3) The provisions of [section 169][439] of the Tax Administration Act 1994 (other than subsections (1) and (10)) shall, with all necessary modifications, apply in respect of any charge created by subsection (2) as if that charge were a charge created by that section and as if every reference in those provisions to the Commissioner were a reference to the Secretary.
     
     (4) \[Repealed\]
     
@@ -4315,15 +4319,15 @@ Transitional provisions
     
     (6) \[Repealed\]
     
-    Section 183(3): amended, on 3 December 2007, by [section 445][439] of the Insolvency Act 2006 (2006 No 55).
+    Section 183(3): amended, on 3 December 2007, by [section 445][440] of the Insolvency Act 2006 (2006 No 55).
     
     Section 183(3): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 183(4): repealed, on 3 December 2007, by [section 445][439] of the Insolvency Act 2006 (2006 No 55).
+    Section 183(4): repealed, on 3 December 2007, by [section 445][440] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 183(5): repealed, on 3 December 2007, by [section 445][439] of the Insolvency Act 2006 (2006 No 55).
+    Section 183(5): repealed, on 3 December 2007, by [section 445][440] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 183(6): repealed, on 3 December 2007, by [section 445][439] of the Insolvency Act 2006 (2006 No 55).
+    Section 183(6): repealed, on 3 December 2007, by [section 445][440] of the Insolvency Act 2006 (2006 No 55).
 
 ---
 
@@ -4332,7 +4336,7 @@ Requirements in relation to radio licences and spectrum licences
 
 [ss 101][146], [111][163]
 
-*   Schedule 1: substituted, on 12 October 2001, by [section 55][440] of the Radiocommunications Amendment Act 2000 (2000 No 8).
+*   Schedule 1: substituted, on 12 October 2001, by [section 55][441] of the Radiocommunications Amendment Act 2000 (2000 No 8).
 
 ##### 1 Compliance with International Radio Regulations
     
@@ -4361,7 +4365,7 @@ Enactments consequentially amended
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][409]._
+_Amendment(s) incorporated in the [Act(s)][410]._
 
 ##### Companies Act 1955 (1955 No 63) (RS Vol 15, p 89)
 
@@ -4369,7 +4373,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Industrial and Provident Societies Amendment Act 1952 (1952 No 45) (RS Vol 7, p 445)
 
-_Amendment(s) incorporated in the [Act(s)][409]._
+_Amendment(s) incorporated in the [Act(s)][410]._
 
 ---
 
@@ -4511,7 +4515,7 @@ Entitlements to specific licences
 
 99.4 MHzMassey University Students Association Palmerston North
 
-*   Schedule 7: amended, on 26 September 2006, by [section 99(2)][441] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
+*   Schedule 7: amended, on 26 September 2006, by [section 99(2)][442] of the Te Arawa Lakes Settlement Act 2006 (2006 No 43).
 
 ---
 
@@ -4520,11 +4524,11 @@ General provisions relating to material incorporated by reference in regulations
 
 [s 134(4)][198]
 
-*   Schedule 8: added, on 29 July 2008, by [section 6][442] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
+*   Schedule 8: added, on 29 July 2008, by [section 6][443] of the Radiocommunications Amendment Act (No 2) 2008 (2008 No 51).
 
 ##### 1 Effect of material incorporated by reference in regulations
     
-*   (1) This clause and [clauses 2 to 8][443] apply to material incorporated by reference in regulations made in reliance on [section 134(1D)][198].
+*   (1) This clause and [clauses 2 to 8][444] apply to material incorporated by reference in regulations made in reliance on [section 134(1D)][198].
     
     (2) Material incorporated by reference in regulations has effect as part of the regulations.
 
@@ -4584,19 +4588,25 @@ General provisions relating to material incorporated by reference in regulations
     
     (3) A failure to comply with this clause does not invalidate regulations that incorporate material by reference.
 
-##### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
+##### 6 Application of Legislation Act 2012 to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][444] does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+*   (1) [Part 2][445] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+    
+    (2) [Subpart 1][446] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+    
+    (3) However, nothing in [section 41][447] of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+    
+    Schedule 8 clause 6: replaced, on 5 August 2013, by [section 77(3)][448] of the Legislation Act 2012 (2012 No 119).
 
 ##### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
-*   (1) Nothing in [section 4][445] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be laid before the House of Representatives.
+*   \[Repealed\]
     
-    (2) The [Regulations (Disallowance) Act 1989][446], apart from the modification to the application of [section 4][445] of that Act made by subclause (1), applies to regulations that incorporate material by reference.
+    Schedule 8 clause 7: repealed, on 5 August 2013, by [section 77(3)][448] of the Legislation Act 2012 (2012 No 119).
 
 ##### 8 Application of Standards Act 1988 not affected 
     
-*   [Clauses 1 to 7][447] do not affect the application of [sections 22 to 25][448] of the Standards Act 1988\.
+*   [Clauses 1 to 7][449] do not affect the application of [sections 22 to 25][450] of the Standards Act 1988\.
 
 ---
 
@@ -4608,7 +4618,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Radiocommunications Amendment Act 2000][449].
+*   (1) This Act is the [Radiocommunications Amendment Act 2000][451].
     
     (2) In this Act, the Radiocommunications Act 1989 is called ""the principal Act"".
 
@@ -4616,7 +4626,7 @@ Commencementsee section 2
     
 *   This Act comes into force on a date to be fixed by the Governor-General by Order in Council.
     
-    Section 2: Radiocommunications Amendment Act 2000 brought into force, on 12 October 2001, by the [Radiocommunications Amendment Act Commencement Order 2001][450] (SR 2001/239).
+    Section 2: Radiocommunications Amendment Act 2000 brought into force, on 12 October 2001, by the [Radiocommunications Amendment Act Commencement Order 2001][452] (SR 2001/239).
 
 ##### 57 Interference caused by lawful exercise of rights
     
@@ -4652,184 +4662,75 @@ Commencementsee section 2
     
     (2) If a licence to which subsection (1) applies does not describe the radio apparatus by referring to radio frequencies, the holder of the licence must return the licence to the Secretary who must amend the licence to include the frequencies upon which transmissions can be made in accordance with the licence.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][451].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][452] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Radiocommunications Act 1989\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][453] ![](/images/external_link.gif).
+*   This is a reprint of the Radiocommunications Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][454] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][453] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][454] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][455] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][455] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][456] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][456] and [17E][457] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][448]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Radiocommunications Amendment Act 2012][457] (2012 No 65)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Search and Surveillance Act 2012 (2012 No 24): [section 295][382]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][340]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Radiocommunications Amendment Act 2010][458] (2010 No 80)
     
-*   [Radiocommunications Amendment Act 2012][458] (2012 No 65)
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][426]
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 295][381]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][402]
     
-    [Radiocommunications Amendment Act 2010][459] (2010 No 80)
+    [Radiocommunications Amendment Act (No 2) 2008][459] (2008 No 51)
     
-    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][425]
+    [Radiocommunications Amendment Act 2008][460] (2008 No 16)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][401]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][427]
     
-    [Radiocommunications Amendment Act (No 2) 2008][460] (2008 No 51)
+    [Radiocommunications Amendment Act 2007][461] (2007 No 75)
     
-    [Radiocommunications Amendment Act 2008][461] (2008 No 16)
+    Insolvency Act 2006 (2006 No 55): [section 445][440]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][426]
+    [Radiocommunications Amendment Act 2006][462] (2006 No 54)
     
-    [Radiocommunications Amendment Act 2007][462] (2007 No 75)
+    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 99(2)][442]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][439]
+    [Radiocommunications Amendment Act (No 2) 2005][463] (2005 No 111)
     
-    [Radiocommunications Amendment Act 2006][463] (2006 No 54)
+    [Radiocommunications Amendment Act 2005][464] (2005 No 67)
     
-    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 99(2)][441]
-    
-    [Radiocommunications Amendment Act (No 2) 2005][464] (2005 No 111)
-    
-    [Radiocommunications Amendment Act 2005][465] (2005 No 67)
-    
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 32][403]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 32][404]
     
     Radiocommunications Amendment Act 2002 (2002 No 74)
     
-    Telecommunications Act 2001 (2001 No 103): [section 159(3)][402]
+    Telecommunications Act 2001 (2001 No 103): [section 159(3)][403]
     
-    [Radiocommunications Amendment Act Commencement Order 2001][450] (SR 2001/239)
+    [Radiocommunications Amendment Act Commencement Order 2001][452] (SR 2001/239)
     
-    Ministry of Economic Development Act 2000 (2000 No 28): [section 5(a)][380]
+    Ministry of Economic Development Act 2000 (2000 No 28): [section 5(a)][381]
     
-    [Radiocommunications Amendment Act 2000][449] (2000 No 8)
+    [Radiocommunications Amendment Act 2000][451] (2000 No 8)
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][373]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][374]
     
     Radiocommunications Amendment Act 1996 (1996 No 76)
     
-    Radio New Zealand Act 1995 (1995 No 52): [section 20][435]
+    Radio New Zealand Act 1995 (1995 No 52): [section 20][436]
     
     Radiocommunications Amendment Act 1995 (1995 No 38)
     
@@ -4839,7 +4740,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Radiocommunications Amendment Act (No 2) 1990 (1990 No 104)
     
-    Commerce Amendment Act 1990 (1990 No 41): [section 47][466]
+    Commerce Amendment Act 1990 (1990 No 41): [section 47][465]
     
     Radiocommunications Amendment Act 1990 (1990 No 22)
     
@@ -4847,7 +4748,7 @@ Amendments, repeals, and miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM195578
 [2]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM195580
 [3]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM195581
@@ -5187,130 +5088,129 @@ Amendments, repeals, and miscellaneous provisions
 [337]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM169250
 [338]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385279
 [339]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM162942
-[340]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328526
-[341]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328528
-[342]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328753
-[343]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328755
-[344]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385281
-[345]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54179
-[346]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385282
-[347]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54180
-[348]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54182
-[349]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54183
-[350]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54184
-[351]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54185
-[352]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54186
-[353]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54188
-[354]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM403276
-[355]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54190
-[356]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM348954
-[357]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385283
-[358]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385284
-[359]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM405751
-[360]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385285
-[361]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM405702
-[362]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54304
-[363]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM169251
-[364]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM327381
-[365]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM275026
-[366]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54307
-[367]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119755
-[368]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54310
-[369]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54311
-[370]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54313
-[371]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54315
-[372]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385286
-[373]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM31885
-[374]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54316
-[375]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136542
-[376]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136781
-[377]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136770
-[378]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136813
-[379]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136815
-[380]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM67106
-[381]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2137061
-[382]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54317
-[383]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM310742
-[384]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54318
-[385]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385287
-[386]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM311346
-[387]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54321
-[388]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043705
-[389]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043706
-[390]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM128138
-[391]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM205882
-[392]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119022
-[393]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391605
-[394]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187177
-[395]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM23069
-[396]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM124822
-[397]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187185
-[398]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391611
-[399]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM329804
-[400]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54322
-[401]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1102349
-[402]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM127741
-[403]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187863
-[404]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043707
-[405]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54334
-[406]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385288
-[407]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447802
-[408]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385289
-[409]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM155364
-[410]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM334659
-[411]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM169252
-[412]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54335
-[413]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54336
-[414]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385291
-[415]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM4444409
-[416]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM88421
-[417]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM210901
-[418]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54337
-[419]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM197936
-[420]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158940
-[421]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM198284
-[422]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM198285
-[423]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158937
-[424]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1522997
-[425]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1401902
-[426]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1523176
-[427]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54338
-[428]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54350
-[429]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54351
-[430]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54340
-[431]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54341
-[432]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385293
-[433]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119011
-[434]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158014
-[435]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM368655
-[436]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385294
-[437]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM81034
-[438]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM357493
-[439]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM387857
-[440]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54343
-[441]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM382169
-[442]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447813
-[443]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM1460707
-[444]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195097
-[445]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195549
-[446]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195534
-[447]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM1460706
-[448]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM128740
-[449]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM53931
-[450]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM71504
-[451]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136500
-[452]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM4686448
-[453]: http://www.pco.parliament.govt.nz/reprints/
-[454]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195439
-[455]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[456]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195468
-[457]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM195470
-[458]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM4444400
-[459]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043700
-[460]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447804
-[461]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1209220
-[462]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM968482
-[463]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385234
-[464]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM362262
-[465]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM348948
-[466]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM210495
+[340]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3360714
+[341]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328526
+[342]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328528
+[343]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328753
+[344]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM328755
+[345]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385281
+[346]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54179
+[347]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385282
+[348]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54180
+[349]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54182
+[350]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54183
+[351]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54184
+[352]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54185
+[353]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54186
+[354]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54188
+[355]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM403276
+[356]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54190
+[357]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM348954
+[358]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385283
+[359]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385284
+[360]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM405751
+[361]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385285
+[362]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM405702
+[363]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54304
+[364]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM169251
+[365]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM327381
+[366]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM275026
+[367]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54307
+[368]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119755
+[369]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54310
+[370]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54311
+[371]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54313
+[372]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54315
+[373]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385286
+[374]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM31885
+[375]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54316
+[376]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136542
+[377]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136781
+[378]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136770
+[379]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136813
+[380]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2136815
+[381]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM67106
+[382]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2137061
+[383]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54317
+[384]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3360057
+[385]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54318
+[386]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM310742
+[387]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM311346
+[388]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54321
+[389]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043705
+[390]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043706
+[391]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM128138
+[392]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM205882
+[393]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119022
+[394]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391605
+[395]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187177
+[396]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM23069
+[397]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM124822
+[398]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187185
+[399]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM391611
+[400]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM329804
+[401]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54322
+[402]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1102349
+[403]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM127741
+[404]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM187863
+[405]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043707
+[406]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54334
+[407]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385288
+[408]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447802
+[409]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385289
+[410]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM155364
+[411]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM334659
+[412]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM169252
+[413]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54335
+[414]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54336
+[415]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385291
+[416]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM4444409
+[417]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM88421
+[418]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM210901
+[419]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54337
+[420]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM197936
+[421]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158940
+[422]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM198284
+[423]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM198285
+[424]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158937
+[425]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1522997
+[426]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1401902
+[427]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1523176
+[428]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54338
+[429]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54350
+[430]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54351
+[431]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54340
+[432]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54341
+[433]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385293
+[434]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM119011
+[435]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM158014
+[436]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM368655
+[437]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385294
+[438]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM81034
+[439]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM357493
+[440]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM387857
+[441]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM54343
+[442]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM382169
+[443]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447813
+[444]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM1460707
+[445]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2997693
+[446]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998558
+[447]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998573
+[448]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998633
+[449]: http://www.legislation.govt.nz/act/public/1989/0148/latest/whole.html#DLM1460706
+[450]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM128740
+[451]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM53931
+[452]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM71504
+[453]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998516
+[454]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998515
+[455]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM2998532
+[456]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[457]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM4444400
+[458]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM3043700
+[459]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1447804
+[460]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM1209220
+[461]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM968482
+[462]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM385234
+[463]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM362262
+[464]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM348948
+[465]: http://www.legislation.govt.nz/act/public/1989/0148/latest/link.aspx?id=DLM210495
