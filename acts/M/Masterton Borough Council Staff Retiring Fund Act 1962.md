@@ -1,5 +1,5 @@
 Reprint  
-as at 1 March 2002
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,33 +25,33 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   [Preamble][2]
 
-[1][3] [Short Title][3]
+[1][3][][3][Short Title][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Staff Retiring Fund][5]
+[3][5][][5][Staff Retiring Fund][5]
 
-[4][6] [Validation of past payments to the Fund][6]
+[4][6][][6][Validation of past payments to the Fund][6]
 
-[5][7] [Validation of past payments from the Fund][7]
+[5][7][][7][Validation of past payments from the Fund][7]
 
-[6][8] [Investment of the Fund][8]
+[6][8][][8][Investment of the Fund][8]
 
-[7][9] [Cost of administering the Fund][9]
+[7][9][][9][Cost of administering the Fund][9]
 
-[8][10] [Payments into the Fund][10]
+[8][10][][10][Payments into the Fund][10]
 
-[9][11] [Payments to employees or their dependants][11]
+[9][11][][11][Payments to employees or their dependants][11]
 
-[10][12] [Act not to affect Council's authority otherwise][12]
+[10][12][][12][Act not to affect Council's authority otherwise][12]
 
-[11][13] [Payments to employees or their dependants not to affect independent liability][13]
+[11][13][][13][Payments to employees or their dependants not to affect independent liability][13]
 
-[12][14] [Act not to confer right on employees or their dependants to claim gratuity][14]
+[12][14][][14][Act not to confer right on employees or their dependants to claim gratuity][14]
 
-[13][15] [Winding-up of the Fund][15]
+[13][15][][15][Winding-up of the Fund][15]
 
-[14][16] [Offences][16]
+[14][16][][16][Offences][16]
 
 [Schedule 1][17]  
 [Payments to the Fund declared to have been lawfully made][17]
@@ -179,15 +179,17 @@ An Act to empower the Masterton Borough Council to establish a Staff Retiring Fu
     
     *   (b) makes any payment from the Fund in excess of or otherwise than in accordance with the provisions of this Act in that behalf,---
     
-    every member of the Council who consents thereto commits an offence, and is liable on summary conviction to a fine not exceeding 100 pounds.
+    every member of the Council who consents thereto commits an offence, and is liable on conviction to a fine not exceeding 100 pounds.
     
     (2) The Auditor-General shall, if it considers that the circumstances warrant it, institute the necessary proceedings against any member liable to any such penalty.
     
     (3) All costs incurred by the Auditor-General in any such proceedings shall be paid by the Council out of its General Account; and, subject to the provisions of section 109 of the Public Revenues Act 1953 (as substituted by section 3 of the Public Revenues Amendment Act 1958), all money recovered for fines and costs shall be deemed to be part of the General Account of the Council, and shall be paid into the General Account accordingly.
     
-    Section 6(2): amended, on 1 July 2001, pursuant to [section 52][22] of the Public Audit Act 2001 (2001 No 10).
+    Section 14(1): amended, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 6(3): amended, on 1 July 2001, pursuant to [section 52][22] of the Public Audit Act 2001 (2001 No 10).
+    Section 14(2): amended, on 1 July 2001, pursuant to [section 52][23] of the Public Audit Act 2001 (2001 No 10).
+    
+    Section 14(3): amended, on 1 July 2001, pursuant to [section 52][23] of the Public Audit Act 2001 (2001 No 10).
 
 ---
 
@@ -252,23 +254,23 @@ Payments from the Fund declared to have been lawfully made
 
 ###### 1 General
     
-*   This is a reprint of the Masterton Borough Council Staff Retiring Fund Act 1962\. The reprint incorporates all the amendments to the Act as at 1 March 2002, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Masterton Borough Council Staff Retiring Fund Act 1962\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][23] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][24] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][24] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][25] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][25] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][26] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][26] and [17E][27] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][27] and [17E][28] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -299,9 +301,11 @@ Payments from the Fund declared to have been lawfully made
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Trust Act 2001 (2001 No 100): [section 170(2)][21]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][22]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][22]
+    Public Trust Act 2001 (2001 No 100): [section 170(2)][21]
+    
+    Public Audit Act 2001 (2001 No 10): [section 52][23]
 
 
 
@@ -327,9 +331,10 @@ Payments from the Fund declared to have been lawfully made
 [19]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM235134
 [20]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM304793
 [21]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM124529
-[22]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM88956
-[23]: http://www.pco.parliament.govt.nz/reprints/
-[24]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195439
-[25]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[26]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195468
-[27]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195470
+[22]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM3360714
+[23]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM88956
+[24]: http://www.pco.parliament.govt.nz/reprints/
+[25]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195439
+[26]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[27]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195468
+[28]: http://www.legislation.govt.nz/act/local/1962/0009/latest/link.aspx?id=DLM195470
