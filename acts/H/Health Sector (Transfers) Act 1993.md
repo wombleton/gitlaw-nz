@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,9 +15,9 @@ CommencementSee section 1(2), (3), (4)
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -25,9 +25,7 @@ This Act is administered by the Ministry of Health.
 
 ## Contents
 
-[Title][2]
-
-\[Repealed\]
+[Title][2] \[Repealed\]
 
 [1][3][][3][Short Title and commencement][3]
 
@@ -160,9 +158,7 @@ This Act is administered by the Ministry of Health.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 1 January 2001, by [section 3][62] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
@@ -460,9 +456,11 @@ Title
         
     *   (a) shall identify the proposal or amendment approved, but need not incorporate it in the order; and
     
-    *   (b) shall be deemed to be a regulation within the meaning of the [Regulations (Disallowance) Act 1989][78].
+    *   (b) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][78] and must be presented to the House of Representatives under [section 41][79] of that Act.
     
     (7) Nothing in this section prevents assets or liabilities being transferred to a transferee for a consideration other than the issue of shares or debt securities.
+    
+    Section 5(6)(b): replaced, on 5 August 2013, by [section 77(3)][80] of the Legislation Act 2012 (2012 No 119).
 
 ##### 6 Application of transfer to third parties
     
@@ -488,7 +486,7 @@ Title
     
     (2) Where an asset or liability of a transferor is transferred from a transferor to a transferee under this Act,---
         
-    *   (a) where the transfer is registrable (other than under the [Land Transfer Act 1952][79]), the person responsible for keeping the register shall register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister of Health:
+    *   (a) where the transfer is registrable (other than under the [Land Transfer Act 1952][81]), the person responsible for keeping the register shall register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister of Health:
     
     *   (b) the laying before the House of Representatives of any agreement or proposal relating to the transfer shall be deemed to be notice of the transfer, and any third party shall with effect from the commencement of the transfer date (or such other time as is specified in the agreement, proposal, or Order in Council) deal with the transferee in place of the transferor:
     
@@ -512,7 +510,7 @@ Title
     
     *   (b) if, under any law of general application and without the third party's consent, the asset or liability could have been transferred to the transferee or to any person on the basis that the transferor ceased to be liable in respect of the asset or liability.
     
-    Section 6(1): amended, on 1 January 2001, by [section 7][80] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 6(1): amended, on 1 January 2001, by [section 7][82] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 7 Transfer of area health board loans and sinking funds
     
@@ -548,11 +546,11 @@ Title
     
 *   (1) \[Repealed\]
     
-    (2) No gift duty shall be payable under the [Estate and Gift Duties Act 1968][81] in respect of any dutiable gift from a transferor to a transferee under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act.
+    (2) No gift duty shall be payable under the [Estate and Gift Duties Act 1968][83] in respect of any dutiable gift from a transferor to a transferee under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act.
     
-    (3) A transfer of assets or liabilities from a transferor to a transferee pursuant to an agreement entered into under [section 4][8], or a proposal approved under [section 5][9], shall be deemed not to be a supply of goods or services for the purposes of the [Goods and Services Tax Act 1985][82].
+    (3) A transfer of assets or liabilities from a transferor to a transferee pursuant to an agreement entered into under [section 4][8], or a proposal approved under [section 5][9], shall be deemed not to be a supply of goods or services for the purposes of the [Goods and Services Tax Act 1985][84].
     
-    (4) Nothing in [sections CB 6 to CB 23][83] or [EE 44 to EE 52][84] of the Income Tax Act 2007 shall apply in respect of any asset transferred by a transferor to a transferee under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act.
+    (4) Nothing in [sections CB 6 to CB 23][85] or [EE 44 to EE 52][86] of the Income Tax Act 2007 shall apply in respect of any asset transferred by a transferor to a transferee under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act.
     
     (5) For the purposes of the Income Tax Act 2007, assets and liabilities acquired by a transferee from a transferor under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act, shall be deemed to have been acquired---
         
@@ -562,13 +560,13 @@ Title
     
     (6) Nothing in sections EE 41 to EE 43 of the Income Tax Act 2007 shall apply in respect of any asset acquired by a transferee from a transferor under an agreement entered into under [section 4][8] of this Act, or a proposal approved under [section 5][9] of this Act.
     
-    Section 8(1): repealed, on 20 May 1999, by [section 7][85] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 8(1): repealed, on 20 May 1999, by [section 7][87] of the Stamp Duty Abolition Act 1999 (1999 No 61).
     
-    Section 8(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][86] of the Income Tax Act 2007 (2007 No 97).
+    Section 8(4): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][88] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 8(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][86] of the Income Tax Act 2007 (2007 No 97).
+    Section 8(5): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][88] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 8(6): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][86] of the Income Tax Act 2007 (2007 No 97).
+    Section 8(6): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][88] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 9 Further provisions applying to transfer of assets and liabilities
     
@@ -584,13 +582,13 @@ Title
 
 #### Assets held in trust or subject to restrictions
     
-*   Heading: amended, on 1 January 2001, by [section 8][87] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+*   Heading: amended, on 1 January 2001, by [section 8][89] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 10 Assets to remain subject to trusts
     
 *   For the avoidance of doubt, it is hereby declared that, subject to [sections 11 to 11D][16] and to any other enactment or rule of law, all assets that are transferred to a transferee under this Act shall remain subject to any trusts affecting those assets at the time when they are transferred and be dealt with by the transferee in accordance with the terms of the trusts.
     
-    Section 10: amended, on 1 January 2001, by [section 9][88] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 10: amended, on 1 January 2001, by [section 9][90] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11 Assets held in trust
     
@@ -618,7 +616,7 @@ Title
     
     *   (b) recommend amendments to the scheme; or
     
-    *   (c) direct that the scheme should not proceed, in which event the matter shall be dealt with under the [Charitable Trusts Act 1957][89].
+    *   (c) direct that the scheme should not proceed, in which event the matter shall be dealt with under the [Charitable Trusts Act 1957][91].
     
     (6) No scheme shall be approved by the Attorney-General under this section unless the Attorney-General is satisfied that the scheme is a proper one and is not contrary to law, public policy, or good morals.
     
@@ -630,17 +628,17 @@ Title
     
     (10) The reasonable costs of Public Trust in acting under this section shall be paid out of money appropriated by Parliament for the purpose.
     
-    Section 11(2): amended, on 1 March 2002, by [section 170(1)][90] of the Public Trust Act 2001 (2001 No 100).
+    Section 11(2): amended, on 1 March 2002, by [section 170(1)][92] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 11(3): amended, on 1 March 2002, by [section 170(1)][90] of the Public Trust Act 2001 (2001 No 100).
+    Section 11(3): amended, on 1 March 2002, by [section 170(1)][92] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 11(5)(a): amended, on 1 March 2002, by [section 170(1)][90] of the Public Trust Act 2001 (2001 No 100).
+    Section 11(5)(a): amended, on 1 March 2002, by [section 170(1)][92] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 11(10): amended, on 1 March 2002, by [section 170(1)][90] of the Public Trust Act 2001 (2001 No 100).
+    Section 11(10): amended, on 1 March 2002, by [section 170(1)][92] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 11A Power of DHB to deal with trust land
     
-*   (1) Subject to subsections (2) to (6) and to [clause 43][91] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, the powers of a DHB to sell, exchange, mortgage, or charge land may be exercised by that DHB in respect of land held in trust for any purpose, despite the terms of that trust.
+*   (1) Subject to subsections (2) to (6) and to [clause 43][93] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, the powers of a DHB to sell, exchange, mortgage, or charge land may be exercised by that DHB in respect of land held in trust for any purpose, despite the terms of that trust.
     
     (2) The proceeds of any sale effected pursuant to subsection (1), and the land or money obtained by any exchange effected pursuant to subsection (1), are to be subject, so far as may be practicable, to the same trusts as the land so disposed of, or to any similar trusts that the Attorney-General may approve.
     
@@ -658,7 +656,7 @@ Title
     
     Compare: 1983 No 134 ss 75, 77(3)
     
-    Section 11A: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11A: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11B Power of Minister of Health to cancel Crown endowment
     
@@ -668,7 +666,7 @@ Title
         
     *   (a) ceases to be subject to the Crown endowment; and
     
-    *   (b) subject to [clause 43][91] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by the DHB free from the terms of the Crown endowment.
+    *   (b) subject to [clause 43][93] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, may be sold, exchanged, mortgaged, charged, or otherwise dealt with by the DHB free from the terms of the Crown endowment.
     
     (3) The Attorney-General may declare any land vested in a DHB to be Crown endowment land for the purposes of subsection (1) even if either or both of the following applies:
         
@@ -676,7 +674,7 @@ Title
     
     *   (b) it is uncertain whether the land is Crown endowment land.
     
-    Section 11B: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11B: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11C Power of DHB to apply proceeds of sale of Crown endowment land
     
@@ -694,13 +692,13 @@ Title
     
     *   (b) it is uncertain whether the land sold was Crown endowment land.
     
-    Section 11C: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11C: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11D Saving in respect of Charitable Trusts Act 1957
     
-*   Nothing in this Act prevents a DHB from exercising the rights conferred on trustees by [Part 3][93] of the Charitable Trusts Act 1957\.
+*   Nothing in this Act prevents a DHB from exercising the rights conferred on trustees by [Part 3][95] of the Charitable Trusts Act 1957\.
     
-    Section 11D: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11D: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11E Health sector reserves
     
@@ -710,7 +708,7 @@ Title
     
     (3) Every health sector reserve may be transferred under this Act to any transferee, whether or not the transferee is in the health and disability sector.
     
-    (4) Every transferee to whom a health sector reserve is transferred under this Act is an administering body under the [Reserves Act 1977][64] in respect of that reserve, except that neither [section 25(3)][94] of that Act nor [Part 4][95] of that Act applies to the transferee or to the reserve.
+    (4) Every transferee to whom a health sector reserve is transferred under this Act is an administering body under the [Reserves Act 1977][64] in respect of that reserve, except that neither [section 25(3)][96] of that Act nor [Part 4][97] of that Act applies to the transferee or to the reserve.
     
     (5) A transferee outside the health and disability sector to whom a health sector reserve is transferred under this Act must, as soon as practicable, promote either of the following:
         
@@ -724,7 +722,7 @@ Title
     
     *   (b) is subject to any reservations or trusts affecting that land arising from Acts (other than the [Reserves Act 1977][64] or any other Act by which the former status as a reserve was conferred or confirmed), Provincial Ordinances, wills, deeds, or other instruments; and
     
-    *   (c) is subject to [clause 3][96] of Schedule 1 if it is public work land within the meaning of that clause; and
+    *   (c) is subject to [clause 3][98] of Schedule 1 if it is public work land within the meaning of that clause; and
     
     *   (d) is subject to any valid leases, rights, easements, or interests subsisting over that land at the date of the revocation.
     
@@ -732,41 +730,41 @@ Title
     
     (8) The granting of a lease or licence under subsection (7) is subject to,---
         
-    *   (a) if granted by a publicly-owned health and disability organisation or a subsidiary of such an organisation, [clause 43][91] of Schedule 3 or [clause 28][97] of Schedule 6 of the New Zealand Public Health and Disability Act 2000, as the case may require; and
+    *   (a) if granted by a publicly-owned health and disability organisation or a subsidiary of such an organisation, [clause 43][93] of Schedule 3 or [clause 28][99] of Schedule 6 of the New Zealand Public Health and Disability Act 2000, as the case may require; and
     
-    *   (b) if granted by a transferee that is not a publicly-owned health and disability organisation or a subsidiary of such an organisation, [clause 43][91] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, as if that clause applied, with all necessary modifications, to the transferee.
+    *   (b) if granted by a transferee that is not a publicly-owned health and disability organisation or a subsidiary of such an organisation, [clause 43][93] of Schedule 3 of the New Zealand Public Health and Disability Act 2000, as if that clause applied, with all necessary modifications, to the transferee.
     
     (9) Any payment under a lease or licence over a health sector reserve may be paid to the transferee in whom the reserve is vested, and may be applied for the purposes of the transferee.
     
     (10) To avoid any doubt, nothing in this Act permits the Minister to alter the status of a health sector reserve without complying with all processes required by the [Reserves Act 1977][64], including the processes under that Act that require changes in status to be approved by the Minister of Conservation.
     
-    Section 11E: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11E: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11F Saving in respect of Public Works Act 1981
     
-*   Nothing in [sections 11A to 11E][17] limits the application of [clause 3][96] of Schedule 1 to land to which that clause applies.
+*   Nothing in [sections 11A to 11E][17] limits the application of [clause 3][98] of Schedule 1 to land to which that clause applies.
     
-    Section 11F: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11F: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11G Saving in respect of Waikato Raupatu Claims Settlement Act 1995 and Ngāi Tahu Claims Settlement Act 1998
     
 *   Nothing in [sections 11A to 11E][17] limits the application of---
         
-    *   (a) [section 11][98] of the Waikato Raupatu Claims Settlement Act 1995; or
+    *   (a) [section 11][100] of the Waikato Raupatu Claims Settlement Act 1995; or
     
-    *   (b) [Part 9][99] of the Ngāi Tahu Claims Settlement Act 1998\.
+    *   (b) [Part 9][101] of the Ngāi Tahu Claims Settlement Act 1998\.
     
-    Section 11G: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11G: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 11H Part 4A of Conservation Act 1987
     
-*   (1) Subject to subsections (2) to (5), the provisions of [Part 4A][100] of the Conservation Act 1987 apply, with all necessary modifications, in relation to every sale or other disposition of land by a transferee as if that disposition of land were a sale or other disposition of land by the Crown.
+*   (1) Subject to subsections (2) to (5), the provisions of [Part 4A][102] of the Conservation Act 1987 apply, with all necessary modifications, in relation to every sale or other disposition of land by a transferee as if that disposition of land were a sale or other disposition of land by the Crown.
     
-    (2) The provisions of [Part 4A][100] of the Conservation Act 1987 do not apply in relation to any sale or other disposition of land by a transferee if the land sold or otherwise disposed of---
+    (2) The provisions of [Part 4A][102] of the Conservation Act 1987 do not apply in relation to any sale or other disposition of land by a transferee if the land sold or otherwise disposed of---
         
     *   (a) is land that,---
             
-        *   (i) before being transferred to, or vested in, the transferee under this Act or the [New Zealand Public Health and Disability Act 2000][101], had been given to the Crown, a DHB, or any predecessors in title of a DHB; and
+        *   (i) before being transferred to, or vested in, the transferee under this Act or the [New Zealand Public Health and Disability Act 2000][103], had been given to the Crown, a DHB, or any predecessors in title of a DHB; and
         
         *   (ii) is being sold or disposed of to the donor of the land or to the successor of the donor of the land (being the person who would have been entitled to the land under the will or intestacy of the donor had the donor owned the land at the date of the donor's death); or
         
@@ -774,7 +772,7 @@ Title
     
     *   (b) is land acquired by the transferee other than land acquired by virtue of---
             
-        *   (i) the operation of [section 95][102] of the New Zealand Public Health and Disability Act 2000; or
+        *   (i) the operation of [section 95][104] of the New Zealand Public Health and Disability Act 2000; or
         
         *   (ii) a transfer under this Act; or
         
@@ -782,21 +780,21 @@ Title
     
     *   (c) is land being transferred to or vested in the Crown.
     
-    (3) Despite subsection (1), the Registrar-General of Land is not obliged to take any action under [section 24D][103] of the Conservation Act 1987 upon the registration of any disposition by a transferee of any land under the [Land Transfer Act 1952][79] unless a certificate complying with subsection (4) is lodged with the instrument by which the disposition is being effected.
+    (3) Despite subsection (1), the Registrar-General of Land is not obliged to take any action under [section 24D][105] of the Conservation Act 1987 upon the registration of any disposition by a transferee of any land under the [Land Transfer Act 1952][81] unless a certificate complying with subsection (4) is lodged with the instrument by which the disposition is being effected.
     
     (4) The certificate required by subsection (3) must---
         
     *   (a) be signed by the chief executive of the transferee by which the disposition is being effected; and
     
-    *   (b) certify that the disposition is one to which [Part 4A][100] of the Conservation Act 1987 applies; and
+    *   (b) certify that the disposition is one to which [Part 4A][102] of the Conservation Act 1987 applies; and
     
-    *   (c) state the action that the Registrar-General of Land is required to take under [section 24D][103] of the Conservation Act 1987 upon the registration of that disposition; and
+    *   (c) state the action that the Registrar-General of Land is required to take under [section 24D][105] of the Conservation Act 1987 upon the registration of that disposition; and
     
-    *   (d) specify the certificate of title upon which the Registrar-General of Land is to record the statements required by [section 24D][103] of the Conservation Act 1987\.
+    *   (d) specify the certificate of title upon which the Registrar-General of Land is to record the statements required by [section 24D][105] of the Conservation Act 1987\.
     
-    (5) Nothing in this section limits the provisions of [clause 6][104] of Schedule 1\.
+    (5) Nothing in this section limits the provisions of [clause 6][106] of Schedule 1\.
     
-    Section 11H: inserted, on 1 January 2001, by [section 10][92] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 11H: inserted, on 1 January 2001, by [section 10][94] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 #### Transfer of employees
 
@@ -856,57 +854,57 @@ Title
     
     *   (c) the transferor was, immediately before that date, a corporate contributor to that scheme,---
     
-    the transferee shall on and from that date be obliged to contribute to that scheme in respect of that employee in accordance with the terms of the scheme and shall be deemed to be a local authority for the purposes of [section 40][105] of the National Provident Fund Restructuring Act 1990\.
+    the transferee shall on and from that date be obliged to contribute to that scheme in respect of that employee in accordance with the terms of the scheme and shall be deemed to be a local authority for the purposes of [section 40][107] of the National Provident Fund Restructuring Act 1990\.
 
 ##### 15 Application of Government Superannuation Fund Act 1956
     
-*   (1) For the purposes of the [Government Superannuation Fund Act 1956][106], a person who, at any time before 31 March 1994, becomes an employee of a transferee and who, immediately before becoming such an employee, was an officer or employee of a transferor and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person continues to be employed by a transferee, be deemed to be employed in the Government service and that Act shall be deemed to apply to that person as if service with the transferee were Government service.
+*   (1) For the purposes of the [Government Superannuation Fund Act 1956][108], a person who, at any time before 31 March 1994, becomes an employee of a transferee and who, immediately before becoming such an employee, was an officer or employee of a transferor and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person continues to be employed by a transferee, be deemed to be employed in the Government service and that Act shall be deemed to apply to that person as if service with the transferee were Government service.
     
-    (2) Subject to the [Government Superannuation Fund Act 1956][106], nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
+    (2) Subject to the [Government Superannuation Fund Act 1956][108], nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has ceased to be a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][106], in accordance with subsection (1), to a person who is in the service of a transferee and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the chief executive of the transferee.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][108], in accordance with subsection (1), to a person who is in the service of a transferee and is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the chief executive of the transferee.
 
 #### Residual Health Management Unit
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 January 2001, pursuant to [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+*   Heading: repealed, on 1 January 2001, pursuant to [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 16 Establishment of Unit
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 16: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 17 Functions of Unit
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 17: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 18 Board of Unit
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 18: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 19 Unit to be Crown entity
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 19: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 20 Directions
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 20: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 21 Further provisions applying to Unit
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 21: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 #### Abolition of area health boards
 
@@ -914,27 +912,27 @@ Title
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 January 2001, by [section 11][107] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Section 22: repealed, on 1 January 2001, by [section 11][109] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 23 Repeal of enactments relating to area health boards
     
-*   (1) The enactments specified in [Part 1][108] of Schedule 5 are hereby repealed.
+*   (1) The enactments specified in [Part 1][110] of Schedule 5 are hereby repealed.
     
-    (2) The orders and the determination specified in [Part 2][109] of Schedule 5 are hereby revoked.
+    (2) The orders and the determination specified in [Part 2][111] of Schedule 5 are hereby revoked.
 
 #### Amendments to Social Security Act 1964
 
 ##### 24 Repeal of Part 2 of Social Security Act 1964
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][110]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][112]_.
     
-    (2) The enactments specified in [Part 3][111] of Schedule 5 are hereby repealed.
+    (2) The enactments specified in [Part 3][113] of Schedule 5 are hereby repealed.
     
-    (3) The enactments specified in [Part 4][112] of Schedule 5 are hereby revoked.
+    (3) The enactments specified in [Part 4][114] of Schedule 5 are hereby revoked.
     
     (4) \[Repealed\]
     
-    Section 24(4): repealed, on 1 January 1995, by [section 19][113] of the Patents Amendment Act 1994 (1994 No 122).
+    Section 24(4): repealed, on 1 January 1995, by [section 19][115] of the Patents Amendment Act 1994 (1994 No 122).
 
 ##### 25 Regulations
     
@@ -944,25 +942,25 @@ Title
     
     *   (b) defining classes of services or persons for the purposes of any regulations made under this section, which classes may be defined by reference to such criteria, circumstances, or matters as are specified in the regulations, including, but not by way of limitation, the income of the persons:
     
-    *   (c) prescribing transitional and savings provisions relating to the coming into force of [section 24][41]; and, without limiting the generality of paragraphs (a) and (b) of this subsection, any such regulations may provide that, together with such amendments or additions (if any) as are specified in the regulations, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of [Part 2][110] of the Social Security Act 1964, or of the enactments specified in [Part 3][111] or [Part 4][112] of Schedule 5 of this Act shall continue to apply, in respect of any specified persons or class of persons.
+    *   (c) prescribing transitional and savings provisions relating to the coming into force of [section 24][41]; and, without limiting the generality of paragraphs (a) and (b) of this subsection, any such regulations may provide that, together with such amendments or additions (if any) as are specified in the regulations, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of [Part 2][112] of the Social Security Act 1964, or of the enactments specified in [Part 3][113] or [Part 4][114] of Schedule 5 of this Act shall continue to apply, in respect of any specified persons or class of persons.
     
     (2) Before making any recommendation that regulations be made under subsection (1)(a), the Minister shall consult as to the principal contents of the proposed regulations with such persons, or representatives of the persons or classes of persons to be specified in the regulations, as the Minister thinks fit.
 
 #### Amendments to Disabled Persons Community Welfare Act 1975
     
-*   Heading: repealed, on 1 October 2004, pursuant to [section 59(1)][114] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+*   Heading: repealed, on 1 October 2004, pursuant to [section 59(1)][116] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 ##### 26 Amendments to Disabled Persons Community Welfare Act 1975
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 October 2004, by [section 59(1)][114] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 26: repealed, on 1 October 2004, by [section 59(1)][116] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 #### Amendments to Public Finance Act 1989
 
 ##### 27 Amendments to Public Finance Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][115]_.
+*   _Amendment(s) incorporated in the [Act(s)][117]_.
 
 #### Amendments to Building Act 1991
 
@@ -976,25 +974,25 @@ Title
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 6 July 1994, by [section 2(6)][116] of the Finance Act 1994 (1994 No 73).
+    Section 29: repealed, on 6 July 1994, by [section 2(6)][118] of the Finance Act 1994 (1994 No 73).
 
 #### Amendments to Ombudsmen Act 1975
 
 ##### 30 Amendments to Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][117]_
+*   _Amendment(s) incorporated in the [Act(s)][119]_
 
 #### Amendment to Dental Act 1988
 
 \[Repealed\]
     
-*   Heading: repealed, on 18 September 2004, by [section 175(4)][118] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Heading: repealed, on 18 September 2004, by [section 175(4)][120] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 31 New sections substituted
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 18 September 2004, by [section 175(4)][118] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 31: repealed, on 18 September 2004, by [section 175(4)][120] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 #### Amendments to other Acts
 
@@ -1047,13 +1045,13 @@ Provisions relating to transfer of assets and liabilities
     
 *   (1) In this clause, _public work land_ means any land or interest in land owned by a transferee that---
         
-    *   (a) on 10 May 1993 was subject to [sections 40 to 42][119] of the Public Works Act 1981; and
+    *   (a) on 10 May 1993 was subject to [sections 40 to 42][121] of the Public Works Act 1981; and
     
     *   (b) has on 1 or more occasions been transferred by or under this Act.
     
-    (2) [Sections 40 to 42][119] of the Public Works Act 1981 do not apply to any public work land so long as the land---
+    (2) [Sections 40 to 42][121] of the Public Works Act 1981 do not apply to any public work land so long as the land---
         
-    *   (a) is held by a transferee (regardless of whether or not those purposes are the purposes for which the land was acquired under the [Public Works Act 1981][120] or under any corresponding former Act)---
+    *   (a) is held by a transferee (regardless of whether or not those purposes are the purposes for which the land was acquired under the [Public Works Act 1981][122] or under any corresponding former Act)---
             
         *   (i) for the purposes of the transferee; or
         
@@ -1067,35 +1065,35 @@ Provisions relating to transfer of assets and liabilities
     
     *   (c) is held under a lease or licence granted by a transferee to any person other than a transferee for health-related purposes or, with the consent of the Minister, for any other purpose.
     
-    (3) If any public work land is not held or transferred in accordance with subclause (2), [sections 40][119] and [41][121] of the Public Works Act 1981 apply as if the land were owned by the Crown. However, the proceeds of any sale of the land must nevertheless be applied for the purposes of the transferee that, immediately before the sale, owned the land.
+    (3) If any public work land is not held or transferred in accordance with subclause (2), [sections 40][121] and [41][123] of the Public Works Act 1981 apply as if the land were owned by the Crown. However, the proceeds of any sale of the land must nevertheless be applied for the purposes of the transferee that, immediately before the sale, owned the land.
     
     (4) When subclause (3) applies to any public work land, the transferee that owns the land may, subject to subclause (5), sell or otherwise dispose of the land to any person on any terms or conditions it thinks fit if,---
         
-    *   (a) within 40 working days following an offer made, under [section 40(2)][119] of the Public Works Act 1981 (or such further period as the transferee allows), the parties have neither agreed on a price for the land nor agreed that the price be determined by the Land Valuation Tribunal; or
+    *   (a) within 40 working days following an offer made, under [section 40(2)][121] of the Public Works Act 1981 (or such further period as the transferee allows), the parties have neither agreed on a price for the land nor agreed that the price be determined by the Land Valuation Tribunal; or
     
-    *   (b) an offer under [section 40][119] of that Act in respect of the land is not required.
+    *   (b) an offer under [section 40][121] of that Act in respect of the land is not required.
     
-    (5) A transferee and a person who is entitled, or may become entitled, to receive an offer under [section 40(2)][119] of the Public Works Act 1981 in respect of any public work land may agree that the sale of the land is to be subject to any terms and conditions, including, for example, a term or condition entitling the transferee to lease the land.
+    (5) A transferee and a person who is entitled, or may become entitled, to receive an offer under [section 40(2)][121] of the Public Works Act 1981 in respect of any public work land may agree that the sale of the land is to be subject to any terms and conditions, including, for example, a term or condition entitling the transferee to lease the land.
     
-    (6) An agreement under subclause (5), in relation to any public work land with a person who is entitled, or may become entitled, to receive an offer under [section 40(2)][119] of the Public Works Act 1981 in respect of that land, extinguishes the person's entitlement or prospective entitlement under that section in respect of the land.
+    (6) An agreement under subclause (5), in relation to any public work land with a person who is entitled, or may become entitled, to receive an offer under [section 40(2)][121] of the Public Works Act 1981 in respect of that land, extinguishes the person's entitlement or prospective entitlement under that section in respect of the land.
     
-    Schedule 1 clause 3: substituted, on 1 January 2001, by [section 12][122] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
+    Schedule 1 clause 3: substituted, on 1 January 2001, by [section 12][124] of the Health Sector (Transfers) Amendment Act 2000 (2000 No 92).
 
 ##### 4 Obligation to lodge caveat
     
-*   (1) Where land or an interest in land is transferred to a transferee under this Act or by another transferee, the transferee shall, for the purpose of protecting the rights of persons to have that land or interest offered to them under [section 40(2)][119] of the Public Works Act 1981, lodge an appropriate caveat under the [Land Transfer Act 1952][79], and this clause shall be sufficient authority for the lodging of such a caveat.
+*   (1) Where land or an interest in land is transferred to a transferee under this Act or by another transferee, the transferee shall, for the purpose of protecting the rights of persons to have that land or interest offered to them under [section 40(2)][121] of the Public Works Act 1981, lodge an appropriate caveat under the [Land Transfer Act 1952][81], and this clause shall be sufficient authority for the lodging of such a caveat.
     
-    (2) For the purposes of this clause, the rights of persons to have land or an interest in land offered to them under [section 40(2)][119] of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of [section 137][123] of the Land Transfer Act 1952\.
+    (2) For the purposes of this clause, the rights of persons to have land or an interest in land offered to them under [section 40(2)][121] of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of [section 137][125] of the Land Transfer Act 1952\.
     
-    (3) In stating, in a caveat lodged under subclause (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of [section 138][124] of the Land Transfer Act 1952, to refer to [sections 40 to 42][119] of the Public Works Act 1981 and to this clause.
+    (3) In stating, in a caveat lodged under subclause (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of [section 138][126] of the Land Transfer Act 1952, to refer to [sections 40 to 42][121] of the Public Works Act 1981 and to this clause.
 
 ##### 5 Transfer of land not to constitute a subdivision or development
     
-*   Nothing in [section 11][125] or [Part 10][126] of the Resource Management Act 1991 or [section 348][127] of the Local Government Act 1974 applies to the transfer of land or an interest in land to a transferee under this Act or by another transferee.
+*   Nothing in [section 11][127] or [Part 10][128] of the Resource Management Act 1991 or [section 348][129] of the Local Government Act 1974 applies to the transfer of land or an interest in land to a transferee under this Act or by another transferee.
 
 ##### 6 Marginal strips
     
-*   Nothing in [Part 4A][100] of the Conservation Act 1987 shall apply to the disposition of any land by the transferring Ministers on behalf of a transferor other than the Crown.
+*   Nothing in [Part 4A][102] of the Conservation Act 1987 shall apply to the disposition of any land by the transferring Ministers on behalf of a transferor other than the Crown.
 
 ##### 7 Land Settlement Promotion and Land Acquisition Act 1952 not to apply
     
@@ -1103,7 +1101,7 @@ Provisions relating to transfer of assets and liabilities
 
 ##### 8 Uses deemed to be permitted activity
     
-*   Where any land is transferred to a transferee under this Act, the use of that land which is established at the date of the transfer shall be deemed to be a permitted activity under the [Resource Management Act 1991][128] until the next completion of the review of the district plan or appropriate part of the district plan, and thereafter the status of that use shall be as provided from time to time in or under the district plan.
+*   Where any land is transferred to a transferee under this Act, the use of that land which is established at the date of the transfer shall be deemed to be a permitted activity under the [Resource Management Act 1991][130] until the next completion of the review of the district plan or appropriate part of the district plan, and thereafter the status of that use shall be as provided from time to time in or under the district plan.
 
 ##### 9 Title to land
     
@@ -1115,7 +1113,7 @@ Provisions relating to transfer of assets and liabilities
     
     (2) The powers conferred by subclause (1) may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
     
-    (3) A District Land Registrar shall, on written application by any person authorised by the Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a transferee in accordance with [clause 10(1)][69] of this schedule in form 1 of [Schedule 1][129] of the Land Transfer Act 1952, amended as appropriate.
+    (3) A District Land Registrar shall, on written application by any person authorised by the Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a transferee in accordance with [clause 10(1)][69] of this schedule in form 1 of [Schedule 1][131] of the Land Transfer Act 1952, amended as appropriate.
     
     (4) As soon as registration is accomplished in accordance with subclause (1) or a certificate of title is issued in accordance with subclause (3), the transferee shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seized of an estate in fee simple in possession in respect of that land.
     
@@ -1123,7 +1121,7 @@ Provisions relating to transfer of assets and liabilities
 
 ##### 10 Transfer of Crown land
     
-*   (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the [Land Act 1948][130] and any lands of the Crown other than lands registered under the [Land Transfer Act 1952][79] that are to be vested in a transferee pursuant to this Act shall---
+*   (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the [Land Act 1948][132] and any lands of the Crown other than lands registered under the [Land Transfer Act 1952][81] that are to be vested in a transferee pursuant to this Act shall---
         
     *   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this clause by that Chief Surveyor); and
     
@@ -1139,11 +1137,11 @@ Provisions relating to transfer of assets and liabilities
     
     (2) Every notice given under subclause (1)(b)(iii) may be given on such terms and conditions as the Minister or a person authorised in writing by the Minister, as the case may be, thinks fit, and shall have effect according to its tenor.
     
-    (3) Nothing in this Act or in any transfer of land to a transferee under this Act shall derogate from the provisions of [section 10][131] or [section 11][132] of the Crown Minerals Act 1991\.
+    (3) Nothing in this Act or in any transfer of land to a transferee under this Act shall derogate from the provisions of [section 10][133] or [section 11][134] of the Crown Minerals Act 1991\.
 
 ##### 11 Land certification
     
-*   (1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a transferee under [clause 10][69] of this schedule, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in [Schedule 2][133] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
+*   (1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a transferee under [clause 10][69] of this schedule, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in [Schedule 2][135] of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
     
     (2) A certificate in accordance with subclause (1) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in that certificate.
     
@@ -1151,11 +1149,11 @@ Provisions relating to transfer of assets and liabilities
 
 ##### 12 Certification of easements
     
-*   (1) Where land is vested in a transferee under [clause 10][69] of this schedule subject to the reservation of or together with any easement, not being an easement previously registered under the [Land Transfer Act 1952][79], the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under [clause 11(1)][134] of this schedule a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+*   (1) Where land is vested in a transferee under [clause 10][69] of this schedule subject to the reservation of or together with any easement, not being an easement previously registered under the [Land Transfer Act 1952][81], the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under [clause 11(1)][136] of this schedule a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
     
     (2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
     
-    (3) Where a memorial of an easement is entered upon the relevant certificate of title under subclause (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the [Land Transfer Act 1952][79].
+    (3) Where a memorial of an easement is entered upon the relevant certificate of title under subclause (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the [Land Transfer Act 1952][81].
     
     Schedule 1 clause 12(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
 
@@ -1204,7 +1202,7 @@ Amendments to Disabled Persons Community Welfare Act 1975
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 October 2004, by [section 59(1)][114] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+*   Schedule 2: repealed, on 1 October 2004, by [section 59(1)][116] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 ---
 
@@ -1224,15 +1222,15 @@ Other enactments amended
 
 ##### Alcoholic Liquor Advisory Council Act 1976 (1976 No 143) (RS Vol 26, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][135]._
+_Amendment(s) incorporated in the [Act(s)][137]._
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97) (RS Vol 17, p 13)
 
-_Amendment(s) incorporated in the [Act(s)][136]._
+_Amendment(s) incorporated in the [Act(s)][138]._
 
 ##### Burial and Cremation Act 1964 (1964 No 75) (RS Vol 16, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][137]._
+_Amendment(s) incorporated in the [Act(s)][139]._
 
 ##### Children's Health Camps Act 1972 (1972 No 21) (RS Vol 24, p 97)
 
@@ -1248,7 +1246,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Contraception, Sterilisation, and Abortion Act 1977 (1977 No 112) (RS Vol 28, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][138]._
+_Amendment(s) incorporated in the [Act(s)][140]._
 
 ##### Dental Act 1988 (1988 No 150)
 
@@ -1264,11 +1262,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) (RS Vol 6, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][139]._
+_Amendment(s) incorporated in the [Act(s)][141]._
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Health Benefits (Reciprocity with Australia) Act 1986 (1986 No 30)
 
@@ -1276,15 +1274,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Health Benefits (Reciprocity with the United Kingdom) Act 1982 (1982 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][141]._
+_Amendment(s) incorporated in the [Act(s)][143]._
 
 ##### Health Research Council Act 1990 (1990 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][142]._
+_Amendment(s) incorporated in the [Act(s)][144]._
 
 ##### Human Tissue Act 1964 (1964 No 19) (RS Vol 16, p 169)
 
-_Amendment(s) incorporated in the [Act(s)][143],_
+_Amendment(s) incorporated in the [Act(s)][145],_
 
 ##### Income Tax Act 1976 (1976 No 65) (RS Vol 12, p 1)
 
@@ -1296,7 +1294,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147) (RS Vol 24, p 463)
 
-_Amendment(s) incorporated in the [Act(s)][144]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Local Elections and Polls Act 1976 (1976 No 144) (RS Vol 28, p 683)
 
@@ -1304,15 +1302,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 25, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][145]._
+_Amendment(s) incorporated in the [Act(s)][147]._
 
 ##### Local Government Amendment Act 1979 (1979 No 59) (RS Vol 25, p 609)
 
-_Amendment(s) incorporated in the [Act(s)][146]._
+_Amendment(s) incorporated in the [Act(s)][148]._
 
 ##### Local Government Official Information and Meetings Act 1987 (1987 No 174)
 
-_Amendment(s) incorporated in the [Act(s)][147]._
+_Amendment(s) incorporated in the [Act(s)][149]._
 
 ##### Maternal Mortality Research Act 1968 (1968 No 26) (RS Vol 17, p 321)
 
@@ -1328,15 +1326,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][148]._
+_Amendment(s) incorporated in the [Act(s)][150]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][149]._
+_Amendment(s) incorporated in the [Act(s)][151]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][150]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Nurse Maude District Nursing Association Act 1967 (1967 No 1 (P))
 
@@ -1392,11 +1390,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98) (RS Vol 27, p 795)
 
-_Amendment(s) incorporated in the [Act(s)][151] ._
+_Amendment(s) incorporated in the [Act(s)][153] ._
 
 ##### Radiation Protection Act 1965 (1965 No 23) (RS Vol 18, p 673)
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][154]._
 
 ##### Rating Powers Act 1988 (1988 No 97)
 
@@ -1408,11 +1406,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][155]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][154]._
+_Amendment(s) incorporated in the [Act(s)][156]._
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -1420,7 +1418,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Tuberculosis Act 1948 (1948 No 36) (RS Vol 11, p 693)
 
-_Amendment(s) incorporated in the[Act(s)][155]._
+_Amendment(s) incorporated in the[Act(s)][157]._
 
 ---
 
@@ -1514,7 +1512,7 @@ Repeals relating to Social Security Act 1964
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][156]._
+_Amendment(s) incorporated in the [Act(s)][158]._
 
 ##### Nurses Amendment Act 1990 (1990 No 107)
 
@@ -1538,21 +1536,21 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Amendment Act 1972 (1972 No 133) (RS Vol 13, p 571)
 
-_Amendment(s) incorporated in the [Act(s)][157]._
+_Amendment(s) incorporated in the [Act(s)][159]._
 
 ##### Social Security Amendment Act 1973 (1973 No 34) (RS Vol 13, p 575)
 
-_Amendment(s) incorporated in the [Act(s)][158]._
+_Amendment(s) incorporated in the [Act(s)][160]._
 
 ##### Social Security Amendment Act 1975 (1975 No 123) (RS Vol 13, p 580)
 
-_Amendment(s) incorporated in the [Act(s)][159]._
+_Amendment(s) incorporated in the [Act(s)][161]._
 
 ##### Social Security Amendment Act 1977 (1977 No 120) (RS Vol 13, p 587)
 
 ##### Social Security Amendment Act (No 2) 1977 (1977 No 133) (RS Vol 13, p 590)
 
-_Amendment(s) incorporated in the [Act(s)][160]._
+_Amendment(s) incorporated in the [Act(s)][162]._
 
 ##### Social Security Amendment Act 1979 (1979 No 14) (RS Vol 13, p 596)
 
@@ -1568,17 +1566,17 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Amendment Act 1982 (1982 No 16) (RS Vol 13, p 607)
 
-_Amendment(s) incorporated in the [Act(s)][161]._
+_Amendment(s) incorporated in the [Act(s)][163]._
 
 ##### Social Security Amendment Act (No 2) 1984 (1984 No 19)
 
 ##### Social Security Amendment Act 1986 (1986 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][162]._
+_Amendment(s) incorporated in the [Act(s)][164]._
 
 ##### Social Security Amendment Act (No 2) 1990 (1990 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][163]._
+_Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### Social Security Amendment Act (No 3) 1991 (1991 No 83)
 
@@ -1745,7 +1743,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Health Sector (Transfers) Amendment Act 2000][164].
+*   (1) This Act is the [Health Sector (Transfers) Amendment Act 2000][166].
     
     (2) In this Act, the Act known before the commencement of this Act as the Health Reforms (Transitional Provisions) Act 1993 is called ""the principal Act"".
 
@@ -1769,99 +1767,58 @@ Commencementsee section 2
     
 *   Before the commencement of section 5, an Order in Council, under section 5 of the principal Act, may be made as if section 2 of the principal Act had been amended by section 5, but no proposal approved by such an Order in Council may take effect before the commencement of section 5\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Health Sector (Transfers) Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][165] ![](/images/external_link.gif).
+*   This is a reprint of the Health Sector (Transfers) Act 1993 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][166] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][167] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][168] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][167] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][169] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][170] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 5 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][168] and [17E][169] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][80]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][74], [34][71]
+    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][74], [34][71]
     
     New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118): [section 29][75]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][86]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][88]
     
     New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63): [section 5(2)][76]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][118]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][120]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][90]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][92]
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 59(1)][114]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 59(1)][116]
     
-    [Health Sector (Transfers) Amendment Act 2000][164] (2000 No 92)
+    [Health Sector (Transfers) Amendment Act 2000][166] (2000 No 92)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][73]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][85]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][87]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    Patents Amendment Act 1994 (1994 No 122): [section 19][113]
+    Patents Amendment Act 1994 (1994 No 122): [section 19][115]
     
-    Finance Act 1994 (1994 No 73): [section 2(6)][116]
+    Finance Act 1994 (1994 No 73): [section 2(6)][118]
 
 
 
 [0]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83573
-[1]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM294918
 [3]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM294920
 [4]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM294922
@@ -1938,95 +1895,96 @@ Commencementsee section 2
 [75]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2901052
 [76]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM348477
 [77]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83593
-[78]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM195534
-[79]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM269031
-[80]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83595
-[81]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM385591
-[82]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM81034
-[83]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1512414
-[84]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1514649
-[85]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM29377
-[86]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1523176
-[87]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83596
-[88]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83597
-[89]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM308795
-[90]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM124529
-[91]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM82516
-[92]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83598
-[93]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM309953
-[94]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM444648
-[95]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM444919
-[96]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295186
-[97]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83104
-[98]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM370561
-[99]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM429720
-[100]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM104697
-[101]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM80050
-[102]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM81621
-[103]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM104928
-[104]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295192
-[105]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM226027
-[106]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM446000
-[107]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM84608
-[108]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295779
-[109]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295780
-[110]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM364892
-[111]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295782
-[112]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295784
-[113]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM344668
-[114]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM120919
-[115]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM160808
-[116]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM332872
-[117]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM430983
-[118]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM205009
-[119]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM46055
-[120]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM45426
-[121]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM46068
-[122]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM84609
-[123]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM271228
-[124]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM271231
-[125]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM231942
-[126]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM236786
-[127]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM420676
-[128]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM230264
-[129]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM272485
-[130]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM250585
-[131]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM246310
-[132]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM246311
-[133]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM253256
-[134]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295197
-[135]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM439968
-[136]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM380084
-[137]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM355078
-[138]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM17679
-[139]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM264952
-[140]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM48686
-[141]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM66507
-[142]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM213016
-[143]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM350960
-[144]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM390002
-[145]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM415531
-[146]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM34653
-[147]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM122241
-[148]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM53789
-[149]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM262175
-[150]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM436100
-[151]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM324218
-[152]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM372538
-[153]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM223190
-[154]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM129109
-[155]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM248403
-[156]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM90400
-[157]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM408842
-[158]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM410832
-[159]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM437158
-[160]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM20979
-[161]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM59080
-[162]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM93810
-[163]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM214187
-[164]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83566
-[165]: http://www.pco.parliament.govt.nz/reprints/
-[166]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM195439
-[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[168]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM195468
-[169]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM195470
+[78]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2997643
+[79]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998573
+[80]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998633
+[81]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM269031
+[82]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83595
+[83]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM385591
+[84]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM81034
+[85]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1512414
+[86]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1514649
+[87]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM29377
+[88]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM1523176
+[89]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83596
+[90]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83597
+[91]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM308795
+[92]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM124529
+[93]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM82516
+[94]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83598
+[95]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM309953
+[96]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM444648
+[97]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM444919
+[98]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295186
+[99]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83104
+[100]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM370561
+[101]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM429720
+[102]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM104697
+[103]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM80050
+[104]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM81621
+[105]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM104928
+[106]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295192
+[107]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM226027
+[108]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM446000
+[109]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM84608
+[110]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295779
+[111]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295780
+[112]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM364892
+[113]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295782
+[114]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295784
+[115]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM344668
+[116]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM120919
+[117]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM160808
+[118]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM332872
+[119]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM430983
+[120]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM205009
+[121]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM46055
+[122]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM45426
+[123]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM46068
+[124]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM84609
+[125]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM271228
+[126]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM271231
+[127]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM231942
+[128]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM236786
+[129]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM420676
+[130]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM230264
+[131]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM272485
+[132]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM250585
+[133]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM246310
+[134]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM246311
+[135]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM253256
+[136]: http://www.legislation.govt.nz/act/public/1993/0023/latest/whole.html#DLM295197
+[137]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM439968
+[138]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM380084
+[139]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM355078
+[140]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM17679
+[141]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM264952
+[142]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM48686
+[143]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM66507
+[144]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM213016
+[145]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM350960
+[146]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM390002
+[147]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM415531
+[148]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM34653
+[149]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM122241
+[150]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM53789
+[151]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM262175
+[152]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM436100
+[153]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM324218
+[154]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM372538
+[155]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM223190
+[156]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM129109
+[157]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM248403
+[158]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM90400
+[159]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM408842
+[160]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM410832
+[161]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM437158
+[162]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM20979
+[163]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM59080
+[164]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM93810
+[165]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM214187
+[166]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM83566
+[167]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998516
+[168]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998515
+[169]: http://www.legislation.govt.nz/act/public/1993/0023/latest/link.aspx?id=DLM2998532
+[170]: http://www.pco.parliament.govt.nz/editorial-conventions/
