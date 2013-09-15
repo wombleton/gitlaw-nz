@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -94,7 +94,7 @@ An Act to amend the law relating to the payment of costs in criminal cases
     
     (2) Where on the arrest of that person any money was taken from him the court may in its discretion order the whole or any part of the money to be applied to any such payment.
     
-    (3) Where the court convicts any person and the informant or prosecutor has not prepaid any fees of court, the court may order the person convicted to pay the fees of court.
+    (3) Where the court convicts any person and the prosecutor has not prepaid any fees of court, the court may order the person convicted to pay the fees of court.
     
     (4) Any costs allowed under this section shall be specified in the conviction and may be recovered in the same manner as a fine.
     
@@ -102,15 +102,17 @@ An Act to amend the law relating to the payment of costs in criminal cases
     
     Compare: 1957 No 87 [s 72(1), (4), (6)][24]; 1961 No 43 [s 402(1), (4)][25]
     
-    Section 4(5): inserted, on 18 October 2002, by [section 20][26] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 4(3): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 4(5): amended, on 1 October 2009, by [section 162(2)][27] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 4(5): inserted, on 18 October 2002, by [section 20][27] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 4(5): amended, on 31 March 2005, by [section 414][28] of the Building Act 2004 (2004 No 72).
+    Section 4(5): amended, on 1 October 2009, by [section 162(2)][28] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    
+    Section 4(5): amended, on 31 March 2005, by [section 414][29] of the Building Act 2004 (2004 No 72).
 
 ##### 5 Costs of successful defendant
     
-*   (1) Where any defendant is acquitted of an offence or where the information charging him with an offence is dismissed or withdrawn, whether upon the merits or otherwise, or where he is discharged under [section 184F][29] of the Summary Proceedings Act 1957 the court may, subject to any regulations made under this Act, order that he be paid such sum as it thinks just and reasonable towards the costs of his defence.
+*   (1) Where any defendant is acquitted of an offence or where the charge is dismissed or withdrawn, whether upon the merits or otherwise, the court may, subject to any regulations made under this Act, order that he be paid such sum as it thinks just and reasonable towards the costs of his defence.
     
     (2) Without limiting or affecting the court's discretion under subsection (1), it is hereby declared that the court, in deciding whether to grant costs and the amount of any costs granted, shall have regard to all relevant circumstances and in particular (where appropriate) to---
         
@@ -122,21 +124,29 @@ An Act to amend the law relating to the payment of costs in criminal cases
     
     *   (d) whether generally the investigation into the offence was conducted in a reasonable and proper manner:
     
-    *   (e) whether the evidence as a whole would support a finding of guilt but the information was dismissed on a technical point:
+    *   (e) whether the evidence as a whole would support a finding of guilt but the charge was dismissed on a technical point:
     
-    *   (f) whether the information was dismissed because the defendant established (either by the evidence of witnesses called by him or by the cross-examination of witnesses for the prosecution or otherwise) that he was not guilty:
+    *   (f) whether the charge was dismissed because the defendant established (either by the evidence of witnesses called by him or by the cross-examination of witnesses for the prosecution or otherwise) that he was not guilty:
     
     *   (g) whether the behaviour of the defendant in relation to the acts or omissions on which the charge was based and to the investigation and proceedings was such that a sum should be paid towards the costs of his defence.
     
     (3) There shall be no presumption for or against the granting of costs in any case.
     
-    (4) No defendant shall be granted costs under this section by reason only of the fact that he has been acquitted or discharged or that any information charging him with an offence has been dismissed or withdrawn.
+    (4) No defendant shall be granted costs under this section by reason only of the fact that he has been acquitted or that any charge has been dismissed or withdrawn.
     
     (5) No defendant shall be refused costs under this section by reason only of the fact that the proceedings were properly brought and continued.
     
     Compare: 1957 No 87 [s 72(2)][24]; 1961 No 43 [s 402(3)][25]
     
+    Section 5(1): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 5(1): amended, on 29 June 2009, by [section 18][30] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    
+    Section 5(2)(e): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5(2)(f): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5(4): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Costs of convicted defendant
     
@@ -148,7 +158,7 @@ An Act to amend the law relating to the payment of costs in criminal cases
         
     *   (a) if the prosecution was conducted by or on behalf of the Crown, be paid by the chief executive of the Ministry of Justice out of money appropriated by Parliament for the purpose and may be recovered as a debt due by the Crown:
     
-    *   (b) if the prosecution was not conducted by or on behalf of the Crown, be paid by the informant and may be recovered from him as a debt, and any such order made by a District Court shall be enforceable as if it were an order made under [Part 2][31] of the Summary Proceedings Act 1957\.
+    *   (b) if the prosecution was not conducted by or on behalf of the Crown, be paid by the person who commenced the proceedings and may be recovered from him as a debt, and any such order made by a District Court shall be enforceable as if it were a fine.
     
     (2) Notwithstanding the provisions of subsection (1) where a court is of the opinion that any person has acted negligently or in bad faith in bringing, continuing, or conducting a prosecution it may, in any order made under [section 5][6], direct that the defendant's costs shall be paid by---
         
@@ -160,73 +170,81 @@ An Act to amend the law relating to the payment of costs in criminal cases
     
     (3) If an order under [section 5][6] or [section 6][7] relating to the payment of costs is made in favour of a Crown organisation that was prosecuted for an offence against the Building Act 1991, the [Building Act 2004][21], the [Health and Safety in Employment Act 1992][22], or the [Resource Management Act 1991][23], those costs must be paid to that Crown organisation.
     
-    Section 7(1)(a): amended, on 1 October 2003, pursuant to [section 14(2)][32] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 7(1)(a): amended, on 1 October 2003, pursuant to [section 14(2)][31] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 7(1)(a): amended, on 1 July 1995, by [section 10(1)][33] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 7(1)(a): amended, on 1 July 1995, by [section 10(1)][32] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 7(1)(b): amended, on 1 April 1980, pursuant to [section 18(2)][34] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(1)(b): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 7(3): inserted, on 18 October 2002, by [section 21][35] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 7(1)(b): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 7(3): amended, on 1 October 2009, by [section 162(3)][27] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 7(3): inserted, on 18 October 2002, by [section 21][34] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 7(3): amended, on 31 March 2005, by [section 414][28] of the Building Act 2004 (2004 No 72).
+    Section 7(3): amended, on 1 October 2009, by [section 162(3)][28] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    
+    Section 7(3): amended, on 31 March 2005, by [section 414][29] of the Building Act 2004 (2004 No 72).
 
 ##### 8 Costs on appeals
     
-*   (1) Where any appeal is made pursuant to any provision of the [Summary Proceedings Act 1957][36] or the [Crimes Act 1961][37] the court which determines the appeal may, subject to any regulations made under this Act, make such order as to costs as it thinks fit.
+*   (1) Where any appeal is made pursuant to any provision of [Part 6][35] of the Criminal Procedure Act 2011 the court which determines the appeal may, subject to any regulations made under this Act, make such order as to costs as it thinks fit.
     
     (2) No defendant or convicted defendant shall be granted costs under this section by reason only of the fact that his appeal has been successful.
     
     (3) No defendant or convicted defendant shall be refused costs under this section by reason only of the fact that the appeal was reasonably brought and continued by another party to the proceedings.
     
-    (4) No District Court Judge or Justice or Community Magistrate who states a case in accordance with [Part 4][38] of the Summary Proceedings Act 1957 and no Judge who states a case shall be liable to costs by reason of the appeal against the determination.
+    (4) No Judge, Justice, or Community Magistrate is liable to costs just because an appeal is filed against a determination by that judicial officer.
     
     (5) If the court which determines an appeal is of opinion that the appeal includes any frivolous or vexatious matter, it may, if it thinks fit, irrespective of the result of the appeal, order that the whole or any part of the costs of any party to the proceedings in disputing the frivolous or vexatious matter shall be paid by the party who raised the frivolous or vexatious matter.
     
     (6) If the court which determines an appeal is of opinion that the appeal involves a difficult or important point of law it may order that the costs of any party to the proceedings shall be paid by any other party to the proceedings irrespective of the result of the appeal.
     
-    Compare: 1957 No 87 [s 140][39]; 1961 No 43 [s 391][40]
+    Compare: 1957 No 87 [s 140][36]; 1961 No 43 [s 391][37]
     
-    Section 8(4): amended, on 30 June 1998, by [section 7][41] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 8(1): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 8(4): amended, on 1 April 1980, pursuant to [section 18(2)][34] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8(4): replaced, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Party giving notice of appeal and not prosecuting may be ordered to pay costs
     
-*   (1) In any case where notice of appeal is given under any provision of the [Summary Proceedings Act 1957][36] or the [Crimes Act 1961][37] but the appeal is dismissed for non-prosecution or a certificate is given under [section 107][42] of the Summary Proceedings Act 1957 that the appeal has not been prosecuted, the court to which the appeal is made may, subject to any regulations made under this Act, allow the respondent such costs as it thinks fit.
+*   (1) If a notice of appeal is given under [Part 6][35] of the Criminal Procedure Act 2011 but the appeal is abandoned under that Part, the court appealed to may, subject to any regulations made under this Act, allow the respondent any costs that it thinks fit.
     
     (2) No costs incurred after notice has been given by the appellant abandoning the appeal shall be allowed.
     
-    Compare: 1957 No 87 [s 141][43]
+    Compare: 1957 No 87 [s 141][38]
+    
+    Section 9(1): replaced, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Enforcement of order as to costs made on an appeal
     
 *   (1) Where on the determination of any appeal either party is ordered to pay costs,---
         
-    *   (a) the order as to costs shall, in the case of an appeal under [Part 4][38] of the Summary Proceedings Act 1957, be included in the certificate of the decision transmitted in accordance with [section 134][44] of that Act, and, except where the party ordered to pay costs is the Crown, or a person acting for or on behalf of the Crown, be enforceable as if it were a fine imposed by the District Court:
+    *   (a) the order as to costs shall, in the case of an appeal under [Part 6][35] of the Criminal Procedure Act 2011, be included in the notice of the decision sent in accordance with [section 342][39] of that Act, and, except where the party ordered to pay costs is the Crown, or a person acting for or on behalf of the Crown, be enforceable as if it were a fine imposed by the District Court:
     
     *   (b) the amount of the costs shall be recoverable from the Crown where the party ordered to pay costs is the Crown or a person acting for or on behalf of the Crown.
     
     (2) Despite subsection (1), if, on the determination of any appeal to which a Crown organisation convicted of an offence against the Building Act 1991, the [Building Act 2004][21], the [Health and Safety in Employment Act 1992][22], or the [Resource Management Act 1991][23] is a party, the Crown organisation is ordered to pay costs, the order as to costs is enforceable as if it were a fine imposed on the Crown organisation by the District Court.
     
-    Compare: 1957 No 87 [s 142][45]
+    Compare: 1957 No 87 [s 142][40]
     
-    Section 10(1)(a): amended, on 1 April 1980, pursuant to [section 18(2)][34] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 10(1)(a): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 10(2): inserted, on 18 October 2002, by [section 22][46] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
+    Section 10(1)(a): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 10(2): amended, on 1 October 2009, by [section 162(4)][27] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    Section 10(2): inserted, on 18 October 2002, by [section 22][41] of the Crown Organisations (Criminal Liability) Act 2002 (2002 No 37).
     
-    Section 10(2): amended, on 31 March 2005, by [section 414][28] of the Building Act 2004 (2004 No 72).
+    Section 10(2): amended, on 1 October 2009, by [section 162(4)][28] of the Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31).
+    
+    Section 10(2): amended, on 31 March 2005, by [section 414][29] of the Building Act 2004 (2004 No 72).
 
 ##### 11 Order for costs made by the High Court or Court of Appeal
     
-*   Any order made by the High Court or the Court of Appeal, other than on an appeal under [Part 4][38] of the Summary Proceedings Act 1957, for the payment of costs by any person, other than the Crown, shall upon being filed in the High Court have the effect of a judgment.
+*   Any order made by the High Court or the Court of Appeal, other than on an appeal under [Part 6][35] of the Criminal Procedure Act 2011, for the payment of costs by any person, other than the Crown, shall upon being filed in the High Court have the effect of a judgment.
     
-    Section 11 heading: amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 11 heading: amended, on 1 April 1980, pursuant to [section 12][42] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 11: amended, on 1 April 1980, pursuant to [section 12][47] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 11: amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 11: amended, on 1 April 1980, pursuant to [section 12][42] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 12 Submissions and evidence
     
@@ -254,15 +272,15 @@ An Act to amend the law relating to the payment of costs in criminal cases
 
 ##### 14 Consequential amendments and repeals
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][37]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][43]._
     
     (2) The enactments specified in the [Schedule][18] are hereby repealed.
 
 ##### 15 Saving
     
-*   Nothing in this Act shall limit or affect the powers of any court under [sections 106][48] and [108][49] of the Sentencing Act 2002\.
+*   Nothing in this Act shall limit or affect the powers of any court under [sections 106][44] and [108][45] of the Sentencing Act 2002\.
     
-    Section 15: amended, on 30 June 2002, by [section 186][50] of the Sentencing Act 2002 (2002 No 9).
+    Section 15: amended, on 30 June 2002, by [section 186][46] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 16 Transitional provision
     
@@ -277,11 +295,11 @@ Enactments repealed
 
 ##### Crimes Act 1961 (1961 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][37]._
+_Amendment(s) incorporated in the [Act(s)][43]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (Reprinted 1966 Statutes, Vol 4)
 
-_Amendment(s) incorporated in the [Act(s)][36]._
+_Amendment(s) incorporated in the [Act(s)][47]._
 
 ---
 
@@ -299,23 +317,23 @@ _Amendment(s) incorporated in the [Act(s)][36]._
 
 ###### 1 General
     
-*   This is a reprint of the Costs in Criminal Cases Act 1967\. The reprint incorporates all the amendments to the Act as at 1 October 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Costs in Criminal Cases Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][51] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][52] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][53] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][54] and [17E][55] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -346,25 +364,27 @@ _Amendment(s) incorporated in the [Act(s)][36]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 162][27]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
+    
+    Resource Management (Simplifying and Streamlining) Amendment Act 2009 (2009 No 31): [section 162][28]
     
     Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][30]
     
-    Building Act 2004 (2004 No 72): [section 414][28]
+    Building Act 2004 (2004 No 72): [section 414][29]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][32]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][31]
     
     Crown Organisations (Criminal Liability) Act 2002 (2002 No 37): [sections 19--22][20]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][50]
+    Sentencing Act 2002 (2002 No 9): [section 186][46]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][41]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][53]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][33]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][32]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][34]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][33]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][47]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][42]
 
 
 
@@ -394,33 +414,31 @@ _Amendment(s) incorporated in the [Act(s)][36]._
 [23]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM230264
 [24]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM311827
 [25]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM332175
-[26]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156489
-[27]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM2218816
-[28]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM309090
-[29]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM2185855
+[26]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM3360714
+[27]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156489
+[28]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM2218816
+[29]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM309090
 [30]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM1380050
-[31]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM311185
-[32]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM201378
-[33]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM367235
-[34]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM35085
-[35]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156490
-[36]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM310742
-[37]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM327381
-[38]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM312656
-[39]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313113
-[40]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM332102
-[41]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM427920
-[42]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM312658
-[43]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313115
-[44]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM312962
-[45]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313117
-[46]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156491
-[47]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM35049
-[48]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM136807
-[49]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM136810
-[50]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM137267
-[51]: http://www.pco.parliament.govt.nz/reprints/
-[52]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195439
-[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195468
-[55]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195470
+[31]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM201378
+[32]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM367235
+[33]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM35085
+[34]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156490
+[35]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM3360366
+[36]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313113
+[37]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM332102
+[38]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313115
+[39]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM3360546
+[40]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM313117
+[41]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM156491
+[42]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM35049
+[43]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM327381
+[44]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM136807
+[45]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM136810
+[46]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM137267
+[47]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM310742
+[48]: http://www.pco.parliament.govt.nz/reprints/
+[49]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195439
+[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[51]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195468
+[52]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM195470
+[53]: http://www.legislation.govt.nz/act/public/1967/0129/latest/link.aspx?id=DLM427920
