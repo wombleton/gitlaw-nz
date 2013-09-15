@@ -1,5 +1,5 @@
 Reprint  
-as at 23 January 1998
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,21 +25,21 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Crimes committed in the Ross Dependency or in certain other parts of Antarctica][4]
+[3][4][][4][Offences committed in the Ross Dependency or in certain other parts of Antarctica][4]
 
-[4][5] [Crimes committed by certain New Zealand citizens in other parts of Antarctica][5]
+[4][5][][5][Offences committed by certain New Zealand citizens in other parts of Antarctica][5]
 
-[5][6] [Restriction of jurisdiction over certain nationals of other countries][6]
+[5][6][][6][Restriction of jurisdiction over certain nationals of other countries][6]
 
-[6][7] [Certificate of Minister of Foreign Affairs and Trade to be evidence of certain facts][7]
+[6][7][][7][Certificate of Minister of Foreign Affairs and Trade to be evidence of certain facts][7]
 
-[6A][8] [Regulations for conservation of Antarctic fauna and flora][8] \[Repealed\]
+[6A][8][][8][Regulations for conservation of Antarctic fauna and flora][8] \[Repealed\]
 
-[7][9] [Saving of jurisdiction otherwise than under this Act][9]
+[7][9][][9][Saving of jurisdiction otherwise than under this Act][9]
 
 [Schedule 1][10]  
 [The Antarctic Treaty][10]
@@ -93,7 +93,7 @@ An Act to confer jurisdiction on the courts of New Zealand to deal with crimes c
     
     Section 2(1) **Treaty**: amended, on 29 October 1970, by section 3(a) of the Antarctica Amendment Act 1970 (1970 No 34).
 
-##### 3 Crimes committed in the Ross Dependency or in certain other parts of Antarctica
+##### 3 Offences committed in the Ross Dependency or in certain other parts of Antarctica
     
 *   (1) This section applies to any act done or omitted---
         
@@ -101,27 +101,43 @@ An Act to confer jurisdiction on the courts of New Zealand to deal with crimes c
     
     *   (b) in any part of Antarctica, other than the Ross Dependency, that is not within the jurisdiction of any country, by any person who is a New Zealand citizen or a person ordinarily resident in New Zealand.
     
-    (2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be a crime under any enactment, whether passed before or after the passing of this Act, he commits a crime and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
+    (2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be an offence under any enactment, whether passed before or after the passing of this Act, he commits an offence and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
     
     (3) Notwithstanding anything in any other enactment, proceedings for the trial and punishment of any person who,---
         
-    *   (a) not being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed a crime in the Ross Dependency; or
+    *   (a) not being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed an offence in the Ross Dependency; or
     
-    *   (b) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed, in the Ross Dependency, a crime on board any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft; or
+    *   (b) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed, in the Ross Dependency, an offence on board any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft; or
     
-    *   (c) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed a crime in any other part of Antarctica, otherwise than on board a New Zealand ship or a New Zealand aircraft---
+    *   (c) being a New Zealand citizen or a person ordinarily resident in New Zealand, is charged with having committed an offence in any other part of Antarctica, otherwise than on board a New Zealand ship or a New Zealand aircraft---
     
     shall not, by virtue only of the provisions of this Act, be instituted in any court except with the consent of the Attorney-General and on his certificate that it is expedient that the proceedings should be instituted:
     
-    provided that a person so charged may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the crime has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
+    provided that a person so charged may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the institution of a prosecution for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
+    
+    Section 3 heading: amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(2): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(3)(a): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(3)(b): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(3)(c): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 3(3) proviso: amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 4 Crimes committed by certain New Zealand citizens in other parts of Antarctica
+##### 4 Offences committed by certain New Zealand citizens in other parts of Antarctica
     
 *   (1) This section applies to any act done or omitted in any part of Antarctica, other than the Ross Dependency, that is within the jurisdiction of any country by any New Zealand citizen who is an observer or exchanged scientist or a member of the staff accompanying any observer or exchanged scientist, while he is in that part of Antarctica for the purpose of exercising his functions.
     
-    (2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be a crime under any enactment, whether passed before or after the commencement of this section, he commits a crime and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
+    (2) Subject to the provisions of this Act, where any person does or omits any act to which this section applies, and that act or omission would, if it occurred in New Zealand, be an offence under any enactment, whether passed before or after the commencement of this section, he commits an offence and is liable to be proceeded against and punished in the same manner in all respects as if the act or omission had occurred in New Zealand; and the courts of New Zealand shall have jurisdiction accordingly.
     
     (3) The provisions of subsection (3) of [section 3][4], so far as they are applicable, shall apply to proceedings for the trial and punishment of any person in respect of any act or omission to which this section applies.
+    
+    Section 4 heading: amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 4(2): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Restriction of jurisdiction over certain nationals of other countries
     
@@ -133,7 +149,7 @@ An Act to confer jurisdiction on the courts of New Zealand to deal with crimes c
     
 *   If in any proceedings there arises any question whether or not any person is or was at any time an observer or exchanged scientist, or a member of the staff accompanying any observer or exchanged scientist, within the meaning of this Act, or whether or not any immunity has been waived under [section 5][6], a certificate issued by the Minister of Foreign Affairs and Trade stating any fact relevant to that question shall be conclusive evidence of that fact.
     
-    Section 6: replaced, on 1 July 1993, by [section 6(1)][17] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 6: replaced, on 1 July 1993, by [section 6(1)][18] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
 
 ##### 6A Regulations for conservation of Antarctic fauna and flora
     
@@ -343,23 +359,23 @@ Agreed Measures for the Conservation of Antarctic Fauna and Flora
 
 ###### 1 General
     
-*   This is a reprint of the Antarctica Act 1960\. The reprint incorporates all the amendments to the Act as at 23 January 1998, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Antarctica Act 1960\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][18] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][19] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][19] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][20] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][20] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][21] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][21] and [17E][22] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][22] and [17E][23] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -390,9 +406,11 @@ Agreed Measures for the Conservation of Antarctic Fauna and Flora
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][16]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][17]
     
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][17]
+    Antarctica (Environmental Protection) Act 1994 (1994 No 119): [section 56(1)][16]
+    
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][18]
     
     Civil Aviation Act 1990 (1990 No 98): [section 101(1)][15]
     
@@ -419,9 +437,10 @@ Agreed Measures for the Conservation of Antarctic Fauna and Flora
 [14]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM343630
 [15]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM218728
 [16]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM343623
-[17]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM302525
-[18]: http://www.pco.parliament.govt.nz/reprints/
-[19]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195439
-[20]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[21]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195468
-[22]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195470
+[17]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM3360714
+[18]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM302525
+[19]: http://www.pco.parliament.govt.nz/reprints/
+[20]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195439
+[21]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[22]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195468
+[23]: http://www.legislation.govt.nz/act/public/1960/0047/latest/link.aspx?id=DLM195470
