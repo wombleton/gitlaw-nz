@@ -1,5 +1,5 @@
 Reprint  
-as at 15 May 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -231,17 +231,19 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 14 Penalty for breach of bylaws
     
-*   (1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and shall be liable on summary conviction to a fine not exceeding $40, and shall also be civilly liable for all damage caused by the contravention or non-compliance.
+*   (1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and shall be liable on conviction to a fine not exceeding $40, and shall also be civilly liable for all damage caused by the contravention or non-compliance.
     
     (2) The Board is hereby declared to be a local authority for the purposes of [section 73][27] of the Public Finance Act 1989\.
     
+    Section 14(1): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 14(2): replaced, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
     
-    Section 14(2): amended, on 1 July 1989, by [section 86(1)][28] of the Public Finance Act 1989 (1989 No 44).
+    Section 14(2): amended, on 1 July 1989, by [section 86(1)][29] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 15 Authorisation to Cornwall Park Trust Board
     
-*   The Cornwall Park Trust Board, a body duly incorporated under the [Charitable Trusts Act 1957][29], is hereby authorised if in its discretion it so thinks fit, to grant a lease of the land described in [Schedule 1][20] to the Board for such term, at such rent, and upon such terms and conditions in all respects as it shall think fit.
+*   The Cornwall Park Trust Board, a body duly incorporated under the [Charitable Trusts Act 1957][30], is hereby authorised if in its discretion it so thinks fit, to grant a lease of the land described in [Schedule 1][20] to the Board for such term, at such rent, and upon such terms and conditions in all respects as it shall think fit.
 
 ##### 16 Assets and activities of the 2 constituent associations excluded
     
@@ -479,23 +481,23 @@ Powers of Board
 
 ###### 1 General
     
-*   This is a reprint of the Auckland Agricultural Pastoral and Industrial Shows Board Act 1972\. The reprint incorporates all the amendments to the Act as at 15 May 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Auckland Agricultural Pastoral and Industrial Shows Board Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][30] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][31] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][31] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][32] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][32] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][33] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][33] and [17E][34] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][34] and [17E][35] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -526,11 +528,13 @@ Powers of Board
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   _Gazette_ 2009, p 1511
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][28]
+    
+    _Gazette_ 2009, p 1511
     
     _Gazette_ 2006, p 1297
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][28]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][29]
     
     _Gazette_ 1979, p 2518
     
@@ -568,10 +572,11 @@ Powers of Board
 [25]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM178556
 [26]: http://www.legislation.govt.nz/act/private/1972/0004/latest/whole.html#DLM107567
 [27]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM163137
-[28]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM163175
-[29]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM308795
-[30]: http://www.pco.parliament.govt.nz/reprints/
-[31]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195439
-[32]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[33]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195468
-[34]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195470
+[28]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM3360714
+[29]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM163175
+[30]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM308795
+[31]: http://www.pco.parliament.govt.nz/reprints/
+[32]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195439
+[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[34]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195468
+[35]: http://www.legislation.govt.nz/act/private/1972/0004/latest/link.aspx?id=DLM195470
