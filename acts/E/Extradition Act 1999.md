@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -223,9 +223,9 @@ This Act is administered by the Ministry of Justice.
 [Part 8][96]  
 [Appeals against determinations in respect of eligibility for surrender][96]
 
-[68][97][][97][Appeal on question of law only by way of case stated][97]
+[68][97][][97][Appeal on question of law only][97]
 
-[69][98][][98][Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000][98]
+[69][98][][98][Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011][98]
 
 [70][99][][99][Custody pending determination of appeal][99]
 
@@ -248,7 +248,7 @@ This Act is administered by the Ministry of Justice.
 
 [78][108][][108][Authentication of overseas documents][108]
 
-[79][109][][109][Depositions taken in New Zealand for use overseas][109]
+[79][109][][109][Evidence taken in New Zealand for use overseas][109]
 
 [80][110][][110][Effect of certain certificates][110]
 
@@ -681,11 +681,13 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (3) An Order in Council made under subsection (1) ceases to have effect when the treaty ceases to be in force.
     
-    (4) An Order in Council made under subsection (1) is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][169].
+    (4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][169] and must be presented to the House of Representatives under [section 41][170] of that Act.
     
     Compare: 1965 No 44 s 3(1), (2)
     
-    Section 15(1): amended, on 18 June 2002, by [section 3][170] of the Extradition Amendment Act 2002 (2002 No 21).
+    Section 15(1): amended, on 18 June 2002, by [section 3][171] of the Extradition Amendment Act 2002 (2002 No 21).
+    
+    Section 15(4): replaced, on 5 August 2013, by [section 77(3)][172] of the Legislation Act 2012 (2012 No 119).
 
 ##### 16 Extradition to non-Commonwealth countries in absence of treaty
     
@@ -701,7 +703,9 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (2) The Minister must not recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied that the country is able to return to New Zealand persons accused or convicted of a similar range of extradition offences to those to which the proposed order would relate.
     
-    (3) An Order in Council made under subsection (1) is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][169].
+    (3) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][169] and must be presented to the House of Representatives under [section 41][170] of that Act.
+    
+    Section 16(3): replaced, on 5 August 2013, by [section 77(3)][172] of the Legislation Act 2012 (2012 No 119).
 
 #### Exempted countries
 
@@ -761,9 +765,9 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     Compare: 1965 No 44 s 6(1); Extradition Act 1988 s 19(3) (Aust)
     
-    Section 18(1): amended, on 19 December 2002, by [section 4(1)][171] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 18(1): amended, on 19 December 2002, by [section 4(1)][173] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 18(4)(a)(i): substituted, on 19 December 2002, by [section 4(2)][171] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 18(4)(a)(i): substituted, on 19 December 2002, by [section 4(2)][173] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 19 Minister may request issue of arrest warrant
     
@@ -795,7 +799,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     Compare: 1965 No 44 s 7(1)(b)
     
-    Section 20(1)(a): substituted, on 19 December 2002, by [section 5][172] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 20(1)(a): substituted, on 19 December 2002, by [section 5][174] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 21 Notice to Minister
     
@@ -819,33 +823,33 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     *   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
             
-        *   (i) [Parts 5][173] and [5A][174] and [sections 203][175], [204][176], and [206][177] of the Summary Proceedings Act 1957:
+        *   (i) [Parts 5][175] and [5A][176] and [sections 203][177], [204][178], and [206][179] of the Summary Proceedings Act 1957:
         
-        *   (ii) [Parts 1][178] (except [sections 9 to 12][179]), [2][180], and [4][181] of the Bail Act 2000:
+        *   (ii) [Parts 1][180] (except [sections 9 to 12][181]), [2][182], and [4][183] of the Bail Act 2000:
         
-        *   (iii) the [Criminal Procedure (Mentally Impaired Persons) Act 2003][182].
+        *   (iii) the [Criminal Procedure (Mentally Impaired Persons) Act 2003][184].
         
         
     
-    (2) Despite [section 5][183] of the Summary Proceedings Act 1957, a District Court presided over by Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+    (2) Despite [section 5][185] of the Summary Proceedings Act 1957, a District Court presided over by Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
     
-    (3) Despite [section 46(1) and (2)][184] of the Summary Proceedings Act 1957 (as applied by [section 157][185] of that Act) and [section 28(2)][186] of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
+    (3) Despite [section 46(1) and (2)][186] of the Summary Proceedings Act 1957 (as applied by [section 157][187] of that Act) and [section 28(2)][188] of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
     
-    (4) \[Repealed\]
+    (4) The enactments (other than this Act, its provisions, Parts, and regulations made under it) specified in this section must be read as they read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
     
     Compare: 1965 No 44 s 8(1), (4)
     
-    Section 22(1)(a): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 22(1)(a): amended, on 29 June 2009, by [section 18][190] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
     
-    Section 22(1)(b): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 22(1)(b): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
     
     Section 22(1)(b)(iii): substituted, on 1 September 2004, by [section 51][168] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 22(3): substituted, on 19 December 2002, by [section 6][189] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 22(3): substituted, on 19 December 2002, by [section 6][192] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 22(3): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 22(3): amended, on 29 June 2009, by [section 18][190] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
     
-    Section 22(4): repealed, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 22(4): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Procedure following arrest
     
@@ -857,7 +861,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     *   (b) may not go at large without bail.
     
-    (3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][190] of the Bail Act 2000 (as applied by [section 49][191] of that Act).
+    (3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][194] of the Bail Act 2000 (as applied by [section 49][195] of that Act).
     
     (4) If the person has been arrested on a provisional arrest warrant issued under [section 20][32], the following provisions apply:
         
@@ -875,9 +879,17 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     *   (d) the court may from time to time, in its discretion, extend any time fixed by it under paragraph (c)(ii).
     
+    (5) In subsection (3),---
+        
+    *   (a) [section 31][194] of the Bail Act 2000 must be read as it read immediately before [section 7][196] of the Bail Amendment Act 2011 came into force; and
+    
+    *   (b) [section 49][195] of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
+    
     Compare: 1965 No 44 s 8(2), (3)
     
-    Section 23(3): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 23(3): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
+    
+    Section 23(5): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Determination of eligibility for surrender
     
@@ -925,7 +937,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     Compare: 1965 No 44 s 10; Extradition Act 1988 s 19(2), (4) (Aust)
     
-    Section 24(3)(b): amended, on 19 December 2002, by [section 7][192] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 24(3)(b): amended, on 19 December 2002, by [section 7][197] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 25 Record of case may be submitted by exempted country at hearing
     
@@ -957,17 +969,17 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (5) A court to which a certificate under subsection (3)(b) is produced must take judicial notice of the signature on it of a person described in subsection (3A).
     
-    Section 25(3)(b): substituted, on 19 December 2002, by [section 8(1)][193] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 25(3)(b): substituted, on 19 December 2002, by [section 8(1)][198] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 25(3A): inserted, on 19 December 2002, by [section 8(2)][193] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 25(3A): inserted, on 19 December 2002, by [section 8(2)][198] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 25(5): substituted, on 19 December 2002, by [section 8(3)][193] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 25(5): substituted, on 19 December 2002, by [section 8(3)][198] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 26 Procedure following court's determination of whether person eligible for surrender
     
 *   (1) If the court determines under [section 24][36] that the person is eligible for surrender, it must---
         
-    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 27][39] of this Act or [section 184T(3)][194] of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
+    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 27][39] of this Act or [section 184T(3)][199] of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
     
     *   (b) record in writing the extradition offence or extradition offences in relation to which the court has determined that the person is eligible for surrender; and
     
@@ -985,17 +997,29 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (2) If the court issues a warrant under subsection (1), the court may grant bail to the person.
     
-    (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][190] of the Bail Act 2000 (as applied by [section 52][195] of that Act).
+    (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][194] of the Bail Act 2000 (as applied by [section 52][200] of that Act).
     
     (4) If the court is not satisfied under [section 24][36] that the person is eligible for surrender, it must discharge the person unless under [section 70(1)][99] it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under [Part 8][96].
     
+    (5) Enactments other than this Act and its provisions that are specified in subsection (1)(a) must be read as they read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
+    
+    (6) In subsection (3),---
+        
+    *   (a) [section 31][194] of the Bail Act 2000 must be read as it read immediately before [section 7][196] of the Bail Amendment Act 2011 came into force; and
+    
+    *   (b) [section 52][200] of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
+    
     Compare: 1965 No 44 s 10
     
-    Section 26(1)(a): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 26(1)(a): amended, on 29 June 2009, by [section 18][190] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
     
     Section 26(1)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 26(3): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 26(3): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
+    
+    Section 26(5): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26(6): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Detention in place other than prison
     
@@ -1019,7 +1043,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (2) If the person notifies the court of his or her consent to surrender under subsection (1), then, despite [section 24][36] but subject to subsection (3), the court must---
         
-    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 27][39] of this Act or [section 184T(3)][194] of the Summary Proceedings Act 1957 pending surrender; and
+    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 27][39] of this Act or [section 184T(3)][199] of the Summary Proceedings Act 1957 pending surrender; and
     
     *   (b) record in writing the extradition offence or extradition offences in respect of which the person has consented to surrender; and
     
@@ -1037,15 +1061,27 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (5) If the court issues a warrant under subsection (2), the court may grant bail to the person.
     
-    (6) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][190] of the Bail Act 2000 (as applied by [section 52][195] of that Act).
+    (6) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][194] of the Bail Act 2000 (as applied by [section 52][200] of that Act).
+    
+    (7) Enactments other than this Act and its provisions that are specified in subsection (2)(a) must be read as they read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
+    
+    (8) In subsection (6),---
+        
+    *   (a) [section 31][194] of the Bail Act 2000 must be read as it read immediately before [section 7][196] of the Bail Amendment Act 2011 came into force; and
+    
+    *   (b) [section 52][200] of the Bail Act 2000 must be read as it read immediately before the commencement date as defined in [section 394][189] of the Criminal Procedure Act 2011\.
     
     Compare: Extradition Act 1988 s 18 (Aust)
     
-    Section 28(2)(a): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 28(2)(a): amended, on 29 June 2009, by [section 18][190] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
     
     Section 28(2)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 28(6): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 28(6): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
+    
+    Section 28(7): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 28(8): inserted, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Consent to surrender for offences that are not extradition offences
 
@@ -1157,7 +1193,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     Compare: Fugitive Offenders Act 1881 s 29A(3), (4) (Imp); 1965 No 44 ss 5(1)(c), (2), 5A; Extradition Act 1988 s 22(3), (4) (Aust)
     
-    Section 30(2)(ab): inserted, on 19 December 2002, by [section 9][196] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 30(2)(ab): inserted, on 19 December 2002, by [section 9][201] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 31 Surrender order
     
@@ -1255,7 +1291,7 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     (4) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (2)(b) are no longer required to be complied with.
     
-    Compare: 1992 No 86 [s 41][197]; Extradition Act 1988 s 24(1), (4) (Aust)
+    Compare: 1992 No 86 [s 41][202]; Extradition Act 1988 s 24(1), (4) (Aust)
     
     Section 33(1): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
@@ -1325,9 +1361,9 @@ Extradition from New Zealand to certain treaty countries and certain Commonwealt
     
     Compare: 1965 No 44 s 12
     
-    Section 36(4): added, on 19 December 2002, by [section 10][198] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 36(4): added, on 19 December 2002, by [section 10][203] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 36(5): added, on 19 December 2002, by [section 10][198] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 36(5): added, on 19 December 2002, by [section 10][203] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 37 Discharge of person if not resurrendered
     
@@ -1412,9 +1448,11 @@ Extradition from New Zealand to Australia and designated countries
     
     *   (b) the Order in Council ceases to have effect when the treaty ceases to be in force.
     
-    (7) An Order in Council made under this section is deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][169].
+    (7) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][169] and must be presented to the House of Representatives under [section 41][170] of that Act.
     
-    Section 40(2): amended, on 18 June 2002, by [section 4][199] of the Extradition Amendment Act 2002 (2002 No 21).
+    Section 40(2): amended, on 18 June 2002, by [section 4][204] of the Extradition Amendment Act 2002 (2002 No 21).
+    
+    Section 40(7): replaced, on 5 August 2013, by [section 77(3)][172] of the Legislation Act 2012 (2012 No 119).
 
 #### Extradition proceedings
 
@@ -1438,9 +1476,9 @@ Extradition from New Zealand to Australia and designated countries
     
     Compare: Fugitive Offenders Act 1881 s 13 (Imp); Extradition Act 1988 s 28 (Aust)
     
-    Section 41(1): amended, on 19 December 2002, by [section 11][200] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 41(1): amended, on 19 December 2002, by [section 11][205] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 41(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
 
 ##### 42 Issue in New Zealand of provisional arrest warrant
     
@@ -1462,45 +1500,33 @@ Extradition from New Zealand to Australia and designated countries
     
     Compare: Fugitive Offenders Act 1881 s 16 (Imp); Extradition Act 1988 s 29 (Aust)
     
-    Section 42(1)(a): amended, on 19 December 2002, by [section 12][202] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 42(1)(a): amended, on 19 December 2002, by [section 12][207] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 43 Powers of court
     
 *   (1) In proceedings under this Part, except as expressly provided in this Act or in regulations made under [section 102][140],---
         
-    *   (a) the court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a summary offence alleged to have been committed within the jurisdiction of New Zealand; and
+    *   (a) the court has the same jurisdiction and powers under the [Criminal Procedure Act 2011][208] as if the proceedings were in respect of a charge for a category 2 offence committed within the jurisdiction of New Zealand:
     
     *   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
             
-        *   (i) [Part 2][203] and [sections 203][175], [204][176], and [206][177] of the Summary Proceedings Act 1957:
+        *   (i) [sections 14][209], [35][210], [157 to 175][211], [subpart 3][212] of Part 5, and [sections 365][213] and [379][214] of the Criminal Procedure Act 2011 and any relevant rules of court (including those relating to service) made under that Act:
         
-        *   (ii) [Parts 1][178] (except [sections 9 to 12][179]), [2][180], and [3][181] of the Bail Act 2000:
+        *   (ii) [Parts 1][180] (except [sections 9 to 12][181]), [2][182], and [3][215] of the Bail Act 2000:
         
-        *   (iii) [sections 38 to 44][204] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
+        *   (iii) [sections 38 to 44][216] of the Criminal Procedure (Mentally Impaired Persons) Act 2003\.
         
         
     
-    (2) Despite [section 4][205] of the Summary Proceedings Act 1957, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+    (2) A District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
     
-    (3) Despite [section 46(1) and (2)][184] of the Summary Proceedings Act 1957 and [section 28(2)][186] of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
+    (3) Despite [section 168][217] of the Criminal Procedure Act 2011, and [section 27(2)][218] of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
     
-    (4) \[Repealed\]
-    
-    (5) [Section 184T][194] of the Summary Proceedings Act 1957 and [sections 52 to 54][195] of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of [sections 46][67], [53][75], or [54][77].
+    (4) [Sections 167 to 169][219] of the Criminal Procedure Act 2011 and [sections 28][188], [30 to 33][220], [35][221], [37 to 39][222], [44][223], [45][224], and [52][200] of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of [sections 46][67], [53][75], or [54][77].
     
     Compare: Fugitive Offenders Act 1881 s 5 (Imp)
     
-    Section 43(1)(b): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
-    
-    Section 43(1)(b)(iii): substituted, on 1 September 2004, by [section 51][168] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
-    
-    Section 43(3): substituted, on 19 December 2002, by [section 13][206] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
-    
-    Section 43(4): repealed, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
-    
-    Section 43(5): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
-    
-    Section 43(5): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 43: replaced, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Procedure following arrest
     
@@ -1512,7 +1538,7 @@ Extradition from New Zealand to Australia and designated countries
     
     *   (b) may not go at large without bail.
     
-    (3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][190] of the Bail Act 2000\.
+    (3) If the court remands the person on bail, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under [section 30(1), (2), and (4)][220] of the Bail Act 2000\.
     
     (4) If a person has been arrested on a provisional arrest warrant and no warrant issued in the extradition country has been endorsed under [section 41][62], the following provisions apply:
         
@@ -1522,7 +1548,9 @@ Extradition from New Zealand to Australia and designated countries
     
     Compare: Fugitive Offenders Act 1881 s 16 (Imp); Extradition Act 1988 ss 32, 33 (Aust)
     
-    Section 44(3): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 44(3): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
+    
+    Section 44(3): amended, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Determination of eligibility for surrender
     
@@ -1568,7 +1596,7 @@ Extradition from New Zealand to Australia and designated countries
     
 *   (1) If the court is satisfied that the person is eligible for surrender, the court must---
         
-    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 184T(3)][194] of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
+    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 169][225] of the Criminal Procedure Act 2011 pending the surrender of the person to the extradition country or the person's discharge according to law; and
     
     *   (b) inform the person that,---
             
@@ -1582,15 +1610,17 @@ Extradition from New Zealand to Australia and designated countries
     
     (2) If the court issues a warrant under subsection (1), the court may grant bail to the person.
     
-    (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under subsections (1) to (3) of [section 31][190] of the Bail Act 2000 (as applied by [section 52][195] of that Act).
+    (3) If the court grants bail to the person, the court may impose any conditions of bail that the court thinks fit in addition to any conditions that the court may impose under [section 30(1), (2), and (4)][220] of the Bail Act 2000\.
     
     (4) If the court is not satisfied that the person is eligible for surrender, it must discharge the person, unless under [section 70(1)][99] it orders that the person continue to be detained, or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under [Part 8][96].
     
-    Section 46(1)(a): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 46(1)(a): amended, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 46(1)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 46(3): substituted, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
+    Section 46(3): substituted, on 1 January 2001, by [section 74(2)][191] of the Bail Act 2000 (2000 No 38).
+    
+    Section 46(3): amended, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Court must make surrender order immediately if case not referred to Minister
     
@@ -1674,11 +1704,11 @@ Extradition from New Zealand to Australia and designated countries
     
     Section 48(1)(c): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 48(1)(c): amended, on 19 December 2002, by [section 14(1)][207] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 48(1)(c): amended, on 19 December 2002, by [section 14(1)][226] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 48(1)(d): inserted, on 19 December 2002, by [section 14(2)][207] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 48(1)(d): inserted, on 19 December 2002, by [section 14(2)][226] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 48(1A): inserted, on 19 December 2002, by [section 14(3)][207] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 48(1A): inserted, on 19 December 2002, by [section 14(3)][226] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 49 Minister must determine if person to be surrendered if case referred
     
@@ -1770,7 +1800,7 @@ Extradition from New Zealand to Australia and designated countries
     
     *   (b) if the court is required to refer the case to the Minister under [section 48(1)][69],---
             
-        *   (i) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 184T(3)][194] of the Summary Proceedings Act 1957 pending surrender; and
+        *   (i) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 169][225] of the Criminal Procedure Act 2011 pending surrender; and
         
         *   (ii) record in writing the offence or offences in respect of which the person has consented to surrender; and
         
@@ -1792,7 +1822,7 @@ Extradition from New Zealand to Australia and designated countries
     
     Compare: Extradition Act 1988 s 33A (Aust)
     
-    Section 53(2)(b)(i): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 53(2)(b)(i): amended, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 53(2)(b)(i): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
 
@@ -1810,7 +1840,7 @@ Extradition from New Zealand to Australia and designated countries
     
     (2) If this subsection applies, the court must---
         
-    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 184T(3)][194] of the Summary Proceedings Act 1957 pending the surrender of the person to the extradition country or the person's discharge according to law; and
+    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 52][73] of this Act or [section 169][225] of the Criminal Procedure Act 2011 pending the surrender of the person to the extradition country or the person's discharge according to law; and
     
     *   (b) record in writing the extradition offence or extradition offences in relation to which the court has determined that the person is eligible for surrender; and
     
@@ -1850,11 +1880,11 @@ Extradition from New Zealand to Australia and designated countries
     
     (7) If, while a person is in the extradition country under the temporary surrender order, the person ceases to be liable to be detained in New Zealand, the Minister must inform the extradition country that the undertakings referred to in subsection (4)(b) are no longer required to be complied with.
     
-    Compare: 1992 No 86 [s 41][197]; Extradition Act 1988 s 36(1), (5) (Aust)
+    Compare: 1992 No 86 [s 41][202]; Extradition Act 1988 s 36(1), (5) (Aust)
     
     Section 54(1): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 54(2)(a): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 54(2)(a): amended, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 54(2)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
@@ -1924,9 +1954,9 @@ Extradition from New Zealand to Australia and designated countries
     
     (5) For the purposes of subsection (4), _request_ includes a warrant produced for endorsement under this Part.
     
-    Section 57(4): added, on 19 December 2002, by [section 15][208] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 57(4): added, on 19 December 2002, by [section 15][227] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
     
-    Section 57(5): added, on 19 December 2002, by [section 15][208] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 57(5): added, on 19 December 2002, by [section 15][227] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ##### 58 Discharge of person if person not resurrendered
     
@@ -2005,7 +2035,7 @@ Extension of Act for individual requests
     
     (7) Without limiting subsection (6), a provisional arrest warrant in relation to a person who is, or is suspected of being, in New Zealand or on his or her way to New Zealand may be issued in accordance with [Part 3][21] even if a request to which this section applies has not yet been made.
     
-    Section 60(7): substituted, on 19 December 2002, by [section 16][209] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 60(7): substituted, on 19 December 2002, by [section 16][228] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
 
 ## Part 6  
 Extradition to New Zealand
@@ -2054,7 +2084,7 @@ Extradition to New Zealand
     
     the Minister may issue a certificate setting out that date and time period.
     
-    (4) For the purposes of [section 91(3)][210] of the Parole Act 2002, a certificate given by the Minister under subsection (3) has the same effect as a certificate obtained under subsection (1).
+    (4) For the purposes of [section 91(3)][229] of the Parole Act 2002, a certificate given by the Minister under subsection (3) has the same effect as a certificate obtained under subsection (1).
     
     (5) If, after the Minister has given a certificate under subsection (3),---
         
@@ -2062,7 +2092,7 @@ Extradition to New Zealand
     
     *   (b) the date and time period specified in that certificate is different from that specified in the Minister's certificate,---
     
-    then, unless the Minister otherwise directs, the certificate from the extradition country is a substitute certificate for the purpose of [section 91(3)][210] of the Parole Act 2002\.
+    then, unless the Minister otherwise directs, the certificate from the extradition country is a substitute certificate for the purpose of [section 91(3)][229] of the Parole Act 2002\.
     
     Section 62(1)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
@@ -2102,7 +2132,7 @@ Extradition to New Zealand
     
     the Minister may make a removal order under [section 96][129].
     
-    Compare: Fugitive Offenders Act 1881 s 18 (Imp); 1992 No 86 [s 15(4)][211]
+    Compare: Fugitive Offenders Act 1881 s 18 (Imp); 1992 No 86 [s 15(4)][230]
 
 ##### 66 Person temporarily surrendered to New Zealand
     
@@ -2118,7 +2148,7 @@ Extradition to New Zealand
     
     (3) If the person is being held in custody for the purpose of subsection (1) or subsection (2), and the country from which the person was surrendered requests the release of the person from custody, the Minister must order that the person be released from custody unless the person is otherwise liable to be held in custody.
     
-    Compare: 1992 No 86 [s 15(1)--(3)][211]; Extradition Act 1988 s 44 (Aust)
+    Compare: 1992 No 86 [s 15(1)--(3)][230]; Extradition Act 1988 s 44 (Aust)
     
     Section 66(1)(c): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
 
@@ -2133,7 +2163,7 @@ Procedure relating to surrender orders
     
     *   (b) either---
             
-        *   (i) require the person in whose custody the person to be surrendered is being held (if the person is being held in custody) to release the person to be surrendered into the custody of a constable or an officer or security officer within the meaning of [section 3(1)][212] of the Corrections Act 2004; or
+        *   (i) require the person in whose custody the person to be surrendered is being held (if the person is being held in custody) to release the person to be surrendered into the custody of a constable or an officer or security officer within the meaning of [section 3(1)][231] of the Corrections Act 2004; or
         
         *   (ii) if the person to be surrendered is on bail, authorise any constable to take the person into custody; and
         
@@ -2145,76 +2175,34 @@ Procedure relating to surrender orders
     
     Compare: Extradition Act 1988 s 26(1) (Aust)
     
-    Section 67(b)(i): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][201] of the Policing Act 2008 (2008 No 72).
+    Section 67(b)(i): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][206] of the Policing Act 2008 (2008 No 72).
     
     Section 67(b)(i): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 67(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][201] of the Policing Act 2008 (2008 No 72).
+    Section 67(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][206] of the Policing Act 2008 (2008 No 72).
     
-    Section 67(c): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][201] of the Policing Act 2008 (2008 No 72).
+    Section 67(c): amended, on 1 October 2008, pursuant to [section 116(a)(iv)][206] of the Policing Act 2008 (2008 No 72).
 
 ## Part 8  
 Appeals against determinations in respect of eligibility for surrender
 
-##### 68 Appeal on question of law only by way of case stated
+##### 68 Appeal on question of law only
     
-*   (1) This section applies if a District Court determines under [section 24][36] or [section 45][66] that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
+*   (1) This section applies if a District Court determines under [section 24][36] or [45][66] that a person is or is not eligible for surrender in relation to any offence or offences for which surrender is sought, and either party considers the determination erroneous in point of law.
     
-    (2) If this section applies, the party may appeal against the determination to the High Court by way of case stated for the opinion of the High Court on a question of law only.
+    (2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
     
-    (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court that made the determination a notice of appeal in the prescribed form.
+    (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court to which the appeal is being taken a notice of appeal in the prescribed form.
     
-    Compare: 1957 No 87 [s 107(1), (2)][213]
+    Section 68: replaced, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 69 Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000
+##### 69 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
     
-*   (1) The following provisions of the [Summary Proceedings Act 1957][214] and the [Bail Act 2000][215] apply with any necessary modifications to an appeal under this Part as if it were an appeal under [Part 4][181] of that Act against the determination by a District Court of an information or complaint:
-        
-    *   (a) [section 107(3) to (8)][213] (Appeal on question of law only by way of case stated):
+*   (1) [Section 59][232] of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under [subpart 8][233] of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
     
-    *   (b) [section 108][216] (No appeal on ground of improper admission or rejection of evidence):
+    (2) [Subpart 8][233] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
     
-    *   (c) [section 109][217] (District Court Judge or Justice may refuse a case if appeal frivolous):
-    
-    *   (d) [section 110][218] (Certiorari not to be required when appeal upon case stated):
-    
-    *   (e) [section 111][219] (Case may be sent back for amendment):
-    
-    *   (f) [section 113][220] (Appeal on point of law may be removed into Court of Appeal):
-    
-    *   (g) [section 123][221] (Powers of Judge of High Court as to extension of time):
-    
-    *   (h) \[Repealed\]
-    
-    *   (i) [section 129][222] (Abandonment of appeal):
-    
-    *   (j) [section 130][223] (Presentation of case by party in custody):
-    
-    *   (k) section 131 (Power of High Court to direct rehearing of information or complaint):
-    
-    *   (l) section 133 (Dismissal of appeal for non-prosecution):
-    
-    *   (m) [section 134][224] (Registrar to certify decision on appeal):
-    
-    *   (n) section 136 (Custody of person after determination of appeal):
-    
-    *   (o) [section 143][225] (No court fees payable on appeal by person sentenced to detention):
-    
-    *   (p) [section 144][226] (Appeal to Court of Appeal).
-    
-    *   (q) \[Repealed\]
-    
-    (2) [Section 47][227] of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under [Part 4][228] of the Summary Proceedings Act 1957 against the determination by a District Court of an information or complaint.
-    
-    Section 69 heading: amended, on 19 December 2002, by [section 17(1)][229] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
-    
-    Section 69(1): amended, on 1 January 2001, by [section 74(2)][188] of the Bail Act 2000 (2000 No 38).
-    
-    Section 69(1)(h): repealed, on 19 December 2002, by [section 17(2)][229] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
-    
-    Section 69(1)(q): repealed, on 19 December 2002, by [section 17(2)][229] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
-    
-    Section 69(2): added, on 19 December 2002, by [section 17(3)][229] of the Extradition Amendment Act (No 2) 2002 (2002 No 64).
+    Section 69: replaced, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 70 Custody pending determination of appeal
     
@@ -2331,7 +2319,7 @@ Provisions relating to evidence
     
 *   Nothing in [section 25][37] or [sections 74 to 76][104] prevents the admission in evidence of any document in accordance with any other enactment or rule of law applicable in New Zealand.
     
-    Compare: 1992 No 86 [s 63(3)][230]
+    Compare: 1992 No 86 [s 63(3)][234]
 
 ##### 78 Authentication of overseas documents
     
@@ -2353,17 +2341,15 @@ Provisions relating to evidence
     
     Compare: 1965 No 44 s 16
 
-##### 79 Depositions taken in New Zealand for use overseas
+##### 79 Evidence taken in New Zealand for use overseas
     
-*   (1) For the purposes of any request made by New Zealand for the surrender of a person from another country, a District Court Judge may, in the absence of the person accused or convicted of an offence, take depositions in the same manner, so far as applicable, as if that person were present and the proceedings were the committal hearing for an information for an indictable offence.
+*   (1) For the purpose of any request made by New Zealand for the surrender of a person from another country, a District Court may, in the absence of the person accused or convicted of an offence, take evidence in the same manner, so far as applicable, as the procedure set out for the taking of oral evidence under [sections 95 to 99][235] of the Criminal Procedure Act 2011\.
     
-    (2) For the purpose of taking depositions under subsection (1), the District Court Judge has the same jurisdiction and powers as if the proceedings were a hearing described in that subsection.
+    (2) For the purposes of taking evidence under subsection (1), the District Court Judge has the same jurisdiction and powers as if the proceedings were the taking of oral evidence under [subpart 8][233] of Part 3 of the Criminal Procedure Act 2011\.
     
-    (3) Nothing in this section authorises the reception of any depositions referred to in subsection (1) in evidence against any person on his or her trial for any offence.
+    (3) Nothing in this section authorises the reception of any evidence referred to in subsection (1) in evidence against any person on his or her trial for any offence.
     
-    Compare: 1965 No 44 s 15(2), (3)
-    
-    Section 79(1): amended, on 29 June 2009, by [section 18][187] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 79: replaced, on 1 July 2013, by [section 413][193] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Effect of certain certificates
     
@@ -2406,13 +2392,13 @@ Search and seizure
     
     (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
     
-    (3) Nothing in this section limits or affects any power under [section 11][231] of the Search and Surveillance Act 2012\.
+    (3) Nothing in this section limits or affects any power under [section 11][236] of the Search and Surveillance Act 2012\.
     
     Compare: Extradition Act 1988 s 13(1) (Aust)
     
-    Section 82(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 82(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
-    Section 82(3): replaced, on 1 October 2012, by [section 240(2)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 82(3): replaced, on 1 October 2012, by [section 240(2)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 83 Search warrants
     
@@ -2424,45 +2410,45 @@ Search and seizure
     
     *   (c) a provisional arrest warrant has been issued under this Act.
     
-    (2) An issuing officer (within the meaning of [section 3][233] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][234] of Part 4 of that Act, is satisfied that there are reasonable grounds for believing that there is, in or on any place or thing, any thing that may be evidence as to the commission of an extradition offence for which surrender is sought, may issue a search warrant.
+    (2) An issuing officer (within the meaning of [section 3][238] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][239] of Part 4 of that Act, is satisfied that there are reasonable grounds for believing that there is, in or on any place or thing, any thing that may be evidence as to the commission of an extradition offence for which surrender is sought, may issue a search warrant.
     
-    (3) This section does not limit or affect the ability of a foreign country to make a request for assistance under the [Mutual Assistance in Criminal Matters Act 1992][235].
+    (3) This section does not limit or affect the ability of a foreign country to make a request for assistance under the [Mutual Assistance in Criminal Matters Act 1992][240].
     
-    (4) The provisions of [Part 4][236] of the Search and Surveillance Act 2012 (except [subpart 6][237]) apply.
+    (4) The provisions of [Part 4][241] of the Search and Surveillance Act 2012 (except [subpart 6][242]) apply.
     
-    Section 83(2): amended, on 1 October 2012, by [section 240(3)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 83(2): amended, on 1 October 2012, by [section 240(3)][237] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 83(4): inserted, on 1 October 2012, by [section 240(4)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 83(4): inserted, on 1 October 2012, by [section 240(4)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 84 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 1 October 2012, by [section 240(5)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 84: repealed, on 1 October 2012, by [section 240(5)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 85 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 1 October 2012, by [section 240(5)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 85: repealed, on 1 October 2012, by [section 240(5)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 86 Power to stop vehicles
     
 *   \[Repealed\]
     
-    Section 86: repealed, on 1 October 2012, by [section 240(5)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 86: repealed, on 1 October 2012, by [section 240(5)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 87 Person executing warrant to produce evidence of authority
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 1 October 2012, by [section 240(5)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 87: repealed, on 1 October 2012, by [section 240(5)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 88 Notice of execution of warrant
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 1 October 2012, by [section 240(5)][232] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 88: repealed, on 1 October 2012, by [section 240(5)][237] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Return of property
 
@@ -2505,9 +2491,9 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     the Minister must make a removal order under [section 96][129].
     
-    Compare: 1992 No 86 [s 42(1)--(3)][238]; Extradition Act 1988 s 48 (Aust)
+    Compare: 1992 No 86 [s 42(1)--(3)][243]; Extradition Act 1988 s 48 (Aust)
     
-    Section 90(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 90(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
 
 ##### 91 Immigration visa not required
     
@@ -2517,15 +2503,15 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     *   (b) a person to whom [section 90][123] applies,---
     
-    that person is not required to hold a visa under the [Immigration Act 2009][239] if, and for so long as, the person is in New Zealand in accordance with the provisions of this Act.
+    that person is not required to hold a visa under the [Immigration Act 2009][244] if, and for so long as, the person is in New Zealand in accordance with the provisions of this Act.
     
-    (2) If a person is returned to New Zealand to continue serving a sentence of imprisonment after being temporarily surrendered to an extradition country under [Part 3][21] or [Part 4][56], the status of the person for the purposes of the [Immigration Act 2009][239] is not affected by the fact that the person was temporarily surrendered.
+    (2) If a person is returned to New Zealand to continue serving a sentence of imprisonment after being temporarily surrendered to an extradition country under [Part 3][21] or [Part 4][56], the status of the person for the purposes of the [Immigration Act 2009][244] is not affected by the fact that the person was temporarily surrendered.
     
-    Section 91 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 91 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
     
-    Section 91(1): amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 91(1): amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
     
-    Section 91(2): amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 91(2): amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
 
 ##### 92 Return of person
     
@@ -2557,9 +2543,9 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     (2) The certificate is, while it remains in force, sufficient authority for the person named in the certificate to remain in New Zealand.
     
-    (3) If the Minister issues a certificate, the Minister may, if he or she thinks fit, refer the person's case to the Minister of Immigration for consideration under [section 61][241] of the Immigration Act 2009, and in that case that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
+    (3) If the Minister issues a certificate, the Minister may, if he or she thinks fit, refer the person's case to the Minister of Immigration for consideration under [section 61][246] of the Immigration Act 2009, and in that case that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
     
-    (4) Except as provided in subsection (3), nothing in the [Immigration Act 2009][239] applies to the person named in the certificate while the certificate is in force.
+    (4) Except as provided in subsection (3), nothing in the [Immigration Act 2009][244] applies to the person named in the certificate while the certificate is in force.
     
     (5) If,---
         
@@ -2569,11 +2555,11 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     the Minister must cancel the certificate issued under this section, and must make a removal order under [section 96][129] in respect of the person.
     
-    Section 94(3): substituted, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 94(3): substituted, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
     
-    Section 94(4): amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 94(4): amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
     
-    Section 94(5)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 94(5)(a): amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
 
 ##### 95 Further provisions relating to certificate
     
@@ -2589,7 +2575,7 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     (4) A warrant for the detention of the person issued under subsection (3)(a) may authorise the detention of the person in a prison or any other place in which the person could be detained under [section 26(1)(a)][38] if the person were subject to proceedings under [Part 3][21].
     
-    Section 95(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 95(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
     Section 95(4): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
 
@@ -2629,19 +2615,19 @@ Provisions relating to presence of persons in New Zealand and removal of persons
     
     (7) A removal order made under this section continues in force until it is executed or is cancelled.
     
-    (8) Nothing in the [Immigration Act 2009][239] applies to the person named in the removal order while the order is in force.
+    (8) Nothing in the [Immigration Act 2009][244] applies to the person named in the removal order while the order is in force.
     
-    Section 96(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 96(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
-    Section 96(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 96(1)(a)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
-    Section 96(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 96(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
     Section 96(3)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
     Section 96(6): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
-    Section 96(8): amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 96(8): amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
 
 ##### 97 New Zealand citizens
     
@@ -2660,13 +2646,13 @@ Miscellaneous provisions
     
     (2) The laws relating to the conditions of imprisonment of persons awaiting trial for offences against the law of New Zealand, the treatment of such persons during imprisonment, and the transfer of such persons between institutions apply, so far as applicable and with the necessary modifications, to a person detained in a prison under this Act pending surrender, other than temporary surrender.
     
-    (3) If a person is detained in a prison or is otherwise detained in custody pending surrender under this Act, the person is deemed for the purposes of [section 184][242] of the Corrections Act 2004 to be a person committed to an institution, until he or she is conveyed out of New Zealand.
+    (3) If a person is detained in a prison or is otherwise detained in custody pending surrender under this Act, the person is deemed for the purposes of [section 184][247] of the Corrections Act 2004 to be a person committed to an institution, until he or she is conveyed out of New Zealand.
     
     (4) This section is subject to [section 66][93].
     
     Compare: Extradition Act 1988 s 53 (Aust)
     
-    Section 98(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][201] of the Policing Act 2008 (2008 No 72).
+    Section 98(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][206] of the Policing Act 2008 (2008 No 72).
     
     Section 98(1)(a): amended, on 1 June 2005, by [section 206][162] of the Corrections Act 2004 (2004 No 50).
     
@@ -2692,9 +2678,9 @@ Miscellaneous provisions
     
     *   (f) the provisions of any extradition treaty or arrangements with, or any undertakings given by, any of the countries seeking the surrender.
     
-    (3) Despite subsection (1), if a request for the surrender of a person is received from the International Criminal Court and from 1 or more countries, the priority of the requests must be determined by the Minister in accordance with [sections 61 to 64][243] of the International Crimes and International Criminal Court Act 2000\.
+    (3) Despite subsection (1), if a request for the surrender of a person is received from the International Criminal Court and from 1 or more countries, the priority of the requests must be determined by the Minister in accordance with [sections 61 to 64][248] of the International Crimes and International Criminal Court Act 2000\.
     
-    Section 99(3): added, on 1 July 2002, by [section 184][244] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    Section 99(3): added, on 1 July 2002, by [section 184][249] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
 
 #### Provisions in treaties
 
@@ -2718,49 +2704,53 @@ Miscellaneous provisions
     
     (2) For the purposes of subsection (1), each of the following provisions is a specified provision:
         
-    *   (a) [sections 7][245] and [7A][246] of the Aviation Crimes Act 1972:
+    *   (a) [sections 7][250] and [7A][251] of the Aviation Crimes Act 1972:
     
-    *   (b) [section 35][247] and [section 35A][248] of the Misuse of Drugs Act 1975:
+    *   (b) [section 35][252] and [section 35A][253] of the Misuse of Drugs Act 1975:
     
-    *   (c) [sections 10][249] and [10A][250] of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980:
+    *   (c) [sections 10][254] and [10A][255] of the Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980:
     
-    *   (d) [section 8][251] of the Crimes of Torture Act 1989:
+    *   (d) [section 8][256] of the Crimes of Torture Act 1989:
     
-    *   (e) [section 14][252] of the Maritime Crimes Act 1999:
+    *   (e) [section 14][257] of the Maritime Crimes Act 1999:
     
-    *   (f) [section 10][253] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001:
+    *   (f) [section 10][258] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001:
     
     *   (g) [section 101B][138] of this Act:
     
-    *   (ga) [section 69][254] of the Terrorism Suppression Act 2002:
+    *   (ga) [section 69][259] of the Terrorism Suppression Act 2002:
     
-    *   (h) [section 21][255] of the Mercenary Activities (Prohibition) Act 2004:
+    *   (h) [section 21][260] of the Mercenary Activities (Prohibition) Act 2004:
     
-    *   (i) [section 145C][256] of the Films, Videos, and Publications Classification Act 1993\.
+    *   (i) [section 145C][261] of the Films, Videos, and Publications Classification Act 1993:
     
-    Section 101A: inserted, on 3 May 2001, by [section 12][257] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    *   (j) [section 13][262] of the Cultural Property (Protection in Armed Conflict) Act 2012\.
     
-    Section 101A(2)(b): amended, on 22 June 2005, by [section 23][258] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
+    Section 101A: inserted, on 3 May 2001, by [section 12][263] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
     
-    Section 101A(2)(g): added, by [section 5][259] of the Extradition Amendment Act 2002 (2002 No 21).
+    Section 101A(2)(b): amended, on 22 June 2005, by [section 23][264] of the Misuse of Drugs Amendment Act 2005 (2005 No 81).
     
-    Section 101A(2)(g): brought into force, so far as it implements the TOC convention, on 29 September 2003, by [clause 2][260] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
+    Section 101A(2)(g): added, by [section 5][265] of the Extradition Amendment Act 2002 (2002 No 21).
     
-    Section 101A(2)(g): brought into force, so far as it implements the migrants protocol and trafficking protocol, on 1 January 2004, by [clause 3][261] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
+    Section 101A(2)(g): brought into force, so far as it implements the TOC convention, on 29 September 2003, by [clause 2][266] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
-    Section 101A(2)(ga): added, on 5 December 2002, by [section 76][262] of the Terrorism Suppression Act 2002 (2002 No 34).
+    Section 101A(2)(g): brought into force, so far as it implements the migrants protocol and trafficking protocol, on 1 January 2004, by [clause 3][267] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
-    Section 101A(2)(h): added, on 22 October 2004, by [section 22][263] of the Mercenary Activities (Prohibition) Act 2004 (2004 No 69).
+    Section 101A(2)(ga): added, on 5 December 2002, by [section 76][268] of the Terrorism Suppression Act 2002 (2002 No 34).
     
-    Section 101A(2)(i): added, on 22 February 2005, by [section 34(2)][264] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    Section 101A(2)(h): added, on 22 October 2004, by [section 22][269] of the Mercenary Activities (Prohibition) Act 2004 (2004 No 69).
+    
+    Section 101A(2)(i): added, on 22 February 2005, by [section 34(2)][270] of the Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2).
+    
+    Section 101A(2)(j): inserted, on 1 July 2013, by [section 45][271] of the Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118).
 
 ##### 101B Certain crimes with transnational aspects deemed to be included in extradition treaties
     
-*   (1) For the purposes of this Act and any Order in Council in force under [section 15][25] or [section 104][143], the following offences are deemed to be offences described in any extradition treaty concluded before the commencement of [section 6][265] of the Extradition Amendment Act 2002 and for the time being in force between New Zealand and any foreign country that is a party to a convention or protocol referred to in subsection (5):
+*   (1) For the purposes of this Act and any Order in Council in force under [section 15][25] or [section 104][143], the following offences are deemed to be offences described in any extradition treaty concluded before the commencement of [section 6][272] of the Extradition Amendment Act 2002 and for the time being in force between New Zealand and any foreign country that is a party to a convention or protocol referred to in subsection (5):
         
-    *   (a) every offence against any of [sections 98A][266], [98C][267], [98D][268], [100][269], [101][270], [102][271], [103][272], [104][273], [105][274], [116][275], [117][276], and [257A][277] of the Crimes Act 1961:
+    *   (a) every offence against any of [sections 98A][273], [98C][274], [98D][275], [100][276], [101][277], [102][278], [103][279], [104][280], [105][281], [116][282], [117][283], and [257A][284] of the Crimes Act 1961:
     
-    *   (b) every offence against any of [sections 29A][278], [30][279], [30A][280], [31(1)][281], [31(2)][281], and [32][282] of the Passports Act 1992:
+    *   (b) every offence against any of [sections 29A][285], [30][286], [30A][287], [31(1)][288], [31(2)][288], and [32][289] of the Passports Act 1992:
     
     *   (c) any offence against any enactment if---
             
@@ -2772,7 +2762,7 @@ Miscellaneous provisions
         
         
     
-    (2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with this Act and the applicable extradition treaty, whether the act occurred before or after the commencement of [section 6][265] of the Extradition Amendment Act 2002\.
+    (2) A person whose surrender is sought from New Zealand in respect of an act that amounts to an offence deemed by subsection (1) to be an offence described in an extradition treaty is liable to be surrendered in accordance with this Act and the applicable extradition treaty, whether the act occurred before or after the commencement of [section 6][272] of the Extradition Amendment Act 2002\.
     
     (3) Subsection (2) does not apply in respect of an act that, had it occurred within the jurisdiction of New Zealand, would not, at the time that it occurred, have constituted an offence under New Zealand law.
     
@@ -2792,11 +2782,11 @@ Miscellaneous provisions
     
     _trafficking protocol_ means the Protocol to Prevent, Suppress and Punish Trafficking of Persons, especially Women and Children, supplementing the United Nations Convention Against Transnational Organised Crime, done at New York on 15 November 2000\.
     
-    Section 101B: inserted, by [section 6][259] of the Extradition Amendment Act 2002 (2002 No 21).
+    Section 101B: inserted, by [section 6][265] of the Extradition Amendment Act 2002 (2002 No 21).
     
-    Section 101B: brought into force, so far as it implements the TOC convention, on 29 September 2003, by [clause 2][260] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
+    Section 101B: brought into force, so far as it implements the TOC convention, on 29 September 2003, by [clause 2][266] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
-    Section 101B: brought into force, so far as it implements the migrants protocol and trafficking protocol, on 1 January 2004, by [clause 3][261] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
+    Section 101B: brought into force, so far as it implements the migrants protocol and trafficking protocol, on 1 January 2004, by [clause 3][267] of the Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
 
 #### Regulations
 
@@ -2832,7 +2822,7 @@ Miscellaneous provisions
 
 ##### 103 Rules relating to appeals
     
-*   Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the [Judicature Act 1908][283].
+*   Rules regulating the practice and procedure in appeals to the High Court under this Act may be made in the manner in which rules of court are made under the [Judicature Act 1908][290].
 
 #### Transitional and savings provisions
 
@@ -2880,27 +2870,27 @@ Miscellaneous provisions
     
     (7) An order for the surrender of a person made before the commencement of this Act under the Extradition Act 1965 has effect as if it had been made under [Part 3][21].
     
-    (8) Nothing in this section limits the [Interpretation Act 1999][284].
+    (8) Nothing in this section limits the [Interpretation Act 1999][291].
     
-    Section 106(8): amended, on 1 November 1999, pursuant to [section 38(1)][285] of the Interpretation Act 1999 (1999 No 85).
+    Section 106(8): amended, on 1 November 1999, pursuant to [section 38(1)][292] of the Interpretation Act 1999 (1999 No 85).
 
 ##### 107 Immigration Act 2009 not affected
     
-*   Except as provided in [Part 11][122], this Act does not limit or affect the [Immigration Act 2009][239].
+*   Except as provided in [Part 11][122], this Act does not limit or affect the [Immigration Act 2009][244].
     
-    Section 107 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 107 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
     
-    Section 107: amended, at 2 am on 29 November 2010, by [section 406(1)][240] of the Immigration Act 2009 (2009 No 51).
+    Section 107: amended, at 2 am on 29 November 2010, by [section 406(1)][245] of the Immigration Act 2009 (2009 No 51).
 
 ##### 108 Citizenship Act 1977 not affected
     
-*   This Act does not limit or affect the [Citizenship Act 1977][286].
+*   This Act does not limit or affect the [Citizenship Act 1977][293].
 
 ##### 109 Arrest of deserters from other armed forces
     
-*   This Act does not limit or affect [section 89A][287] or [section 92A][288] or [section 93B][289] or [section 93C][290] of the Armed Forces Discipline Act 1971\.
+*   This Act does not limit or affect [section 89A][294] or [section 92A][295] or [section 93B][296] or [section 93C][297] of the Armed Forces Discipline Act 1971\.
     
-    Section 109: substituted, on 1 July 2004, by [section 26][291] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 109: substituted, on 1 July 2004, by [section 26][298] of the Visiting Forces Act 2004 (2004 No 59).
 
 #### Amendments and repeals
 
@@ -2932,9 +2922,9 @@ Miscellaneous provisions
     
     *   (b) Fugitive Offenders (Protected States) Act 1915 (5 and 6 Geo 5, c 39).
     
-    (3) Subject to this Act, [sections 17 to 22][292] of the Interpretation Act 1999 apply with respect to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
+    (3) Subject to this Act, [sections 17 to 22][299] of the Interpretation Act 1999 apply with respect to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
     
-    Section 112(3): amended, on 1 November 1999, pursuant to [section 38(1)][285] of the Interpretation Act 1999 (1999 No 85).
+    Section 112(3): amended, on 1 November 1999, pursuant to [section 38(1)][292] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -3165,11 +3155,11 @@ Acts amended
 
 ##### Abolition of the Death Penalty Act 1989 (1989 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][293]._
+_Amendment(s) incorporated in the [Act(s)][300]._
 
 ##### Aviation Crimes Act 1972 (1972 No 137) (RS Vol 23, p 213)
 
-_Amendment(s) incorporated in the [Act(s)][245]._
+_Amendment(s) incorporated in the [Act(s)][250]._
 
 ##### Crimes Amendment Act 1995 (1995 No 49)
 
@@ -3181,19 +3171,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Crimes (Internationally Protected Persons and Hostages) Amendment Act 1998 (1998 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][294]._
+_Amendment(s) incorporated in the [Act(s)][301]._
 
 ##### Crimes (Internationally Protected Persons, United Nations and Associated Personnel, and Hostages) Act 1980 (1980 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][295]._
+_Amendment(s) incorporated in the [Act(s)][302]._
 
 ##### Crimes of Torture Act 1989 (1989 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][296]._
+_Amendment(s) incorporated in the [Act(s)][303]._
 
 ##### Criminal Justice Act 1985 (1985 No 120)
 
-_Amendment(s) incorporated in the [Act(s)][297]._
+_Amendment(s) incorporated in the [Act(s)][304]._
 
 ##### District Courts Amendment Act 1998 (1998 No 76)
 
@@ -3201,7 +3191,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Imperial Laws Application Act 1988 (1988 No 112) (RS Vol 30, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][298]._
+_Amendment(s) incorporated in the [Act(s)][305]._
 
 ##### Legal Services Act 1991 (1991 No 71)
 
@@ -3209,166 +3199,59 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][299]._
+_Amendment(s) incorporated in the [Act(s)][306]._
 
 ##### Misuse of Drugs Amendment Act 1998 (1998 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][300]._
+_Amendment(s) incorporated in the [Act(s)][307]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
 
-_Amendment(s) incorporated in the [Act(s)][301]._
+_Amendment(s) incorporated in the [Act(s)][308]._
+
+#### 
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][302].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][303] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Extradition Act 1999\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][304] ![](/images/external_link.gif).
+*   This is a reprint of the Extradition Act 1999 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][305] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][309] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][310] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][306] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][311] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][312] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][307] and [17E][308] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][172]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Cultural Property (Protection in Armed Conflict) Act 2012 (2012 No 118): [section 45][271]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Search and Surveillance Act 2012 (2012 No 24): [section 240][237]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][193]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Immigration Act 2009 (2009 No 51): [section 406(1) ][245]
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 240][232]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][206], [130(1)][313]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1) ][240]
-    
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv)][201], [130(1)][309]
-    
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][187]
+    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][190]
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][164]
     
-    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][258]
+    Misuse of Drugs Amendment Act 2005 (2005 No 81): [section 23][264]
     
-    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 34(2)][310]
+    Films, Videos, and Publications Classification Amendment Act 2005 (2005 No 2): [section 34(2)][314]
     
-    Mercenary Activities (Prohibition) Act 2004 (2004 No 69): [section 22][263]
+    Mercenary Activities (Prohibition) Act 2004 (2004 No 69): [section 22][269]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][311]
+    Visiting Forces Act 2004 (2004 No 59): [section 26][315]
     
     Corrections Act 2004 (2004 No 50): [section 206][162]
     
@@ -3376,27 +3259,27 @@ Amendments, repeals, and miscellaneous provisions
     
     Extradition Amendment Act Commencement Order 2003 (SR 2003/238).
     
-    [Extradition Amendment Act (No 2) 2002][312] (2002 No 64)
+    [Extradition Amendment Act (No 2) 2002][316] (2002 No 64)
     
-    Terrorism Suppression Act 2002 (2002 No 34): [section 76][313]
+    Terrorism Suppression Act 2002 (2002 No 34): [section 76][317]
     
-    [Extradition Amendment Act 2002][314] (2002 No 21)
+    [Extradition Amendment Act 2002][318] (2002 No 21)
     
     Parole Act 2002 (2002 No 10): [section 125][163]
     
     Sentencing Act 2002 (2002 No 9): [section 186][165]
     
-    Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28): [section 12][257]
+    Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28): [section 12][263]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][188]
+    Bail Act 2000 (2000 No 38): [section 74(2)][191]
     
-    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 184][244]
+    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 184][249]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][285]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][292]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1999/0055/latest/whole.html#DLM25630
 [2]: http://www.legislation.govt.nz/act/public/1999/0055/latest/whole.html#DLM25632
 [3]: http://www.legislation.govt.nz/act/public/1999/0055/latest/whole.html#DLM25633
@@ -3565,149 +3448,153 @@ Amendments, repeals, and miscellaneous provisions
 [166]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168757
 [167]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM224577
 [168]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM224534
-[169]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM195534
-[170]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145467
-[171]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168758
-[172]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168759
-[173]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313128
-[174]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313732
-[175]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314068
-[176]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314078
-[177]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314081
-[178]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68901
-[179]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68906
-[180]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68930
-[181]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68985
-[182]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM223817
-[183]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311143
-[184]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311662
-[185]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313185
-[186]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68942
-[187]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1380050
-[188]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM69643
-[189]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168760
-[190]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68947
-[191]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68989
-[192]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168761
-[193]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168762
-[194]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2185875
-[195]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68993
-[196]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168763
-[197]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274445
-[198]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168764
-[199]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145468
-[200]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168766
-[201]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102349
-[202]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168767
-[203]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311185
-[204]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM224509
-[205]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311140
-[206]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168768
-[207]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168769
-[208]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168771
-[209]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168773
-[210]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM139346
-[211]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274059
-[212]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM294857
-[213]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312658
-[214]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM310742
-[215]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68379
-[216]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312661
-[217]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312662
-[218]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312663
-[219]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312664
-[220]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312666
-[221]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312919
-[222]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312951
-[223]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312952
-[224]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312962
-[225]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313119
-[226]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313122
-[227]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68983
-[228]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM312656
-[229]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168774
-[230]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274491
-[231]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136643
-[232]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136973
-[233]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136542
-[234]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136781
-[235]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM273056
-[236]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136770
-[237]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136860
-[238]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274453
-[239]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1440300
-[240]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1441347
-[241]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1440673
-[242]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM296594
-[243]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM64436
-[244]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM65525
-[245]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM409180
-[246]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM409186
-[247]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436537
-[248]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436541
-[249]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM36740
-[250]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM36745
-[251]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192853
-[252]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM28250
-[253]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM91275
-[254]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM153351
-[255]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM304868
-[256]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314406
-[257]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM91284
-[258]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM356263
-[259]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145469
-[260]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM211103
-[261]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM211104
-[262]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM153368
-[263]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM304871
-[264]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313470
-[265]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145470
-[266]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328596
-[267]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328720
-[268]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328722
-[269]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328743
-[270]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328744
-[271]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328746
-[272]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328748
-[273]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328751
-[274]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328753
-[275]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329005
-[276]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329007
-[277]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM330448
-[278]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278086
-[279]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278094
-[280]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278097
-[281]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278099
-[282]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278310
-[283]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM144692
-[284]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31458
-[285]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31885
-[286]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM443683
-[287]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403035
-[288]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403046
-[289]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403061
-[290]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403063
-[291]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302851
-[292]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31486
-[293]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM193585
-[294]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426433
-[295]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426419
-[296]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192817
-[297]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM76615
-[298]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM135073
-[299]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436100
-[300]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM425311
-[301]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311183
-[302]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136500
-[303]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM4686448
-[304]: http://www.pco.parliament.govt.nz/reprints/
-[305]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM195439
-[306]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[307]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM195468
-[308]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM195470
-[309]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102383
-[310]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM333724
-[311]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302847
-[312]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168751
-[313]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2456106
-[314]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145461
+[169]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2997643
+[170]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998573
+[171]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145467
+[172]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998633
+[173]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168758
+[174]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168759
+[175]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313128
+[176]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313732
+[177]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314068
+[178]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314078
+[179]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314081
+[180]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68901
+[181]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68906
+[182]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68930
+[183]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68985
+[184]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM223817
+[185]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311143
+[186]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311662
+[187]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313185
+[188]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68942
+[189]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3865811
+[190]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1380050
+[191]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM69643
+[192]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168760
+[193]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360714
+[194]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68947
+[195]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68989
+[196]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM4057411
+[197]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168761
+[198]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168762
+[199]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2185875
+[200]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68993
+[201]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168763
+[202]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274445
+[203]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168764
+[204]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145468
+[205]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168766
+[206]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102349
+[207]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168767
+[208]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3359902
+[209]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360057
+[210]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360079
+[211]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360268
+[212]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360327
+[213]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360580
+[214]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360596
+[215]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68938
+[216]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM224509
+[217]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360288
+[218]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68940
+[219]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360287
+[220]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68944
+[221]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68957
+[222]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68959
+[223]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68977
+[224]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM68979
+[225]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360289
+[226]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168769
+[227]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168771
+[228]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168773
+[229]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM139346
+[230]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274059
+[231]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM294857
+[232]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM69603
+[233]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM3360482
+[234]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274491
+[235]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2568018
+[236]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136643
+[237]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136973
+[238]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136542
+[239]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136781
+[240]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM273056
+[241]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136770
+[242]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2136860
+[243]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM274453
+[244]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1440300
+[245]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1441347
+[246]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1440673
+[247]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM296594
+[248]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM64436
+[249]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM65525
+[250]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM409180
+[251]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM409186
+[252]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436537
+[253]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436541
+[254]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM36740
+[255]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM36745
+[256]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192853
+[257]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM28250
+[258]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM91275
+[259]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM153351
+[260]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM304868
+[261]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM314406
+[262]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1559852
+[263]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM91284
+[264]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM356263
+[265]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145469
+[266]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM211103
+[267]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM211104
+[268]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM153368
+[269]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM304871
+[270]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM313470
+[271]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1559929
+[272]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145470
+[273]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328596
+[274]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328720
+[275]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328722
+[276]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328743
+[277]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328744
+[278]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328746
+[279]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328748
+[280]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328751
+[281]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM328753
+[282]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329005
+[283]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM329007
+[284]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM330448
+[285]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278086
+[286]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278094
+[287]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278097
+[288]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278099
+[289]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM278310
+[290]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM144692
+[291]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31458
+[292]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31885
+[293]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM443683
+[294]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403035
+[295]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403046
+[296]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403061
+[297]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM403063
+[298]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302851
+[299]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM31486
+[300]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM193585
+[301]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426433
+[302]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM426419
+[303]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM192817
+[304]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM76615
+[305]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM135073
+[306]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM436100
+[307]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM425311
+[308]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM311183
+[309]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998516
+[310]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998515
+[311]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2998532
+[312]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[313]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM1102383
+[314]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM333724
+[315]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM302847
+[316]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM168751
+[317]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM2456106
+[318]: http://www.legislation.govt.nz/act/public/1999/0055/latest/link.aspx?id=DLM145461
