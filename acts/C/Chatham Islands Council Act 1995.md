@@ -1,7 +1,7 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Chatham Islands Council Act 1995Public Act1995 No 41
 
@@ -25,105 +25,105 @@ This Act is administered by the Department of Internal Affairs.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Dissolution of Chatham Islands County Council][4]
 
-[3][5] [Dissolution of Chatham Islands County Council][5]
+[3][5][][5][Dissolution of Chatham Islands County Council][5]
 
 [Abolition of Chatham Islands County][6]
 
-[4][7] [Abolition of Chatham Islands County][7]
+[4][7][][7][Abolition of Chatham Islands County][7]
 
 [Constitution of Chatham Islands Territory][8]
 
-[5][9] [Constitution of Chatham Islands Territory][9]
+[5][9][][9][Constitution of Chatham Islands Territory][9]
 
 [Constitution of Chatham Islands Council][10]
 
-[6][11] [Constitution of Chatham Islands Council][11]
+[6][11][][11][Constitution of Chatham Islands Council][11]
 
-[7][12] [Functions, duties, and powers][12]
+[7][12][][12][Functions, duties, and powers][12]
 
 [Membership and elections][13]
 
-[8][14] [Membership and elections][14]
+[8][14][][14][Membership and elections][14]
 
 [Procedure][15]
 
-[9][16] [Public notice][16]
+[9][16][][16][Public notice][16]
 
 [Annual reports][17]
 
-[10][18] [Annual plan][18] \[Repealed\]
+[10][18][][18][Annual plan][18] \[Repealed\]
 
-[11][19] [Annual report][19] \[Repealed\]
+[11][19][][19][Annual report][19] \[Repealed\]
 
-[12][20] [Public inspection of reports][20]
+[12][20][][20][Public inspection of reports][20]
 
 [Financial systems][21]
 
-[13][22] [Financial systems][22]
+[13][22][][22][Financial systems][22]
 
 [Council dues][23]
 
-[14][24] [Power to levy council dues][24]
+[14][24][][24][Power to levy council dues][24]
 
-[15][25] [Application of proceeds of council dues][25]
+[15][25][][25][Application of proceeds of council dues][25]
 
-[16][26] [Persons liable to pay council dues][26]
+[16][26][][26][Persons liable to pay council dues][26]
 
-[17][27] [Right to hold owner's money][27]
+[17][27][][27][Right to hold owner's money][27]
 
-[18][28] [Information to be supplied by importer and exporter][28]
+[18][28][][28][Information to be supplied by importer and exporter][28]
 
-[19][29] [Verification of cargo][29]
+[19][29][][29][Verification of cargo][29]
 
-[20][30] [Verification Officers][30]
+[20][30][][30][Verification Officers][30]
 
-[21][31] [Warrant of appointment][31]
+[21][31][][31][Warrant of appointment][31]
 
-[22][32] [Offence of acting without warrant][32]
+[22][32][][32][Offence of acting without warrant][32]
 
-[23][33] [Offences of masters, owners, etc][33]
+[23][33][][33][Offences of masters, owners, etc][33]
 
-[24][34] [Recovery of unpaid dues][34]
+[24][34][][34][Recovery of unpaid dues][34]
 
-[25][35] [Saving of other powers of Council][35]
+[25][35][][35][Saving of other powers of Council][35]
 
 [Resource management][36]
 
-[26][37] [Resource management planning][37]
+[26][37][][37][Resource management planning][37]
 
-[27][38] [Time periods for consent hearings][38]
+[27][38][][38][Time periods for consent hearings][38]
 
-[28][39] [Enforcement officers][39]
+[28][39][][39][Enforcement officers][39]
 
 [Bylaws][40]
 
-[29][41] [Bylaws][41]
+[29][41][][41][Bylaws][41]
 
 [Repeals, amendments, and transitional provisions][42]
 
-[30][43] [Repeals][43]
+[30][43][][43][Repeals][43]
 
-[31][44] [Amendments to Local Government Act 1974][44] \[Repealed\]
+[31][44][][44][Amendments to Local Government Act 1974][44] \[Repealed\]
 
-[32][45] [Amendment to Ombudsmen Act 1975][45]
+[32][45][][45][Amendment to Ombudsmen Act 1975][45]
 
-[33][46] [Amendment to Local Government Official Information and Meetings Act 1987][46]
+[33][46][][46][Amendment to Local Government Official Information and Meetings Act 1987][46]
 
-[34][47] [Amendment to Rating Powers Act 1988][47] \[Repealed\]
+[34][47][][47][Amendment to Rating Powers Act 1988][47] \[Repealed\]
 
-[35][48] [Amendment to Resource Management Act 1991][48] \[Repealed\]
+[35][48][][48][Amendment to Resource Management Act 1991][48] \[Repealed\]
 
-[36][49] [Amendment to Biosecurity Act 1993][49]
+[36][49][][49][Amendment to Biosecurity Act 1993][49]
 
-[37][50] [Amendments to Income Tax Act 1994][50] \[Repealed\]
+[37][50][][50][Amendments to Income Tax Act 1994][50] \[Repealed\]
 
-[38][51] [Transitional provisions][51]
+[38][51][][51][Transitional provisions][51]
 
 [Schedule][52]  
 [Transitional provisions in relation to dissolution of Chatham Islands County Council and establishment of Chatham Islands Council][52]
@@ -452,7 +452,7 @@ An Act---
     
     (6) The Chatham Islands Council may at any time revoke a notice given under subsection (3) by giving to the person to whom that notice was given a written notice revoking the notice given under subsection (3).
     
-    (7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500---
+    (7) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500---
         
     *   (a) who fails to comply with a notice under subsection (3); or
     
@@ -465,6 +465,8 @@ An Act---
     Section 16(5A): inserted, on 19 December 2002, by [section 3(2)][73] of the Chatham Islands Council Amendment Act 2002 (2002 No 61).
     
     Section 16(5B): inserted, on 19 December 2002, by [section 3(2)][73] of the Chatham Islands Council Amendment Act 2002 (2002 No 61).
+    
+    Section 16(7): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Right to hold owner's money
     
@@ -512,7 +514,9 @@ An Act---
         
         
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who wilfully obstructs or hinders any Verification Officer in the execution of his or her duties.
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who wilfully obstructs or hinders any Verification Officer in the execution of his or her duties.
+    
+    Section 20(3): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Warrant of appointment
     
@@ -526,7 +530,9 @@ An Act---
 
 ##### 22 Offence of acting without warrant
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,500 who, not being the holder of a warrant under [section 21][31], represents himself or herself to be a Verification Officer.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $1,500 who, not being the holder of a warrant under [section 21][31], represents himself or herself to be a Verification Officer.
+    
+    Section 22: amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Offences of masters, owners, etc
     
@@ -536,7 +542,7 @@ An Act---
     
     *   (b) makes a false declaration in respect of any goods liable to payment of council dues.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction---
         
     *   (a) to a fine not exceeding $1,500; or
     
@@ -545,6 +551,8 @@ An Act---
     (3) The imposition on any person of a fine upon that person's conviction for an offence against subsection (1) does not preclude the Chatham Islands Council from recovering the amount of any unpaid council dues in respect of any goods to which the offence related.
     
     Compare: 1980 No 6 (L) s 11
+    
+    Section 23(2): amended, on 1 July 2013, by [section 413][74] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Recovery of unpaid dues
     
@@ -576,13 +584,13 @@ An Act---
     
     (3) That document may contain, in addition, provision for---
         
-    *   (a) such matters as are provided for in [section 67][74] of the Resource Management Act 1991; and
+    *   (a) such matters as are provided for in [section 67][75] of the Resource Management Act 1991; and
     
-    *   (b) regional rules made in accordance with [section 68][75] of the Resource Management Act 1991\.
+    *   (b) regional rules made in accordance with [section 68][76] of the Resource Management Act 1991\.
     
-    (4) The Chatham Islands Council may develop, in addition to the document specified in subsection (1), one or more regional plans in accordance with [section 65][76] of the Resource Management Act 1991\.
+    (4) The Chatham Islands Council may develop, in addition to the document specified in subsection (1), one or more regional plans in accordance with [section 65][77] of the Resource Management Act 1991\.
     
-    (5) Notwithstanding [section 28(b)][77] of the Resource Management Act 1991, the Minister of Conservation shall have the function of approving such part of the document specified in subsection (1) as relates to the coastal marine area.
+    (5) Notwithstanding [section 28(b)][78] of the Resource Management Act 1991, the Minister of Conservation shall have the function of approving such part of the document specified in subsection (1) as relates to the coastal marine area.
     
     (6) The Chatham Islands Council shall publicly notify the proposed Chatham Islands resource management document no later than 2 years after the commencement of this Act.
 
@@ -592,7 +600,7 @@ An Act---
 
 ##### 28 Enforcement officers
     
-*   Notwithstanding [section 38][78] of the Resource Management Act 1991, the Chatham Islands Council may authorise---
+*   Notwithstanding [section 38][79] of the Resource Management Act 1991, the Chatham Islands Council may authorise---
         
     *   (a) any of its officers; or
     
@@ -600,7 +608,7 @@ An Act---
     
     to carry out all or any of the functions and powers as an enforcement officer under that Act.
     
-    Section 28(b): amended, on 1 March 1998, pursuant to [section 5(1)(c)][79] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
+    Section 28(b): amended, on 1 March 1998, pursuant to [section 5(1)(c)][80] of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100).
 
 #### Bylaws
 
@@ -632,15 +640,15 @@ An Act---
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 July 2003, by [section 266][80] of the Local Government Act 2002 (2002 No 84).
+    Section 31: repealed, on 1 July 2003, by [section 266][81] of the Local Government Act 2002 (2002 No 84).
 
 ##### 32 Amendment to Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][81]_.
+*   _Amendment(s) incorporated in the [Act(s)][82]_.
 
 ##### 33 Amendment to Local Government Official Information and Meetings Act 1987
     
-*   _Amendment(s) incorporated in the [Act(s)][82]_.
+*   _Amendment(s) incorporated in the [Act(s)][83]_.
 
 ##### 34 Amendment to Rating Powers Act 1988
     
@@ -652,17 +660,17 @@ An Act---
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 7 July 2004, by [section 4][83] of the Chatham Islands Council Amendment Act 2004 (2004 No 60).
+    Section 35: repealed, on 7 July 2004, by [section 4][84] of the Chatham Islands Council Amendment Act 2004 (2004 No 60).
 
 ##### 36 Amendment to Biosecurity Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][84]_.
+*   _Amendment(s) incorporated in the [Act(s)][85]_.
 
 ##### 37 Amendments to Income Tax Act 1994
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][85] of the Income Tax Act 2004 (2004 No 35).
+    Section 37: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][86] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 38 Transitional provisions
     
@@ -685,7 +693,7 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
     *   (c) shall have and may exercise, and shall be responsible for, all of the actions, suits, and proceedings pending by or against the former council, or which would have been the responsibility of the former council had it not been dissolved.
     
-    Compare: 1974 No 66 Schedule 3B [cl 12][86]; 1989 No 29 [s 45(1)][87]
+    Compare: 1974 No 66 Schedule 3B [cl 12][87]; 1989 No 29 [s 45(1)][88]
 
 ##### 2 Mayor and chief executive
     
@@ -693,7 +701,7 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
     (2) Unless otherwise specified in this Act or any other Act, the chief executive of the Chatham Islands Council has and may exercise the duties, functions, and powers of the principal administrative officer of the former council.
     
-    Compare: 1974 No 66 Schedule 3B [cl 13][88]; 1989 No 29 [s 45(1)][87]
+    Compare: 1974 No 66 Schedule 3B [cl 13][89]; 1989 No 29 [s 45(1)][88]
     
     Schedule clause 2 heading: amended, on 1 July 2003, by [section 262][55] of the Local Government Act 2002 (2002 No 84).
     
@@ -721,7 +729,7 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
 *   All property, real and personal, vested in the corporation of the former council as at the close of 31 October 1995 is hereby vested in the corporation of the Chatham Islands Council, subject to all existing encumbrances.
     
-    Compare: 1974 No 66 Schedule 3B [cl 14][89]; 1989 No 29 [s 45(1)][87]
+    Compare: 1974 No 66 Schedule 3B [cl 14][90]; 1989 No 29 [s 45(1)][88]
 
 ##### 6 Bylaws
     
@@ -745,19 +753,19 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
 *   (1) Notwithstanding [section 11(11)][19], where the former council has not, at the close of 31 October 1995, adopted the report required to be adopted, under [section 223E(1)][64] of the Local Government Act 1974, in respect of the financial year that ended with 30 June 1995, the Chatham Islands Council shall, as if it were the former council, prepare and adopt, under [section 223E(1)][64] of the Local Government Act 1974, a report in respect of that financial year.
     
-    (2) Notwithstanding anything in [section 3][5] or [section 6][11], the annual report prepared and adopted by the Chatham Islands Council under [section 11][19] for the year ending with 30 June 1996 shall assess the performance of both the former council and the Chatham Islands Council over the whole of the period of 12 months ending with 30 June 1996 and, for the purposes of that report, section 11 shall be read as if the references to the report adopted in respect of that financial year under [section 10][18] were references to the report to which [clause 8][90] refers.
+    (2) Notwithstanding anything in [section 3][5] or [section 6][11], the annual report prepared and adopted by the Chatham Islands Council under [section 11][19] for the year ending with 30 June 1996 shall assess the performance of both the former council and the Chatham Islands Council over the whole of the period of 12 months ending with 30 June 1996 and, for the purposes of that report, section 11 shall be read as if the references to the report adopted in respect of that financial year under [section 10][18] were references to the report to which [clause 8][91] refers.
 
 ##### 10 Rates, dues, and other money
     
 *   All rates, dues, or other money that would have been payable to the former council if it had not been dissolved shall be due and payable to the Chatham Islands Council.
     
-    Compare: 1974 No 66 Schedule 3B [cl 17(1)][91]; 1989 No 29 [s 45(1)][87]
+    Compare: 1974 No 66 Schedule 3B [cl 17(1)][92]; 1989 No 29 [s 45(1)][88]
 
 ##### 11 Valuation rolls, electoral rolls, and rate records
     
 *   The valuation rolls, electoral rolls, and rate records in force, as at the close of 31 October 1995, in the district of the Chatham Islands County Council shall continue in force in that district until new rolls or records are made by the Chatham Islands Council.
     
-    Compare: 1974 No 66 Schedule 3B [cl 20][92]; 1989 No 29 [s 45(1)][87]
+    Compare: 1974 No 66 Schedule 3B [cl 20][93]; 1989 No 29 [s 45(1)][88]
 
 ##### 12 Certain matters not affected by transfer of functions, duties, or powers
     
@@ -773,11 +781,11 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
     *   (e) shall invalidate or discharge any contract or security.
     
-    Compare: 1974 No 66 [s 37ZZX][93]; 1989 No 29 [s 10(1)][94]
+    Compare: 1974 No 66 [s 37ZZX][94]; 1989 No 29 [s 10(1)][95]
 
 ##### 13 Registers
     
-*   (1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged, solely by reason of [clause 5][95], to change the name of the former council to that of the Chatham Islands Council in those books or registers or in any document.
+*   (1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged, solely by reason of [clause 5][96], to change the name of the former council to that of the Chatham Islands Council in those books or registers or in any document.
     
     (2) The presentation to any Registrar or other person of any instrument, whether or not comprising any instrument of transfer by the Chatham Islands Council---
         
@@ -785,15 +793,15 @@ Transitional provisions in relation to dissolution of Chatham Islands County Cou
     
     *   (b) relating to any property held by the former council as at the close of 31 October 1995; and
     
-    *   (c) containing a recital that the property has been vested in the Chatham Islands Council by virtue of [clause 5][95],---
+    *   (c) containing a recital that the property has been vested in the Chatham Islands Council by virtue of [clause 5][96],---
     
     shall, in the absence of proof to the contrary, be sufficient evidence that the property is vested in the Chatham Islands Council.
     
-    (3) Except as otherwise provided in this clause, nothing in this Act shall derogate from the provisions of the [Land Transfer Act 1952][96].
+    (3) Except as otherwise provided in this clause, nothing in this Act shall derogate from the provisions of the [Land Transfer Act 1952][97].
 
 ##### 14 Remuneration
     
-*   Nothing in [section 101ZZQ][97] of the Local Government Act 1974 shall apply in respect of the first determination of remuneration made after the commencement of this clause in relation to the Chatham Islands Council.
+*   Nothing in [section 101ZZQ][98] of the Local Government Act 1974 shall apply in respect of the first determination of remuneration made after the commencement of this clause in relation to the Chatham Islands Council.
 
 ---
 
@@ -865,23 +873,23 @@ Replacement of rates and miscellaneous matters
 
 ###### 1 General
     
-*   This is a reprint of the Chatham Islands Council Act 1995\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Chatham Islands Council Act 1995\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][98] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][99] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][100] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][101] and [17E][102] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -912,19 +920,21 @@ Replacement of rates and miscellaneous matters
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Chatham Islands Council Amendment Act 2010][103] (2010 No 52)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][74]
     
-    [Chatham Islands Council Amendment Act 2004][104] (2004 No 60)
+    [Chatham Islands Council Amendment Act 2010][104] (2010 No 52)
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][85]
+    [Chatham Islands Council Amendment Act 2004][105] (2004 No 60)
     
-    Local Government Act 2002 (2002 No 84): [sections 262][55], [266][80]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][86]
+    
+    Local Government Act 2002 (2002 No 84): [sections 262][55], [266][81]
     
     [Chatham Islands Council Amendment Act 2002][72] (2002 No 61)
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][71]
     
-    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][79]
+    Ministries of Agriculture and Forestry (Restructuring) Act 1997 (1997 No 100): [section 5(1)(c)][80]
     
     Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 9][70]
 
@@ -1004,34 +1014,35 @@ Replacement of rates and miscellaneous matters
 [71]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM133500
 [72]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM167868
 [73]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM167874
-[74]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233630
-[75]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233635
-[76]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233613
-[77]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM232548
-[78]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233057
-[79]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM418619
-[80]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM174092
-[81]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM431685
-[82]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM123625
-[83]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM303111
-[84]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM314629
-[85]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM277147
-[86]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425489
-[87]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM159271
-[88]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425490
-[89]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425491
-[90]: http://www.legislation.govt.nz/act/public/1995/0041/latest/whole.html#DLM368067
-[91]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425494
-[92]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425497
-[93]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM416998
-[94]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM159220
-[95]: http://www.legislation.govt.nz/act/public/1995/0041/latest/whole.html#DLM368064
-[96]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM269031
-[97]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM418135
-[98]: http://www.pco.parliament.govt.nz/reprints/
-[99]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195439
-[100]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[101]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195468
-[102]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195470
-[103]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM3040500
-[104]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM303104
+[74]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM3360714
+[75]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233630
+[76]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233635
+[77]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233613
+[78]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM232548
+[79]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM233057
+[80]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM418619
+[81]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM174092
+[82]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM431685
+[83]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM123625
+[84]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM303111
+[85]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM314629
+[86]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM277147
+[87]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425489
+[88]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM159271
+[89]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425490
+[90]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425491
+[91]: http://www.legislation.govt.nz/act/public/1995/0041/latest/whole.html#DLM368067
+[92]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425494
+[93]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM425497
+[94]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM416998
+[95]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM159220
+[96]: http://www.legislation.govt.nz/act/public/1995/0041/latest/whole.html#DLM368064
+[97]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM269031
+[98]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM418135
+[99]: http://www.pco.parliament.govt.nz/reprints/
+[100]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195439
+[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[102]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195468
+[103]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM195470
+[104]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM3040500
+[105]: http://www.legislation.govt.nz/act/public/1995/0041/latest/link.aspx?id=DLM303104
