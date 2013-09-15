@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -355,7 +355,9 @@ This Act is administered by the Ministry of Business, Innovation, and Employment
 
 [Proceedings for offences generally][164]
 
-[111][165][][165][Proceedings for offences generally][165]
+\[Repealed\]
+
+[111][165][][165][Proceedings for offences generally][165] \[Repealed\]
 
 [Proceedings for infringement offences][166]
 
@@ -2658,11 +2660,15 @@ Enforcement
 
 #### Proceedings for offences generally
 
+\[Repealed\]
+    
+*   Heading: repealed, on 1 July 2013, pursuant to [section 413][322] of the Criminal Procedure Act 2011 (2011 No 81).
+
 ##### 111 Proceedings for offences generally
     
-*   (1) Every offence against this Act is punishable on summary conviction.
+*   \[Repealed\]
     
-    (2) Despite [section 14][322] of the Summary Proceedings Act 1957, any information for an offence against [section 99][147] may be laid at any time within 1 year after the facts alleged in the information have been brought to the knowledge of the informant.
+    Section 111: repealed, on 1 July 2013, by [section 413][322] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Proceedings for infringement offences
 
@@ -2670,11 +2676,13 @@ Enforcement
     
 *   (1) If a person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against summarily for the offence; or
+    *   (a) be proceeded against by filing a charging document under [section 14][323] of the Criminal Procedure Act 2011; or
     
     *   (b) be issued with an infringement notice as provided in [section 113][168].
     
-    (2) If an infringement notice has been issued under [section 113][168], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][323] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
+    (2) If an infringement notice has been issued under [section 113][168], proceedings for the offence to which the notice relates may be commenced in accordance with [section 21][324] of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with the necessary modifications.
+    
+    Section 112(1)(a): replaced, on 1 July 2013, by [section 413][322] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Issue of infringement notices
     
@@ -2692,7 +2700,7 @@ Enforcement
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][323] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][324] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the person's right to request a hearing; and
     
@@ -2706,7 +2714,7 @@ Enforcement
     
 *   All infringement fees are payable to the Registrar, and the Registrar must pay all infringement fees received into a Crown Bank Account.
     
-    Section 115: amended, on 25 January 2005, pursuant to [section 65R(3)][324] of the Public Finance Act 1989 (1989 No 44).
+    Section 115: amended, on 25 January 2005, pursuant to [section 65R(3)][325] of the Public Finance Act 1989 (1989 No 44).
 
 #### Penalties
 
@@ -2738,9 +2746,9 @@ Enforcement
     
     *   (j) [section 110][163] (which relates to resisting or obstructing any person executing, or assisting in the execution of, a search warrant).
     
-    Section 116(2)(a): amended, on 1 October 2010, by [section 22(1)][325] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 116(2)(a): amended, on 1 October 2010, by [section 22(1)][326] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 116(2)(fa): inserted, on 1 October 2010, by [section 22(2)][325] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 116(2)(fa): inserted, on 1 October 2010, by [section 22(2)][326] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 117 Penalties for offences under sections 98, 103, and 104
     
@@ -2784,9 +2792,9 @@ Enforcement
     
     *   (g) \[Repealed\]
     
-    Section 118(2)(f): substituted, on 1 October 2010, by [section 23][326] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 118(2)(f): substituted, on 1 October 2010, by [section 23][327] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
     
-    Section 118(2)(g): repealed, on 1 October 2010, by [section 23][326] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
+    Section 118(2)(g): repealed, on 1 October 2010, by [section 23][327] of the Motor Vehicle Sales Amendment Act 2010 (2010 No 112).
 
 ##### 119 Power of District Court to impose additional penalty in certain cases
     
@@ -2930,7 +2938,7 @@ Enforcement
     
     *   (b) for the purposes of this Act; or
     
-    *   (c) in accordance with the [Official Information Act 1982][327] or the [Privacy Act 1993][328]; or
+    *   (c) in accordance with the [Official Information Act 1982][328] or the [Privacy Act 1993][329]; or
     
     *   (d) for the purposes of any court proceedings; or
     
@@ -2942,7 +2950,7 @@ Enforcement
 
 ##### 130 Issue of warrant
     
-*   (1) Any issuing officer (within the meaning of [section 3][329] of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in [subpart 3][330] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
+*   (1) Any issuing officer (within the meaning of [section 3][330] of the Search and Surveillance Act 2012) may issue a search warrant for any place if satisfied, on application made in the manner provided in [subpart 3][331] of Part 4 of the Search and Surveillance Act 2012, that there are reasonable grounds for believing that there is at that place any thing---
         
     *   (a) in respect of which an offence under this Act has been or is being committed; or
     
@@ -2950,75 +2958,75 @@ Enforcement
     
     *   (c) that is or may be evidence of the commission of an offence under this Act by any person.
     
-    (2) The provisions of [Part 4][331] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][332] of the Search and Surveillance Act 2012 apply.
     
-    (3) Despite subsection (2), [sections 118][332] and [119][333] of the Search and Surveillance Act 2012 apply only in respect of a constable.
+    (3) Despite subsection (2), [sections 118][333] and [119][334] of the Search and Surveillance Act 2012 apply only in respect of a constable.
     
-    Section 130(1): amended, on 1 October 2012, by [section 284(2)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(1): amended, on 1 October 2012, by [section 284(2)][335] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(2): replaced, on 1 October 2012, by [section 284(3)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(2): replaced, on 1 October 2012, by [section 284(3)][335] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 130(3): inserted, on 1 October 2012, by [section 284(3)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 130(3): inserted, on 1 October 2012, by [section 284(3)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 131 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 131: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 131: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 132 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 132: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 132: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 133 Warrant must be produced
     
 *   \[Repealed\]
     
-    Section 133: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 133: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 134 Other duties of person who executes warrant
     
 *   \[Repealed\]
     
-    Section 134: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 134: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 135 When alternative to list of seized documents may be provided
     
 *   \[Repealed\]
     
-    Section 135: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 135: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 136 Matters that must be stated in list of documents
     
 *   \[Repealed\]
     
-    Section 136: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 136: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 137 Duty to assist
     
 *   \[Repealed\]
     
-    Section 137: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 137: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 138 Power to inspect and take copies of documents, etc, obtained under warrant
     
 *   \[Repealed\]
     
-    Section 138: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 138: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 139 Disposal of things seized
     
 *   \[Repealed\]
     
-    Section 139: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 139: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 140 Court order for disposal of things seized to be suspended on conviction
     
 *   \[Repealed\]
     
-    Section 140: repealed, on 1 October 2012, by [section 284(4)][334] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 140: repealed, on 1 October 2012, by [section 284(4)][335] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ## Part 5  
 Miscellaneous provisions
@@ -3029,15 +3037,15 @@ Miscellaneous provisions
     
 *   (1) If a car auctioneer who is registered as a motor vehicle trader under this Act carries on a business that is limited to conducting sales by auction of motor vehicles only, the car auctioneer---
         
-    *   (a) is exempt from the requirement to be licensed under [section 3][335] of the Auctioneers Act 1928; and
+    *   (a) is exempt from the requirement to be licensed under [section 3][336] of the Auctioneers Act 1928; and
     
     *   (b) must be treated as if the car auctioneer is a person licensed to conduct sales by auction of motor vehicles for the purposes of that Act.
     
     (2) However, a car auctioneer---
         
-    *   (a) must continue to comply with the duties imposed on auctioneers by the [Auctioneers Act 1928][336]; and
+    *   (a) must continue to comply with the duties imposed on auctioneers by the [Auctioneers Act 1928][337]; and
     
-    *   (b) may apply for and hold a licence under the [Auctioneers Act 1928][336] if the car auctioneer wishes to do so.
+    *   (b) may apply for and hold a licence under the [Auctioneers Act 1928][337] if the car auctioneer wishes to do so.
     
     
 
@@ -3073,7 +3081,9 @@ Miscellaneous provisions
     
     (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
     
-    (5) For the purposes of the [Summary Proceedings Act 1957][337], an infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
+    (5) An infringement notice sent to a person by post under subsection (1) must be treated as having been served on the person on the date that it was posted.
+    
+    Section 142(5): amended, on 1 July 2013, by [section 413][322] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Levy regulations
 
@@ -3702,7 +3712,7 @@ _Amendment(s) incorporated in the [Act(s)][368]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][328]_.
+_Amendment(s) incorporated in the [Act(s)][329]_.
 
 ##### Secondhand Dealers Act 1963 (1963 No 10)
 
@@ -3733,76 +3743,6 @@ _Amendment(s) incorporated in the [regulations][373]_.
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][374].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][375] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -3817,23 +3757,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Motor Vehicle Sales Act 2003\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Motor Vehicle Sales Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][376] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][374] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][377] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][375] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][378] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][376] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][379] and [17E][380] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][377] and [17E][378] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -3864,9 +3804,11 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 284][334]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 284][335]
     
-    [Motor Vehicle Sales Amendment Act 2010][381] (2010 No 112)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][322]
+    
+    [Motor Vehicle Sales Amendment Act 2010][379] (2010 No 112)
     
     Limitation Act 2010 (2010 No 110): [section 58][313]
     
@@ -3888,9 +3830,9 @@ Amendments, repeals, and miscellaneous provisions
     
     Land Transport Amendment Act 2005 (2005 No 77): [section 95(5)][260]
     
-    [Motor Vehicle Sales Amendment Act 2005][382] (2005 No 61)
+    [Motor Vehicle Sales Amendment Act 2005][380] (2005 No 61)
     
-    Secondhand Dealers and Pawnbrokers Act 2004 (2004 No 70): [section 89][383]
+    Secondhand Dealers and Pawnbrokers Act 2004 (2004 No 70): [section 89][381]
     
     [Motor Vehicle Sales Act Commencement Order 2003][240] (SR 2003/329)
     
@@ -3898,7 +3840,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 3(3)][300]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][324]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][325]
 
 
 
@@ -4224,22 +4166,22 @@ Amendments, repeals, and miscellaneous provisions
 [319]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061931
 [320]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061932
 [321]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061935
-[322]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311191
-[323]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311346
-[324]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM162942
-[325]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061937
-[326]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061938
-[327]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM64784
-[328]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM296638
-[329]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136542
-[330]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136781
-[331]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136770
-[332]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136813
-[333]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136815
-[334]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2137041
-[335]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205332
-[336]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205305
-[337]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM310742
+[322]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360714
+[323]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3360057
+[324]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM311346
+[325]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM162942
+[326]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061937
+[327]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061938
+[328]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM64784
+[329]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM296638
+[330]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136542
+[331]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136781
+[332]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136770
+[333]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136813
+[334]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136815
+[335]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2137041
+[336]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205332
+[337]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205305
 [338]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM391422
 [339]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM3043113
 [340]: http://www.legislation.govt.nz/act/public/2003/0012/latest/whole.html#DLM1913904
@@ -4276,13 +4218,11 @@ Amendments, repeals, and miscellaneous provisions
 [371]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM205520
 [372]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM133323
 [373]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM196862
-[374]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2136500
-[375]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM4686448
-[376]: http://www.pco.parliament.govt.nz/reprints/
-[377]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195439
-[378]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[379]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195468
-[380]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195470
-[381]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061900
-[382]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348447
-[383]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM305677
+[374]: http://www.pco.parliament.govt.nz/reprints/
+[375]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195439
+[376]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[377]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195468
+[378]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM195470
+[379]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM2061900
+[380]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM348447
+[381]: http://www.legislation.govt.nz/act/public/2003/0012/latest/link.aspx?id=DLM305677
