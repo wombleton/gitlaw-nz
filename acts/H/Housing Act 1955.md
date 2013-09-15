@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2006
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -600,7 +600,7 @@ State houses
     
     (6) Notwithstanding any rule of law or enactment to the contrary, any easement certificate registered under this section shall be deemed to be binding on any prior or subsequent mortgagee of any of the land or of any interest in any of the land affected by the certificate, and no consent under the [Local Government Act 2002][56] or otherwise shall be necessary to the issue or registration thereof.
     
-    (7) Any person in possession of the certificate of title or other document of title to land affected by any certificate issued under this section shall, upon receiving notice from the Registrar in that behalf, deliver up to him that certificate of title or other document for the entry thereon of an appropriate memorial; and every person who refuses or neglects so to deliver up any such instrument commits an offence against this Act and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+    (7) Any person in possession of the certificate of title or other document of title to land affected by any certificate issued under this section shall, upon receiving notice from the Registrar in that behalf, deliver up to him that certificate of title or other document for the entry thereon of an appropriate memorial; and every person who refuses or neglects so to deliver up any such instrument commits an offence against this Act and shall be liable on conviction to a fine not exceeding 50 pounds.
     
     (8) The Registrar shall not be concerned to inquire as to the truth of any statement contained in any certificate presented for registration under this section, and no action shall lie against the Crown or the Registrar or any other person (other than the Corporation) on behalf of the Crown in respect of any such registration.
     
@@ -611,6 +611,8 @@ State houses
     Section 29(3)(c): amended, on 1 April 1980, pursuant to [section 12][87] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 29(6): amended, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 29(7): amended, on 1 July 2013, by [section 413][88] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Easement certificate to be evidence of compliance with Act
     
@@ -641,7 +643,7 @@ Accounts and miscellaneous
         
     *   (a) all necessary expenses which it has to pay for repairing, renovating, rebuilding, and improving any such land, dwellings, buildings, and chattels and keeping them in a fit and proper state:
     
-    *   (b) all amounts required for the acquisition of land, dwellings, buildings, and chattels by the Corporation pursuant to [Part 1][88] and for the repair, alteration, enlargement, or improvement thereof:
+    *   (b) all amounts required for the acquisition of land, dwellings, buildings, and chattels by the Corporation pursuant to [Part 1][89] and for the repair, alteration, enlargement, or improvement thereof:
     
     *   (c) interest and other charges on the capital liability to the Crown in respect of the land and buildings administered by the Corporation:
     
@@ -651,29 +653,29 @@ Accounts and miscellaneous
     
     (3) The Corporation shall make such provision as it thinks fit for the depreciation of assets, insurances, reserves, and for such other matters as are in its opinion necessary.
     
-    (4) Any money required to carry out works authorized under [Part 1][88] may be paid out of money appropriated by Parliament for the purpose.
+    (4) Any money required to carry out works authorized under [Part 1][89] may be paid out of money appropriated by Parliament for the purpose.
     
     (5) Any money required by the Corporation for the purposes of this Act or for the purposes of any other Act directing that money may be paid or loans made for the purposes of housing may be paid by the Minister of Finance to the Corporation out of public money appropriated by Parliament for the purpose.
     
     Section 32(2)(b): amended, on 19 October 1965, by [section 45(2)][59] of the State Advances Corporation Act 1965 (1965 No 47).
     
-    Section 32(2)(c): amended, on 1 July 1989, by [section 86(1)][89] of the Public Finance Act 1989 (1989 No 44).
+    Section 32(2)(c): amended, on 1 July 1989, by [section 86(1)][90] of the Public Finance Act 1989 (1989 No 44).
     
     Section 32(3): amended, on 19 October 1965, by [section 45(2)][59] of the State Advances Corporation Act 1965 (1965 No 47).
     
-    Section 32(5): replaced, on 1 July 1989, by [section 86(1)][89] of the Public Finance Act 1989 (1989 No 44).
+    Section 32(5): replaced, on 1 July 1989, by [section 86(1)][90] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 33 Corporation to pay money not required for housing purposes to Crown Bank Account
     
 *   Where the Corporation is of the opinion that the amount of money held by it on behalf of the Crown is in excess of the amount reasonably required to meet expenditure under [section 32][40], it shall pay the amount of the excess to a Crown Bank Account.
     
-    Section 33 heading: amended, on 1 July 1989, pursuant to [section 86(1)][89] of the Public Finance Act 1989 (1989 No 44).
+    Section 33 heading: amended, on 1 July 1989, pursuant to [section 86(1)][90] of the Public Finance Act 1989 (1989 No 44).
     
     Section 33 heading: amended, on 19 October 1965, by [section 45(2)][59] of the State Advances Corporation Act 1965 (1965 No 47).
     
-    Section 33: amended, on 25 January 2005, pursuant to [section 65R(3)][90] of the Public Finance Act 1989 (1989 No 44).
+    Section 33: amended, on 25 January 2005, pursuant to [section 65R(3)][91] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 33: amended, on 1 July 1989, by [section 86(1)][89] of the Public Finance Act 1989 (1989 No 44).
+    Section 33: amended, on 1 July 1989, by [section 86(1)][90] of the Public Finance Act 1989 (1989 No 44).
     
     Section 33: amended, on 19 October 1965, by [section 45(2)][59] of the State Advances Corporation Act 1965 (1965 No 47).
 
@@ -685,17 +687,17 @@ Accounts and miscellaneous
     
     Compare: 1919 No 32 s 35
     
-    Section 34(1): amended, on 1 July 2001, pursuant to [section 52][91] of the Public Audit Act 2001 (2001 No 10).
+    Section 34(1): amended, on 1 July 2001, pursuant to [section 52][92] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 34(1): amended, on 1 October 1997, pursuant to [section 6(1)][92] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 34(1): amended, on 1 October 1997, pursuant to [section 6(1)][93] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 34(1): amended, on 1 October 1997, pursuant to [section 6(2)][92] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 34(1): amended, on 1 October 1997, pursuant to [section 6(2)][93] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 34(1): amended (with effect on 31 March 1989), on 18 August 1992, by [section 38][93] of the Housing Restructuring Act 1992 (1992 No 76).
+    Section 34(1): amended (with effect on 31 March 1989), on 18 August 1992, by [section 38][94] of the Housing Restructuring Act 1992 (1992 No 76).
     
-    Section 34(2): amended, on 1 October 1997, pursuant to [section 6(1)][92] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 34(2): amended, on 1 October 1997, pursuant to [section 6(1)][93] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 34(2): amended, on 1 October 1997, pursuant to [section 6(2)][92] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 34(2): amended, on 1 October 1997, pursuant to [section 6(2)][93] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 #### Miscellaneous
 
@@ -703,7 +705,7 @@ Accounts and miscellaneous
     
 *   \[Repealed\]
     
-    Section 35: repealed, on 1 January 1972, by [section 101(1)][94] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 35: repealed, on 1 January 1972, by [section 101(1)][95] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 36 Execution of documents
     
@@ -711,17 +713,17 @@ Accounts and miscellaneous
     
     (2) The Corporation may execute on behalf of the Crown a transfer to any purchaser of the estate or interest of the Crown in any land which has been sold to that purchaser either before or after the commencement of this Act (whether that estate or interest is an estate in fee simple or a lesser estate or interest in the land) if immediately before the sale the land was State housing land.
     
-    (3) For the purposes of [section 47][95] of the Public Works Act 1981, any request made by the Corporation to any District Land Registrar shall have the same effect as a like request made by the Minister of Lands.
+    (3) For the purposes of [section 47][96] of the Public Works Act 1981, any request made by the Corporation to any District Land Registrar shall have the same effect as a like request made by the Minister of Lands.
     
     (4) Notwithstanding anything to the contrary in any Act or rule of law, it shall not be necessary for any memorandum of transfer to the Crown of any land acquired for State housing purposes to be executed by or on behalf of the transferee.
     
     (5) For the purposes of the Fencing Act 1908, the occupier of any State housing land shall be deemed to include the Corporation and the Minister; and no person shall be concerned to inquire into the validity of any notice purporting to be signed by or on behalf of the Corporation or the Minister.
     
-    Compare: 1919 No 32 ss 32, 33; 1940 No 14 s 10; 1947 No 60 [s 23][96]; 1950 No 93 s 26
+    Compare: 1919 No 32 ss 32, 33; 1940 No 14 s 10; 1947 No 60 [s 23][97]; 1950 No 93 s 26
     
-    Section 36(2): amended, on 8 December 1971, by [section 2(a)][97] of the Housing Amendment Act 1971 (1971 No 101).
+    Section 36(2): amended, on 8 December 1971, by [section 2(a)][98] of the Housing Amendment Act 1971 (1971 No 101).
     
-    Section 36(2) proviso: repealed, on 8 December 1971, by [section 2(b)][97] of the Housing Amendment Act 1971 (1971 No 101).
+    Section 36(2) proviso: repealed, on 8 December 1971, by [section 2(b)][98] of the Housing Amendment Act 1971 (1971 No 101).
     
     Section 36(3): replaced, on 1 April 1988, by section 2 of the Housing Amendment Act 1988 (1988 No 66).
 
@@ -731,23 +733,23 @@ Accounts and miscellaneous
         
     *   (a) the instrument is in favour of the Crown or the Corporation, or the Crown or the Corporation is a party to the instrument; or
     
-    *   (b) the instrument is an application to register the settlement of the land as a joint family home under the [Joint Family Homes Act 1964][98]; or
+    *   (b) the instrument is an application to register the settlement of the land as a joint family home under the [Joint Family Homes Act 1964][99]; or
     
     *   (c) the instrument is a disposition by way of mortgage; or
     
     *   (d) the consent of the Corporation is endorsed on the instrument.
     
-    Section 37: replaced, on 8 December 1971, by [section 3(1)][99] of the Housing Amendment Act 1971 (1971 No 101).
+    Section 37: replaced, on 8 December 1971, by [section 3(1)][100] of the Housing Amendment Act 1971 (1971 No 101).
 
 ##### 38 Cancellation of restrictions imposed under former legislation on freehold titles in respect of dwellings
     
 *   The District Land Registrar for the land registration district in which is situated any land acquired under the Housing Act 1919 or the Workers' Dwellings Act 1910 or any former Workers' Dwellings Act, on presentation to him of any certificate of title issued pursuant to any such Act and having thereon any endorsement or memorial or any restriction or limitation imposed by virtue of the provisions of any such Act or of section 22 of the State Advances Corporation Act 1936, shall, without requiring the payment of any fee, cancel the endorsement or memorial:
     
-    provided that an easement certificate under [Part 2][100] of the Finance Act (No 2) 1953, shall not be so cancelled unless the Corporation so requests.
+    provided that an easement certificate under [Part 2][101] of the Finance Act (No 2) 1953, shall not be so cancelled unless the Corporation so requests.
     
     Compare: 1925 No 7 s 2
     
-    Section 38 proviso: amended, on 8 December 1971, by [section 3(2)][99] of the Housing Amendment Act 1971 (1971 No 101).
+    Section 38 proviso: amended, on 8 December 1971, by [section 3(2)][100] of the Housing Amendment Act 1971 (1971 No 101).
 
 ##### 39 Corporation agent of the Crown
     
@@ -765,7 +767,7 @@ Accounts and miscellaneous
     
     *   (b) prescribing the conditions subject to which State housing land or buildings thereon may be let or leased:
     
-    *   (c) prescribing fees payable on applications for land or buildings under [Part 1][88]:
+    *   (c) prescribing fees payable on applications for land or buildings under [Part 1][89]:
     
     *   (d) prescribing or regulating the mode of registration of instruments under [section 18][22]:
     
@@ -781,13 +783,13 @@ Accounts and miscellaneous
     
     Section 40(2)(e): amended, on 1 April 1968, pursuant to section 126(6) of the Agricultural Pests Destruction Act 1967 (1967 No 147).
     
-    Section 40(3): repealed, on 19 December 1989, by [section 11][101] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 40(3): repealed, on 19 December 1989, by [section 11][102] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 41 Consequential amendments
     
 *   (1) \[Repealed\]
     
-    (2) _Amendment(s) incorporated in the [Act(s)][102]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][103]_.
     
     (3) Every reference in any other enactment or document to land set apart or held for the purposes of Part 1 of the Housing Act 1919 shall be read as a reference to State housing land under the Housing Act 1955; and every other reference in any enactment or document to the purposes of Part 1 of the Housing Act 1919 shall be read as a reference to State housing purposes under the Housing Act 1955\.
     
@@ -812,7 +814,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Finance Act (No 2) 1946 (1946 No 41)
 
-_Amendment(s) incorporated in the [Act(s)][103]_.
+_Amendment(s) incorporated in the [Act(s)][104]_.
 
 ##### Public Revenues Act 1953 (1953 No 73)
 
@@ -915,23 +917,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the Housing Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2006, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Housing Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][104] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][105] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][105] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][106] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][107] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][107] and [17E][108] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -962,7 +964,9 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [section 5(2)(a)][78]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][88]
+    
+    Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006 (2006 No 34): [section 5(2)(a)][78]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][79]
     
@@ -970,19 +974,19 @@ _Amendment(s) incorporated in the Act(s)_.
     
     Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][61]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][91]
+    Public Audit Act 2001 (2001 No 10): [section 52][92]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][92]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][93]
     
     [Housing Amendment Act 1992][75] (1992 No 77)
     
-    Housing Restructuring Act 1992 (1992 No 76): [section 38][93]
+    Housing Restructuring Act 1992 (1992 No 76): [section 38][94]
     
     Resource Management Act 1991 (1991 No 69): [section 362][65]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][101]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][102]
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][90], [86(1)][89]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][91], [86(1)][90]
     
     Housing Amendment Act 1988 (1988 No 66)
     
@@ -1002,9 +1006,9 @@ _Amendment(s) incorporated in the Act(s)_.
     
     Public Works Amendment Act 1973 (1973 No 44): section 3(4)
     
-    [Housing Amendment Act 1971][109] (1971 No 101)
+    [Housing Amendment Act 1971][110] (1971 No 101)
     
-    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][94]
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101(1)][95]
     
     Agricultural Pests Destruction Act 1967 (1967 No 147): section 126(1), (6)
     
@@ -1100,25 +1104,26 @@ _Amendment(s) incorporated in the Act(s)_.
 [85]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM284343
 [86]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM284345
 [87]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM35049
-[88]: http://www.legislation.govt.nz/act/public/1955/0051/latest/whole.html#DLM291075
-[89]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM163175
-[90]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM162942
-[91]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM88956
-[92]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM408960
-[93]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM269648
-[94]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM401040
-[95]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM46301
-[96]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM246280
-[97]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405335
-[98]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM352254
-[99]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405336
-[100]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM284306
-[101]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195558
-[102]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM239726
-[103]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM242450
-[104]: http://www.pco.parliament.govt.nz/reprints/
-[105]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195439
-[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[107]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195468
-[108]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195470
-[109]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405329
+[88]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM3360714
+[89]: http://www.legislation.govt.nz/act/public/1955/0051/latest/whole.html#DLM291075
+[90]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM163175
+[91]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM162942
+[92]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM88956
+[93]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM408960
+[94]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM269648
+[95]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM401040
+[96]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM46301
+[97]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM246280
+[98]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405335
+[99]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM352254
+[100]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405336
+[101]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM284306
+[102]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195558
+[103]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM239726
+[104]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM242450
+[105]: http://www.pco.parliament.govt.nz/reprints/
+[106]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195439
+[107]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[108]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195468
+[109]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM195470
+[110]: http://www.legislation.govt.nz/act/public/1955/0051/latest/link.aspx?id=DLM405329
