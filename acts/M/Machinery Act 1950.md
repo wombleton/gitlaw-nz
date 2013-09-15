@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -673,7 +673,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (2) The District Court Judge, together with the said person, shall have power to hold the inquiry at such times and places as the Minister appoints, and shall report on the cause of the accident to the Minister.
     
-    (3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the [Summary Proceedings Act 1957][70].
+    (3) With respect to the summoning and attendance of witnesses at or upon any such inquiry, and the examination of witnesses upon oath, every such District Court Judge shall have all the powers which he would have or might exercise in any case within his ordinary jurisdiction under the [Criminal Procedure Act 2011][70].
     
     (4) For the purposes of this section and of [section 22][37] the expression _serious bodily injury_ means an injury which is likely to incapacitate the sufferer for work for at least 48 hours.
     
@@ -681,9 +681,9 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     Section 23(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 23(3): amended, on 1 April 1958, pursuant to [section 214(1)][72] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 23(3): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 24 Record of accidents
     
@@ -789,7 +789,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 ##### 29 Penalties
     
-*   (1) Every person who commits an offence against this Act shall be liable on summary conviction---
+*   (1) Every person who commits an offence against this Act shall be liable on conviction---
         
     *   (a) in the case of an offence against [section 11][14], to imprisonment for a term not exceeding 6 months:
     
@@ -811,11 +811,15 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     *   (g) in the case of an offence against a provision of this Act not specified in paragraphs (a) to (f), for which no specific penalty is elsewhere provided, to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
     
-    (2) Every person who commits an offence against any regulation made under this Act for which no specified penalty is elsewhere provided, shall be liable on summary conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
+    (2) Every person who commits an offence against any regulation made under this Act for which no specified penalty is elsewhere provided, shall be liable on conviction to a fine not exceeding $5,000 and, if the offence is a continuing one, to a further fine not exceeding $250 for every day or part of a day during which the offence has continued.
     
     (3) A fine imposed in respect of an offence against [section 31(3)][51] shall be irrespective of any fine to which the defendant is liable in respect of the original offence concerned.
     
     Section 29: replaced, on 6 June 1986, by section 8 of the Machinery Amendment Act 1986 (1986 No 15).
+    
+    Section 29(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 29(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Application of part of fine to person injured
     
@@ -847,7 +851,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 ##### 33 Owner may have actual offender charged
     
-*   (1) Where an owner is charged with an offence under this Act he shall be entitled, upon information duly laid by him, to have any other person whom he alleges to be the actual offender brought before the District Court Judge on the same charge; and to enable both charges to be heard together the charges against the owner may be adjourned for such time as the District Court Judge thinks reasonable.
+*   (1) An owner who is charged with an offence under this Act may commence proceedings against any other person whom the owner alleges to be the actual offender, and have that person brought before the District Court Judge on the same charge; and to enable both charges to be heard together the charges against the owner may be adjourned for such time as the District Court Judge thinks reasonable.
     
     (2) In any such case, if the charges are heard together and the offence is proved but the District Court Judge finds that---
         
@@ -859,45 +863,59 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     
     (3) If, before the commencement of any proceedings against the owner in respect of any offence under this Act, the Inspector is satisfied that if any other person were charged with the offence under the foregoing provisions of this section that other person would be convicted of the offence, the Inspector shall proceed against the person whom he believes to be the actual offender without first proceeding against the owner. In any such case the provisions of subsection (2) shall, with the necessary modifications, apply, notwithstanding that no proceedings have been commenced against the owner.
     
+    Section 33(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 33(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 33(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 34 Proceedings to be before District Court Judge alone
     
-*   (1) All proceedings in respect of offences or matters of complaint under this Act shall be taken in a summary manner and shall be heard before a District Court Judge alone.
+*   (1) \[Repealed\]
     
-    (2) Except as provided in [section 33][53], all such proceedings as aforesaid shall be taken only on the information or complaint of an Inspector.
+    (2) Except as provided in [section 33][53], only an Inspector may file a charging document in respect of an offence under this Act.
     
     Section 34 heading: amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 34(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 34(1): repealed, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 34(2): replaced, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Provisions as to procedure
     
-*   (1) An Inspector who lays an information or makes a complaint in respect of any offence or matter under this Act shall not be called on to prove that he is an Inspector. Any such information or complaint may be proceeded with and conducted by the same or any other Inspector or by any person permitted by the District Court Judge to conduct the same.
+*   (1) An Inspector who files a charging document in respect of any offence or matter under this Act shall not be called on to prove that he is an Inspector. Any such charge may be proceeded with and conducted by the same or any other Inspector or by any person permitted by the District Court Judge to conduct the same.
     
-    (2) In any proceedings under this Act it shall be sufficient in the information or complaint to state the name of the ostensible owner, or the style or title under which the owner is usually known or carries on business. Any information or complaint may from time to time be amended by the District Court Judge as to the actual name of the defendant.
+    (2) In any proceedings under this Act it shall be sufficient in the charge to state the name of the ostensible owner, or the style or title under which the owner is usually known or carries on business. Any charge may from time to time be amended by the District Court Judge as to the actual name of the defendant.
     
-    (3) In any proceedings under this Act it shall lie upon the defendant to bring himself under any exemption, proviso, excuse, or qualification; and it shall not be necessary for the same to be negatived in the information or complaint.
+    (3) In any proceedings under this Act it shall lie upon the defendant to bring himself under any exemption, proviso, excuse, or qualification; and it shall not be necessary for the same to be negatived in the charge.
     
     (4) A defendant may, except in proceedings under [section 32][52], be called by the Inspector, and shall be compellable to give evidence as a defendant in a civil action is compellable.
     
-    (5) Several charges or complaints against the same person, or several charges pursuant to [section 33][53], may be heard together if the District Court Judge thinks fit so to hear them, and charges or complaints against several persons may be so heard with the consent of the parties if the District Court Judge so orders; and in all such cases a witness sworn to give evidence respecting one charge or complaint shall for all purposes be deemed a witness in respect of each charge or complaint.
+    (5) Several charges against the same person, or several charges pursuant to [section 33][53], may be heard together if the District Court Judge thinks fit so to hear them, and charges against several persons may be so heard with the consent of the parties if the District Court Judge so orders; and in all such cases a witness sworn to give evidence respecting one charge shall for all purposes be deemed a witness in respect of each charge.
     
-    (6) In any proceedings on an information any order which the District Court Judge is empowered to make may be made without a complaint being made, notwithstanding anything to the contrary in the foregoing provisions of this Act.
+    (6) \[Repealed\]
     
     (7) In any proceedings under this Act 10 days' notice of the day fixed for the hearing shall be given; and if the defendant intends to bring forward any person skilled in the construction of the machinery as a witness at the hearing of the case he shall give notice of that intention to the Inspector at least 48 hours before the hearing of the case.
     
-    (8) A summary conviction or adjudication under this Act, or an adjudication made on appeal therefrom, shall not be quashed for want of form or be removed into the High Court by certiorari or otherwise.
+    (8) A conviction or adjudication under this Act, or an adjudication made on appeal therefrom, shall not be quashed for want of form or be removed into the High Court by certiorari or otherwise.
+    
+    Section 35(1): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 35(1): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
     
+    Section 35(2): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 35(2): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 35(3): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 35(5): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 35(5): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(6): amended, on 1 April 1980, pursuant to [section 18(2)][71] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(6): repealed, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 35(8): amended, on 1 July 2013, by [section 413][72] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 35(8): amended, on 1 April 1980, pursuant to [section 12][73] of the Judicature Amendment Act 1979 (1979 No 124).
 
@@ -957,7 +975,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 ###### 1 General
     
-*   This is a reprint of the Machinery Act 1950\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Machinery Act 1950\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][74] ![](/images/external_link.gif).
 
@@ -969,7 +987,7 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][76] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][76] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
@@ -1004,7 +1022,9 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][66]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][72]
+    
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][66]
     
     Local Government Act 2002 (2002 No 84): [section 262][69]
     
@@ -1037,8 +1057,6 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
     Machinery Amendment Act 1963 (1963 No 14)
     
     Machinery Amendment Act 1961 (1961 No 69)
-    
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][72]
     
     Machinery Amendment Act 1956 (1956 No 17)
     
@@ -1116,9 +1134,9 @@ An Act to make provision for the inspection of certain kinds of machinery and fo
 [67]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM101353
 [68]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM170872
 [69]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM174088
-[70]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM310742
+[70]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3359902
 [71]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35085
-[72]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM314306
+[72]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM3360714
 [73]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM35049
 [74]: http://www.pco.parliament.govt.nz/reprints/
 [75]: http://www.legislation.govt.nz/act/public/1950/0052/latest/link.aspx?id=DLM195439
