@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 1994
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -282,13 +282,13 @@ Civil and political rights
     
     *   (d) shall have the right to adequate time and facilities to prepare a defence; and
     
-    *   (e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for more than 3 months; and
+    *   (e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for 2 years or more; and
     
     *   (f) shall have the right to receive legal assistance without cost if the interests of justice so require and the person does not have sufficient means to provide for that assistance; and
     
     *   (g) shall have the right to have the free assistance of an interpreter if the person cannot understand or speak the language used in court.
     
-    
+    Section 24(e): amended, on 1 July 2013, by [section 4][41] of the New Zealand Bill of Rights Amendment Act 2011 (2011 No 92).
 
 ##### 25 Minimum standards of criminal procedure
     
@@ -355,23 +355,23 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Bill of Rights Act 1990\. The reprint incorporates all the amendments to the Act as at 1 February 1994, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Bill of Rights Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][41] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][42] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][42] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][43] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][43] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][44] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][44] and [17E][45] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][45] and [17E][46] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -402,7 +402,9 @@ Miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Human Rights Act 1993 (1993 No 82): [section 145][40]
+*   [New Zealand Bill of Rights Amendment Act 2011][47] (2011 No 92)
+    
+    Human Rights Act 1993 (1993 No 82): [section 145][40]
 
 
 
@@ -447,8 +449,10 @@ Miscellaneous provisions
 [38]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM304211
 [39]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM304467
 [40]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM305710
-[41]: http://www.pco.parliament.govt.nz/reprints/
-[42]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195439
-[43]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[44]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195468
-[45]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195470
+[41]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM4058703
+[42]: http://www.pco.parliament.govt.nz/reprints/
+[43]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195439
+[44]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[45]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195468
+[46]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM195470
+[47]: http://www.legislation.govt.nz/act/public/1990/0109/latest/link.aspx?id=DLM4058707
