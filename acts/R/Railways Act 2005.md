@@ -1,5 +1,5 @@
 Reprint  
-as at 23 July 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Transport
+This Act is administered by the Ministry of Transport.
 
 ---
 
@@ -261,7 +261,7 @@ This Act is administered by the Ministry of Transport
 
 [94][117][][117][Notices][117]
 
-[95][118][][118][Information for offences][118]
+[95][118][][118][Who may file charging document for offence][118]
 
 [96][119][][119][Evidence and proof][119]
 
@@ -2089,7 +2089,7 @@ Safety
     
     *   (f) make transitional and savings provisions for the purposes of implementing any rule.
     
-    (5) An ordinary rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][186], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][187].
+    (5) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][186] and must be presented to the House of Representatives under [section 41][187] of that Act.
     
     (6) If a bylaw of a local authority is inconsistent with any ordinary rules in force in the same locality, the rules override the bylaws.
     
@@ -2098,32 +2098,36 @@ Safety
     Compare: 1998 No 110 [s 160][189]
     
     Section 54(4)(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 54(5): replaced, on 5 August 2013, by [section 77(3)][190] of the Legislation Act 2012 (2012 No 119).
 
 ##### 55 Procedure concerning ordinary rules
     
-*   The procedure for making ordinary rules in [section 161][190] of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under [sections 49 to 53][63].
+*   The procedure for making ordinary rules in [section 161][191] of the Land Transport Act 1998 applies with any necessary modifications to all ordinary rules made by the Minister under [sections 49 to 53][63].
 
 ##### 56 Agency may make emergency rules
     
-*   (1) The Agency may, in accordance with [section 163][191] of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
+*   (1) The Agency may, in accordance with [section 163][192] of the Land Transport Act 1998 (which applies with any necessary modifications), make any emergency rules that the Agency considers necessary to alleviate or minimise the risk of the death of, or serious injury to, individuals, or significant damage to property, caused by the operation of a railway or the use of railway premises.
     
     (2) The Agency may not make emergency rules unless it is impractical in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
     
     (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
     
-    (4) An emergency rule is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][186], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][187].
+    (4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][186] and must be presented to the House of Representatives under [section 41][187] of that Act.
     
-    Compare: 1998 No 110 [s 162][192]
+    Compare: 1998 No 110 [s 162][193]
     
     Section 56 heading: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 56(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
     Section 56(2): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 56(4): replaced, on 5 August 2013, by [section 77(3)][190] of the Legislation Act 2012 (2012 No 119).
 
 ##### 57 General provisions concerning making of rules
     
-*   The provisions of [sections 164 to 166][193] of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
+*   The provisions of [sections 164 to 166][194] of the Land Transport Act 1998 apply with any necessary modifications to all ordinary rules and all emergency rules made under this Act.
 
 ##### 58 Evidence of rules
     
@@ -2175,7 +2179,7 @@ Safety
     
     *   (n) providing for any other matters that are contemplated by, or necessary for giving full effect to, the provisions of this Act or for its due administration.
     
-    Compare: 1998 No 110 [s 167(1)][194]
+    Compare: 1998 No 110 [s 167(1)][195]
 
 ##### 60 Regulations relating to fees and charges for rail transport
     
@@ -2209,7 +2213,7 @@ Safety
     
     (5) Regulations under this section may fix or provide for the fixing of the costs referred to in [section 41][52], but nothing in this section requires those charges to be fixed by or under regulations made under this section, and, in the absence of those regulations, those costs are payable under that section without further authority.
     
-    Compare: 1998 No 110 [s 168][195]
+    Compare: 1998 No 110 [s 168][196]
     
     Section 60(1): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2219,7 +2223,7 @@ Safety
 
 ##### 61 Failure to comply with safety duties
     
-*   (1) A person who contravenes or fails to comply with [section 7][10] or [section 11][14] or [section 12][15] commits an offence and is liable on summary conviction to,---
+*   (1) A person who contravenes or fails to comply with [section 7][10] or [section 11][14] or [section 12][15] commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual,---
             
@@ -2233,7 +2237,7 @@ Safety
     
     *   (b) in the case of a body corporate, a fine not exceeding $500,000\.
     
-    (2) A person who contravenes or fails to comply with [section 9][12] commits an offence and is liable on summary conviction to---
+    (2) A person who contravenes or fails to comply with [section 9][12] commits an offence and is liable on conviction to---
         
     *   (a) imprisonment for a term not exceeding 6 months; or
     
@@ -2241,43 +2245,51 @@ Safety
     
     *   (c) both.
     
+    Section 61(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 61(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Failure to hold licence
     
-*   (1) A person who carries out any rail activities for which a licence is required by [section 15][19] and who does not hold a licence to carry on those rail activities commits an offence and is liable on summary conviction to,---
+*   (1) A person who carries out any rail activities for which a licence is required by [section 15][19] and who does not hold a licence to carry on those rail activities commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual, a fine not exceeding $50,000:
     
     *   (b) in the case of a body corporate, a fine not exceeding $500,000\.
     
-    (2) A person who contravenes or fails to comply with [section 10][13] commits an offence and is liable on summary conviction to,---
+    (2) A person who contravenes or fails to comply with [section 10][13] commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual, a fine not exceeding $50,000:
     
     *   (b) in the case of a body corporate, a fine not exceeding $500,000\.
     
+    Section 62(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 62(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 63 Failure to report accident or incident
     
-*   (1) A rail operator, access provider, or railway premises owner who contravenes or fails to comply with [section 13][16] commits an offence and is liable on summary conviction to,---
+*   (1) A rail operator, access provider, or railway premises owner who contravenes or fails to comply with [section 13][16] commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual, a fine not exceeding $5,000:
     
     *   (b) in the case of a body corporate, a fine not exceeding $30,000\.
     
-    (2) Any rail personnel who contravenes or fails to comply with [section 13(1)][16] commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Any rail personnel who contravenes or fails to comply with [section 13(1)][16] commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+    
+    Section 63(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 63(2): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Obstructing safety assessor
     
-*   A person who obstructs a safety assessor or fails to comply with a lawful requirement of a safety assessor commits an offence and is liable on summary conviction to,---
+*   A person who obstructs a safety assessor or fails to comply with a lawful requirement of a safety assessor commits an offence and is liable on conviction to,---
         
     *   (a) in the case of an individual, a fine not exceeding $25,000:
     
     *   (b) in the case of a body corporate, a fine not exceeding $250,000\.
     
-    
+    Section 64: amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65 Liability of employers and principals
     
@@ -2353,7 +2365,7 @@ Safety
         
         
     
-    *   (c) subject to this section, an appeal must be made and determined in accordance with the [District Courts Act 1947][196] and the rules of the District Court made under that Act.
+    *   (c) subject to this section, an appeal must be made and determined in accordance with the [District Courts Act 1947][198] and the rules of the District Court made under that Act.
     
     (3) Subject to [sections 71][88] and [72][89], the decision of the District Court on an appeal under [section 68][85] is final.
     
@@ -2373,7 +2385,7 @@ Safety
     
 *   (1) A party to an appeal under [section 68][85] who is dissatisfied with the decision of the District Court on the grounds that it is erroneous in law may appeal to the High Court on that question of law.
     
-    (2) The [High Court Rules][197] and [sections 74 to 78][198] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][199] of that Act.
+    (2) The [High Court Rules][199] and [sections 74 to 78][200] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][201] of that Act.
 
 ##### 72 Further appeal to Court of Appeal
     
@@ -2383,7 +2395,7 @@ Safety
     
     (3) The decision of the Court of Appeal on an appeal or any application for leave to appeal is final.
     
-    (4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the [High Court Rules][197] and the Court of Appeal Rules, as the case may be.
+    (4) Except as provided in this section, the procedures in respect of an appeal under this section must be in accordance with the applicable provisions of the [High Court Rules][199] and the Court of Appeal Rules, as the case may be.
 
 ## Part 3  
 Rail corridor
@@ -2430,9 +2442,9 @@ Rail corridor
         
     *   (a) rail personnel may impound that stock:
     
-    *   (b) the relevant rail participant, or its rail personnel, may, in respect of that stock, exercise any of the functions or powers conferred on an occupier of land by the [Impounding Act 1955][200] (and the provisions of that Act, except [section 26(1)][32], apply accordingly).
+    *   (b) the relevant rail participant, or its rail personnel, may, in respect of that stock, exercise any of the functions or powers conferred on an occupier of land by the [Impounding Act 1955][202] (and the provisions of that Act, except [section 26(1)][32], apply accordingly).
     
-    (5) The provisions of this section are in addition to, and not in substitution for, the provisions of the [Trespass Act 1980][201].
+    (5) The provisions of this section are in addition to, and not in substitution for, the provisions of the [Trespass Act 1980][203].
     
     Compare: 1992 No 111 s 25
 
@@ -2476,9 +2488,9 @@ Rail corridor
     
     Compare: 1992 No 111 s 12
     
-    Section 75(1A): inserted, on 6 August 2010, by [section 26(2)][202] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 75(1A): inserted, on 6 August 2010, by [section 26(2)][204] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
     
-    Section 75(1B): inserted, on 6 August 2010, by [section 26(2)][202] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
+    Section 75(1B): inserted, on 6 August 2010, by [section 26(2)][204] of the Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99).
 
 ##### 76 Lights, etc, liable to be confused with railway signals
     
@@ -2508,11 +2520,11 @@ Rail corridor
     
     *   (b) a danger to the environment or chattels so significant that immediate action is required to remove the danger.
     
-    Compare: 1992 No 111 s 13; 1996 No 30 [s 135][203]
+    Compare: 1992 No 111 s 13; 1996 No 30 [s 135][205]
 
 ##### 77 Power to prevent damage to railway
     
-*   (1) Subject to the provisions of the [Resource Management Act 1991][204], for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may---
+*   (1) Subject to the provisions of the [Resource Management Act 1991][206], for the purposes of protecting a railway, or preventing or lessening the risk of damage to any railway infrastructure or railway premises, a licensed access provider or railway premises owner may---
         
     *   (a) construct, maintain, alter, or reconstruct an embankment, groyne, or other protective work on any land or on the bank of a river or stream; or
     
@@ -2580,7 +2592,7 @@ Rail corridor
     
     *   (b) the land suffers damage as a result of the exercise of that power.
     
-    (2) All claims for compensation under subsection (1) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][205], and the provisions of that Act relating to compensation apply accordingly.
+    (2) All claims for compensation under subsection (1) must, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][207], and the provisions of that Act relating to compensation apply accordingly.
 
 ### Subpart 2---Interaction of rail and road
 
@@ -2630,7 +2642,7 @@ Rail corridor
 
 ##### 82 Gates and cattle stops
     
-*   (1) Despite anything in the [Local Government Act 1974][206], the [Public Works Act 1981][205], this Act, or any other Act relating to the erection of gates across roads, the following provisions apply with respect to a railway line:
+*   (1) Despite anything in the [Local Government Act 1974][208], the [Public Works Act 1981][207], this Act, or any other Act relating to the erection of gates across roads, the following provisions apply with respect to a railway line:
         
     *   (a) except as provided in paragraph (b), no person may erect or maintain a gate across the road at a level crossing within 100 m of the centre line of the railway line:
     
@@ -2760,7 +2772,7 @@ Rail corridor
     
     *   (g) the co-ordination with road construction work by the local authority or other person who has jurisdiction over that road.
     
-    Compare: 1992 No 111 s 17; 2001 No 103 [s 119][207]
+    Compare: 1992 No 111 s 17; 2001 No 103 [s 119][209]
 
 ##### 88 Notice of alteration to railway lines or works on roads
     
@@ -2806,13 +2818,17 @@ Rail corridor
 
 ##### 90 Appeals on questions of law
     
-*   (1) If a party to an appeal under [section 89][110] is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of the High Court on the question of law only.
+*   (1) If a party to an appeal under [section 89][110] is dissatisfied with the decision of the District Court as being erroneous in point of law, that party may appeal to the High Court on the question of law only.
     
-    (2) The [High Court Rules][197] and [sections 74 to 78][198] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][199] of that Act.
+    (2) The [High Court Rules][199] and [sections 74 to 78][200] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][201] of that Act.
     
-    (3) The provisions of [Part 4][208] of the Summary Proceedings Act 1957 (including the other provisions of that Act that are applied in that Part), so far as they refer to appeals by way of case stated on questions of law only, apply, so far as they are applicable and with all necessary modifications, to an appeal under this section.
+    (3) [Subpart 8][210] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
     
     Compare: 1992 No 111 s 22
+    
+    Section 90(1): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 90(3): replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 91 No charging for access to road reserve
     
@@ -2820,7 +2836,7 @@ Rail corridor
     
     (2) Nothing in subsection (1) applies in respect of---
         
-    *   (a) a rate or charge levied under the [Local Government (Rating) Act 2002][209]; or
+    *   (a) a rate or charge levied under the [Local Government (Rating) Act 2002][211]; or
     
     *   (b) any shops in, on, over, or under any railway premises.
     
@@ -2836,11 +2852,15 @@ Rail corridor
     
 *   (1) A person who---
         
-    *   (a) fails to comply with [section 73][92] commits an offence and is liable on summary conviction to a fine not exceeding $10,000:
+    *   (a) fails to comply with [section 73][92] commits an offence and is liable on conviction to a fine not exceeding $10,000:
     
-    *   (b) fails to comply with any of [sections 82][102], [83][103], [84][104], [87][108], or [88][109] commits an offence and is liable on summary conviction to a fine not exceeding $100,000\.
+    *   (b) fails to comply with any of [sections 82][102], [83][103], [84][104], [87][108], or [88][109] commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
     (2) In addition to a fine imposed under subsection (1), the court may make any order relating to compensation that it thinks fit.
+    
+    Section 92(1)(a): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 92(1)(b): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 93 Certificates by infrastructure owners or licensed access providers
     
@@ -2873,15 +2893,13 @@ Miscellaneous
     
     (3) To avoid doubt, a notice may be in electronic form.
     
-    Compare: 1989 No 74 [s 61][210]
+    Compare: 1989 No 74 [s 61][212]
 
-##### 95 Information for offences
+##### 95 Who may file charging document for offence
     
-*   An information for an offence against this Act may be laid only by the Agency or an enforcement officer.
+*   A charging document for an offence against this Act may be filed only by the Agency or an enforcement officer.
     
-    Compare: 1989 No 74 [s 62][211]
-    
-    Section 95: amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 95: replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 96 Evidence and proof
     
@@ -2895,7 +2913,7 @@ Miscellaneous
     
     *   (d) until the contrary is proved, it is presumed that a document purporting to have been certified or a certificate purporting to have been given under this section has been certified or given by an officer of the Agency authorised in that capacity by the Agency to certify documents or give certificates under this section.
     
-    Compare: 1989 No 74 [s 63][212]
+    Compare: 1989 No 74 [s 63][213]
     
     Section 96(a): amended, on 1 August 2008, by [section 50(1)][147] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
@@ -2909,19 +2927,21 @@ Miscellaneous
     
 *   All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of this Act must be paid or credited to the Authority.
     
-    Compare: 1989 No 74 [s 65][213]
+    Compare: 1989 No 74 [s 65][214]
 
 #### Infringement offences
 
 ##### 98 Infringement offences
     
-*   (1) If a person is alleged to have committed an infringement offence, that person may either---
+*   (1) If a person is alleged to have committed an infringement offence, the person may either---
         
-    *   (a) be proceeded against summarily for the alleged offence; or
+    *   (a) be proceeded against by filing a charging document under [section 14][215] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 99][123].
     
-    (2) Despite anything in [section 21][214] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary if the enforcement authority proceeds with an infringement offence summarily.
+    (2) Despite [section 21][216] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the enforcement authority commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][217].
+    
+    Section 98: replaced, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Issue of infringement notice
     
@@ -2935,17 +2955,19 @@ Miscellaneous
     
     *   (c) if that person is a holder of a rail document, by serving it, or a copy of it, by post on that person at that person's last address for service provided with respect to that rail document.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][215], an infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
+    (3) An infringement notice sent to a person by post under subsection (2)(b) or (c) is to be treated as having been served on the person 7 days after the date on which it was posted.
     
     (4) \[Repealed\]
     
     (5) \[Repealed\]
     
-    Compare: 1998 No 110 [s 139][216]
+    Compare: 1998 No 110 [s 139][218]
     
-    Section 99(4): repealed, on 23 July 2011, by [section 4][217] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 99(3): amended, on 1 July 2013, by [section 413][197] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 99(5): repealed, on 23 July 2011, by [section 4][217] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 99(4): repealed, on 23 July 2011, by [section 4][219] of the Railways Amendment Act 2011 (2011 No 45).
+    
+    Section 99(5): repealed, on 23 July 2011, by [section 4][219] of the Railways Amendment Act 2011 (2011 No 45).
 
 ##### 100 Contents of infringement notices and reminder notices
     
@@ -2961,7 +2983,7 @@ Miscellaneous
     
     *   (e) the time within which the infringement fee may be paid; and
     
-    *   (f) a summary of the provisions of [section 21(10)][214] of the Summary Proceedings Act 1957; and
+    *   (f) a summary of the provisions of [section 21(10)][216] of the Summary Proceedings Act 1957; and
     
     *   (g) a statement of the right of the person served with the notice to request a hearing; and
     
@@ -2975,7 +2997,7 @@ Miscellaneous
     
     (4) Different forms of infringement notices and reminder notices may be prescribed for different kinds of infringement offences.
     
-    Section 100: substituted, on 23 July 2011, by [section 5][218] of the Railways Amendment Act 2011 (2011 No 45).
+    Section 100: substituted, on 23 July 2011, by [section 5][220] of the Railways Amendment Act 2011 (2011 No 45).
 
 ##### 101 Infringement fees
     
@@ -2983,13 +3005,13 @@ Miscellaneous
     
     (2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner of Police the particulars of the payment and the relevant infringement offence as the Commissioner of Police requires.
     
-    (3) All infringement fees received under this Act by an enforcement authority, or recovered under the [Summary Proceedings Act 1957][215] in respect of an infringement offence under this Act, must be paid into the Crown Bank Account.
+    (3) All infringement fees received under this Act by an enforcement authority, or recovered under the [Summary Proceedings Act 1957][221] in respect of an infringement offence under this Act, must be paid into the Crown Bank Account.
     
     (4) Despite subsection (3), the enforcement authority may retain the portion of the infringement fees so received that the Minister of Finance approves as being the expenses incidental to their collection.
     
     (5) For the purposes of subsection (4), the Minister of Finance may approve the retention of different portions of different infringement fees.
     
-    Compare: 1998 No 110 [s 141][219]
+    Compare: 1998 No 110 [s 141][222]
 
 ##### 102 Appointment of enforcement officers
     
@@ -3013,7 +3035,7 @@ Miscellaneous
     
 *   (1) The following enactments are hereby repealed:
         
-    *   (a) [Part 14][220] (comprising [sections 175 to 183][221]) of the Public Works Act 1981:
+    *   (a) [Part 14][223] (comprising [sections 175 to 183][224]) of the Public Works Act 1981:
     
     *   (b) sections 44 and 45 of the Public Works Amendment Act 1988, and the heading above section 44 of that Act.
     
@@ -3025,7 +3047,7 @@ Miscellaneous
     
 *   (1) This section applies to a person who, immediately before the commencement of this Act,---
         
-    *   (a) is the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][222]; and
+    *   (a) is the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][225]; and
     
     *   (b) carries out rail activities as a rail operator or as an access provider.
     
@@ -3057,7 +3079,7 @@ Miscellaneous
         
         
     
-    *   (b) must include the same conditions as the person's rail service licence granted under the [Transport Services Licensing Act 1989][222]; and
+    *   (b) must include the same conditions as the person's rail service licence granted under the [Transport Services Licensing Act 1989][225]; and
     
     *   (c) expires 24 months after the commencement of this Act or when an application for a licence under this Act is granted (whichever is the sooner); and
     
@@ -3065,9 +3087,9 @@ Miscellaneous
     
     (6) Despite subsection (5)(c), the Agency may extend the expiration date of an interim licence if the Agency considers it appropriate.
     
-    (7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the [Transport Services Licensing Act 1989][222] is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)(c).
+    (7) If a person has been issued an interim licence under subsection (4), the person's approved safety system under the [Transport Services Licensing Act 1989][225] is deemed to be that person's approved safety case for the purposes of this Act until the expiry of the interim licence under subsection (5)(c).
     
-    (8) A rail service licence granted under the [Transport Services Licensing Act 1989][222]---
+    (8) A rail service licence granted under the [Transport Services Licensing Act 1989][225]---
         
     *   (a) continues in effect for a period of 2 months after the commencement of this Act or until the Agency issues an interim licence under subsection (4) (whichever is the sooner); and
     
@@ -3089,7 +3111,7 @@ Miscellaneous
     
     *   (b) is required to be licensed under this Act; and
     
-    *   (c) is not the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][222].
+    *   (c) is not the holder of a rail service licence granted under the [Transport Services Licensing Act 1989][225].
     
     (2) A person to whom this section applies must,---
         
@@ -3119,27 +3141,27 @@ Miscellaneous
 
 ##### 107 Safety audits under Transport Services Licensing Act 1989
     
-*   A safety audit report must be completed as if the relevant provisions of the [Transport Services Licensing Act 1989][222] had not been repealed if, on the date of commencement of this Act, a safety auditor has commenced, but not completed,---
+*   A safety audit report must be completed as if the relevant provisions of the [Transport Services Licensing Act 1989][225] had not been repealed if, on the date of commencement of this Act, a safety auditor has commenced, but not completed,---
         
-    *   (a) a regular safety audit report under [section 39F][223] of the Transport Services Licensing Act 1989; or
+    *   (a) a regular safety audit report under [section 39F][226] of the Transport Services Licensing Act 1989; or
     
-    *   (b) a special safety audit under [section 39N][224] of the Transport Services Licensing Act 1989\.
+    *   (b) a special safety audit under [section 39N][227] of the Transport Services Licensing Act 1989\.
     
     
 
 ##### 108 Decisions of Agency under Transport Services Licensing Act 1989
     
-*   (1) If the Agency made a decision in respect of a rail participant under a provision of the [Transport Services Licensing Act 1989][222] that has been repealed by this Act, that decision continues to have effect as if the provisions under which it was made had not been repealed.
+*   (1) If the Agency made a decision in respect of a rail participant under a provision of the [Transport Services Licensing Act 1989][225] that has been repealed by this Act, that decision continues to have effect as if the provisions under which it was made had not been repealed.
     
-    (2) A decision-making process commenced under the provisions of the [Transport Services Licensing Act 1989][222] must continue under that Act if---
+    (2) A decision-making process commenced under the provisions of the [Transport Services Licensing Act 1989][225] must continue under that Act if---
         
     *   (a) the Agency has notified a rail participant of a proposed decision to---
             
         *   (i) require a variation of an approved safety system under [section 6F][170] of the Transport Services Licensing Act 1989; or
         
-        *   (ii) revoke a rail service licence under [section 11][225] of the Transport Services Licensing Act 1989; or
+        *   (ii) revoke a rail service licence under [section 11][228] of the Transport Services Licensing Act 1989; or
         
-        *   (iii) impose conditions on or suspend a rail service licence under [section 39D][226] of the Transport Services Licensing Act 1989; and
+        *   (iii) impose conditions on or suspend a rail service licence under [section 39D][229] of the Transport Services Licensing Act 1989; and
         
         
     
@@ -3161,19 +3183,19 @@ Miscellaneous
 
 ##### 110 Court proceedings under Transport Services Licensing Act 1989
     
-*   A proceeding commenced under a provision of the [Transport Services Licensing Act 1989][222] that is pending or in progress immediately before the repeal of that provision by this Act may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
+*   A proceeding commenced under a provision of the [Transport Services Licensing Act 1989][225] that is pending or in progress immediately before the repeal of that provision by this Act may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
 
 ##### 111 Application of Transport Services Licensing Act 1989 to licences issued under this Act
     
-*   (1) The [Transport Services Licensing Regulations 1989][227] apply, with all necessary modifications, to licences issued under this Act, except that---
+*   (1) The [Transport Services Licensing Regulations 1989][230] apply, with all necessary modifications, to licences issued under this Act, except that---
         
-    *   (a) [regulations 4][228] and [5][229] must be read as if every reference to a transport service licence issued under the [Transport Services Licensing Act 1989][222] were a reference to a licence to carry out rail activities issued under this Act:
+    *   (a) [regulations 4][231] and [5][232] must be read as if every reference to a transport service licence issued under the [Transport Services Licensing Act 1989][225] were a reference to a licence to carry out rail activities issued under this Act:
     
-    *   (b) [regulation 7A][230] must be read as if the reference to a rail service licence were a reference to a licence to carry out activities as an access provider or rail operator under this Act:
+    *   (b) [regulation 7A][233] must be read as if the reference to a rail service licence were a reference to a licence to carry out activities as an access provider or rail operator under this Act:
     
-    *   (c) item 2 in column 2 of [Schedule 1][231] must be read as if the reference to a rail service licence were a reference to a licence to carry out rail service activities under this Act:
+    *   (c) item 2 in column 2 of [Schedule 1][234] must be read as if the reference to a rail service licence were a reference to a licence to carry out rail service activities under this Act:
     
-    *   (d) in [Schedule 2][232], every reference to---
+    *   (d) in [Schedule 2][235], every reference to---
             
         *   (i) a rail service licence must be read as if it were a reference to a licence to carry out activities as a rail operator under this Act:
         
@@ -3181,7 +3203,7 @@ Miscellaneous
         
         
     
-    (2) [Regulation 9(l)][233] of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under [section 59][74] exempting the rail participant referred to in that regulation from complying with [Parts 1][3] and [2][8].
+    (2) [Regulation 9(l)][236] of the Transport Services Licensing Regulations 1989 has effect as if it were a regulation made under [section 59][74] exempting the rail participant referred to in that regulation from complying with [Parts 1][3] and [2][8].
     
     (3) This section expires on a date specified by Order in Council.
 
@@ -3194,15 +3216,15 @@ Acts consequentially amended
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][234]._
+_Amendment(s) incorporated in the [Act(s)][237]._
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][235]._
+_Amendment(s) incorporated in the [Act(s)][238]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][236]._
+_Amendment(s) incorporated in the [Act(s)][239]._
 
 ##### Land Transport Act 1998 (1998 No 110)
 
@@ -3210,39 +3232,39 @@ _Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Land Transport Management Act 2003 (2003 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][237]._
+_Amendment(s) incorporated in the [Act(s)][240]._
 
 ##### Local Government Act 1974 (1974 No 66)
 
-_Amendment(s) incorporated in the [Act(s)][206]._
+_Amendment(s) incorporated in the [Act(s)][208]._
 
 ##### Local Government (Rating) Act 2002 (2002 No 6)
 
-_Amendment(s) incorporated in the [Act(s)][209]._
+_Amendment(s) incorporated in the [Act(s)][211]._
 
 ##### New Zealand Railways Corporation Act 1981 (1981 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][238]._
+_Amendment(s) incorporated in the [Act(s)][241]._
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][239]._
+_Amendment(s) incorporated in the [Act(s)][242]._
 
 ##### Te Ture Whenua Maori Act 1993 (1993 No 4)
 
-_Amendment(s) incorporated in the [Act(s)][240]._
+_Amendment(s) incorporated in the [Act(s)][243]._
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][241]._
+_Amendment(s) incorporated in the [Act(s)][244]._
 
 ##### Transport Act 1962 (1962 No 135)
 
-_Amendment(s) incorporated in the [Act(s)][242]._
+_Amendment(s) incorporated in the [Act(s)][245]._
 
 ##### Transport Services Licensing Act 1989 (1989 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][222]._
+_Amendment(s) incorporated in the [Act(s)][225]._
 
 ---
 
@@ -3257,19 +3279,19 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001 (SR 2001/116)
 
-_Amendment(s) incorporated in the [regulations][243]._
+_Amendment(s) incorporated in the [regulations][246]._
 
 ##### Land Transport (Offences and Penalties) Regulations 1999 (SR 1999/99)
 
-_Amendment(s) incorporated in the [regulations][244]._
+_Amendment(s) incorporated in the [regulations][247]._
 
 ##### Land Transport (Road User) Rule 2004 (SR 2004/427)
 
-_Amendment(s) incorporated in the [rule(s)][245]._
+_Amendment(s) incorporated in the [rule(s)][248]._
 
 ##### Traffic Regulations 1976 (SR 1976/227)
 
-_Amendment(s) incorporated in the [regulations][246]._
+_Amendment(s) incorporated in the [regulations][249]._
 
 ---
 
@@ -3281,7 +3303,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][247].
+*   This Act is the [Infrastructure (Amendments Relating to Utilities Access) Act 2010][250].
 
 ##### 2 Commencement
     
@@ -3293,72 +3315,33 @@ Commencementsee section 2
     
 *   To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Railways Act 2005\. The reprint incorporates all the amendments to the Act as at 23 July 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][248] ![](/images/external_link.gif).
+*   This is a reprint of the Railways Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][249] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][251] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][252] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][250] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][253] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][254] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][251] and [17E][252] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][190]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][197]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Railways Amendment Act 2011][255] (2011 No 45)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Railways Amendment Act 2011][253] (2011 No 45)
-    
-    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [section 26][202]
+    Infrastructure (Amendments Relating to Utilities Access) Act 2010 (2010 No 99): [section 26][204]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(vii), (d)][148]
     
@@ -3366,7 +3349,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0037/latest/whole.html#DLM341571
 [2]: http://www.legislation.govt.nz/act/public/2005/0037/latest/whole.html#DLM341572
 [3]: http://www.legislation.govt.nz/act/public/2005/0037/latest/whole.html#DLM341573
@@ -3552,71 +3535,73 @@ Commencementsee section 2
 [183]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435187
 [184]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435192
 [185]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435188
-[186]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195534
-[187]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195097
+[186]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2997643
+[187]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998573
 [188]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM129507
 [189]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435194
-[190]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435195
-[191]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435198
-[192]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435197
-[193]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435400
-[194]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435407
-[195]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435411
-[196]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM242775
-[197]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM147653
-[198]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243909
-[199]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243795
-[200]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM293863
-[201]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM36926
-[202]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924942
-[203]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM384993
-[204]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM230264
-[205]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM45426
-[206]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM415531
-[207]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM127423
-[208]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM312656
-[209]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM131393
-[210]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172696
-[211]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172697
-[212]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172699
-[213]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172806
-[214]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM311346
-[215]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM310742
-[216]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435155
-[217]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558009
-[218]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558010
-[219]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435158
-[220]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47767
-[221]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47770
-[222]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM170942
-[223]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172180
-[224]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172614
-[225]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171665
-[226]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172172
-[227]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133323
-[228]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133341
-[229]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133344
-[230]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133353
-[231]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133364
-[232]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133370
-[233]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133360
-[234]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM281857
-[235]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM285411
-[236]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM381221
-[237]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM226229
-[238]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM57005
-[239]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM296638
-[240]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM289881
-[241]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM219710
-[242]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM341189
-[243]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM35394
-[244]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM280109
-[245]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM302187
-[246]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM50037
-[247]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924904
-[248]: http://www.pco.parliament.govt.nz/reprints/
-[249]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195439
-[250]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[251]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195468
-[252]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM195470
-[253]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558004
+[190]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998633
+[191]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435195
+[192]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435198
+[193]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435197
+[194]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435400
+[195]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435407
+[196]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435411
+[197]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360714
+[198]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM242775
+[199]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM147653
+[200]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243909
+[201]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM243795
+[202]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM293863
+[203]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM36926
+[204]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924942
+[205]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM384993
+[206]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM230264
+[207]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM45426
+[208]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM415531
+[209]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM127423
+[210]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360482
+[211]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM131393
+[212]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172696
+[213]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172699
+[214]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172806
+[215]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3360057
+[216]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM311346
+[217]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3359902
+[218]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435155
+[219]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558009
+[220]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558010
+[221]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM310742
+[222]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM435158
+[223]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47767
+[224]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM47770
+[225]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM170942
+[226]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172180
+[227]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172614
+[228]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM171665
+[229]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM172172
+[230]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133323
+[231]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133341
+[232]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133344
+[233]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133353
+[234]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133364
+[235]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133370
+[236]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM133360
+[237]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM281857
+[238]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM285411
+[239]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM381221
+[240]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM226229
+[241]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM57005
+[242]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM296638
+[243]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM289881
+[244]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM219710
+[245]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM341189
+[246]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM35394
+[247]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM280109
+[248]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM302187
+[249]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM50037
+[250]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2924904
+[251]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998516
+[252]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998515
+[253]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM2998532
+[254]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[255]: http://www.legislation.govt.nz/act/public/2005/0037/latest/link.aspx?id=DLM3558004
