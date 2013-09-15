@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,292 +25,292 @@ This Act is administered by the Ministry of Defence.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Application of Act][5]
+[4][5][][5][Application of Act][5]
 
 [Part 1][6]  
 [Constitutional position of armed forces][6]
 
-[5][7] [Power to raise armed forces][7]
+[5][7][][7][Power to raise armed forces][7]
 
-[6][8] [Further powers of Governor-General][8]
+[6][8][][8][Further powers of Governor-General][8]
 
-[7][9] [Power of Minister of Defence][9]
+[7][9][][9][Power of Minister of Defence][9]
 
-[8][10] [Chief of Defence Force][10]
+[8][10][][10][Chief of Defence Force][10]
 
-[9][11] [Use of Armed Forces to provide public service or assist civil power][11]
+[9][11][][11][Use of Armed Forces to provide public service or assist civil power][11]
 
-[10][12] [Powers of requisition][12]
+[10][12][][12][Powers of requisition][12]
 
 [Part 2][13]  
 [The New Zealand Defence Force][13]
 
-[11][14] [Constitution of Defence Force][14]
+[11][14][][14][Constitution of Defence Force][14]
 
-[12][15] [Joint forces][15]
+[12][15][][15][Joint forces][15]
 
-[13][16] [Members of regular forces][16]
+[13][16][][16][Members of regular forces][16]
 
-[14][17] [Members of Civil Staff][17] \[Repealed\]
+[14][17][][17][Members of Civil Staff][17] \[Repealed\]
 
-[15][18] [Members of territorial forces][18]
+[15][18][][18][Members of territorial forces][18]
 
-[16][19] [Members of reserve forces][19]
+[16][19][][19][Members of reserve forces][19]
 
-[17][20] [Relative ranks][20]
+[17][20][][20][Relative ranks][20]
 
-[18][21] [Attachment of members of one Service to another Service][21]
+[18][21][][21][Attachment of members of one Service to another Service][21]
 
-[19][22] [Circumstances in which members of one Service are deemed attached to another Service][22]
+[19][22][][22][Circumstances in which members of one Service are deemed attached to another Service][22]
 
-[20][23] [Modification of Acts for members of one Service attached or deemed attached to another Service][23]
+[20][23][][23][Modification of Acts for members of one Service attached or deemed attached to another Service][23]
 
-[21][24] [Transfer of members of one Service to another Service][24]
+[21][24][][24][Transfer of members of one Service to another Service][24]
 
-[22][25] [Transfer for employment with other forces][25]
+[22][25][][25][Transfer for employment with other forces][25]
 
-[23][26] [Attachment of members of New Zealand Armed Forces to other armed forces][26]
+[23][26][][26][Attachment of members of New Zealand Armed Forces to other armed forces][26]
 
-[23A][27] [Attachment of members of other armed forces to New Zealand Armed Forces][27]
+[23A][27][][27][Attachment of members of other armed forces to New Zealand Armed Forces][27]
 
-[23B][28] [Mutual powers of command when forces acting together][28]
+[23B][28][][28][Mutual powers of command when forces acting together][28]
 
 [Part 3][29]  
 [Secretary of Defence, Chief of Defence Force, and Chiefs of Service][29]
 
-[24][30] [Secretary of Defence][30]
+[24][30][][30][Secretary of Defence][30]
 
-[25][31] [Chief of Defence Force][31]
+[25][31][][31][Chief of Defence Force][31]
 
-[26][32] [Chief of Defence Force may be relieved of particular responsibilities in time of war or other like emergency][32]
+[26][32][][32][Chief of Defence Force may be relieved of particular responsibilities in time of war or other like emergency][32]
 
-[27][33] [Defence Force Orders][33]
+[27][33][][33][Defence Force Orders][33]
 
-[28][34] [Chiefs of Service][34]
+[28][34][][34][Chiefs of Service][34]
 
-[29][35] [Chiefs of Service Committee][35]
+[29][35][][35][Chiefs of Service Committee][35]
 
-[30][36] [Delegation of functions, duties, and powers][36]
+[30][36][][36][Delegation of functions, duties, and powers][36]
 
-[31][37] [Consultation between Secretary of Defence and Chief of Defence Force][37]
+[31][37][][37][Consultation between Secretary of Defence and Chief of Defence Force][37]
 
 [Part 4][38]  
 [Terms and conditions of service in the armed forces][38]
 
 [Appointments and enlistments][39]
 
-[32][40] [Appointment, promotion, and discharge of officers][40]
+[32][40][][40][Appointment, promotion, and discharge of officers][40]
 
-[33][41] [Appointment, enlistment, and engagement][41]
+[33][41][][41][Appointment, enlistment, and engagement][41]
 
-[33A][42] [Age requirements][42]
+[33A][42][][42][Age requirements][42]
 
-[34][43] [Oath of allegiance][43]
+[34][43][][43][Oath of allegiance][43]
 
-[35][44] [Effect of oath of allegiance][44]
+[35][44][][44][Effect of oath of allegiance][44]
 
 [Provisions relating to minors][45]
 
-[36][46] [Enlistment of minors][46]
+[36][46][][46][Enlistment of minors][46]
 
-[37][47] [Liability of minors for active service][47]
+[37][47][][47][Liability of minors for active service][47]
 
 [Liability for and duration of service][48]
 
-[38][49] [Liability for and duration of service in regular forces][49]
+[38][49][][49][Liability for and duration of service in regular forces][49]
 
-[39][50] [Liability for service in territorial forces][50]
+[39][50][][50][Liability for service in territorial forces][50]
 
-[40][51] [Liability for service in reserve forces][51]
+[40][51][][51][Liability for service in reserve forces][51]
 
-[41][52] [Further provisions relating to Proclamations][52]
+[41][52][][52][Further provisions relating to Proclamations][52]
 
-[42][53] [Protection of employment when Proclamation made][53]
+[42][53][][53][Protection of employment when Proclamation made][53]
 
-[43][54] [Discretion to waive or postpone requirement for continuous service][54]
+[43][54][][54][Discretion to waive or postpone requirement for continuous service][54]
 
-[44][55] [Active service][55]
+[44][55][][55][Active service][55]
 
 [Pay and allowances, etc][56]
 
-[45][57] [Conditions of service in Armed Forces][57]
+[45][57][][57][Conditions of service in Armed Forces][57]
 
-[46][58] [Regulations fixing certain terms and conditions of service][58]
+[46][58][][58][Regulations fixing certain terms and conditions of service][58]
 
-[47][59] [Defence Force Orders fixing certain terms and conditions of service][59] \[Repealed\]
+[47][59][][59][Defence Force Orders fixing certain terms and conditions of service][59] \[Repealed\]
 
-[48][60] [Determinations and regulations to be notified in Defence Force Orders][60] \[Repealed\]
+[48][60][][60][Determinations and regulations to be notified in Defence Force Orders][60] \[Repealed\]
 
 [Miscellaneous provisions relating to service][61]
 
-[49][62] [Redress of complaints][62]
+[49][62][][62][Redress of complaints][62]
 
-[50][63] [Special service][63]
+[50][63][][63][Special service][63]
 
-[50A][64] [Power to declare situation of national interest in relation to special service][64]
+[50A][64][][64][Power to declare situation of national interest in relation to special service][64]
 
-[50B][65] [Protection of employment when situation of national interest declared][65]
+[50B][65][][65][Protection of employment when situation of national interest declared][65]
 
-[51][66] [Persons receiving pay but not properly attested][66]
+[51][66][][66][Persons receiving pay but not properly attested][66]
 
 [Discharge or release from regular forces on notice][67]
 
-[52][68] [Members may give notice of intention to leave regular forces][68]
+[52][68][][68][Members may give notice of intention to leave regular forces][68]
 
-[53][69] [Return of service obligation][69]
+[53][69][][69][Return of service obligation][69]
 
-[54][70] [State of critical manning][70]
+[54][70][][70][State of critical manning][70]
 
-[55][71] [Notice while serving overseas, etc][71]
+[55][71][][71][Notice while serving overseas, etc][71]
 
-[56][72] [Discretion to relax requirements][72]
+[56][72][][72][Discretion to relax requirements][72]
 
-[57][73] [Notice while subject to disciplinary proceedings, etc][73]
+[57][73][][73][Notice while subject to disciplinary proceedings, etc][73]
 
 [Discharge or release from services for incompatible behaviour][74]
 
-[57A][75] [Members may be discharged or released for incompatible behaviour][75]
+[57A][75][][75][Members may be discharged or released for incompatible behaviour][75]
 
 [Unit funds, messes, etc][76]
 
-[58][77] [Unit and other non-public funds][77]
+[58][77][][77][Unit and other non-public funds][77]
 
 [Part 5][78]  
 [Terms and conditions of service in the Civil Staff][78]
 
-[59][79] [General principles][79]
+[59][79][][79][General principles][79]
 
-[60][80] [Code of conduct][80]
+[60][80][][80][Code of conduct][80]
 
-[61][81] [Equal employment opportunities][81]
+[61][81][][81][Equal employment opportunities][81]
 
-[61A][82] [Appointment of members of Civil Staff][82]
+[61A][82][][82][Appointment of members of Civil Staff][82]
 
-[62][83] [Appointments on merit][83]
+[62][83][][83][Appointments on merit][83]
 
-[63][84] [Obligation to notify vacancies][84]
+[63][84][][84][Obligation to notify vacancies][84]
 
-[64][85] [Acting appointments][85]
+[64][85][][85][Acting appointments][85]
 
-[65][86] [Evidence of appointments][86]
+[65][86][][86][Evidence of appointments][86]
 
-[66][87] [Obligation to notify appointments][87]
+[66][87][][87][Obligation to notify appointments][87]
 
-[67][88] [Review of appointments][88]
+[67][88][][88][Review of appointments][88]
 
-[68][89] [Power to transfer members within Civil Staff][89]
+[68][89][][89][Power to transfer members within Civil Staff][89]
 
 [Application of Employment Relations Act 2000][90]
 
-[69][91] [Application to Civil Staff of Employment Relations Act 2000][91]
+[69][91][][91][Application to Civil Staff of Employment Relations Act 2000][91]
 
-[70][92] [Negotiation of conditions of employment][92]
+[70][92][][92][Negotiation of conditions of employment][92]
 
-[71][93] [Personal grievances and disputes][93]
+[71][93][][93][Personal grievances and disputes][93]
 
-[72][94] [Compulsory arbitration and agreement not to strike or lock out][94] \[Repealed\]
+[72][94][][94][Compulsory arbitration and agreement not to strike or lock out][94] \[Repealed\]
 
-[73][95] [Contravention of agreement not to strike or lock out][95] \[Repealed\]
+[73][95][][95][Contravention of agreement not to strike or lock out][95] \[Repealed\]
 
 [Part 5A][96]  
 [Superannuation][96]
 
-[73A][97] [Interpretation][97]
+[73A][97][][97][Interpretation][97]
 
-[73B][98] [Chief of Defence Force may establish superannuation schemes for members of Defence Force][98]
+[73B][98][][98][Chief of Defence Force may establish superannuation schemes for members of Defence Force][98]
 
-[73C][99] [Requirements in respect of superannuation schemes for members of Defence Force][99]
+[73C][99][][99][Requirements in respect of superannuation schemes for members of Defence Force][99]
 
-[73D][100] [Chief of Defence Force to obtain confirmation from Government Actuary that scheme meets requirements of this Act][100] \[Repealed\]
+[73D][100][][100][Chief of Defence Force to obtain confirmation from Government Actuary that scheme meets requirements of this Act][100] \[Repealed\]
 
-[73E][101] [Contributions to superannuation schemes][101]
+[73E][101][][101][Contributions to superannuation schemes][101]
 
-[73F][102] [Chief of Defence Force may establish compulsory scheme for members of Armed Forces][102]
+[73F][102][][102][Chief of Defence Force may establish compulsory scheme for members of Armed Forces][102]
 
 [Part 6][103]  
 [Cadet forces][103]
 
-[74][104] [Constitution of cadet forces][104]
+[74][104][][104][Constitution of cadet forces][104]
 
-[75][105] [Personnel of cadet forces][105]
+[75][105][][105][Personnel of cadet forces][105]
 
-[76][106] [Cadet officers][106]
+[76][106][][106][Cadet officers][106]
 
-[77][107] [Functions of cadet forces][107]
+[77][107][][107][Functions of cadet forces][107]
 
-[78][108] [Assistance to cadet forces][108]
+[78][108][][108][Assistance to cadet forces][108]
 
-[79][109] [Member of cadet forces may be removed from defence area in certain cases][109]
+[79][109][][109][Member of cadet forces may be removed from defence area in certain cases][109]
 
-[80][110] [Members of cadet forces eligible for war pensions][110]
+[80][110][][110][Members of cadet forces eligible for war pensions][110]
 
-[81][111] [Recognition of civilian organisations][111]
+[81][111][][111][Recognition of civilian organisations][111]
 
 [Part 7][112]  
 [Offences punishable by civil courts][112]
 
-[82][113] [Procuring and assisting desertion][113]
+[82][113][][113][Procuring and assisting desertion][113]
 
-[83][114] [Obstructing members of Armed Forces in execution of duty][114]
+[83][114][][114][Obstructing members of Armed Forces in execution of duty][114]
 
-[84][115] [Obstructing parades][115]
+[84][115][][115][Obstructing parades][115]
 
-[85][116] [Aiding malingering][116]
+[85][116][][116][Aiding malingering][116]
 
-[86][117] [False statements regarding pay or allowances, etc][117]
+[86][117][][117][False statements regarding pay or allowances, etc][117]
 
-[87][118] [Failure to account for issued property][118]
+[87][118][][118][Failure to account for issued property][118]
 
-[88][119] [Giving false certificate, etc][119]
+[88][119][][119][Giving false certificate, etc][119]
 
-[89][120] [Bringing liquor into defence areas, etc][120]
+[89][120][][120][Bringing liquor into defence areas, etc][120]
 
-[90][121] [Evidence][121]
+[90][121][][121][Evidence][121]
 
 [Part 8][122]  
 [Miscellaneous provisions][122]
 
-[90A][123] [Locally employed civilians][123]
+[90A][123][][123][Locally employed civilians][123]
 
-[91][124] [Annual report][124]
+[91][124][][124][Annual report][124]
 
-[91A][125] [Territorial Forces Employer Support Council][125]
+[91A][125][][125][Territorial Forces Employer Support Council][125]
 
-[92][126] [Arms, etc, to remain property of the Crown][126]
+[92][126][][126][Arms, etc, to remain property of the Crown][126]
 
-[93][127] [Security of defence areas][127]
+[93][127][][127][Security of defence areas][127]
 
-[94][128] [Recovery of excess payments][128]
+[94][128][][128][Recovery of excess payments][128]
 
-[95][129] [Apprentices][129] \[Repealed\]
+[95][129][][129][Apprentices][129] \[Repealed\]
 
-[96][130] [Public Trust to administer Nelson Rifle Prize Fund][130] \[Repealed\]
+[96][130][][130][Public Trust to administer Nelson Rifle Prize Fund][130] \[Repealed\]
 
-[96A][131] [Nelson Rifle Prize Fund abolished][131]
+[96A][131][][131][Nelson Rifle Prize Fund abolished][131]
 
-[97][132] [Delegations not to lapse][132]
+[97][132][][132][Delegations not to lapse][132]
 
-[98][133] [Execution of instruments, etc][133]
+[98][133][][133][Execution of instruments, etc][133]
 
-[99][134] [Proclamations, etc][134]
+[99][134][][134][Proclamations, etc][134]
 
-[100][135] [Promulgation of orders][135]
+[100][135][][135][Promulgation of orders][135]
 
-[101][136] [Regulations][136]
+[101][136][][136][Regulations][136]
 
-[102][137] [Transitional provisions][137]
+[102][137][][137][Transitional provisions][137]
 
-[103][138] [Application of State Sector Act 1988][138]
+[103][138][][138][Application of State Sector Act 1988][138]
 
-[104][139] [Application of Public Finance Act 1989][139]
+[104][139][][139][Application of Public Finance Act 1989][139]
 
-[105][140] [Consequential amendments and repeals][140]
+[105][140][][140][Consequential amendments and repeals][140]
 
 [Schedule 1][141]  
 [Enactments consequentially amended][141]
@@ -2238,7 +2238,7 @@ Offences punishable by civil courts
 
 ##### 82 Procuring and assisting desertion
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere,---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere,---
         
     *   (a) intentionally or recklessly procures or persuades any member of the Armed Forces to desert or absent himself or herself without leave; or
     
@@ -2255,22 +2255,28 @@ Offences punishable by civil courts
         
     
     Compare: 1971 No 52 s 66; 1988 No 88 s 13(1)
+    
+    Section 82: amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 83 Obstructing members of Armed Forces in execution of duty
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand or elsewhere, intentionally or recklessly obstructs or interferes with any member of the Armed Forces acting in the execution of his or her duty.
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand or elsewhere, intentionally or recklessly obstructs or interferes with any member of the Armed Forces acting in the execution of his or her duty.
     
     Compare: 1971 No 52 s 67; 1988 No 88 s 13(1)
+    
+    Section 83: amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 84 Obstructing parades
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand, intentionally or recklessly interrupts or obstructs any military exercise of any part of the Armed Forces.
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand, intentionally or recklessly interrupts or obstructs any military exercise of any part of the Armed Forces.
     
     Compare: 1971 No 52 s 68; 1988 No 88 s 13(1)
+    
+    Section 84: amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 85 Aiding malingering
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand, or elsewhere,---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand, or elsewhere,---
         
     *   (a) produces in a member of the Armed Forces any sickness or disability; or
     
@@ -2279,10 +2285,12 @@ Offences punishable by civil courts
     with intent to enable that member, either permanently or temporarily, to avoid service in the Armed Forces.
     
     Compare: 1971 No 52 s 70; 1988 No 88 s 13(1)
+    
+    Section 85: amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 86 False statements regarding pay or allowances, etc
     
-*   (1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere, makes any statement knowing it to be false, or knowingly withholds any required information, for the purpose---
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $2,000 who, in New Zealand or elsewhere, makes any statement knowing it to be false, or knowingly withholds any required information, for the purpose---
         
     *   (a) of obtaining payment of any amount by way of pay, allowance, or gratuity under this Act, whether as a dependant of a member of the Armed Forces or otherwise; or
     
@@ -2291,20 +2299,26 @@ Offences punishable by civil courts
     (2) If, as a consequence of the commission of an offence against this section, any amount is paid to a dependant of a member of the Armed Forces, or to any other person for the time being entitled to receive it, in excess of the amount to which the dependant or other person is entitled, the amount paid in excess, or any part of the amount, may be recovered from the dependant or other person out of money payable to the dependant or other person by the Crown but not yet paid, or out of money to become payable to the dependant or other person by the Crown, or may be recovered as a debt due to the Crown.
     
     Compare: 1971 No 52 s 72; 1988 No 88 s 13(1)
+    
+    Section 86(1): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 87 Failure to account for issued property
     
 *   (1) Every person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person's permanent retention shall, on being required to do so by a notice in writing purporting to be signed by a member of the Defence Force and delivered to that person personally or posted by registered letter to his or her place of residence, return the property to such person and within such reasonable time as may be specified in the notice.
     
-    (2) If any person to whom any such notice has been delivered fails, without lawful excuse, to return any such property as required by the notice, that person commits an offence and is liable on summary conviction to a fine not exceeding $1,000\.
+    (2) If any person to whom any such notice has been delivered fails, without lawful excuse, to return any such property as required by the notice, that person commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
-    (3) If any person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person's permanent retention recklessly or negligently loses the property, that person commits an offence and is liable on summary conviction to a fine not exceeding $1,000\.
+    (3) If any person in New Zealand to whom any property has been issued by or for the purposes of the Armed Forces otherwise than for that person's permanent retention recklessly or negligently loses the property, that person commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 1971 No 52 s 73; 1988 No 88 s 13(1)
+    
+    Section 87(2): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 87(3): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 88 Giving false certificate, etc
     
-*   Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand,---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who, in New Zealand,---
         
     *   (a) gives any certificate; or
     
@@ -2313,10 +2327,12 @@ Offences punishable by civil courts
     that the person knows to be false concerning any matter in respect of which the person is required by or under this Act to render any such certificate, return, or statement.
     
     Compare: 1971 No 52 s 74; 1988 No 88 s 13(1)
+    
+    Section 88: amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 89 Bringing liquor into defence areas, etc
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who, in New Zealand,---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who, in New Zealand,---
         
     *   (a) intentionally and without authority brings or conveys any alcoholic liquor into any naval ship or defence area, or any other place where members of the Armed Forces are quartered or serving, otherwise than for delivery into any canteen or mess or to any premises occupied as married quarters, with the knowledge that the ship is a naval ship, the area is a defence area, or the place is one where members of the Armed Forces are quartered or serving, as the case may be; or
     
@@ -2342,15 +2358,17 @@ Offences punishable by civil courts
     
     Compare: 1971 No 52 s 75; 1988 No 88 s 13(1)
     
+    Section 89(1): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 89(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][151] of the Policing Act 2008 (2008 No 72).
 
 ##### 90 Evidence
     
-*   Any document that would be evidence in any proceedings under the [Armed Forces Discipline Act 1971][144] by virtue of [sections 71 to 74][218] of the Court Martial Act 2007 shall, in like manner, be evidence in proceedings under this Part.
+*   Any document that would be evidence in any proceedings under the [Armed Forces Discipline Act 1971][144] by virtue of [sections 71 to 74][219] of the Court Martial Act 2007 shall, in like manner, be evidence in proceedings under this Part.
     
     Compare: 1971 No 52 s 76
     
-    Section 90: amended, on 7 July 2010, by [section 5][219] of the Defence Amendment Act 2010 (2010 No 61).
+    Section 90: amended, on 7 July 2010, by [section 5][220] of the Defence Amendment Act 2010 (2010 No 61).
 
 ## Part 8  
 Miscellaneous provisions
@@ -2359,17 +2377,17 @@ Miscellaneous provisions
     
 *   The Chief of Defence Force may employ persons who are outside New Zealand to undertake work for the Defence Force outside New Zealand on terms and conditions specified or prescribed by the Chief of Defence Force.
     
-    Section 90A: inserted, on 27 September 2001, by [section 6][220] of the Defence Amendment Act 2001 (2001 No 62).
+    Section 90A: inserted, on 27 September 2001, by [section 6][221] of the Defence Amendment Act 2001 (2001 No 62).
 
 ##### 91 Annual report
     
-*   As soon as practicable after the end of each financial year, the Chief of Defence Force must, in accordance with [section 43][221] of the Public Finance Act 1989, prepare a report on---
+*   As soon as practicable after the end of each financial year, the Chief of Defence Force must, in accordance with [section 43][222] of the Public Finance Act 1989, prepare a report on---
         
     *   (a) the operations of the Defence Force for that financial year; and
     
     *   (b) any other matters that the Chief of Defence Force considers to affect the operations of the Defence Force.
     
-    Section 91: substituted, on 25 January 2005, by [section 37(1)][222] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 91: substituted, on 25 January 2005, by [section 37(1)][223] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 91A Territorial Forces Employer Support Council
     
@@ -2383,13 +2401,13 @@ Miscellaneous provisions
     
     *   (c) such other functions as are from time to time determined by the Minister.
     
-    (3) The Council is a statutory Board for the purposes of the [Fees and Travelling Allowances Act 1951][223].
+    (3) The Council is a statutory Board for the purposes of the [Fees and Travelling Allowances Act 1951][224].
     
-    (4) There may be paid out of public money to the members of the Council remuneration by way of fees, salaries, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][223], and the provisions of that Act apply accordingly.
+    (4) There may be paid out of public money to the members of the Council remuneration by way of fees, salaries, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][224], and the provisions of that Act apply accordingly.
     
     (5) Subject to the provisions of this Act and of any regulations made under this Act, the Council may regulate its own procedure.
     
-    Section 91A: inserted, on 1 April 2004, by [section 7][224] of the Defence Amendment Act 2004 (2004 No 13).
+    Section 91A: inserted, on 1 April 2004, by [section 7][225] of the Defence Amendment Act 2004 (2004 No 13).
 
 ##### 92 Arms, etc, to remain property of the Crown
     
@@ -2401,7 +2419,7 @@ Miscellaneous provisions
     
     Compare: 1971 No 52 s 80
     
-    Section 92(3): amended, on 1 January 2008, by [section 364(1)][225] of the Property Law Act 2007 (2007 No 91).
+    Section 92(3): amended, on 1 January 2008, by [section 364(1)][226] of the Property Law Act 2007 (2007 No 91).
 
 ##### 93 Security of defence areas
     
@@ -2431,53 +2449,55 @@ Miscellaneous provisions
     
     *   (g) requiring any member of the Defence Force duly authorised under paragraph (a) to produce such warrant or other evidence of his or her authority as may be prescribed in the regulations when exercising any power under the regulations:
     
-    *   (h) prescribing offences for breaches in New Zealand of any such regulations, and prescribing, on summary conviction for any offence, a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000\.
+    *   (h) prescribing offences for breaches in New Zealand of any such regulations, and prescribing, on conviction for any offence, a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000\.
     
     Compare: 1971 No 52 s 81; 1976 No 14 s 4; 1985 No 198 s 10; 1988 No 88 s 13(1)
     
-    Section 93(1): amended, on 3 June 1998, by [section 6(a)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(1): amended, on 3 June 1998, by [section 6(a)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(1): amended, on 3 June 1998, by [section 6(c)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(1): amended, on 3 June 1998, by [section 6(c)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(a): amended, on 3 June 1998, by [section 6(a)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(a): amended, on 3 June 1998, by [section 6(a)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(a): amended, on 3 June 1998, by [section 6(c)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(a): amended, on 3 June 1998, by [section 6(c)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(b): amended, on 3 June 1998, by [section 6(e)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(b): amended, on 3 June 1998, by [section 6(e)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(c): amended, on 3 June 1998, by [section 6(d)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(c): amended, on 3 June 1998, by [section 6(d)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(c): amended, on 3 June 1998, by [section 6(e)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(c): amended, on 3 June 1998, by [section 6(e)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
     Section 93(2)(c)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][151] of the Policing Act 2008 (2008 No 72).
     
     Section 93(2)(c)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][151] of the Policing Act 2008 (2008 No 72).
     
-    Section 93(2)(c)(ii): amended, on 3 June 1998, by [section 6(b)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(c)(ii): amended, on 3 June 1998, by [section 6(b)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(d): amended, on 3 June 1998, by [section 6(b)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(d): amended, on 3 June 1998, by [section 6(b)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 93(2)(e): amended, on 3 June 1998, by [section 6(b)][226] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 93(2)(e): amended, on 3 June 1998, by [section 6(b)][227] of the Defence Amendment Act 1998 (1998 No 39).
     
     Section 93(2)(f): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][151] of the Policing Act 2008 (2008 No 72).
+    
+    Section 93(2)(h): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 94 Recovery of excess payments
     
 *   If any amount in respect of pay, allowances, or other emoluments is paid to a member or discharged member of the Armed Forces, or to the dependant of any member, deceased member, or discharged member of the Armed Forces, or to any other person for the time being entitled to receive any pay, allowance, or other emolument on behalf of any such member, discharged member, or any dependant, in excess of the amount to which the member, discharged member, dependant, or other person is entitled under this Act, the amount so paid in excess or any part of it may be recovered from the member, discharged member, dependant, or other person.
     
-    Compare: 1971 No 52 s 82; 1989 No 44 [s 86(1)][227]
+    Compare: 1971 No 52 s 82; 1989 No 44 [s 86(1)][228]
 
 ##### 95 Apprentices
     
 *   \[Repealed\]
     
-    Section 95: repealed, on 7 May 1999, by [section 2][228] of the Defence Amendment Act 1999 (1999 No 31).
+    Section 95: repealed, on 7 May 1999, by [section 2][229] of the Defence Amendment Act 1999 (1999 No 31).
 
 ##### 96 Public Trust to administer Nelson Rifle Prize Fund
     
 *   \[Repealed\]
     
-    Section 96: repealed, on 15 December 2005, by [section 3][229] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
+    Section 96: repealed, on 15 December 2005, by [section 3][230] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
 
 ##### 96A Nelson Rifle Prize Fund abolished
     
@@ -2499,7 +2519,7 @@ Miscellaneous provisions
     
     (3) In this section, **Nelson region** means the area within the boundaries of Nelson City and the Tasman District.
     
-    Section 96A: inserted, on 15 December 2005, by [section 4][230] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
+    Section 96A: inserted, on 15 December 2005, by [section 4][231] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
 
 ##### 97 Delegations not to lapse
     
@@ -2559,7 +2579,7 @@ Miscellaneous provisions
     
     *   (d) authorising civilian persons or organisations to conduct prescribed activities in defence areas:
     
-    *   (e) controlling the packing, marking, handling, carriage, storage, and use in defence areas of hazardous substances as defined in [section 2][231] of the Hazardous Substances and New Organisms Act 1996:
+    *   (e) controlling the packing, marking, handling, carriage, storage, and use in defence areas of hazardous substances as defined in [section 2][232] of the Hazardous Substances and New Organisms Act 1996:
     
     *   (f) providing for the enlistment of forces under [section 11(3)(e), (4)(d), or (5)(d)][14], and providing for the terms and conditions of service of those forces:
     
@@ -2569,7 +2589,7 @@ Miscellaneous provisions
     
     *   (gb) authorising the officer in charge of any defence area to regulate the use of vehicles and specify the conditions upon or subject to which they may be used in the area:
     
-    *   (gc) prescribing offences for the contravention of or non-compliance with any regulations made under paragraph (ga) or paragraph (gb), and providing that the maximum penalty that, on summary conviction, may be imposed for those offences is a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000:
+    *   (gc) prescribing offences for the contravention of or non-compliance with any regulations made under paragraph (ga) or paragraph (gb), and providing that the maximum penalty that, on conviction, may be imposed for those offences is a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000:
     
     *   (h) providing that any specified regulations of the Civil Aviation Regulations 1953, being---
             
@@ -2587,17 +2607,19 @@ Miscellaneous provisions
     
     Compare: 1971 No 52 s 99
     
-    Section 101(1)(b): substituted, on 28 July 1997, by [section 21][232] of the Defence Amendment Act 1997 (1997 No 41).
+    Section 101(1)(b): substituted, on 28 July 1997, by [section 21][233] of the Defence Amendment Act 1997 (1997 No 41).
     
-    Section 101(1)(e): substituted, on 2 July 2001, by [section 149][233] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 101(1)(e): substituted, on 2 July 2001, by [section 149][234] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 101(1)(f): substituted, on 22 October 2003, by [section 6][234] of the Defence Amendment Act 2003 (2003 No 69).
+    Section 101(1)(f): substituted, on 22 October 2003, by [section 6][235] of the Defence Amendment Act 2003 (2003 No 69).
     
-    Section 101(1)(ga): inserted, on 3 June 1998, by [section 7][235] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 101(1)(ga): inserted, on 3 June 1998, by [section 7][236] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 101(1)(gb): inserted, on 3 June 1998, by [section 7][235] of the Defence Amendment Act 1998 (1998 No 39).
+    Section 101(1)(gb): inserted, on 3 June 1998, by [section 7][236] of the Defence Amendment Act 1998 (1998 No 39).
     
-    Section 101(1)(gc): inserted, on 15 December 2005, by [section 5][236] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
+    Section 101(1)(gc): inserted, on 15 December 2005, by [section 5][237] of the Defence Amendment Act (No 2) 2005 (2005 No 100).
+    
+    Section 101(1)(gc): amended, on 1 July 2013, by [section 413][218] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Transitional provisions
     
@@ -2623,7 +2645,7 @@ Miscellaneous provisions
     
     (11) For the purposes of any entitlement under any award or agreement or contract of employment, service with the Ministry of Defence shall be deemed to be service as a member of the Civil Staff.
     
-    Section 102(9): substituted, on 15 November 2000, by [section 6][237] of the Defence Amendment Act 2000 (2000 No 59).
+    Section 102(9): substituted, on 15 November 2000, by [section 6][238] of the Defence Amendment Act 2000 (2000 No 59).
 
 ##### 103 Application of State Sector Act 1988
     
@@ -2658,7 +2680,7 @@ _Amendment(s) incorporated in the [Act(s)][144]_.
 
 ##### Carriage of Goods Act 1979 (1979 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][238]_.
+_Amendment(s) incorporated in the [Act(s)][239]_.
 
 ##### Courts Martial Appeals Act 1953 (1953 No 100) (RS Vol 24, p 219)
 
@@ -2674,7 +2696,7 @@ _\[Item(s) repealed\]_
 
 ##### Sale of Liquor Act 1989 (1989 No 63)
 
-_Amendment(s) incorporated in the [Act(s)][239]_.
+_Amendment(s) incorporated in the [Act(s)][240]_.
 
 ##### Visiting Forces Act 1939 (1939 No 36) (RS Vol 11, p 807)
 
@@ -2682,11 +2704,11 @@ _Amendment(s) incorporated in the [Act(s)][239]_.
 
 ##### 
 
-Schedule 1 **Fire Service Act 1975**: item(s) repealed, on 1 January 1991, by [section 14(2)(b)][240] of the Fire Service Amendment Act 1990 (1990 No 136).
+Schedule 1 **Fire Service Act 1975**: item(s) repealed, on 1 January 1991, by [section 14(2)(b)][241] of the Fire Service Amendment Act 1990 (1990 No 136).
 
-Schedule 1 **Naval and Victualling Stores Act 1908**: item(s) repealed, on 3 June 1998, by [section 2(2)][241] of the Naval and Victualling Stores Act Repeal Act 1998 (1998 No 55).
+Schedule 1 **Naval and Victualling Stores Act 1908**: item(s) repealed, on 3 June 1998, by [section 2(2)][242] of the Naval and Victualling Stores Act Repeal Act 1998 (1998 No 55).
 
-Schedule 1 **Visiting Forces Act 1939**: repealed, on 1 July 2004, by [section 25(1)][242] of the Visiting Forces Act 2004 (2004 No 59).
+Schedule 1 **Visiting Forces Act 1939**: repealed, on 1 July 2004, by [section 25(1)][243] of the Visiting Forces Act 2004 (2004 No 59).
 
 ---
 
@@ -2723,13 +2745,13 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Defence Amendment Act (No 2) 2007][243].
+*   This Act is the [Defence Amendment Act (No 2) 2007][244].
 
 ##### 2 Commencement
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
     
-    Section 2: Defence Amendment Act (No 2) 2007 brought into force, on 1 July 2009, by the [Defence Amendment Act (No 2) 2007 Commencement Order 2008][244] (SR 2008/235).
+    Section 2: Defence Amendment Act (No 2) 2007 brought into force, on 1 July 2009, by the [Defence Amendment Act (No 2) 2007 Commencement Order 2008][245] (SR 2008/235).
 
 ##### 4 Redress of complaints
     
@@ -2755,23 +2777,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Defence Act 1990\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Defence Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][245] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][246] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][246] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][247] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][247] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][248] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][248] and [17E][249] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][249] and [17E][250] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2802,59 +2824,61 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Financial Markets Authority Act 2011 (2011 No 5): [section 82][208]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][218]
     
-    [Defence Amendment Act 2010][250] (2010 No 61)
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][208]
+    
+    [Defence Amendment Act 2010][251] (2010 No 61)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][151]
     
-    [Defence Amendment Act (No 2) 2007][243] (2007 No 100)
+    [Defence Amendment Act (No 2) 2007][244] (2007 No 100)
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][225]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][226]
     
-    [Defence Amendment Act 2007][251] (2007 No 51)
+    [Defence Amendment Act 2007][252] (2007 No 51)
     
-    [Defence Amendment Act (No 2) 2005][252] (2005 No 100)
+    [Defence Amendment Act (No 2) 2005][253] (2005 No 100)
     
-    [Defence Amendment Act 2005][253] (2005 No 49)
+    [Defence Amendment Act 2005][254] (2005 No 49)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][168]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][222]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][223]
     
     Care of Children Act 2004 (2004 No 90): [section 151][167]
     
-    Visiting Forces Act 2004 (2004 No 59): [sections 25(1)][242], 26
+    Visiting Forces Act 2004 (2004 No 59): [sections 25(1)][243], 26
     
-    [Defence Amendment Act 2004][254] (2004 No 13)
+    [Defence Amendment Act 2004][255] (2004 No 13)
     
-    [Defence Amendment Act 2003][255] (2003 No 69)
+    [Defence Amendment Act 2003][256] (2003 No 69)
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][177]
     
     Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][172]
     
-    [Defence Amendment Act 2001][256] (2001 No 62)
+    [Defence Amendment Act 2001][257] (2001 No 62)
     
     Public Audit Act 2001 (2001 No 10): [section 52][201]
     
-    [Defence Amendment Act 2000][257] (2000 No 59)
+    [Defence Amendment Act 2000][258] (2000 No 59)
     
     Employment Relations Act 2000 (2000 No 24): [section 240][179]
     
     Veterans' Affairs Act 1999 (1999 No 76): [section 8][156]
     
-    [Defence Amendment Act 1999][258] (1999 No 31)
+    [Defence Amendment Act 1999][259] (1999 No 31)
     
-    Naval and Victualling Stores Act Repeal Act 1998 (1998 No 55): [section 2(2)][241]
+    Naval and Victualling Stores Act Repeal Act 1998 (1998 No 55): [section 2(2)][242]
     
     Guardianship Amendment Act 1998 (1998 No 48): section 8
     
-    [Defence Amendment Act 1998][259] (1998 No 39)
+    [Defence Amendment Act 1998][260] (1998 No 39)
     
-    [Defence Amendment Act 1997][260] (1997 No 41)
+    [Defence Amendment Act 1997][261] (1997 No 41)
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][233]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][234]
     
     Maritime Transport Act 1994 (1994 No 104): [section 203][148]
     
@@ -2864,7 +2888,7 @@ Commencementsee section 2
     
     Employment Contracts Act 1991 (1991 No 22): section 154
     
-    Fire Service Amendment Act 1990 (1990 No 136): [section 14(2)(b)][240]
+    Fire Service Amendment Act 1990 (1990 No 136): [section 14(2)(b)][241]
 
 
 
@@ -3086,46 +3110,47 @@ Commencementsee section 2
 [215]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM76217
 [216]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM284384
 [217]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM261934
-[218]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1002026
-[219]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM3041706
-[220]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM112156
-[221]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM162464
-[222]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM328867
-[223]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM264952
-[224]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM241031
-[225]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM969644
-[226]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426463
-[227]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM163175
-[228]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM23950
-[229]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361711
-[230]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361712
-[231]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM382730
-[232]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM410322
-[233]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM385160
-[234]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM216599
-[235]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426464
-[236]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361714
-[237]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM76218
-[238]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM33494
-[239]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM165115
-[240]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM227391
-[241]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426802
-[242]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM302850
-[243]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1001879
-[244]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1474800
-[245]: http://www.pco.parliament.govt.nz/reprints/
-[246]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195439
-[247]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[248]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195468
-[249]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195470
-[250]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM3041700
-[251]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM968182
-[252]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361705
-[253]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM347652
-[254]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM241018
-[255]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM216589
-[256]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM112145
-[257]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM76209
-[258]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM23944
-[259]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426453
-[260]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM409995
+[218]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM3360714
+[219]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1002026
+[220]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM3041706
+[221]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM112156
+[222]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM162464
+[223]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM328867
+[224]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM264952
+[225]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM241031
+[226]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM969644
+[227]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426463
+[228]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM163175
+[229]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM23950
+[230]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361711
+[231]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361712
+[232]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM382730
+[233]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM410322
+[234]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM385160
+[235]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM216599
+[236]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426464
+[237]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361714
+[238]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM76218
+[239]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM33494
+[240]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM165115
+[241]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM227391
+[242]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426802
+[243]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM302850
+[244]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1001879
+[245]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM1474800
+[246]: http://www.pco.parliament.govt.nz/reprints/
+[247]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195439
+[248]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[249]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195468
+[250]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM195470
+[251]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM3041700
+[252]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM968182
+[253]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM361705
+[254]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM347652
+[255]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM241018
+[256]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM216589
+[257]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM112145
+[258]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM76209
+[259]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM23944
+[260]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM426453
+[261]: http://www.legislation.govt.nz/act/public/1990/0028/latest/link.aspx?id=DLM409995
