@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 27 August 2013
 
 # Commissions of Inquiry Act 1908Public Act1908 No 25
 
@@ -9,9 +9,7 @@ Date of assent4 August 1908
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this eprint.
-
-A general outline of these changes is set out in the notes at the end of this eprint, together with other explanatory material about this eprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this eprint. See the notes at the end of this eprint for further details.
 
 This Act is administered in the Department of Internal Affairs.
 
@@ -25,64 +23,66 @@ This Act is administered in the Department of Internal Affairs.
 
 [1A][3][][3][Interpretation][3]
 
-[2][4][][4][Appointment of Commissions of Inquiry][4]
+[2][4][][4][Appointment of Commissions of Inquiry][4] \[Repealed\]
 
-[3][5][][5][Members of Commissions protected][5]
+[2A][5][][5][Application of this Act and relationship to Inquiries Act 2013][5]
 
-[4][6][][6][Commissioners' powers][6]
+[3][6][][6][Members of Commissions protected][6]
 
-[4A][7][][7][Persons entitled to be heard][7]
+[4][7][][7][Commissioners' powers][7]
 
-[4B][8][][8][Evidence][8]
+[4A][8][][8][Persons entitled to be heard][8]
 
-[4C][9][][9][Powers of investigation][9]
+[4B][9][][9][Evidence][9]
 
-[4D][10][][10][Power to summon witnesses][10]
+[4C][10][][10][Powers of investigation][10]
 
-[5][11][][11][Service of summons][11]
+[4D][11][][11][Power to summon witnesses][11]
 
-[6][12][][12][Protection of persons appearing][12]
+[5][12][][12][Service of summons][12]
 
-[7][13][][13][Witnesses' allowances][13]
+[6][13][][13][Protection of persons appearing][13]
 
-[8][14][][14][Payment of witnesses' allowances][14]
+[7][14][][14][Witnesses' allowances][14]
 
-[9][15][][15][Offences][15]
+[8][15][][15][Payment of witnesses' allowances][15]
 
-[10][16][][16][Reference of point of law to High Court][16]
+[9][16][][16][Offences][16]
 
-[11][17][][17][Power to award costs][17]
+[10][17][][17][Reference of point of law to High Court][17]
 
-[12][18][][18][Enforcing orders for costs][18]
+[11][18][][18][Power to award costs][18]
 
-[13][19][][19][Powers of Judges and former Judges when Commissioners][19]
+[12][19][][19][Enforcing orders for costs][19]
 
-[13A][20][][20][Powers in relation to witnesses][20]
+[13][20][][20][Powers of Judges and former Judges when Commissioners][20]
 
-[13B][21][][21][Powers to punish for contempt of Commission][21]
+[13A][21][][21][Powers in relation to witnesses][21]
 
-[13C][22][][22][Right of appeal against order made in respect of contempt of Commission][22]
+[13B][22][][22][Powers to punish for contempt of Commission][22]
 
-[13D][23][][23][Jurisdiction of High Court during incapacity of Commissioner or following completion of inquiry][23]
+[13C][23][][23][Right of appeal against order made in respect of contempt of Commission][23]
 
-[14][24][][24][Power to prescribe scale of costs][24]
+[13D][24][][24][Jurisdiction of High Court during incapacity of Commissioner or following completion of inquiry][24]
 
-[15][25][][25][Extent of Act][25]
+[14][25][][25][Power to prescribe scale of costs][25]
 
-[Schedule][26]  
-[Enactments consolidated][26]
+[15][26][][26][Extent of Act][26] \[Repealed\]
+
+[Schedule][27]  
+[Enactments consolidated][27]
 
 ---
 
 An Act to consolidate certain enactments of the Parliament of New Zealand relating to commissions of inquiry appointed by the Governor-General in Council or by the Governor-General
     
-*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][27] of the Constitution Act 1986 (1986 No 114).
+*   Title: amended, on 1 January 1987, pursuant to [section 29(2)][28] of the Constitution Act 1986 (1986 No 114).
 
 ##### 1 Short Title and savings
     
 *   (1) The Short Title of this Act is the Commissions of Inquiry Act 1908\.
     
-    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][26], and with respect to those enactments the following provisions shall apply:
+    (2) This Act is a consolidation of the enactments mentioned in the [Schedule][27], and with respect to those enactments the following provisions shall apply:
         
     *   (a) all Commissions, appointments, rules, Orders in Council, orders, instruments, and generally all acts of authority which originated under any of the said enactments or any enactment thereby repealed, and are subsisting or in force on the coming into operation of this Act, shall enure for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated:
     
@@ -108,23 +108,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 2 Appointment of Commissions of Inquiry
     
-*   The Governor-General may, by Order in Council, appoint any person or persons to be a Commission to inquire into and report upon any question arising out of or concerning---
+*   \[Repealed\]
+    
+    Section 2: repealed, on 27 August 2013, by [section 37][29] of the Inquiries Act 2013 (2013 No 60).
+
+##### 2A Application of this Act and relationship to Inquiries Act 2013
+    
+*   This Act applies to---
         
-    *   (a) the administration of the Government; or
+    *   (a) any entity that is or may be established under an enactment enacted before the commencement of the [Inquiries Act 2013][30] (including those listed in [Schedule 1][31] of that Act), and that derives powers from this Act; and
     
-    *   (b) the working of any existing law; or
+    *   (b) any commission of inquiry or Royal commission appointed under this Act that has not completed its functions and obligations before the commencement of the [Inquiries Act 2013][30].
     
-    *   (c) the necessity or expediency of any legislation; or
-    
-    *   (d) the conduct of any officer in the service of the Crown; or
-    
-    *   (e) any disaster or accident (whether due to natural causes or otherwise) in which members of the public were killed or injured or were or might have been exposed to risk of death or injury:
-    
-    *   (f) any other matter of public importance.
-    
-    Section 2: replaced, on 2 October 1958, by section 2(1) of the Commissions of Inquiry Amendment Act 1958 (1958 No 58).
-    
-    Section 2(f): inserted, on 27 November 1970, by section 2 of the Commissions of Inquiry Amendment Act 1970 (1970 No 53).
+    Section 2A: inserted, on 27 August 2013, by [section 39][32] of the Inquiries Act 2013 (2013 No 60).
 
 ##### 3 Members of Commissions protected
     
@@ -142,7 +138,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Section 4(1): amended, on 4 July 1980, by section 3(1) of the Commissions of Inquiry Amendment Act 1980 (1980 No 2).
     
-    Section 4(1): amended, on 1 April 1980, pursuant to [section 18(2)][28] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 4(1): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 4(2): repealed, on 4 July 1980, by section 3(2) of the Commissions of Inquiry Amendment Act 1980 (1980 No 2).
 
@@ -218,9 +214,9 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
 
 ##### 7 Witnesses' allowances
     
-*   (1) Every witness attending the inquiry to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][29], and those regulations shall apply accordingly.
+*   (1) Every witness attending the inquiry to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][34], and those regulations shall apply accordingly.
     
-    (2) On each occasion on which the Commission issues a summons under [section 4D][10], the Commission, or the person exercising the power of the Commission under subsection (2) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
+    (2) On each occasion on which the Commission issues a summons under [section 4D][11], the Commission, or the person exercising the power of the Commission under subsection (2) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
     
     (3) The amount fixed under subsection (2) of this section shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Commission or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
     
@@ -228,7 +224,7 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Section 7: replaced, on 4 July 1980, by section 4 of the Commissions of Inquiry Amendment Act 1980 (1980 No 2).
     
-    Section 7(1): amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 7(1): amended, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Payment of witnesses' allowances
     
@@ -256,19 +252,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     (2) Every person commits an offence who---
         
-    *   (a) wilfully obstructs or hinders the Commission or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to [section 4C(1)(a)][9]; or
+    *   (a) wilfully obstructs or hinders the Commission or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things pursuant to [section 4C(1)(a)][10]; or
     
-    *   (b) without sufficient cause, fails to comply with any requirement of the Commission or any authorised person made under [section 4C(1)(b) or (c)][9]; or
+    *   (b) without sufficient cause, fails to comply with any requirement of the Commission or any authorised person made under [section 4C(1)(b) or (c)][10]; or
     
-    *   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Commission under [section 4C(3)][9] or any term or condition of the order.
+    *   (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Commission under [section 4C(3)][10] or any term or condition of the order.
     
     (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000\.
     
-    (4) No person summoned to attend the inquiry shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under [section 7(2)][13].
+    (4) No person summoned to attend the inquiry shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under [section 7(2)][14].
     
     Section 9: replaced, on 4 July 1980, by section 4 of the Commissions of Inquiry Amendment Act 1980 (1980 No 2).
     
-    Section 9(3): amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 9(3): amended, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Reference of point of law to High Court
     
@@ -280,13 +276,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     Compare: 1903 No 20 s 10
     
-    Section 10(3): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 10(3): amended, on 1 April 1980, pursuant to [section 12][36] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 11 Power to award costs
     
 *   The Commission, upon the hearing of an inquiry, may order that the whole or any portion of the costs of the inquiry or of any party thereto shall be paid by any of the parties to the inquiry, or by all or any of the persons who have procured the inquiry to be held:
     
-    provided that no such order shall be made against any person who has not been cited as a party or authorised by the Commission, pursuant to [section 4A][7], to appear and be heard at the inquiry or summoned to attend and give evidence at the inquiry.
+    provided that no such order shall be made against any person who has not been cited as a party or authorised by the Commission, pursuant to [section 4A][8], to appear and be heard at the inquiry or summoned to attend and give evidence at the inquiry.
     
     Compare: 1903 No 20 s 11
     
@@ -304,13 +300,13 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     *   (b) does not exceed 100 pounds, be the District Court.
     
-    Section 12(3)(a): amended, on 1 April 1980, pursuant to [section 12][31] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 12(3)(a): amended, on 1 April 1980, pursuant to [section 12][36] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 12(3)(b): amended, on 1 April 1980, pursuant to [section 18(2)][28] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(3)(b): amended, on 1 April 1980, pursuant to [section 18(2)][33] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 13 Powers of Judges and former Judges when Commissioners
     
-*   (1) In every case where, under this Act, or any other Act or the Letters Patent constituting the office of the Governor-General, the Governor-General or the Governor-General in Council appoints 1 or more Judges of the High Court or former Judges of the High Court to be members of a Commission for the purpose of holding an inquiry, every such Judge or retired Judge, and the Commission of which he or she is a member, shall, for the purposes of such inquiry, have the same powers, privileges, and immunities as are possessed by a Judge of the High Court in the exercise of his or her civil jurisdiction under the [Judicature Act 1908][32].
+*   (1) In every case where, under this Act, or any other Act or the Letters Patent constituting the office of the Governor-General, the Governor-General or the Governor-General in Council appoints 1 or more Judges of the High Court or former Judges of the High Court to be members of a Commission for the purpose of holding an inquiry, every such Judge or retired Judge, and the Commission of which he or she is a member, shall, for the purposes of such inquiry, have the same powers, privileges, and immunities as are possessed by a Judge of the High Court in the exercise of his or her civil jurisdiction under the [Judicature Act 1908][37].
     
     (2) Where any member of a Commission is a Judge of the High Court or a former Judge of the High Court, any order made by that Commission or any such member---
         
@@ -324,41 +320,41 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     *   (b) may, for the purpose of enabling that order to be enforced, be filed in any office of the High Court.
     
-    (3) Where any order made by a Commission (other than an order made under [section 56A(1)][33] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][20] of this Act) or under [section 56B][34] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][21] of this Act) is, under subsection (2) of this section, filed in an office of the High Court, that order shall be enforceable in the same manner as a final judgment of the High Court in civil proceedings.
+    (3) Where any order made by a Commission (other than an order made under [section 56A(1)][38] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][21] of this Act) or under [section 56B][39] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][22] of this Act) is, under subsection (2) of this section, filed in an office of the High Court, that order shall be enforceable in the same manner as a final judgment of the High Court in civil proceedings.
     
-    (4) Where any member of a Commission who is a Judge or a former Judge of the High Court makes an order under [section 56A(1)][33] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][20] of this Act) or under [section 56B][34] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][21] of this Act, that order shall be enforceable as if it were an order of the High Court.
+    (4) Where any member of a Commission who is a Judge or a former Judge of the High Court makes an order under [section 56A(1)][38] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][21] of this Act) or under [section 56B][39] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][22] of this Act, that order shall be enforceable as if it were an order of the High Court.
     
     (5) Where any member of a Commission is a Judge of the High Court or a former Judge of the High Court,---
         
-    *   (a) the provisions of this section shall, in relation to that member, apply in the place of the provisions of [section 3][5]; and
+    *   (a) the provisions of this section shall, in relation to that member, apply in the place of the provisions of [section 3][6]; and
     
-    *   (b) [section 4(1)][6] shall, in relation to that Commission, be read as if, for the words ""a District Court"", there were substituted the words ""the High Court""; and
+    *   (b) [section 4(1)][7] shall, in relation to that Commission, be read as if, for the words ""a District Court"", there were substituted the words ""the High Court""; and
     
-    *   (c) [section 10][16] shall, in relation to that Commission, be read as if, for the words ""High Court"" in both places where they appear, there were substituted in each case the words ""Court of Appeal"".
+    *   (c) [section 10][17] shall, in relation to that Commission, be read as if, for the words ""High Court"" in both places where they appear, there were substituted in each case the words ""Court of Appeal"".
     
     Compare: 1905 No 13 ss 2, 3
     
-    Section 13: replaced, on 29 July 1995, by [section 2][35] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
+    Section 13: replaced, on 29 July 1995, by [section 2][40] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
 
 ##### 13A Powers in relation to witnesses
     
-*   (1) Notwithstanding the provisions of [section 9][15],---
+*   (1) Notwithstanding the provisions of [section 9][16],---
         
-    *   (a) where any witness who is compellable to attend to give evidence at any hearing of a Commission and who has been duly summoned fails to attend at the time and place appointed, any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may exercise, in relation to that witness, the powers conferred on the High Court by [section 56A(1)][33] of the Judicature Act 1908; and the provisions of that section shall, with all necessary modifications, apply accordingly; and
+    *   (a) where any witness who is compellable to attend to give evidence at any hearing of a Commission and who has been duly summoned fails to attend at the time and place appointed, any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may exercise, in relation to that witness, the powers conferred on the High Court by [section 56A(1)][38] of the Judicature Act 1908; and the provisions of that section shall, with all necessary modifications, apply accordingly; and
     
-    *   (b) where, in any proceedings before a Commission, a witness, without offering any just excuse, refuses to give evidence when required, or refuses to produce any document which the witness is required to produce, or refuses to be sworn or having been sworn refuses to answer such questions concerning the inquiry as are put to that witness, any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may exercise, in relation to that witness, the powers conferred on the High Court by [section 56B][34] of the Judicature Act 1908; and the provisions of that section shall, with all necessary modifications, apply accordingly.
+    *   (b) where, in any proceedings before a Commission, a witness, without offering any just excuse, refuses to give evidence when required, or refuses to produce any document which the witness is required to produce, or refuses to be sworn or having been sworn refuses to answer such questions concerning the inquiry as are put to that witness, any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may exercise, in relation to that witness, the powers conferred on the High Court by [section 56B][39] of the Judicature Act 1908; and the provisions of that section shall, with all necessary modifications, apply accordingly.
     
     (2) Any member of a Commission who is a Judge of the High Court or a former Judge of the High Court may,---
         
-    *   (a) in exercising the powers conferred by [section 56A(1)][33] of the Judicature Act 1908 (as applied by subsection (1)(a) of this section), issue to every constable or to a named constable a warrant requiring every constable or the named constable, as the case may be, to arrest a witness and bring that witness before the Commission; and
+    *   (a) in exercising the powers conferred by [section 56A(1)][38] of the Judicature Act 1908 (as applied by subsection (1)(a) of this section), issue to every constable or to a named constable a warrant requiring every constable or the named constable, as the case may be, to arrest a witness and bring that witness before the Commission; and
     
-    *   (b) in exercising the powers conferred by [section 56B][34] of the Judicature Act 1908 (as applied by subsection (1)(b) of this section), issue to every constable or to a named constable and to the prison manager of any prison a warrant for the arrest and detention of any witness in respect of whom an order made under section 56B(1) of the Judicature Act 1908 (as so applied) is in force (which warrant must contain the information prescribed for the purposes of [section 165][36] of the Criminal Procedure Act 2011\.
+    *   (b) in exercising the powers conferred by [section 56B][39] of the Judicature Act 1908 (as applied by subsection (1)(b) of this section), issue to every constable or to a named constable and to the prison manager of any prison a warrant for the arrest and detention of any witness in respect of whom an order made under section 56B(1) of the Judicature Act 1908 (as so applied) is in force (which warrant must contain the information prescribed for the purposes of [section 165][41] of the Criminal Procedure Act 2011\.
     
-    Section 13A: inserted, on 29 July 1995, by [section 2][35] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
+    Section 13A: inserted, on 29 July 1995, by [section 2][40] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
     
-    Section 13A(2)(b): amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13A(2)(b): amended, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 13A(2)(b): amended, on 1 June 2005, by [section 206][37] of the Corrections Act 2004 (2004 No 50).
+    Section 13A(2)(b): amended, on 1 June 2005, by [section 206][42] of the Corrections Act 2004 (2004 No 50).
 
 ##### 13B Powers to punish for contempt of Commission
     
@@ -378,21 +374,21 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     *   (g) the inquiry being conducted by that Commission,---
     
-    any act that would, if done in relation to the High Court or a Judge of the High Court or any Registrar or any officer of the High Court or any witness or any proceedings of the High Court or any order or direction of the High Court, be contempt of Court, the doing of that act, whether in the face of that Commission or otherwise, shall constitute contempt of that Commission, and any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may punish that person for contempt of that Commission by exercising, in relation to that person, the same powers as a Judge of the High Court would have had if that person had been guilty of contempt of Court (including the powers conferred by [section 56C][38] of the Judicature Act 1908); and the provisions of section 56C of the Judicature Act 1908 shall, with all necessary modifications, apply accordingly.
+    any act that would, if done in relation to the High Court or a Judge of the High Court or any Registrar or any officer of the High Court or any witness or any proceedings of the High Court or any order or direction of the High Court, be contempt of Court, the doing of that act, whether in the face of that Commission or otherwise, shall constitute contempt of that Commission, and any member of that Commission who is a Judge of the High Court or a former Judge of the High Court may punish that person for contempt of that Commission by exercising, in relation to that person, the same powers as a Judge of the High Court would have had if that person had been guilty of contempt of Court (including the powers conferred by [section 56C][43] of the Judicature Act 1908); and the provisions of section 56C of the Judicature Act 1908 shall, with all necessary modifications, apply accordingly.
     
-    Section 13B: inserted, on 29 July 1995, by [section 2][35] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
+    Section 13B: inserted, on 29 July 1995, by [section 2][40] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
 
 ##### 13C Right of appeal against order made in respect of contempt of Commission
     
-*   Where any member of a Commission who is a Judge of the High Court or a former Judge of the High Court has, under [section 56A(1)][33] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][20] of this Act) or under [section 56B][34] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][21] of this Act made an order against any person, that person may, in accordance with and subject to the terms of [subpart 5 of Part 6][39] of the Criminal Procedure Act 2011, appeal to the Court of Appeal against the order as if that person had been found guilty in the High Court of a criminal contempt of the High Court; and the provisions of that section shall, with all necessary modifications, apply accordingly.
+*   Where any member of a Commission who is a Judge of the High Court or a former Judge of the High Court has, under [section 56A(1)][38] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][21] of this Act) or under [section 56B][39] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][22] of this Act made an order against any person, that person may, in accordance with and subject to the terms of [subpart 5 of Part 6][44] of the Criminal Procedure Act 2011, appeal to the Court of Appeal against the order as if that person had been found guilty in the High Court of a criminal contempt of the High Court; and the provisions of that section shall, with all necessary modifications, apply accordingly.
     
-    Section 13C: inserted, on 29 July 1995, by [section 2][35] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
+    Section 13C: inserted, on 29 July 1995, by [section 2][40] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
     
-    Section 13C: amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 13C: amended, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13D Jurisdiction of High Court during incapacity of Commissioner or following completion of inquiry
     
-*   Where an order or warrant has been made or issued under [section 56A(1)][33] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][20] of this Act) or under [section 56B][34] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][21] of this Act by a member of a Commission who is a Judge of the High Court or a former Judge of the High Court, and anything remains to be done or suffered pursuant to the order or warrant---
+*   Where an order or warrant has been made or issued under [section 56A(1)][38] of the Judicature Act 1908 (as applied by [section 13A(1)(a)][21] of this Act) or under [section 56B][39] of the Judicature Act 1908 (as applied by section 13A(1)(b) of this Act) or under [section 13B][22] of this Act by a member of a Commission who is a Judge of the High Court or a former Judge of the High Court, and anything remains to be done or suffered pursuant to the order or warrant---
         
     *   (a) at any time while that member of the Commission is incapable of acting by reason of illness, absence, or other cause; or
     
@@ -400,19 +396,19 @@ An Act to consolidate certain enactments of the Parliament of New Zealand relati
     
     the High Court may vary or rescind the order or warrant.
     
-    Section 13D: inserted, on 29 July 1995, by [section 2][35] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
+    Section 13D: inserted, on 29 July 1995, by [section 2][40] of the Commissions of Inquiry Amendment Act 1995 (1995 No 48).
 
 ##### 14 Power to prescribe scale of costs
     
-*   Rules prescribing a scale of costs payable in respect of any inquiry under this Act may be made in the manner provided in [section 51C][40] of the Judicature Act 1908\.
+*   Rules prescribing a scale of costs payable in respect of any inquiry under this Act may be made in the manner provided in [section 51C][45] of the Judicature Act 1908\.
     
-    Section 14: replaced, on 1 January 1986, by [section 11(2)][41] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
+    Section 14: replaced, on 1 January 1986, by [section 11(2)][46] of the Judicature Amendment Act (No 2) 1985 (1985 No 112).
 
 ##### 15 Extent of Act
     
-*   This Act shall extend and apply to all inquiries held by Commissioners appointed by the Governor-General or the Governor-General in Council under any Act or such Letters Patent as aforesaid.
+*   \[Repealed\]
     
-    Compare: 1905 No 13 s 4
+    Section 15: repealed, on 27 August 2013, by [section 37][29] of the Inquiries Act 2013 (2013 No 60).
 
 ---
 
@@ -431,72 +427,109 @@ _Amendment(s) incorporated in the Act(s)._
 
 ---
 
-#### Contents
+# Inquiries Act 2013Public Act2013 No 60
+
+Date of assent26 August 2013
+
+Commencementsee section 2
+
+##### 1 Title
     
-*   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+*   This Act is the [Inquiries Act 2013][30].
+
+##### 2 Commencement
+    
+*   This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 4  
+Sanctions and miscellaneous matters
+
+### Subpart 2---Miscellaneous matters
+
+#### Repeal, transitional provisions, and consequential amendments
+
+##### 38 Transitional provision
+    
+*   (1) This Act does not apply to a Royal commission that has not completed its functions and obligations before the commencement of this Act.
+    
+    (2) The Commissions of Inquiry Act 1908 continues to apply to---
+        
+    *   (a) any commission of inquiry or Royal commission appointed under that Act that has not completed its functions and obligations before the commencement of this Act; and
+    
+    *   (b) any entity that is or may be established under an enactment enacted before the commencement of this Act, including those listed in Schedule 1, and that derives powers from the Commissions of Inquiry Act 1908\.
+    
+    
+
+#### 
 
 ---
 
-##### Notes
+##### Eprint notes
 
 ###### 1 General
     
-*   This is an eprint of the Commissions of Inquiry Act 1908\. The eprint incorporates all the amendments to the Act as at 1 July 2013\. The list of amendments at the end of these notes specifies all the amendments incorporated into this eprint since 3 September 2007\.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the eprint are also included, after the principal enactment, in chronological order.
+*   This is an eprint of the Commissions of Inquiry Act 1908 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
 ###### 2 About this eprint
     
-*   This eprint has not been officialised. For more information about eprints and officialisation, please _see_ [http://www.pco.parliament.govt.nz/eprints/][42] ![](/images/external_link.gif).
+*   This eprint is not an official version of the legislation under [section 18][47] of the Legislation Act 2012\.
 
-###### 3 List of amendments incorporated in this eprint (most recent first)
+###### 3 Amendments incorporated in this eprint
     
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][30]
+*   Inquiries Act 2013 (2013 No 60): [sections 37][29], [39][32]
+    
+    Legislation Act 2012 (2012 No 119): [section 77(3)][48]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][35]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139133
 [2]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139136
 [3]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139137
 [4]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139140
-[5]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139144
-[6]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139145
-[7]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139150
-[8]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139153
-[9]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139155
-[10]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139157
-[11]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139159
-[12]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139161
-[13]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139163
-[14]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139165
-[15]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139167
-[16]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139170
-[17]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139172
-[18]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139174
-[19]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139178
-[20]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139182
-[21]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139185
-[22]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139187
-[23]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139189
-[24]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139191
-[25]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139193
-[26]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139194
-[27]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM94263
-[28]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM35085
-[29]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3359902
-[30]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360714
-[31]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM35049
-[32]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM144692
-[33]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146664
-[34]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146670
-[35]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM368549
-[36]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360284
-[37]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM297136
-[38]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146679
-[39]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360436
-[40]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146607
-[41]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM75961
-[42]: http://www.pco.parliament.govt.nz/eprints/
+[5]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM5568706
+[6]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139144
+[7]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139145
+[8]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139150
+[9]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139153
+[10]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139155
+[11]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139157
+[12]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139159
+[13]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139161
+[14]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139163
+[15]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139165
+[16]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139167
+[17]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139170
+[18]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139172
+[19]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139174
+[20]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139178
+[21]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139182
+[22]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139185
+[23]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139187
+[24]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139189
+[25]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139191
+[26]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139193
+[27]: http://www.legislation.govt.nz/act/public/1908/0025/latest/whole.html#DLM139194
+[28]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM94263
+[29]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM1566188
+[30]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM1566100
+[31]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM1566191
+[32]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM1566190
+[33]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM35085
+[34]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3359902
+[35]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360714
+[36]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM35049
+[37]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM144692
+[38]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146664
+[39]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146670
+[40]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM368549
+[41]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360284
+[42]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM297136
+[43]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146679
+[44]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM3360436
+[45]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM146607
+[46]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM75961
+[47]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM2998516
+[48]: http://www.legislation.govt.nz/act/public/1908/0025/latest/link.aspx?id=DLM2998633
