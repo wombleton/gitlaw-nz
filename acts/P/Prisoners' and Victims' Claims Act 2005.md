@@ -1,5 +1,5 @@
 Reprint  
-as at 30 June 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -61,7 +61,7 @@ This Act is administered by the Ministry of Justice.
 
 [15][18][][18][Subpart does not prevent complaints or access to assistance][18]
 
-[16][19][][19][Expiry of subpart][19]
+[16][19][][19][Expiry of subpart][19] \[Repealed\]
 
 [Subpart 2][20][---][20][Victims' claims][20]
 
@@ -167,50 +167,24 @@ This Act is administered by the Ministry of Justice.
 
 [Subpart 3][71][---][71][Suspension of limitation periods for certain claims by victims][71]
 
-[63][72][][72][Application][72]
+[63][72][][72][Limitation periods to which section 64 applies][72]
 
-[64][73][][73][Limitation periods suspended][73]
+[64][73][][73][Limitation periods suspended while offender serving sentence of imprisonment][73]
 
-[Part 3][74]  
-[Amendments to other Acts][74]
+[64A][74][][74][Limitation periods to which section 64B applies][74]
 
-[Amendment to Human Rights Act 1993][75]
+[64B][75][][75][Limitation periods suspended until standard deadline for filing of victims' claims under this Act][75]
 
-[65][76][][76][Damages][76]
+[Subpart 4][76][---][76][Specified claims made before 1 July 2013, related compensation, and related victims' claims][76]
 
-[Amendments to Legal Services Act 2000][77]
+[64C][77][][77][Pre-1 July 2013 Act generally continues to apply][77]
 
-[66][78][][78][Interpretation][78]
-
-[67][79][][79][Proceedings for which legal aid may be granted: civil matters][79]
-
-[68][80][][80][When legal aid may be granted: civil matters][80]
-
-[69][81][][81][Conditions on grant of legal aid][81]
-
-[70][82][][82][Maximum grant][82]
-
-[71][83][][83][Application for amendment to grant of legal aid][83]
-
-[72][84][][84][Regulations][84]
-
-[Amendment to Limitation Act 1950][85]
+[Part 3][78]  
+[Amendments to other Acts][78]
 
 \[Repealed\]
 
-[73][86][][86][Limitation of actions of contract and tort, and certain other actions][86]
-
-[Amendments to Privacy Act 1993][87]
-
-[74][88][][88][Damages][88]
-
-[75][89][][89][Schedule 5 amended][89]
-
-[Amendments to Victims' Rights Act 2002][90]
-
-[76][91][][91][Police to give information about right to ask for notice and appointment of representative][91]
-
-[77][92][][92][New section 33A inserted][92]
+\[Repealed\]
 
 ---
 
@@ -235,19 +209,25 @@ General provisions
     
     *   (b) provide a procedure for the making and determination of victims' claims.
     
+    (2A) [Subpart 2][20] of Part 2 must be read with the following related enactments:
+        
+    *   (a) the [Legal Services Act 2011][79], which facilitates the granting of legal aid in respect of victims' claims proceedings under [subpart 2][20] of Part 2 of this Act; and
+    
+    *   (b) the [Privacy Act 1993][80], which enables the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
+    
+    *   (c) the [Victims' Rights Act 2002][81], which requires the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act.
+    
     (3) The purpose of [subpart 3][71] of Part 2 is to suspend the running of limitation periods for certain claims by victims.
     
-    (4) The purpose of [Part 3][74] (amendments to other Acts) is to---
+    (4) The purpose of [subpart 4][76] of Part 2 is to ensure that after 30 June 2013 generally only the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
         
-    *   (a) amend the [Legal Services Act 2000][93] to facilitate the granting of legal aid in respect of victims' claims proceedings under [subpart 2][20] of Part 2 of this Act; and
+    *   (a) the provisions of this Act as in force immediately before 1 July 2013; and
     
-    *   (b) amend the [Privacy Act 1993][94] to enable the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
+    *   (b) this subsection and [subpart 4][76] of Part 2 as inserted or substituted, but nothing else in this Act after it is amended, on 1 July 2013 by the [Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013][82].
     
-    *   (c) amend the [Victims' Rights Act 2002][95] to require the Secretary for Justice to request, for the purposes of a notice under [section 20][25] of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act; and
+    Section 3(2A): inserted, on 1 July 2013, by [section 5(1)][83] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    *   (d) amend consequentially the [Human Rights Act 1993][96], the [Limitation Act 1950][97], and the [Privacy Act 1993][94].
-    
-    
+    Section 3(4): replaced, on 1 July 2013, by [section 5(2)][83] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ##### 4 Interpretation
     
@@ -261,13 +241,13 @@ General provisions
     
     _child_ means a boy or girl under the age of 14 years
     
-    _civil custody_ has the same meaning as in [section 2(1)][98] of the Armed Forces Discipline Act 1971 
+    _civil custody_ has the same meaning as in [section 2(1)][84] of the Armed Forces Discipline Act 1971 
     
     _community-based sentence_ means---
         
-    *   (a) a community-based sentence as defined in [section 4(1)][99] of the Sentencing Act 2002; and
+    *   (a) a community-based sentence as defined in [section 4(1)][85] of the Sentencing Act 2002; and
     
-    *   (b) a community-based sentence as defined in [section 2(1)][100] of the Criminal Justice Act 1985; and
+    *   (b) a community-based sentence as defined in [section 2(1)][86] of the Criminal Justice Act 1985; and
     
     *   (c) a sentence of a similar kind to those referred to in paragraphs (a) and (b) (including, without limitation, a sentence of community care, a sentence of probation, or a sentence of residential periodic detention) imposed under an earlier corresponding enactment
     
@@ -281,9 +261,9 @@ General provisions
     
     *   (d) does not include an amount required or agreed to be paid as, or towards, the costs of making a claim
     
-    _Court Martial_ means the Court Martial of New Zealand established under [section 8][101] of the Court Martial Act 2007
+    _Court Martial_ means the Court Martial of New Zealand established under [section 8][87] of the Court Martial Act 2007
     
-    _detention quarter_ means a building or part of a building set aside under the [Armed Forces Discipline Act 1971][102] as a detention quarter
+    _detention quarter_ means a building or part of a building set aside under the [Armed Forces Discipline Act 1971][88] as a detention quarter
     
     _fine_ includes---
         
@@ -321,7 +301,7 @@ General provisions
     
     *   (b) includes the person being in a state of continuing unconsciousness
     
-    _Judge Advocate General_ means the Judge Advocate General of the Armed Forces appointed under [section 203][103] of the Armed Forces Discipline Act 1971
+    _Judge Advocate General_ means the Judge Advocate General of the Armed Forces appointed under [section 203][89] of the Armed Forces Discipline Act 1971
     
     _judgment_ includes an award, direction, order, or other requirement
     
@@ -337,7 +317,7 @@ General provisions
     
     _penal institution_ has the same meaning as in section 2(1) of the Penal Institutions Act 1954
     
-    _parent_ has the same meaning as in [section 2(1)][104] of the Children, Young Persons, and Their Families Act 1989
+    _parent_ has the same meaning as in [section 2(1)][90] of the Children, Young Persons, and Their Families Act 1989
     
     _person arrested and detained under the Armed Forces Discipline Act 1971 pending release or trial_ means a person who, in accordance with that Act, and in or outside New Zealand, is---
         
@@ -351,31 +331,41 @@ General provisions
     
     *   (b) a person who is subject to a community-based sentence:
     
-    *   (c) a person who is subject to a sentence of home detention imposed under [section 80A][105] of the Sentencing Act 2002:
+    *   (c) a person who is subject to a sentence of home detention imposed under [section 80A][91] of the Sentencing Act 2002:
     
-    *   (d) a person who is serving a sentence of imprisonment on home detention as defined in [section 4(1)][99] of the Sentencing Act 2002 (prior to the commencement of [section 72][106] of the Parole Amendment Act 2007); but also includes home detention as defined in [section 2(1)][100] of the Criminal Justice Act 1985:
+    *   (d) a person who is serving a sentence of imprisonment on home detention as defined in [section 4(1)][85] of the Sentencing Act 2002 (prior to the commencement of [section 72][92] of the Parole Amendment Act 2007); but also includes home detention as defined in [section 2(1)][86] of the Criminal Justice Act 1985:
     
     *   (e) a person who is subject to conditions---
             
-        *   (i) under the [Parole Act 2002][107] (including, without limitation, conditions applying to a person who is subject to an extended supervision order under [section 107I][108] of that Act); or
+        *   (i) under the [Parole Act 2002][93] (including, without limitation, conditions applying to a person who is subject to an extended supervision order under [section 107I][94] of that Act); or
         
-        *   (ii) under [section 80N][109] or [93][110] of the Sentencing Act 2002; or
+        *   (ii) under [section 80N][95] or [93][96] of the Sentencing Act 2002; or
         
         *   (iii) of a similar kind under earlier corresponding enactments:
         
         
     
-    *   (f) a person who is arrested and detained under the [Armed Forces Discipline Act 1971][102] pending release or trial:
+    *   (f) a person who is arrested and detained under the [Armed Forces Discipline Act 1971][88] pending release or trial:
     
-    *   (g) a service detainee or a service prisoner
+    *   (g) a service detainee or a service prisoner:
     
-    _prison_ has the same meaning as in [section 3(1)][111] of the Corrections Act 2004
+    *   (h) a person who is detained unlawfully---
+            
+        *   (i) immediately after, or because of recall or other return to custody after, ceasing to be a person to whom any of paragraphs (a) to (g) applied; and
+        
+        *   (ii) in the same manner as if he or she were a person to whom any of paragraphs (a) to (g) applies; and
+        
+        *   (iii) by or on behalf of the Crown (as defined in [section 6(2)][7])
+        
+        
+    
+    _prison_ has the same meaning as in [section 3(1)][97] of the Corrections Act 2004
     
     _prisoner_ means---
         
-    *   (a) a person (in [section 7][8] called a _2004 Act prisoner_) who is not a service detainee or a service prisoner but who is for the time being in the legal custody under the [Corrections Act 2004][112] of either of the following persons:
+    *   (a) a person (in [section 7][8] called a _2004 Act prisoner_) who is not a service detainee or a service prisoner but who is for the time being in the legal custody under the [Corrections Act 2004][98] of either of the following persons:
             
-        *   (i) the chief executive (as defined in [section 3(1)][111] of that Act):
+        *   (i) the chief executive (as defined in [section 3(1)][97] of that Act):
         
         *   (ii) the Commissioner of Police; or
         
@@ -389,9 +379,9 @@ General provisions
     
     _sentence of imprisonment_---
         
-    *   (a) means a sentence of imprisonment imposed before or after the commencement of this Act and under any 1 or more enactments or other rules of law (for example, under the [Armed Forces Discipline Act 1971][102] or the [Sentencing Act 2002][113]); and
+    *   (a) means a sentence of imprisonment imposed before or after the commencement of this Act and under any 1 or more enactments or other rules of law (for example, under the [Armed Forces Discipline Act 1971][88] or the [Sentencing Act 2002][99]); and
     
-    *   (b) includes the following (as defined in [section 4(1)][99] of the Sentencing Act 2002):
+    *   (b) includes the following (as defined in [section 4(1)][85] of the Sentencing Act 2002):
             
         *   (i) a determinate sentence of imprisonment; and
         
@@ -411,7 +401,7 @@ General provisions
     
     _service detainee_ means a person who is---
         
-    *   (a) undergoing a sentence, imposed under the [Armed Forces Discipline Act 1971][102] by the Court Martial or a disciplinary officer, that includes the punishment of detention; and
+    *   (a) undergoing a sentence, imposed under the [Armed Forces Discipline Act 1971][88] by the Court Martial or a disciplinary officer, that includes the punishment of detention; and
     
     *   (b) in accordance with that Act, for the time being in or outside New Zealand---
             
@@ -421,13 +411,13 @@ General provisions
         
         
     
-    _service penal establishment_ has the same meaning as in [section 2(1)][98] of the Armed Forces Discipline Act 1971
+    _service penal establishment_ has the same meaning as in [section 2(1)][84] of the Armed Forces Discipline Act 1971
     
-    _service prison_ has the same meaning as in [section 2(1)][98] of the Armed Forces Discipline Act 1971
+    _service prison_ has the same meaning as in [section 2(1)][84] of the Armed Forces Discipline Act 1971
     
     _service prisoner_ means a person who is---
         
-    *   (a) undergoing a sentence, imposed under the [Armed Forces Discipline Act 1971][102] by the Court Martial, that includes imprisonment; and
+    *   (a) undergoing a sentence, imposed under the [Armed Forces Discipline Act 1971][88] by the Court Martial, that includes imprisonment; and
     
     *   (b) in accordance with that Act, for the time being in or outside New Zealand---
             
@@ -453,15 +443,17 @@ General provisions
     
     _young person_ means a boy or girl of or over the age of 14 years but under 17 years; but does not include a person who is or has been married or in a civil union.
     
-    Section 4 **Court Martial**: inserted, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 4 **Court Martial**: inserted, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
     
-    Section 4 **home detention**: repealed, on 1 October 2007, by [section 58][115] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4 **home detention**: repealed, on 1 October 2007, by [section 58][101] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4 **person under control or supervision**: substituted, on 1 October 2007, by [section 58][115] of the Sentencing Amendment Act 2007 (2007 No 27).
+    Section 4 **person under control or supervision**: substituted, on 1 October 2007, by [section 58][101] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4 **service detainee** paragraph (a): substituted, on 1 July 2009, by [section 81][116] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 4 **person under control or supervision** paragraph (h): inserted, on 1 July 2013, by [section 6][102] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    Section 4 **service prisoner** paragraph (a): amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 4 **service detainee** paragraph (a): substituted, on 1 July 2009, by [section 81][103] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    
+    Section 4 **service prisoner** paragraph (a): amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 5 Offender
     
@@ -475,17 +467,17 @@ General provisions
         
         
     
-    *   (b) for all other purposes, a person found guilty (alone or with others) by a court or the Court Martial of the offence that affected the victim, or found guilty of that offence (alone or with others) by a disciplinary officer under the [Armed Forces Discipline Act 1971][102], or who pleads guilty to that offence (alone or with others) before a court or the Court Martial or a disciplinary officer.
+    *   (b) for all other purposes, a person found guilty (alone or with others) by a court or the Court Martial of the offence that affected the victim, or found guilty of that offence (alone or with others) by a disciplinary officer under the [Armed Forces Discipline Act 1971][88], or who pleads guilty to that offence (alone or with others) before a court or the Court Martial or a disciplinary officer.
     
     (2) For the purposes of subsection (1)(a), it does not matter whether, at the time the court or the Court Martial imposed the sentence of imprisonment for the offence, the person was already subject to, or was at that time or later also made subject to, a sentence of imprisonment for another offence or offences.
     
-    Section 5(1)(a)(i): amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 5(1)(a)(i): amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
     
-    Section 5(1)(a)(ii): amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 5(1)(a)(ii): amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
     
-    Section 5(1)(b): substituted, on 1 July 2009, by [section 81][116] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 5(1)(b): substituted, on 1 July 2009, by [section 81][103] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
     
-    Section 5(2): amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 5(2): amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 6 Specified claim
     
@@ -495,7 +487,7 @@ General provisions
             
         *   (i) before or after the commencement of this Act; and
         
-        *   (ii) affecting the person as a person under control or supervision; and
+        *   (ii) affecting the person as (including, without limitation, by making the person) a person under control or supervision; and
         
         
     
@@ -505,19 +497,19 @@ General provisions
     
     _a breach of, or interference with, a specified right_ means---
         
-    *   (a) a breach of, or interference with, a right contained in and affirmed by the [New Zealand Bill of Rights Act 1990][117]; or
+    *   (a) a breach of, or interference with, a right contained in and affirmed by the [New Zealand Bill of Rights Act 1990][104]; or
     
-    *   (b) a breach of [Part 1A][118] or [Part 2][119] of the Human Rights Act 1993; or
+    *   (b) a breach of [Part 1A][105] or [Part 2][106] of the Human Rights Act 1993; or
     
-    *   (c) an interference with the privacy of an individual (within the meaning of [section 66][120] of the Privacy Act 1993)
+    *   (c) an interference with the privacy of an individual (within the meaning of [section 66][107] of the Privacy Act 1993)
     
     _Crown_ includes a contractor or security contractor as defined in---
         
-    *   (a) [section 3(1)][111] of the Corrections Act 2004; or
+    *   (a) [section 3(1)][97] of the Corrections Act 2004; or
     
     *   (b) section 2(1) of the Penal Institutions Act 1954\.
     
-    
+    Section 6(1)(a)(ii): amended (with effect on 4 June 2005), on 1 July 2013, by [section 7][108] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ##### 7 Specified internal and external complaints mechanisms
     
@@ -525,21 +517,21 @@ General provisions
         
     *   (a) for a 2004 Act prisoner, the following mechanisms:
             
-        *   (i) the relevant prison's internal complaints system, as required, defined, and facilitated by [sections 151 to 155][121] of the Corrections Act 2004; and
+        *   (i) the relevant prison's internal complaints system, as required, defined, and facilitated by [sections 151 to 155][109] of the Corrections Act 2004; and
         
-        *   (ii) investigation of a complaint by a person appointed as an inspector of corrections under [section 28][122] of that Act, as contemplated by [sections 156 to 159][123] of that Act; and
+        *   (ii) investigation of a complaint by a person appointed as an inspector of corrections under [section 28][110] of that Act, as contemplated by [sections 156 to 159][111] of that Act; and
         
-        *   (iii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][124]; and
+        *   (iii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][112]; and
         
         
     
-    *   (b) for persons under control or supervision (other than 2004 Act prisoners) after the commencement of the [Corrections Act 2004][112], the following mechanisms:
+    *   (b) for persons under control or supervision (other than 2004 Act prisoners) after the commencement of the [Corrections Act 2004][98], the following mechanisms:
             
-        *   (i) the internal complaints system available at or through the relevant community work centre or probation office, or through the controlling officer of the relevant probation area, as required, defined, and facilitated by [sections 151 to 155][121] of that Act; and
+        *   (i) the internal complaints system available at or through the relevant community work centre or probation office, or through the controlling officer of the relevant probation area, as required, defined, and facilitated by [sections 151 to 155][109] of that Act; and
         
-        *   (ii) investigation of a complaint by a person appointed as an inspector of corrections under [section 28][122] of that Act, as contemplated by [sections 156 to 159][123] of that Act; and
+        *   (ii) investigation of a complaint by a person appointed as an inspector of corrections under [section 28][110] of that Act, as contemplated by [sections 156 to 159][111] of that Act; and
         
-        *   (iii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][124]; and
+        *   (iii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][112]; and
         
         
     
@@ -551,19 +543,19 @@ General provisions
         
         
     
-    *   (d) for persons under control or supervision (other than 1954 Act prisoners) before the commencement of the [Corrections Act 2004][112], the following mechanisms:
+    *   (d) for persons under control or supervision (other than 1954 Act prisoners) before the commencement of the [Corrections Act 2004][98], the following mechanisms:
             
         *   (i) any internal complaints system available at or through the relevant community work centre or probation office, or through the controlling officer of the relevant probation area; and
         
-        *   (ii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][124]; and
+        *   (ii) in relation only to a matter that is not more properly within the jurisdiction of another authority, official agency or body, or statutory officer, investigation by an Ombudsman or by an employee of the Office of the Ombudsmen of a complaint under the [Ombudsmen Act 1975][112]; and
         
         
     
     *   (e) for a service detainee or service prisoner, the following mechanisms:
             
-        *   (i) investigation by a service authority of a complaint made under [section 49][125] of the Defence Act 1990; and
+        *   (i) investigation by a service authority of a complaint made under [section 49][113] of the Defence Act 1990; and
         
-        *   (ii) investigation (for example, by a visiting officer) of a complaint made in accordance with relevant Defence Force Orders issued pursuant to [sections 175][126] and [206][127] of the Armed Forces Discipline Act 1971\.
+        *   (ii) investigation (for example, by a visiting officer) of a complaint made in accordance with relevant Defence Force Orders issued pursuant to [sections 175][114] and [206][115] of the Armed Forces Discipline Act 1971\.
         
         
     
@@ -644,11 +636,13 @@ Prisoners' and victims' claims
 
 ##### 12 Application
     
-*   (1) This subpart applies only to proceedings in or before a court or tribunal in which 1 or more specified claims are made and that---
+*   (1) This subpart applies only to proceedings---
         
-    *   (a) have been commenced, and not determined at first instance by the court or Tribunal, before the commencement of this Act; or
+    *   (a) in or before a court or tribunal; and
     
-    *   (b) are commenced after the commencement of this Act.
+    *   (b) in which 1 or more specified claims are made; and
+    
+    *   (c) commenced on or after 1 July 2013\.
     
     (2) If, under this section, this subpart applies to proceedings, this subpart applies to them both---
         
@@ -656,7 +650,7 @@ Prisoners' and victims' claims
     
     *   (b) on any appeal or rehearing.
     
-    
+    Section 12(1): replaced, on 1 July 2013, by [section 8][116] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ##### 13 Restriction on awarding of compensation
     
@@ -702,9 +696,9 @@ Prisoners' and victims' claims
 
 ##### 16 Expiry of subpart
     
-*   This subpart expires with the close of 30 June 2013\.
+*   \[Repealed\]
     
-    Section 16: amended, on 30 June 2012, by [section 5][128] of the Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012 (2012 No 49).
+    Section 16: repealed, on 1 July 2013, by [section 9][117] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ### Subpart 2---Victims' claims
 
@@ -716,17 +710,17 @@ Prisoners' and victims' claims
         
     *   (a) in satisfaction of a court's or tribunal's final judgment---
             
-        *   (i) on a specified claim made before 1 July 2013; and
+        *   (i) on a specified claim; and
         
-        *   (ii) given after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013; or
+        *   (ii) given after the commencement, on 4 June 2005, of this Act; or
         
         
     
     *   (b) as, or as part of, an out-of-court final settlement---
             
-        *   (i) of a specified claim made before 1 July 2013; and
+        *   (i) of a specified claim; and
         
-        *   (ii) concluded after the commencement, on 4 June 2005, of this Act, and either before, on, or after 1 July 2013\.
+        *   (ii) concluded after the commencement, on 4 June 2005, of this Act.
         
         
     
@@ -754,23 +748,23 @@ Prisoners' and victims' claims
     
     *   (b) liable to be attached or taken in execution at the instance of a creditor of the accused or the offender.
     
-    (5) In subsection (4), a _creditor_ includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the [Child Support Act 1991][129] or the [Student Loan Scheme Act 2011][130]) are payable.
+    (5) In subsection (4), a _creditor_ includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the [Child Support Act 1991][118] or the [Student Loan Scheme Act 2011][119]) are payable.
     
     (6) No person has a right of action against the Crown, an agent of the Crown, or any other person, in respect of any investment or payment of money permitted or required by this subpart or by regulations made under [section 57][64].
     
-    Section 17(1)(a): substituted, on 1 July 2010, by [section 7][131] of the Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010 (2010 No 44).
+    Section 17(1)(a): substituted, on 1 July 2010, by [section 7][120] of the Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010 (2010 No 44).
     
-    Section 17(1)(a)(i): amended, on 30 June 2012, by [section 8][132] of the Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012 (2012 No 49).
+    Section 17(1)(a)(i): amended, on 1 July 2013, by [section 10(1)][121] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    Section 17(1)(a)(ii): amended, on 30 June 2012, by [section 8][132] of the Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012 (2012 No 49).
+    Section 17(1)(a)(ii): amended, on 1 July 2013, by [section 10(2)][121] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    Section 17(1)(b): substituted, on 1 July 2010, by [section 7][131] of the Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010 (2010 No 44).
+    Section 17(1)(b): substituted, on 1 July 2010, by [section 7][120] of the Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010 (2010 No 44).
     
-    Section 17(1)(b)(i): amended, on 30 June 2012, by [section 8][132] of the Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012 (2012 No 49).
+    Section 17(1)(b)(i): amended, on 1 July 2013, by [section 10(3)][121] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    Section 17(1)(b)(ii): amended, on 30 June 2012, by [section 8][132] of the Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012 (2012 No 49).
+    Section 17(1)(b)(ii): amended, on 1 July 2013, by [section 10(4)][121] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-    Section 17(5): amended, on 1 April 2012, by [section 223][133] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 17(5): amended, on 1 April 2012, by [section 223][122] of the Student Loan Scheme Act 2011 (2011 No 62).
 
 ##### 18 Secretary deducts money for legal aid, reparation, and earlier orders, then pays surplus into account
     
@@ -782,7 +776,7 @@ Prisoners' and victims' claims
         
         *   (ii) on proceeds of proceedings relating to the specified claim, and to which a grant of legal aid relates; and
         
-        *   (iii) arising by operation of [section 36][134] of the Legal Services Act 2011; and
+        *   (iii) arising by operation of [section 36][123] of the Legal Services Act 2011; and
         
         
     
@@ -798,9 +792,9 @@ Prisoners' and victims' claims
         
     *   (a) an amount due under a sentence of reparation imposed under---
             
-        *   (i) the [Sentencing Act 2002][113]; or
+        *   (i) the [Sentencing Act 2002][99]; or
         
-        *   (ii) the [Criminal Justice Act 1985][135]; and
+        *   (ii) the [Criminal Justice Act 1985][124]; and
         
         
     
@@ -808,17 +802,17 @@ Prisoners' and victims' claims
     
     _order of reparation_ means---
         
-    *   (a) an order under [section 106][136], [section 108][137], or [section 110][138] of the Sentencing Act 2002; or
+    *   (a) an order under [section 106][125], [section 108][126], or [section 110][127] of the Sentencing Act 2002; or
     
-    *   (b) an order under [section 84(1)(b)][139] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (b) an order under [section 84(1)(b)][128] of the Children, Young Persons, and Their Families Act 1989; or
     
-    *   (c) an order under [section 283(f) or (g)][140] of the Children, Young Persons, and Their Families Act 1989; or
+    *   (c) an order under [section 283(f) or (g)][129] of the Children, Young Persons, and Their Families Act 1989; or
     
     *   (d) an order that---
             
         *   (i) requires the payment of an amount to compensate, or to make restitution to, the victim of an offence against an enactment; and
         
-        *   (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of [Part 3][141] of the Summary Proceedings Act 1957\.
+        *   (ii) is declared by the Governor-General, by Order in Council, to be an order of reparation for the purposes of [Part 3][130] of the Summary Proceedings Act 1957\.
         
         
     
@@ -830,11 +824,11 @@ Prisoners' and victims' claims
     
     *   (c) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
     
-    Section 18(1)(a)(i): amended, on 1 July 2011, by [section 144][142] of the Legal Services Act 2011 (2011 No 4).
+    Section 18(1)(a)(i): amended, on 1 July 2011, by [section 144][131] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 18(1)(a)(iii): amended, on 1 July 2011, by [section 144][142] of the Legal Services Act 2011 (2011 No 4).
+    Section 18(1)(a)(iii): amended, on 1 July 2011, by [section 144][131] of the Legal Services Act 2011 (2011 No 4).
     
-    Section 18(2) **order of reparation** paragraph (d): replaced, on 13 February 2012, by [section 4][143] of the Prisoners' and Victims' Claims Amendment Act 2011 (2011 No 43).
+    Section 18(2) **order of reparation** paragraph (d): replaced, on 13 February 2012, by [section 4][132] of the Prisoners' and Victims' Claims Amendment Act 2011 (2011 No 43).
 
 ##### 19 Status of money paid to Secretary or into account
     
@@ -846,13 +840,13 @@ Prisoners' and victims' claims
     
     *   (b) not liable to be attached or taken in execution at the instance of a creditor of the accused or the offender.
     
-    (3) In subsection (2), a _creditor_ includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the [Child Support Act 1991][129] or the [Student Loan Scheme Act 2011][130]) are payable.
+    (3) In subsection (2), a _creditor_ includes the Commissioner of Inland Revenue or any other person or body to whom any taxes, duties, fines, levies, or other charges, deductions, or amounts (for example, under the [Child Support Act 1991][118] or the [Student Loan Scheme Act 2011][119]) are payable.
     
     (4) Money paid into the account, in accordance with this subpart, is money paid to the Crown in trust for the accused or the offender.
     
-    (5) Nothing in [Part 7][144] of the Public Finance Act 1989 (which relates to trust money) applies to money that, in accordance with this section, is paid to the Crown in trust for the accused or the offender.
+    (5) Nothing in [Part 7][133] of the Public Finance Act 1989 (which relates to trust money) applies to money that, in accordance with this section, is paid to the Crown in trust for the accused or the offender.
     
-    Section 19(3): amended, on 1 April 2012, by [section 223][133] of the Student Loan Scheme Act 2011 (2011 No 62).
+    Section 19(3): amended, on 1 April 2012, by [section 223][122] of the Student Loan Scheme Act 2011 (2011 No 62).
 
 ##### 20 Secretary to give notice of payments into account, etc
     
@@ -946,7 +940,7 @@ Prisoners' and victims' claims
     
 *   (1) The Secretary must, for the purposes of [section 21][26], take reasonable steps to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender.
     
-    (2) Those steps include requesting under [section 33A][145] of the Victims' Rights Act 2002 the current address (including the full name) of a person---
+    (2) Those steps include requesting under [section 33A][134] of the Victims' Rights Act 2002 the current address (including the full name) of a person---
         
     *   (a) who may be or is a victim of the accused or the offender; and
     
@@ -954,7 +948,7 @@ Prisoners' and victims' claims
     
     (3) To help to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender, the Secretary may, by making a request for the purpose to the appropriate Registrar or Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that---
         
-    *   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the [Armed Forces Discipline Act 1971][102], or proceedings of the Court Martial; and
+    *   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the [Armed Forces Discipline Act 1971][88], or proceedings of the Court Martial; and
     
     *   (b) are or may be relevant to that purpose.
     
@@ -962,7 +956,7 @@ Prisoners' and victims' claims
     
     (5) The Secretary is not required by this section to take steps to ascertain the contact details of a person if the Secretary believes on reasonable grounds that a limitation defence could be pleaded successfully in response to a victim's claim made by that person.
     
-    Section 24(3)(a): substituted, on 1 July 2009, by [section 81][116] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 24(3)(a): substituted, on 1 July 2009, by [section 81][103] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 25 Access to records of the Court Martial proceedings, etc, to identify, and ascertain contact details of, victims
     
@@ -974,7 +968,7 @@ Prisoners' and victims' claims
     
     (4) This section overrides [sections 20 to 24][25].
     
-    Section 25 heading: amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 25 heading: amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 26 Procedure if no victims of accused or offender
     
@@ -1074,9 +1068,9 @@ Prisoners' and victims' claims
     
     (4) The Chief District Court Judge may designate another Tribunal to deal with some or all of a claim or application if the Tribunal to which it has been referred under this section is, because of exceptional circumstances, unable to deal with all or that part of the claim or application.
     
-    (5) However, the Chief District Court Judge must consult with the Judge Advocate General before designating a Tribunal under this section if a claim to which the designation relates involves an offender convicted by the Court Martial, or found guilty by a disciplinary officer, under the [Armed Forces Discipline Act 1971][102].
+    (5) However, the Chief District Court Judge must consult with the Judge Advocate General before designating a Tribunal under this section if a claim to which the designation relates involves an offender convicted by the Court Martial, or found guilty by a disciplinary officer, under the [Armed Forces Discipline Act 1971][88].
     
-    Section 30(5): substituted, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 30(5): substituted, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 31 Offender to be given copy of claim and reasonable opportunity to make written submission on it
     
@@ -1136,13 +1130,13 @@ Prisoners' and victims' claims
     
 *   (1) To help to determine a claim filed under [section 28][34], the Tribunal may, by making a request for the purpose to the appropriate Registrar or to the Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that---
         
-    *   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the [Armed Forces Discipline Act 1971][102], or proceedings of the Court Martial; and
+    *   (a) relate to criminal proceedings, proceedings of a disciplinary officer under the [Armed Forces Discipline Act 1971][88], or proceedings of the Court Martial; and
     
     *   (b) are or may be relevant to the determination of the claim.
     
     (2) Those court documents or records include---
         
-    *   (a) criminal records kept under [section 71][146] of the Summary Proceedings Act 1957, including---
+    *   (a) criminal records kept under [section 184][135] of the Criminal Procedure Act 2011, including---
             
         *   (i) a reserved decision entered in those records; and
         
@@ -1150,23 +1144,27 @@ Prisoners' and victims' claims
         
         
     
-    *   (b) documents referred to in the [Criminal Proceedings (Search of Court Records) Rules 1974][147], including---
+    *   (b) documents referred to in the [Criminal Proceedings (Search of Court Records) Rules 1974][136], including---
             
-        *   (i) the register of persons committed for trial and sentence, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
+        *   (i) the register of persons to be tried or sentenced, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
         
         *   (ii) a file, or part of a file, or document relating to a criminal proceeding; and
         
         
     
-    *   (c) records of Court Martial proceedings delivered to, and kept in accordance with the directions of, the Judge Advocate General, under [section 75][148] of the Court Martial Act 2007; and
+    *   (c) records of Court Martial proceedings delivered to, and kept in accordance with the directions of, the Judge Advocate General, under [section 75][137] of the Court Martial Act 2007; and
     
-    *   (d) any documents or records (for example, a charge report) created in connection with, and retained after, the summary trial or disposal of a charge by a disciplinary officer under the [Armed Forces Discipline Act 1971][102].
+    *   (d) any documents or records (for example, a charge report) created in connection with, and retained after, the summary trial or disposal of a charge by a disciplinary officer under the [Armed Forces Discipline Act 1971][88].
     
-    Section 35(1)(a): substituted, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 35(1)(a): substituted, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
     
-    Section 35(2)(c): amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 35(2)(a): amended, on 1 July 2013, by [section 413][138] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 35(2)(d): substituted, on 1 July 2009, by [section 81][116] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 35(2)(b)(i): amended, on 1 July 2013, by [section 413][138] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 35(2)(c): amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
+    
+    Section 35(2)(d): substituted, on 1 July 2009, by [section 81][103] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 36 Access to records of Court Martial proceedings, etc, to help to determine victims' claims
     
@@ -1178,7 +1176,7 @@ Prisoners' and victims' claims
     
     (4) This section overrides [section 35][41].
     
-    Section 36 heading: amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 36 heading: amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 37 Relevant findings in criminal proceedings or proceedings of Court Martial or officer to be evidence
     
@@ -1198,7 +1196,7 @@ Prisoners' and victims' claims
     
     (3) This section does not affect rights of appeal under [section 51][57].
     
-    Section 37 heading: amended, on 1 July 2009, by [section 87][114] of the Court Martial Act 2007 (2007 No 101).
+    Section 37 heading: amended, on 1 July 2009, by [section 87][100] of the Court Martial Act 2007 (2007 No 101).
 
 ##### 38 Tribunal may also hear submissions in exceptional cases
     
@@ -1246,7 +1244,9 @@ Prisoners' and victims' claims
     
     *   (b) the manner in which information or documents of that kind may be made available.
     
-    (5) Every person commits an offence against this section, and is liable on summary conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under subsection (1), or fails to answer a question asked under the notice.
+    (5) Every person commits an offence against this section, and is liable on conviction to a fine not exceeding $1,000, who, without reasonable excuse, fails to comply with a notice under subsection (1), or fails to answer a question asked under the notice.
+    
+    Section 39(5): amended, on 1 July 2013, by [section 413][138] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Power to maintain order at hearings, etc
     
@@ -1296,7 +1296,7 @@ Prisoners' and victims' claims
     
     *   (c) if it is made or given permanently, may be reviewed by the Tribunal at any time under [section 42][48].
     
-    Compare: 1997 No 92 [s 39][149]
+    Compare: 1997 No 92 [s 39][139]
 
 ##### 42 Application for renewal or review of order or direction under section 41
     
@@ -1310,19 +1310,21 @@ Prisoners' and victims' claims
     
     (3) After considering an application under this section, the Tribunal may renew, revoke, vary, or continue the order or direction as the Tribunal thinks fit.
     
-    Compare: 1997 No 92 [s 40][150]
+    Compare: 1997 No 92 [s 40][140]
 
 ##### 43 Contravention of orders or directions under section 41
     
 *   (1) Every person commits an offence who breaches an order or direction made or given under [section 41(1)(a) or (b) or (c) or (d)][47] or evades or attempts to evade the order or direction.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $1,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $5,000\.
     
-    Compare: 1997 No 92 [s 41][151]
+    Compare: 1997 No 92 [s 41][141]
+    
+    Section 43(2): amended, on 1 July 2013, by [section 413][138] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Availability of documents filed in connection with claims
     
@@ -1372,7 +1374,7 @@ Prisoners' and victims' claims
     
     (4) However, the Tribunal cannot give interest upon interest.
     
-    (5) In this section and in [section 50][56], _the prescribed rate_ means the prescribed rate as defined in [section 62B(4)][152] of the District Courts Act 1947\.
+    (5) In this section and in [section 50][56], _the prescribed rate_ means the prescribed rate as defined in [section 62B(4)][142] of the District Courts Act 1947\.
     
     (6) Without limiting the Tribunal's powers, the Tribunal may dismiss a victim's claim if satisfied that it is frivolous, vexatious, or made solely for the purpose of delay.
 
@@ -1502,7 +1504,7 @@ Prisoners' and victims' claims
     
 *   (1) The Secretary must, for the purposes of this subpart, establish at a bank a victims' claims trust bank account.
     
-    (2) The bank must be a registered bank as defined in [section 2(1)][153] of the Reserve Bank of New Zealand Act 1989\.
+    (2) The bank must be a registered bank as defined in [section 2(1)][143] of the Reserve Bank of New Zealand Act 1989\.
     
     (3) The bank at which the account is established---
         
@@ -1514,9 +1516,9 @@ Prisoners' and victims' claims
     
     (4) The arrangement in subsection (3)(a) is the only permitted and required investment of the money in the account.
     
-    (5) The account must be audited by a chartered accountant (within the meaning of [section 19][154] of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner (if any) prescribed by regulations made under [section 57][64].
+    (5) The account must be audited by a chartered accountant (within the meaning of [section 19][144] of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner (if any) prescribed by regulations made under [section 57][64].
     
-    Section 54(5): amended, on 7 July 2010, by [section 10][155] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 54(5): amended, on 7 July 2010, by [section 10][145] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
 
 ##### 55 Payments from, and other operation of, account
     
@@ -1538,7 +1540,7 @@ Prisoners' and victims' claims
     
     *   (b) the person claims the money and establishes that claim to the satisfaction of the Treasury.
     
-    Compare: 1989 No 44 [s 70][156]
+    Compare: 1989 No 44 [s 70][146]
 
 ##### 57 Regulations on operation and auditing of account
     
@@ -1590,33 +1592,49 @@ Prisoners' and victims' claims
 
 ### Subpart 3---Suspension of limitation periods for certain claims by victims
 
-##### 63 Application
+##### 63 Limitation periods to which section 64 applies
     
-*   (1) This subpart applies to every applicable limitation period for an action that is based on a claim---
+*   (1) [Section 64][73] applies to every applicable limitation period for an action that is based on a claim---
         
     *   (a) made by or on behalf of a victim; and
     
     *   (b) made against an offender; and
     
-    *   (c) based on acts done or omitted to be done (whether before or after the commencement of this Act) by the offender in committing the offence.
+    *   (c) based on acts done or omitted to be done (whether before or after the commencement, on 4 June 2005, of this Act) by the offender in committing the offence.
     
-    (2) This subpart applies whether or not the action was---
+    (2) [Section 64][73] applies whether or not the action was---
         
-    *   (a) commenced before the commencement of this Act; or
+    *   (a) commenced before the commencement, on 4 June 2005, of this Act; or
     
-    *   (b) one in respect of which a limitation defence (under the [Limitation Act 2010][157] or any other law of New Zealand) could, before the commencement of this Act, have been pleaded successfully.
+    *   (b) one in respect of which a limitation defence (under the [Limitation Act 2010][147] or any other law of New Zealand) could, before the commencement, on 4 June 2005, of this Act, have been pleaded successfully.
     
-    (3) However, nothing in this subpart affects---
+    (3) However, nothing in [section 64][73] affects---
         
-    *   (a) an action or arbitration determined before the commencement of this Act; or
+    *   (a) an action or arbitration determined before the commencement, on 4 June 2005, of this Act; or
     
     *   (b) the title to any property which is the subject of an action or arbitration of that kind.
     
-    Section 63(2)(b): amended, on 1 January 2011, by [section 58][158] of the Limitation Act 2010 (2010 No 110).
-
-##### 64 Limitation periods suspended
+    Section 63 heading: replaced, on 1 July 2013, by [section 11(1)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
-*   (1) The limitation periods to which this subpart applies cease to run while the offender is serving a sentence of imprisonment in a penal institution, prison, or service prison.
+    Section 63(1): amended, on 1 July 2013, by [section 11(2)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(1)(c): amended, on 1 July 2013, by [section 11(3)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(2): amended, on 1 July 2013, by [section 11(4)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(2)(a): amended, on 1 July 2013, by [section 11(5)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(2)(b): amended, on 1 July 2013, by [section 11(6)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(2)(b): amended, on 1 January 2011, by [section 58][149] of the Limitation Act 2010 (2010 No 110).
+    
+    Section 63(3): amended, on 1 July 2013, by [section 11(7)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+    
+    Section 63(3)(a): amended, on 1 July 2013, by [section 11(8)][148] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+
+##### 64 Limitation periods suspended while offender serving sentence of imprisonment
+    
+*   (1) The limitation periods to which this section applies cease to run while the offender is serving a sentence of imprisonment in a penal institution, prison, or service prison.
     
     (2) In this section, _serving a sentence of imprisonment in a penal institution, prison, or service prison_---
         
@@ -1630,78 +1648,60 @@ Prisoners' and victims' claims
         
         
     
-    *   (b) includes spending time in a penal institution or a prison following a related recall application (as defined in [section 59][159] of the Parole Act 2002), but only if a final recall order (as defined in [section 4(1)][160] of that Act) is made following the recall application.
+    *   (b) includes spending time in a penal institution or a prison following a related recall application (as defined in [section 59][150] of the Parole Act 2002), but only if a final recall order (as defined in [section 4(1)][151] of that Act) is made following the recall application.
     
+    Section 64 heading: amended, on 1 July 2013, by [section 12(1)][152] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
     
+    Section 64(1): amended, on 1 July 2013, by [section 12(2)][152] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+
+##### 64A Limitation periods to which section 64B applies
+    
+*   [Section 64B][75] applies to every applicable limitation period for an action based on a claim---
+        
+    *   (a) made by or on behalf of a victim after the commencement, on 1 July 2013, of [section 64B][75]; and
+    
+    *   (b) made against an offender and against money received under [section 17][22] that is compensation in respect of a specified claim of the offender made after 30 June 2013; and
+    
+    *   (c) based on acts done or omitted to be done (whether before or after the commencement, on 1 July 2013, of [section 64B][75]) by the offender in committing the offence.
+    
+    Section 64A: inserted, on 1 July 2013, by [section 13][153] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+
+##### 64B Limitation periods suspended until standard deadline for filing of victims' claims under this Act
+    
+*   The limitation periods to which this section applies cease to run for the action against the offender and the money received under [section 17][22] until the standard deadline (specified in [section 28(3)][34]) for the filing of a victim's claim in the victims' claims process under [subpart 2][20].
+    
+    Section 64B: inserted, on 1 July 2013, by [section 13][153] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+
+### Subpart 4---Specified claims made before 1 July 2013, related compensation, and related victims' claims
+    
+*   Subpart 4: inserted, on 1 July 2013, by [section 15][154] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
+
+##### 64C Pre-1 July 2013 Act generally continues to apply
+    
+*   (1) After 30 June 2013, the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
+        
+    *   (a) the provisions of this Act as in force immediately before 1 July 2013; and
+    
+    *   (b) [section 3(4)][4] and this subpart as inserted or substituted, but nothing else in this Act after it is amended, on 1 July 2013 by the [Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013][82].
+    
+    (2) Despite subsection (1), the amendments made by [sections 6][102] and [7][108] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 have effect (subject to the saving in subsection (3)) as from this Act's commencement, on 4 June 2005\.
+    
+    (3) The amendments made by [sections 6][102] and [7][108] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 do not apply to proceedings commenced before 3 December 2012 except insofar as those proceedings are on or after that date amended to challenge a matter---
+        
+    *   (a) made clear by those amendments; and
+    
+    *   (b) not challenged expressly in those proceedings before that date.
+    
+    Section 64C: inserted, on 1 July 2013, by [section 15][154] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ## Part 3  
 Amendments to other Acts
 
-#### Amendment to Human Rights Act 1993
-
-##### 65 Damages
-    
-*   _Amendment(s) incorporated in the [Act(s)][161]_.
-
-#### Amendments to Legal Services Act 2000
-
-##### 66 Interpretation
-    
-*   _Amendment(s) incorporated in the [Act(s)][162]_.
-
-##### 67 Proceedings for which legal aid may be granted: civil matters
-    
-*   _Amendment(s) incorporated in the [Act(s)][163]_.
-
-##### 68 When legal aid may be granted: civil matters
-    
-*   _Amendment(s) incorporated in the [Act(s)][164]_.
-
-##### 69 Conditions on grant of legal aid
-    
-*   _Amendment(s) incorporated in the [Act(s)][165]_.
-
-##### 70 Maximum grant
-    
-*   _Amendment(s) incorporated in the [Act(s)][166]_.
-
-##### 71 Application for amendment to grant of legal aid
-    
-*   _Amendment(s) incorporated in the [Act(s)][167]_.
-
-##### 72 Regulations
-    
-*   _Amendment(s) incorporated in the [Act(s)][168]_.
-
-#### Amendment to Limitation Act 1950
+\[Repealed\]
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 January 2011, by [section 58][158] of the Limitation Act 2010 (2010 No 110).
-
-##### 73 Limitation of actions of contract and tort, and certain other actions
-    
-*   Section 73: repealed, on 1 January 2011, by [section 58][158] of the Limitation Act 2010 (2010 No 110).
-
-#### Amendments to Privacy Act 1993
-
-##### 74 Damages
-    
-*   _Amendment(s) incorporated in the [Act(s)][169]_.
-
-##### 75 Schedule 5 amended
-    
-*   _Amendment(s) incorporated in the [Act(s)][170]_.
-
-#### Amendments to Victims' Rights Act 2002
-
-##### 76 Police to give information about right to ask for notice and appointment of representative
-    
-*   _Amendment(s) incorporated in the [Act(s)][171]_.
-
-##### 77 New section 33A inserted
-    
-*   _Amendment(s) incorporated in the [Act(s)][95]_.
+*   Part 3: repealed, on 1 July 2013, by [section 16][155] of the Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013 (2013 No 36).
 
 ---
 
@@ -1713,7 +1713,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Prisoners' and Victims' Claims Amendment Act 2007][172].
+*   This Act is the [Prisoners' and Victims' Claims Amendment Act 2007][156].
 
 ##### 2 Commencement
     
@@ -1739,23 +1739,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Prisoners' and Victims' Claims Act 2005\. The reprint incorporates all the amendments to the Act as at 30 June 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Prisoners' and Victims' Claims Act 2005\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][173] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][157] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][174] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][158] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][175] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][159] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][176] and [17E][177] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][160] and [17E][161] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1786,27 +1786,29 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Prisoners' and Victims' Claims (2012 Expiry and Application Dates) Amendment Act 2012][178] (2012 No 49)
+*   [Prisoners' and Victims' Claims (Continuation and Reform) Amendment Act 2013][82] (2013 No 36)
     
-    Student Loan Scheme Act 2011 (2011 No 62): [section 223][133]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][138]
     
-    [Prisoners' and Victims' Claims Amendment Act 2011][179] (2011 No 43)
+    Student Loan Scheme Act 2011 (2011 No 62): [section 223][122]
     
-    Legal Services Act 2011 (2011 No 4): [section 144][142]
+    [Prisoners' and Victims' Claims Amendment Act 2011][162] (2011 No 43)
     
-    Limitation Act 2010 (2010 No 110): [section 58][158]
+    Legal Services Act 2011 (2011 No 4): [section 144][131]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][155]
+    Limitation Act 2010 (2010 No 110): [section 58][149]
     
-    [Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010][180] (2010 No 44)
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][145]
     
-    Court Martial Act 2007 (2007 No 101): [section 87][114]
+    [Prisoners' and Victims' Claims (Expiry and Application Dates) Amendment Act 2010][163] (2010 No 44)
     
-    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][116]
+    Court Martial Act 2007 (2007 No 101): [section 87][100]
     
-    [Prisoners' and Victims' Claims Amendment Act 2007][172] (2007 No 29)
+    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][103]
     
-    Sentencing Amendment Act 2007 (2007 No 27): [section 58][115]
+    [Prisoners' and Victims' Claims Amendment Act 2007][156] (2007 No 29)
+    
+    Sentencing Amendment Act 2007 (2007 No 27): [section 58][101]
 
 
 
@@ -1884,110 +1886,93 @@ Commencementsee section 2
 [71]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351701
 [72]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351702
 [73]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351703
-[74]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351705
-[75]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351706
-[76]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351707
-[77]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351708
-[78]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351709
-[79]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351712
-[80]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351713
-[81]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351714
-[82]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351715
-[83]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351716
-[84]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351717
-[85]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351718
-[86]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351719
-[87]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351720
-[88]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351721
-[89]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351722
-[90]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351723
-[91]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351724
-[92]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351725
-[93]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71806
-[94]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296638
-[95]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM157812
-[96]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304211
-[97]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM262436
-[98]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM401069
-[99]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM135350
-[100]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM76621
-[101]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1001934
-[102]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM401062
-[103]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM404209
-[104]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM147094
-[105]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136401
-[106]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411451
-[107]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM137631
-[108]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM139630
-[109]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136414
-[110]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136469
-[111]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM294857
-[112]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM294848
-[113]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM135341
-[114]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1002056
-[115]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411004
-[116]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1034362
-[117]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM224791
-[118]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304457
-[119]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304467
-[120]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM297441
-[121]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296530
-[122]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM295430
-[123]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296537
-[124]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM430983
-[125]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM206085
-[126]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM403836
-[127]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM404227
-[128]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4383014
-[129]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM253150
-[130]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3179903
-[131]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2913415
-[132]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4383018
-[133]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3180446
-[134]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3142855
-[135]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM76615
-[136]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136807
-[137]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136810
-[138]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136814
-[139]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM150084
-[140]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM153436
-[141]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM311863
-[142]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3143015
-[143]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3557507
-[144]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM162980
-[145]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM158509
-[146]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM311813
-[147]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM42040
-[148]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1002030
-[149]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417790
-[150]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417791
-[151]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417792
-[152]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM243748
-[153]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM199370
-[154]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM391422
-[155]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3043113
-[156]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM162987
-[157]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2033100
-[158]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2033287
-[159]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM138879
-[160]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM137641
-[161]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304948
-[162]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71814
-[163]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71928
-[164]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71940
-[165]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71958
-[166]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71968
-[167]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM71981
-[168]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM72768
-[169]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM297487
-[170]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM298798
-[171]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM157899
-[172]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411462
-[173]: http://www.pco.parliament.govt.nz/reprints/
-[174]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195439
-[175]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[176]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195468
-[177]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195470
-[178]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4383001
-[179]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3557502
-[180]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2913400
+[74]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM5359800
+[75]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM5359801
+[76]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM5359865
+[77]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM5359866
+[78]: http://www.legislation.govt.nz/act/public/2005/0074/latest/whole.html#DLM351705
+[79]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3142702
+[80]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296638
+[81]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM157812
+[82]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913002
+[83]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913020
+[84]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM401069
+[85]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM135350
+[86]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM76621
+[87]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1001934
+[88]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM401062
+[89]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM404209
+[90]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM147094
+[91]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136401
+[92]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411451
+[93]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM137631
+[94]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM139630
+[95]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136414
+[96]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136469
+[97]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM294857
+[98]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM294848
+[99]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM135341
+[100]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1002056
+[101]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411004
+[102]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913022
+[103]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1034362
+[104]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM224791
+[105]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304457
+[106]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM304467
+[107]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM297441
+[108]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913024
+[109]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296530
+[110]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM295430
+[111]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM296537
+[112]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM430983
+[113]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM206085
+[114]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM403836
+[115]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM404227
+[116]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913026
+[117]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913028
+[118]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM253150
+[119]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3179903
+[120]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2913415
+[121]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913030
+[122]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3180446
+[123]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3142855
+[124]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM76615
+[125]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136807
+[126]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136810
+[127]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM136814
+[128]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM150084
+[129]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM153436
+[130]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM311863
+[131]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3143015
+[132]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3557507
+[133]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM162980
+[134]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM158509
+[135]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3360317
+[136]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM42040
+[137]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM1002030
+[138]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3360714
+[139]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417790
+[140]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417791
+[141]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM417792
+[142]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM243748
+[143]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM199370
+[144]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM391422
+[145]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3043113
+[146]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM162987
+[147]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2033100
+[148]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913032
+[149]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2033287
+[150]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM138879
+[151]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM137641
+[152]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913033
+[153]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913034
+[154]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913041
+[155]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM4913045
+[156]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM411462
+[157]: http://www.pco.parliament.govt.nz/reprints/
+[158]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195439
+[159]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[160]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195468
+[161]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM195470
+[162]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM3557502
+[163]: http://www.legislation.govt.nz/act/public/2005/0074/latest/link.aspx?id=DLM2913400
