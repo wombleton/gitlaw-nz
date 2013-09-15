@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Submarine Cables and Pipelines Protection Act 1996Public Act1996 No 22
 
@@ -25,110 +25,110 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
 [Application][5]
 
-[3][6] [Act to bind the Crown][6]
+[3][6][][6][Act to bind the Crown][6]
 
-[4][7] [Application of Act][7]
+[4][7][][7][Application of Act][7]
 
-[5][8] [Other Acts not affected][8]
+[5][8][][8][Other Acts not affected][8]
 
 [Part 2][9]  
 [Protection and enforcement][9]
 
 [Liability for damage to submarine cable or pipeline][10]
 
-[6][11] [Civil liability][11]
+[6][11][][11][Civil liability][11]
 
-[7][12] [Liability in respect of damage to cable or pipeline][12]
+[7][12][][12][Liability in respect of damage to cable or pipeline][12]
 
 [Indemnity for loss of certain equipment][13]
 
-[8][14] [Indemnity for loss of certain equipment][14]
+[8][14][][14][Indemnity for loss of certain equipment][14]
 
 [Submarine cable or pipeline that has ceased to be used][15]
 
-[9][16] [Owner of submarine cable or pipeline that has ceased to be used to notify Minister][16]
+[9][16][][16][Owner of submarine cable or pipeline that has ceased to be used to notify Minister][16]
 
-[10][17] [District Court may order removal of abandoned submarine cable or pipeline][17]
+[10][17][][17][District Court may order removal of abandoned submarine cable or pipeline][17]
 
 [Offence to damage submarine cable or pipeline][18]
 
-[11][19] [Offence to damage submarine cable or pipeline][19]
+[11][19][][19][Offence to damage submarine cable or pipeline][19]
 
 [Prohibition on certain activities in protected areas][20]
 
-[12][21] [Protected areas][21]
+[12][21][][21][Protected areas][21]
 
-[13][22] [Offences in respect of protected areas][22]
+[13][22][][22][Offences in respect of protected areas][22]
 
-[14][23] [Defences in respect of certain offences][23]
+[14][23][][23][Defences in respect of certain offences][23]
 
-[15][24] [Penalties in respect of certain offences][24]
+[15][24][][24][Penalties in respect of certain offences][24]
 
 [Appointment and powers of protection officers, etc][25]
 
-[16][26] [Protection officers][26]
+[16][26][][26][Protection officers][26]
 
-[17][27] [Ship may be ordered from protected area][27]
+[17][27][][27][Ship may be ordered from protected area][27]
 
-[18][28] [Seizure of fishing equipment in protected area][28]
+[18][28][][28][Seizure of fishing equipment in protected area][28]
 
-[19][29] [Master to identify ship][29]
+[19][29][][29][Master to identify ship][29]
 
 [Powers of enforcement officers, etc][30]
 
-[20][31] [Power to obtain documents and information][31]
+[20][31][][31][Power to obtain documents and information][31]
 
-[21][32] [Power of seizure][32]
+[21][32][][32][Power of seizure][32]
 
-[22][33] [Persons assisting enforcement officer][33]
+[22][33][][33][Persons assisting enforcement officer][33]
 
-[23][34] [Enforcement officer to produce evidence of authority to act][34]
+[23][34][][34][Enforcement officer to produce evidence of authority to act][34]
 
 [Provisions relating to seized property][35]
 
-[24][36] [Custody of property seized][36]
+[24][36][][36][Custody of property seized][36]
 
-[25][37] [Release of property by Minister][37]
+[25][37][][37][Release of property by Minister][37]
 
-[26][38] [Release of property by court][38]
+[26][38][][38][Release of property by court][38]
 
 [Proceedings for offences, etc][39]
 
-[27][40] [Consent of Attorney-General required for certain proceedings][40]
+[27][40][][40][Consent of Attorney-General required for certain proceedings][40]
 
-[28][41] [Evidential provisions relating to approved maritime surveillance equipment][41]
+[28][41][][41][Evidential provisions relating to approved maritime surveillance equipment][41]
 
-[29][42] [Offence to tamper or interfere with approved maritime surveillance equipment][42]
+[29][42][][42][Offence to tamper or interfere with approved maritime surveillance equipment][42]
 
-[30][43] [Evidence of testing and accuracy of approved maritime surveillance equipment][43]
+[30][43][][43][Evidence of testing and accuracy of approved maritime surveillance equipment][43]
 
 [Forfeiture of property on conviction][44]
 
-[31][45] [Forfeiture of property on conviction][45]
+[31][45][][45][Forfeiture of property on conviction][45]
 
-[32][46] [Court may grant relief to third party][46]
+[32][46][][46][Court may grant relief to third party][46]
 
-[33][47] [Minister's powers in respect of forfeited property][47]
+[33][47][][47][Minister's powers in respect of forfeited property][47]
 
-[34][48] [Forfeiture of property or redemption payment is in addition to any other penalty][48]
+[34][48][][48][Forfeiture of property or redemption payment is in addition to any other penalty][48]
 
 [Part 3][49]  
 [Miscellaneous provisions][49]
 
-[35][50] [Approved maritime surveillance equipment][50]
+[35][50][][50][Approved maritime surveillance equipment][50]
 
-[36][51] [Regulations][51]
+[36][51][][51][Regulations][51]
 
-[37][52] [Repeals and savings][52]
+[37][52][][52][Repeals and savings][52]
 
 [Schedule][53]  
 [Enactments repealed][53]
@@ -293,9 +293,11 @@ Protection and enforcement
     
 *   (1) The owner of a submarine cable or submarine pipeline, as the case may be, shall, immediately after the use of the submarine cable or submarine pipeline has ceased, notify the Minister in writing that the cable or pipeline has ceased to be used.
     
-    (2) Every person who fails to comply with this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every person who fails to comply with this section commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
     Compare: 1966 No 5 s 6A; 1977 No 96 s 3
+    
+    Section 9(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 District Court may order removal of abandoned submarine cable or pipeline
     
@@ -319,7 +321,7 @@ Protection and enforcement
 
 ##### 11 Offence to damage submarine cable or pipeline
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $250,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $250,000 who---
         
     *   (a) wilfully or negligently either damages, or causes or permits a ship or equipment belonging to a ship to damage, a submarine cable or submarine pipeline; or
     
@@ -332,6 +334,8 @@ Protection and enforcement
     (4) For the purposes of this section, a person who causes an event by an act or omission which he or she knows would probably cause it, being reckless whether that event happens or not, is deemed to have caused it wilfully.
     
     Compare: 1966 No 5 s 4
+    
+    Section 11(1): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Prohibition on certain activities in protected areas
 
@@ -343,7 +347,7 @@ Protection and enforcement
     
     *   (b) an area within the territorial sea of New Zealand:
     
-    *   (c) an area within the exclusive economic zone of New Zealand (as described in [section 9][65] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
+    *   (c) an area within the exclusive economic zone of New Zealand (as described in [section 9][66] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
     
     (2) The Minister shall not make a recommendation under subsection (1) unless---
         
@@ -401,9 +405,9 @@ Protection and enforcement
     
     *   (b) a ship is anchored in any such area---
     
-    the owner and the master of the ship each commits an offence and is each liable on summary conviction to the appropriate penalty under [section 15][24].
+    the owner and the master of the ship each commits an offence and is each liable on conviction to the appropriate penalty under [section 15][24].
     
-    (2) Subject to subsection (3), every person who fails to comply with, or acts in contravention of, an Order in Council under [section 12(1)][21] commits an offence and is liable on summary conviction to the appropriate penalty under [section 15][24].
+    (2) Subject to subsection (3), every person who fails to comply with, or acts in contravention of, an Order in Council under [section 12(1)][21] commits an offence and is liable on conviction to the appropriate penalty under [section 15][24].
     
     (3) A person is not liable for an offence against this section involving a ship to which a notice under [section 12(6)][21] applies.
     
@@ -424,6 +428,10 @@ Protection and enforcement
     it shall be presumed that, in the absence of evidence to the contrary, fishing operations were being conducted from the ship or the ship was anchored, as the case may be.
     
     Compare: 1966 No 5 s 7A(1); 1977 No 96 s 5
+    
+    Section 13(1): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 13(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Defences in respect of certain offences
     
@@ -435,7 +443,7 @@ Protection and enforcement
 
 ##### 15 Penalties in respect of certain offences
     
-*   Every person who commits an offence against [section 13][22] is liable on summary conviction,---
+*   Every person who commits an offence against [section 13][22] is liable on conviction,---
         
     *   (a) to a fine not exceeding $100,000, if---
             
@@ -448,6 +456,8 @@ Protection and enforcement
     *   (b) to a fine not exceeding $20,000, if the offence was committed, otherwise than in any of the circumstances specified in paragraph (a).
     
     Compare: 1966 No 5 s 7A(2); 1977 No 96 s 5
+    
+    Section 15: amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Appointment and powers of protection officers, etc
 
@@ -461,9 +471,11 @@ Protection and enforcement
     
 *   (1) If a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in a protected area in the commission of an offence against [section 13][22], the protection officer may, by any means of communication, order the master of the ship to remove the ship from that area.
     
-    (2) Without derogating from any other provision of this Act, a master who, without reasonable cause, fails within a reasonable period of time to comply with an order given under this section, commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Without derogating from any other provision of this Act, a master who, without reasonable cause, fails within a reasonable period of time to comply with an order given under this section, commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     Compare: 1966 No 5 s 7B; 1977 No 96 s 5
+    
+    Section 17(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Seizure of fishing equipment in protected area
     
@@ -495,7 +507,9 @@ Protection and enforcement
     
     the master of the ship must advise the protection officer of the master's name, owner's name, ship's name, place of registry, register number, and such further information as may be relevant to the identity of the master and owner and the identity of the ship that may be requested by the protection officer.
     
-    (2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+    
+    Section 19(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Powers of enforcement officers, etc
 
@@ -529,27 +543,31 @@ Protection and enforcement
     
     *   (d) a photograph, film, negative, tape, disk, or other device in which 1 or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
     
-    (5) Every person who fails without reasonable cause to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (5) Every person who fails without reasonable cause to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    Compare: 1991 No 18 [s 13][66]
+    Compare: 1991 No 18 [s 13][67]
+    
+    Section 20(5): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Power of seizure
     
 *   (1) An enforcement officer may seize a ship or other property if the officer believes on reasonable grounds that the ship or other property is being used in the commission of an offence against [section 13][22].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who---
         
     *   (a) resists or obstructs an enforcement officer exercising the power of seizure under this section; or
     
     *   (b) fails without reasonable cause to comply with the requirements of an enforcement officer exercising the power of seizure under this section.
     
-    Compare: 1991 No 18 [s 15][67]
+    Compare: 1991 No 18 [s 15][68]
+    
+    Section 21(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Persons assisting enforcement officer
     
 *   An enforcement officer exercising a power conferred on the officer by this Act may call upon a person in the vicinity for assistance, and every person so called upon is authorised to render such assistance.
     
-    Compare: 1991 No 18 [s 22][68]
+    Compare: 1991 No 18 [s 22][69]
 
 ##### 23 Enforcement officer to produce evidence of authority to act
     
@@ -559,7 +577,7 @@ Protection and enforcement
     
     *   (b) evidence of that person's identity.
     
-    Compare: 1991 No 18 [s 24][69]
+    Compare: 1991 No 18 [s 24][70]
 
 #### Provisions relating to seized property
 
@@ -567,15 +585,21 @@ Protection and enforcement
     
 *   (1) Subject to [sections 25][37] and [26][38], property seized under [section 21][32] shall be held in the custody of the Crown and shall not be released until---
         
-    *   (a) a decision is made not to lay an information in respect of the alleged offence for which the property was seized; or
+    *   (a) a decision is made not to file a charging document in respect of the alleged offence for which the property was seized; or
     
-    *   (b) an information against the person charged with the offence for which the property was seized is dismissed,---
+    *   (b) a charge against the person charged with the offence for which the property was seized is dismissed,---
     
     and, in that event, it must be released immediately from the custody of the Crown.
     
-    (2) The decision whether or not to lay an information in respect of an alleged offence for which property is seized under [section 21][32] shall be made as soon as reasonably practicable after the property is seized.
+    (2) The decision whether or not to file a charging document in respect of an alleged offence for which property is seized under [section 21][32] shall be made as soon as reasonably practicable after the property is seized.
     
-    Compare: 1991 No 18 [s 16][70]
+    Compare: 1991 No 18 [s 16][71]
+    
+    Section 24(1)(a): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 24(1)(b): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 24(2): amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Release of property by Minister
     
@@ -599,7 +623,7 @@ Protection and enforcement
     
     (5) A penalty payable under subsection (4) is recoverable as if it were a fine.
     
-    Compare: 1991 No 18 [s 17][71]
+    Compare: 1991 No 18 [s 17][72]
 
 ##### 26 Release of property by court
     
@@ -611,11 +635,11 @@ Protection and enforcement
     
     may, in accordance with this section, apply to a District Court or the High Court, as the case may be, for an order releasing the property to that person, and any such release may be subject to such sureties and conditions as the court may specify.
     
-    (2) Where the property does not exceed $200,000 in value, the application shall be by way of originating application made to a District Court and the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][72] apply with respect to every such application.
+    (2) Where the property does not exceed $200,000 in value, the application shall be by way of originating application made to a District Court and the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][73] apply with respect to every such application.
     
-    (3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the [High Court Rules][73] apply with respect to every such application.
+    (3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the [High Court Rules][74] apply with respect to every such application.
     
-    Compare: 1991 No 18 [s 20][74]
+    Compare: 1991 No 18 [s 20][75]
 
 #### Proceedings for offences, etc
 
@@ -633,7 +657,7 @@ Protection and enforcement
     
     (2) Notwithstanding subsection (1), a person may be arrested, or a warrant for a person's arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further proceedings shall be taken until the Attorney-General's consent under subsection (1) has been obtained.
     
-    Compare: 1994 No 119 [s 6][75]
+    Compare: 1994 No 119 [s 6][76]
 
 ##### 28 Evidential provisions relating to approved maritime surveillance equipment
     
@@ -647,11 +671,11 @@ Protection and enforcement
     
     (2) The production in evidence in the proceedings of an image that appears to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by approved maritime surveillance equipment.
     
-    Compare: 1962 No 135 [s 42(1), (1A)][76]; 1992 No 108 s 8; 1993 No 88 s 35
+    Compare: 1962 No 135 [s 42(1), (1A)][77]; 1992 No 108 s 8; 1993 No 88 s 35
 
 ##### 29 Offence to tamper or interfere with approved maritime surveillance equipment
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) tampers with approved maritime surveillance equipment; or
     
@@ -663,7 +687,9 @@ Protection and enforcement
         
         
     
-    Compare: 1962 No 135 [s 42(2)][76]; 1992 No 108 s 8
+    Compare: 1962 No 135 [s 42(2)][77]; 1992 No 108 s 8
+    
+    Section 29: amended, on 1 July 2013, by [section 413][65] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Evidence of testing and accuracy of approved maritime surveillance equipment
     
@@ -673,7 +699,7 @@ Protection and enforcement
     
     (3) Every certificate issued under subsection (1) shall, in the absence of proof to the contrary, be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for the certificate to show on its face that the person signing it was so authorised.
     
-    Compare: 1962 No 135 [s 197(3), (4), (5)][77]; 1992 No 108 s 38(2)
+    Compare: 1962 No 135 [s 197(3), (4), (5)][78]; 1992 No 108 s 38(2)
 
 #### Forfeiture of property on conviction
 
@@ -689,7 +715,7 @@ Protection and enforcement
     
     (2) Where any property is forfeited to the Crown under subsection (1), the property shall upon forfeiture vest in the Crown absolutely and free of all encumbrances, liens, and interests.
     
-    Compare: 1991 No 18 [s 30][78]
+    Compare: 1991 No 18 [s 30][79]
 
 ##### 32 Court may grant relief to third party
     
@@ -703,9 +729,9 @@ Protection and enforcement
     
     (3) Where the property forfeited under [section 31(1)][45] does not exceed $200,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
     
-    (4) Except as modified by subsection (3), the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][72] apply with respect to every such application made to the District Court that ordered the forfeiture.
+    (4) Except as modified by subsection (3), the rules relating to the practice and procedure of District Courts for the time being in force under the [District Courts Act 1947][73] apply with respect to every such application made to the District Court that ordered the forfeiture.
     
-    (5) Where the property forfeited under [section 31(1)][45] exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the [High Court Rules][73] apply with respect to every such application.
+    (5) Where the property forfeited under [section 31(1)][45] exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the [High Court Rules][74] apply with respect to every such application.
     
     (6) If the court is satisfied that---
         
@@ -727,7 +753,7 @@ Protection and enforcement
     
     (7) The court may make an order under this section on such terms and conditions as the court thinks fit.
     
-    Compare: 1991 No 120 [s 18][79]
+    Compare: 1991 No 120 [s 18][80]
 
 ##### 33 Minister's powers in respect of forfeited property
     
@@ -737,13 +763,13 @@ Protection and enforcement
     
     (3) On an application under subsection (2), the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the property forfeited is estimated by the Minister to be likely to realise if sold by public auction in New Zealand.
     
-    Compare: 1983 No 14 [s 107C(1), (2)][80]; 1990 No 29 [s 52(1)][81]
+    Compare: 1983 No 14 [s 107C(1), (2)][81]; 1990 No 29 [s 52(1)][82]
 
 ##### 34 Forfeiture of property or redemption payment is in addition to any other penalty
     
 *   A forfeiture ordered by the court under [section 31(1)][45] or a redemption payment imposed by the Minister under [section 33(3)][47] is in addition to, and not in substitution for, any other penalty that may be imposed by the court.
     
-    Compare: 1983 No 14 [s 107C(4)][80]; 1990 No 29 [s 52(1)][81]
+    Compare: 1983 No 14 [s 107C(4)][81]; 1990 No 29 [s 52(1)][82]
 
 ## Part 3  
 Miscellaneous provisions
@@ -795,7 +821,7 @@ Enactments repealed
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][82]._
+_Amendment(s) incorporated in the [Act(s)][83]._
 
 ##### Submarine Cables and Pipelines Protection Act 1966 (1966 No 5) (RS Vol 13, p 629)
 
@@ -821,23 +847,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 1 General
     
-*   This is a reprint of the Submarine Cables and Pipelines Protection Act 1996\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Submarine Cables and Pipelines Protection Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][83] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][84] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][84] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][85] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][85] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][86] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][86] and [17E][87] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][87] and [17E][88] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -868,7 +894,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][64]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][65]
+    
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][64]
     
     Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][63]
     
@@ -943,26 +971,27 @@ _Amendment(s) incorporated in the Act(s)._
 [62]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM127740
 [63]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM322600
 [64]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM1102349
-[65]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM442682
-[66]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228981
-[67]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228983
-[68]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228990
-[69]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228992
-[70]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228984
-[71]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228985
-[72]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM242775
-[73]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM147653
-[74]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228988
-[75]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM342794
-[76]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM342902
-[77]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM344869
-[78]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM229500
-[79]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM251068
-[80]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM70259
-[81]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM207516
-[82]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM284185
-[83]: http://www.pco.parliament.govt.nz/reprints/
-[84]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195439
-[85]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[86]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195468
-[87]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195470
+[65]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM3360714
+[66]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM442682
+[67]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228981
+[68]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228983
+[69]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228990
+[70]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228992
+[71]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228984
+[72]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228985
+[73]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM242775
+[74]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM147653
+[75]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM228988
+[76]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM342794
+[77]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM342902
+[78]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM344869
+[79]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM229500
+[80]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM251068
+[81]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM70259
+[82]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM207516
+[83]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM284185
+[84]: http://www.pco.parliament.govt.nz/reprints/
+[85]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195439
+[86]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[87]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195468
+[88]: http://www.legislation.govt.nz/act/public/1996/0022/latest/link.aspx?id=DLM195470
