@@ -1,5 +1,5 @@
 Reprint  
-as at 25 February 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,33 +25,33 @@ This Act is administered by the Department of Conservation.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Purpose of Act][4]
+[3][4][][4][Purpose of Act][4]
 
-[4][5] [Principles][5]
+[4][5][][5][Principles][5]
 
-[5][6] [Prohibition on mining][6]
+[5][6][][6][Prohibition on mining][6]
 
-[6][7] [Effect of Act on Fisheries Act 1983][7]
+[6][7][][7][Effect of Act on Fisheries Act 1983][7]
 
-[6A][8] [Consents relating to New Plymouth Power Station][8]
+[6A][8][][8][Consents relating to New Plymouth Power Station][8]
 
-[7][9] [Protected Area to be conservation area][9]
+[7][9][][9][Protected Area to be conservation area][9]
 
-[8][10] [Protected Area may be marked][10]
+[8][10][][10][Protected Area may be marked][10]
 
-[9][11] [Rights of access and navigation][11]
+[9][11][][11][Rights of access and navigation][11]
 
-[10][12] [Offences][12]
+[10][12][][12][Offences][12]
 
-[10A][13] [Control of dogs][13]
+[10A][13][][13][Control of dogs][13]
 
-[11][14] [Transitional provisions relating to existing petroleum prospecting licence][14]
+[11][14][][14][Transitional provisions relating to existing petroleum prospecting licence][14]
 
-[12][15] [Consequential amendment to Conservation Act 1987][15]
+[12][15][][15][Consequential amendment to Conservation Act 1987][15]
 
 ---
 
@@ -183,19 +183,19 @@ An Act to provide for the setting up and management of the Sugar Loaf Islands Ma
     
     *   (c) anchors in the Protected Area in contravention of [section 9][11].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of a natural person, to imprisonment for a term not exceeding 1 year, or to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $80,000\.
     
-    
+    Section 10(2): amended, on 1 July 2013, by [section 413][23] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10A Control of dogs
     
-*   (1) Nothing in this Act derogates from the provisions of [Part 5C][23] of the Conservation Act 1987, which provides for the control of dogs and which, subject to [section 26ZT(d)][24] of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister or the Department of Conservation.
+*   (1) Nothing in this Act derogates from the provisions of [Part 5C][24] of the Conservation Act 1987, which provides for the control of dogs and which, subject to [section 26ZT(d)][25] of that Act, authorises the declaration as either a controlled dog area or an open dog area of any part or parts of any land managed and administered under this Act by the Minister or the Department of Conservation.
     
-    (2) [Section 26ZT(d)][24] of the Conservation Act 1987 provides that an open dog area may not include any part of the Protected Area.
+    (2) [Section 26ZT(d)][25] of the Conservation Act 1987 provides that an open dog area may not include any part of the Protected Area.
     
     Section 10A: inserted, on 2 May 1996, by section 11 of the Conservation Amendment Act (No 2) 1996 (1996 No 14).
 
@@ -209,7 +209,7 @@ An Act to provide for the setting up and management of the Sugar Loaf Islands Ma
 
 ##### 12 Consequential amendment to Conservation Act 1987
     
-*   _Amendment(s) incorporated in the [Act(s)][25]._
+*   _Amendment(s) incorporated in the [Act(s)][26]._
 
 ---
 
@@ -227,23 +227,23 @@ An Act to provide for the setting up and management of the Sugar Loaf Islands Ma
 
 ###### 1 General
     
-*   This is a reprint of the Sugar Loaf Islands Marine Protected Area Act 1991\. The reprint incorporates all the amendments to the Act as at 25 February 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Sugar Loaf Islands Marine Protected Area Act 1991\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][26] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][27] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][27] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][28] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][28] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][29] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][29] and [17E][30] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -274,7 +274,9 @@ An Act to provide for the setting up and management of the Sugar Loaf Islands Ma
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Sugar Loaf Islands Marine Protected Area Amendment Act 2012][31] (2012 No 19)
+*   [Sugar Loaf Islands Marine Protected Area Amendment Act 2012][32] (2012 No 19)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][23]
     
     Conservation Amendment Act (No 2) 1996 (1996 No 14): section 11
     
@@ -305,12 +307,13 @@ An Act to provide for the setting up and management of the Sugar Loaf Islands Ma
 [20]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM230264
 [21]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM277234
 [22]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM4015107
-[23]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM106041
-[24]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM106047
-[25]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM107200
-[26]: http://www.pco.parliament.govt.nz/reprints/
-[27]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195439
-[28]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[29]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195468
-[30]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195470
-[31]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM4015102
+[23]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM3360714
+[24]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM106041
+[25]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM106047
+[26]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM107200
+[27]: http://www.pco.parliament.govt.nz/reprints/
+[28]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195439
+[29]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[30]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195468
+[31]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM195470
+[32]: http://www.legislation.govt.nz/act/public/1991/0008/latest/link.aspx?id=DLM4015102
