@@ -1,7 +1,7 @@
 Reprint  
-as at 17 September 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Co-operative Companies Act 1996Public Act1996 No 24
 
@@ -25,137 +25,137 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
 [Part 1][3]  
 [Interpretation][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Meaning of co-operative activity][5]
+[3][5][][5][Meaning of co-operative activity][5]
 
-[4][6] [Meaning of transacting shareholder][6]
+[4][6][][6][Meaning of transacting shareholder][6]
 
-[5][7] [Act to bind the Crown][7]
+[5][7][][7][Act to bind the Crown][7]
 
 [Part 2][8]  
 [Co-operative companies][8]
 
 [Registration of co-operative companies][9]
 
-[6][10] [Registration of co-operative companies][10]
+[6][10][][10][Registration of co-operative companies][10]
 
-[7][11] [Simultaneous registration under Companies Act 1993 and this Act][11]
+[7][11][][11][Simultaneous registration under Companies Act 1993 and this Act][11]
 
-[8][12] [Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies][12]
+[8][12][][12][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing co-operative companies][12]
 
-[9][13] [Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies][13]
+[9][13][][13][Simultaneous registration under this Act and reregistration under Companies Act 1993 of existing companies][13]
 
-[10][14] [Annual resolution by directors of co-operative company][14]
+[10][14][][14][Annual resolution by directors of co-operative company][14]
 
-[11][15] [Registrar may cancel registration][15]
+[11][15][][15][Registrar may cancel registration][15]
 
-[12][16] [Cancellation of registration at request of company][16]
+[12][16][][16][Cancellation of registration at request of company][16]
 
-[13][17] [Provisions relating to cancellation of registration][17]
+[13][17][][17][Provisions relating to cancellation of registration][17]
 
-[14][18] [Use of word co-operative in name of company][18]
+[14][18][][18][Use of word co-operative in name of company][18]
 
 [Nominal value shares][19]
 
-[15][20] [Shares may have nominal value][20]
+[15][20][][20][Shares may have nominal value][20]
 
-[16][21] [Consideration for issue of shares having nominal value][21]
+[16][21][][21][Consideration for issue of shares having nominal value][21]
 
-[17][22] [Issue of nominal value shares from reserves][22]
+[17][22][][22][Issue of nominal value shares from reserves][22]
 
-[18][23] [Surrender of shares having nominal value][23]
+[18][23][][23][Surrender of shares having nominal value][23]
 
-[19][24] [Application of Companies Act 1993 to surrender of shares][24]
+[19][24][][24][Application of Companies Act 1993 to surrender of shares][24]
 
-[20][25] [Surrender of shares at option of shareholder][25]
+[20][25][][25][Surrender of shares at option of shareholder][25]
 
-[21][26] [Surrender of shares at option of company][26]
+[21][26][][26][Surrender of shares at option of company][26]
 
-[22][27] [Consideration for surrender of shares][27]
+[22][27][][27][Consideration for surrender of shares][27]
 
-[23][28] [Cancellation of shares surrendered][28]
+[23][28][][28][Cancellation of shares surrendered][28]
 
-[24][29] [Co-operative company may hold its own shares][29]
+[24][29][][29][Co-operative company may hold its own shares][29]
 
-[25][30] [Rights and obligations of surrendered shares company holds in itself suspended][30]
+[25][30][][30][Rights and obligations of surrendered shares company holds in itself suspended][30]
 
-[26][31] [Reissue of surrendered shares company holds in itself][31]
+[26][31][][31][Reissue of surrendered shares company holds in itself][31]
 
-[27][32] [Acquisition and redemption of shares under Companies Act 1993 not affected][32]
+[27][32][][32][Acquisition and redemption of shares under Companies Act 1993 not affected][32]
 
 [Forfeiture of shares][33]
 
-[28][34] [Forfeiture of shares of untraceable shareholders][34]
+[28][34][][34][Forfeiture of shares of untraceable shareholders][34]
 
 [Application of Companies Act 1993 and Securities Act 1978][35]
 
-[29][36] [Modified application of Companies Act 1993][36]
+[29][36][][36][Modified application of Companies Act 1993][36]
 
-[29A][37] [Modification of application of Securities Act 1978][37]
+[29A][37][][37][Modification of application of Securities Act 1978][37]
 
-[30][38] [Rebates to shareholders][38]
+[30][38][][38][Rebates to shareholders][38]
 
-[31][39] [Shares in lieu of rebates][39]
+[31][39][][39][Shares in lieu of rebates][39]
 
-[32][40] [Exemption from sections 209 to 209B of Companies Act 1993][40]
+[32][40][][40][Exemption from sections 209 to 209B of Companies Act 1993][40]
 
-[33][41] [Voting rights of shareholders][41]
+[33][41][][41][Voting rights of shareholders][41]
 
 [Part 3][42]  
 [Special provisions applying to co-operative dairy companies][42]
 
-[34][43] [Interpretation][43]
+[34][43][][43][Interpretation][43]
 
-[35][44] [Registration of co-operative dairy companies][44]
+[35][44][][44][Registration of co-operative dairy companies][44]
 
-[36][45] [Simultaneous registration under Companies Act 1993 and this Part][45]
+[36][45][][45][Simultaneous registration under Companies Act 1993 and this Part][45]
 
-[37][46] [Simultaneous registration of existing co-operative companies][46]
+[37][46][][46][Simultaneous registration of existing co-operative companies][46]
 
-[38][47] [Registration of existing companies][47]
+[38][47][][47][Registration of existing companies][47]
 
-[39][48] [Suppliers to be shareholders][48]
+[39][48][][48][Suppliers to be shareholders][48]
 
-[40][49] [Compulsory issue of shares][49]
+[40][49][][49][Compulsory issue of shares][49]
 
-[41][50] [Limit on number of additional shares][50]
+[41][50][][50][Limit on number of additional shares][50]
 
-[42][51] [Exception to section 41][51]
+[42][51][][51][Exception to section 41][51]
 
-[43][52] [Supplying shareholder may surrender shares][52]
+[43][52][][52][Supplying shareholder may surrender shares][52]
 
-[44][53] [Transfer of shares to sharemilkers][53]
+[44][53][][53][Transfer of shares to sharemilkers][53]
 
-[45][54] [Alteration of terms of contract contained in constitution][54]
+[45][54][][54][Alteration of terms of contract contained in constitution][54]
 
-[46][55] [Application of Part 2 to co-operative dairy companies][55]
+[46][55][][55][Application of Part 2 to co-operative dairy companies][55]
 
 [Part 4][56]  
 [Miscellaneous provisions][56]
 
 [Appeals][57]
 
-[47][58] [Appeals from Registrar's decisions][58]
+[47][58][][58][Appeals from Registrar's decisions][58]
 
 [Regulations][59]
 
-[48][60] [Regulations][60]
+[48][60][][60][Regulations][60]
 
 [Repeals][61]
 
-[49][62] [Repeals and revocations][62]
+[49][62][][62][Repeals and revocations][62]
 
-[50][63] [Savings][63]
+[50][63][][63][Savings][63]
 
 [Amendments to other Acts][64]
 
-[51][65] [Amendments to other Acts][65]
+[51][65][][65][Amendments to other Acts][65]
 
 [Schedule 1][66]  
 [Enactments repealed][66]
@@ -440,9 +440,9 @@ Co-operative companies
     
     (7) Subsections (2) and (3) apply in relation to a resolution referred to in subsection (6)(a).
     
-    (8) Every director who, without reasonable excuse, fails to comply with subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (8) Every director who, without reasonable excuse, fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
-    (9) If the board of a company fails to comply with subsection (6), every director of the company commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (9) If the board of a company fails to comply with subsection (6), every director of the company commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     (10) It is a defence to a director charged with an offence under subsection (9) if the director proves that---
         
@@ -452,7 +452,9 @@ Co-operative companies
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the board complied with the requirements of that subsection.
     
+    Section 10(8): amended, on 1 July 2013, by [section 413][76] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 10(9): amended, on 1 July 2013, by [section 413][76] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Registrar may cancel registration
     
@@ -518,7 +520,7 @@ Co-operative companies
     
     *   (b) does not affect rights or obligations of the company or legal proceedings by or against the company, and legal proceedings that might have been continued or commenced against the company under its former name may be continued or commenced against it under its new name.
     
-    (4) If the Registrar believes on reasonable grounds that, if the name of the company were altered under subsection (2), the name would not be a name that could be reserved under [section 22][76] of the Companies Act 1993, the Registrar may serve notice on the company under [section 24][77] of that Act to change its name and the provisions of that section shall apply accordingly.
+    (4) If the Registrar believes on reasonable grounds that, if the name of the company were altered under subsection (2), the name would not be a name that could be reserved under [section 22][77] of the Companies Act 1993, the Registrar may serve notice on the company under [section 24][78] of that Act to change its name and the provisions of that section shall apply accordingly.
     
     (5) In this section, the word _co-operative_ includes any abbreviation of that word.
     
@@ -528,7 +530,7 @@ Co-operative companies
 
 ##### 15 Shares may have nominal value
     
-*   (1) Notwithstanding [section 38][78] of the Companies Act 1993, shares in a company registered under this Act may have a nominal value and different classes of shares may have different nominal values.
+*   (1) Notwithstanding [section 38][79] of the Companies Act 1993, shares in a company registered under this Act may have a nominal value and different classes of shares may have different nominal values.
     
     (2) The nominal value of shares or any class of shares in a company registered under this Act shall be specified in the constitution of the company.
     
@@ -574,17 +576,19 @@ Co-operative companies
     
     (4) The directors who vote in favour of the surrender must sign a certificate stating that, in their opinion, the company will immediately after the surrender, satisfy the solvency test and the grounds for that opinion.
     
-    (5) If, after the passing of the resolution and before the shares are surrendered, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the surrender, satisfy the solvency test, any surrender of the shares is to be treated as a distribution that is deemed not to have been authorised and the provisions of subsections (3) and (5) of [section 56][79] of the Companies Act 1993 shall apply with such modifications as may be necessary.
+    (5) If, after the passing of the resolution and before the shares are surrendered, the board ceases to be satisfied on reasonable grounds that the company will, immediately after the surrender, satisfy the solvency test, any surrender of the shares is to be treated as a distribution that is deemed not to have been authorised and the provisions of subsections (3) and (5) of [section 56][80] of the Companies Act 1993 shall apply with such modifications as may be necessary.
     
-    (6) Every director who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (6) Every director who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
+    
+    Section 18(6): amended, on 1 July 2013, by [section 413][76] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Application of Companies Act 1993 to surrender of shares
     
-*   (1) [Section 52(4)][80] of the Companies Act 1993 shall apply to a surrender under this Act of shares having a nominal value.
+*   (1) [Section 52(4)][81] of the Companies Act 1993 shall apply to a surrender under this Act of shares having a nominal value.
     
-    (2) [Section 56][79] of the Companies Act 1993 shall apply, with such modifications as may be necessary, to the surrender under this Act of shares having a nominal value as if the surrender were a distribution.
+    (2) [Section 56][80] of the Companies Act 1993 shall apply, with such modifications as may be necessary, to the surrender under this Act of shares having a nominal value as if the surrender were a distribution.
     
-    (3) Nothing in [sections 58 to 67][81] and [68 to 75][82] of the Companies Act 1993 (which relate to the acquisition by a company of its own shares) applies to the surrender under this Act of shares having a nominal value.
+    (3) Nothing in [sections 58 to 67][82] and [68 to 75][83] of the Companies Act 1993 (which relate to the acquisition by a company of its own shares) applies to the surrender under this Act of shares having a nominal value.
 
 ##### 20 Surrender of shares at option of shareholder
     
@@ -630,9 +634,11 @@ Co-operative companies
     
     (6) The surrender of shares under this section takes effect at the expiration of a month after notice in writing requiring the surrender is given to the shareholder.
     
-    (7) Every director who fails to comply with subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (7) Every director who fails to comply with subsection (3) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
     Compare: 1956 No 18 s 8
+    
+    Section 21(7): amended, on 1 July 2013, by [section 413][76] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Consideration for surrender of shares
     
@@ -664,11 +670,11 @@ Co-operative companies
     
     *   (b) the share may be reissued as a share having a nominal value in accordance with this Act and the Companies Act 1993 or, in any other case, may be reissued in accordance with the [Companies Act 1993][69].
     
-    Compare: 1993 No 105 [s 66(1), (3)][83]
+    Compare: 1993 No 105 [s 66(1), (3)][84]
 
 ##### 24 Co-operative company may hold its own shares
     
-*   (1) For the purposes of this Act and the [Income Tax Act 2007][84], shares in a company registered under this Act that are surrendered under [section 20][25] or [section 21][26] shall not be deemed to be cancelled under [section 23][28] if---
+*   (1) For the purposes of this Act and the [Income Tax Act 2007][85], shares in a company registered under this Act that are surrendered under [section 20][25] or [section 21][26] shall not be deemed to be cancelled under [section 23][28] if---
         
     *   (a) the constitution of the company expressly permits the company to hold its own shares; and
     
@@ -690,9 +696,9 @@ Co-operative companies
     
     (3) A share that a company holds in itself under subsection (2) may be cancelled by the board of the company resolving that the share is cancelled; and the share shall be deemed to be cancelled on the making of such a resolution.
     
-    Compare: 1993 No 105 [s 67A][85]; 1994 No 82 s 3
+    Compare: 1993 No 105 [s 67A][86]; 1994 No 82 s 3
     
-    Section 24(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][86] of the Income Tax Act 2007 (2007 No 97).
+    Section 24(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][87] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 25 Rights and obligations of surrendered shares company holds in itself suspended
     
@@ -704,19 +710,19 @@ Co-operative companies
     
     *   (b) make or receive any distribution authorised or payable in respect of the share.
     
-    Compare: 1993 No 105 [s 67B][87]; 1994 No 82 s 3
+    Compare: 1993 No 105 [s 67B][88]; 1994 No 82 s 3
 
 ##### 26 Reissue of surrendered shares company holds in itself
     
-*   (1) [Section 16][21] shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under [section 42][88] or [section 44][89] of the Companies Act 1993\.
+*   (1) [Section 16][21] shall apply to the transfer of a share held by a company in itself as if the transfer were the issue of the share under [section 42][89] or [section 44][90] of the Companies Act 1993\.
     
     (2) Subject to subsection (1), the transfer of a share held by a company in itself shall not be subject to any provisions in this Act, the [Companies Act 1993][69], or the company's constitution relating to the issue of shares, except to the extent the company's constitution expressly applies those provisions.
     
-    (3) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the [Takeovers Act 1993][90] or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
+    (3) A company shall not grant an option to acquire a share it holds in itself or enter into any obligations to transfer such a share where the company has received notice in writing of a takeover offer made under the takeovers code in force under the [Takeovers Act 1993][91] or, in the case of a company that is a party to a listing agreement with a stock exchange, where the exchange makes a public release to the sharemarket that a takeover offer for more than 20% of the company's shares is to be made.
     
-    Compare: 1993 No 105 [s 67C][91]; 1994 No 82 s 3
+    Compare: 1993 No 105 [s 67C][92]; 1994 No 82 s 3
     
-    Section 26(3): amended, on 25 October 2006, by [section 30(2)][92] of the Takeovers Amendment Act 2006 (2006 No 48).
+    Section 26(3): amended, on 25 October 2006, by [section 30(2)][93] of the Takeovers Amendment Act 2006 (2006 No 48).
 
 ##### 27 Acquisition and redemption of shares under Companies Act 1993 not affected
     
@@ -766,25 +772,25 @@ Co-operative companies
 
 #### Application of Companies Act 1993 and Securities Act 1978
     
-*   Heading: amended, on 15 April 2004, by [section 3][93] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
+*   Heading: amended, on 15 April 2004, by [section 3][94] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
 
 ##### 29 Modified application of Companies Act 1993
     
 *   The application of the [Companies Act 1993][69] to a company registered under this Act is subject to the following modifications:
         
-    *   (a) the reference in [section 43(1)][94] and [section 47(5)][95] to 10 working days shall, in the case of any issue of shares having a nominal value, be construed as a reference to 20 working days:
+    *   (a) the reference in [section 43(1)][95] and [section 47(5)][96] to 10 working days shall, in the case of any issue of shares having a nominal value, be construed as a reference to 20 working days:
     
-    *   (b) [section 50][96] does not apply in relation to the issue of shares having a nominal value if the shares are, in accordance with the constitution of the company, issued to a person who already holds shares in the company having a nominal value:
+    *   (b) [section 50][97] does not apply in relation to the issue of shares having a nominal value if the shares are, in accordance with the constitution of the company, issued to a person who already holds shares in the company having a nominal value:
     
-    *   (c) for the purposes of [section 55(2)(b)][97], transacting shareholders are shareholders of the same class:
+    *   (c) for the purposes of [section 55(2)(b)][98], transacting shareholders are shareholders of the same class:
     
-    *   (d) [section 55][97] does not apply to discounts offered to transacting shareholders in respect of goods or services if discounts are, or are likely to be, offered in respect of like goods or services in the ordinary course of business by other persons:
+    *   (d) [section 55][98] does not apply to discounts offered to transacting shareholders in respect of goods or services if discounts are, or are likely to be, offered in respect of like goods or services in the ordinary course of business by other persons:
     
-    *   (e) [section 95][98] shall not apply:
+    *   (e) [section 95][99] shall not apply:
     
-    *   (f) where the board of a company agrees, under [section 111(2)(a)][99], to the purchase of shares having a nominal value by the company, or arranges under section 111(2)(b) for some other person to agree to purchase the shares, as the case may be, not being an agreement or arrangement that results from an alteration of the constitution of the company removing a power to register as a co-operative company under this Act, the price for the shares shall be determined in accordance with [section 22][27] of this Act and [sections 112 to 113][100] shall not apply:
+    *   (f) where the board of a company agrees, under [section 111(2)(a)][100], to the purchase of shares having a nominal value by the company, or arranges under section 111(2)(b) for some other person to agree to purchase the shares, as the case may be, not being an agreement or arrangement that results from an alteration of the constitution of the company removing a power to register as a co-operative company under this Act, the price for the shares shall be determined in accordance with [section 22][27] of this Act and [sections 112 to 113][101] shall not apply:
     
-    *   (g) [sections 140][101] and [141][102] shall not apply in relation to a transaction or proposed transaction in the ordinary course of business between---
+    *   (g) [sections 140][102] and [141][103] shall not apply in relation to a transaction or proposed transaction in the ordinary course of business between---
             
         *   (i) the company and a director of the company in his or her capacity as a transacting shareholder or as a trustee for a transacting shareholder; or
         
@@ -792,35 +798,35 @@ Co-operative companies
         
         
     
-    *   (h) [section 149][103] shall not apply in relation to the acquisition or disposition of shares in a company registered under this Act by a director of the company in the ordinary course of business and in his or her capacity as a transacting shareholder of the company:
+    *   (h) [section 149][104] shall not apply in relation to the acquisition or disposition of shares in a company registered under this Act by a director of the company in the ordinary course of business and in his or her capacity as a transacting shareholder of the company:
     
-    *   (i) [section 175][104] shall not apply in relation to any act or omission of the company that is required or authorised by this Act:
+    *   (i) [section 175][105] shall not apply in relation to any act or omission of the company that is required or authorised by this Act:
     
-    *   (j) the reference in [section 209(1)][105] to 20 working days must be construed as a reference to 10 working days:
+    *   (j) the reference in [section 209(1)][106] to 20 working days must be construed as a reference to 10 working days:
     
-    *   (k) except in the case of a shareholder, other than a transacting shareholder, who gives notice in writing to the company that the shareholder wishes to be sent copies of the annual reports of the company under [section 209][105], the reference in that section to every shareholder must be construed as a reference to every transacting shareholder:
+    *   (k) except in the case of a shareholder, other than a transacting shareholder, who gives notice in writing to the company that the shareholder wishes to be sent copies of the annual reports of the company under [section 209][106], the reference in that section to every shareholder must be construed as a reference to every transacting shareholder:
     
-    *   (l) [section 216(1)][106] shall apply as if for paragraph (b), there were substituted the following paragraph:
+    *   (l) [section 216(1)][107] shall apply as if for paragraph (b), there were substituted the following paragraph:
     
     *   "(b) copies of written communications to all shareholders or to all holders of a class of shares during the preceding 10 years in their capacity as shareholders, including annual reports, financial statements, and group financial statements:":
     
-    *   (m) in the case of a company that is registered under [Part 3][42] of this Act, [section 110][107] shall apply subject to [section 40][49] of this Act.
+    *   (m) in the case of a company that is registered under [Part 3][42] of this Act, [section 110][108] shall apply subject to [section 40][49] of this Act.
     
-    Section 29(a): amended, on 15 April 2004, by [section 4][108] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
+    Section 29(a): amended, on 15 April 2004, by [section 4][109] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
     
-    Section 29(f): amended, on 17 September 2008, by [section 12(2)][109] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
+    Section 29(f): amended, on 17 September 2008, by [section 12(2)][110] of the Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69).
     
-    Section 29(j): substituted, on 18 June 2007, by [section 17][110] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 29(j): substituted, on 18 June 2007, by [section 17][111] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 29(k): substituted, on 18 June 2007, by [section 17][110] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 29(k): substituted, on 18 June 2007, by [section 17][111] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 29A Modification of application of Securities Act 1978
     
-*   (1) [Section 54][111] of the Securities Act 1978 does not apply in respect of any equity security offered by a co-operative company to any person who is or is to be a transacting shareholder.
+*   (1) [Section 54][112] of the Securities Act 1978 does not apply in respect of any equity security offered by a co-operative company to any person who is or is to be a transacting shareholder.
     
-    (2) In this section, _equity security_ and _offered_ have the same meanings as in the [Securities Act 1978][112].
+    (2) In this section, _equity security_ and _offered_ have the same meanings as in the [Securities Act 1978][113].
     
-    Section 29A: inserted, on 15 April 2004, by [section 5][113] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
+    Section 29A: inserted, on 15 April 2004, by [section 5][114] of the Co-operative Companies Amendment Act 2004 (2004 No 25).
 
 ##### 30 Rebates to shareholders
     
@@ -834,7 +840,7 @@ Co-operative companies
     
     (2) For the purposes of subsection (1), rebates may be calculated by reference to the number or value or volume of, or the profit derived by the company from, transactions by the shareholders with the company.
     
-    (3) A rebate to which subsection (1) applies that is a distribution may be given by the company notwithstanding [sections 36(1)(b)][114] and [53(2)(b)][115] of the Companies Act 1993\.
+    (3) A rebate to which subsection (1) applies that is a distribution may be given by the company notwithstanding [sections 36(1)(b)][115] and [53(2)(b)][116] of the Companies Act 1993\.
 
 ##### 31 Shares in lieu of rebates
     
@@ -850,15 +856,15 @@ Co-operative companies
 
 ##### 32 Exemption from sections 209 to 209B of Companies Act 1993
     
-*   The Governor-General may from time to time, by Order in Council, and on such terms and conditions as may be specified in the order, exempt a company registered under this Act from compliance with the provisions of [sections 209 to 209B][105] of, and paragraph (i) of [Schedule 4][116] of, the Companies Act 1993\.
+*   The Governor-General may from time to time, by Order in Council, and on such terms and conditions as may be specified in the order, exempt a company registered under this Act from compliance with the provisions of [sections 209 to 209B][106] of, and paragraph (i) of [Schedule 4][117] of, the Companies Act 1993\.
     
-    Section 32 heading: amended, on 18 June 2007, by [section 17][110] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 32 heading: amended, on 18 June 2007, by [section 17][111] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 32: amended, on 18 June 2007, by [section 17][110] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 32: amended, on 18 June 2007, by [section 17][111] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
 
 ##### 33 Voting rights of shareholders
     
-*   Notwithstanding [section 36][114] of the Companies Act 1993, unless the constitution of the company expressly provides otherwise, only transacting shareholders of a company registered under this Act are entitled to vote on a resolution.
+*   Notwithstanding [section 36][115] of the Companies Act 1993, unless the constitution of the company expressly provides otherwise, only transacting shareholders of a company registered under this Act are entitled to vote on a resolution.
 
 ## Part 3  
 Special provisions applying to co-operative dairy companies
@@ -873,7 +879,7 @@ Special provisions applying to co-operative dairy companies
     
     _supplying shareholder_, in relation to a co-operative dairy company, means a transacting shareholder who supplies the company, pursuant to the constitution of the company or an agreement with the company, with such quantity of milk or milksolids as the company may from time to time require; and includes a sharemilker to whom shares have been transferred in accordance with [section 44][53].
     
-    Section 34: substituted, on 18 December 1998, by [section 2][117] of the Co-operative Companies Amendment Act 1998 (1998 No 117).
+    Section 34: substituted, on 18 December 1998, by [section 2][118] of the Co-operative Companies Amendment Act 1998 (1998 No 117).
 
 ##### 35 Registration of co-operative dairy companies
     
@@ -969,7 +975,7 @@ Special provisions applying to co-operative dairy companies
     
     (6) However, the terms and conditions referred to in subsections (4) or (5) do not apply if they would defeat the operation of subsection (1).
     
-    Section 44: substituted, on 26 October 2001, by [section 160(2)][118] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
+    Section 44: substituted, on 26 October 2001, by [section 160(2)][119] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
 
 ##### 45 Alteration of terms of contract contained in constitution
     
@@ -994,7 +1000,7 @@ Miscellaneous provisions
     
     (2) On hearing the appeal, the court may approve the Registrar's act or decision or may give such directions or make such determination in the matter as the court thinks fit.
     
-    Compare: 1993 No 105 [s 370][119]
+    Compare: 1993 No 105 [s 370][120]
 
 #### Regulations
 
@@ -1165,7 +1171,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][120]._
+_Amendment(s) incorporated in the [Act(s)][121]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
@@ -1173,15 +1179,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Industrial and Provident Societies Act 1908 (1908 No 81) (RS Vol 7, p 407)
 
-_Amendment(s) incorporated in the [Act(s)][121]._
+_Amendment(s) incorporated in the [Act(s)][122]._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 33, p 587)
 
-_Amendment(s) incorporated in the [Act(s)][112]._
+_Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### Taxation Review Authorities Act 1994 (1994 No 165)
 
-_Amendment(s) incorporated in the [Act(s)][122]._
+_Amendment(s) incorporated in the [Act(s)][123]._
 
 ---
 
@@ -1193,7 +1199,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Dairy Industry Restructuring Act 2001][123].
+*   This Act is the [Dairy Industry Restructuring Act 2001][124].
 
 ## Part 1  
 Preliminary provisions
@@ -1271,23 +1277,23 @@ Restructuring and regulation of dairy industry
 
 ###### 1 General
     
-*   This is a reprint of the Co-operative Companies Act 1996\. The reprint incorporates all the amendments to the Act as at 17 September 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Co-operative Companies Act 1996\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][124] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][125] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][125] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][126] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][126] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][127] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][127] and [17E][128] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][128] and [17E][129] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1318,19 +1324,21 @@ Restructuring and regulation of dairy industry
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69): [section 12][109]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][76]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][86]
+    Companies (Minority Buy-out Rights) Amendment Act 2008 (2008 No 69): [section 12][110]
     
-    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][110]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][87]
     
-    Takeovers Amendment Act 2006 (2006 No 48): [section 30(2)][92]
+    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][111]
     
-    [Co-operative Companies Amendment Act 2004][129] (2004 No 25)
+    Takeovers Amendment Act 2006 (2006 No 48): [section 30(2)][93]
     
-    Dairy Industry Restructuring Act 2001 (2001 No 51): [section 160(2)][118]
+    [Co-operative Companies Amendment Act 2004][130] (2004 No 25)
     
-    [Co-operative Companies Amendment Act 1998][130] (1998 No 117)
+    Dairy Industry Restructuring Act 2001 (2001 No 51): [section 160(2)][119]
+    
+    [Co-operative Companies Amendment Act 1998][131] (1998 No 117)
     
     [Co-operative Companies Act Commencement Order 1996][70] (SR 1996/211)
 
@@ -1412,58 +1420,59 @@ Restructuring and regulation of dairy industry
 [73]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320111
 [74]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM327492
 [75]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321105
-[76]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320125
-[77]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320128
-[78]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320149
-[79]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320176
-[80]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320170
-[81]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320179
-[82]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320409
-[83]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320196
-[84]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1512300
-[85]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320401
-[86]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1523176
-[87]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320403
-[88]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320156
-[89]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320159
-[90]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM325508
-[91]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320405
-[92]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM384843
-[93]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244161
-[94]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320157
-[95]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320164
-[96]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320167
-[97]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320175
-[98]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320457
-[99]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320497
-[100]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320498
-[101]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320673
-[102]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320676
-[103]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320686
-[104]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320836
-[105]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321107
-[106]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321137
-[107]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320496
-[108]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244162
-[109]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1036538
-[110]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM392177
-[111]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM29133
-[112]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM25999
-[113]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244163
-[114]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320143
-[115]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320173
-[116]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM323519
-[117]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18088
-[118]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM110102
-[119]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM323226
-[120]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM59731
-[121]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM144405
-[122]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM347443
-[123]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM106750
-[124]: http://www.pco.parliament.govt.nz/reprints/
-[125]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195439
-[126]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[127]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195468
-[128]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195470
-[129]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244155
-[130]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18082
+[76]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM3360714
+[77]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320125
+[78]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320128
+[79]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320149
+[80]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320176
+[81]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320170
+[82]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320179
+[83]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320409
+[84]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320196
+[85]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1512300
+[86]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320401
+[87]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1523176
+[88]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320403
+[89]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320156
+[90]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320159
+[91]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM325508
+[92]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320405
+[93]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM384843
+[94]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244161
+[95]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320157
+[96]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320164
+[97]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320167
+[98]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320175
+[99]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320457
+[100]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320497
+[101]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320498
+[102]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320673
+[103]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320676
+[104]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320686
+[105]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320836
+[106]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321107
+[107]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM321137
+[108]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320496
+[109]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244162
+[110]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM1036538
+[111]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM392177
+[112]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM29133
+[113]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM25999
+[114]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244163
+[115]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320143
+[116]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM320173
+[117]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM323519
+[118]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18088
+[119]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM110102
+[120]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM323226
+[121]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM59731
+[122]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM144405
+[123]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM347443
+[124]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM106750
+[125]: http://www.pco.parliament.govt.nz/reprints/
+[126]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195439
+[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[128]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195468
+[129]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM195470
+[130]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM244155
+[131]: http://www.legislation.govt.nz/act/public/1996/0024/latest/link.aspx?id=DLM18082
