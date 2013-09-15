@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,185 +25,185 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Application of Act][5]
+[4][5][][5][Application of Act][5]
 
-[5][6] [General objects of Act][6]
+[5][6][][6][General objects of Act][6]
 
-[6][7] [Meaning of operating fraudulently or recklessly][7]
+[6][7][][7][Meaning of operating fraudulently or recklessly][7]
 
-[7][8] [No obligation on Registrar or FMA to supervise][8]
+[7][8][][8][No obligation on Registrar or FMA to supervise][8]
 
-[8][9] [Consultation with Reserve Bank][9]
+[8][9][][9][Consultation with Reserve Bank][9]
 
 [Part 1][10]  
 [Supply of information by, and investigation of affairs of, corporations][10]
 
 [Power to request information][11]
 
-[9][12] [Registrar of Companies may require corporation or associated person to supply information][12]
+[9][12][][12][Registrar of Companies may require corporation or associated person to supply information][12]
 
-[10][13] [Requirement that information be audited][13]
+[10][13][][13][Requirement that information be audited][13]
 
-[11][14] [Disclosure of information to Registrar by statutory supervisor of retirement village][14]
+[11][14][][14][Disclosure of information to Registrar by statutory supervisor of retirement village][14]
 
-[12][15] [Trustee or statutory supervisor to inform corporation of intention to disclose][15] \[Repealed\]
+[12][15][][15][Trustee or statutory supervisor to inform corporation of intention to disclose][15] \[Repealed\]
 
-[13][16] [Disclosure of information to Registrar by auditors][16]
+[13][16][][16][Disclosure of information to Registrar by auditors][16]
 
-[14][17] [Registrar to inform corporation of intention to request information from auditor][17]
+[14][17][][17][Registrar to inform corporation of intention to request information from auditor][17]
 
-[15][18] [Protection of trustees, statutory supervisors, and auditors][18]
+[15][18][][18][Protection of trustees, statutory supervisors, and auditors][18]
 
-[16][19] [Terms of notices][19]
+[16][19][][19][Terms of notices][19]
 
 [Powers to obtain information and documents][20]
 
-[17][21] [Powers to obtain information and documents][21]
+[17][21][][21][Powers to obtain information and documents][21]
 
-[18][22] [Requirements on entering and searching premises][22]
+[18][22][][22][Requirements on entering and searching premises][22]
 
 [Investigations][23]
 
-[19][24] [Investigation of affairs of corporation][24]
+[19][24][][24][Investigation of affairs of corporation][24]
 
-[20][25] [Offence to hinder investigation, etc][25]
+[20][25][][25][Offence to hinder investigation, etc][25]
 
-[21][26] [Powers of person appointed to carry out investigation][26]
+[21][26][][26][Powers of person appointed to carry out investigation][26]
 
-[22][27] [Requirements to be complied with by person carrying out investigation][27]
+[22][27][][27][Requirements to be complied with by person carrying out investigation][27]
 
 [Miscellaneous][28]
 
-[23][29] [Confidentiality of information][29]
+[23][29][][29][Confidentiality of information][29]
 
-[24][30] [Procedure for obtaining warrants][30]
+[24][30][][30][Procedure for obtaining warrants][30]
 
-[25][31] [Effect of warrant][31]
+[25][31][][31][Effect of warrant][31]
 
-[26][32] [Effect of proceedings][32]
+[26][32][][32][Effect of proceedings][32]
 
-[27][33] [Effect of final decision that exercise of powers under section 17 unlawful][33]
+[27][33][][33][Effect of final decision that exercise of powers under section 17 unlawful][33]
 
-[28][34] [Effect of final decision that exercise of powers under sections 19 to 21 unlawful][34]
+[28][34][][34][Effect of final decision that exercise of powers under sections 19 to 21 unlawful][34]
 
-[29][35] [Saving for privileged communications][35]
+[29][35][][35][Saving for privileged communications][35]
 
 [Part 2][36]  
 [Corporations at risk][36]
 
-[30][37] [Registrar or FMA may declare corporation to be at risk][37]
+[30][37][][37][Registrar or FMA may declare corporation to be at risk][37]
 
-[31][38] [Obligation to consult with Registrar or FMA][38]
+[31][38][][38][Obligation to consult with Registrar or FMA][38]
 
-[32][39] [Power of Registrar or FMA to give advice and assistance][39]
+[32][39][][39][Power of Registrar or FMA to give advice and assistance][39]
 
-[33][40] [Power of Registrar or FMA to give directions to corporation declared to be at risk][40]
+[33][40][][40][Power of Registrar or FMA to give directions to corporation declared to be at risk][40]
 
-[34][41] [Period for which directions may apply][41]
+[34][41][][41][Period for which directions may apply][41]
 
-[35][42] [Offence to contravene directions, etc][42]
+[35][42][][42][Offence to contravene directions, etc][42]
 
-[36][43] [Offence to disclose that corporation declared to be at risk, etc][43]
+[36][43][][43][Offence to disclose that corporation declared to be at risk, etc][43]
 
-[37][44] [Miscellaneous provisions relating to notices][44]
+[37][44][][44][Miscellaneous provisions relating to notices][44]
 
 [Part 3][45]  
 [Statutory management][45]
 
-[38][46] [Statutory management of corporations and associated persons][46]
+[38][46][][46][Statutory management of corporations and associated persons][46]
 
-[39][47] [Grounds on which corporation can be declared to be subject to statutory management][47]
+[39][47][][47][Grounds on which corporation can be declared to be subject to statutory management][47]
 
-[40][48] [Grounds on which associated person can be declared to be subject to statutory management][48]
+[40][48][][48][Grounds on which associated person can be declared to be subject to statutory management][48]
 
 [Powers of statutory manager][49]
 
-[41][50] [Considerations affecting exercise of powers by statutory manager][50]
+[41][50][][50][Considerations affecting exercise of powers by statutory manager][50]
 
-[42][51] [Moratorium][51]
+[42][51][][51][Moratorium][51]
 
-[43][52] [Prohibition against removal of assets][52]
+[43][52][][52][Prohibition against removal of assets][52]
 
-[44][53] [Statutory manager may suspend payment of money owing][53]
+[44][53][][53][Statutory manager may suspend payment of money owing][53]
 
-[45][54] [Management of corporation to vest in statutory manager][54]
+[45][54][][54][Management of corporation to vest in statutory manager][54]
 
-[46][55] [Powers of statutory manager][55]
+[46][55][][55][Powers of statutory manager][55]
 
-[47][56] [Statutory manager empowered to carry on business of corporation][56]
+[47][56][][56][Statutory manager empowered to carry on business of corporation][56]
 
-[48][57] [Statutory manager empowered to pay creditors and compromise claims][57]
+[48][57][][57][Statutory manager empowered to pay creditors and compromise claims][57]
 
-[49][58] [Termination of contract of agency or service][58]
+[49][58][][58][Termination of contract of agency or service][58]
 
-[50][59] [Power of statutory manager to sell business undertaking of corporation][59]
+[50][59][][59][Power of statutory manager to sell business undertaking of corporation][59]
 
-[51][60] [Sale of property or assets subject to a security][60]
+[51][60][][60][Sale of property or assets subject to a security][60]
 
-[52][61] [Liquidation of corporations][61]
+[52][61][][61][Liquidation of corporations][61]
 
-[53][62] [Provisions applying where liabilities included in sale or other disposition of business undertaking of corporation][62]
+[53][62][][62][Provisions applying where liabilities included in sale or other disposition of business undertaking of corporation][62]
 
-[54][63] [Power to trace property improperly disposed of][63]
+[54][63][][63][Power to trace property improperly disposed of][63]
 
-[55][64] [Application of certain provisions of Companies Act 1993][64]
+[55][64][][64][Application of certain provisions of Companies Act 1993][64]
 
 [Miscellaneous][65]
 
-[56][66] [Application of this Part to joint statutory managers, associated persons, and subsidiaries][66]
+[56][66][][66][Application of this Part to joint statutory managers, associated persons, and subsidiaries][66]
 
-[57][67] [Termination of appointment of statutory manager][67]
+[57][67][][67][Termination of appointment of statutory manager][67]
 
-[58][68] [Statutory manager may apply to court for directions][68]
+[58][68][][68][Statutory manager may apply to court for directions][68]
 
-[59][69] [Court may confer additional powers on statutory manager][69]
+[59][69][][69][Court may confer additional powers on statutory manager][69]
 
-[59A][70] [Special considerations if insurer under Part 10 of Accident Compensation Act 2001 is subject to statutory management][70]
+[59A][70][][70][Special considerations if insurer under Part 10 of Accident Compensation Act 2001 is subject to statutory management][70]
 
-[60][71] [Advisory committees][71]
+[60][71][][71][Advisory committees][71]
 
-[61][72] [Prior winding up, liquidation, or receivership to cease][72]
+[61][72][][72][Prior winding up, liquidation, or receivership to cease][72]
 
-[62][73] [Termination of statutory management][73]
+[62][73][][73][Termination of statutory management][73]
 
 [Part 4][74]  
 [General][74]
 
-[63][75] [Indemnity][75]
+[63][75][][75][Indemnity][75]
 
-[64][76] [Corporation not entitled to be consulted about exercise of powers][76]
+[64][76][][76][Corporation not entitled to be consulted about exercise of powers][76]
 
-[65][77] [Expenses of statutory management][77]
+[65][77][][77][Expenses of statutory management][77]
 
-[66][78] [Advances to statutory managers and members of advisory committees][78]
+[66][78][][78][Advances to statutory managers and members of advisory committees][78]
 
-[67][79] [Duty to deliver books and property to statutory manager][79]
+[67][79][][79][Duty to deliver books and property to statutory manager][79]
 
-[68][80] [Offence to destroy, alter, or conceal records][80]
+[68][80][][80][Offence to destroy, alter, or conceal records][80]
 
-[69][81] [Duty to report offences][81]
+[69][81][][81][Duty to report offences][81]
 
-[70][82] [Penalties for offences][82]
+[70][82][][82][Penalties for offences][82]
 
-[71][83] [Application of other Acts][83]
+[71][83][][83][Application of other Acts][83]
 
-[71A][84] [Application of reporting requirements in other Acts][84]
+[71A][84][][84][Application of reporting requirements in other Acts][84]
 
-[72][85] [Proof of transactions][85]
+[72][85][][85][Proof of transactions][85]
 
-[73][86] [Repeal of Companies Special Investigations Act 1958][86]
+[73][86][][86][Repeal of Companies Special Investigations Act 1958][86]
 
-[74][87] [Savings][87]
+[74][87][][87][Savings][87]
 
-[75][88] [Procedure for applying this Act to company to which Companies Special Investigations Act 1958 applies][88]
+[75][88][][88][Procedure for applying this Act to company to which Companies Special Investigations Act 1958 applies][88]
 
-[76][89] [Act subject to application of Cape Town Convention and Aircraft Protocol][89]
+[76][89][][89][Act subject to application of Cape Town Convention and Aircraft Protocol][89]
 
 [Schedule][90]  
 [Enactments repealed][90]
@@ -1013,7 +1013,7 @@ Statutory management
     
 *   (1) Where a corporation is declared to be subject to statutory management, no person shall, except with the consent of the statutory manager, transfer, or remove from New Zealand, any property or assets of the corporation.
     
-    (2) Any person who, after a corporation is declared to be subject to statutory management, except with the consent of the statutory manager, transfers, or removes from New Zealand, any property or assets of the corporation, commits an offence and is liable on conviction on indictment,---
+    (2) Any person who, after a corporation is declared to be subject to statutory management, except with the consent of the statutory manager, transfers, or removes from New Zealand, any property or assets of the corporation, commits an offence and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000:
     
@@ -1022,6 +1022,8 @@ Statutory management
     (3) Nothing in subsection (2) shall prevent the issue of an injunction or the making of any order to prevent such property or assets being removed from New Zealand.
     
     Compare: 1964 No 134 s 38X; 1986 No 131 s 10
+    
+    Section 43(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Statutory manager may suspend payment of money owing
     
@@ -1031,15 +1033,15 @@ Statutory management
     
     (3) Nothing in subsection (1) shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
     
-    (4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with [section 310C][116] of the Companies Act 1993 or [section 257][117] of the Insolvency Act 2006 or [section 156T][118] of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+    (4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with [section 310C][117] of the Companies Act 1993 or [section 257][118] of the Insolvency Act 2006 or [section 156T][119] of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
     
     Compare: 1964 No 134 s 38Y; 1986 No 131 s 10
     
-    Section 44(3): amended, on 26 April 1999, by [section 4(1)][119] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 44(3): amended, on 26 April 1999, by [section 4(1)][120] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 44(4): added, on 26 April 1999, by [section 4(2)][119] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 44(4): added, on 26 April 1999, by [section 4(2)][120] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 44(4): amended, on 24 November 2009, by [section 14][120] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 44(4): amended, on 24 November 2009, by [section 14][121] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
     Section 44(4): amended, on 3 December 2007, by [section 445][113] of the Insolvency Act 2006 (2006 No 55).
     
@@ -1053,7 +1055,7 @@ Statutory management
     
     Compare: 1964 No 134 s 38Z; 1986 No 131 s 10
     
-    Section 45(1): amended, on 26 April 1999, by [section 5][121] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 45(1): amended, on 26 April 1999, by [section 5][122] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
 
 ##### 46 Powers of statutory manager
     
@@ -1067,7 +1069,7 @@ Statutory management
     
     *   (c) in the case of a corporation other than a body corporate, all the powers exercisable by its governing body.
     
-    (3) Without limiting subsection (1), a statutory manager of a corporation shall have and may exercise all of the powers conferred on a liquidator of a company by [section 269][122] of the Companies Act 1993 in the same manner as if the statutory manager of the corporation were the liquidator of a company being wound up under that Act, and all the provisions of that section shall apply in respect of the disclaimer of any property of the corporation as if that property was property of a company to which that section applied.
+    (3) Without limiting subsection (1), a statutory manager of a corporation shall have and may exercise all of the powers conferred on a liquidator of a company by [section 269][123] of the Companies Act 1993 in the same manner as if the statutory manager of the corporation were the liquidator of a company being wound up under that Act, and all the provisions of that section shall apply in respect of the disclaimer of any property of the corporation as if that property was property of a company to which that section applied.
     
     Compare: 1964 No 134 s 38AB; 1986 No 131 s 10
     
@@ -1141,17 +1143,17 @@ Statutory management
         
     *   (a) the costs of the statutory manager in selling or disposing of the property or assets; and
     
-    *   (b) claims in respect of preferential payments made under [section 312][123] of the Companies Act 1993 (as applied by [section 55][64]), in the case of---
+    *   (b) claims in respect of preferential payments made under [section 312][124] of the Companies Act 1993 (as applied by [section 55][64]), in the case of---
             
         *   (i) proceeds of an account receivable that is subject to a security interest that---
                 
-            *   (A) is not a purchase money security interest that has been perfected at the time specified in [section 74][124] of the Personal Property Securities Act 1999; and
+            *   (A) is not a purchase money security interest that has been perfected at the time specified in [section 74][125] of the Personal Property Securities Act 1999; and
             
-            *   (B) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][125] at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
+            *   (B) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][126] at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
             
             
         
-        *   (ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in [section 74][124] of the Personal Property Securities Act 1999\.
+        *   (ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in [section 74][125] of the Personal Property Securities Act 1999\.
         
         
     
@@ -1165,25 +1167,25 @@ Statutory management
         
     *   (a) is over all or any part of the corporation's accounts receivable and inventory or all or any part of either of them; and
     
-    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][124] of the Personal Property Securities Act 1999; and
+    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][125] of the Personal Property Securities Act 1999; and
     
-    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][125] at the time the corporation was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+    *   (c) is not a security interest that has been perfected under the [Personal Property Securities Act 1999][126] at the time the corporation was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
-    (7) In this section, _account receivable_, _inventory_, _new value_, _non-purchase money security interest_, _proceeds_, _purchase money security interest_, and _security interest_ have the same meanings as in the [Personal Property Securities Act 1999][125].
+    (7) In this section, _account receivable_, _inventory_, _new value_, _non-purchase money security interest_, _proceeds_, _purchase money security interest_, and _security interest_ have the same meanings as in the [Personal Property Securities Act 1999][126].
     
     Compare: 1964 No 134 s 38AE(5)--(9); 1986 No 131 s 10
     
-    Section 51(2): substituted, on 1 May 2002, by [section 191(1)][126] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 51(2): substituted, on 1 May 2002, by [section 191(1)][127] of the Personal Property Securities Act 1999 (1999 No 126).
     
     Section 51(2)(b)(i): substituted, on 3 December 2007, by [section 445][113] of the Insolvency Act 2006 (2006 No 55).
     
     Section 51(2)(b)(ii): substituted, on 3 December 2007, by [section 445][113] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 51(4): substituted, on 1 May 2002, by [section 191(1)][126] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 51(4): substituted, on 1 May 2002, by [section 191(1)][127] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 51(5): substituted, on 1 May 2002, by [section 191(1)][126] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 51(5): substituted, on 1 May 2002, by [section 191(1)][127] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 51(6): added, on 1 May 2002, by [section 191(1)][126] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 51(6): added, on 1 May 2002, by [section 191(1)][127] of the Personal Property Securities Act 1999 (1999 No 126).
     
     Section 51(6): amended, on 3 December 2007, by [section 445][113] of the Insolvency Act 2006 (2006 No 55).
     
@@ -1191,7 +1193,7 @@ Statutory management
     
     Section 51(6)(c): amended, on 3 December 2007, by [section 445][113] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 51(7): added, on 1 May 2002, by [section 191(1)][126] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 51(7): added, on 1 May 2002, by [section 191(1)][127] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 52 Liquidation of corporations
     
@@ -1207,7 +1209,7 @@ Statutory management
     
     (4) Nothing in this section limits or affects any other enactment which provides for the winding up or liquidation or dissolution of any body corporate or any class of body corporate.
     
-    Section 52: substituted, on 1 July 1994, by [section 3][127] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 52: substituted, on 1 July 1994, by [section 3][128] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
 
 ##### 53 Provisions applying where liabilities included in sale or other disposition of business undertaking of corporation
     
@@ -1243,11 +1245,11 @@ Statutory management
     
     Compare: 1958 No 23 s 23
     
-    Section 54(4): substituted, on 1 July 1994, by [section 4][128] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 54(4): substituted, on 1 July 1994, by [section 4][129] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
 
 ##### 55 Application of certain provisions of Companies Act 1993
     
-*   (1) [Sections 275][129], [292 to 301][130], [310G][131], [310I][132], and [312][123] of the Companies Act 1993 shall apply to a corporation that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if---
+*   (1) [Sections 275][130], [292 to 301][131], [310G][132], [310I][133], and [312][124] of the Companies Act 1993 shall apply to a corporation that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if---
         
     *   (a) the corporation was a company in liquidation under that Act; and
     
@@ -1255,19 +1257,19 @@ Statutory management
     
     *   (c) the date on which, and the time at which, the corporation became subject to statutory management was the date on which, and the time at which, the liquidation commenced.
     
-    (2) Nothing in [section 263][133] of the Companies Act 1993 shall apply to a corporation by reason of the application of [section 312][123] of that Act.
+    (2) Nothing in [section 263][134] of the Companies Act 1993 shall apply to a corporation by reason of the application of [section 312][124] of that Act.
     
-    (3) To avoid doubt, the reference in [section 275(4)][129] of the Companies Act 1993 to [clause 1(a)][134] of Schedule 7 of the Companies Act 1993 must be read as a reference to [section 65(1)][77] of this Act.
+    (3) To avoid doubt, the reference in [section 275(4)][130] of the Companies Act 1993 to [clause 1(a)][135] of Schedule 7 of the Companies Act 1993 must be read as a reference to [section 65(1)][77] of this Act.
     
-    Section 55: substituted, on 1 July 1994, by [section 5][135] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 55: substituted, on 1 July 1994, by [section 5][136] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
-    Section 55(1): amended, on 20 September 2007, by [section 4(1)][136] of the Corporations (Investigation and Management) Amendment Act 2007 (2007 No 50).
+    Section 55(1): amended, on 20 September 2007, by [section 4(1)][137] of the Corporations (Investigation and Management) Amendment Act 2007 (2007 No 50).
     
-    Section 55(1): amended, on 26 April 1999, by [section 6(1)][137] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 55(1): amended, on 26 April 1999, by [section 6(1)][138] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 55(1)(c): substituted, on 26 April 1999, by [section 6(2)][137] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 55(1)(c): substituted, on 26 April 1999, by [section 6(2)][138] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 55(3): added, on 20 September 2007, by [section 4(2)][136] of the Corporations (Investigation and Management) Amendment Act 2007 (2007 No 50).
+    Section 55(3): added, on 20 September 2007, by [section 4(2)][137] of the Corporations (Investigation and Management) Amendment Act 2007 (2007 No 50).
 
 #### Miscellaneous
 
@@ -1295,7 +1297,7 @@ Statutory management
     
     Compare: 1964 No 134 s 38AH; 1986 No 131 s 10
     
-    Section 57(1): amended, on 1 January 2002, by [section 70(1)][138] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 57(1): amended, on 1 January 2002, by [section 70(1)][139] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 58 Statutory manager may apply to court for directions
     
@@ -1313,17 +1315,17 @@ Statutory management
 
 ##### 59A Special considerations if insurer under Part 10 of Accident Compensation Act 2001 is subject to statutory management
     
-*   A statutory manager of an insurer to whom [Part 10][139] of the Accident Compensation Act 2001 applies must not---
+*   A statutory manager of an insurer to whom [Part 10][140] of the Accident Compensation Act 2001 applies must not---
         
     *   (a) exercise any power conferred by this Part if to do so would prejudice the need to ensure that arrangements are in place to ensure that the obligations of the insurer to provide statutory entitlements under that Act are met without interruption; or
     
-    *   (b) enter into a contract of sale under this Part unless another insurer or the Accident Compensation Corporation is liable to provide those statutory entitlements under [Part 10][139].
+    *   (b) enter into a contract of sale under this Part unless another insurer or the Accident Compensation Corporation is liable to provide those statutory entitlements under [Part 10][140].
     
-    Section 59A: substituted, on 1 April 2002, by [section 337(1)][140] of the Accident Compensation Act 2001 (2001 No 49).
+    Section 59A: substituted, on 1 April 2002, by [section 337(1)][141] of the Accident Compensation Act 2001 (2001 No 49).
     
-    Section 59A heading: amended, on 3 March 2010, pursuant to [section 5(1)(b)][141] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59A heading: amended, on 3 March 2010, pursuant to [section 5(1)(b)][142] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 59A: amended, on 3 March 2010, pursuant to [section 5(1)(b)][141] of the Accident Compensation Amendment Act 2010 (2010 No 1).
+    Section 59A: amended, on 3 March 2010, pursuant to [section 5(1)(b)][142] of the Accident Compensation Amendment Act 2010 (2010 No 1).
 
 ##### 60 Advisory committees
     
@@ -1349,7 +1351,7 @@ Statutory management
     
     Compare: 1964 No 134 s 38S; 1986 No 131 s 10
     
-    Section 60(6): amended, on 1 January 2002, by [section 70(1)][138] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 60(6): amended, on 1 January 2002, by [section 70(1)][139] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 61 Prior winding up, liquidation, or receivership to cease
     
@@ -1363,9 +1365,9 @@ Statutory management
     
     (3) Where any liquidation or receivership revives pursuant to subsection (2), the person specified in the order as such shall be the liquidator or receiver of that corporation, subsidiary, or associated person for the time being.
     
-    Section 61 heading: amended, on 1 July 1994, by [section 7][142] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 61 heading: amended, on 1 July 1994, by [section 7][143] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
-    Section 61(1): substituted, on 1 July 1994, by [section 7][142] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 61(1): substituted, on 1 July 1994, by [section 7][143] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
 
 ##### 62 Termination of statutory management
     
@@ -1405,31 +1407,31 @@ Statutory management
     
     Compare: 1964 No 134 s 38AJ; 1986 No 131 s 10
     
-    Section 62(1): amended, on 26 April 1999, by [section 7(a)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(1): amended, on 26 April 1999, by [section 7(a)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(2): substituted, on 1 July 1994, by [section 8(1)][144] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 62(2): substituted, on 1 July 1994, by [section 8(1)][145] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
-    Section 62(3): amended, on 1 July 1994, by [section 8(2)][144] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 62(3): amended, on 1 July 1994, by [section 8(2)][145] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
-    Section 62(3)(a): amended, on 26 April 1999, by [section 7(b)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(3)(a): amended, on 26 April 1999, by [section 7(b)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(3)(b): amended, on 26 April 1999, by [section 7(b)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(3)(b): amended, on 26 April 1999, by [section 7(b)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(3)(c): amended, on 26 April 1999, by [section 7(b)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(3)(c): amended, on 26 April 1999, by [section 7(b)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(4): amended, on 26 April 1999, by [section 7(c)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(4): amended, on 26 April 1999, by [section 7(c)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(4)(a): amended, on 26 April 1999, by [section 7(d)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(4)(a): amended, on 26 April 1999, by [section 7(d)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(4)(b): substituted, on 1 July 1994, by [section 8(3)][144] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 62(4)(b): substituted, on 1 July 1994, by [section 8(3)][145] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
-    Section 62(4)(b): amended, on 26 April 1999, by [section 7(d)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(4)(b): amended, on 26 April 1999, by [section 7(d)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(5)(a): amended, on 26 April 1999, by [section 7(e)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(5)(a): amended, on 26 April 1999, by [section 7(e)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(5)(b): amended, on 26 April 1999, by [section 7(f)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(5)(b): amended, on 26 April 1999, by [section 7(f)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
     
-    Section 62(5)(c): amended, on 26 April 1999, by [section 7(f)][143] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
+    Section 62(5)(c): amended, on 26 April 1999, by [section 7(f)][144] of the Corporations (Investigation and Management) Amendment Act 1999 (1999 No 20).
 
 ## Part 4  
 General
@@ -1446,7 +1448,7 @@ General
     
     Section 63(1): amended, on 1 May 2011, by [section 82][91] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 63(2): amended, on 25 January 2005, pursuant to [section 65R(3)][145] of the Public Finance Act 1989 (1989 No 44).
+    Section 63(2): amended, on 25 January 2005, pursuant to [section 65R(3)][146] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 64 Corporation not entitled to be consulted about exercise of powers
     
@@ -1474,15 +1476,15 @@ General
     
     Compare: 1958 No 23 s 30
     
-    Section 66(1): amended, on 25 January 2005, pursuant to [section 65R(3)][145] of the Public Finance Act 1989 (1989 No 44).
+    Section 66(1): amended, on 25 January 2005, pursuant to [section 65R(3)][146] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 66(2): amended, on 25 January 2005, pursuant to [section 65R(3)][145] of the Public Finance Act 1989 (1989 No 44).
+    Section 66(2): amended, on 25 January 2005, pursuant to [section 65R(3)][146] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 67 Duty to deliver books and property to statutory manager
     
 *   (1) It shall be the duty of all persons having possession and control of any books or records or documents or other property belonging to any corporation subject to statutory management, forthwith after it becomes subject to statutory management, to deliver or yield up possession of those books, records, documents, or other property to the statutory manager in respect of the corporation.
     
-    (2) If any person fails for 7 days to comply with the requirements of subsection (1), that person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day after the expiration of those 7 days during which the offence has continued.
+    (2) If any person fails for 7 days to comply with the requirements of subsection (1), that person commits an offence, and is liable on conviction to a fine not exceeding $5,000 and to a further fine not exceeding $100 for every day after the expiration of those 7 days during which the offence has continued.
     
     (3) If any person fails to comply with the requirements of subsection (1), the statutory manager may, at any time, certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may inquire into the matter and, after hearing any witnesses who may be produced against, or by, or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender in like manner as if the offender had been guilty of contempt of court.
     
@@ -1491,10 +1493,12 @@ General
     (5) The rights of any person who, in accordance with this section, delivers any property to the statutory manager in respect of the corporation shall continue, while the management continues, as if the person had not so delivered the property; and on the termination of the management, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver or manager, or a person entitled to a lien or charge in respect of the property, or any other person having any rights in respect thereof.
     
     Compare: 1958 No 23 s 9
+    
+    Section 67(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 68 Offence to destroy, alter, or conceal records
     
-*   (1) Every director, officer, servant, or agent of any corporation subject to statutory management, or any other person, commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who---
+*   (1) Every director, officer, servant, or agent of any corporation subject to statutory management, or any other person, commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who---
         
     *   (a) with intent to defeat the purposes of this Act, destroys, alters, or conceals any book, document, or record of, or relating to, a corporation that is subject to statutory management, or sends or attempts to send out of New Zealand any such book, document, or record; or
     
@@ -1503,6 +1507,8 @@ General
     (2) If, in any prosecution for an offence alleged to have been committed against this section, it is proved that the person charged with the offence has destroyed, altered, or concealed any book, document, or record, or has sent or attempted to send out of New Zealand any such book, document, or record, the onus of proving that in so doing that person had not acted in contravention of this section shall lie on that person.
     
     Compare: 1958 No 23 s 28
+    
+    Section 68(1): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 68(1)(a): amended, on 1 July 1994, by section 3 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
 
@@ -1514,13 +1520,13 @@ General
 
 ##### 70 Penalties for offences
     
-*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction on indictment,---
+*   Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $10,000:
     
     *   (b) in the case of a corporation, to a fine not exceeding $25,000\.
     
-    
+    Section 70: amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 71 Application of other Acts
     
@@ -1532,25 +1538,25 @@ General
     
     (4) \[Repealed\]
     
-    (5) Nothing in [sections 120][146], [196 to 209B][147], and [214][148] of the Companies Act 1993 shall apply to a company that is subject to statutory management.
+    (5) Nothing in [sections 120][147], [196 to 209B][148], and [214][149] of the Companies Act 1993 shall apply to a company that is subject to statutory management.
     
-    (6) Nothing in the [Receiverships Act 1993][149] shall apply to a company that is subject to statutory management.
+    (6) Nothing in the [Receiverships Act 1993][150] shall apply to a company that is subject to statutory management.
     
-    (7) Nothing in any enactment other than the [Income Tax Act 2007][150] or the [Statistics Act 1975][151] shall require a corporation that is subject to statutory management or a statutory manager to file any annual or other return.
+    (7) Nothing in any enactment other than the [Income Tax Act 2007][151] or the [Statistics Act 1975][152] shall require a corporation that is subject to statutory management or a statutory manager to file any annual or other return.
     
-    Section 71: substituted, on 1 July 1994, by [section 9][152] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
+    Section 71: substituted, on 1 July 1994, by [section 9][153] of the Corporations (Investigation and Management) Amendment Act 1993 (1993 No 113).
     
     Section 71(4): repealed, on 1 July 1994, by section 4 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
     
-    Section 71(5): amended, on 18 June 2007, by [section 17][153] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 71(5): amended, on 18 June 2007, by [section 17][154] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 71(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 71(7): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][155] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 71A Application of reporting requirements in other Acts
     
 *   (1) The Governor-General may, from time to time, by Order in Council, declare that the provisions of any enactment that require a corporation that is subject to statutory management, or a statutory manager, to file any annual or other return shall not apply to that corporation or statutory manager.
     
-    (2) No such order shall exclude the application of any provision of the [Statistics Act 1975][151] or the [Income Tax Act 2007][150].
+    (2) No such order shall exclude the application of any provision of the [Statistics Act 1975][152] or the [Income Tax Act 2007][151].
     
     (3) Any such order may apply---
         
@@ -1562,7 +1568,7 @@ General
     
     Section 71A: inserted, on 1 July 1994, by section 5 of the Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26).
     
-    Section 71A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 71A(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][155] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 72 Proof of transactions
     
@@ -1622,15 +1628,15 @@ General
 
 ##### 76 Act subject to application of Cape Town Convention and Aircraft Protocol
     
-*   (1) [Sections 42][51], [43][52], [44][53], and [51][60] and all other provisions of this Act are subject to [section 106][155] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][156] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
+*   (1) [Sections 42][51], [43][52], [44][53], and [51][60] and all other provisions of this Act are subject to [section 106][156] of the Civil Aviation Act 1990 (which provides for the primacy of the provisions of the Cape Town Convention and the Aircraft Protocol) and the rest of [Part 12][157] of the Civil Aviation Act 1990 (which implements the Cape Town Convention and the Aircraft Protocol).
     
     (2) In this section,---
     
-    _Aircraft Protocol_ has the same meaning as in [section 104(1)][157] of the Civil Aviation Act 1990
+    _Aircraft Protocol_ has the same meaning as in [section 104(1)][158] of the Civil Aviation Act 1990
     
-    _Cape Town Convention_ has the same meaning as in [section 104(1)][157] of the Civil Aviation Act 1990\.
+    _Cape Town Convention_ has the same meaning as in [section 104(1)][158] of the Civil Aviation Act 1990\.
     
-    Section 76: added, on 1 November 2010, by [section 14(1)][158] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 76: added, on 1 November 2010, by [section 14(1)][159] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ---
 
@@ -1663,23 +1669,23 @@ Enactments repealed
 
 ###### 1 General
     
-*   This is a reprint of the Corporations (Investigation and Management) Act 1989\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Corporations (Investigation and Management) Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][159] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][160] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][160] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][161] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][161] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][162] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][162] and [17E][163] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][163] and [17E][164] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1710,25 +1716,27 @@ Enactments repealed
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 58][101], [59][102]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][116]
+    
+    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 58][101], [59][102]
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][91]
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(2)][99]
     
-    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][158]
+    Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42): [section 14(1)][159]
     
-    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][141]
+    Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][142]
     
-    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 13][115], [14][120]
+    Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [sections 13][115], [14][121]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][164]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][165]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][111]
     
-    [Corporations (Investigation and Management) Amendment Act 2007][165] (2007 No 50)
+    [Corporations (Investigation and Management) Amendment Act 2007][166] (2007 No 50)
     
-    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][153]
+    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][154]
     
     Companies Amendment Act 2006 (2006 No 56): [section 41][110]
     
@@ -1736,23 +1744,23 @@ Enactments repealed
     
     Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46): [section 48(1)][114]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][138]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][139]
     
-    Accident Compensation Act 2001 (2001 No 49): [section 337(1)][140]
+    Accident Compensation Act 2001 (2001 No 49): [section 337(1)][141]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][126]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][127]
     
-    [Corporations (Investigation and Management) Amendment Act 1999][166] (1999 No 20)
+    [Corporations (Investigation and Management) Amendment Act 1999][167] (1999 No 20)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][167]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][168]
     
     Corporations (Investigation and Management) Amendment Act 1994 (1994 No 26)
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][95]
     
-    [Corporations (Investigation and Management) Amendment Act 1993][168] (1993 No 113)
+    [Corporations (Investigation and Management) Amendment Act 1993][169] (1993 No 113)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][145]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][146]
 
 
 
@@ -1872,56 +1880,57 @@ Enactments repealed
 [113]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM387857
 [114]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM202699
 [115]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2498402
-[116]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322371
-[117]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM387263
-[118]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM202038
-[119]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22796
-[120]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2498403
-[121]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22797
-[122]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321933
-[123]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322807
-[124]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM46737
-[125]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM45599
-[126]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM47639
-[127]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327441
-[128]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327442
-[129]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321943
-[130]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321975
-[131]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322379
-[132]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322384
-[133]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321926
-[134]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM323546
-[135]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327443
-[136]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968179
-[137]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22798
-[138]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM122579
-[139]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM104120
-[140]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM104117
-[141]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2773701
-[142]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327445
-[143]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22799
-[144]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327446
-[145]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM162942
-[146]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320614
-[147]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320877
-[148]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321131
-[149]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327640
-[150]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1512300
-[151]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM430704
-[152]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327447
-[153]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM392177
-[154]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523176
-[155]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378214
-[156]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378654
-[157]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378200
-[158]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3005756
-[159]: http://www.pco.parliament.govt.nz/reprints/
-[160]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195439
-[161]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[162]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195468
-[163]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195470
-[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
-[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
-[166]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
-[167]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
-[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
+[116]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3360714
+[117]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322371
+[118]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM387263
+[119]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM202038
+[120]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22796
+[121]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2498403
+[122]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22797
+[123]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321933
+[124]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322807
+[125]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM46737
+[126]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM45599
+[127]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM47639
+[128]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327441
+[129]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327442
+[130]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321943
+[131]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321975
+[132]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322379
+[133]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM322384
+[134]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321926
+[135]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM323546
+[136]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327443
+[137]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968179
+[138]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22798
+[139]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM122579
+[140]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM104120
+[141]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM104117
+[142]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM2773701
+[143]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327445
+[144]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22799
+[145]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327446
+[146]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM162942
+[147]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320614
+[148]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM320877
+[149]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM321131
+[150]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327640
+[151]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1512300
+[152]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM430704
+[153]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327447
+[154]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM392177
+[155]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523176
+[156]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378214
+[157]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378654
+[158]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3378200
+[159]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM3005756
+[160]: http://www.pco.parliament.govt.nz/reprints/
+[161]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195439
+[162]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[163]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195468
+[164]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM195470
+[165]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM1523174
+[166]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM968172
+[167]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM22788
+[168]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM367235
+[169]: http://www.legislation.govt.nz/act/public/1989/0011/latest/link.aspx?id=DLM327434
