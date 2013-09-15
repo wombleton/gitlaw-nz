@@ -25,41 +25,41 @@ This Act is administered by Land Information New Zealand.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Opotiki County road reserve][3]
+[2][3][][3][Opotiki County road reserve][3]
 
-[3][4] [Westport Colliery Reserve][4]
+[3][4][][4][Westport Colliery Reserve][4]
 
-[4][5] [Buller Coal Field Reserve][5]
+[4][5][][5][Buller Coal Field Reserve][5]
 
-[5][6] [Maud Island][6]
+[5][6][][6][Maud Island][6]
 
-[6][7] [Cromwell Aerodrome Reserve][7]
+[6][7][][7][Cromwell Aerodrome Reserve][7]
 
-[7][8] [Westland National Park][8]
+[7][8][][8][Westland National Park][8]
 
-[8][9] [Mount Aspiring National Park][9]
+[8][9][][9][Mount Aspiring National Park][9]
 
-[9][10] [Revocation of setting apart of State forests][10]
+[9][10][][10][Revocation of setting apart of State forests][10]
 
-[10][11] [King George V Memorial Hospital][11]
+[10][11][][11][King George V Memorial Hospital][11]
 
-[11][12] [Waiohine Valley road reserve][12]
+[11][12][][12][Waiohine Valley road reserve][12]
 
-[12][13] [Canterbury Provincial Buildings Board][13]
+[12][13][][13][Canterbury Provincial Buildings Board][13]
 
-[13][14] [Pukekura Park][14]
+[13][14][][14][Pukekura Park][14]
 
-[14][15] [Farewell Spit reserves][15]
+[14][15][][15][Farewell Spit reserves][15]
 
-[15][16] [Tokaora road reserve][16]
+[15][16][][16][Tokaora road reserve][16]
 
-[16][17] [Otago University endowment lands][17]
+[16][17][][17][Otago University endowment lands][17]
 
-[17][18] [Te Puna-Topu-O-Hokianga Trust][18]
+[17][18][][18][Te Puna-Topu-O-Hokianga Trust][18]
 
-[18][19] [Entries in registers][19]
+[18][19][][19][Entries in registers][19]
 
 ---
 
@@ -413,11 +413,11 @@ An Act to provide for various matters relating to Crown land, reserves, and othe
     
     *   (b) the deposit payable shall be not less than 25% of the purchase price, provided however that with the consent of the Council of the University the deposit may be reduced in any specified case to an amount that is not less than 15% of the purchase price:
     
-    *   (c) the licence shall be for such period as may be fixed by the Council of the University, being not less than 10 years and not greater than 20 years, commencing on 1 January or 1 July next following the date of the licence:
+    *   (c) the licence shall be for such period as may be fixed by the Council of the University, being not less than 10 years and not greater than 20 years, commencing on the 1 January or the 1 July next following the date of the licence:
     
     *   (d) \[Repealed\]
     
-    *   (e) the rate of interest that shall be payable under the licence shall be the same rate as at the date of the licence then applies to Crown land purchased on deferred payments under the [Land Act 1948][23], and shall be reviewable by the Land Settlement Board on the expiration of the period of 3 years following 1 January or 1 July next following the date of the licence, and at 3 yearly intervals thereafter.
+    *   (e) the rate of interest that shall be payable under the licence shall be the same rate as at the date of the licence then applies to Crown land purchased on deferred payments under the [Land Act 1948][23], and shall be reviewable by the Land Settlement Board on the expiration of the period of 3 years following the 1 January or the 1 July next following the date of the licence, and at 3 yearly intervals thereafter.
     
     (5) The purchase price of any land to be sold pursuant to this section shall be the market value of the land, exclusive of all improvements, as determined by a registered valuer appointed for the purpose by the Council of the University and confirmed by the District Field Officer, Dunedin, of the department within the meaning of section 2 of the Survey Act 1986\.
     
