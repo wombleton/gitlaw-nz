@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -180,7 +180,7 @@ An Act to enable the making of Orders in Council imposing on certain commodities
     
     *   (b) in relation to any money it acquires in exchange or part exchange for that asset, as if that money has been paid to the organisation under a levy order as levy.
     
-    (4) Every levy order, and every order under [section 13(2)][15], shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][31].
+    (4) Levy orders and orders made under [section 13(2)][15] are legislative instruments and disallowable instruments for the purposes of the [Legislation Act 2012][31] and must be presented to the House of Representatives under [section 41][32] of that Act.
     
     Section 2(1) **hold**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
     
@@ -192,7 +192,9 @@ An Act to enable the making of Orders in Council imposing on certain commodities
     
     Section 2(1) **supporter**: inserted, on 29 September 1993, by section 2(2) of the Commodity Levies Amendment Act 1993 (1993 No 151).
     
-    Section 2(1) **thing**: inserted, on 15 December 1995, by [section 2][32] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 2(1) **thing**: inserted, on 15 December 1995, by [section 2][33] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    
+    Section 2(4): replaced, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Act binds the Crown
     
@@ -465,9 +467,9 @@ Levy orders
     
     (5) No Minister shall recommend the making of a levy order imposing a levy on a commodity and prescribing that the levy applies to quantities of the commodity imported into New Zealand, unless the Minister is satisfied, on the basis of information and evidence satisfactory to the Minister, that the rate of levy on imported product provided for in the order cannot be greater than the rate necessary to ensure that exporters or importers of imported product, or other persons acquiring or dealing with imported product, will not derive unearned benefits from the expenditure of the levy.
     
-    Section 6(1)(f): substituted, on 15 December 1995, by [section 3(1)][33] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 6(1)(f): substituted, on 15 December 1995, by [section 3(1)][35] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 6(1)(g): amended, on 15 December 1995, by [section 3(2)][33] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 6(1)(g): amended, on 15 December 1995, by [section 3(2)][35] of the Commodity Levies Amendment Act 1995 (1995 No 85).
 
 ##### 7 Effect of orders
     
@@ -623,7 +625,7 @@ Levy orders
         
     *   (a) has not been revoked with effect on or before 1 July in the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of the [Regulations (Disallowance) Act 1989][31],---
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 July in the next year by virtue of [Part 3][36] of the Legislation Act 2012,---
     
     it shall be deemed to have been revoked with the close of 30 June in that next year unless it has been confirmed by an Act of Parliament passed on or before that day.
     
@@ -631,7 +633,7 @@ Levy orders
         
     *   (a) has not been revoked with effect on or before 1 January in the year after the next year; and
     
-    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of the [Regulations (Disallowance) Act 1989][31],---
+    *   (b) has not ceased, and will not cease, to have effect on or before 1 January in the year after the next year by virtue of [Part 3][36] of the Legislation Act 2012,---
     
     it shall be deemed to have been revoked with the close of 31 December in the year after the year in which it was made, unless it has been confirmed by an Act of Parliament passed on or before that day.
     
@@ -639,11 +641,17 @@ Levy orders
         
     *   (a) revoked; or
     
-    *   (b) disallowed under the [Regulations (Disallowance) Act 1989][31]; or
+    *   (b) disallowed under [Part 3][36] of the Legislation Act 2012; or
     
     *   (c) confirmed by an Act of Parliament,---
     
     the Minister on whose recommendation it was made shall, by notice published in the _Gazette_ at least 6 months before the day with the close of which the order may (under subsection (1) or subsection (2)) be deemed to have been revoked, indicate the Minister's intentions with regard to its continuing in force.
+    
+    Section 12(1)(b): amended, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 12(2)(b): amended, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 12(3)(b): amended, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
 
 ##### 13 Levy orders to expire after 6 years
     
@@ -651,13 +659,15 @@ Levy orders
         
     *   (a) it has been revoked (or has been deemed to have been revoked) with effect on or before the sixth anniversary of the day on which it was made; or
     
-    *   (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of the [Regulations (Disallowance) Act 1989][31].
+    *   (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of [Part 3][37] of the Legislation Act 2012\.
     
     (2) Subject to subsection (3), the Governor-General may, by Order in Council made at least 12 months before the day on which the order concerned would otherwise be deemed under subsection (1) to have been revoked, extend for a specified period (of not more than 5 years) the currency of a levy order that is then in force; and in that case (subject to subsection (3)), the order shall not be deemed under subsection (1) to have been revoked until the extended period has expired.
     
     (3) Where the currency of a levy order has been extended under subsection (2), it may from time to time be further extended under that subsection.
     
     (4) [Section 12][14] and, except for subsection (1)(b), [section 5][7] apply to the making of an order under subsection (2) of this section.
+    
+    Section 13(1)(b): amended, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 2  
 Miscellaneous provisions
@@ -684,7 +694,7 @@ Miscellaneous provisions
     
     (2) While a levy order is in force, the Minister who recommended its making may, if a mediator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of the affairs of all or any of the persons involved in the dispute.
     
-    (3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of [section 19][34] of the New Zealand Institute of Chartered Accountants Act 1996), or a member fellow or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Companies Act 1993][35] by notice published in the _Gazette_.
+    (3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of [section 19][38] of the New Zealand Institute of Chartered Accountants Act 1996), or a member fellow or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Companies Act 1993][39] by notice published in the _Gazette_.
     
     (4) No officer or employee of any of the following persons or organisations shall be appointed an auditor:
         
@@ -696,11 +706,11 @@ Miscellaneous provisions
     
     (5) Every person appointed as an auditor shall be entitled to remuneration (paid by the industry organisation concerned) as provided in the relevant levy order.
     
-    Section 15(3): amended, on 7 July 2010, by [section 10][36] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 15(3): amended, on 7 July 2010, by [section 10][40] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 15(3): amended, on 1 October 1996, by [section 23][37] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
+    Section 15(3): amended, on 1 October 1996, by [section 23][41] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
     
-    Section 15(3): amended, on 1 October 1995, by [section 10(3)][38] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 15(3): amended, on 1 October 1995, by [section 10(3)][42] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 16 Purpose of compliance audits
     
@@ -734,7 +744,7 @@ Miscellaneous provisions
     
     (3) Subject to [section 16(2)][19], except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section shall disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
     
-    (4) Notwithstanding subsection (3), the [Official Information Act 1982][39] applies in respect of any information held by a Minister that was obtained pursuant to this section.
+    (4) Notwithstanding subsection (3), the [Official Information Act 1982][43] applies in respect of any information held by a Minister that was obtained pursuant to this section.
 
 ##### 18 Assessment of performance of industry organisations
     
@@ -760,11 +770,11 @@ Miscellaneous provisions
 
 ##### 19 Power of search
     
-*   (1) An issuing officer (within the meaning of [section 3][40] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][41] of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise the constable or person to search the place.
+*   (1) An issuing officer (within the meaning of [section 3][44] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][45] of Part 4 of that Act by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant authorise the constable or person to search the place.
     
-    (2) Subject to subsection (2A), the provisions of [Part 4][42] of the Search and Surveillance Act 2012 apply.
+    (2) Subject to subsection (2A), the provisions of [Part 4][46] of the Search and Surveillance Act 2012 apply.
     
-    (2A) Despite subsection (2), [sections 118][43] and [119][44] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (2A) Despite subsection (2), [sections 118][47] and [119][48] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     (3) In this section a _designated person_ means a person (being an auditor or a person employed in the Public Service) who is for the time being---
         
@@ -774,33 +784,33 @@ Miscellaneous provisions
     
     (4) No person or class of person shall be designated under subsection (3), unless the Minister concerned is satisfied that the person, or persons of that class, is or are suitably qualified and trained to exercise the powers of a designated person.
     
-    Section 19(1): amended, on 1 October 2012, by [section 211(2)(a)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 19(1): amended, on 1 October 2012, by [section 211(2)(a)][49] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 19(1): amended, on 1 October 2012, by [section 211(2)(b)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 19(1): amended, on 1 October 2012, by [section 211(2)(b)][49] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 19(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][46] of the Policing Act 2008 (2008 No 72).
+    Section 19(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][50] of the Policing Act 2008 (2008 No 72).
     
-    Section 19(2): replaced, on 1 October 2012, by [section 211(3)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 19(2): replaced, on 1 October 2012, by [section 211(3)][49] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 19(2A): inserted, on 1 October 2012, by [section 211(3)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 19(2A): inserted, on 1 October 2012, by [section 211(3)][49] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 20 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 October 2012, by [section 211(4)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 20: repealed, on 1 October 2012, by [section 211(4)][49] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 21 Warrant to be produced
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 October 2012, by [section 211(4)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 21: repealed, on 1 October 2012, by [section 211(4)][49] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 22 Other duties of person who executes a warrant
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 October 2012, by [section 211(4)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 22: repealed, on 1 October 2012, by [section 211(4)][49] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 23 Prohibition on obstruction
     
@@ -826,9 +836,11 @@ Miscellaneous provisions
     
     *   (h) refuses or fails, without reasonable excuse, to comply with any requirement made under [section 17(1)][20],---
     
-    that person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $10,000\.
+    that person commits an offence against this Act and is liable on conviction to a fine not exceeding $10,000\.
     
     (2) Any offence against this Act committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by the employee's or agent's employer or principal if it is proved that the act or omission constituting the offence occurred with the employer's or principal's authority, permission, or consent.
+    
+    Section 24(1): amended, on 1 July 2013, by [section 413][51] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 25 Annual report and statements
     
@@ -924,187 +936,78 @@ Miscellaneous provisions
     
     *   (u) the Orchard Levy Amendment Act 1988\.
     
-    (4) When an enactment specified in subsection (3) is repealed by or under subsection (1) or subsection (2), so much of the [Schedule][47] of the Regulations (Disallowance) Act 1989 as relates to that Act shall then be deemed to have been repealed.
+    (4) When an enactment specified in subsection (3) is repealed by or under subsection (1) or subsection (2), so much of the [Schedule][52] of the Regulations (Disallowance) Act 1989 as relates to that Act shall then be deemed to have been repealed.
     
-    Section 26(3)(i): repealed, on 15 December 1995, by [section 6(2)][48] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(i): repealed, on 15 December 1995, by [section 6(2)][53] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(l): repealed, on 15 December 1995, by [section 5(2)(a)][49] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(l): repealed, on 15 December 1995, by [section 5(2)(a)][54] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(ma): repealed, on 15 December 1995, by [section 5(2)(a)][49] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(ma): repealed, on 15 December 1995, by [section 5(2)(a)][54] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(mb): repealed, on 15 December 1995, by [section 5(2)(a)][49] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(mb): repealed, on 15 December 1995, by [section 5(2)(a)][54] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(mc): repealed, on 15 December 1995, by [section 5(2)(a)][49] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(mc): repealed, on 15 December 1995, by [section 5(2)(a)][54] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(n): repealed, on 15 December 1995, by [section 6(2)][48] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(n): repealed, on 15 December 1995, by [section 6(2)][53] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(3)(s): repealed, on 15 December 1995, by [section 7(2)][50] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(3)(s): repealed, on 15 December 1995, by [section 7(2)][55] of the Commodity Levies Amendment Act 1995 (1995 No 85).
     
-    Section 26(4): amended, on 15 December 1995, by [section 5(2)(b)][49] of the Commodity Levies Amendment Act 1995 (1995 No 85).
+    Section 26(4): amended, on 15 December 1995, by [section 5(2)(b)][54] of the Commodity Levies Amendment Act 1995 (1995 No 85).
 
 ---
 
 ## Schedule  
 Form of search warrant
 
-\[Repealed\]
-
 [s 19(1)][22]
 
-*   Schedule: repealed, on 1 October 2012, by [section 211(4)][45] of the Search and Surveillance Act 2012 (2012 No 24).
+\[Repealed\]
+    
+*   Schedule: repealed, on 1 October 2012, by [section 211(4)][49] of the Search and Surveillance Act 2012 (2012 No 24).
+
+#### 
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][51].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][52] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Commodity Levies Act 1990\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][53] ![](/images/external_link.gif).
+*   This is a reprint of the Commodity Levies Act 1990 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][54] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][56] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][57] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][55] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][58] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][59] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][56] and [17E][57] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][34]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 211][49]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][51]
     
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][40]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][50]
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 211][45]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][60]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][36]
+    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][41]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][46]
+    [Commodity Levies Amendment Act 1995][61] (1995 No 85)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][58]
-    
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][37]
-    
-    [Commodity Levies Amendment Act 1995][59] (1995 No 85)
-    
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][38]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][42]
     
     Commodity Levies Amendment Act 1993 (1993 No 151)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM226676
 [2]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM226678
 [3]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM226679
@@ -1135,32 +1038,34 @@ Amendments, repeals, and miscellaneous provisions
 [28]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM227355
 [29]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM227356
 [30]: http://www.legislation.govt.nz/act/public/1990/0127/latest/whole.html#DLM227360
-[31]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195534
-[32]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371918
-[33]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371919
-[34]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM391422
-[35]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM319569
-[36]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM3043113
-[37]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM391427
-[38]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM367235
-[39]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM64784
-[40]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136542
-[41]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136781
-[42]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136770
-[43]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136813
-[44]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136815
-[45]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136942
-[46]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM1102349
-[47]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195559
-[48]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371923
-[49]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371922
-[50]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371924
-[51]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136500
-[52]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM4686448
-[53]: http://www.pco.parliament.govt.nz/reprints/
-[54]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195439
-[55]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[56]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195468
-[57]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195470
-[58]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM427920
-[59]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371911
+[31]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2997643
+[32]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998573
+[33]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371918
+[34]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998633
+[35]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371919
+[36]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2997672
+[37]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998557
+[38]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM391422
+[39]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM319569
+[40]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM3043113
+[41]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM391427
+[42]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM367235
+[43]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM64784
+[44]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136542
+[45]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136781
+[46]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136770
+[47]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136813
+[48]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136815
+[49]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2136942
+[50]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM1102349
+[51]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM3360714
+[52]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM195559
+[53]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371923
+[54]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371922
+[55]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371924
+[56]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998516
+[57]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998515
+[58]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM2998532
+[59]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[60]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM427920
+[61]: http://www.legislation.govt.nz/act/public/1990/0127/latest/link.aspx?id=DLM371911
