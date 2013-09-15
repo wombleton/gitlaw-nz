@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencement9 December 1991
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation and Employment.
 
 ---
 
@@ -25,27 +25,27 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Transfer of securities by securities transfer][4]
+[3][4][][4][Transfer of securities by securities transfer][4]
 
-[4][5] [Transfer of securities by securities transfer and brokers transfer][5]
+[4][5][][5][Transfer of securities by securities transfer and brokers transfer][5]
 
-[5][6] [Attestation of securities transfer unnecessary][6]
+[5][6][][6][Attestation of securities transfer unnecessary][6]
 
-[6][7] [Securities and brokers transfers to be instruments of transfer for the purposes of other Acts, etc][7]
+[6][7][][7][Securities and brokers transfers to be instruments of transfer for the purposes of other Acts, etc][7]
 
-[7][8] [Transfer of securities by electronic means][8]
+[7][8][][8][Transfer of securities by electronic means][8]
 
-[8][9] [Registration may not be refused on ground that securities have been transferred under this Act][9]
+[8][9][][9][Registration may not be refused on ground that securities have been transferred under this Act][9]
 
-[9][10] [Effect of this Act on other Acts, etc][10]
+[9][10][][10][Effect of this Act on other Acts, etc][10]
 
-[10][11] [Power to alter forms][11]
+[10][11][][11][Power to alter forms][11]
 
-[11][12] [Repeals][12]
+[11][12][][12][Repeals][12]
 
 [Schedule 1][13]  
 [Securities transfer][13]
@@ -242,11 +242,13 @@ An Act to consolidate and amend the law relating to the transfer of securities a
     
     (7) A failure to comply with subsection (6) does not affect the validity of any Order in Council made under this section.
     
-    (8) Every Order in Council made under this section shall be deemed to be a regulation within the meaning of [section 2][37] of the Regulations (Disallowance) Act 1989\.
+    (8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][37] and must be presented to the House of Representatives under [section 41][38] of that Act.
     
-    Section 7(1): amended, on 1 May 2011, by [section 84(1)][38] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 7(1): amended, on 1 May 2011, by [section 84(1)][39] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 7(6): substituted, on 1 May 2011, by [section 82][39] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 7(6): substituted, on 1 May 2011, by [section 82][40] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 7(8): replaced, on 5 August 2013, by [section 77(3)][41] of the Legislation Act 2012 (2012 No 119).
 
 ##### 8 Registration may not be refused on ground that securities have been transferred under this Act
     
@@ -262,27 +264,27 @@ An Act to consolidate and amend the law relating to the transfer of securities a
     
     (2) \[Repealed\]
     
-    (3) Nothing in this Act shall in any way derogate from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][40] of the Public Finance Act 1989).
+    (3) Nothing in this Act shall in any way derogate from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][42] of the Public Finance Act 1989).
     
     (4) Nothing in this Act affects the validity of any means of transferring securities other than pursuant to this Act.
     
     (5) The following enactments shall be read subject to the provisions of this Act:
         
-    *   (a) [sections 35][41], [39(1)][42], and [84][43] of the Companies Act 1993:
+    *   (a) [sections 35][43], [39(1)][44], and [84][45] of the Companies Act 1993:
     
-    *   (b) [section 17][44] of the Unit Trusts Act 1960:
+    *   (b) [section 17][46] of the Unit Trusts Act 1960:
     
-    *   (c) section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][40] of the Public Finance Act 1989).
+    *   (c) section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][42] of the Public Finance Act 1989).
     
     (6) Nothing in subsection (5) limits the generality of any other provision of this Act.
     
     Compare: 1977 No 20 s 8; 1977 No 68 s 5(1)
     
-    Section 9(1): amended, on 20 September 2007, by [section 4(1)][45] of the Securities Transfer Amendment Act 2007 (2007 No 80).
+    Section 9(1): amended, on 20 September 2007, by [section 4(1)][47] of the Securities Transfer Amendment Act 2007 (2007 No 80).
     
-    Section 9(2): repealed, on 20 September 2007, by [section 4(2)][45] of the Securities Transfer Amendment Act 2007 (2007 No 80).
+    Section 9(2): repealed, on 20 September 2007, by [section 4(2)][47] of the Securities Transfer Amendment Act 2007 (2007 No 80).
     
-    Section 9(5): substituted, on 20 September 2007, by [section 4(3)][45] of the Securities Transfer Amendment Act 2007 (2007 No 80).
+    Section 9(5): substituted, on 20 September 2007, by [section 4(3)][47] of the Securities Transfer Amendment Act 2007 (2007 No 80).
 
 ##### 10 Power to alter forms
     
@@ -504,78 +506,37 @@ Enactments repealed
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][46]_.
+_Amendment(s) incorporated in the [Act(s)][48]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Securities Transfer Act 1991\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][47] ![](/images/external_link.gif).
+*   This is a reprint of the Securities Transfer Act 1991 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][48] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][49] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][50] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][49] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][51] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][52] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][50] and [17E][51] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][41]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Financial Markets Authority Act 2011 (2011 No 5): [sections 82][39], [84(1)][38]
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][40], [84(1)][39]
     
     New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][31]
     
     Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][35]
     
-    [Securities Transfer Amendment Act 2007][52] (2007 No 80)
+    [Securities Transfer Amendment Act 2007][53] (2007 No 80)
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][29]
     
@@ -591,7 +552,7 @@ _Amendment(s) incorporated in the [Act(s)][46]_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1991/0119/latest/whole.html#DLM2801702
 [2]: http://www.legislation.govt.nz/act/public/1991/0119/latest/whole.html#DLM250600
 [3]: http://www.legislation.govt.nz/act/public/1991/0119/latest/whole.html#DLM250601
@@ -628,19 +589,20 @@ _Amendment(s) incorporated in the [Act(s)][46]_.
 [34]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM174088
 [35]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2498696
 [36]: http://www.legislation.govt.nz/act/public/1991/0119/latest/whole.html#DLM250628
-[37]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM195545
-[38]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM3231794
-[39]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM3231793
-[40]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM163169
-[41]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320142
-[42]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320150
-[43]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320442
-[44]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM325467
-[45]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM968542
-[46]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM401042
-[47]: http://www.pco.parliament.govt.nz/reprints/
-[48]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM195439
-[49]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[50]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM195468
-[51]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM195470
-[52]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM968535
+[37]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2997643
+[38]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998573
+[39]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM3231794
+[40]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM3231793
+[41]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998633
+[42]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM163169
+[43]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320142
+[44]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320150
+[45]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM320442
+[46]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM325467
+[47]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM968542
+[48]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM401042
+[49]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998516
+[50]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998515
+[51]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM2998532
+[52]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[53]: http://www.legislation.govt.nz/act/public/1991/0119/latest/link.aspx?id=DLM968535
