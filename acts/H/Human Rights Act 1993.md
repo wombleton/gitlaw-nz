@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,549 +25,549 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Human Rights Commission][5]
 
-[4][6] [Continuation of Human Rights Commission][6]
+[4][6][][6][Continuation of Human Rights Commission][6]
 
 [Functions and powers of Commission][7]
 
-[5][8] [Functions of Commission][8]
+[5][8][][8][Functions of Commission][8]
 
-[6][9] [Powers relating to declaratory judgments][9]
+[6][9][][9][Powers relating to declaratory judgments][9]
 
 [Activities in performance of Commission's functions][10]
 
-[7][11] [Commission determines general nature of activities][11]
+[7][11][][11][Commission determines general nature of activities][11]
 
 [Membership of Commission][12]
 
-[8][13] [Membership of Commission][13]
+[8][13][][13][Membership of Commission][13]
 
-[9][14] [Alternate Commissioners][14]
+[9][14][][14][Alternate Commissioners][14]
 
 [Functions of Commissioners][15]
 
 \[Repealed\]
 
-[10][16] [Meetings of Commission][16]
+[10][16][][16][Meetings of Commission][16]
 
 [Criteria for appointment][17]
 
-[11][18] [Criteria for appointment][18]
+[11][18][][18][Criteria for appointment][18]
 
 [Complaints Division][19]
 
 \[Repealed\]
 
-[12][20] [Further criteria for appointment of Chief Commissioner][20]
+[12][20][][20][Further criteria for appointment of Chief Commissioner][20]
 
-[13][21] [Further criteria for appointment of Race Relations Commissioner][21]
+[13][21][][21][Further criteria for appointment of Race Relations Commissioner][21]
 
 [Further provisions on Commissioners and alternate Commissioners][22]
 
 \[Repealed\]
 
-[14][23] [Further criteria for appointment of Equal Employment Opportunities Commissioner][23]
+[14][23][][23][Further criteria for appointment of Equal Employment Opportunities Commissioner][23]
 
 [Functions of Commissioners][24]
 
-[15][25] [Functions of Chief Commissioner][25]
+[15][25][][25][Functions of Chief Commissioner][25]
 
-[16][26] [Functions of Race Relations Commissioner][26]
+[16][26][][26][Functions of Race Relations Commissioner][26]
 
-[17][27] [Functions of Equal Employment Opportunities Commissioner][27]
+[17][27][][27][Functions of Equal Employment Opportunities Commissioner][27]
 
 [General manager and staff of Commission][28]
 
-[18][29] [General manager and staff of Commission][29]
+[18][29][][29][General manager and staff of Commission][29]
 
 [Commissioners to act independently][30]
 
-[19][31] [Duty to act independently][31]
+[19][31][][31][Duty to act independently][31]
 
 [Office of Human Rights Proceedings][32]
 
-[20][33] [Office of Human Rights Proceedings][33]
+[20][33][][33][Office of Human Rights Proceedings][33]
 
 [Director of Human Rights Proceedings][34]
 
-[20A][35] [Director of Human Rights Proceedings][35]
+[20A][35][][35][Director of Human Rights Proceedings][35]
 
-[20B][36] [Criteria and requirement for appointment][36]
+[20B][36][][36][Criteria and requirement for appointment][36]
 
 [Appointment of Judge as Human Rights Commissioner][37]
 
-[20C][38] [Appointment of Judge as Human Rights Commissioner][38]
+[20C][38][][38][Appointment of Judge as Human Rights Commissioner][38]
 
 [Provisions relating to office holders][39]
 
-[20D][40] [Office holders to whom sections 20E to 20G apply][40]
+[20D][40][][40][Office holders to whom sections 20E to 20G apply][40]
 
-[20E][41] [Service in office][41] \[Repealed\]
+[20E][41][][41][Service in office][41] \[Repealed\]
 
-[20F][42] [Term of office][42]
+[20F][42][][42][Term of office][42]
 
-[20G][43] [Vacation of office][43]
+[20G][43][][43][Vacation of office][43]
 
 [Administrative provisions relating to Human Rights Commission and Office of Human Rights Proceedings][44]
 
-[20H][45] [Administrative provisions set out in Schedules 1 and 2][45]
+[20H][45][][45][Administrative provisions set out in Schedules 1 and 2][45]
 
 [Part 1A][46]  
 [Discrimination by Government, related persons and bodies, or persons or bodies acting with legal authority][46]
 
-[20I][47] [Purpose of this Part][47]
+[20I][47][][47][Purpose of this Part][47]
 
-[20J][48] [Acts or omissions in relation to which this Part applies][48]
+[20J][48][][48][Acts or omissions in relation to which this Part applies][48]
 
-[20K][49] [Purposes for which section 20L applies][49]
+[20K][49][][49][Purposes for which section 20L applies][49]
 
-[20L][50] [Acts or omissions in breach of this Part][50]
+[20L][50][][50][Acts or omissions in breach of this Part][50]
 
 [Part 2][51]  
 [Unlawful discrimination][51]
 
 [Application of Part to persons and bodies referred to in section 3 of New Zealand Bill of Rights Act 1990][52]
 
-[21A][53] [Application of this Part limited if section 3 of New Zealand Bill of Rights Act 1990 applies][53]
+[21A][53][][53][Application of this Part limited if section 3 of New Zealand Bill of Rights Act 1990 applies][53]
 
 [Acts or omissions authorised or required by law][54]
 
-[21B][55] [Relationship between this Part and other law][55]
+[21B][55][][55][Relationship between this Part and other law][55]
 
 [Prohibited grounds of discrimination][56]
 
-[21][57] [Prohibited grounds of discrimination][57]
+[21][57][][57][Prohibited grounds of discrimination][57]
 
 [Discrimination in employment matters][58]
 
-[22][59] [Employment][59]
+[22][59][][59][Employment][59]
 
-[23][60] [Particulars of applicants for employment][60]
+[23][60][][60][Particulars of applicants for employment][60]
 
 [Exceptions in relation to employment matters][61]
 
-[24][62] [Exception in relation to crews of ships and aircraft][62]
+[24][62][][62][Exception in relation to crews of ships and aircraft][62]
 
-[25][63] [Exception in relation to work involving national security][63]
+[25][63][][63][Exception in relation to work involving national security][63]
 
-[26][64] [Exception in relation to work performed outside New Zealand][64]
+[26][64][][64][Exception in relation to work performed outside New Zealand][64]
 
-[27][65] [Exceptions in relation to authenticity and privacy][65]
+[27][65][][65][Exceptions in relation to authenticity and privacy][65]
 
-[28][66] [Exceptions for purposes of religion][66]
+[28][66][][66][Exceptions for purposes of religion][66]
 
-[29][67] [Further exceptions in relation to disability][67]
+[29][67][][67][Further exceptions in relation to disability][67]
 
-[30][68] [Further exceptions in relation to age][68]
+[30][68][][68][Further exceptions in relation to age][68]
 
-[30A][69] [Exception in relation to employment-related retirement benefits][69]
+[30A][69][][69][Exception in relation to employment-related retirement benefits][69]
 
-[31][70] [Exception in relation to employment of a political nature][70]
+[31][70][][70][Exception in relation to employment of a political nature][70]
 
-[32][71] [Exception in relation to family status][71]
+[32][71][][71][Exception in relation to family status][71]
 
-[33][72] [Armed forces][72] \[Repealed\]
+[33][72][][72][Armed forces][72] \[Repealed\]
 
-[34][73] [Regular forces][73]
+[34][73][][73][Regular forces][73]
 
-[35][74] [General qualification on exceptions][74]
+[35][74][][74][General qualification on exceptions][74]
 
 [Discrimination in partnerships][75]
 
-[36][76] [Partnerships][76]
+[36][76][][76][Partnerships][76]
 
 [Discrimination by industrial and professional associations, qualifying bodies, and vocational training bodies][77]
 
-[37][78] [Organisations of employees or employers and professional and trade associations][78]
+[37][78][][78][Organisations of employees or employers and professional and trade associations][78]
 
-[38][79] [Qualifying bodies][79]
+[38][79][][79][Qualifying bodies][79]
 
-[39][80] [Exceptions in relation to qualifying bodies][80]
+[39][80][][80][Exceptions in relation to qualifying bodies][80]
 
-[40][81] [Vocational training bodies][81]
+[40][81][][81][Vocational training bodies][81]
 
-[41][82] [Exceptions in relation to vocational training bodies][82]
+[41][82][][82][Exceptions in relation to vocational training bodies][82]
 
 [Discrimination in access to places, vehicles, and facilities][83]
 
-[42][84] [Access by the public to places, vehicles, and facilities][84]
+[42][84][][84][Access by the public to places, vehicles, and facilities][84]
 
-[43][85] [Exceptions in relation to access by the public to places, vehicles, and facilities][85]
+[43][85][][85][Exceptions in relation to access by the public to places, vehicles, and facilities][85]
 
 [Discrimination in provision of goods and services][86]
 
-[44][87] [Provision of goods and services][87]
+[44][87][][87][Provision of goods and services][87]
 
-[45][88] [Exception in relation to courses and counselling][88]
+[45][88][][88][Exception in relation to courses and counselling][88]
 
-[46][89] [Exception in relation to public decency or safety][89]
+[46][89][][89][Exception in relation to public decency or safety][89]
 
-[47][90] [Exception in relation to skill][90]
+[47][90][][90][Exception in relation to skill][90]
 
-[48][91] [Exception in relation to insurance][91]
+[48][91][][91][Exception in relation to insurance][91]
 
-[49][92] [Exception in relation to sport][92]
+[49][92][][92][Exception in relation to sport][92]
 
-[50][93] [Exception in relation to travel services][93]
+[50][93][][93][Exception in relation to travel services][93]
 
-[51][94] [Exception in relation to reduced charges][94]
+[51][94][][94][Exception in relation to reduced charges][94]
 
-[52][95] [Exception in relation to disability][95]
+[52][95][][95][Exception in relation to disability][95]
 
 [Discrimination in provision of land, housing, and other accommodation][96]
 
-[53][97] [Land, housing, and other accommodation][97]
+[53][97][][97][Land, housing, and other accommodation][97]
 
-[54][98] [Exception in relation to shared residential accommodation][98]
+[54][98][][98][Exception in relation to shared residential accommodation][98]
 
-[55][99] [Exception in relation to hostels, institutions, etc][99]
+[55][99][][99][Exception in relation to hostels, institutions, etc][99]
 
-[56][100] [Further exception in relation to disability][100]
+[56][100][][100][Further exception in relation to disability][100]
 
 [Discrimination in access to educational establishments][101]
 
-[57][102] [Educational establishments][102]
+[57][102][][102][Educational establishments][102]
 
-[58][103] [Exceptions in relation to establishments for particular groups][103]
+[58][103][][103][Exceptions in relation to establishments for particular groups][103]
 
-[59][104] [Exception in relation to courses and counselling][104]
+[59][104][][104][Exception in relation to courses and counselling][104]
 
-[60][105] [Further exceptions in relation to disability][105]
+[60][105][][105][Further exceptions in relation to disability][105]
 
 [Other forms of discrimination][106]
 
-[61][107] [Racial disharmony][107]
+[61][107][][107][Racial disharmony][107]
 
-[62][108] [Sexual harassment][108]
+[62][108][][108][Sexual harassment][108]
 
-[63][109] [Racial harassment][109]
+[63][109][][109][Racial harassment][109]
 
-[64][110] [Choice of procedures][110] \[Repealed\]
+[64][110][][110][Choice of procedures][110] \[Repealed\]
 
-[65][111] [Indirect discrimination][111]
+[65][111][][111][Indirect discrimination][111]
 
-[66][112] [Victimisation][112]
+[66][112][][112][Victimisation][112]
 
-[67][113] [Advertisements][113]
+[67][113][][113][Advertisements][113]
 
-[68][114] [Liability of employer and principals][114]
+[68][114][][114][Liability of employer and principals][114]
 
-[69][115] [Further provision in relation to sexual or racial harassment in employment][115]
+[69][115][][115][Further provision in relation to sexual or racial harassment in employment][115]
 
 [Special provisions relating to superannuation schemes][116]
 
-[70][117] [Superannuation schemes][117]
+[70][117][][117][Superannuation schemes][117]
 
-[71][118] [Reports on superannuation schemes][118]
+[71][118][][118][Reports on superannuation schemes][118]
 
-[72][119] [Power to vary trust deeds][119]
+[72][119][][119][Power to vary trust deeds][119]
 
 [Other matters][120]
 
-[73][121] [Measures to ensure equality][121]
+[73][121][][121][Measures to ensure equality][121]
 
-[74][122] [Measures relating to pregnancy, childbirth, or family responsibilities][122]
+[74][122][][122][Measures relating to pregnancy, childbirth, or family responsibilities][122]
 
 [Part 3][123]  
 [Resolution of disputes about compliance with Part 1A and Part 2][123]
 
-[75][124] [Object of this Part][124]
+[75][124][][124][Object of this Part][124]
 
-[76][125] [Functions of Commission under this Part][125]
+[76][125][][125][Functions of Commission under this Part][125]
 
-[77][126] [Dispute resolution services][126]
+[77][126][][126][Dispute resolution services][126]
 
-[78][127] [Method of providing services][127]
+[78][127][][127][Method of providing services][127]
 
-[79][128] [How complaints received to be treated][128]
+[79][128][][128][How complaints received to be treated][128]
 
-[79A][129] [Choice of procedures][129]
+[79A][129][][129][Choice of procedures][129]
 
-[80][130] [Taking action or further action in relation to complaint][130]
+[80][130][][130][Taking action or further action in relation to complaint][130]
 
-[81][131] [Commission to inform parties of process][131]
+[81][131][][131][Commission to inform parties of process][131]
 
-[82][132] [Information gathering and disclosure by Commission][132]
+[82][132][][132][Information gathering and disclosure by Commission][132]
 
-[83][133] [Settlement][133]
+[83][133][][133][Settlement][133]
 
-[84][134] [Reference of complaint to Director or from Director or Tribunal][134]
+[84][134][][134][Reference of complaint to Director or from Director or Tribunal][134]
 
-[85][135] [Confidentiality of information disclosed at dispute resolution meeting][135]
+[85][135][][135][Confidentiality of information disclosed at dispute resolution meeting][135]
 
-[86][136] [Evidence as to dispute resolution meeting][136]
+[86][136][][136][Evidence as to dispute resolution meeting][136]
 
-[87][137] [Certain information not to be made available][137]
+[87][137][][137][Certain information not to be made available][137]
 
-[88][138] [Limits on effect of section 80(1) or sections 85 to 87][138]
+[88][138][][138][Limits on effect of section 80(1) or sections 85 to 87][138]
 
-[89][139] [Enforcement of terms of settlement agreed by parties][139]
+[89][139][][139][Enforcement of terms of settlement agreed by parties][139]
 
-[90][140] [Functions of Director of Human Rights Proceedings under this Part][140]
+[90][140][][140][Functions of Director of Human Rights Proceedings under this Part][140]
 
-[91][141] [Requirements for Director's decisions under section 90][141]
+[91][141][][141][Requirements for Director's decisions under section 90][141]
 
-[92][142] [Matters Director to have regard to in deciding whether to provide representation in proceedings before Tribunal or in related proceedings][142]
+[92][142][][142][Matters Director to have regard to in deciding whether to provide representation in proceedings before Tribunal or in related proceedings][142]
 
-[92A][143] [Director to notify and report on decisions on representation][143]
+[92A][143][][143][Director to notify and report on decisions on representation][143]
 
 [Proceedings][144]
 
-[92B][145] [Civil proceedings arising from complaints][145]
+[92B][145][][145][Civil proceedings arising from complaints][145]
 
-[92BA][146] [Lodging of applications][146]
+[92BA][146][][146][Lodging of applications][146]
 
-[92C][147] [Representation in civil proceedings arising from complaints][147]
+[92C][147][][147][Representation in civil proceedings arising from complaints][147]
 
-[92D][148] [Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement][148]
+[92D][148][][148][Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement][148]
 
-[92E][149] [Civil proceedings arising from inquiry by Commission][149]
+[92E][149][][149][Civil proceedings arising from inquiry by Commission][149]
 
-[92F][150] [Proof of justified limits and exceptions][150]
+[92F][150][][150][Proof of justified limits and exceptions][150]
 
-[92G][151] [Right of Attorney-General to appear in civil proceedings][151]
+[92G][151][][151][Right of Attorney-General to appear in civil proceedings][151]
 
-[92H][152] [Right of Commission to appear in civil proceedings][152]
+[92H][152][][152][Right of Commission to appear in civil proceedings][152]
 
 [Remedies][153]
 
-[92I][154] [Remedies][154]
+[92I][154][][154][Remedies][154]
 
-[92J][155] [Remedy for enactments in breach of Part 1A][155]
+[92J][155][][155][Remedy for enactments in breach of Part 1A][155]
 
-[92K][156] [Effect of declaration][156]
+[92K][156][][156][Effect of declaration][156]
 
-[92L][157] [Costs][157]
+[92L][157][][157][Costs][157]
 
-[92M][158] [Damages][158]
+[92M][158][][158][Damages][158]
 
-[92N][159] [Directions as to payment of damages in certain cases][159]
+[92N][159][][159][Directions as to payment of damages in certain cases][159]
 
-[92O][160] [Tribunal may defer or modify remedies for breach of Part 1A or Part 2 or terms of settlement][160]
+[92O][160][][160][Tribunal may defer or modify remedies for breach of Part 1A or Part 2 or terms of settlement][160]
 
-[92P][161] [Matters to be taken into account in exercising powers given by section 92O][161]
+[92P][161][][161][Matters to be taken into account in exercising powers given by section 92O][161]
 
 [Monetary limits on remedies Tribunal may grant][162]
 
-[92Q][163] [Monetary limits on remedies Tribunal may grant][163]
+[92Q][163][][163][Monetary limits on remedies Tribunal may grant][163]
 
 [Granting of remedies by High Court on reference from Tribunal][164]
 
-[92R][165] [Tribunal to refer granting of remedies to High Court][165]
+[92R][165][][165][Tribunal to refer granting of remedies to High Court][165]
 
-[92S][166] [Further provisions on reference to High Court][166]
+[92S][166][][166][Further provisions on reference to High Court][166]
 
-[92T][167] [High Court decides remedies on reference from Tribunal][167]
+[92T][167][][167][High Court decides remedies on reference from Tribunal][167]
 
-[92U][168] [High Court's decision on remedies to be included in, and given effect to as part of, Tribunal's determination][168]
+[92U][168][][168][High Court's decision on remedies to be included in, and given effect to as part of, Tribunal's determination][168]
 
 [Abandonment or agreement to bring claim within Tribunal's jurisdiction][169]
 
-[92V][170] [Abandonment to enable Tribunal to make award of damages][170]
+[92V][170][][170][Abandonment to enable Tribunal to make award of damages][170]
 
-[92W][171] [Extension of jurisdiction by agreement between parties][171]
+[92W][171][][171][Extension of jurisdiction by agreement between parties][171]
 
 [Part 4][172]  
 [Human Rights Review Tribunal][172]
 
-[93][173] [Human Rights Review Tribunal][173]
+[93][173][][173][Human Rights Review Tribunal][173]
 
 [Functions and powers of Tribunal][174]
 
-[94][175] [Functions of Tribunal][175]
+[94][175][][175][Functions of Tribunal][175]
 
-[95][176] [Power to make interim order][176]
+[95][176][][176][Power to make interim order][176]
 
-[96][177] [Review of interim orders][177]
+[96][177][][177][Review of interim orders][177]
 
-[97][178] [Power in respect of exception for genuine occupational qualification or genuine justification][178]
+[97][178][][178][Power in respect of exception for genuine occupational qualification or genuine justification][178]
 
 [Constitution of Tribunal][179]
 
-[98][180] [Membership of Tribunal][180]
+[98][180][][180][Membership of Tribunal][180]
 
-[99][181] [Chairpersons of Tribunal][181]
+[99][181][][181][Chairpersons of Tribunal][181]
 
-[99A][182] [Criteria and requirement for appointment of Chairpersons][182]
+[99A][182][][182][Criteria and requirement for appointment of Chairpersons][182]
 
-[100][183] [Appointment and term of office][183]
+[100][183][][183][Appointment and term of office][183]
 
-[101][184] [Panel][184]
+[101][184][][184][Panel][184]
 
-[102][185] [Deputy Chairperson][185]
+[102][185][][185][Deputy Chairperson][185]
 
-[103][186] [Vacation of office by Chairperson and Deputy Chairperson][186]
+[103][186][][186][Vacation of office by Chairperson and Deputy Chairperson][186]
 
 [Procedure of Tribunal][187]
 
-[104][188] [Sittings of Tribunal][188]
+[104][188][][188][Sittings of Tribunal][188]
 
-[105][189] [Substantial merits][189]
+[105][189][][189][Substantial merits][189]
 
-[106][190] [Evidence in proceedings before Tribunal][190]
+[106][190][][190][Evidence in proceedings before Tribunal][190]
 
-[107][191] [Sittings to be held in public except in special circumstances][191]
+[107][191][][191][Sittings to be held in public except in special circumstances][191]
 
-[108][192] [Persons entitled to be heard][192]
+[108][192][][192][Persons entitled to be heard][192]
 
-[108A][193] [Tribunal to give notice of proceedings][193]
+[108A][193][][193][Tribunal to give notice of proceedings][193]
 
-[108B][194] [Submissions in relation to remedies][194]
+[108B][194][][194][Submissions in relation to remedies][194]
 
-[109][195] [Witness summons][195]
+[109][195][][195][Witness summons][195]
 
-[110][196] [Service of summons][196]
+[110][196][][196][Service of summons][196]
 
-[111][197] [Witnesses' allowances][197]
+[111][197][][197][Witnesses' allowances][197]
 
-[112][198] [Privileges and immunities][198]
+[112][198][][198][Privileges and immunities][198]
 
-[113][199] [Non-attendance or refusal to co-operate][199]
+[113][199][][199][Non-attendance or refusal to co-operate][199]
 
-[114][200] [Power to commit for contempt][200]
+[114][200][][200][Power to commit for contempt][200]
 
-[115][201] [Tribunal may dismiss trivial, etc, proceedings][201]
+[115][201][][201][Tribunal may dismiss trivial, etc, proceedings][201]
 
-[116][202] [Reasons to be given][202]
+[116][202][][202][Reasons to be given][202]
 
-[117][203] [Seal of Tribunal][203]
+[117][203][][203][Seal of Tribunal][203]
 
-[118][204] [Members of Tribunal not personally liable][204]
+[118][204][][204][Members of Tribunal not personally liable][204]
 
-[119][205] [Fees of members of Tribunal][205]
+[119][205][][205][Fees of members of Tribunal][205]
 
-[120][206] [Services for Tribunal][206]
+[120][206][][206][Services for Tribunal][206]
 
-[121][207] [Enforcement][207]
+[121][207][][207][Enforcement][207]
 
-[122][208] [Stating case for High Court][208]
+[122][208][][208][Stating case for High Court][208]
 
-[122A][209] [Removal to High Court of proceedings or issue][209]
+[122A][209][][209][Removal to High Court of proceedings or issue][209]
 
-[122B][210] [Proceedings or issue removed to High Court][210]
+[122B][210][][210][Proceedings or issue removed to High Court][210]
 
-[123][211] [Appeals to High Court][211]
+[123][211][][211][Appeals to High Court][211]
 
-[124][212] [Appeal to Court of Appeal on a question of law][212]
+[124][212][][212][Appeal to Court of Appeal on a question of law][212]
 
-[125][213] [Costs of appeal][213]
+[125][213][][213][Costs of appeal][213]
 
-[126][214] [Additional members of High Court for purposes of Act][214]
+[126][214][][214][Additional members of High Court for purposes of Act][214]
 
 [Part 5][215]  
 [Powers in relation to inquiries][215]
 
-[126A][216] [Evidence order][216]
+[126A][216][][216][Evidence order][216]
 
-[127][217] [Evidence][217]
+[127][217][][217][Evidence][217]
 
-[128][218] [Protection and privileges of witnesses, etc][218]
+[128][218][][218][Protection and privileges of witnesses, etc][218]
 
-[129][219] [Disclosure of certain matters not to be required][219]
+[129][219][][219][Disclosure of certain matters not to be required][219]
 
-[130][220] [Proceedings privileged][220]
+[130][220][][220][Proceedings privileged][220]
 
 [Part 6][221]  
 [Inciting racial disharmony][221]
 
-[131][222] [Inciting racial disharmony][222]
+[131][222][][222][Inciting racial disharmony][222]
 
-[132][223] [No prosecution without Attorney-General's consent][223]
+[132][223][][223][No prosecution without Attorney-General's consent][223]
 
 [Part 7][224]  
 [Miscellaneous provisions][224]
 
-[133][225] [Licences and registration][225]
+[133][225][][225][Licences and registration][225]
 
-[134][226] [Access by the public to places, vehicles, and facilities][226]
+[134][226][][226][Access by the public to places, vehicles, and facilities][226]
 
-[135][227] [No prosecution without Attorney-General's consent][227]
+[135][227][][227][No prosecution without Attorney-General's consent][227]
 
-[136][228] [Condition in restraint of marriage, civil union, or de facto relationship][228]
+[136][228][][228][Condition in restraint of marriage, civil union, or de facto relationship][228]
 
-[137][229] [Advisors to be officials][229]
+[137][229][][229][Advisors to be officials][229]
 
-[138][230] [No adverse statement][230]
+[138][230][][230][No adverse statement][230]
 
-[139][231] [Restriction on delegation][231]
+[139][231][][231][Restriction on delegation][231]
 
-[140][232] [Delegation of powers by certain Commissioners][232]
+[140][232][][232][Delegation of powers by certain Commissioners][232]
 
-[141][233] [Annual report][233] \[Repealed\]
+[141][233][][233][Annual report][233] \[Repealed\]
 
-[141A][234] [Certain acts not to be questioned][234]
+[141A][234][][234][Certain acts not to be questioned][234]
 
-[142][235] [Money to be appropriated by Parliament for purposes of this Act][235] \[Repealed\]
+[142][235][][235][Money to be appropriated by Parliament for purposes of this Act][235] \[Repealed\]
 
-[143][236] [Offences][236]
+[143][236][][236][Offences][236]
 
-[144][237] [Regulations][237]
+[144][237][][237][Regulations][237]
 
-[145][238] [Related amendments to other enactments][238] \[Repealed\]
+[145][238][][238][Related amendments to other enactments][238] \[Repealed\]
 
-[146][239] [Repeals][239] \[Repealed\]
+[146][239][][239][Repeals][239] \[Repealed\]
 
-[147][240] [Revocation][240] \[Repealed\]
+[147][240][][240][Revocation][240] \[Repealed\]
 
 [Transitional provisions][241]
 
-[148][242] [Former office of Commissioner abolished][242]
+[148][242][][242][Former office of Commissioner abolished][242]
 
-[148A][243] [Certain former Commissioners to be transitional members of Commission][243]
+[148A][243][][243][Certain former Commissioners to be transitional members of Commission][243]
 
 [Race Relations Conciliator][244]
 
-[148B][245] [Assets and liabilities vest in Commission][245]
+[148B][245][][245][Assets and liabilities vest in Commission][245]
 
-[148C][246] [References to Race Relations Conciliator][246]
+[148C][246][][246][References to Race Relations Conciliator][246]
 
-[148D][247] [Proceedings][247]
+[148D][247][][247][Proceedings][247]
 
-[148E][248] [Commission to arrange final audited accounts][248]
+[148E][248][][248][Commission to arrange final audited accounts][248]
 
-[148F][249] [All employees transferred to Commission][249]
+[148F][249][][249][All employees transferred to Commission][249]
 
 [Proceedings Commissioner][250]
 
-[148G][251] [Proceedings Commissioner][251]
+[148G][251][][251][Proceedings Commissioner][251]
 
-[148H][252] [References to Proceedings Commissioner][252]
+[148H][252][][252][References to Proceedings Commissioner][252]
 
-[148I][253] [Proceedings to which Proceedings Commissioner party][253]
+[148I][253][][253][Proceedings to which Proceedings Commissioner party][253]
 
-[148J][254] [Complaints referred to Proceedings Commissioner for decision as to proceedings][254]
+[148J][254][][254][Complaints referred to Proceedings Commissioner for decision as to proceedings][254]
 
-[148K][255] [Transfer of employees from Commission to Office][255]
+[148K][255][][255][Transfer of employees from Commission to Office][255]
 
 [Complaints Division][256]
 
-[148L][257] [Complaints Division abolished][257]
+[148L][257][][257][Complaints Division abolished][257]
 
-[148M][258] [Outstanding complaints to be dealt with by Commission under new procedure][258]
+[148M][258][][258][Outstanding complaints to be dealt with by Commission under new procedure][258]
 
-[148N][259] [Breaches of Part 1A][259]
+[148N][259][][259][Breaches of Part 1A][259]
 
-[148O][260] [Complaints about breaches of Part 1A][260]
+[148O][260][][260][Complaints about breaches of Part 1A][260]
 
 [Savings][261]
 
-[149][262] [Special provisions in relation to written employment contracts in force on 1 April 1992][262]
+[149][262][][262][Special provisions in relation to written employment contracts in force on 1 April 1992][262]
 
-[150][263] [Charitable instruments][263]
+[150][263][][263][Charitable instruments][263]
 
-[151][264] [Other enactments and actions not affected][264] \[Repealed\]
+[151][264][][264][Other enactments and actions not affected][264] \[Repealed\]
 
-[152][265] [Expiry of section 151][265] \[Repealed\]
+[152][265][][265][Expiry of section 151][265] \[Repealed\]
 
-[153][266] [Savings][266]
+[153][266][][266][Savings][266]
 
 [Schedule 1][267]  
 [Administrative provisions applying in respect of Commission][267]
@@ -3541,9 +3541,11 @@ Human Rights Review Tribunal
     
     *   (c) make an order prohibiting the publication of the whole or part of any books or documents produced at any hearing of the Tribunal.
     
-    (4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
+    (4) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
     
     Compare: 1977 No 49 s 54
+    
+    Section 107(4): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 108 Persons entitled to be heard
     
@@ -3553,13 +3555,13 @@ Human Rights Review Tribunal
     
     (3) A person who has a right to appear or is allowed to appear before the Tribunal may appear in person or be represented by his or her counsel or agent.
     
-    Section 108(2): substituted, on 1 January 2002, by [section 20][360] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 108(2): substituted, on 1 January 2002, by [section 20][361] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 108A Tribunal to give notice of proceedings
     
 *   The Tribunal must notify the Attorney-General promptly of the bringing of proceedings before the Tribunal alleging a breach of [Part 1A][46], or alleging a breach of [Part 2][51] by a person or body referred to in [section 3][293] of the New Zealand Bill of Rights Act 1990, if the Attorney-General is not a party to the proceedings.
     
-    Section 108A: inserted, on 1 January 2002, by [section 21][361] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 108A: inserted, on 1 January 2002, by [section 21][362] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 108B Submissions in relation to remedies
     
@@ -3571,7 +3573,7 @@ Human Rights Review Tribunal
     
     (2) Subsection (1) does not limit any provision in [Part 3][123] or [section 108][192].
     
-    Section 108B: inserted, on 1 January 2002, by [section 21][361] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 108B: inserted, on 1 January 2002, by [section 21][362] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 109 Witness summons
     
@@ -3591,7 +3593,7 @@ Human Rights Review Tribunal
     
     (3) The power to issue a witness summons may be exercised by the Tribunal or a Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or a Chairperson.
     
-    Section 109(1): amended, on 1 January 2002, by [section 22][362] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 109(1): amended, on 1 January 2002, by [section 22][363] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 110 Service of summons
     
@@ -3611,7 +3613,7 @@ Human Rights Review Tribunal
 
 ##### 111 Witnesses' allowances
     
-*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Summary Proceedings Act 1957][363], and those regulations shall apply accordingly.
+*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][364], and those regulations shall apply accordingly.
     
     (2) On each occasion on which the Tribunal issues a summons under [section 109(1)][195], the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
     
@@ -3625,7 +3627,7 @@ Human Rights Review Tribunal
     
     *   (b) be paid from money appropriated by Parliament for the purpose.
     
-    
+    Section 111(1): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 112 Privileges and immunities
     
@@ -3641,9 +3643,11 @@ Human Rights Review Tribunal
     
     *   (c) fails to produce any such paper, document, record, or thing.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500\.
     
     (3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with [section 111][197].
+    
+    Section 113(2): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114 Power to commit for contempt
     
@@ -3659,7 +3663,7 @@ Human Rights Review Tribunal
     
     (2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
     
-    Section 114(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][364] of the Policing Act 2008 (2008 No 72).
+    Section 114(1)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][365] of the Policing Act 2008 (2008 No 72).
 
 ##### 115 Tribunal may dismiss trivial, etc, proceedings
     
@@ -3667,7 +3671,7 @@ Human Rights Review Tribunal
     
     Compare: 1977 No 49 s 55
     
-    Section 115: amended, on 1 January 2002, by [section 23][365] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 115: amended, on 1 January 2002, by [section 23][366] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 116 Reasons to be given
     
@@ -3689,7 +3693,7 @@ Human Rights Review Tribunal
     
     (3) The Tribunal must notify the parties, the Attorney-General, and the Human Rights Commission of every decision of the Tribunal.
     
-    Section 116: substituted, on 1 January 2002, by [section 24][366] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 116: substituted, on 1 January 2002, by [section 24][367] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 117 Seal of Tribunal
     
@@ -3723,9 +3727,9 @@ Human Rights Review Tribunal
     
     Compare: 1977 No 49 s 60
     
-    Section 120(1): amended, on 1 October 2003, pursuant to [section 14(1)][367] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 120(1): amended, on 1 October 2003, pursuant to [section 14(1)][368] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 120(2): amended, on 1 October 2003, pursuant to [section 14(1)][367] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 120(2): amended, on 1 October 2003, pursuant to [section 14(1)][368] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ##### 121 Enforcement
     
@@ -3737,13 +3741,15 @@ Human Rights Review Tribunal
     
     *   (c) an interim order under [section 95][176].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under [section 92I][154] or an interim order of the Tribunal made under [section 95][176].
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under [section 92I][154] or an interim order of the Tribunal made under [section 95][176].
     
     Compare: 1977 No 49 s 61
     
-    Section 121(1): substituted, on 1 January 2002, by [section 25(1)][368] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 121(1): substituted, on 1 January 2002, by [section 25(1)][369] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 121(2): amended, on 1 January 2002, by [section 25(2)][368] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 121(2): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 121(2): amended, on 1 January 2002, by [section 25(2)][369] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 122 Stating case for High Court
     
@@ -3765,7 +3771,7 @@ Human Rights Review Tribunal
     
     Compare: 1977 No 49 s 62
     
-    Section 122(1A): inserted, on 1 January 2002, by [section 26][369] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 122(1A): inserted, on 1 January 2002, by [section 26][370] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 122A Removal to High Court of proceedings or issue
     
@@ -3791,7 +3797,7 @@ Human Rights Review Tribunal
     
     (6) Nothing in this section limits [section 122][208].
     
-    Section 122A: inserted, on 1 January 2002, by [section 27][370] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 122A: inserted, on 1 January 2002, by [section 27][371] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 122B Proceedings or issue removed to High Court
     
@@ -3803,7 +3809,7 @@ Human Rights Review Tribunal
     
     *   (b) a party to the proceedings may, under [section 124][212], appeal to the Court of Appeal against the determination of the High Court on a question of law arising in the proceedings.
     
-    Section 122B: inserted, on 1 January 2002, by [section 27][370] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 122B: inserted, on 1 January 2002, by [section 27][371] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 123 Appeals to High Court
     
@@ -3847,9 +3853,9 @@ Human Rights Review Tribunal
     
     Compare: 1977 No 49 s 63
     
-    Section 123(2): substituted, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 123(2): substituted, on 1 January 2004, by [section 47][372] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 123(2A): inserted, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 123(2A): inserted, on 1 January 2004, by [section 47][372] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 124 Appeal to Court of Appeal on a question of law
     
@@ -3869,7 +3875,7 @@ Human Rights Review Tribunal
     
     Compare: 1977 No 49 s 64
     
-    Section 124(5): substituted, on 1 January 2004, by [section 47][371] of the Supreme Court Act 2003 (2003 No 53).
+    Section 124(5): substituted, on 1 January 2004, by [section 47][372] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 125 Costs of appeal
     
@@ -3903,11 +3909,11 @@ Human Rights Review Tribunal
     
     (7) For the purposes of subsection (6), _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
     
-    Compare: 1977 No 49 s 66; 1991 No 60 [s 3(4)][372]
+    Compare: 1977 No 49 s 66; 1991 No 60 [s 3(4)][373]
     
-    Section 126(1)(a): amended, on 1 January 2002, by [section 29(a)][373] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 126(1)(a): amended, on 1 January 2002, by [section 29(a)][374] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 126(1)(b): amended, on 1 January 2002, by [section 29(b)][373] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 126(1)(b): amended, on 1 January 2002, by [section 29(b)][374] of the Human Rights Amendment Act 2001 (2001 No 96).
     
     Section 126(6): substituted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -3916,7 +3922,7 @@ Human Rights Review Tribunal
 ## Part 5  
 Powers in relation to inquiries
     
-*   Part 5 heading: amended, on 1 January 2002, by [section 30][374] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Part 5 heading: amended, on 1 January 2002, by [section 30][375] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 126A Evidence order
     
@@ -3938,7 +3944,7 @@ Powers in relation to inquiries
     
     (4) In this section, _specified inquiry_ means an inquiry by the Commission under [section 5(2)(h)][8] into the contravention or possible contravention by any person of New Zealand law relating to human rights.
     
-    Section 126A: inserted, on 1 January 2002, by [section 31][375] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 126A: inserted, on 1 January 2002, by [section 31][376] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 127 Evidence
     
@@ -3946,15 +3952,15 @@ Powers in relation to inquiries
     
     (2) The Commission may summon before it, and examine on oath, any person who is subject to an order under [section 126A(1)(b)][216], in accordance with the terms of the order, and a Commissioner may for that purpose administer an oath to the person summoned.
     
-    (3) Every such examination by a Commission shall be deemed to be a judicial proceeding within the meaning of [section 108][376] of the Crimes Act 1961 (which relates to perjury).
+    (3) Every such examination by a Commission shall be deemed to be a judicial proceeding within the meaning of [section 108][377] of the Crimes Act 1961 (which relates to perjury).
     
     Compare: 1977 No 49 s 73(1), (2)
     
-    Section 127(1): substituted, on 1 January 2002, by [section 32][377] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 127(1): substituted, on 1 January 2002, by [section 32][378] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 127(2): substituted, on 1 January 2002, by [section 32][377] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 127(2): substituted, on 1 January 2002, by [section 32][378] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 127(3): amended, on 1 January 2002, by [section 32][377] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 127(3): amended, on 1 January 2002, by [section 32][378] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 128 Protection and privileges of witnesses, etc
     
@@ -3966,21 +3972,23 @@ Powers in relation to inquiries
     
     (4) Where the attendance of any person is required by a Commission under [section 127][217], the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,---
         
-    *   (a) the provisions of any regulations in that behalf under the [Summary Proceedings Act 1957][363] shall apply accordingly; and
+    *   (a) the provisions of any regulations in that behalf under the [Criminal Procedure Act 2011][364] shall apply accordingly; and
     
     *   (b) the Commission shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
     
     Compare: 1977 No 49 s 73(3), (4), (6), (7)
     
-    Section 128(1): amended, on 1 January 2002, by [section 33][378] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 128(1): amended, on 1 January 2002, by [section 33][379] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 128(2): amended, on 1 January 2002, by [section 33][378] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 128(2): amended, on 1 January 2002, by [section 33][379] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 128(3): amended, on 1 January 2002, by [section 33][378] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 128(3): amended, on 1 January 2002, by [section 33][379] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 128(4): amended, on 1 January 2002, by [section 33][378] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 128(4): amended, on 1 January 2002, by [section 33][379] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 128(4)(b): amended, on 1 January 2002, by [section 33][378] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 128(4)(a): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 128(4)(b): amended, on 1 January 2002, by [section 33][379] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 129 Disclosure of certain matters not to be required
     
@@ -4002,31 +4010,31 @@ Powers in relation to inquiries
     
     Compare: 1977 No 49 s 74
     
-    Section 129(1): amended, on 1 January 2002, by [section 34][379] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 129(1): amended, on 1 January 2002, by [section 34][380] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 129(2): amended, on 1 January 2002, by [section 34][379] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 129(2): amended, on 1 January 2002, by [section 34][380] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 130 Proceedings privileged
     
-*   (1) [Sections 120 to 126][380] of the Crown Entities Act 2004 apply except to the extent provided in subsections (2) and (2A) (which set out special rules relating to proceedings under [section 131][222] (which relates to inciting racial disharmony)).
+*   (1) [Sections 120 to 126][381] of the Crown Entities Act 2004 apply except to the extent provided in subsections (2) and (2A) (which set out special rules relating to proceedings under [section 131][222] (which relates to inciting racial disharmony)).
     
     (2) No proceedings under [section 131][222] lie against any Commissioner or person engaged or employed in connection with the work of the Commission and the Director of Human Rights Proceedings (**relevant person**) for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
     
-    (2A) [Sections 122 to 126][381] of the Crown Entities Act 2004 then apply as if the conduct for which a relevant person may be indemnified or insured under those sections included conduct that is covered by the immunity in subsection (2).
+    (2A) [Sections 122 to 126][382] of the Crown Entities Act 2004 then apply as if the conduct for which a relevant person may be indemnified or insured under those sections included conduct that is covered by the immunity in subsection (2).
     
     (2B) No relevant person can be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
     
     (3) Nothing in subsection (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][382] or [section 78A(1)][383] or [section 105][384] or [section 105A][385] or [section 105B][386] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][383] or [section 78A(1)][384] or [section 105][385] or [section 105A][386] or [section 105B][387] of the Crimes Act 1961; or
     
-    *   (b) the offence of attempting or conspiring to commit an offence against [section 78][382] or [section 78A(1)][383] or [section 105][384] or [section 105A][385] or [section 105B][386] of the Crimes Act 1961\.
+    *   (b) the offence of attempting or conspiring to commit an offence against [section 78][383] or [section 78A(1)][384] or [section 105][385] or [section 105A][386] or [section 105B][387] of the Crimes Act 1961\.
     
     (4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
     
-    (5) For the purposes of [clause 3][387] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (5) For the purposes of [clause 3][388] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
-    Compare: 1971 No 150 s 20; 1977 No 49 s 76; 1982 No 156 [s 50][388]; 1991 No 126 s 29; 1993 No 35 s 6
+    Compare: 1971 No 150 s 20; 1977 No 49 s 76; 1982 No 156 [s 50][389]; 1991 No 126 s 29; 1993 No 35 s 6
     
     Section 130(1): substituted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -4036,14 +4044,14 @@ Powers in relation to inquiries
     
     Section 130(2B): inserted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 130(4): amended, on 1 January 2002, by [section 35(b)][389] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 130(4): amended, on 1 January 2002, by [section 35(b)][390] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ## Part 6  
 Inciting racial disharmony
 
 ##### 131 Inciting racial disharmony
     
-*   (1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,---
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,---
         
     *   (a) publishes or distributes written matter which is threatening, abusive, or insulting, or broadcasts by means of radio or television words which are threatening, abusive, or insulting; or
     
@@ -4054,6 +4062,8 @@ Inciting racial disharmony
     (2) For the purposes of this section, _publishes_ or _distributes_ and _written matter_ have the meaning given to them in [section 61][107].
     
     Compare: 1971 No 150 s 25; 1977 No 49 s 86
+    
+    Section 131(1): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 132 No prosecution without Attorney-General's consent
     
@@ -4098,11 +4108,13 @@ Miscellaneous provisions
     
     when that refusal or requirement is in breach of any of the provisions of [Part 2][51].
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $3,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $3,000\.
     
     (3) In this section the term _vehicle_ includes a vessel, an aircraft, or a hovercraft.
     
     Compare: 1971 No 150 s 24; 1977 No 49 s 86
+    
+    Section 134(2): amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 135 No prosecution without Attorney-General's consent
     
@@ -4116,17 +4128,17 @@ Miscellaneous provisions
     
     Compare: 1971 No 150 s 27(1)
     
-    Section 136 heading: amended, on 20 September 2007, by [section 4(1)][390] of the Human Rights Amendment Act 2007 (2007 No 64).
+    Section 136 heading: amended, on 20 September 2007, by [section 4(1)][391] of the Human Rights Amendment Act 2007 (2007 No 64).
     
-    Section 136: amended, on 20 September 2007, by [section 4(2)][390] of the Human Rights Amendment Act 2007 (2007 No 64).
+    Section 136: amended, on 20 September 2007, by [section 4(2)][391] of the Human Rights Amendment Act 2007 (2007 No 64).
     
-    Section 136: amended, on 20 September 2007, by [section 4(3)][390] of the Human Rights Amendment Act 2007 (2007 No 64).
+    Section 136: amended, on 20 September 2007, by [section 4(3)][391] of the Human Rights Amendment Act 2007 (2007 No 64).
 
 ##### 137 Advisors to be officials
     
-*   (1) Every person engaged by the Commission in connection with its work is an official for the purposes of [sections 105][384] and [105A][385] of the Crimes Act 1961\.
+*   (1) Every person engaged by the Commission in connection with its work is an official for the purposes of [sections 105][385] and [105A][386] of the Crimes Act 1961\.
     
-    (2) This section does not limit [section 135][391] of the Crown Entities Act 2004\.
+    (2) This section does not limit [section 135][392] of the Crown Entities Act 2004\.
     
     Section 137: substituted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4136,13 +4148,13 @@ Miscellaneous provisions
     
     Compare: 1977 No 49 s 78(2); 1991 No 126 s 32
     
-    Section 138: amended, on 1 January 2002, by [section 36][392] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 138: amended, on 1 January 2002, by [section 36][393] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 139 Restriction on delegation
     
 *   (1) The Commission may not delegate the powers or functions in [section 7][11] or [section 76][125].
     
-    (2) In other respects, [section 73][393] of the Crown Entities Act 2004 applies.
+    (2) In other respects, [section 73][394] of the Crown Entities Act 2004 applies.
     
     Section 139: substituted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4166,17 +4178,17 @@ Miscellaneous provisions
     
     (5) A person purporting to exercise a function or power of a Commissioner by virtue of a delegation under this section must, when required to do so, produce evidence of the person's authority to exercise the power.
     
-    (6) [Sections 62 to 72][394] of the Crown Entities Act 2004 apply to a delegate under this section as if the delegate were a member and as if the disclosure must be made to the Commission and with other necessary modifications.
+    (6) [Sections 62 to 72][395] of the Crown Entities Act 2004 apply to a delegate under this section as if the delegate were a member and as if the disclosure must be made to the Commission and with other necessary modifications.
     
-    (7) [Sections 74 to 76][395] of the Crown Entities Act 2004 do not apply to a delegation under this section.
+    (7) [Sections 74 to 76][396] of the Crown Entities Act 2004 do not apply to a delegation under this section.
     
     Compare: 1977 No 49 s 80
     
-    Section 140: substituted, on 1 January 2002, by [section 37][396] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 140: substituted, on 1 January 2002, by [section 37][397] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section140(6): added, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
+    Section 140(6): added, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section140(7): added, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
+    Section 140(7): added, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 141 Annual report
     
@@ -4190,7 +4202,7 @@ Miscellaneous provisions
     
     (2) No action of the Chief Commissioner or the Equal Employment Opportunities Commissioner that is required by this Act to be undertaken jointly with the other may be questioned in any proceedings on the ground that it was not undertaken jointly.
     
-    Section 141A: inserted, on 1 January 2002, by [section 38][397] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 141A: inserted, on 1 January 2002, by [section 38][398] of the Human Rights Amendment Act 2001 (2001 No 96).
     
     Section 141A(2): brought into force, on 1 July 2002, by [section 2(2)][286] of the Human Rights Amendment Act 2001 (2001 No 96).
 
@@ -4202,7 +4214,7 @@ Miscellaneous provisions
 
 ##### 143 Offences
     
-*   Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $3,000 who---
+*   Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who---
         
     *   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act:
     
@@ -4211,6 +4223,8 @@ Miscellaneous provisions
     *   (c) makes any false statement knowing it to be false or intentionally misleads or attempts to mislead the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act.
     
     Compare: 1971 No 150 s 29; 1977 No 49 s 84
+    
+    Section 143: amended, on 1 July 2013, by [section 413][360] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 144 Regulations
     
@@ -4226,31 +4240,31 @@ Miscellaneous provisions
     
     Compare: 1977 No 49 s 85(1)
     
-    Section 144(1)(a): amended, on 1 January 2002, by [section 39][398] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 144(1)(a): amended, on 1 January 2002, by [section 39][399] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 144(2): added, on 21 October 1994, by [section 82][399] of the Health and Disability Commissioner Act 1994 (1994 No 88).
+    Section 144(2): added, on 21 October 1994, by [section 82][400] of the Health and Disability Commissioner Act 1994 (1994 No 88).
 
 ##### 145 Related amendments to other enactments
     
 *   \[Repealed\]
     
-    Section 145: repealed, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 145: repealed, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 146 Repeals
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 146: repealed, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 147 Revocation
     
 *   \[Repealed\]
     
-    Section 147: repealed, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 147: repealed, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Transitional provisions
     
-*   Heading: substituted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Heading: substituted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148 Former office of Commissioner abolished
     
@@ -4258,7 +4272,7 @@ Miscellaneous provisions
     
     (2) No person is entitled to compensation for loss of office as a Commissioner under subsection (1).
     
-    Section 148: substituted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148: substituted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148A Certain former Commissioners to be transitional members of Commission
     
@@ -4268,21 +4282,21 @@ Miscellaneous provisions
     
     (3) Every person who, immediately before the commencement of this section, held office as Commissioner under [section 7(1)(e)][11] (as it read immediately before the commencement of this section) is taken to have been appointed to the office of Commissioner under [section 8(1)(d)][13] (as substituted by [section 5][280] of the Human Rights Amendment Act 2001).
     
-    (4) The Privacy Commissioner appointed under the [Privacy Act 1993][401] and the Commissioner appointed to be Proceedings Commissioner under [section 7(1)(d)][11] (as it read before the commencement of the [Human Rights Amendment Act 2001][348]) cease to be Human Rights Commissioners on the commencement of this section.
+    (4) The Privacy Commissioner appointed under the [Privacy Act 1993][402] and the Commissioner appointed to be Proceedings Commissioner under [section 7(1)(d)][11] (as it read before the commencement of the [Human Rights Amendment Act 2001][348]) cease to be Human Rights Commissioners on the commencement of this section.
     
     (5) Every person who is taken to have been appointed to the office of Commissioner under this section is appointed on the same terms and conditions and for the remainder of the term for which the person was appointed under [section 7(1)][11] (as it read immediately before the commencement of this section).
     
-    Section 148A: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148A: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Race Relations Conciliator
     
-*   Heading: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Heading: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148B Assets and liabilities vest in Commission
     
 *   On the commencement of this section, the assets and liabilities of the Race Relations Conciliator vest in the Commission.
     
-    Section 148B: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148B: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148C References to Race Relations Conciliator
     
@@ -4290,19 +4304,19 @@ Miscellaneous provisions
     
     (2) Despite subsection (1), every reference to the Race Relations Conciliator in any contract or other instrument, document, or notice that creates, or is evidence of, an asset or liability, must be read as a reference to the Commission.
     
-    Section 148C: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148C: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148D Proceedings
     
 *   Any proceedings to which the Race Relations Conciliator was a party or that he or she was considering bringing, before the commencement of this section, may be brought, continued, completed, and enforced by or against the Commission.
     
-    Section 148D: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148D: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148E Commission to arrange final audited accounts
     
-*   The Commission must perform the duties that the Race Relations Conciliator would have had to perform under [section 41][402] of the Public Finance Act 1989 if the [Human Rights Amendment Act 2001][348] had not been enacted, for the period beginning on 1 July 2001 and ending with the close of 31 December 2001\.
+*   The Commission must perform the duties that the Race Relations Conciliator would have had to perform under [section 41][403] of the Public Finance Act 1989 if the [Human Rights Amendment Act 2001][348] had not been enacted, for the period beginning on 1 July 2001 and ending with the close of 31 December 2001\.
     
-    Section 148E: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148E: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148F All employees transferred to Commission
     
@@ -4316,11 +4330,11 @@ Miscellaneous provisions
     
     (3) A person to whom subsection (1) applies is not entitled to any compensation just because the person has ceased to be an employee of the Race Relations Conciliator.
     
-    Section 148F: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148F: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Proceedings Commissioner
     
-*   Heading: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Heading: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148G Proceedings Commissioner
     
@@ -4328,13 +4342,13 @@ Miscellaneous provisions
     
     (2) The Director of Human Rights Proceedings is appointed on the same terms and conditions and for the remainder of the term for which he or she was appointed Proceedings Commissioner.
     
-    Section 148G: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148G: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148H References to Proceedings Commissioner
     
 *   From the commencement of this section, unless the context otherwise requires, every reference to the Proceedings Commissioner in any instrument, document, or notice is to be read as a reference to the Director.
     
-    Section 148H: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148H: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148I Proceedings to which Proceedings Commissioner party
     
@@ -4352,7 +4366,7 @@ Miscellaneous provisions
     
     *   (c) the Human Rights Review Tribunal were the Complaints Review Tribunal.
     
-    Section 148I: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148I: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148J Complaints referred to Proceedings Commissioner for decision as to proceedings
     
@@ -4370,7 +4384,7 @@ Miscellaneous provisions
     
     *   (c) if the Commissioner has made a decision not to institute proceedings, that decision is deemed to have been made by the Director.
     
-    Section 148J: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148J: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148K Transfer of employees from Commission to Office
     
@@ -4388,17 +4402,17 @@ Miscellaneous provisions
     
     *   (b) the person has ceased (as a result of the transfer) to be an employee of the Commission.
     
-    Section 148K: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148K: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Complaints Division
     
-*   Heading: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Heading: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148L Complaints Division abolished
     
 *   The Complaints Division of the Commission is abolished.
     
-    Section 148L: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148L: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148M Outstanding complaints to be dealt with by Commission under new procedure
     
@@ -4412,7 +4426,7 @@ Miscellaneous provisions
     
     (3) Despite subsection (1), if, in relation to a complaint, the Complaints Division has decided not to investigate the complaint further under [section 76(1)][125] or [section 77(1)(a)][126] (as they read immediately before the commencement of this section), the Commission must take no action or further action in relation to the complaint.
     
-    Section 148M: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148M: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148N Breaches of Part 1A
     
@@ -4422,7 +4436,7 @@ Miscellaneous provisions
     
     *   (b) in the case of an enactment, the enactment is in force on or after 1 January 2002\.
     
-    Section 148N: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148N: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 148O Complaints about breaches of Part 1A
     
@@ -4430,7 +4444,7 @@ Miscellaneous provisions
     
     (2) The Commission is not under a duty to receive or assess any complaint alleging that an act or omission that occurred before 1 January 2002 and that ceased to continue or to be in force before 1 January 2002 is in breach of [Part 1A][46].
     
-    Section 148O: inserted, on 1 January 2002, by [section 40][400] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 148O: inserted, on 1 January 2002, by [section 40][401] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 #### Savings
 
@@ -4468,13 +4482,13 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 151: repealed, on 1 January 2002, by [section 41][403] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 151: repealed, on 1 January 2002, by [section 41][404] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 152 Expiry of section 151
     
 *   \[Repealed\]
     
-    Section 152: repealed, on 1 January 2002, by [section 41][403] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 152: repealed, on 1 January 2002, by [section 41][404] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 153 Savings
     
@@ -4492,15 +4506,15 @@ Miscellaneous provisions
     
     Compare: 1971 No 150 s 37; 1977 No 49 ss 86, 93
     
-    Section 153(1): amended, on 1 January 2002, by [section 42(1)(a)][404] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 153(1): amended, on 1 January 2002, by [section 42(1)(a)][405] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 153(1): amended, on 1 January 2002, by [section 42(1)(b)][404] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 153(1): amended, on 1 January 2002, by [section 42(1)(b)][405] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 153(1): amended, on 1 January 2002, by [section 42(1)(c)][404] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 153(1): amended, on 1 January 2002, by [section 42(1)(c)][405] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 153(3)(a): repealed, on 1 January 2002, by [section 42(2)][404] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 153(3)(a): repealed, on 1 January 2002, by [section 42(2)][405] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 153(4): repealed, on 1 January 2002, by [section 42(2)][404] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 153(4): repealed, on 1 January 2002, by [section 42(2)][405] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ---
 
@@ -4509,7 +4523,7 @@ Administrative provisions applying in respect of Commission
 
 [s 20H(1)][45]
 
-*   Schedule 1: substituted, on 1 January 2002, by [section 43][405] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Schedule 1: substituted, on 1 January 2002, by [section 43][406] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 1 General manager: appointment, term of office, and conditions
     
@@ -4523,7 +4537,7 @@ Administrative provisions applying in respect of Commission
     
     *   (d) unless he or she sooner vacates or no longer holds or is removed from the office, continues in it until his or her successor comes into it, even though the term for which he or she was appointed has expired.
     
-    (2) Subclause (1) is subject to [section 117][406] of the Crown Entities Act 2004\.
+    (2) Subclause (1) is subject to [section 117][407] of the Crown Entities Act 2004\.
     
     (3) In the case of absence from duty of the general manager (for any reason) or on the occurrence of a vacancy in that position (for any reason) and while the absence or vacancy continues, all or any of the powers and duties of the general manager may be exercised and performed by any other employee of the Commission for the time being directed by the Chief Commissioner (after consultation by the Chief Commissioner with the Commission) to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
     
@@ -4561,11 +4575,11 @@ Administrative provisions applying in respect of Commission
 
 ##### 6 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][407].
+*   (1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][408].
     
-    (2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under [Part 2][408] or [Part 2A][409] of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][410], employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
+    (2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under [Part 2][409] or [Part 2A][410] of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][411], employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
     
-    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][410], in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to the person, means the Commission.
+    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][411], in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to the person, means the Commission.
     
     Schedule 1 clause 6(1): amended, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4636,7 +4650,7 @@ Administrative provisions applying in respect of Office of Human Rights Proceedi
 
 [s 20H(2)][45]
 
-*   Schedule 2: substituted, on 1 January 2002, by [section 43][405] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Schedule 2: substituted, on 1 January 2002, by [section 43][406] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 1 Interpretation
     
@@ -4654,7 +4668,7 @@ Administrative provisions applying in respect of Office of Human Rights Proceedi
     
     (2) Employees appointed under this clause are employed on any terms and conditions of employment the Director determines.
     
-    (3) Subclause (2) is subject to [section 116][411] of the Crown Entities Act 2004, except that the reference in section 116(1) to agreement by a Crown entity must be read as a reference to agreement by the Director.
+    (3) Subclause (2) is subject to [section 116][412] of the Crown Entities Act 2004, except that the reference in section 116(1) to agreement by a Crown entity must be read as a reference to agreement by the Director.
     
     (4) \[Repealed\]
     
@@ -4676,17 +4690,17 @@ Administrative provisions applying in respect of Office of Human Rights Proceedi
 
 ##### 5 Application of Crown Entities Act 2004 to Director
     
-*   [Sections 47][412] and [48][413] and [120 to 126][380] of the Crown Entities Act 2004 apply to the Director, with all necessary modifications, as if he or she were a member of the Commission.
+*   [Sections 47][413] and [48][414] and [120 to 126][381] of the Crown Entities Act 2004 apply to the Director, with all necessary modifications, as if he or she were a member of the Commission.
     
     Schedule 2 clause 5: substituted, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][407].
+*   (1) For the purpose of providing superannuation or retiring allowances for the Director, the Office may, out of the funds of the Office, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][408].
     
-    (2) Despite anything in this Act, any person who, immediately before being appointed as the Director or, as the case may be, becoming an employee of the Office, is a contributor to the Government Superannuation Fund under [Part 2][408] or [Part 2A][409] of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][410], employed in the Government service so long as that person continues to hold office as the Director or, as the case may be, to be an employee of the Office, and that Act applies to that person in all respects as if that person's service as the Director or, as the case may be, as an employee of that kind were Government service.
+    (2) Despite anything in this Act, any person who, immediately before being appointed as the Director or, as the case may be, becoming an employee of the Office, is a contributor to the Government Superannuation Fund under [Part 2][409] or [Part 2A][410] of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][411], employed in the Government service so long as that person continues to hold office as the Director or, as the case may be, to be an employee of the Office, and that Act applies to that person in all respects as if that person's service as the Director or, as the case may be, as an employee of that kind were Government service.
     
-    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][410], in accordance with subclause (2), to a person who holds office as the Director or, as the case may be, is in the service of the Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to the person, means the Office.
+    (3) For the purpose of applying the [Government Superannuation Fund Act 1956][411], in accordance with subclause (2), to a person who holds office as the Director or, as the case may be, is in the service of the Office as an employee and (in any such case) is a contributor to the Government Superannuation Fund, _controlling authority_, in relation to the person, means the Office.
     
     Schedule 2 clause 6(1): amended, on 25 January 2005, by [section 200][273] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -4733,7 +4747,7 @@ Enactments repealed
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 January 2002, by [section 43][405] of the Human Rights Amendment Act 2001 (2001 No 96).
+*   Schedule 3: repealed, on 1 January 2002, by [section 43][406] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ---
 
@@ -4827,23 +4841,23 @@ Commencement9 December 1994
 
 ###### 1 General
     
-*   This is a reprint of the Human Rights Act 1993\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Human Rights Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][414] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][415] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][415] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][416] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][416] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][417] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][417] and [17E][418] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][418] and [17E][419] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4874,17 +4888,19 @@ Commencement9 December 1994
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Financial Markets Authority Act 2011 (2011 No 5): [sections 82][272], [85(1)][325]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][360]
+    
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][272], [85(1)][325]
     
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][301]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][364], [130(1)][309]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][365], [130(1)][309]
     
-    [Human Rights Amendment Act 2008][419] (2008 No 65)
+    [Human Rights Amendment Act 2008][420] (2008 No 65)
     
-    [Human Rights Amendment Act 2007][420] (2007 No 64)
+    [Human Rights Amendment Act 2007][421] (2007 No 64)
     
-    [Human Rights (Women in Armed Forces) Amendment Act 2007][421] (2007 No 16)
+    [Human Rights (Women in Armed Forces) Amendment Act 2007][422] (2007 No 16)
     
     Evidence Act 2006 (2006 No 69): [section 216][359]
     
@@ -4902,9 +4918,9 @@ Commencement9 December 1994
     
     Building Act 2004 (2004 No 72): [section 414][316]
     
-    Supreme Court Act 2003 (2003 No 53): [sections 47, 48(1)][371]
+    Supreme Court Act 2003 (2003 No 53): [sections 47, 48(1)][372]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][367]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][368]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][345]
     
@@ -4918,13 +4934,13 @@ Commencement9 December 1994
     
     Protected Disclosures Act 2000 (2000 No 7): [section 25][322]
     
-    [Human Rights Amendment Act 1999][422] (1999 No 100)
+    [Human Rights Amendment Act 1999][423] (1999 No 100)
     
     Accident Insurance Act 1998 (1998 No 114): section 415(1)
     
     [Human Rights Amendment Act 1994][326] (1994 No 138)
     
-    Health and Disability Commissioner Act 1994 (1994 No 88): [section 82][399]
+    Health and Disability Commissioner Act 1994 (1994 No 88): [section 82][400]
 
 
 
@@ -5288,66 +5304,67 @@ Commencement9 December 1994
 [357]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM393462
 [358]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122161
 [359]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM394552
-[360]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122162
-[361]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122163
-[362]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122166
-[363]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM310742
-[364]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM1102349
-[365]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122167
-[366]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122168
-[367]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM201378
-[368]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122170
-[369]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122171
-[370]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122172
-[371]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM214520
-[372]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM230219
-[373]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122176
-[374]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122178
-[375]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122179
-[376]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328793
-[377]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122182
-[378]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122183
-[379]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122184
-[380]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330372
-[381]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330374
-[382]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328526
-[383]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328528
-[384]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328753
-[385]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328755
-[386]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328758
-[387]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM281290
-[388]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM65915
-[389]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122185
-[390]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM968354
-[391]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330503
-[392]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122187
-[393]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330308
-[394]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329995
-[395]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330309
-[396]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122188
-[397]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122191
-[398]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122193
-[399]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM334188
-[400]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122194
-[401]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM296638
-[402]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM162420
-[403]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122515
-[404]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122516
-[405]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122517
-[406]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330367
-[407]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM143291
-[408]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446395
-[409]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446842
-[410]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446000
-[411]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330366
-[412]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329975
-[413]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329976
-[414]: http://www.pco.parliament.govt.nz/reprints/
-[415]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195439
-[416]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[417]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195468
-[418]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195470
-[419]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM1582300
-[420]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM968347
-[421]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM405107
-[422]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM39226
+[360]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM3360714
+[361]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122162
+[362]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122163
+[363]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122166
+[364]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM3359902
+[365]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM1102349
+[366]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122167
+[367]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122168
+[368]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM201378
+[369]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122170
+[370]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122171
+[371]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122172
+[372]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM214520
+[373]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM230219
+[374]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122176
+[375]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122178
+[376]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122179
+[377]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328793
+[378]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122182
+[379]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122183
+[380]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122184
+[381]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330372
+[382]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330374
+[383]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328526
+[384]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328528
+[385]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328753
+[386]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328755
+[387]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM328758
+[388]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM281290
+[389]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM65915
+[390]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122185
+[391]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM968354
+[392]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330503
+[393]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122187
+[394]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330308
+[395]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329995
+[396]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330309
+[397]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122188
+[398]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122191
+[399]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122193
+[400]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM334188
+[401]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122194
+[402]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM296638
+[403]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM162420
+[404]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122515
+[405]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122516
+[406]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM122517
+[407]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330367
+[408]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM143291
+[409]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446395
+[410]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446842
+[411]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM446000
+[412]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM330366
+[413]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329975
+[414]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM329976
+[415]: http://www.pco.parliament.govt.nz/reprints/
+[416]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195439
+[417]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[418]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195468
+[419]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM195470
+[420]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM1582300
+[421]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM968347
+[422]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM405107
+[423]: http://www.legislation.govt.nz/act/public/1993/0082/latest/link.aspx?id=DLM39226
