@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -879,7 +879,9 @@ Preliminary provisions
     
     *   (ca) an organisation named or described in [Schedule 4][300] of the Public Finance Act 1989:
     
-    *   (d) a State enterprise (as defined in [section 2][301] of the State-Owned Enterprises Act 1986):
+    *   (cb) a company named in [Schedule 4A][301] of the Public Finance Act 1989:
+    
+    *   (d) a State enterprise (as defined in [section 2][302] of the State-Owned Enterprises Act 1986):
     
     *   (e) a local authority:
     
@@ -919,7 +921,7 @@ Preliminary provisions
         
         
     
-    _rail vehicle_ has the same meaning as in [section 4(1)][302] of the Railways Act 2005
+    _rail vehicle_ has the same meaning as in [section 4(1)][303] of the Railways Act 2005
     
     _railway line access provider_ means a person who controls the use of a railway line by rail operators (including that person if it is also a rail operator), whether or not that person engages rail personnel to exercise or assist in exercising that control on its behalf; but does not include those rail personnel
     
@@ -955,7 +957,7 @@ Preliminary provisions
     
     _road_---
         
-    *   (a) means a road as defined in [section 2(1)][303] of the Government Roading Powers Act 1989; and
+    *   (a) means a road as defined in [section 2(1)][304] of the Government Roading Powers Act 1989; and
     
     *   (b) despite the terms of that definition, includes a motorway as defined in that section; and
     
@@ -969,7 +971,7 @@ Preliminary provisions
     
     _road tolling scheme_ means a road tolling scheme established by Order in Council under [section 46][94]
     
-    _Route K_ has the same meaning as in [section 3][304] of the Tauranga District Council (Route K Toll) Empowering Act 2000 (despite the repeal of that Act or any subsequent renaming of the road)
+    _Route K_ has the same meaning as in [section 3][305] of the Tauranga District Council (Route K Toll) Empowering Act 2000 (despite the repeal of that Act or any subsequent renaming of the road)
     
     _Secretary_ means the chief executive of the Ministry
     
@@ -985,7 +987,7 @@ Preliminary provisions
     
     _small passenger service vehicle_ has the same meaning as in [section 2(1)][289] of the Land Transport Act 1998
     
-    _State highway_ means a road, whether or not constructed or vested in the Crown, that is declared to be a State highway under section 11 of the National Roads Act 1953, [section 60][305] of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), or under [section 103][202]; and includes---
+    _State highway_ means a road, whether or not constructed or vested in the Crown, that is declared to be a State highway under section 11 of the National Roads Act 1953, [section 60][306] of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), or under [section 103][202]; and includes---
         
     *   (a) all land along or contiguous with its route that is the road; and
     
@@ -993,7 +995,7 @@ Preliminary provisions
     
     *   (c) for the purposes of regional land transport plans, the national land transport programme, and any expenditures approved under [section 20][51] by the Agency, a proposed State highway; and
     
-    *   (d) land that becomes a State highway under [section 88(2)][306] of the Government Roading Powers Act 1989
+    *   (d) land that becomes a State highway under [section 88(2)][307] of the Government Roading Powers Act 1989
     
     _statutorily independent function_ means,---
         
@@ -1039,233 +1041,235 @@ Preliminary provisions
     
     (4) A determination by the Agency for the purposes of subsection (3) in relation to any road or portion of a road may be made by express resolution of the Agency or by way of approval by the Agency of a plan that delineates the several parts of the road or portion of the road.
     
-    (5) All references to a main highway in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act or the [Government Roading Powers Act 1989][307], to be read as references to a State highway.
+    (5) All references to a main highway in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act or the [Government Roading Powers Act 1989][308], to be read as references to a State highway.
     
     (6) All references to a regional land transport programme in any other Act, or in any regulation, rule, bylaw, order, or other enactment, or in any contract, agreement, deed, instrument, application, licence, notice, declaration, or other document are, unless inconsistent with the context or with the provisions of this Act, to be read as references to a regional land transport plan.
     
-    Section 5(1) **activity**: replaced, on 13 June 2013, by [section 6(1)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **activity**: replaced, on 13 June 2013, by [section 6(1)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **activity class**: substituted, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **activity class**: substituted, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **administration**: amended, on 1 August 2008, by [section 6(5)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **administration**: amended, on 1 August 2008, by [section 6(5)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **administration**: amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **administration**: amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **affected community**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **affected community**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Agency**: inserted, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **Agency**: inserted, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **approved organisation** paragraph (a): repealed, on 1 August 2008, by [section 6(1)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **approved organisation** paragraph (a): repealed, on 1 August 2008, by [section 6(1)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **approved safety administration programme**: repealed, on 1 December 2004, by [section 3(1)][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **approved safety administration programme**: repealed, on 1 December 2004, by [section 3(1)][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **ARTA**: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **ARTA**: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland**: inserted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland**: inserted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland Council**: replaced, on 13 June 2013, by [section 6(2)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **Auckland Council**: replaced, on 13 June 2013, by [section 6(2)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Auckland local authority**: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland local authority**: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland Region**: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland Region**: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland Regional Council**: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland Regional Council**: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland territorial authority**: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland territorial authority**: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Auckland Transport**: inserted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **Auckland Transport**: inserted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **Authority**: repealed, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **Authority**: repealed, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **board**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **board**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **board member**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **board member**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **bus service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **bus service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **collecting body**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **collecting body**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **combination of activities**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **combination of activities**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **commercial public transport service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **commercial public transport service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **company**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **company**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **concession agreement**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **concession agreement**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **concession road**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **concession road**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **concessionaire**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **concessionaire**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **entity**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **entity**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **event**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **event**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **excluded passenger service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **excluded passenger service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **exempt service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **exempt service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **fees and charges**: repealed, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 5(1) **fees and charges**: repealed, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 5(1) **financial year**: substituted, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **financial year**: substituted, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **GPS**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **GPS**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **GPS on land transport**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **GPS on land transport**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **impact**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **impact**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **interested**: repealed, on 25 January 2005, by [section 200][314] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(1) **interested**: repealed, on 25 January 2005, by [section 200][315] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 5(1) **land transport**: substituted, on 1 December 2004, by [section 3(2)][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **land transport**: substituted, on 1 December 2004, by [section 3(2)][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **land transport programme**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **land transport programme**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **large passenger service vehicle**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **large passenger service vehicle**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **listed company**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **listed company**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Minister **or**responsible Minister**: substituted, on 1 December 2004, by [section 3][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **Minister **or**responsible Minister**: substituted, on 1 December 2004, by [section 3][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **minor and ancillary works** paragraph (a): amended, on 1 August 2008, by [section 6(6)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **minor and ancillary works** paragraph (a): amended, on 1 August 2008, by [section 6(6)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **minor and ancillary works**: amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **minor and ancillary works**: amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **motor spirits**: substituted, on 1 January 2010, by [section 11(4)][315] of the Customs and Excise Amendment Act 2009 (2009 No 61).
+    Section 5(1) **motor spirits**: substituted, on 1 January 2010, by [section 11(4)][316] of the Customs and Excise Amendment Act 2009 (2009 No 61).
     
-    Section 5(1) **national energy efficiency and conservation strategy**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **national energy efficiency and conservation strategy**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **national land transport account**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **national land transport account**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **national land transport fund** or **fund**: substituted, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **national land transport fund** or **fund**: substituted, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **national land transport programme**: amended, on 13 June 2013, by [section 6(4)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **national land transport programme**: amended, on 13 June 2013, by [section 6(4)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **national land transport strategy**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **national land transport strategy**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **notify**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **notify**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **outcome**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **outcome**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **passenger service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **passenger service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **performance agreement**: repealed, on 25 January 2005, by [section 200][314] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(1) **performance agreement**: repealed, on 25 January 2005, by [section 200][315] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 5(1) **Police**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **Police**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **Police**: amended, on 1 October 2008, pursuant to [section 130(4)][316] of the Policing Act 2008 (2008 No 72).
+    Section 5(1) **Police**: amended, on 1 October 2008, pursuant to [section 130(4)][317] of the Policing Act 2008 (2008 No 72).
     
-    Section 5(1) **public organisation** paragraph (c): substituted, on 25 January 2005, by [section 200][314] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(1) **public organisation** paragraph (c): substituted, on 25 January 2005, by [section 200][315] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 5(1) **public organisation** paragraph (ca): inserted, on 25 January 2005, by [section 200][314] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(1) **public organisation** paragraph (ca): inserted, on 25 January 2005, by [section 200][315] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 5(1) **public road controlling authority**: substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **public organisation** paragraph (cb): inserted, on 18 July 2013, by [section 57][318] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 5(1) **public transport service**: replaced, on 13 June 2013, by [section 6(5)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **public road controlling authority**: substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **rail vehicle**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **public transport service**: replaced, on 13 June 2013, by [section 6(5)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **railway line access provider**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **rail vehicle**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional council**: replaced, on 13 June 2013, by [section 6(6)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **railway line access provider**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional land transport committee**: repealed, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **regional council**: replaced, on 13 June 2013, by [section 6(6)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional land transport plan**: inserted, on 13 June 2013, by [section 6(7)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **regional land transport committee**: repealed, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **regional land transport programme**: repealed, on 13 June 2013, by [section 6(7)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **regional land transport plan**: inserted, on 13 June 2013, by [section 6(7)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional land transport strategy**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **regional land transport programme**: repealed, on 13 June 2013, by [section 6(7)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional public transport plan**: replaced, on 13 June 2013, by [section 6(8)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **regional land transport strategy**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **regional transport committee**: replaced, on 13 June 2013, by [section 6(9)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **regional public transport plan**: replaced, on 13 June 2013, by [section 6(8)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **registered owner**: repealed, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 5(1) **regional transport committee**: replaced, on 13 June 2013, by [section 6(9)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **registered service**: repealed, on 13 June 2013, by [section 6(11)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **registered owner**: repealed, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 5(1) **road**: replaced, on 13 June 2013, by [section 6(10)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **registered service**: repealed, on 13 June 2013, by [section 6(11)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **road controlling authority**: substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 5(1) **road**: replaced, on 13 June 2013, by [section 6(10)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Route K**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **road controlling authority**: substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 5(1) **safety administration**: repealed, on 1 December 2004, by [section 3(1)][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **Route K**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **safety administration programme**: repealed, on 1 December 2004, by [section 3(1)][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **safety administration**: repealed, on 1 December 2004, by [section 3(1)][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **safety administration programme**: repealed, on 1 December 2004, by [section 3(1)][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **shuttle**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **shuttle service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **shuttle**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **small passenger service vehicle**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **shuttle service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **State highway**: substituted, on 1 August 2008, by [section 6(3)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **small passenger service vehicle**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **State highway** paragraph (c): amended, on 13 June 2013, by [section 6(12)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **State highway**: substituted, on 1 August 2008, by [section 6(3)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **State highway** paragraph (c): amended, on 13 June 2013, by [section 6(13)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **State highway** paragraph (c): amended, on 13 June 2013, by [section 6(12)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **State highway** paragraph (d): inserted, on 13 June 2013, by [section 6(14)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **State highway** paragraph (c): amended, on 13 June 2013, by [section 6(13)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 August 2008, by [section 6(9)(a)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **State highway** paragraph (d): inserted, on 13 June 2013, by [section 6(14)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 August 2008, by [section 6(9)(b)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 August 2008, by [section 6(9)(a)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 August 2008, by [section 6(9)(b)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **statutorily independent function** paragraph (b): substituted, on 25 January 2005, by [section 200][314] of the Crown Entities Act 2004 (2004 No 115).
+    Section 5(1) **statutorily independent function** paragraph (a): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **taxi service**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **statutorily independent function** paragraph (b): substituted, on 25 January 2005, by [section 200][315] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 5(1) **toll payment point**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **taxi service**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **traffic management**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **toll payment point**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Transfund**: repealed, on 1 December 2004, by [section 3(1)][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 5(1) **traffic management**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **Transit**: repealed, on 1 August 2008, by [section 6(2)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **Transfund**: repealed, on 1 December 2004, by [section 3(1)][312] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 5(1) **transport-disadvantaged**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **Transit**: repealed, on 1 August 2008, by [section 6(2)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(1) **unit**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **transport-disadvantaged**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **unitary authority**: inserted, on 1 August 2008, by [section 6(4)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **unit**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(1) **working day**: inserted, on 13 June 2013, by [section 6(3)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(1) **unitary authority**: inserted, on 1 August 2008, by [section 6(4)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(2): added, on 1 August 2008, by [section 6(10)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(1) **working day**: inserted, on 13 June 2013, by [section 6(3)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 5(3): added, on 1 August 2008, by [section 6(10)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(2): added, on 1 August 2008, by [section 6(10)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(4): added, on 1 August 2008, by [section 6(10)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(3): added, on 1 August 2008, by [section 6(10)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(5): added, on 1 August 2008, by [section 6(10)][309] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 5(4): added, on 1 August 2008, by [section 6(10)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 5(6): inserted, on 13 June 2013, by [section 6(15)][308] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 5(5): added, on 1 August 2008, by [section 6(10)][310] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    
+    Section 5(6): inserted, on 13 June 2013, by [section 6(15)][309] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 6 Meaning of land transport revenue
     
 *   In this Act, unless the context otherwise requires, _land transport revenue_ means---
         
-    *   (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the [Goods and Services Tax Act 1985][317]) calculated in accordance with regulations made under [section 85][318] of the Road User Charges Act 2012 and any assessments for unpaid road user charges under [Part 3][319] of that Act:
+    *   (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the [Goods and Services Tax Act 1985][319]) calculated in accordance with regulations made under [section 85][320] of the Road User Charges Act 2012 and any assessments for unpaid road user charges under [Part 3][321] of that Act:
     
-    *   (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the [Customs and Excise Act 1996][290] (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the [Goods and Services Tax Act 1985][317]):
+    *   (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the [Customs and Excise Act 1996][290] (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the [Goods and Services Tax Act 1985][319]):
     
-    *   (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the [Goods and Services Tax Act 1985][317]) identified, in regulations made for the purposes of [Part 1][320] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or [Part 17][321] of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
+    *   (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the [Goods and Services Tax Act 1985][319]) identified, in regulations made for the purposes of [Part 1][322] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or [Part 17][323] of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
     
     *   (d) the amount of interest, calculated according to a formula determined by the Minister and the Minister of Finance, earned from the investment of cash held by the Crown from the revenues referred to in paragraphs (a) to (c):
     
     *   (e) all other public money that is required by any enactment to be treated as land transport revenue for the purposes of this Act.
     
-    Section 6: substituted, on 1 August 2008, by [section 7][322] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 6: substituted, on 1 August 2008, by [section 7][324] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 6(a): amended, on 1 August 2012, by [section 94][323] of the Road User Charges Act 2012 (2012 No 1).
+    Section 6(a): amended, on 1 August 2012, by [section 94][325] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 6(c): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 6(c): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 7 Act binds the Crown
     
@@ -1281,20 +1285,20 @@ Preliminary provisions
     
     (4) Nothing in [sections 105 to 107][205] (which relate to regional transport committees) applies to the Chatham Islands Council.
     
-    Section 7A: inserted, on 1 August 2008, by [section 8][324] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 7A: inserted, on 1 August 2008, by [section 8][326] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 7A(2): replaced, on 13 June 2013, by [section 7(1)][325] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 7A(2): replaced, on 13 June 2013, by [section 7(1)][327] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 7A(3): repealed, on 13 June 2013, by [section 7(2)][325] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 7A(3): repealed, on 13 June 2013, by [section 7(2)][327] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ## Part 2  
 Planning and funding of land transport system
     
-*   Part 2 heading: amended, on 1 August 2008, by [section 9][326] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Part 2 heading: amended, on 1 August 2008, by [section 9][328] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 1---Planning and funding system
     
-*   Subpart 1 heading: amended, on 1 August 2008, by [section 10][327] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Subpart 1 heading: amended, on 1 August 2008, by [section 10][329] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### National land transport fund
 
@@ -1302,7 +1306,7 @@ Planning and funding of land transport system
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 1 August 2008, by [section 11][328] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 8: repealed, on 1 August 2008, by [section 11][330] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 9 The Crown's authority to incur certain land transport expenses and capital expenditure
     
@@ -1326,11 +1330,11 @@ Planning and funding of land transport system
                 
             *   (A) fuel excise duty refunds under [section 41][87] of this Act:
             
-            *   (B) road user charges refunds under [sections 30 to 33][329] of the Road User Charges Act 2012:
+            *   (B) road user charges refunds under [sections 30 to 33][331] of the Road User Charges Act 2012:
             
             
         
-        *   (ii) the assessment of unpaid road user charges under [Part 3][319] of the Road User Charges Act 2012 (including administrative and legal work associated with the independent review of, and appeal against, assessments of unpaid road user charges):
+        *   (ii) the assessment of unpaid road user charges under [Part 3][321] of the Road User Charges Act 2012 (including administrative and legal work associated with the independent review of, and appeal against, assessments of unpaid road user charges):
         
         *   (iii) forecasting of land transport revenue:
         
@@ -1370,15 +1374,15 @@ Planning and funding of land transport system
     > 
     > is the calculated amount.
     
-    Section 9: substituted, on 1 August 2008, by [section 12][330] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 9: substituted, on 1 August 2008, by [section 12][332] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 9(2): replaced, on 13 June 2013, by [section 8][331] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 9(2): replaced, on 13 June 2013, by [section 8][333] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### National land transport account
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2008, by [section 13][332] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 13][334] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 10 National land transport fund
     
@@ -1388,9 +1392,9 @@ Planning and funding of land transport system
     
     *   (b) the proceeds of any borrowing undertaken for the purpose of managing the national land transport programme, including (but not limited to) its cashflow, by---
             
-        *   (i) the Agency, in accordance with [section 162][333] of the Crown Entities Act 2004; or
+        *   (i) the Agency, in accordance with [section 162][335] of the Crown Entities Act 2004; or
         
-        *   (ii) the Crown, in accordance with [subpart 1][334] of Part 6 of the Public Finance Act 1989\.
+        *   (ii) the Crown, in accordance with [subpart 1][336] of Part 6 of the Public Finance Act 1989\.
         
         
     
@@ -1424,7 +1428,7 @@ Planning and funding of land transport system
     
     *   (d) territorial authorities' activities or combinations of activities approved under [section 20][51] (other than public transport services activities):
     
-    *   (e) regional and territorial authorities' activities or combinations of activities approved under [section 20][51] that have been authorised by a transfer of responsibility under [section 17][335] of the Local Government Act 2002:
+    *   (e) regional and territorial authorities' activities or combinations of activities approved under [section 20][51] that have been authorised by a transfer of responsibility under [section 17][337] of the Local Government Act 2002:
     
     *   (f) approved public organisations' activities or combinations of activities approved under [section 20][51]:
     
@@ -1436,17 +1440,17 @@ Planning and funding of land transport system
     
     (6) \[Repealed\]
     
-    Section 10: substituted, on 1 August 2008, by [section 14][336] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 10: substituted, on 1 August 2008, by [section 14][338] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 10(1)(b): amended, on 13 June 2013, by [section 9(1)][337] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 10(1)(b): amended, on 13 June 2013, by [section 9(1)][339] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 10(2)(ba): inserted, on 13 June 2013, by [section 9(2)][337] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 10(2)(ba): inserted, on 13 June 2013, by [section 9(2)][339] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 10(4): repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 10(4): repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 10(5): repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 10(5): repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 10(6): repealed, on 13 June 2013, by [section 9(3)][337] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 10(6): repealed, on 13 June 2013, by [section 9(3)][339] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 11 Annual report on national land transport fund
     
@@ -1462,36 +1466,36 @@ Planning and funding of land transport system
     
     *   (d) a statement of commitments:
     
-    *   (e) a statement of performance for each activity class funded by the national land transport fund for the financial year to which the report relates, unless the Minister has approved the inclusion of the information in the Agency's annual report under [section 150][338] of the Crown Entities Act 2004:
+    *   (e) a statement of performance for each activity class funded by the national land transport fund for the financial year to which the report relates, unless the Minister has approved the inclusion of the information in the Agency's annual report under [section 150][340] of the Crown Entities Act 2004:
     
     *   (f) an explanation of how the funding of activities or combinations of activities under the national land transport programme has contributed to the achievement of any outcomes, objectives or impacts set out in the relevant GPS on land transport:
     
     *   (g) an explanation of how the national land transport fund has been managed with respect to the closing balance.
     
-    (3) The provisions of the [Crown Entities Act 2004][339] in respect of the preparation, audit, presentation, and publication of a Crown entity's annual report (including its financial statements) apply, with all necessary modifications, to the annual report required under subsection (1).
+    (3) The provisions of the [Crown Entities Act 2004][341] in respect of the preparation, audit, presentation, and publication of a Crown entity's annual report (including its financial statements) apply, with all necessary modifications, to the annual report required under subsection (1).
     
     (4) The Agency must make a copy of the annual report publicly available in accordance with [section 108][209].
     
-    Section 11: substituted, on 1 August 2008, by [section 15][340] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 11: substituted, on 1 August 2008, by [section 15][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 11(2)(f): amended, on 13 June 2013, by [section 10][341] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 11(2)(f): amended, on 13 June 2013, by [section 10][343] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Regional land transport plans
     
-*   Heading: substituted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Heading: amended, on 13 June 2013, by [section 11][343] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: substituted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: amended, on 13 June 2013, by [section 11][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 12 Overview of regional land transport programmes
     
 *   \[Repealed\]
     
-    Section 12: repealed, on 13 June 2013, by [section 12][344] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 12: repealed, on 13 June 2013, by [section 12][346] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 12A Authority's land transport programme
     
 *   \[Repealed\]
     
-    Section 12A: repealed, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 12A: repealed, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 13 Responsibility for preparing and approving regional land transport plans
     
@@ -1513,31 +1517,31 @@ Planning and funding of land transport system
     
     (5) \[Repealed\]
     
-    Section 13: substituted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 13: substituted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 13 heading: amended, on 13 June 2013, by [section 13(1)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13 heading: amended, on 13 June 2013, by [section 13(1)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(1): amended, on 13 June 2013, by [section 13(2)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(1): amended, on 13 June 2013, by [section 13(2)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(1): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 13(1): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 13(1)(a): amended, on 13 June 2013, by [section 13(3)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(1)(a): amended, on 13 June 2013, by [section 13(3)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(1)(b): amended, on 13 June 2013, by [section 13(3)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(1)(b): amended, on 13 June 2013, by [section 13(3)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(2): amended, on 13 June 2013, by [section 13(2)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(2): amended, on 13 June 2013, by [section 13(2)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(2): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 13(2): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 13(2)(a): amended, on 13 June 2013, by [section 13(3)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(2)(a): amended, on 13 June 2013, by [section 13(3)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(2)(b): amended, on 13 June 2013, by [section 13(3)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(2)(b): amended, on 13 June 2013, by [section 13(3)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(3): repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 13(3): repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 13(4): repealed, on 13 June 2013, by [section 13(4)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(4): repealed, on 13 June 2013, by [section 13(4)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 13(5): repealed, on 13 June 2013, by [section 13(4)][345] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 13(5): repealed, on 13 June 2013, by [section 13(4)][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 14 Core requirements of regional land transport plans
     
@@ -1563,19 +1567,19 @@ Planning and funding of land transport system
             
         *   (i) national energy efficiency and conservation strategy; and
         
-        *   (ii) relevant national policy statements and any relevant regional policy statements or plans that are for the time being in force under the [Resource Management Act 1991][346]; and
+        *   (ii) relevant national policy statements and any relevant regional policy statements or plans that are for the time being in force under the [Resource Management Act 1991][348]; and
         
         *   (iii) likely funding from any source.
         
         
     
-    Section 14: replaced, on 13 June 2013, by [section 14][347] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 14: replaced, on 13 June 2013, by [section 14][349] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 15 Core requirements of regional land transport programmes prepared by Auckland Transport
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 13 June 2013, by [section 15][348] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 15: repealed, on 13 June 2013, by [section 15][350] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 16 Form and content of regional land transport plans
     
@@ -1653,29 +1657,29 @@ Planning and funding of land transport system
     
     (7) For the purposes of this section, _existing public transport services_ means the level of public transport services in place in the financial year before the commencement of the regional land transport plan, and any minor changes to those services.
     
-    Section 16: replaced, on 13 June 2013, by [section 16][349] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 16: replaced, on 13 June 2013, by [section 16][351] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 17 Form and content of Auckland Transport's regional land transport programmes
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 13 June 2013, by [section 17][350] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 17: repealed, on 13 June 2013, by [section 17][352] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18 Consultation requirements
     
 *   (1) When preparing a regional land transport plan, a regional transport committee---
         
-    *   (a) must consult in accordance with the consultation principles specified in [section 82][351] of the Local Government Act 2002; and
+    *   (a) must consult in accordance with the consultation principles specified in [section 82][353] of the Local Government Act 2002; and
     
-    *   (b) may use the special consultative procedure specified in [section 83][352] of the Local Government Act 2002\.
+    *   (b) may use the special consultative procedure specified in [section 83][354] of the Local Government Act 2002\.
     
     (2) If consulting the Auckland Council, a regional land transport committee or Auckland Transport must consult both the governing body and each affected local board of the Council.
     
-    Section 18: substituted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18: substituted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18(1): replaced, on 13 June 2013, by [section 18][353] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18(1): replaced, on 13 June 2013, by [section 18][355] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18(2): added, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18(2): added, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 18A Combining consultation processes
     
@@ -1691,33 +1695,33 @@ Planning and funding of land transport system
     
     *   (b) in accordance with the Local Government Act 2002\.
     
-    Section 18A: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18A: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18A heading: replaced, on 13 June 2013, by [section 19(1)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A heading: replaced, on 13 June 2013, by [section 19(1)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(1): repealed, on 13 June 2013, by [section 19(2)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(1): repealed, on 13 June 2013, by [section 19(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(2): substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18A(2): substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18A(2): amended, on 13 June 2013, by [section 19(3)(a)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(2): amended, on 13 June 2013, by [section 19(3)(a)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(2): amended, on 13 June 2013, by [section 19(3)(b)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(2): amended, on 13 June 2013, by [section 19(3)(b)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(2): amended, on 27 November 2010, by [section 50][355] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 18A(2): amended, on 27 November 2010, by [section 50][357] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 18A(3): substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18A(3): substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18A(3): amended, on 13 June 2013, by [section 19(4)(a)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(3): amended, on 13 June 2013, by [section 19(4)(a)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(3): amended, on 13 June 2013, by [section 19(4)(b)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(3): amended, on 13 June 2013, by [section 19(4)(b)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(3): amended, on 27 November 2010, by [section 50][355] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 18A(3): amended, on 27 November 2010, by [section 50][357] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
     
-    Section 18A(4): added, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18A(4): added, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18A(4): amended, on 13 June 2013, by [section 19(5)][354] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18A(4): amended, on 13 June 2013, by [section 19(5)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18A(4)(a): amended, on 27 November 2010, by [section 50][355] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
+    Section 18A(4)(a): amended, on 27 November 2010, by [section 50][357] of the Local Government Act 2002 Amendment Act 2010 (2010 No 124).
 
 ##### 18B Process for approving regional land transport plans prepared for regional councils
     
@@ -1753,43 +1757,43 @@ Planning and funding of land transport system
     
     (8) [Section 18F][33] applies, with the necessary modifications, to any plan or amended plan and statement of reasons forwarded under subsection (6).
     
-    Section 18B: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18B: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18B heading: amended, on 13 June 2013, by [section 20(1)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B heading: amended, on 13 June 2013, by [section 20(1)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(1): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(1): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(2): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(2): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(3): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(3): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(3)(a): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(3)(a): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(3)(b): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(3)(b): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(4): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(4): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(4)(a): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(4)(a): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(5): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(5): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(6): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(6): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(6)(a): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(6)(a): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(6)(b): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(6)(b): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(7): amended, on 13 June 2013, by [section 20(3)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(7): amended, on 13 June 2013, by [section 20(3)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(7)(a): amended, on 13 June 2013, by [section 20(3)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(7)(a): amended, on 13 June 2013, by [section 20(3)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18B(8): amended, on 13 June 2013, by [section 20(2)][356] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18B(8): amended, on 13 June 2013, by [section 20(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18C Reasons for not including activities in Auckland's regional land transport plan
     
 *   If Auckland Transport decides not to include in its regional land transport plan an activity proposed by the Auckland Council or the Agency, Auckland Transport must, when forwarding its plan to the Agency, give the Auckland Council or the Agency (as the case may require) written advice of the decision and the reasons for the decision.
     
-    Section 18C: replaced, on 13 June 2013, by [section 21][357] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18C: replaced, on 13 June 2013, by [section 21][359] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18CA Review of regional land transport plans
     
@@ -1797,7 +1801,7 @@ Planning and funding of land transport system
     
     (2) In carrying out the review, the regional transport committee must have regard to the views of representative groups of land transport users and providers.
     
-    Section 18CA: inserted, on 13 June 2013, by [section 21][357] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18CA: inserted, on 13 June 2013, by [section 21][359] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18D Variation of regional land transport plans
     
@@ -1835,31 +1839,31 @@ Planning and funding of land transport system
     
     (9) This section does not apply if [section 18E][32] applies.
     
-    Section 18D: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18D: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18D heading: amended, on 13 June 2013, by [section 22(1)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D heading: amended, on 13 June 2013, by [section 22(1)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(1): replaced, on 13 June 2013, by [section 22(2)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(1): replaced, on 13 June 2013, by [section 22(2)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(3): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18D(3): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18D(3)(a): amended, on 13 June 2013, by [section 22(3)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(3)(a): amended, on 13 June 2013, by [section 22(3)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(3)(b): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18D(3)(b): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18D(4): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18D(4): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18D(5): amended, on 13 June 2013, by [section 22(4)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(5): amended, on 13 June 2013, by [section 22(4)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(6): amended, on 13 June 2013, by [section 22(4)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(6): amended, on 13 June 2013, by [section 22(4)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(6): amended, on 13 June 2013, by [section 22(5)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(6): amended, on 13 June 2013, by [section 22(5)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(7): amended, on 13 June 2013, by [section 22(6)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(7): amended, on 13 June 2013, by [section 22(6)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18D(7): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18D(7): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18D(8): amended, on 13 June 2013, by [section 22(6)][358] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18D(8): amended, on 13 June 2013, by [section 22(6)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18E Changes to certain activities or combinations of activities
     
@@ -1877,15 +1881,15 @@ Planning and funding of land transport system
     
     (7) This section does not apply to approved organisations in Auckland.
     
-    Section 18E: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18E: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18E(1): amended, on 13 June 2013, by [section 23(1)][359] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18E(1): amended, on 13 June 2013, by [section 23(1)][361] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18E(1): amended, on 13 June 2013, by [section 23(2)][359] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18E(1): amended, on 13 June 2013, by [section 23(2)][361] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18E(6): amended, on 13 June 2013, by [section 23(2)][359] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18E(6): amended, on 13 June 2013, by [section 23(2)][361] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18E(7): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18E(7): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 18F Availability of regional land transport plans
     
@@ -1913,21 +1917,21 @@ Planning and funding of land transport system
     
     *   (b) on an Internet site in a format that is readily accessible and, if practicable, that can be used by the visually impaired.
     
-    Section 18F: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18F: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18F heading: amended, on 13 June 2013, by [section 24(1)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18F heading: amended, on 13 June 2013, by [section 24(1)][362] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18F(1): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18F(1): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 18F(1)(a): amended, on 13 June 2013, by [section 24(3)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18F(1)(a): amended, on 13 June 2013, by [section 24(3)][362] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18F(1)(a)(v): inserted, on 13 June 2013, by [section 24(2)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18F(1)(a)(v): inserted, on 13 June 2013, by [section 24(2)][362] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18F(1)(b): amended, on 13 June 2013, by [section 24(3)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18F(1)(b): amended, on 13 June 2013, by [section 24(3)][362] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18F(2): amended, on 13 June 2013, by [section 24(3)][360] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18F(2): amended, on 13 June 2013, by [section 24(3)][362] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18F(2): added, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 18F(2): added, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 18G Separate consultation with Māori on particular activities
     
@@ -1939,13 +1943,13 @@ Planning and funding of land transport system
     
     *   (c) Māori historical, cultural, or spiritual interests.
     
-    (2) The relevant approved organisation, the Auckland Council, or the Agency (as the case may be) must consult the land holding trustee (as defined in [section 7][361] of the Waikato Raupatu Claims Settlement Act 1995) about any proposed activity that affects or is likely to affect land registered in the name of Pootatau Te Wherowhero under [section 19][362] of that Act.
+    (2) The relevant approved organisation, the Auckland Council, or the Agency (as the case may be) must consult the land holding trustee (as defined in [section 7][363] of the Waikato Raupatu Claims Settlement Act 1995) about any proposed activity that affects or is likely to affect land registered in the name of Pootatau Te Wherowhero under [section 19][364] of that Act.
     
-    Section 18G: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18G: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18G(1): amended, on 13 June 2013, by [section 25(1)][363] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18G(1): amended, on 13 June 2013, by [section 25(1)][365] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18G(2): amended, on 13 June 2013, by [section 25(2)][363] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18G(2): amended, on 13 June 2013, by [section 25(2)][365] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18H Māori contribution to decision making
     
@@ -1959,17 +1963,17 @@ Planning and funding of land transport system
     
     (2) Subsection (1) does not limit the ability of the Agency or an approved public organisation to take similar action in respect of any other population group.
     
-    Section 18H: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18H: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Police activities or combinations of Police activities
     
-*   Heading: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 18I Recommendations for Police activities or combinations of Police activities
     
 *   Every 3 financial years the Agency must, by a date appointed by the Minister, prepare its recommendations for any Police activities or combinations of Police activities that are to be funded under [section 10(3)(a)][16] for the following 3 financial years.
     
-    Section 18I: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18I: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 18J Requirements before recommending Police activities or combinations of Police activities
     
@@ -1989,15 +1993,15 @@ Planning and funding of land transport system
     
     *   (c) \[Repealed\]
     
-    Section 18J: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18J: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 18J(2)(a)(i): replaced, on 13 June 2013, by [section 26(1)][364] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18J(2)(a)(i): replaced, on 13 June 2013, by [section 26(1)][366] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18J(2)(a)(ii): replaced, on 13 June 2013, by [section 26(1)][364] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18J(2)(a)(ii): replaced, on 13 June 2013, by [section 26(1)][366] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18J(2)(b): repealed, on 13 June 2013, by [section 26(2)][364] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18J(2)(b): repealed, on 13 June 2013, by [section 26(2)][366] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 18J(2)(c): repealed, on 13 June 2013, by [section 26(2)][364] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 18J(2)(c): repealed, on 13 June 2013, by [section 26(2)][366] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18K Content of recommendations under section 18I
     
@@ -2013,7 +2017,7 @@ Planning and funding of land transport system
     
     *   (e) a long-term financial forecast that contains a forecast of anticipated revenue and expenditure on any Police activities or combinations of Police activities for the following 10 financial years.
     
-    Section 18K: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18K: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 18L Approval of recommendations
     
@@ -2021,7 +2025,7 @@ Planning and funding of land transport system
     
     (2) The responsible Minister must notify the Agency and the Commissioner of the responsible Minister's decision to approve or decline the Agency's recommendations.
     
-    Section 18L: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18L: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 18M Variation of approval
     
@@ -2031,7 +2035,7 @@ Planning and funding of land transport system
     
     (3) The responsible Minister must notify the Agency and the Commissioner of the responsible Minister's decision to approve or decline the Agency's recommendation for variation.
     
-    Section 18M: inserted, on 1 August 2008, by [section 16][342] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 18M: inserted, on 1 August 2008, by [section 16][344] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### National land transport programme
 
@@ -2039,7 +2043,7 @@ Planning and funding of land transport system
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 13 June 2013, by [section 27][365] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19: repealed, on 13 June 2013, by [section 27][367] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 19A Responsibility for preparing and adopting national land transport programme
     
@@ -2051,15 +2055,15 @@ Planning and funding of land transport system
     
     (4) A national land transport programme adopted under this section is to be treated as if it were adopted before the start of the financial year to which it applies.
     
-    (5) Following the adoption of a national land transport programme under this section, the Agency must consider whether to amend its statement of intent, under [section 148][366] of the Crown Entities Act 2004, to take into account any relevant particulars of the national land transport programme.
+    (5) Following the adoption of a national land transport programme under this section, the Agency must consider whether to amend its statement of intent, under [section 148][368] of the Crown Entities Act 2004, to take into account any relevant particulars of the national land transport programme.
     
-    Section 19A: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19A: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 19A(2): amended, on 13 June 2013, by [section 28(1)][368] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19A(2): amended, on 13 June 2013, by [section 28(1)][370] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19A(3): repealed, on 13 June 2013, by [section 28(2)][368] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19A(3): repealed, on 13 June 2013, by [section 28(2)][370] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19A(4): amended, on 13 June 2013, by [section 28(3)][368] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19A(4): amended, on 13 June 2013, by [section 28(3)][370] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 19B Core requirements for national land transport programme
     
@@ -2085,29 +2089,29 @@ Planning and funding of land transport system
         
         *   (iv) national energy efficiency and conservation strategy; and
         
-        *   (v) relevant national policy statement and any relevant regional policy statements or plans that are for the time being in force under the [Resource Management Act 1991][346]; and
+        *   (v) relevant national policy statement and any relevant regional policy statements or plans that are for the time being in force under the [Resource Management Act 1991][348]; and
         
         *   (vi) \[Repealed\]
         
         
     
-    Section 19B: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19B: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 19B(a)(i): replaced, on 13 June 2013, by [section 29(1)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(a)(i): replaced, on 13 June 2013, by [section 29(1)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(a)(ii): repealed, on 13 June 2013, by [section 29(2)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(a)(ii): repealed, on 13 June 2013, by [section 29(2)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(a)(iii): amended, on 13 June 2013, by [section 29(3)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(a)(iii): amended, on 13 June 2013, by [section 29(3)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(b)(i): repealed, on 13 June 2013, by [section 29(4)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(b)(i): repealed, on 13 June 2013, by [section 29(4)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(b)(ii): repealed, on 13 June 2013, by [section 29(4)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(b)(ii): repealed, on 13 June 2013, by [section 29(4)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(b)(iii): amended, on 13 June 2013, by [section 29(5)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(b)(iii): amended, on 13 June 2013, by [section 29(5)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19B(b)(v): amended, on 1 January 2009, by [section 63(2)][370] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 19B(b)(v): amended, on 1 January 2009, by [section 63(2)][372] of the Public Transport Management Act 2008 (2008 No 87).
     
-    Section 19B(b)(vi): repealed, on 13 June 2013, by [section 29(4)][369] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19B(b)(vi): repealed, on 13 June 2013, by [section 29(4)][371] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 19C Content of national land transport programme
     
@@ -2135,13 +2139,13 @@ Planning and funding of land transport system
     
     *   (h) a statement of the Agency's anticipated revenue and expenditure in respect of the national land transport programme for 10 financial years from the start of the programme; and
     
-    *   (i) relevant directions under [Part 3][371] of the Crown Entities Act 2004 or any other Act.
+    *   (i) relevant directions under [Part 3][373] of the Crown Entities Act 2004 or any other Act.
     
-    Section 19C: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19C: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 19C(c): amended, on 13 June 2013, by [section 30(1)][372] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19C(c): amended, on 13 June 2013, by [section 30(1)][374] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19C(f)(i): amended, on 13 June 2013, by [section 30(2)][372] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19C(f)(i): amended, on 13 June 2013, by [section 30(2)][374] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 19D Notification about decision not to include activities in national land transport programme
     
@@ -2153,11 +2157,11 @@ Planning and funding of land transport system
     
     (2) If this section applies, the Agency must give the relevant regional transport committee or Auckland Transport (as the case may require) written advice of the Agency's decision and its reasons for making that decision.
     
-    Section 19D: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19D: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 19D(1)(b): amended, on 13 June 2013, by [section 31][373] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19D(1)(b): amended, on 13 June 2013, by [section 31][375] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 19D(2): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 19D(2): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 19E Variation of national land transport programme
     
@@ -2169,19 +2173,19 @@ Planning and funding of land transport system
     
     (4) Despite subsection (2), the Agency need not make a varied national land transport programme publicly available under [section 108][209] if it is satisfied that the variation is not significant.
     
-    Section 19E: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19E: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 19E(3): replaced, on 13 June 2013, by [section 32][374] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 19E(3): replaced, on 13 June 2013, by [section 32][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 19F Availability of national land transport programme
     
 *   The Agency must make a copy of the national land transport programme publicly available in accordance with [section 108][209].
     
-    Section 19F: inserted, on 1 August 2008, by [section 17][367] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 19F: inserted, on 1 August 2008, by [section 17][369] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Approval of activities and combinations of activities
     
-*   Heading: inserted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: inserted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 20 Approval of activities and combinations of activities
     
@@ -2213,7 +2217,7 @@ Planning and funding of land transport system
             
         *   (i) any national energy efficiency and conservation strategy; and
         
-        *   (ii) any relevant national policy statements and relevant regional policy statements that are for the time being in force under the [Resource Management Act 1991][346]; and
+        *   (ii) any relevant national policy statements and relevant regional policy statements that are for the time being in force under the [Resource Management Act 1991][348]; and
         
         
     
@@ -2239,35 +2243,35 @@ Planning and funding of land transport system
         
         
     
-    Section 20: substituted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20: substituted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 20(2)(c): replaced, on 13 June 2013, by [section 33(1)][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 20(2)(c): replaced, on 13 June 2013, by [section 33(1)][378] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 20(2)(d): replaced, on 13 June 2013, by [section 33(2)][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 20(2)(d): replaced, on 13 June 2013, by [section 33(2)][378] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 20(3): replaced, on 13 June 2013, by [section 33(3)][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 20(3): replaced, on 13 June 2013, by [section 33(3)][378] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 20(5)(a): amended, on 13 June 2013, by [section 33(4)][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 20(5)(a): amended, on 13 June 2013, by [section 33(4)][378] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 20(5)(b)(iii): amended, on 13 June 2013, by [section 33(5)][376] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 20(5)(b)(iii): amended, on 13 June 2013, by [section 33(5)][378] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 20A Methods of assessment
     
 *   The Agency may apply different methods of assessment for the purpose of approving different activities or combinations of activities.
     
-    Section 20A: substituted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20A: substituted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 20B Agency may impose terms and conditions
     
 *   The Agency may approve activities or combinations of activities subject to any terms and conditions, which must be relevant and reasonable, that the Agency thinks fit.
     
-    Section 20B: inserted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20B: inserted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 20C Agency must set rate of funding assistance
     
 *   The Agency must set the rate of funding assistance from the national land transport fund for activities or combinations of activities in accordance with any criteria set by the Minister.
     
-    Section 20C: inserted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20C: inserted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 20D Funding decisions to be made available
     
@@ -2279,19 +2283,19 @@ Planning and funding of land transport system
     
     (2) After approving or declining funding for activities or combinations of activities, the Agency must place a copy of the decision, and the reasons for the decision, on its Internet site.
     
-    (3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in [section 6][377] or [9(2)(a)][378], (b), (ba), (h), (i), or (j) of the Official Information Act 1982\.
+    (3) In complying with subsection (2), the Agency may decide to withhold information if the disclosure of that information would be contrary to the interests specified in [section 6][379] or [9(2)(a)][380], (b), (ba), (h), (i), or (j) of the Official Information Act 1982\.
     
     (4) If the Agency decides to withhold information under subsection (3), it must provide its reasons for doing so on its Internet site.
     
-    (5) Information withheld under subsection (3) may be requested under the [Official Information Act 1982][379].
+    (5) Information withheld under subsection (3) may be requested under the [Official Information Act 1982][381].
     
-    Section 20D: inserted, on 1 August 2008, by [section 18][375] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 20D: inserted, on 1 August 2008, by [section 18][377] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 21 Funding for land transport research, education, or training
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 August 2008, by [section 19][380] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 21: repealed, on 1 August 2008, by [section 19][382] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 22 Funding for Māori roadways
     
@@ -2301,21 +2305,21 @@ Planning and funding of land transport system
     
     (3) The Agency and territorial authorities may receive funding for a Māori roadway if the activity is included in a regional land transport plan.
     
-    Section 22(1): amended, on 1 August 2008, by [section 20(1)][381] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(1): amended, on 1 August 2008, by [section 20(1)][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(1): amended, on 1 August 2008, by [section 20(2)][381] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(1): amended, on 1 August 2008, by [section 20(2)][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(1): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 22(1): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 22(2): amended, on 1 August 2008, by [section 20(3)][381] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(2): amended, on 1 August 2008, by [section 20(3)][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(2): amended, on 1 August 2008, by [section 20(4)][381] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(2): amended, on 1 August 2008, by [section 20(4)][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(2): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 22(2): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 22(3): substituted, on 1 August 2008, by [section 20(5)][381] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 22(3): substituted, on 1 August 2008, by [section 20(5)][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 22(3): amended, on 13 June 2013, by [section 34][382] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 22(3): amended, on 13 June 2013, by [section 34][384] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Public organisations
 
@@ -2341,9 +2345,9 @@ Planning and funding of land transport system
     
     (4) The Department of Conservation and the Waitangi National Trust Board and Auckland Transport are deemed to be approved public organisations under this section.
     
-    Section 23(1)(a): amended, on 1 August 2008, by [section 21][383] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 23(1)(a): amended, on 1 August 2008, by [section 21][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 23(4): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 23(4): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 #### Land transport disbursement accounts
 
@@ -2371,7 +2375,7 @@ Planning and funding of land transport system
     
     *   (b) use that money at any time for payments in accordance with this section.
     
-    Section 24: substituted, on 1 August 2008, by [section 22][384] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 24: substituted, on 1 August 2008, by [section 22][386] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Procurement procedures
 
@@ -2393,23 +2397,23 @@ Planning and funding of land transport system
     
     (6) Nothing in this section compels an organisation or person to accept the lowest tender received by it for the provision of any outputs.
     
-    Section 25(1): amended, on 1 August 2008, by [section 23(1)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(1): amended, on 1 August 2008, by [section 23(1)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(1): amended, on 1 August 2008, by [section 23(2)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(1): amended, on 1 August 2008, by [section 23(2)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(1): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 25(1): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 25(2): amended, on 1 August 2008, by [section 23(3)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(2): amended, on 1 August 2008, by [section 23(3)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(2): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 25(2): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 25(3): amended, on 1 August 2008, by [section 23(4)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(3): amended, on 1 August 2008, by [section 23(4)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(4): substituted, on 1 August 2008, by [section 23(5)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(4): substituted, on 1 August 2008, by [section 23(5)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(5): amended, on 1 August 2008, by [section 23(6)][385] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 25(5): amended, on 1 August 2008, by [section 23(6)][387] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 25(5): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 25(5): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 26 Payments exempt from procurement procedure
     
@@ -2437,33 +2441,33 @@ Planning and funding of land transport system
     
     *   (g) made in respect of any expenditure that is necessary for the immediate or temporary repair of damage caused by a sudden and unexpected event.
     
-    Compare: [1989 No 75][307] s [27(4)][386], [(5)][387]
+    Compare: [1989 No 75][308] s [27(4)][388], [(5)][389]
     
-    Section 26(a): amended, on 1 August 2008, by [section 24(1)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(a): amended, on 1 August 2008, by [section 24(1)][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(a): amended, on 1 August 2008, by [section 24(2)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(a): amended, on 1 August 2008, by [section 24(2)][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(a): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 26(a): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 26(b): amended, on 1 August 2008, by [section 24(3)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(b): amended, on 1 August 2008, by [section 24(3)][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(b): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 26(b): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 26(c)(i): amended, on 1 August 2008, by [section 24(4)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(c)(i): amended, on 1 August 2008, by [section 24(4)][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(c)(i): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 26(c)(i): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 26(c)(ii): substituted, on 1 August 2008, by [section 24(5)][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26(c)(ii): substituted, on 1 August 2008, by [section 24(5)][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 26(da): substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 26(da): substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 26(e): replaced, on 13 June 2013, by [section 35][389] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 26(e): replaced, on 13 June 2013, by [section 35][391] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 26A Notice of exemption or approval of certain procurement procedures
     
 *   If the Agency grants itself an exemption under [section 26(a)][64] or approves a procurement procedure under [section 25(1)][63] to meet its own procurement requirements, it must publish the details of its exemption or approval (as the case may be) and its reasons on its Internet site.
     
-    Section 26A: inserted, on 1 August 2008, by [section 25][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 26A: inserted, on 1 August 2008, by [section 25][392] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Local authority interests in public transport services
 
@@ -2475,57 +2479,57 @@ Planning and funding of land transport system
     
     (3) A regional council may, subject to subsection (1), hold an interest in, or acquire the ownership of, a public transport service or any public transport infrastructure.
     
-    Compare: [1974 No 66][391] [s 594ZR][392]
+    Compare: [1974 No 66][393] [s 594ZR][394]
     
-    Section 27(2): amended, on 1 August 2008, by [section 26][388] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 27(2): amended, on 1 August 2008, by [section 26][390] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Safety administration programme
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2004, by [section 17(a)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+*   Heading: repealed, on 1 December 2004, by [section 17(a)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 28 Safety administration programme
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 December 2004, by [section 17(a)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 28: repealed, on 1 December 2004, by [section 17(a)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 29 Approval of safety administration programme
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 1 December 2004, by [section 17(b)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 29: repealed, on 1 December 2004, by [section 17(b)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 30 Agencies must adhere to safety administration programme
     
 *   \[Repealed\]
     
-    Section 30: repealed, on 1 December 2004, by [section 17(b)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 30: repealed, on 1 December 2004, by [section 17(b)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 31 Secretary must make safety administration programme available to public
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 1 December 2004, by [section 17(b)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 31: repealed, on 1 December 2004, by [section 17(b)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 32 Secretary may submit supplementary safety administration programme
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 1 December 2004, by [section 17(b)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 32: repealed, on 1 December 2004, by [section 17(b)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 33 Minister may approve supplementary safety administration programme
     
 *   \[Repealed\]
     
-    Section 33: repealed, on 1 December 2004, by [section 17(b)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 33: repealed, on 1 December 2004, by [section 17(b)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 34 Reports on outputs and programmes
     
 *   \[Repealed\]
     
-    Section 34: repealed, on 1 August 2008, by [section 27][394] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 34: repealed, on 1 August 2008, by [section 27][396] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### General provisions
 
@@ -2533,19 +2537,19 @@ Planning and funding of land transport system
     
 *   In preparing any programme or plan under this Part, the Agency, the Commissioner, the Secretary, every local authority, Auckland Transport, and every approved public organisation must consider the needs of persons who are transport-disadvantaged.
     
-    Compare: [1989 No 75][307] [s 42K][395]
+    Compare: [1989 No 75][308] [s 42K][397]
     
-    Section 35 heading: amended, on 13 June 2013, by [section 36(1)][396] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 35 heading: amended, on 13 June 2013, by [section 36(1)][398] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 35: amended, on 13 June 2013, by [section 36(2)][396] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 35: amended, on 13 June 2013, by [section 36(2)][398] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 35: amended, on 13 June 2013, by [section 36(3)][396] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 35: amended, on 13 June 2013, by [section 36(3)][398] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 35: amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 35: amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 35: amended, on 1 August 2008, by [section 28(1)][397] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 35: amended, on 1 August 2008, by [section 28(1)][399] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 35: amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 35: amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 36 Agency may reduce, refuse, or withhold payments in certain cases
     
@@ -2573,23 +2577,23 @@ Planning and funding of land transport system
     
     (4) If the Agency makes any payment for an approved activity that is based on information that is subsequently found to be erroneous or inaccurate, the payment is recoverable in any court of competent jurisdiction as a debt due to the Agency.
     
-    Section 36 heading: amended, on 1 August 2008, by [section 29(1)][398] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36 heading: amended, on 1 August 2008, by [section 29(1)][400] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(1): amended, on 1 August 2008, by [section 29(2)][398] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(1): amended, on 1 August 2008, by [section 29(2)][400] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(1): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 36(1): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 36(2): amended, on 1 August 2008, by [section 29(3)][398] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(2): amended, on 1 August 2008, by [section 29(3)][400] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(2): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 36(2): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 36(3): amended, on 1 August 2008, by [section 29(4)][398] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(3): amended, on 1 August 2008, by [section 29(4)][400] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(3): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 36(3): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 36(4): amended, on 1 August 2008, by [section 29(5)][398] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 36(4): amended, on 1 August 2008, by [section 29(5)][400] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 36(4): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 36(4): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 37 Disputes
     
@@ -2609,25 +2613,25 @@ Planning and funding of land transport system
     
     (4) The organisation and the Agency are the parties to the arbitration.
     
-    (5) [Articles 35][399] and [36][400] of Schedule 1 of the Arbitration Act 1996 (which relate to recognition and enforcement of an arbitral award) and [clause 6][401] of Schedule 2 of that Act (which relates to costs and expenses of an arbitration) apply in relation to an arbitration under this section as if this section were an arbitration agreement within the meaning of that Act, but no other provisions of that Act apply in relation to an arbitration under this section.
+    (5) [Articles 35][401] and [36][402] of Schedule 1 of the Arbitration Act 1996 (which relate to recognition and enforcement of an arbitral award) and [clause 6][403] of Schedule 2 of that Act (which relates to costs and expenses of an arbitration) apply in relation to an arbitration under this section as if this section were an arbitration agreement within the meaning of that Act, but no other provisions of that Act apply in relation to an arbitration under this section.
     
-    Compare: [1989 No 75][307] [s 25][402]
+    Compare: [1989 No 75][308] [s 25][404]
     
-    Section 37(1): amended, on 1 August 2008, by [section 30(1)][403] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(1): amended, on 1 August 2008, by [section 30(1)][405] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(1): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 37(1): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 37(1)(b): amended, on 1 August 2008, by [section 30(1)][403] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(1)(b): amended, on 1 August 2008, by [section 30(1)][405] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(1)(b): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 37(1)(b): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 37(3): amended, on 1 August 2008, by [section 30(2)][403] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(3): amended, on 1 August 2008, by [section 30(2)][405] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(3): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 37(3): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 37(4): amended, on 1 August 2008, by [section 30(3)][403] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 37(4): amended, on 1 August 2008, by [section 30(3)][405] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 37(4): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 37(4): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ##### 38 Provision of information
     
@@ -2639,13 +2643,13 @@ Planning and funding of land transport system
     
     (4) \[Repealed\]
     
-    Compare: [1974 No 66][391] [s 594ZZJ][404]: [1989 No 75][307] [ss 34][405], [42J][406]
+    Compare: [1974 No 66][393] [s 594ZZJ][406]: [1989 No 75][308] [ss 34][407], [42J][408]
     
-    Section 38(1): amended, on 1 August 2008, by [section 31(1)][407] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 38(1): amended, on 1 August 2008, by [section 31(1)][409] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 38(1): amended, on 1 December 2004, by [section 16][310] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+    Section 38(1): amended, on 1 December 2004, by [section 16][311] of the Land Transport Management Amendment Act 2004 (2004 No 97).
     
-    Section 38(4): repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 38(4): repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 38AA Duty to co-operate
     
@@ -2653,27 +2657,27 @@ Planning and funding of land transport system
     
     (2) In acting under this Act, the Agency, Auckland Transport, and the Auckland Council must work co-operatively with each other and the New Zealand Railways Corporation, the Police, and other organisations that have responsibilities in relation to the Auckland transport system and State highways and railways within Auckland, to help ensure a co-ordinated approach to decision making about Auckland transport.
     
-    (3) In subsection (2), _Auckland transport system_ has the same meaning as in [section 37(1)][408] of the Local Government (Auckland Council) Act 2009\.
+    (3) In subsection (2), _Auckland transport system_ has the same meaning as in [section 37(1)][410] of the Local Government (Auckland Council) Act 2009\.
     
-    Section 38AA: inserted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 38AA: inserted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 38A Good reasons for refusing to supply requested information
     
 *   \[Repealed\]
     
-    Section 38A: repealed, on 13 June 2013, by [section 37][409] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 38A: repealed, on 13 June 2013, by [section 37][411] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Infrastructure Auckland
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2004, by [section 45][410] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
+*   Heading: repealed, on 1 December 2004, by [section 45][412] of the Local Government (Auckland) Amendment Act 2004 (2004 No 57).
 
 ##### 39 Special provisions relating to Auckland Region
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 1 August 2008, by [section 33][411] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 39: repealed, on 1 August 2008, by [section 33][413] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Diversion of excise duty and excise-equivalent duty to national land transport fund
 
@@ -2681,7 +2685,7 @@ Planning and funding of land transport system
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 13 June 2013, by [section 38][412] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 40: repealed, on 13 June 2013, by [section 38][414] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 41 Refund of excise duty, excise-equivalent duty, and GST
     
@@ -2695,9 +2699,9 @@ Planning and funding of land transport system
     
     (5) If the amount of any refund of excise duty, excise-equivalent duty, and goods and services tax provided for in regulations made under [section 45][91] is increased, reduced, or varied by any Act or by any regulations, refunds of duty or tax paid, whether before or after the coming into force of that increase, reduction, or variation, in satisfaction of a liability for that duty or tax incurred before that date may be applied for and made as if the increase, reduction, or variation were not in force.
     
-    Compare: [1989 No 75][307] [s 101][413]
+    Compare: [1989 No 75][308] [s 101][415]
     
-    Section 41(3): repealed, on 1 August 2008, by [section 34][414] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 41(3): repealed, on 1 August 2008, by [section 34][416] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 42 Procedure for obtaining refund
     
@@ -2713,31 +2717,35 @@ Planning and funding of land transport system
     
     (6) The Secretary may, at his or her discretion, allow a refund in any special case before the close of any period in respect of motor spirits, compressed natural gas, or liquefied petroleum gas used within that period.
     
-    Compare: [1989 No 75][307] [s 102][415]
+    Compare: [1989 No 75][308] [s 102][417]
 
 ##### 43 Offence and penalty
     
 *   (1) A person commits an offence who, for the purposes of obtaining a refund under [section 41][87], makes any application or furnishes any information that he or she knows to be false in any material particular.
     
-    (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $2,000\.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,000\.
     
-    (3) Despite anything in the [Summary Proceedings Act 1957][416], any information for an offence against subsection (1) may be laid at any time within 3 years after the date of the offence.
+    (3) Despite anything to the contrary in [section 25][418] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 3 years after the date on which the offence was committed.
+    
+    Section 43(2): amended, on 1 July 2013, by [section 413][419] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43(3): replaced, on 1 July 2013, by [section 413][419] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Consequential repeal
     
-*   [Part 5][417] of the Transit New Zealand Act 1989 is consequentially repealed.
+*   [Part 5][420] of the Transit New Zealand Act 1989 is consequentially repealed.
 
 ##### 45 Regulations relating to sections 41 and 42
     
 *   The Governor-General may, from time to time, by Order in Council, make regulations providing for any matters contemplated by [sections 41][87] and [42][88], necessary for the administration of those sections, or necessary for giving those sections full effect.
     
-    Section 45 heading: amended, on 1 August 2008, by [section 35(1)][418] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 45 heading: amended, on 1 August 2008, by [section 35(1)][421] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 45: amended, on 1 August 2008, by [section 35(2)][418] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 45: amended, on 1 August 2008, by [section 35(2)][421] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 2---Road tolling schemes
     
-*   Subpart 2 heading: amended, on 13 June 2013, by [section 39][419] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Subpart 2 heading: amended, on 13 June 2013, by [section 39][422] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Road tolling schemes
 
@@ -2781,7 +2789,7 @@ Planning and funding of land transport system
     
     *   (e) specify any information that the toll operator or the public road controlling authority is required to provide to the Minister or any other specified person or organisation:
     
-    *   (f) authorise the enforcement authority to have access to law enforcement information held by a holder agency under the [Privacy Act 1993][420], and set out terms and conditions governing that access:
+    *   (f) authorise the enforcement authority to have access to law enforcement information held by a holder agency under the [Privacy Act 1993][423], and set out terms and conditions governing that access:
     
     *   (g) specify, in relation to a new road, the purposes under subsection (1) for which toll revenue inflow may be used (including reimbursement of the costs related to the new road):
     
@@ -2789,13 +2797,15 @@ Planning and funding of land transport system
     
     *   (i) require notice of the Minister's confirmation of the matters referred to in subsection (2)(c) to be published in the manner set out in the order.
     
-    (4) An order made under subsection (1) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][421] and the [Acts and Regulations Publication Act 1989][422].
+    (4) An Order in Council made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][424] and must be presented to the House of Representatives under [section 41][425] of that Act.
     
     (5) Before recommending that an order made under subsection (1) be amended or revoked, the Minister must consult the relevant public road controlling authority about his or her proposal.
     
     (6) This section does not limit any other Act that provides for tolls to be levied or collected in respect of any road.
     
-    Section 46(3)(g): replaced, on 13 June 2013, by [section 40][423] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 46(3)(g): replaced, on 13 June 2013, by [section 40][426] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 46(4): replaced, on 5 August 2013, by [section 77(3)][427] of the Legislation Act 2012 (2012 No 119).
 
 ##### 47 When tolling power is exercisable
     
@@ -2841,17 +2851,17 @@ Planning and funding of land transport system
     
     (5) \[Repealed\]
     
-    Section 48(1): replaced, on 13 June 2013, by [section 41(1)][424] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 48(1): replaced, on 13 June 2013, by [section 41(1)][428] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 48(3): repealed, on 13 June 2013, by [section 41(2)][424] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 48(3): repealed, on 13 June 2013, by [section 41(2)][428] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 48(5): repealed, on 13 June 2013, by [section 41(2)][424] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 48(5): repealed, on 13 June 2013, by [section 41(2)][428] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 49 Consultation requirements
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 13 June 2013, by [section 43][425] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 49: repealed, on 13 June 2013, by [section 43][429] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 50 Privacy
     
@@ -2861,7 +2871,7 @@ Planning and funding of land transport system
     
     (3) The enforcement authority must not use any personal information to which this section applies except for the purpose of enforcing the toll offence provisions of this Act.
     
-    (4) The disclosure of personal information to which this section applies on any of the grounds set out in [principle 11][426] in the Privacy Act 1993 is not prohibited by subsection (2) or subsection (3).
+    (4) The disclosure of personal information to which this section applies on any of the grounds set out in [principle 11][430] in the Privacy Act 1993 is not prohibited by subsection (2) or subsection (3).
     
     (5) The toll operator and enforcement authority must each outline their privacy policies in a document and make the document available for inspection by the public free of charge during usual working hours or for purchase at a reasonable price.
     
@@ -2875,9 +2885,9 @@ Planning and funding of land transport system
     
     (7) For the purposes of this section, _personal information_ includes any tolling information linked to registration plates.
     
-    Section 50(6): inserted, on 13 June 2013, by [section 44][427] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 50(6): inserted, on 13 June 2013, by [section 44][431] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 50(7): inserted, on 13 June 2013, by [section 44][427] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 50(7): inserted, on 13 June 2013, by [section 44][431] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 51 Payment of tolls
     
@@ -2889,13 +2899,13 @@ Planning and funding of land transport system
     
     (4) The toll operator may impose reasonable charges in connection with the administration of any method of payment.
     
-    Section 51(3): repealed, on 13 June 2013, by [section 45][428] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 51(3): repealed, on 13 June 2013, by [section 45][432] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 52 Who is liable to pay toll
     
 *   (1) The driver of a motor vehicle is liable for payment of the toll to the toll operator when the vehicle reaches the toll payment point.
     
-    (2) If the driver fails to pay the toll as required by subsection (1), the person registered under [Part 17][321] of the Land Transport Act 1998 in respect of the motor vehicle (the _registered person_) is liable for payment of the toll to the toll operator.
+    (2) If the driver fails to pay the toll as required by subsection (1), the person registered under [Part 17][323] of the Land Transport Act 1998 in respect of the motor vehicle (the _registered person_) is liable for payment of the toll to the toll operator.
     
     (3) However, the registered person is not liable under subsection (2) to pay the toll if, within 28 days after being notified of the non-payment of the toll, the registered person supplies to the toll operator, in a sworn statement in writing or a statutory declaration,---
         
@@ -2907,7 +2917,7 @@ Planning and funding of land transport system
         
     *   (a) ordinary post delivered to the street address of the registered person's usual or last known place of business or residence:
     
-    *   (b) electronic means of communication delivered to the registered person's electronic address if the toll operator complies with the [Electronic Transactions Act 2002][429].
+    *   (b) electronic means of communication delivered to the registered person's electronic address if the toll operator complies with the [Electronic Transactions Act 2002][433].
     
     (3B) Unless the registered person proves that the registered person did not (through no fault of the registered person) receive the notice given under subsection (3), a notice delivered by---
         
@@ -2931,93 +2941,95 @@ Planning and funding of land transport system
     
     *   (c) as a fire service vehicle.
     
-    Section 52(2): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 52(2): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 52(3): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 52(3): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 52(3)(a): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 52(3)(a): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 52(3A): inserted, on 13 June 2013, by [section 46(1)][430] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 52(3A): inserted, on 13 June 2013, by [section 46(1)][434] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 52(3B): inserted, on 13 June 2013, by [section 46(1)][430] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 52(3B): inserted, on 13 June 2013, by [section 46(1)][434] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 52(5): replaced, on 13 June 2013, by [section 46(2)][430] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 52(5): replaced, on 13 June 2013, by [section 46(2)][434] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 52(6): inserted, on 13 June 2013, by [section 46(2)][430] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 52(6): inserted, on 13 June 2013, by [section 46(2)][434] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 53 Enforcement of tolls
     
 *   A toll operator may deny a motor vehicle physical access to its toll road, or past the toll payment point, if---
         
-    *   (a) the vehicle is subject to a toll, or the driver or person registered under [Part 17][321] of the Land Transport Act 1998 in respect of the vehicle is liable to pay a toll; and
+    *   (a) the vehicle is subject to a toll, or the driver or person registered under [Part 17][323] of the Land Transport Act 1998 in respect of the vehicle is liable to pay a toll; and
     
     *   (b) the driver or person registered under that Part in respect of the vehicle has not paid the toll or made an acceptable payment arrangement with the toll operator.
     
-    Section 53(a): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 53(a): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
     
-    Section 53(b): amended, on 1 May 2011, by [section 35(4)][313] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 53(b): amended, on 1 May 2011, by [section 35(4)][314] of the Land Transport Amendment Act 2009 (2009 No 17).
 
 ##### 54 Offences and penalties
     
 *   (1) A person commits an offence if the person, without reasonable excuse, fails to pay a toll payable by that person.
     
-    (2) An offence against subsection (1) is a moving vehicle offence under the [Land Transport Act 1998][431].
+    (2) An offence against subsection (1) is a moving vehicle offence under the [Land Transport Act 1998][435].
     
     (3) A person commits an offence if, for the purpose of [section 52(3)][100], the person gives a sworn statement in writing or a statutory declaration and, in that statement or declaration, gives information that the person knows to be false or misleading.
     
-    (4) A person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $500\.
+    (4) A person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $500\.
     
-    (5) Subsection (3) does not limit [section 111][432] of the Crimes Act 1961\.
+    (5) Subsection (3) does not limit [section 111][436] of the Crimes Act 1961\.
     
-    Section 54(1): amended, on 13 June 2013, by [section 47][433] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 54(1): amended, on 13 June 2013, by [section 47][437] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 54(4): amended, on 1 July 2013, by [section 413][419] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Application of Fair Trading Act 1986
     
-*   (1) Nothing in this Part limits the application of the [Fair Trading Act 1986][434].
+*   (1) Nothing in this Part limits the application of the [Fair Trading Act 1986][438].
     
-    (2) For the purposes of the [Fair Trading Act 1986][434], a toll operator is supplying services to those by whom the tolls are payable and is accordingly in trade.
+    (2) For the purposes of the [Fair Trading Act 1986][438], a toll operator is supplying services to those by whom the tolls are payable and is accordingly in trade.
 
 #### Delegation
     
-*   Heading: replaced, on 13 June 2013, by [section 48][435] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: replaced, on 13 June 2013, by [section 48][439] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 56 Concession agreements
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 13 June 2013, by [section 49][436] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 56: repealed, on 13 June 2013, by [section 49][440] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 57 When concession agreement may be entered into
     
 *   \[Repealed\]
     
-    Section 57: repealed, on 13 June 2013, by [section 49][436] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 57: repealed, on 13 June 2013, by [section 49][440] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 58 Approval process and relationship to national land transport programme
     
 *   \[Repealed\]
     
-    Section 58: repealed, on 13 June 2013, by [section 49][436] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 58: repealed, on 13 June 2013, by [section 49][440] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 59 Consultation requirements
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 13 June 2013, by [section 49][436] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 59: repealed, on 13 June 2013, by [section 49][440] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 60 Terms of concession agreements
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 13 June 2013, by [section 49][436] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 60: repealed, on 13 June 2013, by [section 49][440] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 61 Delegation of roading functions and powers
     
 *   (1) For the purpose of enabling another person to construct or operate a new road, a road controlling authority may, with the prior approval of the Minister, delegate in writing to that person all or any of its functions and powers under---
         
-    *   (a) [Part 21][437] of the Local Government Act 1974; or
+    *   (a) [Part 21][441] of the Local Government Act 1974; or
     
-    *   (b) [Part 4][438] of the Government Roading Powers Act 1989, other than the power under [section 61(3)][439] of that Act to make bylaws or the power under [section 62][440] of that Act to delegate.
+    *   (b) [Part 4][442] of the Government Roading Powers Act 1989, other than the power under [section 61(3)][443] of that Act to make bylaws or the power under [section 62][444] of that Act to delegate.
     
     (2) While functions or powers of a road controlling authority are delegated to another person under subsection (1),---
         
@@ -3033,21 +3045,21 @@ Planning and funding of land transport system
     
     (5) For the purposes of this section, _person_ includes (but is not limited to) any private sector person that has entered into a written agreement with a road controlling authority to construct or operate a new road.
     
-    Section 61 heading: amended, on 13 June 2013, by [section 50(1)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61 heading: amended, on 13 June 2013, by [section 50(1)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(1): replaced, on 13 June 2013, by [section 50(2)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(1): replaced, on 13 June 2013, by [section 50(2)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(2): amended, on 13 June 2013, by [section 50(3)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(2): amended, on 13 June 2013, by [section 50(3)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(2)(a): amended, on 13 June 2013, by [section 50(4)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(2)(a): amended, on 13 June 2013, by [section 50(4)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(2)(b): amended, on 13 June 2013, by [section 50(5)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(2)(b): amended, on 13 June 2013, by [section 50(5)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(3): amended, on 13 June 2013, by [section 50(6)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(3): amended, on 13 June 2013, by [section 50(6)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 61(4): repealed, on 1 August 2008, by [section 41(2)][442] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 61(4): repealed, on 1 August 2008, by [section 41(2)][446] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 61(5): inserted, on 13 June 2013, by [section 50(7)][441] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 61(5): inserted, on 13 June 2013, by [section 50(7)][445] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 62 Effect of delegation under section 61
     
@@ -3069,7 +3081,7 @@ Planning and funding of land transport system
     
     (7) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
     
-    Section 62(4): amended, on 13 June 2013, by [section 51][443] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 62(4): amended, on 13 June 2013, by [section 51][447] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 63 Leasing
     
@@ -3083,7 +3095,7 @@ Planning and funding of land transport system
     
     *   (b) an existing road or a new road or a portion of an existing road or a new road; and
     
-    *   (c) land acquired by the road controlling authority under the [Public Works Act 1981][444].
+    *   (c) land acquired by the road controlling authority under the [Public Works Act 1981][448].
     
     (4) The lease---
         
@@ -3097,302 +3109,310 @@ Planning and funding of land transport system
     
     (5) While the written agreement has effect, the grant of the lease---
         
-    *   (a) is not a subdivision for the purposes of [section 218][445] of the Resource Management Act 1991; and
+    *   (a) is not a subdivision for the purposes of [section 218][449] of the Resource Management Act 1991; and
     
-    *   (b) is not subject to [sections 40 to 42][446] of the Public Works Act 1981\.
+    *   (b) is not subject to [sections 40 to 42][450] of the Public Works Act 1981\.
     
-    (6) For the purposes of the Rating Powers Act 1988 and the [Local Government (Rating) Act 2002][447], land subject to a lease under subsection (1) and formed and used for a road is not rateable property.
+    (6) For the purposes of the Rating Powers Act 1988 and the [Local Government (Rating) Act 2002][451], land subject to a lease under subsection (1) and formed and used for a road is not rateable property.
     
     (7) A licence must not be granted for the purpose referred to in subsection (1).
     
     (8) For the purposes of this section, _written agreement_ includes (but is not limited to) a written agreement that a private sector person has entered into with a road controlling authority to construct or operate a new road.
     
-    Section 63(1): replaced, on 13 June 2013, by [section 52(1)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(1): replaced, on 13 June 2013, by [section 52(1)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(2): repealed, on 13 June 2013, by [section 52(2)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(2): repealed, on 13 June 2013, by [section 52(2)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(3)(b): replaced, on 13 June 2013, by [section 52(3)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(3)(b): replaced, on 13 June 2013, by [section 52(3)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(4)(a): repealed, on 13 June 2013, by [section 52(4)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(4)(a): repealed, on 13 June 2013, by [section 52(4)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(4)(b): amended, on 13 June 2013, by [section 52(5)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(4)(b): amended, on 13 June 2013, by [section 52(5)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(5): amended, on 13 June 2013, by [section 52(6)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(5): amended, on 13 June 2013, by [section 52(6)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 63(8): inserted, on 13 June 2013, by [section 52(7)][448] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 63(8): inserted, on 13 June 2013, by [section 52(7)][452] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 64 Registration of leases
     
-*   Despite anything in the [Land Transfer Act 1952][449], if a lease under [section 63][112] is in the form of a deed and the lease is granted over land for which no certificate of title or computer register has been issued or created under that Act or the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][450], the Minister may request the Registrar-General of Land to register the deed by constituting it as a computer interest register under [section 9][451] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and the Registrar-General of Land must register the deed accordingly.
+*   Despite anything in the [Land Transfer Act 1952][453], if a lease under [section 63][112] is in the form of a deed and the lease is granted over land for which no certificate of title or computer register has been issued or created under that Act or the [Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002][454], the Minister may request the Registrar-General of Land to register the deed by constituting it as a computer interest register under [section 9][455] of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and the Registrar-General of Land must register the deed accordingly.
 
 #### Enforcement of this Part and other land transport legislation
 
 ##### 65 This Part and other land transport legislation enforceable in relation to toll roads
     
-*   (1) This section applies in relation to persons who are enforcement officers under the [Land Transport Act 1998][431].
+*   (1) This section applies in relation to persons who are enforcement officers under the [Land Transport Act 1998][435].
     
     (2) In relation to a toll road and to any person, vehicle, or animal on that road,---
         
-    *   (a) enforcement officers who are not constables but who are Police employees authorised for the purpose by the Commissioner may enforce the provisions of this Part and the other enactments referred to in [section 113(1)][452] of the Land Transport Act 1998, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in [section 2(1)][289] of that Act; and
+    *   (a) enforcement officers who are not constables but who are Police employees authorised for the purpose by the Commissioner may enforce the provisions of this Part and the other enactments referred to in [section 113(1)][456] of the Land Transport Act 1998, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in [section 2(1)][289] of that Act; and
     
-    *   (b) other enforcement officers who are appointed for the purposes of this Part under [section 208(1) or (3)(a)(iii)][453] of the Land Transport Act 1998 may enforce the provisions of this Part relating to tolls, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in [section 2(1)][289] of that Act; and
+    *   (b) other enforcement officers who are appointed for the purposes of this Part under [section 208(1) or (3)(a)(iii)][457] of the Land Transport Act 1998 may enforce the provisions of this Part relating to tolls, and, to avoid doubt, the road must be regarded for this purpose as a road as defined in [section 2(1)][289] of that Act; and
     
-    *   (c) the provisions of the [Summary Proceedings Act 1957][416] and the regulations in force under that Act apply accordingly.
+    *   (c) the following provisions apply accordingly:
+            
+        *   (i) the [Criminal Procedure Act 2011][458] and the rules and regulations made under it:
+        
+        *   (ii) the [Summary Proceedings Act 1957][459] and the regulations made under it.
+        
+        
     
-    (3) For the purposes of [sections 52(1)(c)][454] and [53][455] of the Land Transport Act 1998, an enforcement officer who gives or imposes any lawful requirement, direction, notice, request, or prohibition in relation to a person, vehicle, or animal on a toll road must be regarded as acting in the execution of his or her functions or powers under that Act.
+    (3) For the purposes of [sections 52(1)(c)][460] and [53][461] of the Land Transport Act 1998, an enforcement officer who gives or imposes any lawful requirement, direction, notice, request, or prohibition in relation to a person, vehicle, or animal on a toll road must be regarded as acting in the execution of his or her functions or powers under that Act.
     
-    Section 65 heading: amended, on 13 June 2013, by [section 53(1)][456] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65 heading: amended, on 13 June 2013, by [section 53(1)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 65(2): amended, on 13 June 2013, by [section 53(2)][456] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65(2): amended, on 13 June 2013, by [section 53(2)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 65(2)(a): amended, on 13 June 2013, by [section 53(3)][456] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65(2)(a): amended, on 13 June 2013, by [section 53(3)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 65(2)(b): amended, on 13 June 2013, by [section 53(4)][456] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65(2)(b): amended, on 13 June 2013, by [section 53(4)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 65(3): amended, on 13 June 2013, by [section 53(5)][456] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65(2)(c): replaced, on 1 July 2013, by [section 413][419] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65(3): amended, on 13 June 2013, by [section 53(5)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ### Subpart 3---Regional fuel tax
 
 \[Repealed\]
     
-*   Subpart 3: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Subpart 3: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Preliminary provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65A Overview of subpart
     
 *   \[Repealed\]
     
-    Section 65A: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65A: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65B Purposes of subpart
     
 *   \[Repealed\]
     
-    Section 65B: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65B: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65C Interpretation
     
 *   \[Repealed\]
     
-    Section 65C: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65C: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65D Application of subpart
     
 *   \[Repealed\]
     
-    Section 65D: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65D: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Regional fuel tax schemes
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65E Preparation of proposed regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65E: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65E: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65F Capital projects
     
 *   \[Repealed\]
     
-    Section 65F: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65F: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65G General information about proposed regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65G: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65G: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65H Persons that must be consulted
     
 *   \[Repealed\]
     
-    Section 65H: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65H: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65I Consultation principles and procedures
     
 *   \[Repealed\]
     
-    Section 65I: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65I: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65J Proposed regional fuel tax scheme to be lodged with relevant regional council
     
 *   \[Repealed\]
     
-    Section 65J: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65J: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65K Relevant regional council's decision concerning proposed regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65K: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65K: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65L Functions of Agency under this subpart
     
 *   \[Repealed\]
     
-    Section 65L: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65L: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65M Additional capital projects may be included in proposed regional fuel tax scheme for Auckland
     
 *   \[Repealed\]
     
-    Section 65M: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65M: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65N Decisions of Ministers concerning proposed regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65N: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65N: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65O Order in Council establishing regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65O: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65O: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65P Procedure for recommending making of Order in Council under section 65O(1)
     
 *   \[Repealed\]
     
-    Section 65P: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65P: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Review of regional fuel tax scheme
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65Q Review of regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65Q: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65Q: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65R Variation of allocation of regional fuel tax revenue between capital projects
     
 *   \[Repealed\]
     
-    Section 65R: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65R: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65S Replacement of regional fuel tax scheme
     
 *   \[Repealed\]
     
-    Section 65S: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65S: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Collection of regional fuel tax
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65T When power to collect regional fuel tax is exercisable
     
 *   \[Repealed\]
     
-    Section 65T: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65T: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65U Persons who must pay regional fuel tax
     
 *   \[Repealed\]
     
-    Section 65U: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65U: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65V Returns
     
 *   \[Repealed\]
     
-    Section 65V: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65V: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65W Confirmation of tax
     
 *   \[Repealed\]
     
-    Section 65W: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65W: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65X Assessment presumed to be correct
     
 *   \[Repealed\]
     
-    Section 65X: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65X: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65Y Appeal against assessment
     
 *   \[Repealed\]
     
-    Section 65Y: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65Y: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Distribution of proceeds of regional fuel tax
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65Z Accounting for regional fuel tax
     
 *   \[Repealed\]
     
-    Section 65Z: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65Z: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65ZA Regional fuel tax disbursement account
     
 *   \[Repealed\]
     
-    Section 65ZA: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65ZA: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Refunds
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65ZB Refund of regional fuel tax
     
 *   \[Repealed\]
     
-    Section 65ZB: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65ZB: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65ZC Procedure for obtaining refund
     
 *   \[Repealed\]
     
-    Section 65ZC: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65ZC: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Miscellaneous
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65ZD Offences and penalties
     
 *   \[Repealed\]
     
-    Section 65ZD: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65ZD: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 65ZE Regulations
     
 *   \[Repealed\]
     
-    Section 65ZE: repealed, on 13 June 2013, by [section 54][457] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 65ZE: repealed, on 13 June 2013, by [section 54][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ## Part 3  
 Land transport strategic documents
     
-*   Part 3: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Part 3: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### GPS on land transport
     
-*   Heading: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 66 Minister must issue GPS on land transport
     
@@ -3406,7 +3426,7 @@ Land transport strategic documents
     
     (3) If a GPS on land transport that is issued under subsection (1) is replaced, the GPS on land transport that is replaced expires on the date that it is replaced.
     
-    Section 66: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 66: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 67 Preparation or review of GPS on land transport
     
@@ -3418,7 +3438,7 @@ Land transport strategic documents
             
         *   (i) any national energy efficiency and conservation strategy; and
         
-        *   (ii) any relevant national policy statement that is in force under the [Resource Management Act 1991][346]; and
+        *   (ii) any relevant national policy statement that is in force under the [Resource Management Act 1991][348]; and
         
         
     
@@ -3430,7 +3450,7 @@ Land transport strategic documents
     
     (4) Before issuing a GPS on land transport, the Minister must consult the Agency about the proposed GPS on land transport.
     
-    Section 67: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 67: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 68 Content of GPS on land transport
     
@@ -3478,19 +3498,23 @@ Land transport strategic documents
     
     *   (b) must, subject to the [Public Finance Act 1989][288], specify any additional expected funding for land transport activities, including (but not limited to) any money that Parliament may appropriate for the purpose.
     
-    Section 68: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 68: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 69 Status of GPS on land transport
     
 *   To avoid doubt, a GPS on land transport is not---
         
-    *   (a) a direction for the purposes of [Part 3][371] of the Crown Entities Act 2004; or
+    *   (a) a direction for the purposes of [Part 3][373] of the Crown Entities Act 2004; or
     
-    *   (b) a regulation for the purposes of the [Acts and Regulations Publication Act 1989][422]; or
+    *   (b) a legislative instrument for the purposes of the [Legislation Act 2012][424]; or
     
-    *   (c) a regulation for the purposes of the [Regulations (Disallowance) Act 1989][421].
+    *   (c) a disallowable instrument for the purposes of the [Legislation Act 2012][424].
     
-    Section 69: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 69: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 69(b): replaced, on 5 August 2013, by [section 55(3)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 69(c): replaced, on 5 August 2013, by [section 55(3)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 70 Agency to give effect to GPS on land transport in respect of funding of land transport system
     
@@ -3498,7 +3522,7 @@ Land transport strategic documents
     
     (2) To avoid doubt, the GPS on land transport may not impose an obligation on the Agency to approve or decline funding for a particular activity or any combination of activities under [section 20][51].
     
-    Section 70: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 70: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 71 Availability of GPS on land transport
     
@@ -3522,97 +3546,97 @@ Land transport strategic documents
     
     *   (c) make a copy of the GPS on land transport publicly available in accordance with [section 108][209].
     
-    Section 71: replaced, on 13 June 2013, by [section 55(1)][459] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 71: replaced, on 13 June 2013, by [section 55(1)][465] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 72 Effect of national land transport strategy
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 72: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Regional land transport strategies
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 73 Overview of regional land transport strategy
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 73: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 74 Responsibility for preparing and approving regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 74: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Transit
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 75 Core requirements for regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 75: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 76 Other matters that must be taken into account
     
 *   \[Repealed\]
     
-    Section 76: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 76: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 77 Contents of regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 77: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 78 Consultation requirements
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 78: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 79 Process for approving regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 79: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 79: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 80 Availability of regional land transport strategy
     
 *   \[Repealed\]
     
-    Section 80: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 80: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 81 Variation of regional land transport strategy
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 81: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 82 Effect of regional land transport strategies
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 82: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 83 Progress reports on regional land transport strategy
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 83: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### GPS
 
 \[Repealed\]
     
-*   Heading: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 84 Overview of GPS
     
@@ -3624,43 +3648,43 @@ Land transport strategic documents
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 85: repealed, on 13 June 2013, by section 56 of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 86 Minister must issue GPS before national land transport programme
     
 *   \[Repealed\]
     
-    Section 86: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 86: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 87 Preparation of GPS
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 87: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Miscellaneous provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 88 Content of GPS
     
 *   \[Repealed\]
     
-    Section 88: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 88: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 89 Agency to give effect to GPS in respect of funding of land transport system
     
 *   \[Repealed\]
     
-    Section 89: repealed, on 13 June 2013, by [section 56][460] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 89: repealed, on 13 June 2013, by [section 56][466] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Amendments and repeals
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 90 Amending GPS on land transport
     
@@ -3672,7 +3696,7 @@ Land transport strategic documents
     
     *   (b) do not apply if the amendment to the GPS on land transport is not significant.
     
-    Section 90: replaced, on 13 June 2013, by [section 57][461] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 90: replaced, on 13 June 2013, by [section 57][467] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 91 Availability of amended GPS on land transport
     
@@ -3696,36 +3720,36 @@ Land transport strategic documents
     
     *   (c) make a copy of the amended GPS on land transport publicly available in accordance with [section 108][209].
     
-    Section 91: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 91: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 91 heading: amended, on 13 June 2013, by [section 58(1)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91 heading: amended, on 13 June 2013, by [section 58(1)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91: amended, on 13 June 2013, by [section 58(2)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91: amended, on 13 June 2013, by [section 58(2)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91(a): amended, on 13 June 2013, by [section 58(3)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91(a): amended, on 13 June 2013, by [section 58(3)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91(b): amended, on 13 June 2013, by [section 58(3)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91(b): amended, on 13 June 2013, by [section 58(3)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91(b)(iv): replaced, on 13 June 2013, by [section 58(4)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91(b)(iv): replaced, on 13 June 2013, by [section 58(4)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91(b)(v): inserted, on 13 June 2013, by [section 58(4)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91(b)(v): inserted, on 13 June 2013, by [section 58(4)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 91(c): amended, on 13 June 2013, by [section 58(3)][462] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 91(c): amended, on 13 June 2013, by [section 58(3)][468] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ## Part 4  
 New Zealand Transport Agency, regional transport committees, and miscellaneous provisions
     
-*   Part 4 heading: inserted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Part 4 heading: inserted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 1---New Zealand Transport Agency
     
-*   Subpart 1 heading: inserted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Subpart 1 heading: inserted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 #### Savings provisions
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Heading: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 92 Overview
     
@@ -3753,11 +3777,11 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (3) This section is by way of explanation only, and if a provision of this or any other Act is inconsistent with this section, the other provision prevails.
     
-    Section 92: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 92: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 92(2)(b): replaced, on 13 June 2013, by [section 59(1)][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 92(2)(b): replaced, on 13 June 2013, by [section 59(1)][469] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 92(2)(e): replaced, on 13 June 2013, by [section 59(2)][463] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 92(2)(e): replaced, on 13 June 2013, by [section 59(2)][469] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 93 Establishment of New Zealand Transport Agency
     
@@ -3765,17 +3789,17 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (2) The Agency is a Crown entity for the purposes of [section 7][299] of the Crown Entities Act 2004\.
     
-    (3) The [Crown Entities Act 2004][339] applies to the Agency except to the extent that this Act expressly provides otherwise.
+    (3) The [Crown Entities Act 2004][341] applies to the Agency except to the extent that this Act expressly provides otherwise.
     
-    Section 93: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 93: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 94 Objective of Agency
     
 *   The objective of the Agency is to undertake its functions in a way that contributes to an effective, efficient, and safe land transport system in the public interest.
     
-    Section 94: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 94: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 94: amended, on 13 June 2013, by [section 60][464] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 94: amended, on 13 June 2013, by [section 60][470] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 95 Functions of Agency
     
@@ -3783,9 +3807,9 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
         
     *   (a) to contribute to an effective, efficient, and safe land transport system in the public interest:
     
-    *   (b) to investigate and review accidents and incidents involving transport on land in its capacity as the responsible safety authority, subject to any limitations set out in the [Transport Accident Investigation Commission Act 1990][465]:
+    *   (b) to investigate and review accidents and incidents involving transport on land in its capacity as the responsible safety authority, subject to any limitations set out in the [Transport Accident Investigation Commission Act 1990][471]:
     
-    *   (c) to manage the State highway system, including planning, funding, design, supervision, construction, and maintenance and operations, in accordance with this Act and the [Government Roading Powers Act 1989][307]:
+    *   (c) to manage the State highway system, including planning, funding, design, supervision, construction, and maintenance and operations, in accordance with this Act and the [Government Roading Powers Act 1989][308]:
     
     *   (d) to deliver or manage the delivery of its other activities, including (but not limited to) those relating to research, education, and training:
     
@@ -3807,7 +3831,7 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (ia) to issue guidelines for, and monitor the development of, regional public transport plans:
     
-    *   (j) to carry out any other functions relating to land transport that the Minister directs in accordance with [section 112][466] of the Crown Entities Act 2004:
+    *   (j) to carry out any other functions relating to land transport that the Minister directs in accordance with [section 112][472] of the Crown Entities Act 2004:
     
     *   (k) to carry out those functions conferred on the Agency by other provisions in this Act or under any other Act.
     
@@ -3829,17 +3853,17 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
         
     *   (a) a land transport document as defined in [section 2(1)][289] of the Land Transport Act 1998; and
     
-    *   (b) a rail document as defined in [section 4(1)][302] of the Railways Act 2005\.
+    *   (b) a rail document as defined in [section 4(1)][303] of the Railways Act 2005\.
     
-    Section 95: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 95: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 95(1)(a): replaced, on 13 June 2013, by [section 61(1)][467] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 95(1)(a): replaced, on 13 June 2013, by [section 61(1)][473] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 95(1)(d): replaced, on 13 June 2013, by [section 61(2)][467] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 95(1)(d): replaced, on 13 June 2013, by [section 61(2)][473] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 95(1)(e)(i): amended, on 13 June 2013, by [section 61(3)][467] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 95(1)(e)(i): amended, on 13 June 2013, by [section 61(3)][473] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 95(1)(ia): inserted, on 1 January 2009, by [section 63(2)][370] of the Public Transport Management Act 2008 (2008 No 87).
+    Section 95(1)(ia): inserted, on 1 January 2009, by [section 63(2)][372] of the Public Transport Management Act 2008 (2008 No 87).
 
 ##### 96 Operating principles
     
@@ -3869,29 +3893,29 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
         
     *   (a) make information about those systems and procedures available on its Internet site; and
     
-    *   (b) include in its annual report under [section 150][338] of the Crown Entities Act 2004 a report on its implementation of those systems and procedures.
+    *   (b) include in its annual report under [section 150][340] of the Crown Entities Act 2004 a report on its implementation of those systems and procedures.
     
-    (3) The Auditor-General must, when carrying out the annual audit of the Agency under [section 15][468] of the Public Audit Act 2001, report on the Agency's implementation of the systems and procedures referred to in subsection (2).
+    (3) The Auditor-General must, when carrying out the annual audit of the Agency under [section 15][474] of the Public Audit Act 2001, report on the Agency's implementation of the systems and procedures referred to in subsection (2).
     
-    Section 96: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 96: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 96(1)(a): replaced, on 13 June 2013, by [section 62][469] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 96(1)(a): replaced, on 13 June 2013, by [section 62][475] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 97 Agency must consider delegating or contracting out functions and powers
     
 *   In the course of performing its functions and exercising its powers, the Agency must consider whether it could most efficiently and effectively perform those functions and exercise those powers by means of its own operations, or by delegating or contracting out those operations to appropriate persons.
     
-    Section 97: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 97: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 98 Agency's board
     
-*   (1) The Agency's board must have at least 6, but no more than 8, board members appointed in accordance with [section 28(1)(a)][470] of the Crown Entities Act 2004\.
+*   (1) The Agency's board must have at least 6, but no more than 8, board members appointed in accordance with [section 28(1)(a)][476] of the Crown Entities Act 2004\.
     
     (2) The responsible Minister must not appoint a board member unless he or she has consulted with the persons, representative groups within the land transport sector or elsewhere, government departments, and Crown entities that he or she considers appropriate.
     
     (3) The Agency's board must not delegate any functions or powers delegated to the board by the Minister without the written consent of the Minister.
     
-    Section 98: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 98: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 99 Use of certain words
     
@@ -3909,11 +3933,11 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (3) Nothing in subsection (1) or (2) applies to the Agency or to any person who is appropriately authorised by the Agency.
     
-    Section 99: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 99: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 100 Statement of intent
     
-*   (1) The Agency must, if so required by the Minister, include 1 or more of the following matters in its statement of intent under [section 139][471] of the Crown Entities Act 2004:
+*   (1) The Agency must, if so required by the Minister, include 1 or more of the following matters in its statement of intent under [section 139][477] of the Crown Entities Act 2004:
         
     *   (a) the basis on which the Agency will prepare the national land transport programme and how that programme will give effect to the GPS on land transport:
     
@@ -3921,7 +3945,7 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (c) the basis on which the Agency will approve procurement procedures under [section 25][63]:
     
-    *   (d) any directions under [section 95(1)(j)][194] or under [Part 3][371] of the Crown Entities Act 2004:
+    *   (d) any directions under [section 95(1)(j)][194] or under [Part 3][373] of the Crown Entities Act 2004:
     
     *   (e) a statement as to how the Agency will implement the principles, systems, and procedures in [section 96][195]:
     
@@ -3929,11 +3953,11 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (g) any other matters that the Agency and the Minister agree or the Minister requires.
     
-    (2) The Minister may direct the Agency to amend any provision that is included in its statement of intent under this section, and [section 147][472] of the Crown Entities Act 2004 applies accordingly.
+    (2) The Minister may direct the Agency to amend any provision that is included in its statement of intent under this section, and [section 147][478] of the Crown Entities Act 2004 applies accordingly.
     
-    Section 100: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 100: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 100(1)(a): amended, on 13 June 2013, by [section 63][473] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 100(1)(a): amended, on 13 June 2013, by [section 63][479] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 101 Secretary may monitor and review specified activities and procedures
     
@@ -3953,21 +3977,21 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (4) Despite subsection (3), the Agency may refuse a request for information from the Secretary if---
         
-    *   (a) the withholding of the information is not contrary to the [Official Information Act 1982][379]; and
+    *   (a) the withholding of the information is not contrary to the [Official Information Act 1982][381]; and
     
     *   (b) the withholding of the information is necessary to protect the privacy of a person (whether or not a natural person or a deceased person).
     
     (5) To avoid doubt, this section does not---
         
-    *   (a) limit [sections 132 to 134][474] of the Crown Entities Act 2004; or
+    *   (a) limit [sections 132 to 134][480] of the Crown Entities Act 2004; or
     
-    *   (b) affect the responsible Minister's functions, duties, or powers under the [Crown Entities Act 2004][339].
+    *   (b) affect the responsible Minister's functions, duties, or powers under the [Crown Entities Act 2004][341].
     
-    Section 101: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 101: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 101 heading: amended, on 13 June 2013, by [section 64(1)][475] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 101 heading: amended, on 13 June 2013, by [section 64(1)][481] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 101(1): amended, on 13 June 2013, by [section 64(2)][475] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 101(1): amended, on 13 June 2013, by [section 64(2)][481] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 102 Monitoring and reporting on delivery of approved Police activities or combinations of Police activities
     
@@ -3991,15 +4015,15 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (6) An agreement entered into by the responsible Minister and the Minister of Police under subsection (2) must be published or made available to the public in the manner that those Ministers jointly consider appropriate.
     
-    Section 102: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 102: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 102(1): amended, on 13 June 2013, by [section 65(1)][476] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 102(1): amended, on 13 June 2013, by [section 65(1)][482] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 102(3): amended, on 13 June 2013, by [section 65(2)][476] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 102(3): amended, on 13 June 2013, by [section 65(2)][482] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 102(4): repealed, on 13 June 2013, by [section 65(3)][476] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 102(4): repealed, on 13 June 2013, by [section 65(3)][482] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 102(5): repealed, on 13 June 2013, by [section 65(3)][476] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 102(5): repealed, on 13 June 2013, by [section 65(3)][482] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 103 Agency may declare State highways
     
@@ -4021,11 +4045,11 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (5) A revocation of a State highway constitutes the road as a local road for the purposes of this or any other Act.
     
-    (6) A declaration, variation, or revocation that affects or is likely to affect Māori land, land registered in the name of Pootatau Te Wherowhero under [section 19][362] of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Māori claims settlement Act, or Māori historical, cultural, or spiritual interests, may not be made or revoked unless the Agency---
+    (6) A declaration, variation, or revocation that affects or is likely to affect Māori land, land registered in the name of Pootatau Te Wherowhero under [section 19][364] of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Māori claims settlement Act, or Māori historical, cultural, or spiritual interests, may not be made or revoked unless the Agency---
         
     *   (a) has consulted,---
             
-        *   (i) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in [section 7][361] of the Waikato Raupatu Claims Settlement Act 1995):
+        *   (i) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in [section 7][363] of the Waikato Raupatu Claims Settlement Act 1995):
         
         *   (ii) if any other Māori claims settlement Act requires consultation about the declaration, variation, or revocation, in accordance with that Act:
         
@@ -4041,37 +4065,37 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     (9) A declaration, variation, or revocation made under this section comes into force on a date to be specified in the relevant _Gazette_ notice.
     
-    (10) A road declared to be a State highway under section 11 of the National Roads Act 1953 or [section 60][305] of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), and having that status under either Act immediately before the commencement of this section, is to be treated as having been declared to be a State highway under this section.
+    (10) A road declared to be a State highway under section 11 of the National Roads Act 1953 or [section 60][306] of the Government Roading Powers Act 1989 (formerly known as the Transit New Zealand Act 1989), and having that status under either Act immediately before the commencement of this section, is to be treated as having been declared to be a State highway under this section.
     
-    Section 103: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 103: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 103 heading: amended, on 13 June 2013, by [section 66(1)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103 heading: amended, on 13 June 2013, by [section 66(1)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 103(1): replaced, on 13 June 2013, by [section 66(2)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103(1): replaced, on 13 June 2013, by [section 66(2)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 103(3): amended, on 13 June 2013, by [section 66(3)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103(3): amended, on 13 June 2013, by [section 66(3)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 103(3)(b): amended, on 13 June 2013, by [section 66(3)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103(3)(b): amended, on 13 June 2013, by [section 66(3)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 103(4): amended, on 13 June 2013, by [section 66(4)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103(4): amended, on 13 June 2013, by [section 66(4)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 103(8): replaced, on 13 June 2013, by [section 66(5)][477] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 103(8): replaced, on 13 June 2013, by [section 66(5)][483] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 104 Government Superannuation Fund
     
-*   (1) Despite anything in this Act, a person who, immediately before becoming an employee of the Agency, was a contributor to the Government Superannuation Fund under [Part 2][478] or [2A][479] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service so long as the person continues to be an employee of the Agency.
+*   (1) Despite anything in this Act, a person who, immediately before becoming an employee of the Agency, was a contributor to the Government Superannuation Fund under [Part 2][484] or [2A][485] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service so long as the person continues to be an employee of the Agency.
     
-    (2) The [Government Superannuation Fund Act 1956][480] applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
+    (2) The [Government Superannuation Fund Act 1956][486] applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
     
     (3) A person employed by the Agency who ceases to be a contributor to the Government Superannuation Fund is not subsequently entitled to become a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][480], in accordance with subsection (2), _controlling authority_, in relation to that employee, means the Agency.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][486], in accordance with subsection (2), _controlling authority_, in relation to that employee, means the Agency.
     
-    Section 104: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 104: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ### Subpart 2---Regional transport committees
     
-*   Subpart 2 heading: inserted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Subpart 2 heading: inserted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 105 Regional transport committees
     
@@ -4085,43 +4109,39 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (c) 1 person to represent the Agency; and
     
-    *   (d) 1 person to represent the objective of economic development; and
+    *   (d) \[Repealed\]
     
-    *   (e) 1 person to represent the objective of safety and personal security; and
+    *   (e) \[Repealed\]
     
-    *   (f) 1 person to represent the objective of public health; and
+    *   (f) \[Repealed\]
     
-    *   (g) 1 person to represent the objective of access and mobility; and
+    *   (g) \[Repealed\]
     
-    *   (h) 1 person to represent the objective of environmental sustainability; and
+    *   (h) \[Repealed\]
     
-    *   (i) 1 person to represent cultural interests.
+    *   (i) \[Repealed\]
     
     (3) Each regional council that is a unitary authority, or a combination of unitary authorities (as the case may be), must appoint to its regional transport committee---
         
-    *   (a) 5 persons to represent the unitary authority; and
+    *   (a) 4 persons to represent the unitary authority; and
     
     *   (b) 1 person to represent the Agency; and
     
-    *   (c) 1 person to represent the objective of economic development; and
+    *   (c) \[Repealed\]
     
-    *   (d) 1 person to represent the objective of safety and personal security; and
+    *   (d) \[Repealed\]
     
-    *   (e) 1 person to represent the objective of public health; and
+    *   (e) \[Repealed\]
     
-    *   (f) 1 person to represent the objective of access and mobility; and
+    *   (f) \[Repealed\]
     
-    *   (g) 1 person to represent the objective of environmental sustainability; and
+    *   (g) \[Repealed\]
     
-    *   (h) 1 person to represent cultural interests.
+    *   (h) \[Repealed\]
     
     (4) A person specified in subsection (2)(a) to (c) and (3)(a) and (b) may only be appointed on the nomination of the relevant entity.
     
-    (5) A person appointed under subsection (2)(d) to (i) or (3)(c) to (h)---
-        
-    *   (a) must be from the wider regional community; and
-    
-    *   (b) must not be a member or employee of that regional council, any other territorial authority in that region, or the Agency.
+    (5) \[Repealed\]
     
     (6) Each regional council must appoint from its representatives the chair and deputy chair of the committee.
     
@@ -4131,29 +4151,95 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (b) in the case of an equality of votes, does not have a casting vote (and therefore the act or question is defeated and the status quo is preserved).
     
-    (8) The Minister may issue guidelines to regional councils concerning the requisite knowledge and skills of those persons to be appointed under subsections (2)(d) to (i) and (3)(c) to (h).
+    (8) \[Repealed\]
     
-    (9) Despite subsection (1), 2 or more adjoining regional councils may establish a single regional transport committee under this section, in which case, subsections (2) to (8) apply with all necessary modifications.
+    (9) Despite subsections (1) to (3), 2 or more adjoining regional councils or Auckland Transport and 1 or more adjoining regional councils may agree in writing to establish a joint regional transport committee and prepare a regional land transport plan, in which case subsections (4), (6), and (7) apply with all necessary modifications.
+    
+    (9A) Despite subsections (1) to (3), the parties to a joint regional transport committee established under subsection (9) must appoint to the committee---
+        
+    *   (a) 2 persons to represent each regional council that is a party to the agreement:
+    
+    *   (b) 1 person to represent each territorial authority in the region of each regional council that is a party to the agreement:
+    
+    *   (c) 1 person to represent the Agency:
+    
+    *   (d) 2 persons to represent Auckland Transport if Auckland Transport is a party to the agreement.
+    
+    (9B) The agreement to establish a joint regional transport committee must specify the procedure for appointing the chair and deputy chair of the committee.
+    
+    (9C) The chair and deputy chair of a joint regional transport committee established under subsection (9) must,---
+        
+    *   (a) in the case of a joint regional transport committee made up of adjoining regional councils, both be persons who represent a regional council:
+    
+    *   (b) in the case of a joint regional transport committee made up of Auckland Transport and adjoining regional councils, both be persons who represent Auckland Transport or a regional council.
     
     (10) If a regional transport committee is established under subsection (9), any reference in [Part 2][10] to a regional council is to be read as a reference to each of the regional councils that have established the committee.
+    
+    (10A) If Auckland Transport establishes a joint regional transport committee with 1 or more adjoining regional councils under subsection (9), any reference to a regional council in [Part 2][10] must be treated as a reference to Auckland Transport and each of those adjoining regional councils.
+    
+    (10B) If a joint regional transport committee is established under subsection (9), references to a region in [Part 2][10] must be treated as references to each of the regions that are represented on the joint regional transport committee.
     
     (11) If the area of a territorial authority falls into the regions of more than 1 regional council, the territorial authority must decide (after consulting the relevant regional councils) which regional transport committee to join.
     
     (12) If subsection (11) applies, and a territorial authority fails to decide to join a regional transport committee, the Minister must direct the territorial authority to be represented by a particular regional transport committee.
     
-    (13) If subsection (11) applies, the regional land transport programme and regional land transport strategy prepared by the regional transport committee that it joins applies to the entire area of the territorial authority.
+    (13) \[Repealed\]
     
     (14) For the purposes of subsection (11), _region_ has the same meaning as in [section 5(1)][291] of the Local Government Act 2002\.
     
     (15) Nothing in this section applies to the Auckland Council or Auckland.
     
-    Section 105: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 105: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 105(11): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 105(2)(d): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 105(14): substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 105(2)(e): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 105(15): substituted, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 105(2)(f): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(2)(g): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(2)(h): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(2)(i): repealed, on 12 July 2013, by [section 67(1)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(a): replaced, on 12 July 2013, by [section 67(2)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(c): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(d): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(e): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(f): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(g): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(3)(h): repealed, on 12 July 2013, by [section 67(3)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(5): repealed, on 12 July 2013, by [section 67(4)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(8): repealed, on 12 July 2013, by [section 67(4)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(9): replaced, on 12 July 2013, by [section 67(5)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(9A): inserted, on 12 July 2013, by [section 67(5)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(9B): inserted, on 12 July 2013, by [section 67(5)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(9C): inserted, on 12 July 2013, by [section 67(5)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(10A): inserted, on 12 July 2013, by [section 67(6)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(10B): inserted, on 12 July 2013, by [section 67(6)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(11): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    
+    Section 105(13): repealed, on 12 July 2013, by [section 67(7)][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    
+    Section 105(14): substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    
+    Section 105(15): substituted, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 106 Functions of regional transport committees
     
@@ -4177,13 +4263,13 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (c) lodge the joint regional land transport plan with the relevant regional councils or Auckland Transport (as the case may be) in accordance with [section 18B][28].
     
-    Section 106: replaced, on 13 June 2013, by [section 68][481] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 106: replaced, on 13 June 2013, by [section 68][488] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 107 Procedure of committee
     
 *   (1) \[Repealed\]
     
-    (2) The provisions of the [Local Government Act 2002][482] and the [Local Government Official Information and Meetings Act 1987][483] concerning the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the regional transport committees.
+    (2) The provisions of the [Local Government Act 2002][489] and the [Local Government Official Information and Meetings Act 1987][490] concerning the meetings of committees of regional councils, so far as they are applicable and with the necessary modifications, apply in respect of meetings of the regional transport committees.
     
     (3) The Agency is not, as a result of being represented on a regional transport committee, bound to---
         
@@ -4191,17 +4277,17 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
     *   (b) approve an activity or a combination of activities under [section 20][51].
     
-    (4) Despite [section 43(2)(b)][484] of the Local Government (Auckland Council) Act 2009, in the case of the regional transport committee for Auckland, the representative of the Agency has the same voting rights as that representative would have as a member of any other regional transport committee, including (but not limited to) voting rights for the purpose of preparing a regional land transport plan.
+    (4) Despite [section 43(2)(b)][491] of the Local Government (Auckland Council) Act 2009, in the case of the regional transport committee for Auckland, the representative of the Agency has the same voting rights as that representative would have as a member of any other regional transport committee, including (but not limited to) voting rights for the purpose of preparing a regional land transport plan.
     
-    Section 107: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 107: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 107(1): repealed, on 13 June 2013, by [section 69(1)][485] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 107(1): repealed, on 13 June 2013, by [section 69(1)][492] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 107(4): inserted, on 13 June 2013, by [section 69(2)][485] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 107(4): inserted, on 13 June 2013, by [section 69(2)][492] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ### Subpart 3---Miscellaneous
     
-*   Subpart 3 heading: inserted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Subpart 3 heading: inserted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 108 Public availability of documents
     
@@ -4237,13 +4323,13 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
         
         
     
-    Compare: 1989 No 75 [s 105][486]
+    Compare: 1989 No 75 [s 105][493]
     
-    Section 108: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 108: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 108(3): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 108(3): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
     
-    Section 108(4): amended, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+    Section 108(4): amended, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ##### 109 Regulations
     
@@ -4265,19 +4351,19 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
         
         
     
-    Section 109: substituted, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 109: substituted, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 110 Determinations under section 32(b) of Transit New Zealand Act 1989
     
 *   \[Repealed\]
     
-    Section 110: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 110: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 111 Matters continued by this Part have effect until replaced or revoked under this Part
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 111: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ##### 112 Transitional regulations
     
@@ -4289,18 +4375,18 @@ New Zealand Transport Agency, regional transport committees, and miscellaneous p
     
 *   \[Repealed\]
     
-    Section 113: repealed, on 1 August 2008, by [section 43][458] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 113: repealed, on 1 August 2008, by [section 43][464] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 5  
 Regulation of public transport
     
-*   Part 5: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Part 5: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 114 Application of certain provisions of Local Government Act 2002 to Auckland Transport
     
-*   For the purposes of this Act, [sections 76 to 83A][488], [87][489], and [89][490] of the Local Government Act 2002 apply, with any necessary modifications, to Auckland Transport as if it were a local authority.
+*   For the purposes of this Act, [sections 76 to 83A][495], [87][496], and [89][497] of the Local Government Act 2002 apply, with any necessary modifications, to Auckland Transport as if it were a local authority.
     
-    Section 114: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 114: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 115 Principles
     
@@ -4332,9 +4418,9 @@ Regulation of public transport
     
     *   (c) the Minister when the Minister considers making a recommendation under [section 150][260].
     
-    Compare: 2004 No 92 [s 4][491]
+    Compare: 2004 No 92 [s 4][498]
     
-    Section 115: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 115: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 116 Public transport services must be provided under contract
     
@@ -4342,11 +4428,11 @@ Regulation of public transport
     
     (2) A regional council must contract for the provision of every unit on an exclusive basis.
     
-    Section 116: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 116: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ### Subpart 1---Regional public transport plan
     
-*   Subpart 1: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Subpart 1: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 117 Purpose of regional public transport plans
     
@@ -4366,7 +4452,7 @@ Regulation of public transport
         
         
     
-    Section 117: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 117: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 118 Validity of regional public transport plans not affected by certain events
     
@@ -4376,11 +4462,11 @@ Regulation of public transport
     
     *   (b) has included any matter that is not within the scope of the regional land transport plan so long as the regional public transport plan is otherwise consistent with the regional land transport plan.
     
-    Section 118: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 118: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### General requirements
     
-*   Heading: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 119 Adoption of regional public transport plans
     
@@ -4400,11 +4486,11 @@ Regulation of public transport
     
     (3) The production in proceedings of a copy of a regional public transport plan purporting to have been adopted, varied, or renewed by a regional council under this section is, in the absence of evidence to the contrary, sufficient evidence of the plan and of the fact that it has been adopted, varied, or renewed in accordance with this section.
     
-    (4) A regional council (or a territorial authority to which the responsibility is transferred under the [Local Government Act 2002][482]) may not delegate the responsibility for adopting, varying, or renewing a regional public transport plan to a committee or other subordinate decision-making body, or a member or an officer of the council (or territorial authority, as the case may be), or any other person.
+    (4) A regional council (or a territorial authority to which the responsibility is transferred under the [Local Government Act 2002][489]) may not delegate the responsibility for adopting, varying, or renewing a regional public transport plan to a committee or other subordinate decision-making body, or a member or an officer of the council (or territorial authority, as the case may be), or any other person.
     
     (5) If a territorial authority has joined a regional transport committee under [section 105(11)][205], the plan applying in the region of the regional transport committee applies to the entire area of the territorial authority.
     
-    Section 119: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 119: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 120 Contents of regional public transport plans
     
@@ -4466,9 +4552,9 @@ Regulation of public transport
     
     *   (b) specify conditions that apply to that action.
     
-    (6) Subsection (5) does not limit or affect anything in the [Local Government Act 2002][482].
+    (6) Subsection (5) does not limit or affect anything in the [Local Government Act 2002][489].
     
-    Section 120: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 120: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 121 Notification and provision of copies of plans
     
@@ -4510,13 +4596,13 @@ Regulation of public transport
     
     (2) A regional council may publish a regional public transport plan and a regional land transport plan as a single document.
     
-    Section 121: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 121: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 122 When regional public transport plans take effect
     
 *   A regional public transport plan takes effect on the day that is 20 working days after the date on which the regional council adopts the plan.
     
-    Section 122: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 122: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 123 Good-faith exclusion of regional councils from liability to pay compensation
     
@@ -4532,7 +4618,7 @@ Regulation of public transport
     
     *   (d) declining to record a variation to an exempt service in the register.
     
-    Section 123: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 123: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 124 Matters to take into account when adopting regional public transport plans
     
@@ -4554,7 +4640,7 @@ Regulation of public transport
             
         *   (i) any national energy efficiency and conservation strategy; and
         
-        *   (ii) any relevant regional policy statement, regional plan, district plan, or proposed regional plan or district plan under the [Resource Management Act 1991][346]; and
+        *   (ii) any relevant regional policy statement, regional plan, district plan, or proposed regional plan or district plan under the [Resource Management Act 1991][348]; and
         
         *   (iii) the public transport funding likely to be available within the region; and
         
@@ -4566,7 +4652,7 @@ Regulation of public transport
     
     *   (d) consider the needs of persons who are transport-disadvantaged.
     
-    Section 124: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 124: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 125 Consultation requirements for regional public transport plans
     
@@ -4588,15 +4674,15 @@ Regulation of public transport
     
     (2) Before adopting a regional public transport plan, a regional council or Auckland Transport (as the case may be)---
         
-    *   (a) must consult in accordance with the consultative principles specified in [section 82][351] of the Local Government Act 2002; and
+    *   (a) must consult in accordance with the consultative principles specified in [section 82][353] of the Local Government Act 2002; and
     
-    *   (b) may use the special consultative procedure specified in [sections 83][352], [87][489], and [89][490] of the Local Government Act 2002, and those sections apply for the purposes of this section with the necessary modifications.
+    *   (b) may use the special consultative procedure specified in [sections 83][354], [87][496], and [89][497] of the Local Government Act 2002, and those sections apply for the purposes of this section with the necessary modifications.
     
     (3) A regional council that is preparing a regional public transport plan may request any information from any territorial authority within its region that the regional council considers necessary to perform its functions under this Act in relation to that plan, and the territorial authority must promptly comply with that request.
     
     (4) A regional council may carry out consultation on a proposal to adopt a regional public transport plan in conjunction with the relevant regional transport committee's consultation on its regional land transport plan under this Act.
     
-    Section 125: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 125: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 126 Currency and variation of regional public transport plans
     
@@ -4616,7 +4702,7 @@ Regulation of public transport
     
     (6) A regional council may, by resolution publicly notified, correct minor errors in a regional public transport plan but only if the correction does not affect an existing right, interest, or duty of any person or organisation that is affected by or has an interest in the regional public transport plan.
     
-    Section 126: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 126: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 127 Power to require information from operators of public transport services
     
@@ -4636,7 +4722,7 @@ Regulation of public transport
     
     (2) A regional council may require the information required under subsection (1) to be provided to the regional council in any specified form in which, having regard to the manner in which the information is kept by the operator, it is reasonable to expect the operator to provide it.
     
-    Section 127: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 127: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 128 Power to require information from regional councils and Auckland Transport
     
@@ -4644,15 +4730,15 @@ Regulation of public transport
     
     (2) If the Agency requires the regional council to provide information under subsection (1), the regional council must provide the information as soon as is reasonably practicable.
     
-    (3) The Auckland Council may require Auckland Transport to provide it with any information related to the preparation of Auckland Transport's regional public transport plan that is necessary to enable the Auckland Council to perform its function of providing funds to Auckland Transport for land transport purposes under the [Local Government (Auckland Council) Act 2009][492], including information provided to Auckland Transport under [section 127][231].
+    (3) The Auckland Council may require Auckland Transport to provide it with any information related to the preparation of Auckland Transport's regional public transport plan that is necessary to enable the Auckland Council to perform its function of providing funds to Auckland Transport for land transport purposes under the [Local Government (Auckland Council) Act 2009][499], including information provided to Auckland Transport under [section 127][231].
     
     (4) If the Auckland Council requires Auckland Transport to provide any information under subsection (3), Auckland Transport must provide the information as soon as is reasonably practicable.
     
-    Section 128: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 128: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 129 Disclosure of information received under sections 127 and 128
     
-*   (1) If a regional council or the Auckland Council (an _organisation_) receives under [section 127][231] or [128][232] fare revenue data that may, in the organisation's opinion, be withheld under [section 7(2)(b)][493] of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator of the unit that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator's consent except--- 
+*   (1) If a regional council or the Auckland Council (an _organisation_) receives under [section 127][231] or [128][232] fare revenue data that may, in the organisation's opinion, be withheld under [section 7(2)(b)][500] of the Local Government Official Information and Meetings Act 1987 or that has been described by the operator of the unit that provided it as commercially sensitive, the organisation must not disclose the fare revenue data without the operator's consent except--- 
         
     *   (a) to registered tenderers under [section 127(1)(c)][231]; or
     
@@ -4664,7 +4750,7 @@ Regulation of public transport
     
     *   (e) in the case of information received by Auckland Transport, to the Auckland Council, in accordance with [section 128(4)][232]; or
     
-    *   (f) subject to subsection (2), in response to a request made under the [Local Government Official Information and Meetings Act 1987][483]; or
+    *   (f) subject to subsection (2), in response to a request made under the [Local Government Official Information and Meetings Act 1987][490]; or
     
     *   (g) where the fare revenue data was provided to the organisation 5 years or more before the date of the disclosure; or
     
@@ -4676,19 +4762,19 @@ Regulation of public transport
         
         
     
-    (2) If an organisation receives a request under the [Local Government Official Information and Meetings Act 1987][483] to release any information described in subsection (1),---
+    (2) If an organisation receives a request under the [Local Government Official Information and Meetings Act 1987][490] to release any information described in subsection (1),---
         
     *   (a) the organisation must make all reasonable efforts to notify immediately the person who provided the information to the organisation that a request to release the information has been received; and 
     
-    *   (b) the person must, within 10 working days after receiving the notice, advise the organisation whether that person believes the information should be withheld under [section 7(2)(b)][493] of the Local Government Official Information and Meetings Act 1987 and give reasons for that belief; and
+    *   (b) the person must, within 10 working days after receiving the notice, advise the organisation whether that person believes the information should be withheld under [section 7(2)(b)][500] of the Local Government Official Information and Meetings Act 1987 and give reasons for that belief; and
     
-    *   (c) the organisation may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the organisation cannot identify any reason for withholding the information under the [Local Government Official Information and Meetings Act 1987][483].
+    *   (c) the organisation may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the organisation cannot identify any reason for withholding the information under the [Local Government Official Information and Meetings Act 1987][490].
     
-    (3) If the Agency receives under [section 128(1)][232] fare revenue data that was provided to a regional council under [section 127][231] and that may, in the Agency's opinion, be withheld under [section 9(2)(b)][378] of the Official Information Act 1982 or has been described by the operator of the unit that provided it as commercially sensitive, the Agency must not disclose that information without the operator's consent except---
+    (3) If the Agency receives under [section 128(1)][232] fare revenue data that was provided to a regional council under [section 127][231] and that may, in the Agency's opinion, be withheld under [section 9(2)(b)][380] of the Official Information Act 1982 or has been described by the operator of the unit that provided it as commercially sensitive, the Agency must not disclose that information without the operator's consent except---
         
     *   (a) to the Agency's professional advisers; or
     
-    *   (b) subject to subsection (4), in response to a request made under the [Official Information Act 1982][379]; or
+    *   (b) subject to subsection (4), in response to a request made under the [Official Information Act 1982][381]; or
     
     *   (c) where the information received from the regional council was provided to the regional council 5 years or more before the date of the Agency's disclosure; or
     
@@ -4700,23 +4786,23 @@ Regulation of public transport
         
         
     
-    (4) If the Agency receives a request under the [Official Information Act 1982][379] to release any information described in subsection (3),---
+    (4) If the Agency receives a request under the [Official Information Act 1982][381] to release any information described in subsection (3),---
         
     *   (a) the Agency must make all reasonable efforts to notify immediately the person who provided the information to the regional council that a request to release the information has been received by the Agency; and
     
-    *   (b) the person must, within 10 working days after receiving the notice, advise the Agency whether that person believes the information should be withheld under [section 9(2)(b)][378] of the Official Information Act 1982 and give reasons for that belief; and
+    *   (b) the person must, within 10 working days after receiving the notice, advise the Agency whether that person believes the information should be withheld under [section 9(2)(b)][380] of the Official Information Act 1982 and give reasons for that belief; and
     
-    *   (c) the Agency may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the Agency cannot identify any reason for withholding the information under the [Official Information Act 1982][379].
+    *   (c) the Agency may release the information after the expiry of the period specified in paragraph (b) if, having complied with its obligations under this subsection and having regard to the person's response (if any), the Agency cannot identify any reason for withholding the information under the [Official Information Act 1982][381].
     
-    Section 129: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 129: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ### Subpart 2---Registration of exempt services
     
-*   Subpart 2: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Subpart 2: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Register of exempt services
     
-*   Heading: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 130 All exempt services to be registered
     
@@ -4746,7 +4832,7 @@ Regulation of public transport
     
     (3) For the purposes of subsection (2)(b)(i)(C), _subsidy_ does not include anything done under an agreement between a regional council and an operator to reduce passenger fares.
     
-    Section 130: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 130: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 131 Register of exempt services
     
@@ -4756,7 +4842,7 @@ Regulation of public transport
         
     *   (a) the name of the operator of the exempt service; and
     
-    *   (b) if the operator is a company that is not a listed company, the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of [section 5][494] of the Companies Act 1993, the name of its ultimate holding company); and
+    *   (b) if the operator is a company that is not a listed company, the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of [section 5][501] of the Companies Act 1993, the name of its ultimate holding company); and
     
     *   (c) the contact details of the operator of the exempt service, including the operator's business address, telephone number, email address (if any), and Internet site (if any); and
     
@@ -4766,7 +4852,7 @@ Regulation of public transport
     
     (3) Despite subsection (1), a public transport service that was operating as a registered exempt service before it was identified in the regional council's regional public transport plan as integral to the public transport network must remain on the register and may continue operating as if it were an exempt service until it is deregistered under [section 137][243]. 
     
-    Section 131: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 131: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 132 Contents of register to be made available to public
     
@@ -4776,7 +4862,7 @@ Regulation of public transport
     
     *   (b) a copy of the information that is on the register can be made available for purchase by the public at a reasonable price.
     
-    Section 132: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 132: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 133 Notification of proposal to operate or vary exempt services
     
@@ -4786,7 +4872,7 @@ Regulation of public transport
             
         *   (i) the name of the operator; and
         
-        *   (ii) the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of [section 5][494] of the Companies Act 1993, the name of its ultimate holding company) if the operator is a company that is not a listed company; and
+        *   (ii) the name of each shareholder of the operator (or, if the operator is a subsidiary within the meaning of [section 5][501] of the Companies Act 1993, the name of its ultimate holding company) if the operator is a company that is not a listed company; and
         
         *   (iii) the contact details of the operator (including the operator's business address, telephone number, email address, and Internet site address (if any)); and 
         
@@ -4822,11 +4908,11 @@ Regulation of public transport
     
     (5) For the purposes of subsection (1)(b), _exempt service_ includes a service that---
         
-    *   (a) was registered under the [Public Transport Management Act 2008][495]; and
+    *   (a) was registered under the [Public Transport Management Act 2008][502]; and
     
     *   (b) will continue to operate as an exempt service under this Part.
     
-    Section 133: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 133: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 134 Grounds for declining registration or variation of exempt services
     
@@ -4852,7 +4938,7 @@ Regulation of public transport
     
     *   (c) the regional council has adopted a regional public transport plan and it identifies the service as integral to the public transport network.
     
-    Section 134: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 134: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 135 Process for declining registrations or variations of exempt services
     
@@ -4864,7 +4950,7 @@ Regulation of public transport
     
     *   (c) the operator's right under [section 141][249] to appeal against the decision.
     
-    Section 135: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 135: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 136 Registration of and variation to exempt services
     
@@ -4876,7 +4962,7 @@ Regulation of public transport
     
     (2) The registration of an exempt service or the variation of an exempt service under this section remains in effect until the service is deregistered, or the details of the variation are removed, in accordance with [section 137(1), (2), or (4)][243], or [139(3)][245].
     
-    Section 136: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 136: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 137 Deregistration of exempt services and removing details of variations
     
@@ -4896,7 +4982,7 @@ Regulation of public transport
     
     *   (b) identified in the regional council's regional public transport plan as integral to the public transport network.
     
-    Section 137: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 137: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 138 Process for deregistering exempt services or removing details of variations
     
@@ -4918,7 +5004,7 @@ Regulation of public transport
         
     *   (a) appoint a time and place for the hearing and give reasonable notice of this to the operator; and
     
-    *   (b) hear the matter in public, unless permitted to do otherwise by the [Local Government Official Information and Meetings Act 1987][483]; and
+    *   (b) hear the matter in public, unless permitted to do otherwise by the [Local Government Official Information and Meetings Act 1987][490]; and
     
     *   (c) establish a procedure for hearing the matter that is appropriate and fair in the circumstances.
     
@@ -4946,7 +5032,7 @@ Regulation of public transport
     
     (5) This section does not apply to the deregistration of a public transport service under [section 137(4)][243].
     
-    Section 138: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 138: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 139 Withdrawal of exempt services
     
@@ -4956,15 +5042,15 @@ Regulation of public transport
     
     (3) The regional council must remove the withdrawn exempt service from the register of exempt services within 15 working days after the date that the exempt service ceases to operate.
     
-    Section 139: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 139: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ### Subpart 3---Miscellaneous
     
-*   Subpart 3: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Subpart 3: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Appeals
     
-*   Heading: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 140 Right to appeal to Environment Court
     
@@ -4984,11 +5070,11 @@ Regulation of public transport
     
     (6) The court may not direct a regional council to modify a plan in a manner that would impose an additional financial obligation on the regional council or any other person, unless the regional council or other person consents to that modification of the plan.
     
-    (7) [Part 11][496] of the Resource Management Act 1991, and any regulations made under that Act that relate to that Part, apply to an appeal under this section with all necessary modifications.
+    (7) [Part 11][503] of the Resource Management Act 1991, and any regulations made under that Act that relate to that Part, apply to an appeal under this section with all necessary modifications.
     
-    (8) A notice of appeal must state any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under [section 120][497] of that Act.
+    (8) A notice of appeal must state any matters that regulations made under the Resource Management Act 1991 require to be stated in the case of an appeal under [section 120][504] of that Act.
     
-    Section 140: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 140: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 141 Appeals to District Court
     
@@ -5004,17 +5090,17 @@ Regulation of public transport
     
     *   (d) remove the details of a variation of the route or routes of an exempt service from the register under [section 137][243].
     
-    Section 141: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 141: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 142 Procedure for appeals to District Court
     
-*   (1) An appeal under [section 141][249] must be brought, in accordance with the procedure under [Part 14][498] of the District Courts Rules 2009, no later than 20 working days after the date on which the appellant was notified under this Act of the decision appealed against or within any further period that the District Court may allow.
+*   (1) An appeal under [section 141][249] must be brought, in accordance with the procedure under [Part 14][505] of the District Courts Rules 2009, no later than 20 working days after the date on which the appellant was notified under this Act of the decision appealed against or within any further period that the District Court may allow.
     
-    (2) Subject to subsection (1), an appeal must be made and determined in accordance with [Part 5][499] of the District Courts Act 1947 and the rules of the District Court made under that Act.
+    (2) Subject to subsection (1), an appeal must be made and determined in accordance with [Part 5][506] of the District Courts Act 1947 and the rules of the District Court made under that Act.
     
     (3) Subject to [sections 144][252] and [145][253], the decision of the District Court on an appeal under [section 141][249] is final.
     
-    Section 142: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 142: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 143 Decisions of regional councils to continue in force pending appeals, etc
     
@@ -5022,15 +5108,15 @@ Regulation of public transport
     
     (2) Pending the outcome of an appeal, a District Court may suspend the regional council's decision if the court is satisfied that public safety would not be compromised.
     
-    Section 143: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 143: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 144 Appeals to High Court on questions of law
     
 *   (1) A party to an appeal under [section 141][249] who is dissatisfied with the decision of the District Court on the ground that it is erroneous in law may appeal to the High Court on that question of law.
     
-    (2) The High Court Rules and [sections 74 to 78][500] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][501] of that Act.
+    (2) The High Court Rules and [sections 74 to 78][507] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][508] of that Act.
     
-    Section 144: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 144: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 145 Further appeals to Court of Appeal
     
@@ -5040,11 +5126,11 @@ Regulation of public transport
     
     (3) Except as provided in this section, the procedure in respect of an appeal under this section must be in accordance with the applicable provisions of the High Court Rules or the Court of Appeal Rules, as the case may be.
     
-    Section 145: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 145: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Offences
     
-*   Heading: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 146 Operating unregistered exempt services
     
@@ -5056,7 +5142,7 @@ Regulation of public transport
     
     (2) However, subsection (1) does not apply if the person was operating in accordance with [section 131(3)][237], [153(2)][264], or [154(2)][265].
     
-    Section 146: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 146: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 147 Operating public transport services that are not exempt or contracted
     
@@ -5072,7 +5158,7 @@ Regulation of public transport
     
     *   (b) under a contract that is funded in accordance with [section 26(e)][64].
     
-    Section 147: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 147: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 148 Varying registered exempt services without giving notice required by section 133
     
@@ -5082,7 +5168,7 @@ Regulation of public transport
     
     *   (b) $60,000, in the case of a second or subsequent offence against this section.
     
-    Section 148: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 148: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 149 Power to inspect records
     
@@ -5090,11 +5176,11 @@ Regulation of public transport
     
     (2) The enforcement officer may take extracts from or make copies of any documents, books, or records so produced.
     
-    Section 149: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 149: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 #### Regulations
     
-*   Heading: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Heading: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 150 Regulations
     
@@ -5138,18 +5224,18 @@ Regulation of public transport
     
     (4) To avoid doubt, the Minister may refuse the Agency's request that the Minister recommend the making of an Order in Council under this section.
     
-    Section 150: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 150: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ## Part 6  
 Transitional and savings provisions
     
-*   Part 6: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+*   Part 6: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 151 Interpretation
     
-*   For the purposes of [sections 152][263], [153][264], and [154][265], a service that was registered as a commercial public transport service includes a service that was treated as a registered commercial public transport service under the [Public Transport Management Act 2008][495].
+*   For the purposes of [sections 152][263], [153][264], and [154][265], a service that was registered as a commercial public transport service includes a service that was treated as a registered commercial public transport service under the [Public Transport Management Act 2008][502].
     
-    Section 151: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 151: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 152 Transitional provisions for certain existing operators
     
@@ -5157,7 +5243,7 @@ Transitional and savings provisions
         
     *   (a) on 30 June 2011, a bus service that---
             
-        *   (i) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+        *   (i) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
         
         *   (ii) offered fares set by a regional council:
         
@@ -5165,13 +5251,13 @@ Transitional and savings provisions
     
     *   (b) on 30 June 2011, a ferry service that---
             
-        *   (i) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+        *   (i) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
         
         *   (ii) comprised 1 or more, but not all, of the trips conducted by a ferry on a route operated by the service:
         
         
     
-    *   (c) a bus service or ferry service that was registered after 30 June 2011 as a commercial public transport service under the [Public Transport Management Act 2008][495].
+    *   (c) a bus service or ferry service that was registered after 30 June 2011 as a commercial public transport service under the [Public Transport Management Act 2008][502].
     
     (2) An operator to which this section applies must, if requested in writing by a regional council in whose region the bus service or ferry service operates, provide patronage data and fare revenue data relating to the service for the 3 years preceding the date on which the regional council makes the request.
     
@@ -5181,7 +5267,7 @@ Transitional and savings provisions
     
     *   (b) may disclose the fare revenue data provided under subsection (2) to any person who is registered by the regional council to tender for the provision of a unit.
     
-    Section 152: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 152: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 153 Transitional provisions for existing registered public transport services that will become exempt services
     
@@ -5189,9 +5275,9 @@ Transitional and savings provisions
         
     *   (a) immediately before the commencement of this section, was---
             
-        *   (i) an inter-regional public transport service that was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; or
+        *   (i) an inter-regional public transport service that was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; or
         
-        *   (ii) a public transport service carried on by a rail vehicle that was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]:
+        *   (ii) a public transport service carried on by a rail vehicle that was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]:
         
         
     
@@ -5199,7 +5285,7 @@ Transitional and savings provisions
             
         *   (i) a bus service that---
                 
-            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
             
             *   (B) did not offer fares set by a regional council:
             
@@ -5207,7 +5293,7 @@ Transitional and savings provisions
         
         *   (ii) a ferry service that---
                 
-            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
             
             *   (B) comprised all of the trips conducted by a ferry on every route operated by the service.
             
@@ -5217,7 +5303,7 @@ Transitional and savings provisions
     
     (2) A public transport service to which this section applies is to be treated as an exempt service that has been registered under section 136\.
     
-    Section 153: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 153: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 154 Transitional provisions for other existing public transport services that will stop operating
     
@@ -5227,7 +5313,7 @@ Transitional and savings provisions
             
         *   (i) a bus service that---
                 
-            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
             
             *   (B) offered fares set by a regional council:
             
@@ -5235,7 +5321,7 @@ Transitional and savings provisions
         
         *   (ii) a ferry service that---
                 
-            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][495]; and
+            *   (A) was registered as a commercial public transport service under the [Public Transport Management Act 2008][502]; and
             
             *   (B) comprised 1 or more, but not all, of the trips conducted by a ferry on a route operated by the service:
             
@@ -5243,19 +5329,19 @@ Transitional and savings provisions
         
         
     
-    *   (b) was a bus service or ferry service that was registered after 30 June 2011 as a commercial public transport service under the [Public Transport Management Act 2008][495].
+    *   (b) was a bus service or ferry service that was registered after 30 June 2011 as a commercial public transport service under the [Public Transport Management Act 2008][502].
     
     (2) Despite [section 116][218], a public transport service to which this section applies may continue operating without a contract with the regional council as if it were a registered exempt service until the date specified by the regional council in a notice to the operator.
     
     (3) The regional public transport plan must indicate the date by which any public transport service to which this section applies is expected to stop operating.
     
-    Section 154: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 154: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 155 Transitional provisions for certain notifications
     
-*   (1) This section applies to any unprocessed notice given under [section 32][502] (proposal to operate a commercial public transport service), [36][503] (proposed variation of a commercial public transport service), or [46][504] (withdrawal of a commercial public transport service) of the Public Transport Management Act 2008 before the commencement of this section.
+*   (1) This section applies to any unprocessed notice given under [section 32][509] (proposal to operate a commercial public transport service), [36][510] (proposed variation of a commercial public transport service), or [46][511] (withdrawal of a commercial public transport service) of the Public Transport Management Act 2008 before the commencement of this section.
     
-    (2) If this section applies, a notice that is given under [section 32][502], [36][503], or [46][504] of the Public Transport Management Act 2008 is to be treated as a notice given to operate, vary, or withdraw an exempt service under [Part 5][215] if the service is---
+    (2) If this section applies, a notice that is given under [section 32][509], [36][510], or [46][511] of the Public Transport Management Act 2008 is to be treated as a notice given to operate, vary, or withdraw an exempt service under [Part 5][215] if the service is---
         
     *   (a) an inter-regional service; or
     
@@ -5263,15 +5349,15 @@ Transitional and savings provisions
     
     (3) Subject to subsection (2)(a), in a region that is required to adopt a regional public transport plan, an unprocessed notice given under---
         
-    *   (a) [section 32][502] or [36][503] of the Public Transport Management Act 2008 is to be treated as having lapsed:
+    *   (a) [section 32][509] or [36][510] of the Public Transport Management Act 2008 is to be treated as having lapsed:
     
-    *   (b) [section 46][504] of the Public Transport Management Act 2008 is to be treated as a notice to withdraw an exempt service under [Part 5][215].
+    *   (b) [section 46][511] of the Public Transport Management Act 2008 is to be treated as a notice to withdraw an exempt service under [Part 5][215].
     
-    Section 155: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 155: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 156 Transitional provisions for certain existing documents or activities
     
-*   (1) Any regional public transport plan adopted under the [Public Transport Management Act 2008][495]---
+*   (1) Any regional public transport plan adopted under the [Public Transport Management Act 2008][502]---
         
     *   (a) continues in existence until whichever is the earlier of the following:
             
@@ -5281,7 +5367,7 @@ Transitional and savings provisions
         
         
     
-    *   (b) may be varied during the period beginning with the commencement of this section and ending with the close of 30 June 2015 in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][505]).
+    *   (b) may be varied during the period beginning with the commencement of this section and ending with the close of 30 June 2015 in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][512]).
     
     (2) The regional public transport plan that is adopted or varied on or before 30 June 2015 must take the public transport components of the relevant regional land transport strategy into account and must not be inconsistent with the relevant regional land transport programme.
     
@@ -5291,7 +5377,7 @@ Transitional and savings provisions
     
     *   (b) is deemed to expire on the close of 30 June 2015; and
     
-    *   (c) may be varied during the period beginning with the commencement of this section and ending with the close of 30 June 2015 in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][505]) as if it were a regional land transport plan.
+    *   (c) may be varied during the period beginning with the commencement of this section and ending with the close of 30 June 2015 in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][512]) as if it were a regional land transport plan.
     
     (4) Any regional land transport strategy in existence immediately before this section commences---
         
@@ -5307,49 +5393,49 @@ Transitional and savings provisions
     
     *   (b) expires on 1 July 2015; and
     
-    *   (c) may be amended in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][505]).
+    *   (c) may be amended in accordance with this Act (as amended by the [Land Transport Management Amendment Act 2013][512]).
     
     (6) Despite anything in [section 66][157], the Minister may, at any time before 1 July 2015, replace a GPS specified in subsection (5) with a GPS on land transport issued under section 66 that is to take effect on 1 July 2015\.
     
     (7) When arranging public transport services into units, a regional council must make all reasonable endeavours to ensure that any operator of a commercial public transport service in existence immediately before the commencement of this section is not unreasonably disadvantaged.
     
-    Section 156: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 156: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 157 Transitional provision for existing contracted public transport services
     
 *   A public transport service provided under contract to the regional council before the commencement of this section may continue to be provided by that operator under that contract (or a variation of that contract) until it is replaced by a unit, or part of a unit, in accordance with the regional public transport plan.
     
-    Section 157: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 157: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 158 Savings provisions
     
-*   (1) Despite the repeal or amendment of the provisions specified in subsection (2), those provisions continue to apply (as if those sections had not been repealed or amended by the [Land Transport Management Amendment Act 2013][505]) during the period beginning with the commencement of this section and ending with the close of 30 June 2015\.
+*   (1) Despite the repeal or amendment of the provisions specified in subsection (2), those provisions continue to apply (as if those sections had not been repealed or amended by the [Land Transport Management Amendment Act 2013][512]) during the period beginning with the commencement of this section and ending with the close of 30 June 2015\.
     
     (2) The specified provisions referred to in subsection (1) are---
         
-    *   (a) [sections 26(2)(b)][506] and [27(1)(c)][507] of the Canterbury Earthquake Recovery Act 2011; and
+    *   (a) [sections 26(2)(b)][513] and [27(1)(c)][514] of the Canterbury Earthquake Recovery Act 2011; and
     
     *   (b) [sections 7A(2)(b)][9], [13(5)][21], [18J(2)(c)(ii)][38], [19B(b)(ii)][45], [20(3)(c)][51], [48(1)(c)(i)][96] (in so far as it relates to taking regional land transport strategies into account), [82][175], and [105(13)][205] of this Act (immediately before being amended or repealed by the Land Transport Management Amendment Act 2013); and
     
-    *   (c) [sections 64(1)(d)][508], [65(1)(d)(ii)][509], and [82(3)][510] of the Local Government (Auckland Transitional Provisions) Act 2010\.
+    *   (c) [sections 64(1)(d)][515], [65(1)(d)(ii)][516], and [82(3)][517] of the Local Government (Auckland Transitional Provisions) Act 2010\.
     
-    (3) A person who, immediately before the commencement of [section 71(2)][511] of the Land Transport Management Amendment Act 2013, was liable under the [Tauranga District Council (Route K Toll) Empowering Act 2000][512] to pay a toll under that Act remains liable to pay the toll as if that Act were still in force.
+    (3) A person who, immediately before the commencement of [section 71(2)][518] of the Land Transport Management Amendment Act 2013, was liable under the [Tauranga District Council (Route K Toll) Empowering Act 2000][519] to pay a toll under that Act remains liable to pay the toll as if that Act were still in force.
     
-    (4) A person who fails to pay a toll that the person was liable to pay under the [Tauranga District Council (Route K Toll) Empowering Act 2000][512] may be proceeded against under that Act as if that Act were still in force.
+    (4) A person who fails to pay a toll that the person was liable to pay under the [Tauranga District Council (Route K Toll) Empowering Act 2000][519] may be proceeded against under that Act as if that Act were still in force.
     
-    (5) A proceeding commenced, before the commencement of [section 71(2)][511] of the Land Transport Management Amendment Act 2013, under the [Tauranga District Council (Route K Toll) Empowering Act 2000][512] may continue under that Act as if that Act were still in force.
+    (5) A proceeding commenced, before the commencement of [section 71(2)][518] of the Land Transport Management Amendment Act 2013, under the [Tauranga District Council (Route K Toll) Empowering Act 2000][519] may continue under that Act as if that Act were still in force.
     
-    (6) A toll collected, before the commencement of [section 71(2)][511] of the Land Transport Management Amendment Act 2013, under the [Tauranga District Council (Route K Toll) Empowering Act 2000][512] may only be applied for the purposes specified in that Act as if that Act were still in force.
+    (6) A toll collected, before the commencement of [section 71(2)][518] of the Land Transport Management Amendment Act 2013, under the [Tauranga District Council (Route K Toll) Empowering Act 2000][519] may only be applied for the purposes specified in that Act as if that Act were still in force.
     
-    (7) Any contract entered into by the Tauranga City Council under [section 18][513] of the Tauranga District Council (Route K Toll) Empowering Act 2000 is terminated on the date that [section 71(2)][511] of the Land Transport Management Amendment Act 2013 comes into force.
+    (7) Any contract entered into by the Tauranga City Council under [section 18][520] of the Tauranga District Council (Route K Toll) Empowering Act 2000 is terminated on the date that [section 71(2)][518] of the Land Transport Management Amendment Act 2013 comes into force.
     
     (8) Despite subsection (7),---
         
-    *   (a) a person who, immediately before the commencement of [section 71(2)][511] of the Land Transport Management Amendment Act 2013, was liable under a contract entered into by the Tauranga City Council to pay a toll under the [Tauranga District Council (Route K Toll) Empowering Act 2000][512] remains liable to pay the toll as if that Act were still in force:
+    *   (a) a person who, immediately before the commencement of [section 71(2)][518] of the Land Transport Management Amendment Act 2013, was liable under a contract entered into by the Tauranga City Council to pay a toll under the [Tauranga District Council (Route K Toll) Empowering Act 2000][519] remains liable to pay the toll as if that Act were still in force:
     
     *   (b) the Tauranga City Council must refund any unused prepayment or transponder hire.
     
-    Section 158: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 158: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 159 Transitional regulations
     
@@ -5371,7 +5457,7 @@ Transitional and savings provisions
         
     *   (a) have regard to the principles specified in [section 115][217]; and
     
-    *   (b) be satisfied that the proposed regulations are necessary or desirable to facilitate an orderly transition from the provisions of the [Public Transport Management Act 2008][495] to [Part 5][215].
+    *   (b) be satisfied that the proposed regulations are necessary or desirable to facilitate an orderly transition from the provisions of the [Public Transport Management Act 2008][502] to [Part 5][215].
     
     (3) Any regulations made under this section may, for the transitional or savings purposes specified in subsection (1) (and without limiting that subsection), apply only to, or in respect of, 1 or more specified regions, services, or both.
     
@@ -5379,7 +5465,7 @@ Transitional and savings provisions
     
     (5) This section is repealed on 1 January 2016\.
     
-    Section 159: inserted, on 13 June 2013, by [section 70][487] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 159: inserted, on 13 June 2013, by [section 70][494] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ---
 
@@ -5390,7 +5476,7 @@ Provisions relating to programmes
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 August 2008, by [section 44][514] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1: repealed, on 1 August 2008, by [section 44][521] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -5401,7 +5487,7 @@ Provisions relating to consultation under this Act
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 August 2008, by [section 44][514] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 2: repealed, on 1 August 2008, by [section 44][521] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -5412,7 +5498,7 @@ Provisions relating to safety administration programme
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 1 December 2004, by [section 17(d)][393] of the Land Transport Management Amendment Act 2004 (2004 No 97).
+*   Schedule 3: repealed, on 1 December 2004, by [section 17(d)][395] of the Land Transport Management Amendment Act 2004 (2004 No 97).
 
 ---
 
@@ -5423,7 +5509,7 @@ Provisions relating to Authority and Transit
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 1 August 2008, by [section 45][515] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 4: repealed, on 1 August 2008, by [section 45][522] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -5434,7 +5520,7 @@ Matters to be included in statement of intent
 
 \[Repealed\]
     
-*   Schedule 5: repealed, on 1 August 2008, by [section 45][515] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 5: repealed, on 1 August 2008, by [section 45][522] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -5445,7 +5531,7 @@ Consequential amendments to other Acts
 
 \[Repealed\]
     
-*   Schedule 6: repealed, on 1 August 2008, by [section 45][515] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 6: repealed, on 1 August 2008, by [section 45][522] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ---
 
@@ -5456,7 +5542,7 @@ Auckland regional land transport strategy and regional transport committee
 
 \[Repealed\]
     
-*   Schedule 7: repealed, on 1 November 2010, by [section 113(1)][312] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
+*   Schedule 7: repealed, on 1 November 2010, by [section 113(1)][313] of the Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37).
 
 ---
 
@@ -5468,7 +5554,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Land Transport Management Amendment Act 2008][516].
+*   This Act is the [Land Transport Management Amendment Act 2008][523].
 
 ##### 2 Commencement
     
@@ -5608,7 +5694,7 @@ ss 47, 48
     
     (5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003\.
     
-    Schedule 2 clause 14(1): amended, on 13 June 2013, by [section 72][517] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Schedule 2 clause 14(1): amended, on 13 June 2013, by [section 72][524] of the Land Transport Management Amendment Act 2013 (2013 No 35).
 
 ##### 18 Approved procurement procedures
     
@@ -5770,100 +5856,63 @@ ss 47, 48
     
     Compare: 2003 No 118 s 111
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Land Transport Management Act 2003\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][518] ![](/images/external_link.gif).
+*   This is a reprint of the Land Transport Management Act 2003 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][519] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][525] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][526] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][520] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][527] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][528] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][521] and [17E][522] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Public Finance Amendment Act 2013 (2013 No 50): [section 57][318]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Land Transport Management Amendment Act 2013][512] (2013 No 35)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Legislation Act 2012 (2012 No 119): [section 77(3)][427]
     
+    Road User Charges Act 2012 (2012 No 1): [section 94][325]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][419]
     
-*   [Land Transport Management Amendment Act 2013][505] (2013 No 35)
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][529]
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][323]
+    Local Government Act 2002 Amendment Act 2010 (2010 No 124): [section 50][357]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][523]
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][313]
     
-    Local Government Act 2002 Amendment Act 2010 (2010 No 124): [section 50][355]
+    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][316]
     
-    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][312]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][314]
     
-    Customs and Excise Amendment Act 2009 (2009 No 61): [section 11(4)][315]
+    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][372]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][313]
+    Policing Act 2008 (2008 No 72): [sections 130(4)][317], [116(a)(vii), (d)][530]
     
-    Public Transport Management Act 2008 (2008 No 87): [section 63(2)][370]
+    [Land Transport Management Amendment Act 2008][523] (2008 No 47)
     
-    Policing Act 2008 (2008 No 72): [sections 130(4)][316], [116(a)(vii), (d)][524]
+    Crown Entities Act 2004 (2004 No 115): [section 200][315]
     
-    [Land Transport Management Amendment Act 2008][516] (2008 No 47)
-    
-    Crown Entities Act 2004 (2004 No 115): [section 200][314]
-    
-    [Land Transport Management Amendment Act 2004][525] (2004 No 97)
+    [Land Transport Management Amendment Act 2004][531] (2004 No 97)
     
     [Land Transport Management Act Commencement Order 2004][278] (SR 2004/237)
     
-    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 45][410]
+    Local Government (Auckland) Amendment Act 2004 (2004 No 57): [section 45][412]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2003/0118/latest/whole.html#DLM226233
 [2]: http://www.legislation.govt.nz/act/public/2003/0118/latest/whole.html#DLM226234
 [3]: http://www.legislation.govt.nz/act/public/2003/0118/latest/whole.html#DLM226235
@@ -6164,228 +6213,234 @@ ss 47, 48
 [298]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1102100
 [299]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM329641
 [300]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM163544
-[301]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM97382
-[302]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM341575
-[303]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM173374
-[304]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85324
-[305]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175415
-[306]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175464
-[307]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM173368
-[308]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662922
-[309]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313312
-[310]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321835
-[311]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321299
-[312]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016880
-[313]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2015063
-[314]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM331111
-[315]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2376744
-[316]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1102383
-[317]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM81034
-[318]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395071
-[319]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395012
-[320]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM91418
-[321]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2214226
-[322]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313379
-[323]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395080
-[324]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313382
-[325]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662960
-[326]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313384
-[327]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313385
-[328]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313389
-[329]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3394985
-[330]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313390
-[331]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662961
-[332]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313393
-[333]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330567
-[334]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM162729
-[335]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM171822
-[336]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313394
-[337]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662962
-[338]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330552
-[339]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM329630
-[340]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313398
-[341]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662963
-[342]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313400
-[343]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662964
-[344]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662965
-[345]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662966
-[346]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM230264
-[347]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662967
-[348]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662969
-[349]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662970
-[350]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662973
-[351]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172327
-[352]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172328
-[353]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662974
-[354]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662975
-[355]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2922485
-[356]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662977
-[357]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662978
-[358]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662981
-[359]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662982
-[360]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662983
-[361]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM370508
-[362]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM370572
-[363]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662984
-[364]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662985
-[365]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662986
-[366]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330549
-[367]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313428
-[368]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662987
-[369]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662988
-[370]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180107
-[371]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330348
-[372]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662989
-[373]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662990
-[374]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662991
-[375]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313438
-[376]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662992
-[377]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM65366
-[378]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM65371
-[379]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM64784
-[380]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1407702
-[381]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313452
-[382]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662993
-[383]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1407703
-[384]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313454
-[385]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313456
-[386]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174891
-[387]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174474
-[388]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313460
-[389]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662994
-[390]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313458
-[391]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM415531
-[392]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM422690
-[393]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321836
-[394]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313461
-[395]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175215
-[396]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662995
-[397]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313462
-[398]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313463
-[399]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405760
-[400]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405761
-[401]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405768
-[402]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174880
-[403]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313464
-[404]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM422869
-[405]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174933
-[406]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175212
-[407]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313465
-[408]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044960
-[409]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662996
-[410]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM301333
-[411]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313468
-[412]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662997
-[413]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175495
-[414]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313471
-[415]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175498
-[416]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM310742
-[417]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175479
-[418]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313472
-[419]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662998
-[420]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM296638
-[421]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195534
-[422]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195097
-[423]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662999
-[424]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663300
-[425]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663304
-[426]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM297038
-[427]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM5051109
-[428]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663305
-[429]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM154184
-[430]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663306
-[431]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM433612
-[432]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM328799
-[433]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663308
-[434]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM96438
-[435]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663309
-[436]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663311
-[437]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM420324
-[438]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175231
-[439]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175419
-[440]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175425
-[441]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663312
-[442]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313478
-[443]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663315
-[444]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM45426
-[445]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM236787
-[446]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM46055
-[447]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM131393
-[448]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663316
-[449]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM269031
-[450]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM140136
-[451]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM140179
-[452]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM435099
-[453]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM435637
-[454]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM434682
-[455]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM434687
-[456]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663318
-[457]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663319
-[458]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313549
-[459]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663320
-[460]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663328
-[461]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663329
-[462]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663331
-[463]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663332
-[464]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663333
-[465]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM219710
-[466]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330360
-[467]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663334
-[468]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM88596
-[469]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663335
-[470]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM329954
-[471]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330540
-[472]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330548
-[473]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663336
-[474]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330500
-[475]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663337
-[476]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663338
-[477]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663339
-[478]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446395
-[479]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446842
-[480]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446000
-[481]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663341
-[482]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM170872
-[483]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM122241
-[484]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044962
-[485]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663343
-[486]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175911
-[487]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663344
-[488]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172319
-[489]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172336
-[490]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172338
-[491]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM319248
-[492]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044900
-[493]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM122287
-[494]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM319999
-[495]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1179938
-[496]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM237637
-[497]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM234891
-[498]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2300709
-[499]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243781
-[500]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243909
-[501]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243795
-[502]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180070
-[503]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180077
-[504]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180086
-[505]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662906
-[506]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3653601
-[507]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3653603
-[508]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016751
-[509]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016752
-[510]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016794
-[511]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663358
-[512]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85318
-[513]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85351
-[514]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313610
-[515]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313611
-[516]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313300
-[517]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663359
-[518]: http://www.pco.parliament.govt.nz/reprints/
-[519]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195439
-[520]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[521]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195468
-[522]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM195470
-[523]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3231293
-[524]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1102349
-[525]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321293
+[301]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM5466801
+[302]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM97382
+[303]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM341575
+[304]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM173374
+[305]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85324
+[306]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175415
+[307]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175464
+[308]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM173368
+[309]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662922
+[310]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313312
+[311]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321835
+[312]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321299
+[313]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016880
+[314]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2015063
+[315]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM331111
+[316]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2376744
+[317]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1102383
+[318]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM5326333
+[319]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM81034
+[320]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395071
+[321]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395012
+[322]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM91418
+[323]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2214226
+[324]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313379
+[325]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3395080
+[326]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313382
+[327]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662960
+[328]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313384
+[329]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313385
+[330]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313389
+[331]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3394985
+[332]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313390
+[333]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662961
+[334]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313393
+[335]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330567
+[336]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM162729
+[337]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM171822
+[338]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313394
+[339]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662962
+[340]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330552
+[341]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM329630
+[342]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313398
+[343]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662963
+[344]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313400
+[345]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662964
+[346]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662965
+[347]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662966
+[348]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM230264
+[349]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662967
+[350]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662969
+[351]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662970
+[352]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662973
+[353]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172327
+[354]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172328
+[355]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662974
+[356]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662975
+[357]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2922485
+[358]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662977
+[359]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662978
+[360]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662981
+[361]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662982
+[362]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662983
+[363]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM370508
+[364]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM370572
+[365]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662984
+[366]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662985
+[367]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662986
+[368]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330549
+[369]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313428
+[370]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662987
+[371]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662988
+[372]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180107
+[373]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330348
+[374]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662989
+[375]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662990
+[376]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662991
+[377]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313438
+[378]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662992
+[379]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM65366
+[380]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM65371
+[381]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM64784
+[382]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1407702
+[383]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313452
+[384]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662993
+[385]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1407703
+[386]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313454
+[387]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313456
+[388]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174891
+[389]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174474
+[390]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313460
+[391]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662994
+[392]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313458
+[393]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM415531
+[394]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM422690
+[395]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321836
+[396]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313461
+[397]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175215
+[398]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662995
+[399]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313462
+[400]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313463
+[401]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405760
+[402]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405761
+[403]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM405768
+[404]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174880
+[405]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313464
+[406]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM422869
+[407]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM174933
+[408]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175212
+[409]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313465
+[410]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044960
+[411]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662996
+[412]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM301333
+[413]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313468
+[414]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662997
+[415]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175495
+[416]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313471
+[417]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175498
+[418]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3360067
+[419]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3360714
+[420]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175479
+[421]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313472
+[422]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662998
+[423]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM296638
+[424]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2997643
+[425]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998573
+[426]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662999
+[427]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998633
+[428]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663300
+[429]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663304
+[430]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM297038
+[431]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM5051109
+[432]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663305
+[433]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM154184
+[434]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663306
+[435]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM433612
+[436]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM328799
+[437]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663308
+[438]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM96438
+[439]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663309
+[440]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663311
+[441]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM420324
+[442]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175231
+[443]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175419
+[444]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175425
+[445]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663312
+[446]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313478
+[447]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663315
+[448]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM45426
+[449]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM236787
+[450]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM46055
+[451]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM131393
+[452]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663316
+[453]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM269031
+[454]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM140136
+[455]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM140179
+[456]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM435099
+[457]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM435637
+[458]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3359902
+[459]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM310742
+[460]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM434682
+[461]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM434687
+[462]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663318
+[463]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663319
+[464]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313549
+[465]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663320
+[466]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663328
+[467]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663329
+[468]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663331
+[469]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663332
+[470]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663333
+[471]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM219710
+[472]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330360
+[473]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663334
+[474]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM88596
+[475]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663335
+[476]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM329954
+[477]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330540
+[478]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330548
+[479]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663336
+[480]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM330500
+[481]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663337
+[482]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663338
+[483]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663339
+[484]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446395
+[485]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446842
+[486]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM446000
+[487]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663340
+[488]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663341
+[489]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM170872
+[490]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM122241
+[491]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044962
+[492]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663343
+[493]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM175911
+[494]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663344
+[495]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172319
+[496]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172336
+[497]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM172338
+[498]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM319248
+[499]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2044900
+[500]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM122287
+[501]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM319999
+[502]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1179938
+[503]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM237637
+[504]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM234891
+[505]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2300709
+[506]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243781
+[507]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243909
+[508]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM243795
+[509]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180070
+[510]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180077
+[511]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1180086
+[512]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4662906
+[513]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3653601
+[514]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3653603
+[515]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016751
+[516]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016752
+[517]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3016794
+[518]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663358
+[519]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85318
+[520]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM85351
+[521]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313610
+[522]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313611
+[523]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1313300
+[524]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM4663359
+[525]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998516
+[526]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998515
+[527]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM2998532
+[528]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[529]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM3231293
+[530]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM1102349
+[531]: http://www.legislation.govt.nz/act/public/2003/0118/latest/link.aspx?id=DLM321293
