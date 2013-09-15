@@ -1,7 +1,7 @@
 Reprint  
-as at 31 December 2002
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # New Zealand Stock Exchange Restructuring Act 2002Private Act2002 No 1
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 ---
 
@@ -23,41 +23,41 @@ A general outline of these changes is set out in the notes at the end of this re
 
 *   [Preamble][1]
 
-[1][2] [Title][2]
+[1][2][][2][Title][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
-[6][7] [Restructuring proposal][7]
+[6][7][][7][Restructuring proposal][7]
 
-[7][8] [Member approval of restructuring proposal][8]
+[7][8][][8][Member approval of restructuring proposal][8]
 
-[8][9] [Effect of member approval][9]
+[8][9][][9][Effect of member approval][9]
 
-[9][10] [Registration of company][10]
+[9][10][][10][Registration of company][10]
 
-[10][11] [Conversion of NZSE into company][11]
+[10][11][][11][Conversion of NZSE into company][11]
 
-[11][12] [Conduct rules][12]
+[11][12][][12][Conduct rules][12]
 
-[12][13] [Control limit on Company][13]
+[12][13][][13][Control limit on Company][13]
 
-[13][14] [Effect of conversion to company][14]
+[13][14][][14][Effect of conversion to company][14]
 
-[14][15] [Employees of NZSE][15]
+[14][15][][15][Employees of NZSE][15]
 
-[15][16] [Taxation][16]
+[15][16][][16][Taxation][16]
 
-[16][17] [Registered exchange][17]
+[16][17][][17][Registered exchange][17]
 
-[17][18] [Repeal][18]
+[17][18][][18][Repeal][18]
 
-[18][19] [Amendments][19]
+[18][19][][19][Amendments][19]
 
 [Schedule 1][20]  
 [Acts amended][20]
@@ -344,7 +344,7 @@ A general outline of these changes is set out in the notes at the end of this re
     
     (10) \[Repealed\]
     
-    (11) Every Order in Council made under this section is to be treated as a regulation for the purposes of the [Regulations (Disallowance) Act 1989][31] and the [Acts and Regulations Publication Act 1989][32], but the conduct rules are not to be treated as regulations for the purposes of those Acts.
+    (11) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][31] and must be presented to the House of Representatives under [section 41][32] of that Act, but the conduct rules are neither a legislative instrument nor a disallowable instrument for the purposes of that Act.
     
     (12) \[Repealed\]
     
@@ -364,13 +364,15 @@ A general outline of these changes is set out in the notes at the end of this re
     
     Section 11(10): repealed, on 1 December 2002, by [section 27(3)][33] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
+    Section 11(11): replaced, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
+    
     Section 11(12): repealed, on 1 December 2002, by [section 27(3)][33] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 11(13): repealed, on 1 December 2002, by [section 27(3)][33] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 12 Control limit on Company
     
-*   (1) There must be a control limit under [section 36S][34] of the Securities Markets Act 1988 in respect of the Company on and from the restructuring day.
+*   (1) There must be a control limit under [section 36S][35] of the Securities Markets Act 1988 in respect of the Company on and from the restructuring day.
     
     (2) \[Repealed\]
     
@@ -384,9 +386,9 @@ A general outline of these changes is set out in the notes at the end of this re
     
     (7) \[Repealed\]
     
-    (8) Every Order in Council made under this section is to be treated as a regulation for the purposes of the [Regulations (Disallowance) Act 1989][31] and the [Acts and Regulations Publication Act 1989][32].
+    (8) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][31] and must be presented to the House of Representatives under [section 41][32] of that Act.
     
-    (9) Nothing in this section limits any takeovers code that is in force under [section 28][35] of the Takeovers Act 1993 or any other enactment.
+    (9) Nothing in this section limits any takeovers code that is in force under [section 28][36] of the Takeovers Act 1993 or any other enactment.
     
     Section 12(1): amended, on 1 December 2002, by [section 28(2)][29] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
@@ -401,6 +403,8 @@ A general outline of these changes is set out in the notes at the end of this re
     Section 12(6): repealed, on 1 December 2002, by [section 28(3)][29] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 12(7): repealed, on 1 December 2002, by [section 28(3)][29] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    
+    Section 12(8): replaced, on 5 August 2013, by [section 77(3)][34] of the Legislation Act 2012 (2012 No 119).
 
 ##### 13 Effect of conversion to company
     
@@ -450,7 +454,7 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 15 Taxation
     
-*   (1) The issue by the Company of shares on the restructuring day to qualifying members in accordance with their ownership entitlements is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][36].
+*   (1) The issue by the Company of shares on the restructuring day to qualifying members in accordance with their ownership entitlements is not a dutiable gift for the purposes of the [Estate and Gift Duties Act 1968][37].
     
     (2) For the purposes of the Income Tax Act 1994, a qualifying member who is issued shares by the Company on the restructuring day is to be regarded as having---
         
@@ -464,9 +468,9 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 16 Registered exchange
     
-*   On the restructuring day, the Secretary must register the vesting entity as a registered exchange under [section 36F][37] of the Securities Markets Act 1988\.
+*   On the restructuring day, the Secretary must register the vesting entity as a registered exchange under [section 36F][38] of the Securities Markets Act 1988\.
     
-    Section 16: substituted, on 1 December 2002, by [section 29][38] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 16: substituted, on 1 December 2002, by [section 29][39] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 17 Repeal
     
@@ -489,7 +493,7 @@ Acts amended
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 December 2002, by [section 30][39] of the Securities Markets Amendment Act 2002 (2002 No 44).
+*   Schedule 1: repealed, on 1 December 2002, by [section 30][40] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ---
 
@@ -500,7 +504,7 @@ Regulations amended
 
 \[Repealed\]
     
-*   Schedule 2: repealed, on 1 December 2002, by [section 30][39] of the Securities Markets Amendment Act 2002 (2002 No 44).
+*   Schedule 2: repealed, on 1 December 2002, by [section 30][40] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ---
 
@@ -511,78 +515,37 @@ Order in Council amended
 
 ##### Securities Transfer (Approval of FASTER System) Order 2001 (SR 2001/238)
 
-_Amendment(s) incorporated in the [order(s)][40]._
+_Amendment(s) incorporated in the [order(s)][41]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Stock Exchange Restructuring Act 2002\. The reprint incorporates all the amendments to the Act as at 31 December 2002, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the New Zealand Stock Exchange Restructuring Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][41] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][42] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][43] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][44] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][45] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][42] and [17E][43] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][34]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   New Zealand Stock Exchange (Conduct Rules, Control Limit, and Restructuring Day) Order 2002 (SR 2002/377): [clause 5][23]
+    New Zealand Stock Exchange (Conduct Rules, Control Limit, and Restructuring Day) Order 2002 (SR 2002/377): [clause 5][23]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [sections 27--30][33]
 
 
 
-[0]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/private/2002/0001/latest/whole.html#DLM120803
 [2]: http://www.legislation.govt.nz/act/private/2002/0001/latest/whole.html#DLM120807
 [3]: http://www.legislation.govt.nz/act/private/2002/0001/latest/whole.html#DLM120808
@@ -613,16 +576,18 @@ _Amendment(s) incorporated in the [order(s)][40]._
 [28]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141379
 [29]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162195
 [30]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141344
-[31]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195534
-[32]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195097
+[31]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2997643
+[32]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998573
 [33]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162194
-[34]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141373
-[35]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM325874
-[36]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM385591
-[37]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141341
-[38]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162196
-[39]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162198
-[40]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM71165
-[41]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195439
-[42]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195468
-[43]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM195470
+[34]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998633
+[35]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141373
+[36]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM325874
+[37]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM385591
+[38]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM141341
+[39]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162196
+[40]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM162198
+[41]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM71165
+[42]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998516
+[43]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998515
+[44]: http://www.legislation.govt.nz/act/private/2002/0001/latest/link.aspx?id=DLM2998532
+[45]: http://www.pco.parliament.govt.nz/editorial-conventions/
