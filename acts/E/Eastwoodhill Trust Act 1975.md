@@ -1,5 +1,5 @@
 Reprint  
-as at 15 December 1994
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,55 +25,55 @@ A general outline of these changes is set out in the notes at the end of this re
     
 *   [Preamble][2]
 
-[1][3] [Short Title][3]
+[1][3][][3][Short Title][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Constitution of board][5]
+[3][5][][5][Constitution of board][5]
 
-[4][6] [Membership of board][6]
+[4][6][][6][Membership of board][6]
 
-[5][7] [Term of office of members][7]
+[5][7][][7][Term of office of members][7]
 
-[5A][8] [Extraordinary vacancies][8]
+[5A][8][][8][Extraordinary vacancies][8]
 
-[5B][9] [Acts of board not to be questioned on certain grounds][9]
+[5B][9][][9][Acts of board not to be questioned on certain grounds][9]
 
-[6][10] [First appointment of members of the board][10] \[Repealed\]
+[6][10][][10][First appointment of members of the board][10] \[Repealed\]
 
-[7][11] [Advisory committee][11] \[Repealed\]
+[7][11][][11][Advisory committee][11] \[Repealed\]
 
-[8][12] [Committees][12]
+[8][12][][12][Committees][12]
 
-[9][13] [Meetings of board][13]
+[9][13][][13][Meetings of board][13]
 
-[9A][14] [Annual meeting of board][14]
+[9A][14][][14][Annual meeting of board][14]
 
-[10][15] [Procedure at meetings][15]
+[10][15][][15][Procedure at meetings][15]
 
-[11][16] [Contracts][16]
+[11][16][][16][Contracts][16]
 
-[12][17] [Functions of board][17]
+[12][17][][17][Functions of board][17]
 
-[13][18] [Powers of board][18]
+[13][18][][18][Powers of board][18]
 
-[14][19] [Bylaws][19]
+[14][19][][19][Bylaws][19]
 
-[15][20] [Penalty for breach of bylaws][20]
+[15][20][][20][Penalty for breach of bylaws][20]
 
-[16][21] [Purposes declared charitable][21]
+[16][21][][21][Purposes declared charitable][21]
 
-[17][22] [Refund of expenditure by board members][22]
+[17][22][][22][Refund of expenditure by board members][22]
 
-[18][23] [Books of account][23]
+[18][23][][23][Books of account][23]
 
-[19][24] [Annual financial report][24]
+[19][24][][24][Annual financial report][24]
 
-[20][25] [Exemption of board members from personal liability][25]
+[20][25][][25][Exemption of board members from personal liability][25]
 
-[21][26] [Vesting Eastwoodhill in board][26]
+[21][26][][26][Vesting Eastwoodhill in board][26]
 
-[22][27] [Private Act][27]
+[22][27][][27][Private Act][27]
 
 [Schedule][28]  
 
@@ -267,11 +267,13 @@ An Act to establish the Eastwoodhill Trust Board
 
 ##### 15 Penalty for breach of bylaws
     
-*   (1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and shall be liable on summary conviction to a fine not exceeding $100, and shall also be civilly liable for all damage caused by the contravention or non-compliance.
+*   (1) Every person who contravenes or fails to comply with any bylaw made under this Act commits an offence and shall be liable on conviction to a fine not exceeding $100, and shall also be civilly liable for all damage caused by the contravention or non-compliance.
     
     (2) The board is hereby declared to be a local authority for the purposes of [section 73][35] of the Public Finance Act 1989\.
     
-    Section 15(2): replaced, on 1 July 1989, by [section 86(1)][36] of the Public Finance Act 1989 (1989 No 44).
+    Section 15(1): amended, on 1 July 2013, by [section 413][36] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(2): replaced, on 1 July 1989, by [section 86(1)][37] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 16 Purposes declared charitable
     
@@ -295,7 +297,7 @@ An Act to establish the Eastwoodhill Trust Board
     
     (4) As soon as practicable after 30 June in each year the board shall furnish to the Minister of Conservation a copy of the report referred to in subsection (1) including a copy of its audited accounts.
     
-    Section 19(3): amended, on 1 July 1997, pursuant to [section 2(1)][37] of the Companies Act Repeal Act 1993 (1993 No 126).
+    Section 19(3): amended, on 1 July 1997, pursuant to [section 2(1)][38] of the Companies Act Repeal Act 1993 (1993 No 126).
     
     Section 19(4): amended, on 1 April 1987, pursuant to [section 65(2)][34] of the Conservation Act 1987 (1987 No 65).
 
@@ -335,23 +337,23 @@ An estate in fee simple in all that parcel of land containing 131.02734 ha (323 
 
 ###### 1 General
     
-*   This is a reprint of the Eastwoodhill Trust Act 1975\. The reprint incorporates all the amendments to the Act as at 15 December 1994, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Eastwoodhill Trust Act 1975\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][38] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][39] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][39] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][40] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][40] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][41] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][41] and [17E][42] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][42] and [17E][43] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -382,11 +384,13 @@ An estate in fee simple in all that parcel of land containing 131.02734 ha (323 
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Eastwoodhill Trust Amendment Act 1994 (1994 No 7 (P))
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][36]
     
-    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][37]
+    Eastwoodhill Trust Amendment Act 1994 (1994 No 7 (P))
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][36]
+    Companies Act Repeal Act 1993 (1993 No 126): [section 2(1)][38]
+    
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][37]
     
     Conservation Act 1987 (1987 No 65): [section 65(2)][34]
 
@@ -428,10 +432,11 @@ An estate in fee simple in all that parcel of land containing 131.02734 ha (323 
 [33]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM305246
 [34]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM106995
 [35]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM163137
-[36]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM163175
-[37]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM328327
-[38]: http://www.pco.parliament.govt.nz/reprints/
-[39]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195439
-[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[41]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195468
-[42]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195470
+[36]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM3360714
+[37]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM163175
+[38]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM328327
+[39]: http://www.pco.parliament.govt.nz/reprints/
+[40]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195439
+[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[42]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195468
+[43]: http://www.legislation.govt.nz/act/private/1975/0001/latest/link.aspx?id=DLM195470
