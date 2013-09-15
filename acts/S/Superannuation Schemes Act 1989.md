@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -162,6 +162,8 @@ This Act is administered by the Treasury.
 
 \[Repealed\]
 
+\[Repealed\]
+
 [Amendments to schemes as result of Income Tax Amendment Act 1989][68]
 
 \[Repealed\]
@@ -212,6 +214,8 @@ This Act is administered by the Treasury.
 
 \[Repealed\]
 
+\[Repealed\]
+
 [58][89][][89][Interpretation][89] \[Repealed\]
 
 [Reductions in annuities as result of Income Tax Amendment Act 1989][90]
@@ -246,6 +250,8 @@ This Act is administered by the Treasury.
 
 [Part 6][102]  
 [Transfer of superannuation business of life offices][102]
+
+\[Repealed\]
 
 \[Repealed\]
 
@@ -1169,7 +1175,7 @@ Miscellaneous provisions
 
 ##### 25 Offences
     
-*   (1) Every person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $500, who refuses or fails---
+*   (1) Every person commits an offence against this Act, and is liable on conviction to a fine not exceeding $500, who refuses or fails---
         
     *   (a) to deliver any document or statement or report or copy or certificate; or
     
@@ -1201,13 +1207,15 @@ Miscellaneous provisions
     
     (3) Where any company commits an offence against this Act, every officer of the company who knowingly authorises or permits the offence also commits an offence against this Act.
     
-    Section 25(1)(ab): inserted, on 15 April 2004, by [section 8(1)][154] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Section 25(1): amended, on 1 July 2013, by [section 413][154] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 25(1A): inserted, on 15 April 2004, by [section 8(2)][154] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Section 25(1)(ab): inserted, on 15 April 2004, by [section 8(1)][155] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    
+    Section 25(1A): inserted, on 15 April 2004, by [section 8(2)][155] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
     Section 25(2)(a): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 25(2)(ab): inserted, on 15 April 2004, by [section 8(3)][154] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Section 25(2)(ab): inserted, on 15 April 2004, by [section 8(3)][155] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
 
 ##### 26 Secrecy
     
@@ -1229,7 +1237,7 @@ Miscellaneous provisions
     
     (3) In this section, _responsible Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act.
     
-    Section 28: substituted, on 3 June 1998, by [section 2][155] of the Superannuation Schemes Amendment Act 1998 (1998 No 62).
+    Section 28: substituted, on 3 June 1998, by [section 2][156] of the Superannuation Schemes Amendment Act 1998 (1998 No 62).
     
     Section 28 heading: amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1249,7 +1257,7 @@ Miscellaneous provisions
     
     *   (b) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and the full administration thereof.
     
-    Section 30(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
+    Section 30(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][157] of the Income Tax Act 2007 (2007 No 97).
     
     Section 30(a): amended, on 1 August 1990, by section 3 of the Superannuation Amendment Act 1990 (1990 No 67).
 
@@ -1293,15 +1301,15 @@ Miscellaneous provisions
     
     (3) The application must include a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the registered scheme.
     
-    Section 34: inserted, on 18 December 2006, by [section 237][157] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 34: inserted, on 18 December 2006, by [section 237][158] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 34(1): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 34(2): substituted (with effect on 1 April 2007), on 19 December 2007, by [section 108(1)][158] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 34(2): substituted (with effect on 1 April 2007), on 19 December 2007, by [section 108(1)][159] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 34(2): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 34(3): added, on 19 December 2007, by [section 108(2)][158] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 34(3): added, on 19 December 2007, by [section 108(2)][159] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 35 Dealing with applications for complying superannuation funds
     
@@ -1319,7 +1327,7 @@ Miscellaneous provisions
     
     *   (b) \[Repealed\]
     
-    *   (c) the registered scheme has at least 20 members, treating all interests in the registered scheme or account held by persons associated under [section OD 8(3)][159] of the Income Tax Act 2004 as being held by 1 person; and
+    *   (c) the registered scheme has at least 20 members, treating all interests in the registered scheme or account held by persons associated under [section OD 8(3)][160] of the Income Tax Act 2004 as being held by 1 person; and
     
     *   (d) the registered scheme is registered on or before 1 July 2007; and
     
@@ -1349,17 +1357,17 @@ Miscellaneous provisions
         
         
     
-    Section 35: inserted, on 18 December 2006, by [section 237][157] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 35: inserted, on 18 December 2006, by [section 237][158] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 35(1): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 35(1)(a): substituted, on 21 May 2007, by [section 71(1)][160] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 35(1)(a): substituted, on 21 May 2007, by [section 71(1)][161] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
-    Section 35(1)(a): amended (with effect on 1 July 2007), on 19 December 2007, by [section 109(1)][161] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 35(1)(a): amended (with effect on 1 July 2007), on 19 December 2007, by [section 109(1)][162] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Section 35(1)(b): repealed, on 21 May 2007, by [section 71(1)][160] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
+    Section 35(1)(b): repealed, on 21 May 2007, by [section 71(1)][161] of the Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19).
     
-    Section 35(1)(e): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 109(2)][161] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 35(1)(e): substituted (with effect on 1 July 2007), on 19 December 2007, by [section 109(2)][162] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 35(2): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1367,7 +1375,7 @@ Miscellaneous provisions
     
     Section 35(4): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 35(5): added (with effect on 1 July 2007), on 19 December 2007, by [section 109(3)][161] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 35(5): added (with effect on 1 July 2007), on 19 December 2007, by [section 109(3)][162] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ##### 36 Revocation of approval
     
@@ -1385,7 +1393,7 @@ Miscellaneous provisions
     
     (4) A registered scheme that is notified that approval is revoked must immediately notify that revocation to each member who may be affected, and to their employers. At the same time, the registered scheme must notify the Commissioner of each member who may be affected, and of their employers.
     
-    Section 36: inserted, on 18 December 2006, by [section 237][157] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 36: inserted, on 18 December 2006, by [section 237][158] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 36(1): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1397,15 +1405,15 @@ Miscellaneous provisions
     
 *   (1) The trustees of a complying superannuation fund must give notice to the FMA of any changes to---
         
-    *   (a) any of the information referred to in [section 161(1B)][162] of the KiwiSaver Act 2006; or
+    *   (a) any of the information referred to in [section 161(1B)][163] of the KiwiSaver Act 2006; or
     
-    *   (b) any information required to be contained in the register under [section 161(2)][162] of that Act.
+    *   (b) any information required to be contained in the register under [section 161(2)][163] of that Act.
     
     (2) This section does not apply if the change has been notified in an annual report sent or delivered under [section 14][26] before the notice is required to be given under this section.
     
-    Compare: 2006 No 40 [s 164][163]
+    Compare: 2006 No 40 [s 164][164]
     
-    Section 37: inserted, on 1 April 2008, by [section 110(2)][164] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 37: inserted, on 1 April 2008, by [section 110(2)][165] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 37 heading: amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1413,7 +1421,7 @@ Miscellaneous provisions
 
 ##### 38 Form of notice under section 37
     
-*   (1) A notice under [section 37][165] must---
+*   (1) A notice under [section 37][166] must---
         
     *   (a) be in the prescribed form (if any); and
     
@@ -1433,19 +1441,19 @@ Miscellaneous provisions
         
     *   (a) to matters prescribed under [section 30(b)][55]; or
     
-    *   (b) if the matter is not prescribed under that section, to the equivalent matter prescribed under [section 228(b)][166] of the KiwiSaver Act 2006 in respect of notices under [section 164][163] of that Act, with all necessary modifications.
+    *   (b) if the matter is not prescribed under that section, to the equivalent matter prescribed under [section 228(b)][167] of the KiwiSaver Act 2006 in respect of notices under [section 164][164] of that Act, with all necessary modifications.
     
-    Compare: 2006 No 40 [s 165][167]
+    Compare: 2006 No 40 [s 165][168]
     
-    Section 38: inserted, on 1 April 2008, by [section 110(2)][164] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 38: inserted, on 1 April 2008, by [section 110(2)][165] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 38(1)(d): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 39 Duty to give notice to FMA about fee increases
     
-*   Any person referred to in [clause 2][168] of the KiwiSaver scheme rules who increases a fee to which that clause applies in relation to a complying superannuation fund must give notice of the increase to the FMA as soon as reasonably practicable after the increase takes effect.
+*   Any person referred to in [clause 2][169] of the KiwiSaver scheme rules who increases a fee to which that clause applies in relation to a complying superannuation fund must give notice of the increase to the FMA as soon as reasonably practicable after the increase takes effect.
     
-    Section 39: inserted, on 1 April 2008, by [section 110(2)][164] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 39: inserted, on 1 April 2008, by [section 110(2)][165] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 39 heading: amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1453,7 +1461,7 @@ Miscellaneous provisions
 
 ##### 40 Powers of High Court in relation to unreasonable fees
     
-*   (1) If the High Court is satisfied, on the application of a member or the FMA, that any of the persons referred to in [section 39][169] have charged a fee in relation to a complying superannuation fund that is unreasonable, it may order that the fee be annulled or reduced.
+*   (1) If the High Court is satisfied, on the application of a member or the FMA, that any of the persons referred to in [section 39][170] have charged a fee in relation to a complying superannuation fund that is unreasonable, it may order that the fee be annulled or reduced.
     
     (2) The High Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (1).
     
@@ -1463,13 +1471,13 @@ Miscellaneous provisions
         
     *   (a) must have regard to any prescribed matter under the [KiwiSaver Act 2006][114]; and
     
-    *   (b) may, to the extent it thinks fit, have regard to any guidelines published by the FMA under [section 127][170] of that Act; and
+    *   (b) may, to the extent it thinks fit, have regard to any guidelines published by the FMA under [section 127][171] of that Act; and
     
     *   (c) may have regard to any other matter it thinks fit.
     
-    (5) This section does not limit [section 20][40] and, to avoid doubt, a breach of [clause 2][168] of the KiwiSaver scheme rules as applied by the complying fund rules is a breach of this Act.
+    (5) This section does not limit [section 20][40] and, to avoid doubt, a breach of [clause 2][169] of the KiwiSaver scheme rules as applied by the complying fund rules is a breach of this Act.
     
-    Section 40: inserted, on 1 April 2008, by [section 110(2)][164] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 40: inserted, on 1 April 2008, by [section 110(2)][165] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Section 40(1): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -1479,68 +1487,72 @@ Miscellaneous provisions
     
 *   The trustees of every scheme that has been approved as a complying superannuation fund before the date of commencement of this section must send to the Government Actuary, within 28 days after that commencement date, a copy of any participation agreements that have been ratified by employers of employees in the scheme as applicable to the complying superannuation fund.
     
-    Section 41: inserted, on 19 December 2007, by [section 110(1)][164] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Section 41: inserted, on 19 December 2007, by [section 110(1)][165] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
 
 ## Part 3  
 Transitional provisions relating to reduction of benefits as result of changes in taxation
 
 \[Repealed\]
+
+\[Repealed\]
     
-*   Part 3: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Part 3: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 #### Amendments to schemes as result of Income Tax Amendment Act 1989
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 42 Uniform reduction in existing pensions may be regarded as equitable
+
+\[Repealed\]
     
 *   \[Repealed\]
     
-    Section 42: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 42: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 43 Uniform reduction in existing and future pensions may be regarded as equitable
     
 *   \[Repealed\]
     
-    Section 43: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 43: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 44 Notification of amendments made in accordance with this Part
     
 *   \[Repealed\]
     
-    Section 44: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 44: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 45 Amendment to become valid on date made
     
 *   \[Repealed\]
     
-    Section 45: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 45: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 45A Reduction of benefits where employer obliged to provide defined benefit
     
 *   \[Repealed\]
     
-    Section 45A: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 45A: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 #### Amendments to schemes to provide for later changes in taxation
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 46 Amendment to provide for variations as result of later taxation changes
     
 *   \[Repealed\]
     
-    Section 46: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 46: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 47 No reductions to be made except to make benefits secure
     
 *   \[Repealed\]
     
-    Section 47: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 47: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ## Part 4  
 Transitional provisions relating to position of schemes approved under Superannuation Schemes Act 1976
@@ -1549,43 +1561,43 @@ Transitional provisions relating to position of schemes approved under Superannu
     
 *   \[Repealed\]
     
-    Section 48: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 48: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 49 Registration of approved schemes
     
 *   \[Repealed\]
     
-    Section 49: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 49: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 50 Effect of cancellation of approval
     
 *   \[Repealed\]
     
-    Section 50: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 50: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 51 Application to cancel approval of scheme that is not to become registered
     
 *   \[Repealed\]
     
-    Section 51: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 51: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 52 Cancellation of approval of certain overseas schemes
     
 *   \[Repealed\]
     
-    Section 52: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 52: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 53 Position of schemes that are still approved as at 31 March 1990
     
 *   \[Repealed\]
     
-    Section 53: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 53: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 54 Position where 2 or more approved schemes share trust deed
     
 *   \[Repealed\]
     
-    Section 54: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 54: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 55 Certain provisions in trust deed obsolete
     
@@ -1607,123 +1619,127 @@ Transitional provisions relating to position of schemes approved under Superannu
     
 *   \[Repealed\]
     
-    Section 57: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 57: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ## Part 5  
 Annuities
 
 \[Repealed\]
+
+\[Repealed\]
     
-*   Part 5: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Part 5: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 58 Interpretation
     
 *   \[Repealed\]
     
-    Section 58: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 58: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 #### Reductions in annuities as result of Income Tax Amendment Act 1989
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 59 Reduction of annuities granted before 1 April 1990
     
 *   \[Repealed\]
     
-    Section 59: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 59: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 60 Approval of Government Actuary needed if reduction in net benefits
     
 *   \[Repealed\]
     
-    Section 60: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 60: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 61 Other powers to reduce benefits not affected
     
 *   \[Repealed\]
     
-    Section 61: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 61: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 #### Non-commutable and non-assignable annuities
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 62 Non-commutable and non-assignable annuities
     
 *   \[Repealed\]
     
-    Section 62: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 62: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 #### Miscellaneous
 
 \[Repealed\]
     
-*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Heading: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 63 Objections and appeals against decisions of Government Actuary
     
 *   \[Repealed\]
     
-    Section 63: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 63: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 64 Power of Government Actuary to require information
     
 *   \[Repealed\]
     
-    Section 64: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 64: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 65 Personal liability
     
 *   \[Repealed\]
     
-    Section 65: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 65: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 66 Fees
     
 *   \[Repealed\]
     
-    Section 66: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 66: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 67 Regulations
     
 *   \[Repealed\]
     
-    Section 67: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 67: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ## Part 6  
 Transfer of superannuation business of life offices
 
 \[Repealed\]
+
+\[Repealed\]
     
-*   Part 6: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+*   Part 6: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 68 Application for approval of transfer of superannuation business
     
 *   \[Repealed\]
     
-    Section 68: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 68: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 69 Approval of transfer arrangement by Government Actuary
     
 *   \[Repealed\]
     
-    Section 69: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 69: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 70 Transfer of property pursuant to approved arrangement
     
 *   \[Repealed\]
     
-    Section 70: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 70: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ##### 71 Liability to stamp duty, goods and services tax, and income tax in respect of transfer of property
     
 *   \[Repealed\]
     
-    Section 71: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][171] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
+    Section 71: repealed (with effect on 1 October 1992), on 18 December 1992, by [section 3(1)][172] of the Superannuation Schemes Amendment Act 1992 (1992 No 131).
 
 ---
 
@@ -1775,9 +1791,7 @@ Matters to be specified in annual report
 
 [s 14][26]
 
-##### 1
-    
-*   The following matters must be specified in the annual report:
+*   1 The following matters must be specified in the annual report:
         
     *   (a) a statement of numerical changes in the membership of the scheme during the financial year:
     
@@ -1821,39 +1835,37 @@ Matters to be specified in annual report
         
         *   (iii) the value of withdrawals subject to complying fund rules; and
         
-        *   (iv) if there has been an increase in a fee referred to in [clause 2][168] of the KiwiSaver scheme rules during the year, a certificate signed by the trustees of the fund that the fee as increased is not unreasonable, after having regard to any matters prescribed under [section 228(p)][166] of the KiwiSaver Act 2006 and any guidelines published by the FMA under [section 127][170] of that Act.
+        *   (iv) if there has been an increase in a fee referred to in [clause 2][169] of the KiwiSaver scheme rules during the year, a certificate signed by the trustees of the fund that the fee as increased is not unreasonable, after having regard to any matters prescribed under [section 228(p)][167] of the KiwiSaver Act 2006 and any guidelines published by the FMA under [section 127][171] of that Act.
         
         
     
-    Schedule 2 clause 1: amended, on 15 April 2004, by [section 9(1)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1: amended, on 15 April 2004, by [section 9(1)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(b): substituted, on 15 April 2004, by [section 9(2)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(b): substituted, on 15 April 2004, by [section 9(2)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(c): substituted, on 15 April 2004, by [section 9(2)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(c): substituted, on 15 April 2004, by [section 9(2)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(f): amended, on 15 April 2004, by [section 9(3)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(f): amended, on 15 April 2004, by [section 9(3)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(l): added, on 15 April 2004, by [section 9(4)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(l): added, on 15 April 2004, by [section 9(4)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(m): added, on 15 April 2004, by [section 9(4)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(m): added, on 15 April 2004, by [section 9(4)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(n): added, on 15 April 2004, by [section 9(4)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 1(n): added, on 15 April 2004, by [section 9(4)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
     
-    Schedule 2 clause 1(n): amended, on 18 December 2006, by [section 238][173] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Schedule 2 clause 1(n): amended, on 18 December 2006, by [section 238][174] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Schedule 2 clause 1(o): added, on 18 December 2006, by [section 238][173] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Schedule 2 clause 1(o): added, on 18 December 2006, by [section 238][174] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
-    Schedule 2 clause 1(o): amended, on 19 December 2007, by [section 111(1)][174] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 2 clause 1(o): amended, on 19 December 2007, by [section 111(1)][175] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 2 clause 1(o)(iii): amended, on 1 April 2009, by [section 111(2)][174] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 2 clause 1(o)(iii): amended, on 1 April 2009, by [section 111(2)][175] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
-    Schedule 2 clause 1(o)(iv): added, on 1 April 2009, by [section 111(2)][174] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
+    Schedule 2 clause 1(o)(iv): added, on 1 April 2009, by [section 111(2)][175] of the Taxation (KiwiSaver) Act 2007 (2007 No 110).
     
     Schedule 2 clause 1(o)(iv): amended, on 1 May 2011, by [section 85(1)][124] of the Financial Markets Authority Act 2011 (2011 No 5).
 
-##### 2
-    
-*   Abridged accounts included in the annual report must---
+*   2 Abridged accounts included in the annual report must---
         
     *   (a) be prepared in accordance with generally accepted accounting practice, as defined in [section 3][135] of the Financial Reporting Act 1993:
     
@@ -1865,7 +1877,7 @@ Matters to be specified in annual report
     
     *   (e) contain a statement advising where the member can obtain, at no charge, a copy of the annual accounts.
     
-    Schedule 2 clause 2: added, on 15 April 2004, by [section 9(5)][172] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
+    Schedule 2 clause 2: added, on 15 April 2004, by [section 9(5)][173] of the Superannuation Schemes Amendment Act 2004 (2004 No 33).
 
 ---
 
@@ -1884,11 +1896,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (Reprinted 1976, Vol 5, p 3585)
 
-_Amendment(s) incorporated in the [Act(s)][175]._
+_Amendment(s) incorporated in the [Act(s)][176]._
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][176]._
+_Amendment(s) incorporated in the [Act(s)][177]._
 
 ##### Income Tax Act 1976 (1976 No 65) (RS Vol 12, p 1)
 
@@ -1912,11 +1924,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][177]._
+_Amendment(s) incorporated in the [Act(s)][178]._
 
 ##### Unit Trusts Act 1960 (1960 No 99) (RS Vol 10, p 953)
 
-_Amendment(s) incorporated in the [Act(s)][178]._
+_Amendment(s) incorporated in the [Act(s)][179]._
 
 ---
 
@@ -1935,7 +1947,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35) (Reprinted 1976, Vol 5, p 3585)
 
-_Amendment(s) incorporated in the [Act(s)][175]._
+_Amendment(s) incorporated in the [Act(s)][176]._
 
 ##### Estate and Gift Duties Amendment Act 1977 (1977 No 58)
 
@@ -1943,7 +1955,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][176]._
+_Amendment(s) incorporated in the [Act(s)][177]._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
 
@@ -1951,15 +1963,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][179]._
+_Amendment(s) incorporated in the [Act(s)][180]._
 
 ##### State Sector Act 1988 (1988 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][177]._
+_Amendment(s) incorporated in the [Act(s)][178]._
 
 ##### Unit Trusts Act 1960 (1960 No 99) (RS Vol 10, p 953)
 
-_Amendment(s) incorporated in the [Act(s)][178]._
+_Amendment(s) incorporated in the [Act(s)][179]._
 
 ---
 
@@ -1971,7 +1983,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the Superannuation Schemes Amendment Act 1992, and shall be read together with and deemed part of the [Superannuation Schemes Act 1989][180] (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the Superannuation Schemes Amendment Act 1992, and shall be read together with and deemed part of the [Superannuation Schemes Act 1989][181] (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in section 3(6), this Act shall come into force on the day on which it receives the Royal assent.
 
@@ -2005,7 +2017,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007][181].
+*   This Act is the [Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007][182].
 
 ##### 2 Commencement
     
@@ -2046,23 +2058,23 @@ Amendments to other Acts and Regulations
 
 ###### 1 General
     
-*   This is a reprint of the Superannuation Schemes Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Superannuation Schemes Act 1989\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][182] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][183] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][183] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][184] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][184] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][185] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][185] and [17E][186] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][186] and [17E][187] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2093,39 +2105,41 @@ Amendments to other Acts and Regulations
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Auditor Regulation Act 2011 (2011 No 21): [section 82][117]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][154]
+    
+    Auditor Regulation Act 2011 (2011 No 21): [section 82][117]
     
     KiwiSaver Amendment Act 2011 (2011 No 8): [section 56][139]
     
     Financial Markets Authority Act 2011 (2011 No 5): [sections 82][119], [85(1)][124]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][187]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][188]
     
     Taxation (KiwiSaver) Act 2007 (2007 No 110): [sections 105--111][121]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][156]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][157]
     
-    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [section 71][160]
+    Taxation (KiwiSaver and Company Tax Rate Amendments) Act 2007 (2007 No 19): [section 71][161]
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 235--238][118]
     
     KiwiSaver Act 2006 (2006 No 40): [section 231][120]
     
-    [Superannuation Schemes Amendment Act 2004][188] (2004 No 33) 
+    [Superannuation Schemes Amendment Act 2004][189] (2004 No 33) 
     
-    [Superannuation Schemes Amendment Act 2001][189] (2001 No 26) 
+    [Superannuation Schemes Amendment Act 2001][190] (2001 No 26) 
     
-    [Superannuation Schemes Amendment Act 1998][190] (1998 No 62) 
+    [Superannuation Schemes Amendment Act 1998][191] (1998 No 62) 
     
-    [Superannuation Schemes Amendment Act (No 2) 1996][191] (1996 No 147) 
+    [Superannuation Schemes Amendment Act (No 2) 1996][192] (1996 No 147) 
     
-    [Superannuation Schemes Amendment Act 1996][192] (1996 No 102) 
+    [Superannuation Schemes Amendment Act 1996][193] (1996 No 102) 
     
     Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): section 23
     
     Human Rights Act 1993 (1993 No 82): [section 146][133]
     
-    [Superannuation Schemes Amendment Act 1992][193] (1992 No 131) 
+    [Superannuation Schemes Amendment Act 1992][194] (1992 No 131) 
     
     Human Rights Commission Amendment Act 1992 (1992 No 16): section 21
     
@@ -2289,43 +2303,44 @@ Amendments to other Acts and Regulations
 [151]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245321
 [152]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245323
 [153]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1515797
-[154]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245324
-[155]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM426872
-[156]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1523176
-[157]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401696
-[158]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107357
-[159]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM277113
-[160]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM408535
-[161]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107358
-[162]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379185
-[163]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379188
-[164]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107363
-[165]: http://www.legislation.govt.nz/act/public/1989/0010/latest/whole.html#DLM144069
-[166]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379479
-[167]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379189
-[168]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379489
-[169]: http://www.legislation.govt.nz/act/public/1989/0010/latest/whole.html#DLM144073
-[170]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379139
-[171]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM286933
-[172]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245325
-[173]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401900
-[174]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107369
-[175]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM386232
-[176]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM446000
-[177]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM130334
-[178]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM325263
-[179]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401042
-[180]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM143291
-[181]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM407677
-[182]: http://www.pco.parliament.govt.nz/reprints/
-[183]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195439
-[184]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[185]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195468
-[186]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195470
-[187]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM3043113
-[188]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245310
-[189]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM91218
-[190]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM426866
-[191]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM212164
-[192]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM406374
-[193]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM286926
+[154]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM3360714
+[155]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245324
+[156]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM426872
+[157]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1523176
+[158]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401696
+[159]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107357
+[160]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM277113
+[161]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM408535
+[162]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107358
+[163]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379185
+[164]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379188
+[165]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107363
+[166]: http://www.legislation.govt.nz/act/public/1989/0010/latest/whole.html#DLM144069
+[167]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379479
+[168]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379189
+[169]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379489
+[170]: http://www.legislation.govt.nz/act/public/1989/0010/latest/whole.html#DLM144073
+[171]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM379139
+[172]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM286933
+[173]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245325
+[174]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401900
+[175]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM1107369
+[176]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM386232
+[177]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM446000
+[178]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM130334
+[179]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM325263
+[180]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM401042
+[181]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM143291
+[182]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM407677
+[183]: http://www.pco.parliament.govt.nz/reprints/
+[184]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195439
+[185]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[186]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195468
+[187]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM195470
+[188]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM3043113
+[189]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM245310
+[190]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM91218
+[191]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM426866
+[192]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM212164
+[193]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM406374
+[194]: http://www.legislation.govt.nz/act/public/1989/0010/latest/link.aspx?id=DLM286926
