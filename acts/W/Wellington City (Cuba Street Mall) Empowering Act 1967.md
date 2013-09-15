@@ -1,5 +1,5 @@
 Reprint  
-as at 24 June 1967
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -71,7 +71,9 @@ An Act to enable the Wellington City Council to set aside part of Cuba Street, W
 
 ##### 4 Offences
     
-*   Any person who drives or parks any vehicle or causes or permits any vehicle to be driven or parked in contravention of an order made under [section 3][5] commits an offence and shall be liable on summary conviction to a fine not exceeding 10 pounds.
+*   Any person who drives or parks any vehicle or causes or permits any vehicle to be driven or parked in contravention of an order made under [section 3][5] commits an offence and shall be liable on conviction to a fine not exceeding 10 pounds.
+    
+    Section 4: amended, on 1 July 2013, by [section 413][8] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -89,23 +91,23 @@ An Act to enable the Wellington City Council to set aside part of Cuba Street, W
 
 ###### 1 General
     
-*   This is a reprint of the Wellington City (Cuba Street Mall) Empowering Act 1967\. The reprint incorporates all the amendments to the Act as at 24 June 1967, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Wellington City (Cuba Street Mall) Empowering Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][8] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][9] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][9] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][10] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][10] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][11] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][11] and [17E][12] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][12] and [17E][13] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -136,7 +138,7 @@ An Act to enable the Wellington City Council to set aside part of Cuba Street, W
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][8]
 
 
 
@@ -148,8 +150,9 @@ An Act to enable the Wellington City Council to set aside part of Cuba Street, W
 [5]: http://www.legislation.govt.nz/act/local/1967/0001/latest/whole.html#DLM64621
 [6]: http://www.legislation.govt.nz/act/local/1967/0001/latest/whole.html#DLM64622
 [7]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM341197
-[8]: http://www.pco.parliament.govt.nz/reprints/
-[9]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195439
-[10]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[11]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195468
-[12]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195470
+[8]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM3360714
+[9]: http://www.pco.parliament.govt.nz/reprints/
+[10]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195439
+[11]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[12]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195468
+[13]: http://www.legislation.govt.nz/act/local/1967/0001/latest/link.aspx?id=DLM195470
