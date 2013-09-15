@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -15,19 +15,17 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][1] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[Title][2]
-
-\[Repealed\]
+[Title][2] \[Repealed\]
 
 [1][3][][3][Short Title and commencement][3]
 
@@ -388,7 +386,7 @@ This Act is administered by the Ministry of Economic Development.
 
 [36P][176][][176][Registered exchange must not operate new market if proposed conduct rules or changes not approved][176] \[Repealed\]
 
-[36Q][177][][177][Conduct rules must be available for public inspection][177]
+[36Q][177][][177][Conduct rules must be available for public inspection][177] \[Repealed\]
 
 [36R][178][][178][Application of Acts relating to regulations to conduct rules][178] \[Repealed\]
 
@@ -789,7 +787,7 @@ This Act is administered by the Ministry of Economic Development.
 
 [Subpart 6][365][---][365][General][365]
 
-[43U][366][][366][Time for laying information for summary offences][366]
+[43U][366][][366][Time for filing charging document for certain offences][366]
 
 [43V][367][][367][Evidence not otherwise admissible][367]
 
@@ -874,9 +872,7 @@ This Act is administered by the Ministry of Economic Development.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 1 December 2002, by [section 3][407] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
@@ -2827,7 +2823,7 @@ Registered markets
 
 ##### 36E Power to exempt securities markets and futures markets from Part 2 and this Part
     
-*   (1) The Minister may, by notice in the _Gazette_, exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of [Part 2][66] and this Part.
+*   (1) The Minister may exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of [Part 2][66] and this Part.
     
     (2) The exemption may be on any terms or conditions that the Minister thinks fit.
     
@@ -2849,25 +2845,55 @@ Registered markets
     
     (5) The Minister may vary an exemption in the same way as the exemption may be granted under this section.
     
-    (6) The Minister may, by notice in the _Gazette_, revoke an exemption granted under this section.
+    (6) The Minister may revoke an exemption granted under this section.
+    
+    (7) An exemption under this section is a disallowable instrument under the [Legislation Act 2012][464] and must be presented to the House of Representatives under [section 41][465] of that Act.
+    
+    (8) A class exemption under this section must be published under [section 6][466] of the Legislation Act 2012 and, for this purpose, _class exemption_---
+        
+    *   (a) means an exemption of general application that applies to a class of securities markets or class of futures markets; but
+    
+    *   (b) does not include an exemption granted in relation to a particular securities market or futures market.
+    
+    (9) An exemption that is not a class exemption under subsection (8) must, as soon as practicable after being granted, be---
+        
+    *   (a) published on an Internet site maintained by or on behalf of the FMA; and
+    
+    *   (b) notified in the _Gazette_; and
+    
+    *   (c) made available in printed form for purchase on request by members of the public.
+    
+    (10) A notification in the _Gazette_ for the purpose of subsection (9)(b) does not have to incorporate the exemption.
     
     Section 36E: inserted, on 1 December 2002, by [section 20][460] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 36E heading: amended, on 1 May 2011, by [section 14(1)][464] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36E heading: amended, on 1 May 2011, by [section 14(1)][467] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 36E heading: amended, on 24 November 2009, by [section 6(1)][465] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36E heading: amended, on 24 November 2009, by [section 6(1)][468] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 36E(1): substituted, on 24 November 2009, by [section 6(2)][465] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36E(1): substituted, on 24 November 2009, by [section 6(2)][468] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 36E(1): amended, on 1 May 2011, by [section 14(2)][464] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36E(1): amended, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
     
-    Section 36E(2A): inserted, on 1 May 2011, by [section 14(3)][464] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36E(1): amended, on 1 May 2011, by [section 14(2)][467] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 36E(2A): inserted, on 1 May 2011, by [section 14(3)][467] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 36E(4): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 36E(6): amended, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36E(7): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36E(8): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36E(9): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36E(10): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 #### How to obtain registration of market
     
-*   Heading: substituted, on 1 May 2011, by [section 15][466] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: substituted, on 1 May 2011, by [section 15][470] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36F Application for market registration
     
@@ -2899,7 +2925,7 @@ Registered markets
     
     *   (c) approval, under [sections 36K][169] and [36L][170], of the proposed market rules provided under subsection (2)(a)(i) for the market.
     
-    Section 36F: substituted, on 1 May 2011, by [section 15][466] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36F: substituted, on 1 May 2011, by [section 15][470] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36FA Notification of market registration
     
@@ -2909,7 +2935,9 @@ Registered markets
     
     *   (b) must identify the proposed market rules approved for the market (if any), and must identify the existing market rules that apply to the market (if any), but need not incorporate them; and
     
-    *   (c) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][467] (but not for the purposes of the [Acts and Regulations Publication Act 1989][468]); and
+    *   (c) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][464]; and
+    
+    *   (ca) must be presented to the House of Representatives under [section 41][465] of that Act; and
     
     *   (d) must, as soon as practicable after it is given, be---
             
@@ -2921,11 +2949,15 @@ Registered markets
     
     (2) A notice of market registration may relate to more than 1 market.
     
-    Section 36FA: inserted, on 1 May 2011, by [section 15][466] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36FA: inserted, on 1 May 2011, by [section 15][470] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 36FA(1)(c): replaced, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36FA(1)(ca): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 #### Restrictions on registered exchanges
     
-*   Heading: inserted, on 1 May 2011, by [section 15][466] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 15][470] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36FB No operation by registered exchange of unregistered market
     
@@ -2933,11 +2965,11 @@ Registered markets
     
     (2) Every person who acts in contravention of subsection (1) commits an offence (_see_ [section 43B(2)][342] for the maximum penalty of a $10,000 fine per day).
     
-    Section 36FB: inserted, on 1 May 2011, by [section 15][466] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36FB: inserted, on 1 May 2011, by [section 15][470] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ### Subpart 1A---Market rules
     
-*   Subpart 1A heading: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Subpart 1A heading: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36FC Purpose and criteria applying under this subpart
     
@@ -2959,11 +2991,11 @@ Registered markets
     
     (3) The FMA must determine the weight to be given to each criterion in relation to the rules for any particular market, having regard to the nature of that market.
     
-    Section 36FC: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36FC: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Key requirements
     
-*   Heading: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36G Registered markets must be operated under market rules that comply with this subpart
     
@@ -2975,9 +3007,9 @@ Registered markets
     
     (2) A registered exchange that acts in contravention of subsection (1) commits an offence (_see_ [section 43B(2)][342] for the maximum penalty of a $10,000 fine per day).
     
-    Compare: 1988 No 234 [s 36G][470]
+    Compare: 1988 No 234 [s 36G][472]
     
-    Section 36G: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36G: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36H Required matters for market rules
     
@@ -3019,25 +3051,25 @@ Registered markets
     
     *   (d) relate to the monitoring and enforcement of those rules.
     
-    Compare: 1988 No 234 [s 36H][471]
+    Compare: 1988 No 234 [s 36H][473]
     
-    Section 36H: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36H: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36I When market rules have effect
     
 *   A market rule, or part of a market rule, for a registered market has no effect, either in contract or for the purposes of [section 36G][163], until it has been approved by the FMA under [section 36L][170].
     
-    Section 36I: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36I: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Process for approving proposed market rules and changes to market rules
     
-*   Heading: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36IA Application of process for approving proposed market rules and changes
     
 *   [Sections 36K][169] and [36L][170] apply to proposed market rules provided to the FMA by an applicant under [section 36F][156] and proposed changes to market rules provided to the FMA by a registered exchange under [section 36J][168].
     
-    Section 36IA: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36IA: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36J Registered exchange must provide proposed changes to FMA
     
@@ -3045,9 +3077,9 @@ Registered markets
     
     (2) A _change_, in relation to the market rules for a registered market for the purposes of this subpart, includes a new market rule and an amendment to, and a revocation or cancellation of, an existing market rule.
     
-    Compare: 1988 No 234 [s 36J][472]
+    Compare: 1988 No 234 [s 36J][474]
     
-    Section 36J: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36J: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36K Approval process for proposed market rules and changes
     
@@ -3067,7 +3099,9 @@ Registered markets
         
     *   (a) must identify the market rules, change, or changes to which it relates, but need not incorporate them; and
     
-    *   (b) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][467] (but not for the purposes of the [Acts and Regulations Publication Act 1989][468]); and
+    *   (b) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][464]; and
+    
+    *   (ba) must be presented to the House of Representatives under [section 41][465] of that Act; and
     
     *   (c) must, as soon as practicable after it is given, be---
             
@@ -3081,7 +3115,11 @@ Registered markets
     
     (6) The FMA's reasons for a decision under subsection (1)(b) or (c) must be published together with the decision.
     
-    Section 36K: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36K: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 36K(4)(b): replaced, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36K(4)(ba): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 ##### 36L Approval of proposed market rules and changes
     
@@ -3089,7 +3127,7 @@ Registered markets
         
     *   (a) it is not in the public interest to do so after having had regard to---
             
-        *   (i) the consistency of the rules or change with the obligations under [section 36Y][473]; and
+        *   (i) the consistency of the rules or change with the obligations under [section 36Y][475]; and
         
         *   (ii) the criteria stated in [section 36FC][161] and any other matters that it considers relevant; or
         
@@ -3107,15 +3145,15 @@ Registered markets
     
     (2) The FMA must, in considering whether to approve proposed market rules provided under [section 36F][156], take into account any existing market rules that the applicant proposes to also apply to the relevant market.
     
-    Section 36L: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36L: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Power to request changes to market rules
     
-*   Heading: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36M Power for FMA to request changes to market rules on certain matters
     
-*   (1) The FMA may, if it considers it necessary or desirable to promote any of the criteria set out in [section 36FC][161] or the meeting of any of the obligations set out in [section 36Y][473], request a registered exchange to prepare a draft change to the market rules for any of its registered markets on a matter specified in a written notice to the registered exchange.
+*   (1) The FMA may, if it considers it necessary or desirable to promote any of the criteria set out in [section 36FC][161] or the meeting of any of the obligations set out in [section 36Y][475], request a registered exchange to prepare a draft change to the market rules for any of its registered markets on a matter specified in a written notice to the registered exchange.
     
     (2) The FMA may make a request under subsection (1) only---
         
@@ -3141,11 +3179,11 @@ Registered markets
     
     (4) This section does not allow the FMA to request a draft market rule or change on a matter that is not within the matters set out in [section 36H][164].
     
-    Section 36M: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36M: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Miscellaneous provisions on market rules
     
-*   Heading: inserted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36N Market rules must be available for public inspection
     
@@ -3157,33 +3195,39 @@ Registered markets
     
     (2) A registered exchange that fails to comply with subsection (1) commits an offence (_see_ [section 43B][342] for the maximum penalty of a $5,000 fine).
     
-    Compare: 1988 No 234 [s 36Q][474]
+    Compare: 1988 No 234 [s 36Q][476]
     
-    Section 36N: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36N: substituted, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36O Application of Acts relating to regulations to contractual market rules
     
-*   To avoid doubt, market rules are not regulations for the purposes of the [Regulations (Disallowance) Act 1989][467] and the [Acts and Regulations Publication Act 1989][468] or for any other purpose.
+*   To avoid doubt, market rules are not---
+        
+    *   (a) regulations for any purpose; or
     
-    Compare: 1988 No 234 [s 36R][475]
+    *   (b) legislative instruments or disallowable instruments for the purposes of the [Legislation Act 2012][464].
     
-    Section 36O: substituted, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Compare: 1988 No 234 [s 36R][477]
+    
+    Section 36O: replaced, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 ##### 36P Registered exchange must not operate new market if proposed conduct rules or changes not approved
     
 *   \[Repealed\]
     
-    Section 36P: repealed, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36P: repealed, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36Q Conduct rules must be available for public inspection
+
+\[Repealed\]
     
-*   Section 36Q: repealed, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Section 36Q: repealed, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36R Application of Acts relating to regulations to conduct rules
     
 *   \[Repealed\]
     
-    Section 36R: repealed, on 1 May 2011, by [section 16][469] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36R: repealed, on 1 May 2011, by [section 16][471] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ### Subpart 1B---Control limits for registered exchanges
     
@@ -3305,22 +3349,22 @@ Registered markets
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 May 2011, by [section 18][476] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: repealed, on 1 May 2011, by [section 18][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36X Overseas exchanges
     
 *   \[Repealed\]
     
-    Section 36X: repealed, on 1 May 2011, by [section 18][476] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36X: repealed, on 1 May 2011, by [section 18][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ### Subpart 2---Obligations and oversight in respect of registered markets
     
 *   Subpart 2: inserted, on 1 December 2002, by [section 20][460] of the Securities Markets Amendment Act 2002 (2002 No 44).
-*   Subpart 2 heading: substituted, on 1 May 2011, by [section 19][477] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Subpart 2 heading: substituted, on 1 May 2011, by [section 19][479] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### General obligations in respect of registered markets
     
-*   Heading: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36Y General obligations in respect of registered markets
     
@@ -3342,7 +3386,7 @@ Registered markets
     
     *   (c) have sufficient resources (including financial, technological, and human resources) to operate its registered markets properly.
     
-    Section 36Y: substituted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36Y: substituted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YA Registered exchange must give annual report to FMA
     
@@ -3352,7 +3396,7 @@ Registered markets
     
     (3) The FMA and the registered exchange may, on the terms and conditions that they think fit, agree that the first annual report and the first review under [section 36YB][191] relate to a period prior to the commencement of this section.
     
-    Section 36YA: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YA: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YB FMA may carry out general obligations review
     
@@ -3366,11 +3410,11 @@ Registered markets
     
     *   (b) must, after carrying out the review, provide a draft written report on its review to the registered exchange and take into account any submissions made by the exchange within the reasonable period for submissions specified by the FMA.
     
-    (4) The FMA must not carry out a review of a designated settlement system (within the meaning of [section 156M(1)][479] of the Reserve Bank of New Zealand Act 1989) of a registered exchange under this section (but nothing in this subsection prevents a review under that Act being carried on in conjunction with a review under this section).
+    (4) The FMA must not carry out a review of a designated settlement system (within the meaning of [section 156M(1)][481] of the Reserve Bank of New Zealand Act 1989) of a registered exchange under this section (but nothing in this subsection prevents a review under that Act being carried on in conjunction with a review under this section).
     
     (5) The first review of a financial year under subsection (2) may relate to the period covered by the first annual report provided under [section 36YA][190].
     
-    Section 36YB: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YB: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YC FMA must make written report on general obligations review
     
@@ -3382,9 +3426,9 @@ Registered markets
     
     (2) The FMA must also publish the written report on the review on an Internet site maintained by or on behalf of the FMA.
     
-    (3) However, the FMA may, in publishing the written report of its review, omit from the published report any information for which it considers there would be a good reason for withholding under the [Official Information Act 1982][480] if a request for that information were made under that Act.
+    (3) However, the FMA may, in publishing the written report of its review, omit from the published report any information for which it considers there would be a good reason for withholding under the [Official Information Act 1982][482] if a request for that information were made under that Act.
     
-    Section 36YC: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YC: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YD FMA may require registered exchange to submit action plan on failure to meet general obligations
     
@@ -3414,7 +3458,7 @@ Registered markets
         
         
     
-    Section 36YD: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YD: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YE Approval, amendment, or rejection of action plan
     
@@ -3442,7 +3486,7 @@ Registered markets
     
     (4) An action plan that has been approved by the FMA may be varied at any time by agreement between the registered exchange and the FMA.
     
-    Section 36YE: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YE: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36YF Minister may give general obligation direction to registered exchange
     
@@ -3470,13 +3514,13 @@ Registered markets
     
     (3) The registered exchange must comply with the direction.
     
-    Section 36YF: inserted, on 1 May 2011, by [section 20][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36YF: inserted, on 1 May 2011, by [section 20][480] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36Z Offence for breach of terms or conditions of authorisation
     
 *   \[Repealed\]
     
-    Section 36Z: repealed, on 1 May 2011, by [section 18][476] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36Z: repealed, on 1 May 2011, by [section 18][478] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Enforcement of prohibition of certain statements relating to exchanges
 
@@ -3528,11 +3572,11 @@ Registered markets
     
     Section 36ZD(1): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZD(1)(a): amended, on 1 May 2011, by [section 21(1)][481] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZD(1)(a): amended, on 1 May 2011, by [section 21(1)][483] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 36ZD(1)(b)(i): amended, on 1 May 2011, by [section 21(1)][481] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZD(1)(b)(i): amended, on 1 May 2011, by [section 21(1)][483] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 36ZD(2): added, on 1 May 2011, by [section 21(2)][481] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZD(2): added, on 1 May 2011, by [section 21(2)][483] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZE When notification required
     
@@ -3564,7 +3608,7 @@ Registered markets
 
 #### Real-time surveillance information
     
-*   Heading: inserted, on 1 May 2011, by [section 22][482] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 22][484] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZFA Registered exchange must ensure FMA has access to real-time trading and other information
     
@@ -3572,7 +3616,7 @@ Registered markets
     
     (2) The FMA must pay all reasonable costs of the registered exchange in providing the information under this section.
     
-    Section 36ZFA: inserted, on 1 May 2011, by [section 22][482] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZFA: inserted, on 1 May 2011, by [section 22][484] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Disclosure of material information
     
@@ -3586,7 +3630,7 @@ Registered markets
     
     Section 36ZG heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZG: amended, on 1 May 2011, by [section 23][483] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZG: amended, on 1 May 2011, by [section 23][485] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 36ZG: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -3692,7 +3736,7 @@ Registered markets
     
     Section 36ZM: inserted, on 1 December 2002, by [section 20][460] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 36ZM(1)(a): amended, on 1 May 2011, by [section 24][484] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZM(1)(a): amended, on 1 May 2011, by [section 24][486] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 39ZM(1)(c): amended, on 29 February 2008, by [section 14][442] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
@@ -3740,17 +3784,17 @@ Registered markets
     
     Section 36ZO heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZO(1): amended, on 1 May 2011, by [section 25(1)][485] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZO(1): amended, on 1 May 2011, by [section 25(1)][487] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 36ZO(1): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 36ZO(2): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZO(2)(a): substituted, on 24 November 2009, by [section 15][486] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36ZO(2)(a): substituted, on 24 November 2009, by [section 15][488] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 36ZO(2)(a)(ii): amended, on 1 May 2011, by [section 25(2)][485] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZO(2)(a)(ii): amended, on 1 May 2011, by [section 25(2)][487] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 36ZO(3): amended, on 1 May 2011, by [section 25(3)][485] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZO(3): amended, on 1 May 2011, by [section 25(3)][487] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 36ZO(3): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -3802,9 +3846,9 @@ Registered markets
     
     Section 36ZQ: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZQ(a): substituted, on 24 November 2009, by [section 16][487] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36ZQ(a): substituted, on 24 November 2009, by [section 16][489] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 36ZQ(a)(ii): amended, on 1 May 2011, by [section 26][488] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZQ(a)(ii): amended, on 1 May 2011, by [section 26][490] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZR Notice, opportunity for exchange to act, and submissions before FMA gives directions
     
@@ -3840,7 +3884,7 @@ Registered markets
     
     Section 36ZR heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZR(1): substituted, on 24 November 2009, by [section 17][489] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36ZR(1): substituted, on 24 November 2009, by [section 17][491] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 36ZR(1)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -3890,7 +3934,7 @@ Registered markets
     
     Section 36ZT: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 36ZT(a): amended, on 24 November 2009, by [section 18][490] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 36ZT(a): amended, on 24 November 2009, by [section 18][492] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 36ZT(b): substituted, on 1 May 2011, by [section 82][425] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -3948,13 +3992,13 @@ Registered markets
     
     Section 36ZX: inserted, on 1 December 2002, by [section 20][460] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 36ZX(1): substituted, on 1 May 2011, by [section 27][491] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZX(1): substituted, on 1 May 2011, by [section 27][493] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 36ZX(2): substituted, on 29 February 2008, by [section 14][442] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ### Subpart 3---Overseas exchanges
     
-*   Subpart 3: inserted, on 1 May 2011, by [section 28][492] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Subpart 3: inserted, on 1 May 2011, by [section 28][494] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZY Overseas exchanges
     
@@ -3982,9 +4026,9 @@ Registered markets
     
     (4) This Act (other than [subpart 1B][179] of this Part) and every other enactment, applies to a body corporate authorised to operate a market under this section as if the relevant market were a registered market and the body corporate were a registered exchange holding that market registration under [section 36F][156] (except as specified under subsection (2)).
     
-    Compare: 1988 No 234 [s 36X][493]
+    Compare: 1988 No 234 [s 36X][495]
     
-    Section 36ZY: inserted, on 1 May 2011, by [section 28][492] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZY: inserted, on 1 May 2011, by [section 28][494] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZYA Revocation or amendment of authorisation
     
@@ -3996,15 +4040,15 @@ Registered markets
     
     *   (b) it is satisfied that it is in the public interest to do so.
     
-    Section 36ZYA: inserted, on 1 May 2011, by [section 28][492] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZYA: inserted, on 1 May 2011, by [section 28][494] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 36ZYB Offence for breach of terms or conditions of authorisation
     
 *   Every person who acts in contravention of a term or condition of an authorisation granted under [section 36ZY][233] commits an offence (_see_ [section 43B][342] for the maximum penalty of a $10,000 fine per day).
     
-    Compare: 1988 No 234 [s 36Z][494]
+    Compare: 1988 No 234 [s 36Z][496]
     
-    Section 36ZYB: inserted, on 1 May 2011, by [section 28][492] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 36ZYB: inserted, on 1 May 2011, by [section 28][494] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ## Part 3  
 Dealing in futures contracts
@@ -4045,7 +4089,7 @@ Dealing in futures contracts
     
     _emissions units_ means---
         
-    *   (a) units as defined in [section 4(1)][495] of the Climate Change Response Act 2002; and
+    *   (a) units as defined in [section 4(1)][497] of the Climate Change Response Act 2002; and
     
     *   (b) personal property that---
             
@@ -4093,9 +4137,9 @@ Dealing in futures contracts
     
     *   (f) an agreement, option or right which is of a class of agreements, options or rights declared by the FMA, in accordance with this section, to be a class to which this Act or any Part of this Act applies
     
-    _greenhouse gas_ has the meaning set out in [section 31][496] of the Climate Change Response Act 2002
+    _greenhouse gas_ has the meaning set out in [section 31][498] of the Climate Change Response Act 2002
     
-    _registered bank_ has the same meaning as in [section 2][497] of the Reserve Bank of New Zealand Act 1989\.
+    _registered bank_ has the same meaning as in [section 2][499] of the Reserve Bank of New Zealand Act 1989\.
     
     (2) For the purposes of this Act, none of the following agreements or contracts is a futures contract:
         
@@ -4165,69 +4209,73 @@ Dealing in futures contracts
     
     (10) The FMA may, by notice in the _Gazette_, vary or revoke any declaration made under this section.
     
-    Section 37(1) **authorised dealer in foreign exchange**: repealed, on 3 June 1998, by [section 2(1)(a)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    (11) Declarations to which subsection (7)(b) applies (but no other declarations made under this section) are legislative instruments for the purposes of the [Legislation Act 2012][464], and all declarations made under this section are disallowable instruments for the purposes of that Act and must be presented to the House of Representatives under [section 41][465] of that Act.
     
-    Section 37(1) **authorised futures contract** paragraph (a): amended, on 1 May 2011, by [section 29(1)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(1) **authorised dealer in foreign exchange**: repealed, on 3 June 1998, by [section 2(1)(a)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(1) **authorised futures contract** paragraph (b): amended, on 3 June 1998, by [section 2(1)(b)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(1) **authorised futures contract** paragraph (a): amended, on 1 May 2011, by [section 29(1)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37(1) **authorised futures contract** paragraph (c): amended, on 3 June 1998, by [section 2(1)(c)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(1) **authorised futures contract** paragraph (b): amended, on 3 June 1998, by [section 2(1)(b)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(1) **authorised futures exchange**: substituted, on 1 May 2011, by [section 29(2)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(1) **authorised futures contract** paragraph (c): amended, on 3 June 1998, by [section 2(1)(c)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(1) **authorised futures market**: inserted, on 1 May 2011, by [section 29(2)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(1) **authorised futures exchange**: substituted, on 1 May 2011, by [section 29(2)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37(1) **commodity**: amended, on 24 November 2009, by [section 19(3)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(1) **authorised futures market**: inserted, on 1 May 2011, by [section 29(2)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37(1) **emissions units**: inserted, on 24 November 2009, by [section 19(6)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(1) **commodity**: amended, on 24 November 2009, by [section 19(3)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    
+    Section 37(1) **emissions units**: inserted, on 24 November 2009, by [section 19(6)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 37(1) **futures contract** paragraph (e): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 37(1) **futures contract** paragraph (e): amended, on 24 November 2009, by [section 19(4)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(1) **futures contract** paragraph (e): amended, on 24 November 2009, by [section 19(4)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 37(1) **futures contract** paragraph (f): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 37(1) **futures contract** paragraph (f): amended, on 24 November 2009, by [section 19(5)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(1) **futures contract** paragraph (f): amended, on 24 November 2009, by [section 19(5)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 37(1) **greenhouse gas**: inserted, on 24 November 2009, by [section 19(6)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(1) **greenhouse gas**: inserted, on 24 November 2009, by [section 19(6)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 37(1) **registered bank**: amended, on 3 June 1998, by [section 2(1)(d)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(1) **registered bank**: amended, on 3 June 1998, by [section 2(1)(d)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(2): amended, on 24 November 2009, by [section 19(7)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(2): amended, on 24 November 2009, by [section 19(7)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 37(2)(a): amended, on 3 June 1998, by [section 2(2)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(2)(a): amended, on 3 June 1998, by [section 2(2)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(2)(b): amended, on 3 June 1998, by [section 2(2)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(2)(b): amended, on 3 June 1998, by [section 2(2)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(2)(c): amended, on 3 June 1998, by [section 2(2)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(2)(c): amended, on 3 June 1998, by [section 2(2)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
-    Section 37(2)(d): amended, on 3 June 1998, by [section 2(2)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(2)(d): amended, on 3 June 1998, by [section 2(2)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
     Section 37(5)(e): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 37(7): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 37(7)(a): amended, on 24 November 2009, by [section 19(8)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(7)(a): amended, on 24 November 2009, by [section 19(8)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 37(7)(b): amended, on 24 November 2009, by [section 19(8)][500] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 37(7)(b): amended, on 24 November 2009, by [section 19(8)][502] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 37(8): amended, on 1 May 2011, by [section 29(3)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(8): amended, on 1 May 2011, by [section 29(3)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 37(8): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 37(8): amended, on 1 December 2002, by [section 21(2)][501] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37(8): amended, on 1 December 2002, by [section 21(2)][503] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 37(8AA): inserted, on 1 May 2011, by [section 29(4)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(8AA): inserted, on 1 May 2011, by [section 29(4)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37(8AB): inserted, on 1 May 2011, by [section 29(4)][499] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37(8AB): inserted, on 1 May 2011, by [section 29(4)][501] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37(8A): inserted, on 1 December 2002, by [section 21(3)][501] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37(8A): inserted, on 1 December 2002, by [section 21(3)][503] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 37(9): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 37(10): added, on 3 June 1998, by [section 2(3)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 37(10): added, on 3 June 1998, by [section 2(3)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
     Section 37(10): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 37(11): inserted, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 ##### 37A No holding out as futures exchange unless authorised under this Part
     
@@ -4257,13 +4305,13 @@ Dealing in futures contracts
     
     (3) Every person who acts in contravention of subsection (1) commits an offence (_see_ [section 43C][343] for the maximum penalty of a $10,000 fine per day).
     
-    Section 37A: inserted, on 1 December 2002, by [section 22][502] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37A: inserted, on 1 December 2002, by [section 22][504] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 37A(1)(b)(ii): amended, on 1 May 2011, by [section 30(1)][503] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37A(1)(b)(ii): amended, on 1 May 2011, by [section 30(1)][505] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37A(2): substituted, on 1 May 2011, by [section 30(2)][503] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37A(2): substituted, on 1 May 2011, by [section 30(2)][505] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37A(2A): inserted, on 1 May 2011, by [section 30(2)][503] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37A(2A): inserted, on 1 May 2011, by [section 30(2)][505] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 37A(3): amended, on 29 February 2008, by [section 14][442] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
@@ -4277,7 +4325,7 @@ Dealing in futures contracts
     
     (2) Every person who acts in contravention of subsection (1) commits an offence (_see_ [section 43C][343] for the maximum penalty of a $10,000 fine per day).
     
-    Section 37B: inserted, on 1 December 2002, by [section 22][502] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37B: inserted, on 1 December 2002, by [section 22][504] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 37B(2): amended, on 29 February 2008, by [section 14][442] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
@@ -4301,11 +4349,11 @@ Dealing in futures contracts
     
     (6) The Minister may, by notice in the _Gazette_, revoke an exemption granted under this section.
     
-    Section 37C: inserted, on 1 December 2002, by [section 22][502] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37C: inserted, on 1 December 2002, by [section 22][504] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
-    Section 37C(1)(c): amended, on 1 May 2011, by [section 31(1)][504] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37C(1)(c): amended, on 1 May 2011, by [section 31(1)][506] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 37C(1)(c): amended, on 1 May 2011, by [section 31(2)][504] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37C(1)(c): amended, on 1 May 2011, by [section 31(2)][506] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 37C(4): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -4335,7 +4383,7 @@ Dealing in futures contracts
     
     (3) A failure to comply with subsection (2) does not invalidate any notice published under [section 37C][240].
     
-    Section 37D: inserted, on 1 December 2002, by [section 22][502] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 37D: inserted, on 1 December 2002, by [section 22][504] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 37D(2)(a)(ii): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -4345,7 +4393,7 @@ Dealing in futures contracts
     
     (2) Every person who acts in contravention of subsection (1) commits an offence (_see_ [section 43C][343] for the maximum penalty of a $10,000 fine per day).
     
-    Section 37E: inserted, on 1 May 2011, by [section 32][505] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 37E: inserted, on 1 May 2011, by [section 32][507] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 38 Dealers in futures contracts to be authorised
     
@@ -4377,27 +4425,27 @@ Dealing in futures contracts
     
     (4) For the purposes of subsection (1)(b), _rules_, in relation to an authorised futures exchange that is a registered exchange (or subsidiary of a registered exchange), means market rules.
     
-    Section 38(1): substituted, on 24 November 2009, by [section 20(1)][506] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 38(1): substituted, on 24 November 2009, by [section 20(1)][508] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 38(1)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 38(1A): inserted, on 24 November 2009, by [section 20(1)][506] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 38(1A): inserted, on 24 November 2009, by [section 20(1)][508] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 38(2): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 38(2): amended, on 24 November 2009, by [section 20(2)][506] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 38(2): amended, on 24 November 2009, by [section 20(2)][508] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
     Section 38(2): amended, on 2 September 1996, by section 3(2) of the Sharebrokers Amendment Act 1996 (1996 No 144).
     
-    Section 38(3): added, on 3 June 1998, by [section 2(4)][498] of the Securities Amendment Act 1998 (1998 No 59).
+    Section 38(3): added, on 3 June 1998, by [section 2(4)][500] of the Securities Amendment Act 1998 (1998 No 59).
     
     Section 38(3): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 38(3): amended, on 24 November 2009, by [section 20(3)][506] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 38(3): amended, on 24 November 2009, by [section 20(3)][508] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 38(4): added, on 24 November 2009, by [section 20(4)][506] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 38(4): added, on 24 November 2009, by [section 20(4)][508] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 38(4): amended, on 1 May 2011, by [section 33][507] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 38(4): amended, on 1 May 2011, by [section 33][509] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 39 Contravention of section 38 an offence
     
@@ -4407,7 +4455,7 @@ Dealing in futures contracts
 
 ##### 40 Effect of certain laws on authorised futures contracts and other contracts
     
-*   (1) Nothing in the [Gambling Act 2003][508] applies to, or in respect of,---
+*   (1) Nothing in the [Gambling Act 2003][510] applies to, or in respect of,---
         
     *   (a) an authorised futures contract; or
     
@@ -4417,9 +4465,9 @@ Dealing in futures contracts
     
     (3) A contravention of this Part does not affect the validity or enforceability of a contract referred to in subsection (1).
     
-    Section 40: substituted, on 28 July 1997, by [section 10(2)][509] of the Securities Amendment Act (No 2) 1997 (1997 No 54).
+    Section 40: substituted, on 28 July 1997, by [section 10(2)][511] of the Securities Amendment Act (No 2) 1997 (1997 No 54).
     
-    Section 40(1): amended, on 1 July 2004, by [section 374][510] of the Gambling Act 2003 (2003 No 51).
+    Section 40(1): amended, on 1 July 2004, by [section 374][512] of the Gambling Act 2003 (2003 No 51).
 
 ## Part 4  
 Investment advisers and brokers
@@ -4621,16 +4669,16 @@ Investment advisers and brokers
 ## Part 5  
 Enforcement and remedies
     
-*   Part 5 heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Part 5 heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ### Subpart 1---FMA's enforcement powers
     
-*   Subpart 1 heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 1 heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 *   Subpart 1 heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Prohibition and corrective orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42 When FMA may make prohibition and corrective orders
     
@@ -4644,7 +4692,7 @@ Enforcement and remedies
     
     *   (d) [section 37A(1)][238] (no holding out as futures exchange unless authorised) or an exemption from that section.
     
-    Section 42: substituted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42: substituted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42 heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4656,11 +4704,11 @@ Enforcement and remedies
     
     (2) A corrective order may direct the person in contravention to publish, at the person's own expense, in the manner and at the times specified in the order, corrective statements that are specified in, or are to be determined in accordance with, the order.
     
-    Section 42A: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42A: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Disclosure orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42B When FMA may make disclosure orders
     
@@ -4674,7 +4722,7 @@ Enforcement and remedies
     
     *   (d) \[Repealed\]
     
-    Section 42B: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42B: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42B heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4690,11 +4738,11 @@ Enforcement and remedies
     
     *   (b) to publish, at the person's own expense, in the manner and at the times specified in the order, corrective statements that are specified in, or are to be determined in accordance with, the order.
     
-    Section 42C: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42C: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Temporary investment adviser and broker banning orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42D When FMA may make temporary banning orders for investment adviser or broker activities
     
@@ -4710,13 +4758,13 @@ Enforcement and remedies
 
 #### Unsolicited offer orders
     
-*   Heading: inserted, on 1 May 2011, by [section 34][512] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 34][514] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42EA When FMA may make unsolicited offer orders
     
 *   The FMA may make an unsolicited offer order in accordance with this subpart if the FMA is satisfied that a person has acted, is acting, or intends to act in contravention of an unsolicited offer obligation or exemption.
     
-    Section 42EA: inserted, on 1 May 2011, by [section 34][512] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42EA: inserted, on 1 May 2011, by [section 34][514] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42EB Terms of unsolicited offer orders
     
@@ -4734,11 +4782,11 @@ Enforcement and remedies
     
     (2) An unsolicited offer order may be directed at any person.
     
-    Section 42EB: inserted, on 1 May 2011, by [section 34][512] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42EB: inserted, on 1 May 2011, by [section 34][514] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Process for FMA's orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 *   Heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 42F FMA must follow steps before making orders
@@ -4775,7 +4823,7 @@ Enforcement and remedies
     
     (2) However, the FMA may shorten these steps in accordance with [section 42G][295] for an order specified in that section.
     
-    Section 42F: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42F: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42F heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4783,7 +4831,7 @@ Enforcement and remedies
     
     Section 42F(1)(c)(i): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 42F(1)(c)(ii): amended, on 1 May 2011, by [section 35][513] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42F(1)(c)(ii): amended, on 1 May 2011, by [section 35][515] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 42F(1)(c)(ii): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4819,7 +4867,7 @@ Enforcement and remedies
     
     *   (e) an unsolicited offer order.
     
-    Section 42G: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42G: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42G heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4831,7 +4879,7 @@ Enforcement and remedies
     
     Section 42G(3)(b): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 42G(3)(e): added, on 1 May 2011, by [section 36][514] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42G(3)(e): added, on 1 May 2011, by [section 36][516] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42H FMA must give notice after making orders
     
@@ -4851,7 +4899,7 @@ Enforcement and remedies
     
     (2) The FMA must also, as soon as practicable after the making of a temporary banning order, give notice on its website (and may give public notice by any other means also) of the name of the person against whom the order is made and the period or dates for which the ban applies.
     
-    Section 42H: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42H: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42H heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4861,7 +4909,7 @@ Enforcement and remedies
 
 #### General provisions
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42I General provisions on FMA's orders
     
@@ -4873,7 +4921,7 @@ Enforcement and remedies
     
     (4) An order made under this subpart is subject to appeal only in accordance with [section 47A][383].
     
-    Section 42I: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42I: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42I heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4897,7 +4945,7 @@ Enforcement and remedies
     
     *   (c) the court thinks that the contravention, in the circumstances of the case, ought reasonably to be excused.
     
-    Section 42J: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42J: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42J heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4905,17 +4953,17 @@ Enforcement and remedies
 
 ### Subpart 2---Court's enforcement powers
     
-*   Subpart 2: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 2: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Injunctions
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42K What court may injunct
     
 *   The court may, on application by the FMA or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute a contravention of a provision of this Act.
     
-    Section 42K: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42K: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42K: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -4933,7 +4981,7 @@ Enforcement and remedies
     
     (4) Subsections (1)(b) and (2) apply whether or not the person has previously engaged in conduct of that kind or there is an imminent danger of substantial damage to any other person if that person engages in conduct of that kind.
     
-    Section 42L: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42L: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42M Undertaking as to damages not required by FMA
     
@@ -4941,7 +4989,7 @@ Enforcement and remedies
     
     (2) However, in determining the FMA's application for the grant of an interim injunction, the court must not take into account that the FMA is not required to give an undertaking as to damages.
     
-    Section 42M: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42M: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42M heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -4953,7 +5001,7 @@ Enforcement and remedies
 
 #### Corrective orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42N When court may grant corrective orders
     
@@ -4969,23 +5017,23 @@ Enforcement and remedies
     
     *   (e) an unsolicited offer obligation or exemption.
     
-    Section 42N: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42N: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42N: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 42N(b): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 42N(e): added, on 1 May 2011, by [section 37][515] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42N(e): added, on 1 May 2011, by [section 37][517] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42O Terms of corrective orders
     
 *   A corrective order may direct the person in contravention to publish, at the person's own expense, in the manner and at the times specified in the order, corrective statements that are specified in, or are to be determined in accordance with, the order.
     
-    Section 42O: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42O: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Disclosure orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42P When court may make disclosure orders
     
@@ -4999,13 +5047,13 @@ Enforcement and remedies
     
     *   (d) an unsolicited offer obligation or exemption.
     
-    Section 42P: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42P: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42P: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
     Section 42P(c): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 42P(d): added, on 1 May 2011, by [section 38][516] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42P(d): added, on 1 May 2011, by [section 38][518] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42Q Terms of disclosure orders
     
@@ -5015,15 +5063,15 @@ Enforcement and remedies
     
     *   (b) the person in contravention to publish, at the person's own expense, in the manner and at the times specified in the order, corrective statements that are specified in, or are to be determined in accordance with, the order.
     
-    Section 42Q: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42Q: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ### Subpart 3---Civil remedies
     
-*   Subpart 3: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 3: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Overview of civil remedies
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42R Overview of civil remedies
     
@@ -5039,7 +5087,7 @@ Enforcement and remedies
     
     (2) This section is a guide only to the general scheme and effect of this subpart.
     
-    Section 42R: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42R: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42R(1)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5061,15 +5109,15 @@ Enforcement and remedies
     
     *   (g) an unsolicited offer obligation or exemption.
     
-    Section 42S: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42S: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42S(f): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
-    Section 42S(g): added, on 1 May 2011, by [section 39][517] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42S(g): added, on 1 May 2011, by [section 39][519] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Pecuniary penalty orders and declarations of contravention
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42T When court may make pecuniary penalty orders and declarations of contravention
     
@@ -5097,7 +5145,7 @@ Enforcement and remedies
     
     *   (b) \[Repealed\]
     
-    Section 42T: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42T: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42T(1): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5109,7 +5157,7 @@ Enforcement and remedies
     
     (2) Accordingly, a declaration of contravention is conclusive evidence of the matters that must be stated in it under [section 42V][318].
     
-    Section 42U: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42U: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42V What declarations of contravention must state
     
@@ -5125,7 +5173,7 @@ Enforcement and remedies
     
     *   (e) the public issuer to which the conduct related (if relevant).
     
-    Section 42V: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42V: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42W Maximum amount of pecuniary penalty
     
@@ -5139,9 +5187,9 @@ Enforcement and remedies
     
     (2) The maximum amount of a pecuniary penalty for a contravention of any other civil remedy provision is $1,000,000\.
     
-    Section 42W: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42W: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 42W(1): amended, on 1 May 2011, by [section 40][518] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42W(1): amended, on 1 May 2011, by [section 40][520] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42X Guidance for court on how to determine gains made or losses avoided for purposes of maximum amount
     
@@ -5159,13 +5207,13 @@ Enforcement and remedies
     
     (3) In the case of a contravention of an unsolicited offer prohibition, subsection (2) does not apply.
     
-    Section 42X: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42X: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 42X(1)(a): amended, on 1 May 2011, by [section 41(1)][519] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42X(1)(a): amended, on 1 May 2011, by [section 41(1)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 42X(1)(b): amended, on 1 May 2011, by [section 41(1)][519] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42X(1)(b): amended, on 1 May 2011, by [section 41(1)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 42X(3): added, on 1 May 2011, by [section 41(2)][519] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 42X(3): added, on 1 May 2011, by [section 41(2)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 42Y Considerations for court in determining pecuniary penalty
     
@@ -5185,13 +5233,13 @@ Enforcement and remedies
     
     *   (g) the relationship of the parties to the transaction constituting the contravention.
     
-    Section 42Y: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42Y: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42Z Court must order that recovery from pecuniary penalty be applied to FMA's actual costs
     
 *   If the court orders that a person pay a pecuniary penalty, and the proceedings were brought (in whole or in part) by the FMA, the court must also order that the penalty must be applied first to pay the FMA's actual costs in bringing the proceedings.
     
-    Section 42Z: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42Z: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42Z heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5201,7 +5249,7 @@ Enforcement and remedies
 
 #### Compensatory orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZA When court may make compensatory orders
     
@@ -5215,7 +5263,7 @@ Enforcement and remedies
     
     (3) However, the court must not make a compensatory order under this section for a contravention of an investment advisers' and brokers' disclosure obligation or exemption.
     
-    Section 42ZA: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZA: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42ZA(1): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5237,11 +5285,11 @@ Enforcement and remedies
         
         
     
-    Section 42ZB: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZB: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Civil remedy order for investment advisers' or brokers' disclosure obligations
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZC When court may make civil remedy order for investment advisers' or brokers' disclosure obligations
     
@@ -5257,7 +5305,7 @@ Enforcement and remedies
 
 #### Other civil remedy orders
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZE When court may make other civil remedy orders
     
@@ -5265,7 +5313,7 @@ Enforcement and remedies
     
     (2) However, the court must not make a civil remedy order of that kind for a contravention of a continuous disclosure obligation or exemption or an investment advisers' or brokers' obligation or exemption.
     
-    Section 42ZE: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZE: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 42ZE(1): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5285,11 +5333,11 @@ Enforcement and remedies
     
     *   (f) cancel an agreement for the acquisition or disposal of securities or relevant interests.
     
-    Section 42ZF: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZF: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Interrelationship of civil remedies
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZG More than 1 civil remedy order may be made for same conduct
     
@@ -5301,23 +5349,23 @@ Enforcement and remedies
     
     The court may make a civil remedy order requiring forfeiture of securities and declaring a previous exercise of voting rights attaching to those securities to be void.
     
-    Section 42ZG: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZG: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZH Only 1 pecuniary penalty order may be made for same conduct
     
 *   If conduct by a person constitutes a contravention of 2 or more civil remedy provisions, proceedings may be brought against that person for the contravention of any 1 or more of the provisions, but no person is liable to more than 1 pecuniary penalty order for the same conduct.
     
-    Section 42ZH: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZH: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### General
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZI Standard of proof for civil remedies
     
 *   The proceedings under this subpart are civil proceedings and the usual rules of the court and rules of evidence and procedure for civil proceedings apply (including the standard of proof).
     
-    Section 42ZI: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZI: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 42ZJ Time limit for applying for civil remedies
     
@@ -5327,19 +5375,19 @@ Enforcement and remedies
     
     (3) However, an application for a compensatory order in respect of the contravention may be made at any time within 6 months after the date on which a declaration of contravention is made, even if the usual time limit has expired.
     
-    Section 42ZJ: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 42ZJ: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ### Subpart 4---Criminal offences and penalties
     
-*   Subpart 4 heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 4 heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Penalties for offences
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43 Penalties for failing to comply with Part 1
     
-*   (1) A person who commits an offence against any of the sections set out in subsection (2) is liable on conviction on indictment to---
+*   (1) A person who commits an offence against any of the sections set out in subsection (2) is liable on conviction to---
         
     *   (a) in the case of an individual, imprisonment for a term not exceeding 5 years or a fine not exceeding $300,000, or to both:
     
@@ -5353,17 +5401,19 @@ Enforcement and remedies
     
     *   (c) [section 11D][45] (criminal liability for false or misleading appearance of trading, etc).
     
-    Section 43: substituted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43: substituted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    
+    Section 43(1): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43A Penalties for failing to comply with Part 2
     
-*   (1) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $30,000:
+*   (1) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $30,000:
         
     *   (a) [section 19ZD][110] (offence for failure to comply with directors' and officers' disclosure obligation):
     
     *   (b) [section 35BA][136] (offence for failure to comply with substantial holding disclosure obligation).
     
-    (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000:
+    (2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000:
         
     *   (a) [section 19ZF][112] (offences relating to directors' and officers' interests register):
     
@@ -5373,13 +5423,17 @@ Enforcement and remedies
     
     *   (d) [section 35H][143] (offence for failing to publish information on substantial holdings or disclosures).
     
-    Section 43A: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43A: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    
+    Section 43A(1): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43A(2): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43B Penalties for failing to comply with Part 2B
     
-*   (1) A person who commits an offence against [section 36ZX][231] (offence for failing to comply with monitoring of registered exchange provisions) is liable on summary conviction to a fine not exceeding $30,000\.
+*   (1) A person who commits an offence against [section 36ZX][231] (offence for failing to comply with monitoring of registered exchange provisions) is liable on conviction to a fine not exceeding $30,000\.
     
-    (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
+    (2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
         
     *   (a) [section 36A(1)][150] (no holding out as securities exchange unless registered):
     
@@ -5391,31 +5445,39 @@ Enforcement and remedies
     
     *   (e) [section 36ZYB][235] (offence for breach of terms or conditions of authorisation).
     
-    (3) A person who commits an offence against [section 36N][174] (market rules must be available for public inspection) is liable on summary conviction to a fine not exceeding $5,000\.
+    (3) A person who commits an offence against [section 36N][174] (market rules must be available for public inspection) is liable on conviction to a fine not exceeding $5,000\.
     
-    (4) A person who commits an offence against [section 36U(1)(a)][182] (effect of exceeding control limit) is liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
+    (4) A person who commits an offence against [section 36U(1)(a)][182] (effect of exceeding control limit) is liable on conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
     
-    Section 43B: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43B: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 43B(1): amended, on 24 November 2009, by [section 21(1)][520] of the Securities Markets Amendment Act 2009 (2009 No 54).
+    Section 43B(1): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43B(2)(c): substituted, on 1 May 2011, by [section 42(1)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43B(1): amended, on 24 November 2009, by [section 21(1)][523] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
-    Section 43B(2)(d): substituted, on 1 May 2011, by [section 42(1)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43B(2): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43B(2)(e): amended, on 1 May 2011, by [section 42(2)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43B(2)(c): substituted, on 1 May 2011, by [section 42(1)][524] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
-    Section 43B(3): amended, on 1 May 2011, by [section 42(3)][521] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43B(2)(d): substituted, on 1 May 2011, by [section 42(1)][524] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 43B(2)(e): amended, on 1 May 2011, by [section 42(2)][524] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 43B(3): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43B(3): amended, on 1 May 2011, by [section 42(3)][524] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 43B(4): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43C Penalties for failing to comply with Part 3
     
-*   (1) A person who commits an offence under [section 39][244] (contravention of [section 38][243] an offence) is liable on conviction on indictment,---
+*   (1) A person who commits an offence under [section 39][244] (contravention of [section 38][243] an offence) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
+    (2) A person who commits an offence against any of the following sections is liable on conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
         
     *   (a) [section 37A(1)][238] (no holding out as futures exchange unless authorised):
     
@@ -5423,9 +5485,13 @@ Enforcement and remedies
     
     *   (c) [section 37E(1)][242] (no operation by authorised futures exchange of unauthorised futures market).
     
-    Section 43C: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43C: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 43C(2)(c): added, on 1 May 2011, by [section 43][522] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43C(1): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43C(2): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43C(2)(c): added, on 1 May 2011, by [section 43][525] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 43D Penalties for failing to comply with Part 4
     
@@ -5435,13 +5501,13 @@ Enforcement and remedies
 
 ##### 43E Penalties for failing to comply with this Part
     
-*   (1) An individual who commits an offence against either of the following sections is liable on conviction on indictment to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
+*   (1) An individual who commits an offence against either of the following sections is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
         
     *   (a) \[Repealed\]
     
     *   (b) [section 43I][351] (persons automatically banned from management).
     
-    (2) A person who commits an offence against any of the sections set out in subsection (3) is liable on conviction on indictment,---
+    (2) A person who commits an offence against any of the sections set out in subsection (3) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000, or to both:
     
@@ -5455,25 +5521,31 @@ Enforcement and remedies
     
     *   (c) [section 43T][364] (offence of contravening orders to preserve assets to satisfy claims).
     
-    (4) A person who commits an offence against [section 42J][299] (offence of failing to comply with FMA's orders) is liable on summary conviction to a fine not exceeding $30,000\.
+    (4) A person who commits an offence against [section 42J][299] (offence of failing to comply with FMA's orders) is liable on conviction to a fine not exceeding $30,000\.
     
-    Section 43E: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43E: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    
+    Section 43E(1): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43E(1)(a): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
+    
+    Section 43E(2): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 43E(3)(a): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
     Section 43E(3)(b): repealed, on 1 July 2011, by [section 164(5)][423] of the Financial Advisers Act 2008 (2008 No 91).
     
+    Section 43E(4): amended, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 43E(4): amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ### Subpart 5---Other court orders
     
-*   Subpart 5: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 5: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Management bans
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43F When court may make management banning orders
     
@@ -5483,7 +5555,7 @@ Enforcement and remedies
     
     *   (b) A has, while a director of an incorporated or unincorporated body,---
             
-        *   (i) persistently contravened this Act, the [Companies Act 1993][436], the [Securities Act 1978][415], the Securities Trustees and Statutory Supervisors Act 2011, the [Takeovers Act 1993][418], or the [takeovers code][523]; or
+        *   (i) persistently contravened this Act, the [Companies Act 1993][436], the [Securities Act 1978][415], the Securities Trustees and Statutory Supervisors Act 2011, the [Takeovers Act 1993][418], or the [takeovers code][526]; or
         
         *   (ii) if the incorporated or unincorporated body has so contravened, persistently failed to take all reasonable steps to obtain compliance with those Acts or the code; or
         
@@ -5509,9 +5581,9 @@ Enforcement and remedies
     
     *   (e) a person who is, or has been, a holder of securities (and, for this purpose, _security_ has the same meaning as in the [Securities Act 1978][415]) or creditor of an incorporated or unincorporated body referred to in paragraph (c).
     
-    Section 43F: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43F: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 43F(1)(b)(i): amended, on 1 October 2011, by [section 74(2)][524] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 43F(1)(b)(i): amended, on 1 October 2011, by [section 74(2)][527] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
     Section 43F(2)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5519,13 +5591,13 @@ Enforcement and remedies
     
 *   A management banning order may, for a period stated in the order of 10 years or less, prohibit or restrict the person (without the leave of the court) from being a director or promoter of, or in any way (whether directly or indirectly) being concerned or taking part in the management of, an incorporated or unincorporated body (other than an overseas company, or an incorporated or unincorporated body, that does not carry on business in New Zealand).
     
-    Section 43G: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43G: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43H Offence of contravening management banning order
     
 *   An individual who acts in contravention of a management banning order under [section 43F][348] commits an offence (_see_ [section 43E][345] for the maximum penalty of 3 years' imprisonment and a $100,000 fine).
     
-    Section 43H: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43H: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43I Persons automatically banned from management
     
@@ -5541,19 +5613,19 @@ Enforcement and remedies
     
     (3) An individual who acts in contravention of this section commits an offence (_see_ [section 43E][345] for the maximum penalty of 3 years' imprisonment and a $100,000 fine).
     
-    Section 43I: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43I: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 43I(2A): inserted, on 1 May 2011, by [section 44][525] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43I(2A): inserted, on 1 May 2011, by [section 44][528] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 43J Only 1 management ban may be made for same conduct
     
-*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 43F][348] of this Act, [section 60A][526] of the Securities Act 1978, [section 44F][527] of the Takeovers Act 1993, and [section 383][528] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
+*   If conduct by a person constitutes grounds for making an order under any 1 or more of [section 43F][348] of this Act, [section 60A][529] of the Securities Act 1978, [section 44F][530] of the Takeovers Act 1993, and [section 383][531] of the Companies Act 1993, proceedings may be brought against that person under any 1 or more of those provisions, but no person is liable to more than 1 order under those provisions for the same conduct.
     
-    Section 43J: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43J: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 #### Investment adviser or broker bans
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43K When court may make banning orders for investment adviser or broker activities
     
@@ -5591,7 +5663,7 @@ Enforcement and remedies
     
     (3) The FMA, and any other person that the court thinks fit, may attend and be heard at the hearing of the application.
     
-    Section 43O: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43O: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 43O(1)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5601,7 +5673,7 @@ Enforcement and remedies
 
 #### Orders to preserve assets to satisfy claims
     
-*   Heading: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43P When court may prohibit payment or transfer of money, securities, or other property
     
@@ -5625,9 +5697,9 @@ Enforcement and remedies
     
     Compare: Corporations Act 2001 s 1323(1) (Aust)
     
-    Section 43P: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43P: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
-    Section 43P(1)(a): amended, on 1 May 2011, by [section 45][529] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 43P(1)(a): amended, on 1 May 2011, by [section 45][532] of the Securities Markets Amendment Act 2011 (2011 No 7).
     
     Section 43P(2): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5669,7 +5741,7 @@ Enforcement and remedies
     
     Compare: Corporations Act 2001 s 1323(1), (2A), (6) (Aust)
     
-    Section 43Q: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43Q: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43R Interim orders
     
@@ -5681,17 +5753,17 @@ Enforcement and remedies
     
     Compare: Corporations Act 2001 s 1323(3), (4) (Aust)
     
-    Section 43R: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43R: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43S Relationship with other law
     
 *   (1) Nothing in [sections 43P to 43R][360] affects the powers that the court has apart from those sections.
     
-    (2) This section has effect subject to the [Insolvency Act 1967][530].
+    (2) This section has effect subject to the [Insolvency Act 1967][533].
     
     Compare: Corporations Act 2001 s 1323(7), (8) (Aust)
     
-    Section 43S: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43S: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43T Offence
     
@@ -5699,31 +5771,35 @@ Enforcement and remedies
     
     Compare: Corporations Act 2001 s 1323(9), (10) (Aust)
     
-    Section 43T: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43T: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ### Subpart 6---General
     
-*   Subpart 6: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Subpart 6: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
-##### 43U Time for laying information for summary offences
+##### 43U Time for filing charging document for certain offences
     
-*   (1) Any information for an offence against this Act punishable on summary conviction may be laid at any time within 3 years after the date of the offence.
+*   (1) Despite anything to the contrary in [section 25][534] of the Criminal Procedure Act 2011,---
+        
+    *   (a) a charging document may be filed at any time in respect of an offence against [section 39][244], [43H][350], [43I][351], [43M][356], [43N][357], or [43T][364] of this Act; and
     
-    (2) Subsection (1) applies despite [section 14][531] of, or anything else to the contrary in, the Summary Proceedings Act 1957\.
+    *   (b) the limitation period in respect of an offence against [section 36A(1)][150], [36B(1)][151], [36G(1)][163], [36P(1)][176], or [36Z][196] of this Act ends on the date that is 3 years after the date on which the offence was committed.
     
-    Section 43U: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    (2) Nothing in subsection (1) affects the application of [section 25][534] of the Criminal Procedure Act 2011 in relation to any offence not mentioned in that subsection.
+    
+    Section 43U: replaced, on 1 July 2013, by [section 413][522] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43V Evidence not otherwise admissible
     
 *   In the exercise of its jurisdiction under this Act, the court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
     
-    Section 43V: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43V: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43W Court may order payment of FMA's costs
     
 *   If the FMA brings proceedings under this Part and the court makes any order against a person under this Part, the court may also order that person to pay the FMA's costs and expenses in bringing the proceedings.
     
-    Section 43W: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43W: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 43W heading: amended, on 1 May 2011, by [section 84(5)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5735,7 +5811,7 @@ Enforcement and remedies
     
 *   The court may, for the purpose of securing compliance with any other order it makes under this Part, direct a person to do or refrain from doing a specified act.
     
-    Section 43X: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43X: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43Y Giving notice of applications for court orders
     
@@ -5745,7 +5821,7 @@ Enforcement and remedies
     
     *   (b) publish notice of the application in the manner the court thinks fit.
     
-    Section 43Y: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43Y: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43Z General provisions as to court's orders
     
@@ -5753,7 +5829,7 @@ Enforcement and remedies
     
     (2) The court may revoke, vary, or suspend an order made under this Part on the terms and conditions the court thinks fit.
     
-    Section 43Z: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43Z: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43ZA Persons entitled to appear before court
     
@@ -5773,7 +5849,7 @@ Enforcement and remedies
     
     *   (g) with the leave of the court, any other person.
     
-    Section 43ZA: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43ZA: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 43ZA(d): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -5781,13 +5857,13 @@ Enforcement and remedies
     
 *   In any proceedings under this Act, it is presumed, in the absence of proof to the contrary, that a person knew, at a material time, of any matter if, at that time, an employee or agent of that person knew of the matter in his or her capacity as employee or agent.
     
-    Section 43ZB: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43ZB: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 43ZC No pecuniary penalty and fine for same conduct
     
 *   A person cannot be ordered to pay a pecuniary penalty and be liable for a fine under this Act for the same conduct.
     
-    Section 43ZC: inserted, on 29 February 2008, by [section 12(1)][511] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 43ZC: inserted, on 29 February 2008, by [section 12(1)][513] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ## Part 6  
 Miscellaneous
@@ -5814,13 +5890,13 @@ Miscellaneous
     
     (2) Subsection (1) applies except as expressly provided by this Act.
     
-    Section 45: substituted, on 1 December 2002, by [section 24][532] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 45: substituted, on 1 December 2002, by [section 24][535] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 46 Protection for acting on FMA directions
     
 *   A registered exchange, or an officer or employee of a registered exchange, is not liable for any act done or omitted to be done by that person in compliance with a direction by the FMA under [section 36ZO][220].
     
-    Section 46: substituted, on 1 December 2002, by [section 24][532] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 46: substituted, on 1 December 2002, by [section 24][535] of the Securities Markets Amendment Act 2002 (2002 No 44).
     
     Section 46 heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5832,7 +5908,7 @@ Miscellaneous
     
     (2) An officer, an employee, or a person acting on behalf of a registered exchange is not liable for anything he or she may do or say or fail to do or say in the course of the exercise or intended exercise of the registered exchange's functions or duties under [Part 2][66] or [Part 2B][147], unless it is shown that he or she acted in bad faith.
     
-    Section 47: substituted, on 1 December 2002, by [section 24][532] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 47: substituted, on 1 December 2002, by [section 24][535] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 47AA Protection from liability in connection with unsolicited offer obligations
     
@@ -5850,11 +5926,11 @@ Miscellaneous
     
     *   (c) stated by the regulations made under [section 48DB][392] to be a protected act or omission for the purposes of this section.
     
-    Section 47AA: inserted, on 1 May 2011, by [section 46][533] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 47AA: inserted, on 1 May 2011, by [section 46][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Appeals
     
-*   Heading: inserted, on 1 May 2011, by [section 46][533] of the Securities Markets Amendment Act 2011 (2011 No 7).
+*   Heading: inserted, on 1 May 2011, by [section 46][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 47A Appeals against decisions of FMA on questions of law only
     
@@ -5866,11 +5942,11 @@ Miscellaneous
     
     *   (c) [subpart 1][280] of Part 5 (which relates to the FMA's enforcement powers).
     
-    Section 47A: inserted, on 1 May 2011, by [section 46][533] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 47A: inserted, on 1 May 2011, by [section 46][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 #### Exemptions granted and removed by FMA
     
-*   Heading: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
 *   Heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 48 Exemptions granted by FMA
@@ -5883,7 +5959,7 @@ Miscellaneous
     
     *   (c) exempt any offer, class of offers, security, class of securities, person, or class of persons from compliance with any unsolicited offer obligation or obligations:
     
-    *   (d) exempt any person or class of persons from compliance with any requirement of the [Futures Industry (Client Funds) Regulations 1990][535] or regulations that replace them.
+    *   (d) exempt any person or class of persons from compliance with any requirement of the [Futures Industry (Client Funds) Regulations 1990][538] or regulations that replace them.
     
     (2) The FMA must not grant an exemption under this section unless it is satisfied that---
         
@@ -5891,17 +5967,17 @@ Miscellaneous
     
     *   (b) in the case of subsection (1)(d), there are adequate alternative safeguards for preserving client money and client property.
     
-    Section 48: substituted, on 1 May 2011, by [section 47][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48: substituted, on 1 May 2011, by [section 47][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 48A Status and publication of exemptions
     
 *   (1) An exemption granted under [section 48][385]---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][467]; and
+    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][464]; and
     
-    *   (b) must be presented to the House of Representatives under [section 4][537] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][465] of that Act.
     
-    (2) A class exemption (but not any other exemption granted under [section 48][385]) is a regulation for the purposes of the Acts and Regulations Publication Act 1989\.
+    (2) A class exemption (but not any other exemption granted under [section 48][385]) is a legislative instrument for the purposes of the [Legislation Act 2012][464].
     
     (3) An exemption granted under [section 48][385] that is not a class exemption must, as soon as practicable after it is granted, be---
         
@@ -5927,7 +6003,11 @@ Miscellaneous
         
         
     
-    Section 48A: substituted, on 1 May 2011, by [section 47][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48A: substituted, on 1 May 2011, by [section 47][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    
+    Section 48A(1): replaced, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 48A(2): replaced, on 5 August 2013, by [section 77(3)][469] of the Legislation Act 2012 (2012 No 119).
 
 ##### 48B Variation or revocation of exemptions
     
@@ -5935,7 +6015,7 @@ Miscellaneous
     
     (2) [Section 48A][386] and this section apply, with necessary modifications, in all respects to a variation or revocation under this section.
     
-    Section 48B: substituted, on 1 May 2011, by [section 47][536] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48B: substituted, on 1 May 2011, by [section 47][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 48C FMA may designate persons as not exempt from disclosure obligations
     
@@ -5949,7 +6029,7 @@ Miscellaneous
     
     (5) A notice under this section takes effect from the date stated in the notice (which must not be earlier than the date of the _Gazette_ notice).
     
-    Section 48C: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 48C: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 48C heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5973,7 +6053,7 @@ Miscellaneous
     
     (4) The FMA must list on its website all persons that are currently designated (and may also publicly notify them by any other means).
     
-    Section 48D: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 48D: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 48D heading: amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -5987,7 +6067,7 @@ Miscellaneous
 
 #### Regulations
     
-*   Heading: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+*   Heading: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 48DA Definitions relating to unsolicited offer regulations and related provisions
     
@@ -6005,13 +6085,13 @@ Miscellaneous
     
     (2) For the purposes of this section, [sections 47AA][381], [48DB][392], [48DC][393], and any regulations made under this section,---
         
-    *   (a) _associated person_ has the meaning set out in [section 49(7)(b)][538] of the Financial Markets Authority Act 2011:
+    *   (a) _associated person_ has the meaning set out in [section 49(7)(b)][540] of the Financial Markets Authority Act 2011:
     
     *   (b) an _offer_ made by A includes an invitation or proposal for A (or an associated person of A) to make an offer:
     
     *   (c) regulations may define or clarify the meaning of _unsolicited_.
     
-    Section 48DA: inserted, on 1 May 2011, by [section 48][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48DA: inserted, on 1 May 2011, by [section 48][541] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 48DB Regulations concerning unsolicited offer regulations
     
@@ -6045,7 +6125,7 @@ Miscellaneous
     
     *   (b) consult with the FMA.
     
-    Section 48DB: inserted, on 1 May 2011, by [section 48][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48DB: inserted, on 1 May 2011, by [section 48][541] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 48DC Specific provisions for regulations concerning unsolicited offers
     
@@ -6075,7 +6155,7 @@ Miscellaneous
     
     *   (i) provide for transitional matters.
     
-    Section 48DC: inserted, on 1 May 2011, by [section 48][539] of the Securities Markets Amendment Act 2011 (2011 No 7).
+    Section 48DC: inserted, on 1 May 2011, by [section 48][541] of the Securities Markets Amendment Act 2011 (2011 No 7).
 
 ##### 48E Regulations requiring continuous disclosure by public issuers
     
@@ -6103,7 +6183,7 @@ Miscellaneous
     
     (3) A failure to comply with [section 48F(3)][395] or [section 48G(2)(b) to (d)][396] does not invalidate any regulations made under this section.
     
-    Section 48E: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 48E: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 48E(2)(b): amended, on 24 November 2009, by [section 22][430] of the Securities Markets Amendment Act 2009 (2009 No 54).
     
@@ -6135,7 +6215,7 @@ Miscellaneous
     
     *   (c) give at least 14 days' written notice to the persons in paragraph (a), and in the _Gazette_, of his or her decision to do so and of the Minister's reasons for his or her opinion under subsection (2)(b).
     
-    Section 48F: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 48F: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 48F(3)(a)(i): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6161,7 +6241,7 @@ Miscellaneous
     
     *   (d) give at least 14 days' written notice to the persons in paragraph (b), and in the _Gazette_, of his or her decision to do so.
     
-    Section 48G: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 48G: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 48G(2)(b)(i): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6193,7 +6273,7 @@ Miscellaneous
     
     (2) The Minister must consult with the FMA before making a recommendation under subsection (1).
     
-    Section 49: substituted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49: substituted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 49(2): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6227,11 +6307,11 @@ Miscellaneous
     
     *   (e) exempting (on terms and conditions, if any) classes of persons, classes of transactions, or classes of relevant interests, substantial holdings, or relevant events from compliance with any substantial holding disclosure obligation or obligations.
     
-    (2) The further matters prescribed for disclosures required by [section 22][117] or [25][120] may differ according to whether [section 15(1)(a)][540], (b), or (d) of the Securities Markets Amendment Act 2006 (which contains transitional provisions) applies to the disclosure or not.
+    (2) The further matters prescribed for disclosures required by [section 22][117] or [25][120] may differ according to whether [section 15(1)(a)][542], (b), or (d) of the Securities Markets Amendment Act 2006 (which contains transitional provisions) applies to the disclosure or not.
     
     (3) The Minister must consult with the FMA before making a recommendation under subsection (1).
     
-    Section 49A: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49A: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 49A(3): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6257,7 +6337,7 @@ Miscellaneous
     
     (3) The Minister must consult with the FMA before making a recommendation under subsection (1).
     
-    Section 49B: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49B: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 49B(1)(g): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6305,7 +6385,7 @@ Miscellaneous
     
     (3) The Minister must consult with the FMA before making a recommendation under subsection (1).
     
-    Section 49D: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49D: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
     
     Section 49D(2)(a): amended, on 1 May 2011, by [section 84(3)][432] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6323,31 +6403,31 @@ Miscellaneous
     
 *   The breach of a term or condition of an exemption provided by regulations made under this Act or by notice under [section 48][385] is a breach of the obligation for which the exemption applies.
     
-    Section 49E: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49E: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 49F Regulations or exemptions in respect of specified overseas jurisdictions
     
 *   Without limiting [sections 48 to 49D][385], exemptions made under those sections or under regulations made under those sections may extend to all, or classes of, persons, transactions, or other matters in relation to specified overseas jurisdictions.
     
-    Section 49F: inserted, on 29 February 2008, by [section 13][534] of the Securities Markets Amendment Act 2006 (2006 No 47).
+    Section 49F: inserted, on 29 February 2008, by [section 13][537] of the Securities Markets Amendment Act 2006 (2006 No 47).
 
 ##### 50 Disclosure of information relating to inspection
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 December 2002, by [section 25][541] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 50: repealed, on 1 December 2002, by [section 25][543] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 51 Regulations and Orders in Council
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 December 2002, by [section 25][541] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 51: repealed, on 1 December 2002, by [section 25][543] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ##### 52 Fees and charges
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 December 2002, by [section 25][541] of the Securities Markets Amendment Act 2002 (2002 No 44).
+    Section 52: repealed, on 1 December 2002, by [section 25][543] of the Securities Markets Amendment Act 2002 (2002 No 44).
 
 ---
 
@@ -6359,7 +6439,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Markets Amendment Act 2006][542].
+*   This Act is the [Securities Markets Amendment Act 2006][544].
 
 ##### 2 Commencement
     
@@ -6367,7 +6447,7 @@ Commencementsee section 2
     
     (2) One or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(1): this Act brought into force, on 29 February 2008, by the [Securities Markets Amendment Act 2006 Commencement Order 2007][543] (SR 2007/367).
+    Section 2(1): this Act brought into force, on 29 February 2008, by the [Securities Markets Amendment Act 2006 Commencement Order 2007][545] (SR 2007/367).
 
 ##### 3 Principal Act amended
     
@@ -6421,7 +6501,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Markets Amendment Act 2011][544].
+*   This Act is the [Securities Markets Amendment Act 2011][546].
 
 ##### 2 Commencement
     
@@ -6497,78 +6577,39 @@ Commencementsee section 2
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Securities Markets Act 1988\. The reprint incorporates all the amendments to the Act as at 1 October 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][545] ![](/images/external_link.gif).
+*   This is a reprint of the Securities Markets Act 1988 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][546] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][547] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][548] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][547] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][549] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][550] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][548] and [17E][549] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][469]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][522]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][1] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 74(2)][527]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [section 74(2)][524]
-    
-    [Securities Markets Amendment Act 2011][544] (2011 No 7)
+    [Securities Markets Amendment Act 2011][546] (2011 No 7)
     
     Financial Markets Authority Act 2011 (2011 No 5): [sections 82][425], [84(3), (5)][432]
     
     Financial Advisers Amendment Act 2010 (2010 No 40): [section 50][437]
     
-    [Securities Markets Amendment Act 2009][550] (2009 No 54)
+    [Securities Markets Amendment Act 2009][551] (2009 No 54)
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][428]
     
@@ -6576,11 +6617,11 @@ Commencementsee section 2
     
     Limited Partnerships Act 2008 (2008 No 1): [section 121(4)][426]
     
-    [Securities Markets Amendment Act 2006 Commencement Order 2007][543] (SR 2007/367)
+    [Securities Markets Amendment Act 2006 Commencement Order 2007][545] (SR 2007/367)
     
     Companies Amendment Act (No 2) 2006 (2006 No 62): [section 16][455]
     
-    [Securities Markets Amendment Act 2006][542] (2006 No 47)
+    [Securities Markets Amendment Act 2006][544] (2006 No 47)
     
     Gambling Act 2003 (2003 No 51): section 374
     
@@ -6595,7 +6636,7 @@ Commencementsee section 2
 
 
 [0]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM161376
-[1]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195466
+[1]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998524
 [2]: http://www.legislation.govt.nz/act/public/1988/0234/latest/whole.html#DLM139730
 [3]: http://www.legislation.govt.nz/act/public/1988/0234/latest/whole.html#DLM139733
 [4]: http://www.legislation.govt.nz/act/public/1988/0234/latest/whole.html#DLM139735
@@ -7058,90 +7099,91 @@ Commencementsee section 2
 [461]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638077
 [462]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638078
 [463]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638079
-[464]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638080
-[465]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498669
-[466]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638081
-[467]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195534
-[468]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195097
-[469]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638089
-[470]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141344
-[471]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141346
-[472]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141352
-[473]: http://www.legislation.govt.nz/act/public/1988/0234/latest/whole.html#DLM141390
-[474]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141368
-[475]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141370
-[476]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638312
-[477]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638313
-[478]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638315
-[479]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM202023
-[480]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM64784
-[481]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638324
-[482]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638325
-[483]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638328
-[484]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638329
-[485]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638330
-[486]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498679
-[487]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498680
-[488]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638331
-[489]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498681
-[490]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498682
-[491]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638332
-[492]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638333
-[493]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141388
-[494]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141392
-[495]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM158592
-[496]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM159573
-[497]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM199370
-[498]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM426840
-[499]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638338
-[500]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498683
-[501]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162173
-[502]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162176
-[503]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638345
-[504]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638346
-[505]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638347
-[506]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498691
-[507]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638349
-[508]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM207496
-[509]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM410738
-[510]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM210735
-[511]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM383920
-[512]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638350
-[513]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638354
-[514]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638355
-[515]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638024
-[516]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638025
-[517]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638356
-[518]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638357
-[519]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638358
-[520]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498693
-[521]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638359
-[522]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638360
-[523]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM10106
-[524]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2651318
-[525]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638361
-[526]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM29434
-[527]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM326702
-[528]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM323252
-[529]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638362
-[530]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM382333
-[531]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM311191
-[532]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162182
-[533]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638363
-[534]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM384366
-[535]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141242
-[536]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638367
-[537]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195549
-[538]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3231734
-[539]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638372
-[540]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM384386
-[541]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162192
-[542]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM383066
-[543]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM1061112
-[544]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638031
-[545]: http://www.pco.parliament.govt.nz/reprints/
-[546]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195439
-[547]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[548]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195468
-[549]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM195470
-[550]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498646
+[464]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2997643
+[465]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998573
+[466]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2997696
+[467]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638080
+[468]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498669
+[469]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998633
+[470]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638081
+[471]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638089
+[472]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141344
+[473]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141346
+[474]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141352
+[475]: http://www.legislation.govt.nz/act/public/1988/0234/latest/whole.html#DLM141390
+[476]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141368
+[477]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141370
+[478]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638312
+[479]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638313
+[480]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638315
+[481]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM202023
+[482]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM64784
+[483]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638324
+[484]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638325
+[485]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638328
+[486]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638329
+[487]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638330
+[488]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498679
+[489]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498680
+[490]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638331
+[491]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498681
+[492]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498682
+[493]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638332
+[494]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638333
+[495]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141388
+[496]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141392
+[497]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM158592
+[498]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM159573
+[499]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM199370
+[500]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM426840
+[501]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638338
+[502]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498683
+[503]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162173
+[504]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162176
+[505]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638345
+[506]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638346
+[507]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638347
+[508]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498691
+[509]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638349
+[510]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM207496
+[511]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM410738
+[512]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM210735
+[513]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM383920
+[514]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638350
+[515]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638354
+[516]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638355
+[517]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638024
+[518]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638025
+[519]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638356
+[520]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638357
+[521]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638358
+[522]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3360714
+[523]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498693
+[524]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638359
+[525]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638360
+[526]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM10106
+[527]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2651318
+[528]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638361
+[529]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM29434
+[530]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM326702
+[531]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM323252
+[532]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638362
+[533]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM382333
+[534]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3360067
+[535]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162182
+[536]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638363
+[537]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM384366
+[538]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM141242
+[539]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638367
+[540]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3231734
+[541]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638372
+[542]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM384386
+[543]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM162192
+[544]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM383066
+[545]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM1061112
+[546]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM3638031
+[547]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998516
+[548]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998515
+[549]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2998532
+[550]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[551]: http://www.legislation.govt.nz/act/public/1988/0234/latest/link.aspx?id=DLM2498646
