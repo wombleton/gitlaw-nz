@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,149 +25,149 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Detection of serious or complex fraud][5]
 
-[4][6] [Exercise of powers under this Part][6]
+[4][6][][6][Exercise of powers under this Part][6]
 
-[5][7] [Power to require production of documents][7]
+[5][7][][7][Power to require production of documents][7]
 
-[6][8] [Power to obtain search warrant][8]
+[6][8][][8][Power to obtain search warrant][8]
 
 [Part 2][9]  
 [Investigation of suspected offences involving serious or complex fraud][9]
 
-[7][10] [Exercise of powers under this Part][10]
+[7][10][][10][Exercise of powers under this Part][10]
 
-[8][11] [Factors to which Director may have regard][11]
+[8][11][][11][Factors to which Director may have regard][11]
 
-[9][12] [Power to require attendance before Director, production of documents, etc][12]
+[9][12][][12][Power to require attendance before Director, production of documents, etc][12]
 
-[10][13] [Power to obtain search warrant][13]
+[10][13][][13][Power to obtain search warrant][13]
 
-[11][14] [Power to assume from Police the responsibility for investigating certain cases of fraud][14]
+[11][14][][14][Power to assume from Police the responsibility for investigating certain cases of fraud][14]
 
 [Part 3][15]  
 [General provisions relating to warrants and exercise of powers under Parts 1 and 2][15]
 
 [General provisions relating to warrants][16]
 
-[12][17] [Effect of warrant][17]
+[12][17][][17][Effect of warrant][17]
 
-[13][18] [Return of documents][18]
+[13][18][][18][Return of documents][18]
 
-[14][19] [Disclosure of previous applications][19]
+[14][19][][19][Disclosure of previous applications][19]
 
-[15][20] [Persons by whom warrant may be executed][20]
+[15][20][][20][Persons by whom warrant may be executed][20]
 
-[16][21] [Production of warrant][21]
+[16][21][][21][Production of warrant][21]
 
-[17][22] [Notice that warrant has been executed, etc][22]
+[17][22][][22][Notice that warrant has been executed, etc][22]
 
 [General provisions relating to exercise of powers under Parts 1 and 2][23]
 
-[18][24] [Form and content of notices][24]
+[18][24][][24][Form and content of notices][24]
 
-[19][25] [Possession of documents][25]
+[19][25][][25][Possession of documents][25]
 
 [Challenge to exercise of Director's powers][26]
 
-[20][27] [Review of Director's decisions][27]
+[20][27][][27][Review of Director's decisions][27]
 
-[21][28] [Effect of proceedings][28]
+[21][28][][28][Effect of proceedings][28]
 
-[22][29] [Effect of final decision that exercise of powers unlawful][29]
+[22][29][][29][Effect of final decision that exercise of powers unlawful][29]
 
 [Effect of powers on duty of confidentiality][30]
 
-[23][31] [Act to apply to persons with duty of confidentiality to clients][31]
+[23][31][][31][Act to apply to persons with duty of confidentiality to clients][31]
 
-[24][32] [Legal professional privilege][32]
+[24][32][][32][Legal professional privilege][32]
 
 [Miscellaneous provisions][33]
 
-[25][34] [Certain provisions not to apply to Police, Inland Revenue, and Statistics Department officers][34]
+[25][34][][34][Certain provisions not to apply to Police, Inland Revenue, and Statistics Department officers][34]
 
-[26][35] [Admissibility of evidence][35]
+[26][35][][35][Admissibility of evidence][35]
 
-[27][36] [Privilege against self-incrimination no excuse][36]
+[27][36][][36][Privilege against self-incrimination no excuse][36]
 
-[28][37] [Admissibility of self-incriminating statements][37]
+[28][37][][37][Admissibility of self-incriminating statements][37]
 
 [Part 4][38]  
 [Miscellaneous provisions][38]
 
 [Provisions relating to State Sector Act 1988 and other matters][39]
 
-[29][40] [Responsible Minister][40]
+[29][40][][40][Responsible Minister][40]
 
-[30][41] [Independence in matters relating to investigations][41]
+[30][41][][41][Independence in matters relating to investigations][41]
 
-[31][42] [Chief executive of Serious Fraud Office][42]
+[31][42][][42][Chief executive of Serious Fraud Office][42]
 
-[32][43] [Judicial notice of signature of Director][43]
+[32][43][][43][Judicial notice of signature of Director][43]
 
-[33][44] [Delegation of functions or powers][44]
+[33][44][][44][Delegation of functions or powers][44]
 
-[34][45] [Exercise of powers by outside investigators][45]
+[34][45][][45][Exercise of powers by outside investigators][45]
 
-[35][46] [Indemnity][46]
+[35][46][][46][Indemnity][46]
 
 [Secrecy][47]
 
-[36][48] [Secrecy of certain information relating to Serious Fraud Office business][48]
+[36][48][][48][Secrecy of certain information relating to Serious Fraud Office business][48]
 
-[37][49] [Secrecy of information protected under Inland Revenue Department Act 1974][49]
+[37][49][][49][Secrecy of information protected under Inland Revenue Department Act 1974][49]
 
-[38][50] [Disclosure to Serious Fraud Office of information protected under other Acts][50]
+[38][50][][50][Disclosure to Serious Fraud Office of information protected under other Acts][50]
 
-[39][51] [Secrecy of information protected under other Acts][51]
+[39][51][][51][Secrecy of information protected under other Acts][51]
 
-[40][52] [Obligation to inform that protected information is secret][52]
+[40][52][][52][Obligation to inform that protected information is secret][52]
 
-[41][53] [Secrecy to be observed by other persons to whom protected information is disclosed under this Act][53]
+[41][53][][53][Secrecy to be observed by other persons to whom protected information is disclosed under this Act][53]
 
-[42][54] [Authorisations to disclose protected information][54]
+[42][54][][54][Authorisations to disclose protected information][54]
 
-[43][55] [Protected information may cease to be secret][55]
+[43][55][][55][Protected information may cease to be secret][55]
 
-[44][56] [Persons ceasing to be members of Serious Fraud Office under continuing obligation of secrecy][56]
+[44][56][][56][Persons ceasing to be members of Serious Fraud Office under continuing obligation of secrecy][56]
 
 [Miscellaneous offences and penalties][57]
 
-[45][58] [Offence to obstruct investigation, etc][58]
+[45][58][][58][Offence to obstruct investigation, etc][58]
 
-[46][59] [Offence to destroy, alter, or conceal records, etc][59]
+[46][59][][59][Offence to destroy, alter, or conceal records, etc][59]
 
-[47][60] [Offence to resist search][60]
+[47][60][][60][Offence to resist search][60]
 
 [Miscellaneous provisions][61]
 
-[48][62] [Serious Fraud Prosecutors Panel][62]
+[48][62][][62][Serious Fraud Prosecutors Panel][62]
 
-[49][63] [No obligation to investigate, etc][63]
+[49][63][][63][No obligation to investigate, etc][63]
 
-[50][64] [Exercise of powers not precluded by certain matters][64]
+[50][64][][64][Exercise of powers not precluded by certain matters][64]
 
-[51][65] [Agreements with overseas agencies][65]
+[51][65][][65][Agreements with overseas agencies][65]
 
-[52][66] [Giving of notices][66]
+[52][66][][66][Giving of notices][66]
 
-[53][67] [Regulations][67]
+[53][67][][67][Regulations][67]
 
 [Amendments to other Acts][68]
 
-[54][69] [Amendment to Summary Proceedings Act 1957][69]
+[54][69][][69][Amendment to Summary Proceedings Act 1957][69]
 
-[55][70] [Amendment to Inland Revenue Department Act 1974][70]
+[55][70][][70][Amendment to Inland Revenue Department Act 1974][70]
 
-[56][71] [Amendments to Wanganui Computer Centre Act 1976][71] \[Repealed\]
+[56][71][][71][Amendments to Wanganui Computer Centre Act 1976][71] \[Repealed\]
 
 [Schedule][72]  
 [Amendments to Wanganui Computer Centre Act 1976][72]
@@ -782,9 +782,11 @@ Miscellaneous provisions
     
     (3) This section is subject to [section 37][49] and [section 39][51].
     
-    (4) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
+    (4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
     
     Compare: SR 1985/259 r 33; 1988 No 2 [s 32][90]; 1989 No 11 [s 23][91]
+    
+    Section 36(4): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Secrecy of information protected under Inland Revenue Department Act 1974
     
@@ -812,15 +814,17 @@ Miscellaneous provisions
         
         
     
-    (4) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes this section.
+    (4) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes this section.
     
     Section 37(2)(a): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
     Section 37(3): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
+    
+    Section 37(4): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Disclosure to Serious Fraud Office of information protected under other Acts
     
-*   (1) Any information which is protected under any Act other than the [Tax Administration Act 1994][74] or the [Statistics Act 1975][92] may, notwithstanding any provision of that Act, be disclosed to any member of the Serious Fraud Office for the purpose of investigating or prosecuting any offence involving serious or complex fraud.
+*   (1) Any information which is protected under any Act other than the [Tax Administration Act 1994][74] or the [Statistics Act 1975][93] may, notwithstanding any provision of that Act, be disclosed to any member of the Serious Fraud Office for the purpose of investigating or prosecuting any offence involving serious or complex fraud.
     
     (2) No person shall be liable to prosecution for an offence by reason of disclosing information pursuant to this section.
     
@@ -848,9 +852,11 @@ Miscellaneous provisions
         
         
     
-    (3) Every member of the Serious Fraud Office commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
+    (3) Every member of the Serious Fraud Office commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes this section.
     
     Section 39(1): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
+    
+    Section 39(3): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Obligation to inform that protected information is secret
     
@@ -860,7 +866,9 @@ Miscellaneous provisions
     
     *   (b) that, if the recipient discloses the information pursuant to [section 41][53], the recipient will be bound by the obligation that is imposed by paragraph (a).
     
-    (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who knowingly contravenes this section.
+    (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who knowingly contravenes this section.
+    
+    Section 40(2): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 41 Secrecy to be observed by other persons to whom protected information is disclosed under this Act
     
@@ -890,13 +898,17 @@ Miscellaneous provisions
         
         
     
-    (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who knowingly contravenes subsection (1)(a) or subsection (1)(c).
+    (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $5,000, who knowingly contravenes subsection (1)(a) or subsection (1)(c).
     
-    (3) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes subsection (1)(b).
+    (3) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000, who knowingly contravenes subsection (1)(b).
     
     Section 41(1)(b): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
     Section 41(1)(c): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
+    
+    Section 41(2): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 41(3): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Authorisations to disclose protected information
     
@@ -938,7 +950,7 @@ Miscellaneous provisions
 
 ##### 45 Offence to obstruct investigation, etc
     
-*   Every person commits an offence, and is liable on conviction on indictment,---
+*   Every person commits an offence, and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $15,000:
     
@@ -966,11 +978,13 @@ Miscellaneous provisions
     
     *   (e) in the course of complying with any requirement imposed pursuant to [section 5][7] or [section 9][12], gives an answer to any question, or supplies any information, or produces any document, or provides any explanation, knowing that it is false or misleading in a material particular or being reckless as to whether it is so false or misleading.
     
-    Compare: 1989 No 11 [ss 20][93], [70][94]
+    Compare: 1989 No 11 [ss 20][94], [70][95]
+    
+    Section 45: amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Offence to destroy, alter, or conceal records, etc
     
-*   (1) Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who, with intent to defeat any investigation being carried out or likely to be carried out by the Serious Fraud Office, or with intent to prevent the Serious Fraud Office exercising any power under this Act,---
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $50,000, who, with intent to defeat any investigation being carried out or likely to be carried out by the Serious Fraud Office, or with intent to prevent the Serious Fraud Office exercising any power under this Act,---
         
     *   (a) destroys, alters, or conceals any book, document, or record; or
     
@@ -984,11 +998,15 @@ Miscellaneous provisions
     
     the onus of proving that in so doing that person had not acted in contravention of this section shall lie on that person.
     
-    Compare: 1989 No 11 [s 68][95]
+    Compare: 1989 No 11 [s 68][96]
+    
+    Section 46(1): amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Offence to resist search
     
-*   Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, any warrant issued under this Act.
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, who intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, any warrant issued under this Act.
+    
+    Section 47: amended, on 1 July 2013, by [section 413][92] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -1080,7 +1098,7 @@ Miscellaneous provisions
 
 ##### 54 Amendment to Summary Proceedings Act 1957
     
-*   _Amendment(s) incorporated in the [Act(s)][96]._
+*   _Amendment(s) incorporated in the [Act(s)][97]._
 
 ##### 55 Amendment to Inland Revenue Department Act 1974
     
@@ -1090,7 +1108,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 56: repealed, on 1 July 1993, by [section 129(2)][97] of the Privacy Act 1993 (1993 No 28).
+    Section 56: repealed, on 1 July 1993, by [section 129(2)][98] of the Privacy Act 1993 (1993 No 28).
 
 ---
 
@@ -1101,7 +1119,7 @@ Amendments to Wanganui Computer Centre Act 1976
 
 \[Repealed\]
     
-*   Schedule: repealed, on 1 July 1993, by [section 129(2)][97] of the Privacy Act 1993 (1993 No 28).
+*   Schedule: repealed, on 1 July 1993, by [section 129(2)][98] of the Privacy Act 1993 (1993 No 28).
 
 ---
 
@@ -1119,23 +1137,23 @@ Amendments to Wanganui Computer Centre Act 1976
 
 ###### 1 General
     
-*   This is a reprint of the Serious Fraud Office Act 1990\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Serious Fraud Office Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][98] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][99] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][99] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][100] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][100] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][101] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][101] and [17E][102] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][102] and [17E][103] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1166,7 +1184,9 @@ Amendments to Wanganui Computer Centre Act 1976
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][83]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][92]
+    
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][83]
     
     Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][82]
     
@@ -1174,7 +1194,7 @@ Amendments to Wanganui Computer Centre Act 1976
     
     Statistics Amendment Act 1994 (1994 No 159): [section 2(7)][84]
     
-    Privacy Act 1993 (1993 No 28): [section 129(2)][97]
+    Privacy Act 1993 (1993 No 28): [section 129(2)][98]
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][89]
 
@@ -1272,14 +1292,15 @@ Amendments to Wanganui Computer Centre Act 1976
 [89]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM162942
 [90]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM126508
 [91]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM144925
-[92]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM430704
-[93]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM144921
-[94]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM145329
-[95]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM145326
-[96]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM314314
-[97]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM298439
-[98]: http://www.pco.parliament.govt.nz/reprints/
-[99]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195439
-[100]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[101]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195468
-[102]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195470
+[92]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM3360714
+[93]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM430704
+[94]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM144921
+[95]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM145329
+[96]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM145326
+[97]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM314314
+[98]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM298439
+[99]: http://www.pco.parliament.govt.nz/reprints/
+[100]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195439
+[101]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[102]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195468
+[103]: http://www.legislation.govt.nz/act/public/1990/0051/latest/link.aspx?id=DLM195470
