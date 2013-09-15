@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,105 +25,105 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Contraception][4]
 
-[3][5] [Sale or disposal, etc, of contraceptives to children][5] \[Repealed\]
+[3][5][][5][Sale or disposal, etc, of contraceptives to children][5] \[Repealed\]
 
-[4][6] [Administering of contraceptives to mentally subnormal females][6]
+[4][6][][6][Administering of contraceptives to mentally subnormal females][6]
 
-[5][7] [Supply of contraceptives to sexual violation complainants][7]
+[5][7][][7][Supply of contraceptives to sexual violation complainants][7]
 
-[6][8] [Standards for manufacture of condoms][8]
+[6][8][][8][Standards for manufacture of condoms][8]
 
 [Sterilisation][9]
 
-[7][10] [Consent to sterilisation operation][10]
+[7][10][][10][Consent to sterilisation operation][10]
 
-[8][11] [Reports on sterilisations][11]
+[8][11][][11][Reports on sterilisations][11]
 
-[9][12] [Conditions relating to sterility not to be attached to loans or employment][12]
+[9][12][][12][Conditions relating to sterility not to be attached to loans or employment][12]
 
 [Abortion][13]
 
-[10][14] [Constitution of Abortion Supervisory Committee][14]
+[10][14][][14][Constitution of Abortion Supervisory Committee][14]
 
-[11][15] [Term of office of members of Supervisory Committee][15]
+[11][15][][15][Term of office of members of Supervisory Committee][15]
 
-[12][16] [Manner of appointments][16]
+[12][16][][16][Manner of appointments][16]
 
-[13][17] [Deputies of members][17]
+[13][17][][17][Deputies of members][17]
 
-[14][18] [Functions and powers of Supervisory Committee][18]
+[14][18][][18][Functions and powers of Supervisory Committee][18]
 
-[15][19] [Supervisory Committee may appoint advisory and technical committees][19]
+[15][19][][19][Supervisory Committee may appoint advisory and technical committees][19]
 
-[16][20] [Supervisory Committee may co-opt specialist advice][20]
+[16][20][][20][Supervisory Committee may co-opt specialist advice][20]
 
-[17][21] [Crown may provide services for Supervisory Committee][21]
+[17][21][][21][Crown may provide services for Supervisory Committee][21]
 
-[18][22] [Restrictions on where abortions may be performed][22]
+[18][22][][22][Restrictions on where abortions may be performed][22]
 
-[19][23] [Types and effect of licences][23]
+[19][23][][23][Types and effect of licences][23]
 
-[20][24] [Applications for licences][24]
+[20][24][][24][Applications for licences][24]
 
-[21][25] [Grant of licences][25]
+[21][25][][25][Grant of licences][25]
 
-[22][26] [Issue of licences][26]
+[22][26][][26][Issue of licences][26]
 
-[23][27] [Duration of licences][27]
+[23][27][][27][Duration of licences][27]
 
-[24][28] [Renewal of licences][28]
+[24][28][][28][Renewal of licences][28]
 
-[25][29] [Cancellation of licences][29]
+[25][29][][29][Cancellation of licences][29]
 
-[26][30] [Appeals on questions of law to High Court][30]
+[26][30][][30][Appeals on questions of law to High Court][30]
 
-[27][31] [Appeals against decisions of High Court][31]
+[27][31][][31][Appeals against decisions of High Court][31]
 
-[28][32] [Supervisory Committee may state case for High Court][32]
+[28][32][][32][Supervisory Committee may state case for High Court][32]
 
-[29][33] [Abortions not to be performed unless authorised by 2 certifying consultants][33]
+[29][33][][33][Abortions not to be performed unless authorised by 2 certifying consultants][33]
 
-[30][34] [Supervisory Committee to set up and maintain list of certifying consultants][34]
+[30][34][][34][Supervisory Committee to set up and maintain list of certifying consultants][34]
 
-[31][35] [Supervisory Committee to appoint or approve counselling services][35]
+[31][35][][35][Supervisory Committee to appoint or approve counselling services][35]
 
-[32][36] [Procedure where woman seeks abortion][36]
+[32][36][][36][Procedure where woman seeks abortion][36]
 
-[33][37] [Determination of case][37]
+[33][37][][37][Determination of case][37]
 
-[33A][38] [Performance of abortion by other practitioner][38]
+[33A][38][][38][Performance of abortion by other practitioner][38]
 
-[34][39] [Special provisions where patient mentally subnormal][39]
+[34][39][][39][Special provisions where patient mentally subnormal][39]
 
-[35][40] [Counselling][40]
+[35][40][][40][Counselling][40]
 
-[36][41] [Certifying consultants to keep records and submit reports][41]
+[36][41][][41][Certifying consultants to keep records and submit reports][41]
 
-[37][42] [Offences][42]
+[37][42][][42][Offences][42]
 
-[38][43] [Crimes Act 1961 not affected][43]
+[38][43][][43][Crimes Act 1961 not affected][43]
 
-[39][44] [Annual report][44]
+[39][44][][44][Annual report][44]
 
-[40][45] [Protection of persons acting in good faith][45]
+[40][45][][45][Protection of persons acting in good faith][45]
 
-[41][46] [Fees and travelling allowances][46]
+[41][46][][46][Fees and travelling allowances][46]
 
-[42][47] [Costs of administration][47]
+[42][47][][47][Costs of administration][47]
 
-[43][48] [Regulations][48]
+[43][48][][48][Regulations][48]
 
-[44][49] [Female procuring her own miscarriage][49]
+[44][49][][49][Female procuring her own miscarriage][49]
 
-[45][50] [Records of abortions to be forwarded to Supervisory Committee][50]
+[45][50][][50][Records of abortions to be forwarded to Supervisory Committee][50]
 
-[46][51] [Conscientious objection][51]
+[46][51][][51][Conscientious objection][51]
 
 ---
 
@@ -273,9 +273,11 @@ An Act to specify the circumstances in which contraceptives and information rela
     
 *   (1) No person shall manufacture for sale or sell any condom or other contraceptive device that does not comply with a standard for the time being approved for the purposes of this section by the Minister of Health by notice in the _Gazette_.
     
-    (2) Every person who manufactures for sale or sells any condom or other contraceptive device in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every person who manufactures for sale or sells any condom or other contraceptive device in contravention of subsection (1) commits an offence and is liable on conviction to a fine not exceeding $5,000\.
     
     (3) For the purposes of this section the term _condom_ includes a prophylactic sheath.
+    
+    Section 6(2): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Sterilisation
 
@@ -297,11 +299,13 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (2) No such report shall give the name or address of the patient.
     
-    (3) Every medical practitioner who fails to comply with subsection (1), or contravenes subsection (2), commits an offence and is liable on summary conviction to a fine not exceeding $100\.
+    (3) Every medical practitioner who fails to comply with subsection (1), or contravenes subsection (2), commits an offence and is liable on conviction to a fine not exceeding $100\.
     
     Section 8(1): amended, on 18 September 2004, by [section 175(1)][57] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 8(1)(b): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 8(1)(b): amended, on 26 April 2005, by [section 7][64] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 8(3): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 8(3): amended, on 18 September 2004, by [section 175(1)][57] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
@@ -321,13 +325,13 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (3) Every person who suffers any loss by reason of any act or omission rendered unlawful by subsection (1) or subsection (2) shall be entitled to recover damages from the person responsible for the act or omission.
     
-    Section 9(1)(a): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(1)(a): amended, on 26 April 2005, by [section 7][64] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(1)(b): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(1)(b): amended, on 26 April 2005, by [section 7][64] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(2)(a): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(2)(a): amended, on 26 April 2005, by [section 7][64] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 9(2)(b): amended, on 26 April 2005, by [section 7][63] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 9(2)(b): amended, on 26 April 2005, by [section 7][64] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
 #### Abortion
 
@@ -355,7 +359,7 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (5) Every member of the Supervisory Committee, unless he sooner vacates his office under subsection (2) or subsection (3), shall continue in office until his successor comes into office.
     
-    Section 11(3): amended, on 1 January 2002, by [section 70(1)][64] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 11(3): amended, on 1 January 2002, by [section 70(1)][65] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 12 Manner of appointments
     
@@ -413,13 +417,13 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     *   (i) to take all reasonable and practicable steps to ensure that the administration of the abortion law is consistent throughout New Zealand, and to ensure the effective operation of this Act and the procedures thereunder:
     
-    *   (j) from time to time to report to and advise the Minister of Health and any district health board established by or under the [New Zealand Public Health and Disability Act 2000][65] on the establishment of clinics and centres, and the provision of related facilities and services, in respect of contraception and sterilisation:
+    *   (j) from time to time to report to and advise the Minister of Health and any district health board established by or under the [New Zealand Public Health and Disability Act 2000][66] on the establishment of clinics and centres, and the provision of related facilities and services, in respect of contraception and sterilisation:
     
     *   (k) to report annually to Parliament on the operation of the abortion law.
     
     (2) The Supervisory Committee shall have all such reasonable powers, rights, and authorities as may be necessary to enable it to carry out its functions.
     
-    Section 14(1)(j): substituted, on 1 January 2001, by [section 111(1)][66] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 14(1)(j): substituted, on 1 January 2001, by [section 111(1)][67] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
 
 ##### 15 Supervisory Committee may appoint advisory and technical committees
     
@@ -447,7 +451,7 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (2A) \[Repealed\]
     
-    (3) Any hospital care operator (within the meaning of [section 58(4)][67] of the Health and Disability Services (Safety) Act 2001) may from time to time, at the request of the Supervisory Committee, execute any work or enter into any arrangements for the execution or provision by that operator for the Supervisory Committee of any work or service, or for the supply to the Supervisory Committee of any goods, stores, or equipment, on and subject to such terms and conditions as may be agreed.
+    (3) Any hospital care operator (within the meaning of [section 58(4)][68] of the Health and Disability Services (Safety) Act 2001) may from time to time, at the request of the Supervisory Committee, execute any work or enter into any arrangements for the execution or provision by that operator for the Supervisory Committee of any work or service, or for the supply to the Supervisory Committee of any goods, stores, or equipment, on and subject to such terms and conditions as may be agreed.
     
     Section 17(2A): repealed, on 1 July 1993, by [section 32][56] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
@@ -593,13 +597,13 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (9) The court or a Judge thereof may in its or his discretion, on the application of the appellant or the intending appellant, extend any time prescribed or allowed under this section for the filing of a notice of appeal or the stating of any case.
     
-    Section 26 heading: amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 26 heading: amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 26(1): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 26(1): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 26(2): repealed, on 15 August 1991, by [section 3(4)][69] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 26(2): repealed, on 15 August 1991, by [section 3(4)][70] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 26(7): substituted, on 15 August 1991, by [section 3(4)][69] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 26(7): substituted, on 15 August 1991, by [section 3(4)][70] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 27 Appeals against decisions of High Court
     
@@ -623,15 +627,15 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (10) Subject to the foregoing provisions of this section, appeals under this section shall be heard in accordance with the rules of court.
     
-    Section 27 heading: amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 27 heading: amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 27(1): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 27(1): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 27(2): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 27(2): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 27(6): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 27(6): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 27(9): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 27(9): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 28 Supervisory Committee may state case for High Court
     
@@ -639,11 +643,11 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (2) \[Repealed\]
     
-    Section 28 heading: amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 28 heading: amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 28(1): amended, on 1 April 1980, pursuant to [section 12][68] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 28(1): amended, on 1 April 1980, pursuant to [section 12][69] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 28(2): repealed, on 15 August 1991, by [section 3(4)][69] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 28(2): repealed, on 15 August 1991, by [section 3(4)][70] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 29 Abortions not to be performed unless authorised by 2 certifying consultants
     
@@ -697,7 +701,7 @@ An Act to specify the circumstances in which contraceptives and information rela
     
 *   (1) Every medical practitioner (in this section referred to as the woman's own doctor) who is consulted by or in respect of a female who wishes to have an abortion shall, if requested to do so by or on behalf of that female, arrange for the case to be considered and dealt with in accordance with the succeeding provisions of this section and of [section 33][37].
     
-    (2) If, after considering the case, the woman's own doctor considers that it may be one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][70] of the Crimes Act 1961 applies, he shall comply with whichever of the following provisions is applicable, namely:
+    (2) If, after considering the case, the woman's own doctor considers that it may be one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][71] of the Crimes Act 1961 applies, he shall comply with whichever of the following provisions is applicable, namely:
         
     *   (a) where he does not propose to perform the abortion himself, he shall refer the case to another medical practitioner (in this section referred to as the operating surgeon) who may be willing to perform an abortion (in the event of it being authorised in accordance with this Act); or
     
@@ -709,7 +713,7 @@ An Act to specify the circumstances in which contraceptives and information rela
         
         
     
-    (3) Where an operating surgeon to whom a case is referred under subsection (2)(a) is satisfied, after considering the case, that it is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][70] of the Crimes Act 1961 applies, he shall, if he is willing to perform the abortion, either---
+    (3) Where an operating surgeon to whom a case is referred under subsection (2)(a) is satisfied, after considering the case, that it is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][71] of the Crimes Act 1961 applies, he shall, if he is willing to perform the abortion, either---
         
     *   (a) if he is himself a certifying consultant, refer the case to 1 other certifying consultant (who shall be a practising obstetrician or gynaecologist if the operating surgeon is not, and who shall not be the woman's own doctor) with a request that he, together with the operating surgeon, determine, in accordance with [section 33][37], whether or not to authorise an abortion; or
     
@@ -737,7 +741,7 @@ An Act to specify the circumstances in which contraceptives and information rela
 
 ##### 33 Determination of case
     
-*   (1) If, after considering the case, the certifying consultants are of the opinion that the case is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][70] of the Crimes Act 1961 applies, they shall forthwith issue in accordance with subsection (5) of this section, a certificate in the prescribed form authorising the performance of an abortion.
+*   (1) If, after considering the case, the certifying consultants are of the opinion that the case is one to which any of paragraphs (a) to (d) of subsection (1), or (as the case may require) subsection (3), of [section 187A][71] of the Crimes Act 1961 applies, they shall forthwith issue in accordance with subsection (5) of this section, a certificate in the prescribed form authorising the performance of an abortion.
     
     (2) If the certifying consultants are of the contrary opinion, they shall refuse to authorise the performance of an abortion.
     
@@ -747,7 +751,7 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (5) Where 2 certifying consultants determine that they should authorise an abortion, they shall forward the said certificate to the holder of the licence in respect of the licensed institution in which the abortion is to be performed.
     
-    (5A) Where the operating surgeon is not one of the certifying consultants issuing the certificate, he shall endorse on the certificate a statement that he is willing to perform an abortion on the patient to whom the certificate relates, but a failure to comply with this requirement shall not invalidate the certificate for the purposes of [section 37(1)(b)][42] of this Act or [section 187A(4)][70] of the Crimes Act 1961\.
+    (5A) Where the operating surgeon is not one of the certifying consultants issuing the certificate, he shall endorse on the certificate a statement that he is willing to perform an abortion on the patient to whom the certificate relates, but a failure to comply with this requirement shall not invalidate the certificate for the purposes of [section 37(1)(b)][42] of this Act or [section 187A(4)][71] of the Crimes Act 1961\.
     
     (6) If, in respect of any case, any certifying consultant has not reached a decision within 14 days after it was referred to him, he shall advise the Supervisory Committee in writing of the matter, and of the reasons for the delay.
     
@@ -791,15 +795,17 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     *   (b) performs an abortion otherwise than in pursuance of a certificate issued by 2 certifying consultants under [section 33][37],---
     
-    commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000\.
+    commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000\.
     
     (2) Nothing in subsection (1) shall apply to the performance of an abortion by a medical practitioner who believes that abortion is immediately necessary to save the life of the patient or to prevent serious permanent injury to her physical or mental health.
     
     (3) It shall be a defence to a charge brought under subsection (1)(b) if the defendant shows that he believed that a certificate had been issued in respect of the patient.
+    
+    Section 37(1): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Crimes Act 1961 not affected
     
-*   Nothing in [sections 11 to 37][15] shall limit or affect any of the provisions of the [Crimes Act 1961][71].
+*   Nothing in [sections 11 to 37][15] shall limit or affect any of the provisions of the [Crimes Act 1961][72].
 
 ##### 39 Annual report
     
@@ -811,9 +817,9 @@ An Act to specify the circumstances in which contraceptives and information rela
 
 ##### 41 Fees and travelling allowances
     
-*   (1) The Supervisory Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][72].
+*   (1) The Supervisory Committee is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][73].
     
-    (2) There shall be paid to the members of the Supervisory Committee, and of every committee appointed by it, and to every person co-opted under [section 16][20] by the Supervisory Committee or any committee appointed by it, and to every certifying consultant, out of money from time to time appropriated by Parliament for the purpose, remuneration by way of salary, fees, and allowances and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][72], and the provisions of that Act shall apply accordingly as if, in the case of each such committee, the committee were a statutory board within the meaning of that Act, and as if, in the case of every certifying consultant, he were a member of such a board.
+    (2) There shall be paid to the members of the Supervisory Committee, and of every committee appointed by it, and to every person co-opted under [section 16][20] by the Supervisory Committee or any committee appointed by it, and to every certifying consultant, out of money from time to time appropriated by Parliament for the purpose, remuneration by way of salary, fees, and allowances and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][73], and the provisions of that Act shall apply accordingly as if, in the case of each such committee, the committee were a statutory board within the meaning of that Act, and as if, in the case of every certifying consultant, he were a member of such a board.
 
 ##### 42 Costs of administration
     
@@ -821,7 +827,7 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     (2) All fees from time to time payable under this Act shall be paid into a Departmental Bank Account.
     
-    Section 42(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][73] of the Public Finance Act 1989 (1989 No 44).
+    Section 42(2): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][74] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 43 Regulations
     
@@ -839,7 +845,7 @@ An Act to specify the circumstances in which contraceptives and information rela
 
 ##### 44 Female procuring her own miscarriage
     
-*   (1) Every female commits an offence and is liable on summary conviction to a fine not exceeding $200 who, with intent to procure miscarriage, whether she is pregnant or not,---
+*   (1) Every female commits an offence and is liable on conviction to a fine not exceeding $200 who, with intent to procure miscarriage, whether she is pregnant or not,---
         
     *   (a) unlawfully administers to herself, or permits to be administered to her, any poison or any drug or any noxious thing; or
     
@@ -853,9 +859,11 @@ An Act to specify the circumstances in which contraceptives and information rela
     
     *   (b) the premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died.
     
-    (3) For the purpose of determining whether any act referred to in subsection (1) is or is not done unlawfully the provisions of [section 187A][70] of the Crimes Act 1961, so far as they are applicable and with the necessary modifications, shall apply.
+    (3) For the purpose of determining whether any act referred to in subsection (1) is or is not done unlawfully the provisions of [section 187A][71] of the Crimes Act 1961, so far as they are applicable and with the necessary modifications, shall apply.
     
     (4) The provisions of subsection (1) shall apply whether or not the poison, drug, thing, instrument, or means administered or used was in fact capable of procuring miscarriage.
+    
+    Section 44(1): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Records of abortions to be forwarded to Supervisory Committee
     
@@ -905,23 +913,23 @@ An Act to specify the circumstances in which contraceptives and information rela
 
 ###### 1 General
     
-*   This is a reprint of the Contraception, Sterilisation, and Abortion Act 1977\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Contraception, Sterilisation, and Abortion Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][74] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][75] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][75] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][76] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][76] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][77] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][77] and [17E][78] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][78] and [17E][79] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -952,33 +960,35 @@ An Act to specify the circumstances in which contraceptives and information rela
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][62]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][63]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][63]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][62]
+    
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][64]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][57]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][79]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][80]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][64]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][65]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][53]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][66]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][67]
     
     Crimes Amendment Act 1994 (1994 No 27): section 3
     
     Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][56]
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][69]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][70]
     
     Contraception, Sterilisation, and Abortion Amendment Act 1990 (1990 No 128)
     
-    Public Finance Act 1989 (1989 No 44): [section 86(1)][73]
+    Public Finance Act 1989 (1989 No 44): [section 86(1)][74]
     
     Crimes Amendment Act (No 3) 1985 (1985 No 160): [section 7(3)][61]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][68]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][69]
     
     Contraception, Sterilisation, and Abortion Amendment Act 1978 (1978 No 5)
     
@@ -1049,20 +1059,21 @@ An Act to specify the circumstances in which contraceptives and information rela
 [60]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM329051
 [61]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM87395
 [62]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM1102349
-[63]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM333795
-[64]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM122579
-[65]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM80050
-[66]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM81644
-[67]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM120908
-[68]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM35049
-[69]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM230219
-[70]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM329364
-[71]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM327381
-[72]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM264952
-[73]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM163175
-[74]: http://www.pco.parliament.govt.nz/reprints/
-[75]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195439
-[76]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[77]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195468
-[78]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195470
-[79]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM201378
+[63]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM3360714
+[64]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM333795
+[65]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM122579
+[66]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM80050
+[67]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM81644
+[68]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM120908
+[69]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM35049
+[70]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM230219
+[71]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM329364
+[72]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM327381
+[73]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM264952
+[74]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM163175
+[75]: http://www.pco.parliament.govt.nz/reprints/
+[76]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195439
+[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[78]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195468
+[79]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM195470
+[80]: http://www.legislation.govt.nz/act/public/1977/0112/latest/link.aspx?id=DLM201378
