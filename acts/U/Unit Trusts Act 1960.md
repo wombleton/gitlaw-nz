@@ -1,5 +1,5 @@
 Reprint  
-as at 31 August 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -620,7 +620,7 @@ An Act to provide for regulating the operations of unit trusts
     
     (2) Every such inspector shall have in relation to the unit trust and its manager and affairs all the powers conferred on an inspector in relation to a company and its affairs by section 171 of the Companies Act 1955 (except subsection (3) of that section); and those provisions, so far as they are applicable and with the necessary modifications, shall apply accordingly. The report of every such inspector who is appointed by the High Court shall be made to that court.
     
-    (3) If any officer or agent of a company that is manager of a unit trust in respect of which an inspector has been appointed under this section refuses to produce to the inspector any book or paper which it is his duty under this section so to produce, or refuses to answer any question which is put to him by the inspector with respect to the affairs of the company or unit trust, that officer or agent commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
+    (3) If any officer or agent of a company that is manager of a unit trust in respect of which an inspector has been appointed under this section refuses to produce to the inspector any book or paper which it is his duty under this section so to produce, or refuses to answer any question which is put to him by the inspector with respect to the affairs of the company or unit trust, that officer or agent commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding 100 pounds.
     
     (4) No such officer or agent shall be excused from answering any question put to him by an inspector with respect to the affairs of the company or unit trust on the ground that the answer may incriminate or tend to incriminate him, but no statement made by him in answer to any such question shall be admissible against him in criminal proceedings, except proceedings under the [Crimes Act 1961][100] for making a false statement upon oath.
     
@@ -632,7 +632,9 @@ An Act to provide for regulating the operations of unit trusts
     
     Section 21(2): amended, on 1 April 1980, pursuant to [section 12][94] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 21(4): amended, on 1 January 1962, pursuant to [section 412(2)][101] of the Crimes Act 1961 (1961 No 43).
+    Section 21(3): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(4): amended, on 1 January 1962, pursuant to [section 412(2)][102] of the Crimes Act 1961 (1961 No 43).
 
 ##### 22 Court may confer additional powers of management
     
@@ -662,31 +664,37 @@ An Act to provide for regulating the operations of unit trusts
 
 ##### 25 Offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000,000 who---
         
     *   (a) issues any interest in a unit trust or offers any such interest to the public for subscription or purchase, or invites the public to subscribe for or purchase such an interest, in contravention of any provision of this Act; or
     
     *   (b) continues any activities related to any unit trust in contravention of subsection (3) of [section 19][26].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of [sections 9][13], [11][102], [11A][16], [11B][17], [14][21], and [20][28].
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who fails to comply with any of the provisions of [sections 9][13], [11][103], [11A][16], [11B][17], [14][21], and [20][28].
     
-    (3) Every person who has at any time, whether before or after the commencement of this Act, been convicted of a crime involving dishonesty within the meaning of the [Crimes Act 1961][100] commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, if, after the commencement of this Act, without the consent of the FMA, proof whereof shall lie on the person alleging consent, he acts as a director, officer, or responsible employee of a company that is the manager of a unit trust.
+    (3) Every person who has at any time, whether before or after the commencement of this Act, been convicted of a crime involving dishonesty within the meaning of the [Crimes Act 1961][100] commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200,000, if, after the commencement of this Act, without the consent of the FMA, proof whereof shall lie on the person alleging consent, he acts as a director, officer, or responsible employee of a company that is the manager of a unit trust.
     
-    Section 25(1): amended, on 15 April 2004, by [section 5(1)(a)][103] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    Section 25(1): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 25(1)(b): amended, on 15 April 2004, by [section 5(1)(b)][103] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    Section 25(1): amended, on 15 April 2004, by [section 5(1)(a)][104] of the Unit Trusts Amendment Act 2004 (2004 No 34).
     
-    Section 25(2): amended, on 31 August 2012, by [section 5][104] of the Unit Trusts Amendment Act 2012 (2012 No 69).
+    Section 25(1)(b): amended, on 15 April 2004, by [section 5(1)(b)][104] of the Unit Trusts Amendment Act 2004 (2004 No 34).
     
-    Section 25(2): amended, on 15 April 2004, by [section 5(2)(a)][103] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    Section 25(2): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 25(2): amended, on 15 April 2004, by [section 5(2)(b)][103] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    Section 25(2): amended, on 31 August 2012, by [section 5][105] of the Unit Trusts Amendment Act 2012 (2012 No 69).
+    
+    Section 25(2): amended, on 15 April 2004, by [section 5(2)(a)][104] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    
+    Section 25(2): amended, on 15 April 2004, by [section 5(2)(b)][104] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    
+    Section 25(3): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 25(3): amended, on 1 May 2011, by [section 82][51] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 25(3): amended, on 15 April 2004, by [section 5(3)][103] of the Unit Trusts Amendment Act 2004 (2004 No 34).
+    Section 25(3): amended, on 15 April 2004, by [section 5(3)][104] of the Unit Trusts Amendment Act 2004 (2004 No 34).
     
-    Section 25(3): amended, on 1 January 1962, pursuant to [section 412(2)][101] of the Crimes Act 1961 (1961 No 43).
+    Section 25(3): amended, on 1 January 1962, pursuant to [section 412(2)][102] of the Crimes Act 1961 (1961 No 43).
 
 ##### 26 Restriction on personal benefits by directors or officers
     
@@ -702,9 +710,9 @@ An Act to provide for regulating the operations of unit trusts
     
     (2) The provisions of this section shall have effect notwithstanding that the act is one for which the offender may be criminally liable.
     
-    (3) Where an order for payment of money is made under this section, the order shall be deemed to be a final judgment within the meaning of [section 17(1)(a)][105] of the Insolvency Act 2006\.
+    (3) Where an order for payment of money is made under this section, the order shall be deemed to be a final judgment within the meaning of [section 17(1)(a)][106] of the Insolvency Act 2006\.
     
-    Section 27(3): amended, on 3 December 2007, by [section 445][106] of the Insolvency Act 2006 (2006 No 55).
+    Section 27(3): amended, on 3 December 2007, by [section 445][107] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 28 Regulations
     
@@ -730,17 +738,17 @@ An Act to provide for regulating the operations of unit trusts
     
     *   (c) provide for the trustee to have the power, exercisable with the consent of the manager (but without requiring the consent of unit holders), to make amendments to the trust deed that do not adversely affect the interests of unit holders.
     
-    Section 28(2)(d): inserted, on 1 October 2011, by [section 84(1)][107] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 28(2)(d): inserted, on 1 October 2011, by [section 84(1)][108] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
-    Section 28(2)(e): inserted, on 1 October 2011, by [section 84(1)][107] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 28(2)(e): inserted, on 1 October 2011, by [section 84(1)][108] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
     
-    Section 28(3): replaced, on 1 October 2011, by [section 84(2)][107] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
+    Section 28(3): replaced, on 1 October 2011, by [section 84(2)][108] of the Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10).
 
 ##### 29 Amendment
     
 *   \[Repealed\]
     
-    Section 29: repealed, on 26 October 1967, by [section 48][108] of the Trustee Companies Act 1967 (1967 No 35).
+    Section 29: repealed, on 26 October 1967, by [section 48][109] of the Trustee Companies Act 1967 (1967 No 35).
 
 ##### 30 Existing unit trusts
     
@@ -803,7 +811,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Financial Markets Authority Act 2011][109].
+*   This Act is the [Financial Markets Authority Act 2011][110].
 
 ##### 2 Commencement
     
@@ -861,23 +869,23 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Unit Trusts Act 1960\. The reprint incorporates all the amendments to the Act as at 31 August 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Unit Trusts Act 1960\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][110] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][111] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][111] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][112] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][112] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][113] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][113] and [17E][114] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][114] and [17E][115] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -908,7 +916,9 @@ Miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Unit Trusts Amendment Act 2012][115] (2012 No 69)
+*   [Unit Trusts Amendment Act 2012][116] (2012 No 69)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][101]
     
     Securities Trustees and Statutory Supervisors Act 2011 (2011 No 10): [sections 78--84][74]
     
@@ -922,21 +932,21 @@ Miscellaneous provisions
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 246][54], [247][89]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][106]
+    Insolvency Act 2006 (2006 No 55): [section 445][107]
     
     Income Tax Act 2004 (2004 No 35): [section YA 2][62]
     
-    [Unit Trusts Amendment Act 2004][116] (2004 No 34)
+    [Unit Trusts Amendment Act 2004][117] (2004 No 34)
     
     Securities Amendment Act 2002 (2002 No 43): [section 28][56]
     
     Public Trust Act 2001 (2001 No 100): [section 170(1)][57]
     
-    [Unit Trusts Amendment Act 2001][117] (2001 No 27)
+    [Unit Trusts Amendment Act 2001][118] (2001 No 27)
     
-    [Unit Trusts Amendment Act 1998][118] (1998 No 64)
+    [Unit Trusts Amendment Act 1998][119] (1998 No 64)
     
-    [Unit Trusts Amendment Act 1996][119] (1996 No 101)
+    [Unit Trusts Amendment Act 1996][120] (1996 No 101)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][52]
     
@@ -960,9 +970,9 @@ Miscellaneous provisions
     
     Syndicates Act 1973 (1973 No 17): section 56(1)
     
-    Trustee Companies Act 1967 (1967 No 35): [section 48][108]
+    Trustee Companies Act 1967 (1967 No 35): [section 48][109]
     
-    Crimes Act 1961 (1961 No 43): [section 412(2)][101]
+    Crimes Act 1961 (1961 No 43): [section 412(2)][102]
 
 
 
@@ -1067,22 +1077,23 @@ Miscellaneous provisions
 [98]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM91238
 [99]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM325176
 [100]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM327381
-[101]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM332403
-[102]: http://www.legislation.govt.nz/act/public/1960/0099/latest/whole.html#DLM325453
-[103]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM245338
-[104]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM4445111
-[105]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM385882
-[106]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM387857
-[107]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM2651333
-[108]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM381749
-[109]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM3231004
-[110]: http://www.pco.parliament.govt.nz/reprints/
-[111]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195439
-[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[113]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195468
-[114]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195470
-[115]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM4445102
-[116]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM245330
-[117]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM91232
-[118]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM426881
-[119]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM406364
+[101]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM3360714
+[102]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM332403
+[103]: http://www.legislation.govt.nz/act/public/1960/0099/latest/whole.html#DLM325453
+[104]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM245338
+[105]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM4445111
+[106]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM385882
+[107]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM387857
+[108]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM2651333
+[109]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM381749
+[110]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM3231004
+[111]: http://www.pco.parliament.govt.nz/reprints/
+[112]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195439
+[113]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[114]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195468
+[115]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM195470
+[116]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM4445102
+[117]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM245330
+[118]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM91232
+[119]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM426881
+[120]: http://www.legislation.govt.nz/act/public/1960/0099/latest/link.aspx?id=DLM406364
