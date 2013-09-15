@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,59 +25,59 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Application of Act][5]
+[4][5][][5][Application of Act][5]
 
-[5][6] [Statutory managers in respect of bodies corporate to which Act applies][6]
+[5][6][][6][Statutory managers in respect of bodies corporate to which Act applies][6]
 
-[6][7] [Moratorium][7]
+[6][7][][7][Moratorium][7]
 
-[7][8] [Conduct of body corporate during statutory management][8]
+[7][8][][8][Conduct of body corporate during statutory management][8]
 
-[8][9] [New accounts][9]
+[8][9][][9][New accounts][9]
 
-[9][10] [Statutory manager's account][10]
+[9][10][][10][Statutory manager's account][10]
 
-[10][11] [Termination of contract of agency or service][11]
+[10][11][][11][Termination of contract of agency or service][11]
 
-[11][12] [Board of management and directors][12]
+[11][12][][12][Board of management and directors][12]
 
-[12][13] [Duties and functions of manager][13]
+[12][13][][13][Duties and functions of manager][13]
 
-[13][14] [Powers of manager][14]
+[13][14][][14][Powers of manager][14]
 
-[14][15] [Court may confer additional powers on manager][15]
+[14][15][][15][Court may confer additional powers on manager][15]
 
-[15][16] [Rights of secured creditors][16]
+[15][16][][16][Rights of secured creditors][16]
 
-[16][17] [Duty to deliver books and property to manager][17]
+[16][17][][17][Duty to deliver books and property to manager][17]
 
-[17][18] [Protection of manager, etc][18]
+[17][18][][18][Protection of manager, etc][18]
 
-[18][19] [Expenses of administration][19]
+[18][19][][19][Expenses of administration][19]
 
-[19][20] [Determination of management][20] \[Repealed\]
+[19][20][][20][Determination of management][20] \[Repealed\]
 
-[20][21] [Report to Minister][21]
+[20][21][][21][Report to Minister][21]
 
-[21][22] [Appointment of statutory advisory committee][22]
+[21][22][][22][Appointment of statutory advisory committee][22]
 
-[22][23] [Offence to destroy or alter records][23]
+[22][23][][23][Offence to destroy or alter records][23]
 
-[23][24] [Duty to report offences][24]
+[23][24][][24][Duty to report offences][24]
 
-[24][25] [Advances of fees of manager, etc][25]
+[24][25][][25][Advances of fees of manager, etc][25]
 
-[25][26] [Application of Industrial and Provident Societies Act 1908 and Companies Act 1955][26]
+[25][26][][26][Application of Industrial and Provident Societies Act 1908 and Companies Act 1955][26]
 
-[26][27] [Regulations][27]
+[26][27][][27][Regulations][27]
 
-[27][28] [Repeal][28]
+[27][28][][28][Repeal][28]
 
 [Schedule 1][29]  
 [Companies to which Act applies][29]
@@ -347,13 +347,15 @@ An Act to make further provision for the protection of depositors and creditors 
     
 *   (1) It shall be the duty of all persons having possession and control of any books or records or documents or other property, whatsoever and wheresoever situated, belonging to any body corporate to which this Act applies forthwith after the commencement of this Act in the case of the Society or of any company specified in [Schedule 1][29], or forthwith after the first manager (if any) is appointed in respect of any other company to which this Act applies, to deliver or yield up possession of all such books, records, documents, or other property as aforesaid to the manager in respect of the body corporate or to his authorised agent.
     
-    (2) If any person fails for 14 days to comply with the requirements of subsection (1), he commits an offence, and is liable on summary conviction to a fine not exceeding $500 and to a further fine not exceeding $10 for every day after the expiration of those 14 days during which the offence has continued.
+    (2) If any person fails for 14 days to comply with the requirements of subsection (1), he commits an offence, and is liable on conviction to a fine not exceeding $500 and to a further fine not exceeding $10 for every day after the expiration of those 14 days during which the offence has continued.
     
     (3) If any person fails to comply with the requirements of subsection (1), the manager may at any time certify the failure to the court (whether or not an offence has been committed under subsection (2)), and the court may thereupon inquire into the matter of the failure and, after hearing any witnesses who may be produced against or by or on behalf of the alleged offender, and after hearing any statement which may be offered in defence, may punish the offender in like manner as if he had been guilty of contempt of the court.
     
     (4) It shall be no defence to any proceedings under this section that the person in possession or control of any property as aforesaid is or was a trustee of the property for the Society or any company to which this Act applies or entitled to a lien or other charge over the property, or was a receiver or manager of the property.
     
     (5) The rights of any person who, in accordance with this section, delivers any property to the manager in respect of the Society or any company to which this Act applies or his authorised agent shall continue while the management continues as if the person had not so delivered the property; and on the termination of the management, subject to the provisions of this Act and unless the court otherwise orders, the property shall be returned to the person who delivered it or to someone who derives a right to possession of the property from that person. The provisions of this subsection shall apply whether the person who delivers the property is a receiver or manager, or a person entitled to a lien or charge in respect of the property, or any other person having any rights whatsoever in respect thereof.
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Protection of manager, etc
     
@@ -393,9 +395,9 @@ An Act to make further provision for the protection of depositors and creditors 
     
     Section 20(4): substituted, on 23 November 1979, by section 3(3) of the Public Service Investment Society Management (No 2) Amendment Act 1979 (1979 No 50).
     
-    Section 20(4): amended, on 1 October 1997, pursuant to [section 6(1)][39] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 20(4): amended, on 1 October 1997, pursuant to [section 6(1)][40] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 20(4): amended, on 1 October 1997, pursuant to [section 6(2)][39] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 20(4): amended, on 1 October 1997, pursuant to [section 6(2)][40] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 20(5): amended, on 23 November 1979, by section 3(4) of the Public Service Investment Society Management (No 2) Amendment Act 1979 (1979 No 50).
 
@@ -407,7 +409,7 @@ An Act to make further provision for the protection of depositors and creditors 
         
     *   (a) to advise the manager of the body corporate or bodies corporate; and
     
-    *   (b) to exercise the powers under section 163 of the Companies Act 1955 or under [section 19][40] of the Industrial and Provident Societies Act 1908 (as the case may require) to appoint an auditor or auditors and to fix the fees of the auditor or auditors so appointed; and
+    *   (b) to exercise the powers under section 163 of the Companies Act 1955 or under [section 19][41] of the Industrial and Provident Societies Act 1908 (as the case may require) to appoint an auditor or auditors and to fix the fees of the auditor or auditors so appointed; and
     
     *   (c) to consider any scheme prepared by the manager for the reconstruction of any body corporate to which this Act applies; and
     
@@ -431,11 +433,13 @@ An Act to make further provision for the protection of depositors and creditors 
     
     *   (b) fails or refuses to answer to the best of his knowledge and ability any question which he may be asked by the manager in relation to any such book or document or record or property, or wilfully gives a false answer to any such question,---
     
-    he commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000\.
+    he commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000\.
     
     (2) If in any prosecution for an offence alleged to have been committed against this section it is proved that the person charged with the offence has destroyed or altered any book, document, or record as aforesaid, or has sent or attempted to send out of New Zealand any such book, document, or record, or any other thing, the onus of proving that in so doing he had not acted in contravention of this section shall lie on him.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][41]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][42]_.
+    
+    Section 22(1): amended, on 1 July 2013, by [section 413][39] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 23 Duty to report offences
     
@@ -447,9 +451,9 @@ An Act to make further provision for the protection of depositors and creditors 
     
     (2) All money so advanced to any such person shall be refunded to the Crown out of money payable to that person in respect of the body corporate, and the Crown shall have all the rights of the person to whom the advance was made to receive and recover any such money. All money so refunded to the Crown shall be credited upon receipt to a Crown Bank Account.
     
-    Section 24(1): amended, on 25 January 2005, pursuant to [section 83(7)][42] of the Public Finance Act 1989 (1989 No 44).
+    Section 24(1): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][42] of the Public Finance Act 1989 (1989 No 44).
+    Section 24(2): amended, on 25 January 2005, pursuant to [section 83(7)][43] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 25 Application of Industrial and Provident Societies Act 1908 and Companies Act 1955
     
@@ -457,7 +461,7 @@ An Act to make further provision for the protection of depositors and creditors 
     
     (2) Notwithstanding anything to the contrary in the [Industrial and Provident Societies Act 1908][31] or the Companies Act 1955, it shall not be obligatory on the manager to furnish in respect of the Society or any company of which he is manager any annual or other return required by either of those Acts.
     
-    (3) Subject to the provisions of this Act, all the provisions of the [Industrial and Provident Societies Act 1908][31] (other than [sections 8(a)(iv)][43] and [13][44]), and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to the Society while it is subject to the provisions of this Act.
+    (3) Subject to the provisions of this Act, all the provisions of the [Industrial and Provident Societies Act 1908][31] (other than [sections 8(a)(iv)][44] and [13][45]), and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to the Society while it is subject to the provisions of this Act.
     
     (4) Subject to the provisions of this Act, all the provisions of the Companies Act 1955 and all rules and regulations under that Act, shall, so far as they are applicable, and with the necessary modifications, apply to any company to which this Act applies:
     
@@ -531,23 +535,23 @@ Sections 41, 130 to 135, 152 to 162, subsections (2) and (2A) of section 354, an
 
 ###### 1 General
     
-*   This is a reprint of the Public Service Investment Society Management Act (No 2) 1979\. The reprint incorporates all the amendments to the Act as at 1 April 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Public Service Investment Society Management Act (No 2) 1979\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][45] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][46] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][46] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][47] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][47] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][48] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][48] and [17E][49] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][49] and [17E][50] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -578,19 +582,21 @@ Sections 41, 130 to 135, 152 to 162, subsections (2) and (2A) of section 354, an
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][35]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][39]
+    
+    Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 (2009 No 34): [section 861][35]
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][38]
     
     Interpretation Act 1999 (1999 No 85): [section 38(1)][37]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][39]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][40]
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][34]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][42]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][43]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][42]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][43]
     
     Public Service Investment Society Management (No 2) Amendment Act 1980 (1980 No 91)
     
@@ -639,14 +645,15 @@ Sections 41, 130 to 135, 152 to 162, subsections (2) and (2A) of section 354, an
 [36]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM31480
 [37]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM31885
 [38]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM969644
-[39]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM408955
-[40]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144646
-[41]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM314314
-[42]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM163167
-[43]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144465
-[44]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144611
-[45]: http://www.pco.parliament.govt.nz/reprints/
-[46]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195439
-[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[48]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195468
-[49]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195470
+[39]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM3360714
+[40]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM408955
+[41]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144646
+[42]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM314314
+[43]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM163167
+[44]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144465
+[45]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM144611
+[46]: http://www.pco.parliament.govt.nz/reprints/
+[47]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195439
+[48]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[49]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195468
+[50]: http://www.legislation.govt.nz/act/public/1979/0009/latest/link.aspx?id=DLM195470
