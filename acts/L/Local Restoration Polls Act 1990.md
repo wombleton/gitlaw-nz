@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,71 +23,71 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Short Title and commencement][1]
+[1][1][][1][Short Title and commencement][1]
 
-[2][2] [Interpretation][2]
+[2][2][][2][Interpretation][2]
 
-[3][3] [No-licence district defined][3]
+[3][3][][3][No-licence district defined][3]
 
-[4][4] [Local restoration poll to be taken on day of general election][4]
+[4][4][][4][Local restoration poll to be taken on day of general election][4]
 
-[5][5] [Returning Officer for no-licence district][5]
+[5][5][][5][Returning Officer for no-licence district][5]
 
-[6][6] [Names of electors][6]
+[6][6][][6][Names of electors][6]
 
-[7][7] [Provisions for taking local restoration poll][7]
+[7][7][][7][Provisions for taking local restoration poll][7]
 
-[8][8] [Appropriation][8]
+[8][8][][8][Appropriation][8]
 
-[9][9] [Nomination of scrutineers by electors in favour of no-licence][9]
+[9][9][][9][Nomination of scrutineers by electors in favour of no-licence][9]
 
-[10][10] [Nomination of scrutineers by electors not in favour of no-licence][10]
+[10][10][][10][Nomination of scrutineers by electors not in favour of no-licence][10]
 
-[11][11] [Form of nomination][11]
+[11][11][][11][Form of nomination][11]
 
-[12][12] [Nomination paper to be lodged with Returning Officer][12]
+[12][12][][12][Nomination paper to be lodged with Returning Officer][12]
 
-[13][13] [Returning Officer to select fit persons to appoint scrutineers][13]
+[13][13][][13][Returning Officer to select fit persons to appoint scrutineers][13]
 
-[14][14] [Selection to be in writing][14]
+[14][14][][14][Selection to be in writing][14]
 
-[15][15] [Appointments to be in writing][15]
+[15][15][][15][Appointments to be in writing][15]
 
-[16][16] [Powers and rights of scrutineers][16]
+[16][16][][16][Powers and rights of scrutineers][16]
 
-[17][17] [Remuneration of scrutineers not expenses of poll][17]
+[17][17][][17][Remuneration of scrutineers not expenses of poll][17]
 
-[18][18] [Declaration of result][18]
+[18][18][][18][Declaration of result][18]
 
-[19][19] [When proposal deemed to be carried][19]
+[19][19][][19][When proposal deemed to be carried][19]
 
-[20][20] [Application to District Court Judge for recount][20]
+[20][20][][20][Application to District Court Judge for recount][20]
 
-[21][21] [Publicity for local restoration poll][21]
+[21][21][][21][Publicity for local restoration poll][21]
 
-[22][22] [Election expenses][22]
+[22][22][][22][Election expenses][22]
 
 [Petitions][23]
 
-[23][24] [Sections of Electoral Act 1956 applied][24]
+[23][24][][24][Sections of Electoral Act 1956 applied][24]
 
-[24][25] [Petition for inquiry][25]
+[24][25][][25][Petition for inquiry][25]
 
-[25][26] [Who may be respondents][26]
+[25][26][][26][Who may be respondents][26]
 
-[26][27] [Determination of court as to result of local restoration poll][27]
+[26][27][][27][Determination of court as to result of local restoration poll][27]
 
-[27][28] [Persons committing irregularities to be named in report][28]
+[27][28][][28][Persons committing irregularities to be named in report][28]
 
-[28][29] [Fresh poll][29]
+[28][29][][29][Fresh poll][29]
 
-[29][30] [Offences][30]
+[29][30][][30][Offences][30]
 
-[30][31] [Regulations][31]
+[30][31][][31][Regulations][31]
 
-[31][32] [Amendments to Sale of Liquor Act 1989][32]
+[31][32][][32][Amendments to Sale of Liquor Act 1989][32]
 
-[32][33] [Repeal][33]
+[32][33][][33][Repeal][33]
 
 [Schedule][34]  
 
@@ -269,9 +269,11 @@ This Act is administered by the Ministry of Justice.
     
 *   (1) No person shall publish or cause or permit to be published in any newspaper, periodical, poster, or handbill, or broadcast or cause or permit to be broadcast over any radio or television station, any advertisement used or appearing to be used to promote one of the proposals in the local restoration poll unless the advertisement contains a statement setting out the true name of the person for whom or at whose direction it is published and the address of his or her place of residence or business.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who wilfully contravenes subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who wilfully contravenes subsection (1).
     
     (3) Nothing in this section shall restrict the publication of any news or comments relating to the local restoration poll in a newspaper or other periodical or in a radio or television broadcast made by a broadcaster within the meaning of [section 2][46] of the Broadcasting Act 1989\.
+    
+    Section 21(2): amended, on 1 July 2013, by [section 413][47] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 22 Election expenses
     
@@ -295,7 +297,7 @@ This Act is administered by the Ministry of Justice.
     
     provided that evidence may be given to prove that any proposal other than that declared to be carried was carried and not rejected, or was rejected and not carried.
     
-    (4) Such petition shall be in [form 6][47] of the Schedule, or to the like effect, and shall be filed in the registry of the High Court nearest to the place where the poll was held. The Registrar of the court shall forthwith send a copy of the petition to the Returning Officer for the no-licence district.
+    (4) Such petition shall be in [form 6][48] of the Schedule, or to the like effect, and shall be filed in the registry of the High Court nearest to the place where the poll was held. The Registrar of the court shall forthwith send a copy of the petition to the Returning Officer for the no-licence district.
     
     (5) The petition shall be served as nearly as may be in the manner in which a statement of claim is served, or in such other manner as may be prescribed by rules of court.
     
@@ -331,7 +333,7 @@ This Act is administered by the Ministry of Justice.
 
 ##### 29 Offences
     
-*   Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $2,000 who at a local restoration poll---
+*   Every person commits an offence and shall be liable on conviction to a fine not exceeding $2,000 who at a local restoration poll---
         
     *   (a) in any way interferes with any elector, either in the polling booth or while on his or her way thereto, with the intention of influencing the elector or advising him or her as to his or her vote; or
     
@@ -346,6 +348,8 @@ This Act is administered by the Ministry of Justice.
     *   (f) does or omits to do any act that if done or omitted to be done at an electoral poll would be an offence under the Electoral Act 1956\.
     
     Compare: 1908 No 104 ss 14(2), 35
+    
+    Section 29: amended, on 1 July 2013, by [section 413][47] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Regulations
     
@@ -436,8 +440,6 @@ JP (solicitor, _or as the case may be_)
 
 **Note**: Not less than 10 electors must sign.
 
----
-
 #### Form 3  
 Returning Officer's selection for the purposes of the local restoration poll
 
@@ -448,8 +450,6 @@ Having considered the nominations duly lodged in this behalf, and having heard a
 Dated at: \[_place, date_\]
 
 Returning Officer: 
-
----
 
 #### Form 4  
 Appointment of scrutineers for the purposes of local restoration poll
@@ -474,8 +474,6 @@ Dated at: \[_place, date_\]
 
 \[_Signatures of the 2 persons authorised to appoint._\]
 
----
-
 #### Form 5  
 Declaration of result of local restoration poll
 
@@ -494,8 +492,6 @@ I hereby declare that, as the total number of valid votes recorded in favour of 
 Dated at: \[_place, date_\]
 
 Returning Officer:
-
----
 
 #### Form 6  
 Petition for inquiry as to result of local restoration poll
@@ -529,23 +525,23 @@ Wherefore your petitioners pray that it may be determined that the said proposal
 
 ###### 1 General
     
-*   This is a reprint of the Local Restoration Polls Act 1990\. The reprint incorporates all the amendments to the Act as at 1 October 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Local Restoration Polls Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][49] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][50] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][51] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][52] and [17E][53] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -576,7 +572,9 @@ Wherefore your petitioners pray that it may be determined that the said proposal
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][40]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][47]
+    
+    Electoral (Administration) Amendment Act 2010 (2010 No 26): [section 32(2)(b)][40]
 
 
 
@@ -627,9 +625,10 @@ Wherefore your petitioners pray that it may be determined that the said proposal
 [44]: http://www.legislation.govt.nz/act/public/1990/0004/latest/whole.html#DLM203519
 [45]: http://www.legislation.govt.nz/act/public/1990/0004/latest/whole.html#DLM203521
 [46]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM155371
-[47]: http://www.legislation.govt.nz/act/public/1990/0004/latest/whole.html#DLM203523
-[48]: http://www.pco.parliament.govt.nz/reprints/
-[49]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195439
-[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[51]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195468
-[52]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195470
+[47]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM3360714
+[48]: http://www.legislation.govt.nz/act/public/1990/0004/latest/whole.html#DLM203523
+[49]: http://www.pco.parliament.govt.nz/reprints/
+[50]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195439
+[51]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[52]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195468
+[53]: http://www.legislation.govt.nz/act/public/1990/0004/latest/link.aspx?id=DLM195470
