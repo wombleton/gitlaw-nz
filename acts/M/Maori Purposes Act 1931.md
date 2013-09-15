@@ -1,5 +1,5 @@
 Reprint  
-as at 26 September 2006
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1111,7 +1111,7 @@ Administrative boards and bodies
     
     (6) Any person offending against any such bylaw shall be liable on conviction to a penalty not exceeding 5 pounds.
     
-    (7) All such penalties may be recovered in a summary manner, and shall be paid to the said Board and be applied as other moneys are hereinafter directed to be applied.
+    (7) All such penalties may be recovered in accordance with [Part 3][169] of the Summary Proceedings Act 1957, and shall be paid to the said Board and be applied as other moneys are hereinafter directed to be applied.
     
     (8) The Board is hereby empowered to lease any portion of the said reserves for such period not exceeding 21 years and subject to such rents or conditions and in such manner or form as it may think fit.
     
@@ -1128,6 +1128,8 @@ Administrative boards and bodies
     Section 66(3)(c): amended, on 27 November 1947, pursuant to [section 3(2)][160] of the Maori Purposes Act 1947 (1947 No 59).
     
     Section 66(4): amended, on 27 November 1947, pursuant to [section 3(2)][160] of the Maori Purposes Act 1947 (1947 No 59).
+    
+    Section 66(7): amended, on 1 July 2013, by [section 413][170] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 66(10): amended, on 27 November 1947, pursuant to [section 3(2)][160] of the Maori Purposes Act 1947 (1947 No 59).
 
@@ -1146,7 +1148,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 16 September 1938, by [section 22(5)][169] of the Maori Purposes Act 1938 (1938 No 23).
+    Section 68: repealed, on 16 September 1938, by [section 22(5)][171] of the Maori Purposes Act 1938 (1938 No 23).
 
 ##### 69 Exempting Ngati-Tuwharetoa Tribe from paying heavy traffic fees on the Tokaanu--Waimarino Road
     
@@ -1170,13 +1172,13 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 23 November 1973, by [section 23(3)][170] of the Maori Purposes Act (No 2) 1973 (1973 No 106).
+    Section 70: repealed, on 23 November 1973, by [section 23(3)][172] of the Maori Purposes Act (No 2) 1973 (1973 No 106).
 
 ##### 71 Validating payment of rent of Owhaoko D 7 Block to Maori
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 23 November 1973, by [section 23(3)][170] of the Maori Purposes Act (No 2) 1973 (1973 No 106).
+    Section 71: repealed, on 23 November 1973, by [section 23(3)][172] of the Maori Purposes Act (No 2) 1973 (1973 No 106).
 
 #### (b) Matters affecting Tokerau District
 
@@ -1188,13 +1190,13 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 72: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 73 Enabling Kaihu lA 1 school site to be revested in Natives
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 73: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 74 Empowering adjustment of title of, and charges on, Motatau No 2 Block
     
@@ -1206,7 +1208,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 75: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 #### (c) Matters affecting Waikato-Maniapoto District
 
@@ -1234,7 +1236,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 22 December 1933, by [section 25][172] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 78: repealed, on 22 December 1933, by [section 25][174] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 79 Applying Part 18 of principal Act to Allotment 6, Section 2, Raglan
     
@@ -1252,7 +1254,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 81: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 #### (d) Matters affecting Waiariki District
 
@@ -1270,7 +1272,7 @@ Miscellaneous powers and jurisdiction
 
 ##### 84 Authorising court to confer easement in respect of Matata water supply
     
-*   Whereas by [section 74][173] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1922 it is enacted that the Governor-General may confer certain powers upon the Whakatane County Council (hereinafter referred to as the _said Council_) with respect to the supply of water for domestic purposes for the Town of Matata and the district adjoining (hereinafter referred to as the _said water supply_):
+*   Whereas by [section 74][175] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1922 it is enacted that the Governor-General may confer certain powers upon the Whakatane County Council (hereinafter referred to as the _said Council_) with respect to the supply of water for domestic purposes for the Town of Matata and the district adjoining (hereinafter referred to as the _said water supply_):
     
     And whereas it is desirable to give the said Council powers to obtain pipeline easement and other rights and appurtenances over Maori land through which the pipeline connected with the said water supply passes:
     
@@ -1294,7 +1296,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 85: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 86 Enabling court to exercise jurisdiction with regard to Ohinemutu and Whakarewarewa villages
     
@@ -1306,7 +1308,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 87: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 87: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 88 Provision with regard to Arawa Lakes
     
@@ -1318,7 +1320,7 @@ Miscellaneous powers and jurisdiction
     
     Section 88(1): amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 88(2): repealed, on 26 September 2006, by [section 96(1)][174] of Te Arawa Lakes Settlement Act 2006 (2006 No 43).
+    Section 88(2): repealed, on 26 September 2006, by [section 96(1)][176] of Te Arawa Lakes Settlement Act 2006 (2006 No 43).
 
 #### (e) Matters affecting Tairawhiti District
 
@@ -1326,7 +1328,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 89: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 89: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 90 Allotting rents of Ahirau 1 and 2 Blocks for religious purposes
     
@@ -1356,13 +1358,13 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 92: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 92: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 93 Authorising court to exercise jurisdiction as to Patutahi Block
     
 *   \[Repealed\]
     
-    Section 93: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 93: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 94 Report respecting Patutahi Block may be given effect to
     
@@ -1392,13 +1394,13 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 97: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 97: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 98 Authorising appeal respecting will of Heni Parekuta Ahuroa (deceased)
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 98: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 #### (f) Matters affecting Aotea District
 
@@ -1406,7 +1408,7 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 99: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 99: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 100 Adjusting compensation for Waipuku-Patea Reserve
     
@@ -1418,13 +1420,13 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 101: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 101: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 102 Validating inclusion of land in Bulls rifle range
     
 *   \[Repealed\]
     
-    Section 102: repealed, on 22 December 1933, by [section 26][171] of the Maori Purposes Act 1933 (1933 No 50).
+    Section 102: repealed, on 22 December 1933, by [section 26][173] of the Maori Purposes Act 1933 (1933 No 50).
 
 ##### 103 Providing for reservation and administration of Manukorihi Pa, Waitara
     
@@ -1444,15 +1446,15 @@ Miscellaneous powers and jurisdiction
     
     Section 103: amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 103(1): repealed, on 15 March 1938, by [section 6(2)(a)][175] of the Maori Purposes Act 1937 (1937 No 34).
+    Section 103(1): repealed, on 15 March 1938, by [section 6(2)(a)][177] of the Maori Purposes Act 1937 (1937 No 34).
     
     Section 103(2): amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
     Section 103(3): amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 103(3): amended, on 15 March 1938, by [section 6(2)(b)][175] of the Maori Purposes Act 1937 (1937 No 34).
+    Section 103(3): amended, on 15 March 1938, by [section 6(2)(b)][177] of the Maori Purposes Act 1937 (1937 No 34).
     
-    Section 103(4): repealed, on 15 March 1938, by [section 6(2)(a)][175] of the Maori Purposes Act 1937 (1937 No 34).
+    Section 103(4): repealed, on 15 March 1938, by [section 6(2)(a)][177] of the Maori Purposes Act 1937 (1937 No 34).
 
 ##### 104 Vesting part of Maori Reserve R, New Plymouth, in the New Plymouth Borough Council
     
@@ -1516,11 +1518,11 @@ Miscellaneous powers and jurisdiction
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 16 December 1983, by [section 6(9)][176] of the Maori Purposes Act 1983 (1983 No 146).
+    Section 109: repealed, on 16 December 1983, by [section 6(9)][178] of the Maori Purposes Act 1983 (1983 No 146).
 
 ##### 110 South Island landless Maori lands enabling
     
-*   Whereas under the South Island Landless Natives Act 1906 (since repealed), and under [section 88][177] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1916, authority was given to provide land for landless Maori as therein mentioned:
+*   Whereas under the South Island Landless Natives Act 1906 (since repealed), and under [section 88][179] of the Reserves and other Lands Disposal and Public Bodies Empowering Act 1916, authority was given to provide land for landless Maori as therein mentioned:
     
     And whereas various areas of Crown land in pursuance of the powers in that behalf have been or may be permanently reserved for the purpose:
     
@@ -1542,7 +1544,7 @@ Miscellaneous powers and jurisdiction
     
     (8) All land referred to in this section shall be deemed to be subject to the operation of section 30 of the Mining Act 1926\.
     
-    (9) Where any land permanently reserved pursuant to the enactments referred to in the recital to this section has not been allocated, that land may be dealt with as if it were ordinary Crown land subject to the [Land Act 1948][178].
+    (9) Where any land permanently reserved pursuant to the enactments referred to in the recital to this section has not been allocated, that land may be dealt with as if it were ordinary Crown land subject to the [Land Act 1948][180].
     
     Compare: 1923 No 32 s 17
     
@@ -1552,17 +1554,17 @@ Miscellaneous powers and jurisdiction
     
     Section 110(1): amended, on 27 November 1947, pursuant to [section 3(2)][160] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 110(4): amended, on 28 October 1960, by [section 18(1)][179] of the Maori Purposes Act 1960 (1960 No 120).
+    Section 110(4): amended, on 28 October 1960, by [section 18(1)][181] of the Maori Purposes Act 1960 (1960 No 120).
     
     Section 110(4): amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 110(5): amended, on 22 October 1959, by [section 30(3)][180] of the Maori Purposes Act 1959 (1959 No 90).
+    Section 110(5): amended, on 22 October 1959, by [section 30(3)][182] of the Maori Purposes Act 1959 (1959 No 90).
     
     Section 110(5): amended, on 27 November 1947, pursuant to [section 2][155] of the Maori Purposes Act 1947 (1947 No 59).
     
     Section 110(7): amended, on 27 November 1947, pursuant to [section 9(2)(a)][0] of the Maori Purposes Act 1947 (1947 No 59).
     
-    Section 110(9): inserted, on 20 October 1966, by [section 15][181] of the Maori Purposes Act 1966 (1966 No 106).
+    Section 110(9): inserted, on 20 October 1966, by [section 15][183] of the Maori Purposes Act 1966 (1966 No 106).
 
 ##### 111 Mahakipawa Maori burial ground set aside as a cemetery may be used by Maori
     
@@ -1597,7 +1599,7 @@ General
     
 *   \[Repealed\]
     
-    Section 114: repealed, on 1 April 1954, by [section 53(1)][182] of the Maori Trustee Act 1953 (1953 No 95).
+    Section 114: repealed, on 1 April 1954, by [section 53(1)][184] of the Maori Trustee Act 1953 (1953 No 95).
 
 ##### 115 Power to adjust rent under Maori leases
     
@@ -1621,7 +1623,7 @@ General
 
 ##### 118 Repeals
     
-*   (1) The Acts referred to in the [Schedule][183] are hereby repealed to the extent indicated, and in any case in which the extent of the repeal is not specified the whole of the Act is hereby repealed.
+*   (1) The Acts referred to in the [Schedule][185] are hereby repealed to the extent indicated, and in any case in which the extent of the repeal is not specified the whole of the Act is hereby repealed.
     
     (2) Notwithstanding the repeal of any such Act or portion thereof, every power and act which may be necessary to complete, carry out, or compel the performance or exercise of any statutory power or authority granted by the repealed enactment and in force at the time of its repeal shall, in so far as they are not inconsistent with this Act, continue and be in force for the purpose of continuing and perfecting any act, matter, or thing thereunder, or for the purpose of holding any inquiry or the investigation, issue, or registration of any title thereunder.
     
@@ -1664,7 +1666,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Maori Land Amendment and Maori Land Claims Adjustment Act 1926 (1926 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][184]_.
+_Amendment(s) incorporated in the [Act(s)][186]_.
 
 ##### Maori Land Amendment and Maori Land Claims Adjustment Act 1929 (1929 No 19)
 
@@ -1734,23 +1736,23 @@ Schedule: amended, on 27 November 1947, pursuant to [section 9(1)(d)][0] of the 
 
 ###### 1 General
     
-*   This is a reprint of the Maori Purposes Act 1931\. The reprint incorporates all the amendments to the Act as at 26 September 2006, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maori Purposes Act 1931\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][185] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][187] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][186] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][188] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][187] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][189] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][188] and [17E][189] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][190] and [17E][191] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1781,21 +1783,23 @@ Schedule: amended, on 27 November 1947, pursuant to [section 9(1)(d)][0] of the 
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 96(1)][174]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][170]
+    
+    Te Arawa Lakes Settlement Act 2006 (2006 No 43): [section 96(1)][176]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][165]
     
-    Maori Purposes Act 1983 (1983 No 146): [section 6(9)][176]
+    Maori Purposes Act 1983 (1983 No 146): [section 6(9)][178]
     
-    Maori Purposes Act (No 2) 1973 (1973 No 106): [section 23(3)][170]
+    Maori Purposes Act (No 2) 1973 (1973 No 106): [section 23(3)][172]
     
-    Maori Purposes Act 1966 (1966 No 106): [section 15][181]
+    Maori Purposes Act 1966 (1966 No 106): [section 15][183]
     
     Maori Purposes Act 1964 (1964 No 46): [section 14(b)][164]
     
-    Maori Purposes Act 1960 (1960 No 120): [section 18(1)][179]
+    Maori Purposes Act 1960 (1960 No 120): [section 18(1)][181]
     
-    Maori Purposes Act 1959 (1959 No 90): [section 30(3)][180]
+    Maori Purposes Act 1959 (1959 No 90): [section 30(3)][182]
     
     Maori Purposes Act 1956 (1956 No 43): [section 6(1)][168]
     
@@ -1803,7 +1807,7 @@ Schedule: amended, on 27 November 1947, pursuant to [section 9(1)(d)][0] of the 
     
     Maori Trust Boards Act 1955 (1955 No 37): [section 57(1)][162]
     
-    Maori Trustee Act 1953 (1953 No 95): [section 53(1)][182]
+    Maori Trustee Act 1953 (1953 No 95): [section 53(1)][184]
     
     Maori Affairs Act 1953 (1953 No 94): section 473(1)
     
@@ -1815,13 +1819,13 @@ Schedule: amended, on 27 November 1947, pursuant to [section 9(1)(d)][0] of the 
     
     Maori Social and Economic Advancement Act 1945 (1945 No 43): section 50(1)
     
-    Maori Purposes Act 1938 (1938 No 23): [sections 15(17)][167], [22(5)][169]
+    Maori Purposes Act 1938 (1938 No 23): [sections 15(17)][167], [22(5)][171]
     
-    Maori Purposes Act 1937 (1937 No 34): [section 6(2)][175]
+    Maori Purposes Act 1937 (1937 No 34): [section 6(2)][177]
     
     Maori Purposes Fund Act 1934--35 (1934--35 No 45): [section 16(1)][161]
     
-    Maori Purposes Act 1933 (1933 No 50): [sections 5(4)][158], [25][172], [26][171]
+    Maori Purposes Act 1933 (1933 No 50): [sections 5(4)][158], [25][174], [26][173]
 
 
 
@@ -1994,24 +1998,26 @@ Schedule: amended, on 27 November 1947, pursuant to [section 9(1)(d)][0] of the 
 [166]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM246242
 [167]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM226773
 [168]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM294765
-[169]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM226787
-[170]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM411128
-[171]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM216414
-[172]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM216412
-[173]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM196139
-[174]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM382164
-[175]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM222076
-[176]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM74885
-[177]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM189178
-[178]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM250585
-[179]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM325988
-[180]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM323899
-[181]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM380569
-[182]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM282964
-[183]: http://www.legislation.govt.nz/act/public/1931/0032/latest/whole.html#DLM210854
-[184]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM202921
-[185]: http://www.pco.parliament.govt.nz/reprints/
-[186]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195439
-[187]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[188]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195468
-[189]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195470
+[169]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM311863
+[170]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM3360714
+[171]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM226787
+[172]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM411128
+[173]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM216414
+[174]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM216412
+[175]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM196139
+[176]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM382164
+[177]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM222076
+[178]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM74885
+[179]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM189178
+[180]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM250585
+[181]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM325988
+[182]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM323899
+[183]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM380569
+[184]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM282964
+[185]: http://www.legislation.govt.nz/act/public/1931/0032/latest/whole.html#DLM210854
+[186]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM202921
+[187]: http://www.pco.parliament.govt.nz/reprints/
+[188]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195439
+[189]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[190]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195468
+[191]: http://www.legislation.govt.nz/act/public/1931/0032/latest/link.aspx?id=DLM195470
