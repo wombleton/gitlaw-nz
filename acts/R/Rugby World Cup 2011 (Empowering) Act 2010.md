@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1602,7 +1602,7 @@ Approvals and declarations
     
     (2) In an enactment that would apply, but for this Part, a reference to an approval that could be granted, given, or authorised under that enactment is to be read as a reference to an approval given under this Part.
     
-    (3) Every person who breaches an interim injunctive order commits an offence and is liable, on summary conviction, to a fine,---
+    (3) Every person who breaches an interim injunctive order commits an offence and is liable, on conviction, to a fine,---
         
     *   (a) in the case of a natural person, not exceeding $300,000; and
     
@@ -1610,7 +1610,7 @@ Approvals and declarations
     
     *   (c) in each case, if the offence is a continuing offence, not exceeding $10,000 for every day or part of a day during which the offence continues.
     
-    
+    Section 47(3): amended, on 1 July 2013, by [section 413][182] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 6---Appeal rights
 
@@ -2185,9 +2185,9 @@ Miscellaneous
 
 ##### 97 Amendment to Official Information Act 1982
     
-*   (1) This section amends the [Official Information Act 1982][182].
+*   (1) This section amends the [Official Information Act 1982][183].
     
-    (2) [Schedule 1][183] is amended by inserting the following item in its appropriate alphabetical order: ""Rugby World Cup Authority"".
+    (2) [Schedule 1][184] is amended by inserting the following item in its appropriate alphabetical order: ""Rugby World Cup Authority"".
 
 ---
 
@@ -2331,7 +2331,7 @@ Provisions relating to procedures of Authority
 ## Schedule 2   
 Further provisions relating to appeal procedure
 
-[ss 48][69], [94][184]
+[ss 48][69], [94][185]
 
 ##### 1 Notice of appeal
     
@@ -2361,7 +2361,7 @@ Further provisions relating to appeal procedure
 
 ##### 2 Right to appear and be heard on appeal
     
-*   (1) The persons who are served with a notice of appeal under [clause 1(2)][185] may appear and be heard in relation to that appeal. 
+*   (1) The persons who are served with a notice of appeal under [clause 1(2)][186] may appear and be heard in relation to that appeal. 
     
     (2) Not later than 5 working days after being served with a notice of appeal, any person wishing to appear and be heard on the appeal must serve notice of that intention to---
         
@@ -2375,7 +2375,7 @@ Further provisions relating to appeal procedure
 
 ##### 3 Parties to appeal
     
-*   (1) The parties to an appeal to the High Court are the appellant and the person or bodies who have given notice under [clause 2(2)][186].
+*   (1) The parties to an appeal to the High Court are the appellant and the person or bodies who have given notice under [clause 2(2)][187].
     
     (2) The Registrar of the High Court must ensure that the parties to an appeal are served with---
         
@@ -2411,13 +2411,13 @@ Further provisions relating to appeal procedure
 
 ##### 5 Additional appeals on questions of law
     
-*   (1) Any party to an appeal filed under [clause 1][185], other than the appellant, may file a notice with the Registrar of the High Court that the determination of the Authority is in error on questions of law other than those raised in the appellant's notice of appeal.
+*   (1) Any party to an appeal filed under [clause 1][186], other than the appellant, may file a notice with the Registrar of the High Court that the determination of the Authority is in error on questions of law other than those raised in the appellant's notice of appeal.
     
     (2) A notice must be---
         
-    *   (a) filed not later than 10 working days after the date of service of the notice of appeal under [clause 1(2)][185]; and
+    *   (a) filed not later than 10 working days after the date of service of the notice of appeal under [clause 1(2)][186]; and
     
-    *   (b) served on the other parties to the appeal in accordance with [clause 1(1) and (3)][185].
+    *   (b) served on the other parties to the appeal in accordance with [clause 1(1) and (3)][186].
     
     
 
@@ -2441,7 +2441,7 @@ Further provisions relating to appeal procedure
         
     *   (a) the notice of appeal has been served on all parties; and
     
-    *   (b) either no application has been filed under [clause 4(2)][187] or any application has been dealt with; and 
+    *   (b) either no application has been filed under [clause 4(2)][188] or any application has been dealt with; and 
     
     *   (c) the appeal is ready for hearing.
     
@@ -2451,9 +2451,9 @@ Further provisions relating to appeal procedure
     
 *   (1) No appeal may be made to the Court of Appeal from a determination of the High Court under this Act.
     
-    (2) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court, and for this purpose [sections 12 to 14][188] of the Supreme Court Act 2003 apply with any necessary modifications.
+    (2) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court, and for this purpose [sections 12 to 14][189] of the Supreme Court Act 2003 apply with any necessary modifications.
     
-    (3) If leave is declined by the Supreme Court because exceptional circumstances have not been established under [section 14][189] of the Supreme Court Act 2003, that court may remit the proposed appeal to the Court of Appeal if the Supreme Court considers that a further appeal from the determination of the High Court is justified.
+    (3) If leave is declined by the Supreme Court because exceptional circumstances have not been established under [section 14][190] of the Supreme Court Act 2003, that court may remit the proposed appeal to the Court of Appeal if the Supreme Court considers that a further appeal from the determination of the High Court is justified.
     
     (4) Any determination of the Court of Appeal under subclause (3) is final.
     
@@ -2481,23 +2481,23 @@ Further provisions relating to appeal procedure
 
 ###### 1 General
     
-*   This is a reprint of the Rugby World Cup 2011 (Empowering) Act 2010\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rugby World Cup 2011 (Empowering) Act 2010\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][190] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][191] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][191] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][192] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][192] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][193] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][193] and [17E][194] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][194] and [17E][195] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2529,6 +2529,8 @@ Further provisions relating to appeal procedure
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][171]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][182]
     
     Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123): [section 9(1)][11]
 
@@ -2716,16 +2718,17 @@ Further provisions relating to appeal procedure
 [179]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM230264
 [180]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM235278
 [181]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM235284
-[182]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM64784
-[183]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM65921
-[184]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM2902448
-[185]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902473
-[186]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902474
-[187]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902476
-[188]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM214073
-[189]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM214075
-[190]: http://www.pco.parliament.govt.nz/reprints/
-[191]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195439
-[192]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[193]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195468
-[194]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195470
+[182]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM3360714
+[183]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM64784
+[184]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM65921
+[185]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM2902448
+[186]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902473
+[187]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902474
+[188]: http://www.legislation.govt.nz/act/public/2010/0123/latest/whole.html#DLM2902476
+[189]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM214073
+[190]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM214075
+[191]: http://www.pco.parliament.govt.nz/reprints/
+[192]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195439
+[193]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[194]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195468
+[195]: http://www.legislation.govt.nz/act/public/2010/0123/latest/link.aspx?id=DLM195470
