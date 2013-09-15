@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -27,137 +27,137 @@ This Act is administered by the Ministry of Justice.
 
 [Title][2]
 
-[1][3] [Short Title and commencement][3]
+[1][3][][3][Short Title and commencement][3]
 
-[2][4] [Interpretation][4]
+[2][4][][4][Interpretation][4]
 
-[3][5] [Act to bind the Crown][5]
+[3][5][][5][Act to bind the Crown][5]
 
 [Independent Police Conduct Authority][6]
 
-[4][7] [Independent Police Conduct Authority established][7]
+[4][7][][7][Independent Police Conduct Authority established][7]
 
-[4A][8] [Crown entity][8]
+[4A][8][][8][Crown entity][8]
 
-[4AB][9] [Independence][9]
+[4AB][9][][9][Independence][9]
 
-[5][10] [Membership of Authority][10]
+[5][10][][10][Membership of Authority][10]
 
-[5A][11] [Chairperson of Authority][11]
+[5A][11][][11][Chairperson of Authority][11]
 
-[5B][12] [Appointment of Judge as member of Authority][12]
+[5B][12][][12][Appointment of Judge as member of Authority][12]
 
-[5C][13] [Resignation of member][13]
+[5C][13][][13][Resignation of member][13]
 
-[6][14] [Power to remove or suspend members][14]
+[6][14][][14][Power to remove or suspend members][14]
 
-[7][15] [Filling of vacancy][15]
+[7][15][][15][Filling of vacancy][15]
 
-[8][16] [Deputy Police Complaints Authority][16] \[Repealed\]
+[8][16][][16][Deputy Police Complaints Authority][16] \[Repealed\]
 
-[9][17] [Salaries and allowances][17] \[Repealed\]
+[9][17][][17][Salaries and allowances][17] \[Repealed\]
 
-[10][18] [Staff][18] \[Repealed\]
+[10][18][][18][Staff][18] \[Repealed\]
 
-[11][19] [Superannuation or retiring allowances][19]
+[11][19][][19][Superannuation or retiring allowances][19]
 
-[11A][20] [Funds of Authority][20] \[Repealed\]
+[11A][20][][20][Funds of Authority][20] \[Repealed\]
 
-[11B][21] [Bank accounts][21] \[Repealed\]
+[11B][21][][21][Bank accounts][21] \[Repealed\]
 
-[11C][22] [Accounts and audit][22] \[Repealed\]
+[11C][22][][22][Accounts and audit][22] \[Repealed\]
 
-[11CA][23] [Crown entity][23] \[Repealed\]
+[11CA][23][][23][Crown entity][23] \[Repealed\]
 
-[11D][24] [Investment of money][24] \[Repealed\]
+[11D][24][][24][Investment of money][24] \[Repealed\]
 
-[11E][25] [Exemption from income tax][25]
+[11E][25][][25][Exemption from income tax][25]
 
 [Functions of Authority][26]
 
-[12][27] [Functions of Authority][27]
+[12][27][][27][Functions of Authority][27]
 
-[13][28] [Duty of Commissioner to notify Authority of certain incidents involving death or serious bodily harm][28]
+[13][28][][28][Duty of Commissioner to notify Authority of certain incidents involving death or serious bodily harm][28]
 
-[14][29] [Mode of complaint][29]
+[14][29][][29][Mode of complaint][29]
 
-[15][30] [Duty of Commissioner to notify Authority of complaints][30]
+[15][30][][30][Duty of Commissioner to notify Authority of complaints][30]
 
-[16][31] [Duty of Authority to notify Commissioner of complaints][31]
+[16][31][][31][Duty of Authority to notify Commissioner of complaints][31]
 
-[17][32] [Action upon receipt of complaint][32]
+[17][32][][32][Action upon receipt of complaint][32]
 
-[18][33] [Authority may decide to take no action on complaint][33]
+[18][33][][33][Authority may decide to take no action on complaint][33]
 
-[19][34] [Subsequent powers in relation to complaint][34]
+[19][34][][34][Subsequent powers in relation to complaint][34]
 
-[20][35] [Duty of Commissioner to report to Authority on Police investigation of complaint][35]
+[20][35][][35][Duty of Commissioner to report to Authority on Police investigation of complaint][35]
 
-[21][36] [Commissioner to provide information and assistance at request of Authority][36]
+[21][36][][36][Commissioner to provide information and assistance at request of Authority][36]
 
-[22][37] [Power of Police to investigate complaints and other matters][37]
+[22][37][][37][Power of Police to investigate complaints and other matters][37]
 
 [Proceedings of Authority][38]
 
-[23][39] [Proceedings of Authority][39]
+[23][39][][39][Proceedings of Authority][39]
 
-[24][40] [Powers of Authority in relation to investigations][40]
+[24][40][][40][Powers of Authority in relation to investigations][40]
 
-[25][41] [Protection and privileges of witnesses, etc][41]
+[25][41][][41][Protection and privileges of witnesses, etc][41]
 
-[26][42] [Disclosure of certain matters not to be required][42]
+[26][42][][42][Disclosure of certain matters not to be required][42]
 
 [Procedure on completion of investigation][43]
 
-[27][44] [Procedure after investigation by Authority][44]
+[27][44][][44][Procedure after investigation by Authority][44]
 
-[28][45] [Procedure after investigation by Police][45]
+[28][45][][45][Procedure after investigation by Police][45]
 
-[29][46] [Implementation of recommendations of Authority][46]
+[29][46][][46][Implementation of recommendations of Authority][46]
 
-[30][47] [Parties to be informed of progress and result of investigation][47]
+[30][47][][47][Parties to be informed of progress and result of investigation][47]
 
-[31][48] [Adverse comment][48]
+[31][48][][48][Adverse comment][48]
 
 [Miscellaneous provisions][49]
 
-[32][50] [Authority and staff to maintain secrecy][50]
+[32][50][][50][Authority and staff to maintain secrecy][50]
 
-[33][51] [Proceedings privileged][51]
+[33][51][][51][Proceedings privileged][51]
 
-[34][52] [Publication of reports by Authority and by Commissioner][52]
+[34][52][][52][Publication of reports by Authority and by Commissioner][52]
 
-[35][53] [Annual report][53] \[Repealed\]
+[35][53][][53][Annual report][53] \[Repealed\]
 
-[36][54] [Delegation of powers by Authority][54] \[Repealed\]
+[36][54][][54][Delegation of powers by Authority][54] \[Repealed\]
 
-[37][55] [Offences][55]
+[37][55][][55][Offences][55]
 
-[38][56] [Money to be appropriated by Parliament for purposes of this Act][56] \[Repealed\]
+[38][56][][56][Money to be appropriated by Parliament for purposes of this Act][56] \[Repealed\]
 
-[38A][57] [Crimes of Torture Act 1989 not limited][57]
+[38A][57][][57][Crimes of Torture Act 1989 not limited][57]
 
-[39][58] [Amendments to other Acts][58] \[Repealed\]
+[39][58][][58][Amendments to other Acts][58] \[Repealed\]
 
 [Transitional provisions][59]
 
-[40][60] [Complaints made to Police Complaints Authority][60]
+[40][60][][60][Complaints made to Police Complaints Authority][60]
 
-[41][61] [Police Complaints Authority is chairperson][61]
+[41][61][][61][Police Complaints Authority is chairperson][61]
 
-[42][62] [Deputy Police Complaints Authority is member of Authority][62]
+[42][62][][62][Deputy Police Complaints Authority is member of Authority][62]
 
-[43][63] [Employees and officers transferred to Authority][63]
+[43][63][][63][Employees and officers transferred to Authority][63]
 
-[44][64] [References to Police Complaints Authority][64]
+[44][64][][64][References to Police Complaints Authority][64]
 
-[45][65] [Proceedings to which Police Complaints Authority party][65]
+[45][65][][65][Proceedings to which Police Complaints Authority party][65]
 
-[46][66] [Assets and liabilities vest in Authority][66]
+[46][66][][66][Assets and liabilities vest in Authority][66]
 
-[47][67] [Authority must arrange annual report and accounts][67]
+[47][67][][67][Authority must arrange annual report and accounts][67]
 
-[48][68] [Obligations and rights concerning Commission of Inquiry into Police Conduct unchanged][68]
+[48][68][][68][Obligations and rights concerning Commission of Inquiry into Police Conduct unchanged][68]
 
 ---
 
@@ -627,11 +627,13 @@ An Act to make better provision for the investigation and resolution of complain
     
     (5) Where the attendance of any person is required by the Authority under [section 24][40], the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,---
         
-    *   (a) the provisions of any regulations in that behalf under the [Summary Proceedings Act 1957][102] shall apply accordingly; and
+    *   (a) the provisions of any regulations in that behalf under the [Criminal Procedure Act 2011][102] shall apply accordingly; and
     
     *   (b) the Authority shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
     
     Section 25(5): amended, on 29 November 2007, by [section 20][103] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    
+    Section 25(5)(a): amended, on 1 July 2013, by [section 413][104] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Disclosure of certain matters not to be required
     
@@ -641,7 +643,7 @@ An Act to make better provision for the investigation and resolution of complain
             
         *   (i) the security or defence of New Zealand, or the international relations of the Government of New Zealand; or
         
-        *   (ii) any interest protected by [section 7][104] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
+        *   (ii) any interest protected by [section 7][105] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
         
         
     
@@ -695,7 +697,7 @@ An Act to make better provision for the investigation and resolution of complain
     
     (3) The Attorney-General shall, as soon as practicable after receiving a report under subsection (2)(b), lay the report before the House of Representatives.
     
-    Section 29(2): amended, on 29 November 2007, by [section 21][105] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 29(2): amended, on 29 November 2007, by [section 21][106] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 30 Parties to be informed of progress and result of investigation
     
@@ -729,15 +731,15 @@ An Act to make better provision for the investigation and resolution of complain
     
     (3) \[Repealed\]
     
-    (4) Subsection (1) applies to a person employed in the department responsible for the administration of the [Public Records Act 2005][106] or to a person employed by or in a repository approved under [section 26][107] of the Public Records Act 2005, and who has access to public records in respect of which the Authority is subject to an obligation of secrecy under this section.
+    (4) Subsection (1) applies to a person employed in the department responsible for the administration of the [Public Records Act 2005][107] or to a person employed by or in a repository approved under [section 26][108] of the Public Records Act 2005, and who has access to public records in respect of which the Authority is subject to an obligation of secrecy under this section.
     
-    Section 32(1): amended, on 29 November 2007, by [section 22(1)][108] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 32(1): amended, on 29 November 2007, by [section 22(1)][109] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 32(3): repealed, on 29 November 2007, by [section 22(2)][108] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 32(3): repealed, on 29 November 2007, by [section 22(2)][109] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 32(4): added, on 21 April 2005, by [section 67(1)][109] of the Public Records Act 2005 (2005 No 40).
+    Section 32(4): added, on 21 April 2005, by [section 67(1)][110] of the Public Records Act 2005 (2005 No 40).
     
-    Section 32(4): amended, on 1 February 2011, by [section 19][110] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
+    Section 32(4): amended, on 1 February 2011, by [section 19][111] of the Public Records Amendment Act (No 2) 2010 (2010 No 133).
 
 ##### 33 Proceedings privileged
     
@@ -749,17 +751,17 @@ An Act to make better provision for the investigation and resolution of complain
     
     (2) Nothing in subsection (1) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][111] or [section 78A(1)][112] or [section 105][113] or [section 105A][114] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][112] or [section 78A(1)][113] or [section 105][114] or [section 105A][115] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][111] or [section 78A(1)][112] or [section 105][113] or [section 105A][114] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][112] or [section 78A(1)][113] or [section 105][114] or [section 105A][115] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][111] or [section 78A(1)][112] or [section 105][113] or [section 105A][114] of the Crimes Act 1961; or
+    *   (c) the offence of attempting to commit an offence against [section 78][112] or [section 78A(1)][113] or [section 105][114] or [section 105A][115] of the Crimes Act 1961; or
     
     *   (d) an offence against [section 37][55].
     
     (3) Anything said or any information given or any document or thing produced by any person in the course of any investigation by or proceedings before the Authority under this Act shall be privileged in the same manner as if the investigation or proceedings were proceedings in a court.
     
-    (4) For the purposes of [clause 3][115] of Part 2 of Schedule 1 of the Defamation Act 1992,---
+    (4) For the purposes of [clause 3][116] of Part 2 of Schedule 1 of the Defamation Act 1992,---
         
     *   (a) any report, opinion, or recommendation given by the Authority under [section 27][44] or [section 28][45] or [section 29][46]; and
     
@@ -767,15 +769,15 @@ An Act to make better provision for the investigation and resolution of complain
     
     shall be deemed to be an official report made by a person holding an inquiry under the authority of the Government of New Zealand.
     
-    (5) This section applies despite [section 121][116] of the Crown Entities Act 2004\.
+    (5) This section applies despite [section 121][117] of the Crown Entities Act 2004\.
     
-    (6) [Sections 59(3)][117] and [60][118] of the Crown Entities Act 2004 do not apply unless the entity bringing the action, or the person making the application, shows that the member, employee, or office holder of the Authority acted in bad faith.
+    (6) [Sections 59(3)][118] and [60][119] of the Crown Entities Act 2004 do not apply unless the entity bringing the action, or the person making the application, shows that the member, employee, or office holder of the Authority acted in bad faith.
     
-    Section 33(1)(a): substituted, on 29 November 2007, by [section 23][119] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 33(1)(a): substituted, on 29 November 2007, by [section 23][120] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 33(1)(b): substituted, on 29 November 2007, by [section 23][119] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 33(1)(b): substituted, on 29 November 2007, by [section 23][120] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 33(4): amended, on 1 February 1993, by [section 56(1)][120] of the Defamation Act 1992 (1992 No 105).
+    Section 33(4): amended, on 1 February 1993, by [section 56(1)][121] of the Defamation Act 1992 (1992 No 105).
     
     Section 33(5): added, on 25 January 2005, by [section 200][77] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -811,7 +813,7 @@ An Act to make better provision for the investigation and resolution of complain
 
 ##### 37 Offences
     
-*   Every person commits an offence under this Act and is liable on summary conviction to a fine not exceeding $2,000 who,---
+*   Every person commits an offence under this Act and is liable on conviction to a fine not exceeding $2,000 who,---
         
     *   (a) without reasonable excuse, obstructs, hinders, or resists the Authority or any person in the exercise of their powers under this Act:
     
@@ -819,11 +821,13 @@ An Act to make better provision for the investigation and resolution of complain
     
     *   (c) makes any statement or gives any information to the Authority, or to any person exercising powers under this Act, knowing that the statement or information is false or misleading.
     
-    Section 37(a): amended, on 29 November 2007, by [section 24][121] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 37: amended, on 1 July 2013, by [section 413][104] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(b): amended, on 29 November 2007, by [section 24][121] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 37(a): amended, on 29 November 2007, by [section 24][122] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
     
-    Section 37(c): amended, on 29 November 2007, by [section 24][121] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 37(b): amended, on 29 November 2007, by [section 24][122] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    
+    Section 37(c): amended, on 29 November 2007, by [section 24][122] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 38 Money to be appropriated by Parliament for purposes of this Act
     
@@ -833,9 +837,9 @@ An Act to make better provision for the investigation and resolution of complain
 
 ##### 38A Crimes of Torture Act 1989 not limited
     
-*   Nothing in this Act limits the operation of [Part 2][122] of the Crimes of Torture Act 1989\.
+*   Nothing in this Act limits the operation of [Part 2][123] of the Crimes of Torture Act 1989\.
     
-    Section 38A: inserted, on 5 December 2006, by [section 14][123] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    Section 38A: inserted, on 5 December 2006, by [section 14][124] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
 
 ##### 39 Amendments to other Acts
     
@@ -845,33 +849,33 @@ An Act to make better provision for the investigation and resolution of complain
 
 #### Transitional provisions
     
-*   Heading: inserted, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+*   Heading: inserted, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 40 Complaints made to Police Complaints Authority
     
 *   Any complaint made to the Police Complaints Authority before the commencement of the Independent Police Conduct Authority Amendment Act 2007 that had not been finally dealt with before the commencement of that Act must be dealt with by the Authority under this Act (as amended by the Independent Police Conduct Authority Amendment Act 2007), whether or not any action was taken in relation to the complaint before the commencement of the Independent Police Conduct Authority Amendment Act 2007\.
     
-    Section 40: substituted, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 40: substituted, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 41 Police Complaints Authority is chairperson
     
-*   (1) The person who, immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125], held office as the Police Complaints Authority under [section 4(2)][7] of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed to the office of chairperson of the Authority under [section 5A(1)][11] of this Act (as substituted by [section 9][80] of the Independent Police Conduct Authority Amendment Act 2007).
+*   (1) The person who, immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126], held office as the Police Complaints Authority under [section 4(2)][7] of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed to the office of chairperson of the Authority under [section 5A(1)][11] of this Act (as substituted by [section 9][80] of the Independent Police Conduct Authority Amendment Act 2007).
     
-    (2) The person who is taken to have been appointed as the chairperson of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under [section 4(2)][7] of this Act (as it read immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125]).
+    (2) The person who is taken to have been appointed as the chairperson of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under [section 4(2)][7] of this Act (as it read immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126]).
     
-    Section 41: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 41: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 42 Deputy Police Complaints Authority is member of Authority
     
-*   (1) The person who, immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125], held office as a Deputy Police Complaints Authority under section 8 of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed as a member of the Authority under [section 5(1)][10] of this Act (as substituted by [section 9][80] of the Independent Police Conduct Authority Amendment Act 2007).
+*   (1) The person who, immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126], held office as a Deputy Police Complaints Authority under section 8 of this Act (as it read immediately before the commencement of the Independent Police Conduct Authority Amendment Act 2007) is taken to have been appointed as a member of the Authority under [section 5(1)][10] of this Act (as substituted by [section 9][80] of the Independent Police Conduct Authority Amendment Act 2007).
     
-    (2) The person who is taken to have been appointed as a member of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under [section 8][16] of this Act (as it read immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125]).
+    (2) The person who is taken to have been appointed as a member of the Authority under this section is appointed on the same terms and conditions on which, and for the remainder of the term for which, the person was appointed under [section 8][16] of this Act (as it read immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126]).
     
-    Section 42: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 42: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 43 Employees and officers transferred to Authority
     
-*   (1) Every employee or officer appointed by the Police Complaints Authority immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125] is, on and from that date, an employee or officer of the Authority on the same terms and conditions that applied to the employee or officer immediately before that date.
+*   (1) Every employee or officer appointed by the Police Complaints Authority immediately before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126] is, on and from that date, an employee or officer of the Authority on the same terms and conditions that applied to the employee or officer immediately before that date.
     
     (2) For the purposes of every enactment, law, contract, and agreement relating to the employment of the employee or officer,---
         
@@ -881,37 +885,37 @@ An Act to make better provision for the investigation and resolution of complain
     
     (3) A person to whom subsection (1) applies is not entitled to any compensation just because the person has ceased to be an employee or officer of the Police Complaints Authority.
     
-    Section 43: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 43: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 44 References to Police Complaints Authority
     
-*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125], unless the context otherwise requires, every reference to the Police Complaints Authority in any contract or other instrument, document, or notice must be read as a reference to the Independent Police Conduct Authority.
+*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126], unless the context otherwise requires, every reference to the Police Complaints Authority in any contract or other instrument, document, or notice must be read as a reference to the Independent Police Conduct Authority.
     
-    Section 44: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 44: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 45 Proceedings to which Police Complaints Authority party
     
-*   Any proceedings to which the Police Complaints Authority was a party or that the Police Complaints Authority was considering bringing before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125] may be brought, continued, completed, and enforced by or against the Authority.
+*   Any proceedings to which the Police Complaints Authority was a party or that the Police Complaints Authority was considering bringing before the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126] may be brought, continued, completed, and enforced by or against the Authority.
     
-    Section 45: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 45: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 46 Assets and liabilities vest in Authority
     
-*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125], the assets and liabilities of the Police Complaints Authority vest in the Authority.
+*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126], the assets and liabilities of the Police Complaints Authority vest in the Authority.
     
-    Section 46: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 46: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 47 Authority must arrange annual report and accounts
     
-*   The Authority must perform the reporting requirements, and comply with the reporting obligations, relating to annual financial statements, annual reports, and audits that the Police Complaints Authority would have performed and complied with under the Police Complaints Authority Act 1988, the [Crown Entities Act 2004][76], the [Public Finance Act 1989][126], and any other enactment.
+*   The Authority must perform the reporting requirements, and comply with the reporting obligations, relating to annual financial statements, annual reports, and audits that the Police Complaints Authority would have performed and complied with under the Police Complaints Authority Act 1988, the [Crown Entities Act 2004][76], the [Public Finance Act 1989][127], and any other enactment.
     
-    Section 47: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 47: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ##### 48 Obligations and rights concerning Commission of Inquiry into Police Conduct unchanged
     
-*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][125], the obligations, duties, rights, and powers of the Police Complaints Authority under the Police Complaints Authority (Commission of Inquiry into Police Conduct) Amendment Act 2004 must be performed by, may be exercised by, or apply to, the Authority.
+*   On the commencement of the [Independent Police Conduct Authority Amendment Act 2007][126], the obligations, duties, rights, and powers of the Police Complaints Authority under the Police Complaints Authority (Commission of Inquiry into Police Conduct) Amendment Act 2004 must be performed by, may be exercised by, or apply to, the Authority.
     
-    Section 48: added, on 29 November 2007, by [section 25][124] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+    Section 48: added, on 29 November 2007, by [section 25][125] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
 
 ---
 
@@ -929,23 +933,23 @@ An Act to make better provision for the investigation and resolution of complain
 
 ###### 1 General
     
-*   This is a reprint of the Independent Police Conduct Authority Act 1988\. The reprint incorporates all the amendments to the Act as at 1 February 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Independent Police Conduct Authority Act 1988\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][127] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][128] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][128] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][129] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][129] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][130] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][130] and [17E][131] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][131] and [17E][132] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -976,15 +980,17 @@ An Act to make better provision for the investigation and resolution of complain
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][110]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][104]
+    
+    Public Records Amendment Act (No 2) 2010 (2010 No 133): [section 19][111]
     
     Policing Act 2008 (2008 No 72): [section 130(1)][73]
     
-    [Independent Police Conduct Authority Amendment Act 2007][125] (2007 No 38)
+    [Independent Police Conduct Authority Amendment Act 2007][126] (2007 No 38)
     
-    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 14][123]
+    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 14][124]
     
-    Public Records Act 2005 (2005 No 40): [section 67(1)][109]
+    Public Records Act 2005 (2005 No 40): [section 67(1)][110]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][77]
     
@@ -992,7 +998,7 @@ An Act to make better provision for the investigation and resolution of complain
     
     Higher Salaries Commission Amendment Act (No 2) 1992 (1992 No 130): section 4
     
-    Defamation Act 1992 (1992 No 105): [section 56(1)][120]
+    Defamation Act 1992 (1992 No 105): [section 56(1)][121]
     
     Police Complaints Authority Amendment Act 1988 (1988 No 207)
     
@@ -1102,33 +1108,34 @@ An Act to make better provision for the investigation and resolution of complain
 [99]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967956
 [100]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328793
 [101]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM327381
-[102]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM310742
+[102]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM3359902
 [103]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967957
-[104]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM65368
-[105]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967958
-[106]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM345528
-[107]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM345745
-[108]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967959
-[109]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM346105
-[110]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM3431136
-[111]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328526
-[112]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328528
-[113]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328753
-[114]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328755
-[115]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM281290
-[116]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM330373
-[117]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM329990
-[118]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM329991
-[119]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967960
-[120]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM281277
-[121]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967961
-[122]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM192866
-[123]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM393158
-[124]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967962
-[125]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967918
-[126]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM160808
-[127]: http://www.pco.parliament.govt.nz/reprints/
-[128]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195439
-[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[130]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195468
-[131]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195470
+[104]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM3360714
+[105]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM65368
+[106]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967958
+[107]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM345528
+[108]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM345745
+[109]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967959
+[110]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM346105
+[111]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM3431136
+[112]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328526
+[113]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328528
+[114]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328753
+[115]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM328755
+[116]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM281290
+[117]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM330373
+[118]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM329990
+[119]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM329991
+[120]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967960
+[121]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM281277
+[122]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967961
+[123]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM192866
+[124]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM393158
+[125]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967962
+[126]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM967918
+[127]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM160808
+[128]: http://www.pco.parliament.govt.nz/reprints/
+[129]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195439
+[130]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[131]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195468
+[132]: http://www.legislation.govt.nz/act/public/1988/0002/latest/link.aspx?id=DLM195470
