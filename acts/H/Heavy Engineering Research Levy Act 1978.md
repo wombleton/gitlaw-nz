@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -346,9 +346,9 @@ An Act to authorise the levying of persons engaged in heavy engineering manufact
 
 ##### 18 Offences and penalties
     
-*   (1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $250 or, in the case of a second or subsequent conviction for a similar offence, $500, who without reasonable excuse fails to provide any information or deliver any return as and when required by the Association pursuant to any provision of this Act.
+*   (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $250 or, in the case of a second or subsequent conviction for a similar offence, $500, who without reasonable excuse fails to provide any information or deliver any return as and when required by the Association pursuant to any provision of this Act.
     
-    (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $500, who---
+    (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $500, who---
         
     *   (a) provides any information or makes any return pursuant to this Act which to his knowledge is false in any material particular:
     
@@ -357,16 +357,22 @@ An Act to authorise the levying of persons engaged in heavy engineering manufact
     *   (c) wilfully or recklessly discloses any information in contravention of [section 7][9].
     
     (3) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be liable to be proceeded against for the offence and punished accordingly.
+    
+    Section 18(1): amended, on 1 July 2013, by [section 413][42] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 18(2): amended, on 1 July 2013, by [section 413][42] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Offences by officers of Association
     
-*   (1) Every officer of the Association commits an offence, and is liable on summary conviction to a fine not exceeding $500, who---
+*   (1) Every officer of the Association commits an offence, and is liable on conviction to a fine not exceeding $500, who---
         
     *   (a) fails, without reasonable excuse, to take all reasonable steps to secure compliance by the Association with any requirement imposed on it by this Act; or
     
     *   (b) wilfully does any act in contravention of the provisions of this Act, or, in any case where the Association contravenes any such provisions, connives at the contravention.
     
     (2) For the purposes of this section, the term _officer_ means any member of the board of the Association and any paid secretary of it.
+    
+    Section 19(1): amended, on 1 July 2013, by [section 413][42] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -406,7 +412,7 @@ Levied items in respect of which rate of levy not to exceed $5 for each tonne
 
 [s 4][6]
 
-*   Schedule 2: substituted, on 2 September 1996, by [section 4(1)][42] of the Heavy Engineering Research Levy Amendment Act 1996 (1996 No 128).
+*   Schedule 2: substituted, on 2 September 1996, by [section 4(1)][43] of the Heavy Engineering Research Levy Amendment Act 1996 (1996 No 128).
 
 **Tariff item number****Statistical key code****Description of goods**
 
@@ -878,10 +884,10 @@ Levied items in respect of which rate of levy not to exceed $5 for each tonne
 
 31D....Other
 
-*   Schedule 2: amended, on 1 January 2007, by [clause 4(a)][43] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
-*   Schedule 2: amended, on 1 January 2007, by [clause 4(b)][43] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
-*   Schedule 2: amended, on 1 January 2007, by [clause 4(c)][43] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
-*   Schedule 2: amended, on 1 January 2007, by [clause 4(d)][43] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 2: amended, on 1 January 2007, by [clause 4(a)][44] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 2: amended, on 1 January 2007, by [clause 4(b)][44] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 2: amended, on 1 January 2007, by [clause 4(c)][44] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 2: amended, on 1 January 2007, by [clause 4(d)][44] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
 
 ---
 
@@ -890,7 +896,7 @@ Levied items in respect of which rate of levy not to exceed 5 cents for each kil
 
 [s 4][6]
 
-*   Schedule 3: substituted, on 2 September 1996, by [section 5(1)][44] of the Heavy Engineering Research Levy Amendment Act 1996 (1996 No 128).
+*   Schedule 3: substituted, on 2 September 1996, by [section 5(1)][45] of the Heavy Engineering Research Levy Amendment Act 1996 (1996 No 128).
 
 **Tariff item number****Statistical key code****Description of goods**
 
@@ -1156,8 +1162,8 @@ Levied items in respect of which rate of levy not to exceed 5 cents for each kil
 
 8311.90.0900K----Other
 
-*   Schedule 3: amended, on 1 January 2007, by [clause 5(a)][45] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
-*   Schedule 3: amended, on 1 January 2007, by [clause 5(b)][45] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 3: amended, on 1 January 2007, by [clause 5(a)][46] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
+*   Schedule 3: amended, on 1 January 2007, by [clause 5(b)][46] of the Heavy Engineering Research Levy Act Amendment Order 2006 (SR 2006/375).
 
 ---
 
@@ -1175,23 +1181,23 @@ Levied items in respect of which rate of levy not to exceed 5 cents for each kil
 
 ###### 1 General
     
-*   This is a reprint of the Heavy Engineering Research Levy Act 1978\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Heavy Engineering Research Levy Act 1978\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][46] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][47] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][47] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][48] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][48] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][49] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][49] and [17E][50] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][50] and [17E][51] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1222,15 +1228,17 @@ Levied items in respect of which rate of levy not to exceed 5 cents for each kil
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Heavy Engineering Research Levy Amendment Act 2012][51] (2012 No 104)
+*   [Heavy Engineering Research Levy Amendment Act 2012][52] (2012 No 104)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][42]
     
     Research, Science, and Technology Act 2010 (2010 No 131): [section 18][32]
     
-    [Heavy Engineering Research Levy Act Amendment Order 2006][52] (SR 2006/375)
+    [Heavy Engineering Research Levy Act Amendment Order 2006][53] (SR 2006/375)
     
     Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][40]
     
-    [Heavy Engineering Research Levy Amendment Act 1996][53] (1996 No 128)
+    [Heavy Engineering Research Levy Amendment Act 1996][54] (1996 No 128)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][33]
     
@@ -1282,15 +1290,16 @@ Levied items in respect of which rate of levy not to exceed 5 cents for each kil
 [39]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406887
 [40]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM408960
 [41]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM175774
-[42]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406888
-[43]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420951
-[44]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406889
-[45]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420952
-[46]: http://www.pco.parliament.govt.nz/reprints/
-[47]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195439
-[48]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[49]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195468
-[50]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195470
-[51]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM4990105
-[52]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420942
-[53]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406880
+[42]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM3360714
+[43]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406888
+[44]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420951
+[45]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406889
+[46]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420952
+[47]: http://www.pco.parliament.govt.nz/reprints/
+[48]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195439
+[49]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[50]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195468
+[51]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM195470
+[52]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM4990105
+[53]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM420942
+[54]: http://www.legislation.govt.nz/act/public/1978/0081/latest/link.aspx?id=DLM406880
