@@ -1,5 +1,5 @@
 Reprint  
-as at 17 April 2013
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(3), (4)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Inland Revenue Department.
 
@@ -798,11 +798,11 @@ This Act is administered by the Inland Revenue Department.
 
 [210][379][][379][Penalties for offences][379]
 
-[211][380][][380][Proceedings to be taken summarily][380]
+[211][380][][380][Proceedings must be commenced by Commissioner][380]
 
-[212][381][][381][Information may charge several offences][381]
+[212][381][][381][Charging document may charge several offences][381]
 
-[213][382][][382][Information may be laid within 10 years][382]
+[213][382][][382][Charging document may be filed within 10 years][382]
 
 [Part 13][383]  
 [Reciprocal agreements][383]
@@ -1151,29 +1151,29 @@ An Act---
     
     _social security benefit_ means---
         
-    *   (a) a domestic purposes benefit granted under [section 27B][481] of the Social Security Act 1964:
+    *   (a) sole parent support granted under [section 20D][481] of the Social Security Act 1964:
     
     *   (b) an unsupported child's benefit granted under [section 29][482] of the Social Security Act 1964:
     
     *   (c) where the person is a sole parent within the meaning of the [Social Security Act 1964][478] and the application for the benefit was made after 24 July 1990,---
             
-        *   (i) a widow's benefit granted under [section 21][483] of that Act:
+        *   (i) \[Repealed\]
         
-        *   (ii) an invalid's benefit granted under [section 40][484] of that Act:
+        *   (ii) a supported living payment granted under section 40B on the ground of sickness, injury, disability, or total blindness of that Act:
         
-        *   (iii) an unemployment benefit:
+        *   (iii) jobseeker support:
         
-        *   (iv) a sickness benefit:
+        *   (iv) \[Repealed\]
         
         *   (v) young parent payment:
         
         
     
-    *   (d) where the person is a sole parent within the meaning of the [Social Security Act 1964][478] and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under [section 61][485] of that Act,---
+    *   (d) where the person is a sole parent within the meaning of the [Social Security Act 1964][478] and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under [section 61][483] of that Act,---
     
     and _social security beneficiary_ means a person who is in receipt of one of those benefits
     
-    _source deduction payment_ means a PAYE income payment (as defined in [section RD 3][486] of the Income Tax Act 2007)
+    _source deduction payment_ means a PAYE income payment (as defined in [section RD 3][484] of the Income Tax Act 2007)
     
     _step-parent_, in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by a Family Court under [section 99][212]
     
@@ -1203,99 +1203,107 @@ An Act---
     
     *   (b) in relation to a person who is resident in a country outside New Zealand, the tax year of that country ends on a date nearest to the last day of the child support year.
     
-    (4) For the purposes of subsection (3)(a), if a person's income is assessed in relation to the year ending with the annual balance date of the person's accounts, the corresponding year is determined in accordance with [section 38][487] of the Tax Administration Act 1994\.
+    (4) For the purposes of subsection (3)(a), if a person's income is assessed in relation to the year ending with the annual balance date of the person's accounts, the corresponding year is determined in accordance with [section 38][485] of the Tax Administration Act 1994\.
     
     (5) For the purposes of subsection (3)(b), 30 September in any year is deemed to be nearer to the last preceding 31 March than to the next succeeding 31 March.
     
-    Section 2(1) **assessment**: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **assessment**: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **Commissioner**: amended, on 23 September 1997, by [section 2(1)][489] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
+    Section 2(1) **Commissioner**: amended, on 23 September 1997, by [section 2(1)][487] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
     
     Section 2(1) **Commissioner**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(1) **domestic maintenance**: inserted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **domestic maintenance**: inserted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **employee**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **employee**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
     Section 2(1) **employee**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 2(1) **employer**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **employer**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **employer**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **employer**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **financial support** paragraph (b): amended, on 26 April 2005, by[section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **financial support** paragraph (b): amended, on 26 April 2005, by[section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **financial support** paragraph (c): amended, on 26 April 2005, by[section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **financial support** paragraph (c): amended, on 26 April 2005, by[section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **financially independent** paragraph (b): amended, on 1 October 1998, pursuant to [regulation 49][492] of the Student Allowances Regulations 1998 (SR 1998/277).
+    Section 2(1) **financially independent** paragraph (b): amended, on 1 October 1998, pursuant to [regulation 49][490] of the Student Allowances Regulations 1998 (SR 1998/277).
     
-    Section 2(1) **financially independent** paragraph (c): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 2(1) **financially independent** paragraph (c): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 2(1) **financially independent** paragraph (c): amended, on 1 October 1998, by [section 57][494] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 2(1) **financially independent** paragraph (c): amended, on 1 October 1998, by [section 57][492] of the Social Security Amendment Act 1998 (1998 No 19).
     
-    Section 2(1) **financially independent** paragraph (d): amended, on 1 October 1998, by [section 57][494] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 2(1) **financially independent** paragraph (d): amended, on 1 October 1998, by [section 57][492] of the Social Security Amendment Act 1998 (1998 No 19).
     
-    Section 2(1) **income amount order**: amended, on 26 September 2006, by [section 4(1)(a)][495] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 2(1) **income amount order**: amended, on 26 September 2006, by [section 4(1)(a)][493] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 2(1) **income from employment**: inserted (with effect on 1 April 2001), on 7 November 2001, by [section 3(1)(b)][496] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 2(1) **income from employment**: inserted (with effect on 1 April 2001), on 7 November 2001, by [section 3(1)(b)][494] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 2(1) **income from employment**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **income from employment**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **last relevant income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **last relevant income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **last relevant tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **last relevant tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **liable spouse**: repealed, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **liable spouse**: repealed, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **liable spouse or partner**: inserted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **liable spouse or partner**: inserted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **married person**: repealed, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **married person**: repealed, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **most recent income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **most recent income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **most recent tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(1) **most recent tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **officer of the Department**: inserted, on 23 September 1997, by [section 2(2)][489] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
+    Section 2(1) **officer of the Department**: inserted, on 23 September 1997, by [section 2(2)][487] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
     
-    Section 2(1) **overseas jurisdiction**: inserted, on 26 September 2006, by [section 4(2)][495] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 2(1) **overseas jurisdiction**: inserted, on 26 September 2006, by [section 4(2)][493] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 2(1) **payee** paragraph (b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **payee** paragraph (b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **proceeding**: amended, on 26 September 2006, by [section 4(1)(b)][495] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 2(1) **proceeding**: amended, on 26 September 2006, by [section 4(1)(b)][493] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 2(1) **proceeding**: amended (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 2(1) **proceeding**: amended (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
+    
+    Section 2(1) **social security benefit** paragraph (a): amended, on 15 July 2013, by [section 86][496] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    
+    Section 2(1) **social security benefit** paragraph (c)(i): repealed, on 15 July 2013, by [section 86][496] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    
+    Section 2(1) **social security benefit** paragraph (c)(ii): amended, on 15 July 2013, by [section 97][497] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
     Section 2(1) **social security benefit** paragraph (c)(iii): substituted, on 1 July 2001, by [section 45][498] of the Social Security Amendment Act 2001 (2001 No 1).
     
-    Section 2(1) **social security benefit** paragraph (c)(iv): substituted, on 1 July 2001, by [section 45][498] of the Social Security Amendment Act 2001 (2001 No 1).
+    Section 2(1) **social security benefit** paragraph (c)(iii): amended, on 15 July 2013, by [section 129][499] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 2(1) **social security benefit** paragraph (c)(v): replaced, on 20 August 2012, by [section 27(2)][499] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
+    Section 2(1) **social security benefit** paragraph (c)(iv): repealed, on 15 July 2013, by [section 114][500] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 2(1) **source deduction payment**: substituted, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **social security benefit** paragraph (c)(v): replaced, on 20 August 2012, by [section 27(2)][501] of the Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50).
     
-    Section 2(1) **spousal maintenance**: repealed, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 2(1) **source deduction payment**: substituted, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(1) **withholding income**: added (with effect on 1 April 2001), on 7 November 2001, by [section 3(1)(b)][496] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 2(1) **spousal maintenance**: repealed, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 2(1) **withholding income** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **withholding income**: added (with effect on 1 April 2001), on 7 November 2001, by [section 3(1)(b)][494] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 2(1) **withholding income** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 2(1) **withholding income** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(3): added, on 24 July 1999, by [section 2(3)][500] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 2(1) **withholding income** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 2(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(3): added, on 24 July 1999, by [section 2(3)][502] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 2(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(3)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(4): added, on 24 July 1999, by [section 2(3)][500] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 2(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 2(4): added, on 24 July 1999, by [section 2(3)][502] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 2(5): added, on 24 July 1999, by [section 2(3)][500] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 2(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
+    
+    Section 2(5): added, on 24 July 1999, by [section 2(3)][502] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 3 Act to bind the Crown
     
@@ -1305,7 +1313,7 @@ An Act---
     
 *   [Schedule 1][473] contains transitional and savings provisions (relating to amendments made to this Act on or after 1 April 2014) that affect other provisions of this Act (_see_ [section 276][472]).
     
-    Section 3A: inserted, on 17 April 2013, by [section 6][501] of the Child Support Amendment Act 2013 (2013 No 12).
+    Section 3A: inserted, on 17 April 2013, by [section 6][503] of the Child Support Amendment Act 2013 (2013 No 12).
 
 ##### 4 Objects
     
@@ -1333,7 +1341,7 @@ An Act---
     
     *   (k) to provide a system whereby child support and domestic maintenance payments can be collected by the Crown, and paid by the Crown to those entitled to the money.
     
-    Section 4(k): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 4(k): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ## Part 1  
 Liability to pay child support under formula assessment
@@ -1352,7 +1360,7 @@ Liability to pay child support under formula assessment
     
     *   (d) is a New Zealand citizen or is ordinarily resident in New Zealand.
     
-    Section 5(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 5(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 6 Parents by whom child support payable
     
@@ -1364,7 +1372,7 @@ Liability to pay child support under formula assessment
     
     (2) Notwithstanding subsection (1), where---
         
-    *   (a) a child has been adopted under the [Adoption Act 1955][502] or under an adoption to which [section 17][503] of that Act applies; and
+    *   (a) a child has been adopted under the [Adoption Act 1955][504] or under an adoption to which [section 17][505] of that Act applies; and
     
     *   (b) that adoption order has not been discharged,---
     
@@ -1374,17 +1382,17 @@ Liability to pay child support under formula assessment
     
 *   (1) For the purposes of this Act, a person is a _parent_ of a child if---
         
-    *   (a) the person's name is entered in the Register of Births pursuant to the [Births, Deaths, Marriages, and Relationships Registration Act 1995][504], or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
+    *   (a) the person's name is entered in the Register of Births pursuant to the [Births, Deaths, Marriages, and Relationships Registration Act 1995][506], or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
     
     *   (b) the person is or was a party to a legal marriage and the child was conceived by or born to the person, or the other party to the marriage, during the legal marriage; or
     
-    *   (c) the person adopted the child under the [Adoption Act 1955][502] or under an adoption to which [section 17][503] of that Act applies and that adoption order has not been discharged; or
+    *   (c) the person adopted the child under the [Adoption Act 1955][504] or under an adoption to which [section 17][505] of that Act applies and that adoption order has not been discharged; or
     
     *   (d) a New Zealand court, or a court or public authority of any overseas jurisdiction, has at any time found that the person is a parent of the child, and the finding has not been cancelled or set aside; or
     
     *   (e) the person has, at any time in any proceeding before any court in New Zealand, or before any court or public authority in an overseas jurisdiction, or in writing signed by the person, acknowledged that he or she is a parent of the child and a court has not made a finding of paternity of the child that is to the contrary of that acknowledgment; or
     
-    *   (f) a court has, under the [Family Proceedings Act 1980][505], made a paternity order against the person in respect of the child; or
+    *   (f) a court has, under the [Family Proceedings Act 1980][507], made a paternity order against the person in respect of the child; or
     
     *   (g) the person is the natural mother of the child; or
     
@@ -1404,7 +1412,7 @@ Liability to pay child support under formula assessment
     
     (4) Where---
         
-    *   (a) a child is conceived as a result of any AHR procedure to which [Part 2][506] of the Status of Children Act 1969 applies; and
+    *   (a) a child is conceived as a result of any AHR procedure to which [Part 2][508] of the Status of Children Act 1969 applies; and
     
     *   (b) a person involved in that procedure is not the mother of the child, or a person who has the rights and liabilities of a parent of the child, in terms of that Act,---
     
@@ -1412,23 +1420,23 @@ Liability to pay child support under formula assessment
     
     (5) \[Repealed\]
     
-    Compare: 1964 No 136 [s 27I(2), (3)][507]; Child Support (Assessment) Act 1989 s 8 (Aust) 
+    Compare: 1964 No 136 [s 27I(2), (3)][509]; Child Support (Assessment) Act 1989 s 8 (Aust) 
     
-    Section 7(1)(a): amended, on 24 January 2009, by [section 47][508] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 7(1)(a): amended, on 24 January 2009, by [section 47][510] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 7(1)(a): amended, on 26 September 2006, by [section 5(1)][509] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7(1)(a): amended, on 26 September 2006, by [section 5(1)][511] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 7(1)(d): amended, on 26 September 2006, by [section 5(1)][509] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7(1)(d): amended, on 26 September 2006, by [section 5(1)][511] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 7(1)(e): amended, on 26 September 2006, by [section 5(2)][509] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7(1)(e): amended, on 26 September 2006, by [section 5(2)][511] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 7(1)(i): amended, on 26 September 2006, by [section 5(1)][509] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7(1)(i): amended, on 26 September 2006, by [section 5(1)][511] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 7(4)(a): amended, on 1 July 2005, by [section 16(a)][510] of the Status of Children Amendment Act 2004 (2004 No 91).
+    Section 7(4)(a): amended, on 1 July 2005, by [section 16(a)][512] of the Status of Children Amendment Act 2004 (2004 No 91).
     
-    Section 7(4)(b): amended, on 1 July 2005, by [section 16(b)][510] of the Status of Children Amendment Act 2004 (2004 No 91).
+    Section 7(4)(b): amended, on 1 July 2005, by [section 16(b)][512] of the Status of Children Amendment Act 2004 (2004 No 91).
     
-    Section 7(5): repealed, on 26 September 2006, by [section 5(3)][509] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7(5): repealed, on 26 September 2006, by [section 5(3)][511] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 7A Commissioner may disregard document from overseas jurisdiction if not satisfied that document is valid and authentic
     
@@ -1438,7 +1446,7 @@ Liability to pay child support under formula assessment
     
     (3) This section does not limit [section 7(2)][11].
     
-    Section 7A: inserted, on 26 September 2006, by [section 6(1)][511] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 7A: inserted, on 26 September 2006, by [section 6(1)][513] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Persons who may apply for formula assessment of child support
 
@@ -1460,9 +1468,9 @@ Liability to pay child support under formula assessment
     
     (3) Notwithstanding subsection (2), where a child is a child in respect of whom payments are being made under [section 363][480] of the Children, Young Persons, and Their Families Act 1989, the only eligible custodian in relation to that child shall be the person with the duty under that Act to make those payments, being one of the following:
         
-    *   (a) the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][512]; or
+    *   (a) the chief executive of the department for the time being responsible for the administration of the [Children, Young Persons, and Their Families Act 1989][514]; or
     
-    *   (b) a body or organisation approved under [section 396][513] of that Act.
+    *   (b) a body or organisation approved under [section 396][515] of that Act.
     
     (4) Where, pursuant to subsection (2), 2 or more people who live together are both eligible custodians in relation to a child, then, notwithstanding that subsection,---
         
@@ -1472,11 +1480,11 @@ Liability to pay child support under formula assessment
     
     Compare: Child Support (Assessment) Act 1989 s 25(1) (Aust)
     
-    Section 8(2)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 8(2)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 8(3)(a): amended, on 1 October 1999, by [section 13][514] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 8(3)(a): amended, on 1 October 1999, by [section 13][516] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 8(3)(b): substituted, on 8 January 1995, by [section 49][515] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
+    Section 8(3)(b): substituted, on 8 January 1995, by [section 49][517] of the Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121).
 
 ##### 9 Custodian in receipt of social security benefit must apply for formula assessment
     
@@ -1494,17 +1502,17 @@ Liability to pay child support under formula assessment
     
     (3) Every application required by this section shall be made at the same time as an application for the social security benefit is made and at any other time when the Commissioner notifies the eligible custodian of the qualifying child that an application under this section is required in relation to the qualifying child.
     
-    (4) [Section 70A][516] of the Social Security Act 1964 applies to any person who fails to comply with this section.
+    (4) [Section 70A][518] of the Social Security Act 1964 applies to any person who fails to comply with this section.
     
-    Section 9(1A): inserted, on 15 July 1994, by [section 2][517] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 9(1A): inserted, on 15 July 1994, by [section 2][519] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 9(3): substituted (with effect on 18 December 1991), on 1 April 1993, by [section 2][518] of the Child Support Amendment Act 1993 (1993 No 15).
+    Section 9(3): substituted (with effect on 18 December 1991), on 1 April 1993, by [section 2][520] of the Child Support Amendment Act 1993 (1993 No 15).
 
 ##### 10 Non-custodial parent of child may apply for formula assessment
     
 *   A parent who wishes to pay child support under a formula assessment may apply for a formula assessment if that person is not living with the custodian of the child in a marriage, civil union or de facto relationship.
     
-    Section 10: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 10: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Persons who are principal providers of care or who share care substantially equally
 
@@ -1516,7 +1524,7 @@ Liability to pay child support under formula assessment
     
 *   Where there is disagreement as to who is the principal provider of ongoing daily care for a child, the following guidelines shall apply:
         
-    *   (a) where the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] determines that a person has primary responsibility for the child under [section 70B][519] of the Social Security Act 1964, that person shall be regarded as having the greatest responsibility for the child:
+    *   (a) where the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] determines that a person has primary responsibility for the child under [section 70B][521] of the Social Security Act 1964, that person shall be regarded as having the greatest responsibility for the child:
     
     *   (b) where paragraph (a) does not apply, the Commissioner shall have regard primarily to the periods the child is in the care of each person, and then to the following factors:
             
@@ -1532,9 +1540,9 @@ Liability to pay child support under formula assessment
         
         
     
-    Compare: 1964 No 136 [s 70B(2)][519]; 1991 No 78 [s 18][520]
+    Compare: 1964 No 136 [s 70B(2)][521]; 1991 No 78 [s 18][522]
     
-    Section 12(a): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 12(a): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 13 Substantially equal sharing of care of child
     
@@ -1578,11 +1586,11 @@ Liability to pay child support under formula assessment
     
     Compare: Child Support (Assessment) Act 1989 s 27 (Aust)
     
-    Section 14(1)(ea): inserted, on 7 October 1998, by [section 3(1)][521] of the Child Support Amendment Act 1998 (1998 No 103).
+    Section 14(1)(ea): inserted, on 7 October 1998, by [section 3(1)][523] of the Child Support Amendment Act 1998 (1998 No 103).
     
-    Section 14(1)(ea): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 14(1)(ea): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 14(1)(f): repealed, on 24 July 1999, by [section 3][522] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 14(1)(f): repealed, on 24 July 1999, by [section 3][524] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 15 Dual applications
     
@@ -1672,7 +1680,7 @@ Liability to pay child support under formula assessment
     
     child support is payable by the person in respect of the child from the day on which the application was received by the Commissioner.
     
-    Section 19(b): amended, on 26 September 2006, by [section 7][523] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 19(b): amended, on 26 September 2006, by [section 7][525] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 20 Suspension of voluntary agreements
     
@@ -1700,7 +1708,7 @@ Liability to pay child support under formula assessment
     
     Compare: Child Support (Assessment) Act 1989 s 33 (Aust)
     
-    Section 21(1)(b): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 21(1)(b): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 22 Duty to give notice of decision to custodian
     
@@ -1808,9 +1816,9 @@ Liability to pay child support under formula assessment
     
     (2) Nothing in paragraph (f) of subsection (1) shall apply in respect of any liability to pay child support to an eligible custodian who is in receipt of a social security benefit.
     
-    Section 25(1)(a)(iii): substituted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 25(1)(a)(iii): substituted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 25(1)(d)(ii): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 25(1)(d)(ii): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 26 Miscellaneous provisions relating to death of custodian
     
@@ -1855,9 +1863,9 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (4) If a custodian of a child and a liable parent wish child support to be paid at a different rate, they may, subject to this Act, enter into a voluntary agreement.
     
-    Section 28(2): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 28(2): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 28(2): amended, on 26 September 2006, by [section 8][524] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 28(2): amended, on 26 September 2006, by [section 8][526] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 29 Basic amount of child support payable
     
@@ -1923,49 +1931,49 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (2) This section shall apply except to the extent otherwise provided in [section 32][46] or [section 33][47] or [section 34][48] or [section 35][49] or [section 36][50].
     
-    Section 29(1)(a): substituted, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 29(1)(a): substituted, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 29(1)(b) **child support income amount**: substituted, on 24 July 1999, by [section 4(1)][526] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 29(1)(b) **child support income amount**: substituted, on 24 July 1999, by [section 4(1)][528] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 29(1)(b) **child support income amount**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **child support income amount**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **child support income amount**: amended, on 7 November 2001, by [section 4(1)][527] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 29(1)(b) **child support income amount**: amended, on 7 November 2001, by [section 4(1)][529] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 29(1)(b) **child support income amount** paragraph (a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **child support income amount** paragraph (a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **child support income amount** paragraph (a): amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(2)][496] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 29(1)(b) **child support income amount** paragraph (a): amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(2)][494] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 29(1)(b) **child support income amount** paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **child support income amount** paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **income year**: repealed, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **inflation percentage**: substituted, on 24 July 1999, by [section 4(2)][526] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 29(1)(b) **inflation percentage**: substituted, on 24 July 1999, by [section 4(2)][528] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 29(1)(b) **inflation percentage**: amended, on 7 November 2001, by [section 4(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 29(1)(b) **inflation percentage**: amended, on 7 November 2001, by [section 4(2)][529] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 29(1)(b) **last relevant income year**: repealed, on 24 July 1999, by [section 4(3)][526] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 29(1)(b) **last relevant income year**: repealed, on 24 July 1999, by [section 4(3)][528] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 29(1)(b) **relevant average weekly earnings amount**: substituted, on 24 July 1999, by [section 4(4)][526] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 29(1)(b) **relevant average weekly earnings amount**: substituted, on 24 July 1999, by [section 4(4)][528] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 29(1)(b) **relevant average weekly earnings amount**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **relevant average weekly earnings amount**: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **relevant average weekly earnings amount**: amended, on 15 December 1994, pursuant to [section 2(7)][528] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 29(1)(b) **relevant average weekly earnings amount**: amended, on 15 December 1994, pursuant to [section 2(7)][530] of the Statistics Amendment Act 1994 (1994 No 159).
     
-    Section 29(1)(b) **tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **tax year**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 29(1)(b) **tax year**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 29(1)(b) **taxable income**: substituted, on 7 October 1998, by [section 2(1)][529] of the Child Support Amendment Act 1998 (1998 No 103).
+    Section 29(1)(b) **taxable income**: substituted, on 7 October 1998, by [section 2(1)][531] of the Child Support Amendment Act 1998 (1998 No 103).
     
-    Section 29(1)(b) **taxable income**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 29(1)(b) **taxable income**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 29(1)(b) **taxable income** paragraph (a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **taxable income** paragraph (a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **taxable income** paragraph (a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 258(1)(a)][530] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 29(1)(b) **taxable income** paragraph (a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 258(1)(a)][532] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 29(1)(b) **taxable income** paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 29(1)(b) **taxable income** paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 29(1)(b) **taxable income** paragraph (b): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 258(1)(b)][530] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 29(1)(b) **taxable income** paragraph (b): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 258(1)(b)][532] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 30 Meaning of term living allowance
     
@@ -1977,7 +1985,7 @@ Amount of child support payable under formula assessment made by Commissioner
     
     *   (b) has no dependent children---
     
-    shall be entitled to a living allowance for the child support year of an amount equal to the gross single rate of invalid's benefit in force on 1 January in the immediately preceding child support year.
+    shall be entitled to a living allowance for the child support year of an amount equal to the gross single rate of supported living payment in force on 1 January in the immediately preceding child support year.
     
     (3) A liable parent who---
         
@@ -1985,11 +1993,11 @@ Amount of child support payable under formula assessment made by Commissioner
     
     *   (b) has no dependent children---
     
-    shall be entitled to a living allowance for the child support year of an amount equal to the gross married rate of unemployment benefit in force on 1 January in the immediately preceding child support year.
+    shall be entitled to a living allowance for the child support year of an amount equal to the gross couple rate of jobseeker support in force on 1 January in the immediately preceding child support year.
     
     (4) A liable parent who has 1 or more dependent children is entitled to a living allowance for the child support year of an amount equal to the aggregate of---
         
-    *   (a) an amount equal to the gross married rate of invalid's benefit in force on 1 January in the immediately preceding child support year; and
+    *   (a) an amount equal to the gross couple rate of supported living payment in force on 1 January in the immediately preceding child support year; and
     
     *   (b) in relation to not more than the eldest 4 such children, the sum of the amounts provided in subsection (4A) or in subsection (4B) (as the case may be).
     
@@ -2013,43 +2021,55 @@ Amount of child support payable under formula assessment made by Commissioner
     
     *   (f) who is not living with another person in a marriage, civil union or de facto relationship
     
-    _gross married rate of invalid's benefit_, in relation to any child support year, means the rate (as specified in paragraph (f) of [Schedule 6][531] of the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with [section RD 11(3)][532] of the Income Tax Act 2007)
+    _gross couple rate of jobseeker support_, in relation to any child support year, means the rate specified in clause (1)(e) of [Schedule 9][533] of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with [section RD 11(3)][534] of the Income Tax Act 2007)
     
-    _gross married rate of unemployment benefit_, in relation to any child support year, means the rate specified in clause (1)(e) of [Schedule 9][533] of the Social Security Act 1964 and before any diminution based on income, in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with [section RD 11(3)][532] of the Income Tax Act 2007)
+    _gross couple rate of supported living payment_, in relation to any child support year, means the rate (as specified in clause 1(f) of [Schedule 6][535] of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with [section RD 11(3)][534] of the Income Tax Act 2007)
     
-    _gross single rate of invalid's benefit_, in relation to any child support year, means the rate (as specified in paragraph (b) of [Schedule 6][534] of the Social Security Act 1964 and before any diminution based on income) of invalid's benefit in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with [section RD 11(3)][532] of the Income Tax Act 2007).
+    _gross single rate of supported living payment_, in relation to any child support year, means the rate (as specified in clause 1(b) of [Schedule 6][536] of the Social Security Act 1964 and before any diminution based on income) of supported living payment in force on 1 January in the immediately preceding child support year, increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net rate (as determined in accordance with [section RD 11(3)][534] of the Income Tax Act 2007).
     
-    Section 30(2)(a): substituted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 30(2): amended, on 15 July 2013, by [section 97][497] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(3): amended, on 1 July 2001, by [section 45][498] of the Social Security Amendment Act 2001 (2001 No 1).
+    Section 30(2)(a): substituted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 30(3)(a): substituted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 30(3): amended, on 15 July 2013, by [section 65(2)][537] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(4): substituted, on 4 June 2004 (applying in respect of 2005--06 and subsequent child support years), by [section 22(1)][535] of the Taxation (Working for Families) Act 2004 (2004 No 52).
+    Section 30(3): amended, on 15 July 2013, by [section 129][499] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(4)(b): amended, on 1 April 2006, by [section 3(1)][536] of the Child Support Amendment Act (No 2) 2005 (2005 No 93).
+    Section 30(3)(a): substituted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 30(4A): inserted, on 4 June 2004 (applying in respect of 2005--06 and subsequent child support years), by [section 22(1)][535] of the Taxation (Working for Families) Act 2004 (2004 No 52).
+    Section 30(4): substituted, on 4 June 2004 (applying in respect of 2005--06 and subsequent child support years), by [section 22(1)][538] of the Taxation (Working for Families) Act 2004 (2004 No 52).
     
-    Section 30(4B): substituted, on 26 September 2006, by [section 9(1)][537] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 30(4)(a): amended, on 15 July 2013, by [section 65(2)][537] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    
+    Section 30(4)(a): amended, on 15 July 2013, by [section 97][497] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    
+    Section 30(4)(b): amended, on 1 April 2006, by [section 3(1)][539] of the Child Support Amendment Act (No 2) 2005 (2005 No 93).
+    
+    Section 30(4A): inserted, on 4 June 2004 (applying in respect of 2005--06 and subsequent child support years), by [section 22(1)][538] of the Taxation (Working for Families) Act 2004 (2004 No 52).
+    
+    Section 30(4B): substituted, on 26 September 2006, by [section 9(1)][540] of the Child Support Amendment Act 2006 (2006 No 42).
     
     Section 30(5) **dependent child** paragraph (c): repealed, on 13 March 1992, by section 2(1) of the Child Support Amendment Act 1992 (1992 No 7).
     
-    Section 30(5) **dependent child** paragraph (f): substituted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 30(5) **dependent child** paragraph (f): substituted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 30(5): **gross married rate of community wage**: repealed, on 1 July 2001, by [section 45][498] of the Social Security Amendment Act 2001 (2001 No 1).
+    Section 30(5) **gross couple rate of jobseeker support**: amended, on 15 July 2013, by [section 65(4)][537] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(5) **gross married rate of invalid's benefit**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 30(5) **gross couple rate of jobseeker support**: amended, on 15 July 2013, by [section 129][499] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(5) **gross married rate of invalid's benefit**: amended (with effect on 10 May 1996), on 23 September 1996, by [section 3(1)][489] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
+    Section 30(5) **gross couple rate of jobseeker support**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 30(5) **gross married rate of unemployment benefit**: inserted, on 1 July 2001, by [section 45][498] of the Social Security Amendment Act 2001 (2001 No 1).
+    Section 30(5) **gross couple rate of jobseeker support**: amended, on 1 April 2006, by [section 3(6)][539] of the Child Support Amendment Act (No 2) 2005 (2005 No 93).
     
-    Section 30(5) **gross married rate of unemployment benefit**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 30(5) **gross couple rate of supported living payment**: amended, on 15 July 2013, by [section 65(3)][537] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(5) **gross married rate of unemployment benefit**: amended, on 1 April 2006, by [section 3(6)][536] of the Child Support Amendment Act (No 2) 2005 (2005 No 93).
+    Section 30(5) **gross couple rate of supported living payment**: amended, on 15 July 2013, by [section 97][497] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 30(5) **gross single rate of invalid's benefit**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 30(5) **gross couple rate of supported living payment**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
+    
+    Section 30(5) **gross single rate of supported living payment**: amended, on 15 July 2013, by [section 97][497] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
+    
+    Section 30(5) **gross single rate of supported living payment**: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 31 Changes of circumstances that determine amount of living allowance
     
@@ -2121,7 +2141,7 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (2) If this section applies, the annual rate of child support payable by the relevant liable parent to the other parent must be reduced (but not below zero) by the annual rate of child support that would (apart from this section) be payable by the other parent.
     
-    Section 34: substituted, on 1 November 2006, by [section 10][538] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 34: substituted, on 1 November 2006, by [section 10][541] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 35 Position where liable parent shares custody of child
     
@@ -2173,19 +2193,19 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (5) \[Repealed\]
     
-    Section 35: substituted, on 15 July 1994, by [section 3][539] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 35: substituted, on 15 July 1994, by [section 3][542] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 35(1): substituted, on 1 November 2006, by [section 11(1)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(1): substituted, on 1 November 2006, by [section 11(1)][543] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 35(2): amended, on 1 November 2006, by [section 11(2)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(2): amended, on 1 November 2006, by [section 11(2)][543] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 35(2): amended, on 1 November 2006, by [section 11(3)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(2): amended, on 1 November 2006, by [section 11(3)][543] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 35(3): substituted, on 1 November 2006, by [section 11(4)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(3): substituted, on 1 November 2006, by [section 11(4)][543] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 35(4): substituted, on 1 November 2006, by [section 11(4)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(4): substituted, on 1 November 2006, by [section 11(4)][543] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 35(5): repealed, on 1 November 2006, by [section 11(4)][540] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 35(5): repealed, on 1 November 2006, by [section 11(4)][543] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 36 Position where parent is liable under both formula assessment and voluntary agreement in respect of different children
     
@@ -2225,11 +2245,11 @@ Amount of child support payable under formula assessment made by Commissioner
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 24 October 2001, by [section 260(1)][541] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 37: repealed, on 24 October 2001, by [section 260(1)][544] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 ##### 38 Application of assessments under Income Tax Act 1976 or Tax Administration Act 1994
     
-*   (1) Subject to this Part, where an assessment has been made of a person's taxable income under the Income Tax Act 1976 (other than an assessment made under section 21 of that Act or the [Tax Administration Act 1994][474] (other than an assessment made under [section 106][542] of that Act)) for any income year, then, in making a formula assessment, the person's taxable income under the relevant one of those Acts for that income year is, for the purposes of this Act, to be taken to be that taxable income as so assessed or as last so assessed, as the case may be, before the making of the formula assessment.
+*   (1) Subject to this Part, where an assessment has been made of a person's taxable income under the Income Tax Act 1976 (other than an assessment made under section 21 of that Act or the [Tax Administration Act 1994][474] (other than an assessment made under [section 106][545] of that Act)) for any income year, then, in making a formula assessment, the person's taxable income under the relevant one of those Acts for that income year is, for the purposes of this Act, to be taken to be that taxable income as so assessed or as last so assessed, as the case may be, before the making of the formula assessment.
     
     (2) Subsection (1) has effect despite the making, after the making of the formula assessment, of an amendment under the Income Tax Act 1976 or the [Tax Administration Act 1994][474] to the relevant assessment of the person's taxable income under the relevant one of those Acts (whether or not the amendment is made because of an objection in relation to the assessment).
     
@@ -2265,33 +2285,33 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 56 (Aust)
     
-    Section 38 heading: amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(1)][543] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 38 heading: amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(1)][546] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 38(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(1): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(2): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(2): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(3): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(3): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(3)(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(3)(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(3)(b): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(2)][543] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 38(3)(b): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(2)][546] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 38(4): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(4): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(5): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(5): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(5)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(5)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(5)(c): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(5)(c): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(6)(a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(3)][543] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 38(6)(a): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 261(3)][546] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 38(6)(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 38(6)(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 38(7): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 38(7): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 38(7): amended, on 26 September 2006, by [section 12][545] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 38(7): amended, on 26 September 2006, by [section 12][548] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 38A Position where taxable income from withholding income not available for full tax year
     
@@ -2319,27 +2339,27 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (4) An assessment amended under subsection (3) must be amended on the basis that the liable parent's taxable income for the most recent tax year is, and always has been, the subsequently ascertained income.
     
-    Section 38A: inserted, on 24 July 1999, by [section 6(1)][546] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 38A: inserted, on 24 July 1999, by [section 6(1)][549] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 38A heading: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A heading: amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A heading: amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(3)][496] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 38A heading: amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(3)][494] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 38A(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A(1): amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(4)][496] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 38A(1): amended (with effect on 1 April 2001), on 7 November 2001, by [section 3(4)][494] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 38A(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A(2)(a)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(2)(a)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A(2)(b): amended, on 7 November 2001, by [section 4(3)][527] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 38A(2)(b): amended, on 7 November 2001, by [section 4(3)][529] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 38A(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 38A(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 38A(4): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 39 Position where taxable income not readily ascertainable
     
@@ -2375,27 +2395,27 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 58 (Aust)
     
-    Section 39(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(1)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 39(1)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 39(1)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(1)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(2): amended, on 7 November 2001, by [section 4(4)][527] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 39(2): amended, on 7 November 2001, by [section 4(4)][529] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 39(2): amended, on 24 July 1999, by [section 7(1)][547] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 39(2): amended, on 24 July 1999, by [section 7(1)][550] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 39(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(3): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39(3)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 39(3)(b): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
 
 ##### 39A Commissioner may take overseas taxable income into account
     
@@ -2419,11 +2439,11 @@ Amount of child support payable under formula assessment made by Commissioner
     
     *   (g) [section 81][114] enables the Commissioner to require the liable parent to supply a return or estimate of the parent's overseas taxable income.
     
-    Section 39A: inserted, on 24 July 1999, by [section 8][548] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 39A: inserted, on 24 July 1999, by [section 8][551] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 39A(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 39A(3)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 39A(3)(c): repealed, on 24 October 2001 (applying on first day of 2002--03 income year), by [section 262(1)][549] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 39A(3)(c): repealed, on 24 October 2001 (applying on first day of 2002--03 income year), by [section 262(1)][552] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
 
 #### Election that child support income be based on estimated taxable income for current year
 
@@ -2453,7 +2473,7 @@ Amount of child support payable under formula assessment made by Commissioner
             
         *   (i) made an election under [section 40][58] in respect of an earlier child support year; and
         
-        *   (ii) was required to furnish a return of income under the [Income Tax Act 2007][550] or the [Tax Administration Act 1994][474] in respect of the tax year that corresponds with that earlier child support year; and
+        *   (ii) was required to furnish a return of income under the [Income Tax Act 2007][553] or the [Tax Administration Act 1994][474] in respect of the tax year that corresponds with that earlier child support year; and
         
         *   (iii) at the time the notice is given under subsection (2), is in breach of the requirement to furnish a return of income in respect of that tax year; or
         
@@ -2463,21 +2483,21 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 60 (Aust)
     
-    Section 40(1): substituted, on 1 April 2001, by [section 10(1)][551] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 40(1): substituted, on 1 April 2001, by [section 10(1)][554] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 40(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 40(1)(a): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 40(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 40(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 40(2): substituted, on 24 July 1999, by [section 9(1)][552] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 40(2): substituted, on 24 July 1999, by [section 9(1)][555] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 40(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 40(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 40(3)(ba): inserted, on 24 July 1999, by [section 9(2)][552] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 40(3)(ba): inserted, on 24 July 1999, by [section 9(2)][555] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 40(3)(ba)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 40(3)(ba)(ii): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 40(3)(ba)(iii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 40(3)(ba)(iii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 41 Effect of election
     
@@ -2523,17 +2543,17 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 61 (Aust)
     
-    Section 41(1): amended, on 24 July 1999, by [section 11(1)(a)][553] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 41(1): amended, on 24 July 1999, by [section 11(1)(a)][556] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 41(1): amended, on 24 July 1999, by [section 15(3)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 41(1): amended, on 24 July 1999, by [section 15(3)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 41(1) formula item a: amended, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 41(1) formula item a: amended, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 41(1) formula item a: amended, on 24 July 1999, by [section 11(1)(b)][553] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 41(1) formula item a: amended, on 24 July 1999, by [section 11(1)(b)][556] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 41(6): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 41(6): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 41(6): amended, on 26 September 2006, by [section 13][555] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 41(6): amended, on 26 September 2006, by [section 13][558] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 42 Revocation of election
     
@@ -2555,11 +2575,11 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 62 (Aust)
     
-    Section 42(2A): inserted, on 24 July 1999, by [section 12(1)][556] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 42(2A): inserted, on 24 July 1999, by [section 12(1)][559] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 42(2A)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 42(2A)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 42(3): substituted, on 24 July 1999, by [section 12(2)][556] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 42(3): substituted, on 24 July 1999, by [section 12(2)][559] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 43 Effect of revocation
     
@@ -2579,17 +2599,17 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 63 (Aust)
     
-    Section 43(1): substituted, on 24 July 1999, by [section 13(1)][557] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 43(1): substituted, on 24 July 1999, by [section 13(1)][560] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 43(3): amended, on 24 July 1999, by [section 13(2)][557] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 43(3): amended, on 24 July 1999, by [section 13(2)][560] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 43(4)(aa): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 43(4)(aa): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 43(4)(aa): amended, on 26 September 2006, by [section 14][558] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 43(4)(aa): amended, on 26 September 2006, by [section 14][561] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 44 Reconciliation of estimated and actual taxable income after end of child support year
     
-*   (1) This section applies where, under any provision of the Income Tax Act 1976 (other than section 21) or the [Income Tax Act 2007][550] or the [Tax Administration Act 1994][474] (other than [section 106][542]), an assessment of taxable income of a person for a tax year (being a tax year that corresponds with a child support year in which at least 1 election made by that person under [section 40][58] has applied) has been made.
+*   (1) This section applies where, under any provision of the Income Tax Act 1976 (other than section 21) or the [Income Tax Act 2007][553] or the [Tax Administration Act 1994][474] (other than [section 106][545]), an assessment of taxable income of a person for a tax year (being a tax year that corresponds with a child support year in which at least 1 election made by that person under [section 40][58] has applied) has been made.
     
     (1A) The person's child support income amount that is to be used in a formula assessment for that child support year is to be taken to be, and always to have been, the lesser of---
         
@@ -2603,19 +2623,19 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: Child Support (Assessment) Act 1989 s 64 (Aust)
     
-    Section 44(1): substituted, on 24 July 1999, by [section 14(1)][559] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 44(1): substituted, on 24 July 1999, by [section 14(1)][562] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 44(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 44(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 44(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 44(1): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 44(1): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 263(1)(a)][560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 44(1): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 263(1)(a)][563] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 44(1): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 263(1)(b)][560] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
+    Section 44(1): amended, on 24 October 2001 (applying to 2002--03 and subsequent income years), by [section 263(1)(b)][563] of the Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85).
     
-    Section 44(1A): inserted, on 24 July 1999, by [section 14(1)][559] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 44(1A): inserted, on 24 July 1999, by [section 14(1)][562] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 44(2): amended, on 24 July 1999, by [section 14(2)][559] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 44(2): amended, on 24 July 1999, by [section 14(2)][562] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 44A Reconciliation of estimated income where no tax return filed
     
@@ -2623,7 +2643,7 @@ Amount of child support payable under formula assessment made by Commissioner
         
     *   (a) makes an election under [section 40][58] in respect of a child support year; and
     
-    *   (b) is or was required to furnish a return of income under the Income Tax Act 1976 or the [Income Tax Act 2007][550] or the [Tax Administration Act 1994][474] in respect of the tax year that corresponds with that child support year; and
+    *   (b) is or was required to furnish a return of income under the Income Tax Act 1976 or the [Income Tax Act 2007][553] or the [Tax Administration Act 1994][474] in respect of the tax year that corresponds with that child support year; and
     
     *   (c) does not furnish a return of income within 28 days of the date the return was required to be furnished under those Acts.
     
@@ -2639,17 +2659,17 @@ Amount of child support payable under formula assessment made by Commissioner
     
     *   (b) furnishes the return of income for the relevant tax year to the Commissioner.
     
-    (6) For the purposes of this section, _reasonable cause_ means a circumstance that, on application being made by the person under [section 37(3)][561] of the Tax Administration Act 1994, results in the Commissioner extending the time for furnishing the return.
+    (6) For the purposes of this section, _reasonable cause_ means a circumstance that, on application being made by the person under [section 37(3)][564] of the Tax Administration Act 1994, results in the Commissioner extending the time for furnishing the return.
     
     (7) This section applies to a person regardless of whether a return of income was required to be furnished before or after this section comes into force.
     
-    Section 44A: inserted, on 24 July 1999, by [section 15(1)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 44A: inserted, on 24 July 1999, by [section 15(1)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 44A(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 44A(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 44A(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 44A(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 44A(5)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 44A(5)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
 
 #### Penalties for underestimation
 
@@ -2677,11 +2697,11 @@ Amount of child support payable under formula assessment made by Commissioner
     
     (3) Where the Commissioner is satisfied that the person, in relation to an election period in a child support year, has become liable to pay a penalty under this section as the result of the taxable income derived by the person in the child support year being higher than it would otherwise have been by reason of---
         
-    *   (a) the enactment of any Act amending the [Income Tax Act 2007][550] or the making of any regulation or Order in Council relating to income tax, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month; or
+    *   (a) the enactment of any Act amending the [Income Tax Act 2007][553] or the making of any regulation or Order in Council relating to income tax, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month; or
     
-    *   (b) the Commissioner making public, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month, any ruling in relation to any provision of the [Income Tax Act 2007][550] and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
+    *   (b) the Commissioner making public, during the period commencing on the first day of the last month in that child support year and ending with the due date for payments in respect of that month, any ruling in relation to any provision of the [Income Tax Act 2007][553] and that ruling is different from a ruling previously made public by the Commissioner in relation to that provision; or
     
-    *   (c) the adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 1976 or the [Income Tax Act 2007][550], being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case,---
+    *   (c) the adoption by the person of an incorrect interpretation of any provision of this Act or of the Income Tax Act 1976 or the [Income Tax Act 2007][553], being an interpretation which, although incorrect, is reasonable having regard to the circumstances of the case,---
     
     the Commissioner shall, to the extent that the penalty is higher than it would otherwise have been, write off the penalty or any part thereof.
     
@@ -2691,35 +2711,35 @@ Amount of child support payable under formula assessment made by Commissioner
     
     Compare: 1976 No 65 s 384; 1988 No 123 s 17(1)
     
-    Section 45(1)(b): amended, on 24 July 1999, by [section 15(4)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(1)(b): amended, on 24 July 1999, by [section 15(4)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(1)(c): amended, on 24 July 1999, by [section 15(4)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(1)(c): amended, on 24 July 1999, by [section 15(4)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(2) formula item a: amended, on 24 July 1999, by [section 15(4)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(2) formula item a: amended, on 24 July 1999, by [section 15(4)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(2) formula item b: amended, on 24 July 1999, by [section 15(4)][554] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(2) formula item b: amended, on 24 July 1999, by [section 15(4)][557] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(3)(a): substituted, on 24 July 1999, by [section 16(1)][562] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(3)(a): substituted, on 24 July 1999, by [section 16(1)][565] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 45(3)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 45(3)(b): substituted, on 24 July 1999, by [section 16(1)][562] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(3)(b): substituted, on 24 July 1999, by [section 16(1)][565] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 45(3)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 45(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 45(3)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 45(3)(c): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 45(3)(c): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 45(4): repealed, on 24 July 1999, by [section 17(2)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(4): repealed, on 24 July 1999, by [section 17(2)][566] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 45(5): amended, on 24 July 1999, by [section 17(3)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 45(5): amended, on 24 July 1999, by [section 17(3)][566] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 46 Interest to be charged on underestimations
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 24 July 1999, by [section 17(1)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 46: repealed, on 24 July 1999, by [section 17(1)][566] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ## Part 3  
 Voluntary agreements
@@ -2742,7 +2762,7 @@ Voluntary agreements
     
     (3) The parties to a voluntary agreement for domestic maintenance may be---
         
-    *   (a) a husband and wife or civil union partners; or
+    *   (a) a married couple or civil union partners; or
     
     *   (b) the parties to a marriage, civil union or de facto relationship that has ended; or
     
@@ -2754,15 +2774,17 @@ Voluntary agreements
     
     Compare: Child Support (Assessment) Act 1989 s 80 (Aust)
     
-    Section 47(1)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 47(1)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 47(3): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 47(3): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 47(3)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 47(3)(a): amended, on 19 August 2013, by [section 9][567] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 47(3)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 47(3)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 47(3)(c): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 47(3)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
+    
+    Section 47(3)(c): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Qualifying voluntary agreements
 
@@ -2846,7 +2868,7 @@ Voluntary agreements
     
 *   Any voluntary agreement for domestic maintenance shall not qualify for acceptance by the Commissioner under this Act if a court order is in force requiring one party to the agreement to make payments towards the maintenance of the other party to the agreement.
     
-    Section 52: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 52: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 53 Dual-purpose voluntary agreements
     
@@ -2906,13 +2928,13 @@ Voluntary agreements
     
     Compare: Child Support (Assessment) Act 1989 s 89 (Aust)
     
-    Section 55(1)(b)(i): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 55(1)(b)(i): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 55(1)(da): inserted, on 7 October 1998, by [section 4(1)][564] of the Child Support Amendment Act 1998 (1998 No 103).
+    Section 55(1)(da): inserted, on 7 October 1998, by [section 4(1)][568] of the Child Support Amendment Act 1998 (1998 No 103).
     
-    Section 55(1)(da): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 55(1)(da): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 55(1)(e): repealed, on 24 July 1999, by [section 18][565] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 55(1)(e): repealed, on 24 July 1999, by [section 18][569] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 56 Dual applications
     
@@ -2966,15 +2988,15 @@ Voluntary agreements
     
     Compare: Child Support (Assessment) Act 1989 s 93 (Aust)
     
-    Section 58(2)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 58(2)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 58(2)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 58(2)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 58(2)(c): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 58(2)(c): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 58(2)(d): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 58(2)(d): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 58(2)(e): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 58(2)(e): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 59 Commencement of liability under voluntary agreement
     
@@ -2986,7 +3008,7 @@ Voluntary agreements
     
     *   (c) the day on which, in accordance with the agreement, payment is to commence.
     
-    Section 59: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 59: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Procedure after acceptance or refusal of voluntary agreements
 
@@ -3018,9 +3040,9 @@ Voluntary agreements
     
     (3) Every assessment shall be made in accordance with [Part 5][101].
     
-    Section 61(1)(a)(i): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 61(1)(a)(i): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 61(1)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 61(1)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Termination of liability to make payments under voluntary agreements
 
@@ -3054,7 +3076,7 @@ Voluntary agreements
     
     (2) Nothing in this section affects the contractual liability of any party to a voluntary agreement.
     
-    Section 62(1)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 62(1)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Variation of voluntary agreements
 
@@ -3102,7 +3124,7 @@ Voluntary agreements
     
     (5) An election made under subsection (1) shall be irrevocable.
     
-    Section 64(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 64(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 65 Child support voluntary agreement no bar to application for formula assessment
     
@@ -3124,7 +3146,7 @@ Voluntary agreements
 
 ##### 66 Voluntary agreement no bar to application for maintenance order under Family Proceedings Act 1980
     
-*   (1) The existence of a voluntary agreement that provides for payments of money by 1 party to the agreement towards the support of another party to the agreement shall not prevent that other party from applying under the [Family Proceedings Act 1980][505] for a maintenance order.
+*   (1) The existence of a voluntary agreement that provides for payments of money by 1 party to the agreement towards the support of another party to the agreement shall not prevent that other party from applying under the [Family Proceedings Act 1980][507] for a maintenance order.
     
     (2) Where a maintenance order under that Act is made against a party to the agreement for the maintenance of another party to the agreement, that other party is deemed---
         
@@ -3132,15 +3154,15 @@ Voluntary agreements
     
     *   (b) to have met the requirements of subsections (2) and (3) of that section.
     
-    Section 66 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 66 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 66(2)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 66(2)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 66A Commissioner to give effect to orders made under Property (Relationships) Act 1976
     
-*   If a court makes an order under [section 32(2)(d)][566] of the Property (Relationships) Act 1976 in relation to a voluntary agreement that has been accepted under this Part, the Commissioner must, as soon as practicable, take such action as is necessary to give effect to the order.
+*   If a court makes an order under [section 32(2)(d)][570] of the Property (Relationships) Act 1976 in relation to a voluntary agreement that has been accepted under this Part, the Commissioner must, as soon as practicable, take such action as is necessary to give effect to the order.
     
-    Section 66A: inserted, on 1 February 2002, by [section 64(2)][567] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 66A: inserted, on 1 February 2002, by [section 64(2)][571] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ## Part 4  
 Court maintenance orders made after 1 July 1992
@@ -3149,19 +3171,19 @@ Court maintenance orders made after 1 July 1992
     
 *   This Part shall apply to---
         
-    *   (a) any maintenance order or interim maintenance order made under [Part 6][568] of the Family Proceedings Act 1980 on or after 1 July 1992 that provides for payments to be made at an annual rate of not less than $520:
+    *   (a) any maintenance order or interim maintenance order made under [Part 6][572] of the Family Proceedings Act 1980 on or after 1 July 1992 that provides for payments to be made at an annual rate of not less than $520:
     
     *   (b) any maintenance order made against any person by any court in a Commonwealth or designated country that has on or after 1 July 1992---
             
-        *   (i) been registered in New Zealand under the [Family Proceedings Act 1980][505]; or
+        *   (i) been registered in New Zealand under the [Family Proceedings Act 1980][507]; or
         
-        *   (ii) been confirmed in New Zealand under that Act (other than an order confirmed under [section 139][569] of that Act):
+        *   (ii) been confirmed in New Zealand under that Act (other than an order confirmed under [section 139][573] of that Act):
         
         
     
-    *   (c) any order made pursuant to [section 78][570] or [section 81][571] of the Family Proceedings Act 1980 on or after 1 July 1992:
+    *   (c) any order made pursuant to [section 78][574] or [section 81][575] of the Family Proceedings Act 1980 on or after 1 July 1992:
     
-    *   (d) any order made under [Part 6][568] or [Part 8][572] of the Family Proceedings Act 1980 on or after 1 July 1992 in respect of an application under [section 145][573] of that Act.
+    *   (d) any order made under [Part 6][572] or [Part 8][576] of the Family Proceedings Act 1980 on or after 1 July 1992 in respect of an application under [section 145][577] of that Act.
     
     
 
@@ -3195,15 +3217,15 @@ Court maintenance orders made after 1 July 1992
     
     *   (f) the provisions of this Act relating to the collection and payment by the Commissioner of financial support shall apply.
     
-    Section 68(2)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 68(2)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 68(2)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 68(2)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 68(2)(c): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 68(2)(c): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 68(2)(d): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 68(2)(d): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 68(2)(e): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 68(2)(e): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 69 Duty to make assessment
     
@@ -3223,13 +3245,13 @@ Court maintenance orders made after 1 July 1992
     
     (3) Every assessment shall be made in accordance with [Part 5][101].
     
-    Section 69(1): amended, on 1 October 2003, pursuant to [section 14(2)][574] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 69(1): amended, on 1 October 2003, pursuant to [section 14(2)][578] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 69(1)(a)(i): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 69(1)(a)(i): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 69(1)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 69(1)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 69(2): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 69(2): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 70 Election that Commissioner is not to enforce order
     
@@ -3270,11 +3292,11 @@ Court maintenance orders made after 1 July 1992
 ## Part 5  
 Assessment of child support and domestic maintenance
     
-*   Part 5 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+*   Part 5 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Minimum rate of child support or domestic maintenance
     
-*   Heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+*   Heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 72 Minimum rate of child support or domestic maintenance
     
@@ -3296,41 +3318,41 @@ Assessment of child support and domestic maintenance
     
     (2) Subsection (1) applies notwithstanding anything to the contrary in any order of the court or in any voluntary agreement.
     
-    Section 72 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 72 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 72(1)(a): substituted, on 7 November 2001, by [section 5(1)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 72(1)(a): substituted, on 7 November 2001, by [section 5(1)][527] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 72(1)(c): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 72(1)(c): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Exemption in certain circumstances for prisoners and hospital patients
 
 \[Repealed\]
     
-*   Heading: repealed, on 26 September 2006, by [section 15][575] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: repealed, on 26 September 2006, by [section 15][579] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 73 Application for exemption by prisoner or hospital patient
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 26 September 2006, by [section 15][575] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 73: repealed, on 26 September 2006, by [section 15][579] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 74 Effect of election
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 26 September 2006, by [section 15][575] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 74: repealed, on 26 September 2006, by [section 15][579] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 75 End of exemption
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 26 September 2006, by [section 15][575] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 75: repealed, on 26 September 2006, by [section 15][579] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 76 Prisoner or hospital patient to advise Commissioner if exemption ends
     
 *   \[Repealed\]
     
-    Section 76: repealed, on 26 September 2006, by [section 15][575] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 76: repealed, on 26 September 2006, by [section 15][579] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Provisions relating to making of assessments
 
@@ -3340,9 +3362,9 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 65 (Aust)
     
-    Section 77: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 77: amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 77: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 77: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
     Section 77: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
 
@@ -3366,7 +3388,7 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 68 (Aust)
     
-    Section 79: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 79: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 80 Assessments for part of child support year
     
@@ -3374,7 +3396,7 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 71 (Aust)
     
-    Section 80: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 80: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 81 Notification requirements of liable parent
     
@@ -3382,7 +3404,7 @@ Assessment of child support and domestic maintenance
         
     *   (a) to notify the Commissioner, in writing, of information relating to that person's living circumstances; and
     
-    *   (b) where that person is a taxpayer to whom [section 33A][576] of the Tax Administration Act 1994 applies in respect of the last relevant tax year, to either---
+    *   (b) where that person is a taxpayer to whom [section 33A][580] of the Tax Administration Act 1994 applies in respect of the last relevant tax year, to either---
             
         *   (i) supply a return of income for the last relevant tax year; or
         
@@ -3396,13 +3418,13 @@ Assessment of child support and domestic maintenance
     
     (3) Where a person has refused or failed to comply with any requirement under subsection (1)(a) in respect of a child support year, the Commissioner may, in making an assessment of the child support payable by the person in relation to that child support year, act on the basis that the liable parent is entitled to a deduction in respect of a living allowance at the lowest amount capable of being calculated under [Part 2][40].
     
-    Section 81(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 81(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
     Section 81(1)(b): amended (with effect on 1 April 1995, applying with respect to tax on income derived in 1995--96 and subsequent income years), on 10 May 1996, by section 55(1) of the Income Tax Act 1994 Amendment Act 1996 (1996 No 17).
     
-    Section 81(1)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 81(1)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 81(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 81(1)(b)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 82 Liable parent to advise Commissioner of certain changes in living circumstances
     
@@ -3416,9 +3438,9 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 70 (Aust)
     
-    Section 83(1): amended, on 23 September 1997, by [section 4(1)][577] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
+    Section 83(1): amended, on 23 September 1997, by [section 4(1)][581] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
     
-    Section 83(2): amended, on 23 September 1997, by [section 4(2)][577] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
+    Section 83(2): amended, on 23 September 1997, by [section 4(2)][581] of the Child Support Amendment Act (No 3) 1997 (1997 No 76).
 
 ##### 84 Validity of assessments
     
@@ -3432,7 +3454,7 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 73 (Aust)
     
-    Section 85: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 85: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 86 Commissioner to give effect to changed circumstances
     
@@ -3462,9 +3484,9 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 74 (Aust)
     
-    Section 86(2): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 86(2): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 86(2)(b)(ii): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 86(2)(b)(ii): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 87 Amendment of assessments
     
@@ -3516,17 +3538,17 @@ Assessment of child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 75 (Aust)
     
-    Section 87(2)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 87(2)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 87(3)(da): inserted, on 26 September 2006, by [section 16(1)][578] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 87(3)(da): inserted, on 26 September 2006, by [section 16(1)][582] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 87(3)(ea): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 87(3)(ea): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 87(3)(ea): amended, on 26 September 2006, by [section 16(2)][578] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 87(3)(ea): amended, on 26 September 2006, by [section 16(2)][582] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 87(6)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 87(6)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 87(6)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 87(6)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 88 Notice of assessment to be given to liable person
     
@@ -3550,7 +3572,7 @@ Assessment of child support and domestic maintenance
         
         
     
-    Section 88: substituted, on 24 July 1999, by [section 22][579] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 88: substituted, on 24 July 1999, by [section 22][583] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 89 Notice to be given to payee
     
@@ -3558,16 +3580,16 @@ Assessment of child support and domestic maintenance
     
     (2) A payee shall not be entitled to receive from the Commissioner any information in relation to the assessment other than that which is required to be given under subsection (1).
     
-    Section 89(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 89(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ## Part 5A  
 Exemptions
     
-*   Part 5A: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Part 5A: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ### Subpart 1---Outline and definitions
     
-*   Subpart 1: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Subpart 1: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89A Outline
     
@@ -3585,7 +3607,7 @@ Exemptions
     
     (3) This section is intended only as a guide to the general scheme and effect of this Part.
     
-    Section 89A: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89A: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89B Definitions for this Part
     
@@ -3595,9 +3617,9 @@ Exemptions
     
     _hospital patient_ means a person who is, for the time being,---
         
-    *   (a) a patient in a hospital care institution within the meaning of [section 58(4)][581] of the Health and Disability Services (Safety) Act 2001; or
+    *   (a) a patient in a hospital care institution within the meaning of [section 58(4)][585] of the Health and Disability Services (Safety) Act 2001; or
     
-    *   (b) a resident of an institution certified under the [Alcoholism and Drug Addiction Act 1966][582]
+    *   (b) a resident of an institution certified under the [Alcoholism and Drug Addiction Act 1966][586]
     
     _income_---
         
@@ -3623,7 +3645,7 @@ Exemptions
         
     *   (a) in the legal custody of the Superintendent of any penal institution as defined in the Penal Institutions Act 1954; or
     
-    *   (b) in legal custody under the [Corrections Act 2004][583]
+    *   (b) in legal custody under the [Corrections Act 2004][587]
     
     _relevant minimum annual rate of financial support_ means, in relation to a child support year,---
         
@@ -3633,19 +3655,19 @@ Exemptions
     
     _social security benefit_ means any benefit within the meaning of the [Social Security Act 1964][478].
     
-    Section 89B: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89B: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 89B **income** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 89B **income** paragraph (a): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 89B **income** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 89B **income** paragraph (b): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
 
 ### Subpart 2---Exemptions for hospital patients, prisoners, and persons under 16 years
     
-*   Subpart 2: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Subpart 2: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Exemption for hospital patients
     
-*   Heading: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89C Exemption for long-term hospital patients
     
@@ -3655,7 +3677,7 @@ Exemptions
             
         *   (i) income from investments; or
         
-        *   (ii) a social security benefit payable to the person at the rate specified in [Schedule 22][584] of the Social Security Act 1964; and
+        *   (ii) a social security benefit payable to the person at the rate specified in [Schedule 22][588] of the Social Security Act 1964; and
         
         
     
@@ -3671,11 +3693,11 @@ Exemptions
     
     (2) This section is subject to [sections 89F][135] and [89G][136].
     
-    Section 89C: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89C: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Exemption for prisoners
     
-*   Heading: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89D Exemption for long-term prisoners
     
@@ -3695,11 +3717,11 @@ Exemptions
     
     (2) This section is subject to [sections 89F][135] and [89G][136].
     
-    Section 89D: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89D: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Exemption for persons under 16 years
     
-*   Heading: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89E Exemption for persons under 16 years
     
@@ -3719,11 +3741,11 @@ Exemptions
     
     (2) This section is subject to [sections 89F][135] and [89G][136].
     
-    Section 89E: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89E: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Restrictions on application of exemptions
     
-*   Heading: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89F Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period
     
@@ -3731,7 +3753,7 @@ Exemptions
         
     *   (a) at any time during the relevant period,---
             
-        *   (i) in the case of an exemption under [section 89C][129], the person receives any income other than from investments or a social security benefit payable at the rate specified in [Schedule 22][584] of the Social Security Act 1964; or
+        *   (i) in the case of an exemption under [section 89C][129], the person receives any income other than from investments or a social security benefit payable at the rate specified in [Schedule 22][588] of the Social Security Act 1964; or
         
         *   (ii) in the case of an exemption under [section 89D][131] or [89E][133], the person receives any income other than from investments; or
         
@@ -3749,7 +3771,7 @@ Exemptions
     
     (3) For the purposes of this section,---
     
-    _higher rate benefit_ means a social security benefit payable at a rate higher than the rate specified in [Schedule 22][584] of the Social Security Act 1964
+    _higher rate benefit_ means a social security benefit payable at a rate higher than the rate specified in [Schedule 22][588] of the Social Security Act 1964
     
     _relevant period_, in relation to a child support year,---
         
@@ -3759,7 +3781,7 @@ Exemptions
     
     *   (c) in the case of an exemption under [section 89E][133], means the period before the person turns 16 that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay child support.
     
-    Section 89F: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89F: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89G Other restrictions on application of exemptions
     
@@ -3779,11 +3801,11 @@ Exemptions
     
     *   (b) [section 89E][133] is made under [section 89H][138] after the day on which the person turns 16, the exemption does not apply at any time before the commencement of this section.
     
-    Section 89G: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89G: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Application and grant of exemptions under this subpart
     
-*   Heading: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89H Applications for exemptions under this subpart
     
@@ -3813,7 +3835,7 @@ Exemptions
     
     *   (c) [section 89E][133] may be made in relation to the whole of the period before the person turns 16 or 1 or more parts of that whole period.
     
-    Section 89H: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89H: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89I Grant of exemption under this subpart
     
@@ -3833,7 +3855,7 @@ Exemptions
     
     *   (b) of any other assumptions as to future events that, in the opinion of the Commissioner, are reasonable in the circumstances of the case.
     
-    Section 89I: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89I: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89J Exempted person not entitled to refund
     
@@ -3861,11 +3883,11 @@ Exemptions
     
     *   (c) amend any assessment.
     
-    Section 89J: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89J: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ### Subpart 3---Determinations in relation to exemptions for hospital patients, prisoners, and persons under 16 years
     
-*   Subpart 3: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Subpart 3: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89K Commissioner may make determinations in relation to exemptions
     
@@ -3879,7 +3901,7 @@ Exemptions
     
     *   (b) an exemption granted under [section 74][106] (as in force immediately before the commencement of this section).
     
-    Section 89K: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89K: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89L Application for determination
     
@@ -3889,7 +3911,7 @@ Exemptions
     
     (3) The parties to the application are the liable person and the payee.
     
-    Section 89L: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89L: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89M Determination that exemption does not apply or ceases to apply or determination confirming exemption
     
@@ -3915,7 +3937,7 @@ Exemptions
     
     (4) The Commissioner may make a determination confirming that the specified exemption continues to apply to the whole or a part of a period for which it was granted if the Commissioner does not make a determination under subsection (1) in relation to that whole or part of a period.
     
-    Section 89M: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89M: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89N Determination that provisions of Act relating to formula assessment of child support will be departed from
     
@@ -3953,7 +3975,7 @@ Exemptions
     
     *   (d) [section 119(1)(a)][246] (which relates to the cessation of orders).
     
-    Section 89N: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89N: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89O Reasons for determination
     
@@ -3961,7 +3983,7 @@ Exemptions
     
     (2) A contravention of subsection (1) in relation to a determination does not affect the validity of the determination.
     
-    Section 89O: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89O: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89P Commissioner may refuse to make determination because issues too complex
     
@@ -3969,7 +3991,7 @@ Exemptions
     
     (2) The Commissioner must give the applicant, in writing, the reasons for refusing to make the determination.
     
-    Section 89P: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89P: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89Q Application disclosing no grounds for making determination: how dealt with
     
@@ -3977,7 +3999,7 @@ Exemptions
     
     (2) The Commissioner must give the applicant, in writing, the reasons for refusing to make the determination.
     
-    Section 89Q: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89Q: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89R Other party to be notified
     
@@ -4005,7 +4027,7 @@ Exemptions
     
     (4) Nothing in this section applies if the Commissioner refuses to make a determination under [section 89P][147], [89Q][148], or [89U][152].
     
-    Section 89R: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89R: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89S Procedure for dealing with application
     
@@ -4029,7 +4051,7 @@ Exemptions
     
     (6) Nothing in [section 125][253] (which relates to intervention in proceedings) applies to proceedings under this subpart.
     
-    Section 89S: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89S: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89T Circumstances in which representation or assistance at hearing may be approved
     
@@ -4055,7 +4077,7 @@ Exemptions
     
     (7) If the Commissioner approves any person under subsection (1), (2), or (4), the Commissioner may impose in respect of the appointment or approval any conditions that the Commissioner considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
     
-    Section 89T: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89T: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89U Subsequent applications
     
@@ -4071,19 +4093,19 @@ Exemptions
     
     (4) The Commissioner must give the applicant, in writing, the reasons for refusing to make the determination.
     
-    Section 89U: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89U: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89V Effect of pending applications
     
 *   The fact that an application is made by any person under this subpart does not suspend, interfere with, or affect the application of the specified exemption concerned.
     
-    Section 89V: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89V: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89W Commencement of determinations
     
 *   The Commissioner may, under this subpart, make a determination expressed to be retrospective to any day that the Commissioner considers appropriate, not being a day that precedes the start of the period of exemption.
     
-    Section 89W: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89W: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89X Restriction on publication of reports of proceedings
     
@@ -4091,7 +4113,7 @@ Exemptions
     
     (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
     
-    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,---
+    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
     
@@ -4103,17 +4125,19 @@ Exemptions
     
     *   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
     
-    (5) Nothing in [section 81][585] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this subpart---
+    (5) Nothing in [section 81][589] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this subpart---
         
     *   (a) with the leave of the Commissioner or a Family Court; or
     
     *   (b) in accordance with subsection (4).
     
-    Section 89X: substituted, on 18 May 2009, by [section 4][586] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 89X: substituted, on 18 May 2009, by [section 4][590] of the Child Support Amendment Act 2008 (2008 No 75).
+    
+    Section 89X(3): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 4---Exemption for victims of sex offences
     
-*   Subpart 4: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Subpart 4: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89Y Application for exemption on grounds relating to sex offence
     
@@ -4133,11 +4157,11 @@ Exemptions
     
     (2) For the purposes of this subpart,---
     
-    _sex offence_ means an offence under [sections 127 to 144C][587] of the Crimes Act 1961
+    _sex offence_ means an offence under [sections 127 to 144C][592] of the Crimes Act 1961
     
     _victim_ means, in relation to a sex offence, the person against whom the offence is committed by another person.
     
-    Section 89Y: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89Y: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89Z Grant of exemption to victim of sex offence
     
@@ -4165,9 +4189,9 @@ Exemptions
     
     *   (b) the liable parent made the application for the exemption under this subpart within 28 days after the date on which notice of the decision under [section 17(1)][25] was given by the Commissioner to the liable parent.
     
-    (4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with [section 85K][588] of the Tax Administration Act 1994\.
+    (4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with [section 85K][593] of the Tax Administration Act 1994\.
     
-    Section 89Z: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89Z: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89ZA Exemption is void if conviction quashed or finding is reversed or set aside
     
@@ -4189,11 +4213,11 @@ Exemptions
     
     *   (b) in any other case, the exemption commences on the date the Commissioner received the new application for the exemption.
     
-    Section 89ZA: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89ZA: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ### Subpart 5---Miscellaneous provisions concerning exemptions
     
-*   Subpart 5: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Subpart 5: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89ZB Commissioner must give effect to exemption and may take changes into account
     
@@ -4219,7 +4243,7 @@ Exemptions
     
     (6) Nothing in this section limits the powers of the Commissioner under [sections 86][119] and [87][120].
     
-    Section 89ZB: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89ZB: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89ZC Exempted person must advise Commissioner of certain matters
     
@@ -4233,13 +4257,13 @@ Exemptions
     
     (2) The person must, as soon as practicable, notify the Commissioner of the matters referred to in subsection (1).
     
-    Section 89ZC: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89ZC: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89ZD Liable person liable for payment of financial support for parts of child support year to which exemption does not apply
     
 *   A person to whom an exemption has been granted in respect of a part or parts of a child support year is liable for payment of financial support for the parts of the child support year to which the exemption does not apply, and the Commissioner must issue an assessment accordingly.
     
-    Section 89ZD: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89ZD: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 89ZE Applications by agents
     
@@ -4247,11 +4271,11 @@ Exemptions
     
     (2) If a person is incapable of authorising an agent under subsection (1) to make an application on that person's behalf,---
         
-    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][589] may make the application; or
+    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][594] may make the application; or
     
     *   (b) if there is no manager under paragraph (a), the next friend of the person may make the application.
     
-    Section 89ZE: inserted, on 26 September 2006, by [section 17(1)][580] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 89ZE: inserted, on 26 September 2006, by [section 17(1)][584] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ## Part 6  
 Objections
@@ -4266,7 +4290,7 @@ Objections
     
     *   (c) a decision not to accept an election made under [section 40][58]:
     
-    *   (ca) a decision under [section 44A][63] to reconcile estimated income where no return of income is furnished under the [Income Tax Act 2007][550] and the [Tax Administration Act 1994][474]:
+    *   (ca) a decision under [section 44A][63] to reconcile estimated income where no return of income is furnished under the [Income Tax Act 2007][553] and the [Tax Administration Act 1994][474]:
     
     *   (d) a decision under [section 45][65] or [section 134][266] of this Act in relation to the charging of a penalty:
     
@@ -4288,17 +4312,17 @@ Objections
     
     (2) An objection may be made under this section by any person who is affected by the decision.
     
-    Section 90(1)(ca): inserted, on 24 July 1999, by [section 23][590] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 90(1)(ca): inserted, on 24 July 1999, by [section 23][595] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 90(1)(ca): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 90(1)(ca): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
     Section 90(1)(d): amended, on 26 July 1996, by section 2 of the Child Support Amendment Act 1996 (1996 No 65).
     
-    Section 90(1)(e): repealed, on 24 July 1999, by [section 17(2)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 90(1)(e): repealed, on 24 July 1999, by [section 17(2)][566] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 90(1)(i): amended, on 26 September 2006, by [section 18][591] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 90(1)(i): amended, on 26 September 2006, by [section 18][596] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 90(1)(ja): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 90(1)(ja): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 91 Objections to assessments
     
@@ -4318,7 +4342,7 @@ Objections
     
     Compare: 1976 No 65 s 30
     
-    Section 91(2): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 91(2): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 92 Requirements in relation to objections
     
@@ -4348,7 +4372,7 @@ Objections
     
 *   The determination of an objection under this Part shall relate solely to the decision or assessment objected to, and shall not affect the right of the Commissioner to make any other decision or assessment in respect of the objector, or to amend the assessment objected to in a manner that is consistent with that determination.
     
-    Compare: 1985 No 141 [s 39][592]
+    Compare: 1985 No 141 [s 39][597]
 
 ##### 95 Obligation to pay financial support where objection made
     
@@ -4366,11 +4390,11 @@ Objections
     
     (4) If, on the final determination of the objection, the court finds that the objector is liable to pay child support or domestic maintenance, that finding shall apply retrospectively to any period during which the liability was suspended, in whole or in part, under this section, unless the court for special reasons orders otherwise.
     
-    Section 95 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 95 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 95(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 95(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 94(4): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 94(4): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 96 Objections to which this Part does not apply
     
@@ -4381,8 +4405,8 @@ Objections
 ## Part 6A  
 Departure from formula assessment of child support initiated by liable parent or qualifying custodian
     
-*   Part 6A: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
-*   Part 6A heading: amended, on 26 September 2006, by [section 19][594] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Part 6A: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
+*   Part 6A heading: amended, on 26 September 2006, by [section 19][599] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96A Commissioner may make determination
     
@@ -4390,7 +4414,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98A (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96A: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96A: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96B Application for determination
     
@@ -4408,7 +4432,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98B (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96B: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96B: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96C Matters as to which Commissioner must be satisfied before making determination
     
@@ -4446,7 +4470,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98C (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96C: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96C: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96D Determinations that may be made
     
@@ -4466,9 +4490,9 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98D (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96D: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96D: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 96D(1)(d): added, on 26 September 2006, by [section 20][595] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96D(1)(d): added, on 26 September 2006, by [section 20][600] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96E Requirements for application
     
@@ -4480,7 +4504,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98E (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96E: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96E: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96F Commissioner may refuse to make determination because issues too complex
     
@@ -4490,7 +4514,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98EA (Aust); Child Support Legislation Amendment Act (No 2) 1992 s 23 (Aust)
     
-    Section 96F: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96F: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96G Application disclosing no grounds, etc, for making determination---how dealt with
     
@@ -4506,7 +4530,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98F (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96G: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96G: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96H Other party to be notified
     
@@ -4536,9 +4560,9 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98G (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust); Child Support Legislation Amendment Act (No 2) 1992 s 24
     
-    Section 96H: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96H: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 96H(4): amended, on 26 September 2006, by [section 21][596] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96H(4): amended, on 26 September 2006, by [section 21][601] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96I Procedure for dealing with application
     
@@ -4564,9 +4588,9 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98H (Aust); Child Support Legislation Amendment Act 1992 s 5 (Aust)
     
-    Section 96I: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96I: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 96I(3)(b): amended, on 26 September 2006, by [section 22][597] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96I(3)(b): amended, on 26 September 2006, by [section 22][602] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96J Circumstances in which representation or assistance at hearing may be approved
     
@@ -4596,9 +4620,9 @@ Departure from formula assessment of child support initiated by liable parent or
     
     (7) Where the Commissioner approves any person under subsection (1) or subsection (2) or subsection (4), the Commissioner may impose in respect of any such appointment or approval such conditions as the Commissioner considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
     
-    Compare: 1988 No 110 [s 38(2)--(8)][598]
+    Compare: 1988 No 110 [s 38(2)--(8)][603]
     
-    Section 96J: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96J: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96K Child support agreements entered into before determination made
     
@@ -4608,7 +4632,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     *   (b) an election is made in accordance with [section 27][39] to end the liability of the liable parent to pay child support in respect of the child under a formula assessment.
     
-    Section 96K: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96K: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96L Subsequent applications
     
@@ -4638,7 +4662,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     (6) The Commissioner must give the applicant, in writing, the reasons for refusing to make the determination.
     
-    Section 96L: substituted, on 26 September 2006, by [section 23][599] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96L: substituted, on 26 September 2006, by [section 23][604] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96M Effect of pending applications
     
@@ -4652,7 +4676,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     Compare: Child Support (Assessment) Act 1989 s 98M (Aust); Child Support Legislation Amendment Act (No 2) 1992 s 25 (Aust)
     
-    Section 96M: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96M: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96N Suspension of liabilities
     
@@ -4664,7 +4688,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     *   (b) until the time for filing a reply has expired.
     
-    Section 96N: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96N: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96O Commencement of determinations
     
@@ -4674,7 +4698,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     *   (b) the day on which the application for formula assessment to which the determination applies was made.
     
-    Section 96O: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][593] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 96O: inserted (with effect on 1 July 1994), on 15 July 1994, by [section 5(1)][598] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 96P Restriction on publication of reports of proceedings
     
@@ -4682,7 +4706,7 @@ Departure from formula assessment of child support initiated by liable parent or
     
     (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
     
-    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,---
+    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
     
@@ -4694,18 +4718,20 @@ Departure from formula assessment of child support initiated by liable parent or
     
     *   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
     
-    (5) Nothing in [section 81][585] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part---
+    (5) Nothing in [section 81][589] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part---
         
     *   (a) with the leave of the Commissioner or a Family Court; or
     
     *   (b) in accordance with subsection (4).
     
-    Section 96P: substituted, on 18 May 2009, by [section 5][600] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 96P: substituted, on 18 May 2009, by [section 5][605] of the Child Support Amendment Act 2008 (2008 No 75).
+    
+    Section 96P(3): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6B  
 Departure from formula assessment of child support initiated by Commissioner
     
-*   Part 6B: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Part 6B: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96Q Commissioner may make determination under this Part
     
@@ -4717,7 +4743,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) the qualifying custodian if he or she elects to become a party under [section 96Y][199].
     
-    Section 96Q: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96Q: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96R Matters that Commissioner must be satisfied of before making determination
     
@@ -4739,7 +4765,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) any reference in those subsections to an order were a reference to a determination under this Part.
     
-    Section 96R: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96R: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96S Commissioner may make preliminary enquiries
     
@@ -4751,7 +4777,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) may make any enquiries or investigations the Commissioner considers necessary.
     
-    Section 96S: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96S: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96T Notice to liable parent giving chance to respond
     
@@ -4763,7 +4789,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (c) notify the liable parent that he or she may make a written response.
     
-    Section 96T: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96T: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96U Written response by liable parent
     
@@ -4775,7 +4801,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) filed with the Commissioner within 28 days after the date the liable parent is sent notification under [section 96T][194].
     
-    Section 96U: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96U: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96V Decision by Commissioner to start proceedings under this Part
     
@@ -4785,7 +4811,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) decide whether to start proceedings under this Part.
     
-    Section 96V: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96V: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96W Commissioner to notify liable parent
     
@@ -4797,7 +4823,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) provide the liable parent with a summary of the information on which the Commissioner has based his or her decision.
     
-    Section 96W: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96W: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96X Commissioner to notify qualifying custodian
     
@@ -4809,7 +4835,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (c) the rights of the liable parent and of the qualifying custodian (if the qualifying custodian elects to become a party under [section 96Y][199]) to make written representations and receive information in accordance with [section 96Z][200].
     
-    Section 96X: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96X: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96Y Election by qualifying custodian to become party or discontinue proceedings
     
@@ -4833,7 +4859,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (6) If a qualifying custodian makes an election under subsection (2) to discontinue proceedings in relation to formula assessment of child support that was or will become payable, the Commissioner must discontinue the proceedings that relate to formula assessment of that child support in accordance with the election.
     
-    Section 96Y: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96Y: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96Z Written representations by liable parent or qualifying custodian
     
@@ -4857,7 +4883,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (5) For the purposes of this Part, a qualifying custodian is not entitled to any information relating to the liable parent that is in the Commissioner's possession other than information that came into the Commissioner's possession in the course of proceedings under this Part after those proceedings are started under [section 96V][196].
     
-    Section 96Z: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96Z: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZA Procedure for making determination
     
@@ -4881,7 +4907,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (6) Nothing in [section 125][253] (which relates to intervention in proceedings) applies to proceedings under this Part.
     
-    Section 96ZA: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZA: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZB Determinations that may be made
     
@@ -4903,7 +4929,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (3) A contravention of subsection (2) in relation to a determination does not affect the validity of the determination.
     
-    Section 96ZB: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZB: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZC Commissioner may refuse to make determination because issues too complex
     
@@ -4913,7 +4939,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (3) The Commissioner may recommend that the qualifying custodian make an application to the court for an order under [section 104][225].
     
-    Section 96ZC: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZC: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZD Effect of pending proceedings under this Part
     
@@ -4925,13 +4951,13 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (c) the right of the Commissioner to receive and recover child support.
     
-    Section 96ZD: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZD: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZE Commencement of determinations
     
 *   The Commissioner may, under this Part, make a determination expressed to be retrospective to any day that the Commissioner considers appropriate, not being a day that precedes the commencement of this section.
     
-    Section 96ZE: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZE: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 96ZF Restriction on publication of reports of proceedings
     
@@ -4939,7 +4965,7 @@ Departure from formula assessment of child support initiated by Commissioner
     
     (2) The Commissioner or a Family Court may grant leave under subsection (1) with or without conditions.
     
-    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on summary conviction,---
+    (3) Every person who contravenes subsection (1) commits an offence against this Act and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000:
     
@@ -4951,13 +4977,15 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
     
-    (5) Nothing in [section 81][585] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part---
+    (5) Nothing in [section 81][589] of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part---
         
     *   (a) with the leave of the Commissioner or a Family Court; or
     
     *   (b) in accordance with subsection (4).
     
-    Section 96ZF: substituted, on 18 May 2009, by [section 6][602] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 96ZF: substituted, on 18 May 2009, by [section 6][607] of the Child Support Amendment Act 2008 (2008 No 75).
+    
+    Section 96ZF(3): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 96ZG Application of certain provisions in Part 6A to proceedings under this Part
     
@@ -4967,12 +4995,12 @@ Departure from formula assessment of child support initiated by Commissioner
     
     *   (b) [section 96K][184] (which relates to the effect of a child support agreement entered into before a determination is made).
     
-    Section 96ZG: inserted, on 26 September 2006, by [section 24][601] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 96ZG: inserted, on 26 September 2006, by [section 24][606] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ## Part 7  
 Jurisdiction of courts in relation to child support and domestic maintenance
     
-*   Part 7 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+*   Part 7 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### General provisions relating to jurisdiction
 
@@ -4984,9 +5012,9 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     *   (b) any child to whom the proceeding relates resides or is domiciled in New Zealand.
     
-    Compare: 1980 No 94 [s 4][603]
+    Compare: 1980 No 94 [s 4][608]
     
-    Section 97: amended, on 1 January 2004, by [section 47][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 97: amended, on 1 January 2004, by [section 47][609] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 98 Minimum liability in respect of child support
     
@@ -5018,11 +5046,11 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     *   (b) that the annual rate of child support payable in respect of a child to whom the order does not relate is greater than the rate which would have been payable if the order had not been made.
     
-    Section 98(1): substituted, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 98(1): substituted, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 98(2): amended, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 98(2): amended, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
     
-    Section 98(2)(a): substituted, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 98(2)(a): substituted, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
 
 ##### 99 Declarations in respect of step-parents
     
@@ -5048,7 +5076,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (6) When a Family Court makes a declaration under this section, the Commissioner shall, as soon as is practicable, take such action (if any) as is necessary to give effect to the decision.
     
-    Section 99(4)(d): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 99(4)(d): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Appeals from decisions of Commissioner in respect of objections under Part 6
 
@@ -5140,7 +5168,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
 
 #### Appeals in relation to determinations
     
-*   Heading: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 103A Appeal in relation to determination or decision under subpart 3 of Part 5A
     
@@ -5166,7 +5194,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (4) An appeal under this section is by way of rehearing.
     
-    Section 103A: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 103A: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 103B Appeal by respondent from determination under Part 6A
     
@@ -5188,7 +5216,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (5) An appeal under this section is by way of rehearing.
     
-    Section 103B: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 103B: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 103C Appeal from determination under Part 6B
     
@@ -5210,7 +5238,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (4) An appeal under this section is by way of rehearing.
     
-    Section 103C: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 103C: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 103D Powers of Family Court on appeal
     
@@ -5234,7 +5262,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (5) Every order made under this section must specify the period of time in which the order is to apply or specify the event the occurrence of which will cause the order to terminate.
     
-    Section 103D: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 103D: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 103E Implementation of orders
     
@@ -5252,7 +5280,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     *   (b) in subsequently making a formula assessment in relation to the child, the qualifying custodian, and the liable parent concerned while the order is in force, act on the basis of the provisions of this Act as modified to reflect the tenor of the order and the change in circumstances that has occurred since the order was made.
     
-    Section 103E: inserted, on 26 September 2006, by [section 25][605] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 103E: inserted, on 26 September 2006, by [section 25][610] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Orders for departure from formula assessment in special circumstances
 
@@ -5288,13 +5316,13 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     *   (c) the right of the Commissioner to receive and recover any child support.
     
-    Section 104(2): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 104(2): substituted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 104(2)(b)(i): amended, on 26 September 2006, by [section 26(1)][606] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 104(2)(b)(i): amended, on 26 September 2006, by [section 26(1)][611] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 104(2)(b)(ii): amended, on 26 September 2006, by [section 26(2)][606] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 104(2)(b)(ii): amended, on 26 September 2006, by [section 26(2)][611] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 104(2)(b)(iia): inserted, on 26 September 2006, by [section 26(3)][606] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 104(2)(b)(iia): inserted, on 26 September 2006, by [section 26(3)][611] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 105 Matters as to which court must be satisfied before making order
     
@@ -5344,7 +5372,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
             
         *   (i) the income, earning capacity, property, and financial resources of either parent or the child; or
         
-        *   (ii) any payments, and any transfer or settlement of property, previously made (whether under this Act, the [Property (Relationships) Act 1976][607] or otherwise) by the liable parent to the child, to the qualifying custodian, or to any other person for the benefit of the child; or
+        *   (ii) any payments, and any transfer or settlement of property, previously made (whether under this Act, the [Property (Relationships) Act 1976][612] or otherwise) by the liable parent to the child, to the qualifying custodian, or to any other person for the benefit of the child; or
         
         *   (iii) an entitlement of the custodian to the continued occupancy of a property in which the liable parent has a financial interest.
         
@@ -5396,7 +5424,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 117 (Aust)
     
-    Section 105(2)(c)(ii): amended, on 1 February 2002, by [section 64(2)][567] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
+    Section 105(2)(c)(ii): amended, on 1 February 2002, by [section 64(2)][571] of the Property (Relationships) Amendment Act 2001 (2001 No 5).
 
 ##### 106 Orders that may be made
     
@@ -5416,13 +5444,13 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 118 (Aust)
     
-    Section 106(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 106(1)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 106(1)(b): amended, on 24 July 1999, by [section 24(1)][608] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 106(1)(b): amended, on 24 July 1999, by [section 24(1)][613] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 106(1)(b): amended (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 106(1)(b): amended (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 106(1)(c): added (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 106(1)(c): added (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 107 Implementation of orders
     
@@ -5466,7 +5494,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 ss 122, 123 (Aust)
     
-    Section 108(3): substituted, on 26 September 2006, by [section 27][609] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 108(3): substituted, on 26 September 2006, by [section 27][614] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 109 Orders for provision of child support in form of lump sum
     
@@ -5502,9 +5530,9 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 124 (Aust)
     
-    Section 109(3)(aa): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][497] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 109(3)(aa): inserted (with effect on 1 July 1994), on 15 July 1994, by [section 6(1)][495] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 109(3)(aa): amended, on 26 September 2006, by [section 28][610] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 109(3)(aa): amended, on 26 September 2006, by [section 28][615] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 110 Relationship between lump sum orders and assessed child support
     
@@ -5540,7 +5568,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 125 (Aust)
     
-    Section 110(3)(a): amended, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 110(3)(a): amended, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
 
 ##### 111 Effect of lump sum orders on formula assessment of child support
     
@@ -5610,11 +5638,11 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 129 (Aust)
     
-    Section 112(1): amended, on 26 September 2006, by [section 29(1)][611] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 112(1): amended, on 26 September 2006, by [section 29(1)][616] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 112(2): amended, on 26 September 2006, by [section 29(2)][611] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 112(2): amended, on 26 September 2006, by [section 29(2)][616] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 112(2)(d)(ii): substituted, on 7 November 2001, by [section 5(2)][525] of the Child Support Amendment Act 2001 (2001 No 90).
+    Section 112(2)(d)(ii): substituted, on 7 November 2001, by [section 5(2)][527] of the Child Support Amendment Act 2001 (2001 No 90).
 
 #### Orders to set aside voluntary agreements
 
@@ -5632,7 +5660,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 ss 136, 137 (Aust)
     
-    Section 113(3): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 113(3): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 114 Implementation of decision
     
@@ -5662,7 +5690,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 135 (Aust)
     
-    Section 115(1): amended, 26 September 2006, by [section 30][612] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 115(1): amended, 26 September 2006, by [section 30][617] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Urgent maintenance orders and suspension orders
 
@@ -5768,13 +5796,13 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     Compare: Child Support (Assessment) Act 1989 s 142 (Aust)
     
-    Section 119(1)(aa): inserted, on 26 September 2006, by [section 31][613] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 119(1)(aa): inserted, on 26 September 2006, by [section 31][618] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 119(2): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 119(2): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 119(2)(a): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 119(2)(a): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 119(2)(b): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 119(2)(b): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Miscellaneous provisions
 
@@ -5782,15 +5810,15 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
 *   (1) A party to the proceeding may appeal to the High Court against an order or declaration of a Family Court made under this Act.
     
-    (1A) The [High Court Rules][614] and [sections 74 to 78][615] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][616] of that Act.
+    (1A) The [High Court Rules][619] and [sections 74 to 78][620] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][621] of that Act.
     
-    (2) On the _ex parte_ application of the appellant, the Family Court may order that the appellant must not be required under [section 74(1)][615] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
+    (2) On the _ex parte_ application of the appellant, the Family Court may order that the appellant must not be required under [section 74(1)][620] of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
     
     (2A) Subsection (2) overrides subsection (1A).
     
     (3) The Commissioner may appeal to the High Court, against the decision, against an order or declaration of a Family Court made under this Act in relation to any of the matters specified in [sections 100 to 103][214].
     
-    (3A) The [High Court Rules][617] and [sections 75 to 78][618] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under [section 72][616] of that Act.
+    (3A) The [High Court Rules][622] and [sections 75 to 78][623] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (3) as if it were an appeal under [section 72][621] of that Act.
     
     (4) With the leave of the Court of Appeal, a party to an appeal under subsection (1) or subsection (3) may appeal to the Court of Appeal against all or part of any determination of the High Court made in the appeal.
     
@@ -5808,33 +5836,33 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     *   (c) the right of the Commissioner to receive and recover any financial support.
     
-    Compare: 1964 No 136 [s 27T][619]; 1980 No 157 s 7
+    Compare: 1964 No 136 [s 27T][624]; 1980 No 157 s 7
     
-    Section 120(1): substituted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(1): substituted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(1A): inserted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(1A): inserted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(2): substituted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(2): substituted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(2A): inserted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(2A): inserted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(3): substituted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(3): substituted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(3): amended, on 1 January 2004, by [section 47][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 120(3): amended, on 1 January 2004, by [section 47][609] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 120(3A): inserted, on 24 November 2003, by [section 4][620] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 120(3A): inserted, on 24 November 2003, by [section 4][625] of the District Courts Amendment Act 2002 (2002 No 63).
     
-    Section 120(4): substituted, on 1 January 2004, by [section 47][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 120(4): substituted, on 1 January 2004, by [section 47][609] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 120(6): repealed, on 1 January 2004, by [section 47][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 120(6): repealed, on 1 January 2004, by [section 47][609] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 120(7): repealed, on 1 January 2004, by [section 47][604] of the Supreme Court Act 2003 (2003 No 53).
+    Section 120(7): repealed, on 1 January 2004, by [section 47][609] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 121 Evidence on hearing of appeal against disallowance
     
 *   Where a court is considering an appeal under this Act against the disallowance by the Commissioner (in whole or in part) of an objection made under [section 90][166], the objector shall not, without leave of the court, be entitled to plead or adduce evidence in support of any ground of objection not specified in the objector's notice of objection.
     
-    Compare: 1964 No 136 [s 27R(4)][621]; 1980 No 157 s 7
+    Compare: 1964 No 136 [s 27R(4)][626]; 1980 No 157 s 7
 
 ##### 122 Social security beneficiary to be compellable witness against liable parent
     
@@ -5846,15 +5874,15 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
     
-    (2) [Section 70A][516] of the Social Security Act 1964 applies to any person who fails to comply with this section.
+    (2) [Section 70A][518] of the Social Security Act 1964 applies to any person who fails to comply with this section.
     
-    Compare: 1964 No 136 [s 27R(6)][621]; 1980 No 157 s 7
+    Compare: 1964 No 136 [s 27R(6)][626]; 1980 No 157 s 7
 
 ##### 123 Conduct of proceedings
     
 *   (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
     
-    (2) [Section 11A][622] of the Family Courts Act 1980 applies to the hearing of any application or appeal under this Act---
+    (2) [Section 11A][627] of the Family Courts Act 1980 applies to the hearing of any application or appeal under this Act---
         
     *   (a) in a Family Court:
     
@@ -5870,23 +5898,23 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
     (4) \[Repealed\]
     
-    Compare: 1964 No 136 [s 27U][623]; 1980 No 94 [s 159][624]; 1980 No 157 s 7
+    Compare: 1964 No 136 [s 27U][628]; 1980 No 94 [s 159][629]; 1980 No 157 s 7
     
-    Section 123(2): substituted, on 18 May 2009, by [section 7][625] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 123(2): substituted, on 18 May 2009, by [section 7][630] of the Child Support Amendment Act 2008 (2008 No 75).
     
-    Section 123(3): repealed, on 18 May 2009, by [section 7][625] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 123(3): repealed, on 18 May 2009, by [section 7][630] of the Child Support Amendment Act 2008 (2008 No 75).
     
-    Section 123(4): repealed, on 18 May 2009, by [section 7][625] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 123(4): repealed, on 18 May 2009, by [section 7][630] of the Child Support Amendment Act 2008 (2008 No 75).
 
 ##### 124 Publication of reports of proceedings
     
-*   [Sections 11B to 11D][626] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Part---
+*   [Sections 11B to 11D][631] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Part---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 124: substituted, on 18 May 2009, by [section 8][627] of the Child Support Amendment Act 2008 (2008 No 75).
+    Section 124: substituted, on 18 May 2009, by [section 8][632] of the Child Support Amendment Act 2008 (2008 No 75).
 
 ##### 125 Intervention in proceedings
     
@@ -5906,7 +5934,7 @@ Jurisdiction of courts in relation to child support and domestic maintenance
     
 *   In any proceeding before it under this Act, a Family Court or a District Court may make any order under this Act by the consent of all the parties to the proceeding.
     
-    Compare: 1980 No 94 [s 170][628]
+    Compare: 1980 No 94 [s 170][633]
 
 ## Part 8  
 Collection of financial support
@@ -5935,19 +5963,19 @@ Collection of financial support
 
 ##### 131 Social security beneficiaries to pay financial support by automatic deduction
     
-*   Where any person who is required to pay financial support under this Act is in receipt of any benefit under the [Social Security Act 1964][478] or under the [Social Welfare (Transitional Provisions) Act 1990][629] or [Part 6][630] of the War Pensions Act 1954, or the [New Zealand Superannuation and Retirement Income Act 2001][631],---
+*   Where any person who is required to pay financial support under this Act is in receipt of any benefit under the [Social Security Act 1964][478] or under the [Social Welfare (Transitional Provisions) Act 1990][634] or [Part 6][635] of the War Pensions Act 1954, or the [New Zealand Superannuation and Retirement Income Act 2001][636],---
         
     *   (a) [section 129][260] of this Act shall not apply; and
     
     *   (b) payments of financial support shall be payable by way of automatic deduction under [Part 10][311] of this Act from any instalment of any benefit to which the person is or may become entitled under that Act.
     
-    Section 131: amended, on 21 April 2005, by [section 9(1)][632] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 131: amended, on 21 April 2005, by [section 9(1)][637] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Section 131: amended, on 15 April 2003, by [section 12(1)][633] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 131: amended, on 15 April 2003, by [section 12(1)][638] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 131: amended, on 12 October 2001, by [section 77][634] of the New Zealand Superannuation Act 2001 (2001 No 84).
+    Section 131: amended, on 12 October 2001, by [section 77][639] of the New Zealand Superannuation Act 2001 (2001 No 84).
     
-    Section 131: amended, on 1 October 1998, by [section 57][494] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 131: amended, on 1 October 1998, by [section 57][492] of the Social Security Amendment Act 1998 (1998 No 19).
 
 #### Due dates for payment of financial support
 
@@ -5999,11 +6027,11 @@ Collection of financial support
     
     (2) An amount payable to the Commissioner under subsection (1) is a debt due to the Crown and shall, for all purposes other than for the purposes of [Part 9][292], be deemed to be of the same nature as the amount or part thereof in respect of which it is imposed, and shall be recoverable accordingly.
     
-    Compare: 1976 No 65 s 398; 1985 No 141 [s 41][635]
+    Compare: 1976 No 65 s 398; 1985 No 141 [s 41][640]
 
 #### Interpretation provision relating to relief from penalties
     
-*   Heading: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135 Interpretation for purposes of sections 135A to 135O
     
@@ -6015,11 +6043,11 @@ Collection of financial support
     
     _penalty_ means a penalty that is imposed under [section 134][266].
     
-    Section 135: substituted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135: substituted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Discretionary relief in respect of penalties
     
-*   Heading: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135A Application of sections 135B to 135G
     
@@ -6031,7 +6059,7 @@ Collection of financial support
     
     *   (b) if a penalty has been paid, in whole or in part, refunding to the liable person the whole or any part of that penalty that has been paid, with or without the writing off of any part of that penalty that has not been paid.
     
-    Section 135A: substituted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135A: substituted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135B Discretionary relief if reasonable cause
     
@@ -6047,7 +6075,7 @@ Collection of financial support
     
     *   (b) caused, in the opinion of the Commissioner, a reasonable delay in the payment of a financial support debt by the liable person.
     
-    Section 135B: substituted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135B: substituted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135C Discretionary relief if failure of another person to make deduction
     
@@ -6059,7 +6087,7 @@ Collection of financial support
     
     *   (c) having regard to the nature of those circumstances, it would be fair and reasonable to grant relief.
     
-    Section 135C: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135C: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135D Discretionary relief if honest oversight by liable person with no history of default
     
@@ -6071,7 +6099,7 @@ Collection of financial support
     
     *   (c) the liable person paid the debt as soon as he or she became aware of the oversight.
     
-    Section 135D: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135D: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135E Discretionary relief if error made by Department
     
@@ -6083,7 +6111,7 @@ Collection of financial support
     
     *   (c) having regard to the circumstances of the case, it would be fair and reasonable to grant relief.
     
-    Section 135E: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135E: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135F Discretionary relief if debt uplifted
     
@@ -6093,7 +6121,7 @@ Collection of financial support
     
     *   (b) it would be fair and reasonable to grant relief.
     
-    Section 135F: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135F: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135G Discretionary relief for residual incremental penalty debt
     
@@ -6109,7 +6137,7 @@ Collection of financial support
         
         
     
-    (2) Before making a decision under subsection (1)(b), the Commissioner must have regard to the matters referred to in [sections 6][637] and [6A][638] of the Tax Administration Act 1994\.
+    (2) Before making a decision under subsection (1)(b), the Commissioner must have regard to the matters referred to in [sections 6][642] and [6A][643] of the Tax Administration Act 1994\.
     
     (3) In this section,---
     
@@ -6139,11 +6167,11 @@ Collection of financial support
         
         
     
-    Section 135G: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135G: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Mandatory relief in respect of initial late payment penalty
     
-*   Heading: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135H Relief from initial late payment penalty if payment arrangement
     
@@ -6183,7 +6211,7 @@ Collection of financial support
     
     (3) For the purposes of this section, _first payment_ means the first amount of financial support that is required to be paid by a liable person under an assessment made by the Commissioner under [section 24(1)(a)][34].
     
-    Section 135H: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135H: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135I Relief from initial late payment penalty if minimum amount
     
@@ -6197,11 +6225,11 @@ Collection of financial support
     
     (2) If an initial late payment penalty is written off under this section, and that penalty has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the initial late payment penalty that has been paid.
     
-    Section 135I: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135I: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Mandatory relief in respect of incremental penalties
     
-*   Heading: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135J Relief from incremental penalties unpaid before agreement entered into
     
@@ -6253,7 +6281,7 @@ Collection of financial support
     
     (5) If an incremental penalty that is written off under this section has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the incremental penalty that has been paid.
     
-    Section 135J: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135J: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135K Relief from incremental penalties in relation to arrangements entered into or made before commencement
     
@@ -6337,7 +6365,7 @@ Collection of financial support
     
     (7) If an incremental penalty that is written off under this section has been paid in whole or in part, the Commissioner must refund to the liable person the whole or part of the incremental penalty that has been paid.
     
-    Section 135K: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135K: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135L Writing-off of incremental penalties if non-compliance with arrangement
     
@@ -6357,7 +6385,7 @@ Collection of financial support
     
     (4) The Commissioner may disregard a failure to make a deduction and payment for the purpose of applying [section 135K][282].
     
-    Section 135L: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135L: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135M Relief from ongoing incremental penalties if payment agreement in force
     
@@ -6375,7 +6403,7 @@ Collection of financial support
     
     *   (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
     
-    Section 135M: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135M: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135N Relief from ongoing incremental penalties if deduction notice in force
     
@@ -6393,17 +6421,17 @@ Collection of financial support
     
     *   (b) if that incremental penalty has been paid, in whole or in part, by refunding to that person the whole or the part of that incremental penalty that has been paid, with or without writing off any part of that incremental penalty that has not been paid.
     
-    Section 135N: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135N: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+*   Heading: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 135O Refunds paid out of Crown Bank Account without further appropriation
     
 *   Any refund made under [sections 135A to 135N][270] must be paid out of a Crown Bank Account without further appropriation than this section.
     
-    Section 135O: inserted, on 26 September 2006, by [section 32(1)][636] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 135O: inserted, on 26 September 2006, by [section 32(1)][641] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 136 Amounts payable per month and per day
     
@@ -6411,11 +6439,11 @@ Collection of financial support
     
     (2) The amount of child support or domestic maintenance payable in relation to each day in the child support year is the amount of the monthly rate divided by the number of days in that calendar month and rounded to the nearest 5 cents.
     
-    Section 136: substituted, on 24 July 1999, by [section 26][639] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 136: substituted, on 24 July 1999, by [section 26][644] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 136(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 136(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 136(2): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 136(2): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Application of payments collected
 
@@ -6437,9 +6465,9 @@ Collection of financial support
     
     *   (g) any penalty or interest imposed under this Act.
     
-    Section 137(e): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 137(e): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 137(f): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 137(f): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 138 Apportionment of payment between payees
     
@@ -6466,9 +6494,9 @@ Payment of financial support
     
 *   (1) An account by the name of the Child Support Trust Bank Account is established by this section.
     
-    (2) [Section 66(4)][640] of the Public Finance Act 1989 shall apply to that account.
+    (2) [Section 66(4)][645] of the Public Finance Act 1989 shall apply to that account.
     
-    (3) The Child Support Trust Bank Account is a trust bank account for the purposes of [section 67][641] of the Public Finance Act 1989\.
+    (3) The Child Support Trust Bank Account is a trust bank account for the purposes of [section 67][646] of the Public Finance Act 1989\.
 
 ##### 140 Payments into, and out of, Child Support Trust Bank Account
     
@@ -6478,11 +6506,11 @@ Payment of financial support
     
     (3) The money standing to the credit of the Child Support Trust Bank Account shall be applied in making payments under [sections 141 to 145][297].
     
-    Section 140: substituted, on 15 July 1994, by [section 7][642] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 140: substituted, on 15 July 1994, by [section 7][647] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 140(1): amended, on 25 January 2005, pursuant to [section 65R(3)][643] of the Public Finance Act 1989 (1989 No 44).
+    Section 140(1): amended, on 25 January 2005, pursuant to [section 65R(3)][648] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 140(2): amended, on 25 January 2005, pursuant to [section 65R(3)][643] of the Public Finance Act 1989 (1989 No 44).
+    Section 140(2): amended, on 25 January 2005, pursuant to [section 65R(3)][648] of the Public Finance Act 1989 (1989 No 44).
 
 #### Payments by Commissioner
 
@@ -6558,29 +6586,29 @@ Payment of financial support
     
     (3) This section does not limit the application of [section 137][290] to the liable parent.
     
-    Section 142(1)(ea): inserted, on 1 December 2006, by [section 33(1)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(1)(ea): inserted, on 1 December 2006, by [section 33(1)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(1)(e): amended, on 1 December 2006, by [section 33(2)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(1)(e): amended, on 1 December 2006, by [section 33(2)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(1)(f): amended, on 15 July 1994, by [section 8(1)][645] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 142(1)(f): amended, on 15 July 1994, by [section 8(1)][650] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 142(1)(f)(ii): amended, on 1 December 2006, by [section 33(3)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(1)(f)(ii): amended, on 1 December 2006, by [section 33(3)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2): added (with effect on 1 July 1992), on 15 July 1994, by [section 8(2)][645] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 142(2): added (with effect on 1 July 1992), on 15 July 1994, by [section 8(2)][650] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 142(2)(a)(ia): inserted, on 1 December 2006, by [section 33(4)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(a)(ia): inserted, on 1 December 2006, by [section 33(4)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2)(a)(i): amended, on 1 December 2006, by [section 33(5)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(a)(i): amended, on 1 December 2006, by [section 33(5)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2)(a)(ii)(B): amended, on 1 December 2006, by [section 33(6)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(a)(ii)(B): amended, on 1 December 2006, by [section 33(6)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2)(b)(ia): inserted, on 1 December 2006, by [section 33(7)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(b)(ia): inserted, on 1 December 2006, by [section 33(7)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2)(b)(i): amended, on 1 December 2006, by [section 33(8)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(b)(i): amended, on 1 December 2006, by [section 33(8)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(2)(b)(ii)(B): amended, on 1 December 2006, by [section 33(9)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(2)(b)(ii)(B): amended, on 1 December 2006, by [section 33(9)][649] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 142(3): added, on 1 December 2006, by [section 33(10)][644] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 142(3): added, on 1 December 2006, by [section 33(10)][649] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 143 Payment of voluntary agreement child support to custodians who are social security beneficiaries
     
@@ -6660,19 +6688,19 @@ Payment of financial support
     
     (3) This section does not limit the application of [section 137][290] to the liable parent.
     
-    Section 143(1)(da): inserted, on 1 December 2006, by [section 34(1)][646] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 143(1)(da): inserted, on 1 December 2006, by [section 34(1)][651] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 143(1)(d): amended, on 1 December 2006, by [section 34(2)][646] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 143(1)(d): amended, on 1 December 2006, by [section 34(2)][651] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 143(1)(f): amended, on 15 July 1994, by [section 9(1)][647] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 143(1)(f): amended, on 15 July 1994, by [section 9(1)][652] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 143(1)(f)(ii): amended, on 1 December 2006, by [section 34(3)][646] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 143(1)(f)(ii): amended, on 1 December 2006, by [section 34(3)][651] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 143(1A): substituted, on 1 December 2006, by [section 34(4)][646] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 143(1A): substituted, on 1 December 2006, by [section 34(4)][651] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 143(2): amended (with effect on 1 July 1992), on 15 July 1994, by [section 9(3)][647] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 143(2): amended (with effect on 1 July 1992), on 15 July 1994, by [section 9(3)][652] of the Child Support Amendment Act 1994 (1994 No 74).
     
-    Section 143(3): added, on 1 December 2006, by [section 34(5)][646] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 143(3): added, on 1 December 2006, by [section 34(5)][651] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 144 Payment of lump sum and other child support
     
@@ -6690,9 +6718,9 @@ Payment of financial support
     
 *   All money received by the Commissioner by way of domestic maintenance towards the support of any person shall be paid to that person in accordance with this Part.
     
-    Section 145 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 145 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 145: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 145: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 146 Time at which payments are to be made
     
@@ -6718,15 +6746,15 @@ Payment of financial support
     
     the amount of that deduction shall, for the purposes of this Part, be deemed to have been received by the Commissioner on or before the 20th day of the following month.
     
-    Section 147 heading: amended, on 26 March 2003, by [section 4(1)][648] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 147 heading: amended, on 26 March 2003, by [section 4(1)][653] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 147: amended, on 15 July 1994, by [section 10][649] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 147: amended, on 15 July 1994, by [section 10][654] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 148 Method in which payments to be made
     
 *   Any payment to be made to a payee under this section by the Commissioner shall, unless the Commissioner is satisfied that payment cannot be made in this manner, be paid by direct credit to a bank account nominated by the payee.
     
-    Section 148: amended, on 24 July 1999, by [section 27][650] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 148: amended, on 24 July 1999, by [section 27][655] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 149 Unexplained remittances
     
@@ -6740,7 +6768,7 @@ Payment of financial support
     
     (2) The Commissioner may, for the purposes of this Part, hold the received amount until the amount attributable to each of the liable persons from whom an amount has been deducted by the person has been established to the satisfaction of the Commissioner.
     
-    Section 149(2): amended, on 15 July 1994, by [section 11][651] of the Child Support Amendment Act 1994 (1994 No 74).
+    Section 149(2): amended, on 15 July 1994, by [section 11][656] of the Child Support Amendment Act 1994 (1994 No 74).
 
 ##### 150 Time at which unexplained remittances deemed to be received
     
@@ -6776,9 +6804,9 @@ Payment of financial support
     
     (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
     
-    Section 151A: inserted, on 24 July 1999, by [section 28(1)][652] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 151A: inserted, on 24 July 1999, by [section 28(1)][657] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 151A(3): amended, on 25 January 2005, pursuant to [section 65R(3)][643] of the Public Finance Act 1989 (1989 No 44).
+    Section 151A(3): amended, on 25 January 2005, pursuant to [section 65R(3)][648] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 152 Relief in cases of serious hardship
     
@@ -6808,7 +6836,7 @@ Payment of financial support
     
     (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
     
-    Section 152A: inserted, on 26 September 2006, by [section 35][653] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 152A: inserted, on 26 September 2006, by [section 35][658] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ## Part 10  
 Automatic deductions
@@ -6865,19 +6893,19 @@ Automatic deductions
     
     (4) For the purposes of this Act, unless the context otherwise requires, _bank_ means---
         
-    *   (a) any registered bank within the meaning of that term in [section 2][654] of the Reserve Bank of New Zealand Act 1989:
+    *   (a) any registered bank within the meaning of that term in [section 2][659] of the Reserve Bank of New Zealand Act 1989:
     
-    *   (b) any trustee bank or trustee bank's successor company (within the meaning of those terms in [section 4][655] of the Trustee Banks Restructuring Act Repeal Act 1999):
+    *   (b) any trustee bank or trustee bank's successor company (within the meaning of those terms in [section 4][660] of the Trustee Banks Restructuring Act Repeal Act 1999):
     
     *   (c) any private savings bank carried on under the Private Savings Banks Act 1983:
     
-    *   (d) any building society registered under the [Building Societies Act 1965][656], in respect of any deposits with the building society:
+    *   (d) any building society registered under the [Building Societies Act 1965][661], in respect of any deposits with the building society:
     
     *   (e) any person (not being a person of any of the kinds referred to in paragraphs (a) to (d)) that is a person carrying on in New Zealand the business of banking.
     
-    Section 155(4)(b): amended, on 21 May 1999, pursuant to [section 5][657] of the Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53).
+    Section 155(4)(b): amended, on 21 May 1999, pursuant to [section 5][662] of the Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53).
     
-    Section 155(4)(e): amended, on 30 June 1995, pursuant to [section 2(2)][658] of the Banking Act Repeal Act 1995 (1995 No 32).
+    Section 155(4)(e): amended, on 30 June 1995, pursuant to [section 2(2)][663] of the Banking Act Repeal Act 1995 (1995 No 32).
 
 ##### 156 Copy of deduction notice to be given to liable person
     
@@ -6885,11 +6913,11 @@ Automatic deductions
     
     (2) For the purposes of the [Tax Administration Act 1994][474], every such copy shall be deemed to be a notice required by this Act to be given by the Commissioner to the liable person.
     
-    Section 156 heading: amended, on 26 September 2006, by [section 36(1)][659] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 156 heading: amended, on 26 September 2006, by [section 36(1)][664] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 156(2): amended, on 26 September 2006, by [section 36(2)][659] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 156(2): amended, on 26 September 2006, by [section 36(2)][664] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 156(2): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 156(2): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
 
 ##### 157 Priority of deductions under this Act
     
@@ -6973,27 +7001,27 @@ Automatic deductions
 
 ##### 165 Protected net earnings rate
     
-*   (1) Notwithstanding anything in this Part, the employer of a liable person, or a PAYE intermediary for the employer, shall not in making deductions under a deduction notice reduce the net earnings of the liable person in respect of any pay period (within the meaning of [section YA 1][475] of the Income Tax Act 2007) to an amount that is less than 60% of the residue that remains after deducting from the source deduction payment the amount of any tax withheld or deducted under the PAYE rules of the [Income Tax Act 2007][550].
+*   (1) Notwithstanding anything in this Part, the employer of a liable person, or a PAYE intermediary for the employer, shall not in making deductions under a deduction notice reduce the net earnings of the liable person in respect of any pay period (within the meaning of [section YA 1][475] of the Income Tax Act 2007) to an amount that is less than 60% of the residue that remains after deducting from the source deduction payment the amount of any tax withheld or deducted under the PAYE rules of the [Income Tax Act 2007][553].
     
     (2) This section is subject to any instruction received by an employer or a PAYE intermediary under [section 166][326].
     
     (3) In this section, _PAYE intermediary_ means a PAYE intermediary as defined in [section YA 1][475] of the Income Tax Act 2007\.
     
-    Compare: 1964 No 136 [s 27ZB][660]
+    Compare: 1964 No 136 [s 27ZB][665]
     
-    Section 165(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 165(1): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 165(1): amended, on 26 March 2003, by [section 5(1)][661] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 165(1): amended, on 26 March 2003, by [section 5(1)][666] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 165(1): amended, on 24 July 1999, by [section 29(a)][662] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 165(1): amended, on 24 July 1999, by [section 29(a)][667] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 165(2): added, on 24 July 1999, by [section 29(b)][662] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 165(2): added, on 24 July 1999, by [section 29(b)][667] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 165(2): amended, on 26 March 2003, by [section 5(2)][661] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 165(2): amended, on 26 March 2003, by [section 5(2)][666] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 165(3): added, on 26 March 2003, by [section 5(3)][661] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 165(3): added, on 26 March 2003, by [section 5(3)][666] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 165(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 35).
+    Section 165(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 35).
 
 ##### 166 Position where liable person has 2 or more employers
     
@@ -7003,21 +7031,21 @@ Automatic deductions
     
     *   (b) apply this Part in relation to any 2 or more of the employers with such modifications as the Commissioner considers appropriate, being modifications made for the purpose of ensuring that the amounts collected under this Part in relation to the liability are, in the aggregate, the same as those that would be collected in relation to the liability if the liable person had only 1 employer.
     
-    (2) Without limiting the generality of subsection (1)(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of [section 165(1)][325] provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax withheld under the PAYE rules of the [Income Tax Act 2007][550].
+    (2) Without limiting the generality of subsection (1)(b), where a liable person has more than 1 employer, the Commissioner may, under that subsection and on the request of the liable person, disregard, and instruct an employer of the liable person, or a PAYE intermediary for the employer, to disregard, the provisions of [section 165(1)][325] provided that the total deductions made under deduction notices by all employers of the liable person and all PAYE intermediaries must not reduce the person's total net earnings in respect of a pay period to an amount that is less than 60% of the residue that remains after deducting from the source deduction payments the amount of any tax withheld under the PAYE rules of the [Income Tax Act 2007][553].
     
     (3) In this section, _PAYE intermediary_ has the same meaning as in [section YA 1][475] of the Income Tax Act 2007\.
     
-    Section 166(2): added, on 24 July 1999, by [section 30][663] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 166(2): added, on 24 July 1999, by [section 30][668] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 166(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 166(2): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 166(2): amended, on 26 March 2003, by [section 6(1)(a)][664] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 166(2): amended, on 26 March 2003, by [section 6(1)(a)][669] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 166(2): amended, on 26 March 2003, by [section 6(1)(b)][664] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 166(2): amended, on 26 March 2003, by [section 6(1)(b)][669] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 166(3): added, on 26 March 2003, by [section 6(2)][664] of the Child Support Amendment Act 2003 (2003 No 8).
+    Section 166(3): added, on 26 March 2003, by [section 6(2)][669] of the Child Support Amendment Act 2003 (2003 No 8).
     
-    Section 166(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 166(3): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 167 Deductions to be held on trust
     
@@ -7047,19 +7075,19 @@ Automatic deductions
         
     *   (a) has been registered under any registration Act to which the property is subject; or
     
-    *   (b) that is valid and effectual under the [Personal Property Securities Act 1999][665] without registration thereof,---
+    *   (b) that is valid and effectual under the [Personal Property Securities Act 1999][670] without registration thereof,---
     
     but, subject to this section, shall have priority over all other mortgages, charges, or encumbrances. Notwithstanding anything in any other Act, if any property subject to the charge created by this section is also subject to a charge created by that other Act, the charges shall rank equally with each other unless by virtue of that Act the charge created thereby would be deferred to the charge created by this section.
     
-    (4) Despite [section 23(b)][666] of the Personal Property Securities Act 1999, if a charge affects property against which charges may be registered under a registration Act, the Commissioner may register the charge under the registration Act.
+    (4) Despite [section 23(b)][671] of the Personal Property Securities Act 1999, if a charge affects property against which charges may be registered under a registration Act, the Commissioner may register the charge under the registration Act.
     
     (4B) The Commissioner is not required to pay a fee for the registration of a charge under a registration Act in reliance on this section.
     
     (5) For the purpose of this section, _registration Act_, in relation to any property, includes---
         
-    *   (a) the [Statutory Land Charges Registration Act 1928][667] in every case where the property is land or an interest in land (including a mortgage):
+    *   (a) the [Statutory Land Charges Registration Act 1928][672] in every case where the property is land or an interest in land (including a mortgage):
     
-    *   (b) the [Personal Property Securities Act 1999][665].
+    *   (b) the [Personal Property Securities Act 1999][670].
     
     (6) Particulars recorded under subsection (4) are to operate and take priority according to the provisions of the applicable registration Act.
     
@@ -7075,7 +7103,7 @@ Automatic deductions
     
     (10) Where any property has been sold under any such order, the Family Court or, as the case may be, the District Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
     
-    (11) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the [Land Transfer Act 1952][668] the purchaser's title thereto shall be registered accordingly.
+    (11) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the [Land Transfer Act 1952][673] the purchaser's title thereto shall be registered accordingly.
     
     (12) This section shall apply subject to [section 167][327].
     
@@ -7085,23 +7113,23 @@ Automatic deductions
     
     Section 169(1): amended, on 26 July 1996, by section 3(b) of the Child Support Amendment Act 1996 (1996 No 65).
     
-    Section 169(3)(b): amended, on 1 May 2002, by [section 191(1)][669] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 169(3)(b): amended, on 1 May 2002, by [section 191(1)][674] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 169(4): substituted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(4): substituted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(4B): inserted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(4B): inserted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(5): substituted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(5): substituted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(6): substituted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(6): substituted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(6B): inserted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(6B): inserted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(7): substituted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(7): substituted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(7B): inserted, on 25 November 2003, by [section 3][670] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
+    Section 169(7B): inserted, on 25 November 2003, by [section 3][675] of the Child Support Amendment Act (No 2) 2003 (2003 No 125).
     
-    Section 169(11): amended, on 20 May 1999, by [section 7][671] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 169(11): amended, on 20 May 1999, by [section 7][676] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 170 Payers not to disclose information
     
@@ -7220,7 +7248,7 @@ Enforcement provisions
     
 *   All unpaid financial support and any unpaid penalty or other charge imposed thereon under this Act shall be recoverable by the Commissioner on behalf of the Crown by suit in the Commissioner's official name and that money may, without prejudice to any mode of recovery, then be enforceable in the same manner as a judgment given by the District Court in civil proceedings.
     
-    Compare: 1980 No 94 [s 101][672]
+    Compare: 1980 No 94 [s 101][677]
 
 ##### 179 Payee has no right to take action to recover financial support payments
     
@@ -7250,11 +7278,11 @@ Enforcement provisions
     
     (4) An election made under this section is irrevocable from the time that the amount of child support or domestic maintenance is unpaid and in arrear.
     
-    Section 180: substituted, on 24 July 1999, by [section 31][673] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 180: substituted, on 24 July 1999, by [section 31][678] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 180(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 180(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 180(4): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 180(4): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 181 Application of tax overpayments
     
@@ -7270,7 +7298,7 @@ Enforcement provisions
     
     *   (d) may secondly apply any excess against the amount of the debt that is due by the person under this Act.
     
-    Section 181(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 181(a): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
 
 ##### 182 Bankruptcy
     
@@ -7282,7 +7310,7 @@ Enforcement provisions
     
     *   (b) affect any security for the payment of any liability under this Act, or the liability of any property to be made available in satisfaction of any liability under this Act, other than property that is or becomes assets in the bankruptcy.
     
-    Compare: 1980 No 94 [s 102][674]
+    Compare: 1980 No 94 [s 102][679]
 
 ##### 183 Warrant of distress
     
@@ -7290,7 +7318,7 @@ Enforcement provisions
     
     (2) Every such warrant of distress shall be in the prescribed form, with any necessary modifications.
     
-    (3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the [District Courts Act 1947][675] that apply to warrants of distress shall apply, with any necessary modifications, in respect of a warrant of distress issued under this section.
+    (3) Except to the extent that they are modified or varied by this section or by any rules of procedure made under this Act, the provisions of the [District Courts Act 1947][680] that apply to warrants of distress shall apply, with any necessary modifications, in respect of a warrant of distress issued under this section.
     
     (4) For the purpose of executing any warrant of distress, the bailiff executing it may at any time enter on any premises, by force if necessary, if the bailiff has reasonable cause to believe that the property in respect of which it is issued is on those premises:
     
@@ -7306,9 +7334,9 @@ Enforcement provisions
     
     (9) No distress made under the authority of this Act shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, by reason of any defect or want of form in the warrant of distress, nor shall any such person be deemed a trespasser from the beginning by reason of any irregularity afterwards committed by that person; but all persons aggrieved by any such defect or irregularity may recover satisfaction for the special damage by action at law.
     
-    (10) [Sections 91][676] and [95][677] of the District Courts Act 1947 shall not apply in relation to a distress warrant issued under this section.
+    (10) [Sections 91][681] and [95][682] of the District Courts Act 1947 shall not apply in relation to a distress warrant issued under this section.
     
-    Compare: 1980 No 94 [s 103][678]
+    Compare: 1980 No 94 [s 103][683]
 
 #### Charging orders
 
@@ -7324,19 +7352,19 @@ Enforcement provisions
     
     (5) Nothing in section 131 of the Workers' Compensation Act 1956 or in section 89 of the Accident Compensation Act 1982 shall apply to any charge constituted under this section.
     
-    (6) Where a charging order is made in respect of the registered estate or interest of the respondent in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][668], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
+    (6) Where a charging order is made in respect of the registered estate or interest of the respondent in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the [Land Transfer Act 1952][673], or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
     
     (7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument or title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
     
     (8) An order discharging or varying a charging order may be registered or recorded in the same manner as the charging order.
     
-    Compare: 1980 No 94 [s 118][679]
+    Compare: 1980 No 94 [s 118][684]
 
 ##### 185 Charging orders on life insurance policies
     
 *   The authority conferred on the court by [section 184][348] to make a charging order shall apply with respect to policies of life insurance.
     
-    Compare: 1980 No 94 [s 119][680]
+    Compare: 1980 No 94 [s 119][685]
 
 ##### 186 Extent to which charging orders bind the Crown
     
@@ -7372,11 +7400,11 @@ Enforcement provisions
     
     *   (b) to any money in the payment of which the Crown acts only in the capacity of an agent.
     
-    Compare: 1980 No 94 [s 120][681]
+    Compare: 1980 No 94 [s 120][686]
     
-    Section 186(1)(b): substituted, on 1 October 1995, by [section 31][682] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 186(1)(b): substituted, on 1 October 1995, by [section 31][687] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
-    Section 186(1)(b)(i): amended, on 2 October 2001, by [section 40][683] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 186(1)(b)(i): amended, on 2 October 2001, by [section 40][688] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 #### Receiving orders
 
@@ -7388,17 +7416,17 @@ Enforcement provisions
     
     (2) Where any property has been sold under any such order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
     
-    (3) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the [Land Transfer Act 1952][668] the purchaser's title thereto shall be registered accordingly.
+    (3) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the [Land Transfer Act 1952][673] the purchaser's title thereto shall be registered accordingly.
     
     (4) The court may, at any time after making a receiving order, vary or discharge the order.
     
     (5) A receiving order shall expire on the payment by the liable person of all arrears due under this Act, together with the payment by the liable person in advance of all money to become payable under this Act during the period of 6 months from the date of the cancellation of the receiving order.
     
-    Compare: 1980 No 94 [s 121][684]
+    Compare: 1980 No 94 [s 121][689]
     
-    Section 187(1): amended, on 1 March 2002, by [section 170(1)][685] of the Public Trust Act 2001 (2001 No 100).
+    Section 187(1): amended, on 1 March 2002, by [section 170(1)][690] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 187(3): amended, on 20 May 1999, by [section 7][671] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 187(3): amended, on 20 May 1999, by [section 7][676] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 188 Powers and duties of receiver
     
@@ -7424,7 +7452,7 @@ Enforcement provisions
     
     (9) The mortgage or charge shall have the same operation and effect in all respects as if it were executed or given by the liable person personally, and shall remain valid and effectual notwithstanding any subsequent discharge of the charge or of the receiving order.
     
-    (10) Where the receiver is Public Trust and the receiver is authorised pursuant to subsection (7) to borrow money, the receiver may instead advance money in accordance with [section 56][686] of the Public Trust Act 2001 as if the land were property to the credit of an estate under that section, and all the provisions of that section, as far as they are applicable and with any necessary modifications, shall apply to any such advance.
+    (10) Where the receiver is Public Trust and the receiver is authorised pursuant to subsection (7) to borrow money, the receiver may instead advance money in accordance with [section 56][691] of the Public Trust Act 2001 as if the land were property to the credit of an estate under that section, and all the provisions of that section, as far as they are applicable and with any necessary modifications, shall apply to any such advance.
     
     (11) Subject to the foregoing provisions of this section, the receiver shall hold in trust all money received by the receiver in the exercise of his or her powers, after payment out of the money of all expenses incurred by the receiver, and of any remuneration allowed by the court for the services of the receiver in that behalf,---
         
@@ -7436,11 +7464,11 @@ Enforcement provisions
     
     (13) Subject to this Act, the appointment of a receiver by a Family Court or a District Court under this Part shall have the same effect, and the receiver shall have the same powers, duties, and liabilities, as if the receiver had been appointed by the High Court in the exercise of its jurisdiction in that behalf, and the Family Court or the District Court may give to the receiver any directions and confer upon the receiver any powers that the High Court may give to or confer upon any receiver so appointed by it.
     
-    Compare: 1980 No 94 [s 122][687]
+    Compare: 1980 No 94 [s 122][692]
     
-    Section 188(10): amended, on 1 March 2002, by [section 170(1)][685] of the Public Trust Act 2001 (2001 No 100).
+    Section 188(10): amended, on 1 March 2002, by [section 170(1)][690] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 188(12): substituted, on 1 March 2002, by [section 170(1)][685] of the Public Trust Act 2001 (2001 No 100).
+    Section 188(12): substituted, on 1 March 2002, by [section 170(1)][690] of the Public Trust Act 2001 (2001 No 100).
 
 #### Provisions as to enforcement of financial support liability
 
@@ -7448,11 +7476,11 @@ Enforcement provisions
     
 *   An order made under this Part for the purpose of enforcing payment of any money payable under this Act may be made in respect of arrears due under this Act up to the date of the order.
     
-    Compare: 1980 No 94 [s 123][688]
+    Compare: 1980 No 94 [s 123][693]
 
 ##### 190 Power to issue summons to appear in court
     
-*   (1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a sentence of detention, as defined in the [Summary Proceedings Act 1957][689], issue a summons in the prescribed form to that person.
+*   (1) Where a person who is liable to pay financial support under this Act refuses or fails to make payment of any financial support so payable, the Registrar of the District Court or Family Court nearest to the place where the person resides or carries on business, on the application of the Commissioner, supported by sufficient evidence of default, may, unless the Registrar knows that the person is undergoing a custodial sentence, as defined in [section 4][694] of the Criminal Records (Clean Slate) Act 2004, issue a summons in the prescribed form to that person.
     
     (2) A summons issued under subsection (1) shall require the person, unless the amount of arrears of financial support (including any penalty or other charge imposed thereon under this Act) due under this Act is sooner paid, to appear at the time and place appointed in the summons to be examined orally by the District Court or Family Court as to the person's means and the reason for the alleged default.
     
@@ -7460,13 +7488,15 @@ Enforcement provisions
     
     (4) If a summons issued under this section cannot be served or if a person on whom such a summons has been served fails to appear before the District Court or Family Court at the time and place specified in the summons, or at any subsequent time and place to which the examination is adjourned, a District Court or Family Court Judge may issue a warrant to arrest the person and bring the person before the court as soon as possible.
     
-    Compare: 1980 No 94 [s 124][690]
+    Compare: 1980 No 94 [s 124][695]
+    
+    Section 190(1): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 191 Evidence of default
     
 *   For the purpose of [sections 190][356], [194][360], and [196][362], a certificate of arrears signed by the Commissioner specifying the amount of any money in arrear and unpaid under this Act shall until the contrary is proved be sufficient evidence of the amount so in arrear and unpaid as at the date specified in the certificate.
     
-    Compare: 1980 No 94 [s 125][691]
+    Compare: 1980 No 94 [s 125][696]
 
 ##### 192 Power to summons witnesses
     
@@ -7480,11 +7510,13 @@ Enforcement provisions
     
     (2) Any person so summoned may be required to produce any book, paper, or document relating to the affairs, finances, or property of the liable person.
     
-    (3) No person who is required by a summons issued under subsection (1) to travel more than 20 kilometres to attend the examination shall be bound to attend unless expenses in accordance with the scale prescribed by regulations made under the [Summary Proceedings Act 1957][689] are tendered to that person.
+    (3) No person who is required by a summons issued under subsection (1) to travel more than 20 kilometres to attend the examination shall be bound to attend unless expenses in accordance with the scale prescribed by regulations made under the [Criminal Procedure Act 2011][697] are tendered to that person.
     
     (4) On the failure of any person to appear before the court in answer to a summons under subsection (1), a District Court or Family Court Judge may issue a warrant to arrest that person and bring that person before the court as soon as possible.
     
-    Compare: 1980 No 94 [s 126][692]
+    Compare: 1980 No 94 [s 126][698]
+    
+    Section 192(3): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 193 Execution of warrants
     
@@ -7494,7 +7526,7 @@ Enforcement provisions
     
     (3) Every person apprehended under a warrant under [section 190(4)][356] or [section 192(4)][358] shall be bailable as of right.
     
-    Compare: 1980 No 94 [s 127][693]
+    Compare: 1980 No 94 [s 127][699]
 
 ##### 194 Conduct of examination
     
@@ -7512,9 +7544,11 @@ Enforcement provisions
     
     (5) Any examination under [section 190][356] may from time to time be adjourned by the court to a time and place to be appointed.
     
-    (6) On any examination under [section 190][356] of this Act, [sections 46 to 49A][694] of the Summary Proceedings Act 1957 shall apply, so far as they are applicable and with the necessary modifications, as if the examination were the hearing of a charge.
+    (6) On any examination under [section 190][356] of this Act, [sections 168][700] and [206][701] of the Criminal Procedure Act 2011 apply, so far as they are applicable and with the necessary modifications, as if the examination were the hearing of a charge.
     
-    Compare: 1980 No 94 [s 128][695]
+    Compare: 1980 No 94 [s 128][702]
+    
+    Section 194(6): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 195 Orders by court
     
@@ -7526,7 +7560,7 @@ Enforcement provisions
     
     *   (c) make any order or issue any warrant under this Act relating to the enforcement of any liability under this Act as it thinks fit.
     
-    Compare: 1980 No 94 [s 129][696]
+    Compare: 1980 No 94 [s 129][703]
 
 ##### 196 Contempt procedures
     
@@ -7544,35 +7578,39 @@ Enforcement provisions
     
     (7) A warrant under subsection (5) shall cease to have effect if the amount due under this Act is paid.
     
-    (8) An order made under subsection (1) shall have effect as if the liable person, following conviction on an information, had been sentenced to community work.
+    (8) An order made under subsection (1) shall have effect as if the liable person, following conviction, had been sentenced to community work.
     
-    (9) Where a District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court on an information.
+    (9) Where a District Court or Family Court, acting under this section, orders a liable person to do community work, the person shall have the same right of appeal to the High Court against the order as the person would have had if the person had been convicted and sentenced by the District Court.
     
     (10) Doing community work under this section shall not operate to extinguish or affect the liability of the respondent under this Act.
     
-    (11) [Section 30][697] of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
+    (11) [Section 30][704] of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
     
-    Compare: 1980 No 94 [s 130][698]
+    Compare: 1980 No 94 [s 130][705]
     
-    Section 196(1): amended, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 196(1): amended, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 196(8): amended, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 196(8): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 196(9): amended, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 196(8): amended, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 196(10): amended, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 196(9): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 196(11): substituted, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 196(9): amended, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
+    
+    Section 196(10): amended, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
+    
+    Section 196(11): substituted, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 197 Application of Legal Services Act 2000
     
 *   Every liable person who is summoned or brought before a District Court or Family Court under [section 190][356] or [section 196][362] of this Act may apply for the grant of legal aid under the Legal Services Act 2000 as if the person had been charged with an offence, and that Act, with the necessary modifications, shall apply accordingly.
     
-    Compare: 1980 No 94 [s 131][700]
+    Compare: 1980 No 94 [s 131][707]
     
-    Section 197 heading: amended, on 1 February 2001, pursuant to [section 126(1)][701] of the Legal Services Act 2000 (2000 No 42).
+    Section 197 heading: amended, on 1 February 2001, pursuant to [section 126(1)][708] of the Legal Services Act 2000 (2000 No 42).
     
-    Section 197: amended, on 1 February 2001, pursuant to [section 126(1)][701] of the Legal Services Act 2000 (2000 No 42).
+    Section 197: amended, on 1 February 2001, pursuant to [section 126(1)][708] of the Legal Services Act 2000 (2000 No 42).
 
 ##### 198 Liable person doing community work to be discharged on payment
     
@@ -7580,7 +7618,7 @@ Enforcement provisions
     
     (2) If the liable person pays, or causes to be paid, the amount due, a probation officer, on being notified by the Commissioner of the payment of that sum, must notify the person that he or she is no longer required to report to a community work centre, unless there is some other reason for the person being required to report.
     
-    Section 198: substituted, on 30 June 2002, by [section 186][699] of the Sentencing Act 2002 (2002 No 9).
+    Section 198: substituted, on 30 June 2002, by [section 186][706] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 199 Arrest of liable person
     
@@ -7596,11 +7634,13 @@ Enforcement provisions
     
     (3) On making an order under subsection (2)(b) or (c), the court may direct the Registrar to give notice of the order to such departments of State, offices, or persons as the court or the Registrar thinks proper.
     
-    (4) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
+    (4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $2,000 who, being a person against whom an order under subsection (2)(b) is in force, leaves New Zealand, or attempts or does any act with intent to leave New Zealand.
     
     (5) A person against whom an order under subsection (2) is in force may apply to the court for the discharge of the order, and the court may discharge the order accordingly.
     
-    Compare: 1980 No 94 [s 134][702]
+    Compare: 1980 No 94 [s 134][709]
+    
+    Section 199(4): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous provisions
 
@@ -7610,7 +7650,7 @@ Enforcement provisions
     
     (2) A disposition made after an order of the court under subsection (1) restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or solicitor acting in connection with the disposition, shall be void; and the court may consider any claim of any person interested and may make such order as it thinks just.
     
-    Compare: 1980 No 94 [s 183][703]
+    Compare: 1980 No 94 [s 183][710]
 
 ##### 201 Dispositions may be set aside
     
@@ -7630,7 +7670,7 @@ Enforcement provisions
     
     (5) The court may, on any application under this section, make such order as to costs as it thinks fit.
     
-    Compare: 1980 No 94 [s 184][704]
+    Compare: 1980 No 94 [s 184][711]
 
 ##### 202 Procedure in High Court where defendant absent from New Zealand
     
@@ -7642,17 +7682,17 @@ Enforcement provisions
     
 *   No relief in respect of a claim for recovery of financial support is barred or otherwise affected by the following:
         
-    *   (a) the [Limitation Act 2010][705]:
+    *   (a) the [Limitation Act 2010][712]:
     
     *   (b) any other enactment that prescribes a limitation period or other limitation defence.
     
     Compare: 1976 No 65 s 406
     
-    Section 203: substituted, on 1 January 2011, by [section 58][706] of the Limitation Act 2010 (2010 No 110).
+    Section 203: substituted, on 1 January 2011, by [section 58][713] of the Limitation Act 2010 (2010 No 110).
 
 ##### 204 Crown Proceedings Act 1950 not affected
     
-*   Nothing in this Act shall be so construed as to limit or affect the operation of the [Crown Proceedings Act 1950][707], and all rights and remedies conferred upon the Crown by that Act and by this Act shall co-exist, and may be exercised independently of one another, and financial support may be recovered accordingly.
+*   Nothing in this Act shall be so construed as to limit or affect the operation of the [Crown Proceedings Act 1950][714], and all rights and remedies conferred upon the Crown by that Act and by this Act shall co-exist, and may be exercised independently of one another, and financial support may be recovered accordingly.
     
     Compare: 1976 No 65 s 407
 
@@ -7682,7 +7722,7 @@ Enforcement provisions
     
     (3) This section is subject to [section 89J][140].
     
-    Section 207(3): added, on 26 September 2006, by [section 37][708] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 207(3): added, on 26 September 2006, by [section 37][715] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ## Part 12  
 Offences and penalties
@@ -7713,7 +7753,7 @@ Offences and penalties
     
     Compare: 1976 No 65 s 416
     
-    Section 208(a): substituted, on 26 September 2006, by [section 38][709] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 208(a): substituted, on 26 September 2006, by [section 38][716] of the Child Support Amendment Act 2006 (2006 No 42).
     
     Section 208(d): repealed, on 26 July 1996, by section 8 of the Child Support Amendment Act 1996 (1996 No 65).
 
@@ -7749,35 +7789,37 @@ Offences and penalties
     
     *   (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000\.
     
-    (4) Every person who commits an offence against [section 208(j)][376] shall be liable to a fine not exceeding the maximum fine applicable to the offence committed by the person aided, abetted, incited, or conspired with.
+    (4) Every person who commits an offence against [section 208(j)][376] shall be liable on conviction to a fine not exceeding the maximum fine applicable to the offence committed by the person aided, abetted, incited, or conspired with.
     
     Compare: 1976 No 65 s 416B; 1986 No 3 s 42(1)
     
     Section 210(1): repealed, on 26 July 1996, by section 11(a) of the Child Support Amendment Act 1996 (1996 No 65).
     
     Section 210(2): amended, on 26 July 1996, by section 11(b) of the Child Support Amendment Act 1996 (1996 No 65).
+    
+    Section 210(4): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 211 Proceedings to be taken summarily
+##### 211 Proceedings must be commenced by Commissioner
     
-*   All proceedings for offences against this Act shall be taken by way of summary prosecution before a District Court Judge upon the information of the Commissioner.
+*   All proceedings for offences against this Act must be commenced by filing a charging document in the name of the Commissioner.
     
-    Compare: 1976 No 65 s 417
+    Section 211: replaced, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 212 Information may charge several offences
+##### 212 Charging document may charge several offences
     
-*   (1) Any information may charge the defendant with any number of offences against this Act if those offences are founded on the same set of facts or form or are part of a series of offences of the same or similar character.
+*   (1) Any charging document may charge the defendant with any number of offences against this Act if those offences are founded on the same set of facts or form or are part of a series of offences of the same or similar character.
     
-    (2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
+    (2) Where a charging document charges more than 1 such offence, particulars of each offence charged shall be set out separately in the charging document.
     
     (3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
     
-    Compare: 1976 No 65 s 418
+    Section 212: replaced, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 213 Information may be laid within 10 years
+##### 213 Charging document may be filed within 10 years
     
-*   Notwithstanding anything in the [Summary Proceedings Act 1957][689] or in any other Act, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 10 years after the end of the child support year in which the offence was committed.
+*   Despite anything to the contrary in [section 25][717] of the Criminal Procedure Act 2011 or in any other Act, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 10 years after the end of the child support year in which the offence was committed.
     
-    Compare: 1976 No 65 s 419
+    Section 213: replaced, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 13  
 Reciprocal agreements
@@ -7800,21 +7842,21 @@ Reciprocal agreements
     
     _New Zealand child support or domestic maintenance_ means child support or domestic maintenance.
     
-    Section 214 **agreement** paragraph (i): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **agreement** paragraph (i): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **agreement** paragraph (ii): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **agreement** paragraph (ii): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **agreement** paragraph (iii): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **agreement** paragraph (iii): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **agreement** paragraph (iv): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **agreement** paragraph (iv): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **foreign child support or domestic maintenance**: inserted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **foreign child support or domestic maintenance**: inserted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **foreign child support or spousal maintenance**: repealed, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **foreign child support or spousal maintenance**: repealed, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **New Zealand child support or domestic maintenance**: inserted, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **New Zealand child support or domestic maintenance**: inserted, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 214 **New Zealand child support or spousal maintenance**: repealed, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 214 **New Zealand child support or spousal maintenance**: repealed, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 215 Adoption of reciprocal agreement with other countries
     
@@ -7828,15 +7870,15 @@ Reciprocal agreements
     
     (2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) is to come into force or cease to be in force, which in either case may be a date before or on or after the date on which the Order in Council is so made.
     
-    (3) Where any agreement has effect under this section, the obligation as to secrecy imposed by any enactment, and in particular by [section 81][585] of the Tax Administration Act 1994, shall not prevent the Commissioner or any authorised officer of the Inland Revenue Department from disclosing to any authorised officer of the government with which the agreement is made such information as is required to be disclosed under the agreement.
+    (3) Where any agreement has effect under this section, the obligation as to secrecy imposed by any enactment, and in particular by [section 81][589] of the Tax Administration Act 1994, shall not prevent the Commissioner or any authorised officer of the Inland Revenue Department from disclosing to any authorised officer of the government with which the agreement is made such information as is required to be disclosed under the agreement.
     
     Compare: 1976 No 65 s 294
     
-    Section 215(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 215(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 215(1)(a): amended, on 26 September 2006, by [section 39(1)][710] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 215(1)(a): amended, on 26 September 2006, by [section 39(1)][718] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 215(3): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 215(3): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
 
 ## Part 14  
 General provisions
@@ -7857,25 +7899,25 @@ General provisions
     
     (4) The Commissioner may refund so much of the excess financial support as has not been paid to the payee without receiving a request from the person if the person neither has, nor is known to have at some future time, any liability to make further payments of financial support under this Act.
     
-    (5) If the person is entitled to a refund not exceeding $5 but does not request it within 12 months of first becoming entitled to it, the Commissioner must transfer the refund to the person's tax credit account for the purposes of the [Income Tax Act 2007][550].
+    (5) If the person is entitled to a refund not exceeding $5 but does not request it within 12 months of first becoming entitled to it, the Commissioner must transfer the refund to the person's tax credit account for the purposes of the [Income Tax Act 2007][553].
     
     (6) This section and [sections 216A to 216D][389] are subject to [section 89J][140].
     
-    Section 216: substituted, on 24 July 1999, by [section 33][711] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 216: substituted, on 24 July 1999, by [section 33][719] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 216(5): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][490] of the Income Tax Act 2007 (2007 No 97).
+    Section 216(5): amended, on 1 April 2008 (effective for 2008--09 income year and later), by [section ZA 2(1)][488] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 216(6): added, on 26 September 2006, by [section 40][712] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 216(6): added, on 26 September 2006, by [section 40][720] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 216A Method of application for refund of excess financial support paid
     
-*   (1) An application under [section 216][388] must be made in the manner required by [section 184A][713] of the Tax Administration Act 1994\.
+*   (1) An application under [section 216][388] must be made in the manner required by [section 184A][721] of the Tax Administration Act 1994\.
     
     (2) Subsection (1) does not apply if all of the refund referred to in [section 216(3)][388] is to be transferred under [sections 216B to 216D][390].
     
-    Section 216A: inserted, on 7 October 1998, by [section 5(1)][714] of the Child Support Amendment Act 1998 (1998 No 103).
+    Section 216A: inserted, on 7 October 1998, by [section 5(1)][722] of the Child Support Amendment Act 1998 (1998 No 103).
     
-    Section 216A(2): added, on 26 September 2006, by [section 41][715] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 216A(2): added, on 26 September 2006, by [section 41][723] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 216B Transfer of refund
     
@@ -7891,7 +7933,7 @@ General provisions
     
     (3) A request cannot be withdrawn or amended after the transfer has been made.
     
-    Section 216B: inserted, on 26 September 2006, by [section 42(1)][716] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 216B: inserted, on 26 September 2006, by [section 42(1)][724] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 216C Form of request for transfer of refund
     
@@ -7911,7 +7953,7 @@ General provisions
         
         
     
-    Section 216C: inserted, on 26 September 2006, by [section 42(1)][716] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 216C: inserted, on 26 September 2006, by [section 42(1)][724] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 216D Commissioner must transfer refund
     
@@ -7921,19 +7963,19 @@ General provisions
     
     *   (b) in any other case, so much of the amount of the refund in accordance with the request as has not been paid to the payee.
     
-    (2) For the purposes of the Inland Revenue Acts (as defined in [section 3(1)][717] of the Tax Administration Act 1994),---
+    (2) For the purposes of the Inland Revenue Acts (as defined in [section 3(1)][725] of the Tax Administration Act 1994),---
         
     *   (a) a refund transferred on the request of a person is treated as a refund made to the person on the date of transfer; and
     
     *   (b) a refund transferred to the account of a person is treated,---
             
-        *   (i) in the case of a transfer under [section 216B(1)(a) or (b)][390], as tax paid by the person on the date of transfer, except for the purpose of imposing a shortfall penalty under [Part 9][718] of the Tax Administration Act 1994; and
+        *   (i) in the case of a transfer under [section 216B(1)(a) or (b)][390], as tax paid by the person on the date of transfer, except for the purpose of imposing a shortfall penalty under [Part 9][726] of the Tax Administration Act 1994; and
         
         *   (ii) in the case of a transfer under [section 216B(1)(c)][390], as the payment of financial support by the person on the date of transfer.
         
         
     
-    Section 216D: inserted, on 26 September 2006, by [section 42(1)][716] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 216D: inserted, on 26 September 2006, by [section 42(1)][724] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 217 Appropriation of refunds
     
@@ -7977,7 +8019,7 @@ General provisions
     
     *   (c) the balance payable is due to fluctuations in the exchange rate.
     
-    Section 219A: inserted, on 24 July 1999, by [section 34][719] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 219A: inserted, on 24 July 1999, by [section 34][727] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 220 Evidentiary certificates by Commissioner
     
@@ -8009,11 +8051,11 @@ General provisions
 
 ##### 223 Service on protected person
     
-*   (1) Where a person against whom a formula assessment or order is sought under this Act is a person whose estate is being administered by a manager under the [Protection of Personal and Property Rights Act 1988][589], notice of the application under this Act shall be served on the manager instead of on the respondent, and the manager shall then represent and act for the respondent in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if there were no manager of that person's estate and that person had been duly served with notice of the application.
+*   (1) Where a person against whom a formula assessment or order is sought under this Act is a person whose estate is being administered by a manager under the [Protection of Personal and Property Rights Act 1988][594], notice of the application under this Act shall be served on the manager instead of on the respondent, and the manager shall then represent and act for the respondent in all the proceedings under this Act, and the like proceedings may be taken and the like order made as if there were no manager of that person's estate and that person had been duly served with notice of the application.
     
     (2) All money payable under any formula assessment or order so made shall be paid by the manager out of the estate of the respondent according to the tenor of the assessment or order, subject to all other debts and liabilities of the respondent so far as the manager has notice of them.
     
-    Compare: 1980 No 94 [s 156][720]
+    Compare: 1980 No 94 [s 156][728]
 
 ##### 224 Proceedings where respondent is absent from New Zealand or cannot be found
     
@@ -8027,7 +8069,7 @@ General provisions
     
     (3) Where the court is satisfied that an order referred to in subsection (1)(b) has been complied with and that a reasonable time has elapsed since the steps directed by the order were taken, the court may if it thinks fit hear and determine the application in the same manner as if the respondent had been served with notice of the application.
     
-    Compare: 1980 No 94 [s 157][721]
+    Compare: 1980 No 94 [s 157][729]
 
 ##### 225 Proceedings by or against minors
     
@@ -8035,7 +8077,7 @@ General provisions
     
     (2) Any order made under this Act against a minor shall be binding on and may be enforced against the minor, as if the minor were of full age.
     
-    Compare: 1980 No 94 [s 158][722]
+    Compare: 1980 No 94 [s 158][730]
 
 ##### 226 Appointment of barrister or solicitor to assist court or represent children
     
@@ -8055,9 +8097,9 @@ General provisions
     
     (6) Notwithstanding subsection (3), the court may, if it thinks proper, order any party to the proceeding to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and shall then be enforceable in the same manner as a judgment given by the District Court in any civil proceeding.
     
-    Compare: 1980 No 94 [s 162][723]
+    Compare: 1980 No 94 [s 162][731]
     
-    Section 227(3): amended, on 25 January 2005, pursuant to [section 65R(3)][643] of the Public Finance Act 1989 (1989 No 44).
+    Section 227(3): amended, on 25 January 2005, pursuant to [section 65R(3)][648] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 227 Vexatious proceedings
     
@@ -8065,13 +8107,13 @@ General provisions
     
     (2) A Family Court or District Court may, if it is satisfied that a person has persistently instituted vexatious proceedings under this Act or any former Act (whether against the same person or against different persons), after giving the first-mentioned person an opportunity of being heard, order that no proceeding under this Act, or no such proceeding of any specified kind or against any specified person, shall be commenced by the first-mentioned person without the leave of the court.
     
-    Compare: 1980 No 94 [s 163][724]
+    Compare: 1980 No 94 [s 163][732]
 
 ##### 228 Evidence
     
 *   In any proceeding under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
     
-    Compare: 1980 No 94 [s 164][725]
+    Compare: 1980 No 94 [s 164][733]
 
 ##### 229 Power of Family Court or District Court to call witnesses
     
@@ -8083,11 +8125,13 @@ General provisions
     
     (4) A witness called by the court under this section may be examined and re-examined by the court, or by any barrister or solicitor assisting the court, and may be cross-examined by or on behalf of any party to the proceeding or by any barrister or solicitor appointed to represent a child who is involved in the proceeding.
     
-    (5) [Sections 20][726], [38][727], and [39][728] of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
+    (5) [Sections 159][734] and [161 to 165][735] of the Criminal Procedure Act 2011, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
     
     (6) The expenses of any witness called by the court under this section, in accordance with the prescribed scale of witnesses' expenses, shall be paid in the first instance out of public money appropriated by Parliament.
     
-    Compare: 1980 No 94 [s 165][729]
+    Compare: 1980 No 94 [s 165][736]
+    
+    Section 229(5): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 230 Proof of certain matters
     
@@ -8099,23 +8143,23 @@ General provisions
     
     *   (b) every such decree or order shall be presumed to be valid unless the contrary is proved.
     
-    Compare: 1980 No 94 [s 166][730]
+    Compare: 1980 No 94 [s 166][737]
     
-    Section 230(1): amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 230(1): amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 230(2): amended, on 26 September 2006, by [section 43][731] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 230(2): amended, on 26 September 2006, by [section 43][738] of the Child Support Amendment Act 2006 (2006 No 42).
 
 ##### 231 Standard of proof
     
 *   Every question of fact arising in any proceeding under this Act (not being criminal proceedings) shall be decided on a balance of probabilities.
     
-    Compare: 1980 No 94 [s 167][732]
+    Compare: 1980 No 94 [s 167][739]
 
 ##### 232 Costs
     
 *   In any proceeding under this Act the court may make such order as to costs as it thinks fit but all costs awarded against the Commissioner shall be payable out of public money appropriated by Parliament and not otherwise.
     
-    Compare: 1964 No 136 [s 27W][733]; 1980 No 157 s 7
+    Compare: 1964 No 136 [s 27W][740]; 1980 No 157 s 7
 
 ##### 233 Court fees
     
@@ -8123,15 +8167,15 @@ General provisions
     
     (2) Where it appears to the Registrar of a Family Court or District Court that the payment of any fees prescribed as payable in respect of any proceeding under this Act, or of those fees in full, would cause undue hardship to the person liable for their payment, the Registrar may write off the whole or such part of the fees as the Registrar thinks fit, and may, without further appropriation than this section, refund all such fees that have already been paid or any part of such fees.
     
-    Compare: 1980 No 94 [s 186][734]
+    Compare: 1980 No 94 [s 186][741]
 
 ##### 234 Rules of procedure
     
 *   (1) The Governor-General may from time to time, by Order in Council, make rules and regulations regulating the practice and procedure of District Courts in proceedings under this Act.
     
-    (1A) Rules may be made under [section 16A][735] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
+    (1A) Rules may be made under [section 16A][742] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under this Act.
     
-    (2) Without limiting the generality of the powers conferred by subsection (1) of this section or [section 16A][735] of the Family Courts Act 1980, rules made under either of those provisions may---
+    (2) Without limiting the generality of the powers conferred by subsection (1) of this section or [section 16A][742] of the Family Courts Act 1980, rules made under either of those provisions may---
         
     *   (a) prescribe such forms as are necessary for the purposes of this Act:
     
@@ -8151,13 +8195,13 @@ General provisions
     
     *   (f) provide for any other matters in respect of which rules are contemplated under this Act.
     
-    Compare: 1980 No 94 [s 188][736]
+    Compare: 1980 No 94 [s 188][743]
     
-    Section 234(1): amended, on 13 September 2002, by [section 6][737] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 234(1): amended, on 13 September 2002, by [section 6][744] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 234(1A): inserted, on 13 September 2002, by [section 6][737] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 234(1A): inserted, on 13 September 2002, by [section 6][744] of the Family Courts Amendment Act 2000 (2000 No 65).
     
-    Section 234(2): amended, on 13 September 2002, by [section 6][737] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 234(2): amended, on 13 September 2002, by [section 6][744] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 235 Regulations
     
@@ -8183,17 +8227,17 @@ General provisions
     
     (3) \[Repealed\]
     
-    Section 235(1)(a): repealed, on 26 September 2006, by [section 44][738] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 235(1)(a): repealed, on 26 September 2006, by [section 44][745] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 235(1)(b): repealed, on 26 September 2006, by [section 44][738] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 235(1)(b): repealed, on 26 September 2006, by [section 44][745] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 235(1)(c): repealed, on 24 July 1999, by [section 35(1)(a)][739] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 235(1)(c): repealed, on 24 July 1999, by [section 35(1)(a)][746] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 235(1)(ca): repealed, on 24 July 1999, by [section 17(2)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 235(1)(ca): repealed, on 24 July 1999, by [section 17(2)][566] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 235(2): repealed, on 26 September 2006, by [section 44][738] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 235(2): repealed, on 26 September 2006, by [section 44][745] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 235(3): repealed, on 24 July 1999, by [section 35(1)(b)][739] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 235(3): repealed, on 24 July 1999, by [section 35(1)(b)][746] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 236 Changes in published statistics to be disregarded
     
@@ -8215,11 +8259,11 @@ General provisions
         
         
     
-    Section 236: substituted, on 24 July 1999, by [section 36(1)][740] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 236: substituted, on 24 July 1999, by [section 36(1)][747] of the Child Support Amendment Act 1999 (1999 No 81).
     
-    Section 236(1): amended, on 15 December 1994, pursuant to [section 2(7)][528] of the Statistics Amendment Act 1994 (1994 No 159).
+    Section 236(1): amended, on 15 December 1994, pursuant to [section 2(7)][530] of the Statistics Amendment Act 1994 (1994 No 159).
     
-    Section 236(2)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][491] of the Income Tax Act 2004 (2004 No 35).
+    Section 236(2)(b)(i): amended, on 1 April 2005 (effective for 2005--06 tax year and later), by [section YA 2][489] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 237 Rounding of amounts
     
@@ -8235,7 +8279,7 @@ General provisions
     
     *   (c) \[Repealed\]
     
-    Section 237(3)(c): repealed, on 24 July 1999, by [section 17(2)][563] of the Child Support Amendment Act 1999 (1999 No 81).
+    Section 237(3)(c): repealed, on 24 July 1999, by [section 17(2)][566] of the Child Support Amendment Act 1999 (1999 No 81).
 
 ##### 238 Applications by agents
     
@@ -8243,7 +8287,7 @@ General provisions
     
     (2) If a person is incapable of authorising an agent under subsection (1) to make an application on that person's behalf---
         
-    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][589] may make the application; or
+    *   (a) the manager of that person's estate under the [Protection of Personal and Property Rights Act 1988][594] may make the application; or
     
     *   (b) where there is no such manager, the next friend of the person may make the application.
     
@@ -8267,15 +8311,15 @@ General provisions
     
     _information to which this section applies_ means any information which the Commissioner has obtained pursuant to or under the Inland Revenue Acts, including all Acts (whether repealed or not) at any time administered by or in the Inland Revenue Department, or pursuant to or arising out of such other functions as may from time to time be, or have been, lawfully conferred on the Commissioner
     
-    _Inland Revenue Acts_ has the same meaning as in [section 3][717] of the Tax Administration Act 1994
+    _Inland Revenue Acts_ has the same meaning as in [section 3][725] of the Tax Administration Act 1994
     
-    _officer of the Department_ has the same meaning as in [section 3][717] of the Tax Administration Act 1994
+    _officer of the Department_ has the same meaning as in [section 3][725] of the Tax Administration Act 1994
     
     _person to whom this section applies_ means any person who acquires or has access to or is given, through the agency of the Commissioner pursuant to this section, any information to which this section applies.
     
     (2) For the purposes of the [Tax Administration Act 1994][474], the following communications shall be deemed to be communications of matters made for the purpose of carrying into effect the provisions of this Act:
         
-    *   (a) the communication of such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected indictable or summary offence being a prosecution or, as the case may be, an investigation in relation to---
+    *   (a) the communication of such information as is necessary for the purpose of any prosecution under any Act of the Parliament of New Zealand or under the law of any country or territory outside New Zealand, or such information as the Commissioner considers desirable for the purpose of any investigation into any suspected offence being a prosecution or, as the case may be, an investigation in relation to---
             
         *   (i) any threat made by a liable parent against the welfare of the custodian of any child of that person or the welfare of that child; or
         
@@ -8293,13 +8337,13 @@ General provisions
             
         *   (i) carrying into effect the provisions of this Act; or
         
-        *   (ii) carrying into effect the provisions of [section 70A][516] of the Social Security Act 1964:
+        *   (ii) carrying into effect the provisions of [section 70A][518] of the Social Security Act 1964:
         
         *   (iii) \[Repealed\]
         
         
     
-    *   (d) the communication, to the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] or any officer of that department authorised in that behalf or the Secretary for War Pensions, of information relating to the amount of financial support paid by the Commissioner pursuant to [Part 9][292] of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the [Social Welfare (Transitional Provisions) Act 1990][629] or [Part 6][630] of the War Pensions Act 1954 or the [New Zealand Superannuation and Retirement Income Act 2001][631]:
+    *   (d) the communication, to the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] or any officer of that department authorised in that behalf or the Secretary for War Pensions, of information relating to the amount of financial support paid by the Commissioner pursuant to [Part 9][292] of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the [Social Welfare (Transitional Provisions) Act 1990][634] or [Part 6][635] of the War Pensions Act 1954 or the [New Zealand Superannuation and Retirement Income Act 2001][636]:
     
     *   (db) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purpose of carrying into effect [subpart 4][156] of Part 5A:
     
@@ -8313,7 +8357,7 @@ General provisions
             
             *   (B) maintenance liabilities,---
             
-            that arose under this Act or under the [Family Proceedings Act 1980][505]; or
+            that arose under this Act or under the [Family Proceedings Act 1980][507]; or
         
         *   (ii) the enforcement within New Zealand of child support or maintenance liabilities that arose under the law of a foreign country.
         
@@ -8341,7 +8385,7 @@ General provisions
     
     *   (c) where it is given by any other person referred to in subsection (2), be kept by the Inland Revenue Department as a permanent record.
     
-    (7) Every person to whom this section applies who knowingly acts in contravention of any provision of this section commits an offence against this section and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000\.
+    (7) Every person to whom this section applies who knowingly acts in contravention of any provision of this section commits an offence against this section and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $15,000\.
     
     (8) Notwithstanding anything in any other Act, nothing shall prevent the Commissioner or any officer of the Inland Revenue Department from---
         
@@ -8349,7 +8393,7 @@ General provisions
     
     *   (b) using information obtained under any of the Inland Revenue Acts for the purposes of carrying into effect the provisions of this Act.
     
-    (9) [Sections 81 to 87][585] of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the returns of income supplied by that person.
+    (9) [Sections 81 to 87][589] of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the returns of income supplied by that person.
     
     (10) No obligation as to secrecy or other restriction upon the disclosure of information imposed by any enactment or otherwise shall prevent the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] or any officer of that department authorised in that behalf from disclosing to the Commissioner---
         
@@ -8365,53 +8409,57 @@ General provisions
     
     *   (b) for the purposes of any proceeding connected with a matter in relation to which those persons so authorised perform their duties.
     
-    Section 240(1) **Inland Revenue Acts**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 240(1) **Inland Revenue Acts**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 240(1) **officer of the Department**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 240(1) **officer of the Department**: amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 240(2): amended, on 1  April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 240(2): amended, on 1  April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
     
-    Section 240(2)(a)(ii): amended, of 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 240(2)(a): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 240(2)(ba): inserted, on 1 February 1999, by [section 80][741] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 240(2)(a)(ii): amended, of 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
     
-    Section 240(2)(c): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 240(2)(ba): inserted, on 1 February 1999, by [section 80][748] of the Social Security Amendment Act 1998 (1998 No 19).
+    
+    Section 240(2)(c): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
     Section 240(2)(c)(ii): amended, on 1 June 1994, by section 2(2)(a) of the Inland Revenue Department Amendment Act (No 2) 1993 (1993 No 134).
     
     Section 240(2)(c)(iii): repealed, on 1 June 1994, by section 2(2)(b) of the Inland Revenue Department Amendment Act (No 2) 1993 (1993 No 134).
     
-    Section 240(2)(d): amended, on 21 April 2005, by [section 9(1)][632] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 240(2)(d): amended, on 21 April 2005, by [section 9(1)][637] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Section 240(2)(d): amended, on 15 April 2003, by [section 12(1)][633] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 240(2)(d): amended, on 15 April 2003, by [section 12(1)][638] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 240(2)(d): amended, on 12 October 2001, by [section 77][634] of the New Zealand Superannuation Act 2001 (2001 No 84).
+    Section 240(2)(d): amended, on 12 October 2001, by [section 77][639] of the New Zealand Superannuation Act 2001 (2001 No 84).
     
-    Section 240(2)(d): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 240(2)(d): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 240(2)(db): inserted, on 26 September 2006, by [section 45(1)][742] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 240(2)(db): inserted, on 26 September 2006, by [section 45(1)][749] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 240(2)(dc): inserted, on 26 September 2006, by [section 45(1)][742] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 240(2)(dc): inserted, on 26 September 2006, by [section 45(1)][749] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 240(2)(dc): amended, on 1 October 2008, by [section 130(1)][743] of the Policing Act 2008 (2008 No 72).
+    Section 240(2)(dc): amended, on 1 October 2008, by [section 130(1)][750] of the Policing Act 2008 (2008 No 72).
     
-    Section 240(2)(e): amended, on 1 October 2003, pursuant to [section 14(1)][574] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 240(2)(e): amended, on 1 October 2003, pursuant to [section 14(1)][578] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 240(2)(e): amended, on 1 October 2003, pursuant to [section 14(2)][574] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 240(2)(e): amended, on 1 October 2003, pursuant to [section 14(2)][578] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 240(2)(e): amended, on 1 July 1995, by [section 10(1)][744] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 240(2)(e): amended, on 1 July 1995, by [section 10(1)][751] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 240(6)(a): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 240(6)(a): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
     
-    Section 240(6)(b): amended, on 26 September 2006, by [section 45(2)][742] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 240(6)(b): amended, on 26 September 2006, by [section 45(2)][749] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 240(6)(b): amended, on 1 October 2003, pursuant to [section 14(1)][574] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 240(6)(b): amended, on 1 October 2003, pursuant to [section 14(1)][578] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 240(6)(bb): inserted, on 26 September 2006, by [section 45(3)][742] of the Child Support Amendment Act 2006 (2006 No 42).
+    Section 240(6)(bb): inserted, on 26 September 2006, by [section 45(3)][749] of the Child Support Amendment Act 2006 (2006 No 42).
     
-    Section 240(9): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][544] of the Income Tax Act 1994 (1994 No 164).
+    Section 240(7): amended, on 1 July 2013, by [section 413][591] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 240(10): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 240(9): amended, on 1 April 1995 (applying with respect to tax on income derived in 1995--96 and subsequent income years), by [section YB 1][547] of the Income Tax Act 1994 (1994 No 164).
+    
+    Section 240(10): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ## Part 15  
 Amendments to other Acts
@@ -8426,19 +8474,19 @@ Amendments to other Acts
 
 ##### 242 Protection of administrator against certain claims
     
-*   _Amendment(s) incorporated in the [Act(s)][745]._
+*   _Amendment(s) incorporated in the [Act(s)][752]._
 
 #### Amendment to Adoption Act 1955
 
 ##### 243 Effect of adoption order
     
-*   _Amendment(s) incorporated in the [Act(s)][502]._
+*   _Amendment(s) incorporated in the [Act(s)][504]._
 
 #### Amendment to Children, Young Persons, and Their Families Act 1989
 
 ##### 244 Recovery of cost of maintenance of children and young persons in care
     
-*   _Amendment(s) incorporated in the [Act(s)][512]._
+*   _Amendment(s) incorporated in the [Act(s)][514]._
 
 #### Amendment to Companies Act 1955
 
@@ -8450,13 +8498,13 @@ Amendments to other Acts
 
 ##### 246 Effect of attachment orders
     
-*   _Amendment(s) incorporated in the [Act(s)][675]._
+*   _Amendment(s) incorporated in the [Act(s)][680]._
 
 #### Amendment to Family Courts Act 1980
 
 ##### 247 Jurisdiction of Family Courts
     
-*   _Amendment(s) incorporated in the [Act(s)][746]._
+*   _Amendment(s) incorporated in the [Act(s)][753]._
 
 #### Amendments to Income Tax Act 1976
 
@@ -8478,11 +8526,11 @@ Amendments to other Acts
 
 ##### 251 Priorities
     
-*   _Amendment(s) incorporated in the [Act(s)][747]._
+*   _Amendment(s) incorporated in the [Act(s)][754]._
 
 ##### 252 Debts from which discharge releases bankrupt
     
-*   _Amendment(s) incorporated in the [Act(s)][747]._
+*   _Amendment(s) incorporated in the [Act(s)][754]._
 
 ## Part 16  
 Transitional and savings provisions
@@ -8503,11 +8551,11 @@ Transitional and savings provisions
 
 ##### 254 Changes to ways in which maintenance liabilities may be enforced
     
-*   _Amendment(s) incorporated in the [Act(s)][672]._
+*   _Amendment(s) incorporated in the [Act(s)][677]._
 
 ##### 255 Evidence of default
     
-*   _Amendment(s) incorporated in the [Act(s)][691]._
+*   _Amendment(s) incorporated in the [Act(s)][696]._
 
 #### Enforcement of liable parent contributions payable before 1 July 1992
 
@@ -8515,25 +8563,25 @@ Transitional and savings provisions
     
 *   (1) Notwithstanding the Social Security Amendment Act (No 5) 1991,---
         
-    *   (a) [sections 10A][748], [12J][749], [27I to 27ZI][507] (except [section 27X][750]) and [Schedule 20][751] of the Social Security Act 1964 shall continue to apply; and
+    *   (a) [sections 10A][755], [12J][756], [27I to 27ZI][509] (except [section 27X][757]) and [Schedule 20][758] of the Social Security Act 1964 shall continue to apply; and
     
-    *   (b) [section 27X][750] of the Social Security Act 1964 shall continue to apply---
+    *   (b) [section 27X][757] of the Social Security Act 1964 shall continue to apply---
     
     in respect of any liable parent contributions assessed under that Act which are due but unpaid at the close of 30 June 1992 as if those sections and that schedule had not been repealed or amended by the Social Security Amendment Act (No 5) 1991\.
     
     (2) Notwithstanding subsection (1), the chief executive of the department for the time being responsible for the administration of the [Social Security Act 1964][478] shall not be required to exercise his or her powers in respect of any such contributions if the chief executive considers that to do so would not be economically viable.
     
-    Section 256(1)(a): amended, on 17 September 1997, by [section 2][752] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
+    Section 256(1)(a): amended, on 17 September 1997, by [section 2][759] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
     
-    Section 256(2): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 256(2): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 ##### 257 Saving in respect of assignment of accident compensation
     
-*   Notwithstanding [section 241][421] of this Act, nothing in section 89 of the Accident Compensation Act 1982 shall affect [section 27Y][753] of the Social Security Act 1964 (as applied pursuant to [section 256][448] of this Act).
+*   Notwithstanding [section 241][421] of this Act, nothing in section 89 of the Accident Compensation Act 1982 shall affect [section 27Y][760] of the Social Security Act 1964 (as applied pursuant to [section 256][448] of this Act).
 
 ##### 258 Saving in respect of jurisdiction of Family Courts
     
-*   Notwithstanding [section 247][433] of this Act, a Family Court shall hear and determine all such proceedings as are to be heard and determined by such a court under or by virtue of [sections 27I to 27ZI][507] of the Social Security Act 1964 (as applied pursuant to [section 256][448] of this Act), and [section 11][754] of the Family Courts Act 1980 shall apply accordingly.
+*   Notwithstanding [section 247][433] of this Act, a Family Court shall hear and determine all such proceedings as are to be heard and determined by such a court under or by virtue of [sections 27I to 27ZI][509] of the Social Security Act 1964 (as applied pursuant to [section 256][448] of this Act), and [section 11][761] of the Family Courts Act 1980 shall apply accordingly.
 
 #### Enforcement of maintenance liabilities payable before 1 July 1992
 
@@ -8541,21 +8589,21 @@ Transitional and savings provisions
     
 *   (1) Notwithstanding the Family Proceedings Amendment Act 1991,---
         
-    *   (a) [sections 2][755], [6][756], [7][757], and [Parts 6][568] and [7][758] (except [section 101][672]) of the Family Proceedings Act 1980 (as amended by this Part) shall continue to apply; and
+    *   (a) [sections 2][762], [6][763], [7][764], and [Parts 6][572] and [7][765] (except [section 101][677]) of the Family Proceedings Act 1980 (as amended by this Part) shall continue to apply; and
     
-    *   (b) [section 101][672] and [section 101A][759] of that Act (as substituted by [section 254][445] of this Act) and [section 101B][760] of that Act (as inserted by [section 2][761] of the Family Proceedings Amendment Act 1997) shall continue to apply,---
+    *   (b) [section 101][677] and [section 101A][766] of that Act (as substituted by [section 254][445] of this Act) and [section 101B][767] of that Act (as inserted by [section 2][768] of the Family Proceedings Amendment Act 1997) shall continue to apply,---
     
     in respect of the enforcement of the liability of any person to pay maintenance under that Act which is due but unpaid at the close of 30 June 1992 under a maintenance order as if those sections and those Parts had not been amended or repealed by the Family Proceedings Amendment Act 1991\.
     
-    (2) In this section, _maintenance order_ has the same meaning as it had in [section 2][762] of the Family Proceedings Act 1980 immediately before the amendment of that definition by the Family Proceedings Amendment Act 1991\.
+    (2) In this section, _maintenance order_ has the same meaning as it had in [section 2][769] of the Family Proceedings Act 1980 immediately before the amendment of that definition by the Family Proceedings Amendment Act 1991\.
     
-    Section 259(1)(a): amended, on 17 September 1997, by [section 3(a)][763] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
+    Section 259(1)(a): amended, on 17 September 1997, by [section 3(a)][770] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
     
-    Section 259(1)(b): amended, on 17 September 1997, by [section 3(b)][763] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
+    Section 259(1)(b): amended, on 17 September 1997, by [section 3(b)][770] of the Child Support Amendment Act (No 2) 1997 (1997 No 67).
 
 ##### 260 Savings in respect of assignment of accident compensation
     
-*   Notwithstanding [section 241][421] of this Act, nothing in section 89 of the Accident Compensation Act 1982 shall affect [sections 105][764], [110][765], [118][679], and [121][684] of the Family Proceedings Act 1980 (as applied pursuant to [section 259][452] of this Act).
+*   Notwithstanding [section 241][421] of this Act, nothing in section 89 of the Accident Compensation Act 1982 shall affect [sections 105][771], [110][772], [118][684], and [121][689] of the Family Proceedings Act 1980 (as applied pursuant to [section 259][452] of this Act).
 
 #### Conversion of liable parent contributions
 
@@ -8581,9 +8629,9 @@ Transitional and savings provisions
     
     *   (c) if the custodian is an eligible custodian of that child who is not in receipt of a social security benefit, the custodian may make an application for formula assessment of child support in relation to that child and that liable parent under [section 8][14].
     
-    Section 261(1)(a): amended (with effect on 18 December 1991), on 1 April 1993, by [section 3][766] of the Child Support Amendment Act 1993 (1993 No 15).
+    Section 261(1)(a): amended (with effect on 18 December 1991), on 1 April 1993, by [section 3][773] of the Child Support Amendment Act 1993 (1993 No 15).
     
-    Section 261(1)(b): amended, on 1 October 1998, by [section 11][493] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
+    Section 261(1)(b): amended, on 1 October 1998, by [section 11][491] of the Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96).
 
 #### Child maintenance liabilities after 1 July 1992 under existing court orders and registered agreements
 
@@ -8591,19 +8639,19 @@ Transitional and savings provisions
     
 *   (1) Every maintenance order---
         
-    *   (a) which is made before 1 July 1992 under [Part 6][568] of the Family Proceedings Act 1980 requiring payments to be made towards the maintenance of any child; and
+    *   (a) which is made before 1 July 1992 under [Part 6][572] of the Family Proceedings Act 1980 requiring payments to be made towards the maintenance of any child; and
     
-    *   (b) which is, as at the close of 30 June 1992, suspended and unenforceable by reason of the operation of [section 27J][767] of the Social Security Act 1964,---
+    *   (b) which is, as at the close of 30 June 1992, suspended and unenforceable by reason of the operation of [section 27J][774] of the Social Security Act 1964,---
     
     shall cease to remain in force at the close of the 30 June 1992\.
     
     (2) Every maintenance agreement,---
         
-    *   (a) which is registered under [section 83][768] of the Family Proceedings Act 1980 and which has effect as a maintenance order under [section 84][769] of that Act; and
+    *   (a) which is registered under [section 83][775] of the Family Proceedings Act 1980 and which has effect as a maintenance order under [section 84][776] of that Act; and
     
-    *   (b) which is, as at the close of 30 June 1992, suspended and unenforceable by reason of the operation of [section 27J][767] of the Social Security Act 1964,---
+    *   (b) which is, as at the close of 30 June 1992, suspended and unenforceable by reason of the operation of [section 27J][774] of the Social Security Act 1964,---
     
-    shall cease to be registered under the [Family Proceedings Act 1980][505] at the close of 30 June 1992\.
+    shall cease to be registered under the [Family Proceedings Act 1980][507] at the close of 30 June 1992\.
 
 ##### 263 Continuation of certain other child maintenance orders and agreements
     
@@ -8611,9 +8659,9 @@ Transitional and savings provisions
         
     *   (a) a maintenance order of the court; or
     
-    *   (b) a maintenance agreement registered under [section 83][768] of the Family Proceedings Act 1980 which has effect as a maintenance order under [section 84][769] of that Act; or
+    *   (b) a maintenance agreement registered under [section 83][775] of the Family Proceedings Act 1980 which has effect as a maintenance order under [section 84][776] of that Act; or
     
-    *   (c) any maintenance order made against any person by any court in a Commonwealth or designated country that has before 1 July 1992 been registered or confirmed in New Zealand under the [Family Proceedings Act 1980][505].
+    *   (c) any maintenance order made against any person by any court in a Commonwealth or designated country that has before 1 July 1992 been registered or confirmed in New Zealand under the [Family Proceedings Act 1980][507].
     
     (2) Each order or agreement to which this section applies---
         
@@ -8625,17 +8673,17 @@ Transitional and savings provisions
         
         *   (ii) in a case where a voluntary agreement made in relation to the child between the parties to the order or agreement is accepted by the Commissioner, the date on which that voluntary agreement first applies in accordance with [section 59][82]; or
         
-        *   (iii) the date on which a benefit is granted under the [Social Security Act 1964][478] or [Part 6][630] of the War Pensions Act 1954 or the [Social Welfare (Transitional Provisions) Act 1990][629] or the [New Zealand Superannuation and Retirement Income Act 2001][631] to the person who is entitled to receive payments under the order or agreement; or
+        *   (iii) the date on which a benefit is granted under the [Social Security Act 1964][478] or [Part 6][635] of the War Pensions Act 1954 or the [Social Welfare (Transitional Provisions) Act 1990][634] or the [New Zealand Superannuation and Retirement Income Act 2001][636] to the person who is entitled to receive payments under the order or agreement; or
         
         *   (iv) the date that the order or agreement would have expired if this Act had not been passed,---
         
-        and thereupon, at the close of that date, shall cease to remain in force or shall cease to be registered or confirmed under the [Family Proceedings Act 1980][505], as the case may be.
+        and thereupon, at the close of that date, shall cease to remain in force or shall cease to be registered or confirmed under the [Family Proceedings Act 1980][507], as the case may be.
     
-    Section 263(2)(b)(iii): amended, on 21 April 2005, by [section 9(1)][632] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
+    Section 263(2)(b)(iii): amended, on 21 April 2005, by [section 9(1)][637] of the New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42).
     
-    Section 263(2)(b)(iii): amended, on 15 April 2003, by [section 12(1)][633] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 263(2)(b)(iii): amended, on 15 April 2003, by [section 12(1)][638] of the War Pensions Amendment Act 2003 (2003 No 18).
     
-    Section 263(2)(b)(iii): amended, on 12 October 2001, by [section 77][634] of the New Zealand Superannuation Act 2001 (2001 No 84).
+    Section 263(2)(b)(iii): amended, on 12 October 2001, by [section 77][639] of the New Zealand Superannuation Act 2001 (2001 No 84).
 
 ##### 264 Enforcement of Department of Social Welfare administered child maintenance orders and agreements
     
@@ -8657,7 +8705,7 @@ Transitional and savings provisions
             
         *   (i) notwithstanding [section 59][82], child support under the order or agreement shall commence to be payable from 1 July 1992:
         
-        *   (ii) notwithstanding [section 62][87] of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the [Family Proceedings Act 1980][505], as the case may be, in accordance with [section 263(2)(b)][458] of this Act.
+        *   (ii) notwithstanding [section 62][87] of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the [Family Proceedings Act 1980][507], as the case may be, in accordance with [section 263(2)(b)][458] of this Act.
         
         
     
@@ -8727,7 +8775,7 @@ Transitional and savings provisions
             
             
         
-        *   (ii) notwithstanding [section 62][87] of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the [Family Proceedings Act 1980][505], as the case may be, in accordance with [section 263(2)(b)][458] of this Act.
+        *   (ii) notwithstanding [section 62][87] of this Act, child support under the order or agreement shall cease to be payable on the date on which the order or agreement ceases to remain in force or ceases to be registered or confirmed under the [Family Proceedings Act 1980][507], as the case may be, in accordance with [section 263(2)(b)][458] of this Act.
         
         
     
@@ -8755,7 +8803,7 @@ Transitional and savings provisions
 
 #### Continuation of existing maintenance orders after 1 July 1992
     
-*   Heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+*   Heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 267 Enforcement of Department of Social Welfare administered maintenance orders and agreements
     
@@ -8765,11 +8813,11 @@ Transitional and savings provisions
             
         *   (i) a maintenance order of the court; or
         
-        *   (ii) a maintenance agreement registered under [section 83][768] of the Family Proceedings Act 1980 which has effect as a maintenance order under [section 84][769] of that Act; or
+        *   (ii) a maintenance agreement registered under [section 83][775] of the Family Proceedings Act 1980 which has effect as a maintenance order under [section 84][776] of that Act; or
         
-        *   (iii) an order made under [section 78][570] or [section 81][571] of the Family Proceedings Act 1980; or
+        *   (iii) an order made under [section 78][574] or [section 81][575] of the Family Proceedings Act 1980; or
         
-        *   (iv) any maintenance order made against any person by any court in a Commonwealth or designated country that has been registered in New Zealand under the [Family Proceedings Act 1980][505]; and
+        *   (iv) any maintenance order made against any person by any court in a Commonwealth or designated country that has been registered in New Zealand under the [Family Proceedings Act 1980][507]; and
         
         
     
@@ -8805,7 +8853,7 @@ Transitional and savings provisions
     
     *   (b) in relation to any order referred to in subparagraph (iv) of subsection (1)(a), the notification shall be deemed to be an objection made under [section 90(2)][166] to an appealable decision, and the provisions of this Act shall, with the necessary modifications, apply accordingly.
     
-    Section 267 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 267 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 ##### 268 Enforcement of other maintenance orders and agreements
     
@@ -8829,7 +8877,7 @@ Transitional and savings provisions
     
     *   (b) in any case where the request and all the information required to be provided is not received by the Commissioner on or before 30 June 1992, on the day on which the request and all the information required to be provided is received by the Commissioner.
     
-    Section 268 heading: amended, on 26 April 2005, by [section 3][488] of the Child Support Amendment Act 2005 (2005 No 6).
+    Section 268 heading: amended, on 26 April 2005, by [section 3][486] of the Child Support Amendment Act 2005 (2005 No 6).
 
 #### Miscellaneous provisions
 
@@ -8845,9 +8893,9 @@ Transitional and savings provisions
     
 *   Notwithstanding the [Social Security Act 1964][478],---
         
-    *   (a) a liable parent who is, after 15 March 1992, given notice of a grant of benefit under [section 27L][770] of that Act shall not be required to notify the Director-General of Social Welfare of his or her total income under [section 27M][771] of that Act; and
+    *   (a) a liable parent who is, after 15 March 1992, given notice of a grant of benefit under [section 27L][777] of that Act shall not be required to notify the Director-General of Social Welfare of his or her total income under [section 27M][778] of that Act; and
     
-    *   (b) the Director-General of Social Welfare shall cease to be required, after 15 March 1992, to determine a liable parent's weekly income or to calculate any contribution under [section 27N][772] of that Act.
+    *   (b) the Director-General of Social Welfare shall cease to be required, after 15 March 1992, to determine a liable parent's weekly income or to calculate any contribution under [section 27N][779] of that Act.
     
     
 
@@ -8863,7 +8911,7 @@ Transitional and savings provisions
     
 *   Where a provision of this Act (a relevant provision)---
         
-    *   (a) refers to a provision of the [Tax Administration Act 1994][474] that is repealed by the [Tax Administration Amendment Act (No 2) 1996][773]; and
+    *   (a) refers to a provision of the [Tax Administration Act 1994][474] that is repealed by the [Tax Administration Amendment Act (No 2) 1996][780]; and
     
     *   (b) incorporates the repealed provision for any purpose to give effect to the relevant provision,---
     
@@ -8875,7 +8923,7 @@ Transitional and savings provisions
     
 *   The transitional and savings provisions set out in [Schedule 1][473], which relate to amendments to this Act that come into force on and after 1 April 2014, have effect for the purposes of this Act.
     
-    Section 276: inserted, on 17 April 2013, by [section 31][774] of the Child Support Amendment Act 2013 (2013 No 12).
+    Section 276: inserted, on 17 April 2013, by [section 31][781] of the Child Support Amendment Act 2013 (2013 No 12).
 
 ---
 
@@ -8884,25 +8932,25 @@ Transitional and savings provisions relating to amendments to Act made on or aft
 
 [ss 3A][5], [276][472]
 
-*   Schedule 1: inserted, on 17 April 2013, by [section 32][775] of the Child Support Amendment Act 2013 (2013 No 12).
+*   Schedule 1: inserted, on 17 April 2013, by [section 32][782] of the Child Support Amendment Act 2013 (2013 No 12).
 
 ##### 1 Definitions
     
-*   In this clause and [clauses 2 to 8][776], unless the context otherwise requires,---
+*   In this clause and [clauses 2 to 8][783], unless the context otherwise requires,---
     
-    _commencement date_ means 1 April 2014 (which is the date on which [Part 1][777] (except [sections 6][501], [31][774], and [32][775]) of the Child Support Amendment Act 2013 comes into force)
+    _commencement date_ means 1 April 2014 (which is the date on which [Part 1][784] (except [sections 6][503], [31][781], and [32][782]) of the Child Support Amendment Act 2013 comes into force)
     
     _new assessment_ means a formula assessment made or applied for under the new provisions and applying after the commencement date to the child support year ending on 31 March 2015
     
     _new formula_ means the formula assessment as provided for by the new provisions
     
-    _new provisions_ means the provisions of this Act as amended by [Part 1][777] of the Child Support Amendment Act 2013; and references to _new section_ and _new Part_ have a corresponding meaning
+    _new provisions_ means the provisions of this Act as amended by [Part 1][784] of the Child Support Amendment Act 2013; and references to _new section_ and _new Part_ have a corresponding meaning
     
     _old assessment_ means a formula assessment made or applied for under the old provisions
     
     _old formula_ means the formula assessment as provided for under the old provisions
     
-    _old provisions_ means the provisions of this Act as they are immediately before [Part 1][777] of the Child Support Amendment Act 2013 comes into force; and references to _old section_ and _old Part_ have a corresponding meaning.
+    _old provisions_ means the provisions of this Act as they are immediately before [Part 1][784] of the Child Support Amendment Act 2013 comes into force; and references to _old section_ and _old Part_ have a corresponding meaning.
 
 ##### 2 New provisions treated as if in force for certain purposes
     
@@ -8956,7 +9004,7 @@ Transitional and savings provisions relating to amendments to Act made on or aft
     
     (2) Regulations made under this clause must include a date on which the regulations are repealed, and that date must be no later than 3 years after the date on which they are made.
     
-    (3) The Minister may recommend the making of regulations under this clause only if satisfied that the regulations are consistent with the purposes of this Act and [clauses 1 to 7][778] of this schedule, and are necessary or desirable for the orderly implementation of [Part 1][777] of the Child Support Amendment Act 2013\.
+    (3) The Minister may recommend the making of regulations under this clause only if satisfied that the regulations are consistent with the purposes of this Act and [clauses 1 to 7][785] of this schedule, and are necessary or desirable for the orderly implementation of [Part 1][784] of the Child Support Amendment Act 2013\.
     
     (4) This clause expires and is repealed on 1 April 2016\.
 
@@ -8988,7 +9036,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Child Support Amendment Act 1993][779], and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Child Support Amendment Act 1993][786], and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall be deemed to have come into force on 18 December 1991\.
 
@@ -9006,7 +9054,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Child Support Amendment Act 1994][779], and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Child Support Amendment Act 1994][786], and shall be read together with and deemed part of the Child Support Act 1991 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as otherwise provided in sections 5(2), 6(2), 8(3), and 9(4), this Act shall come into force on the date on which it receives the Royal assent.
 
@@ -9046,7 +9094,7 @@ Commencement7 October 1998
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Child Support Amendment Act 1998][780], and is part of the Child Support Act 1991 (""the principal Act"").
+*   This Act may be cited as the [Child Support Amendment Act 1998][787], and is part of the Child Support Act 1991 (""the principal Act"").
 
 ##### 2 Basic amount of child support payable
     
@@ -9082,7 +9130,7 @@ Commencementsee section 1(2)--(5)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Child Support Amendment Act 1999][781], and is part of the Child Support Act 1991 (""the principal Act"").
+*   (1) This Act may be cited as the [Child Support Amendment Act 1999][788], and is part of the Child Support Act 1991 (""the principal Act"").
     
     (2) Except as provided in subsections (3) to (5), this Act comes into force on the day after the date on which it receives the Royal assent.
     
@@ -9195,7 +9243,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Child Support Amendment Act 2001][782].
+*   (1) This Act is the [Child Support Amendment Act 2001][789].
     
     (2) In this Act, the Child Support Act 1991 is called ""the principal Act"".
 
@@ -9247,7 +9295,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [District Courts Amendment Act 2002][783].
+*   (1) This Act is the [District Courts Amendment Act 2002][790].
     
     (2) In this Act, the District Courts Act 1947 is called ""the principal Act"".
 
@@ -9255,7 +9303,7 @@ Commencementsee section 2
     
 *   This Act comes into force on a date appointed by the Governor-General by Order in Council.
     
-    Section 2: District Courts Amendment Act 2002 brought into force, on 24 November 2003, by [clause 2][784] of the District Courts Amendment Act Commencement Order 2003 (SR 2003/281).
+    Section 2: District Courts Amendment Act 2002 brought into force, on 24 November 2003, by [clause 2][791] of the District Courts Amendment Act Commencement Order 2003 (SR 2003/281).
 
 ##### 5 Transitional
     
@@ -9271,7 +9319,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Child Support Amendment Act 2003][785].
+*   This Act is the [Child Support Amendment Act 2003][792].
 
 ##### 2 Commencement
     
@@ -9305,7 +9353,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Child Support Amendment Act (No 2) 2005][786].
+*   (1) This Act is the [Child Support Amendment Act (No 2) 2005][793].
     
     (2) In this Act, the Child Support Act 1991 is called ""the principal Act"".
 
@@ -9341,7 +9389,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Child Support Amendment Act 2006][787].
+*   This Act is the [Child Support Amendment Act 2006][794].
 
 ##### 2 Commencement
     
@@ -9450,180 +9498,143 @@ Amendments to Child Support Act 1991
     
     (4) If an election is not made under this section before a Family Court commences hearing an application then, despite the amendment of section 104 of the principal Act by section 26, that person's application must be determined by a Family Court as if this Act had not been enacted.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Child Support Act 1991\. The reprint incorporates all the amendments to the Act as at 17 April 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][788] ![](/images/external_link.gif).
+*   This is a reprint of the Child Support Act 1991 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][789] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][795] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][796] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][790] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][797] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][798] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][791] and [17E][792] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][567]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 65(2)--(4)][537], [86][496], [97][497], [114][500], [129][499]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Child Support Amendment Act 2013][799] (2013 No 12)
     
+    Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50): [section 27][501]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][591]
     
-*   [Child Support Amendment Act 2013][793] (2013 No 12)
+    Limitation Act 2010 (2010 No 110): [section 58][713]
     
-    Social Security (Youth Support and Work Focus) Amendment Act 2012 (2012 No 50): [section 27][499]
+    [Child Support Amendment Act 2008 (2008 No 75)][800]
     
-    Limitation Act 2010 (2010 No 110): [section 58][706]
+    Policing Act 2008 (2008 No 72): [section 130(1)][750]
     
-    [Child Support Amendment Act 2008 (2008 No 75)][794]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][510]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][743]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][488]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][508]
+    [Child Support Amendment Act 2006][794] (2006 No 42)
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][490]
+    [Child Support Amendment Act (No 2) 2005][793] (2005 No 93)
     
-    [Child Support Amendment Act 2006][787] (2006 No 42)
+    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][637]
     
-    [Child Support Amendment Act (No 2) 2005][786] (2005 No 93)
+    [Child Support Amendment Act 2005][801] (2005 No 6)
     
-    New Zealand Superannuation and Retirement Income Amendment Act 2005 (2005 No 42): [section 9(1)][632]
+    Status of Children Amendment Act 2004 (2004 No 91): [section 16][512]
     
-    [Child Support Amendment Act 2005][795] (2005 No 6)
+    Taxation (Working for Families) Act 2004 (2004 No 52): [section 22(1)][538]
     
-    Status of Children Amendment Act 2004 (2004 No 91): [section 16][510]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][489]
     
-    Taxation (Working for Families) Act 2004 (2004 No 52): [section 22(1)][535]
+    [Child Support Amendment Act (No 2) 2003][802] (2003 No 125)
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][491]
+    Supreme Court Act 2003 (2003 No 53): [section 47][609]
     
-    [Child Support Amendment Act (No 2) 2003][796] (2003 No 125)
+    State Sector Amendment Act 2003 (2003 No 41): [section 14][578]
     
-    Supreme Court Act 2003 (2003 No 53): [section 47][604]
+    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][638]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14][574]
+    [Child Support Amendment Act 2003][792] (2003 No 8)
     
-    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][633]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][625]
     
-    [Child Support Amendment Act 2003][785] (2003 No 8)
+    Sentencing Act 2002 (2002 No 9): [section 186][706]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][620]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][690]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][699]
+    [Child Support Amendment Act 2001][789] (2001 No 90)
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][685]
+    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 258(1)][532], [260(1)][544], [261(1)--(3)][546], [262(1)][552], [263(1)][563]
     
-    [Child Support Amendment Act 2001][782] (2001 No 90)
+    New Zealand Superannuation Act 2001 (2001 No 84): [section 77][639]
     
-    Taxation (Taxpayer Assessment and Miscellaneous Provisions) Act 2001 (2001 No 85): [sections 258(1)][530], [260(1)][541], [261(1)--(3)][543], [262(1)][549], [263(1)][560]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][688]
     
-    New Zealand Superannuation Act 2001 (2001 No 84): [section 77][634]
-    
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 40][683]
-    
-    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][567]
+    Property (Relationships) Amendment Act 2001 (2001 No 5): [section 64(2)][571]
     
     Social Security Amendment Act 2001 (2001 No 1): [section 45][498]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][737]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][744]
     
-    Legal Services Act 2000 (2000 No 42): [section 126(1)][701]
+    Legal Services Act 2000 (2000 No 42): [section 126(1)][708]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][669]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][674]
     
-    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][514]
+    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][516]
     
-    [Child Support Amendment Act 1999][781] (1999 No 81)
+    [Child Support Amendment Act 1999][788] (1999 No 81)
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][671]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][676]
     
-    Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53): [section 5][657]
+    Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53): [section 5][662]
     
-    [Child Support Amendment Act 1998][780] (1998 No 103)
+    [Child Support Amendment Act 1998][787] (1998 No 103)
     
-    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][493]
+    Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][491]
     
-    Social Security Amendment Act 1998 (1998 No 19): [sections 57][494], [80][741]
+    Social Security Amendment Act 1998 (1998 No 19): [sections 57][492], [80][748]
     
-    Student Allowances Regulations 1998 (SR 1998/277): [regulation 49][492]
+    Student Allowances Regulations 1998 (SR 1998/277): [regulation 49][490]
     
-    [Child Support Amendment Act (No 3) 1997][797] (1997 No 76)
+    [Child Support Amendment Act (No 3) 1997][803] (1997 No 76)
     
-    [Child Support Amendment Act (No 2) 1997][798] (1997 No 67)
+    [Child Support Amendment Act (No 2) 1997][804] (1997 No 67)
     
     Child Support Amendment Act 1996 (1996 No 65)
     
     Income Tax Act 1994 Amendment Act 1996 (1996 No 17): section 55(1)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][744]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(1)][751]
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][658]
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(2)][663]
     
-    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][682]
+    Government Superannuation Fund Amendment Act 1995 (1995 No 28): [section 31][687]
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    Statistics Amendment Act 1994 (1994 No 159): [section 2(7)][528]
+    Statistics Amendment Act 1994 (1994 No 159): [section 2(7)][530]
     
-    Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121): [section 49][515]
+    Children, Young Persons, and Their Families Amendment Act 1994 (1994 No 121): [section 49][517]
     
-    [Child Support Amendment Act 1994][799] (1994 No 74)
+    [Child Support Amendment Act 1994][805] (1994 No 74)
     
     Inland Revenue Department Amendment Act (No 2) 1993 (1993 No 134): section 2(2)
     
-    [Child Support Amendment Act 1993][779] (1993 No 15)
+    [Child Support Amendment Act 1993][786] (1993 No 15)
     
     Child Support Amendment Act 1992 (1992 No 7)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][643]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][648]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM253153
 [2]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM253155
 [3]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM253157
@@ -10104,322 +10115,328 @@ Amendments to Child Support Act 1991
 [478]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM359106
 [479]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM359124
 [480]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM154316
-[481]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361221
+[481]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM5468358
 [482]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361613
-[483]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361067
-[484]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361695
-[485]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM362536
-[486]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1519941
-[487]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351171
-[488]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM335005
-[489]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413131
-[490]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1523176
-[491]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM277147
-[492]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM260814
-[493]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM429013
-[494]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM426000
-[495]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380676
-[496]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119907
-[497]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332915
+[483]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM362536
+[484]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1519941
+[485]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351171
+[486]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM335005
+[487]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413131
+[488]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1523176
+[489]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM277147
+[490]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM260814
+[491]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM429013
+[492]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM426000
+[493]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380676
+[494]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119907
+[495]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332915
+[496]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4542405
+[497]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4542434
 [498]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM85697
-[499]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4360334
-[500]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31220
-[501]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837603
-[502]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM292660
-[503]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293196
-[504]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM359368
-[505]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM39722
-[506]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM391031
-[507]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361340
-[508]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1048943
-[509]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380679
-[510]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM319234
-[511]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380680
-[512]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147087
-[513]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM154552
-[514]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31416
-[515]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM344644
-[516]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM363583
-[517]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332911
-[518]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293099
-[519]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM363704
-[520]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM248220
-[521]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433086
-[522]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31225
-[523]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380682
-[524]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380683
-[525]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119913
-[526]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31226
-[527]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119912
-[528]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM347442
-[529]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433085
-[530]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116874
-[531]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366525
-[532]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1519963
+[499]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4542494
+[500]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4542466
+[501]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4360334
+[502]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31220
+[503]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837603
+[504]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM292660
+[505]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293196
+[506]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM359368
+[507]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM39722
+[508]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM391031
+[509]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361340
+[510]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1048943
+[511]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380679
+[512]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM319234
+[513]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380680
+[514]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147087
+[515]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM154552
+[516]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31416
+[517]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM344644
+[518]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM363583
+[519]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332911
+[520]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293099
+[521]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM363704
+[522]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM248220
+[523]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433086
+[524]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31225
+[525]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380682
+[526]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380683
+[527]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119913
+[528]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31226
+[529]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119912
+[530]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM347442
+[531]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433085
+[532]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116874
 [533]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366654
-[534]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366561
-[535]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM299805
-[536]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361135
-[537]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380684
-[538]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380685
-[539]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332912
-[540]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380688
-[541]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116876
-[542]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM354673
-[543]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116877
-[544]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1184504
-[545]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380689
-[546]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31234
-[547]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31236
-[548]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31237
-[549]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116878
-[550]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1512300
-[551]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31239
-[552]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31238
-[553]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31240
-[554]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31244
-[555]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380690
-[556]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31241
-[557]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31242
-[558]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380691
-[559]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31243
-[560]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116879
-[561]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351161
-[562]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31245
-[563]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31246
-[564]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433087
-[565]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31247
-[566]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM441652
-[567]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM87570
-[568]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40476
-[569]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41425
-[570]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40865
-[571]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40878
-[572]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41415
-[573]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41459
-[574]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM201378
-[575]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380692
-[576]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351039
-[577]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413134
-[578]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380693
-[579]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31251
-[580]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380694
-[581]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM120905
-[582]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380084
-[583]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM294848
-[584]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367163
-[585]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM352409
-[586]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301675
-[587]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM329049
-[588]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM352885
-[589]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM126527
-[590]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31252
-[591]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380968
-[592]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM84510
-[593]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332914
-[594]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380969
-[595]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380970
-[596]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380971
-[597]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380972
-[598]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM133688
-[599]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380973
-[600]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301677
-[601]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380975
-[602]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301679
-[603]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40058
-[604]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM214520
-[605]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380994
-[606]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381301
-[607]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM440944
-[608]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31253
-[609]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381302
-[610]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381303
-[611]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381304
-[612]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381305
-[613]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381306
-[614]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147653
-[615]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243909
-[616]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243795
-[617]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147655
-[618]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243912
-[619]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361540
-[620]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM168713
-[621]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361527
-[622]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2061202
-[623]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361544
-[624]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41830
-[625]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301681
-[626]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2061203
-[627]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301682
-[628]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41860
-[629]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM203578
-[630]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM285274
-[631]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM113923
-[632]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM346494
-[633]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM191905
-[634]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM114875
-[635]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM84517
-[636]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381307
-[637]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM350134
-[638]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM350137
-[639]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31255
-[640]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162982
-[641]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162983
-[642]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332916
-[643]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162942
-[644]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381357
-[645]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332917
-[646]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381358
-[647]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332918
-[648]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187172
-[649]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332919
-[650]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31256
-[651]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332920
-[652]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31257
-[653]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381359
-[654]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM199370
-[655]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM25240
-[656]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367767
-[657]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM25245
-[658]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366890
-[659]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381361
-[660]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361573
-[661]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187173
-[662]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31259
-[663]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31260
-[664]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187174
-[665]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM45599
-[666]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM46208
-[667]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM204851
-[668]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM269031
-[669]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM47639
-[670]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM233710
-[671]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM29377
-[672]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41235
-[673]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31261
-[674]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41247
-[675]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM242775
-[676]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM244353
-[677]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM244363
-[678]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41249
-[679]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41281
-[680]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41283
-[681]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41285
-[682]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366271
-[683]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM99003
-[684]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41287
-[685]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM124529
-[686]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM123770
-[687]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41289
-[688]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41291
-[689]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM310742
-[690]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41293
-[691]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41295
-[692]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41297
-[693]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41299
-[694]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM311662
-[695]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41401
-[696]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41403
-[697]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM135591
-[698]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41405
-[699]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM137267
-[700]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41407
-[701]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM73103
-[702]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41413
-[703]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41898
-[704]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42200
-[705]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2033100
-[706]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2033287
-[707]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM261466
-[708]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381362
-[709]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381363
-[710]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381364
-[711]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31263
-[712]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381365
-[713]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM358789
-[714]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433088
-[715]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381366
-[716]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381367
-[717]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM348353
-[718]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM356110
-[719]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31264
-[720]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41824
-[721]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41827
-[722]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41829
-[723]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41840
-[724]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41846
-[725]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41847
-[726]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM311316
-[727]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM311638
-[728]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM311640
-[729]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41848
-[730]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41851
-[731]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381371
-[732]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41854
-[733]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361550
-[734]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42204
-[735]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42296
-[736]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42209
-[737]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM76831
-[738]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381372
-[739]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31265
-[740]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31266
-[741]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM426025
-[742]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381373
-[743]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1102383
-[744]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367235
-[745]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM392629
-[746]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42253
-[747]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM382333
-[748]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM360761
-[749]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM360964
-[750]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361553
-[751]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367157
-[752]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411763
-[753]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361558
-[754]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42279
-[755]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM39728
-[756]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40063
-[757]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40065
-[758]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41233
-[759]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41238
-[760]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41244
-[761]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411756
-[762]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40011
-[763]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411764
-[764]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41253
-[765]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41263
-[766]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM294900
-[767]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361363
-[768]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40890
-[769]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40892
-[770]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361383
-[771]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361388
-[772]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361399
-[773]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM392948
-[774]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837653
-[775]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837655
-[776]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM5151125
-[777]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4071717
-[778]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM5151106
-[779]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293093
-[780]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433079
-[781]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31213
-[782]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119901
-[783]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM167890
-[784]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM219277
-[785]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187165
-[786]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361129
-[787]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380668
-[788]: http://www.pco.parliament.govt.nz/reprints/
-[789]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM195439
-[790]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[791]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM195468
-[792]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM195470
-[793]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4071702
-[794]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301670
-[795]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM334799
-[796]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM233704
-[797]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413125
-[798]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411757
-[799]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332905
+[534]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1519963
+[535]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366525
+[536]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366561
+[537]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4750264
+[538]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM299805
+[539]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361135
+[540]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380684
+[541]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380685
+[542]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332912
+[543]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380688
+[544]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116876
+[545]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM354673
+[546]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116877
+[547]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1184504
+[548]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380689
+[549]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31234
+[550]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31236
+[551]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31237
+[552]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116878
+[553]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1512300
+[554]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31239
+[555]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31238
+[556]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31240
+[557]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31244
+[558]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380690
+[559]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31241
+[560]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31242
+[561]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380691
+[562]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31243
+[563]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM116879
+[564]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351161
+[565]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31245
+[566]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31246
+[567]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM5045103
+[568]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433087
+[569]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31247
+[570]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM441652
+[571]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM87570
+[572]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40476
+[573]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41425
+[574]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40865
+[575]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40878
+[576]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41415
+[577]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41459
+[578]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM201378
+[579]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380692
+[580]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM351039
+[581]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413134
+[582]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380693
+[583]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31251
+[584]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380694
+[585]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM120905
+[586]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380084
+[587]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM294848
+[588]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367163
+[589]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM352409
+[590]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301675
+[591]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360714
+[592]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM329049
+[593]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM352885
+[594]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM126527
+[595]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31252
+[596]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380968
+[597]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM84510
+[598]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332914
+[599]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380969
+[600]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380970
+[601]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380971
+[602]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380972
+[603]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM133688
+[604]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380973
+[605]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301677
+[606]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380975
+[607]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301679
+[608]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40058
+[609]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM214520
+[610]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380994
+[611]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381301
+[612]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM440944
+[613]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31253
+[614]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381302
+[615]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381303
+[616]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381304
+[617]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381305
+[618]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381306
+[619]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147653
+[620]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243909
+[621]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243795
+[622]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM147655
+[623]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM243912
+[624]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361540
+[625]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM168713
+[626]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361527
+[627]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2061202
+[628]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361544
+[629]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41830
+[630]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301681
+[631]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2061203
+[632]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301682
+[633]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41860
+[634]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM203578
+[635]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM285274
+[636]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM113923
+[637]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM346494
+[638]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM191905
+[639]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM114875
+[640]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM84517
+[641]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381307
+[642]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM350134
+[643]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM350137
+[644]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31255
+[645]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162982
+[646]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162983
+[647]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332916
+[648]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM162942
+[649]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381357
+[650]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332917
+[651]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381358
+[652]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332918
+[653]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187172
+[654]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332919
+[655]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31256
+[656]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332920
+[657]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31257
+[658]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381359
+[659]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM199370
+[660]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM25240
+[661]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367767
+[662]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM25245
+[663]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366890
+[664]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381361
+[665]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361573
+[666]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187173
+[667]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31259
+[668]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31260
+[669]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187174
+[670]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM45599
+[671]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM46208
+[672]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM204851
+[673]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM269031
+[674]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM47639
+[675]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM233710
+[676]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM29377
+[677]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41235
+[678]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31261
+[679]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41247
+[680]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM242775
+[681]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM244353
+[682]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM244363
+[683]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41249
+[684]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41281
+[685]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41283
+[686]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41285
+[687]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM366271
+[688]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM99003
+[689]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41287
+[690]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM124529
+[691]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM123770
+[692]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41289
+[693]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41291
+[694]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM280848
+[695]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41293
+[696]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41295
+[697]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3359902
+[698]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41297
+[699]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41299
+[700]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360288
+[701]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360356
+[702]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41401
+[703]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41403
+[704]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM135591
+[705]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41405
+[706]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM137267
+[707]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41407
+[708]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM73103
+[709]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41413
+[710]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41898
+[711]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42200
+[712]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2033100
+[713]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2033287
+[714]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM261466
+[715]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381362
+[716]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381363
+[717]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360067
+[718]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381364
+[719]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31263
+[720]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381365
+[721]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM358789
+[722]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433088
+[723]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381366
+[724]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381367
+[725]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM348353
+[726]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM356110
+[727]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31264
+[728]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41824
+[729]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41827
+[730]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41829
+[731]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41840
+[732]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41846
+[733]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41847
+[734]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360276
+[735]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM3360278
+[736]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41848
+[737]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41851
+[738]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381371
+[739]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41854
+[740]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361550
+[741]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42204
+[742]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42296
+[743]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42209
+[744]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM76831
+[745]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381372
+[746]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31265
+[747]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31266
+[748]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM426025
+[749]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM381373
+[750]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1102383
+[751]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367235
+[752]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM392629
+[753]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42253
+[754]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM382333
+[755]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM360761
+[756]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM360964
+[757]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361553
+[758]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM367157
+[759]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411763
+[760]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361558
+[761]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM42279
+[762]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM39728
+[763]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40063
+[764]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40065
+[765]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41233
+[766]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41238
+[767]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41244
+[768]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411756
+[769]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40011
+[770]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411764
+[771]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41253
+[772]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM41263
+[773]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM294900
+[774]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361363
+[775]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40890
+[776]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM40892
+[777]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361383
+[778]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361388
+[779]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361399
+[780]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM392948
+[781]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837653
+[782]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4837655
+[783]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM5151125
+[784]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4071717
+[785]: http://www.legislation.govt.nz/act/public/1991/0142/latest/whole.html#DLM5151106
+[786]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM293093
+[787]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM433079
+[788]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM31213
+[789]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM119901
+[790]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM167890
+[791]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM219277
+[792]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM187165
+[793]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM361129
+[794]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM380668
+[795]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2998516
+[796]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2998515
+[797]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM2998532
+[798]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[799]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM4071702
+[800]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM1301670
+[801]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM334799
+[802]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM233704
+[803]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM413125
+[804]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM411757
+[805]: http://www.legislation.govt.nz/act/public/1991/0142/latest/link.aspx?id=DLM332905
