@@ -1,5 +1,5 @@
 Reprint  
-as at 1 November 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,35 +23,35 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Land to which this Act applies][4]
+[3][4][][4][Land to which this Act applies][4]
 
-[4][5] [Status of Domain][5]
+[4][5][][5][Status of Domain][5]
 
-[5][6] [Roadways within Domain][6]
+[5][6][][6][Roadways within Domain][6]
 
-[6][7] [General powers of Council with respect to Domain][7]
+[6][7][][7][General powers of Council with respect to Domain][7]
 
-[7][8] [Special provisions as to leasing certain parts of the Domain][8]
+[7][8][][8][Special provisions as to leasing certain parts of the Domain][8]
 
-[8][9] [Grant of easements][9]
+[8][9][][9][Grant of easements][9]
 
-[9][10] [Charges for certain functions][10]
+[9][10][][10][Charges for certain functions][10]
 
-[10][11] [Minor commercial enterprises within Domain][11]
+[10][11][][11][Minor commercial enterprises within Domain][11]
 
-[11][12] [Bylaws][12]
+[11][12][][12][Bylaws][12]
 
-[12][13] [Offences and penalties][13]
+[12][13][][13][Offences and penalties][13]
 
-[13][14] [Reserves Act 1977 not to apply][14]
+[13][14][][14][Reserves Act 1977 not to apply][14]
 
-[14][15] [Amending Reserves and Other Lands Disposal Act 1974][15]
+[14][15][][15][Amending Reserves and Other Lands Disposal Act 1974][15]
 
-[15][16] [Repeals][16]
+[15][16][][16][Repeals][16]
 
 [Schedule 1][17]  
 [North Auckland Land District---Auckland City][17]
@@ -198,11 +198,13 @@ An Act to consolidate and amend the law relating to the control, management, and
     
     *   (b) acts in contravention of or fails to comply with any provision of this Act or of any bylaw in force under this Act---
     
-    commits an offence and is liable on summary conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+    commits an offence and is liable on conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+    
+    Section 12: amended, on 1 July 2013, by [section 413][30] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Reserves Act 1977 not to apply
     
-*   (1) The provisions of the [Reserves Act 1977][30] shall not apply to the Domain.
+*   (1) The provisions of the [Reserves Act 1977][31] shall not apply to the Domain.
     
     (2) The classification of the Domain as a reserve for recreation purposes by notice in _Gazette_, 1980, Volume I, page 220 is hereby revoked.
 
@@ -234,7 +236,7 @@ Land leased to Auckland Tennis Incorporated
 
 [s 7][8]
 
-*   Schedule 1A: inserted, on 24 June 2008, by [section 7][31] of the Auckland Domain (Auckland Tennis) Amendment Act 2008 (2008 No 3 (L)).
+*   Schedule 1A: inserted, on 24 June 2008, by [section 7][32] of the Auckland Domain (Auckland Tennis) Amendment Act 2008 (2008 No 3 (L)).
 
 **Description** **Area** **Computer freehold register**
 
@@ -265,31 +267,31 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Legislation Act 1927 (1927 No 58)
 
-_Amendment(s) incorporated in the [Act(s)][32]._
+_Amendment(s) incorporated in the [Act(s)][33]._
 
 ##### Reserves and other Lands Disposal Act 1939 (1939 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][33]._
+_Amendment(s) incorporated in the [Act(s)][34]._
 
 ##### Reserves and Other Lands Disposal Act 1950 (1950 No 89)
 
-_Amendment(s) incorporated in the [Act(s)][34]._
+_Amendment(s) incorporated in the [Act(s)][35]._
 
 ##### Reserves and Other Lands Disposal Act 1952 (1952 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][35]._
+_Amendment(s) incorporated in the [Act(s)][36]._
 
 ##### Reserves and Other Lands Disposal Act 1969 (1969 No 131)
 
-_Amendment(s) incorporated in the [Act(s)][36]._
+_Amendment(s) incorporated in the [Act(s)][37]._
 
 ##### Reserves and other Lands Disposal and Public Bodies Empowering Act 1920 (1920 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][37]._
+_Amendment(s) incorporated in the [Act(s)][38]._
 
 ##### Statutes Repeal Act 1907 (1907 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][38]._
+_Amendment(s) incorporated in the [Act(s)][39]._
 
 ---
 
@@ -307,23 +309,23 @@ _Amendment(s) incorporated in the [Act(s)][38]._
 
 ###### 1 General
     
-*   This is a reprint of the Auckland Domain Act 1987\. The reprint incorporates all the amendments to the Act as at 1 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Auckland Domain Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][39] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][40] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][40] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][41] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][42] and [17E][43] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][43] and [17E][44] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -354,9 +356,11 @@ _Amendment(s) incorporated in the [Act(s)][38]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][20]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][30]
     
-    [Auckland Domain (Auckland Tennis) Amendment Act 2008][44] (2008 No 3 (L))
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][20]
+    
+    [Auckland Domain (Auckland Tennis) Amendment Act 2008][45] (2008 No 3 (L))
     
     Auckland War Memorial Museum Site Empowering Act 2003 (2003 No 3 (L)): [section 8][23]
 
@@ -392,18 +396,19 @@ _Amendment(s) incorporated in the [Act(s)][38]._
 [27]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM1137928
 [28]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM425716
 [29]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM425712
-[30]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM444304
-[31]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM1320601
-[32]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM203669
-[33]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM226956
-[34]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM263264
-[35]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM275603
-[36]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM394039
-[37]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM192429
-[38]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM136288
-[39]: http://www.pco.parliament.govt.nz/reprints/
-[40]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195439
-[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[42]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195468
-[43]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195470
-[44]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM1137919
+[30]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM3360714
+[31]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM444304
+[32]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM1320601
+[33]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM203669
+[34]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM226956
+[35]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM263264
+[36]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM275603
+[37]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM394039
+[38]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM192429
+[39]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM136288
+[40]: http://www.pco.parliament.govt.nz/reprints/
+[41]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195439
+[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[43]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195468
+[44]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM195470
+[45]: http://www.legislation.govt.nz/act/local/1987/0007/latest/link.aspx?id=DLM1137919
