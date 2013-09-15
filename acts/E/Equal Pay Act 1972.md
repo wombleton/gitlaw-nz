@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -635,13 +635,13 @@ An Act to make provision for the removal and prevention of discrimination, based
     
     *   (f) knowingly gives any false or misleading answer to any question asked pursuant to the said paragraph (c).
     
-    (2) Every person who commits an offence against this Act is liable on summary conviction---
+    (2) Every person who commits an offence against this Act is liable on conviction---
         
     *   (a) in the case of an offence committed by any person (not being a body corporate), to a fine not exceeding $400:
     
     *   (b) in the case of an offence committed by a body corporate, to a fine not exceeding $1,000\.
     
-    
+    Section 18(2): amended, on 1 July 2013, by [section 413][44] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Regulations
     
@@ -669,23 +669,23 @@ An Act to make provision for the removal and prevention of discrimination, based
 
 ###### 1 General
     
-*   This is a reprint of the Equal Pay Act 1972\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Equal Pay Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][44] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][45] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][45] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][46] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][46] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][47] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][47] and [17E][48] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][48] and [17E][49] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -716,11 +716,13 @@ An Act to make provision for the removal and prevention of discrimination, based
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [section 130(1)][49]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][44]
     
-    Employment Relations Act 2000 (2000 No 24): [sections 240, 241][50]
+    Policing Act 2008 (2008 No 72): [section 130(1)][50]
     
-    Human Rights Act 1993 (1993 No 82): [section 145][51]
+    Employment Relations Act 2000 (2000 No 24): [sections 240, 241][51]
+    
+    Human Rights Act 1993 (1993 No 82): [section 145][52]
     
     Equal Pay Amendment Act 1991 (1991 No 25)
     
@@ -740,7 +742,7 @@ An Act to make provision for the removal and prevention of discrimination, based
     
     Hospitals Amendment Act 1976 (1976 No 54): section 4(1)
     
-    [Equal Pay Amendment Act 1976][52] (1976 No 49)
+    [Equal Pay Amendment Act 1976][53] (1976 No 49)
     
     Education Amendment Act 1976 (1976 No 42): section 8(1)
     
@@ -794,12 +796,13 @@ An Act to make provision for the removal and prevention of discrimination, based
 [41]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM61488
 [42]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM439122
 [43]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM439123
-[44]: http://www.pco.parliament.govt.nz/reprints/
-[45]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195439
-[46]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[47]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195468
-[48]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195470
-[49]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM1102127
-[50]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM58319
-[51]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM304215
-[52]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM439115
+[44]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM3360714
+[45]: http://www.pco.parliament.govt.nz/reprints/
+[46]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195439
+[47]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[48]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195468
+[49]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM195470
+[50]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM1102127
+[51]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM58319
+[52]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM304215
+[53]: http://www.legislation.govt.nz/act/public/1972/0118/latest/link.aspx?id=DLM439115
