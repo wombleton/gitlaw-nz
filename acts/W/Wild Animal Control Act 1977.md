@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -124,7 +124,7 @@ This Act is administered by the Department of Conservation.
 
 [36][48][][48][Offences][48]
 
-[37][49][][49][Offences to be tried summarily][49]
+[37][49][][49][Proceedings for offences][49]
 
 [38][50][][50][Presumptions and obligations in connection with hunting and killing][50]
 
@@ -1446,21 +1446,31 @@ General provisions
     
     Section 36(3): added, on 1 October 1999, by [section 11][123] of the Wild Animal Control Amendment Act 1997 (1997 No 80).
 
-##### 37 Offences to be tried summarily
+##### 37 Proceedings for offences
     
-*   (1) Every offence against this Act or against any regulations under this Act shall be punishable on summary conviction before a District Court Judge alone.
+*   (1) \[Repealed\]
     
-    (2) Any officer or employee of the Department, although not the informant, may appear and conduct the prosecution in all proceedings for offences against this Act.
+    (2) \[Repealed\]
     
-    (3) The court by which any person is convicted of any such offence may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person or national park board instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and, where such a direction is made, that part of the fine shall be paid to that person or board by the Registrar of the court in which the conviction is recorded.
+    (3) The court by which any person is convicted of an offence against this Act may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person or national park board instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and, where such a direction is made, that part of the fine shall be paid to that person or board by the Registrar of the court in which the conviction is recorded.
     
-    (4) Notwithstanding anything in the [Summary Proceedings Act 1957][124], any information in respect of any offence against this Act or any regulation under this Act may be laid at any time within 12 months from the time when the matter of the information arose.
+    (4) Despite anything to the contrary in [section 25][124] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
+    
+    (5) Subsection (4) does not apply to an offence against [section 11][15].
     
     Compare: 1956 No 6 s 24
     
-    Section 37(1): amended, on 1 April 1980, pursuant to [section 18(2)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 37 heading: replaced, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 37(2): amended, on 1 April 1987, by [section 65(1)][66] of the Conservation Act 1987 (1987 No 65). 
+    Section 37(1): repealed, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 37(2): repealed, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 37(3): amended, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 37(4): replaced, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 37(5): inserted, on 1 July 2013, by [section 413][125] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Presumptions and obligations in connection with hunting and killing
     
@@ -1617,76 +1627,6 @@ Enactments repealed
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][134].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][135] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 # Biosecurity Law Reform Act 2012Public Act2012 No 73
 
 Date of assent17 September 2012
@@ -1695,7 +1635,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Biosecurity Law Reform Act 2012][136].
+*   This Act is the [Biosecurity Law Reform Act 2012][134].
 
 ##### 2 Commencement
     
@@ -1754,23 +1694,23 @@ Related amendments to other enactments
 
 ###### 1 General
     
-*   This is a reprint of the Wild Animal Control Act 1977\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Wild Animal Control Act 1977\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][137] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][135] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][138] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][136] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][139] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][137] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][140] and [17E][141] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][138] and [17E][139] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1805,25 +1745,27 @@ Related amendments to other enactments
     
     Search and Surveillance Act 2012 (2012 No 24): [section 308][92]
     
-    [Wild Animal Control Amendment Act 2012][142] (2012 No 21)
+    [Wild Animal Control Amendment Act 2012][140] (2012 No 21)
     
     National Animal Identification and Tracing Act 2012 (2012 No 2): [section 75][71]
     
-    [Wild Animal Control Amendment Act 2010][143] (2010 No 92)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][125]
+    
+    [Wild Animal Control Amendment Act 2010][141] (2010 No 92)
     
     Local Government Act 2002 (2002 No 84): [section 262][68]
     
     Animal Welfare Act 1999 (1999 No 142):[section 194][90]
     
-    [Wild Animal Control Amendment Act 1999][144] (1999 No 52)
+    [Wild Animal Control Amendment Act 1999][142] (1999 No 52)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][145]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][143]
     
-    [Wild Animal Control Amendment Act 1997][146] (1997 No 80)
+    [Wild Animal Control Amendment Act 1997][144] (1997 No 80)
     
     Ministry of Agriculture and Fisheries (Restructuring) Act 1995 (1995 No 31): [section 6(1)(a), (b)][89]
     
-    [Wild Animal Control Amendment Act 1994][147] (1994 No 114)
+    [Wild Animal Control Amendment Act 1994][145] (1994 No 114)
     
     Civil Aviation Act 1990 (1990 No 98): [section 101(1)][65]
     
@@ -1848,8 +1790,6 @@ Related amendments to other enactments
     Trespass Act 1980 (1980 No 65):[section 14][82]
     
     Wild Animal Control Amendment Act 1979 (1979 No 146)
-    
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][125]
     
     Wild Animal Control Amendment Act 1978 (1978 No 135)
 
@@ -1979,8 +1919,8 @@ Related amendments to other enactments
 [121]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM104689
 [122]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413179
 [123]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413180
-[124]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM310742
-[125]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM35085
+[124]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360067
+[125]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3360714
 [126]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM255625
 [127]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM250585
 [128]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413181
@@ -1989,17 +1929,15 @@ Related amendments to other enactments
 [131]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413183
 [132]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341471
 [133]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM264952
-[134]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM2136500
-[135]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4686448
-[136]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388102
-[137]: http://www.pco.parliament.govt.nz/reprints/
-[138]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195439
-[139]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[140]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195468
-[141]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195470
-[142]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015302
-[143]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045000
-[144]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25222
-[145]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM427920
-[146]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413155
-[147]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341459
+[134]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3388102
+[135]: http://www.pco.parliament.govt.nz/reprints/
+[136]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195439
+[137]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[138]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195468
+[139]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM195470
+[140]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM4015302
+[141]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM3045000
+[142]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM25222
+[143]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM427920
+[144]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM413155
+[145]: http://www.legislation.govt.nz/act/public/1977/0111/latest/link.aspx?id=DLM341459
