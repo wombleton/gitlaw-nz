@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,423 +17,423 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Public Trust.
+This Act is administered by Public Trust.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Application of Act where Public Trust acts jointly][6]
+[5][6][][6][Application of Act where Public Trust acts jointly][6]
 
-[6][7] [Relationship between this Act and other Acts and instruments][7]
+[6][7][][7][Relationship between this Act and other Acts and instruments][7]
 
 [Part 2][8]  
 [Establishment of Public Trust][8]
 
-[7][9] [Establishment of Public Trust][9]
+[7][9][][9][Establishment of Public Trust][9]
 
-[7A][10] [Application of Crown Entities Act 2004][10]
+[7A][10][][10][Application of Crown Entities Act 2004][10]
 
-[8][11] [Functions of Public Trust][11]
+[8][11][][11][Functions of Public Trust][11]
 
-[9][12] [Objectives of Public Trust][12]
+[9][12][][12][Objectives of Public Trust][12]
 
-[10][13] [Independence of Public Trust in its fiduciary functions][13]
+[10][13][][13][Independence of Public Trust in its fiduciary functions][13]
 
-[11][14] [Powers][14]
+[11][14][][14][Powers][14]
 
-[12][15] [Method of contracting][15]
+[12][15][][15][Method of contracting][15]
 
-[13][16] [Application of Public Finance Act 1989][16]
+[13][16][][16][Application of Public Finance Act 1989][16]
 
 [Board of Public Trust][17]
 
-[14][18] [Board of Public Trust][18]
+[14][18][][18][Board of Public Trust][18]
 
-[15][19] [Board's management duty][19] \[Repealed\]
+[15][19][][19][Board's management duty][19] \[Repealed\]
 
-[16][20] [Board's powers][20] \[Repealed\]
+[16][20][][20][Board's powers][20] \[Repealed\]
 
-[17][21] [Board may appoint committees][21] \[Repealed\]
+[17][21][][21][Board may appoint committees][21] \[Repealed\]
 
 [Delegations by board][22]
 
-[18][23] [Delegations generally][23]
+[18][23][][23][Delegations generally][23]
 
-[19][24] [Delegation of powers to make affidavits, etc][24]
+[19][24][][24][Delegation of powers to make affidavits, etc][24]
 
-[20][25] [Certain powers not to be delegated][25]
+[20][25][][25][Certain powers not to be delegated][25]
 
-[21][26] [Effect of delegation][26] \[Repealed\]
+[21][26][][26][Effect of delegation][26] \[Repealed\]
 
-[22][27] [Presumption of acting in accordance with delegation][27] \[Repealed\]
+[22][27][][27][Presumption of acting in accordance with delegation][27] \[Repealed\]
 
-[23][28] [Other matters relating to delegation][28] \[Repealed\]
+[23][28][][28][Other matters relating to delegation][28] \[Repealed\]
 
-[24][29] [Execution of documents][29] \[Repealed\]
+[24][29][][29][Execution of documents][29] \[Repealed\]
 
-[25][30] [Presumption of authority to execute document][30] \[Repealed\]
+[25][30][][30][Presumption of authority to execute document][30] \[Repealed\]
 
 [Chief executive of Public Trust][31]
 
-[26][32] [Chief executive][32]
+[26][32][][32][Chief executive][32]
 
-[27][33] [Terms and conditions of employment of chief executive][33] \[Repealed\]
+[27][33][][33][Terms and conditions of employment of chief executive][33] \[Repealed\]
 
-[28][34] [Delegations by chief executive][34] \[Repealed\]
+[28][34][][34][Delegations by chief executive][34] \[Repealed\]
 
 [Employees of Public Trust][35]
 
 \[Repealed\]
 
-[29][36] [Personnel policy][36] \[Repealed\]
+[29][36][][36][Personnel policy][36] \[Repealed\]
 
-[30][37] [Equal employment opportunities programme][37] \[Repealed\]
+[30][37][][37][Equal employment opportunities programme][37] \[Repealed\]
 
-[31][38] [Appointment of employees of Public Trust][38] \[Repealed\]
+[31][38][][38][Appointment of employees of Public Trust][38] \[Repealed\]
 
-[32][39] [Establishment of superannuation schemes][39] \[Repealed\]
+[32][39][][39][Establishment of superannuation schemes][39] \[Repealed\]
 
-[33][40] [Employees not in service of the Crown][40] \[Repealed\]
+[33][40][][40][Employees not in service of the Crown][40] \[Repealed\]
 
 [Declaration of fidelity and secrecy][41]
 
-[34][42] [Declaration of fidelity and secrecy][42]
+[34][42][][42][Declaration of fidelity and secrecy][42]
 
 [Part 3][43]  
 [Financial provisions][43]
 
 [General provisions][44]
 
-[35][45] [Funds of Public Trust][45]
+[35][45][][45][Funds of Public Trust][45]
 
-[36][46] [Public Trust bank accounts][46]
+[36][46][][46][Public Trust bank accounts][46]
 
-[37][47] [Investment of funds][47]
+[37][47][][47][Investment of funds][47]
 
-[38][48] [Public Trust not to borrow without consent of Minister of Finance][48]
+[38][48][][48][Public Trust not to borrow without consent of Minister of Finance][48]
 
-[39][49] [Audit Office to be auditor of Public Trust][49] \[Repealed\]
+[39][49][][49][Audit Office to be auditor of Public Trust][49] \[Repealed\]
 
-[40][50] [Annual report][50] \[Repealed\]
+[40][50][][50][Annual report][50] \[Repealed\]
 
 [Public Trust and the Crown][51]
 
-[41][52] [Ownership interest of the Crown][52]
+[41][52][][52][Ownership interest of the Crown][52]
 
-[42][53] [Deficiency payable out of Crown Bank Account][53]
+[42][53][][53][Deficiency payable out of Crown Bank Account][53]
 
-[43][54] [Distributions to the Crown][54]
+[43][54][][54][Distributions to the Crown][54]
 
-[44][55] [Payment by the Crown for non-commercial activities][55]
+[44][55][][55][Payment by the Crown for non-commercial activities][55]
 
-[45][56] [Power to request information][56] \[Repealed\]
+[45][56][][56][Power to request information][56] \[Repealed\]
 
-[46][57] [Refusal of request to supply information][57]
+[46][57][][57][Refusal of request to supply information][57]
 
 [Part 4][58]  
 [Investments][58]
 
-[47][59] [Investments generally][59]
+[47][59][][59][Investments generally][59]
 
 [Common fund of Public Trust][60]
 
-[48][61] [Common fund][61]
+[48][61][][61][Common fund][61]
 
-[49][62] [Investment of common fund][62]
+[49][62][][62][Investment of common fund][62]
 
-[50][63] [Interest payable to estates in common fund][63]
+[50][63][][63][Interest payable to estates in common fund][63]
 
-[51][64] [Public Trust acting under section 75 as agent to invest in common fund][64]
+[51][64][][64][Public Trust acting under section 75 as agent to invest in common fund][64]
 
-[52][65] [Deficiency in common fund to be made good out of public money][65]
+[52][65][][65][Deficiency in common fund to be made good out of public money][65]
 
-[53][66] [Power to deal with land investments][66]
+[53][66][][66][Power to deal with land investments][66]
 
-[54][67] [Public Trust may apply common fund money for purpose of buying in securities][67]
+[54][67][][67][Public Trust may apply common fund money for purpose of buying in securities][67]
 
-[55][68] [Extensions or renewals of common fund investments][68]
+[55][68][][68][Extensions or renewals of common fund investments][68]
 
-[56][69] [Advances to estates from common fund][69]
+[56][69][][69][Advances to estates from common fund][69]
 
-[57][70] [Advances to beneficiaries from common fund][70]
+[57][70][][70][Advances to beneficiaries from common fund][70]
 
-[58][71] [Person acting jointly with Public Trust][71]
+[58][71][][71][Person acting jointly with Public Trust][71]
 
 [Investments otherwise than in common fund][72]
 
-[59][73] [Separate investments of estate money][73]
+[59][73][][73][Separate investments of estate money][73]
 
-[60][74] [Special investments][74]
+[60][74][][74][Special investments][74]
 
-[61][75] [Investments in group investment funds][75]
+[61][75][][75][Investments in group investment funds][75]
 
-[62][76] [Investments outside common fund not guaranteed][76]
+[62][76][][76][Investments outside common fund not guaranteed][76]
 
 [Group investment funds][77]
 
-[63][78] [Public Trust may establish group investment funds][78]
+[63][78][][78][Public Trust may establish group investment funds][78]
 
-[64][79] [Investment of group investment funds][79]
+[64][79][][79][Investment of group investment funds][79]
 
-[65][80] [Income and capital of group investment fund][80]
+[65][80][][80][Income and capital of group investment fund][80]
 
-[66][81] [Periodic capital valuation of investments of fund][81]
+[66][81][][81][Periodic capital valuation of investments of fund][81]
 
-[67][82] [Capital valuation of fund comprising investments in real estate][82]
+[67][82][][82][Capital valuation of fund comprising investments in real estate][82]
 
-[68][83] [Timing of investments and withdrawals][83]
+[68][83][][83][Timing of investments and withdrawals][83]
 
-[69][84] [Withdrawal of amounts from fund][84]
+[69][84][][84][Withdrawal of amounts from fund][84]
 
-[70][85] [Reimbursement of expenses][85]
+[70][85][][85][Reimbursement of expenses][85]
 
-[71][86] [Management fees][86]
+[71][86][][86][Management fees][86]
 
-[72][87] [Powers of Public Trust in respect of group investment funds][87]
+[72][87][][87][Powers of Public Trust in respect of group investment funds][87]
 
-[72B][88] [Powers to adjust interest in trust property of fund that is portfolio investment entity][88]
+[72B][88][][88][Powers to adjust interest in trust property of fund that is portfolio investment entity][88]
 
-[73][89] [Examination of group investment funds][89]
+[73][89][][89][Examination of group investment funds][89]
 
-[74][90] [Duties, etc, of Public Trust not affected by sections 63 to 73][90]
+[74][90][][90][Duties, etc, of Public Trust not affected by sections 63 to 73][90]
 
 [Part 5][91]  
 [Acquisition of right to administer estates][91]
 
-[75][92] [Duties for which Public Trust may be appointed][92]
+[75][92][][92][Duties for which Public Trust may be appointed][92]
 
-[76][93] [Appointment of Public Trust by executors, administrators, and trustees][93]
+[76][93][][93][Appointment of Public Trust by executors, administrators, and trustees][93]
 
-[77][94] [Public Trust entitled on application to administration of intestate estates][94]
+[77][94][][94][Public Trust entitled on application to administration of intestate estates][94]
 
-[78][95] [Public Trust may be appointed sole trustee where appointment of 2 or more trustees provided for][95]
+[78][95][][95][Public Trust may be appointed sole trustee where appointment of 2 or more trustees provided for][95]
 
-[79][96] [Judge may consent to Public Trust's appointment if person whose consent required refuses or unable to consent][96]
+[79][96][][96][Judge may consent to Public Trust's appointment if person whose consent required refuses or unable to consent][96]
 
-[80][97] [Power of Public Trust to administer if no application for probate or administration][97]
+[80][97][][97][Power of Public Trust to administer if no application for probate or administration][97]
 
-[81][98] [Trustees may delegate powers to Public Trust][98]
+[81][98][][98][Trustees may delegate powers to Public Trust][98]
 
-[82][99] [Powers and authorities exercisable by Public Trust pending grant of probate or administration][99]
+[82][99][][99][Powers and authorities exercisable by Public Trust pending grant of probate or administration][99]
 
-[83][100] [Notice of exercise of powers and authorities under section 82 to person entitled to probate or administration][100]
+[83][100][][100][Notice of exercise of powers and authorities under section 82 to person entitled to probate or administration][100]
 
-[84][101] [Public Trust may oppose application for administration][101]
+[84][101][][101][Public Trust may oppose application for administration][101]
 
-[85][102] [Payment of legacies of infants to Public Trust][102]
+[85][102][][102][Payment of legacies of infants to Public Trust][102]
 
-[86][103] [Administration of benefit funds by Public Trust][103]
+[86][103][][103][Administration of benefit funds by Public Trust][103]
 
 [General matters][104]
 
-[87][105] [Public Trust on appointment to have same rights, etc, as private person][105]
+[87][105][][105][Public Trust on appointment to have same rights, etc, as private person][105]
 
-[88][106] [Property, rights, etc, to vest in Public Trust on appointment][106]
+[88][106][][106][Property, rights, etc, to vest in Public Trust on appointment][106]
 
-[89][107] [Provisions relating to applications for grants of administrations][107]
+[89][107][][107][Provisions relating to applications for grants of administrations][107]
 
-[90][108] [Public Trust acting jointly with another person][108]
+[90][108][][108][Public Trust acting jointly with another person][108]
 
-[91][109] [Costs][109]
+[91][109][][109][Costs][109]
 
-[92][110] [Part does not restrict operation of certain provisions][110]
+[92][110][][110][Part does not restrict operation of certain provisions][110]
 
 [Part 6][111]  
 [Elections to administer][111]
 
-[93][112] [Public Trust may elect to administer small estates without grant of administration][112]
+[93][112][][112][Public Trust may elect to administer small estates without grant of administration][112]
 
-[94][113] [Elections in respect of unadministered balance of estate][113]
+[94][113][][113][Elections in respect of unadministered balance of estate][113]
 
-[95][114] [Operation of election under section 93 or section 94 as regards property overseas][114]
+[95][114][][114][Operation of election under section 93 or section 94 as regards property overseas][114]
 
-[96][115] [Revocation of elections filed in error][115]
+[96][115][][115][Revocation of elections filed in error][115]
 
-[97][116] [Elections to administer jointly with another person][116]
+[97][116][][116][Elections to administer jointly with another person][116]
 
-[98][117] [Copy of election][117]
+[98][117][][117][Copy of election][117]
 
 [Part 7][118]  
 [Unclaimed property][118]
 
-[99][119] [Appointment of Public Trust as manager of unclaimed property][119]
+[99][119][][119][Appointment of Public Trust as manager of unclaimed property][119]
 
-[100][120] [Mode of appointment][120]
+[100][120][][120][Mode of appointment][120]
 
-[101][121] [Public Trust may elect to manage property of low value][121]
+[101][121][][121][Public Trust may elect to manage property of low value][121]
 
-[102][122] [Order vesting property in Public Trust or other person][122]
+[102][122][][122][Order vesting property in Public Trust or other person][122]
 
-[103][123] [Powers of Public Trust as manager][123]
+[103][123][][123][Powers of Public Trust as manager][123]
 
-[104][124] [Power of Public Trust to pay for improvements][124]
+[104][124][][124][Power of Public Trust to pay for improvements][124]
 
-[105][125] [Sale or transfer to occupier or other person entitled to land][125]
+[105][125][][125][Sale or transfer to occupier or other person entitled to land][125]
 
-[106][126] [Property to be held for owner][126]
+[106][126][][126][Property to be held for owner][126]
 
-[107][127] [Termination of management][127]
+[107][127][][127][Termination of management][127]
 
-[108][128] [Transfer of unclaimed property to Crown][128]
+[108][128][][128][Transfer of unclaimed property to Crown][128]
 
-[109][129] [Land, etc, becoming property of Crown may be vested in local authority][129]
+[109][129][][129][Land, etc, becoming property of Crown may be vested in local authority][129]
 
 [Miscellaneous provisions][130]
 
-[110][131] [Public Trust to have discretion as to exercise of powers][131]
+[110][131][][131][Public Trust to have discretion as to exercise of powers][131]
 
-[111][132] [Public Trust may apply to court for directions][132]
+[111][132][][132][Public Trust may apply to court for directions][132]
 
-[112][133] [Deficiency in recovery of remuneration and expenses of Public Trust][133]
+[112][133][][133][Deficiency in recovery of remuneration and expenses of Public Trust][133]
 
-[113][134] [Documents executed by Public Trust][134]
+[113][134][][134][Documents executed by Public Trust][134]
 
-[114][135] [Order or notice not affected by mistake of fact][135]
+[114][135][][135][Order or notice not affected by mistake of fact][135]
 
-[115][136] [Evidence in respect of unclaimed property][136]
+[115][136][][136][Evidence in respect of unclaimed property][136]
 
-[116][137] [Crown not affected][137]
+[116][137][][137][Crown not affected][137]
 
-[117][138] [Limitation Act 2010 not affected][138]
+[117][138][][138][Limitation Act 2010 not affected][138]
 
 [Part 8][139]  
 [Miscellaneous provisions][139]
 
-[118][140] [Special powers that may be exercised by Public Trust][140]
+[118][140][][140][Special powers that may be exercised by Public Trust][140]
 
-[119][141] [Public Trust may act on written statement, etc][141]
+[119][141][][141][Public Trust may act on written statement, etc][141]
 
-[120][142] [Public Trust may sue itself in different capacity][142]
+[120][142][][142][Public Trust may sue itself in different capacity][142]
 
-[121][143] [Public Trust may transact business with subsidiary companies][143]
+[121][143][][143][Public Trust may transact business with subsidiary companies][143]
 
-[122][144] [Remuneration][144]
+[122][144][][144][Remuneration][144]
 
-[123][145] [Special services][145]
+[123][145][][145][Special services][145]
 
-[124][146] [Review of charges][146]
+[124][146][][146][Review of charges][146]
 
-[125][147] [Additional remuneration][147]
+[125][147][][147][Additional remuneration][147]
 
-[126][148] [Power of Public Trust to make small payments without order][148]
+[126][148][][148][Power of Public Trust to make small payments without order][148]
 
-[127][149] [Public Trust may bar claims for small amounts][149]
+[127][149][][149][Public Trust may bar claims for small amounts][149]
 
-[128][150] [Conditions on which tenant for life may be allowed into possession][150]
+[128][150][][150][Conditions on which tenant for life may be allowed into possession][150]
 
-[129][151] [Declaration of non-revocation unnecessary where Public Trust executes document as attorney][151]
+[129][151][][151][Declaration of non-revocation unnecessary where Public Trust executes document as attorney][151]
 
-[130][152] [Deposit of wills][152]
+[130][152][][152][Deposit of wills][152]
 
-[131][153] [Existence of property belonging to estate being administered by Public Trust to be disclosed][153]
+[131][153][][153][Existence of property belonging to estate being administered by Public Trust to be disclosed][153]
 
-[132][154] [Protection of purchasers and others][154]
+[132][154][][154][Protection of purchasers and others][154]
 
-[133][155] [No notice of trust to arise merely from dealing with Public Trust][155]
+[133][155][][155][No notice of trust to arise merely from dealing with Public Trust][155]
 
-[134][156] [Registration of shares][156]
+[134][156][][156][Registration of shares][156]
 
-[135][157] [Public Trust may evidence and register dealings in land when acting in different capacities][157]
+[135][157][][157][Public Trust may evidence and register dealings in land when acting in different capacities][157]
 
-[136][158] [Same remedies against Public Trust as against other persons][158]
+[136][158][][158][Same remedies against Public Trust as against other persons][158]
 
-[137][159] [Protection of Public Trust acting under power of attorney][159]
+[137][159][][159][Protection of Public Trust acting under power of attorney][159]
 
-[138][160] [Protection of Public Trust acting under order of court][160]
+[138][160][][160][Protection of Public Trust acting under order of court][160]
 
-[139][161] [Validity of acts by Public Trust under administration granted in error][161]
+[139][161][][161][Validity of acts by Public Trust under administration granted in error][161]
 
-[140][162] [Board members and employees not personally liable except for fraud or crime][162] \[Repealed\]
+[140][162][][162][Board members and employees not personally liable except for fraud or crime][162] \[Repealed\]
 
-[141][163] [Limitation of liability][163]
+[141][163][][163][Limitation of liability][163]
 
-[142][164] [Liability of office solicitor in conveyancing transactions][164]
+[142][164][][164][Liability of office solicitor in conveyancing transactions][164]
 
-[143][165] [Costs of legal proceedings][165]
+[143][165][][165][Costs of legal proceedings][165]
 
-[144][166] [Certificate by Public Trust as to its legal status in any matter][166]
+[144][166][][166][Certificate by Public Trust as to its legal status in any matter][166]
 
-[145][167] [Certificate where Public Trust acting jointly][167]
+[145][167][][167][Certificate where Public Trust acting jointly][167]
 
-[146][168] [Service of notices by Public Trust][168]
+[146][168][][168][Service of notices by Public Trust][168]
 
-[147][169] [Regulations][169]
+[147][169][][169][Regulations][169]
 
 [Part 9][170]  
 [Transfer of Public Trust undertaking][170]
 
-[148][171] [Interpretation][171]
+[148][171][][171][Interpretation][171]
 
-[149][172] [Vesting of existing undertaking][172]
+[149][172][][172][Vesting of existing undertaking][172]
 
-[150][173] [Transfer of fiduciary rights and liabilities][173]
+[150][173][][173][Transfer of fiduciary rights and liabilities][173]
 
-[151][174] [Dissolution of Public Trustee, Public Trust Office, and Investment Board][174]
+[151][174][][174][Dissolution of Public Trustee, Public Trust Office, and Investment Board][174]
 
-[152][175] [References in instruments][175]
+[152][175][][175][References in instruments][175]
 
-[153][176] [Status of contracts and other instruments][176]
+[153][176][][176][Status of contracts and other instruments][176]
 
-[154][177] [Status of existing securities][177]
+[154][177][][177][Status of existing securities][177]
 
-[155][178] [Continuation of proceedings][178]
+[155][178][][178][Continuation of proceedings][178]
 
-[156][179] [Effect of Act][179]
+[156][179][][179][Effect of Act][179]
 
-[157][180] [Books and documents to remain evidence][180]
+[157][180][][180][Books and documents to remain evidence][180]
 
-[158][181] [Registers][181]
+[158][181][][181][Registers][181]
 
-[159][182] [Liability of employees and agents][182]
+[159][182][][182][Liability of employees and agents][182]
 
 [Transfer of employees][183]
 
-[160][184] [Transfer of existing employees][184]
+[160][184][][184][Transfer of existing employees][184]
 
-[161][185] [Terms and conditions of employment of transferred employees][185]
+[161][185][][185][Terms and conditions of employment of transferred employees][185]
 
-[162][186] [Continuity of employment][186]
+[162][186][][186][Continuity of employment][186]
 
-[163][187] [No compensation for technical redundancy][187]
+[163][187][][187][No compensation for technical redundancy][187]
 
-[164][188] [Contributors to Government Superannuation Fund][188]
+[164][188][][188][Contributors to Government Superannuation Fund][188]
 
 [Application of Income Tax Act 1994][189]
 
-[165][190] [Application of Income Tax Act 1994][190]
+[165][190][][190][Application of Income Tax Act 1994][190]
 
 [Application of Securities Act 1978][191]
 
-[166][192] [Application of Securities Act 1978][192]
+[166][192][][192][Application of Securities Act 1978][192]
 
 [Amount of reserves to be paid to the Crown][193]
 
-[167][194] [Amount of reserves to be paid to the Crown before appointed day][194]
+[167][194][][194][Amount of reserves to be paid to the Crown before appointed day][194]
 
 [Part 10][195]  
 [Repeals, amendments, and transitional provisions][195]
 
-[168][196] [Repeals][196]
+[168][196][][196][Repeals][196]
 
-[169][197] [Revocations][197]
+[169][197][][197][Revocations][197]
 
-[170][198] [Amendments to other enactments][198]
+[170][198][][198][Amendments to other enactments][198]
 
-[171][199] [Transitional provision in relation to existing investments in group investment funds][199]
+[171][199][][199][Transitional provision in relation to existing investments in group investment funds][199]
 
-[172][200] [Financial statement and report on operations for period commencing 1 July 2001][200]
+[172][200][][200][Financial statement and report on operations for period commencing 1 July 2001][200]
 
 [Schedule 1][201]  
 [Provisions relating to board][201]
@@ -507,7 +507,7 @@ Preliminary provisions
     
     _court_, in relation to any matter, means a court having jurisdiction in that matter; and includes a Judge of that court
     
-    _Crown entity subsidiary_ has the same meaning as in [section 8(2)][208] of the Crown Entities Act 2004
+    _Crown entity subsidiary_ has the same meaning as in the second column of [section 7(1)(c)][208] of the Crown Entities Act 2004
     
     _estate_ means any property administered or held, managed, or controlled by Public Trust, whether as administrator or other trustee or as guardian, committee, manager, liquidator, receiver, agent, or attorney, or in any other capacity
     
@@ -557,9 +557,11 @@ Preliminary provisions
     
     Section 4 **Crown entity subsidiary**: inserted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
+    Section 4 **Crown entity subsidiary**: amended, on 18 July 2013, by [section 42][214] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
     Section 4 **good employer**: repealed, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 4 **portfolio investment entity**: inserted, on 1 October 2007, by [section 229][214] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
+    Section 4 **portfolio investment entity**: inserted, on 1 October 2007, by [section 229][215] of the Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81).
     
     Section 4 **Public Trust**: amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -585,7 +587,7 @@ Preliminary provisions
     
     *   (e) [section 130][152] (deposit of wills).
     
-    (4) Nor do the provisions of the [Crown Entities Act 2004][215] or the following provisions of this Act confer any powers, authorities, functions, or prerogatives on a person acting jointly with Public Trust:
+    (4) Nor do the provisions of the [Crown Entities Act 2004][216] or the following provisions of this Act confer any powers, authorities, functions, or prerogatives on a person acting jointly with Public Trust:
         
     *   (a) [Parts 2 to 4][8], except [sections 36(2)][46] (operation of estate bank accounts) and [60][74] (special investments):
     
@@ -607,7 +609,7 @@ Preliminary provisions
 
 ##### 6 Relationship between this Act and other Acts and instruments
     
-*   (1) The provisions of the [Trustee Act 1956][216] and the [Administration Act 1969][217] are to be read and applied---
+*   (1) The provisions of the [Trustee Act 1956][217] and the [Administration Act 1969][218] are to be read and applied---
         
     *   (a) so as not to affect any of the express provisions of this Act; and
     
@@ -627,7 +629,7 @@ Preliminary provisions
     
     *   (c) the rights, powers, and remedies conferred by this Act, and those other rights, powers, and remedies, are capable of being exercised either independently or in aid of one another.
     
-    (4) [Section 100][218] of the Crown Entities Act 2004 does not apply to the exercise of any authority or power Public Trust has under any enactment, instrument, or law to---
+    (4) [Section 100][219] of the Crown Entities Act 2004 does not apply to the exercise of any authority or power Public Trust has under any enactment, instrument, or law to---
         
     *   (a) invest any estate money, or invest the common fund, or invest any group investment fund; or
     
@@ -654,11 +656,11 @@ Establishment of Public Trust
 
 ##### 7A Application of Crown Entities Act 2004
     
-*   (1) Public Trust is a Crown entity for the purposes of [section 7][219] of the Crown Entities Act 2004\.
+*   (1) Public Trust is a Crown entity for the purposes of [section 7][208] of the Crown Entities Act 2004\.
     
-    (2) The [Crown Entities Act 2004][215] applies to Public Trust except to the extent that this Act expressly provides otherwise.
+    (2) The [Crown Entities Act 2004][216] applies to Public Trust except to the extent that this Act expressly provides otherwise.
     
-    (3) [Sections 28(1)][220], [29][221], [37][222], [96][223], [100][218], and [104][224] and [Part 4][225] of the Crown Entities Act 2004 apply as if the reference in each of those provisions or Parts to the ""responsible Minister"" were replaced by a reference to ""the responsible Minister acting with the agreement of the Minister of Finance"".
+    (3) [Sections 28(1)][220], [29][221], [37][222], [96][223], [100][219], and [104][224] and [Part 4][225] of the Crown Entities Act 2004 apply as if the reference in each of those provisions or Parts to the ""responsible Minister"" were replaced by a reference to ""the responsible Minister acting with the agreement of the Minister of Finance"".
     
     Section 7A: inserted, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -704,7 +706,7 @@ Establishment of Public Trust
 
 ##### 10 Independence of Public Trust in its fiduciary functions
     
-*   Despite anything in this Act or the [Crown Entities Act 2004][215], in managing and administering estates, and in fulfilling any other fiduciary obligations, Public Trust is to act in an independent manner free from any direction or other instruction from the Crown.
+*   Despite anything in this Act or the [Crown Entities Act 2004][216], in managing and administering estates, and in fulfilling any other fiduciary obligations, Public Trust is to act in an independent manner free from any direction or other instruction from the Crown.
     
     Section 10: amended, on 25 January 2005, by [section 200][213] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -764,7 +766,7 @@ Establishment of Public Trust
     
 *   (1) \[Repealed\]
     
-    (2) For the purposes of the [Public Finance Act 1989][231] and the [Crown Entities Act 2004][215], every reference to the Responsible Minister is to be read as a reference to the Minister acting with the agreement of the Minister of Finance.
+    (2) For the purposes of the [Public Finance Act 1989][231] and the [Crown Entities Act 2004][216], every reference to the Responsible Minister is to be read as a reference to the Minister acting with the agreement of the Minister of Finance.
     
     (3) \[Repealed\]
     
@@ -1073,7 +1075,7 @@ Financial provisions
     
     (4) An agreement under subsection (1)---
         
-    *   (a) is an output agreement for the purposes of the [Crown Entities Act 2004][215] in respect of any outputs covered by the agreement; and
+    *   (a) is an output agreement for the purposes of the [Crown Entities Act 2004][216] in respect of any outputs covered by the agreement; and
     
     *   (b) must comply with [section 170(2) to (5)][236] of the Crown Entities Act 2004\.
     
@@ -1146,7 +1148,7 @@ Investments
 
 ##### 49 Investment of common fund
     
-*   Money in the common fund must be invested in accordance with the provisions of the [Trustee Act 1956][216] as to the investment of trust funds, except as otherwise provided by this Act.
+*   Money in the common fund must be invested in accordance with the provisions of the [Trustee Act 1956][217] as to the investment of trust funds, except as otherwise provided by this Act.
     
     Compare: 1957 No 36 s 32(1), (4)
 
@@ -1288,7 +1290,7 @@ Investments
 
 ##### 59 Separate investments of estate money
     
-*   (1) Public Trust may, at its discretion, separately invest any estate money on account of the estate in accordance with the provisions of the [Trustee Act 1956][216] as to the investment of trust funds, rather than including it in the common fund.
+*   (1) Public Trust may, at its discretion, separately invest any estate money on account of the estate in accordance with the provisions of the [Trustee Act 1956][217] as to the investment of trust funds, rather than including it in the common fund.
     
     (2) Subsection (1) does not authorise an investment if the making of that investment, or an investment of that class, is expressly forbidden by---
         
@@ -1316,7 +1318,7 @@ Investments
         
     *   (a) in accordance with any powers or directions as to its investment contained in the instrument (if any) governing the trust; or
     
-    *   (b) to the extent that they are applicable, in accordance with the provisions of the [Trustee Act 1956][216] as to the investment of trust funds.
+    *   (b) to the extent that they are applicable, in accordance with the provisions of the [Trustee Act 1956][217] as to the investment of trust funds.
     
     (3) Immediately upon receipt of such money, Public Trust must make all reasonable efforts to invest it in accordance with subsection (2).
     
@@ -1384,9 +1386,9 @@ Investments
     
 *   (1) The funds of a group investment fund must be invested, as determined by Public Trust at the time the fund is established,---
         
-    *   (a) in any class or classes of investments authorised by the instrument (if any) creating the trust under which the money is held (whether or not those investments meet the requirements of the [Trustee Act 1956][216] as to the investment of trust funds); or
+    *   (a) in any class or classes of investments authorised by the instrument (if any) creating the trust under which the money is held (whether or not those investments meet the requirements of the [Trustee Act 1956][217] as to the investment of trust funds); or
     
-    *   (b) in accordance with the provisions of the [Trustee Act 1956][216] as to the investment of trust funds.
+    *   (b) in accordance with the provisions of the [Trustee Act 1956][217] as to the investment of trust funds.
     
     (2) Any profit or loss upon the realisation of any investment in a group investment fund is to be credited or debited to the group investment fund.
     
@@ -2209,9 +2211,9 @@ Unclaimed property
     
     *   (i) in the name of the owner, or in Public Trust's own name, bring any action or other proceeding relating to the property, and defend, confess, compromise, or submit to judgment in any action, claim, demand, or proceeding touching the property:
     
-    *   (j) exercise as if it were the trustee of the property all powers that, as trustee, it could exercise without court consent under the [Trustee Act 1956][216] or any other enactment or law:
+    *   (j) exercise as if it were the trustee of the property all powers that, as trustee, it could exercise without court consent under the [Trustee Act 1956][217] or any other enactment or law:
     
-    *   (k) exercise in respect of the property all other powers that may be conferred on it by the court (whether or not powers that could be conferred on a trustee under the [Trustee Act 1956][216] or any other enactment or law):
+    *   (k) exercise in respect of the property all other powers that may be conferred on it by the court (whether or not powers that could be conferred on a trustee under the [Trustee Act 1956][217] or any other enactment or law):
     
     *   (l) pay or retain expenditure incurred by it as manager of the property and fees, remuneration, and charges in accordance with [sections 122 to 125][144].
     
@@ -3326,7 +3328,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Administration Act 1969 (1969 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][217]_.
+_Amendment(s) incorporated in the [Act(s)][218]_.
 
 ##### Archives Act 1957 (1957 No 13)
 
@@ -3570,7 +3572,7 @@ _Amendment(s) incorporated in the [Act(s)][328]_.
 
 ##### Trustee Act 1956 (1956 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][216]_.
+_Amendment(s) incorporated in the [Act(s)][217]_.
 
 ##### Trustee Companies Management Act 1975 (1975 No 25)
 
@@ -3677,7 +3679,7 @@ _Amendment(s) incorporated in the [regulations][344]_.
 
 ###### 1 General
     
-*   This is a reprint of the Public Trust Act 2001\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Public Trust Act 2001\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][345] ![](/images/external_link.gif).
 
@@ -3724,7 +3726,9 @@ _Amendment(s) incorporated in the [regulations][344]_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Limitation Act 2010 (2010 No 110): [section 58][266]
+*   Crown Entities Amendment Act 2013 (2013 No 51): [section 42][214]
+    
+    Limitation Act 2010 (2010 No 110): [section 58][266]
     
     Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 14][242]
     
@@ -3732,7 +3736,7 @@ _Amendment(s) incorporated in the [regulations][344]_.
     
     Wills Act 2007 (2007 No 36): [section 41][256]
     
-    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 229][214], [230][247]
+    Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 229][215], [230][247]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][350]
     
@@ -3958,18 +3962,18 @@ _Amendment(s) incorporated in the [regulations][344]_.
 [205]: http://www.legislation.govt.nz/act/public/2001/0100/latest/whole.html#DLM124943
 [206]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM109320
 [207]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM135705
-[208]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329647
+[208]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329641
 [209]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM319576
 [210]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM319999
 [211]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM320102
 [212]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM320104
 [213]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM331111
-[214]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM401677
-[215]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329630
-[216]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM304703
-[217]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392629
-[218]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330345
-[219]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329641
+[214]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM5326977
+[215]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM401677
+[216]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329630
+[217]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM304703
+[218]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM392629
+[219]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM330345
 [220]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329954
 [221]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329955
 [222]: http://www.legislation.govt.nz/act/public/2001/0100/latest/link.aspx?id=DLM329964
