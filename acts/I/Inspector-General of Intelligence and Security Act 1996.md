@@ -1,5 +1,5 @@
 Reprint  
-as at 13 July 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Department of the Prime Minister and Cabinet.
 
@@ -25,83 +25,83 @@ This Act is administered by the Department of the Prime Minister and Cabinet.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Object][5]
+[4][5][][5][Object][5]
 
 [Inspector-General of Intelligence and Security][6]
 
-[5][7] [Inspector-General of Intelligence and Security][7]
+[5][7][][7][Inspector-General of Intelligence and Security][7]
 
-[6][8] [Term of office][8]
+[6][8][][8][Term of office][8]
 
-[7][9] [Removal of Inspector-General][9]
+[7][9][][9][Removal of Inspector-General][9]
 
-[8][10] [Remuneration and allowances][10]
+[8][10][][10][Remuneration and allowances][10]
 
-[9][11] [Disclosure of interests][11]
+[9][11][][11][Disclosure of interests][11]
 
-[10][12] [Staff][12]
+[10][12][][12][Staff][12]
 
 [Functions of Inspector-General][13]
 
-[11][14] [Functions of Inspector-General][14]
+[11][14][][14][Functions of Inspector-General][14]
 
-[12][15] [Consultation][15]
+[12][15][][15][Consultation][15]
 
-[13][16] [Requirements of security][16]
+[13][16][][16][Requirements of security][16]
 
-[14][17] [Matters occurring before commencement of Act][17]
+[14][17][][17][Matters occurring before commencement of Act][17]
 
-[15][18] [Jurisdiction of courts and other agencies not affected][18]
+[15][18][][18][Jurisdiction of courts and other agencies not affected][18]
 
 [Complaints][19]
 
-[16][20] [Mode of complaint][20]
+[16][20][][20][Mode of complaint][20]
 
-[17][21] [Power of Inspector-General to refuse to inquire into complaint][21]
+[17][21][][21][Power of Inspector-General to refuse to inquire into complaint][21]
 
-[18][22] [Disclosures to Inspector-General by employees of intelligence and security agencies][22]
+[18][22][][22][Disclosures to Inspector-General by employees of intelligence and security agencies][22]
 
 [Procedure][23]
 
-[19][24] [Proceedings of Inspector-General][24]
+[19][24][][24][Proceedings of Inspector-General][24]
 
-[20][25] [Powers in relation to security records][25]
+[20][25][][25][Powers in relation to security records][25]
 
-[21][26] [Power of entry][26]
+[21][26][][26][Power of entry][26]
 
-[22][27] [Power to hear evidence in private][27]
+[22][27][][27][Power to hear evidence in private][27]
 
-[23][28] [Powers of Inspector-General in relation to inquiries][28]
+[23][28][][28][Powers of Inspector-General in relation to inquiries][28]
 
-[24][29] [Proceedings privileged][29]
+[24][29][][29][Proceedings privileged][29]
 
-[25][30] [Reports in relation to inquiries][30]
+[25][30][][30][Reports in relation to inquiries][30]
 
-[26][31] [Disclosure][31]
+[26][31][][31][Disclosure][31]
 
-[27][32] [Reports by Inspector-General][32]
+[27][32][][32][Reports by Inspector-General][32]
 
-[28][33] [Secrecy][33]
+[28][33][][33][Secrecy][33]
 
-[29][34] [Publication][34]
+[29][34][][34][Publication][34]
 
 [Amendments to Ombudsmen Act 1975][35]
 
-[30][36] [Referral of complaint to Inspector-General of Intelligence and Security][36]
+[30][36][][36][Referral of complaint to Inspector-General of Intelligence and Security][36]
 
-[31][37] [Consultation with Inspector-General of Intelligence and Security][37]
+[31][37][][37][Consultation with Inspector-General of Intelligence and Security][37]
 
 [Amendments to Privacy Act 1993][38]
 
-[32][39] [Referral of complaint to Inspector-General of Intelligence and Security][39]
+[32][39][][39][Referral of complaint to Inspector-General of Intelligence and Security][39]
 
-[33][40] [Consultation with Inspector-General of Intelligence and Security][40]
+[33][40][][40][Consultation with Inspector-General of Intelligence and Security][40]
 
 ---
 
@@ -195,9 +195,11 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The Governor-General may from time to time by Order in Council declare any agency to be an intelligence and security agency for the purposes of this Act.
     
-    (3) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purposes of the [Acts and Regulations Publication Act 1989][48] and the [Regulations (Disallowance) Act 1989][49].
+    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][48] and must be presented to the House of Representatives under [section 41][49] of that Act.
     
     Section 2(1) **overseas person**: amended, on 25 August 2005, by [section 75][50] of the Overseas Investment Act 2005 (2005 No 82).
+    
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][51] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Act to bind the Crown
     
@@ -243,7 +245,7 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 8 Remuneration and allowances
     
-*   There shall be paid to the Inspector-General out of public money, without further appropriation than this section, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][51], and the provisions of that Act shall apply accordingly as if the Inspector-General were a member of a statutory board and the travelling were in the service of a statutory board.
+*   There shall be paid to the Inspector-General out of public money, without further appropriation than this section, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][52], and the provisions of that Act shall apply accordingly as if the Inspector-General were a member of a statutory board and the travelling were in the service of a statutory board.
 
 ##### 9 Disclosure of interests
     
@@ -283,9 +285,9 @@ An Act to increase the level of oversight and review of intelligence and securit
         
         
     
-    *   (d) without limiting the generality of paragraph (a), to review from time to time the effectiveness and appropriateness of the procedures adopted by the New Zealand Security Intelligence Service to ensure compliance with the provisions of [sections 4A to 4G][52] of the New Zealand Security Intelligence Service Act 1969 in relation to the issue and execution of intelligence warrants:
+    *   (d) without limiting the generality of paragraph (a), to review from time to time the effectiveness and appropriateness of the procedures adopted by the New Zealand Security Intelligence Service to ensure compliance with the provisions of [sections 4A to 4G][53] of the New Zealand Security Intelligence Service Act 1969 in relation to the issue and execution of intelligence warrants:
     
-    *   (da) without limiting the generality of paragraph (a), to review the effectiveness and appropriateness of the procedures adopted by the Government Communications Security Bureau to ensure compliance with the provisions of [Part 3][53] of the Government Communications Security Bureau Act 2003 in relation to the issue and execution of interception warrants and computer access authorisations:
+    *   (da) without limiting the generality of paragraph (a), to review the effectiveness and appropriateness of the procedures adopted by the Government Communications Security Bureau to ensure compliance with the provisions of [Part 3][54] of the Government Communications Security Bureau Act 2003 in relation to the issue and execution of interception warrants and computer access authorisations:
     
     *   (e) to prepare and submit to the Minister from time to time for his or her approval programmes for the general oversight and review of each intelligence and security agency and for the discharge by the Inspector-General, in relation to each intelligence and security agency, of the particular functions specified in this section:
     
@@ -309,11 +311,11 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (6) Where an inquiry has been conducted by the Inspector-General following a complaint, the Inspector-General may make such recommendations for the redress of that complaint as the Inspector-General thinks fit (including remedies that involve the payment of compensation).
     
-    Section 11(1)(d): amended, on 13 July 2011, by [section 17(2)][54] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
+    Section 11(1)(d): amended, on 13 July 2011, by [section 17(2)][55] of the New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28).
     
-    Section 11(1)(d): amended, on 1 September 1999, by [section 8][55] of the New Zealand Security Intelligence Service Amendment (No 2) Act 1999 (1999 No 91).
+    Section 11(1)(d): amended, on 1 September 1999, by [section 8][56] of the New Zealand Security Intelligence Service Amendment (No 2) Act 1999 (1999 No 91).
     
-    Section 11(1)(da): inserted, on 2 April 2003, by [section 28][56] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 11(1)(da): inserted, on 2 April 2003, by [section 28][57] of the Government Communications Security Bureau Act 2003 (2003 No 9).
 
 ##### 12 Consultation
     
@@ -327,11 +329,11 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 14 Matters occurring before commencement of Act
     
-*   Notwithstanding any other provision of this Act, but subject to [section 8][57] of the New Zealand Security Intelligence Service Amendment Act 1996, the Inspector-General may inquire into any matter that occurred before the commencement of this Act only if---
+*   Notwithstanding any other provision of this Act, but subject to [section 8][58] of the New Zealand Security Intelligence Service Amendment Act 1996, the Inspector-General may inquire into any matter that occurred before the commencement of this Act only if---
         
     *   (a) the Prime Minister has, by notice in writing to the Inspector-General, authorised the Inspector-General to inquire into the matter; or
     
-    *   (b) the matter is one that could, before the commencement of this Act, have been inquired into by the Commissioner of Security Appeals if the complainant had made, in relation to that matter, a complaint under [section 18][58] of the New Zealand Security Intelligence Service Act 1969\.
+    *   (b) the matter is one that could, before the commencement of this Act, have been inquired into by the Commissioner of Security Appeals if the complainant had made, in relation to that matter, a complaint under [section 18][59] of the New Zealand Security Intelligence Service Act 1969\.
     
     
 
@@ -343,7 +345,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (3) Nothing in [section 12][15] shall limit the powers, duties, and responsibilities of the Controller and Auditor-General or of the Ombudsmen or of the Privacy Commissioner under any enactment.
     
-    Section 15(2): amended, on 1 October 2008, by [section 130(1)][59] of the Policing Act 2008 (2008 No 72).
+    Section 15(2): amended, on 1 October 2008, by [section 130(1)][60] of the Policing Act 2008 (2008 No 72).
 
 #### Complaints
 
@@ -353,9 +355,9 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) Every complaint shall be addressed to the Inspector-General care of the Registrar or Deputy Registrar of the High Court at Wellington, who shall forward it to the Inspector-General as soon as practicable.
     
-    (3) Notwithstanding any provision in any enactment, where any letter appearing to be written by any person in custody on a charge or after conviction of any offence, or by any patient of any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][60], is addressed to the Inspector-General, it shall be immediately forwarded, unopened, to the Inspector-General by the person for the time being in charge of the place or institution where the writer of the letter is detained or of which he or she is a patient.
+    (3) Notwithstanding any provision in any enactment, where any letter appearing to be written by any person in custody on a charge or after conviction of any offence, or by any patient of any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][61], is addressed to the Inspector-General, it shall be immediately forwarded, unopened, to the Inspector-General by the person for the time being in charge of the place or institution where the writer of the letter is detained or of which he or she is a patient.
     
-    Compare: 1969 No 24 [s 18(1), (2)][58]
+    Compare: 1969 No 24 [s 18(1), (2)][59]
 
 ##### 17 Power of Inspector-General to refuse to inquire into complaint
     
@@ -375,7 +377,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (3) In any case where the Inspector-General decides not to inquire into a complaint or proceed with his or her inquiries or in any case where the Inspector-General is precluded by [section 14][17] from inquiring into a complaint, the Inspector-General shall, as the case may require, advise the complainant of that decision or of the fact that the Inspector-General is so precluded.
     
-    Compare: 1969 No 24 [s 19][61]; 1988 No 20 [s 87][62]
+    Compare: 1969 No 24 [s 19][62]; 1988 No 20 [s 87][63]
 
 ##### 18 Disclosures to Inspector-General by employees of intelligence and security agencies
     
@@ -407,7 +409,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (9) Except on the ground of lack of jurisdiction, no proceeding, report, or finding of the Inspector-General shall be challenged, reviewed, quashed, or called in question in any court.
     
-    Compare: 1969 No 24 [s 20(1), (2), (4), (5), (9)][63]; 1977 No 50 s 11(3)
+    Compare: 1969 No 24 [s 20(1), (2), (4), (5), (9)][64]; 1977 No 50 s 11(3)
 
 ##### 20 Powers in relation to security records
     
@@ -417,7 +419,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (3) Where the Inspector-General is responsible for the production of any security records that have a security classification, the Inspector-General shall ensure that the security records are kept in safe custody in accordance with the requirements applying to the safe custody of security records in the intelligence and security agencies.
     
-    Compare: 1969 No 24 [s 20(2B)][63]; 1977 No 50 s 11(1)
+    Compare: 1969 No 24 [s 20(2B)][64]; 1977 No 50 s 11(1)
 
 ##### 21 Power of entry
     
@@ -437,7 +439,7 @@ An Act to increase the level of oversight and review of intelligence and securit
         
         
     
-    Compare: 1969 No 24 [s 20(3)][63]
+    Compare: 1969 No 24 [s 20(3)][64]
 
 ##### 23 Powers of Inspector-General in relation to inquiries
     
@@ -445,13 +447,13 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) The Inspector-General may summon and examine on oath any person who in the opinion of the Inspector-General is able to give any information relating to any matter to which an inquiry relates, and may for the purpose administer an oath to any person so summoned.
     
-    (3) Every such examination by the Inspector-General shall be deemed to be a judicial proceeding within the meaning of [section 108][64] of the Crimes Act 1961 (which relates to perjury).
+    (3) Every such examination by the Inspector-General shall be deemed to be a judicial proceeding within the meaning of [section 108][65] of the Crimes Act 1961 (which relates to perjury).
     
     (4) Subject to subsection (5), every person who appears as a witness before the Inspector-General shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in courts of law.
     
-    (5) Where any person is bound by the provisions of any enactment (being an Act of Parliament or any regulations within the meaning of the [Regulations (Disallowance) Act 1989][49] made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter, compliance by that person with a requirement of the Inspector-General (being a requirement made pursuant to subsection (1)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
+    (5) Where any person is bound by the provisions of any enactment (being an Act of Parliament or any regulations made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter, compliance by that person with a requirement of the Inspector-General (being a requirement made pursuant to subsection (1)) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
     
-    (6) Witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Summary Proceedings Act 1957][65]---
+    (6) Witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][66]---
         
     *   (a) shall be paid by the Inspector-General to any person who appears as a witness before the Inspector-General pursuant to a summons under subsection (2); and
     
@@ -461,7 +463,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (7) For the purposes of this section the Inspector-General shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
     
-    (8) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who---
+    (8) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Inspector-General or any other person in the exercise of his or her powers under this Act:
     
@@ -469,7 +471,13 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (c) wilfully makes any false statement to or misleads or attempts to mislead the Inspector-General or any other person in the exercise of his or her powers under this Act.
     
-    Compare: 1969 No 24 [s 20(6), (8)][63]; 1977 No 50 s 11(2)
+    Compare: 1969 No 24 [s 20(6), (8)][64]; 1977 No 50 s 11(2)
+    
+    Section 23(5): amended, on 5 August 2013, by [section 77(3)][51] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 23(6): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 23(8): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Proceedings privileged
     
@@ -483,15 +491,17 @@ An Act to increase the level of oversight and review of intelligence and securit
         
     *   (a) an offence against [section 28][33] of this Act; or
     
-    *   (b) an offence against [section 78][66] or [section 78A(1)][67] or [section 105][68] or [section 105A][69] or [section 105B][70] of the Crimes Act 1961; or
+    *   (b) an offence against [section 78][68] or [section 78A(1)][69] or [section 105][70] or [section 105A][71] or [section 105B][72] of the Crimes Act 1961; or
     
-    *   (c) the offence of conspiring to commit an offence against [section 78][66] or [section 78A(1)][67] or [section 105][68] or [section 105A][69] or [section 105B][70] of the Crimes Act 1961; or
+    *   (c) the offence of conspiring to commit an offence against [section 78][68] or [section 78A(1)][69] or [section 105][70] or [section 105A][71] or [section 105B][72] of the Crimes Act 1961; or
     
-    *   (d) the offence of attempting to commit an offence against [section 78][66] or [section 78A(1)][67] or [section 105][68] or [section 105A][69] or [section 105B][70] of the Crimes Act 1961\.
+    *   (d) the offence of attempting to commit an offence against [section 78][68] or [section 78A(1)][69] or [section 105][70] or [section 105A][71] or [section 105B][72] of the Crimes Act 1961\.
     
     (3) Anything said or any information given or any document or thing produced by any person in the course of any inquiry by or proceedings before the Inspector-General under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
     
-    Compare: 1969 No 24 [s 24][71]; 1987 No 8 [s 25(1)][72]; 1993 No 28 [s 129(1)][73]
+    Compare: 1969 No 24 [s 24][73]; 1987 No 8 [s 25(1)][74]; 1993 No 28 [s 129(1)][75]
+    
+    Section 23(5): amended, on 5 August 2013, by [section 77(3)][51] of the Legislation Act 2012 (2012 No 119).
 
 ##### 25 Reports in relation to inquiries
     
@@ -509,7 +519,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) on the adequacy of any remedial or preventative measures taken by an intelligence and security agency following such inquiry.
     
-    Compare: 1969 No 24 [s 21][74]; 1977 No 50 s 13
+    Compare: 1969 No 24 [s 21][76]; 1977 No 50 s 13
 
 ##### 26 Disclosure
     
@@ -547,7 +557,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     *   (b) any other person (not being, in the case of a complaint, the complainant) capable of assisting in the determination of the circumstances and information relevant to the inquiry, being circumstances and information that should not in the interests of security be disclosed in the course of or in relation to the inquiry.
     
-    Compare: 1969 No 24 [s 20A(1)][75]; 1977 No 50 s 12
+    Compare: 1969 No 24 [s 20A(1)][77]; 1977 No 50 s 12
 
 ##### 27 Reports by Inspector-General
     
@@ -583,7 +593,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (6) Where the copy supplied to the Leader of the Opposition under subsection (5) contains matter excluded by the Prime Minister, under subsection (4), from the copy laid before the House of Representatives, the Leader of the Opposition shall not disclose that matter to any other person.
     
-    (7) The Inspector-General may at any time, with the concurrence of the Prime Minister, report either generally or in respect of any particular matter to the Intelligence and Security Committee established by [section 5][76] of the Intelligence and Security Committee Act 1996\.
+    (7) The Inspector-General may at any time, with the concurrence of the Prime Minister, report either generally or in respect of any particular matter to the Intelligence and Security Committee established by [section 5][78] of the Intelligence and Security Committee Act 1996\.
 
 ##### 28 Secrecy
     
@@ -595,13 +605,15 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (2) Nothing in subsection (1) applies in relation to the disclosure or use of any information after its disclosure or use has been approved in writing by the Minister.
     
-    (3) Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000 or to both, who acts in contravention of subsection (1).
+    (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000 or to both, who acts in contravention of subsection (1).
     
-    (4) The Inspector-General and any employee of the Inspector-General shall be deemed for the purposes of [sections 105][68] and [105A][69] of the Crimes Act 1961 to be officials.
+    (4) The Inspector-General and any employee of the Inspector-General shall be deemed for the purposes of [sections 105][70] and [105A][71] of the Crimes Act 1961 to be officials.
     
     (5) No prosecution for an offence against this section shall be commenced except with the leave of the Attorney-General.
     
-    (6) _Amendment(s) incorporated in the [Act(s)][77]._
+    (6) _Amendment(s) incorporated in the [Act(s)][79]._
+    
+    Section 28(3): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Publication
     
@@ -615,7 +627,7 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (3) Every person commits an offence who publishes or broadcasts or causes to be published or broadcast or otherwise distributes or discloses any report or account in contravention of subsection (1).
     
-    (4) Every person who commits an offence against subsection (3) is liable on summary conviction---
+    (4) Every person who commits an offence against subsection (3) is liable on conviction---
         
     *   (a) in the case of a company or other corporation, to a fine not exceeding $50,000; and
     
@@ -625,7 +637,9 @@ An Act to increase the level of oversight and review of intelligence and securit
     
     (6) Nothing in this section shall restrict the broadcasting or reporting of proceedings in Parliament.
     
-    Compare: 1969 No 24 [s 23][78]; 1977 No 50 s 14
+    Compare: 1969 No 24 [s 23][80]; 1977 No 50 s 14
+    
+    Section 29(4): amended, on 1 July 2013, by [section 413][67] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Amendments to Ombudsmen Act 1975
 
@@ -641,88 +655,49 @@ An Act to increase the level of oversight and review of intelligence and securit
 
 ##### 32 Referral of complaint to Inspector-General of Intelligence and Security
     
-*   _Amendment(s) incorporated in the [Act(s)][79]._
+*   _Amendment(s) incorporated in the [Act(s)][81]._
 
 ##### 33 Consultation with Inspector-General of Intelligence and Security
     
-*   _Amendment(s) incorporated in the [Act(s)][80]._
+*   _Amendment(s) incorporated in the [Act(s)][82]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Inspector-General of Intelligence and Security Act 1996\. The reprint incorporates all the amendments to the Act as at 13 July 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][81] ![](/images/external_link.gif).
+*   This is a reprint of the Inspector-General of Intelligence and Security Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][82] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][83] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][84] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][83] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][85] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][86] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][84] and [17E][85] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][51]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][67]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28): [section 17(2)][55]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   New Zealand Security Intelligence Service Amendment Act 2011 (2011 No 28): [section 17(2)][54]
-    
-    Policing Act 2008 (2008 No 72): [section 130(1)][59]
+    Policing Act 2008 (2008 No 72): [section 130(1)][60]
     
     Overseas Investment Act 2005 (2005 No 82): [section 75][50]
     
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 28][56]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 28][57]
     
-    New Zealand Security Intelligence Service Amendment (No 2) Act 1999 (1999 No 91): [section 8][55]
+    New Zealand Security Intelligence Service Amendment (No 2) Act 1999 (1999 No 91): [section 8][56]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0047/latest/whole.html#DLM392287
 [2]: http://www.legislation.govt.nz/act/public/1996/0047/latest/whole.html#DLM392289
 [3]: http://www.legislation.govt.nz/act/public/1996/0047/latest/whole.html#DLM392290
@@ -770,41 +745,42 @@ An Act to increase the level of oversight and review of intelligence and securit
 [45]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM430983
 [46]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM357794
 [47]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM297053
-[48]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195097
-[49]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195534
+[48]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2997643
+[49]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998573
 [50]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM358540
-[51]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM264952
-[52]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM391815
-[53]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM187837
-[54]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM3390450
-[55]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM32600
-[56]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM187859
-[57]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392574
-[58]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392033
-[59]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM1102383
-[60]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM262706
-[61]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392036
-[62]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM130374
-[63]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392040
-[64]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328793
-[65]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM310742
-[66]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328526
-[67]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328528
-[68]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328753
-[69]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328755
-[70]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328758
-[71]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392056
-[72]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM101353
-[73]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM298439
-[74]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392048
-[75]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392045
-[76]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392266
-[77]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM311185
-[78]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392053
-[79]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM297450
-[80]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM298415
-[81]: http://www.pco.parliament.govt.nz/reprints/
-[82]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195439
-[83]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[84]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195468
-[85]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM195470
+[51]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998633
+[52]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM264952
+[53]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM391815
+[54]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM187837
+[55]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM3390450
+[56]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM32600
+[57]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM187859
+[58]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392574
+[59]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392033
+[60]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM1102383
+[61]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM262706
+[62]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392036
+[63]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM130374
+[64]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392040
+[65]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328793
+[66]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM3359902
+[67]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM3360714
+[68]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328526
+[69]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328528
+[70]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328753
+[71]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328755
+[72]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM328758
+[73]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392056
+[74]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM101353
+[75]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM298439
+[76]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392048
+[77]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392045
+[78]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392266
+[79]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM311185
+[80]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM392053
+[81]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM297450
+[82]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM298415
+[83]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998516
+[84]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998515
+[85]: http://www.legislation.govt.nz/act/public/1996/0047/latest/link.aspx?id=DLM2998532
+[86]: http://www.pco.parliament.govt.nz/editorial-conventions/
