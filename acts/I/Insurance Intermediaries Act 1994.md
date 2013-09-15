@@ -1,7 +1,7 @@
 Reprint  
-as at 3 December 2007
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Insurance Intermediaries Act 1994Public Act1994 No 41
 
@@ -25,57 +25,57 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Payments to insurance intermediaries][5]
 
-[4][6] [Payment by insured to intermediary to be discharge of insured's liability to insurer][6]
+[4][6][][6][Payment by insured to intermediary to be discharge of insured's liability to insurer][6]
 
-[5][7] [Payment by insurer to intermediary not to be discharge of insurer's liability to insured][7]
+[5][7][][7][Payment by insurer to intermediary not to be discharge of insurer's liability to insured][7]
 
-[6][8] [Prohibition on contracting-out][8]
+[6][8][][8][Prohibition on contracting-out][8]
 
-[7][9] [Contracts governed by foreign law][9]
+[7][9][][9][Contracts governed by foreign law][9]
 
 [Duties of brokers in relation to premiums][10]
 
-[8][11] [Duties of broker in relation to premiums][11]
+[8][11][][11][Duties of broker in relation to premiums][11]
 
-[9][12] [Payment by broker to another insurance intermediary may constitute payment to insurer][12]
+[9][12][][12][Payment by broker to another insurance intermediary may constitute payment to insurer][12]
 
-[10][13] [Duty to notify insurer if premium not paid][13]
+[10][13][][13][Duty to notify insurer if premium not paid][13]
 
-[11][14] [Notification by broker to another insurance intermediary may constitute notice to insurer][14]
+[11][14][][14][Notification by broker to another insurance intermediary may constitute notice to insurer][14]
 
-[12][15] [Lloyd's brokers][15]
+[12][15][][15][Lloyd's brokers][15]
 
 [Duties of brokers in relation to payments due to insured][16]
 
-[13][17] [Duties of broker in relation to payments due to insured][17]
+[13][17][][17][Duties of broker in relation to payments due to insured][17]
 
 [Insurance broking client accounts][18]
 
-[14][19] [Broker to operate insurance broking client account][19]
+[14][19][][19][Broker to operate insurance broking client account][19]
 
-[15][20] [Investment of broking money][20]
+[15][20][][20][Investment of broking money][20]
 
-[16][21] [Broking money not capable of being attached, etc][21]
+[16][21][][21][Broking money not capable of being attached, etc][21]
 
 [Distribution of insurance broking client account money on insolvency][22]
 
-[17][23] [Distribution of insurance broking client account money on insolvency][23]
+[17][23][][23][Distribution of insurance broking client account money on insolvency][23]
 
 [Miscellaneous provisions][24]
 
-[18][25] [Regulations][25]
+[18][25][][25][Regulations][25]
 
-[19][26] [Act not to apply to contracts of reinsurance][26]
+[19][26][][26][Act not to apply to contracts of reinsurance][26]
 
-[20][27] [Application of section 10 of Insurance Law Reform Act 1977][27]
+[20][27][][27][Application of section 10 of Insurance Law Reform Act 1977][27]
 
 ---
 
@@ -189,13 +189,15 @@ An Act to effect certain reforms in the law governing insurance intermediaries
     
     *   (c) a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insurer any remuneration payable by the insurer to the broker in relation to a contract of insurance.
     
-    (4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,---
+    (4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
     Compare: Insurance (Agents and Brokers) Act 1984 s 27(1), (2), (4), (6), (12) (Aust)
+    
+    Section 8(4): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Payment by broker to another insurance intermediary may constitute payment to insurer
     
@@ -261,13 +263,15 @@ An Act to effect certain reforms in the law governing insurance intermediaries
     
     *   (b) a broker from exercising any legal right available to the broker to deduct from any money payable by the broker to the insured any money payable by the insured to the broker in connection with a contract of insurance.
     
-    (4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,---
+    (4) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $10,000\.
     
     Compare: Insurance (Agents and Brokers) Act 1984 s 27(10), (11), (12) (Aust)
+    
+    Section 13(4): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Insurance broking client accounts
 
@@ -299,17 +303,19 @@ An Act to effect certain reforms in the law governing insurance intermediaries
     
     *   (d) otherwise in accordance with regulations made under this Act.
     
-    (6) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,---
+    (6) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
     Compare: Insurance (Agents and Brokers) Act 1984 s 26(1) (Aust)
+    
+    Section 14(6): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Investment of broking money
     
-*   (1) Subject to subsection (2), money in an insurance broking client account may be invested in accordance with the provisions of the [Trustee Act 1956][28] as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in [section 2][29] of the Securities Act 1978\.
+*   (1) Subject to subsection (2), money in an insurance broking client account may be invested in accordance with the provisions of the [Trustee Act 1956][29] as to the investment of trust funds, except that no money may be invested in equity securities within the meaning of that term in [section 2][30] of the Securities Act 1978\.
     
     (2) No money paid by or on behalf of an insured by way of premium in connection with a contract of insurance that is to be arranged or effected shall be invested until the risk to which the contract relates is accepted by or on behalf of the insurer.
     
@@ -321,13 +327,15 @@ An Act to effect certain reforms in the law governing insurance intermediaries
     
     (6) Interest or other income received by a broker from an insurance broking client account may be retained by the broker for his or her own benefit and need not be paid into an insurance broking client account.
     
-    (7) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on summary conviction,---
+    (7) Every broker commits an offence who, without reasonable excuse, fails to comply with this section and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
     Compare: Insurance (Agents and Brokers) Act 1984 s 26(4)--(8) (Aust)
+    
+    Section 15(7): amended, on 1 July 2013, by [section 413][28] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Broking money not capable of being attached, etc
     
@@ -343,15 +351,15 @@ An Act to effect certain reforms in the law governing insurance intermediaries
         
     *   (a) who has been adjudged bankrupt; or
     
-    *   (b) that is a company to which section 199N(1) of the Companies Act 1955 or [section 385(1)][30] of the Companies Act 1993 applies; or
+    *   (b) that is a company to which section 199N(1) of the Companies Act 1955 or [section 385(1)][31] of the Companies Act 1993 applies; or
     
-    *   (c) who is deceased and whose estate is being administered under [Part 6][31] of the Insolvency Act 2006; or
+    *   (c) who is deceased and whose estate is being administered under [Part 6][32] of the Insolvency Act 2006; or
     
-    *   (d) that is a corporation or an associated person or a subsidiary of a corporation to which an Order in Council made under [section 38][32] of the Corporations (Investigation and Management) Act 1989 applies; or
+    *   (d) that is a corporation or an associated person or a subsidiary of a corporation to which an Order in Council made under [section 38][33] of the Corporations (Investigation and Management) Act 1989 applies; or
     
-    *   (e) that is a registered bank or an associated person of a registered bank or a subsidiary of a registered bank to which an Order in Council made under [section 117][33] of the Reserve Bank of New Zealand Act 1989 applies.
+    *   (e) that is a registered bank or an associated person of a registered bank or a subsidiary of a registered bank to which an Order in Council made under [section 117][34] of the Reserve Bank of New Zealand Act 1989 applies.
     
-    (2) This section applies notwithstanding anything to the contrary contained in the Insolvency Act 1967 or the [Insolvency Act 2006][34] or the Companies Act 1955 or the Companies Act 1993\.
+    (2) This section applies notwithstanding anything to the contrary contained in the Insolvency Act 1967 or the [Insolvency Act 2006][35] or the Companies Act 1955 or the Companies Act 1993\.
     
     (3) Money in an insurance broking client account of a broker, and property in which money has been invested, shall be treated as though it was subject to a trust in favour of the persons entitled to the money or property, as the case may be.
     
@@ -373,9 +381,9 @@ An Act to effect certain reforms in the law governing insurance intermediaries
     
     Compare: Insurance (Agents and Brokers) Act 1984 s 28 (Aust)
     
-    Section 17(1)(c): amended, on 3 December 2007, by [section 445][35] of the Insolvency Act 2006 (2006 No 55).
+    Section 17(1)(c): amended, on 3 December 2007, by [section 445][36] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 17(2): amended, on 3 December 2007, by [section 445][35] of the Insolvency Act 2006 (2006 No 55).
+    Section 17(2): amended, on 3 December 2007, by [section 445][36] of the Insolvency Act 2006 (2006 No 55).
 
 #### Miscellaneous provisions
 
@@ -405,7 +413,7 @@ An Act to effect certain reforms in the law governing insurance intermediaries
 
 ##### 20 Application of section 10 of Insurance Law Reform Act 1977
     
-*   Nothing in [section 10][36] of the Insurance Law Reform Act 1977 (which deems a representative of an insurer to be the agent of the insurer in certain circumstances) shall limit any provisions of this Act and the provisions of this Act shall prevail in any case where they are in conflict with the provisions of that section.
+*   Nothing in [section 10][37] of the Insurance Law Reform Act 1977 (which deems a representative of an insurer to be the agent of the insurer in certain circumstances) shall limit any provisions of this Act and the provisions of this Act shall prevail in any case where they are in conflict with the provisions of that section.
 
 ---
 
@@ -423,23 +431,23 @@ An Act to effect certain reforms in the law governing insurance intermediaries
 
 ###### 1 General
     
-*   This is a reprint of the Insurance Intermediaries Act 1994\. The reprint incorporates all the amendments to the Act as at 3 December 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Insurance Intermediaries Act 1994\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][38] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][39] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][40] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][41] and [17E][42] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -470,7 +478,9 @@ An Act to effect certain reforms in the law governing insurance intermediaries
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Insolvency Act 2006 (2006 No 55): [section 445][35]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][28]
+    
+    Insolvency Act 2006 (2006 No 55): [section 445][36]
 
 
 
@@ -502,17 +512,18 @@ An Act to effect certain reforms in the law governing insurance intermediaries
 [25]: http://www.legislation.govt.nz/act/public/1994/0041/latest/whole.html#DLM331881
 [26]: http://www.legislation.govt.nz/act/public/1994/0041/latest/whole.html#DLM331882
 [27]: http://www.legislation.govt.nz/act/public/1994/0041/latest/whole.html#DLM331883
-[28]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM304703
-[29]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM26805
-[30]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM323259
-[31]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM387732
-[32]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM144942
-[33]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM201224
-[34]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM385298
-[35]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM387857
-[36]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM442556
-[37]: http://www.pco.parliament.govt.nz/reprints/
-[38]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195439
-[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[40]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195468
-[41]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195470
+[28]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM3360714
+[29]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM304703
+[30]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM26805
+[31]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM323259
+[32]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM387732
+[33]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM144942
+[34]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM201224
+[35]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM385298
+[36]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM387857
+[37]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM442556
+[38]: http://www.pco.parliament.govt.nz/reprints/
+[39]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195439
+[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[41]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195468
+[42]: http://www.legislation.govt.nz/act/public/1994/0041/latest/link.aspx?id=DLM195470
