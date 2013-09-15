@@ -1,7 +1,7 @@
 Reprint  
-as at 29 November 2010
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Government Communications Security Bureau Act 2003Public Act2003 No 9
 
@@ -23,97 +23,97 @@ This Act is administered by the Government Communications Security Bureau.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Organisation, objectives, and functions of Bureau][7]
 
-[6][8] [Bureau continued and established as department][8]
+[6][8][][8][Bureau continued and established as department][8]
 
-[7][9] [Objective of Bureau][9]
+[7][9][][9][Objective of Bureau][9]
 
-[8][10] [Functions of Bureau][10]
+[8][10][][10][Functions of Bureau][10]
 
-[9][11] [Director of Bureau][11]
+[9][11][][11][Director of Bureau][11]
 
-[10][12] [Acting Director][12]
+[10][12][][12][Acting Director][12]
 
-[11][13] [Prohibition on unauthorised disclosure of information][13]
+[11][13][][13][Prohibition on unauthorised disclosure of information][13]
 
-[12][14] [Annual report][14]
+[12][14][][14][Annual report][14]
 
 [Part 3][15]  
 [Interception of communications][15]
 
 [Purpose of Part][16]
 
-[13][17] [Purpose of Part][17]
+[13][17][][17][Purpose of Part][17]
 
 [Restrictions imposed on interceptions][18]
 
-[14][19] [Interceptions not to target domestic communications][19]
+[14][19][][19][Interceptions not to target domestic communications][19]
 
-[15][20] [Interceptions for which warrant or authorisation required][20]
+[15][20][][20][Interceptions for which warrant or authorisation required][20]
 
-[16][21] [Certain interceptions permitted without interception warrant or computer access authorisation][21]
+[16][21][][21][Certain interceptions permitted without interception warrant or computer access authorisation][21]
 
 [Interception warrants][22]
 
-[17][23] [Issue of interception warrant][23]
+[17][23][][23][Issue of interception warrant][23]
 
-[18][24] [Persons acting under warrant][24]
+[18][24][][24][Persons acting under warrant][24]
 
 [Computer access authorisation][25]
 
-[19][26] [Authorisation to access computer system][26]
+[19][26][][26][Authorisation to access computer system][26]
 
 [Provisions applicable to warrants, authorisations, and powers under section 16][27]
 
-[20][28] [Director's functions in relation to warrants and authorisations not to be delegated][28]
+[20][28][][28][Director's functions in relation to warrants and authorisations not to be delegated][28]
 
-[21][29] [Action taken in accordance with warrant or authorisation justified][29]
+[21][29][][29][Action taken in accordance with warrant or authorisation justified][29]
 
-[22][30] [Term of warrant or authorisation][30]
+[22][30][][30][Term of warrant or authorisation][30]
 
-[23][31] [Destruction of irrelevant records obtained by interception][31]
+[23][31][][31][Destruction of irrelevant records obtained by interception][31]
 
-[24][32] [Duty to minimise impact of interception on third parties][32]
+[24][32][][32][Duty to minimise impact of interception on third parties][32]
 
-[25][33] [Prevention or detection of serious crime][33]
+[25][33][][33][Prevention or detection of serious crime][33]
 
 [Part 4][34]  
 [Provisions relating to other enactments][34]
 
-[26][35] [Amendment to Crimes Act 1961][35]
+[26][35][][35][Amendment to Crimes Act 1961][35]
 
-[27][36] [Amendment to Higher Salaries Commission Act 1977][36]
+[27][36][][36][Amendment to Higher Salaries Commission Act 1977][36]
 
-[28][37] [Amendment to Inspector-General of Intelligence and Security Act 1996][37]
+[28][37][][37][Amendment to Inspector-General of Intelligence and Security Act 1996][37]
 
-[29][38] [Amendment to New Zealand Security Intelligence Service Act 1969][38]
+[29][38][][38][Amendment to New Zealand Security Intelligence Service Act 1969][38]
 
-[30][39] [Amendment to Official Information Act 1982][39]
+[30][39][][39][Amendment to Official Information Act 1982][39]
 
-[31][40] [Amendment to Public Finance Act 1989][40]
+[31][40][][40][Amendment to Public Finance Act 1989][40]
 
-[32][41] [Amendment to Radiocommunications Act 1989][41]
+[32][41][][41][Amendment to Radiocommunications Act 1989][41]
 
-[33][42] [Amendments to State Sector Act 1988][42]
+[33][42][][42][Amendments to State Sector Act 1988][42]
 
-[34][43] [Certain provisions of State Sector Act 1988 not to apply][43]
+[34][43][][43][Certain provisions of State Sector Act 1988 not to apply][43]
 
-[35][44] [Revocation][44]
+[35][44][][44][Revocation][44]
 
 ---
 
@@ -216,11 +216,15 @@ Preliminary provisions
     
     _serious crime_ means,---
         
-    *   (a) in relation to New Zealand, any indictable offence; and
+    *   (a) in relation to New Zealand, any offence punishable by 2 or more years' imprisonment; and
     
-    *   (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an indictable offence.
+    *   (b) in relation to an overseas country, any offence that, if it occurred in New Zealand, would be an offence punishable by 2 or more years' imprisonment.
     
     Section 4 **permanent resident**: amended, at 2 am on 29 November 2010, by [section 406(1)][48] of the Immigration Act 2009 (2009 No 51).
+    
+    Section 4 **serious crime** paragraph (a): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 4 **serious crime** paragraph (b): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Act binds the Crown
     
@@ -309,7 +313,7 @@ Organisation, objectives, and functions of Bureau
     
 *   (1) The Director of the Bureau is appointed by the Governor-General.
     
-    (2) The remuneration of the Director is determined by the Higher Salaries Commission under the [Higher Salaries Commission Act 1977][49].
+    (2) The remuneration of the Director is determined by the Higher Salaries Commission under the [Higher Salaries Commission Act 1977][50].
     
     (3) The Director holds office during the pleasure of the Governor-General and is subject to any conditions (other than remuneration) determined by the Minister.
     
@@ -335,15 +339,17 @@ Organisation, objectives, and functions of Bureau
     
 *   (1) A person who is or was an employee of the Bureau may not disclose or use any information gained by or conveyed to the person through the person's connection with the Bureau except in the strict course of the person's official duties or as authorised by the Minister.
     
-    (2) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 who contravenes subsection (1).
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 who contravenes subsection (1).
     
-    Compare: 1969 No 24 [s 12A(1), (4)][50]
+    Compare: 1969 No 24 [s 12A(1), (4)][51]
+    
+    Section 11(2): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Annual report
     
-*   (1) As soon as practicable after each year ending on 30 June, the Director must deliver to the Minister a report on the activities of the Bureau during that year as if it were an annual report under the [Public Finance Act 1989][51].
+*   (1) As soon as practicable after each year ending on 30 June, the Director must deliver to the Minister a report on the activities of the Bureau during that year as if it were an annual report under the [Public Finance Act 1989][52].
     
-    (2) When the Minister receives a copy of a report under subsection (1), the Minister must, without delay, submit a copy of the report to the members of the Intelligence and Security Committee established under the [Intelligence and Security Committee Act 1996][52].
+    (2) When the Minister receives a copy of a report under subsection (1), the Minister must, without delay, submit a copy of the report to the members of the Intelligence and Security Committee established under the [Intelligence and Security Committee Act 1996][53].
     
     (3) Within 30 sitting days after receiving the report under subsection (1), the Minister must present to the House of Representatives a copy of the report that accords with any directions given under subsection (4), and includes---
         
@@ -361,7 +367,7 @@ Organisation, objectives, and functions of Bureau
         
         
     
-    (4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the material referred to in [section 45E(1)(c)(i)][53] of the Public Finance Act 1989 and subsection (3)(b) to (d)) be deleted from the report if the Minister considers that the material is likely---
+    (4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the material referred to in [section 45E(1)(c)(i)][54] of the Public Finance Act 1989 and subsection (3)(b) to (d)) be deleted from the report if the Minister considers that the material is likely---
         
     *   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
     
@@ -373,13 +379,13 @@ Organisation, objectives, and functions of Bureau
     
     *   (e) to prejudice unreasonably the privacy of an individual.
     
-    Compare: 1969 No 24 [s 4J][54]
+    Compare: 1969 No 24 [s 4J][55]
     
-    Section 12(1): amended, on 25 January 2005, by [section 37(1)][55] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 12(1): amended, on 25 January 2005, by [section 37(1)][56] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 12(3)(a): repealed, on 25 January 2005, by [section 37(1)][55] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 12(3)(a): repealed, on 25 January 2005, by [section 37(1)][56] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 12(4): amended, on 25 January 2005, by [section 37(1)][55] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 12(4): amended, on 25 January 2005, by [section 37(1)][56] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 3  
 Interception of communications
@@ -468,7 +474,7 @@ Interception of communications
     
     (6) This section is subject to [section 14][19].
     
-    Compare: 1969 No 24 [ss 4A(2)--(5)][56], [4B(3)][57]
+    Compare: 1969 No 24 [ss 4A(2)--(5)][57], [4B(3)][58]
 
 ##### 18 Persons acting under warrant
     
@@ -486,7 +492,7 @@ Interception of communications
     
     *   (c) by adding any person or class of persons to the persons requested under subsection (2).
     
-    Compare: 1969 No 24 [s 4D][58]
+    Compare: 1969 No 24 [s 4D][59]
 
 #### Computer access authorisation
 
@@ -514,7 +520,7 @@ Interception of communications
 
 ##### 20 Director's functions in relation to warrants and authorisations not to be delegated
     
-*   Despite [section 41][59] of the State Sector Act 1988, the Director may not delegate to any person the Director's functions under [section 17][23] or [section 19][26].
+*   Despite [section 41][60] of the State Sector Act 1988, the Director may not delegate to any person the Director's functions under [section 17][23] or [section 19][26].
 
 ##### 21 Action taken in accordance with warrant or authorisation justified
     
@@ -522,7 +528,7 @@ Interception of communications
     
     (2) In any proceedings, a certificate by the Attorney-General as to any matters specified in a warrant or authorisation is sufficient evidence of those matters and, if such a certificate is produced, it is not necessary to produce the warrant or authorisation to which the certificate relates.
     
-    Compare: 1969 No 24 [s 4A(6), (7)][56]
+    Compare: 1969 No 24 [s 4A(6), (7)][57]
 
 ##### 22 Term of warrant or authorisation
     
@@ -530,7 +536,7 @@ Interception of communications
     
     (2) The expiry of an interception warrant or of an authorisation does not prevent a further application for an interception warrant or an authorisation in respect of the same subject matter.
     
-    Compare: 1969 No 24 [s 4C][60]
+    Compare: 1969 No 24 [s 4C][61]
 
 ##### 23 Destruction of irrelevant records obtained by interception
     
@@ -540,62 +546,64 @@ Interception of communications
     
     *   (b) any of the Bureau's functions under [section 8][10].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who knowingly fails to comply with subsection (1).
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who knowingly fails to comply with subsection (1).
     
-    Compare: 1969 No 24 [s 4G][61]
+    Compare: 1969 No 24 [s 4G][62]
+    
+    Section 23(2): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Duty to minimise impact of interception on third parties
     
 *   Every person who, in accordance with [section 16][21] or with an interception warrant or with a computer access authorisation, intercepts or assists in intercepting the communications of 1 or more persons must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting communications that are not relevant to the persons whose communications are to be intercepted.
     
-    Compare: 1969 No 24 [s 4F(1)][62]
+    Compare: 1969 No 24 [s 4F(1)][63]
 
 ##### 25 Prevention or detection of serious crime
     
 *   Despite [section 23][31], the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Bureau and may communicate that information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
     
-    Compare: 1969 No 24 [s 4H][63]
+    Compare: 1969 No 24 [s 4H][64]
     
-    Section 25: amended, on 1 October 2008, by [section 130(1)][64] of the Policing Act 2008 (2008 No 72).
+    Section 25: amended, on 1 October 2008, by [section 130(1)][65] of the Policing Act 2008 (2008 No 72).
 
 ## Part 4  
 Provisions relating to other enactments
 
 ##### 26 Amendment to Crimes Act 1961
     
-*   _Amendment(s) incorporated in the [Act(s)][65]_.
+*   _Amendment(s) incorporated in the [Act(s)][66]_.
 
 ##### 27 Amendment to Higher Salaries Commission Act 1977
     
-*   _Amendment(s) incorporated in the [Act(s)][49]_.
+*   _Amendment(s) incorporated in the [Act(s)][50]_.
 
 ##### 28 Amendment to Inspector-General of Intelligence and Security Act 1996
     
-*   _Amendment(s) incorporated in the [Act(s)][66]_.
+*   _Amendment(s) incorporated in the [Act(s)][67]_.
 
 ##### 29 Amendment to New Zealand Security Intelligence Service Act 1969
     
-*   _Amendment(s) incorporated in the [Act(s)][54]_.
+*   _Amendment(s) incorporated in the [Act(s)][55]_.
 
 ##### 30 Amendment to Official Information Act 1982
     
-*   _Amendment(s) incorporated in the [Act(s)][67]_.
+*   _Amendment(s) incorporated in the [Act(s)][68]_.
 
 ##### 31 Amendment to Public Finance Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][68]_.
+*   _Amendment(s) incorporated in the [Act(s)][69]_.
 
 ##### 32 Amendment to Radiocommunications Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][69]_.
+*   _Amendment(s) incorporated in the [Act(s)][70]_.
 
 ##### 33 Amendments to State Sector Act 1988
     
-*   _Amendment(s) incorporated in the [Act(s)][70]_.
+*   _Amendment(s) incorporated in the [Act(s)][71]_.
 
 ##### 34 Certain provisions of State Sector Act 1988 not to apply
     
-*   [Sections 30][71], [40][72], [58(2)][73], and [68][74] of the State Sector Act 1988 do not apply to the Government Communications Security Bureau.
+*   [Sections 30][72], [40][73], [58(2)][74], and [68][75] of the State Sector Act 1988 do not apply to the Government Communications Security Bureau.
 
 ##### 35 Revocation
     
@@ -617,23 +625,23 @@ Provisions relating to other enactments
 
 ###### 1 General
     
-*   This is a reprint of the Government Communications Security Bureau Act 2003\. The reprint incorporates all the amendments to the Act as at 29 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Government Communications Security Bureau Act 2003\. The reprint incorporates all the amendments to the Act as at 1 July 2013 as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][75] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][76] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][76] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][77] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][77] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][78] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][78] and [17E][79] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][79] and [17E][80] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -664,11 +672,13 @@ Provisions relating to other enactments
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Immigration Act 2009 (2009 No 51):[section 406(1)][48]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
     
-    Policing Act 2008 (2008 No 72): [section 130(1)][64]
+    Immigration Act 2009 (2009 No 51):[section 406(1)][48]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][55]
+    Policing Act 2008 (2008 No 72): [section 130(1)][65]
+    
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][56]
 
 
 
@@ -721,34 +731,35 @@ Provisions relating to other enactments
 [46]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM124974
 [47]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM1440300
 [48]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM1441347
-[49]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM15636
-[50]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392015
-[51]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM160808
-[52]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392241
-[53]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM162700
-[54]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391865
-[55]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM328867
-[56]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391815
-[57]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391837
-[58]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391846
-[59]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129566
-[60]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391843
-[61]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391855
-[62]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391853
-[63]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391857
-[64]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM1102383
-[65]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM327381
-[66]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392526
-[67]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM65921
-[68]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM162412
-[69]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195575
-[70]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129109
-[71]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129509
-[72]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129562
-[73]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129733
-[74]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129766
-[75]: http://www.pco.parliament.govt.nz/reprints/
-[76]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195439
-[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[78]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195468
-[79]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195470
+[49]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM3360714
+[50]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM15636
+[51]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392015
+[52]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM160808
+[53]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392241
+[54]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM162700
+[55]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391865
+[56]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM328867
+[57]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391815
+[58]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391837
+[59]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391846
+[60]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129566
+[61]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391843
+[62]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391855
+[63]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391853
+[64]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM391857
+[65]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM1102383
+[66]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM327381
+[67]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM392526
+[68]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM65921
+[69]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM162412
+[70]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195575
+[71]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129109
+[72]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129509
+[73]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129562
+[74]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129733
+[75]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM129766
+[76]: http://www.pco.parliament.govt.nz/reprints/
+[77]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195439
+[78]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[79]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195468
+[80]: http://www.legislation.govt.nz/act/public/2003/0009/latest/link.aspx?id=DLM195470
