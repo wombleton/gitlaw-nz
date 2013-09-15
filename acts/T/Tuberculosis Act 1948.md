@@ -1,5 +1,5 @@
 Reprint  
-as at 24 January 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -96,7 +96,7 @@ This Act is administered by the Ministry of Health.
 
 [26][34][][34][General penalty for offences][34]
 
-[27][35][][35][Offences punishable summarily][35]
+[27][35][][35][Offences punishable summarily][35] \[Repealed\]
 
 [28][36][][36][Service of notices][36]
 
@@ -571,9 +571,9 @@ Miscellaneous
 
 ##### 27 Offences punishable summarily
     
-*   All proceedings in respect of offences against this Act or against any regulations made under or pursuant to this Act shall be taken in a summary way under the [Summary Proceedings Act 1957][56].
+*   \[Repealed\]
     
-    Section 27: amended, on 1 April 1958, pursuant to [section 214(1)][57] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 27: repealed, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Service of notices
     
@@ -637,7 +637,7 @@ Miscellaneous
     
     Section 30(2)(l): amended, on 21 November 1973, by section 3(2) of the Tuberculosis Amendment Act 1973 (1973 No 97).
     
-    Section 30(3): repealed, on 19 December 1989, by [section 11][58] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 30(3): repealed, on 19 December 1989, by [section 11][57] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ---
 
@@ -655,23 +655,23 @@ Miscellaneous
 
 ###### 1 General
     
-*   This is a reprint of the Tuberculosis Act 1948\. The reprint incorporates all the amendments to the Act as at 24 January 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Tuberculosis Act 1948\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][58] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][59] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][60] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][61] and [17E][62] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -702,7 +702,9 @@ Miscellaneous
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][47]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][56]
+    
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][47]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][45]
     
@@ -716,7 +718,7 @@ Miscellaneous
     
     Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][42]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][58]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][57]
     
     Education Act 1989 (1989 No 80): [section 144(2)][55]
     
@@ -731,8 +733,6 @@ Miscellaneous
     State Services Act 1962 (1962 No 132): section 3(10)
     
     Tuberculosis Amendment Act 1958 (1958 No 98)
-    
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][57]
     
     Tuberculosis Amendment Act 1957 (1957 No 75)
     
@@ -804,11 +804,10 @@ Miscellaneous
 [53]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM307273
 [54]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM307275
 [55]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM182047
-[56]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM310742
-[57]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM314306
-[58]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195558
-[59]: http://www.pco.parliament.govt.nz/reprints/
-[60]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195439
-[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[62]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195468
-[63]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195470
+[56]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM3360714
+[57]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195558
+[58]: http://www.pco.parliament.govt.nz/reprints/
+[59]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195439
+[60]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[61]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195468
+[62]: http://www.legislation.govt.nz/act/public/1948/0036/latest/link.aspx?id=DLM195470
