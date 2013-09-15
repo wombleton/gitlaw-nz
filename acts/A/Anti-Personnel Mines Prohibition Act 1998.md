@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Foreign Affairs and Trade.
 
@@ -254,7 +254,7 @@ Prohibitions and offences related to anti-personnel mines
     
     (2) Every person who engages in conduct prohibited by subsection (1) commits an offence.
     
-    (3) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000\.
+    (3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 7 years or a fine not exceeding $500,000\.
     
     (4) Nothing in this section limits---
         
@@ -265,6 +265,8 @@ Prohibitions and offences related to anti-personnel mines
     *   (c) the [Hazardous Substances and New Organisms Act 1996][51].
     
     Compare: Anti-Personnel Mines Convention Implementation Act 1997 ch 33 s 6(1) (Canada)
+    
+    Section 7(3): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Exceptions to prohibitions
     
@@ -305,13 +307,13 @@ Seizure, forfeiture, and deactivation or destruction of anti-personnel mines
         
         
     
-    Compare: 1996 No 37 [s 7][55]; Anti-Personnel Mines Convention Implementation Act 1997 ch 33 ss 8, 9 (Canada)
+    Compare: 1996 No 37 [s 7][56]; Anti-Personnel Mines Convention Implementation Act 1997 ch 33 ss 8, 9 (Canada)
 
 ##### 10 Application of Customs and Excise Act 1996
     
-*   All the provisions of the [Customs and Excise Act 1996][56] that apply to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][57] of that Act) apply to anti-personnel mines whose importation and exportation is prohibited by [section 7(1)(d)][13] of this Act, in all respects as if the importation and exportation of those mines were prohibited under [Part 5][58] of the Customs and Excise Act 1996\.
+*   All the provisions of the [Customs and Excise Act 1996][57] that apply to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][58] of that Act) apply to anti-personnel mines whose importation and exportation is prohibited by [section 7(1)(d)][13] of this Act, in all respects as if the importation and exportation of those mines were prohibited under [Part 5][59] of the Customs and Excise Act 1996\.
     
-    Compare: 1996 No 37 [s 11][59]
+    Compare: 1996 No 37 [s 11][60]
 
 ##### 11 Minister may authorise anti-personnel mines for certain purposes
     
@@ -338,7 +340,7 @@ Information and documents
     
     (2) Any power under this Part may be exercised only for that purpose.
     
-    Compare: 1996 No 37 [s 12][60]
+    Compare: 1996 No 37 [s 12][61]
 
 ##### 13 Supply of information
     
@@ -356,9 +358,11 @@ Information and documents
     
     (3) Every person who, without reasonable excuse, refuses or fails to comply with subsection (1) commits an offence.
     
-    (4) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
     
-    Compare: 1996 No 37 [s 13][61]
+    Compare: 1996 No 37 [s 13][62]
+    
+    Section 13(4): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Secretary may seek information
     
@@ -380,21 +384,25 @@ Information and documents
     
     (5) The power of the Secretary under this section to require a person to give information or documents to the Secretary is in addition to any obligation to give information or documents that the person may have under [section 13][21].
     
-    Compare: 1996 No 37 [s 14][62]
+    Compare: 1996 No 37 [s 14][63]
 
 ##### 15 Failure to supply information an offence
     
 *   (1) Every person commits an offence who, without reasonable excuse, fails to comply with a notice under [section 14][22] to the extent that the person is capable of complying with it.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 15(2): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 False or misleading statements and documents
     
 *   (1) Every person commits an offence who, in any document prepared under this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
     
-    Compare: 1996 No 37 [s 15][63]
+    Compare: 1996 No 37 [s 15][64]
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Fact-finding missions
@@ -411,7 +419,7 @@ Fact-finding missions
     
     *   (c) enabling New Zealand officers to accompany or assist a member of a fact-finding mission.
     
-    Compare: 1996 No 37 [s 16][64]
+    Compare: 1996 No 37 [s 16][65]
 
 #### Access by fact-finding missions
 
@@ -425,7 +433,7 @@ Fact-finding missions
     
     *   (c) exercise, in connection with the fact-finding mission, a function contemplated, or a power provided for, in the Convention.
     
-    Compare: 1996 No 37 [s 18][65]
+    Compare: 1996 No 37 [s 18][66]
 
 ##### 19 Officers who may accompany member of fact-finding mission
     
@@ -443,9 +451,11 @@ Fact-finding missions
     
     (3) Every person commits an offence who wilfully fails to comply with a direction given by the Minister under this section.
     
-    (4) Every person who commits an offence against subsection (3) is liable on summary conviction to a fine not exceeding $100,000\.
+    (4) Every person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $100,000\.
     
-    Compare: 1996 No 37 [s 20][66]
+    Compare: 1996 No 37 [s 20][67]
+    
+    Section 20(4): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### New Zealand assistance with fact-finding missions
 
@@ -453,13 +463,13 @@ Fact-finding missions
     
 *   The Minister may issue a certificate identifying any member of a fact-finding mission or any officer who may accompany a member of a fact-finding mission.
     
-    Compare: 1996 No 37 [s 22][67]
+    Compare: 1996 No 37 [s 22][68]
 
 #### Enforcement
 
 ##### 22 Search warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][68] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][69] of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds for believing that entry to a place by a member of a fact-finding mission is necessary for the purpose of exercising any function contemplated, or any power provided for, in the Convention, may issue a search warrant in respect of the place.
+*   (1) An issuing officer (within the meaning of [section 3][69] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3][70] of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds for believing that entry to a place by a member of a fact-finding mission is necessary for the purpose of exercising any function contemplated, or any power provided for, in the Convention, may issue a search warrant in respect of the place.
     
     (2) An application under subsection (1)---
         
@@ -471,13 +481,13 @@ Fact-finding missions
     
     (3) For the purposes of subsection (2)(a), _consent_ means consent to a member of a fact-finding mission, and any officer who may accompany the member, entering the place to exercise any function contemplated, or any power provided for, in the Convention.
     
-    (4) The provisions of [subparts 1][70], [3][69], [4][71], [7][72], [9][73], and [10][74] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (4) The provisions of [subparts 1][71], [3][70], [4][72], [7][73], [9][74], and [10][75] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 22(1): amended, on 1 October 2012, by [section 311(2)][75] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 22(1): amended, on 1 October 2012, by [section 311(2)][76] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 22(2)(b): repealed, on 1 October 2012, by [section 311(3)][75] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 22(2)(b): repealed, on 1 October 2012, by [section 311(3)][76] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 22(4): replaced, on 1 October 2012, by [section 311(4)][75] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 22(4): replaced, on 1 October 2012, by [section 311(4)][76] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 23 Obligations of officers accompanying member of fact-finding mission
     
@@ -507,9 +517,9 @@ Fact-finding missions
     
     (3) If an officer who is not a constable discovers any offence or suspected offence against this Act as a result of accompanying a member of a fact-finding mission on an inspection, the officer must report that offence or suspected offence to the Police as soon as practicable after the completion of that inspection.
     
-    Compare: 1996 No 37 [s 25][76]
+    Compare: 1996 No 37 [s 25][77]
     
-    Section 23(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][77] of the Policing Act 2008 (2008 No 72).
+    Section 23(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][78] of the Policing Act 2008 (2008 No 72).
 
 ##### 24 Obstruction of member of fact-finding mission
     
@@ -517,9 +527,11 @@ Fact-finding missions
     
     (2) Nothing in subsection (1) applies to a refusal to give consent to entry by a member of a fact-finding mission who is not acting pursuant to a search warrant (whether issued under [section 22][36] or otherwise).
     
-    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000\.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000\.
     
-    Compare: 1996 No 37 [s 26][78]
+    Compare: 1996 No 37 [s 26][79]
+    
+    Section 24(3): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -532,7 +544,7 @@ Miscellaneous provisions
     
     (2) A self-incriminating statement or document made or given under this Act or the Convention is not admissible as evidence in criminal proceedings against that person except on the prosecution of that person for an offence against [section 16(1)][24] in relation to that statement or document.
     
-    Compare: 1996 No 37 [s 28][79]
+    Compare: 1996 No 37 [s 28][80]
 
 #### Regulations
 
@@ -542,7 +554,7 @@ Miscellaneous provisions
         
     *   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Convention:
     
-    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
     
     *   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
@@ -552,9 +564,13 @@ Miscellaneous provisions
     
     *   (b) revoke the [Schedule][50], and substitute a new schedule setting out in an up-to-date form the text of the Convention.
     
-    (3) Any order made under subsection (2) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][80] and the [Regulations (Disallowance) Act 1989][81].
+    (3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][81] and must be presented to the House of Representatives under [section 41][82] of that Act.
     
-    Compare: 1996 No 37 [s 29][82]
+    Compare: 1996 No 37 [s 29][83]
+    
+    Section 26(1)(b): amended, on 1 July 2013, by [section 413][55] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26(3): replaced, on 5 August 2013, by [section 77(3)][84] of the Legislation Act 2012 (2012 No 119).
 
 #### Application to Tokelau
 
@@ -562,7 +578,7 @@ Miscellaneous provisions
     
 *   (1) Subject to subsections (2) to (4), this Act is in force in Tokelau.
     
-    (2) A prosecution for an offence under this Act alleged to have been committed in Tokelau is to be heard and determined by the High Court of New Zealand in the exercise of its powers under [section 3][83] of the Tokelau Amendment Act 1986\.
+    (2) A prosecution for an offence under this Act alleged to have been committed in Tokelau is to be heard and determined by the High Court of New Zealand in the exercise of its powers under [section 3][85] of the Tokelau Amendment Act 1986\.
     
     (3) An application for a search warrant under [section 22(1)][36] in respect of a place in Tokelau is to be heard and determined by a Judge of the High Court of New Zealand.
     
@@ -578,15 +594,15 @@ Miscellaneous provisions
 
 ##### 28 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][84]._
+*   _Amendment(s) incorporated in the [Act(s)][86]._
 
 ##### 29 Act to bind the Crown
     
-*   _Amendment(s) incorporated in the [Act(s)][85]._
+*   _Amendment(s) incorporated in the [Act(s)][87]._
 
 ##### 30 Further amendments to Arms Act 1983
     
-*   _Amendment(s) incorporated in the [Act(s)][86]._
+*   _Amendment(s) incorporated in the [Act(s)][88]._
 
 ---
 
@@ -595,59 +611,59 @@ Convention on the Prohibition of the Use, Stockpiling, Production and Transfer o
 
 [s 2(1)][5]
 
-*   Contents
-    
-    \[_This table is not part of the Convention and is included for convenience_\]
-    
-    Page
-    
-    Preamble 
-    
-    1\. General obligations20
-    
-    2\. Definitions21
-    
-    3\. Exceptions21
-    
-    4\. Destruction of stockpiled anti-personnel mines22
-    
-    5\. Destruction of anti-personnel mines in mined areas 22
-    
-    6\. International cooperation and assistance24
-    
-    7\. Transparency measures25
-    
-    8\. Facilitation and clarification of compliance27
-    
-    9\. National implementation measures31
-    
-    10\. Settlement of disputes32
-    
-    11\. Meetings of the States Parties32
-    
-    12\. Review Conferences33
-    
-    13\. Amendments34
-    
-    14\. Costs35
-    
-    15\. Signature35
-    
-    16\. Ratification, acceptance, approval or accession35
-    
-    17\. Entry into force36
-    
-    18\. Provisional application36
-    
-    19\. Reservations36
-    
-    20\. Duration and withdrawal36
-    
-    21\. Depositary37
-    
-    22\. Authentic texts37
-    
-    
+Contents 
+
+\[_This table is not part of the Convention and is included for convenience_\] 
+
+## 
+
+Preamble 
+
+1\. General obligations 
+
+2\. Definitions 
+
+3\. Exceptions 
+
+4\. Destruction of stockpiled anti-personnel mines 
+
+5\. Destruction of anti-personnel mines in mined areas 
+
+6\. International cooperation and assistance 
+
+7\. Transparency measures 
+
+8\. Facilitation and clarification of compliance 
+
+9\. National implementation measures 
+
+10\. Settlement of disputes 
+
+11\. Meetings of the States Parties 
+
+12\. Review Conferences 
+
+13\. Amendments 
+
+14\. Costs 
+
+15\. Signature 
+
+16\. Ratification, acceptance, approval or accession 
+
+17\. Entry into force 
+
+18\. Provisional application 
+
+19\. Reservations 
+
+20\. Duration and withdrawal 
+
+21\. Depositary 
+
+22\. Authentic texts 
+
+---
 
 *   #### Preamble
     
@@ -899,146 +915,37 @@ Authentic texts
 
 The original of this Convention, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][87].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][88] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Anti-Personnel Mines Prohibition Act 1998\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][89] ![](/images/external_link.gif).
+*   This is a reprint of the Anti-Personnel Mines Prohibition Act 1998 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][90] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][89] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][90] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][91] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][91] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][92] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][92] and [17E][93] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][84]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][55]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Search and Surveillance Act 2012 (2012 No 24): [section 311][76]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 311][75]
-    
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][77], [130(1)][52]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][78], [130(1)][52]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1998/0111/latest/whole.html#DLM17803
 [2]: http://www.legislation.govt.nz/act/public/1998/0111/latest/whole.html#DLM17805
 [3]: http://www.legislation.govt.nz/act/public/1998/0111/latest/whole.html#DLM17806
@@ -1093,42 +1000,41 @@ Amendments, repeals, and miscellaneous provisions
 [52]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM1102383
 [53]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386880
 [54]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72621
-[55]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386884
-[56]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM377336
-[57]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM379566
-[58]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM378459
-[59]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386888
-[60]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386890
-[61]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386891
-[62]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386892
-[63]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386893
-[64]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386895
-[65]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386898
-[66]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388301
-[67]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388304
-[68]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136542
-[69]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136781
-[70]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136771
-[71]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136801
-[72]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136877
-[73]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136888
-[74]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136896
-[75]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2137095
-[76]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388309
-[77]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM1102349
-[78]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388310
-[79]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388313
-[80]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195097
-[81]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195534
-[82]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388314
-[83]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM93121
-[84]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72627
-[85]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72679
-[86]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72687
-[87]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136500
-[88]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM4686448
-[89]: http://www.pco.parliament.govt.nz/reprints/
-[90]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195439
-[91]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[92]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195468
-[93]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM195470
+[55]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM3360714
+[56]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386884
+[57]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM377336
+[58]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM379566
+[59]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM378459
+[60]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386888
+[61]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386890
+[62]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386891
+[63]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386892
+[64]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386893
+[65]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386895
+[66]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM386898
+[67]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388301
+[68]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388304
+[69]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136542
+[70]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136781
+[71]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136771
+[72]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136801
+[73]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136877
+[74]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136888
+[75]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2136896
+[76]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2137095
+[77]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388309
+[78]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM1102349
+[79]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388310
+[80]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388313
+[81]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2997643
+[82]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998573
+[83]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM388314
+[84]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998633
+[85]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM93121
+[86]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72627
+[87]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72679
+[88]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM72687
+[89]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998516
+[90]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998515
+[91]: http://www.legislation.govt.nz/act/public/1998/0111/latest/link.aspx?id=DLM2998532
+[92]: http://www.pco.parliament.govt.nz/editorial-conventions/
