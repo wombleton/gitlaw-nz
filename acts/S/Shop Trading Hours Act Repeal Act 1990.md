@@ -1,5 +1,5 @@
 Reprint  
-as at 11 April 2001
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,27 +25,27 @@ This Act is administered by the Department of Labour.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Shops to be closed on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day][4]
+[3][4][][4][Shops to be closed on Anzac Day morning, Good Friday, Easter Sunday, and Christmas Day][4]
 
-[4][5] [Certain shops may remain open][5]
+[4][5][][5][Certain shops may remain open][5]
 
-[4A][6] [Garden centres may remain open on Easter Sunday][6]
+[4A][6][][6][Garden centres may remain open on Easter Sunday][6]
 
-[5][7] [Offence][7]
+[5][7][][7][Offence][7]
 
-[6][8] [Shop Trading Hours Act 1977 repealed][8]
+[6][8][][8][Shop Trading Hours Act 1977 repealed][8]
 
-[7][9] [Consequential protection for certain workers][9]
+[7][9][][9][Consequential protection for certain workers][9]
 
-[7A][10] [Further consequential protection for certain workers][10]
+[7A][10][][10][Further consequential protection for certain workers][10]
 
-[8][11] [Effect of certain provisions in leases, etc][11]
+[8][11][][11][Effect of certain provisions in leases, etc][11]
 
-[9][12] [Prosecutions][12]
+[9][12][][12][Prosecutions][12]
 
 [Schedule][13]  
 [Protective provisions][13]
@@ -156,7 +156,7 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
 
 ##### 5 Offence
     
-*   (1) The occupier of a shop that is not closed in accordance with [section 3][4] commits an offence against this Act, and is liable, on summary conviction, to a fine not exceeding $1,000\.
+*   (1) The occupier of a shop that is not closed in accordance with [section 3][4] commits an offence against this Act, and is liable, on conviction, to a fine not exceeding $1,000\.
     
     (2) For the purposes of subsection (1),---
         
@@ -180,11 +180,15 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
     
     (3) In any proceedings for an offence against this Act,---
         
-    *   (a) it is sufficient to allege in the information that a place is a shop and to state in the information the name of its ostensible occupier, or a style or title under which its occupier is usually known or carries on business; and
+    *   (a) it is sufficient to allege in the charging document that a place is a shop and to state in the charging document the name of its ostensible occupier, or a style or title under which its occupier is usually known or carries on business; and
     
-    *   (b) the information may from time to time be amended as to the actual name of the occupier of the place.
+    *   (b) the charge may from time to time be amended as to the actual name of the occupier of the place.
     
+    Section 5(1): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 5(3)(a): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 5(3)(b): amended, on 1 July 2013, by [section 413][17] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 6 Shop Trading Hours Act 1977 repealed
     
@@ -200,9 +204,9 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
     
     *   (e) the Shop Trading Hours Amendment Act 1989\.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][17]_
+    (2) _Amendment(s) incorporated in the [Act(s)][18]_
     
-    (3) _Amendment(s) incorporated in the [Act(s)][18]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][19]_.
     
     (4) _Amendment(s) incorporated in the Act(s)_.
     
@@ -316,17 +320,17 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
 
 ##### 7A Further consequential protection for certain workers
     
-*   (1) An employment agreement entered into or made before, on, or after the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][19] must not be interpreted as requiring a person who is a shop worker in a shop to which [section 4A][6] applies to work on Easter Sunday unless the parties to the employment agreement so agree.
+*   (1) An employment agreement entered into or made before, on, or after the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][20] must not be interpreted as requiring a person who is a shop worker in a shop to which [section 4A][6] applies to work on Easter Sunday unless the parties to the employment agreement so agree.
     
-    (2) Subsection (1) does not apply to an employment agreement relating to a person who is a shop worker employed to work in, or from, or in relation to, any shop that, before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][19], was entitled to be open on Easter Sunday under [section 4][5].
+    (2) Subsection (1) does not apply to an employment agreement relating to a person who is a shop worker employed to work in, or from, or in relation to, any shop that, before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][20], was entitled to be open on Easter Sunday under [section 4][5].
     
     (3) In this section,---
     
-    _employment agreement_ has the same meaning as in [section 5][20] of the Employment Relations Act 2000
+    _employment agreement_ has the same meaning as in [section 5][21] of the Employment Relations Act 2000
     
     _shop worker_ has the same meaning as in [section 7(1)][9].
     
-    Section 7A: inserted, on 11 April 2001, by [section 5][21] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
+    Section 7A: inserted, on 11 April 2001, by [section 5][22] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
 
 ##### 8 Effect of certain provisions in leases, etc
     
@@ -340,9 +344,9 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
     
     unless the shop was, on 31 July 1990, entitled to be open at that time by virtue of an authority or order under section 13(2), section 15, section 17A, or section 20, of the repealed Act.
     
-    (2A) A mandatory opening provision in a lease, licence, contract, covenant, or agreement entered into, or made before, the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][19] must not be interpreted as requiring a shop to which [section 4A][6] applies to open on Easter Sunday.
+    (2A) A mandatory opening provision in a lease, licence, contract, covenant, or agreement entered into, or made before, the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][20] must not be interpreted as requiring a shop to which [section 4A][6] applies to open on Easter Sunday.
     
-    (2B) Subsection (2A) does not apply to a shop that, before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][19], was entitled to be open on Easter Sunday under [section 4][5].
+    (2B) Subsection (2A) does not apply to a shop that, before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][20], was entitled to be open on Easter Sunday under [section 4][5].
     
     (3) In this section, _mandatory opening provision_, in relation to a shop, means a provision---
         
@@ -352,17 +356,17 @@ An Act to repeal the Shop Trading Hours Act 1977, and for incidental matters
     
     *   (c) specifying hours and days on which the shop should be open, and requiring it to be open during those hours on those days to the extent that it may lawfully be open then.
     
-    Section 8(2A): inserted, on 11 April 2001, by [section 6][22] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
+    Section 8(2A): inserted, on 11 April 2001, by [section 6][23] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
     
-    Section 8(2B): inserted, on 11 April 2001, by [section 6][22] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
+    Section 8(2B): inserted, on 11 April 2001, by [section 6][23] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
 
 ##### 9 Prosecutions
     
 *   (1) Every prosecution under the repealed Act initiated by an information laid before 1 August 1990 shall proceed as if [section 6][8] of this Act had not been enacted.
     
-    (2) Every prosecution under [section 5][7] initiated by an information laid before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][19] must proceed as if that Act had not been enacted.
+    (2) Every prosecution under [section 5][7] initiated by an information laid before the commencement of the [Shop Trading Hours Act Repeal Amendment Act 2001][20] must proceed as if that Act had not been enacted.
     
-    Section 9(2): added, on 11 April 2001, by [section 7][23] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
+    Section 9(2): added, on 11 April 2001, by [section 7][24] of the Shop Trading Hours Act Repeal Amendment Act 2001 (2001 No 16).
 
 ---
 
@@ -417,23 +421,23 @@ Protective provisions
 
 ###### 1 General
     
-*   This is a reprint of the Shop Trading Hours Act Repeal Act 1990\. The reprint incorporates all the amendments to the Act as at 11 April 2001, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Shop Trading Hours Act Repeal Act 1990\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][24] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][25] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][25] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][26] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][26] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][27] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][27] and [17E][28] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][28] and [17E][29] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -464,7 +468,9 @@ Protective provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Shop Trading Hours Act Repeal Amendment Act 2001][19] (2001 No 16)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][17]
+    
+    [Shop Trading Hours Act Repeal Amendment Act 2001][20] (2001 No 16)
 
 
 
@@ -485,15 +491,16 @@ Protective provisions
 [14]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM165115
 [15]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90158
 [16]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90159
-[17]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM379813
-[18]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM439056
-[19]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90152
-[20]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM58337
-[21]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90161
-[22]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90167
-[23]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90168
-[24]: http://www.pco.parliament.govt.nz/reprints/
-[25]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195439
-[26]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[27]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195468
-[28]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195470
+[17]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM3360714
+[18]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM379813
+[19]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM439056
+[20]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90152
+[21]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM58337
+[22]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90161
+[23]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90167
+[24]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM90168
+[25]: http://www.pco.parliament.govt.nz/reprints/
+[26]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195439
+[27]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[28]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195468
+[29]: http://www.legislation.govt.nz/act/public/1990/0057/latest/link.aspx?id=DLM195470
