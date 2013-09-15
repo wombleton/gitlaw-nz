@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 27 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2), (3)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -223,7 +223,7 @@ An Act to make official information more freely available, to provide for proper
         
     *   (a) any Act of Parliament; or
     
-    *   (b) any regulations within the meaning of the [Acts and Regulations Publication Act 1989][78] made by Order in Council
+    *   (b) any legislative instrument within the meaning of the [Legislation Act 2012][78] made by Order in Council
     
     _international organisation_ means any organisation of States or governments of States or any organ or agency of any such organisation; and includes the Commonwealth Secretariat
     
@@ -303,25 +303,33 @@ An Act to make official information more freely available, to provide for proper
         
         
     
-    *   (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the [Ombudsmen Act 1975][84], other than information that came into existence before the commencement of that investigation; and
+    *   (ha) does not include---
+            
+        *   (i) any matter subject to an order under [section 15(1)(a)][84] of the Inquiries Act 2013; or
+        
+        *   (ii) documents referred to in [section 32(2)(b)][85] of the Inquiries Act 2013; and
+        
+        
     
-    *   (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the [Privacy Act 1993][85], other than information that came into existence before the commencement of that investigation
+    *   (i) does not include information contained in any correspondence or communication which has taken place between the office of the Ombudsmen and any department or Minister of the Crown or organisation and which relates to an investigation conducted by an Ombudsman under this Act or under the [Ombudsmen Act 1975][86], other than information that came into existence before the commencement of that investigation; and
     
-    *   (k) does not include information contained in a victim impact statement (as defined in [section 22][86] of the Victims' Rights Act 2002)
+    *   (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the [Privacy Act 1993][87], other than information that came into existence before the commencement of that investigation:
+    
+    *   (k) does not include information contained in a victim impact statement (as defined in [section 22][88] of the Victims' Rights Act 2002)
     
     *   (l) does not include any evidence, submissions, or other information given or made to---
             
-        *   (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][87]; or
+        *   (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][89]; or
         
         *   (ii) the Judicial Complaints Lay Observer
         
         
     
-    _Ombudsmen_ means the Ombudsmen holding office under the [Ombudsmen Act 1975][84]
+    _Ombudsmen_ means the Ombudsmen holding office under the [Ombudsmen Act 1975][86]
     
     _organisation_ means---
         
-    *   (a) an organisation named in [Part 2][88] of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service, mortality review committees, or sponsors (within the meaning of [section 2(1)][89] of the Education Act 1989) when performing functions under the Education Act 1989 or a partnership school contract (within the meaning of section 2(1) of the Education Act 1989)):
+    *   (a) an organisation named in [Part 2][90] of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service, mortality review committees, or sponsors (within the meaning of [section 2(1)][91] of the Education Act 1989) when performing functions under the Education Act 1989 or a partnership school contract (within the meaning of section 2(1) of the Education Act 1989)):
     
     *   (b) an organisation named in [Schedule 1][74] of this Act
     
@@ -331,7 +339,7 @@ An Act to make official information more freely available, to provide for proper
     
     *   (b) is not---
             
-        *   (i) a person to whom [section 15][90] or [16][91] of the Immigration Act 2009 applies (except if the person has been granted a visa or entry permission in accordance with [section 17][92] of that Act); or
+        *   (i) a person to whom [section 15][92] or [16][93] of the Immigration Act 2009 applies (except if the person has been granted a visa or entry permission in accordance with [section 17][94] of that Act); or
         
         *   (ii) a person obliged by or under that Act to leave New Zealand immediately or within a specified time; or
         
@@ -345,9 +353,9 @@ An Act to make official information more freely available, to provide for proper
     
     _State enterprise_ means---
         
-    *   (a) an organisation that is a State enterprise within the meaning of [section 2][93] of the State-Owned Enterprises Act 1986 and that is named in [Schedule 1][74] of this Act:
+    *   (a) an organisation that is a State enterprise within the meaning of [section 2][95] of the State-Owned Enterprises Act 1986 and that is named in [Schedule 1][74] of this Act:
     
-    *   (b) an organisation that was a State enterprise within the meaning of [section 2][93] of the State-Owned Enterprises Act 1986 but which continues to be named in [Schedule 1][74] of this Act
+    *   (b) an organisation that was a State enterprise within the meaning of [section 2][95] of the State-Owned Enterprises Act 1986 but which continues to be named in [Schedule 1][74] of this Act
     
     _statutory officer_ means a person---
         
@@ -365,7 +373,7 @@ An Act to make official information more freely available, to provide for proper
         
     *   (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of that Act) of the company; or
     
-    *   (b) in the case of a company registered under the [Companies Act 1993][94], the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),---
+    *   (b) in the case of a company registered under the [Companies Act 1993][96], the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),---
     
     as the case may be.
     
@@ -395,7 +403,7 @@ An Act to make official information more freely available, to provide for proper
     
     *   (b) in relation to its judicial functions, a tribunal; or
     
-    *   (ba) in relation to its judicial functions, a Crown entity within the meaning of the [Crown Entities Act 2004][95]; or
+    *   (ba) in relation to its judicial functions, a Crown entity within the meaning of the [Crown Entities Act 2004][97]; or
     
     *   (c) a Royal Commission; or
     
@@ -403,7 +411,9 @@ An Act to make official information more freely available, to provide for proper
     
     *   (e) a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
     
-    *   (f) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel under the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][87]; or
+    *   (ea) an inquiry to which [section 6][98] of the Inquiries Act 2013 applies; or
+    
+    *   (f) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel under the [Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004][89]; or
     
     *   (g) the Judicial Complaints Lay Observer.
     
@@ -411,77 +421,81 @@ An Act to make official information more freely available, to provide for proper
     
     Section 2(1) **department**: amended, on 1 October 1985, by section 71(1) of the Parliamentary Service Act 1985 (1985 No 128).
     
-    Section 2(1) **enactment**: amended, on 19 December 1989, pursuant to [section 11][96] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 2(1) **enactment** paragraph (b): replaced, on 5 August 2013, by [section 77(3)][99] of the Legislation Act 2012 (2012 No 119).
     
-    Section 2(1) **local authority**: inserted, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 2(1) **local authority**: inserted, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 2(1) **member**: inserted, on 1 April 1987, by [section 2(1)][98] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 2(1) **member**: inserted, on 1 April 1987, by [section 2(1)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1) **official information** paragraph (c): replaced, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2(1) **official information** paragraph (c): replaced, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 2(1) **official information** paragraph (c): amended, on 1 October 2003, pursuant to [section 14(1)][100] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 2(1) **official information** paragraph (c): amended, on 1 October 2003, pursuant to [section 14(1)][103] of the State Sector Amendment Act 2003 (2003 No 41).
     
-    Section 2(1) **official information** paragraph (d): replaced, on 1 April 1987, by [section 2(2)][98] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 2(1) **official information** paragraph (d): replaced, on 1 April 1987, by [section 2(2)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(2) **official information** paragraph (d): amended, on 1 January 1990, pursuant to [section 49(6)][101] of the Education Amendment Act 1989 (1989 No 156).
+    Section 2(2) **official information** paragraph (d): amended, on 1 January 1990, pursuant to [section 49(6)][104] of the Education Amendment Act 1989 (1989 No 156).
     
-    Section 2(1) **official information** paragraph (e)(ii): amended, on 1 February 2011, by [section 18][102] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
+    Section 2(1) **official information** paragraph (e)(ii): amended, on 1 February 2011, by [section 18][105] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
     
-    Section 2(1) **official information** paragraph (e)(ii): amended, on 6 May 2003, by [section 47][103] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+    Section 2(1) **official information** paragraph (e)(ii): amended, on 6 May 2003, by [section 47][106] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
     
-    Section 2(1) **official information** paragraph (e)(iii): inserted, on 6 May 2003, by [section 47][103] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
+    Section 2(1) **official information** paragraph (e)(iii): inserted, on 6 May 2003, by [section 47][106] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19).
     
-    Section 2(1) **official information** paragraph (g): replaced, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 2(1) **official information** paragraph (g): replaced, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 2(1) **official information** paragraph (g): amended, on 1 July 2009, by [section 30(1)][105] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 2(1) **official information** paragraph (g): amended, on 1 July 2009, by [section 30(1)][108] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 2(1) **official information** paragraph (h): amended, on 1 April 1987, by [section 2(3)][98] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 2(1) **official information** paragraph (h): amended, on 1 April 1987, by [section 2(3)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1) **official information** paragraph (i): inserted, on 1 April 1987, by [section 2(4)][98] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 2(1) **official information** paragraph (ha): inserted, on 27 August 2013, by [section 39][109] of the Inquiries Act 2013 (2013 No 60).
     
-    Section 2(1) **official information** paragraph (i): amended, on 1 July 1993, by [section 2(1)][106] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 2(1) **official information** paragraph (i): inserted, on 1 April 1987, by [section 2(4)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1) **official information** paragraph (j): inserted, on 1 July 1993, by [section 2(2)][106] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 2(1) **official information** paragraph (i): amended, on 1 July 1993, by [section 2(1)][110] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 2(1) **official information** paragraph (k): inserted, on 17 December 2002, by [section 53][107] of the Victims' Rights Act 2002 (2002 No 39).
+    Section 2(1) **official information** paragraph (j): inserted, on 1 July 1993, by [section 2(2)][110] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 2(1) **official information** paragraph (l): inserted, on 1 August 2005, by [section 35(1)][108] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
+    Section 2(1) **official information** paragraph (k): inserted, on 17 December 2002, by [section 53][111] of the Victims' Rights Act 2002 (2002 No 39).
     
-    Section 2(1) **official information** paragraph (l)(i): amended, on 23 March 2010, by [section 16(2)][109] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+    Section 2(1) **official information** paragraph (l): inserted, on 1 August 2005, by [section 35(1)][112] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
     
-    Section 2(1) **organisation** paragraph (a): amended, on 13 June 2013, by [section 48][110] of the Education Amendment Act 2013 (2013 No 34).
+    Section 2(1) **official information** paragraph (l)(i): amended, on 23 March 2010, by [section 16(2)][113] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
     
-    Section 2(1) **organisation** paragraph (a): amended, on 1 July 2000, by [section 38][111] of the Parliamentary Service Act 2000 (2000 No 17).
+    Section 2(1) **organisation** paragraph (a): amended, on 13 June 2013, by [section 48][114] of the Education Amendment Act 2013 (2013 No 34).
     
-    Section 2(1) **permanent resident of New Zealand**: replaced, at 2 am on 29 November 2010, by [section 406(1)][112] of the Immigration Act 2009 (2009 No 51).
+    Section 2(1) **organisation** paragraph (a): amended, on 1 July 2000, by [section 38][115] of the Parliamentary Service Act 2000 (2000 No 17).
     
-    Section 2(1) **prohibited immigrant**: repealed, on 1 November 1987, by [section 151(1)][113] of the Immigration Act 1987 (1987 No 74).
+    Section 2(1) **permanent resident of New Zealand**: replaced, at 2 am on 29 November 2010, by [section 406(1)][116] of the Immigration Act 2009 (2009 No 51).
+    
+    Section 2(1) **prohibited immigrant**: repealed, on 1 November 1987, by [section 151(1)][117] of the Immigration Act 1987 (1987 No 74).
     
     Section 2(1) **State enterprise**: inserted, on 10 April 1992, by section 2(1) of the Official Information Amendment Act 1992 (1992 No 24).
     
     Section 2(1) **subsidiary**: repealed, on 1 April 1987, by section 2(5) of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1) **working day**: inserted, on 1 April 1987, by [section 2(5)][98] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 2(1) **working day**: inserted, on 1 April 1987, by [section 2(5)][101] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 2(1A): replaced, on 1 July 1994, by [section 2][114] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1A): replaced, on 1 July 1994, by [section 2][118] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(2): amended, on 1 January 2001, by [section 111(1)][115] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(2): amended, on 1 January 2001, by [section 111(1)][119] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 2(3): amended, on 12 December 1983, by section 2 of the Official Information Amendment Act 1983 (1983 No 83).
     
-    Section 2(4): replaced, on 1 July 1993, by [section 2(3)][106] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 2(4): replaced, on 1 July 1993, by [section 2(3)][110] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 2(4A): inserted, on 1 July 1993, by [section 2(3)][106] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 2(4A): inserted, on 1 July 1993, by [section 2(3)][110] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 2(6)(ba): inserted, on 25 January 2005, by [section 200][116] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(6)(ba): inserted, on 25 January 2005, by [section 200][120] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(6)(e): amended, on 1 August 2005, by [section 35(2)][108] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
+    Section 2(6)(e): amended, on 1 August 2005, by [section 35(2)][112] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
     
-    Section 2(6)(f): inserted, on 1 August 2005, by [section 35(2)][108] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
+    Section 2(6)(ea): inserted, on 27 August 2013, by [section 39][109] of the Inquiries Act 2013 (2013 No 60).
     
-    Section 2(6)(f): amended, on 23 March 2010, by [section 16(3)][109] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+    Section 2(6)(f): inserted, on 1 August 2005, by [section 35(2)][112] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
     
-    Section 2(6)(g): inserted, on 1 August 2005, by [section 35(2)][108] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
+    Section 2(6)(f): amended, on 23 March 2010, by [section 16(3)][113] of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5).
+    
+    Section 2(6)(g): inserted, on 1 August 2005, by [section 35(2)][112] of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38).
 
 ##### 3 Act to bind the Crown
     
@@ -546,9 +560,9 @@ Purposes and criteria
         
         
     
-    Section 6(d): replaced, on 1 April 1987, by [section 3][117] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 6(d): replaced, on 1 April 1987, by [section 3][121] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 6(e): inserted, on 1 April 1987, by [section 3][117] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 6(e): inserted, on 1 April 1987, by [section 3][121] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 7 Special reasons for withholding official information related to the Cook Islands, Tokelau, or Niue, or the Ross Dependency
     
@@ -590,7 +604,7 @@ Purposes and criteria
     
 *   \[Repealed\]
     
-    Section 8: repealed, on 1 April 1987, by [section 4(1)][118] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 8: repealed, on 1 April 1987, by [section 4(1)][122] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 9 Other reasons for withholding official information
     
@@ -612,7 +626,7 @@ Purposes and criteria
             
         *   (i) would be likely to prejudice the supply of similar information, or information from the same source, and it is in the public interest that such information should continue to be supplied; or
         
-        *   (ii) would be likely otherwise to damage the public interest; or
+        *   (ii) would be likely otherwise to damage the public interest; 
         
         
     
@@ -650,25 +664,25 @@ Purposes and criteria
     
     *   (k) prevent the disclosure or use of official information for improper gain or improper advantage.
     
-    Section 9(2): amended, on 1 April 1987, by [section 4(2)][118] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2): amended, on 1 April 1987, by [section 4(2)][122] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(b): replaced, on 1 April 1987, by [section 5(1)][119] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(b): replaced, on 1 April 1987, by [section 5(1)][123] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(ba): inserted, on 1 April 1987, by [section 5(1)][119] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(ba): inserted, on 1 April 1987, by [section 5(1)][123] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(g)(i): amended, on 1 April 1987, by [section 5(2)][119] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(g)(i): amended, on 1 April 1987, by [section 5(2)][123] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(g)(ii): amended, on 1 April 1987, by [section 5(3)][119] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(g)(ii): amended, on 1 April 1987, by [section 5(3)][123] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(i): replaced, on 1 April 1987, by [section 5(4)][120] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(i): replaced, on 1 April 1987, by [section 5(4)][124] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 9(2)(j): replaced, on 1 April 1987, by [section 5(4)][120] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 9(2)(j): replaced, on 1 April 1987, by [section 5(4)][124] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 10 Information concerning existence of certain information
     
 *   Where a request under this Act relates to information to which [section 6][8] or [section 7][9] or [section 9(2)(b)][11] applies, or would, if it existed, apply, the department or Minister of the Crown or organisation dealing with the request may, if it or he is satisfied that the interest protected by section 6 or section 7 or section 9(2)(b) would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it or he neither confirms nor denies the existence or non-existence of that information.
     
-    Section 10: amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 10: amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 11 Exclusion of public interest immunity
     
@@ -676,7 +690,7 @@ Purposes and criteria
         
     *   (a) any investigation by or proceedings before an Ombudsman; or
     
-    *   (b) any application under [section 4(1)][122] of the Judicature Amendment Act 1972 for the review of any decision under this Act;
+    *   (b) any application under [section 4(1)][126] of the Judicature Amendment Act 1972 for the review of any decision under this Act;
     
     but not so as to give any party any information that he would not, apart from this section, be entitled to.
     
@@ -686,7 +700,7 @@ Purposes and criteria
     
     *   (b) clause 8 of [Schedule 2][75]; or
     
-    *   (c) [section 20(1)][123] of the Ombudsmen Act 1975\.
+    *   (c) [section 20(1)][127] of the Ombudsmen Act 1975\.
     
     Section 11(1)(a): amended, on 1 July 1988, by [section 53(b)][73].
 
@@ -709,15 +723,15 @@ Requests for access to official information
     
     may request a department or Minister of the Crown or organisation to make available to him or it any specified official information.
     
-    (1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)(b) of [principle 6][124] of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in [Part 5][37] shall apply in relation to any such request.
+    (1A) Notwithstanding subsection (1), a request made, on or after the date of commencement of this subsection, by or on behalf of a natural person for access to any personal information which is about that person shall be deemed to be a request made pursuant to subclause (1)(b) of [principle 6][128] of the Privacy Act 1993, and shall be dealt with accordingly, and nothing in this Part or in [Part 5][37] shall apply in relation to any such request.
     
     (2) The official information requested shall be specified with due particularity in the request.
     
     (3) If the person making the request asks that his request be treated as urgent, he shall give his reasons for seeking the information urgently.
     
-    Section 12(1): replaced, on 1 April 1987, by [section 6][125] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 12(1): replaced, on 1 April 1987, by [section 6][129] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 12(1A): inserted, on 1 July 1993, by [section 3][126] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 12(1A): inserted, on 1 July 1993, by [section 3][130] of the Official Information Amendment Act 1993 (1993 No 36).
 
 ##### 13 Assistance
     
@@ -731,9 +745,9 @@ Requests for access to official information
     
     to make a request in a manner that is in accordance with that section or to direct his request to the appropriate department or Minister of the Crown or organisation or local authority.
     
-    Section 13: amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 13: amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 13(c): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 13(c): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ##### 14 Transfer of requests
     
@@ -751,11 +765,11 @@ Requests for access to official information
     
     the department or Minister of the Crown or organisation to which the request is made shall promptly, and in any case not later than 10 working days after the day on which the request is received, transfer the request to the other department or Minister of the Crown or organisation, or to that local authority, and inform the person making the request accordingly.
     
-    Section 14: replaced, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 14: replaced, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ##### 15 Decisions on requests
     
-*   (1) Subject to this Act, the department or Minister of the Crown or organisation to whom a request is made in accordance with [section 12][15] or is transferred in accordance with [section 14][17] of this Act or [section 12][127] of the Local Government Official Information and Meetings Act 1987 shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that department or Minister of the Crown or organisation,---
+*   (1) Subject to this Act, the department or Minister of the Crown or organisation to whom a request is made in accordance with [section 12][15] or is transferred in accordance with [section 14][17] of this Act or [section 12][131] of the Local Government Official Information and Meetings Act 1987 shall, as soon as reasonably practicable, and in any case not later than 20 working days after the day on which the request is received by that department or Minister of the Crown or organisation,---
         
     *   (a) decide whether the request is to be granted and, if it is to be granted, in what manner and for what charge (if any); and
     
@@ -769,21 +783,21 @@ Requests for access to official information
     
     (4) Where a request in accordance with [section 12][15] is made or transferred to a department, the decision on that request shall be made by the chief executive of that department or an officer or employee of that department authorised by that chief executive unless that request is transferred in accordance with [section 14][17] to another department or to a Minister of the Crown or to an organisation or to a local authority.
     
-    (5) Nothing in subsection (4) prevents the chief executive of a department or any officer or employee of a department from consulting a Minister of the Crown or any other person in relation to the decision that the chief executive or officer or employee proposes to make on any request made to the department in accordance with [section 12][15] of this Act or transferred to the department in accordance with [section 14][17] of this Act or [section 12][127] of the Local Government Official Information and Meetings Act 1987\.
+    (5) Nothing in subsection (4) prevents the chief executive of a department or any officer or employee of a department from consulting a Minister of the Crown or any other person in relation to the decision that the chief executive or officer or employee proposes to make on any request made to the department in accordance with [section 12][15] of this Act or transferred to the department in accordance with [section 14][17] of this Act or [section 12][131] of the Local Government Official Information and Meetings Act 1987\.
     
-    Section 15: replaced, on 1 April 1987, by [section 8(1)][128] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 15: replaced, on 1 April 1987, by [section 8(1)][132] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 15(1): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 15(1): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 15(1A): inserted, on 1 December 1989, by [section 2][129] of the Official Information Amendment Act 1989 (1989 No 122).
+    Section 15(1A): inserted, on 1 December 1989, by [section 2][133] of the Official Information Amendment Act 1989 (1989 No 122).
     
-    Section 15(4): amended, on 1 April 1988, pursuant to [section 90(d)][130] of the State Sector Act 1988 (1988 No 20).
+    Section 15(4): amended, on 1 April 1988, pursuant to [section 90(d)][134] of the State Sector Act 1988 (1988 No 20).
     
-    Section 15(4): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 15(4): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 15(5): amended, on 1 April 1988, pursuant to [section 90(d)][130] of the State Sector Act 1988 (1988 No 20).
+    Section 15(5): amended, on 1 April 1988, pursuant to [section 90(d)][134] of the State Sector Act 1988 (1988 No 20).
     
-    Section 15(5): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 15(5): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ##### 15A Extension of time limits
     
@@ -807,9 +821,9 @@ Requests for access to official information
     
     *   (d) contain such other information as is necessary.
     
-    Section 15A: inserted, on 1 April 1987, by [section 9(1)][131] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 15A: inserted, on 1 April 1987, by [section 9(1)][135] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 15A(1): amended, on 1 April 1988, pursuant to [section 90(d)][130] of the State Sector Act 1988 (1988 No 20).
+    Section 15A(1): amended, on 1 April 1988, pursuant to [section 90(d)][134] of the State Sector Act 1988 (1988 No 20).
 
 ##### 16 Documents
     
@@ -841,9 +855,9 @@ Requests for access to official information
     
     *   (b) if that person so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by [section 6][8] or [section 7][9] or [section 9][11] and (in the case of the interests protected by section 9) there is no countervailing public interest.
     
-    Section 16(2)(c): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 16(2)(c): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 16(3)(b): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 16(3)(b): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 17 Deletion of information from documents
     
@@ -855,7 +869,7 @@ Requests for access to official information
     
     *   (b) if the applicant so requests, the grounds in support of that reason, unless the giving of those grounds would itself prejudice the interests protected by [section 6][8] or [section 7][9] or [section 9][11] and (in the case of the interests protected by section 9) there is no countervailing public interest.
     
-    Section 17(2)(b): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 17(2)(b): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 18 Refusal of requests
     
@@ -877,7 +891,7 @@ Requests for access to official information
     
     *   (da) that the request is made by a defendant or a person acting on behalf of a defendant and is---
             
-        *   (i) for information that could be sought by the defendant under the [Criminal Disclosure Act 2008][132]; or
+        *   (i) for information that could be sought by the defendant under the [Criminal Disclosure Act 2008][136]; or
         
         *   (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
         
@@ -897,15 +911,15 @@ Requests for access to official information
     
     *   (h) that the request is frivolous or vexatious or that the information requested is trivial.
     
-    Section 18(a): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 18(a): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 18(c)(ii): amended, on 1 April 1987, by [section 10][133] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 18(c)(ii): amended, on 1 April 1987, by [section 10][137] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 18(da): inserted, on 29 June 2009, by [section 38][134] of the Criminal Disclosure Act 2008 (2008 No 38).
+    Section 18(da): inserted, on 29 June 2009, by [section 38][138] of the Criminal Disclosure Act 2008 (2008 No 38).
     
-    Section 18(g)(i): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 18(g)(i): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 18(g)(ii): amended, on 1 March 1988, by [section 57(1)][97] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 18(g)(ii): amended, on 1 March 1988, by [section 57(1)][100] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ##### 18A Requests involving substantial collation or research
     
@@ -921,13 +935,13 @@ Requests for access to official information
     
     *   (b) that are received simultaneously or in short succession.
     
-    Section 18A: inserted, on 22 October 2003, by [section 3][135] of the Official Information Amendment Act 2003 (2003 No 90).
+    Section 18A: inserted, on 22 October 2003, by [section 3][139] of the Official Information Amendment Act 2003 (2003 No 90).
 
 ##### 18B Duty to consider consulting person if request likely to be refused under section 18(e) or (f)
     
 *   If a request is likely to be refused under [section 18(e) or (f)][22], the department, Minister of the Crown, or organisation must, before that request is refused, consider whether consulting with the person who made the request would assist that person to make the request in a form that would remove the reason for the refusal.
     
-    Section 18B: inserted, on 22 October 2003, by [section 3][135] of the Official Information Amendment Act 2003 (2003 No 90).
+    Section 18B: inserted, on 22 October 2003, by [section 3][139] of the Official Information Amendment Act 2003 (2003 No 90).
 
 ##### 19 Reason for refusal to be given
     
@@ -943,9 +957,9 @@ Requests for access to official information
     
     *   (b) give to the applicant information concerning the applicant's right, by way of complaint under [section 28(3)][39] to an Ombudsman, to seek an investigation and review of the refusal.
     
-    Section 19(a)(ii): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 19(a)(ii): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 19(b): amended, on 1 April 1987, by [section 16(2)][136] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 19(b): amended, on 1 April 1987, by [section 16(2)][140] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ## Part 3  
 Publication of, and access to, certain documents and information
@@ -972,17 +986,17 @@ Publication of, and access to, certain documents and information
     
     (5) Where there is good reason under [section 6][8] or [section 7][9] or [section 9(2)(b)][11] for withholding official information, nothing in this section requires the publication of that official information.
     
-    Section 20: replaced, on 1 December 1989, by [section 3(1)][137] of the Official Information Amendment Act 1989 (1989 No 122).
+    Section 20: replaced, on 1 December 1989, by [section 3(1)][141] of the Official Information Amendment Act 1989 (1989 No 122).
     
-    Section 20(1): amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 20(1): amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 20(2): amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 20(2): amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 20(2A): inserted, on 22 October 2003, by [section 4][138] of the Official Information Amendment Act 2003 (2003 No 90).
+    Section 20(2A): inserted, on 22 October 2003, by [section 4][142] of the Official Information Amendment Act 2003 (2003 No 90).
     
-    Section 20(3): amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 20(3): amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 20(4): amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 20(4): amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 21 Right of access to certain official information
     
@@ -1004,7 +1018,7 @@ Publication of, and access to, certain documents and information
     
     (3) The giving of access to any official information to which subsection (2) applies shall be subject to the provisions of any regulations made under this Act.
     
-    Section 21(2): replaced, on 1 April 1987, by [section 12][139] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 21(2): replaced, on 1 April 1987, by [section 12][143] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 22 Right of access to internal rules affecting decisions
     
@@ -1042,15 +1056,15 @@ Publication of, and access to, certain documents and information
     
     *   (b) in any other fiduciary capacity.
     
-    Section 22(1): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 22(1): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 22(3): amended, on 1 April 1987, by [section 9(2)][131] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 22(3): amended, on 1 April 1987, by [section 9(2)][135] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 22(4): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 22(4): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 22(5)(b): replaced, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 22(5)(b): replaced, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 22(6): replaced, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 22(6): replaced, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 23 Right of access by person to reasons for decisions affecting that person
     
@@ -1124,21 +1138,21 @@ Publication of, and access to, certain documents and information
     
     *   (b) in any other fiduciary capacity.
     
-    (6) In subsection (2A)(b), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][140] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    (6) In subsection (2A)(b), _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][144] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
-    Section 23(1): amended, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 23(1): amended, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 23(1)(b): amended, on 1 July 1993, by [section 4(1)][118] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 23(1)(b): amended, on 1 July 1993, by [section 4(1)][122] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 23(2A): inserted, on 1 July 1993, by [section 4(2)][118] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 23(2A): inserted, on 1 July 1993, by [section 4(2)][122] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 23(2B): inserted, on 1 July 1993, by [section 4(2)][118] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 23(2B): inserted, on 1 July 1993, by [section 4(2)][122] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 23(3): amended, on 1 April 1987, by [section 9(2)][131] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 23(3): amended, on 1 April 1987, by [section 9(2)][135] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 23(5): replaced, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 23(5): replaced, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 23(6): inserted, on 18 September 2004, by [section 175(1)][141] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 23(6): inserted, on 18 September 2004, by [section 175(1)][145] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ## Part 4  
 Right of access to personal information
@@ -1169,19 +1183,19 @@ Right of access to personal information
     
     *   (b) in any other fiduciary capacity.
     
-    Section 24(1): amended, on 1 July 1993, by [section 5(1)][119] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 24(1): amended, on 1 July 1993, by [section 5(1)][123] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 24(2): replaced, on 1 July 1993, by [section 5(2)][119] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 24(2): replaced, on 1 July 1993, by [section 5(2)][123] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 24(3A): inserted, on 1 April 1987, by [section 13][142] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 24(3A): inserted, on 1 April 1987, by [section 13][146] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 24(5): replaced, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 24(5): replaced, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 24A Restriction where person sentenced to imprisonment
 
 \[Repealed\]
     
-*   Section 24A: repealed (without coming into force), on 1 July 1993, by [section 6][143] of the Official Information Amendment Act 1993 (1993 No 36).
+*   Section 24A: repealed (without coming into force), on 1 July 1993, by [section 6][147] of the Official Information Amendment Act 1993 (1993 No 36).
 
 ##### 25 Precautions
     
@@ -1253,17 +1267,17 @@ Right of access to personal information
     
     *   (c) for the purpose of deciding whether to insure any person or property or to continue or renew the insurance of any person or property.
     
-    Section 27(1)(a): replaced, on 1 April 1987, by [section 4(2)][121] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 27(1)(a): replaced, on 1 April 1987, by [section 4(2)][125] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 27(1)(d): repealed, on 1 July 1993, by [section 7(1)][144] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 27(1)(d): repealed, on 1 July 1993, by [section 7(1)][148] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 27(1)(e): repealed, on 1 July 1993, by [section 7(1)][144] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 27(1)(e): repealed, on 1 July 1993, by [section 7(1)][148] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 27(1)(f): repealed, on 1 July 1993, by [section 7(1)][144] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 27(1)(f): repealed, on 1 July 1993, by [section 7(1)][148] of the Official Information Amendment Act 1993 (1993 No 36).
     
-    Section 27(1A): inserted, on 1 April 1987, by [section 15(2)][145] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 27(1A): inserted, on 1 April 1987, by [section 15(2)][149] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 27(2): replaced, on 1 July 1993, by [section 7(2)][144] of the Official Information Act 1993 (1993 No 36).
+    Section 27(2): replaced, on 1 July 1993, by [section 7(2)][148] of the Official Information Act 1993 (1993 No 36).
 
 ## Part 5  
 Review of decisions
@@ -1292,23 +1306,23 @@ Review of decisions
     
     (5) Undue delay in making official information available in response to a request for that information, shall be deemed, for the purposes of subsection (1), to be a refusal to make that information available.
     
-    Section 28: replaced, on 1 April 1987, by [section 16(1)][136] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 28: replaced, on 1 April 1987, by [section 16(1)][140] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 28(2): amended, on 1 April 1988, pursuant to [section 90(d)][130] of the State Sector Act 1988 (1988 No 20).
+    Section 28(2): amended, on 1 April 1988, pursuant to [section 90(d)][134] of the State Sector Act 1988 (1988 No 20).
     
-    Section 28(3): replaced, on 22 October 2003, by [section 5][146] of the Official Information Amendment Act 2003 (2003 No 90).
+    Section 28(3): replaced, on 22 October 2003, by [section 5][150] of the Official Information Amendment Act 2003 (2003 No 90).
     
-    Section 28(3A): inserted, on 22 October 2003, by [section 5][146] of the Official Information Amendment Act 2003 (2003 No 90).
+    Section 28(3A): inserted, on 22 October 2003, by [section 5][150] of the Official Information Amendment Act 2003 (2003 No 90).
 
 ##### 29 Application of Ombudsmen Act 1975
     
-*   (1) Except as otherwise provided by this Act, the provisions of the [Ombudsmen Act 1975][84] shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under [Part 2][14] or [section 10][12] as if they were investigations carried out under the Ombudsmen Act 1975\.
+*   (1) Except as otherwise provided by this Act, the provisions of the [Ombudsmen Act 1975][86] shall apply in respect of investigations and other proceedings carried out under this Part in respect of decisions under [Part 2][14] or [section 10][12] as if they were investigations carried out under the Ombudsmen Act 1975\.
     
-    (2) Nothing in [sections 13][147], [14][148], and [25][149] of the Ombudsmen Act 1975 shall apply in relation to any function or power conferred on an Ombudsman by this Act or in relation to any proceeding, decision, recommendation, or act of an Ombudsman under this Act.
+    (2) Nothing in [sections 13][151], [14][152], and [25][153] of the Ombudsmen Act 1975 shall apply in relation to any function or power conferred on an Ombudsman by this Act or in relation to any proceeding, decision, recommendation, or act of an Ombudsman under this Act.
 
 ##### 29A Requirements of Ombudsman to be complied with within certain period
     
-*   (1) Subject to this section, where, during the course of an investigation, under [section 28][39], of any decision of any department or Minister of the Crown or organisation, an Ombudsman, pursuant to any power conferred on that Ombudsman by [section 19][150] of the Ombudsmen Act 1975, requires that department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation, that department, Minister of the Crown, or organisation shall, as soon as reasonably practicable, and in no case later than 20 working days after the day on which that requirement is received by that department or Minister of the Crown or organisation, comply with that requirement.
+*   (1) Subject to this section, where, during the course of an investigation, under [section 28][39], of any decision of any department or Minister of the Crown or organisation, an Ombudsman, pursuant to any power conferred on that Ombudsman by [section 19][154] of the Ombudsmen Act 1975, requires that department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation, that department, Minister of the Crown, or organisation shall, as soon as reasonably practicable, and in no case later than 20 working days after the day on which that requirement is received by that department or Minister of the Crown or organisation, comply with that requirement.
     
     (2) Where any requirement to which subsection (1) applies is made to any department or Minister of the Crown or organisation, the chief executive of that department or an officer or employee of that department authorised by that chief executive or that Minister of the Crown or that organisation may extend the time limit set out in subsection (1) in respect of that requirement if---
         
@@ -1334,15 +1348,15 @@ Review of decisions
     
     (7) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under subsection (6), make any comment that is adverse to any person unless the person has first been given an opportunity to be heard.
     
-    Section 29A: inserted, on 1 April 1987, by [section 17(1)][151] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 29A: inserted, on 1 April 1987, by [section 17(1)][155] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 29A(2): amended, on 1 April 1988, pursuant to [section 90(d)][130] of the State Sector Act 1988 (1988 No 20).
+    Section 29A(2): amended, on 1 April 1988, pursuant to [section 90(d)][134] of the State Sector Act 1988 (1988 No 20).
 
 ##### 29B Consultation with Privacy Commissioner
     
-*   Where an Ombudsman investigates a complaint made under [section 28][39] in relation to a refusal to make official information available in reliance on [section 9(2)(a)][11], the Ombudsman shall, before forming a final opinion under [section 30][43] in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the [Privacy Act 1993][85].
+*   Where an Ombudsman investigates a complaint made under [section 28][39] in relation to a refusal to make official information available in reliance on [section 9(2)(a)][11], the Ombudsman shall, before forming a final opinion under [section 30][43] in relation to the merits of refusing that request on that ground, consult with the Privacy Commissioner under the [Privacy Act 1993][87].
     
-    Section 29B: inserted, on 1 July 1993, by [section 8][152] of the Official Information Amendment Act 1993 (1993 No 36).
+    Section 29B: inserted, on 1 July 1993, by [section 8][156] of the Official Information Amendment Act 1993 (1993 No 36).
 
 ##### 30 Procedure after investigation
     
@@ -1350,7 +1364,7 @@ Review of decisions
         
     *   (a) that the request made in accordance with [section 12][15] should not have been refused; or
     
-    *   (b) that the decision complained of is unreasonable or wrong or is otherwise a decision to which subsection (1) or subsection (2) of [section 22][153] of the Ombudsmen Act 1975 applies,---
+    *   (b) that the decision complained of is unreasonable or wrong or is otherwise a decision to which subsection (1) or subsection (2) of [section 22][157] of the Ombudsmen Act 1975 applies,---
     
     the Ombudsman shall, subject to subsection (3) of this section,---
         
@@ -1368,15 +1382,15 @@ Review of decisions
     
     (2) The Ombudsman shall also---
         
-    *   (a) in the case of an investigation relating to a department or organisation named in [Part 1][77] or [Part 2][88] of Schedule 1 of the Ombudsmen Act 1975, send a copy of his report and recommendations to the Minister concerned; and
+    *   (a) in the case of an investigation relating to a department or organisation named in [Part 1][77] or [Part 2][90] of Schedule 1 of the Ombudsmen Act 1975, send a copy of his report and recommendations to the Minister concerned; and
     
     *   (b) in the case of an organisation named in [Schedule 1][74], send a copy of his report and recommendations to such Minister of the Crown as he considers appropriate.
     
     (3) Notwithstanding anything in this section, an Ombudsman shall not, in any report made under this section, make any comment that is adverse to any person unless the person has been given an opportunity to be heard.
     
-    (4) Except as provided in subsection (1), nothing in [section 22][153] of the Ombudsmen Act 1975 shall apply in respect of a decision that may be investigated and reviewed under [section 28(1)][39] or section 28(2) of this Act.
+    (4) Except as provided in subsection (1), nothing in [section 22][157] of the Ombudsmen Act 1975 shall apply in respect of a decision that may be investigated and reviewed under [section 28(1)][39] or section 28(2) of this Act.
     
-    Section 30(4): amended, on 1 April 1987, by [section 16(3)][136] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 30(4): amended, on 1 April 1987, by [section 16(3)][140] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 31 Disclosure of certain information not to be recommended
     
@@ -1396,7 +1410,7 @@ Review of decisions
 
 ##### 32 Recommendations made to department or Minister of the Crown or organisation
     
-*   (1) Where a recommendation is made under [section 30(1)][43] to a department or to an organisation named in [Part 1][77] or [Part 2][88] of Schedule 1 of the Ombudsmen Act 1975,---
+*   (1) Where a recommendation is made under [section 30(1)][43] to a department or to an organisation named in [Part 1][77] or [Part 2][90] of Schedule 1 of the Ombudsmen Act 1975,---
         
     *   (a) a public duty to observe that recommendation shall be imposed on that department or organisation from the commencement of the 21st working day after the day on which that recommendation is made to the department or organisation unless, before that day, the Governor-General, by Order in Council, otherwise directs; and
     
@@ -1434,11 +1448,11 @@ Review of decisions
     
     (5) Nothing in this section---
         
-    *   (a) limits [section 8][154] of the Judicature Amendment Act 1972; or
+    *   (a) limits [section 8][158] of the Judicature Amendment Act 1972; or
     
-    *   (b) prevents effect being given to any interim order made under [section 8][154] of the Judicature Amendment Act 1972 or to any declaration contained in any such interim order.
+    *   (b) prevents effect being given to any interim order made under [section 8][158] of the Judicature Amendment Act 1972 or to any declaration contained in any such interim order.
     
-    Section 32: replaced, on 1 April 1987, by [section 18][155] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 32: replaced, on 1 April 1987, by [section 18][159] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 32A Requirements in relation to Order in Council
     
@@ -1448,7 +1462,7 @@ Review of decisions
     
     (3) An Order in Council made under [section 32][45] in relation to a recommendation made under [section 30(1)][43] may be made for all or any of the reasons for the decision reviewed by the Ombudsman (being reasons that were before the Ombudsman when the recommendation was made) but for no other reasons.
     
-    Section 32A: inserted, on 1 April 1987, by [section 18][155] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 32A: inserted, on 1 April 1987, by [section 18][159] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 32B Right of review
     
@@ -1470,37 +1484,37 @@ Review of decisions
     
     (4) Unless the High Court is satisfied that an application brought under subsection (1) has not been reasonably or properly brought, it shall, in determining the application and irrespective of the result of the application, order that the costs of the applicant on a solicitor and client basis shall be paid by the Crown, and such costs shall be paid out of money appropriated by Parliament for the purpose.
     
-    Section 32B: inserted, on 1 April 1987, by [section 18][155] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 32B: inserted, on 1 April 1987, by [section 18][159] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 32C Appeals
     
-*   Any party to an application under [section 32B][47] who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and [section 66][156] of the Judicature Act 1908 shall apply to any such appeal.
+*   Any party to an application under [section 32B][47] who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and [section 66][160] of the Judicature Act 1908 shall apply to any such appeal.
     
-    Section 32C: inserted, on 1 April 1987, by [section 18][155] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 32C: inserted, on 1 April 1987, by [section 18][159] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 33 Complainant to be informed of result of investigation
     
 *   The Ombudsman who investigates a complaint made for the purposes of [section 28(3)][39] shall inform the complainant, in such manner and at such time as he thinks proper, of the result of the investigation.
     
-    Section 33: amended, on 1 April 1987, by [section 16(4)][136] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 33: amended, on 1 April 1987, by [section 16(4)][140] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 34 Restriction on application for review
     
 *   Where any person makes a request under this Act that official information be made available to him and a decision to which [section 28(1)][39] or section 28(2) applies is made in relation to that request, that person---
         
-    *   (a) shall not make an application under [section 4(1)][122] of the Judicature Amendment Act 1972 for the review of that decision; and
+    *   (a) shall not make an application under [section 4(1)][126] of the Judicature Amendment Act 1972 for the review of that decision; and
     
     *   (b) shall not commence any proceedings in which that decision is sought to be challenged, quashed, or called in question in any court,---
     
     unless a complaint made by that person in respect of that decision has first been determined under this Part.
     
-    Section 34: amended, on 1 April 1987, by [section 16(5)][136] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 34: amended, on 1 April 1987, by [section 16(5)][140] of the Official Information Amendment Act 1987 (1987 No 8).
 
 #### Decisions under Part 3 or Part 4
 
 ##### 35 Application of Ombudsmen Act 1975
     
-*   (1) It shall be a function of the Ombudsmen to investigate, pursuant to the [Ombudsmen Act 1975][84], any decision made under [Part 3][26] or [Part 4][31],---
+*   (1) It shall be a function of the Ombudsmen to investigate, pursuant to the [Ombudsmen Act 1975][86], any decision made under [Part 3][26] or [Part 4][31],---
         
     *   (a) including any such decision made by---
             
@@ -1512,13 +1526,13 @@ Review of decisions
     
     *   (b) not including a decision made under [section 10][12] in relation to a request made under [Part 3][26] or [Part 4][31].
     
-    (1A) The provisions of [section 29A][41], so far as they are applicable and with the necessary modifications, shall apply in respect of any requirement, made by any Ombudsman in the course of any investigation conducted pursuant to subsection (1), whereby that Ombudsman, pursuant to any power conferred on that Ombudsman by [section 19][150] of the Ombudsmen Act 1975, requires any department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation.
+    (1A) The provisions of [section 29A][41], so far as they are applicable and with the necessary modifications, shall apply in respect of any requirement, made by any Ombudsman in the course of any investigation conducted pursuant to subsection (1), whereby that Ombudsman, pursuant to any power conferred on that Ombudsman by [section 19][154] of the Ombudsmen Act 1975, requires any department or Minister of the Crown or organisation to furnish or produce to that Ombudsman any information or document or paper or thing which relates to that investigation.
     
-    (2) Where the Ombudsman, after making his investigation, forms an opinion of the kind described in subsection (1) or subsection (2) or subsection (3) of [section 22][153] of the Ombudsmen Act 1975, he shall, subject to subsection (6) of this section, report his opinion to the appropriate department or Minister of the Crown or organisation, and may make such recommendations as he thinks fit in accordance with section 22(3) of the Ombudsmen Act 1975\.
+    (2) Where the Ombudsman, after making his investigation, forms an opinion of the kind described in subsection (1) or subsection (2) or subsection (3) of [section 22][157] of the Ombudsmen Act 1975, he shall, subject to subsection (6) of this section, report his opinion to the appropriate department or Minister of the Crown or organisation, and may make such recommendations as he thinks fit in accordance with section 22(3) of the Ombudsmen Act 1975\.
     
     (3) Where a report is made under subsection (2) to a Minister of the Crown, the Ombudsman shall request the Minister of the Crown to notify the Ombudsman, within a specified time, of the steps (if any) that the Minister proposes to take to give effect to the Ombudsman's recommendations.
     
-    (4) If, within a reasonable time after the report is made under [section 22(3)][153] of the Ombudsmen Act 1975 (as applied by subsection (2) of this section), no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any department or Minister of the Crown or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
+    (4) If, within a reasonable time after the report is made under [section 22(3)][157] of the Ombudsmen Act 1975 (as applied by subsection (2) of this section), no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any department or Minister of the Crown or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
     
     (5) The Ombudsman shall attach to every report sent or made under subsection (4) a copy of any comments made by or on behalf of the department or Minister of the Crown or organisation affected.
     
@@ -1528,19 +1542,19 @@ Review of decisions
     
     (8) Undue delay in giving any person access to official information in response to a request under [Part 3][26] or [Part 4][31] for access to that information shall be deemed, for the purposes of subsection (1), to be a decision made under Part 3 or Part 4\.
     
-    Section 35(1A): inserted, on 1 April 1987, by [section 17(2)][151] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 35(1A): inserted, on 1 April 1987, by [section 17(2)][155] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 35(4): amended, on 1 April 1987, by [section 19(1)][157] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 35(4): amended, on 1 April 1987, by [section 19(1)][161] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 35(7): inserted, on 1 April 1987, by [section 19(2)][157] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 35(7): inserted, on 1 April 1987, by [section 19(2)][161] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 35(8): inserted, on 1 April 1987, by [section 19(2)][157] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 35(8): inserted, on 1 April 1987, by [section 19(2)][161] of the Official Information Amendment Act 1987 (1987 No 8).
 
 #### Saving
 
 ##### 36 Saving in respect of Ombudsmen Act 1975
     
-*   Except as expressly provided in this Act, nothing in this Act shall derogate from or limit the functions of the Ombudsmen under the [Ombudsmen Act 1975][84].
+*   Except as expressly provided in this Act, nothing in this Act shall derogate from or limit the functions of the Ombudsmen under the [Ombudsmen Act 1975][86].
 
 ## Part 6  
 Information Authority
@@ -1610,11 +1624,11 @@ Miscellaneous provisions
     
 *   The Ministry of Justice may, for the purpose of assisting any other department or any organisation to act in accordance with this Act, furnish advice or assistance or both to that other department or that organisation.
     
-    Section 46: replaced, on 1 December 1989, by [section 4][158] of the Official Information Act 1989 (1989 No 122).
+    Section 46: replaced, on 1 December 1989, by [section 4][162] of the Official Information Act 1989 (1989 No 122).
     
-    Section 46 heading: amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 46 heading: amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 46: amended, on 1 October 1995, by [section 10(3)][99] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 46: amended, on 1 October 1995, by [section 10(3)][102] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 47 Regulations
     
@@ -1630,7 +1644,7 @@ Miscellaneous provisions
     
     *   (e) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
-    Section 47(a): expired, on 1 July 1988, by [section 53(a)(iii)][159].
+    Section 47(a): expired, on 1 July 1988, by [section 53(a)(iii)][163].
 
 ##### 48 Protection against certain actions
     
@@ -1642,15 +1656,15 @@ Miscellaneous provisions
     
     (2) The making available of, or the giving of access to, any official information in consequence of a request made under this Act shall not be taken, for the purposes of the law relating to defamation or breach of confidence or infringement of copyright, to constitute an authorisation or approval of the publication of the document or of its contents by the person to whom the information is made available or the access is given.
     
-    Section 48: replaced, on 1 April 1987, by [section 21][160] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 48: replaced, on 1 April 1987, by [section 21][164] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 49 Power to amend Schedule 1 by Order in Council
     
 *   (1) Where any organisation named in [Schedule 1][74] is abolished, or its name is altered, the Governor-General may, by Order in Council, make such amendments to that schedule as may be necessary to give effect to the abolition or alteration.
     
-    (2) Every Order in Council made under subsection (1) shall be deemed to be a regulation for the purposes of the [Acts and Regulations Publication Act 1989][78].
+    (2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][78] and must be presented to the House of Representatives under [section 41][165] of that Act.
     
-    Section 49(2): amended, on 19 December 1989, pursuant to [section 11][96] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 49(2): replaced, on 5 August 2013, by [section 77(3)][99] of the Legislation Act 2012 (2012 No 119).
 
 ##### 50 Consequential amendments to other enactments
     
@@ -1674,7 +1688,7 @@ Miscellaneous provisions
         
     *   (a) any provision which is contained in any other enactment and which authorises or requires official information to be made available; or
     
-    *   (b) any provision which is contained in any other Act of Parliament or in any regulations within the meaning of the [Regulations (Disallowance) Act 1989][161] (made by Order in Council and in force immediately before 1 July 1983) and which---
+    *   (b) any provision which is contained in any other Act of Parliament or in any regulations within the meaning of the [Regulations (Disallowance) Act 1989][166] (made by Order in Council and in force immediately before 1 July 1983) and which---
             
         *   (i) imposes a prohibition or restriction in relation to the availability of official information; or
         
@@ -1684,11 +1698,11 @@ Miscellaneous provisions
     
     *   (c) any provision of any Order in Council made under the [Commissions of Inquiry Act 1908][83] or of any other document by which a Royal commission or commission of inquiry or board of inquiry is appointed.
     
-    Section 52(1): amended, on 1 April 1987, by [section 22][162] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 52(1): amended, on 1 April 1987, by [section 22][167] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 52(2)(a): replaced, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 52(2)(a): replaced, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
     
-    Section 52(3)(b): amended, on 19 December 1989, pursuant to [section 11][96] of the Regulations (Disallowance) Act 1989 (1989 No 43).
+    Section 52(3)(b): amended, on 19 December 1989, pursuant to [section 11][168] of the Regulations (Disallowance) Act 1989 (1989 No 43).
 
 ##### 53 Expiration of provisions relating to Information Authority
     
@@ -1727,11 +1741,11 @@ Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 of th
 
 [s 2(1)][3]
 
-*   Schedule 1: replaced, on 1 April 1987, by [section 23(1)][163] of the Official Information Amendment Act 1987 (1987 No 8).
+*   Schedule 1: replaced, on 1 April 1987, by [section 23(1)][169] of the Official Information Amendment Act 1987 (1987 No 8).
 
 Abortion Supervisory Committee
 
-Airport companies (as defined in [section 2][164] of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in [section 6][165] of the Local Government Act 2002)
+Airport companies (as defined in [section 2][170] of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in [section 6][171] of the Local Government Act 2002)
 
 Airways Corporation of New Zealand Limited
 
@@ -1739,7 +1753,7 @@ Animal Control Products Limited
 
 Armed Forces Canteen Council
 
-Boards of Trustees constituted under [Part 9][166] of the Education Act 1989
+Boards of Trustees constituted under [Part 9][172] of the Education Act 1989
 
 Broadcasting Commission
 
@@ -1751,7 +1765,7 @@ Conservation Boards
 
 Deer Industry New Zealand
 
-Education Authorities (as defined in [section 2(1)][167] of the Education Act 1964)
+Education Authorities (as defined in [section 2(1)][173] of the Education Act 1964)
 
 Electricity Corporation of New Zealand Limited
 
@@ -1845,7 +1859,7 @@ Takeovers Panel
 
 Television New Zealand Limited
 
-Temporary Safeguard Authorities appointed under the [Temporary Safeguard Authorities Act 1987][168]
+Temporary Safeguard Authorities appointed under the [Temporary Safeguard Authorities Act 1987][174]
 
 Testing Laboratory Registration Council
 
@@ -1861,179 +1875,179 @@ War Pensions Advisory Board
 
 Winston Churchill Memorial Trust Board
     
-*   Schedule 1 Accounting Standards Review Board: repealed, on 1 July 2011, by [section 12][169] of the Financial Reporting Amendment Act 2011 (2011 No 22).
-*   Schedule 1 Air New Zealand Limited: repealed, on 12 May 1989, by [section 25][170] of the Finance Act (No 2) 1988 (1988 No 128).
-*   Schedule 1 Airport companies (as defined in section 2 of the Airport Authorities Act 1966): repealed, on 22 October 2003, by [section 6(1)][171] of the Official Information Amendment Act 2003 (2003 No 90).
-*   Schedule 1 Airport companies (as defined in section 2 of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in section 6 of the Local Government Act 2002): inserted, on 22 October 2003, by [section 6(1)][171] of the Official Information Amendment Act 2003 (2003 No 90).
-*   Schedule 1 Alcohol Advisory Council of New Zealand: repealed, on 1 July 2012, by [section 26][172] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Alcoholic Liquor Advisory Council: repealed, on 20 August 2000, by [section 25(1)][173] of the Alcohol Advisory Council Amendment Act 2000 (2000 No 25).
-*   Schedule 1 Animal Control Products Limited: inserted, on 1 July 1992, by [section 19][174] of the Animal Control Products Limited Act 1991 (1991 No 36).
+*   Schedule 1 Accounting Standards Review Board: repealed, on 1 July 2011, by [section 12][175] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 1 Air New Zealand Limited: repealed, on 12 May 1989, by [section 25][176] of the Finance Act (No 2) 1988 (1988 No 128).
+*   Schedule 1 Airport companies (as defined in section 2 of the Airport Authorities Act 1966): repealed, on 22 October 2003, by [section 6(1)][177] of the Official Information Amendment Act 2003 (2003 No 90).
+*   Schedule 1 Airport companies (as defined in section 2 of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in section 6 of the Local Government Act 2002): inserted, on 22 October 2003, by [section 6(1)][177] of the Official Information Amendment Act 2003 (2003 No 90).
+*   Schedule 1 Alcohol Advisory Council of New Zealand: repealed, on 1 July 2012, by [section 26][178] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 1 Alcoholic Liquor Advisory Council: repealed, on 20 August 2000, by [section 25(1)][179] of the Alcohol Advisory Council Amendment Act 2000 (2000 No 25).
+*   Schedule 1 Animal Control Products Limited: inserted, on 1 July 1992, by [section 19][180] of the Animal Control Products Limited Act 1991 (1991 No 36).
 *   Schedule 1 Apple and Pear Prices Authority: repealed, on 1 April 2000, by section 27(2) of the Apple and Pear Industry Restructuring Act 1999 (1999 No 96).
-*   Schedule 1 Area Health Boards: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Berryfruit Marketing Licensing Authority: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Boards of Trustees constituted under Part 9 of the Education Act 1989: inserted, on 1 October 1989, by [section 142(2)][176] of the Education Act 1989 (1989 No 80).
-*   Schedule 1 Broadcasting Commission: inserted, on 1 July 1989, by [section 88][177] of the Broadcasting Act 1989 (1989 No 25).
+*   Schedule 1 Area Health Boards: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Berryfruit Marketing Licensing Authority: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Boards of Trustees constituted under Part 9 of the Education Act 1989: inserted, on 1 October 1989, by [section 142(2)][182] of the Education Act 1989 (1989 No 80).
+*   Schedule 1 Broadcasting Commission: inserted, on 1 July 1989, by [section 88][183] of the Broadcasting Act 1989 (1989 No 25).
 *   Schedule 1 Broadcasting Corporation of New Zealand: repealed, on 1 December 1988, by section 15 of the Broadcasting Amendment Act (No 2) 1988 (1988 No 161).
-*   Schedule 1 Broadcasting Standards Authority: inserted, on 1 July 1989, by [section 88][177] of the Broadcasting Act 1989 (1989 No 25).
-*   Schedule 1 Camp Committees under the Children's Health Camps Act 1972: repealed, on 1 April 2000, by [section 7][178] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
+*   Schedule 1 Broadcasting Standards Authority: inserted, on 1 July 1989, by [section 88][183] of the Broadcasting Act 1989 (1989 No 25).
+*   Schedule 1 Camp Committees under the Children's Health Camps Act 1972: repealed, on 1 April 2000, by [section 7][184] of the Children's Health Camps Board Dissolution Act 1999 (1999 No 141).
 *   Schedule 1 Canterbury Provincial Buildings Board: repealed, on 14 July 1988, by section 2(6) of the Canterbury Provincial Buildings Vesting Amendment Act 1988 (1988 No 106).
-*   Schedule 1 Clean Air Council: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Coal Corporation of New Zealand Limited: repealed, on 24 October 1997, by [clause 3][179] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
-*   Schedule 1 Coal Mining Industries Welfare Council: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Conservation Boards: inserted, on 10 April 1990, by [section 37][180] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 Consumer Council: repealed, on 1 January 1989, by [section 9][181] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
-*   Schedule 1 Crown Forestry Management Limited: repealed, on 1 January 2003, by [section 21][182] of the Finance Act (No 2) 1988 (1988 No 128).
-*   Schedule 1 Dairy Products Prices Authority: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Deer Industry New Zealand: inserted, on 1 December 2006, by [clause 3(2)][183] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
-*   Schedule 1 Development Finance Corporation of New Zealand: repealed (with effect on 1 April 1987), on 23 September 1988, by [section 15(1)][184] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
-*   Schedule 1 DFC New Zealand Limited: repealed, on 18 November 1988, by [section 15(4)][184] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
-*   Schedule 1 Early Childhood Development Board: repealed, on 6 April 2004, by [section 7(a)][185] of the Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
-*   Schedule 1 Early Childhood Development Unit Board: repealed, on 1 August 2000, by [clause 4(1)][186] of the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117).
-*   Schedule 1 Emergency Protection Authorities appointed for the purposes of the Industries Development Commission Act 1961: repealed, on 13 June 1987, by [section 11][187] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
-*   Schedule 1 Energy Efficiency and Conservation Authority: inserted, on 1 July 2000, by [section 41][188] of the Energy Efficiency and Conservation Act 2000 (2000 No 14).
-*   Schedule 1 External Reporting Board: inserted, on 1 July 2011, by [section 12][169] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 1 Clean Air Council: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Coal Corporation of New Zealand Limited: repealed, on 24 October 1997, by [clause 3][185] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
+*   Schedule 1 Coal Mining Industries Welfare Council: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Conservation Boards: inserted, on 10 April 1990, by [section 37][186] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1 Consumer Council: repealed, on 1 January 1989, by [section 9][187] of the Consumer Council Act Repeal Act 1988 (1988 No 144).
+*   Schedule 1 Crown Forestry Management Limited: repealed, on 1 January 2003, by [section 21][188] of the Finance Act (No 2) 1988 (1988 No 128).
+*   Schedule 1 Dairy Products Prices Authority: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Deer Industry New Zealand: inserted, on 1 December 2006, by [clause 3(2)][189] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
+*   Schedule 1 Development Finance Corporation of New Zealand: repealed (with effect on 1 April 1987), on 23 September 1988, by [section 15(1)][190] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
+*   Schedule 1 DFC New Zealand Limited: repealed, on 18 November 1988, by [section 15(4)][190] of the Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141).
+*   Schedule 1 Early Childhood Development Board: repealed, on 6 April 2004, by [section 7(a)][191] of the Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14).
+*   Schedule 1 Early Childhood Development Unit Board: repealed, on 1 August 2000, by [clause 4(1)][192] of the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117).
+*   Schedule 1 Emergency Protection Authorities appointed for the purposes of the Industries Development Commission Act 1961: repealed, on 13 June 1987, by [section 11][193] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
+*   Schedule 1 Energy Efficiency and Conservation Authority: inserted, on 1 July 2000, by [section 41][194] of the Energy Efficiency and Conservation Act 2000 (2000 No 14).
+*   Schedule 1 External Reporting Board: inserted, on 1 July 2011, by [section 12][175] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 *   Schedule 1 Fibre Testing Laboratories Limited: repealed, on 26 June 1989, by section 27(2) of the Wool Testing Authority Dissolution Act 1988 (1988 No 166).
-*   Schedule 1 Financial Markets Authority: inserted, on 1 May 2011, by [section 82][189] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 1 Fiordland Marine Guardians: inserted, on 21 April 2005, by [section 29][190] of the Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36).
-*   Schedule 1 Fish and Game Councils: inserted, on 10 April 1990, by [section 37][180] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 Forestry Corporation of New Zealand Limited: repealed, on 1 October 1996, by [section 6][191] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Fruit Distributors Limited: repealed, on 22 October 2003, by [section 6(2)][171] of the Official Information Amendment Act 2003 (2003 No 90).
-*   Schedule 1 Game Industry Board: repealed, on 1 December 2006, by [clause 3(1)][183] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
-*   Schedule 1 GCS Limited: repealed, on 29 December 1994, by [section 7(1)][192] of the Finance Act 1994 (1994 No 73).
-*   Schedule 1 Government Communications Security Bureau: inserted, on 2 April 2003, by [section 30][193] of the Government Communications Security Bureau Act 2003 (2003 No 9).
-*   Schedule 1 Government Computing Service Limited: repealed, on 8 August 1991, by [section 9(1)][194] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Government Property Services Limited: repealed, on 1 January 2003, by [section 15][195] of the Finance Act (No 2) 1988 (1988 No 128).
-*   Schedule 1 Government Supply Brokerage Corporation (NZ) Limited: repealed, on 17 March 1992, by [section 12(1)][196] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Hazards Control Commission: repealed, on 2 July 2001, by [section 149][197] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
-*   Schedule 1 Health Research Council of New Zealand: inserted, on 1 October 1990, by [section 58(1)][198] of the Health Research Council Act 1990 (1990 No 68).
-*   Schedule 1 Higher Salaries Commission: repealed, on 1 April 2003, by [section 4(1)][199] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
-*   Schedule 1 Hop Marketing Committee: repealed, on 15 August 1991, by [clause 2][200] of the Official Information Order 1991 (SR 1991/130).
-*   Schedule 1 Hospital Boards: repealed, on 1 December 2006, by [clause 3(3)][183] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
-*   Schedule 1 Housing New Zealand Limited: inserted, on 4 June 1999, by [section 41][201] of the Housing Restructuring Act 1992 (1992 No 76).
-*   Schedule 1 Human Rights Commission: repealed, on 1 February 1994, by [section 145][202] of the Human Rights Act 1993 (1993 No 82).
-*   Schedule 1 Industries Development Commission: repealed, on 13 June 1987, by [section 11][187] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
-*   Schedule 1 Industry New Zealand: repealed, on 1 July 2003, by [section 84][203] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
-*   Schedule 1 Information Authority: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Kordia Group Limited: inserted, on 22 March 2007, by [clause 3(2)(b)][204] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
-*   Schedule 1 Land Corporation Limited: repealed, on 12 April 2001, by [clause 4][205] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
-*   Schedule 1 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 4][205] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+*   Schedule 1 Financial Markets Authority: inserted, on 1 May 2011, by [section 82][195] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Schedule 1 Fiordland Marine Guardians: inserted, on 21 April 2005, by [section 29][196] of the Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36).
+*   Schedule 1 Fish and Game Councils: inserted, on 10 April 1990, by [section 37][186] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1 Forestry Corporation of New Zealand Limited: repealed, on 1 October 1996, by [section 6][197] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Fruit Distributors Limited: repealed, on 22 October 2003, by [section 6(2)][177] of the Official Information Amendment Act 2003 (2003 No 90).
+*   Schedule 1 Game Industry Board: repealed, on 1 December 2006, by [clause 3(1)][189] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
+*   Schedule 1 GCS Limited: repealed, on 29 December 1994, by [section 7(1)][198] of the Finance Act 1994 (1994 No 73).
+*   Schedule 1 Government Communications Security Bureau: inserted, on 2 April 2003, by [section 30][199] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+*   Schedule 1 Government Computing Service Limited: repealed, on 8 August 1991, by [section 9(1)][200] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Government Property Services Limited: repealed, on 1 January 2003, by [section 15][201] of the Finance Act (No 2) 1988 (1988 No 128).
+*   Schedule 1 Government Supply Brokerage Corporation (NZ) Limited: repealed, on 17 March 1992, by [section 12(1)][202] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Hazards Control Commission: repealed, on 2 July 2001, by [section 149][203] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+*   Schedule 1 Health Research Council of New Zealand: inserted, on 1 October 1990, by [section 58(1)][204] of the Health Research Council Act 1990 (1990 No 68).
+*   Schedule 1 Higher Salaries Commission: repealed, on 1 April 2003, by [section 4(1)][205] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+*   Schedule 1 Hop Marketing Committee: repealed, on 15 August 1991, by [clause 2][206] of the Official Information Order 1991 (SR 1991/130).
+*   Schedule 1 Hospital Boards: repealed, on 1 December 2006, by [clause 3(3)][189] of the Official Information Act (Schedule 1) Order 2006 (SR 2006/321).
+*   Schedule 1 Housing New Zealand Limited: inserted, on 4 June 1999, by [section 41][207] of the Housing Restructuring Act 1992 (1992 No 76).
+*   Schedule 1 Human Rights Commission: repealed, on 1 February 1994, by [section 145][208] of the Human Rights Act 1993 (1993 No 82).
+*   Schedule 1 Industries Development Commission: repealed, on 13 June 1987, by [section 11][193] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
+*   Schedule 1 Industry New Zealand: repealed, on 1 July 2003, by [section 84][209] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+*   Schedule 1 Information Authority: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Kordia Group Limited: inserted, on 22 March 2007, by [clause 3(2)(b)][210] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
+*   Schedule 1 Land Corporation Limited: repealed, on 12 April 2001, by [clause 4][211] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
+*   Schedule 1 Landcorp Farming Limited: inserted, on 12 April 2001, by [clause 4][211] of the State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23).
 *   Schedule 1 Legal Aid Board: repealed, on 1 February 1992, by section 159(1) of the Legal Services Act 1991 (1991 No 71).
 *   Schedule 1 Lincoln College: repealed, on 1 January 1990, pursuant to section 49(6) of the Education Amendment Act 1989 (1989 No 156).
-*   Schedule 1 Lincoln University: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 Liquid Fuels Trust Board: repealed, on 1 January 1988, by [section 13(5)][207] of the Finance Act 1987 (1987 No 200).
-*   Schedule 1 Local Authorities Loans Board: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Māori Television Service and every subsidiary of the Māori Television Service (if any): inserted, on 8 May 2003, by [section 58][208] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
-*   Schedule 1 Marine Reserve Management Committees: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Lincoln University: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 Liquid Fuels Trust Board: repealed, on 1 January 1988, by [section 13(5)][213] of the Finance Act 1987 (1987 No 200).
+*   Schedule 1 Local Authorities Loans Board: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Māori Television Service and every subsidiary of the Māori Television Service (if any): inserted, on 8 May 2003, by [section 58][214] of the Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21).
+*   Schedule 1 Marine Reserve Management Committees: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 *   Schedule 1 Market Development Committee appointed under section 3 of the Meat Export Control Amendment Act 1966: repealed, on 12 December 1989, by section 4(3) of the Meat Export Control Amendment Act 1989 (1989 No 132).
-*   Schedule 1 Massey University: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 Maternal Deaths Assessment Committee: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Massey University: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 Maternal Deaths Assessment Committee: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 *   Schedule 1 Meat Export Prices Committee: repealed, on 12 December 1989, by section 12(1)(d) of the Meat Export Control Amendment Act 1989 (1989 No 132).
-*   Schedule 1 Medical Research Council of New Zealand: repealed, on 1 October 1990, by [section 58(2)][198] of the Health Research Council Act 1990 (1990 No 68).
-*   Schedule 1 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][209] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
-*   Schedule 1 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 4][210] of the State-Owned Enterprises Order 1992 (SR 1992/181).
-*   Schedule 1 National Council of Adult Education: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 National Housing Commission: repealed, on 1 April 1988, by [section 14(1)(d)][211] of the Finance Act 1987 (1987 No 200).
-*   Schedule 1 National Library of New Zealand: repealed, on 1 February 2011, by [section 18][102] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
-*   Schedule 1 National Parks and Reserves Boards: repealed, on 10 April 1990, by [section 37][180] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 National Provident Management Company Limited: repealed, on 17 April 1992, by [section 19][212] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 National Research Advisory Council: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Medical Research Council of New Zealand: repealed, on 1 October 1990, by [section 58(2)][204] of the Health Research Council Act 1990 (1990 No 68).
+*   Schedule 1 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][215] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
+*   Schedule 1 Meteorological Service of New Zealand Limited: inserted, on 30 June 1992, by [clause 4][216] of the State-Owned Enterprises Order 1992 (SR 1992/181).
+*   Schedule 1 National Council of Adult Education: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 National Housing Commission: repealed, on 1 April 1988, by [section 14(1)(d)][217] of the Finance Act 1987 (1987 No 200).
+*   Schedule 1 National Library of New Zealand: repealed, on 1 February 2011, by [section 18][105] of the National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132).
+*   Schedule 1 National Parks and Reserves Boards: repealed, on 10 April 1990, by [section 37][186] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1 National Provident Management Company Limited: repealed, on 17 April 1992, by [section 19][218] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 National Research Advisory Council: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 *   Schedule 1 Natural Gas Corporation of New Zealand Limited: repealed, on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
-*   Schedule 1 Nature Conservation Council: repealed, on 10 April 1990, by [section 37][180] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 New Zealand Apple and Pear Board: repealed, on 30 September 2001, by [section 10(2)(a)][213] of the Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50).
+*   Schedule 1 Nature Conservation Council: repealed, on 10 April 1990, by [section 37][186] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1 New Zealand Apple and Pear Board: repealed, on 30 September 2001, by [section 10(2)(a)][219] of the Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50).
 *   Schedule 1 New Zealand Apple and Pear Marketing Board: repealed, on 1 April 2000, by section 27(2) of the Apple and Pear Industry Restructuring Act 1999 (1999 No 96).
-*   Schedule 1 New Zealand Council for Postgraduate Medical Education: repealed, on 19 March 1990, by [section 4(e)][214] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
-*   Schedule 1 New Zealand Dairy Board: repealed, on 16 October 2001, by [section 165(4)][215] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
-*   Schedule 1 New Zealand Export-Import Corporation: repealed, on 10 April 1992, by [section 7][216] of the New Zealand Export-Import Corporation Dissolution Act 1992 (1992 No 23).
-*   Schedule 1 New Zealand Fishing Industry Board: repealed, on 1 October 2002, by [section 5(3)][217] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
-*   Schedule 1 New Zealand Forestry Corporation Limited: repealed, on 31 May 1996, by [clause 3][218] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
-*   Schedule 1 New Zealand Geographic Board: repealed, on 1 November 2008, by [section 38][219] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
-*   Schedule 1 New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa: inserted, on 1 November 2008, by [section 38][219] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
-*   Schedule 1 New Zealand Hop Marketing Board: repealed, on 1 August 2003, by [section 12(1)][220] of the Hop Industry Restructuring Act 2003 (2003 No 16).
-*   Schedule 1 New Zealand Industrial Design Council: repealed, on 10 December 1988, by [section 11][221] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
-*   Schedule 1 New Zealand Kiwifruit Authority: repealed, on 1 April 2000, by [section 28(2)][222] of the Kiwifruit Industry Restructuring Act 1999 (1999 No 95).
-*   Schedule 1 New Zealand Kiwifruit Board: inserted, on 9 September 1999, by [section 28(1)][222] of the Kiwifruit Industry Restructuring Act 1999 (1999 No 95).
-*   Schedule 1 New Zealand Liquid Fuels Investment Limited: repealed, on 20 July 1990, by [section 4(1)][223] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
+*   Schedule 1 New Zealand Council for Postgraduate Medical Education: repealed, on 19 March 1990, by [section 4(e)][220] of the New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10).
+*   Schedule 1 New Zealand Dairy Board: repealed, on 16 October 2001, by [section 165(4)][221] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
+*   Schedule 1 New Zealand Export-Import Corporation: repealed, on 10 April 1992, by [section 7][222] of the New Zealand Export-Import Corporation Dissolution Act 1992 (1992 No 23).
+*   Schedule 1 New Zealand Fishing Industry Board: repealed, on 1 October 2002, by [section 5(3)][223] of the Fishing Industry Board Repeal Act 2001 (2001 No 34).
+*   Schedule 1 New Zealand Forestry Corporation Limited: repealed, on 31 May 1996, by [clause 3][224] of the State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122).
+*   Schedule 1 New Zealand Geographic Board: repealed, on 1 November 2008, by [section 38][225] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+*   Schedule 1 New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa: inserted, on 1 November 2008, by [section 38][225] of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30).
+*   Schedule 1 New Zealand Hop Marketing Board: repealed, on 1 August 2003, by [section 12(1)][226] of the Hop Industry Restructuring Act 2003 (2003 No 16).
+*   Schedule 1 New Zealand Industrial Design Council: repealed, on 10 December 1988, by [section 11][227] of the Testing Laboratory Registration Amendment Act 1988 (1988 No 167).
+*   Schedule 1 New Zealand Kiwifruit Authority: repealed, on 1 April 2000, by [section 28(2)][228] of the Kiwifruit Industry Restructuring Act 1999 (1999 No 95).
+*   Schedule 1 New Zealand Kiwifruit Board: inserted, on 9 September 1999, by [section 28(1)][228] of the Kiwifruit Industry Restructuring Act 1999 (1999 No 95).
+*   Schedule 1 New Zealand Liquid Fuels Investment Limited: repealed, on 20 July 1990, by [section 4(1)][229] of the State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49).
 *   Schedule 1 New Zealand Lottery Board: repealed, on 20 November 1989, by section 6(4) of the Gaming and Lotteries Amendment Act 1989 (1989 No 118).
 *   Schedule 1 New Zealand Lottery Grants Board: inserted, on 20 November 1989, by section 6(4) of the Gaming and Lotteries Amendment Act 1989 (1989 No 118).
 *   Schedule 1 New Zealand Market Development Board: repealed, on 1 December 1988, by section 12(2) of the New Zealand Trade Development Board Act 1988 (1988 No 160).
 *   Schedule 1 New Zealand Meat Board: inserted, on 17 December 1997, by section 82(1) of the Meat Board Act 1997 (1997 No 105).
 *   Schedule 1 New Zealand Meat Producers Board: repealed, on 17 December 1997, by section 82(1) of the Meat Board Act 1997 (1997 No 105).
-*   Schedule 1 New Zealand Milk Authority: repealed, on 16 October 2001, by [section 165(4)][215] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
+*   Schedule 1 New Zealand Milk Authority: repealed, on 16 October 2001, by [section 165(4)][221] of the Dairy Industry Restructuring Act 2001 (2001 No 51).
 *   Schedule 1 New Zealand Milk Board: repealed, on 1 April 1988, by section 27(2) of the Milk Act 1988 (1988 No 13).
-*   Schedule 1 New Zealand Parole Board: inserted, on 30 June 2002, by [section 125][224] of the Parole Act 2002 (2002 No 10).
-*   Schedule 1 New Zealand Planning Council: repealed, on 1 December 1991, by [section 8][225] of the New Zealand Planning Council Dissolution Act 1991 (1991 No 97).
-*   Schedule 1 New Zealand Ports Authority: repealed, on 1 May 1988, by [section 41(2)][226] of the Port Companies Act 1988 (1988 No 91).
-*   Schedule 1 New Zealand Potato Board: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 New Zealand Poultry Board: repealed, on 1 April 1989, by [section 4(4)][227] of the Poultry Board Act Repeal Act 1989 (1989 No 4).
+*   Schedule 1 New Zealand Parole Board: inserted, on 30 June 2002, by [section 125][230] of the Parole Act 2002 (2002 No 10).
+*   Schedule 1 New Zealand Planning Council: repealed, on 1 December 1991, by [section 8][231] of the New Zealand Planning Council Dissolution Act 1991 (1991 No 97).
+*   Schedule 1 New Zealand Ports Authority: repealed, on 1 May 1988, by [section 41(2)][232] of the Port Companies Act 1988 (1988 No 91).
+*   Schedule 1 New Zealand Potato Board: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 New Zealand Poultry Board: repealed, on 1 April 1989, by [section 4(4)][233] of the Poultry Board Act Repeal Act 1989 (1989 No 4).
 *   Schedule 1 New Zealand Racing Authority: repealed, on 1 August 1992, by section 41 of the Racing Amendment Act 1992 (1992 No 41).
-*   Schedule 1 New Zealand Racing Board: inserted, on 1 August 2003, by [section 69(1)][228] of the Racing Act 2003 (2003 No 3).
-*   Schedule 1 New Zealand Racing Industry Board: repealed, on 1 August 2003, by [section 69(1)][228] of the Racing Act 2003 (2003 No 3).
-*   Schedule 1 New Zealand Symphony Orchestra and any subsidiary of the New Zealand Symphony Orchestra: inserted, on 6 April 2004, by [section 36][229] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
-*   Schedule 1 New Zealand Symphony Orchestra Limited: repealed, on 6 April 2004, by [section 36][229] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
-*   Schedule 1 New Zealand Trade Development Board: repealed, on 1 July 2003, by [section 84][203] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
-*   Schedule 1 New Zealand Walkway Commission: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 New Zealand Wheat Board: repealed, on 1 May 1987, by [section 14(2)][230] of the Wheat Board Amendment Act 1986 (1986 No 25).
-*   Schedule 1 New Zealand Wool Board: repealed, on 15 September 2003, by [section 62(1)][231] of the Wool Industry Restructuring Act 2003 (2003 No 40).
+*   Schedule 1 New Zealand Racing Board: inserted, on 1 August 2003, by [section 69(1)][234] of the Racing Act 2003 (2003 No 3).
+*   Schedule 1 New Zealand Racing Industry Board: repealed, on 1 August 2003, by [section 69(1)][234] of the Racing Act 2003 (2003 No 3).
+*   Schedule 1 New Zealand Symphony Orchestra and any subsidiary of the New Zealand Symphony Orchestra: inserted, on 6 April 2004, by [section 36][235] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
+*   Schedule 1 New Zealand Symphony Orchestra Limited: repealed, on 6 April 2004, by [section 36][235] of the New Zealand Symphony Orchestra Act 2004 (2004 No 20).
+*   Schedule 1 New Zealand Trade Development Board: repealed, on 1 July 2003, by [section 84][209] of the New Zealand Trade and Enterprise Act 2003 (2003 No 27).
+*   Schedule 1 New Zealand Walkway Commission: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 New Zealand Wheat Board: repealed, on 1 May 1987, by [section 14(2)][236] of the Wheat Board Amendment Act 1986 (1986 No 25).
+*   Schedule 1 New Zealand Wool Board: repealed, on 15 September 2003, by [section 62(1)][237] of the Wool Industry Restructuring Act 2003 (2003 No 40).
 *   Schedule 1 New Zealand Wool Testing Authority: repealed, on 1 January 1989, by section 25(1) of the Wool Testing Authority Dissolution Act 1988 (1988 No 166).
-*   Schedule 1 Noxious Plants Council: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Noxious Plants Council: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 *   Schedule 1 Offshore Mining Company Limited: repealed, on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
-*   Schedule 1 Overseas Investment Commission: repealed, on 25 August 2005, by [section 75][232] of the Overseas Investment Act 2005 (2005 No 82).
+*   Schedule 1 Overseas Investment Commission: repealed, on 25 August 2005, by [section 75][238] of the Overseas Investment Act 2005 (2005 No 82).
 *   Schedule 1 Petrochemical Corporation of New Zealand Limited: repealed, on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
 *   Schedule 1 Petroleum Corporation of New Zealand (Exploration) Limited: repealed, on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
 *   Schedule 1 Petroleum Corporation of New Zealand Limited: repealed, on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
-*   Schedule 1 Phosphate Commission of New Zealand: repealed, on 12 December 1989, by [section 2(4)][233] of the Phosphate Commission of New Zealand Dissolution Act 1989 (1989 No 131).
-*   Schedule 1 Post Office Bank Limited: repealed, on 17 March 1989, by [section 3][234] of the Post Office Bank Amendment Act 1988 (1988 No 173).
-*   Schedule 1 Power Company Limited: repealed, on 20 March 1998, by [section 34][235] of the Southland Electricity Act 1993 (1993 No 147).
-*   Schedule 1 Privacy Commissioner: amended, on 1 July 1993, by [section 9(1)][236] of the Official Information Amendment Act 1993 (1993 No 36).
+*   Schedule 1 Phosphate Commission of New Zealand: repealed, on 12 December 1989, by [section 2(4)][239] of the Phosphate Commission of New Zealand Dissolution Act 1989 (1989 No 131).
+*   Schedule 1 Post Office Bank Limited: repealed, on 17 March 1989, by [section 3][240] of the Post Office Bank Amendment Act 1988 (1988 No 173).
+*   Schedule 1 Power Company Limited: repealed, on 20 March 1998, by [section 34][241] of the Southland Electricity Act 1993 (1993 No 147).
+*   Schedule 1 Privacy Commissioner: amended, on 1 July 1993, by [section 9(1)][242] of the Official Information Amendment Act 1993 (1993 No 36).
 *   Schedule 1 Privacy Commissioner established under the Privacy Commissioner Act 1991: inserted, on 19 December 1991, by section 37 of the Privacy Commissioner Act 1991 (1991 No 126).
-*   Schedule 1 Public Advisory Committee on Disarmament and Arms Control: inserted, on 8 June 1987, by [section 27][237] of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86).
-*   Schedule 1 Public Trust: inserted, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
-*   Schedule 1 Public Trust Office Investment Board: repealed, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
-*   Schedule 1 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][238] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
-*   Schedule 1 Radio New Zealand Limited: replaced, on 1 December 1995, by [section 20][239] of the Radio New Zealand Act 1995 (1995 No 52).
-*   Schedule 1 Raspberry Marketing Council: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Raspberry Marketing Export Authority: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Regional Co-ordinating Committees established under section 22 of the Noxious Plants Act 1978: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Public Advisory Committee on Disarmament and Arms Control: inserted, on 8 June 1987, by [section 27][243] of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86).
+*   Schedule 1 Public Trust: inserted, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
+*   Schedule 1 Public Trust Office Investment Board: repealed, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
+*   Schedule 1 The Radio Company Limited: repealed, on 5 July 1996, by [section 2][244] of the Radio New Zealand Act (No 2) 1995 (1995 No 53).
+*   Schedule 1 Radio New Zealand Limited: replaced, on 1 December 1995, by [section 20][245] of the Radio New Zealand Act 1995 (1995 No 52).
+*   Schedule 1 Raspberry Marketing Council: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Raspberry Marketing Export Authority: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Regional Co-ordinating Committees established under section 22 of the Noxious Plants Act 1978: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 *   Schedule 1 Related companies of State enterprises (within the meaning of section 2(1A)): inserted, on 10 April 1992, by section 3 of the Official Information Amendment Act 1992 (1992 No 24).
-*   Schedule 1 Remuneration Authority: inserted, on 1 April 2003, by [section 4(1)][199] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
-*   Schedule 1 Rugby World Cup Authority: inserted, on 23 November 2010, by [section 97][240] of the Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123).
-*   Schedule 1 Rural Electrical Reticulation Council: repealed, on 1 April 1997, by [section 56(1)][241] of the Electricity Act 1992 (1992 No 122).
-*   Schedule 1 Securities Commission: repealed, on 1 May 2011, by [section 82][189] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 1 The separate independent body appointed by the Board under the Apple and Pear Industry Restructuring Act 1999 to permit other persons to export apples and pears: repealed, on 30 September 2001, by [section 10(2)(b)][213] of the Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50).
-*   Schedule 1 Sentencing Council: inserted, on 1 November 2007, by [section 12][242] of the Sentencing Council Act 2007 (2007 No 25).
-*   Schedule 1 Shipping Corporation of New Zealand Limited: repealed, on 13 April 1989, by [section 5][243] of the Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154).
-*   Schedule 1 Solid Energy New Zealand Limited: inserted, on 24 October 1997, by [clause 3][179] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
-*   Schedule 1 Special Education Service Board: repealed, on 1 August 2000, by [clause 4(1)][186] of the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117).
-*   Schedule 1 Specialist Education Services Board: repealed, on 28 February 2002, by [section 94(a)][244] of the Education Standards Act 2001 (2001 No 88).
-*   Schedule 1 State Forest Parks Advisory Committees: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Takeovers Panel: inserted, on 1 July 1994, by [section 49][245] of the Takeovers Act 1993 (1993 No 107).
-*   Schedule 1 Teacher Registration Board: repealed, on 1 February 2002, by [section 83][246] of the Education Standards Act 2001 (2001 No 88).
-*   Schedule 1 Telecom Corporation of New Zealand Limited: repealed, on 12 September 1990, by [section 5][247] of the Finance Act 1990 (1990 No 20).
+*   Schedule 1 Remuneration Authority: inserted, on 1 April 2003, by [section 4(1)][205] of the Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54).
+*   Schedule 1 Rugby World Cup Authority: inserted, on 23 November 2010, by [section 97][246] of the Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123).
+*   Schedule 1 Rural Electrical Reticulation Council: repealed, on 1 April 1997, by [section 56(1)][247] of the Electricity Act 1992 (1992 No 122).
+*   Schedule 1 Securities Commission: repealed, on 1 May 2011, by [section 82][195] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Schedule 1 The separate independent body appointed by the Board under the Apple and Pear Industry Restructuring Act 1999 to permit other persons to export apples and pears: repealed, on 30 September 2001, by [section 10(2)(b)][219] of the Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50).
+*   Schedule 1 Sentencing Council: inserted, on 1 November 2007, by [section 12][248] of the Sentencing Council Act 2007 (2007 No 25).
+*   Schedule 1 Shipping Corporation of New Zealand Limited: repealed, on 13 April 1989, by [section 5][249] of the Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154).
+*   Schedule 1 Solid Energy New Zealand Limited: inserted, on 24 October 1997, by [clause 3][185] of the State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277).
+*   Schedule 1 Special Education Service Board: repealed, on 1 August 2000, by [clause 4(1)][192] of the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117).
+*   Schedule 1 Specialist Education Services Board: repealed, on 28 February 2002, by [section 94(a)][250] of the Education Standards Act 2001 (2001 No 88).
+*   Schedule 1 State Forest Parks Advisory Committees: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Takeovers Panel: inserted, on 1 July 1994, by [section 49][251] of the Takeovers Act 1993 (1993 No 107).
+*   Schedule 1 Teacher Registration Board: repealed, on 1 February 2002, by [section 83][252] of the Education Standards Act 2001 (2001 No 88).
+*   Schedule 1 Telecom Corporation of New Zealand Limited: repealed, on 12 September 1990, by [section 5][253] of the Finance Act 1990 (1990 No 20).
 *   Schedule 1 Television New Zealand Limited: inserted, on 29 November 1988, by section 9 of the State-Owned Enterprises Amendment Act (No 4) 1988 (1988 No 162).
-*   Schedule 1 Temporary Safeguard Authorities appointed under the Temporary Safeguard Authorities Act 1987: inserted, on 13 June 1987, by [section 11][187] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
-*   Schedule 1 Timberlands West Coast Limited: inserted, on 13 December 1991, by [section 22][248] of the Finance Act 1991 (1991 No 93).
-*   Schedule 1 Totalisator Agency Board: repealed, on 1 August 2003, by [section 69(1)][228] of the Racing Act 2003 (2003 No 3).
-*   Schedule 1 Tourist Hotel Corporation of New Zealand: repealed, on 23 March 1990, by [section 16][249] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
-*   Schedule 1 Tourist Hotel Corporation of New Zealand Limited: repealed, on 15 June 1990, by [section 17(1)][250] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
-*   Schedule 1 Transitional Fish and Game Councils: inserted, on 10 April 1990, by [section 37][180] of the Conservation Law Reform Act 1990 (1990 No 31).
-*   Schedule 1 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 3(2)(a)][204] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
-*   Schedule 1 Universities Entrance Board: repealed, on 23 July 1990, by [section 50(1)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 University Grants Committee: repealed, on 23 July 1990, by [section 50(1)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 University of Auckland: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 University of Canterbury: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 University of Otago: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 University of Waikato: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 Temporary Safeguard Authorities appointed under the Temporary Safeguard Authorities Act 1987: inserted, on 13 June 1987, by [section 11][193] of the Temporary Safeguard Authorities Act 1987 (1987 No 88).
+*   Schedule 1 Timberlands West Coast Limited: inserted, on 13 December 1991, by [section 22][254] of the Finance Act 1991 (1991 No 93).
+*   Schedule 1 Totalisator Agency Board: repealed, on 1 August 2003, by [section 69(1)][234] of the Racing Act 2003 (2003 No 3).
+*   Schedule 1 Tourist Hotel Corporation of New Zealand: repealed, on 23 March 1990, by [section 16][255] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+*   Schedule 1 Tourist Hotel Corporation of New Zealand Limited: repealed, on 15 June 1990, by [section 17(1)][256] of the Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130).
+*   Schedule 1 Transitional Fish and Game Councils: inserted, on 10 April 1990, by [section 37][186] of the Conservation Law Reform Act 1990 (1990 No 31).
+*   Schedule 1 Transmission Holdings Limited: repealed, on 22 March 2007, by [clause 3(2)(a)][210] of the State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17).
+*   Schedule 1 Universities Entrance Board: repealed, on 23 July 1990, by [section 50(1)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 University Grants Committee: repealed, on 23 July 1990, by [section 50(1)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 University of Auckland: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 University of Canterbury: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 University of Otago: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 University of Waikato: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
 *   Schedule 1 Veterinary Services Council: repealed, on 1 January 1995, by section 75(5) of the Veterinarians Act 1994 (1994 No 107).
 *   Schedule 1 Victims Task Force: expired, on 1 April 1993, by section 16 of the Victims of Offences Act 1987 (1987 No 173).
-*   Schedule 1 Victoria University of Wellington: repealed, on 1 January 1991, by [section 50(4)][206] of the Education Amendment Act 1990 (1990 No 60).
-*   Schedule 1 Waikato Carbonisation Limited: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
-*   Schedule 1 Waitaki Catchment Water Allocation Board: inserted, on 17 September 2004, by [section 12][251] of the Resource Management (Waitaki Catchment) Amendment Act 2004 (2004 No 77).
+*   Schedule 1 Victoria University of Wellington: repealed, on 1 January 1991, by [section 50(4)][212] of the Education Amendment Act 1990 (1990 No 60).
+*   Schedule 1 Waikato Carbonisation Limited: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Waitaki Catchment Water Allocation Board: inserted, on 17 September 2004, by [section 12][257] of the Resource Management (Waitaki Catchment) Amendment Act 2004 (2004 No 77).
 *   Schedule 1 War Pensions Advisory Board: inserted, on 1 April 1989, by section 10(4) of the War Pensions Amendment Act 1988 (1988 No 148).
 *   Schedule 1 War Pensions Boards: repealed, on 1 April 1989, by section 10(4) of the War Pensions Amendment Act 1988 (1988 No 148).
 *   Schedule 1 War Pensions Medical Research Trust Board: repealed, on 1 April 1989, by section 10(4) of the War Pensions Amendment Act 1988 (1988 No 148).
-*   Schedule 1 Waterfront Industry Commission: repealed, on 1 October 1989, by [section 37][252] of the Waterfront Industry Reform Act 1989 (1989 No 6).
-*   Schedule 1 Waterfront Industry Restructuring Authority: repealed, on 1 October 1992, by [section 51(e)][253] of the Waterfront Industry Restructuring Act 1989 (1989 No 66).
-*   Schedule 1 Works and Development Services Corporation (NZ) Limited: repealed, on 1 January 2003, by [clause 3][175] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
+*   Schedule 1 Waterfront Industry Commission: repealed, on 1 October 1989, by [section 37][258] of the Waterfront Industry Reform Act 1989 (1989 No 6).
+*   Schedule 1 Waterfront Industry Restructuring Authority: repealed, on 1 October 1992, by [section 51(e)][259] of the Waterfront Industry Restructuring Act 1989 (1989 No 66).
+*   Schedule 1 Works and Development Services Corporation (NZ) Limited: repealed, on 1 January 2003, by [clause 3][181] of the Official Information (First Schedule) Order 2002 (SR 2002/384).
 
 ---
 
@@ -2055,7 +2069,7 @@ Enactments amended
 
 ##### Higher Salaries Commission Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][254]._
+_Amendment(s) incorporated in the [Act(s)][260]._
 
 ##### Human Rights Commission Act 1977 (1977 No 49)
 
@@ -2067,278 +2081,235 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### New Zealand Security Intelligence Service Act 1969 (1969 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][255]._
+_Amendment(s) incorporated in the [Act(s)][261]._
 
 ##### Race Relations Act 1971 (1971 No 150)
 
-_Amendment(s) incorporated in the [Act(s)][256]._
+_Amendment(s) incorporated in the [Act(s)][262]._
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][257]._
+_Amendment(s) incorporated in the [Act(s)][263]._
 
 ##### Wanganui Computer Centre Act 1976 (1976 No 19)
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Official Information Act 1982\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][258] ![](/images/external_link.gif).
+*   This is a reprint of the Official Information Act 1982 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][259] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][264] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][265] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][260] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][266] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][267] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][261] and [17E][262] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Inquiries Act 2013 (2013 No 60): [section 39][109]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Education Amendment Act 2013 (2013 No 34): [section 48][114]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Legislation Act 2012 (2012 No 119): [section 77(3)][99]
     
+    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][215]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [section 26][178]
     
-*   Education Amendment Act 2013 (2013 No 34): [section 48][110]
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][175]
     
-    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][209]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][195]
     
-    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [section 26][172]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][105]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][169]
+    Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123): [section 97][246]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][189]
+    Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5): [section 16][113]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Amendment Act 2010 (2010 No 132): [section 18][102]
+    Immigration Act 2009 (2009 No 51): [section 406(1) ][116]
     
-    Rugby World Cup 2011 (Empowering) Act 2010 (2010 No 123): [section 97][240]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][108]
     
-    Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 (2010 No 5): [section 16][109]
+    Criminal Disclosure Act 2008 (2008 No 38): [section 38][138]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1) ][112]
+    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][225]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][105]
+    Sentencing Council Act 2007 (2007 No 25): [section 12][248]
     
-    Criminal Disclosure Act 2008 (2008 No 38): [section 38][134]
+    State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17): [clause 3(2)][210]
     
-    New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][219]
+    [Official Information Act (Schedule 1) Order 2006][268] (SR 2006/321)
     
-    Sentencing Council Act 2007 (2007 No 25): [section 12][242]
+    Overseas Investment Act 2005 (2005 No 82): [section 75][238]
     
-    State-Owned Enterprises (Kordia Group Limited) Order 2007 (SR 2007/17): [clause 3(2)][204]
+    Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36): [section 29][196]
     
-    [Official Information Act (Schedule 1) Order 2006][263] (SR 2006/321)
+    Crown Entities Act 2004 (2004 No 115): [section 200][120]
     
-    Overseas Investment Act 2005 (2005 No 82): [section 75][232]
+    Resource Management (Waitaki Catchment) Amendment Act 2004 (2004 No 77): [section 12][257]
     
-    Fiordland (Te Moana o Atawhenua) Marine Management Act 2005 (2005 No 36): [section 29][190]
+    Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38): [section 35][112]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][116]
+    New Zealand Symphony Orchestra Act 2004 (2004 No 20): [section 36][269]
     
-    Resource Management (Waitaki Catchment) Amendment Act 2004 (2004 No 77): [section 12][251]
+    Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14): [section 7(a)][191]
     
-    Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 (2004 No 38): [section 35][108]
+    [Official Information Amendment Act 2003][270] (2003 No 90)
     
-    New Zealand Symphony Orchestra Act 2004 (2004 No 20): [section 36][264]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][145]
     
-    Education (Disestablishment of Early Childhood Development Board) Amendment Act 2004 (2004 No 14): [section 7(a)][185]
+    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][103]
     
-    [Official Information Amendment Act 2003][265] (2003 No 90)
+    Wool Industry Restructuring Act 2003 (2003 No 40): [section 62(1)][237]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][141]
+    New Zealand Trade and Enterprise Act 2003 (2003 No 27): [section 84][209]
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][100]
+    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 58][214]
     
-    Wool Industry Restructuring Act 2003 (2003 No 40): [section 62(1)][231]
+    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][106]
     
-    New Zealand Trade and Enterprise Act 2003 (2003 No 27): [section 84][203]
+    Hop Industry Restructuring Act 2003 (2003 No 16): [section 12(1)][226]
     
-    Māori Television Service (Te Aratuku Whakaata Irirangi Māori) Act 2003 (2003 No 21): [section 58][208]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 30][199]
     
-    National Library of New Zealand (Te Puna Mātauranga o Aotearoa) Act 2003 (2003 No 19): [section 47][103]
+    Racing Act 2003 (2003 No 3): [section 69(1)][234]
     
-    Hop Industry Restructuring Act 2003 (2003 No 16): [section 12(1)][220]
+    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][205]
     
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 30][193]
+    Victims' Rights Act 2002 (2002 No 39): [section 53][111]
     
-    Racing Act 2003 (2003 No 3): [section 69(1)][228]
+    Parole Act 2002 (2002 No 10): [section 125][230]
     
-    Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][199]
+    [Official Information (First Schedule) Order 2002][271] (SR 2002/384)
     
-    Victims' Rights Act 2002 (2002 No 39): [section 53][107]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][107]
     
-    Parole Act 2002 (2002 No 10): [section 125][224]
+    Education Standards Act 2001 (2001 No 88): [sections 83][252], [94(a)][250]
     
-    [Official Information (First Schedule) Order 2002][266] (SR 2002/384)
+    Dairy Industry Restructuring Act 2001 (2001 No 51): [section 165(4)][221]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][104]
+    Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50): [section 10(2)][219]
     
-    Education Standards Act 2001 (2001 No 88): [sections 83][246], [94(a)][244]
+    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(3)][223]
     
-    Dairy Industry Restructuring Act 2001 (2001 No 51): [section 165(4)][215]
+    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][211]
     
-    Apple and Pear Industry Restructuring Act Repeal Act 2001 (2001 No 50): [section 10(2)][213]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][119]
     
-    Fishing Industry Board Repeal Act 2001 (2001 No 34): [section 5(3)][217]
+    Alcohol Advisory Council Amendment Act 2000 (2000 No 25): [section 25(1)][179]
     
-    State-Owned Enterprises (Landcorp Farming Limited) Order 2001 (SR 2001/23): [clause 4][205]
+    Parliamentary Service Act 2000 (2000 No 17): [section 38][115]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][115]
+    Energy Efficiency and Conservation Act 2000 (2000 No 14): [section 41][194]
     
-    Alcohol Advisory Council Amendment Act 2000 (2000 No 25): [section 25(1)][173]
+    Education (Change of Name of Education Entities) Order 2000 (SR 2000/117): [clause 4(1)][192]
     
-    Parliamentary Service Act 2000 (2000 No 17): [section 38][111]
-    
-    Energy Efficiency and Conservation Act 2000 (2000 No 14): [section 41][188]
-    
-    Education (Change of Name of Education Entities) Order 2000 (SR 2000/117): [clause 4(1)][186]
-    
-    Children's Health Camps Board Dissolution Act 1999 (1999 No 141):[section 7][178]
+    Children's Health Camps Board Dissolution Act 1999 (1999 No 141):[section 7][184]
     
     Apple and Pear Industry Restructuring Act 1999 (1999 No 96): section 27(2)
     
-    Kiwifruit Industry Restructuring Act 1999 (1999 No 95): [section 28][222]
-    
-    Mental Health Commission Act 1998 (1998 No 5): [section 14][267]
+    Kiwifruit Industry Restructuring Act 1999 (1999 No 95): [section 28][228]
     
     Meat Board Act 1997 (1997 No 105): section 82(1)
     
-    State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277): [clause 3][179]
+    State-Owned Enterprises (Solid Energy New Zealand Limited) Order 1997 (SR 1997/277): [clause 3][185]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][197]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][203]
     
-    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][218]
+    State-Owned Enterprises (Crown Forestry Management Limited) Order 1996 (SR 1996/122): [clause 3][224]
     
-    Radio New Zealand Act (No 2) 1995 (1995 No 53): [section 2][238]
+    Radio New Zealand Act (No 2) 1995 (1995 No 53): [section 2][244]
     
-    Radio New Zealand Act 1995 (1995 No 52): [section 20][239]
+    Radio New Zealand Act 1995 (1995 No 52): [section 20][245]
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][99]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][102]
     
     Veterinarians Act 1994 (1994 No 107): section 75(5)
     
-    Finance Act 1994 (1994 No 73): [section 7(1)][192]
+    Finance Act 1994 (1994 No 73): [section 7(1)][198]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][114]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][118]
     
-    Southland Electricity Act 1993 (1993 No 147): [section 34][235]
+    Southland Electricity Act 1993 (1993 No 147): [section 34][241]
     
-    Takeovers Act 1993 (1993 No 107): [section 49][245]
+    Takeovers Act 1993 (1993 No 107): [section 49][251]
     
-    Financial Reporting Act 1993 (1993 No 106): [section 35][268]
+    Human Rights Act 1993 (1993 No 82): [section 145][208]
     
-    Human Rights Act 1993 (1993 No 82): [section 145][202]
+    [Official Information Amendment Act 1993][272] (1993 No 36)
     
-    [Official Information Amendment Act 1993][269] (1993 No 36)
+    Electricity Act 1992 (1992 No 122): [section 56(1)][247]
     
-    Electricity Act 1992 (1992 No 122): [section 56(1)][241]
-    
-    Housing Restructuring Act 1992 (1992 No 76): [section 41][201]
+    Housing Restructuring Act 1992 (1992 No 76): [section 41][207]
     
     Racing Amendment Act 1992 (1992 No 41): section 41
     
     Official Information Amendment Act 1992 (1992 No 24)
     
-    New Zealand Export-Import Corporation Dissolution Act 1992 (1992 No 23): [section 7][216]
+    New Zealand Export-Import Corporation Dissolution Act 1992 (1992 No 23): [section 7][222]
     
-    State-Owned Enterprises Order 1992 (SR 1992/181): [clause 4][210]
+    State-Owned Enterprises Order 1992 (SR 1992/181): [clause 4][216]
     
     Privacy Commissioner Act 1991 (1991 No 126): section 37
     
-    New Zealand Planning Council Dissolution Act 1991 (1991 No 97): [section 8][225]
+    New Zealand Planning Council Dissolution Act 1991 (1991 No 97): [section 8][231]
     
-    Finance Act 1991 (1991 No 93): [sections 6][270], [9(1)][194], [12(1)][196], [19][212], [22][248]
+    Finance Act 1991 (1991 No 93): [sections 6][273], [9(1)][200], [12(1)][202], [19][218], [22][254]
     
     Legal Services Act 1991 (1991 No 71): section 159(1)
     
-    Animal Control Products Limited Act 1991 (1991 No 36): [section 19][174]
+    Animal Control Products Limited Act 1991 (1991 No 36): [section 19][180]
     
-    [Official Information Order 1991][271] (SR 1991/130)
+    [Official Information Order 1991][274] (SR 1991/130)
     
-    Health Research Council Act 1990 (1990 No 68): [section 58][198]
+    Health Research Council Act 1990 (1990 No 68): [section 58][204]
     
-    Education Amendment Act 1990 (1990 No 60): [section 50(1), (4)][206]
+    Education Amendment Act 1990 (1990 No 60): [section 50(1), (4)][212]
     
-    State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49): [section 4(1)][223]
+    State-Owned Enterprises Amendment Act (No 2) 1990 (1990 No 49): [section 4(1)][229]
     
-    Conservation Law Reform Act 1990 (1990 No 31): [section 37][180]
+    Conservation Law Reform Act 1990 (1990 No 31): [section 37][186]
     
-    Finance Act 1990 (1990 No 20): [section 5][247]
+    Finance Act 1990 (1990 No 20): [section 5][253]
     
-    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(e)][214]
+    New Zealand Council for Postgraduate Medical Education Act Repeal Act 1990 (1990 No 10): [section 4(e)][220]
     
-    Education Amendment Act 1989 (1989 No 156): [section 49(6)][101]
+    Education Amendment Act 1989 (1989 No 156): [section 49(6)][104]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][96]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][168]
     
     Meat Export Control Amendment Act 1989 (1989 No 132): sections 4(3), 12(1)(d)
     
-    Phosphate Commission of New Zealand Dissolution Act 1989 (1989 No 131): [section 2(4)][233]
+    Phosphate Commission of New Zealand Dissolution Act 1989 (1989 No 131): [section 2(4)][239]
     
-    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [sections 16][249], [17(1)][250]
+    Tourist Hotel Corporation of New Zealand Act 1989 (1989 No 130): [sections 16][255], [17(1)][256]
     
-    [Official Information Amendment Act 1989][272] (1989 No 122)
+    [Official Information Amendment Act 1989][275] (1989 No 122)
     
     Gaming and Lotteries Amendment Act 1989 (1989 No 118): section 6(4)
     
-    Education Act 1989 (1989 No 80): [section 142(2)][176]
+    Education Act 1989 (1989 No 80): [section 142(2)][182]
     
-    Waterfront Industry Restructuring Act 1989 (1989 No 66): [section 51(e)][253]
+    Waterfront Industry Restructuring Act 1989 (1989 No 66): [section 51(e)][259]
     
-    Broadcasting Act 1989 (1989 No 25): [section 88][177]
+    Broadcasting Act 1989 (1989 No 25): [section 88][183]
     
-    Waterfront Industry Reform Act 1989 (1989 No 6): [section 37][252]
+    Waterfront Industry Reform Act 1989 (1989 No 6): [section 37][258]
     
-    Poultry Board Act Repeal Act 1989 (1989 No 4): [section 4(4)][227]
+    Poultry Board Act Repeal Act 1989 (1989 No 4): [section 4(4)][233]
     
-    Post Office Bank Amendment Act 1988 (1988 No 173): [section 3][234]
+    Post Office Bank Amendment Act 1988 (1988 No 173): [section 3][240]
     
-    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 11][221]
+    Testing Laboratory Registration Amendment Act 1988 (1988 No 167): [section 11][227]
     
     Wool Testing Authority Dissolution Act 1988 (1988 No 166): sections 25(1), 27(2)
     
@@ -2348,41 +2319,41 @@ _Amendment(s) incorporated in the Act(s)._
     
     New Zealand Trade Development Board Act 1988 (1988 No 160): section 12(2)
     
-    Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154): [section 5][243]
+    Shipping Corporation of New Zealand Act Repeal Act 1988 (1988 No 154): [section 5][249]
     
     War Pensions Amendment Act 1988 (1988 No 148): section 10(4)
     
-    Consumer Council Act Repeal Act 1988 (1988 No 144): [section 9][181]
+    Consumer Council Act Repeal Act 1988 (1988 No 144): [section 9][187]
     
-    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 15(1), (4)][184]
+    Development Finance Corporation of New Zealand Amendment Act 1988 (1988 No 141): [section 15(1), (4)][190]
     
-    Finance Act (No 2) 1988 (1988 No 128): [sections 15][195], [21][182], [25][170]
+    Finance Act (No 2) 1988 (1988 No 128): [sections 15][201], [21][188], [25][176]
     
     Canterbury Provincial Buildings Vesting Amendment Act 1988 (1988 No 106): section 2(6)
     
-    Port Companies Act 1988 (1988 No 91): [section 41(2)][226]
+    Port Companies Act 1988 (1988 No 91): [section 41(2)][232]
     
-    State Sector Act 1988 (1988 No 20): [section 90(d)][130]
+    State Sector Act 1988 (1988 No 20): [section 90(d)][134]
     
     Milk Act 1988 (1988 No 13): section 27(2)
     
-    Finance Act 1987 (1987 No 200): [sections 13(1)(c), (5)][207], [14(1)(d)][211]
+    Finance Act 1987 (1987 No 200): [sections 13(5)][213], [14(1)(d)][217]
     
-    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 57(1)][97]
+    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 57(1)][100]
     
     Victims of Offences Act 1987 (1987 No 173): section 16
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
-    Temporary Safeguard Authorities Act 1987 (1987 No 88): [section 11][187]
+    Temporary Safeguard Authorities Act 1987 (1987 No 88): [section 11][193]
     
-    New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86): [section 27][237]
+    New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987 (1987 No 86): [section 27][243]
     
-    Immigration Act 1987 (1987 No 74): [section 151(1)][113]
+    Immigration Act 1987 (1987 No 74): [section 151(1)][117]
     
-    [Official Information Amendment Act 1987][273] (1987 No 8)
+    [Official Information Amendment Act 1987][276] (1987 No 8)
     
-    Wheat Board Amendment Act 1986 (1986 No 25): [section 14(2)][230]
+    Wheat Board Amendment Act 1986 (1986 No 25): [section 14(2)][236]
     
     Parliamentary Service Act 1985 (1985 No 128): section 71(1)
     
@@ -2392,7 +2363,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1982/0156/latest/whole.html#DLM64787
 [2]: http://www.legislation.govt.nz/act/public/1982/0156/latest/whole.html#DLM64789
 [3]: http://www.legislation.govt.nz/act/public/1982/0156/latest/whole.html#DLM64790
@@ -2470,199 +2441,202 @@ _Amendment(s) incorporated in the Act(s)._
 [75]: http://www.legislation.govt.nz/act/public/1982/0156/latest/whole.html#DLM66502
 [76]: http://www.legislation.govt.nz/act/public/1982/0156/latest/whole.html#DLM66504
 [77]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431205
-[78]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195097
+[78]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2997643
 [79]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM123616
 [80]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM146601
 [81]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM192202
 [82]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM304703
 [83]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM139130
-[84]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM430983
-[85]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM296638
-[86]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM157880
-[87]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM293552
-[88]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431296
-[89]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM175965
-[90]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440598
-[91]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440599
-[92]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440600
-[93]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM97382
-[94]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM319569
-[95]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM329630
-[96]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195558
-[97]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM123614
-[98]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101326
-[99]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM367235
-[100]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM201378
-[101]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM199357
-[102]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3430033
-[103]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM192277
-[104]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM124529
-[105]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1583888
-[106]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299187
-[107]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM158562
-[108]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM293718
-[109]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1216636
-[110]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM5138530
-[111]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM56326
-[112]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1441347
-[113]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM114322
-[114]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM328986
-[115]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM81644
-[116]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM331111
-[117]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101327
-[118]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299189
-[119]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299190
-[120]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101329
-[121]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101328
-[122]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM408360
-[123]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431156
-[124]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM297038
-[125]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101330
-[126]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299188
-[127]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM122295
-[128]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101333
-[129]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194217
-[130]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM130377
-[131]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101334
-[132]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1378802
-[133]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101335
-[134]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1378898
-[135]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218144
-[136]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101343
-[137]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194218
-[138]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218147
-[139]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101338
-[140]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM204329
-[141]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM205009
-[142]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101339
-[143]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299191
-[144]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299192
-[145]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101342
-[146]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218148
-[147]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431123
-[148]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431126
-[149]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431173
-[150]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431148
-[151]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101344
-[152]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299193
-[153]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431166
-[154]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM408368
-[155]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101345
-[156]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147320
-[157]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101346
-[158]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194219
-[159]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM65920
-[160]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101348
-[161]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195534
-[162]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101349
-[163]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101350
-[164]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM379840
-[165]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171482
-[166]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM180448
-[167]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM356737
-[168]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM117316
-[169]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3701759
-[170]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136188
-[171]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218149
-[172]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM4484110
-[173]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM63085
-[174]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM229571
-[175]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171038
-[176]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM182043
-[177]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM158930
-[178]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM49649
-[179]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM239992
-[180]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM208750
-[181]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136750
-[182]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136177
-[183]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM413362
-[184]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136728
-[185]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM241067
-[186]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM6021
-[187]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM117368
-[188]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM55735
-[189]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3231793
-[190]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM341276
-[191]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248286
-[192]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM332899
-[193]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM187861
-[194]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248701
-[195]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136163
-[196]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248708
-[197]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM385160
-[198]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM213348
-[199]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM167443
-[200]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147886
-[201]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM269655
-[202]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM305710
-[203]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM197801
-[204]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM426134
-[205]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM21620
-[206]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM212679
-[207]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM125692
-[208]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194562
-[209]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM4484313
-[210]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM165478
-[211]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM125694
-[212]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248722
-[213]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM106744
-[214]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM203557
-[215]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM110110
-[216]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM261053
-[217]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM92784
-[218]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM211617
-[219]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1065526
-[220]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM189905
-[221]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM138778
-[222]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM38644
-[223]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM210987
-[224]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM140118
-[225]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248774
-[226]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM132506
-[227]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM143214
-[228]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM185072
-[229]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM243147
-[230]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM92896
-[231]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM201327
-[232]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM358540
-[233]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194296
-[234]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM139230
-[235]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM328929
-[236]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299194
-[237]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM115176
-[238]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM368674
-[239]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM368655
-[240]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2902455
-[241]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM282825
-[242]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM410063
-[243]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136764
-[244]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM119207
-[245]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM326769
-[246]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM118875
-[247]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM203568
-[248]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248731
-[249]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194274
-[250]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194277
-[251]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM310997
-[252]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM143281
-[253]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM169930
-[254]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM16452
-[255]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM391611
-[256]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM399726
-[257]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM28103
-[258]: http://www.pco.parliament.govt.nz/reprints/
-[259]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195439
-[260]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[261]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195468
-[262]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195470
-[263]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM413354
-[264]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM243453
-[265]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218138
-[266]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171032
-[267]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM424176
-[268]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM325128
-[269]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299181
-[270]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248292
-[271]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147881
-[272]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194211
-[273]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101320
+[84]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1566150
+[85]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1566180
+[86]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM430983
+[87]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM296638
+[88]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM157880
+[89]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM293552
+[90]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431296
+[91]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM175965
+[92]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440598
+[93]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440599
+[94]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1440600
+[95]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM97382
+[96]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM319569
+[97]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM329630
+[98]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1566136
+[99]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998633
+[100]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM123614
+[101]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101326
+[102]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM367235
+[103]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM201378
+[104]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM199357
+[105]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3430033
+[106]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM192277
+[107]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM124529
+[108]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1583888
+[109]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1566190
+[110]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299187
+[111]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM158562
+[112]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM293718
+[113]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1216636
+[114]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM5138530
+[115]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM56326
+[116]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1441347
+[117]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM114322
+[118]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM328986
+[119]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM81644
+[120]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM331111
+[121]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101327
+[122]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299189
+[123]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299190
+[124]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101329
+[125]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101328
+[126]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM408360
+[127]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431156
+[128]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM297038
+[129]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101330
+[130]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299188
+[131]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM122295
+[132]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101333
+[133]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194217
+[134]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM130377
+[135]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101334
+[136]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1378802
+[137]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101335
+[138]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1378898
+[139]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218144
+[140]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101343
+[141]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194218
+[142]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218147
+[143]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101338
+[144]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM204329
+[145]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM205009
+[146]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101339
+[147]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299191
+[148]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299192
+[149]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101342
+[150]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218148
+[151]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431123
+[152]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431126
+[153]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431173
+[154]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431148
+[155]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101344
+[156]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299193
+[157]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM431166
+[158]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM408368
+[159]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101345
+[160]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147320
+[161]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101346
+[162]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194219
+[163]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM65920
+[164]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101348
+[165]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998573
+[166]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195534
+[167]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101349
+[168]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM195558
+[169]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101350
+[170]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM379840
+[171]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171482
+[172]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM180448
+[173]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM356737
+[174]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM117316
+[175]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3701759
+[176]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136188
+[177]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218149
+[178]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM4484110
+[179]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM63085
+[180]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM229571
+[181]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171038
+[182]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM182043
+[183]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM158930
+[184]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM49649
+[185]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM239992
+[186]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM208750
+[187]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136750
+[188]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136177
+[189]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM413362
+[190]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136728
+[191]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM241067
+[192]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM6021
+[193]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM117368
+[194]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM55735
+[195]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM3231793
+[196]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM341276
+[197]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248286
+[198]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM332899
+[199]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM187861
+[200]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248701
+[201]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136163
+[202]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248708
+[203]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM385160
+[204]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM213348
+[205]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM167443
+[206]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147886
+[207]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM269655
+[208]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM305710
+[209]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM197801
+[210]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM426134
+[211]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM21620
+[212]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM212679
+[213]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM125692
+[214]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194562
+[215]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM4484313
+[216]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM165478
+[217]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM125694
+[218]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248722
+[219]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM106744
+[220]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM203557
+[221]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM110110
+[222]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM261053
+[223]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM92784
+[224]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM211617
+[225]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM1065526
+[226]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM189905
+[227]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM138778
+[228]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM38644
+[229]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM210987
+[230]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM140118
+[231]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248774
+[232]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM132506
+[233]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM143214
+[234]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM185072
+[235]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM243147
+[236]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM92896
+[237]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM201327
+[238]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM358540
+[239]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194296
+[240]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM139230
+[241]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM328929
+[242]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299194
+[243]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM115176
+[244]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM368674
+[245]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM368655
+[246]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2902455
+[247]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM282825
+[248]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM410063
+[249]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM136764
+[250]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM119207
+[251]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM326769
+[252]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM118875
+[253]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM203568
+[254]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248731
+[255]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194274
+[256]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194277
+[257]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM310997
+[258]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM143281
+[259]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM169930
+[260]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM16452
+[261]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM391611
+[262]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM399726
+[263]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM28103
+[264]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998516
+[265]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998515
+[266]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM2998532
+[267]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[268]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM413354
+[269]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM243453
+[270]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM218138
+[271]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM171032
+[272]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM299181
+[273]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM248292
+[274]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM147881
+[275]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM194211
+[276]: http://www.legislation.govt.nz/act/public/1982/0156/latest/link.aspx?id=DLM101320
