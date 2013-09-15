@@ -1,5 +1,5 @@
 Reprint  
-as at 19 December 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -209,8 +209,6 @@ An Act to give proper recognition to New Zealand passports and to the right of N
     
     _certificate of identity_ means a document (other than a passport or an emergency travel document or a refugee travel document) issued by the Government of any country to any person for the purposes of facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
     
-    _conviction on indictment_ has the same meaning as in the [Crimes Act 1961][85]
-    
     _emergency travel document_ means a document (other than a passport or a certificate of identity or a refugee travel document) issued, pursuant to [section 23][35], by or on behalf of the Government of New Zealand to any person who may be a New Zealand citizen for the purposes of urgently facilitating his or her entry into or exit from any country, and purporting to establish the identity but not the nationality of that person
     
     _holder_, in relation to a New Zealand travel document, means the person in whose name the document has been issued
@@ -231,13 +229,13 @@ An Act to give proper recognition to New Zealand passports and to the right of N
         
     *   (a) has been---
             
-        *   (i) recognised by a refugee and protection officer or the Immigration and Protection Tribunal as a refugee within the meaning of the [Immigration Act 2009][86]; or
+        *   (i) recognised by a refugee and protection officer or the Immigration and Protection Tribunal as a refugee within the meaning of the [Immigration Act 2009][85]; or
         
-        *   (ii) recognised outside New Zealand as a refugee under the Refugee Convention (as defined in [section 4][87] of the Immigration Act 2009) and brought to New Zealand under a government mandated programme on the basis of that recognition; or
+        *   (ii) recognised outside New Zealand as a refugee under the Refugee Convention (as defined in [section 4][86] of the Immigration Act 2009) and brought to New Zealand under a government mandated programme on the basis of that recognition; or
         
-        *   (iii) determined, before the date fixed under [section 2(1)][88] of the Immigration Act 2009 for the coming into force of that Act, to be a refugee in accordance with the Refugee Convention (as defined in [section 2(1)][89] of the Immigration Act 1987); or
+        *   (iii) determined, before the date fixed under [section 2(1)][87] of the Immigration Act 2009 for the coming into force of that Act, to be a refugee in accordance with the Refugee Convention (as defined in [section 2(1)][88] of the Immigration Act 1987); or
         
-        *   (iv) granted a permit by the Minister of Immigration or an immigration officer under the [Immigration Act 1987][90] on the basis that he or she was mandated as a refugee by the United Nations High Commissioner for Refugees; or
+        *   (iv) granted a permit by the Minister of Immigration or an immigration officer under the [Immigration Act 1987][89] on the basis that he or she was mandated as a refugee by the United Nations High Commissioner for Refugees; or
         
         *   (v) recognised, before 1 January 1991, as a refugee by the Interdepartmental Committee on Refugees; and
         
@@ -253,19 +251,21 @@ An Act to give proper recognition to New Zealand passports and to the right of N
     
     Compare: 1980 No 58 s 2
     
-    Section 2 **applicant**: substituted, on 21 April 2005, by [section 4(1)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **applicant**: substituted, on 21 April 2005, by [section 4(1)][90] of the Passports Amendment Act 2005 (2005 No 44).
     
-    Section 2 **certificate of identity**: amended, on 21 April 2005, by [section 4(2)(a)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **certificate of identity**: amended, on 21 April 2005, by [section 4(2)(a)][90] of the Passports Amendment Act 2005 (2005 No 44).
     
-    Section 2 **emergency travel document**: amended, on 21 April 2005, by [section 4(2)(b)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **conviction on indictment**: repealed, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 2 **holder**: substituted, on 21 April 2005, by [section 4(3)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **emergency travel document**: amended, on 21 April 2005, by [section 4(2)(b)][90] of the Passports Amendment Act 2005 (2005 No 44).
     
-    Section 2 **New Zealand refugee travel document**: inserted, on 21 April 2005, by [section 4(4)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **holder**: substituted, on 21 April 2005, by [section 4(3)][90] of the Passports Amendment Act 2005 (2005 No 44).
+    
+    Section 2 **New Zealand refugee travel document**: inserted, on 21 April 2005, by [section 4(4)][90] of the Passports Amendment Act 2005 (2005 No 44).
     
     Section 2 **New Zealand travel document**: inserted, on 18 June 2002, by [section 3][92] of the Passports Amendment Act 2002 (2002 No 24).
     
-    Section 2 **New Zealand travel document**: amended, on 21 April 2005, by [section 4(5)][91] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 2 **New Zealand travel document**: amended, on 21 April 2005, by [section 4(5)][90] of the Passports Amendment Act 2005 (2005 No 44).
     
     Section 2 **officer**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
     
@@ -1219,11 +1219,13 @@ Miscellaneous provisions
     
     _forges_ and _forged_ have meanings corresponding to the meaning given to forgery by [section 256][136] of the Crimes Act 1961\.
     
-    (3) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
     
     Section 29A: inserted, on 18 June 2002, by [section 9][137] of the Passports Amendment Act 2002 (2002 No 24).
     
     Section 29A(2) **forges** and **forged**: amended, on 21 April 2005, by [section 25][138] of the Passports Amendment Act 2005 (2005 No 44).
+    
+    Section 29A(3): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Offences relating to passport information and material
     
@@ -1263,21 +1265,25 @@ Miscellaneous provisions
     
     (3) In subsection (1), _passport database_ means a file, register, or device in or on which information is or is to be recorded by officers for the purposes of this Act.
     
-    (4) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+    (4) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
     
     Section 30: substituted, on 18 June 2002, by [section 9][137] of the Passports Amendment Act 2002 (2002 No 24).
+    
+    Section 30(4): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30A Improper issue of New Zealand travel document
     
 *   (1) Every person commits an offence who, without lawful authority or reasonable excuse, issues a New Zealand travel document (whether or not to the person to whom it relates) knowing that the person to whom it relates is not entitled to be issued it.
     
-    (2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
     
     Section 30A: inserted, on 18 June 2002, by [section 9][137] of the Passports Amendment Act 2002 (2002 No 24).
+    
+    Section 30A(2): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Other offences
     
-*   (1) Every person commits a crime who---
+*   (1) Every person commits an offence who---
         
     *   (a) for purposes of travel and without reasonable excuse, uses a New Zealand travel document that he or she knows or has reasonable cause to suspect has expired or has been cancelled; or
     
@@ -1297,13 +1303,15 @@ Miscellaneous provisions
         
         
     
-    (2) Every person commits a crime who intentionally defaces or destroys a New Zealand travel document.
+    (2) Every person commits an offence who intentionally defaces or destroys a New Zealand travel document.
     
-    (3) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, a fine not exceeding $250,000, or both.
     
-    (4) Every person who commits an offence against subsection (2) is liable on conviction on indictment to imprisonment for a term not exceeding 2 years.
+    (4) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 2 years.
     
     Compare: 1980 No 58 s 12
+    
+    Section 31(1): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 31(1)(a): amended, on 21 April 2005, by [section 26][139] of the Passports Amendment Act 2005 (2005 No 44).
     
@@ -1315,11 +1323,17 @@ Miscellaneous provisions
     
     Section 31(1)(e): repealed, on 18 June 2002, by [section 10(1)][140] of the Passports Amendment Act 2002 (2002 No 24).
     
+    Section 31(2): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 31(2): amended, on 21 April 2005, by [section 26][139] of the Passports Amendment Act 2005 (2005 No 44).
     
     Section 31(3): substituted, on 18 June 2002, by [section 10(2)][140] of the Passports Amendment Act 2002 (2002 No 24).
     
+    Section 31(3): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 31(4): added, on 18 June 2002, by [section 10(2)][140] of the Passports Amendment Act 2002 (2002 No 24).
+    
+    Section 31(4): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31A Jurisdiction in respect of actions taken outside New Zealand
     
@@ -1335,9 +1349,11 @@ Miscellaneous provisions
     
     *   (b) recklessly makes a written or oral statement that is false or misleading in a material particular.
     
-    (2) Every person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, a fine not exceeding $15,000, or both.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years, a fine not exceeding $15,000, or both.
     
     Section 32: substituted, on 18 June 2002, by [section 11][141] of the Passports Amendment Act 2002 (2002 No 24).
+    
+    Section 32(2): amended, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32A Court may forbid issue of passport
     
@@ -1507,27 +1523,19 @@ Miscellaneous provisions
 
 ##### 38 Penalties
     
-*   (1) Every person who commits an offence under this Act in respect of which either---
-        
-    *   (a) no penalty is provided elsewhere than in this section; or
+*   (1) Every person who commits an offence under this Act in respect of which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
     
-    *   (b) proceedings in respect of that offence have been taken in a summary way in accordance with the [Summary Proceedings Act 1957][154],---
+    (2) Despite anything to the contrary in [section 25][154] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
     
-    is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
+    (3) Subsection (2) does not limit the time for filing a charging document for an offence against any of [sections 29A(1)][58], [30(1)][59], [30A(1)][60], [31(1) or (2)][61], or [32(1)][63].
     
-    (2) Notwithstanding [section 14][155] of the Summary Proceedings Act 1957, an information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
-    
-    (3) Subsection (2) does not limit the time for laying an information for an offence for which a defendant may be proceeded against by indictment.
-    
-    Compare: 1980 No 58 s 16
-    
-    Section 38(3): added, on 21 April 2005, by [section 31][156] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 38: replaced, on 1 July 2013, by [section 413][91] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 39 Offences triable summarily
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 18 June 2002, by [section 12(2)][157] of the Passports Amendment Act 2002 (2002 No 24).
+    Section 39: repealed, on 18 June 2002, by [section 12(2)][155] of the Passports Amendment Act 2002 (2002 No 24).
 
 #### Regulations
 
@@ -1549,9 +1557,9 @@ Miscellaneous provisions
     
     Compare: 1980 No 58 s 18
     
-    Section 40(a)(i): amended, on 21 April 2005, by [section 32(a)][158] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 40(a)(i): amended, on 21 April 2005, by [section 32(a)][156] of the Passports Amendment Act 2005 (2005 No 44).
     
-    Section 40(a)(ii): amended, on 21 April 2005, by [section 32(b)][158] of the Passports Amendment Act 2005 (2005 No 44).
+    Section 40(a)(ii): amended, on 21 April 2005, by [section 32(b)][156] of the Passports Amendment Act 2005 (2005 No 44).
 
 #### Repeals
 
@@ -1561,9 +1569,9 @@ Miscellaneous provisions
         
     *   (a) the Passports Act 1980:
     
-    *   (b) _Amendment(s) incorporated in the [Act(s)][159]_:
+    *   (b) _Amendment(s) incorporated in the [Act(s)][157]_:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][160]_:
+    *   (c) _Amendment(s) incorporated in the [Act(s)][158]_:
     
     *   (d) the Passports Amendment Act 1987:
     
@@ -1645,23 +1653,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Passports Act 1992\. The reprint incorporates all the amendments to the Act as at 19 December 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Passports Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][161] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][159] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][162] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][160] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][163] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][161] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][164] and [17E][165] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][162] and [17E][163] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1694,6 +1702,8 @@ Commencementsee section 2
     
 *   Identity Information Confirmation Act 2012 (2012 No 124): [section 22][153]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][91]
+    
     Immigration Act 2009 (2009 No 51): [section 406(1) ][94]
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][93]
@@ -1702,13 +1712,13 @@ Commencementsee section 2
     
     [Passports Amendment Act 2005][150] (2005 No 44)
     
-    [Passports Amendment Act 2003][166] (2003 No 92)
+    [Passports Amendment Act 2003][164] (2003 No 92)
     
-    [Passports Amendment Act 2002][167] (2002 No 24)
+    [Passports Amendment Act 2002][165] (2002 No 24)
     
     Sentencing Act 2002 (2002 No 9): [section 186][100]
     
-    [Passports Amendment Act 1994][168] (1994 No 156)
+    [Passports Amendment Act 1994][166] (1994 No 156)
 
 
 
@@ -1797,13 +1807,13 @@ Commencementsee section 2
 [82]: http://www.legislation.govt.nz/act/public/1992/0092/latest/whole.html#DLM278348
 [83]: http://www.legislation.govt.nz/act/public/1992/0092/latest/whole.html#DLM278349
 [84]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM346789
-[85]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM327381
-[86]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440300
-[87]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440311
-[88]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440307
-[89]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM108024
-[90]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM108017
-[91]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM346790
+[85]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440300
+[86]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440311
+[87]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1440307
+[88]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM108024
+[89]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM108017
+[90]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM346790
+[91]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM3360714
 [92]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM146270
 [93]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1102349
 [94]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM1441347
@@ -1866,18 +1876,16 @@ Commencementsee section 2
 [151]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347044
 [152]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM3136800
 [153]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM3136868
-[154]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM310742
-[155]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM311191
-[156]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347045
-[157]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM146294
-[158]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347046
-[159]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM79159
-[160]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM114923
-[161]: http://www.pco.parliament.govt.nz/reprints/
-[162]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195439
-[163]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[164]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195468
-[165]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195470
-[166]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM218164
-[167]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM146264
-[168]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347414
+[154]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM3360067
+[155]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM146294
+[156]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347046
+[157]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM79159
+[158]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM114923
+[159]: http://www.pco.parliament.govt.nz/reprints/
+[160]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195439
+[161]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[162]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195468
+[163]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM195470
+[164]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM218164
+[165]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM146264
+[166]: http://www.legislation.govt.nz/act/public/1992/0092/latest/link.aspx?id=DLM347414
