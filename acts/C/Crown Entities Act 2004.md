@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2013
+as at 8 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the State Services Commission and the Treasury.
 
@@ -40,509 +40,532 @@ This Act is administered by the State Services Commission and the Treasury.
 
 [7][8][][8][Meaning of Crown entity and categories of Crown entities][8]
 
-[8][9][][9][Meaning of parent Crown entity and Crown entity subsidiary][9]
+[7A][9][][9][Meaning of multi-parent subsidiary][9]
 
-[9][10][][10][Power to amend Schedules 1 and 2][10]
+[8][10][][10][Meaning of parent Crown entity][10]
 
-[10][11][][11][Interpretation][11]
+[9][11][][11][Power to amend Schedules 1 and 2][11]
 
-[11][12][][12][Act binds the Crown][12]
+[10][12][][12][Interpretation][12]
 
-[12][13][][13][Outline of main Crown entity provisions][13]
+[10A][13][][13][Provisions affecting application of amendments to this Act][13]
 
-[Part 2][14]  
-[Establishment and governance of Crown entities][14]
+[10B][14][][14][Status of examples][14]
 
-[Subpart 1][15][---][15][Statutory entities][15]
+[11][15][][15][Act binds the Crown][15]
 
-[Establishment of statutory entity][16]
+[12][16][][16][Outline of main Crown entity provisions][16]
 
-[13][17][][17][Establishment of statutory entity][17]
+[Part 2][17]  
+[Establishment and governance of Crown entities][17]
 
-[14][18][][18][Functions][18]
+[Subpart 1][18][---][18][Statutory entities][18]
 
-[15][19][][19][Status of statutory entity][19]
+[Establishment of statutory entity][19]
 
-[16][20][][20][Core things statutory entities can do][20]
+[13][20][][20][Establishment of statutory entity][20]
 
-[17][21][][21][Other things statutory entities can do][21]
+[14][21][][21][Functions][21]
 
-[18][22][][22][Acts must be for purpose of functions][22]
+[15][22][][22][Status of statutory entity][22]
 
-[Validity of acts][23]
+[16][23][][23][Core things statutory entities can do][23]
 
-[19][24][][24][Acts in breach of statute are invalid][24]
+[17][24][][24][Other things statutory entities can do][24]
 
-[20][25][][25][Some natural person acts protected][25]
+[18][25][][25][Acts must be for purpose of functions][25]
 
-[21][26][][26][Limits on protection of natural person acts][26]
+[Validity of acts][26]
 
-[22][27][][27][Acts that are not in best interests of statutory entity][27]
+[19][27][][27][Acts in breach of statute are invalid][27]
 
-[23][28][][28][Dealings between statutory entities and other persons][28]
+[20][28][][28][Some natural person acts protected][28]
 
-[24][29][][29][Interpretation][29]
+[21][29][][29][Limits on protection of natural person acts][29]
 
-[Role and accountability of members][30]
+[22][30][][30][Acts that are not in best interests of statutory entity][30]
 
-[25][31][][31][Board's role][31]
+[23][31][][31][Dealings between statutory entities and other persons][31]
 
-[26][32][][32][Accountability of members to responsible Minister][32]
+[24][32][][32][Interpretation][32]
 
-[Responsible Minister's role][33]
+[Role and accountability of members][33]
 
-[27][34][][34][Responsible Minister's role][34]
+[25][34][][34][Board's role][34]
 
-[Appointment, removal, and conditions of members][35]
+[26][35][][35][Accountability of members to responsible Minister][35]
 
-[28][36][][36][Method of appointment of members][36]
+[Responsible Minister's role][36]
 
-[29][37][][37][Criteria for appointments or recommendations by responsible Minister][37]
+[27][37][][37][Responsible Minister's role][37]
 
-[30][38][][38][Qualifications of members][38]
+[Monitor's role][38]
 
-[31][39][][39][Requirements before appointment][39]
+[27A][39][][39][Monitor's role][39]
 
-[32][40][][40][Term of office of members][40]
+[Appointment, removal, and conditions of members][40]
 
-[33][41][][41][Elected, co-opted, etc, members][41]
+[28][41][][41][Method of appointment of members][41]
 
-[34][42][][42][Validity of members' acts][42]
+[29][42][][42][Criteria for appointments or recommendations by responsible Minister][42]
 
-[35][43][][43][Validity of appointments][43]
+[30][43][][43][Qualifications of members][43]
 
-[36][44][][44][Removal of members of Crown agents][44]
+[31][44][][44][Requirements before appointment][44]
 
-[37][45][][45][Removal of members of autonomous Crown entities][45]
+[32][45][][45][Term of office of members][45]
 
-[38][46][][46][Removal of elected members of Crown agents and autonomous Crown entities][46]
+[33][46][][46][Elected, co-opted, etc, members][46]
 
-[39][47][][47][Removal of members of independent Crown entities][47]
+[34][47][][47][Validity of members' acts][47]
 
-[40][48][][48][Just cause][48]
+[35][48][][48][Validity of appointments][48]
 
-[41][49][][49][Process for removal][49]
+[36][49][][49][Removal of members of Crown agents][49]
 
-[42][50][][50][Judges serving as members][50]
+[37][50][][50][Removal of members of autonomous Crown entities][50]
 
-[43][51][][51][No compensation for loss of office][51]
+[38][51][][51][Removal of elected members of Crown agents and autonomous Crown entities][51]
 
-[44][52][][52][Resignation of members][52]
+[39][52][][52][Removal of members of independent Crown entities][52]
 
-[45][53][][53][Members ceasing to hold office][53]
+[40][53][][53][Just cause][53]
 
-[46][54][][54][Member of corporation sole not to hold concurrent office][54]
+[41][54][][54][Process for removal][54]
 
-[Remuneration and expenses][55]
+[42][55][][55][Judges serving as members][55]
 
-[47][56][][56][Remuneration of members][56]
+[43][56][][56][No compensation for loss of office][56]
 
-[48][57][][57][Expenses of members][57]
+[44][57][][57][Resignation of members][57]
 
-[Collective duties of board][58]
+[45][58][][58][Members ceasing to hold office][58]
 
-[49][59][][59][Entity must act consistently with objectives, functions, statement of intent, and output agreement][59]
+[46][59][][59][Member of corporation sole not to hold concurrent office][59]
 
-[50][60][][60][Functions must be performed efficiently, effectively, and consistently with spirit of service to public][60]
+[Remuneration and expenses][60]
 
-[51][61][][61][Entity must operate in financially responsible manner][61]
+[47][61][][61][Remuneration of members][61]
 
-[52][62][][62][Subsidiaries and other interests][62]
+[48][62][][62][Expenses of members][62]
 
-[Individual duties of members][63]
+[Collective duties of board][63]
 
-[53][64][][64][Duty to comply with this Act and entity's Act][64]
+[49][64][][64][Entity must act consistently with objectives, functions, statement of intent, and output agreement][64]
 
-[54][65][][65][Duty to act with honesty and integrity][65]
+[50][65][][65][Manner in which functions must be performed][65]
 
-[55][66][][66][Duty to act in good faith and not at expense of entity's interests][66]
+[51][66][][66][Entity must operate in financially responsible manner][66]
 
-[56][67][][67][Duty to act with reasonable care, diligence, and skill][67]
+[52][67][][67][Subsidiaries and other interests][67]
 
-[57][68][][68][Duty not to disclose information][68]
+[Individual duties of members][68]
 
-[Effect of non-compliance with duties][69]
+[53][69][][69][Duty to comply with this Act and entity's Act][69]
 
-[58][70][][70][Accountability for collective board duties][70]
+[54][70][][70][Duty to act with honesty and integrity][70]
 
-[59][71][][71][Accountability for individual duties][71]
+[55][71][][71][Duty to act in good faith and not at expense of entity's interests][71]
 
-[60][72][][72][Court actions requiring or restraining board or members][72]
+[56][72][][72][Duty to act with reasonable care, diligence, and skill][72]
 
-[Reliance on information and advice][73]
+[57][73][][73][Duty not to disclose information][73]
 
-[61][74][][74][When members may rely on certain information and advice][74]
+[Effect of non-compliance with duties][74]
 
-[Conflict of interest disclosure rules][75]
+[58][75][][75][Accountability for collective board duties][75]
 
-[62][76][][76][When interests must be disclosed][76]
+[59][76][][76][Accountability for individual duties][76]
 
-[63][77][][77][Obligation to disclose interest][77]
+[60][77][][77][Court actions requiring or restraining board or members][77]
 
-[64][78][][78][Who disclosure of interests must be made to][78]
+[Reliance on information and advice][78]
 
-[65][79][][79][What must be disclosed][79]
+[61][79][][79][When members may rely on certain information and advice][79]
 
-[66][80][][80][Consequences of being interested in matter][80]
+[Conflict of interest disclosure rules][80]
 
-[67][81][][81][Consequences of failing to disclose interest][81]
+[62][81][][81][When interests must be disclosed][81]
 
-[68][82][][82][Permission to act despite being interested in matter][82]
+[63][82][][82][Obligation to disclose interest][82]
 
-[69][83][][83][Entity may avoid certain acts done in breach of conflict of interest rules][83]
+[64][83][][83][Who disclosure of interests must be made to][83]
 
-[70][84][][84][What is fair value][84]
+[65][84][][84][What must be disclosed][84]
 
-[71][85][][85][Onus of proving fair value][85]
+[66][85][][85][Consequences of being interested in matter][85]
 
-[72][86][][86][Effect of avoidance on third parties][86]
+[67][86][][86][Consequences of failing to disclose interest][86]
 
-[Delegation][87]
+[68][87][][87][Permission to act despite being interested in matter][87]
 
-[73][88][][88][Ability to delegate][88]
+[69][88][][88][Entity may avoid certain acts done in breach of conflict of interest rules][88]
 
-[74][89][][89][Powers of delegate][89]
+[70][89][][89][What is fair value][89]
 
-[75][90][][90][Effect of delegation on entity or board][90]
+[71][90][][90][Onus of proving fair value][90]
 
-[76][91][][91][Revocations of delegations][91]
+[72][91][][91][Effect of avoidance on third parties][91]
 
-[Miscellaneous provisions relating to board][92]
+[Delegation][92]
 
-[77][93][][93][Vacancies in membership of board][93]
+[73][93][][93][Ability to delegate][93]
 
-[78][94][][94][Board procedure][94]
+[74][94][][94][Powers of delegate][94]
 
-[Subpart 2][95][---][95][Crown entity companies][95]
+[75][95][][95][Effect of delegation on entity or board][95]
 
-[Formation and shareholding of Crown entity companies][96]
+[76][96][][96][Revocations of delegations][96]
 
-[79][97][][97][Formation and acquisition of shares in Crown entity companies][97]
+[Miscellaneous provisions relating to board][97]
 
-[80][98][][98][Restrictions relating to shares in Crown entity companies][98]
+[77][98][][98][Vacancies in membership of board][98]
 
-[81][99][][99][Crown entity company must have constitution stating it is Crown entity][99]
+[78][99][][99][Appointment of chairperson, etc, and board procedure][99]
 
-[82][100][][100][Constitution must be presented to House of Representatives][100]
+[Subpart 2][100][---][100][Crown entity companies][100]
 
-[83][101][][101][Shares to be held by person holding office as Minister][101]
+[Formation and shareholding of Crown entity companies][101]
 
-[84][102][][102][Appointment of representative of shareholding Minister][102]
+[79][102][][102][Formation and acquisition of shares in Crown entity companies][102]
 
-[85][103][][103][Interface with Companies Act 1993 and other Acts][103]
+[80][103][][103][Restrictions relating to shares in Crown entity companies][103]
 
-[Role and accountability of members][104]
+[81][104][][104][Crown entity company must have constitution stating it is Crown entity][104]
 
-[86][105][][105][Board's role][105]
+[82][105][][105][Constitution must be presented to House of Representatives][105]
 
-[87][106][][106][Accountability of members to shareholding Ministers][106]
+[83][106][][106][Shares to be held by person holding office as Minister][106]
 
-[Shareholding Ministers' role][107]
+[84][107][][107][Appointment of representative of shareholding Minister][107]
 
-[88][108][][108][Shareholding Ministers' role][108]
+[85][108][][108][Interface with Companies Act 1993 and other Acts][108]
 
-[Appointment and removal of members][109]
+[Role and accountability of members][109]
 
-[89][110][][110][Criteria for appointments by shareholding Minister][110]
+[86][110][][110][Board's role][110]
 
-[90][111][][111][Members must disclose interests before appointment][111]
+[87][111][][111][Accountability of members to shareholding Ministers][111]
 
-[91][112][][112][No compensation for removal from office][112]
+[Shareholding Ministers' role][112]
 
-[Collective duties of board][113]
+[88][113][][113][Shareholding Ministers' role][113]
 
-[92][114][][114][Duty to act consistently with objectives, functions, statement of intent, and output agreement][114]
+[Monitor's role][114]
 
-[93][115][][115][Subsidiaries][115]
+[88A][115][][115][Monitor's role][115]
 
-[94][116][][116][Accountability for collective board duties][116]
+[Appointment and removal of members][116]
 
-[Individual duty of members][117]
+[89][117][][117][Criteria for appointments by shareholding Minister][117]
 
-[95][118][][118][Duty to comply with this Act and entity's Act][118]
+[90][118][][118][Members must disclose interests before appointment][118]
 
-[Subpart 3][119][---][119][Crown entity subsidiaries][119]
+[91][119][][119][No compensation for removal from office][119]
 
-[Formation and shareholding of Crown entity subsidiaries][120]
+[Collective duties of board][120]
 
-[96][121][][121][Acquisition of subsidiaries][121]
+[92][121][][121][Duty to act consistently with objectives, functions, statement of intent, and output agreement][121]
 
-[97][122][][122][Subsidiaries: rules applying to all Crown entities][122]
+[93][122][][122][Subsidiaries][122]
 
-[98][123][][123][Subsidiaries: rules applying only to statutory entities][123]
+[94][123][][123][Accountability for collective board duties][123]
 
-[99][124][][124][Application to multi-parent subsidiaries][124]
+[Individual duty of members][124]
 
-[100][125][][125][Acquisition of shares or interests in companies, trusts, and partnerships, etc][125]
+[95][125][][125][Duty to comply with this Act and entity's Act][125]
 
-[101][126][][126][Corporation sole may not acquire interests in bodies corporate][126]
+[Subpart 3][126][---][126][Crown entity subsidiaries][126]
 
-[102][127][][127][Interface with Companies Act 1993 and other Acts][127]
+[Formation and shareholding of Crown entity subsidiaries][127]
 
-[Part 3][128]  
-[Operation of Crown entities][128]
+[96][128][][128][Acquisition of subsidiaries][128]
 
-[Subpart 1][129][---][129][Provisions applying generally to Crown entities][129]
+[97][129][][129][Subsidiaries: rules applying to all Crown entities][129]
 
-[Directions on government policy to statutory entities and Crown entity companies][130]
+[98][130][][130][Subsidiaries: rules applying only to statutory entities][130]
 
-[103][131][][131][Power to direct Crown agents to give effect to government policy][131]
+[99][131][][131][Application to multi-parent subsidiaries][131]
 
-[104][132][][132][Power to direct autonomous Crown entities to have regard to government policy][132]
+[100][132][][132][Acquisition of shares or interests in companies, trusts, and partnerships, etc][132]
 
-[105][133][][133][No power to direct independent Crown entities or Crown entity companies on government policy unless provided in another Act][133]
+[101][133][][133][Corporation sole may not acquire interests in bodies corporate][133]
 
-[106][134][][134][Directions to members and office holders of entities][134]
+[102][134][][134][Interface with Companies Act 1993 and other Acts][134]
 
-[107][135][][135][Whole of government directions][135]
+[Part 3][135]  
+[Operation of Crown entities][135]
 
-[108][136][][136][Process for giving whole of government directions][136]
+[Subpart 1][136][---][136][Provisions applying generally to Crown entities][136]
 
-[109][137][][137][House of Representatives may resolve to disapply whole of government direction][137]
+[Directions to statutory entities and Crown entity companies][137]
 
-[110][138][][138][Obligation to give effect to direction][138]
+[103][138][][138][Power to direct Crown agents to give effect to government policy][138]
 
-[111][139][][139][Publication of whole of government direction][139]
+[104][139][][139][Power to direct autonomous Crown entities to have regard to government policy][139]
 
-[112][140][][140][Power to add functions if authorised by entity's Act or constitution][140]
+[105][140][][140][No power to direct independent Crown entities or Crown entity companies on government policy unless provided in another Act][140]
 
-[113][141][][141][Safeguarding independence of Crown entities][141]
+[106][141][][141][Directions to members and office holders of entities][141]
 
-[Government directions to Crown entities][142]
+[107][142][][142][Directions to support whole of government approach][142]
 
-[114][143][][143][Crown entities must comply with directions given under statutory power of direction][143]
+[108][143][][143][Process for giving directions under section 107][143]
 
-[115][144][][144][Procedure for all Ministerial directions][144]
+[109][144][][144][House of Representatives may resolve to disapply direction under section 107][144]
 
-[Employees][145]
+[110][145][][145][Obligation to give effect to direction][145]
 
-[116][146][][146][Employment of employees][146]
+[111][146][][146][Publication of direction under section 107][146]
 
-[117][147][][147][Employment of chief executive][147]
+[112][147][][147][Power to add functions if authorised by entity's Act or constitution][147]
 
-[118][148][][148][Crown entity to be good employer][148]
+[113][148][][148][Safeguarding independence of Crown entities][148]
 
-[119][149][][149][Application of sections 84 to 84B of the State Sector Act 1988][149]
+[Government directions to Crown entities][149]
 
-[Subpart 2][150][---][150][Statutory entities][150]
+\[Repealed\]
 
-[Protections from liability of members, office holders, and employees][151]
+[114][150][][150][Crown entities must comply with directions given under statutory power of direction][150]
 
-[120][152][][152][Protections from liabilities of statutory entity][152]
+[115][151][][151][Procedure for ministerial directions on government policy][151]
 
-[121][153][][153][Immunity from civil liability][153]
+[115A][152][][152][Review and expiry of all directions][152]
 
-[122][154][][154][Indemnities in relation to excluded act or omission][154]
+[Employees][153]
 
-[123][155][][155][Insurance for liability of member, office holder, or employee][155]
+[116][154][][154][Employment of employees][154]
 
-[124][156][][156][Saving of judicial protections from liability][156]
+[117][155][][155][Employment of chief executive][155]
 
-[125][157][][157][Breach of indemnity and insurance limits][157]
+[118][156][][156][Crown entity to be good employer][156]
 
-[126][158][][158][Definitions for protections from liability][158]
+[119][157][][157][Application of sections 84 to 84B of the State Sector Act 1988][157]
 
-[Dealings with third parties by statutory entities][159]
+[Subpart 2][158][---][158][Statutory entities][158]
 
-[127][160][][160][Method of contracting][160]
+[Protections from liability of members, office holders, and employees][159]
 
-[128][161][][161][Seal][161]
+[120][160][][160][Protections from liabilities of statutory entity][160]
 
-[129][162][][162][Attorneys][162]
+[121][161][][161][Immunity from civil liability][161]
 
-[130][163][][163][Address for service][163]
+[122][162][][162][Indemnities in relation to excluded act or omission][162]
 
-[Subpart 3][164][---][164][Miscellaneous provisions][164]
+[123][163][][163][Insurance for liability of member, office holder, or employee][163]
 
-[131][165][][165][Application of Ombudsmen Act 1975 and Official Information Act 1982][165]
+[124][164][][164][Saving of judicial protections from liability][164]
 
-[132][166][][166][Review of Crown entity's operations and performance][166]
+[125][165][][165][Breach of indemnity and insurance limits][165]
 
-[133][167][][167][Power to request information][167]
+[126][166][][166][Definitions for protections from liability][166]
 
-[134][168][][168][Good reasons for refusing to supply requested information][168]
+[Dealings with third parties by statutory entities][167]
 
-[135][169][][169][Members, office holders, and employees are officials][169]
+[127][168][][168][Method of contracting][168]
 
-[Part 4][170]  
-[Crown entity reporting and financial obligations][170]
+[128][169][][169][Seal][169]
 
-[Subpart 1][171][---][171][Interpretation for this Part][171]
+[129][170][][170][Attorneys][170]
 
-[136][172][][172][Interpretation for this Part][172]
+[130][171][][171][Address for service][171]
 
-[Subpart 2][173][---][173][Reporting obligations][173]
+[Subpart 3][172][---][172][Miscellaneous provisions][172]
 
-[137][174][][174][Application of this subpart][174]
+[131][173][][173][Application of Ombudsmen Act 1975 and Official Information Act 1982][173]
 
-[Planning: Statement of intent][175]
+[132][174][][174][Review of Crown entity's operations and performance][174]
 
-[138][176][][176][Purpose of statement of intent][176]
+[133][175][][175][Power to request information][175]
 
-[139][177][][177][Obligation to prepare statement of intent][177]
+[134][176][][176][Good reasons for refusing to supply requested information][176]
 
-[140][178][][178][Statement of intent for newly established Crown entities][178]
+[135][177][][177][Members, office holders, and employees are officials][177]
 
-[141][179][][179][Content of statement of intent][179]
+[Part 4][178]  
+[Crown entity reporting and financial obligations][178]
 
-[142][180][][180][Extra information required in statement of intent for first financial year][180]
+[Subpart 1][179][---][179][Interpretation for this Part][179]
 
-[143][181][][181][Exemption for certain outputs][181]
+[136][180][][180][Interpretation for this Part][180]
 
-[144][182][][182][Application and term of statement of intent][182]
+[Subpart 2][181][---][181][Reporting obligations][181]
 
-[145][183][][183][Ministerial involvement in statements of intent][183]
+[137][182][][182][Application of this subpart][182]
 
-[146][184][][184][Process for providing statement of intent to responsible Minister][184]
+[Planning: Statement of intent][183]
 
-[147][185][][185][Amendments to statement of intent by responsible Minister][185]
+[138][184][][184][Purpose of statement of intent][184]
 
-[148][186][][186][Amendments to statement of intent by Crown entity][186]
+[139][185][][185][Obligation to prepare statement of intent][185]
 
-[149][187][][187][Obligation to present and publish statement of intent][187]
+[140][186][][186][Statement of intent for newly established Crown entities][186]
 
-[Reporting: Annual report][188]
+[141][187][][187][Content of statement of intent][187]
 
-[150][189][][189][Obligation to prepare, present, and publish annual report][189]
+[142][188][][188][Extra information required in statement of intent for first financial year][188]
 
-[151][190][][190][Form and content of annual report][190]
+[143][189][][189][Exemption for certain outputs][189]
 
-[152][191][][191][Disclosure of payments in respect of members, committee members, and employees][191]
+[144][190][][190][Application and term of statement of intent][190]
 
-[153][192][][192][Form and content of statement of service performance][192]
+[145][191][][191][Ministerial involvement in statements of intent][191]
 
-[154][193][][193][Annual financial statements][193]
+[146][192][][192][Process for providing statement of intent to responsible Minister][192]
 
-[155][194][][194][Statement of responsibility][194]
+[147][193][][193][Amendments to statement of intent by responsible Minister][193]
 
-[156][195][][195][Audit report][195]
+[148][194][][194][Amendments to statement of intent by Crown entity][194]
 
-[157][196][][196][Reporting by multi-parent subsidiaries][196]
+[149][195][][195][Obligation to present and publish statement of intent][195]
 
-[Subpart 3][197][---][197][Other provisions for financial accountability][197]
+[Reporting: Annual report][196]
 
-[Bank accounts][198]
+[150][197][][197][Obligation to prepare, present, and publish annual report][197]
 
-[158][199][][199][Bank accounts of Crown entities][199]
+[151][198][][198][Form and content of annual report][198]
 
-[Acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions][200]
+[152][199][][199][Disclosure of payments in respect of members, committee members, and employees][199]
 
-[159][201][][201][Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules][201]
+[153][200][][200][Form and content of statement of service performance][200]
 
-[160][202][][202][Further provision relating to acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules][202]
+[154][201][][201][Annual financial statements][201]
 
-[161][203][][203][Restrictions on acquisition of securities][203]
+[155][202][][202][Statement of responsibility][202]
 
-[162][204][][204][Restrictions on borrowing][204]
+[156][203][][203][Audit report][203]
 
-[163][205][][205][Restrictions on giving of guarantees and indemnities][205]
+[157][204][][204][Reporting by multi-parent subsidiaries][204]
 
-[164][206][][206][Restrictions on use of derivatives][206]
+[Subpart 3][205][---][205][Other provisions for financial accountability][205]
 
-[Miscellaneous][207]
+[Bank accounts][206]
 
-[165][208][][208][Net surplus payable by certain statutory entities and Crown entity companies][208]
+[158][207][][207][Bank accounts of Crown entities][207]
 
-[166][209][][209][Capital charge payable by certain statutory entities][209]
+[Acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions][208]
 
-[167][210][][210][Gifts][210]
+[159][209][][209][Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules][209]
 
-[168][211][][211][Accounting records to be kept][211]
+[160][210][][210][Further provision relating to acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules][210]
 
-[Subpart 4][212][---][212][Miscellaneous][212]
+[161][211][][211][Restrictions on acquisition of securities][211]
 
-[169][213][][213][Taxation of statutory entities][213]
+[162][212][][212][Restrictions on borrowing][212]
 
-[170][214][][214][Power to require output agreement][214]
+[163][213][][213][Restrictions on giving of guarantees and indemnities][213]
 
-[171][215][][215][Offences][215]
+[164][214][][214][Restrictions on use of derivatives][214]
 
-[172][216][][216][Penalties for offences][216]
+[Miscellaneous][215]
 
-[173][217][][217][Regulations under this Part][217]
+[165][216][][216][Net surplus payable by certain statutory entities and Crown entity companies][216]
 
-[174][218][][218][Minister of Finance instructions][218]
+[166][217][][217][Capital charge payable by certain statutory entities][217]
 
-[175][219][][219][Consultation with House of Representatives on reporting standards][219]
+[167][218][][218][Gifts][218]
 
-[176][220][][220][Application of provisions of Public Finance Act 1989][220]
+[168][219][][219][Accounting records to be kept][219]
 
-[Part 5][221]  
-[Miscellaneous provisions][221]
+[Subpart 4][220][---][220][Miscellaneous][220]
 
-[Miscellaneous][222]
+[169][221][][221][Taxation of statutory entities][221]
 
-[177][223][][223][Application of liquidation provisions of Judicature Act 1908 to statutory entities][223]
+[170][222][][222][Power to require output agreement][222]
 
-[178][224][][224][Application of Archives Act 1957][224]
+[171][223][][223][Offences][223]
 
-[179][225][][225][Public Bodies Contracts Act 1959 does not apply to Crown entities][225]
+[172][224][][224][Penalties for offences][224]
 
-[180][226][][226][Local Authorities (Members' Interests) Act 1968 does not apply to Crown entities][226]
+[173][225][][225][Regulations under this Part][225]
 
-[181][227][][227][Administration of Crown entity provisions][227]
+[174][226][][226][Minister of Finance instructions][226]
 
-[Transitional and savings provisions][228]
+[175][227][][227][Consultation with House of Representatives on reporting standards][227]
 
-[182][229][][229][Existing members exempt from qualification requirements][229]
+[176][228][][228][Application of provisions of Public Finance Act 1989][228]
 
-[183][230][][230][Term of office of existing members other than ex officio members][230]
+[Part 5][229]  
+[Miscellaneous provisions][229]
 
-[184][231][][231][Term of office of existing ex officio members][231]
+[Miscellaneous][230]
 
-[185][232][][232][Term of office of existing chairpersons and deputy chairpersons][232]
+[177][231][][231][Application of liquidation provisions of Judicature Act 1908 to statutory entities][231]
 
-[186][233][][233][Continuation of existing board committees][233]
+[178][232][][232][Application of Archives Act 1957][232]
 
-[187][234][][234][Continuation of existing employment][234]
+[179][233][][233][Public Bodies Contracts Act 1959 does not apply to Crown entities][233]
 
-[188][235][][235][Existing compensation provision][235]
+[180][234][][234][Local Authorities (Members' Interests) Act 1968 does not apply to Crown entities][234]
 
-[189][236][][236][Existing protection from liability provisions][236]
+[181][235][][235][Administration of Crown entity provisions][235]
 
-[190][237][][237][Existing insurance cover][237]
+[Transitional and savings provisions][236]
 
-[191][238][][238][Existing rights under Government Superannuation Fund Act 1956 unaffected][238]
+[182][237][][237][Existing members exempt from qualification requirements][237]
 
-[192][239][][239][Existing delegations and directions to continue][239]
+[183][238][][238][Term of office of existing members other than ex officio members][238]
 
-[193][240][][240][Other existing things protected][240]
+[184][239][][239][Term of office of existing ex officio members][239]
 
-[194][241][][241][Existing shareholdings in Crown entity subsidiaries][241]
+[185][240][][240][Term of office of existing chairpersons and deputy chairpersons][240]
 
-[195][242][][242][Existing bank accounts][242]
+[186][241][][241][Continuation of existing board committees][241]
 
-[196][243][][243][Existing law on securities, borrowing, guarantees, indemnities, and derivative transactions continues to apply until 1 April 2005][243]
+[187][242][][242][Continuation of existing employment][242]
 
-[197][244][][244][Continuation of pre-1 April 2005 securities, borrowing, guarantees, indemnities, and derivative transactions][244]
+[188][243][][243][Existing compensation provision][243]
 
-[198][245][][245][Reporting obligations in respect of financial years ending before 1 July 2006][245]
+[189][244][][244][Existing protection from liability provisions][244]
 
-[199][246][][246][Regulations for transitional, savings, and general purposes][246]
+[190][245][][245][Existing insurance cover][245]
 
-[Amendments to other enactments][247]
+[191][246][][246][Existing rights under Government Superannuation Fund Act 1956 unaffected][246]
 
-[200][248][][248][Amendments to other enactments][248]
+[192][247][][247][Existing delegations and directions to continue][247]
 
-[201][249][][249][Amendment to Gas Amendment Act 2004][249]
+[193][248][][248][Other existing things protected][248]
 
-[Schedule 1][250]  
-[Statutory entities][250]
+[194][249][][249][Existing shareholdings in Crown entity subsidiaries][249]
 
-[Schedule 2][251]  
-[Crown entity companies][251]
+[195][250][][250][Existing bank accounts][250]
 
-[Schedule 3][252]  
-[Application of Crown Entities Act 2004 to school boards of trustees][252]
+[196][251][][251][Existing law on securities, borrowing, guarantees, indemnities, and derivative transactions continues to apply until 1 April 2005][251]
 
-[Schedule 4][253]  
-[Application of Crown Entities Act 2004 to tertiary education institutions][253]
+[197][252][][252][Continuation of pre-1 April 2005 securities, borrowing, guarantees, indemnities, and derivative transactions][252]
 
-[Schedule 5][254]  
-[Board procedure for statutory entities (other than corporations sole)][254]
+[198][253][][253][Reporting obligations in respect of financial years ending before 1 July 2006][253]
 
-[Schedule 6][255]  
-[Amendments to other Acts arising from Crown entity reforms][255]
+[199][254][][254][Regulations for transitional, savings, and general purposes][254]
+
+[199A][255][][255][Application, savings, and transitional provisions relating to amendments to Act][255]
+
+[Amendments to other enactments][256]
+
+[200][257][][257][Amendments to other enactments][257]
+
+[201][258][][258][Amendment to Gas Amendment Act 2004][258]
+
+[Schedule 1AAA][259]  
+[Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013][259]
+
+[Schedule 1][260]  
+[Statutory entities][260]
+
+[Schedule 2][261]  
+[Crown entity companies][261]
+
+[Schedule 3][262]  
+[Application of Crown Entities Act 2004 to school boards of trustees][262]
+
+[Schedule 4][263]  
+[Application of Crown Entities Act 2004 to tertiary education institutions][263]
+
+[Schedule 5][264]  
+[Appointment of chairperson, etc, and board procedure for statutory entities (other than corporations sole)][264]
+
+[Schedule 6][265]  
+[Amendments to other Acts arising from Crown entity reforms][265]
 
 ---
 
@@ -552,7 +575,7 @@ This Act is administered by the State Services Commission and the Treasury.
 
 ##### 2 Commencement
     
-*   (1) [Section 201][249] comes into force on the day on which this Act receives the Royal assent.
+*   (1) [Section 201][258] comes into force on the day on which this Act receives the Royal assent.
     
     (2) The rest of this Act comes into force on 25 January 2005\.
 
@@ -579,9 +602,9 @@ Preliminary provisions
     
     *   (b) a statutory entity is established by or under the entity's Act, and the entity's Act may supplement, or expressly modify or negate, the provisions of this Act for that entity and its Crown entity subsidiaries:
     
-    *   (c) a Crown entity company is incorporated under the [Companies Act 1993][256] and may also have an entity's Act, and the entity's Act (if any) may supplement, or expressly modify or negate, the provisions of this Act for that company and its Crown entity subsidiaries:
+    *   (c) a Crown entity company is incorporated under the [Companies Act 1993][266] and may also have an entity's Act, and the entity's Act (if any) may supplement, or expressly modify or negate, the provisions of this Act for that company and its Crown entity subsidiaries:
     
-    *   (d) other Acts (for example, some provisions of the [State Sector Act 1988][257]) also apply.
+    *   (d) other Acts (for example, some provisions of the [State Sector Act 1988][267]) also apply.
     
     (2) This Act applies to a Crown entity, and prevails over the entity's Act, except to the extent that the entity's Act expressly provides otherwise.
     
@@ -589,13 +612,13 @@ Preliminary provisions
 
 ##### 5 Application of this Act to school boards of trustees
     
-*   (1) The provisions set out in [Schedule 3][252] of this Act and [Schedule 5A][258] of the Education Act 1989 apply to school boards of trustees and their Crown entity subsidiaries.
+*   (1) The provisions set out in [Schedule 3][262] of this Act and [Schedule 5A][268] of the Education Act 1989 apply to school boards of trustees and their Crown entity subsidiaries.
     
     (2) Otherwise this Act does not apply to school boards of trustees and their Crown entity subsidiaries.
 
 ##### 6 Application of this Act to tertiary education institutions
     
-*   (1) The provisions set out in [Schedule 4][253] of this Act and [Schedule 13A][259] of the Education Act 1989 apply to tertiary education institutions and their Crown entity subsidiaries.
+*   (1) The provisions set out in [Schedule 4][263] of this Act and [Schedule 13A][269] of the Education Act 1989 apply to tertiary education institutions and their Crown entity subsidiaries.
     
     (2) Otherwise this Act does not apply to tertiary education institutions and their Crown entity subsidiaries.
 
@@ -609,13 +632,13 @@ Preliminary provisions
         
         These are bodies corporate that are established by or under an Act 
         
-        An entity or office named in [Schedule 1][250] 
+        An entity or office named in [Schedule 1][260] 
         
-        _Crown agents_ (which must give effect to government policy when directed by the responsible Minister). These are named in [Part 1][260] of Schedule 1
+        _Crown agents_ (which must give effect to government policy when directed by the responsible Minister). These are named in [Part 1][270] of Schedule 1
         
-        _Autonomous Crown entities_ (which must have regard to government policy when directed by the responsible Minister). These are named in [Part 2][261] of Schedule 1
+        _Autonomous Crown entities_ (which must have regard to government policy when directed by the responsible Minister). These are named in [Part 2][271] of Schedule 1
         
-        _Independent Crown entities_ (which are generally independent of government policy). These are named in [Part 3][262] of Schedule 1
+        _Independent Crown entities_ (which are generally independent of government policy). These are named in [Part 3][272] of Schedule 1
         
         
     
@@ -623,9 +646,9 @@ Preliminary provisions
         
         **What are they?** **Definition**
         
-        These are companies incorporated under the [Companies Act 1993][256] that are wholly owned by the Crown 
+        These are companies incorporated under the [Companies Act 1993][266] that are wholly owned by the Crown 
         
-        A company named in [Schedule 2][251]
+        A company named in [Schedule 2][261]
         
         
     
@@ -633,13 +656,13 @@ Preliminary provisions
         
         **What are they?** **Definition**
         
-        These are companies incorporated under the [Companies Act 1993][256] that are controlled by Crown entities 
+        These are companies incorporated under the [Companies Act 1993][266] that are controlled by Crown entities 
         
-        A company that, under [sections 5 to 8][6] (except [section 5(3)][263] of the Companies Act 1993),---
+        A company that is---
             
-        *   (a) is a subsidiary of another Crown entity; or
+        *   (a) a subsidiary of another Crown entity under [sections 5 to 8][273] of the Companies Act 1993; or
         
-        *   (b) would be a subsidiary of other Crown entities if those Crown entities were treated as 1 entity (with their rights, entitlements, and interests in relation to the company taken together) for the purposes of those sections
+        *   (b) a multi-parent subsidiary of 2 or more Crown entities
         
         
     
@@ -649,7 +672,7 @@ Preliminary provisions
         
         These are boards that are bodies corporate constituted under the Education Act 1989 (including correspondence schools) 
         
-        A body that is a board of trustees constituted under [Part 9][264] of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under [section 152][265] of the Education Act 1989
+        A body that is a board of trustees constituted under [Part 9][274] of the Education Act 1989 and includes a board of a school designated as a correspondence school by the Minister of Education under [section 152][275] of the Education Act 1989
         
         
     
@@ -657,43 +680,65 @@ Preliminary provisions
         
         **What are they?** **Definition**
         
-        These are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the [Education Act 1989][266] 
+        These are tertiary institutions (for example, colleges of education, polytechnics, specialist colleges, universities, or wananga) that are bodies corporate established under the [Education Act 1989][276] 
         
-        An institution established under [Part 14][267] of the Education Act 1989
+        An institution established under [Part 14][277] of the Education Act 1989
         
         
+    
+    (1A) Despite [section 5(3)][273] of the Companies Act 1993, a Crown entity subsidiary must be a company incorporated under that Act.
     
     (2) The words in brackets in subsection (1) about the effect of the different types of statutory entities are intended only as a guide.
-
-##### 8 Meaning of parent Crown entity and Crown entity subsidiary
     
-*   (1) A Crown entity (_A_) is a _parent Crown entity_ or **parent** of another Crown entity (_B_) if---
+    Section 7(1)(c): amended, on 18 July 2013, by [section 4(1)][278] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 7(1A): inserted, on 18 July 2013, by [section 4(2)][278] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 7A Meaning of multi-parent subsidiary
+    
+*   (1) A company is a _multi-parent subsidiary_ if, under [sections 5 to 8][273] of the Companies Act 1993,---
+        
+    *   (a) the company is not a subsidiary of any one Crown entity; but
+    
+    *   (b) if 2 or more Crown entities were treated as 1 entity (a _combined entity_), with their rights, entitlements, and interests in relation to the company taken together, the company would be a subsidiary of the combined entity.
+    
+    (2) Despite [section 5(3)][273] of the Companies Act 1993, a multi-parent subsidiary must be a company incorporated under that Act.
+    
+    ###### Example
+    
+    Crown entities A, B, and C each own 20% of the issued shares of Company Limited. The remaining issued shares of Company Limited are not owned by Crown entities. Because Crown entities A, B, and C collectively own more than half of the issued shares of Company Limited (_see_ section 5(1)(a)(iii) of the Companies Act 1993), Company Limited is a multi-parent subsidiary.
+    
+    Section 7A: inserted, on 18 July 2013, by [section 5][279] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 8 Meaning of parent Crown entity
+    
+*   A Crown entity (_A_) is a _parent Crown entity_ or _parent_ of another Crown entity (_B_) if---
         
     *   (a) A is a statutory entity or Crown entity company or school board of trustees or tertiary education institution; and
     
-    *   (b) B is a subsidiary of A under the definition of Crown entity subsidiaries in column 2 of [section 7(1)(c)][8].
+    *   (b) B is a subsidiary of A, or a multi-parent subsidiary of A and 1 or more other Crown entities, under the definition of Crown entity subsidiaries in the second column of [section 7(1)(c)][8].
     
-    (2) A Crown entity (_B_) is a _Crown entity subsidiary_ of another Crown entity (_A_) if B is a subsidiary of A under the definition of Crown entity subsidiaries in column 2 of [section 7(1)(c)][8].
+    Section 8: replaced, on 18 July 2013, by [section 6][280] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 9 Power to amend Schedules 1 and 2
     
-*   (1) The Governor-General may, by Order in Council, amend [Schedule 1][250] or [Schedule 2][251] to---
+*   (1) The Governor-General may, by Order in Council, amend [Schedule 1][260] or [Schedule 2][261] to---
         
-    *   (a) add to [Schedule 1][250] the name of an entity established by or under an Act of Parliament:
+    *   (a) add to [Schedule 1][260] the name of an entity established by or under an Act of Parliament:
     
-    *   (b) add to [Schedule 2][251] the name of a Crown entity company:
+    *   (b) add to [Schedule 2][261] the name of a Crown entity company:
     
-    *   (c) omit the name of a Crown agent from [Part 1][260] of Schedule 1 and add that name to another Part of that schedule:
+    *   (c) omit the name of a Crown agent from [Part 1][270] of Schedule 1 and add that name to another Part of that schedule:
     
-    *   (d) omit the name of an autonomous Crown entity from [Part 2][261] of Schedule 1 and add that name to [Part 3][262] of that schedule:
+    *   (d) omit the name of an autonomous Crown entity from [Part 2][271] of Schedule 1 and add that name to [Part 3][272] of that schedule:
     
     *   (e) omit the name of an entity or company and substitute another name in recognition of a change in the entity's or company's name:
     
-    *   (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the [Companies Act 1993][256].
+    *   (f) omit the name of an entity or company in recognition of the entity's dissolution or the company's removal from the register under the [Companies Act 1993][266].
     
     (2) An Order in Council cannot be made under this section in relation to a school board of trustees or a tertiary education institution.
     
-    (3) An Order in Council cannot be made under this section to add a Crown entity subsidiary to [Schedule 1][250] or [Schedule 2][251].
+    (3) An Order in Council cannot be made under this section to add a Crown entity subsidiary to [Schedule 1][260] or [Schedule 2][261].
 
 ##### 10 Interpretation
     
@@ -701,11 +746,11 @@ Preliminary provisions
     
     _appoint_ includes,---
         
-    *   (a) in relation to a member, appointment of the member in accordance with the method in [section 28][36] or, in relation to a chairperson or deputy chairperson, appointment in accordance with [Schedule 5][268]; or
+    *   (a) in relation to a member, appointment of the member in accordance with the method in [section 28][41] or, in relation to a chairperson or deputy chairperson, appointment in accordance with [Schedule 5][281]; or
     
     *   (b) appointment by any other person, by election, by designation, by co-option, or by any other method in or under the entity's Act or constitution
     
-    _autonomous Crown entity_ means a statutory entity named in [Part 2][261] of Schedule 1
+    _autonomous Crown entity_ means a statutory entity named in [Part 2][271] of Schedule 1
     
     _board_---
         
@@ -715,37 +760,37 @@ Preliminary provisions
     
     *   (c) means, in relation to a corporation sole, the person who is the sole member of that entity; and
     
-    *   (d) in relation to a Crown entity company and Crown entity subsidiary, has the same meaning as in [section 127][269] of the Companies Act 1993; and
+    *   (d) in relation to a Crown entity company and Crown entity subsidiary, has the same meaning as in [section 127][282] of the Companies Act 1993; and
     
     *   (e) means, in relation to a school board of trustees, the persons who comprise that board and who number not less than the required quorum acting together; and
     
     *   (f) means, in relation to a tertiary education institution, the members of its Council who number not less than the required quorum acting together
     
-    _borrow_ has the meaning set out in [section 136][172]
+    _borrow_ has the meaning set out in [section 136][180]
     
-    _class of outputs_ or _class_ has the meaning set out in [section 136][172]
+    _class of outputs_ or _class_ has the meaning set out in [section 136][180]
     
-    _committee_ means a committee appointed under [clause 14][270] of Schedule 5
+    _committee_ means a committee appointed under [clause 14][283] of Schedule 5
     
     _committee member_ means a member of a committee
     
-    _Crown agent_ means a statutory entity named in [Part 1][260] of Schedule 1
+    _Crown agent_ means a statutory entity named in [Part 1][270] of Schedule 1
     
     _Crown entity_ has the meaning set out in [section 7(1)][8]
     
     _Crown entity company_ has the meaning set out in column 2 of [section 7(1)(b)][8]
     
-    _Crown entity group_ has the meaning set out in [section 136][172]
+    _Crown entity group_ has the meaning set out in [section 136][180]
     
-    _Crown entity subsidiary_ has the meaning set out in [section 8(2)][9]
+    _Crown entity subsidiary_ has the meaning given in the second column of [section 7(1)(c)][8]
     
     _direction_ means a direction given by a Minister under this Act or the entity's Act to an entity or to a member or employee or office holder of an entity (for example, a direction on government policy, a direction to perform an additional function, or a direction relating to the entity's statement of intent)
     
     _employee_---
         
-    *   (a) includes the chief executive of a Crown entity (by whatever name called) other than for the process of determining terms and conditions in [sections 97(i)][122] and [116][146]; and
+    *   (a) includes the chief executive of a Crown entity (by whatever name called) other than for the process of determining terms and conditions in [sections 97(i)][129] and [116][154]; and
     
-    *   (b) has, for the purposes of [sections 120 to 125][152], the meaning set out in [section 126][158]
+    *   (b) has, for the purposes of [sections 120 to 125][160], the meaning set out in [section 126][166]
     
     _entity's Act_ means,---
         
@@ -757,29 +802,29 @@ Preliminary provisions
         
         
     
-    *   (b) in relation to a Crown entity company, the Act (if any) that specifically provides for the formation or shareholding of the Crown entity company by Ministers or for its governance, operation, or accountability (but does not include a generic Act, like the [Companies Act 1993][256] or this Act); and
+    *   (b) in relation to a Crown entity company, the Act (if any) that specifically provides for the formation or shareholding of the Crown entity company by Ministers or for its governance, operation, or accountability (but does not include a generic Act, like the [Companies Act 1993][266] or this Act); and
     
     *   (c) in relation to a Crown entity subsidiary, the entity's Act of its parent Crown entity; and
     
-    *   (d) in relation to a school board of trustees or a tertiary education institution, the [Education Act 1989][266] or the [Education Act 1964][271]
+    *   (d) in relation to a school board of trustees or a tertiary education institution, the [Education Act 1989][276] or the [Education Act 1964][284]
     
-    _excluded act or omission_, for the purposes of [sections 120 to 126][152], has the meaning set out in [section 126][158]
+    _excluded act or omission_, for the purposes of [sections 120 to 126][160], has the meaning set out in [section 126][166]
     
     _fees framework_ means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and tertiary education institutions
     
-    _financial year_ has the meaning set out in [section 136][172]
+    _financial year_ has the meaning set out in [section 136][180]
     
     _function_,---
         
-    *   (a) in relation to a statutory entity, has the meaning set out in [section 14][18]:
+    *   (a) in relation to a statutory entity, has the meaning set out in [section 14][21]:
     
     *   (b) in relation to any other Crown entity---
             
         *   (i) means a function (by whatever name called) to be performed by the Crown entity under the entity's Act or another Act; and
         
-        *   (ii) includes any additional function given to the entity by a Minister under another Act in accordance with [section 112][140] of this Act; and
+        *   (ii) includes any additional function given to the entity by a Minister under another Act in accordance with [section 112][147] of this Act; and
         
-        *   (iii) includes, in relation to a Crown entity company or a Crown entity subsidiary, its rights, powers, duties, and obligations under its constitution and the [Companies Act 1993][256] or any functions given to it by a Minister under its constitution in accordance with [section 112][140] of this Act; and
+        *   (iii) includes, in relation to a Crown entity company or a Crown entity subsidiary, its rights, powers, duties, and obligations under its constitution and the [Companies Act 1993][266] or any functions given to it by a Minister under its constitution in accordance with [section 112][147] of this Act; and
         
         *   (iv) includes, in relation to a Crown entity that does not have an entity's Act, any functions provided for in its statement of intent; and
         
@@ -787,11 +832,11 @@ Preliminary provisions
         
         
     
-    _generally accepted accounting practice_ has the meaning set out in [section 136][172]
+    _generally accepted accounting practice_ has the meaning set out in [section 136][180]
     
-    _independent Crown entity_ means a statutory entity named in [Part 3][262] of Schedule 1
+    _independent Crown entity_ means a statutory entity named in [Part 3][272] of Schedule 1
     
-    _interested _or _interests_ has the meaning set out in [section 62][76]
+    _interested _or _interests_ has the meaning set out in [section 62][81]
     
     _member_---
         
@@ -801,27 +846,33 @@ Preliminary provisions
     
     *   (c) means, in relation to a corporation sole, the person who is the sole member of that entity; and
     
-    *   (d) means, in relation to a Crown entity company and Crown entity subsidiary, a director within the meaning of [section 126(1)(a)][272] of the Companies Act 1993; and
+    *   (d) means, in relation to a Crown entity company and Crown entity subsidiary, a director within the meaning of [section 126(1)(a)][285] of the Companies Act 1993; and
     
     *   (e) means, in relation to a school board of trustees, a trustee; and
     
     *   (f) means, in relation to a tertiary education institution, a member of its Council; and
     
-    *   (g) has, for the purposes of [sections 120 to 125][152], the meaning set out in [section 126][158]; and
+    *   (g) has, for the purposes of [sections 120 to 125][160], the meaning set out in [section 126][166]; and
     
     *   (h) except to the extent that the entity's Act otherwise provides, includes any person appointed or elected under another Act as an alternate member, a deputy member, a co-opted member, a designate for a member, or an acting member
     
     _Minister_ means a Minister of the Crown
     
-    _multi-parent subsidiary_ means a Crown entity that is a Crown entity subsidiary only because 2 or more Crown entities are treated as 1 entity under paragraph (b) of the definition of the term Crown entity subsidiaries in column 2 of [section 7(1)(c)][8]
+    _monitor_ means, in relation to a monitored Crown entity, 1 or more of the following that performs the role described in [section 27A][39] or [88A][115]:
+        
+    *   (a) a department (within the meaning of that term in the [Public Finance Act 1989][286]):
     
-    _natural person act_ has the meaning set out in [section 24][29]
+    *   (b) another Crown entity
     
-    _output agreement_ means an agreement referred to in [section 170][214]
+    _multi-parent subsidiary_ has the meaning given in [section 7A][9]
     
-    _outputs_ has the meaning set out in [section 136][172]
+    _natural person act_ has the meaning set out in [section 24][32]
     
-    _parent Crown entity_ or _parent_ has the meaning set out in [section 8(1)][9]
+    _output agreement_ means an agreement referred to in [section 170][222]
+    
+    _outputs_ has the meaning set out in [section 136][180]
+    
+    _parent Crown entity_ or _parent_ has the meaning set out in [section 8][10]
     
     _responsible Minister_ means,---
         
@@ -839,7 +890,7 @@ Preliminary provisions
     
     _school board of trustees_ has the meaning set out in [section 7(1)(d)][8]
     
-    _shareholding Ministers_ means the Ministers who hold shares in a Crown entity company under [section 79][97]
+    _shareholding Ministers_ means the Ministers who hold shares in a Crown entity company under [section 79][102]
     
     _statutorily independent function_ means, in relation to a Crown entity or a member, employee, or office holder of a Crown entity, any matter in respect of which the entity's Act provides that---
         
@@ -852,6 +903,28 @@ Preliminary provisions
     _tertiary education institution_ has the meaning set out in [section 7(1)(e)][8].
     
     (2) In this Act, unless the context otherwise requires, references to a person performing functions and exercising powers, or carrying out responsibilities, includes carrying out duties.
+    
+    Section 10(1) **Crown entity subsidiary**: replaced, on 18 July 2013, by [section 7(1)][287] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 10(1) **monitor**: inserted, on 18 July 2013, by [section 7(2)][287] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 10(1) **multi-parent subsidiary**: replaced, on 18 July 2013, by [section 7(3)][287] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 10(1) **parent Crown entity** or **parent**: amended, on 18 July 2013, by [section 7(4)][287] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 10A Provisions affecting application of amendments to this Act
+    
+*   [Schedule 1AAA][259] contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013 (_see_ [section 199A][255]).
+    
+    Section 10A: inserted, on 18 July 2013, by [section 8][288] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 10B Status of examples
+    
+*   (1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
+    
+    (2) If an example and a provision to which it relates are inconsistent, the provision prevails.
+    
+    Section 10B: inserted, on 18 July 2013, by [section 8][288] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 11 Act binds the Crown
     
@@ -859,9 +932,9 @@ Preliminary provisions
 
 ##### 12 Outline of main Crown entity provisions
     
-*   (1) [Part 2][14] deals with the establishment and governance of statutory entities ([subpart 1][15]), Crown entity companies ([subpart 2][95]), and Crown entity subsidiaries ([subpart 3][119]), and covers matters such as status, powers, members, duties, delegations, and conflicts of interests, to the extent that those matters are applicable to each of those categories of Crown entity.
+*   (1) [Part 2][17] deals with the establishment and governance of statutory entities ([subpart 1][18]), Crown entity companies ([subpart 2][100]), and Crown entity subsidiaries ([subpart 3][126]), and covers matters such as status, powers, members, duties, delegations, and conflicts of interests, to the extent that those matters are applicable to each of those categories of Crown entity.
     
-    (2) [Part 3][128] deals with the operation of Crown entities and with matters such as---
+    (2) [Part 3][135] deals with the operation of Crown entities and with matters such as---
         
     *   (a) what directions the Government can give to Crown entities:
     
@@ -871,15 +944,15 @@ Preliminary provisions
     
     *   (d) how Crown entities deal with third parties.
     
-    (3) [Part 4][170] deals with the accountability of Crown entities to Parliament and the Crown, and sets out rules on planning, financial statements, reporting, acquisition of securities, borrowing, derivatives, payment of net surpluses to the Crown, capital charges, and taxation.
+    (3) [Part 4][178] deals with the accountability of Crown entities to Parliament and the Crown, and sets out rules on planning, financial statements, reporting, acquisition of securities, borrowing, derivatives, payment of net surpluses to the Crown, capital charges, and taxation.
     
-    (4) [Part 5][221] contains miscellaneous, transitional, and savings provisions.
+    (4) [Part 5][229] contains miscellaneous, transitional, and savings provisions.
     
-    (5) [Schedules 1][250] and [2][251] list the Crown entities in the various categories.
+    (5) [Schedules 1][260] and [2][261] list the Crown entities in the various categories.
     
-    (6) [Schedules 3][252] and [4][251] list the provisions that apply to school boards of trustees and tertiary education institutions and their Crown entity subsidiaries.
+    (6) [Schedules 3][262] and [4][261] list the provisions that apply to school boards of trustees and tertiary education institutions and their Crown entity subsidiaries.
     
-    (7) [Schedule 5][268] sets out the board procedure for statutory entities (other than corporations sole).
+    (7) [Schedule 5][281] sets out the board procedure for statutory entities (other than corporations sole).
     
     (8) Subsections (1) to (7) are only a guide to the general scheme and effect of this Act.
 
@@ -900,7 +973,7 @@ Establishment and governance of Crown entities
         
     *   (a) the functions set out in the entity's Act; and
     
-    *   (b) if the entity's Act gives the responsible Minister power to add functions, any other functions that the responsible Minister may direct the entity to perform in accordance with that Act and [section 112][140] of this Act; and
+    *   (b) if the entity's Act gives the responsible Minister power to add functions, any other functions that the responsible Minister may direct the entity to perform in accordance with that Act and [section 112][147] of this Act; and
     
     *   (c) any functions that are incidental and related to, or consequential on, its functions set out in paragraphs (a) and (b).
     
@@ -930,13 +1003,13 @@ Establishment and governance of Crown entities
 
 ##### 18 Acts must be for purpose of functions
     
-*   A statutory entity may do an act under [section 16][20] or [section 17][21] only for the purpose of performing its functions.
+*   A statutory entity may do an act under [section 16][23] or [section 17][24] only for the purpose of performing its functions.
 
 #### Validity of acts
 
 ##### 19 Acts in breach of statute are invalid
     
-*   (1) An act of a statutory entity is invalid, unless [section 20][25] applies, if it is---
+*   (1) An act of a statutory entity is invalid, unless [section 20][28] applies, if it is---
         
     *   (a) an act that is contrary to, or outside the authority of, an Act; or
     
@@ -946,7 +1019,7 @@ Establishment and governance of Crown entities
 
 ##### 20 Some natural person acts protected
     
-*   (1) [Section 19][24], or any rule of law to similar effect, does not prevent a person dealing with a statutory entity from enforcing a transaction that is a natural person act unless the person dealing with the entity had, or ought reasonably to have had, knowledge---
+*   (1) [Section 19][27], or any rule of law to similar effect, does not prevent a person dealing with a statutory entity from enforcing a transaction that is a natural person act unless the person dealing with the entity had, or ought reasonably to have had, knowledge---
         
     *   (a) of an express restriction in an Act that makes the act contrary to, or outside the authority of, the Act; or
     
@@ -954,15 +1027,15 @@ Establishment and governance of Crown entities
     
     (2) A person who relies on subsection (1) has the onus of proving that that person did not have, and ought not reasonably to have had, the knowledge referred to in that subsection.
     
-    (3) A statutory entity must report, in its annual report, each transaction that the entity has performed in the year to which the report relates that was invalid under [section 19][24] but enforced in reliance on this section.
+    (3) A statutory entity must report, in its annual report, each transaction that the entity has performed in the year to which the report relates that was invalid under [section 19][27] but enforced in reliance on this section.
     
     (4) For the avoidance of doubt, this section does not affect any person's other remedies (for example, remedies in contract) under the general law.
 
 ##### 21 Limits on protection of natural person acts
     
-*   [Section 20][25] does not limit---
+*   [Section 20][28] does not limit---
         
-    *   (a) [section 60][72] (which provides for injunctions to require or restrain acts); or
+    *   (a) [section 60][77] (which provides for injunctions to require or restrain acts); or
     
     *   (b) the board of the statutory entity bringing an action against a member who voted for or otherwise authorised the act for breach of his or her individual duties as a member; or
     
@@ -970,7 +1043,7 @@ Establishment and governance of Crown entities
     
     *   (d) an application, in accordance with the law, for judicial review; or
     
-    *   (e) [section 69][83].
+    *   (e) [section 69][88].
     
     
 
@@ -978,7 +1051,7 @@ Establishment and governance of Crown entities
     
 *   It is irrelevant to the validity of an act that the act is not, or would not be, in the best interests of a statutory entity.
     
-    Compare: 1993 No 105 [s 17(3)][273]
+    Compare: 1993 No 105 [s 17(3)][289]
 
 ##### 23 Dealings between statutory entities and other persons
     
@@ -1000,11 +1073,11 @@ Establishment and governance of Crown entities
     
     (3) Nothing in this section affects a person's right to apply, in accordance with the law, for judicial review.
     
-    Compare: 1993 No 105 [s 18][274]
+    Compare: 1993 No 105 [s 18][290]
 
 ##### 24 Interpretation
     
-*   In [sections 15 to 23][19], unless the context otherwise requires,---
+*   In [sections 15 to 23][22], unless the context otherwise requires,---
     
     _act_ includes a transfer of property, rights, or interests to or by a statutory entity
     
@@ -1052,11 +1125,11 @@ Establishment and governance of Crown entities
     
 *   (1) Members of a statutory entity must comply with---
         
-    *   (a) the board's collective duties (in [sections 49 to 52][59]); and
+    *   (a) the board's collective duties (in [sections 49 to 52][64]); and
     
-    *   (b) their individual duties as members (in [sections 53 to 57][64]); and
+    *   (b) their individual duties as members (in [sections 53 to 57][69]); and
     
-    *   (c) any directions applicable to the entity under [subpart 1][129] of Part 3\.
+    *   (c) any directions applicable to the entity under [subpart 1][136] of Part 3\.
     
     (2) Members are accountable to the responsible Minister for performing their duties as members.
 
@@ -1064,23 +1137,57 @@ Establishment and governance of Crown entities
 
 ##### 27 Responsible Minister's role
     
-*   (1) The role of the responsible Minister is to oversee and manage the Crown's interests in, and relationship with, a statutory entity and to exercise any statutory responsibilities given to the Minister, including functions, and powers---
+*   (1) The role of the responsible Minister is to oversee and manage the Crown's interests in, and relationship with, a statutory entity and to exercise any statutory responsibilities given to the Minister, including functions and powers---
         
     *   (a) in relation to the appointment and removal of members under this subpart:
     
     *   (b) to determine the remuneration of some members under this Part:
     
-    *   (c) in relation to the giving of directions to the entity under [subpart 1][129] of Part 3:
+    *   (c) in relation to the giving of directions to the entity under [subpart 1][136] of Part 3:
     
-    *   (d) to review the operations and performance of the entity under [subpart 3][164] of Part 3:
+    *   (d) to review the operations and performance of the entity under [subpart 3][172] of Part 3:
     
-    *   (e) to request information from the entity under [subpart 3][164] of Part 3, whether for a review or otherwise:
+    *   (e) to request information from the entity under [subpart 3][172] of Part 3, whether for a review or otherwise:
     
-    *   (f) to participate in the process of setting and monitoring the entity's strategic direction and targets under [Part 4][170]:
+    *   (f) to participate in the process of setting and monitoring the entity's strategic direction and targets under [Part 4][178]:
     
     *   (g) in relation to other matters in this Act or another Act.
     
     (2) This section does not limit another Minister's relationship with the statutory entity under any other authority.
+    
+    (3) Despite [section 28][291] of the State Sector Act 1988, the responsible Minister may not delegate any power under this Act except as provided in subsection (4).
+    
+    (4) The responsible Minister may delegate the power in [section 133][175] to request information to the chief executive of a monitor (who may subdelegate this delegation to an employee of the monitor or to an individual working for the monitor as a contractor in relation to a function, duty, or power of the monitor).
+    
+    Section 27(1): amended, on 18 July 2013, by [section 9(1)][292] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 27(3): inserted, on 18 July 2013, by [section 9(2)][292] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 27(4): inserted, on 18 July 2013, by [section 9(2)][292] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+#### Monitor's role
+    
+*   Heading: inserted, on 18 July 2013, by [section 10][293] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 27A Monitor's role
+    
+*   The role of the monitor is, in relation to the monitored statutory entity,---
+        
+    *   (a) to assist the responsible Minister to carry out his or her role (which is described in [section 27][37]); and
+    
+    *   (b) to perform or exercise any or all of the following functions, duties, or powers:
+            
+        *   (i) administering appropriations:
+        
+        *   (ii) administering legislation:
+        
+        *   (iii) tendering advice to Ministers:
+        
+        *   (iv) any other functions, duties, or powers in this Act or another Act that may, or must, be performed or exercised by the monitor.
+        
+        
+    
+    Section 27A: inserted, on 18 July 2013, by [section 10][293] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Appointment, removal, and conditions of members
 
@@ -1110,15 +1217,15 @@ Establishment and governance of Crown entities
     
     *   (c) the term of the appointment.
     
-    Section 28(3)(b): amended, on 7 July 2010, by [section 4(1)][275] of the Crown Entities Amendment Act 2010 (2010 No 60).
+    Section 28(3)(b): amended, on 7 July 2010, by [section 4(1)][294] of the Crown Entities Amendment Act 2010 (2010 No 60).
     
-    Section 28(3)(c): repealed, on 7 July 2010, by [section 4(1)][275] of the Crown Entities Amendment Act 2010 (2010 No 60).
+    Section 28(3)(c): repealed, on 7 July 2010, by [section 4(1)][294] of the Crown Entities Amendment Act 2010 (2010 No 60).
     
-    Section 28(4): added, on 7 July 2010, by [section 4(2)][275] of the Crown Entities Amendment Act 2010 (2010 No 60).
+    Section 28(4): added, on 7 July 2010, by [section 4(2)][294] of the Crown Entities Amendment Act 2010 (2010 No 60).
 
 ##### 29 Criteria for appointments or recommendations by responsible Minister
     
-*   (1) A responsible Minister of a statutory entity must appoint, or recommend the appointment of, members under [section 28][36] in accordance with any criteria for members and any process for appointment under this or another Act.
+*   (1) A responsible Minister of a statutory entity must appoint, or recommend the appointment of, members under [section 28][41] in accordance with any criteria for members and any process for appointment under this or another Act.
     
     (2) A responsible Minister---
         
@@ -1136,9 +1243,9 @@ Establishment and governance of Crown entities
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][256], or the [Securities Act 1978][276], or the [Securities Markets Act 1988][277], or the [Takeovers Act 1993][278]:
+    *   (b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][266], or the [Securities Act 1978][295], or the [Securities Markets Act 1988][296], or the [Takeovers Act 1993][297]:
     
-    *   (c) a person who is subject to a property order under the [Protection of Personal and Property Rights Act 1988][279]:
+    *   (c) a person who is subject to a property order under the [Protection of Personal and Property Rights Act 1988][298]:
     
     *   (d) a person in respect of whom a personal order has been made under that Act that reflects adversely on the person's---
             
@@ -1156,7 +1263,7 @@ Establishment and governance of Crown entities
     
     (3) However, subsection (2)(f) does not disqualify a person who is elected (rather than appointed) to office as a member under any other Act.
     
-    Section 30(2)(b): substituted, on 25 October 2006, by [section 25][280] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 30(2)(b): substituted, on 25 October 2006, by [section 25][299] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 31 Requirements before appointment
     
@@ -1188,13 +1295,13 @@ Establishment and governance of Crown entities
     
     *   (c) the appointor informs the member by written notice (with a copy to the entity) that the member is not to be reappointed and no successor is to be appointed at that time.
     
-    (4) This section is subject to [section 45][53].
+    (4) This section is subject to [section 45][58].
 
 ##### 33 Elected, co-opted, etc, members
     
-*   (1) [Sections 28][36], [29][37], [31(1)(a) and (b)][39], and [32][40] do not apply to a member of a statutory entity who is appointed under the entity's Act by election, co-option, or designation, or by any method other than appointment by a Minister or the Governor-General.
+*   (1) [Sections 28][41], [29][42], [31(1)(a) and (b)][44], and [32][45] do not apply to a member of a statutory entity who is appointed under the entity's Act by election, co-option, or designation, or by any method other than appointment by a Minister or the Governor-General.
     
-    (2) [Section 31(1)(c)][39] does not apply to a member of a statutory entity who is appointed (whether or not by nomination) by any method other than appointment by a Minister or the Governor-General if, under another Act, the member is required to disclose interests in matters relating to the statutory entity before being appointed as a member.
+    (2) [Section 31(1)(c)][44] does not apply to a member of a statutory entity who is appointed (whether or not by nomination) by any method other than appointment by a Minister or the Governor-General if, under another Act, the member is required to disclose interests in matters relating to the statutory entity before being appointed as a member.
 
 ##### 34 Validity of members' acts
     
@@ -1278,7 +1385,7 @@ Establishment and governance of Crown entities
 
 ##### 40 Just cause
     
-*   In [sections 38][46] and [39][47], _just cause_ includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the board or the individual duties of members (depending on the seriousness of the breach).
+*   In [sections 38][51] and [39][52], _just cause_ includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the board or the individual duties of members (depending on the seriousness of the breach).
 
 ##### 41 Process for removal
     
@@ -1318,11 +1425,11 @@ Establishment and governance of Crown entities
     
 *   A member of a statutory entity ceases to hold office if he or she---
         
-    *   (a) resigns in accordance with [section 44][52]; or
+    *   (a) resigns in accordance with [section 44][57]; or
     
-    *   (b) is removed from office in accordance with [sections 36 to 39][44] or any other enactment; or
+    *   (b) is removed from office in accordance with [sections 36 to 39][49] or any other enactment; or
     
-    *   (c) becomes disqualified from being a member under any of paragraphs (a) to (g) of [section 30(2)][38]; or
+    *   (c) becomes disqualified from being a member under any of paragraphs (a) to (g) of [section 30(2)][43]; or
     
     *   (d) otherwise ceases to hold office in accordance with any enactment.
     
@@ -1336,11 +1443,11 @@ Establishment and governance of Crown entities
 
 ##### 47 Remuneration of members
     
-*   (1) A member of a statutory entity is entitled to receive, from the funds of the entity, remuneration not within [section 48][57] for services as a member at a rate and of a kind determined by---
+*   (1) A member of a statutory entity is entitled to receive, from the funds of the entity, remuneration not within [section 48][62] for services as a member at a rate and of a kind determined by---
         
     *   (a) the responsible Minister, in the case of a member of a Crown agent or autonomous Crown entity, in accordance with the fees framework; or
     
-    *   (b) the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][281], in the case of---
+    *   (b) the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][300], in the case of---
             
         *   (i) a member of an independent Crown entity; or
         
@@ -1366,11 +1473,19 @@ Establishment and governance of Crown entities
 
 ##### 49 Entity must act consistently with objectives, functions, statement of intent, and output agreement
     
-*   The board of a statutory entity must ensure that the entity acts in a manner consistent with its objectives, functions, current statement of intent, and output agreement (if any) under [Part 4][170].
+*   The board of a statutory entity must ensure that the entity acts in a manner consistent with its objectives, functions, current statement of intent, and output agreement (if any) under [Part 4][178].
 
-##### 50 Functions must be performed efficiently, effectively, and consistently with spirit of service to public
+##### 50 Manner in which functions must be performed
     
-*   The board of a statutory entity must ensure that the statutory entity performs its functions efficiently and effectively and in a manner consistent with the spirit of service to the public.
+*   The board of a statutory entity must ensure that the statutory entity performs its functions---
+        
+    *   (a) efficiently and effectively; and
+    
+    *   (b) in a manner consistent with the spirit of service to the public; and
+    
+    *   (c) in collaboration with other public entities (within the meaning of that term in the [Public Audit Act 2001][301]) where practicable.
+    
+    Section 50: replaced, on 18 July 2013, by [section 11][302] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 51 Entity must operate in financially responsible manner
     
@@ -1390,7 +1505,7 @@ Establishment and governance of Crown entities
 
 ##### 52 Subsidiaries and other interests
     
-*   The board of a statutory entity must ensure that the entity complies with [sections 96 to 101][121].
+*   The board of a statutory entity must ensure that the entity complies with [sections 96 to 101][128].
 
 #### Individual duties of members
 
@@ -1442,9 +1557,9 @@ Establishment and governance of Crown entities
 
 ##### 58 Accountability for collective board duties
     
-*   (1) The duties of the board and members of a statutory entity under [sections 49 to 52][59] (_collective duties_) are duties owed to the responsible Minister.
+*   (1) The duties of the board and members of a statutory entity under [sections 49 to 52][64] (_collective duties_) are duties owed to the responsible Minister.
     
-    (2) If a board does not comply with any of its collective duties, all or any of the members may be removed from office (subject to any requirements in [sections 36 to 42][44], or in the entity's Act, that are applicable to the member).
+    (2) If a board does not comply with any of its collective duties, all or any of the members may be removed from office (subject to any requirements in [sections 36 to 42][49], or in the entity's Act, that are applicable to the member).
     
     (3) However, subsection (2) does not apply to a member (other than the member of a corporation sole) if---
         
@@ -1452,7 +1567,7 @@ Establishment and governance of Crown entities
     
     *   (b) he or she took all reasonable steps in the circumstances to prevent the duty being breached.
     
-    (4) The taking of reasonable steps does not require a member to apply to a court for an order under [section 60][72].
+    (4) The taking of reasonable steps does not require a member to apply to a court for an order under [section 60][77].
     
     (5) A member is not liable for a breach of a collective duty under this Act.
     
@@ -1464,15 +1579,15 @@ Establishment and governance of Crown entities
         
     *   (a) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach; or
     
-    *   (b) the right to apply for a court order under [section 60][72].
+    *   (b) the right to apply for a court order under [section 60][77].
     
     
 
 ##### 59 Accountability for individual duties
     
-*   (1) The duties of the members of a statutory entity under [sections 53 to 57][64] (_individual duties_) are duties owed to the responsible Minister and the statutory entity.
+*   (1) The duties of the members of a statutory entity under [sections 53 to 57][69] (_individual duties_) are duties owed to the responsible Minister and the statutory entity.
     
-    (2) If a member does not comply with his or her individual duties, that member may be removed from office (subject to any requirements in [sections 36 to 42][44], or in the entity's Act, that are applicable to the member).
+    (2) If a member does not comply with his or her individual duties, that member may be removed from office (subject to any requirements in [sections 36 to 42][49], or in the entity's Act, that are applicable to the member).
     
     (3) A statutory entity may bring an action against a member for breach of any individual duty.
     
@@ -1484,7 +1599,7 @@ Establishment and governance of Crown entities
         
     *   (a) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach; or
     
-    *   (b) the right to apply for a court order under [section 60][72].
+    *   (b) the right to apply for a court order under [section 60][77].
     
     
 
@@ -1510,7 +1625,7 @@ Establishment and governance of Crown entities
     
     (4) The court may, at any time before the final determination of an application under this section, make as an interim order any order that it is empowered to make as a final order.
     
-    (5) This section is subject to [section 113][141].
+    (5) This section is subject to [section 113][148].
 
 #### Reliance on information and advice
 
@@ -1562,21 +1677,27 @@ Establishment and governance of Crown entities
     
     (3) However, a person is not interested in a matter---
         
-    *   (a) only because he or she is a member or an officer of a wholly-owned subsidiary of the entity or of a subsidiary that is owned by the entity together with another parent Crown entity or entities; or
+    *   (a) only because he or she is a member or an officer of a wholly-owned subsidiary of the entity or of a multi-parent subsidiary of the entity and 1 or more other Crown entities; or
     
     *   (b) because he or she receives an indemnity, insurance cover, remuneration, or other benefits authorised under this Act or another Act; or
     
     *   (c) if his or her interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence him or her in carrying out his or her responsibilities under this Act or another Act; or
     
+    *   (ca) only because he or she has past or current involvement in the relevant sector, industry, or practice; or
+    
     *   (d) if an entity's Act provides that he or she is not interested, despite this section.
     
-    Section 62(2)(b): amended, on 26 April 2005, by [section 7][282] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    Section 62(2)(b): amended, on 26 April 2005, by [section 7][303] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 62(3)(a): amended, on 18 July 2013, by [section 12(1)][304] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 62(3)(ca): inserted, on 18 July 2013, by [section 12(2)][304] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 63 Obligation to disclose interest
     
-*   (1) A member who is interested in a matter relating to the statutory entity must disclose details of the interest in accordance with [section 64][78] as soon as practicable after the member becomes aware that he or she is interested.
+*   (1) A member who is interested in a matter relating to the statutory entity must disclose details of the interest in accordance with [section 64][83] as soon as practicable after the member becomes aware that he or she is interested.
     
-    (2) A general notice of an interest in a matter relating to the statutory entity, or in a matter that may in future relate to the entity, that is disclosed in accordance with [section 64][78] is a standing disclosure of that interest for the purposes of this section.
+    (2) A general notice of an interest in a matter relating to the statutory entity, or in a matter that may in future relate to the entity, that is disclosed in accordance with [section 64][83] is a standing disclosure of that interest for the purposes of this section.
     
     (3) A standing disclosure ceases to have effect if the nature of the interest materially alters or the extent of the interest materially increases.
 
@@ -1584,15 +1705,17 @@ Establishment and governance of Crown entities
     
 *   The member must disclose details of the interest in an interests register kept by the statutory entity and to---
         
-    *   (a) the chairperson or, if there is no chairperson or if the chairperson is unavailable or interested, the deputy or temporary chairperson; or
+    *   (a) the chairperson or, if there is no chairperson or if the chairperson is unavailable or interested, the deputy or temporary deputy chairperson; or
     
-    *   (b) the responsible Minister, if there is neither a chairperson nor a deputy or temporary chairperson, or if both the chairperson and the deputy or temporary chairperson are unavailable or interested.
+    *   (b) the responsible Minister, if there is neither a chairperson nor a deputy or temporary deputy chairperson, or if both the chairperson and the deputy or temporary deputy chairperson are unavailable or interested.
     
+    Section 64(a): amended, on 18 July 2013, by [section 13][305] of the Crown Entities Amendment Act 2013 (2013 No 51).
     
+    Section 64(b): amended, on 18 July 2013, by [section 13][305] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 65 What must be disclosed
     
-*   The details that must be disclosed under [section 64][78] are---
+*   The details that must be disclosed under [section 64][83] are---
         
     *   (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
     
@@ -1614,39 +1737,43 @@ Establishment and governance of Crown entities
 
 ##### 67 Consequences of failing to disclose interest
     
-*   (1) The board must notify the responsible Minister of a failure to comply with [section 63][77] or [section 66][80], and of the acts affected, as soon as practicable after becoming aware of the failure.
+*   (1) The board must notify the responsible Minister of a failure to comply with [section 63][82] or [section 66][85], and of the acts affected, as soon as practicable after becoming aware of the failure.
     
-    (2) A failure to comply with [section 63][77] or [section 66][80] does not affect the validity of an act or matter.
+    (2) A failure to comply with [section 63][82] or [section 66][85] does not affect the validity of an act or matter.
     
     (3) However, subsection (2) does not limit the right of any person to apply, in accordance with law, for judicial review.
 
 ##### 68 Permission to act despite being interested in matter
     
-*   (1) The chairperson of a statutory entity may, by prior written notice to the board, permit 1 or more members, or members with a specified class of interest, to do anything otherwise prohibited by [section 66][80], if the chairperson is satisfied that it is in the public interest to do so.
+*   (1) The chairperson of a statutory entity may, by prior written notice to the board, permit 1 or more members, or members with a specified class of interest, to do anything otherwise prohibited by [section 66][85], if the chairperson is satisfied that it is in the public interest to do so.
     
     (2) The permission may state conditions that the member must comply with.
     
-    (3) The deputy or temporary chairperson may give the permission if there is no chairperson, or if the chairperson is unavailable or interested.
+    (3) The deputy or temporary deputy chairperson may give the permission if there is no chairperson, or if the chairperson is unavailable or interested.
     
-    (4) The responsible Minister may give the permission if there is neither a chairperson nor a deputy or temporary chairperson, or if both the chairperson and the deputy or temporary chairperson are unavailable or interested.
+    (4) The responsible Minister may give the permission if there is neither a chairperson nor a deputy or temporary deputy chairperson, or if both the chairperson and the deputy or temporary deputy chairperson are unavailable or interested.
     
     (5) The permission may be amended or revoked in the same way as it may be given.
     
     (6) The board must disclose an interest to which a permission relates in its annual report, together with a statement of who gave the permission and any conditions or amendments to, or revocation of, the permission.
+    
+    Section 68(3): amended, on 18 July 2013, by [section 14][306] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 68(4): amended, on 18 July 2013, by [section 14][306] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 69 Entity may avoid certain acts done in breach of conflict of interest rules
     
-*   (1) A statutory entity may avoid a natural person act done by the entity in respect of which a member was in breach of [section 66][80].
+*   (1) A statutory entity may avoid a natural person act done by the entity in respect of which a member was in breach of [section 66][85].
     
     (2) However, the act---
         
-    *   (a) may be avoided only within 3 months of the affected act being disclosed to the responsible Minister under [section 67][81]; and
+    *   (a) may be avoided only within 3 months of the affected act being disclosed to the responsible Minister under [section 67][86]; and
     
     *   (b) cannot be avoided if the entity receives fair value in respect of the act.
     
     (3) An act in which a member is interested can be avoided on the ground of the member's interest only in accordance with this section.
     
-    Compare: 1993 No 105 [s 141(1), (2), (6)][283]
+    Compare: 1993 No 105 [s 141(1), (2), (6)][307]
 
 ##### 70 What is fair value
     
@@ -1654,7 +1781,7 @@ Establishment and governance of Crown entities
     
     (2) Whether an entity receives fair value in respect of an act must be determined on the basis of the information known to the entity and to the interested member at the time the act is done.
     
-    Compare: 1993 No 105 [s 141(3), (4)][283]
+    Compare: 1993 No 105 [s 141(3), (4)][307]
 
 ##### 71 Onus of proving fair value
     
@@ -1662,11 +1789,11 @@ Establishment and governance of Crown entities
     
     (2) In any other case, the entity has the onus of establishing that it did not receive fair value.
     
-    Compare: 1993 No 105 [s 141(5)][283]
+    Compare: 1993 No 105 [s 141(5)][307]
 
 ##### 72 Effect of avoidance on third parties
     
-*   The avoidance of an act under [section 69][83] does not affect the title or interest of a person to or in property that that person has acquired if the property was acquired---
+*   The avoidance of an act under [section 69][88] does not affect the title or interest of a person to or in property that that person has acquired if the property was acquired---
         
     *   (a) from a person other than the entity; and
     
@@ -1700,7 +1827,7 @@ Establishment and governance of Crown entities
     
     (4) The board must not delegate the general power of delegation.
     
-    Compare: 1988 No 20 [ss 28][284], [41(1)][285]; 1993 No 105 [s 130][286]
+    Compare: 1988 No 20 [ss 28][291], [41(1)][308]; 1993 No 105 [s 130][309]
 
 ##### 74 Powers of delegate
     
@@ -1722,7 +1849,7 @@ Establishment and governance of Crown entities
     
     *   (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
     
-    Compare: 1988 No 20 [s 41(2), (3), (4)][285]
+    Compare: 1988 No 20 [s 41(2), (3), (4)][308]
 
 ##### 75 Effect of delegation on entity or board
     
@@ -1734,19 +1861,19 @@ Establishment and governance of Crown entities
     
     *   (c) is affected by any change in the membership of the board or of any committee or class of persons or by any change in an office holder, chief executive, or employee.
     
-    Compare: 1988 No 20 [ss 41(7)][285], [42(2)][287]
+    Compare: 1988 No 20 [ss 41(7)][308], [42(2)][310]
 
 ##### 76 Revocations of delegations
     
-*   (1) A delegation under [section 73][88] may be revoked at will by---
+*   (1) A delegation under [section 73][93] may be revoked at will by---
         
     *   (a) resolution of the board and written notice to the delegate; or
     
     *   (b) any other method provided for in the delegation.
     
-    (2) A delegation under [section 74(1)(b)][89] may be revoked at will by written notice of the delegate to the subdelegate.
+    (2) A delegation under [section 74(1)(b)][94] may be revoked at will by written notice of the delegate to the subdelegate.
     
-    Compare: 1988 No 20 [s 42][287]
+    Compare: 1988 No 20 [s 42][310]
 
 #### Miscellaneous provisions relating to board
 
@@ -1754,9 +1881,13 @@ Establishment and governance of Crown entities
     
 *   The powers and functions of a statutory entity are not affected by any vacancy in the membership of its board.
 
-##### 78 Board procedure
+##### 78 Appointment of chairperson, etc, and board procedure
     
-*   The provisions set out in [Schedule 5][268] govern the proceedings of the board of a statutory entity (other than a corporation sole).
+*   The provisions set out in [Schedule 5][281] govern the appointment of a chairperson and deputy chairperson (including a temporary deputy chairperson) and the proceedings of the board of a statutory entity (other than a corporation sole).
+    
+    Section 78 heading: amended, on 18 July 2013, by [section 15(1)][311] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 78: amended, on 18 July 2013, by [section 15(2)][311] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ### Subpart 2---Crown entity companies
 
@@ -1772,7 +1903,7 @@ Establishment and governance of Crown entities
     
     (4) This section does not limit the Crown's ability to subscribe for, or otherwise acquire, shares in a company that is not a Crown entity company.
     
-    (5) This section applies also to a company that is being formed with the intention of becoming a Crown entity company, despite the fact that the company is not yet named in [Schedule 2][251].
+    (5) This section applies also to a company that is being formed with the intention of becoming a Crown entity company, despite the fact that the company is not yet named in [Schedule 2][261].
 
 ##### 80 Restrictions relating to shares in Crown entity companies
     
@@ -1794,7 +1925,7 @@ Establishment and governance of Crown entities
     
     *   (b) do not confer any rights to vote at any general meeting of the company.
     
-    Compare: 1986 No 124 [s 11][288]
+    Compare: 1986 No 124 [s 11][312]
 
 ##### 81 Crown entity company must have constitution stating it is Crown entity
     
@@ -1822,35 +1953,35 @@ Establishment and governance of Crown entities
 
 ##### 85 Interface with Companies Act 1993 and other Acts
     
-*   (1) [Section 178][289] of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity company to refuse to provide information that must be provided under this Act or otherwise made available to any person under the [Official Information Act 1982][290].
+*   (1) [Section 178][313] of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity company to refuse to provide information that must be provided under this Act or otherwise made available to any person under the [Official Information Act 1982][314].
     
-    (2) [Section 161(1)(b)][291] of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to a Crown entity company.
+    (2) [Section 161(1)(b)][315] of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to a Crown entity company.
     
-    (3) In all other respects, both the [Companies Act 1993][256] and this Act apply to a Crown entity company in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
+    (3) In all other respects, both the [Companies Act 1993][266] and this Act apply to a Crown entity company in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
 
 #### Role and accountability of members
 
 ##### 86 Board's role
     
-*   (1) In accordance with [section 128(1)][292] of the Companies Act 1993, the business and affairs of a Crown entity company must be managed by, or under the direction or supervision of, the board of the company.
+*   (1) In accordance with [section 128(1)][316] of the Companies Act 1993, the business and affairs of a Crown entity company must be managed by, or under the direction or supervision of, the board of the company.
     
-    (2) The board of a Crown entity company must exercise its duties under [section 128(1)][292] of that Act in accordance with this Act and the entity's Act (if any).
+    (2) The board of a Crown entity company must exercise its duties under [section 128(1)][316] of that Act in accordance with this Act and the entity's Act (if any).
     
-    (3) Subsection (2) does not limit [section 128(3)][292] of the Companies Act 1993 (which relates to modifications, exceptions, or limitations contained in that Act or in the company's constitution).
+    (3) Subsection (2) does not limit [section 128(3)][316] of the Companies Act 1993 (which relates to modifications, exceptions, or limitations contained in that Act or in the company's constitution).
 
 ##### 87 Accountability of members to shareholding Ministers
     
 *   (1) Members of a Crown entity company must comply with---
         
-    *   (a) the board's collective duties (in [sections 92][114] and [93][115]); and
+    *   (a) the board's collective duties (in [sections 92][121] and [93][122]); and
     
-    *   (b) the individual duty (in [section 95][118]); and
+    *   (b) the individual duty (in [section 95][125]); and
     
-    *   (c) any directions applicable to the company under [subpart 1][129] of Part 3\.
+    *   (c) any directions applicable to the company under [subpart 1][136] of Part 3\.
     
     (2) Members are accountable to the shareholding Ministers for performing their duties as members under this Act.
     
-    (3) This section does not affect individual directors' duties that are owed to the company under [Part 8][293] of the Companies Act 1993\.
+    (3) This section does not affect individual directors' duties that are owed to the company under [Part 8][317] of the Companies Act 1993\.
 
 #### Shareholding Ministers' role
 
@@ -1858,19 +1989,51 @@ Establishment and governance of Crown entities
     
 *   (1) The role of the shareholding Ministers is to oversee and manage the Crown's interests in, and relationship with, a Crown entity company and to exercise any statutory responsibilities given to the shareholding Ministers, including functions and powers---
         
-    *   (a) to appoint and remove members by shareholder resolution in accordance with the [Companies Act 1993][256]; and
+    *   (a) to appoint and remove members by shareholder resolution in accordance with the [Companies Act 1993][266]; and
     
-    *   (b) to review the operations and performance of the company under [subpart 3][164] of Part 3; and
+    *   (b) to review the operations and performance of the company under [subpart 3][172] of Part 3; and
     
-    *   (c) to request information from the entity under [subpart 3][164] of Part 3, whether for a review or otherwise; and
+    *   (c) to request information from the entity under [subpart 3][172] of Part 3, whether for a review or otherwise; and
     
-    *   (d) to participate in the process of setting and monitoring the company's strategic direction and targets under [Part 4][170]; and
+    *   (d) to participate in the process of setting and monitoring the company's strategic direction and targets under [Part 4][178]; and
     
     *   (e) to do other things under this Act or another Act or the company's constitution.
     
     (2) The shareholding Ministers may give directions to the company only if expressly authorised to do so by this Act or another Act.
     
     (3) This section does not limit another Minister's relationship with the Crown entity company under any other authority.
+    
+    (4) Despite [section 28][291] of the State Sector Act 1988, the shareholding Ministers may not delegate any power under this Act except as provided in subsection (5).
+    
+    (5) The shareholding Ministers may delegate the power in [section 133][175] to request information to the chief executive of a monitor (who may subdelegate this delegation to an employee of the monitor or to an individual working for the monitor as a contractor in relation to a function, duty, or power of the monitor).
+    
+    Section 88(4): inserted, on 18 July 2013, by [section 16][318] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 88(5): inserted, on 18 July 2013, by [section 16][318] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+#### Monitor's role
+    
+*   Heading: inserted, on 18 July 2013, by [section 17][319] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 88A Monitor's role
+    
+*   The role of the monitor is, in relation to a monitored Crown entity company,---
+        
+    *   (a) to assist the shareholding Ministers to carry out their role (which is described in [section 88][113]); and
+    
+    *   (b) to perform or exercise any or all of the following functions, duties, or powers:
+            
+        *   (i) administering appropriations:
+        
+        *   (ii) administering legislation:
+        
+        *   (iii) tendering advice to Ministers:
+        
+        *   (iv) any other functions, duties, or powers in this Act or another Act that may, or must, be performed or exercised by the monitor.
+        
+        
+    
+    Section 88A: inserted, on 18 July 2013, by [section 17][319] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Appointment and removal of members
 
@@ -1892,7 +2055,7 @@ Establishment and governance of Crown entities
     
     (2) The board of the Crown entity company must notify the shareholding Ministers of a failure to comply with subsection (1) as soon as practicable after becoming aware of the failure.
     
-    (3) [Sections 139][294] and [140][295] of the Companies Act 1993 do not apply until after the member is appointed.
+    (3) [Sections 139][320] and [140][321] of the Companies Act 1993 do not apply until after the member is appointed.
 
 ##### 91 No compensation for removal from office
     
@@ -1906,11 +2069,11 @@ Establishment and governance of Crown entities
 
 ##### 93 Subsidiaries
     
-*   A Crown entity company must ensure that the company complies with [sections 96 to 101][121].
+*   A Crown entity company must ensure that the company complies with [sections 96 to 101][128].
 
 ##### 94 Accountability for collective board duties
     
-*   (1) The duties of the board and members of a Crown entity company under [sections 92][114] and [93][115] (_collective duties_) are duties owed to the shareholding Ministers.
+*   (1) The duties of the board and members of a Crown entity company under [sections 92][121] and [93][122] (_collective duties_) are duties owed to the shareholding Ministers.
     
     (2) If a board does not comply with any of its collective duties, all or any of the members may be removed from office.
     
@@ -1922,13 +2085,13 @@ Establishment and governance of Crown entities
     
     (4) A member is not liable for a breach of a collective duty under this Act, except for being removed from office as provided for in subsection (2).
     
-    (5) This section does not affect any other ground for removing a member from office or [section 156][296] of the Companies Act 1993 (which relates to the process for removal of a company director).
+    (5) This section does not affect any other ground for removing a member from office or [section 156][322] of the Companies Act 1993 (which relates to the process for removal of a company director).
     
     (6) Subsection (4) does not affect---
         
     *   (a) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach; or
     
-    *   (b) the right to apply for a court order under the [Companies Act 1993][256].
+    *   (b) the right to apply for a court order under the [Companies Act 1993][266].
     
     
 
@@ -1964,7 +2127,7 @@ Establishment and governance of Crown entities
 
 ##### 97 Subsidiaries: rules applying to all Crown entities
     
-*   A Crown entity (the _parent_) must ensure, to the extent of its powers, that each of its Crown entity subsidiaries---
+*   A Crown entity (the _parent_) must ensure, to the extent that it is reasonably able to do so, that each of its Crown entity subsidiaries---
         
     *   (a) does not do anything that the parent itself does not have the power to do; and
     
@@ -1986,23 +2149,35 @@ Establishment and governance of Crown entities
     
     *   (j) does not have a member of Parliament as a member.
     
-    
+    Section 97: amended, on 18 July 2013, by [section 18][323] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 98 Subsidiaries: rules applying only to statutory entities
     
-*   (1) A statutory entity (the _parent_) must ensure, to the extent of its powers, that each of its Crown entity subsidiaries---
+*   (1) A statutory entity (the _parent_) must ensure, to the extent that it is reasonably able to do so, that each of its Crown entity subsidiaries---
         
-    *   (a) performs its functions efficiently and effectively and in a manner consistent with the spirit of service to the public; and
+    *   (a) performs its functions---
+            
+        *   (i) efficiently and effectively; and
+        
+        *   (ii) in a manner consistent with the spirit of service to the public; and
+        
+        *   (iii) in collaboration with other public entities (within the meaning of that term in the [Public Audit Act 2001][301]) where practicable; and
+        
+        
     
     *   (b) pays remuneration to members of the subsidiary only at a rate and of a kind determined by the parent in accordance with the fees framework or after consulting with the responsible Minister; and
     
-    *   (c) complies with the requirements as to chief executives set out in [section 117][147] in the same way as the parent must do (but for this purpose, references to the responsible Minister in [section 117][147] must be read as references to the parent).
+    *   (c) complies with the requirements as to chief executives set out in [section 117][155] in the same way as the parent must do (but for this purpose, references to the responsible Minister in [section 117][155] must be read as references to the parent).
     
-    (2) The requirements of this section are additional to those in [section 97][122].
+    (2) The requirements of this section are additional to those in [section 97][129].
+    
+    Section 98(1): amended, on 18 July 2013, by [section 19(1)][324] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 98(1)(a): replaced, on 18 July 2013, by [section 19(2)][324] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 99 Application to multi-parent subsidiaries
     
-*   If there is any doubt as to how [section 97][122], [section 98][123], or [sections 161 to 164][203] apply to a multi-parent subsidiary, the responsible Ministers of the 2 or more parents of a multi-parent subsidiary must agree on the restrictions and obligations that the sections require.
+*   If there is any doubt as to how [section 97][129], [section 98][130], or [sections 161 to 164][211] apply to a multi-parent subsidiary, the responsible Ministers of the 2 or more parents of a multi-parent subsidiary must agree on the restrictions and obligations that the sections require.
 
 ##### 100 Acquisition of shares or interests in companies, trusts, and partnerships, etc
     
@@ -2024,7 +2199,7 @@ Establishment and governance of Crown entities
     
     (2) _Substantial influence_, in relation to a company, means the capacity to affect substantially either the financial or operating policies, or both, of the company.
     
-    (3) This section does not apply if the entity acquires a Crown entity subsidiary (in which case [section 96][121] applies).
+    (3) This section does not apply if the entity acquires a Crown entity subsidiary (in which case [section 96][128] applies).
 
 ##### 101 Corporation sole may not acquire interests in bodies corporate
     
@@ -2040,36 +2215,38 @@ Establishment and governance of Crown entities
 
 ##### 102 Interface with Companies Act 1993 and other Acts
     
-*   (1) [Section 178][289] of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity subsidiary to refuse to provide information that must be provided under this Act or otherwise made available to any person under the [Official Information Act 1982][290].
+*   (1) [Section 178][313] of the Companies Act 1993 (which relates to information for shareholders and, among other things, sets out some reasons for which a company can refuse to provide information) does not entitle a Crown entity subsidiary to refuse to provide information that must be provided under this Act or otherwise made available to any person under the [Official Information Act 1982][314].
     
-    (2) [Section 161(1)(b)][291] of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to Crown entity subsidiaries.
+    (2) [Section 161(1)(b)][315] of the Companies Act 1993 (which relates to payment to a director or former director of compensation for loss of office) does not apply to Crown entity subsidiaries.
     
-    (3) In all other respects, both the [Companies Act 1993][256] and this Act apply to a Crown entity subsidiary in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
+    (3) In all other respects, both the [Companies Act 1993][266] and this Act apply to a Crown entity subsidiary in respect of a matter, but anything done under one Act counts towards compliance with the other Act.
 
 ## Part 3  
 Operation of Crown entities
 
 ### Subpart 1---Provisions applying generally to Crown entities
 
-#### Directions on government policy to statutory entities and Crown entity companies
+#### Directions to statutory entities and Crown entity companies
+    
+*   Heading: amended, on 18 July 2013, by [section 20][325] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 103 Power to direct Crown agents to give effect to government policy
     
 *   (1) The responsible Minister of a Crown agent may direct the entity to give effect to a government policy that relates to the entity's functions and objectives.
     
-    (2) [Sections 114][143] and [115][144] apply to the direction.
+    (2) [Sections 114][150] and [115][151] apply to the direction.
     
-    (3) This section is subject to [section 113][141].
+    (3) This section is subject to [section 113][148].
 
 ##### 104 Power to direct autonomous Crown entities to have regard to government policy
     
 *   (1) The responsible Minister of an autonomous Crown entity may direct the entity to have regard to a government policy that relates to the entity's functions and objectives.
     
-    (2) [Sections 114][143] and [115][144] apply to the direction.
+    (2) [Sections 114][150] and [115][151] apply to the direction.
     
     (3) A responsible Minister of an autonomous Crown entity may not direct the entity to give effect to a government policy unless specifically provided in another Act.
     
-    (4) This section is subject to [section 113][141].
+    (4) This section is subject to [section 113][148].
 
 ##### 105 No power to direct independent Crown entities or Crown entity companies on government policy unless provided in another Act
     
@@ -2079,17 +2256,23 @@ Operation of Crown entities
     
 *   (1) A responsible Minister may, if an Act provides for any member or office holder of an entity to do something, direct that person to have regard to, or to give effect to, a government policy, as the case may be, in the same way that the Minister could give a direction to the entity if the Act required the entity to do the act itself.
     
-    (2) [Sections 114][143] and [115][144] apply to the direction.
+    (2) [Sections 114][150] and [115][151] apply to the direction.
 
-##### 107 Whole of government directions
+##### 107 Directions to support whole of government approach
     
-*   (1) The Minister of State Services and the Minister of Finance may jointly direct Crown entities to comply with specified requirements for the purpose of both---
+*   (1) The Minister of State Services and the Minister of Finance may jointly direct Crown entities to support a whole of government approach by complying with specified requirements for any of the following purposes:
         
-    *   (a) supporting a whole of government approach; and
+    *   (a) to improve (directly or indirectly) public services:
     
-    *   (b) either directly or indirectly, improving public services.
+    *   (b) to secure economies or efficiencies:
     
-    ###### Example:
+    *   (c) to develop expertise and capability:
+    
+    *   (d) to ensure business continuity:
+    
+    *   (e) to manage risks to the Government's financial position.
+    
+    ###### Example
     
     A direction may be given requiring that all Crown entities comply with e-government requirements to improve public services.
     
@@ -2097,45 +2280,75 @@ Operation of Crown entities
         
     *   (a) to 1 or more categories of Crown entities (for example, to all statutory entities, all Crown entity companies, or all school boards of trustees); or
     
-    *   (b) to 1 or more types of statutory entity (for example, to all Crown agents).
+    *   (b) to 1 or more types of statutory entity (for example, to all Crown agents); or
+    
+    *   (c) to a group of Crown entities (whether made up of categories or types) if---
+            
+        *   (i) the group is made up of at least 3 Crown entities; and
+        
+        *   (ii) the entities in the group have in common at least 1 significant characteristic that relates to the direction (for example, the characteristic could relate to the Crown entities' asset holdings or presence in a region).
+        
+        
+    
+    (2A) For the purposes of subsection (2)(a), companies named in [Schedule 4A][326] of the Public Finance Act 1989 may be treated as a category of Crown entities.
     
     (3) No direction may be given under this section to Crown entity subsidiaries.
-
-##### 108 Process for giving whole of government directions
     
-*   (1) The Ministers must, before giving a direction under [section 107][135], to the extent that the Ministers consider necessary in the circumstances,---
+    Section 107 heading: replaced, on 18 July 2013, by [section 21(1)][327] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 107(1): replaced, on 18 July 2013, by [section 21(2)][327] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 107(2)(b): amended, on 18 July 2013, by [section 21(3)][327] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 107(2)(c): inserted, on 18 July 2013, by [section 21(4)][327] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 107(2A): inserted, on 18 July 2013, by [section 21(5)][327] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 108 Process for giving directions under section 107
+    
+*   (1) The Ministers must, before giving a direction under [section 107][142], to the extent that the Ministers consider necessary in the circumstances,---
         
     *   (a) consult with those entities to which the direction is proposed to apply; and
     
     *   (b) consult with persons that the Ministers consider are representative of the interests of persons likely to be substantially affected by the proposed direction.
     
-    (2) The Ministers must, as soon as practicable after giving a direction under [section 107][135],---
+    (2) The Ministers must, as soon as practicable after giving a direction under [section 107][142],---
         
-    *   (a) notify the entities to which the direction will apply that the direction has been given and will come into force subject to [section 109][137]; and
+    *   (a) notify the entities to which the direction will apply that the direction has been given and will come into force subject to [section 109][144]; and
     
     *   (b) present the direction to the House of Representatives.
     
-    (3) This section is subject to [section 113][141].
-
-##### 109 House of Representatives may resolve to disapply whole of government direction
+    (3) This section is subject to [section 113][148].
     
-*   A whole of government direction given under [section 107][135] comes into force 15 sitting days after it is presented to the House of Representatives unless the House of Representatives resolves, in that period, to disapply the direction.
+    Section 108 heading: amended, on 18 July 2013, by [section 22][328] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 109 House of Representatives may resolve to disapply direction under section 107
+    
+*   A direction under [section 107][142] comes into force 15 sitting days after it is presented to the House of Representatives unless the House of Representatives resolves, in that period, to disapply the direction.
+    
+    Section 109 heading: amended, on 18 July 2013, by [section 23(1)][329] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 109: amended, on 18 July 2013, by [section 23(2)][329] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 110 Obligation to give effect to direction
     
-*   Every Crown entity within the category or type of Crown entities to which the direction is given must give effect to the direction as soon as it comes into force under [section 109][137].
-
-##### 111 Publication of whole of government direction
+*   Every Crown entity within the category or type or group of Crown entities to which the direction is given must give effect to the direction as soon as it comes into force under [section 109][144].
     
-*   (1) As soon as practicable after a direction comes into force under [section 109][137], the Ministers who gave it must ensure that it is published in the _Gazette_ and on the Internet.
+    Section 110: amended, on 18 July 2013, by [section 24][330] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 111 Publication of direction under section 107
+    
+*   (1) As soon as practicable after a direction comes into force under [section 109][144], the Ministers who gave it must ensure that it is published in the _Gazette_ and on the Internet.
     
     (2) If a direction does not come into force, the Ministers who gave it must, as soon as practicable, notify the entities to which the direction would have applied that the direction has been disapplied and will not come into force.
+    
+    Section 111 heading: amended, on 18 July 2013, by [section 25][331] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 112 Power to add functions if authorised by entity's Act or constitution
     
 *   (1) If an Act, or a Crown entity company's constitution, gives the responsible Minister power to add to the functions of a Crown entity, the Minister may direct the entity to perform any additional function that is so added and that is consistent with the entity's objectives.
     
-    (2) [Sections 114][143] and [115][144] apply to the direction.
+    (2) [Sections 114][150] and [115][151] apply to the direction.
 
 ##### 113 Safeguarding independence of Crown entities
     
@@ -2151,9 +2364,15 @@ Operation of Crown entities
     
     *   (b) functions that are carried out by a person acting judicially in relation to a particular matter in accordance with an entity's Act.
     
-    (3) This section applies to all Ministerial directions given under this Act, including whole of government directions.
+    (3) This section applies to all Ministerial directions given under this Act, including directions under [section 107][142].
+    
+    Section 113(3): amended, on 18 July 2013, by [section 26][332] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Government directions to Crown entities
+
+\[Repealed\]
+    
+*   Heading: repealed, on 18 July 2013, by [section 27][333] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 114 Crown entities must comply with directions given under statutory power of direction
     
@@ -2161,19 +2380,19 @@ Operation of Crown entities
         
     *   (a) any direction given to it under a power of direction in this Act or another Act; and
     
-    *   (b) any whole of government direction given to it under [section 107][135].
+    *   (b) any direction under [section 107][142].
     
     (2) _Comply_, in this section, means to give effect to the direction or to have regard to the direction, as the context requires.
     
     (3) Subsection (1) applies---
         
-    *   (a) except as provided in [section 113][141]; and
+    *   (a) except as provided in [section 113][148]; and
     
     *   (b) to a direction given by a Minister, only if it is in writing and signed by a Minister entitled to give the direction.
     
-    
+    Section 114(1)(b): amended, on 18 July 2013, by [section 28][334] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
-##### 115 Procedure for all Ministerial directions
+##### 115 Procedure for ministerial directions on government policy
     
 *   (1) A Minister who proposes to give a direction to a Crown entity under this Act, the entity's Act, or another Act must consult with the Crown entity before giving the direction to the entity.
     
@@ -2183,11 +2402,47 @@ Operation of Crown entities
     
     *   (b) present a copy of it to the House of Representatives.
     
-    (3) The direction may be amended, revoked, or replaced in the same way as it may be given.
+    (3) The direction may be amended or replaced in the same way as it may be given.
     
-    (4) This section does not apply to whole of government directions given under [section 107][135].
+    (3A) A Minister who is entitled to give a direction to a Crown entity is also entitled to revoke it by notice in writing to the entity, and, as soon as practicable after doing so, the Minister must publish that notice in the _Gazette_.
+    
+    (4) This section does not apply to directions under [section 107][142].
     
     (5) This section does not apply, in the case of directions given under another Act, if the other Act contains a procedure for giving directions.
+    
+    Section 115 heading: replaced, on 18 July 2013, by [section 29(1)][335] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 115(3): amended, on 18 July 2013, by [section 29(2)][335] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 115(3A): inserted, on 18 July 2013, by [section 29(3)][335] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 115(4): amended, on 18 July 2013, by [section 29(4)][335] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 115A Review and expiry of all directions
+    
+*   (1) A ministerial direction under this Act or another Act may specify its expiry date.
+    
+    (2) A direction that does not specify its expiry date must be reviewed by the Minister or Ministers after the later of the following:
+        
+    *   (a) 5 years after the direction was given:
+    
+    *   (b) 5 years after the commencement of this section.
+    
+    (3) A Minister or Ministers reviewing a direction must, to the extent that they consider it necessary in the circumstances,---
+        
+    *   (a) consult the Crown entity or entities to which the direction applies; and
+    
+    *   (b) consult any persons that they consider are representative of the interests of persons likely to be substantially affected by the direction.
+    
+    (4) As soon as practicable after completing the review, the Minister or Ministers must notify the outcome of the review to---
+        
+    *   (a) the Crown entity or entities to which the direction applies; and
+    
+    *   (b) persons that were consulted under subsection (3)(b).
+    
+    (5) This section does not apply, in the case of directions given under another Act, if the other Act contains a procedure for reviewing directions.
+    
+    Section 115A: inserted, on 18 July 2013, by [section 30][336] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Employees
 
@@ -2207,7 +2462,7 @@ Operation of Crown entities
     
     (3) A failure to comply with this section does not invalidate the acts of an employee of a Crown entity.
     
-    (4) This section does not limit [section 117][147].
+    (4) This section does not limit [section 117][155].
 
 ##### 117 Employment of chief executive
     
@@ -2261,9 +2516,9 @@ Operation of Crown entities
 
 ##### 119 Application of sections 84 to 84B of the State Sector Act 1988
     
-*   (1) Each Crown entity is an employer in the State services for the purposes of [sections 84 to 84B][297] of the State Sector Act 1988\.
+*   (1) Each Crown entity is an employer in the State services for the purposes of [sections 84 to 84B][337] of the State Sector Act 1988\.
     
-    (2) [Sections 84 to 84B][297] of the State Sector Act 1988 apply to the officers and employees of a Crown entity.
+    (2) [Sections 84 to 84B][337] of the State Sector Act 1988 apply to the officers and employees of a Crown entity.
 
 ### Subpart 2---Statutory entities
 
@@ -2277,7 +2532,7 @@ Operation of Crown entities
     
 *   (1) A member of a statutory entity is not liable, in respect of an excluded act or omission,---
         
-    *   (a) to the entity, unless it is also a breach of an individual duty under any of [sections 53 to 57][64]:
+    *   (a) to the entity, unless it is also a breach of an individual duty under any of [sections 53 to 57][69]:
     
     *   (b) to any other person.
     
@@ -2285,7 +2540,7 @@ Operation of Crown entities
     
     (3) Nothing in this section affects---
         
-    *   (a) the making of an order under [section 60][72]:
+    *   (a) the making of an order under [section 60][77]:
     
     *   (b) the liability of any person that is not a civil liability:
     
@@ -2295,15 +2550,9 @@ Operation of Crown entities
 
 ##### 122 Indemnities in relation to excluded act or omission
     
-*   (1) A statutory entity may only indemnify a member, office holder, or employee in respect of an excluded act or omission.
+*   A statutory entity may only indemnify a member, an office holder, or an employee in respect of an excluded act or omission (including costs incurred in defending or settling any claim or proceeding relating to that excluded act or omission).
     
-    (2) An indemnity under subsection (1) is limited to---
-        
-    *   (a) liability for conduct; and
-    
-    *   (b) costs incurred in defending or settling any claim or proceeding relating to that liability.
-    
-    Compare: 1993 No 105 [s 162][298]
+    Section 122: replaced, on 18 July 2013, by [section 31][338] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 123 Insurance for liability of member, office holder, or employee
     
@@ -2327,7 +2576,7 @@ Operation of Crown entities
 
 ##### 126 Definitions for protections from liability
     
-*   In [sections 120 to 125][152],---
+*   In [sections 120 to 125][160],---
     
     _effect insurance_ includes pay, whether directly or indirectly, the costs of the insurance
     
@@ -2353,7 +2602,7 @@ Operation of Crown entities
         
     *   (a) by 2 or more of its members or, if the entity is a corporation sole, by the sole member; or
     
-    *   (b) by 1 or more attorneys appointed by the entity in accordance with this Part.
+    *   (b) by 1 or more attorneys appointed by the entity under [section 129(1)][170].
     
     (3) An obligation that, if entered into by an individual, is required to be in writing may be entered into on behalf of a statutory entity in writing by a person acting under the entity's express or implied authority.
     
@@ -2365,7 +2614,7 @@ Operation of Crown entities
     
     *   (b) whether or not the law governing that obligation is the law of New Zealand.
     
-    
+    Section 127(2)(b): amended, on 18 July 2013, by [section 32][339] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 128 Seal
     
@@ -2375,7 +2624,7 @@ Operation of Crown entities
 
 ##### 129 Attorneys
     
-*   (1) A statutory entity may, by an instrument in writing executed in accordance with [section 127(2)][160], appoint a person as its attorney either generally or in relation to a specified matter.
+*   (1) A statutory entity may, by an instrument in writing executed in accordance with [section 127(2)][168], appoint a person as its attorney either generally or in relation to a specified matter.
     
     (2) An act of the attorney in accordance with the instrument binds the statutory entity.
 
@@ -2387,13 +2636,13 @@ Operation of Crown entities
 
 ##### 131 Application of Ombudsmen Act 1975 and Official Information Act 1982
     
-*   _Amendment(s) incorporated in the [Act(s)][299]_.
+*   _Amendment(s) incorporated in the [Act(s)][340]_.
 
 ##### 132 Review of Crown entity's operations and performance
     
 *   (1) A responsible Minister may review the operations and performance of a Crown entity at any time.
     
-    (2) This section does not limit powers of review in the [State Sector Act 1988][257] or the [Public Audit Act 2001][300] or under any other Act.
+    (2) This section does not limit powers of review in the [State Sector Act 1988][267] or the [Public Audit Act 2001][301] or under any other Act.
     
     (3) Before a Minister undertakes a review under this section, he or she must---
         
@@ -2407,15 +2656,37 @@ Operation of Crown entities
     
 *   (1) The board of a Crown entity must supply to its responsible Minister any information relating to the operations and performance of the Crown entity that the Minister requests.
     
-    (2) The board of a Crown entity must supply to the Minister of Finance any information requested by the Minister in connection with the exercise of his or her powers under [Part 4][170].
+    (2) The board of a Crown entity must supply to the Minister of Finance any information requested by the Minister in connection with the exercise of his or her powers under [Part 4][178].
     
-    (3) This section is subject to [section 134][168].
+    (2A) The board of a Crown entity must supply to the Minister of State Services any information requested by the Minister in accordance with subsection (2B).
     
-    Compare: 1989 No 44 [s 45B(1)][301]
+    (2B) The Minister of State Services---
+        
+    *   (a) may request a Crown entity to supply information only for the purpose of assessing the capability and performance of the State services; and
+    
+    *   (b) must make the request to a group of Crown entities that---
+            
+        *   (i) is made up of at least 3 Crown entities; and
+        
+        *   (ii) has in common at least 1 significant characteristic that relates to the information requested (for example, the characteristic could relate to the Crown entities' asset holdings or presence in a region).
+        
+        
+    
+    (2C) Information supplied under subsection (2A) must not be used for the purpose of assessing the operations and performance of the Crown entity or the Crown entity group.
+    
+    (3) This section is subject to [section 134][176].
+    
+    Compare: 1989 No 44 [s 45B(1)][341]
+    
+    Section 133(2A): inserted, on 18 July 2013, by [section 33][342] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 133(2B): inserted, on 18 July 2013, by [section 33][342] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 133(2C): inserted, on 18 July 2013, by [section 33][342] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 134 Good reasons for refusing to supply requested information
     
-*   (1) A request for information under [section 133][167] may be refused if---
+*   (1) A request for information under [section 133][175] may be refused if---
         
     *   (a) the withholding of the information is necessary to protect the privacy of a person (whether or not a natural person or a deceased person); or
     
@@ -2423,11 +2694,11 @@ Operation of Crown entities
     
     (2) The reason in subsection (1)(a) applies only if it is not out-weighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties.
     
-    (3) The information cannot be withheld other than for the reasons in subsection (1), and cannot be withheld at all if it could not properly be withheld under the [Official Information Act 1982][290].
+    (3) The information cannot be withheld other than for the reasons in subsection (1), and cannot be withheld at all if it could not properly be withheld under the [Official Information Act 1982][314].
     
-    (4) [Section 178][289] of the Companies Act 1993 does not entitle a Crown entity company or Crown entity subsidiary to refuse to provide information requested under this subpart.
+    (4) [Section 178][313] of the Companies Act 1993 does not entitle a Crown entity company or Crown entity subsidiary to refuse to provide information requested under this subpart.
     
-    Compare: 1989 No 44 [s 45B(2)][301]
+    Compare: 1989 No 44 [s 45B(2)][341]
 
 ##### 135 Members, office holders, and employees are officials
     
@@ -2449,13 +2720,25 @@ Operation of Crown entities
             
         *   (i) a tertiary education institution:
         
-        *   (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)(i) to (iii)
+        *   (ii) a Crown entity subsidiary that is wholly owned by 1 or more tertiary education institutions or by 1 or more tertiary education institutions and 1 or more Crown entities referred to in paragraph (a)(i) to (iii).
         
         
     
-    (2) A person to whom this section applies is an official for the purposes of [sections 105][302] and [105A][303] of the Crimes Act 1961\.
+    (1A) In this section, individuals working for the Crown entity as contractors or secondees in relation to a function, duty, or power of the Crown entity are to be treated as if they are employees.
     
-    (3) This section does not limit the meaning of official in [section 99][304] of the Crimes Act 1961\.
+    (1B) This section also applies to a person who was formerly a person described in subsection (1)(a) or (b) or (1A) in respect of any acts or omissions or decisions made---
+        
+    *   (a) while that person was a person described in subsection (1)(a) or (b) or (1A); and
+    
+    *   (b) after the commencement of this subsection.
+    
+    (2) A person to whom this section applies is an official for the purposes of [sections 105][343] and [105A][344] of the Crimes Act 1961\.
+    
+    (3) This section does not limit the meaning of official in [section 99][345] of the Crimes Act 1961\.
+    
+    Section 135(1A): inserted, on 18 July 2013, by [section 34][346] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 135(1B): inserted, on 18 July 2013, by [section 34][346] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ## Part 4  
 Crown entity reporting and financial obligations
@@ -2476,7 +2759,7 @@ Crown entity reporting and financial obligations
     
     *   (d) does not include the purchase of goods or services on credit or the obtaining of an advance by the use of a credit card or by a supplier supplying credit for the purchase of goods or services, for a period of 90 days or less from the date the credit card is used or the credit is supplied
     
-    _class of outputs_ or _class_ has the meaning set out in [section 2(1)][305] of the Public Finance Act 1989
+    _class of outputs_ or _class_ has the meaning set out in [section 2(1)][347] of the Public Finance Act 1989
     
     _Crown entity group_ means a group comprising---
         
@@ -2486,7 +2769,7 @@ Crown entity reporting and financial obligations
     
     *   (c) any entity that is its subsidiary for the purpose of any financial reporting standard that applies to the Crown entity under generally accepted accounting practice
     
-    _debt security_ has the meaning set out in [section 2][306] of the Securities Act 1978
+    _debt security_ has the meaning set out in [section 2][348] of the Securities Act 1978
     
     _derivative transaction_ means---
         
@@ -2502,17 +2785,17 @@ Crown entity reporting and financial obligations
     
     _financial year_ means,---
         
-    *   (a) in relation to a school board of trustees or a tertiary education institution, an academic year as defined in [section 159(1)][307] of the Education Act 1989; and
+    *   (a) in relation to a school board of trustees or a tertiary education institution, an academic year as defined in [section 159(1)][349] of the Education Act 1989; and
     
     *   (b) in relation to any other Crown entity, the 12 months ending on the close of 30 June or any other date determined for that entity by the Minister of Finance
     
-    _forecast financial statements_ has the meaning set out in [section 2(1)][305] of the Public Finance Act 1989
+    _forecast financial statements_ has the meaning set out in [section 2(1)][347] of the Public Finance Act 1989
     
     _generally accepted accounting practice_ means---
         
-    *   (a) financial reporting standards (within the meaning of [section 2(1)][308] of the Financial Reporting Act 1993) so far as those standards apply to the Crown entity:
+    *   (a) financial reporting standards (within the meaning of [section 2(1)][350] of the Financial Reporting Act 1993) so far as those standards apply to the Crown entity:
     
-    *   (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of [section 2(1)][308] of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that---
+    *   (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of [section 2(1)][350] of the Financial Reporting Act 1993) and that are not subject to any applicable rule of law, accounting policies that---
             
         *   (i) are appropriate in relation to the Crown entity; and
         
@@ -2526,21 +2809,21 @@ Crown entity reporting and financial obligations
     
     *   (b) does not include goods and services that are produced for purchase or consumption solely within the Crown entity group
     
-    _public security_ has the meaning set out in [section 2(1)][305] of the Public Finance Act 1989
+    _public security_ has the meaning set out in [section 2(1)][347] of the Public Finance Act 1989
     
-    _registered bank_ has the meaning set out in [section 2][309] of the Reserve Bank of New Zealand Act 1989
+    _registered bank_ has the meaning set out in [section 2][351] of the Reserve Bank of New Zealand Act 1989
     
-    _registered building society_ means a building society within the meaning of the [Building Societies Act 1965][310] that is registered on the register of building societies kept under that Act
+    _registered building society_ means a building society within the meaning of the [Building Societies Act 1965][352] that is registered on the register of building societies kept under that Act
     
-    _security_ has the meaning set out in [section 2D][311] of the Securities Act 1978 except that it does not include the things referred to in subsection (1)(d) to (f) of that section
+    _security_ has the meaning set out in [section 2D][353] of the Securities Act 1978 except that it does not include the things referred to in subsection (1)(d) to (f) of that section
     
-    _working day_ has the meaning set out in [section 2(1)][305] of the Public Finance Act 1989\.
+    _working day_ has the meaning set out in [section 2(1)][347] of the Public Finance Act 1989\.
     
-    (2) Any term or expression that is defined in the [Public Finance Act 1989][312] and used, but not defined, in this Part has the same meaning as in the [Public Finance Act 1989][312].
+    (2) Any term or expression that is defined in the [Public Finance Act 1989][286] and used, but not defined, in this Part has the same meaning as in the [Public Finance Act 1989][286].
     
-    Section 136(1) **generally accepted accounting practice** paragraph (a): amended, on 1 July 2011, by [section 12][313] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 136(1) **generally accepted accounting practice** paragraph (a): amended, on 1 July 2011, by [section 12][354] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 136(1) **generally accepted accounting practice** paragraph (b): amended, on 1 July 2011, by [section 12][313] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 136(1) **generally accepted accounting practice** paragraph (b): amended, on 1 July 2011, by [section 12][354] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
 ### Subpart 2---Reporting obligations
 
@@ -2548,7 +2831,7 @@ Crown entity reporting and financial obligations
     
 *   (1) This subpart applies in respect of financial years commencing on or after 1 January 2006\.
     
-    (2) Subsection (1) is subject to [section 198][245].
+    (2) Subsection (1) is subject to [section 198][253].
 
 #### Planning: Statement of intent
 
@@ -2572,9 +2855,9 @@ Crown entity reporting and financial obligations
         
     *   (a) the parent Crown entity must prepare a statement of intent for the Crown entity group as if---
             
-        *   (i) [section 142(1)(a)][180] required 2 forecast financial statements, 1 for the parent Crown entity and 1 for the Crown entity group; and
+        *   (i) [section 142(1)(a)][188] required 2 forecast financial statements, 1 for the parent Crown entity and 1 for the Crown entity group; and
         
-        *   (ii) [sections 138 to 142][176] otherwise required consolidated information in respect of the Crown entity group (rather than a single Crown entity); and
+        *   (ii) [sections 138 to 142][184] otherwise required consolidated information in respect of the Crown entity group (rather than a single Crown entity); and
         
         
     
@@ -2582,19 +2865,19 @@ Crown entity reporting and financial obligations
     
     (3) This section applies unless the Crown entity is exempted from its requirements by or under this or another Act.
     
-    Compare: 1989 No 44 [s 41C][314]
+    Compare: 1989 No 44 [s 41C][355]
 
 ##### 140 Statement of intent for newly established Crown entities
     
-*   (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with [section 139][177] as if it were the start of the financial year.
+*   (1) As soon as practicable after a Crown entity is established, the Crown entity must comply with [section 139][185] as if it were the start of the financial year.
     
-    (2) The process requirements of [section 148(4)][186], rather than [section 146][184], apply to the process for preparing that statement of intent.
+    (2) The process requirements of [section 148(4)][194], rather than [section 146][192], apply to the process for preparing that statement of intent.
     
-    (3) The responsible Minister may give directions to the Crown entity on any matters referred to in [section 141(1)(b) to (d), (g), and (h)][179] at any time before the Crown entity's statement of intent is in force under [section 144][182].
+    (3) The responsible Minister may give directions to the Crown entity on any matters referred to in [section 141(1)(b) to (d), (g), and (h)][187] at any time before the Crown entity's statement of intent is in force under [section 144][190].
     
     (4) The directions apply as if they were the Crown entity's statement of intent, until the Crown entity's statement of intent is in force.
     
-    (5) [Sections 113][141], [114][143], and [115][144] apply to the directions.
+    (5) [Sections 113][148], [114][150], and [115][151] apply to the directions.
     
     (6) An entity that becomes a Crown entity within 4 months before the end of the Crown entity's financial year, and that has prepared, in accordance with subsection (1), a statement of intent for the next financial year and at least the 2 following financial years, need not prepare a new statement of intent at or before the start of the next financial year.
 
@@ -2616,19 +2899,19 @@ Crown entity reporting and financial obligations
     
     *   (g) the matters on which the Crown entity will consult or notify its responsible Minister before making a decision, the matters on which it will report to its responsible Minister, and the frequency of reporting:
     
-    *   (h) any process to be followed for the purpose of [section 100][125]:
+    *   (h) any process to be followed for the purpose of [section 100][132]:
     
     *   (i) other matters the entity is required to include in its statement of intent under this Act or another Act:
     
     *   (j) any other matters that are reasonably necessary to achieve an understanding of the entity's intentions and direction.
     
-    (2) The statement of intent must also contain the information required by [section 142][180] for the first financial year of the period to which it relates.
+    (2) The statement of intent must also contain the information required by [section 142][188] for the first financial year of the period to which it relates.
     
     (3) A statement of intent must be in writing, be dated, and be signed on behalf of the board by 2 members of the entity or, in the case of a corporation sole, by the sole member.
     
-    (4) A Crown entity that is to be disestablished or significantly restructured may, with the agreement of the responsible Minister, provide a statement of intent that includes the information required under this section and [section 142][180] for a period of less than 3 financial years.
+    (4) A Crown entity that is to be disestablished or significantly restructured may, with the agreement of the responsible Minister, provide a statement of intent that includes the information required under this section and [section 142][188] for a period of less than 3 financial years.
     
-    Compare: 1989 No 44 [s 41D][315]
+    Compare: 1989 No 44 [s 41D][356]
 
 ##### 142 Extra information required in statement of intent for first financial year
     
@@ -2644,7 +2927,7 @@ Crown entity reporting and financial obligations
     
     *   (e) any additional information and explanations needed to fairly reflect the forecast financial operations and financial position of the entity.
     
-    (2) The statement of forecast service performance must describe the classes of outputs the Crown entity proposes to supply (except to the extent that the entity is exempted under [section 143][181]) and---
+    (2) The statement of forecast service performance must describe the classes of outputs the Crown entity proposes to supply (except to the extent that the entity is exempted under [section 143][189]) and---
         
     *   (a) provide measures and forecast standards of output delivery performance against which the entity's actual delivery of classes of outputs will be reported and audited in the statement of service performance at the end of the financial year; and
     
@@ -2652,13 +2935,13 @@ Crown entity reporting and financial obligations
     
     *   (c) comply with generally accepted accounting practice; and
     
-    *   (d) include a statement of any exemptions granted under [section 143][181].
+    *   (d) include a statement of any exemptions granted under [section 143][189].
     
     
 
 ##### 143 Exemption for certain outputs
     
-*   (1) The Minister of Finance may exempt, from any statement of forecast service performance required under [section 142(1)(b)][180] or any statement of service performance required under [section 153(1)][192], any class of outputs that the Minister is satisfied are---
+*   (1) The Minister of Finance may exempt, from any statement of forecast service performance required under [section 142(1)(b)][188] or any statement of service performance required under [section 153(1)][200], any class of outputs that the Minister is satisfied are---
         
     *   (a) not directly funded (in whole or in part) by the Crown in accordance with an appropriation for the purpose, or by grants distributed under any Act, or by levies, fees, or charges prescribed by or under any Act; or
     
@@ -2682,7 +2965,7 @@ Crown entity reporting and financial obligations
     
     *   (b) until a new statement of intent is in force in relation to that entity or group (despite the end of any financial year to which the statement relates); and
     
-    *   (c) with any amendments that are made as described in [section 147][185] or [section 148][186].
+    *   (c) with any amendments that are made as described in [section 147][193] or [section 148][194].
     
     
 
@@ -2690,13 +2973,13 @@ Crown entity reporting and financial obligations
     
 *   Ministers may participate in determining the content of statements of intent as follows:
         
-    *   (a) a responsible Minister may agree with the Crown entity that information additional to that required by [sections 141][179] and [142][180] be included in the statement of intent:
+    *   (a) a responsible Minister may agree with the Crown entity that information additional to that required by [sections 141][187] and [142][188] be included in the statement of intent:
     
     *   (b) a responsible Minister may, by written notice to 1 or more Crown entities, specify the particular form in which any information in the statement of intent must be disclosed:
     
-    *   (c) a responsible Minister may make comments on a draft statement of intent under [section 146][184] or on an amendment to a statement of intent proposed by the Crown entity under [section 148][186]:
+    *   (c) a responsible Minister may make comments on a draft statement of intent under [section 146][192] or on an amendment to a statement of intent proposed by the Crown entity under [section 148][194]:
     
-    *   (d) a responsible Minister may direct amendments to certain information in a statement of intent under [section 147][185].
+    *   (d) a responsible Minister may direct amendments to certain information in a statement of intent under [section 147][193].
     
     
 
@@ -2710,7 +2993,7 @@ Crown entity reporting and financial obligations
             
         *   (i) 30 days before the start of each financial year; or
         
-        *   (ii) if the Crown entity's financial year ends on 30 June, the date that the first Appropriation Bill relating to a financial year is introduced into the House of Representatives in accordance with [section 12][316] of the Public Finance Act 1989; and
+        *   (ii) if the Crown entity's financial year ends on 30 June, the date that the first Appropriation Bill relating to a financial year is introduced into the House of Representatives in accordance with [section 12][357] of the Public Finance Act 1989; and
         
         
     
@@ -2734,21 +3017,21 @@ Crown entity reporting and financial obligations
 
 ##### 147 Amendments to statement of intent by responsible Minister
     
-*   (1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's statement of intent under [section 141(1)(b), (c), (d), (f), (g), or (h)][179] or [section 142(1)(b)][180].
+*   (1) A responsible Minister of a Crown entity may direct a Crown entity to amend any provision that is included in the entity's statement of intent under [section 141(1)(b), (c), (d), (f), (g), or (h)][187] or [section 142(1)(b)][188].
     
     (2) If a responsible Minister intends to so direct, the process is as follows:
         
     *   (a) the Minister must give a direction to the Crown entity specifying the amendment that it is required to give effect to; and
     
-    *   (b) [sections 113][141], [114][143], and [115][144] apply.
+    *   (b) [sections 113][148], [114][150], and [115][151] apply.
     
-    (3) The amendment to the statement of intent, as specified by the Minister, is in force from the effective date of the direction (which may not be earlier than the date on which the direction is presented to the House of Representatives under [section 115][144]).
+    (3) The amendment to the statement of intent, as specified by the Minister, is in force from the effective date of the direction (which may not be earlier than the date on which the direction is presented to the House of Representatives under [section 115][151]).
     
     (4) The final amendment must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
     
-    (5) [Section 148][186] does not apply to amendments made under this section.
+    (5) [Section 148][194] does not apply to amendments made under this section.
     
-    Compare: 1989 No 44 [s 41G][317]
+    Compare: 1989 No 44 [s 41G][358]
 
 ##### 148 Amendments to statement of intent by Crown entity
     
@@ -2760,7 +3043,7 @@ Crown entity reporting and financial obligations
     
     *   (b) the intentions and undertakings in the statement of intent are significantly altered or affected by---
             
-        *   (i) a direction given to the Crown entity by a Minister or by a whole of government direction; or
+        *   (i) a direction given to the Crown entity by a Minister or by a direction under [section 107][142]; or
         
         *   (ii) any change in the law; or
         
@@ -2780,17 +3063,17 @@ Crown entity reporting and financial obligations
     
     *   (d) the final amendment to the statement of intent is in force from the date on which the final amendment is provided to the responsible Minister.
     
-    
+    Section 148(2)(b)(i): amended, on 18 July 2013, by [section 35][359] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 149 Obligation to present and publish statement of intent
     
 *   (1) A responsible Minister for a Crown entity must present a copy of the final statement of intent, and any amendment to it, to the House of Representatives no later than 5 working days after the final statement of intent or amendment (as the case may be) is received by the Minister or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    (2) A responsible Minister who presents a final statement of intent that covers a limited period in accordance with [section 141(4)][179] must also present with it an explanation of why it was not possible to produce a statement of intent for the period of 3 financial years.
+    (2) A responsible Minister who presents a final statement of intent that covers a limited period in accordance with [section 141(4)][187] must also present with it an explanation of why it was not possible to produce a statement of intent for the period of 3 financial years.
     
-    (3) A Crown entity must publish its statement of intent as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the statement of intent is received by the Minister, in a manner consistent with any instructions given under [section 174][218].
+    (3) A Crown entity must publish its statement of intent as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the statement of intent is received by the Minister, in a manner consistent with any instructions given under [section 174][226].
     
-    Compare: 1989 No 44 [s 41F][318]
+    Compare: 1989 No 44 [s 41F][360]
 
 #### Reporting: Annual report
 
@@ -2800,7 +3083,7 @@ Crown entity reporting and financial obligations
         
     *   (a) at the end of each financial year, prepare a report on the affairs of the Crown entity; and
     
-    *   (b) provide the report to its responsible Minister no later than 15 working days after receiving the audit report provided under [section 156][195].
+    *   (b) provide the report to its responsible Minister no later than 15 working days after receiving the audit report provided under [section 156][203].
     
     (2) However, in the case of a Crown entity group,---
         
@@ -2808,11 +3091,25 @@ Crown entity reporting and financial obligations
     
     *   (b) no other member of the Crown entity group needs to prepare an annual report.
     
-    (3) A responsible Minister of a Crown entity must present the entity's annual report to the House of Representatives within 5 working days after receiving the annual report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
+    (3) A responsible Minister of a Crown entity (or another Minister, if subsection (6) applies) must present the entity's annual report to the House of Representatives within 5 working days after the responsible Minister receives the annual report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    (4) A Crown entity must publish its annual report as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the annual report is received by the Minister, in a manner consistent with any instructions given under [section 174][218].
+    (4) A Crown entity must publish its annual report as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 10 working days after the annual report is received by the Minister, in a manner consistent with any instructions given under [section 174][226].
     
-    Compare: 1989 No 44 [s 41I][319]
+    (5) An entity's annual report may be presented or published in a document that includes any other report or information, whether or not that other report or information relates to the entity, but only if each report or set of information is separately identifiable within that document.
+    
+    (6) A Minister other than the responsible Minister may present an entity's annual report to the House of Representatives if---
+        
+    *   (a) the report is presented in a document that includes another report or other information; and 
+    
+    *   (b) that other Minister is responsible for presenting that other report or information.
+    
+    Compare: 1989 No 44 [s 41I][361]
+    
+    Section 150(3): replaced, on 18 July 2013, by [section 36(1)][362] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 150(5): inserted, on 18 July 2013, by [section 36(2)][362] of the Crown Entities Amendment Act 2013 (2013 No 51).
+    
+    Section 150(6): inserted, on 18 July 2013, by [section 36(2)][362] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 151 Form and content of annual report
     
@@ -2820,29 +3117,31 @@ Crown entity reporting and financial obligations
         
     *   (a) information on operations that complies with subsection (2); and
     
-    *   (b) a statement of service performance in accordance with [section 153][192]; and
+    *   (b) a statement of service performance in accordance with [section 153][200]; and
     
-    *   (c) the annual financial statements for the entity and, if the entity is the parent of a Crown entity group, the consolidated financial statements for the group in accordance with [section 154][193]; and
+    *   (c) the annual financial statements for the entity and, if the entity is the parent of a Crown entity group, the consolidated financial statements for the group in accordance with [section 154][201]; and
     
-    *   (d) a statement of responsibility in accordance with [section 155][194]; and
+    *   (d) a statement of responsibility in accordance with [section 155][202]; and
     
-    *   (e) the audit report in accordance with [section 156][195]; and
+    *   (e) the audit report in accordance with [section 156][203]; and
     
-    *   (f) any direction given to the entity by a Minister in writing under any enactment during that financial year; and
+    *   (f) any new direction given to the entity by a Minister in writing under any enactment during that financial year, as well as other such directions that remain current; and
     
     *   (g) information on compliance with its obligation to be a good employer (including its equal employment opportunities programme); and
     
-    *   (h) information required by [section 152][191] (which relates to payments in respect of members, committee members, and employees during that financial year); and
+    *   (h) information required by [section 152][199] (which relates to payments in respect of members, committee members, and employees during that financial year); and
     
-    *   (i) information required by [section 20(3)][25] (which relates to the enforcement of certain natural person transactions); and
+    *   (i) information required by [section 20(3)][28] (which relates to the enforcement of certain natural person transactions); and
     
-    *   (j) information required by [section 68(6)][82] (which relates to permission to act despite being interested in a matter); and
+    *   (j) information required by [section 68(6)][87] (which relates to permission to act despite being interested in a matter); and
     
     *   (k) any matters that relate to or affect the entity's operations that the entity is otherwise required, or has undertaken, or wishes to report on in its annual report.
     
     (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the entity's operations and performance for that financial year, including an assessment against the intentions, measures, and standards set out in the statement of intent prepared at the beginning of the financial year.
     
     (3) An annual report must be in writing, be dated, and be signed on behalf of the board by 2 members or, in the case of a corporation sole, by the sole member.
+    
+    Section 151(1)(f): replaced, on 18 July 2013, by [section 37][363] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 152 Disclosure of payments in respect of members, committee members, and employees
     
@@ -2862,7 +3161,7 @@ Crown entity reporting and financial obligations
     
     (2) In subsection (1), _member_ and _office holder_ and _employee_ include a person who was a member or office holder or employee at any time after the commencement of this Act but who is no longer a member, office holder, or employee.
     
-    Compare: 1989 No 44 [s 41I][319]; 1993 No 105 [s 211][320]
+    Compare: 1989 No 44 [s 41I][361]; 1993 No 105 [s 211][364]
 
 ##### 153 Form and content of statement of service performance
     
@@ -2880,7 +3179,7 @@ Crown entity reporting and financial obligations
         
         
     
-    (2) A Crown entity need not prepare a statement of service performance in respect of outputs for which it has an exemption under [section 143][181].
+    (2) A Crown entity need not prepare a statement of service performance in respect of outputs for which it has an exemption under [section 143][189].
 
 ##### 154 Annual financial statements
     
@@ -2998,17 +3297,17 @@ Crown entity reporting and financial obligations
     
     *   (b) a date specified by the Minister of Finance and notified to the Crown entity.
     
-    Compare: 1989 No 44 [s 24][321]
+    Compare: 1989 No 44 [s 24][365]
 
 #### Acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions
 
 ##### 159 Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
     
-*   [Sections 160 to 164][202] apply on and after 1 April 2005\.
+*   [Sections 160 to 164][210] apply on and after 1 April 2005\.
 
 ##### 160 Further provision relating to acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
     
-*   (1) [Sections 161 to 164][203] apply subject to---
+*   (1) [Sections 161 to 164][211] apply subject to---
         
     *   (a) any regulations made under this Part; and
     
@@ -3016,9 +3315,9 @@ Crown entity reporting and financial obligations
     
     *   (c) an entity's Act; and
     
-    *   (d) an exemption granted in [Schedule 1][250] or [Schedule 2][251].
+    *   (d) an exemption granted in [Schedule 1][260] or [Schedule 2][261].
     
-    (2) [Sections 161 to 164][203] apply to a Crown entity subsidiary in the same way as they apply to its parent.
+    (2) [Sections 161 to 164][211] apply to a Crown entity subsidiary in the same way as they apply to its parent.
     
     (3) The Minister of Finance must notify in the _Gazette_ an approval given under subsection (1)(b).
 
@@ -3030,27 +3329,27 @@ Crown entity reporting and financial obligations
     
     *   (b) a public security:
     
-    *   (c) as provided in [section 160][202].
+    *   (c) as provided in [section 160][210].
     
     (2) This section does not apply to any money, security, or credit balance in a bank account held by a Crown entity on trust for any purpose or for another person.
     
-    (3) This section does not prohibit a Crown entity from acquiring subsidiaries or shares if [section 96][121] or, as the case may be, [section 100][125] allows the acquisition.
+    (3) This section does not prohibit a Crown entity from acquiring subsidiaries or shares if [section 96][128] or, as the case may be, [section 100][132] allows the acquisition.
 
 ##### 162 Restrictions on borrowing
     
-*   A Crown entity must not borrow from any person, or amend the terms of any borrowing, other than as provided in [section 160][202].
+*   A Crown entity must not borrow from any person, or amend the terms of any borrowing, other than as provided in [section 160][210].
 
 ##### 163 Restrictions on giving of guarantees and indemnities
     
-*   (1) A Crown entity must not, with or without security, give a guarantee to, or indemnify, another person other than as provided in [section 160][202].
+*   (1) A Crown entity must not, with or without security, give a guarantee to, or indemnify, another person other than as provided in [section 160][210].
     
     (2) This section does not apply if the other person is---
         
     *   (a) a member, office holder, committee member, employee, or other individual indemnified by the board in relation to any claim or proceeding under---
             
-        *   (i) [section 122][154] of this Act; or
+        *   (i) [section 122][162] of this Act; or
         
-        *   (ii) [section 162][298] of the Companies Act 1993; or
+        *   (ii) [section 162][366] of the Companies Act 1993; or
         
         *   (iii) the entity's natural person powers or other powers in the entity's Act:
         
@@ -3062,13 +3361,13 @@ Crown entity reporting and financial obligations
 
 ##### 164 Restrictions on use of derivatives
     
-*   A Crown entity must not enter into a derivative transaction, or amend the terms of that transaction, other than as provided in [section 160][202].
+*   A Crown entity must not enter into a derivative transaction, or amend the terms of that transaction, other than as provided in [section 160][210].
 
 #### Miscellaneous
 
 ##### 165 Net surplus payable by certain statutory entities and Crown entity companies
     
-*   (1) Unless an exemption is granted in [Schedule 1][250] or [Schedule 2][251], the Minister of Finance may, in writing, require a statutory entity or Crown entity company to pay to the Crown a sum equal to the whole or any part of a net surplus of the statutory entity or Crown entity company, or its Crown entity group, as determined in accordance with generally accepted accounting practice or any other basis that may be agreed between that Minister and the entity.
+*   (1) Unless an exemption is granted in [Schedule 1][260] or [Schedule 2][261], the Minister of Finance may, in writing, require a statutory entity or Crown entity company to pay to the Crown a sum equal to the whole or any part of a net surplus of the statutory entity or Crown entity company, or its Crown entity group, as determined in accordance with generally accepted accounting practice or any other basis that may be agreed between that Minister and the entity.
     
     (2) In this section, **net surplus** includes both an annual profit and an accumulated surplus.
     
@@ -3080,7 +3379,7 @@ Crown entity reporting and financial obligations
     
     (4) This section does not limit any provision for the payment of an annual distribution or similar payment to the Crown under the entity's Act.
     
-    (5) This section does not limit the need for a Crown entity company to comply also with the provisions of the [Companies Act 1993][256] (or its constitution, if relevant) relating to distributions.
+    (5) This section does not limit the need for a Crown entity company to comply also with the provisions of the [Companies Act 1993][266] (or its constitution, if relevant) relating to distributions.
 
 ##### 166 Capital charge payable by certain statutory entities
     
@@ -3088,7 +3387,7 @@ Crown entity reporting and financial obligations
     
     (2) A statutory entity must pay to the Crown a capital charge in respect of the whole or part of the net assets of the entity of an amount, and at the times, prescribed by the capital charge rules.
     
-    (3) Unless otherwise compensated by the Crown, the Minister of Finance may not require a statutory entity to pay a capital charge in respect of the net value of assets acquired by way of gift from any person other than the Crown or an entity described in [section 27(3)][322] of the Public Finance Act 1989\.
+    (3) Unless otherwise compensated by the Crown, the Minister of Finance may not require a statutory entity to pay a capital charge in respect of the net value of assets acquired by way of gift from any person other than the Crown or an entity described in [section 27(3)][367] of the Public Finance Act 1989\.
     
     (4) In this section, _net assets_ means, in relation to a Crown entity, the total assets of the entity, less its total liabilities, as defined in accordance with generally accepted accounting practice.
     
@@ -3114,7 +3413,7 @@ Crown entity reporting and financial obligations
     
     *   (b) will at any time enable the financial position of the Crown entity to be determined with reasonable accuracy; and
     
-    *   (c) will enable the members of the Crown entity to ensure that the financial statements of the Crown entity comply with [section 154][193]; and
+    *   (c) will enable the members of the Crown entity to ensure that the financial statements of the Crown entity comply with [section 154][201]; and
     
     *   (d) will enable the financial statements of the Crown entity to be readily and properly audited.
     
@@ -3130,23 +3429,23 @@ Crown entity reporting and financial obligations
     
     *   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the board complied with the requirements of this section.
     
-    Compare: 1993 No 105 [s 194][323]
+    Compare: 1993 No 105 [s 194][368]
 
 ### Subpart 4---Miscellaneous
 
 ##### 169 Taxation of statutory entities
     
-*   A statutory entity is a public authority for the purpose of the Inland Revenue Acts (as that term is defined in the [Tax Administration Act 1994][324]) unless either those Acts or the entity's Act provides otherwise.
+*   A statutory entity is a public authority for the purpose of the Inland Revenue Acts (as that term is defined in the [Tax Administration Act 1994][369]) unless either those Acts or the entity's Act provides otherwise.
 
 ##### 170 Power to require output agreement
     
-*   (1) A Minister may require a Crown entity to have in place an output agreement for any or all outputs that the Crown entity intends to provide that do not qualify for an exemption under [section 143(1)(a)][181].
+*   (1) A Minister may require a Crown entity to have in place an output agreement for any or all outputs that the Crown entity intends to provide that do not qualify for an exemption under [section 143(1)(a)][189].
     
     (2) The purpose of an output agreement is to assist a Minister and a Crown entity to clarify, align, and manage their respective expectations and responsibilities in relation to the funding and production of certain outputs, including the particular standards, terms, and conditions under which the Crown entity will deliver and be paid for the specified outputs.
     
     (3) An output agreement may be for 1 year or any other term agreed between the parties, may be entered into at any time, and may be updated to reflect any changes agreed between the parties during its term.
     
-    (4) An output agreement need not be legally enforceable as an agreement, but gives rise to legally enforceable board member duties under [sections 49][59] and [92][114].
+    (4) An output agreement need not be legally enforceable as an agreement, but gives rise to legally enforceable board member duties under [sections 49][64] and [92][121].
     
     (5) An output agreement must be in writing, be dated, and be signed by, or on behalf of, the Minister and the Crown entity.
 
@@ -3162,23 +3461,27 @@ Crown entity reporting and financial obligations
     
     (2) Every person commits an offence against this Act who makes any statement or declaration, or gives any information or certificate, required by or under this Act, knowing it to be false or misleading.
     
-    Compare: 1989 No 44 [s 76][325]
+    Compare: 1989 No 44 [s 76][370]
 
 ##### 172 Penalties for offences
     
-*   (1) Every person who commits an offence against [section 171(1)][215] is liable on summary conviction,---
+*   (1) Every person who commits an offence against [section 171(1)][223] is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $2,000; or
     
     *   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $5,000\.
     
-    (2) Every person who commits an offence against [section 171(2)][215] is liable on summary conviction,---
+    (2) Every person who commits an offence against [section 171(2)][223] is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $5,000; or
     
     *   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $15,000\.
     
-    Compare: 1989 No 44 [s 77][326]
+    Compare: 1989 No 44 [s 77][371]
+    
+    Section 172(1): amended, on 1 July 2013, by [section 413][372] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 172(2): amended, on 1 July 2013, by [section 413][372] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 173 Regulations under this Part
     
@@ -3198,11 +3501,11 @@ Crown entity reporting and financial obligations
     
     *   (g) specifying credit-rating tests for the purpose of this Part:
     
-    *   (h) prescribing capital charge rules for the purposes of [section 166][209], including (without limitation) the amount of a capital charge or the method of calculating the amount of a capital charge, the procedures for notifying a statutory entity of the capital charge payable, the frequency of its payment, how the assets of a statutory entity must be valued in calculating the capital charge, and the cost-of-capital rate or formula for determining the cost-of-capital rate for a statutory entity:
+    *   (h) prescribing capital charge rules for the purposes of [section 166][217], including (without limitation) the amount of a capital charge or the method of calculating the amount of a capital charge, the procedures for notifying a statutory entity of the capital charge payable, the frequency of its payment, how the assets of a statutory entity must be valued in calculating the capital charge, and the cost-of-capital rate or formula for determining the cost-of-capital rate for a statutory entity:
     
-    *   (i) amending [Schedule 1][250] or [Schedule 2][251] to remove or add any exemptions from the acquisition of securities, borrowing, guarantees, or derivatives rules in [sections 161 to 164][203]:
+    *   (i) amending [Schedule 1][260] or [Schedule 2][261] to remove or add any exemptions from the acquisition of securities, borrowing, guarantees, or derivatives rules in [sections 161 to 164][211]:
     
-    *   (j) amending [Schedule 1][250] or [Schedule 2][251] to add any exemption from the requirement to pay a net surplus to the Crown in [section 165][208]:
+    *   (j) amending [Schedule 1][260] or [Schedule 2][261] to add any exemption from the requirement to pay a net surplus to the Crown in [section 165][216]:
     
     *   (k) prescribing offences in respect of the contravention of any regulations made under this Act, and prescribing penalties not exceeding $2,000 in respect of those offences:
     
@@ -3224,13 +3527,15 @@ Crown entity reporting and financial obligations
     
     (4) The Minister of Finance may exempt any Crown entities, or categories or types of Crown entities, from provisions of any instruction, and may amend or revoke that exemption in the same way.
     
-    (5) The instructions are regulations for the purpose of the [Regulations (Disallowance) Act 1989][327] but not the [Acts and Regulations Publication Act 1989][328].
+    (5) The instructions are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under [section 41][373] of that Act.
     
     (6) The Minister must notify the instruction in the _Gazette_, and publish it on the Internet, as soon as practicable after issuing it.
+    
+    Section 174(5): replaced, on 5 August 2013, by [section 77(3)][374] of the Legislation Act 2012 (2012 No 119).
 
 ##### 175 Consultation with House of Representatives on reporting standards
     
-*   (1) The Minister must prepare and submit to the Speaker of the House of Representatives a draft of any instruction proposed to be issued under [section 174(1)(b)][218].
+*   (1) The Minister must prepare and submit to the Speaker of the House of Representatives a draft of any instruction proposed to be issued under [section 174(1)(b)][226].
     
     (2) The Speaker must present the draft instruction to the House of Representatives as soon as is reasonably practicable.
     
@@ -3238,17 +3543,17 @@ Crown entity reporting and financial obligations
     
     (4) The Minister must, as soon as practicable after issuing an instruction, present it to the House of Representatives.
     
-    Compare: 2001 No 10 [s 36][329]
+    Compare: 2001 No 10 [s 36][375]
 
 ##### 176 Application of provisions of Public Finance Act 1989
     
-*   The following provisions of the [Public Finance Act 1989][312] apply (without limitation) in relation to Crown entities:
+*   The following provisions of the [Public Finance Act 1989][286] apply (without limitation) in relation to Crown entities:
         
-    *   (a) [section 26][330] (terms and conditions of capital injections):
+    *   (a) [section 26][376] (terms and conditions of capital injections):
     
-    *   (b) [section 49][331] (liability for debts of Crown entities):
+    *   (b) [section 49][377] (liability for debts of Crown entities):
     
-    *   (c) [section 74][332] (unclaimed money).
+    *   (c) [section 74][378] (unclaimed money).
     
     
 
@@ -3259,7 +3564,7 @@ Miscellaneous provisions
 
 ##### 177 Application of liquidation provisions of Judicature Act 1908 to statutory entities
     
-*   For the avoidance of doubt, [sections 17A to 17E][333] of the Judicature Act 1908 apply to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
+*   For the avoidance of doubt, [sections 17A to 17E][379] of the Judicature Act 1908 apply to a statutory entity, unless the statutory entity may be put into liquidation in accordance with the entity's Act.
 
 ##### 178 Application of Archives Act 1957
     
@@ -3267,31 +3572,31 @@ Miscellaneous provisions
 
 ##### 179 Public Bodies Contracts Act 1959 does not apply to Crown entities
     
-*   (1) The [Public Bodies Contracts Act 1959][334] does not apply to a Crown entity.
+*   (1) The [Public Bodies Contracts Act 1959][380] does not apply to a Crown entity.
     
-    (2) The schedules of the [Public Bodies Contracts Act 1959][334] are consequentially amended by repealing every item that relates to a Crown entity.
+    (2) The schedules of the [Public Bodies Contracts Act 1959][380] are consequentially amended by repealing every item that relates to a Crown entity.
 
 ##### 180 Local Authorities (Members' Interests) Act 1968 does not apply to Crown entities
     
-*   (1) The [Local Authorities (Members' Interests) Act 1968][335] does not apply to a Crown entity.
+*   (1) The [Local Authorities (Members' Interests) Act 1968][381] does not apply to a Crown entity.
     
-    (2) The schedules of the [Local Authorities (Members' Interests) Act 1968][335] are consequentially amended by repealing every item that relates to a Crown entity.
+    (2) The schedules of the [Local Authorities (Members' Interests) Act 1968][381] are consequentially amended by repealing every item that relates to a Crown entity.
 
 ##### 181 Administration of Crown entity provisions
     
-*   (1) [Parts 1][3], [2][14], [3][128], and [5][221] are administered in the State Services Commission.
+*   (1) [Parts 1][3], [2][17], [3][135], and [5][229] are administered in the State Services Commission.
     
-    (2) [Part 4][170] is administered in the Treasury.
+    (2) [Part 4][178] is administered in the Treasury.
 
 #### Transitional and savings provisions
 
 ##### 182 Existing members exempt from qualification requirements
     
-*   Every member of a statutory entity or Crown entity company or a Crown entity subsidiary in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if [sections 30][38] and [89][110] had not been enacted.
+*   Every member of a statutory entity or Crown entity company or a Crown entity subsidiary in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if [sections 30][43] and [89][117] had not been enacted.
 
 ##### 183 Term of office of existing members other than ex officio members
     
-*   Every member of a statutory entity (other than an ex officio member) in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if [section 32(1)][40] had not been enacted.
+*   Every member of a statutory entity (other than an ex officio member) in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if [section 32(1)][45] had not been enacted.
 
 ##### 184 Term of office of existing ex officio members
     
@@ -3299,7 +3604,7 @@ Miscellaneous provisions
     
     (2) An ex officio member is not entitled to any compensation or other payment or benefit relating to his or her ceasing to be an ex officio member under this section.
     
-    (3) In this section and [sections 183][230], [185][232], and [186][233], an **ex officio member** is a member who holds office as a member because he or she is a representative of any part of the Public Service.
+    (3) In this section and [sections 183][238], [185][240], and [186][241], an **ex officio member** is a member who holds office as a member because he or she is a representative of any part of the Public Service.
 
 ##### 185 Term of office of existing chairpersons and deputy chairpersons
     
@@ -3339,11 +3644,11 @@ Miscellaneous provisions
 
 ##### 191 Existing rights under Government Superannuation Fund Act 1956 unaffected
     
-*   This Act does not affect any entitlement of a member, employee, or office holder of a Crown entity under the [Government Superannuation Fund Act 1956][336].
+*   This Act does not affect any entitlement of a member, employee, or office holder of a Crown entity under the [Government Superannuation Fund Act 1956][382].
 
 ##### 192 Existing delegations and directions to continue
     
-*   (1) A delegation that is in effect in respect of a statutory entity under a provision of another Act that is repealed by this Act at the commencement of this section continues in effect as if it were a delegation under [section 73][88].
+*   (1) A delegation that is in effect in respect of a statutory entity under a provision of another Act that is repealed by this Act at the commencement of this section continues in effect as if it were a delegation under [section 73][93].
     
     (2) A direction that is in effect in respect of a statutory entity under a provision of another Act at the commencement of this section continues in effect as if this Act had not been enacted.
 
@@ -3353,7 +3658,7 @@ Miscellaneous provisions
 
 ##### 194 Existing shareholdings in Crown entity subsidiaries
     
-*   [Subpart 3][119] of Part 2 does not apply to any company that is a Crown entity subsidiary at the date of commencement of this section until the later of---
+*   [Subpart 3][126] of Part 2 does not apply to any company that is a Crown entity subsidiary at the date of commencement of this section until the later of---
         
     *   (a) 3 years after that subpart comes into force; or
     
@@ -3363,25 +3668,25 @@ Miscellaneous provisions
 
 ##### 195 Existing bank accounts
     
-*   There is a period of grace of 6 months after [section 158][199] comes into force during which---
+*   There is a period of grace of 6 months after [section 158][207] comes into force during which---
         
-    *   (a) a Crown entity must continue to comply with [section 24][321] of the Public Finance Act 1989, and (or, as the case may be, or) its entity's Act (if relevant), as if this Act and the [Public Finance Amendment Act 2004][337] had not been passed; and
+    *   (a) a Crown entity must continue to comply with [section 24][365] of the Public Finance Act 1989, and (or, as the case may be, or) its entity's Act (if relevant), as if this Act and the [Public Finance Amendment Act 2004][383] had not been passed; and
     
-    *   (b) neither [section 158][199], nor any amendment of an entity's Act in relation to bank accounts in [Schedule 6][338] of this Act, apply to a Crown entity.
+    *   (b) neither [section 158][207], nor any amendment of an entity's Act in relation to bank accounts in [Schedule 6][384] of this Act, apply to a Crown entity.
     
     
 
 ##### 196 Existing law on securities, borrowing, guarantees, indemnities, and derivative transactions continues to apply until 1 April 2005
     
-*   (1) This section applies to the period between the date on which this section comes into force and the start of 1 April 2005 (which is the date on which the new rules in [sections 160 to 164][202] relating to securities, borrowing, guarantees, indemnities, and derivative transactions apply) (the **transitional period**).
+*   (1) This section applies to the period between the date on which this section comes into force and the start of 1 April 2005 (which is the date on which the new rules in [sections 160 to 164][210] relating to securities, borrowing, guarantees, indemnities, and derivative transactions apply) (the **transitional period**).
     
-    (2) The rules relating to securities, borrowing, guarantees, indemnities, and derivative transactions that would have applied if this Act and the [Public Finance Amendment Act 2004][337] had not been enacted continue to apply during the transitional period.
+    (2) The rules relating to securities, borrowing, guarantees, indemnities, and derivative transactions that would have applied if this Act and the [Public Finance Amendment Act 2004][383] had not been enacted continue to apply during the transitional period.
     
-    (3) Therefore, for example, the Crown entity must comply, during the transitional period, with the rules relating to those things that were in the [Public Finance Act 1989][312] or the entity's Act, as the case may be, immediately before the commencement of this section.
+    (3) Therefore, for example, the Crown entity must comply, during the transitional period, with the rules relating to those things that were in the [Public Finance Act 1989][286] or the entity's Act, as the case may be, immediately before the commencement of this section.
 
 ##### 197 Continuation of pre-1 April 2005 securities, borrowing, guarantees, indemnities, and derivative transactions
     
-*   (1) This section applies to any security, borrowing, guarantee, indemnity, or derivative transaction that a Crown entity has lawfully acquired, given, or entered into before 1 April 2005 that the Crown entity would be restricted from having, acquiring, giving, or entering into under this Act after [sections 160 to 164][202] apply.
+*   (1) This section applies to any security, borrowing, guarantee, indemnity, or derivative transaction that a Crown entity has lawfully acquired, given, or entered into before 1 April 2005 that the Crown entity would be restricted from having, acquiring, giving, or entering into under this Act after [sections 160 to 164][210] apply.
     
     (2) The security, borrowing, guarantee, indemnity, or derivative transaction is not affected by the enactment of this Act.
     
@@ -3391,15 +3696,15 @@ Miscellaneous provisions
 
 ##### 198 Reporting obligations in respect of financial years ending before 1 July 2006
     
-*   (1) The reporting requirements and provisions that would have applied if this Act and the [Public Finance Amendment Act 2004][337] had not been enacted continue to apply in respect of each financial year that ends before 1 July 2006 to a Crown entity, rather than the reporting requirements and provisions enacted by this Act.
+*   (1) The reporting requirements and provisions that would have applied if this Act and the [Public Finance Amendment Act 2004][383] had not been enacted continue to apply in respect of each financial year that ends before 1 July 2006 to a Crown entity, rather than the reporting requirements and provisions enacted by this Act.
     
-    (2) Therefore, for example, the Crown entity must comply, in respect of those financial years, with the requirements relating to annual financial statements, annual reports, and audits that were in the [Public Finance Act 1989][312] or the entity's Act, as the case may be, immediately before the commencement of this section.
+    (2) Therefore, for example, the Crown entity must comply, in respect of those financial years, with the requirements relating to annual financial statements, annual reports, and audits that were in the [Public Finance Act 1989][286] or the entity's Act, as the case may be, immediately before the commencement of this section.
     
     (3) Despite subsections (1) and (2),---
         
-    *   (a) [section 87(2)(ca)(iv) and (v)][339] of the Education Act 1989 applies in respect of each financial year that ends on or after 31 December 2004; and
+    *   (a) [section 87(2)(ca)(iv) and (v)][385] of the Education Act 1989 applies in respect of each financial year that ends on or after 31 December 2004; and
     
-    *   (b) [section 152][191] applies in respect of the financial year commencing on 1 July 2005 and each subsequent financial year.
+    *   (b) [section 152][199] applies in respect of the financial year commencing on 1 July 2005 and each subsequent financial year.
     
     (4) In this section, _Crown entity_ includes any entity that is required by any other Act to report as though it were a Crown entity.
 
@@ -3413,35 +3718,98 @@ Miscellaneous provisions
     
     (2) The regulations may be made in respect of all or any Crown entities or categories or types of Crown entities.
     
-    (3) Any transitional or savings provisions prescribed in regulations made under subsection (1) may be in addition to or in place of any of the provisions of [sections 137][174], [159][201], [195][242], [196][243], [197][244], and [198][245].
+    (3) Any transitional or savings provisions prescribed in regulations made under subsection (1) may be in addition to or in place of any of the provisions of [sections 137][182], [159][209], [195][250], [196][251], [197][252], and [198][253].
+
+##### 199A Application, savings, and transitional provisions relating to amendments to Act
+    
+*   The application, savings, and transitional provisions set out in [Schedule 1AAA][259], which relate to amendments made to this Act on or after 1 January 2013, have effect for the purposes of this Act.
+    
+    Section 199A: inserted, on 18 July 2013, by [section 38][386] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Amendments to other enactments
 
 ##### 200 Amendments to other enactments
     
-*   The enactments specified in [Schedule 6][338] are amended in the manner shown in that schedule.
+*   The enactments specified in [Schedule 6][384] are amended in the manner shown in that schedule.
 
 ##### 201 Amendment to Gas Amendment Act 2004
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][340]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][387]_.
     
-    (2) For the avoidance of doubt, the [Gas Amendment Act 2004][341], assented to by Her Excellency the Governor-General on 17 October 2004, is deemed to be, and always to have been, a valid Act of Parliament.
+    (2) For the avoidance of doubt, the [Gas Amendment Act 2004][388], assented to by Her Excellency the Governor-General on 17 October 2004, is deemed to be, and always to have been, a valid Act of Parliament.
+
+---
+
+## Schedule 1AAA  
+Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013
+
+[ss 10A][13], [199A][255]
+
+*   Schedule 1AAA: inserted, on 18 July 2013, by [section 39][389] of the Crown Entities Amendment Act 2013 (2013 No 51).
+
+##### 1 Interpretation
+    
+*   In this schedule,---
+    
+    _2013/14 financial year_, in relation to a Crown entity, means the entity's financial year that includes 30 June 2014
+    
+    _2014/15 financial year_, in relation to a Crown entity, means the entity's financial year that includes 30 June 2015
+    
+    _amendment Act_ means the [Crown Entities Amendment Act 2013][390]
+    
+    _commencement date_ means the date on which the amendment Act comes into force
+    
+    _new provision_ means a provision of this Act as amended or inserted by the amendment Act, and _new section_ has a corresponding meaning
+    
+    _old provision_ means a provision of this Act as in force immediately before its amendment or repeal by the amendment Act, and _old section_ has a corresponding meaning.
+
+##### 2 Application of new sections 150 and 151 (annual reports)
+    
+*   New [sections 150(3), (5), and (6)][197] and [151(1)(f)][198], as inserted on the commencement date by [section 36][362] of the amendment Act,---
+        
+    *   (a) apply to an annual report for the 2013/14 financial year and subsequent financial years; but
+    
+    *   (b) do not apply to an annual report for any prior financial year.
+    
+    
+
+##### 3 Amendments made on 1 July 2014 apply to 2014/15 financial year and subsequent financial years
+    
+*   (1) This clause applies to any provision of this Act that---
+        
+    *   (a) relates to a financial year; and
+    
+    *   (b) is amended on 1 July 2014 by [Part 2][391] of the amendment Act.
+    
+    (2) The provision must,---
+        
+    *   (a) to the extent that it relates to the 2014/15 financial year and subsequent financial years, be treated as if it were amended on the commencement date rather than on 1 July 2014; and
+    
+    *   (b) to the extent that it relates to previous financial years, be treated as if it were not amended on 1 July 2014\.
+    
+    
+
+##### 4 First statement of intent under new section 139(1) must relate to 2014/15 financial year and subsequent financial years
+    
+*   (1) A Crown entity must provide to its responsible Minister, under new [section 139(1)][185] (as inserted by [section 49][392] of the amendment Act), information on its strategic intentions for the 2014/15 financial year and at least the following 3 financial years.
+    
+    (2) A Crown entity must comply with subsection (1) not later than the day on which it provides, to its responsible Minister, its annual report for the 2013/14 financial year.
 
 ---
 
 ## Schedule 1  
 Statutory entities
 
-[ss 7][8], [160][202], [165][208]
+[ss 7][8], [160][210], [165][216]
 
 Note: A tick alongside the name of a statutory entity means that the statutory entity is granted an exemption from the section of this Act that appears above the tick.
 
 ## Part 1  
 Crown agents
 
-**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][208] (net surplus payable to Crown)**
+**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][216] (net surplus payable to Crown)**
 
-[s 161][203][s 162][204][s 163][205][s 164][206] 
+[s 161][211][s 162][212][s 163][213][s 164][214] 
 
 Accident Compensation Corporation 
 
@@ -3539,32 +3907,32 @@ Sport and Recreation New Zealand
 
 Tertiary Education Commission 
 
-*   Schedule 1 Part 1 Callaghan Innovation: inserted, on 1 February 2013, by [section 21][342] of the Callaghan Innovation Act 2012 (2012 No 94).
-*   Schedule 1 Part 1 Career Services: repealed, on 30 August 2011, by [section 47(2)][343] of the Education Amendment Act 2011 (2011 No 66).
-*   Schedule 1 Part 1 Careers New Zealand: inserted, on 30 August 2011, by [section 47(2)][343] of the Education Amendment Act 2011 (2011 No 66).
-*   Schedule 1 Part 1 Crown Health Financing Agency: repealed, on 1 July 2012, by [section 34][344] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Part 1 Education New Zealand: inserted, on 30 August 2011, by [section 47(3)][343] of the Education Amendment Act 2011 (2011 No 66).
-*   Schedule 1 Part 1 Electricity Commission: repealed, on 1 November 2010, by [section 166][345] of the Electricity Industry Act 2010 (2010 No 116).
-*   Schedule 1 Part 1 Environmental Protection Authority: inserted, on 1 July 2011, by [section 53(1)][346] of the Environmental Protection Authority Act 2011 (2011 No 14).
-*   Schedule 1 Part 1 Foundation for Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][347] of the Research, Science, and Technology Act 2010 (2010 No 131).
-*   Schedule 1 Part 1 Health Promotion Agency: inserted, on 1 July 2012, by [section 26][348] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Part 1 Health Quality and Safety Commission: inserted, on 9 November 2010, by [section 28][349] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
-*   Schedule 1 Part 1 Health Sponsorship Council: repealed, on 1 July 2012, by [section 26][348] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Part 1 Land Transport New Zealand: repealed, on 1 August 2008, by [section 50(1)][350] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule 1 Part 1 Legal Services Agency: repealed, on 1 July 2011, by [section 144][351] of the Legal Services Act 2011 (2011 No 4).
-*   Schedule 1 Part 1 Maritime New Zealand: amended, on 1 July 2005, pursuant to [section 11(1)(a)][352] of the Maritime Transport Amendment Act 2004 (2004 No 98).
-*   Schedule 1 Part 1 New Zealand Transport Agency: inserted, on 1 August 2008, by [section 50(1)][350] of the Land Transport Management Amendment Act 2008 (2008 No 47).
-*   Schedule 1 Part 1 New Zealand Walking Access Commission: inserted, on 30 September 2008, by [section 82][353] of the Walking Access Act 2008 (2008 No 101).
-*   Schedule 1 Part 1 Real Estate Agents Authority: inserted, on 16 November 2009, by [section 173][354] of the Real Estate Agents Act 2008 (2008 No 66).
-*   Schedule 1 Part 1 Residual Health Management Unit: repealed, on 17 May 2005, by [section 5(2)][355] of the New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63).
-*   Schedule 1 Part 1 Transit New Zealand: repealed, on 1 August 2008, by [section 50(1)][350] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 1 Callaghan Innovation: inserted, on 1 February 2013, by [section 21][393] of the Callaghan Innovation Act 2012 (2012 No 94).
+*   Schedule 1 Part 1 Career Services: repealed, on 30 August 2011, by [section 47(2)][394] of the Education Amendment Act 2011 (2011 No 66).
+*   Schedule 1 Part 1 Careers New Zealand: inserted, on 30 August 2011, by [section 47(2)][394] of the Education Amendment Act 2011 (2011 No 66).
+*   Schedule 1 Part 1 Crown Health Financing Agency: repealed, on 1 July 2012, by [section 34][395] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 1 Part 1 Education New Zealand: inserted, on 30 August 2011, by [section 47(3)][394] of the Education Amendment Act 2011 (2011 No 66).
+*   Schedule 1 Part 1 Electricity Commission: repealed, on 1 November 2010, by [section 166][396] of the Electricity Industry Act 2010 (2010 No 116).
+*   Schedule 1 Part 1 Environmental Protection Authority: inserted, on 1 July 2011, by [section 53(1)][397] of the Environmental Protection Authority Act 2011 (2011 No 14).
+*   Schedule 1 Part 1 Foundation for Research, Science, and Technology: repealed, on 1 February 2011, by [section 18][398] of the Research, Science, and Technology Act 2010 (2010 No 131).
+*   Schedule 1 Part 1 Health Promotion Agency: inserted, on 1 July 2012, by [section 26][399] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 1 Part 1 Health Quality and Safety Commission: inserted, on 9 November 2010, by [section 28][400] of the New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118).
+*   Schedule 1 Part 1 Health Sponsorship Council: repealed, on 1 July 2012, by [section 26][399] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 1 Part 1 Land Transport New Zealand: repealed, on 1 August 2008, by [section 50(1)][401] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 1 Legal Services Agency: repealed, on 1 July 2011, by [section 144][402] of the Legal Services Act 2011 (2011 No 4).
+*   Schedule 1 Part 1 Maritime New Zealand: amended, on 1 July 2005, pursuant to [section 11(1)(a)][403] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+*   Schedule 1 Part 1 New Zealand Transport Agency: inserted, on 1 August 2008, by [section 50(1)][401] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+*   Schedule 1 Part 1 New Zealand Walking Access Commission: inserted, on 30 September 2008, by [section 82][404] of the Walking Access Act 2008 (2008 No 101).
+*   Schedule 1 Part 1 Real Estate Agents Authority: inserted, on 16 November 2009, by [section 173][405] of the Real Estate Agents Act 2008 (2008 No 66).
+*   Schedule 1 Part 1 Residual Health Management Unit: repealed, on 17 May 2005, by [section 5(2)][406] of the New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63).
+*   Schedule 1 Part 1 Transit New Zealand: repealed, on 1 August 2008, by [section 50(1)][401] of the Land Transport Management Amendment Act 2008 (2008 No 47).
 
 ## Part 2  
 Autonomous Crown entities
 
-**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][208] (net surplus payable to Crown)**
+**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][216] (net surplus payable to Crown)**
 
-[s 161][203][s 162][204][s 163][205][s 164][206] 
+[s 161][211][s 162][212][s 163][213][s 164][214] 
 
 Arts Council of New Zealand Toi Aotearoa 
 
@@ -3632,17 +4000,17 @@ Te Taura Whiri I Te Reo Māori (Māori Language Commission)
 
 Testing Laboratory Registration Council 
 
-*   Schedule 1 Part 2 Alcohol Advisory Council of New Zealand: repealed, on 1 July 2012, by [section 26][348] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
-*   Schedule 1 Part 2 Charities Commission: repealed, on 1 July 2012, by [section 16(2)][356] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
-*   Schedule 1 Part 2 Environmental Risk Management Authority: repealed, on 1 July 2011, by [section 53(1)][346] of the Environmental Protection Authority Act 2011 (2011 No 14).
-*   Schedule 1 Part 2 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][357] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
+*   Schedule 1 Part 2 Alcohol Advisory Council of New Zealand: repealed, on 1 July 2012, by [section 26][399] of the New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41).
+*   Schedule 1 Part 2 Charities Commission: repealed, on 1 July 2012, by [section 16(2)][407] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
+*   Schedule 1 Part 2 Environmental Risk Management Authority: repealed, on 1 July 2011, by [section 53(1)][397] of the Environmental Protection Authority Act 2011 (2011 No 14).
+*   Schedule 1 Part 2 Mental Health Commission: repealed, on 1 July 2012, by [section 7(2)][408] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
 
 ## Part 3  
 Independent Crown entities
 
-**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][208] (net surplus payable to Crown)**
+**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][216] (net surplus payable to Crown)**
 
-[s 161][203][s 162][204][s 163][205][s 164][206] 
+[s 161][211][s 162][212][s 163][213][s 164][214] 
 
 Broadcasting Standards Authority 
 
@@ -3678,26 +4046,30 @@ Takeovers Panel
 
 Transport Accident Investigation Commission 
 
-*   Schedule 1 Part 3 Accounting Standards Review Board: repealed, on 1 July 2011, by [section 12][313] of the Financial Reporting Amendment Act 2011 (2011 No 22).
-*   Schedule 1 Part 3 External Reporting Board: inserted, on 1 July 2011, by [section 12][313] of the Financial Reporting Amendment Act 2011 (2011 No 22).
-*   Schedule 1 Part 3 : amended, on 1 May 2011, by [section 82][358] of the Financial Markets Authority Act 2011 (2011 No 5).
-*   Schedule 1 Part 3: amended, on 21 December 2010, by [section 16][359] of the New Zealand Productivity Commission Act 2010 (2010 No 136).
-*   Schedule 1 Part 3: amended, on 1 November 2010, by [section 166][345] of the Electricity Industry Act 2010 (2010 No 116).
-*   Schedule 1 Part 3: amended, on 29 November 2007, by [section 26][360] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
-*   Schedule 1 Part 3: amended, on 1 July 2007, by [section 61][361] of the Sports Anti-Doping Act 2006 (2006 No 58).
+*   Schedule 1 Part 3 Accounting Standards Review Board: repealed, on 1 July 2011, by [section 12][354] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 1 Part 3 External Reporting Board: inserted, on 1 July 2011, by [section 12][354] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+*   Schedule 1 Part 3 : amended, on 1 May 2011, by [section 82][409] of the Financial Markets Authority Act 2011 (2011 No 5).
+*   Schedule 1 Part 3: amended, on 21 December 2010, by [section 16][410] of the New Zealand Productivity Commission Act 2010 (2010 No 136).
+*   Schedule 1 Part 3: amended, on 1 November 2010, by [section 166][396] of the Electricity Industry Act 2010 (2010 No 116).
+*   Schedule 1 Part 3: amended, on 29 November 2007, by [section 26][411] of the Independent Police Conduct Authority Amendment Act 2007 (2007 No 38).
+*   Schedule 1 Part 3: amended, on 1 July 2007, by [section 61][412] of the Sports Anti-Doping Act 2006 (2006 No 58).
 
 ---
 
 ## Schedule 2  
 Crown entity companies
 
-[ss 7][8], [160][202], [165][208]
+[ss 7][8], [160][210], [165][216]
 
 Note: A tick alongside the name of a Crown entity company means that the Crown entity company is granted an exemption from the section of this Act that appears above the tick.
 
-**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][208] (net surplus payable to Crown)**
+**Name** **Exemption from acquisition of securities, borrowing, guarantee, and derivative rules** **Exemption from [section 165][216] (net surplus payable to Crown)**
 
-[s 161][203][s 162][204][s 163][205][s 164][206] 
+[s 161][211][s 162][212][s 163][213][s 164][214] 
+
+Crown Irrigation Investments Limited 
+
+![. ](images/Crownsch2tick.jpg) 
 
 Crown Research Institutes 
 
@@ -3737,7 +4109,8 @@ Television New Zealand Limited
 
 ![. ](images/Crownsch2tick.jpg)
 
-*   Schedule 2: amended, on 24 December 2009, by [clause 3][362] of the Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009 (SR 2009/353).
+*   Schedule 2: amended, on 8 August 2013, by [clause 3][413] of the Crown Entities (Crown Irrigation Investments Limited) Order 2013 (SR 2013/290).
+*   Schedule 2: amended, on 24 December 2009, by [clause 3][414] of the Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009 (SR 2009/353).
 
 ---
 
@@ -3750,59 +4123,61 @@ Application of Crown Entities Act 2004 to school boards of trustees
 
 [Sections 3 to 8][4] Crown entities and categories
 
-[Section 10][11] Interpretation
+[Section 10][12] Interpretation
 
-[Section 99][124] Application to multi-parent subsidiaries
+[Section 99][131] Application to multi-parent subsidiaries
 
-[Section 102][127] Interface with [Companies Act 1993][256] and other Acts
+[Section 102][134] Interface with [Companies Act 1993][266] and other Acts
 
-[Section 107][135] Whole of government directions
+[Section 107][142] Directions to support a whole of government approach
 
-[Section 113][141] Safeguarding independence of Crown entities
+[Section 113][148] Safeguarding independence of Crown entities
 
-[Section 114][143] Crown entity must comply with directions given under statutory power of direction
+[Section 114][150] Crown entity must comply with directions given under statutory power of direction
 
-[Section 115][144] Procedure for all Ministerial directions
+[Section 115][151] Procedure for all Ministerial directions
 
-[Section 119][149] Cross reference to [State Sector Act 1988][257], [ss 84--84B][297]
+[Section 119][157] Cross reference to [State Sector Act 1988][267], [ss 84--84B][337]
 
-[Section 131(2)][165] Application of [Ombudsmen Act 1975][363] and [Official Information Act 1982][290]
+[Section 131(2)][173] Application of [Ombudsmen Act 1975][415] and [Official Information Act 1982][314]
 
-[Section 133][167] Minister's power to request information
+[Section 133][175] Minister's power to request information
 
-[Section 134][168] Reasons for refusing to supply information
+[Section 134][176] Reasons for refusing to supply information
 
-[Section 135][169] Officials for the purposes of sections of the [Crimes Act 1961][364]
+[Section 135][177] Officials for the purposes of sections of the [Crimes Act 1961][416]
 
-[Section 136][172] Interpretation for [Part 4][170]
+[Section 136][180] Interpretation for [Part 4][178]
 
-[Section 137][174] Application of [subpart 2][173] of Part 4
+[Section 137][182] Application of [subpart 2][181] of Part 4
 
-[Section 155][194], with the variation specified in [section 87(4)][339] of the Education Act 1989 Statement of responsibility for financial statements
+[Section 155][202], with the variation specified in [section 87(4)][385] of the Education Act 1989 Statement of responsibility for financial statements
 
-[Section 157][196] Variation of reporting requirements of multi-parent subsidiaries
+[Section 157][204] Variation of reporting requirements of multi-parent subsidiaries
 
-[Section 158][199] Bank accounts
+[Section 158][207] Bank accounts
 
-[Section 159][201] Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
+[Section 159][209] Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules
 
-[Sections 160 to 164][202] Restrictions on acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions
+[Sections 160 to 164][210] Restrictions on acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions
 
-[Section 167][210] Gifts
+[Section 167][218] Gifts
 
-[Section 168(1) and (2)][211], except that the reference to [section 154][193] must be read as a reference to [section 87(3)][339] of the Education Act 1989 Accounting records
+[Section 168(1) and (2)][219], except that the reference to [section 154][201] must be read as a reference to [section 87(3)][385] of the Education Act 1989 Accounting records
 
-[Section 173][217] Regulations
+[Section 173][225] Regulations
 
-[Section 176][220] Application of provisions of the [Public Finance Act 1989][312]
+[Section 176][228] Application of provisions of the [Public Finance Act 1989][286]
 
-[Section 178][224] Application of Archives Act 1957
+[Section 178][232] Application of Archives Act 1957
 
-[Section 179][225] [Public Bodies Contracts Act 1959][334] does not apply
+[Section 179][233] [Public Bodies Contracts Act 1959][380] does not apply
 
-[Section 180][226] [Local Authorities (Members' Interests) Act 1968][335] does not apply
+[Section 180][234] [Local Authorities (Members' Interests) Act 1968][381] does not apply
 
-[Sections 181][227], [188][235], [191][238], [193][240], [194][241], [195][242], [196][243], [197][244], [198][245], [199][246], [200][248] Transitional and savings provisions and associated consequential amendments
+[Sections 181][235], [188][243], [191][246], [193][248], [194][249], [195][250], [196][251], [197][252], [198][253], [199][254], [200][257] Transitional and savings provisions and associated consequential amendments
+
+*   Schedule 3: amended, on 18 July 2013, by [section 40][417] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ---
 
@@ -3815,48 +4190,50 @@ Application of Crown Entities Act 2004 to tertiary education institutions
 
 [Section 3 to 8][4] Crown entities and categories
 
-[Section 10][11] Interpretation
+[Section 10][12] Interpretation
 
-[Section 119][149] Cross reference to [State Sector Act 1988][257], [ss 84--84B][297]
+[Section 119][157] Cross reference to [State Sector Act 1988][267], [ss 84--84B][337]
 
-[Section 131(2)][165] Application of [Official Information Act 1982][290] and [Ombudsmen Act 1975][363]
+[Section 131(2)][173] Application of [Official Information Act 1982][314] and [Ombudsmen Act 1975][415]
 
-[Section 135][169] (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) Officials for the purposes of sections of the [Crimes Act 1961][364]
+[Section 135][177] (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) Officials for the purposes of sections of the [Crimes Act 1961][416]
 
-[Section 136][172] Interpretation for [Part 4][170]
+[Section 136][180] Interpretation for [Part 4][178]
 
-[Section 137][174] Application of [subpart 2][173] of Part 4
+[Section 137][182] Application of [subpart 2][181] of Part 4
 
-[Section 154][193], as amended by the [Education Act 1989][266] [section 220(2)--(2B)][365], in [Schedule 6][338] Financial statements
+[Section 154][201], as amended by the [Education Act 1989][276] [section 220(2)--(2B)][418], in [Schedule 6][384] Financial statements
 
-[Section 155][194] Statement of responsibility for financial statements
+[Section 155][202] Statement of responsibility for financial statements
 
-[Section 156][195] Audit report
+[Section 156][203] Audit report
 
-[Section 157][196] Allows for variation of reporting requirements of multi-parent subsidiaries
+[Section 157][204] Allows for variation of reporting requirements of multi-parent subsidiaries
 
-[Section 220][365] Education Act 1989 Inclusion of financial statements in annual report
+[Section 220][418] Education Act 1989 Inclusion of financial statements in annual report
 
-[Section 220][365] Education Act 1989 Laying before House of Representatives of financial statements
+[Section 220][418] Education Act 1989 Laying before House of Representatives of financial statements
 
-[Section 167][210] Gifts
+[Section 167][218] Gifts
 
-[Section 168(1) and (2)][211] Accounting records
+[Section 168(1) and (2)][219] Accounting records
 
-[Sections 171(1)(b) and (2)][215] and [172][216] Offences and penalties
+[Sections 171(1)(b) and (2)][223] and [172][224] Offences and penalties
 
-[Section 176][220] Application of provisions of the [Public Finance Act 1989][312]
+[Section 176][228] Application of provisions of the [Public Finance Act 1989][286]
 
-[Section 178][224] Application of Archives Act 1957
+[Section 178][232] Application of Archives Act 1957
 
-[Sections 181][227], [188][235], [191][238], [193][240], [194][241], [198][245], [199][246], [200][248] Transitional and savings provisions and associated consequential amendments
+[Sections 181][235], [188][243], [191][246], [193][248], [194][249], [198][253], [199][254], [200][257] Transitional and savings provisions and associated consequential amendments
 
 ---
 
 ## Schedule 5  
-Board procedure for statutory entities (other than corporations sole)
+Appointment of chairperson, etc, and board procedure for statutory entities (other than corporations sole)
 
-[s 78][94]
+[s 78][99]
+
+*   Schedule 5 heading: amended, on 18 July 2013, by [section 41(1)][419] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 #### Chairperson and deputy chairperson of board
 
@@ -3878,9 +4255,9 @@ Board procedure for statutory entities (other than corporations sole)
     
     *   (c) he or she ceases to hold office as a member; or
     
-    *   (d) the term of office that may have been specified on appointment expires, unless the member is reappointed for a further term.
+    *   (d) the term of office that may have been specified on appointment expires, unless the member continues to hold office as a member in accordance with [section 32(3)][45] or is reappointed for a further term.
     
-    
+    Schedule 5 clause 2(d): amended, on 18 July 2013, by [section 41(2)][419] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 3 Resignation
     
@@ -3934,7 +4311,7 @@ Board procedure for statutory entities (other than corporations sole)
     
     *   (b) may be given by post, delivery, or electronic communication; and
     
-    *   (c) must be sent to the member's last known address in New Zealand.
+    *   (c) must be given or sent to each member's current postal or electronic address.
     
     (5) An irregularity in a notice of a meeting is waived if all members entitled to receive the notice either---
         
@@ -3942,7 +4319,7 @@ Board procedure for statutory entities (other than corporations sole)
     
     *   (b) do not attend the meeting, but agree before the meeting is held to the waiver of the irregularity.
     
-    
+    Schedule 5 clause 7(4)(c): replaced, on 18 July 2013, by [section 41(3)][419] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 8 Methods of holding meetings
     
@@ -3974,7 +4351,7 @@ Board procedure for statutory entities (other than corporations sole)
 
 ##### 10 Special provisions for boards with only 1 member available to act
     
-*   (1) This section applies while a board has only 1 member who is available (for example, because of a vacancy or because [section 66][80], but not [section 68][82], applies to 1 or more members).
+*   (1) This section applies while a board has only 1 member who is available (for example, because of a vacancy or because [section 66][85], but not [section 68][87], applies to 1 or more members).
     
     (2) The quorum for a meeting of the board is 1\.
     
@@ -3986,7 +4363,7 @@ Board procedure for statutory entities (other than corporations sole)
     
     *   (c) need not send a notice of meeting for those meetings; and
     
-    *   (d) may enter into any obligation that, under [section 127(2)][160], may be entered into by 2 or more members.
+    *   (d) may enter into any obligation that, under [section 127(2)][168], may be entered into by 2 or more members.
     
     
 
@@ -4014,9 +4391,11 @@ Board procedure for statutory entities (other than corporations sole)
 
 ##### 13 Unanimous written resolutions
     
-*   (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the board duly called and constituted.
+*   (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members who are entitled to vote on the matter is as valid and effectual as if it had been passed at a meeting of the board duly called and constituted.
     
     (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+    
+    Schedule 5 clause 13(1): amended, on 18 July 2013, by [section 41(4)][419] of the Crown Entities Amendment Act 2013 (2013 No 51).
 
 ##### 14 Board may appoint committees
     
@@ -4030,260 +4409,260 @@ Board procedure for statutory entities (other than corporations sole)
 
 ##### 15 Provisions relating to committee members
     
-*   (1) [Sections 43][51], [47][56], [48][57], [57][68], [77][93], [118][148], [120 to 126][152], [135][169], [152(1)(e), (f), and (2)][191], [189][236], and [190][237] apply to each member of a committee who is not a member of the board with necessary modifications.
+*   (1) [Sections 43][56], [47][61], [48][62], [57][73], [77][98], [118][156], [120 to 126][160], [135][177], [152(1)(e), (f), and (2)][199], [189][244], and [190][245] apply to each member of a committee who is not a member of the board with necessary modifications.
     
-    (2) [Sections 62 to 72][76] apply to each member of a committee who is not a member of the board as if the committee member were a board member and as if the disclosure must be made to both the committee and the board, and with other necessary modifications.
+    (2) [Sections 62 to 72][81] apply to each member of a committee who is not a member of the board as if the committee member were a board member and as if the disclosure must be made to both the committee and the board, and with other necessary modifications.
 
 ---
 
 ## Schedule 6  
 Amendments to other Acts arising from Crown entity reforms
 
-[s 200][248]
+[s 200][257]
 
 ##### Alcohol Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][366]_.
+_Amendment(s) incorporated in the [Act(s)][420]_.
 
 ##### Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][367]_.
+_Amendment(s) incorporated in the [Act(s)][421]_.
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][368]_.
+_Amendment(s) incorporated in the [Act(s)][422]_.
 
 ##### Broadcasting Amendment Act 1996 (1996 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][369]_.
+_Amendment(s) incorporated in the [Act(s)][423]_.
 
 ##### Children's Commissioner Act 2003 (2003 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][370]_.
+_Amendment(s) incorporated in the [Act(s)][424]_.
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][371]_.
+_Amendment(s) incorporated in the [Act(s)][425]_.
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][372]_.
+_Amendment(s) incorporated in the [Act(s)][426]_.
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][373]_.
+_Amendment(s) incorporated in the [Act(s)][427]_.
 
 ##### Credit Contracts and Consumer Finance Act 2003 (2003 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][374]_.
+_Amendment(s) incorporated in the [Act(s)][428]_.
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][375]_.
+_Amendment(s) incorporated in the [Act(s)][429]_.
 
 ##### Dairy Industry Restructuring Act 2001 (2001 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][376]_.
+_Amendment(s) incorporated in the [Act(s)][430]_.
 
 ##### Earthquake Commission Act 1993 (1993 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][377]_.
+_Amendment(s) incorporated in the [Act(s)][431]_.
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][378]_.
+_Amendment(s) incorporated in the [Act(s)][432]_.
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][379]_.
+_Amendment(s) incorporated in the [Act(s)][433]_.
 
 ##### Electricity Act 1992 (1992 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][380]_.
+_Amendment(s) incorporated in the [Act(s)][434]_.
 
 ##### Electricity Amendment Act 2004 (2004 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][381]_.
+_Amendment(s) incorporated in the [Act(s)][435]_.
 
 ##### Electricity Industry Reform Act 1998 (1998 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][382]_.
+_Amendment(s) incorporated in the [Act(s)][436]_.
 
 ##### Energy Efficiency and Conservation Act 2000 (2000 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][383]_.
+_Amendment(s) incorporated in the [Act(s)][437]_.
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][384]_.
+_Amendment(s) incorporated in the [Act(s)][438]_.
 
 ##### Families Commission Act 2003 (2003 No 128)
 
-_Amendment(s) incorporated in the [Act(s)][385]_.
+_Amendment(s) incorporated in the [Act(s)][439]_.
 
 ##### Films, Videos, and Publications Classification Act 1993 (1993 No 94)
 
-_Amendment(s) incorporated in the [Act(s)][386]_.
+_Amendment(s) incorporated in the [Act(s)][440]_.
 
 ##### Financial Reporting Act 1993 (1993 No 106)
 
-_Amendment(s) incorporated in the [Act(s)][308]_.
+_Amendment(s) incorporated in the [Act(s)][350]_.
 
 ##### Fire Service Act 1975 (1975 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][387]_.
+_Amendment(s) incorporated in the [Act(s)][441]_.
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][388]_.
+_Amendment(s) incorporated in the [Act(s)][442]_.
 
 ##### Foundation for Research, Science, and Technology Act 1990 (1990 No 72)
 
-_Amendment(s) incorporated in the [Act(s)][389]_.
+_Amendment(s) incorporated in the [Act(s)][443]_.
 
 ##### Gambling Act 2003 (2003 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][390]_.
+_Amendment(s) incorporated in the [Act(s)][444]_.
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][340]_.
+_Amendment(s) incorporated in the [Act(s)][387]_.
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][391]_.
+_Amendment(s) incorporated in the [Act(s)][445]_.
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][392]_.
+_Amendment(s) incorporated in the [Act(s)][446]_.
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][393]_.
+_Amendment(s) incorporated in the [Act(s)][447]_.
 
 ##### Health Research Council Act 1990 (1990 No 68)
 
-_Amendment(s) incorporated in the [Act(s)][394]_.
+_Amendment(s) incorporated in the [Act(s)][448]_.
 
 ##### Historic Places Act 1993 (1993 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][395]_.
+_Amendment(s) incorporated in the [Act(s)][449]_.
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][396]_.
+_Amendment(s) incorporated in the [Act(s)][450]_.
 
 ##### Housing Corporation Amendment Act 2001 (2001 No 37)
 
-_Amendment(s) incorporated in the [Act(s)][397]_.
+_Amendment(s) incorporated in the [Act(s)][451]_.
 
 ##### Housing Restructuring Act 1992 (1992 No 76)
 
-_Amendment(s) incorporated in the [Act(s)][398]_.
+_Amendment(s) incorporated in the [Act(s)][452]_.
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][399]_.
+_Amendment(s) incorporated in the [Act(s)][453]_.
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][400]_.
+_Amendment(s) incorporated in the [Act(s)][454]_.
 
 ##### Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][401]_.
+_Amendment(s) incorporated in the [Act(s)][455]_.
 
 ##### Land Transport Act 1998 (1998 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][402]_.
+_Amendment(s) incorporated in the [Act(s)][456]_.
 
 ##### Land Transport Management Act 2003 (2003 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][403]_.
+_Amendment(s) incorporated in the [Act(s)][457]_.
 
 ##### Law Commission Act 1985 (1985 No 151)
 
-_Amendment(s) incorporated in the [Act(s)][404]_.
+_Amendment(s) incorporated in the [Act(s)][458]_.
 
 ##### Legal Services Act 2000 (2000 No 42)
 
-_Amendment(s) incorporated in the [Act(s)][405]_.
+_Amendment(s) incorporated in the [Act(s)][459]_.
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][406]_.
+_Amendment(s) incorporated in the [Act(s)][460]_.
 
 ##### Maritime Transport Act 1994 (1994 No 104)
 
-_Amendment(s) incorporated in the [Act(s)][407]_.
+_Amendment(s) incorporated in the [Act(s)][461]_.
 
 ##### Mental Health Commission Act 1998 (1998 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][408]_.
+_Amendment(s) incorporated in the [Act(s)][462]_.
 
 ##### Museum of New Zealand Te Papa Tongarewa Act 1992 (1992 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][409]_.
+_Amendment(s) incorporated in the [Act(s)][463]_.
 
 ##### New Zealand Antarctic Institute Act 1996 (1996 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][410]_.
+_Amendment(s) incorporated in the [Act(s)][464]_.
 
 ##### New Zealand Film Commission Act 1978 (1978 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][411]_.
+_Amendment(s) incorporated in the [Act(s)][465]_.
 
 ##### New Zealand Public Health and Disability Act 2000 (2000 No 91)
 
-_Amendment(s) incorporated in the [Act(s)][412]_.
+_Amendment(s) incorporated in the [Act(s)][466]_.
 
 ##### New Zealand Sports Drug Agency Act 1994 (1994 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][413]_.
+_Amendment(s) incorporated in the [Act(s)][467]_.
 
 ##### New Zealand Superannuation Act 2001 (2001 No 84)
 
-_Amendment(s) incorporated in the [Act(s)][414]_.
+_Amendment(s) incorporated in the [Act(s)][468]_.
 
 ##### New Zealand Symphony Orchestra Act 2004 (2004 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][415]_.
+_Amendment(s) incorporated in the [Act(s)][469]_.
 
 ##### New Zealand Tourism Board Act 1991 (1991 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][416]_.
+_Amendment(s) incorporated in the [Act(s)][470]_.
 
 ##### New Zealand Trade and Enterprise Act 2003 (2003 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][417]_.
+_Amendment(s) incorporated in the [Act(s)][471]_.
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][418]_.
+_Amendment(s) incorporated in the [Act(s)][472]_.
 
 ##### Police Complaints Authority Act 1988 (1988 No 2)
 
-_Amendment(s) incorporated in the [Act(s)][419]_.
+_Amendment(s) incorporated in the [Act(s)][473]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][420]_.
+_Amendment(s) incorporated in the [Act(s)][474]_.
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][421]_.
+_Amendment(s) incorporated in the [Act(s)][475]_.
 
 ##### Public Trust Act 2001 (2001 No 100)
 
-_Amendment(s) incorporated in the [Act(s)][422]_.
+_Amendment(s) incorporated in the [Act(s)][476]_.
 
 ##### Radio New Zealand Act 1995 (1995 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][423]_.
+_Amendment(s) incorporated in the [Act(s)][477]_.
 
 ##### Remuneration Authority Act 1977 (1977 No 110)
 
-_Amendment(s) incorporated in the [Act(s)][424]_.
+_Amendment(s) incorporated in the [Act(s)][478]_.
 
 ##### Retirement Income Act 1993 (1993 No 148)
 
@@ -4291,164 +4670,129 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][306]_.
+_Amendment(s) incorporated in the [Act(s)][348]_.
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][425]_.
+_Amendment(s) incorporated in the [Act(s)][479]_.
 
 ##### Social Welfare (Transitional Provisions) Act 1990 (1990 No 26)
 
-_Amendment(s) incorporated in the [Act(s)][426]_.
+_Amendment(s) incorporated in the [Act(s)][480]_.
 
 ##### Social Workers Registration Act 2003 (2003 No 17)
 
-_Amendment(s) incorporated in the [Act(s)][427]_.
+_Amendment(s) incorporated in the [Act(s)][481]_.
 
 ##### Sport and Recreation New Zealand Act 2002 (2002 No 38)
 
-_Amendment(s) incorporated in the [Act(s)][428]_.
+_Amendment(s) incorporated in the [Act(s)][482]_.
 
 ##### Standards Act 1988 (1988 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][429]_.
+_Amendment(s) incorporated in the [Act(s)][483]_.
 
 ##### Takeovers Act 1993 (1993 No 107)
 
-_Amendment(s) incorporated in the [Act(s)][430]_.
+_Amendment(s) incorporated in the [Act(s)][484]_.
 
 ##### Telecommunications Act 2001 (2001 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][431]_.
+_Amendment(s) incorporated in the [Act(s)][485]_.
 
 ##### Television New Zealand Act 2003 (2003 No 1)
 
-_Amendment(s) incorporated in the [Act(s)][432]_.
+_Amendment(s) incorporated in the [Act(s)][486]_.
 
 ##### Testing Laboratory Registration Act 1972 (1972 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][433]_.
+_Amendment(s) incorporated in the [Act(s)][487]_.
 
 ##### Transport Accident Investigation Commission Act 1990 (1990 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][434]_.
+_Amendment(s) incorporated in the [Act(s)][488]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Crown Entities Act 2004\. The reprint incorporates all the amendments to the Act as at 1 February 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][435] ![](/images/external_link.gif).
+*   This is a reprint of the Crown Entities Act 2004 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][436] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][489] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][490] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][437] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][491] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][492] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][438] and [17E][439] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Crown Entities (Crown Irrigation Investments Limited) Order 2013][493] (SR 2013/290)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Crown Entities Amendment Act 2013 (2013 No 51): [Part 1][494]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Legislation Act 2012 (2012 No 119): [section 77(3)][374]
     
+    Callaghan Innovation Act 2012 (2012 No 94): [section 21][393]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][407]
     
-*   Callaghan Innovation Act 2012 (2012 No 94): [section 21][342]
+    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][408]
     
-    Charities Amendment Act (No 2) 2012 (2012 No 43): [section 16(2)][356]
+    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][399], [34][395]
     
-    Mental Health Commission Amendment Act 2012 (2012 No 42): [section 7(2)][357]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][372]
     
-    New Zealand Public Health and Disability Amendment Act 2012 (2012 No 41): [sections 26][348], [34][344]
+    Education Amendment Act 2011 (2011 No 66): [section 47][394]
     
-    Education Amendment Act 2011 (2011 No 66): [section 47][343]
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][354]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][313]
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][397]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][346]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][409]
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 82][358]
+    Legal Services Act 2011 (2011 No 4): [section 144][402]
     
-    Legal Services Act 2011 (2011 No 4): [section 144][351]
+    New Zealand Productivity Commission Act 2010 (2010 No 136): [section 16][410]
     
-    New Zealand Productivity Commission Act 2010 (2010 No 136): [section 16][359]
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][398]
     
-    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][347]
+    New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118): [section 28][400]
     
-    New Zealand Public Health and Disability Amendment Act 2010 (2010 No 118): [section 28][349]
+    Electricity Industry Act 2010 (2010 No 116): [section 166][396]
     
-    Electricity Industry Act 2010 (2010 No 116): [section 166][345]
+    [Crown Entities Amendment Act 2010][495] (2010 No 60)
     
-    [Crown Entities Amendment Act 2010][440] (2010 No 60)
+    [Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009][496] (SR 2009/353)
     
-    [Crown Entities (New Zealand Fast Forward Fund Limited) Order 2009][441] (SR 2009/353)
+    Walking Access Act 2008 (2008 No 101): [section 82][404]
     
-    Walking Access Act 2008 (2008 No 101): [section 82][353]
+    Real Estate Agents Act 2008 (2008 No 66): [section 173][405]
     
-    Real Estate Agents Act 2008 (2008 No 66): [section 173][354]
+    Crown Entities (New Zealand Fast Forward Fund Limited) Order 2008 (SR 2008/248): [clause 3][497]
     
-    Crown Entities (New Zealand Fast Forward Fund Limited) Order 2008 (SR 2008/248): [clause 3][442]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][401]
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][350]
+    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][411]
     
-    Independent Police Conduct Authority Amendment Act 2007 (2007 No 38): [section 26][360]
+    Sports Anti-Doping Act 2006 (2006 No 58): [section 61][412]
     
-    Sports Anti-Doping Act 2006 (2006 No 58): [section 61][361]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][299]
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][280]
+    New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63): [section 5(2)][406]
     
-    New Zealand Public Health and Disability Amendment Act 2005 (2005 No 63): [section 5(2)][355]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][303]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][282]
-    
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(1)(a)][352]
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(1)(a)][403]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329634
 [2]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329635
 [3]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329636
@@ -4457,437 +4801,492 @@ _Amendment(s) incorporated in the [Act(s)][434]_.
 [6]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329639
 [7]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329640
 [8]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329641
-[9]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329647
-[10]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329648
-[11]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329649
-[12]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329922
-[13]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329923
-[14]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329924
-[15]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329925
-[16]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329926
-[17]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329927
-[18]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329928
-[19]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329929
-[20]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329930
-[21]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329931
-[22]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329932
-[23]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329933
-[24]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329934
-[25]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329935
-[26]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329936
-[27]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329937
-[28]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329938
-[29]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329939
-[30]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329948
-[31]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329949
-[32]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329950
-[33]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329951
-[34]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329952
-[35]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329953
-[36]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329954
-[37]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329955
-[38]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329956
-[39]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329958
-[40]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329959
-[41]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329960
-[42]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329961
-[43]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329962
-[44]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329963
-[45]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329964
-[46]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329965
-[47]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329966
-[48]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329967
-[49]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329968
-[50]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329969
-[51]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329970
-[52]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329971
-[53]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329972
-[54]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329973
-[55]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329974
-[56]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329975
-[57]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329976
-[58]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329977
-[59]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329978
-[60]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329979
-[61]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329980
-[62]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329981
-[63]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329982
-[64]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329983
-[65]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329984
-[66]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329985
-[67]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329986
-[68]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329987
-[69]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329988
-[70]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329989
-[71]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329990
-[72]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329991
-[73]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329992
-[74]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329993
-[75]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329994
-[76]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329995
-[77]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329997
-[78]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329998
-[79]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329999
-[80]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330300
-[81]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330301
-[82]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330302
-[83]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330303
-[84]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330304
-[85]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330305
-[86]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330306
-[87]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330307
-[88]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330308
-[89]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330309
-[90]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330310
-[91]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330311
-[92]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330312
-[93]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330313
-[94]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330314
-[95]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330315
-[96]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330316
-[97]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330317
-[98]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330318
-[99]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330319
-[100]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330320
-[101]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330321
-[102]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330322
-[103]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330323
-[104]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330324
-[105]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330325
-[106]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330326
-[107]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330327
-[108]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330328
-[109]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330329
-[110]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330330
-[111]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330331
-[112]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330332
-[113]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330333
-[114]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330334
-[115]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330335
-[116]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330336
-[117]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330337
-[118]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330338
-[119]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330339
-[120]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330340
-[121]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330341
-[122]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330342
-[123]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330343
-[124]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330344
-[125]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330345
-[126]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330346
-[127]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330347
-[128]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330348
-[129]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330349
-[130]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330350
-[131]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330351
-[132]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330352
-[133]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330353
-[134]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330354
-[135]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330355
-[136]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330356
-[137]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330357
-[138]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330358
-[139]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330359
-[140]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330360
-[141]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330361
-[142]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330362
-[143]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330363
-[144]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330364
-[145]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330365
-[146]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330366
-[147]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330367
-[148]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330368
-[149]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330369
-[150]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330370
-[151]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330371
-[152]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330372
-[153]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330373
-[154]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330374
-[155]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330375
-[156]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330376
-[157]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330377
-[158]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330378
-[159]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330393
-[160]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330394
-[161]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330395
-[162]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330396
-[163]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330397
-[164]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330398
-[165]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330399
-[166]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330500
-[167]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330501
-[168]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330502
-[169]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330503
-[170]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330504
-[171]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330505
-[172]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330506
-[173]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330536
-[174]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330537
-[175]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330538
-[176]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330539
-[177]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330540
-[178]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330541
-[179]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330542
-[180]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330543
-[181]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330544
-[182]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330545
-[183]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330546
-[184]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330547
-[185]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330548
-[186]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330549
-[187]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330550
-[188]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330551
-[189]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330552
-[190]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330553
-[191]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330554
-[192]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330555
-[193]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330556
-[194]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330557
-[195]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330558
-[196]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330559
-[197]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330560
-[198]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330561
-[199]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330562
-[200]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330563
-[201]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330564
-[202]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330565
-[203]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330566
-[204]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330567
-[205]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330568
-[206]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330569
-[207]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330570
-[208]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330571
-[209]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330572
-[210]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330573
-[211]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330574
-[212]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330575
-[213]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330576
-[214]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330577
-[215]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330578
-[216]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330579
-[217]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330580
-[218]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330581
-[219]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330582
-[220]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330583
-[221]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330584
-[222]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330585
-[223]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330586
-[224]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330587
-[225]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330588
-[226]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330589
-[227]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330590
-[228]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330591
-[229]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330592
-[230]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330593
-[231]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330594
-[232]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330595
-[233]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330596
-[234]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330597
-[235]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330598
-[236]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330599
-[237]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331100
-[238]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331101
-[239]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331102
-[240]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331103
-[241]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331104
-[242]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331105
-[243]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331106
-[244]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331107
-[245]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331108
-[246]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331109
-[247]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331110
-[248]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331111
-[249]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331112
-[250]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331113
-[251]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331125
-[252]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331127
-[253]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331129
-[254]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM1992925
-[255]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM1928304
-[256]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM319569
-[257]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129109
-[258]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187698
-[259]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187979
-[260]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331114
-[261]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331118
-[262]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331121
-[263]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM319999
-[264]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM180448
-[265]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM182427
-[266]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM175958
-[267]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM183661
-[268]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331131
-[269]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320639
-[270]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331147
-[271]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM356731
-[272]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320630
-[273]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320119
-[274]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320120
-[275]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3041605
-[276]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM25999
-[277]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM139726
-[278]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM325508
-[279]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM126527
-[280]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM383050
-[281]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM15636
-[282]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM333795
-[283]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320676
-[284]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129507
-[285]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129566
-[286]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320655
-[287]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129571
-[288]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM98036
-[289]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320841
-[290]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM64784
-[291]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320805
-[292]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320643
-[293]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320629
-[294]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320671
-[295]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320673
-[296]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320699
-[297]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM130334
-[298]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320806
-[299]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM431204
-[300]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88540
-[301]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162492
-[302]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328753
-[303]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328755
-[304]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328730
-[305]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM160819
-[306]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM26805
-[307]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM182904
-[308]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM324804
-[309]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM199370
-[310]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM367767
-[311]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM27268
-[312]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM160808
-[313]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3701759
-[314]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162434
-[315]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162438
-[316]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161601
-[317]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162449
-[318]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162446
-[319]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162455
-[320]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM321118
-[321]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161643
-[322]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162017
-[323]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320874
-[324]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM348342
-[325]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163146
-[326]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163147
-[327]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195534
-[328]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195097
-[329]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88925
-[330]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161649
-[331]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162737
-[332]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163141
-[333]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM145736
-[334]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM324218
-[335]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390002
-[336]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM446000
-[337]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM327268
-[338]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331149
-[339]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM180157
-[340]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM286506
-[341]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM315518
-[342]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4732765
-[343]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3612398
-[344]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484121
-[345]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2634629
-[346]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3366997
-[347]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3431046
-[348]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484110
-[349]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2901049
-[350]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1313622
-[351]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3143015
-[352]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM322600
-[353]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1244216
-[354]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1152186
-[355]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM348477
-[356]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484647
-[357]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484313
-[358]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3231793
-[359]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3104343
-[360]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM967974
-[361]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390404
-[362]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2540010
-[363]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM430983
-[364]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM327381
-[365]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM184698
-[366]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM439978
-[367]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM330197
-[368]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM157455
-[369]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM392928
-[370]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM230455
-[371]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM147094
-[372]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM214692
-[373]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM87631
-[374]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213500
-[375]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM264297
-[376]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM109554
-[377]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM305973
-[378]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187936
-[379]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM308102
-[380]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM281866
-[381]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM315142
-[382]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM428211
-[383]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM54993
-[384]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM96444
-[385]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM236111
-[386]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM313843
-[387]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM432653
-[388]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM443563
-[389]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213904
-[390]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM209730
-[391]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM446007
-[392]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM383100
-[393]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM333589
-[394]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213022
-[395]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM300516
-[396]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM411841
-[397]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM96736
-[398]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM269896
-[399]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM304217
-[400]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1184504
-[401]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM100103
-[402]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM433619
-[403]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM226238
-[404]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM85589
-[405]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM71814
-[406]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM124146
-[407]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM336234
-[408]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM424149
-[409]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM260209
-[410]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390273
-[411]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM22645
-[412]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM80059
-[413]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM332934
-[414]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM113939
-[415]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM242838
-[416]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM249332
-[417]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM197085
-[418]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM64790
-[419]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM126236
-[420]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM296645
-[421]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88974
-[422]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM123406
-[423]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM368580
-[424]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM15697
-[425]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM223196
-[426]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM204552
-[427]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM190283
-[428]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM157125
-[429]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM128144
-[430]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM325516
-[431]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM125747
-[432]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM183343
-[433]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM407524
-[434]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM219779
-[435]: http://www.pco.parliament.govt.nz/reprints/
-[436]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195439
-[437]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[438]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195468
-[439]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM195470
-[440]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3041600
-[441]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2540004
-[442]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1462206
+[9]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5461423
+[10]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329647
+[11]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329648
+[12]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329649
+[13]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466468
+[14]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466917
+[15]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329922
+[16]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329923
+[17]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329924
+[18]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329925
+[19]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329926
+[20]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329927
+[21]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329928
+[22]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329929
+[23]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329930
+[24]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329931
+[25]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329932
+[26]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329933
+[27]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329934
+[28]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329935
+[29]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329936
+[30]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329937
+[31]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329938
+[32]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329939
+[33]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329948
+[34]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329949
+[35]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329950
+[36]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329951
+[37]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329952
+[38]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466407
+[39]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466923
+[40]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329953
+[41]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329954
+[42]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329955
+[43]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329956
+[44]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329958
+[45]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329959
+[46]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329960
+[47]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329961
+[48]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329962
+[49]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329963
+[50]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329964
+[51]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329965
+[52]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329966
+[53]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329967
+[54]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329968
+[55]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329969
+[56]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329970
+[57]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329971
+[58]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329972
+[59]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329973
+[60]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329974
+[61]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329975
+[62]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329976
+[63]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329977
+[64]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329978
+[65]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329979
+[66]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329980
+[67]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329981
+[68]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329982
+[69]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329983
+[70]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329984
+[71]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329985
+[72]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329986
+[73]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329987
+[74]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329988
+[75]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329989
+[76]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329990
+[77]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329991
+[78]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329992
+[79]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329993
+[80]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329994
+[81]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329995
+[82]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329997
+[83]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329998
+[84]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM329999
+[85]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330300
+[86]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330301
+[87]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330302
+[88]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330303
+[89]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330304
+[90]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330305
+[91]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330306
+[92]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330307
+[93]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330308
+[94]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330309
+[95]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330310
+[96]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330311
+[97]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330312
+[98]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330313
+[99]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330314
+[100]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330315
+[101]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330316
+[102]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330317
+[103]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330318
+[104]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330319
+[105]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330320
+[106]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330321
+[107]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330322
+[108]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330323
+[109]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330324
+[110]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330325
+[111]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330326
+[112]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330327
+[113]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330328
+[114]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466425
+[115]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466937
+[116]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330329
+[117]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330330
+[118]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330331
+[119]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330332
+[120]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330333
+[121]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330334
+[122]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330335
+[123]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330336
+[124]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330337
+[125]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330338
+[126]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330339
+[127]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330340
+[128]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330341
+[129]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330342
+[130]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330343
+[131]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330344
+[132]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330345
+[133]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330346
+[134]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330347
+[135]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330348
+[136]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330349
+[137]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330350
+[138]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330351
+[139]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330352
+[140]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330353
+[141]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330354
+[142]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330355
+[143]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330356
+[144]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330357
+[145]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330358
+[146]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330359
+[147]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330360
+[148]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330361
+[149]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330362
+[150]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330363
+[151]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330364
+[152]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466960
+[153]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330365
+[154]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330366
+[155]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330367
+[156]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330368
+[157]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330369
+[158]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330370
+[159]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330371
+[160]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330372
+[161]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330373
+[162]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330374
+[163]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330375
+[164]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330376
+[165]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330377
+[166]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330378
+[167]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330393
+[168]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330394
+[169]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330395
+[170]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330396
+[171]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330397
+[172]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330398
+[173]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330399
+[174]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330500
+[175]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330501
+[176]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330502
+[177]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330503
+[178]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330504
+[179]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330505
+[180]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330506
+[181]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330536
+[182]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330537
+[183]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330538
+[184]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330539
+[185]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330540
+[186]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330541
+[187]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330542
+[188]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330543
+[189]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330544
+[190]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330545
+[191]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330546
+[192]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330547
+[193]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330548
+[194]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330549
+[195]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330550
+[196]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330551
+[197]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330552
+[198]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330553
+[199]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330554
+[200]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330555
+[201]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330556
+[202]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330557
+[203]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330558
+[204]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330559
+[205]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330560
+[206]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330561
+[207]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330562
+[208]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330563
+[209]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330564
+[210]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330565
+[211]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330566
+[212]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330567
+[213]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330568
+[214]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330569
+[215]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330570
+[216]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330571
+[217]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330572
+[218]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330573
+[219]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330574
+[220]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330575
+[221]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330576
+[222]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330577
+[223]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330578
+[224]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330579
+[225]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330580
+[226]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330581
+[227]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330582
+[228]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330583
+[229]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330584
+[230]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330585
+[231]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330586
+[232]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330587
+[233]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330588
+[234]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330589
+[235]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330590
+[236]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330591
+[237]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330592
+[238]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330593
+[239]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330594
+[240]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330595
+[241]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330596
+[242]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330597
+[243]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330598
+[244]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM330599
+[245]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331100
+[246]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331101
+[247]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331102
+[248]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331103
+[249]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331104
+[250]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331105
+[251]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331106
+[252]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331107
+[253]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331108
+[254]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331109
+[255]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466470
+[256]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331110
+[257]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331111
+[258]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331112
+[259]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM5466904
+[260]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331113
+[261]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331125
+[262]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331127
+[263]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331129
+[264]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM1992925
+[265]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM1928304
+[266]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM319569
+[267]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129109
+[268]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187698
+[269]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187979
+[270]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331114
+[271]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331118
+[272]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331121
+[273]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM319999
+[274]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM180448
+[275]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM182427
+[276]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM175958
+[277]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM183661
+[278]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326910
+[279]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326911
+[280]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326915
+[281]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331131
+[282]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320639
+[283]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331147
+[284]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM356731
+[285]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320630
+[286]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM160808
+[287]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326921
+[288]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326932
+[289]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320119
+[290]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320120
+[291]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129507
+[292]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326936
+[293]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326937
+[294]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3041605
+[295]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM25999
+[296]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM139726
+[297]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM325508
+[298]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM126527
+[299]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM383050
+[300]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM15636
+[301]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88540
+[302]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326940
+[303]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM333795
+[304]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326942
+[305]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326943
+[306]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326944
+[307]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320676
+[308]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129566
+[309]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320655
+[310]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM129571
+[311]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326945
+[312]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM98036
+[313]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320841
+[314]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM64784
+[315]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320805
+[316]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320643
+[317]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320629
+[318]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326946
+[319]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326947
+[320]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320671
+[321]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320673
+[322]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320699
+[323]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326950
+[324]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326951
+[325]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326952
+[326]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5466801
+[327]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326953
+[328]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326954
+[329]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326955
+[330]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326956
+[331]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326957
+[332]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326958
+[333]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326959
+[334]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326960
+[335]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326961
+[336]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326962
+[337]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM130334
+[338]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326964
+[339]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326966
+[340]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM431204
+[341]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162492
+[342]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326967
+[343]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328753
+[344]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328755
+[345]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM328730
+[346]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326968
+[347]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM160819
+[348]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM26805
+[349]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM182904
+[350]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM324804
+[351]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM199370
+[352]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM367767
+[353]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM27268
+[354]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3701759
+[355]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162434
+[356]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162438
+[357]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161601
+[358]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162449
+[359]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326969
+[360]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162446
+[361]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162455
+[362]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326970
+[363]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326971
+[364]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM321118
+[365]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161643
+[366]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320806
+[367]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162017
+[368]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM320874
+[369]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM348342
+[370]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163146
+[371]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163147
+[372]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3360714
+[373]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998573
+[374]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998633
+[375]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88925
+[376]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM161649
+[377]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM162737
+[378]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM163141
+[379]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM145736
+[380]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM324218
+[381]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390002
+[382]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM446000
+[383]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM327268
+[384]: http://www.legislation.govt.nz/act/public/2004/0115/latest/whole.html#DLM331149
+[385]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM180157
+[386]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326972
+[387]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM286506
+[388]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM315518
+[389]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326974
+[390]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326902
+[391]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5331001
+[392]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326992
+[393]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4732765
+[394]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3612398
+[395]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484121
+[396]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2634629
+[397]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3366997
+[398]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3431046
+[399]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484110
+[400]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2901049
+[401]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1313622
+[402]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3143015
+[403]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM322600
+[404]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1244216
+[405]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1152186
+[406]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM348477
+[407]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484647
+[408]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM4484313
+[409]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3231793
+[410]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3104343
+[411]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM967974
+[412]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390404
+[413]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5314106
+[414]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2540010
+[415]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM430983
+[416]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM327381
+[417]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326975
+[418]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM184698
+[419]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5326976
+[420]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM439978
+[421]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM330197
+[422]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM157455
+[423]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM392928
+[424]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM230455
+[425]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM147094
+[426]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM214692
+[427]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM87631
+[428]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213500
+[429]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM264297
+[430]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM109554
+[431]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM305973
+[432]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM187936
+[433]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM308102
+[434]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM281866
+[435]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM315142
+[436]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM428211
+[437]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM54993
+[438]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM96444
+[439]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM236111
+[440]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM313843
+[441]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM432653
+[442]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM443563
+[443]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213904
+[444]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM209730
+[445]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM446007
+[446]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM383100
+[447]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM333589
+[448]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM213022
+[449]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM300516
+[450]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM411841
+[451]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM96736
+[452]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM269896
+[453]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM304217
+[454]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1184504
+[455]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM100103
+[456]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM433619
+[457]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM226238
+[458]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM85589
+[459]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM71814
+[460]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM124146
+[461]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM336234
+[462]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM424149
+[463]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM260209
+[464]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM390273
+[465]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM22645
+[466]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM80059
+[467]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM332934
+[468]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM113939
+[469]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM242838
+[470]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM249332
+[471]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM197085
+[472]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM64790
+[473]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM126236
+[474]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM296645
+[475]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM88974
+[476]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM123406
+[477]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM368580
+[478]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM15697
+[479]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM223196
+[480]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM204552
+[481]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM190283
+[482]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM157125
+[483]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM128144
+[484]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM325516
+[485]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM125747
+[486]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM183343
+[487]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM407524
+[488]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM219779
+[489]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998516
+[490]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998515
+[491]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2998532
+[492]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[493]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5314100
+[494]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM5331000
+[495]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM3041600
+[496]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM2540004
+[497]: http://www.legislation.govt.nz/act/public/2004/0115/latest/link.aspx?id=DLM1462206
