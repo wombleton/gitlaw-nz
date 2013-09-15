@@ -1,7 +1,7 @@
 Reprint  
-as at 1 April 2004
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Anzac Day Act 1966Public Act1966 No 44
 
@@ -13,9 +13,9 @@ Commencement14 October 1966
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Culture and Heritage.
 
@@ -25,17 +25,17 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Anzac Day to be a day of commemoration][3]
+[2][3][][3][Anzac Day to be a day of commemoration][3]
 
-[3][4] [Observance of Anzac Day][4]
+[3][4][][4][Observance of Anzac Day][4]
 
-[4][5] [Application to terms of employment][5] \[Repealed\]
+[4][5][][5][Application to terms of employment][5] \[Repealed\]
 
-[5][6] [Anzac Day trusts][6]
+[5][6][][6][Anzac Day trusts][6]
 
-[6][7] [Repeal][7]
+[6][7][][7][Repeal][7]
 
 ---
 
@@ -63,9 +63,11 @@ An Act to make provision regarding the observance of Anzac Day
     
     (2) The Governor-General may from time to time, by Order in Council, amend subsection (1) by adding to the list of conflicts referred to in that subsection.
     
-    (3) Every Order in Council made under subsection (2) shall be deemed to be a regulation for the purpose of the [Regulations (Disallowance) Act 1989][8].
+    (3) An Order in Council made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][8] and must be presented to the House of Representatives under [section 41][9] of that Act.
     
     Section 2: substituted, on 2 September 1996, by section 2 of the Anzac Day Amendment Act 1996 (1996 No 107).
+    
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][10] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Observance of Anzac Day
     
@@ -75,13 +77,13 @@ An Act to make provision regarding the observance of Anzac Day
     
     Compare: 1949 No 15 s 2
     
-    Section 3(2): amended, on 1 August 1990, by [section 6(2)][9] of the Shop Trading Hours Act Repeal Act 1990 (1990 No 57).
+    Section 3(2): amended, on 1 August 1990, by [section 6(2)][11] of the Shop Trading Hours Act Repeal Act 1990 (1990 No 57).
 
 ##### 4 Application to terms of employment
     
 *   \[Repealed\]
     
-    Section 4: repealed, on 1 April 2004, by [section 91(1)][10] of the Holidays Act 2003 (2003 No 129).
+    Section 4: repealed, on 1 April 2004, by [section 91(1)][12] of the Holidays Act 2003 (2003 No 129).
 
 ##### 5 Anzac Day trusts
     
@@ -99,78 +101,37 @@ An Act to make provision regarding the observance of Anzac Day
     
 *   The Anzac Day Act 1949 is hereby consequentially repealed.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Anzac Day Act 1966\. The reprint incorporates all the amendments to the Act as at 1 April 2004, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Anzac Day Act 1966 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][11] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][13] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][14] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][15] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][16] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][12] and [17E][13] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][10]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Holidays Act 2003 (2003 No 129): [section 91(1)][10]
+    Holidays Act 2003 (2003 No 129): [section 91(1)][12]
     
     Anzac Day Amendment Act 1996 (1996 No 107)
     
-    Shop Trading Hours Act Repeal Act 1990 (1990 No 57): [section 6(2)][9]
+    Shop Trading Hours Act Repeal Act 1990 (1990 No 57): [section 6(2)][11]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379808
 [2]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379810
 [3]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379811
@@ -178,9 +139,12 @@ An Act to make provision regarding the observance of Anzac Day
 [5]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379816
 [6]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379821
 [7]: http://www.legislation.govt.nz/act/public/1966/0044/latest/whole.html#DLM379822
-[8]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM195534
-[9]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM212369
-[10]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM237502
-[11]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM195439
-[12]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM195468
-[13]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM195470
+[8]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2997643
+[9]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998573
+[10]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998633
+[11]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM212369
+[12]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM237502
+[13]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998516
+[14]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998515
+[15]: http://www.legislation.govt.nz/act/public/1966/0044/latest/link.aspx?id=DLM2998532
+[16]: http://www.pco.parliament.govt.nz/editorial-conventions/
