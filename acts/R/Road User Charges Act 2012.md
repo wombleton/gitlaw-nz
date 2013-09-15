@@ -1,5 +1,5 @@
 Reprint  
-as at 28 February 2013
+as at 1 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -2677,182 +2677,6 @@ Item relating to distance record in Part 4---Using the logbook form: omit ""Hubo
 
 ---
 
-# Road User Charges (Transitional Matters) Regulations 2012
-
-(SR 2012/145)
-
-Jerry Mateparae, Governor-General
-
-## Order in Council
-
-At Wellington this 11th day of June 2012
-
-Present:  
-His Excellency the Governor-General in Council
-
-Pursuant to section 90(1)(a), (b), and (c) of the Road User Charges Act 2012, His Excellency the Governor-General, acting on the advice and with the consent of the Executive Council, makes the following regulations.
-
-### Regulations
-
-##### 1 Title
-    
-*   These regulations are the [Road User Charges (Transitional Matters) Regulations 2012][248].
-
-##### 2 Commencement
-    
-*   These regulations come into force on 1 August 2012\.
-
-##### 3 Expiry
-    
-*   These regulations expire and are deemed to be revoked with the close of 31 July 2013\.
-
-##### 4 Interpretation
-    
-*   In these regulations,---
-    
-    _Act_ means the Road User Charges Act 2012
-    
-    _former Act_ means the Road User Charges Act 1977\.
-
-##### 5 Modifications to section 5(1) of Act
-    
-*   (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 July 2013\.
-    
-    (2) During that transitional period, section 5(1) of the Act must be read as if it were modified in the manner set out in the rest of this regulation.
-    
-    (3) _\[Revoked\]_
-    
-    (4) _\[Revoked\]_
-    
-    (5) Section 5(1) is modified by inserting in their appropriate alphabetical order:
-    
-    > "_road controlling authority_ has the same meaning as in section 2(1) of the Land Transport Act 1998
-    > 
-    > "_trade plate_ has the same meaning as in section 233(1) of the Land Transport Act 1998".
-    
-    Regulation 5(3): revoked, on 28 February 2013, by the [Notice in relation to Notice of Motion to Disallow Regulations 5(3), 5(4), and 8 of the Road User Charges (Transitional Matters) Regulations 2012][249] (SR 2013/32).
-    
-    Regulation 5(4): revoked, on 28 February 2013, by the [Notice in relation to Notice of Motion to Disallow Regulations 5(3), 5(4), and 8 of the Road User Charges (Transitional Matters) Regulations 2012][249] (SR 2013/32).
-
-##### 6 Modification to section 96 of Act
-    
-*   (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 August 2012\.
-    
-    (2) During that transitional period, section 96 of the Act must be read as if the following subsection were inserted after subsection (2):
-    
-    > *   "(2A) On and from the commencement of section 17 of this Act, a supplementary licence issued under section 10 of the former Act and in force immediately before that commencement---
-    >         
-    >     *   "(a) continues in force until the close of 31 August 2012; and
-    >     
-    >     *   "(b) must be treated as if it were issued under section 17\."
-    >     
-    >     
-    > 
-    > 
-    
-    
-
-##### 7 Transitional and savings provision relating to exemption granted in respect of heavy vehicles
-    
-*   (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 31 August 2012\.
-    
-    (2) During that transitional period, the Act must be read as if the following section were inserted after section 97:
-    
-    > ##### "97A Transitional and savings provision relating to exemption granted in respect of heavy vehicles 
-    >     
-    > *   Despite the commencement of Part 2 of this Act, an exemption in respect of a heavy motor vehicle granted under section 4(c) of the former Act and that applies immediately before that commencement--- 
-    >         
-    >     *   "(a) continues to apply until the close of 31 August 2012; and
-    >     
-    >     *   "(b) the heavy motor vehicle must, during the period for which the exemption continues to apply, be treated as if it were an exempt vehicle within the meaning of that term in section 5(1) of the Act."
-    >     
-    >     
-    > 
-    > 
-    
-    
-
-##### 9 Transitional and savings provision relating to exemption granted in respect of hubodometers
-    
-*   (1) This regulation applies during the transitional period beginning on 1 August 2012 and ending with the close of 30 June 2013\.
-    
-    (2) During the transitional period, the Act must be read as if the following section were inserted after section 97B (as inserted by the modification in regulation 8):
-    
-    > ##### "97C Transitional and savings provision relating to exemption granted in respect of hubodometers
-    >     
-    > *   Despite the commencement of section 8 of the Act, a notice given by the Secretary under regulation 6(6)(a) of the Road User Charges Regulations 1978 that a RUC vehicle need not be fitted with a hubodometer continues in force until the close of 30 June 2013\."
-    > 
-    > 
-    
-    
-
-Michael Webster,  
-for Clerk of the Executive Council.
-
-Date of notification in _Gazette_: 14 June 2012\.
-
----
-
-# Road User Charges (Transitional Exemption for Certain Farmers' Vehicles) Regulations 2013
-
-(SR 2013/10)
-
-Jerry Mateparae, Governor-General
-
-## Order in Council
-
-At Wellington this 25th day of February 2013
-
-Present:  
-His Excellency the Governor-General in Council
-
-Pursuant to section 90(1)(a), (b), and (c) of the Road User Charges Act 2012, His Excellency the Governor-General, acting on the advice and with the consent of the Executive Council, makes the following regulations.
-
-### Regulations
-
-##### 1 Title
-    
-*   These regulations are the [Road User Charges (Transitional Exemption for Certain Farmers' Vehicles) Regulations 2013][250].
-
-##### 2 Commencement
-    
-*   These regulations come into force on 28 February 2013\.
-
-##### 3 Expiry and revocation
-    
-*   These regulations expire and are revoked on the close of 30 June 2013\.
-
-##### 4 Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
-    
-*   (1) This regulation applies during the transitional period beginning on 28 February 2013 and ending with the close of 30 June 2013\.
-    
-    (2) During that transitional period, the Road User Charges Act 2012 must be read as if the following section were inserted after section 97A:
-    
-    > ##### "97B Transitional and savings provision relating to exemption granted in respect of certain farmers' vehicles
-    >     
-    > *   "(1) Despite the commencement of Part 2 of this Act, the exemption in respect of farmers' vehicles used on the road only in connection with agricultural operations granted under section 4(c) of the Road User Charges Act 1977---
-    >         
-    >     *   "(a) continues to apply in respect of light RUC vehicles until the close of 30 June 2013; and
-    >     
-    >     *   "(b) light RUC vehicles to which the exemption applies must, during the period for which the exemption continues to apply, be treated as if they were an exempt vehicle within the meaning of that term in section 5(1) of the Act.
-    >     
-    >     "(2) In subsection (1),---
-    >     
-    >     "_agricultural operation_ has the same meaning as in regulation 3(1) of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004
-    >     
-    >     "_farmers' vehicles used on the road only in connection with agricultural operations_ means vehicles of the kind described in item 2 of the Schedule of the Land Transport Management (Apportionment and Refund of Excise Duty and Excise-Equivalent Duty) Regulations 2004\."
-    > 
-    > 
-    
-    
-
-Michael Webster,  
-for Clerk of the Executive Council.
-
-Date of notification in _Gazette_: 26 February 2013\.
-
----
-
 #### Contents
     
 *   1General
@@ -2867,23 +2691,23 @@ Date of notification in _Gazette_: 26 February 2013\.
 
 ###### 1 General
     
-*   This is a reprint of the Road User Charges Act 2012\. The reprint incorporates all the amendments to the Act as at 28 February 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Road User Charges Act 2012\. The reprint incorporates all the amendments to the Act as at 1 August 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][251] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][248] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][252] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][249] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][253] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][250] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][254] and [17E][255] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][251] and [17E][252] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2914,11 +2738,7 @@ Date of notification in _Gazette_: 26 February 2013\.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Road User Charges (Transitional Exemption for Certain Farmers' Vehicles) Regulations 2013][250] (SR 2013/10)
-    
-    [Road User Charges (Transitional Matters) Regulations 2012][248] (SR 2012/145)
-    
-    [Road User Charges Act Commencement Order 2012][256] (SR 2012/137)
+*   [Road User Charges Act Commencement Order 2012][253] (SR 2012/137)
 
 
 
@@ -3170,12 +2990,9 @@ Date of notification in _Gazette_: 26 February 2013\.
 [245]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM1271232
 [246]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276771
 [247]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM276777
-[248]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM4502744
-[249]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM5049900
-[250]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM5030200
-[251]: http://www.pco.parliament.govt.nz/reprints/
-[252]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195439
-[253]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[254]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195468
-[255]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195470
-[256]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM4503806
+[248]: http://www.pco.parliament.govt.nz/reprints/
+[249]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195439
+[250]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[251]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195468
+[252]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM195470
+[253]: http://www.legislation.govt.nz/act/public/2012/0001/latest/link.aspx?id=DLM4503806
