@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,19 +13,17 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Department of Labour.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[Title][1]
-
-\[Repealed\]
+[Title][1] \[Repealed\]
 
 [1][2][][2][Short Title and commencement][2]
 
@@ -352,22 +350,18 @@ This Act is administered by the Department of Labour.
 
 [75][159][][159][Consequential amendments][159] \[Repealed\]
 
-[][160]
+[76][160][][160][Transitional provisions][160]
 
-[76][161][][161][Transitional provisions][161]
+[77][161][][161][Savings provisions][161]
 
-[77][162][][162][Savings provisions][162]
-
-[Schedule][163]  
-[Change of employer][163]
+[Schedule][162]  
+[Change of employer][162]
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
-*   Title: repealed, on 1 July 2006, by [section 6][164] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Title: repealed, on 1 July 2006, by [section 6][163] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 1 Short Title and commencement
     
@@ -385,11 +379,11 @@ Title
     
     *   (c) entitle certain employees and self-employed persons to up to 14 weeks of paid parental leave.
     
-    Section 1A: inserted, on 1 July 2006, by [section 7][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 1A: inserted, on 1 July 2006, by [section 7][164] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 #### Interpretation
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 2 Interpretation
     
@@ -397,19 +391,19 @@ Title
     
     _chief executive_ means the chief executive of the department
     
-    _company_ has the same meaning as in the Companies Act 1955 or the [Companies Act 1993][167], as the case may be; and includes an overseas company within the meaning of the Companies Act 1993
+    _company_ has the same meaning as in the Companies Act 1955 or the [Companies Act 1993][166], as the case may be; and includes an overseas company within the meaning of the Companies Act 1993
     
-    _court_ means the Employment Court constituted under the [Employment Relations Act 2000][168]
+    _court_ means the Employment Court constituted under the [Employment Relations Act 2000][167]
     
     _department_ means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
-    _employee_ has the meaning given in [section 5][169] of the Employment Relations Act 2000
+    _employee_ has the meaning given in [section 5][168] of the Employment Relations Act 2000
     
     _employer_ means any person employing any employee or employees
     
-    _employment agreement_ has the meaning given to that term in [section 5][169] of the Employment Relations Act 2000 and, for the avoidance of doubt, includes any employment contract that continues in force under [section 242][170] of the Employment Relations Act 2000
+    _employment agreement_ has the meaning given to that term in [section 5][168] of the Employment Relations Act 2000 and, for the avoidance of doubt, includes any employment contract that continues in force under [section 242][169] of the Employment Relations Act 2000
     
-    _Employment Relations Authority_ means the Employment Relations Authority established under the [Employment Relations Act 2000][168]
+    _Employment Relations Authority_ means the Employment Relations Authority established under the [Employment Relations Act 2000][167]
     
     _expected date of delivery_, in respect of a pregnant woman, means the date certified in writing by a medical practitioner or midwife as being the date on which that medical practitioner or midwife diagnoses that the pregnant woman may give birth to a child
     
@@ -437,9 +431,9 @@ Title
         
         
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][171] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][170] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
     
-    _midwife_ means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by [section 114(3)][171] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
+    _midwife_ means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by [section 114(3)][170] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
     
@@ -491,9 +485,9 @@ Title
     
     _spouse_ means a husband or wife
     
-    _union_ means a union registered under the [Employment Relations Act 2000][168].
+    _union_ means a union registered under the [Employment Relations Act 2000][167].
     
-    (2) Where it is necessary, for the purpose of applying any of the provisions of [sections 7(b)][19], [8(1)(b)][20], [17(c)][30], [18(1)(b)][31], [23(b)][40], [24(1)(b)][41], and [43][63], to ascertain, in relation to any of the circumstances mentioned in [clauses 1 to 5][172] of the Schedule,---
+    (2) Where it is necessary, for the purpose of applying any of the provisions of [sections 7(b)][19], [8(1)(b)][20], [17(c)][30], [18(1)(b)][31], [23(b)][40], [24(1)(b)][41], and [43][63], to ascertain, in relation to any of the circumstances mentioned in [clauses 1 to 5][171] of the Schedule,---
         
     *   (a) whether any employee has remained in the employment of the same employer during any period of time; or
     
@@ -507,81 +501,81 @@ Title
     
     Section 2(1): substituted, on 15 May 1991, by section 2(1) of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
     
-    Section 2(1) **chief executive**: inserted, on 1 July 2002, by [section 7(4)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **chief executive**: inserted, on 1 July 2002, by [section 7(4)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **company**: substituted, on 1 July 1994, by [section 2][174] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 2(1) **company**: substituted, on 1 July 1994, by [section 2][173] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 2(1) **contract of employment**: repealed, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **contract of employment**: repealed, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **court**: substituted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 2(1) **court**: substituted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 2(1) **department**: inserted, on 1 July 2002, by [section 7(4)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **department**: inserted, on 1 July 2002, by [section 7(4)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **employee**: substituted, on 1 July 2002, by [section 7(1)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **employee**: substituted, on 1 July 2002, by [section 7(1)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **employment agreement**: inserted, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **employment agreement**: inserted, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **Employment Relations Authority**: inserted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 2(1) **Employment Relations Authority**: inserted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 2(1) **Employment Tribunal**: repealed, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 2(1) **Employment Tribunal**: repealed, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 2(1) **expected date of delivery**: substituted, on 1 July 2002, by [section 10][177] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **expected date of delivery**: substituted, on 1 July 2002, by [section 10][176] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **extended leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **extended leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **extended leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **extended leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **maternity leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **maternity leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **maternity leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **maternity leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **midwife**: substituted, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **midwife**: substituted, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Minister**: inserted, on 1 July 2002, by [section 7(4)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **Minister**: inserted, on 1 July 2002, by [section 7(4)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **parental leave** paragraph (a): substituted, on 1 July 2006, by [section 8(1)][179] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2(1) **parental leave** paragraph (a): substituted, on 1 July 2006, by [section 8(1)][178] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 2(1) **parental leave** paragraph (ab): inserted, on 1 July 2006, by [section 8(1)][179] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2(1) **parental leave** paragraph (ab): inserted, on 1 July 2006, by [section 8(1)][178] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 2(1) **parental leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **parental leave** paragraph (b): amended, on 1 July 2002, by [section 7(5)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **parental leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **parental leave** paragraph (b)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **partner**: inserted, on 26 April 2005, by [section 3(1)][180] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
+    Section 2(1) **partner**: inserted, on 26 April 2005, by [section 3(1)][179] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 2(1) **partner's/paternity leave**: inserted, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **partner's/paternity leave**: inserted, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **paternity leave**: repealed, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **paternity leave**: repealed, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **self-employed**: inserted, on 1 July 2006, by [section 8(2)][179] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2(1) **self-employed**: inserted, on 1 July 2006, by [section 8(2)][178] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 2(1) **self-employed person**: inserted, on 1 July 2006, by [section 8(2)][179] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2(1) **self-employed person**: inserted, on 1 July 2006, by [section 8(2)][178] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 2(1) **spouse**: substituted, on 26 April 2005, by [section 3(2)][180] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
+    Section 2(1) **spouse**: substituted, on 26 April 2005, by [section 3(2)][179] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 2(1) **State employee**: repealed, on 1 July 2002, by [section 14(3)][182] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **State employee**: repealed, on 1 July 2002, by [section 14(3)][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **State services**: repealed, on 1 July 2002, by [section 14(3)][182] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **State services**: repealed, on 1 July 2002, by [section 14(3)][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(1) **union**: substituted, on 1 July 2002, by [section 7(3)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(1) **union**: substituted, on 1 July 2002, by [section 7(3)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(3): added, on 1 July 2002, by [section 7(6)][173] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2(3): added, on 1 July 2002, by [section 7(6)][172] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2(3): amended, on 1 December 2004, by [section 6][183] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
+    Section 2(3): amended, on 1 December 2004, by [section 6][182] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
 
 ##### 2A Multiple employments generally
     
 *   An employee's entitlement to rights and benefits in respect of parental leave and parental leave payment must be determined by treating each of the employee's employments separately, if the employee has more than 1 employment.
     
-    Section 2A: inserted, on 1 July 2002, by [section 8(1)][184] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2A: inserted, on 1 July 2002, by [section 8(1)][183] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 2A heading: amended, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2A heading: amended, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 2A heading: amended, on 1 December 2004, by [section 7][185] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
+    Section 2A heading: amended, on 1 December 2004, by [section 7][184] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 2A: amended, on 1 July 2006, by [section 9][186] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2A: amended, on 1 July 2006, by [section 9][185] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 2AB Multiple employments of certain medical practitioners
     
@@ -593,17 +587,19 @@ Title
     
     (2) For the purposes of determining the entitlement of a medical practitioner to whom this section applies to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period, as the case may be), the medical practitioner is employed by more than 1 district health board consecutively, those employments must be treated as 1 employment.
     
-    (3) A notice published under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][187] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][188].
+    (3) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][186] and must be presented to the House of Representatives under [section 41][187] of that Act.
     
     (4) This section overrides [section 2A][6].
     
-    Section 2AB: inserted, on 9 November 2004, by [section 8][189] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
+    Section 2AB: inserted, on 9 November 2004, by [section 8][188] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 2AB heading: amended, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2AB heading: amended, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    
+    Section 2AB(3): replaced, on 5 August 2013, by [section 77(3)][189] of the Legislation Act 2012 (2012 No 119).
 
 ##### 2AC Multiple employments of teachers
     
-*   (1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 Board of Trustees to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
+*   (1) For the purposes of determining the entitlement of a teacher to rights and benefits in respect of parental leave and parental leave payment, if, during a 12-month period (or 6-month period as the case may be), the teacher is employed by more than 1 board of trustees to work in more than 1 State school or integrated school (whether concurrently or consecutively), those employments must be treated as 1 employment.
     
     (2) In subsection (1),---
     
@@ -617,9 +613,9 @@ Title
     
     (3) This section overrides [section 2A][6].
     
-    Section 2AC: inserted, on 9 November 2004, by [section 8][189] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
+    Section 2AC: inserted, on 9 November 2004, by [section 8][188] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 2AC heading: amended, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 2AC heading: amended, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 2AD Concurrent employment and self-employment
     
@@ -643,7 +639,7 @@ Title
     
     (3) In the case of adoption, a person who assumes (with a view to adoption by that person or by that person and that person's spouse or partner jointly) the care of 2 or more children within 1 month is treated as if the person had assumed the care of only the youngest of those children within that month.
     
-    Section 2B: inserted, on 1 July 2002, by [section 8(1)][184] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 2B: inserted, on 1 July 2002, by [section 8(1)][183] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 2B heading: amended, on 1 July 2006, by [section 11(1)][195] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
@@ -655,7 +651,7 @@ Title
 
 #### Application of Act
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 3 Act to bind the Crown
     
@@ -691,7 +687,7 @@ Title
 
 #### Restrictions on parental leave
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 5 Restriction on parental leave under this Act where employee or employee's spouse or partner takes parental leave under any other provision
     
@@ -701,9 +697,9 @@ Title
     
     Section 5: amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 5: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 5: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 5: amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 5: amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 5: amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -723,7 +719,7 @@ Title
     
     Section 6 heading: amended, on 1 July 2006, by [section 12(1)][199] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 6(a)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 6(a)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 6(a)(ii): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
     
@@ -794,7 +790,7 @@ Maternity leave
     
     Section 8(1)(b): substituted, on 1 December 2004, by [section 10][202] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 8(2)(b): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 8(2)(b): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 8(2)(b): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -816,7 +812,7 @@ Maternity leave
     
     Section 9(1): substituted, on 1 December 2005, by [section 28(1)][203] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 9(2)(a): amended, on 1 July 2002, by [section 10][177] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 9(2)(a): amended, on 1 July 2002, by [section 10][176] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 9(3): substituted, on 1 December 2004, by [section 11(2)][204] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
@@ -870,9 +866,9 @@ Maternity leave
     
     *   (b) the date of confinement.
     
-    Section 13: substituted, on 1 July 2002, by [section 10][177] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 13: substituted, on 1 July 2002, by [section 10][176] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 13(1): amended, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 13(1): amended, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 14 Right of employer to appoint date of commencement of maternity leave
     
@@ -899,7 +895,7 @@ Maternity leave
 ## Part 2  
 Partner's/paternity leave
     
-*   Part 2 heading: substituted, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+*   Part 2 heading: substituted, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 17 Entitlement of employee to partner's/paternity leave
     
@@ -919,9 +915,9 @@ Partner's/paternity leave
     
     shall be entitled to partner's/paternity leave in accordance with this Act.
     
-    Section 17 heading: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 17 heading: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 17: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 17: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 17(a): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
@@ -949,25 +945,23 @@ Partner's/paternity leave
     
     *   (b) a period of leave in the nature of partner's/paternity leave under any Act other than this Act, or any employment agreement.
     
-    Section 18 heading: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18 heading: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 18: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
-    
-    Section 18(1): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18(1): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 18(1)(a): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 18(1)(a): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7) .
+    Section 18(1)(a): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7) .
     
     Section 18(1)(b): substituted, on 1 December 2004, by [section 13][206] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 18(2): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18(2): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 18(2)(a): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18(2)(a): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 18(2)(b): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18(2)(b): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 18(2)(b): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 18(2)(b): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 18(2)(b): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -1005,7 +999,7 @@ Partner's/paternity leave
     
     Section 19A: inserted, on 1 December 2004, by [section 14][207] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
-    Section 19A heading: amended, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 19A heading: amended, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
     Section 19A(1)(b): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
@@ -1053,15 +1047,15 @@ Partner's/paternity leave
     
     *   (c) on such earlier or later date as is determined in accordance with [section 21][37] or [section 22][38].
     
-    Section 20 heading: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 20 heading: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 20: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 20: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 20(a): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
     Section 20(b): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 20(b): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 20(b): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 21 Right of employee to determine date of commencement of partner's/paternity leave
     
@@ -1077,17 +1071,17 @@ Partner's/paternity leave
     
     *   (b) in the case of adoption, on any date in the period beginning on the 21st day before the date applicable under [section 18(1)(b)][31] and ending with the close of the 21st day after the date so applicable.
     
-    Section 21 heading: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 21 heading: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 21: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 21: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 22 Right of employer and employee to determine date of commencement of partner's/paternity leave by agreement
     
 *   Partner's/paternity leave may, by agreement between the employee and his or her employer, begin on any date.
     
-    Section 22 heading: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 22 heading: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 22: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 22: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ## Part 3  
 Extended leave
@@ -1132,7 +1126,7 @@ Extended leave
     
     Section 24(1)(b): amended, on 1 July 2002, by [section 11][211] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 24(2)(b): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 24(2)(b): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 24(2)(b): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -1140,7 +1134,7 @@ Extended leave
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 July 2002, by [section 8(2)][184] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 25: repealed, on 1 July 2002, by [section 8(2)][183] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 26 Duration of extended leave
     
@@ -1206,7 +1200,7 @@ Extended leave
     
     Section 28: amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 28: amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 28: amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 29 Date of commencement of extended leave
     
@@ -1234,15 +1228,15 @@ Extended leave
     
     *   (e) on such other date as may be agreed on by the employee and that employee's employer.
     
-    Section 29(b): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 29(b): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 29(b)(i): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 29(c): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 29(c): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 29(d): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 29(d): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 29(d): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 30 Termination of extended leave
     
@@ -1287,21 +1281,23 @@ Requirements concerning notice
     
     Compare: 1980 No 162 s 14(1), (3)
     
-    Section 31(3)(b): amended, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 31(3)(b): amended, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 31(3)(b): amended, on 1 July 2002, by [section 10][177] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 31(3)(b): amended, on 1 July 2002, by [section 10][176] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 31(3)(b): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 31(3)(b): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 31(3)(c): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 31(3)(c): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 31(3)(c): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 31(3)(c)(i): amended, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 31(3)(c)(i): amended, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 31(3)(c)(i): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 31(3)(c)(i): amended, on 1 July 2002, by [section 10][176] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 31(3)(c)(ii): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 31(3)(c)(ii): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
+    
+    Section 31(3)(c)(ii): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 32 Requirements where extended leave sought
     
@@ -1331,7 +1327,7 @@ Requirements concerning notice
     
     Section 32(b): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 32(c): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 32(c): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 32(c): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
     
@@ -1339,9 +1335,9 @@ Requirements concerning notice
     
     Section 32(d)(ii): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 32(d)(ii): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 32(d)(ii): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 32(d)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 32(d)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 32(d)(ii): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -1568,7 +1564,7 @@ Rights and obligations after commencement of parental leave
     
     Compare: 1980 No 162 s 22
     
-    Section 43(b)(i): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 43(b)(i): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 44 Contributions to superannuation schemes
     
@@ -1630,7 +1626,7 @@ Rights and obligations after commencement of parental leave
     
     Section 45(1)(c): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 45(2): amended, on 18 September 2004, by [section 175(1)][178] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 45(2): amended, on 18 September 2004, by [section 175(1)][177] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
     Section 45(4)(b): substituted, on 1 December 2004, by [section 16][221] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
@@ -1638,9 +1634,9 @@ Rights and obligations after commencement of parental leave
     
     Section 45(4)(c)(ii): amended, on 26 April 2005, by [section 8][197] of the Parental Leave and Employment Protection Amendment Act 2005 (2005 No 18).
     
-    Section 45(4)(c)(ii): amended, on 1 July 2002, by [section 21][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 45(4)(c)(ii): amended, on 1 July 2002, by [section 21][180] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 45(4)(c)(ii): amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 45(4)(c)(ii): amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 45(4)(c)(ii): amended, on 15 May 1991, by section 3 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
     
@@ -1771,7 +1767,7 @@ Protection of employment
     
     Compare: 1980 No 162 s 31
     
-    Section 53: amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 53: amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 53: amended, on 15 May 1991, by section 4 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
 
@@ -1816,13 +1812,13 @@ Remedies available to employees
     
     Section 55: substituted, on 15 May 1991, by section 5 of the Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28).
     
-    Section 55(1): amended, on 1 July 2002, by [section 14(1)][182] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 55(1): amended, on 1 July 2002, by [section 14(1)][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 55(1): amended, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 55(1): amended, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 55(3): amended, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 55(3): amended, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
     
-    Section 55(4): amended, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 55(4): amended, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 56 Parental leave complaints
     
@@ -1860,11 +1856,11 @@ Remedies available to employees
     
     Compare: 1980 No 162 s 34
     
-    Section 56(1): amended, on 1 July 2002, by [section 14(2)][182] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 56(1): amended, on 1 July 2002, by [section 14(2)][181] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 56(1)(c): substituted, on 1 July 2002, by [section 15][224] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 56(4): substituted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 56(4): substituted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 57 Procedures for settlement of parental leave complaints
     
@@ -1896,13 +1892,13 @@ Remedies available to employees
     
     *   (c) such other matters as the Employment Relations Authority thinks fit.
     
-    Section 58: substituted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 58: substituted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 59 Role of institutions
     
 *   Where any parental leave complaint comes before the Employment Relations Authority, [sections 177 to 184][225] of the Employment Relations Act 2000 apply in relation to that parental leave complaint and [sections 214][226] and [215][227] of that Act apply in relation to appeals to the Court of Appeal.
     
-    Section 59: substituted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 59: substituted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 60 Decisions
     
@@ -1956,7 +1952,7 @@ Remedies available to employees
     
 *   Where the remedy of reinstatement is provided by the Employment Relations Authority or the Employment Court, the employee must be reinstated immediately or on such date as is specified by the Employment Relations Authority or the Employment Court and, despite any appeal against the determination of the Employment Relations Authority or the Employment Court, the provisions for reinstatement remain in full force pending the determination of the appeal.
     
-    Section 66: substituted, on 2 October 2000, by [section 240][176] of the Employment Relations Act 2000 (2000 No 24).
+    Section 66: substituted, on 2 October 2000, by [section 240][175] of the Employment Relations Act 2000 (2000 No 24).
 
 ##### 67 Power to refer complaint to Labour Court
     
@@ -2015,7 +2011,7 @@ Remedies available to employees
 #### Role of Labour Inspectors in relation to employees
     
 *   Heading: inserted, on 1 July 2002, by [section 18][232] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
-*   Heading: amended, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: amended, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 70A Labour Inspectors may make determinations in respect of employees
     
@@ -2139,7 +2135,7 @@ Remedies available to employees
 
 #### State employees
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 71 Procedures available to State employees
     
@@ -2186,7 +2182,7 @@ Payment for parental leave
 
 #### Interpretation
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 71C Interpretation of this Part
     
@@ -2238,7 +2234,7 @@ Payment for parental leave
     
     Section 71C **net income**: inserted, on 1 July 2006, by [section 22(1)][245] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 71C **net income**: amended (effective for 2008--09 income year and later income years, except when the context requires otherwise), on 1 April 2008, by [section ZA 2(1)][246] of the Income Tax Act 2007 (2007 No 97).
+    Section 71C **net income**: amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][246] of the Income Tax Act 2007 (2007 No 97).
     
     Section 71C **ordinary weekly pay**: inserted, on 1 July 2006, by [section 22(1)][245] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
@@ -2479,7 +2475,7 @@ Payment for parental leave
 
 #### Applications for parental leave payment
     
-*   Heading: inserted, on 1 July 2006, by [section 46][166] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+*   Heading: inserted, on 1 July 2006, by [section 46][165] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 71I Applications for payment
     
@@ -2723,7 +2719,7 @@ Payment for parental leave
     
     (2) An employer must not, without the agreement of the employee, reduce any other entitlement that the employee may have under the terms of any employment agreement because of the employee's entitlement to a payment under this Part.
     
-    (3) An employer who fails to comply with this section is liable to a penalty imposed by the Employment Relations Authority under the [Employment Relations Act 2000][168] in respect of each employee to whom the purported reduction applies.
+    (3) An employer who fails to comply with this section is liable to a penalty imposed by the Employment Relations Authority under the [Employment Relations Act 2000][167] in respect of each employee to whom the purported reduction applies.
     
     (4) [Sections 133 to 136][273] of the Employment Relations Act 2000 apply with necessary modifications.
     
@@ -2857,9 +2853,9 @@ Payment for parental leave
     
     (2) The purpose is for that person or another person to receive or to continue to receive any payment or entitlement under this Part.
     
-    (3) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $5,000\.
+    (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $5,000\.
     
-    (4) An information in respect of an offence against this section may be laid at any time within 6 months after the earlier of---
+    (4) A charging document in respect of an offence against this section may be filed at any time within 6 months after the earlier of---
         
     *   (a) the date when the alleged offence first became known to the department; and
     
@@ -2871,7 +2867,11 @@ Payment for parental leave
     
     Section 71Z(1)(b): amended, on 1 July 2006, by [section 42(1)][281] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
+    Section 71Z(3): amended, on 1 July 2013, by [section 413][282] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 71Z(4): added, on 1 July 2006, by [section 42(2)][281] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    
+    Section 71Z(4): amended, on 1 July 2013, by [section 413][282] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 71ZA Chief executive may delegate
     
@@ -2879,7 +2879,7 @@ Payment for parental leave
     
     (2) The delegation must be in writing.
     
-    (3) [Section 41][282] of the State Sector Act 1988 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
+    (3) [Section 41][283] of the State Sector Act 1988 applies if the delegation is to a chief executive or to an employee (as those terms are defined in that Act).
     
     (4) If the delegation is to another person,---
         
@@ -2891,7 +2891,7 @@ Payment for parental leave
     
     Section 71ZA: inserted, on 1 July 2002, by [section 4(2)][241] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 71ZA(3): amended, on 25 January 2005, by [section 19(1)][283] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 71ZA(3): amended, on 25 January 2005, by [section 19(1)][284] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
 
 ##### 71ZB Review of department's decisions about parental leave payment
     
@@ -2911,7 +2911,7 @@ Payment for parental leave
     
     (4) An application for review under this section may be made in respect of a decision described in subsection (1) that is notified to the employee or self-employed person after the commencement of this section.
     
-    Section 71ZB: inserted, on 1 July 2006, by [section 43][284] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 71ZB: inserted, on 1 July 2006, by [section 43][285] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ## Part 8  
 Miscellaneous provisions
@@ -2926,7 +2926,7 @@ Miscellaneous provisions
     
     (2) \[Repealed\]
     
-    Section 72: substituted, on 1 July 2002, by [section 19(1)][285] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 72: substituted, on 1 July 2002, by [section 19(1)][286] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
     Section 72(1)(b): repealed, on 1 April 2004, by [section 91(2)][219] of the Holidays Act 2003 (2003 No 129).
     
@@ -2948,7 +2948,7 @@ Miscellaneous provisions
     
     *   (c) entitled to a payment of weekly compensation under the [Accident Compensation Act 2001][248] for that hour; or
     
-    *   (d) on volunteers leave (within the meaning of the [Volunteers Employment Protection Act 1973][286]) for that hour; or
+    *   (d) on volunteers leave (within the meaning of the [Volunteers Employment Protection Act 1973][287]) for that hour; or
     
     *   (e) on maternity leave before the expected date of delivery of the child for that hour (except in a case to which [section 6][16] refers); or
     
@@ -2962,13 +2962,13 @@ Miscellaneous provisions
     
     (4) _Week_ means the employee's ordinary working week.
     
-    Section 72A: inserted, on 1 July 2002, by [section 20][287] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 72A: inserted, on 1 July 2002, by [section 20][288] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 72A(1): amended, on 1 December 2004, by [section 22][288] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
+    Section 72A(1): amended, on 1 December 2004, by [section 22][289] of the Parental Leave and Employment Protection Amendment Act 2004 (2004 No 89).
     
     Section 72A(2)(c): amended on 3 March 2010, pursuant to [section 5(1)(b)][249] of the Accident Compensation Amendment Act 2010 (2010 No 1).
     
-    Section 72A(2)(d): substituted, on 1 April 2004, by [section 15][289] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
+    Section 72A(2)(d): substituted, on 1 April 2004, by [section 15][290] of the Volunteers Employment Protection Amendment Act 2004 (2004 No 12).
 
 ##### 72B Succession to spouse's or partner's entitlements
     
@@ -2998,7 +2998,7 @@ Miscellaneous provisions
     
     (4) A succession under this section is treated, for the purpose of [Part 7A][104], as if it were a transfer under [section 71E][118], and that Part applies with necessary modifications.
     
-    Section 72B: inserted, on 1 July 2006, by [section 44][290] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 72B: inserted, on 1 July 2006, by [section 44][291] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 72C Date of succession to spouse's or partner's entitlements
     
@@ -3010,13 +3010,13 @@ Miscellaneous provisions
     
     (2) The first payment of parental leave payment to the spouse or partner includes an amount for the period from the date of succession if the notice to the department referred to in [section 72B(3)][154] is received on or after that date.
     
-    Section 72C: inserted, on 1 July 2006, by [section 44][290] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 72C: inserted, on 1 July 2006, by [section 44][291] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 72D Application of Employment Relations Act 2000 in case of self-employed persons
     
-*   [Part 10][291] of the Employment Relations Act 2000 applies to the extent applicable and with all necessary modifications to an application in respect of a self-employed person made to the Employment Relations Authority or Employment Court under this Act.
+*   [Part 10][292] of the Employment Relations Act 2000 applies to the extent applicable and with all necessary modifications to an application in respect of a self-employed person made to the Employment Relations Authority or Employment Court under this Act.
     
-    Section 72D: inserted, on 1 July 2006, by [section 44][290] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 72D: inserted, on 1 July 2006, by [section 44][291] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
 
 ##### 73 Regulations
     
@@ -3058,29 +3058,29 @@ Miscellaneous provisions
     
     Compare: 1980 No 162 s 48
     
-    Section 73(1)(aa): inserted, on 31 March 2002, by [section 5(1)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(1)(aa): inserted, on 31 March 2002, by [section 5(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(1)(ab): inserted, on 31 March 2002, by [section 5(1)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(1)(ab): inserted, on 31 March 2002, by [section 5(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(1)(aba): inserted, on 17 May 2006, by [section 45(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 73(1)(aba): inserted, on 17 May 2006, by [section 45(1)][294] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 73(1)(ac): inserted, on 31 March 2002, by [section 5(1)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(1)(ac): inserted, on 31 March 2002, by [section 5(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(1)(ad): inserted, on 31 March 2002, by [section 5(1)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(1)(ad): inserted, on 31 March 2002, by [section 5(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(1)(ada): inserted, on 17 May 2006, by [section 45(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
+    Section 73(1)(ada): inserted, on 17 May 2006, by [section 45(2)][294] of the Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006 (2006 No 20).
     
-    Section 73(1)(ae): inserted, on 31 March 2002, by [section 5(1)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(1)(ae): inserted, on 31 March 2002, by [section 5(1)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(2): added, on 31 March 2002, by [section 5(2)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(2): added, on 31 March 2002, by [section 5(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(3): added, on 31 March 2002, by [section 5(2)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(3): added, on 31 March 2002, by [section 5(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(4): added, on 31 March 2002, by [section 5(2)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(4): added, on 31 March 2002, by [section 5(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(5): added, on 31 March 2002, by [section 5(2)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(5): added, on 31 March 2002, by [section 5(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
     
-    Section 73(6): added, on 31 March 2002, by [section 5(2)][292] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Section 73(6): added, on 31 March 2002, by [section 5(2)][293] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
 ##### 74 Repeal
     
@@ -3091,10 +3091,6 @@ Miscellaneous provisions
 *   \[Repealed\]
     
     Section 75: repealed, on 1 April 2004, pursuant to [section 91(1)][219] of the Holidays Act 2003 (2003 No 129).
-
-##### 
-    
-*   
 
 ##### 76 Transitional provisions
     
@@ -3147,9 +3143,7 @@ Change of employer
 
 [s 2(2)][5]
 
-##### 1
-    
-*   If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of this Act),---
+*   1 If a trade or business or an undertaking (whether or not it is an undertaking established by or under an Act) is transferred from one person to another (whether before or after the date of the commencement of this Act),---
         
     *   (a) the period of employment of an employee in the trade or business or undertaking at the time of the transfer shall count as a period of employment with the transferee; and
     
@@ -3159,9 +3153,7 @@ Change of employer
     
     
 
-##### 2
-    
-*   If by or under any Act, whether passed before or after the date of the commencement of this Act, a employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,---
+*   2 If by or under any Act, whether passed before or after the date of the commencement of this Act, a employment agreement between any body corporate and an employee is modified and some other body corporate is substituted as the employer,---
         
     *   (a) the employee's period of employment at the time when the substitution takes effect shall count as a period of employment with the second-mentioned body corporate; and
     
@@ -3169,11 +3161,9 @@ Change of employer
     
     *   (c) the first-mentioned body corporate and the second-mentioned body corporate shall be deemed, in relation to the employee, to be the same employer.
     
-    Schedule clause 2: amended, on 1 July 2002, by [section 22][175] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
+    Schedule clause 2: amended, on 1 July 2002, by [section 22][174] of the Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002 (2002 No 7).
 
-##### 3
-    
-*   If on the death of an employer an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of this Act),---
+*   3 If on the death of an employer an employee is taken into the employment of the personal representatives or trustees of the deceased (whether before or after the commencement of this Act),---
         
     *   (a) the employee's period of employment at the time of the death shall count as a period of employment with the employer's personal representatives or trustees; and
     
@@ -3183,9 +3173,7 @@ Change of employer
     
     
 
-##### 4
-    
-*   If there is a change (whether before or after the commencement of this Act) in the partners, personal representatives, or trustees who employ any employee,---
+*   4 If there is a change (whether before or after the commencement of this Act) in the partners, personal representatives, or trustees who employ any employee,---
         
     *   (a) the employee's period of employment at the time of the change shall count as a period of employment with the partners, personal representatives, or trustees after the change; and
     
@@ -3195,9 +3183,7 @@ Change of employer
     
     
 
-##### 5
-    
-*   If (whether before or after the commencement of this Act) an employee of an employer is taken into the employment of another employer who, at the time when the employee enters that other employer's employment is an associated employer of the first-mentioned employer,---
+*   5 If (whether before or after the commencement of this Act) an employee of an employer is taken into the employment of another employer who, at the time when the employee enters that other employer's employment is an associated employer of the first-mentioned employer,---
         
     *   (a) the employee's period of employment at that time shall count as a period of employment with the associated employer; and
     
@@ -3207,9 +3193,7 @@ Change of employer
     
     
 
-##### 6
-    
-*   For the purposes of [clause 5][294], any 2 employers are to be treated as associated if one is a company of which the other (directly or indirectly) has control, or if both are companies of which a third person (directly or indirectly) has control; and the expression **associated employer** shall be construed accordingly.
+*   6 For the purposes of clause 5, any 2 employers are to be treated as associated if one is a company of which the other (directly or indirectly) has control, or if both are companies of which a third person (directly or indirectly) has control; and the expression associated employer shall be construed accordingly.
 
 ---
 
@@ -3406,70 +3390,31 @@ Preliminary provisions
     
     (2) An employee or a self-employed person to whom this Act applies may, before 1 July 2006, apply for a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987 or apply to have an entitlement to a payment transferred to him or her, as if this Act were already in force.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Parental Leave and Employment Protection Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][298] ![](/images/external_link.gif).
+*   This is a reprint of the Parental Leave and Employment Protection Act 1987 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][299] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][298] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][299] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][300] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][300] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][301] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][301] and [17E][302] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][189]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104): [regulations 3][266], [4][268]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Parental Leave and Employment Protection (Rate of Parental Leave Payment) Regulations 2012 (SR 2012/104): [regulations 3][266], [4][268]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][282]
     
     Holidays Amendment Act 2010 (2010 No 126): [section 18][220]
     
@@ -3477,35 +3422,33 @@ Preliminary provisions
     
     Income Tax Act 2007 (2007 No 97): [sections ZA 1(1)][196], [2(1)][246]
     
-    [Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006][303] (2006 No 20)
+    [Parental Leave and Employment Protection (Paid Parental Leave for Self-Employed Persons) Amendment Act 2006][302] (2006 No 20)
     
-    [Parental Leave and Employment Protection Amendment Act 2005][304] (2005 No 18)
+    [Parental Leave and Employment Protection Amendment Act 2005][303] (2005 No 18)
     
-    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][283]
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][284]
     
-    [Parental Leave and Employment Protection Amendment Act 2004][305] (2004 No 89)
+    [Parental Leave and Employment Protection Amendment Act 2004][304] (2004 No 89)
     
-    Volunteers Employment Protection Amendment Act 2004 (2004 No 12): [section 15][289]
+    Volunteers Employment Protection Amendment Act 2004 (2004 No 12): [section 15][290]
     
     Holidays Act 2003 (2003 No 129): [section 91(2)][219]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][178]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][177]
     
     [Parental Leave and Employment Protection (Paid Parental Leave) Amendment Act 2002][295] (2002 No 7)
     
-    Employment Relations Act 2000 (2000 No 24): [section 240][176]
+    Employment Relations Act 2000 (2000 No 24): [section 240][175]
     
-    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][174]
+    Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][173]
     
     Parental Leave and Employment Protection Amendment Act 1991 (1991 No 28)
-    
-    Labour Department Act Repeal Act 1989 (1989 No 82): [section 2(2)][306]
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][275]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM120106
 [2]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM120112
 [3]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM120113
@@ -3665,36 +3608,36 @@ Preliminary provisions
 [157]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121784
 [158]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121789
 [159]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121790
-[160]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM3901802
-[161]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121793
-[162]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121794
-[163]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121795
-[164]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373232
-[165]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373233
-[166]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373515
-[167]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM319569
-[168]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM58316
-[169]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM58337
-[170]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM61490
-[171]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM204329
-[172]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121796
-[173]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134912
-[174]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM328986
-[175]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134957
-[176]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM61487
-[177]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134931
-[178]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM205009
-[179]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373235
-[180]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM336373
-[181]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134956
-[182]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134936
-[183]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316669
-[184]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134925
-[185]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316670
-[186]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373240
-[187]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195534
-[188]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195097
-[189]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316671
+[160]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121793
+[161]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121794
+[162]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121795
+[163]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373232
+[164]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373233
+[165]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373515
+[166]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM319569
+[167]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM58316
+[168]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM58337
+[169]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM61490
+[170]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM204329
+[171]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM121796
+[172]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134912
+[173]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM328986
+[174]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134957
+[175]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM61487
+[176]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134931
+[177]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM205009
+[178]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373235
+[179]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM336373
+[180]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134956
+[181]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134936
+[182]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316669
+[183]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134925
+[184]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316670
+[185]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373240
+[186]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2997643
+[187]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998573
+[188]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316671
+[189]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998633
 [190]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM180448
 [191]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM182064
 [192]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM175965
@@ -3787,28 +3730,26 @@ Preliminary provisions
 [279]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM103119
 [280]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM103453
 [281]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373507
-[282]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM129566
-[283]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM329600
-[284]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373508
-[285]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134950
-[286]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM409765
-[287]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134952
-[288]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM317202
-[289]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM240793
-[290]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373510
-[291]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM60904
-[292]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134909
-[293]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373514
-[294]: http://www.legislation.govt.nz/act/public/1987/0129/latest/whole.html#DLM122201
+[282]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM3360714
+[283]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM129566
+[284]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM329600
+[285]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373508
+[286]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134950
+[287]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM409765
+[288]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134952
+[289]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM317202
+[290]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM240793
+[291]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373510
+[292]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM60904
+[293]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134909
+[294]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373514
 [295]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM134349
 [296]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM120103
 [297]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM336384
-[298]: http://www.pco.parliament.govt.nz/reprints/
-[299]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195439
-[300]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[301]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195468
-[302]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM195470
-[303]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373221
-[304]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM336367
-[305]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316658
-[306]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM191733
+[298]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998516
+[299]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998515
+[300]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM2998532
+[301]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[302]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM373221
+[303]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM336367
+[304]: http://www.legislation.govt.nz/act/public/1987/0129/latest/link.aspx?id=DLM316658
