@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for the Environment.
 
@@ -477,9 +477,9 @@ This Act is administered by the Ministry for the Environment.
 
 [109][220][][220][Offences][220]
 
-[109A][221][][221][Time for laying information][221]
+[109A][221][][221][Time for filing charging document][221]
 
-[109B][222][][222][Extension of time for laying information][222]
+[109B][222][][222][Extension of time for filing charging document][222]
 
 [110][223][][223][Infringement offences][223]
 
@@ -601,7 +601,7 @@ This Act is administered by the Ministry for the Environment.
 
 [141H][280][][280][Access to material incorporated by reference in group standard, notice of transfer, or code of practice][280]
 
-[141I][281][][281][Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989][281]
+[141I][281][][281][Application of Legislation Act 2012][281]
 
 [142][282][][282][Relationship to other Acts][282]
 
@@ -994,11 +994,11 @@ Preliminary
         
     *   (a) has the same meaning as in [section 7(1)][428] of the Crown Entities Act 2004; and
     
-    *   (b) includes an organisation named or described in [Schedule 4][429] of the Public Finance Act 1989
+    *   (b) includes an organisation named or described in [Schedule 4][429], or a company named in [Schedule 4A][430], of the Public Finance Act 1989
     
-    _Customs officer_ means any person holding office as a Customs officer appointed under the [Customs and Excise Act 1996][430]
+    _Customs officer_ means any person holding office as a Customs officer appointed under the [Customs and Excise Act 1996][431]
     
-    _department_ has the same meaning as in [section 2][431] of the State Sector Act 1988
+    _department_ has the same meaning as in [section 2][432] of the State Sector Act 1988
     
     _develop_,---
         
@@ -1052,7 +1052,7 @@ Preliminary
         
         
     
-    _distribution system_ has the same meaning as in [section 2][432] of the Gas Act 1992
+    _distribution system_ has the same meaning as in [section 2][433] of the Gas Act 1992
     
     _ecotoxic_ means capable of causing ill health, injury, or death to any living organism
     
@@ -1106,7 +1106,7 @@ Preliminary
     
     and _explosion_ has a corresponding meaning
     
-    _exportation_ has the same meaning as in [section 2(1)][433] of the Customs and Excise Act 1996; and _to export_ has a corresponding meaning
+    _exportation_ has the same meaning as in [section 2(1)][434] of the Customs and Excise Act 1996; and _to export_ has a corresponding meaning
     
     _exposure limit_ means an environmental exposure limit, a tolerable exposure limit, or a workplace exposure standard (as these terms are defined in [section 77B(6)][165])
     
@@ -1114,9 +1114,9 @@ Preliminary
     
     _firework_ means an object containing small quantities of hazardous substances with explosive properties enclosed in a case of paper or similar material of such a strength, construction, and character that the ignition or explosion of one such firework will not cause the explosion en masse of similar fireworks kept or carried with it, and whose sole or principal effect is not percussive or vertical or horizontal flight
     
-    _gas appliance_ has the same meaning as in [section 2][432] of the Gas Act 1992
+    _gas appliance_ has the same meaning as in [section 2][433] of the Gas Act 1992
     
-    _gas installation_ has the same meaning as in [section 2][432] of the Gas Act 1992
+    _gas installation_ has the same meaning as in [section 2][433] of the Gas Act 1992
     
     _genetic element_, in relation to a new organism, means---
         
@@ -1174,9 +1174,9 @@ Preliminary
     
     *   (e) identifies and specifies the means of contacting any person knowledgeable in the management of the substance
     
-    _import_, in relation to new organisms, has the same meaning as in [section 2(1)][434] of the Biosecurity Act 1993
+    _import_, in relation to new organisms, has the same meaning as in [section 2(1)][435] of the Biosecurity Act 1993
     
-    _importation_, in relation to hazardous substances, has the same meaning as in [section 2(1)][433] of the Customs and Excise Act 1996; and _to import_, in relation to those substances, has a corresponding meaning
+    _importation_, in relation to hazardous substances, has the same meaning as in [section 2(1)][434] of the Customs and Excise Act 1996; and _to import_, in relation to those substances, has a corresponding meaning
     
     _incidentally imported new organism_ means a new organism that is imported in or on goods, but is not---
         
@@ -1200,7 +1200,7 @@ Preliminary
     
     _lifecycle_, in relation to a substance, means the time for which the substance is in existence from (and including) its manufacture or importation to its disposal
     
-    _light rail vehicle_ has the same meaning as in [section 4(1)][435] of the Railways Act 2005
+    _light rail vehicle_ has the same meaning as in [section 4(1)][436] of the Railways Act 2005
     
     _local authority_ means a territorial authority or a regional council
     
@@ -1210,9 +1210,9 @@ Preliminary
     
     _Minister_ means the Minister for the Environment
     
-    _motor vehicle_ has the same meaning as in [section 2(1)][436] of the Land Transport Act 1998
+    _motor vehicle_ has the same meaning as in [section 2(1)][437] of the Land Transport Act 1998
     
-    _natural and physical resources_ has the same meaning as in [section 2(1)][437] of the Resource Management Act 1991
+    _natural and physical resources_ has the same meaning as in [section 2(1)][438] of the Resource Management Act 1991
     
     _new organism_ has the meaning given to it by [section 2A][5]
     
@@ -1240,7 +1240,7 @@ Preliminary
     
     _person_ includes the Crown
     
-    _place of work_ has the same meaning as in [section 2(1) and (3)][438] of the Health and Safety in Employment Act 1992
+    _place of work_ has the same meaning as in [section 2(1) and (3)][439] of the Health and Safety in Employment Act 1992
     
     _port of entry_ has the same meaning as in the Customs Act 1966
     
@@ -1248,7 +1248,7 @@ Preliminary
     
     _prescribed_ means prescribed by regulations made under this Act
     
-    _public health_ has the same meaning as in [section 6(1)][439] of the New Zealand Public Health and Disability Act 2000
+    _public health_ has the same meaning as in [section 6(1)][440] of the New Zealand Public Health and Disability Act 2000
     
     _public notice_ means---
         
@@ -1256,7 +1256,7 @@ Preliminary
     
     *   (b) if [section 53A][124] does not apply or no method has been determined under that section, a notice published in 1 or more daily newspapers circulating in the main metropolitan areas together with such other public notice (if any) as the Authority or Minister thinks fit
     
-    _qualifying medicine_ means a medicine or new medicine (as defined in [section 3][440] of the Medicines Act 1981) that---
+    _qualifying medicine_ means a medicine or new medicine (as defined in [section 3][441] of the Medicines Act 1981) that---
         
     *   (a) is or contains a new organism; and
     
@@ -1264,35 +1264,35 @@ Preliminary
     
     _qualifying organism_ means a new organism that is or is contained in a qualifying medicine or qualifying veterinary medicine
     
-    _qualifying veterinary medicine_ means a veterinary medicine (as defined in [section 2(1)][441] of the Agricultural Compounds and Veterinary Medicines Act 1997) that---
+    _qualifying veterinary medicine_ means a veterinary medicine (as defined in [section 2(1)][442] of the Agricultural Compounds and Veterinary Medicines Act 1997) that---
         
     *   (a) is or contains a new organism; and
     
     *   (b) meets the criteria set out in [section 38I(3)][80]
     
-    _rail vehicle_ has the same meaning as in [section 4(1)][435] of the Railways Act 2005
+    _rail vehicle_ has the same meaning as in [section 4(1)][436] of the Railways Act 2005
     
-    _railway line_ has the same meaning as in [section 4(1)][435] of the Railways Act 2005
+    _railway line_ has the same meaning as in [section 4(1)][436] of the Railways Act 2005
     
-    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][442]
+    _regional council_ means a regional council within the meaning of the [Local Government Act 2002][443]
     
     _regulations_ means regulations in force under this Act
     
-    _release_, in relation to new organisms, means to allow the organism to move within New Zealand free of any restrictions other than those imposed in accordance with the [Biosecurity Act 1993][427] or the [Conservation Act 1987][443]
+    _release_, in relation to new organisms, means to allow the organism to move within New Zealand free of any restrictions other than those imposed in accordance with the [Biosecurity Act 1993][427] or the [Conservation Act 1987][444]
     
     _research and development_, in relation to a hazardous substance, means systematic investigation or experimentation activities that involve the hazardous substance
     
-    _responsible chief executive_ means the chief executive of the Authority and the chief executive of the department for the time being responsible for the administration of the [Medicines Act 1981][444] or the [Agricultural Compounds and Veterinary Medicines Act 1997][445], as the case may be
+    _responsible chief executive_ means the chief executive of the Authority and the chief executive of the department for the time being responsible for the administration of the [Medicines Act 1981][445] or the [Agricultural Compounds and Veterinary Medicines Act 1997][446], as the case may be
     
     _risk species_ means any species, subspecies, infrasubspecies, variety, strain, or cultivar prescribed as a risk species under [section 140][269]
     
-    _road_ has the same meaning as in [section 2(1)][436] of the Land Transport Act 1998
+    _road_ has the same meaning as in [section 2(1)][437] of the Land Transport Act 1998
     
     _serious environmental damage_ means any environmental damage prescribed under [section 140][269]
     
-    _serious harm_ has the same meaning as in [Schedule 1][446] of the Health and Safety in Employment Act 1992
+    _serious harm_ has the same meaning as in [Schedule 1][447] of the Health and Safety in Employment Act 1992
     
-    _ship_ has the same meaning as in [section 2(1)][447] of the Maritime Transport Act 1994
+    _ship_ has the same meaning as in [section 2(1)][448] of the Maritime Transport Act 1994
     
     _stationary container_ means any building or part of a building, or vessel supported by or incorporated in any building, which is expressly designed to contain any hazardous substance
     
@@ -1314,7 +1314,7 @@ Preliminary
     
     _taxonomic classification_, in relation to an organism, means the genus, species, subspecies, infrasubspecies, variety, strain, cultivar, or other appropriate classification that the organism belongs to
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][442]
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][443]
     
     _test certificate_ means a certificate issued by a test certifier in accordance with [section 82][171]
     
@@ -1328,7 +1328,7 @@ Preliminary
     
     _transhipment_ means the importation into New Zealand of a hazardous substance or new organism solely for the purpose of export within 20 working days to another destination outside New Zealand
     
-    _Treaty of Waitangi (Te Tiriti o Waitangi)_ has the same meaning as the word Treaty as defined in [section 2][448] of the Treaty of Waitangi Act 1975
+    _Treaty of Waitangi (Te Tiriti o Waitangi)_ has the same meaning as the word Treaty as defined in [section 2][449] of the Treaty of Waitangi Act 1975
     
     _weapons system_ means any ammunition, explosive, or propellant; and includes any platform designed to carry any combination thereof
     
@@ -1340,111 +1340,113 @@ Preliminary
     
     (2) For the purposes of paragraph (a) of the definition of the term substance in [section 2(1)][4], the definition of any mixture of elements or mixture of compounds may include a range of percentages of the elements or compounds making up the substance.
     
-    Section 2(1) **aerodrome**: repealed, on 20 April 2010, by [section 4(1)][449] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 2(1) **aerodrome**: repealed, on 20 April 2010, by [section 4(1)][450] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 2(1) **approved form**: inserted, on 31 December 2000, by [section 3(1)][450] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 2(1) **approved form**: inserted, on 31 December 2000, by [section 3(1)][451] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 2(1) **approved form**: amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 2(1) **approved form**: amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 2(1) **Authority** or **EPA**: substituted, on 1 July 2011, by [section 4][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 2(1) **Authority** or **EPA**: substituted, on 1 July 2011, by [section 4][453] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 2(1) **building**: amended, on 31 March 2005, pursuant to [section 415(1)][453] of the Building Act 2004 (2004 No 72).
+    Section 2(1) **building**: amended, on 31 March 2005, pursuant to [section 415(1)][454] of the Building Act 2004 (2004 No 72).
     
-    Section 2(1) **conditional release approval**: substituted, on 20 April 2010, by [section 4(2)][449] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 2(1) **conditional release approval**: substituted, on 20 April 2010, by [section 4(2)][450] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 2(1) **conditionally released new organism**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **conditionally released new organism**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **containment facility** paragraph (b): amended, on 30 October 2003, by [section 4(2)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **containment facility** paragraph (b): amended, on 30 October 2003, by [section 4(2)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **containment structure**: inserted, on 28 May 2002, by [section 5][455] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    Section 2(1) **containment structure**: inserted, on 28 May 2002, by [section 5][456] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
-    Section 2(1) **Crown entity**: inserted, on 25 January 2005, by [section 37(1)][456] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown entity**: inserted, on 25 January 2005, by [section 37(1)][457] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Customs officer**: amended, on 1 October 1996, pursuant to [section 294(2)][457] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2(1) **Crown entity** paragraph (b): amended, on 18 July 2013, by [section 57][458] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **department**: inserted, on 9 April 2008, by [section 4(2)][458] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 2(1) **Customs officer**: amended, on 1 October 1996, pursuant to [section 294(2)][459] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2(1) **develop**: substituted, on 9 April 2008, by [section 4(1)][458] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 2(1) **department**: inserted, on 9 April 2008, by [section 4(2)][460] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 2(1) **environmental medium**: inserted, on 22 December 2005, by [section 3(1)][459] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 2(1) **develop**: substituted, on 9 April 2008, by [section 4(1)][460] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 2(1) **environmentally sound disposal**: inserted, on 23 December 2004, by [section 4][460] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 2(1) **environmental medium**: inserted, on 22 December 2005, by [section 3(1)][461] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 2(1) **exportation**: amended, on 1 October 1996, pursuant to [section 290(1)][461] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2(1) **environmentally sound disposal**: inserted, on 23 December 2004, by [section 4][462] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 2(1) **exposure limit**: inserted, on 22 December 2005, by [section 3(1)][459] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 2(1) **exportation**: amended, on 1 October 1996, pursuant to [section 290(1)][463] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2(1) **field test**: amended, on 30 October 2003, by [section 4(4)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **exposure limit**: inserted, on 22 December 2005, by [section 3(1)][461] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 2(1) **genetic element**: inserted, on 28 May 2002, by [section 5][455] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    Section 2(1) **field test**: amended, on 30 October 2003, by [section 4(4)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **heritable material**: inserted, on 28 May 2002, by [section 5][455] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    Section 2(1) **genetic element**: inserted, on 28 May 2002, by [section 5][456] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
-    Section 2(1) **host organism**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **heritable material**: inserted, on 28 May 2002, by [section 5][456] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
-    Section 2(1) **human cells**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **host organism**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **importation**: amended, on 1 October 1996, pursuant to [section 290(1)][461] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2(1) **human cells**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **incidentally imported new organism**: inserted, on 9 April 2008, by [section 4(2)][458] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 2(1) **importation**: amended, on 1 October 1996, pursuant to [section 290(1)][463] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2(1) **laboratory**: inserted, on 31 December 2000, by [section 3(1)][450] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 2(1) **incidentally imported new organism**: inserted, on 9 April 2008, by [section 4(2)][460] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 2(1) **light rail vehicle**: inserted, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 2(1) **laboratory**: inserted, on 31 December 2000, by [section 3(1)][451] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 2(1) **local authority**: inserted, on 22 December 2005, by [section 3(1)][459] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 2(1) **light rail vehicle**: inserted, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **motor vehicle**: amended, on 1 March 1999, by [section 215(1)][463] of the Land Transport Act 1998 (1998 No 110).
+    Section 2(1) **local authority**: inserted, on 22 December 2005, by [section 3(1)][461] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 2(1) **new organism**: substituted, on 7 May 1999, by [section 2(1)][464] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 2(1) **motor vehicle**: amended, on 1 March 1999, by [section 215(1)][465] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 2(1) **organism** paragraph (a): substituted, on 30 October 2003, by [section 4(5)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **new organism**: substituted, on 7 May 1999, by [section 2(1)][466] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 2(1) **organism** paragraph (ab): inserted, on 30 October 2003, by [section 4(5)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **organism** paragraph (a): substituted, on 30 October 2003, by [section 4(5)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **organism** paragraph (c): amended, on 30 October 2003, by [section 4(6)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **organism** paragraph (ab): inserted, on 30 October 2003, by [section 4(5)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **persistent organic pollutant**: inserted, on 23 December 2004, by [section 4][460] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 2(1) **organism** paragraph (c): amended, on 30 October 2003, by [section 4(6)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **place of work**: amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 2(1) **persistent organic pollutant**: inserted, on 23 December 2004, by [section 4][462] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 2(1) **place of work**: amended, on 5 May 2003, by [section 34][466] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
+    Section 2(1) **place of work**: amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 2(1) **premises**: substituted, on 31 December 2000, by [section 3(2)][450] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 2(1) **place of work**: amended, on 5 May 2003, by [section 34][468] of the Health and Safety in Employment Amendment Act 2002 (2002 No 86).
     
-    Section 2(1) **prescribed**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **premises**: substituted, on 31 December 2000, by [section 3(2)][451] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 2(1) **public health**: substituted, on 1 January 2001, by [section 111(1)][467] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 2(1) **prescribed**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **public notice**: substituted, on 31 December 2000, by [section 3(3)][450] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 2(1) **public health**: substituted, on 1 January 2001, by [section 111(1)][469] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
-    Section 2(1) **qualifying medicine**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **public notice**: substituted, on 31 December 2000, by [section 3(3)][451] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 2(1) **qualifying organism**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **qualifying medicine**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **qualifying veterinary medicine**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **qualifying organism**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **rail service vehicle** and **light rail vehicle**: repealed, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 2(1) **qualifying veterinary medicine**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **rail vehicle**: inserted, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 2(1) **rail service vehicle** and **light rail vehicle**: repealed, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **railway line**: amended, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 2(1) **rail vehicle**: inserted, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **regional council**: inserted, on 22 December 2005, by [section 3(1)][459] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 2(1) **railway line**: amended, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 2(1) **research and development**: substituted, on 22 December 2005, by [section 3(2)][459] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 2(1) **regional council**: inserted, on 22 December 2005, by [section 3(1)][461] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 2(1) **responsible chief executive**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **research and development**: substituted, on 22 December 2005, by [section 3(2)][461] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 2(1) **road**: amended, on 1 March 1999, by [section 215(1)][463] of the Land Transport Act 1998 (1998 No 110).
+    Section 2(1) **responsible chief executive**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **Stockholm Convention**: inserted, on 23 December 2004, by [section 4][460] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 2(1) **road**: amended, on 1 March 1999, by [section 215(1)][465] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 2(1) **taxonomic classification**: inserted, on 30 October 2003, by [section 4(1)][454] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2(1) **Stockholm Convention**: inserted, on 23 December 2004, by [section 4][462] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][468] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **taxonomic classification**: inserted, on 30 October 2003, by [section 4(1)][455] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2(1) **test certificate**: substituted, on 7 May 1999, by [section 2(2)][464] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 2(1) **territorial authority**: substituted, on 1 July 2003, by [section 262][470] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 2(1) **test certificate**: substituted, on 7 May 1999, by [section 2(2)][466] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 2A Meaning of term new organism
     
@@ -1496,25 +1498,25 @@ Preliminary
     
     *   (c) it is an incidentally imported new organism.
     
-    (3) Despite the provisions of this section, an organism present in New Zealand before 29 July 1998 in contravention of the Animals Act 1967 or the [Plants Act 1970][469] is a new organism.
+    (3) Despite the provisions of this section, an organism present in New Zealand before 29 July 1998 in contravention of the Animals Act 1967 or the [Plants Act 1970][471] is a new organism.
     
     (4) Subsection (3) does not apply to the organism known as rabbit haemorrhagic disease virus, or rabbit calicivirus.
     
-    Section 2A: inserted, on 7 May 1999, by [section 3][470] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 2A: inserted, on 7 May 1999, by [section 3][472] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 2A(1)(ca): inserted, on 30 October 2003, by [section 5(1)][471] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2A(1)(ca): inserted, on 30 October 2003, by [section 5(1)][473] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2A(1)(cb): inserted, on 30 October 2003, by [section 5(1)][471] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2A(1)(cb): inserted, on 30 October 2003, by [section 5(1)][473] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2A(2): substituted, on 30 October 2003, by [section 5(2)][471] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2A(2): substituted, on 30 October 2003, by [section 5(2)][473] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2A(2)(a)(i): amended, on 20 April 2010, by [section 5][472] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 2A(2)(a)(i): amended, on 20 April 2010, by [section 5][474] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 2A(2A): inserted, on 30 October 2003, by [section 5(2)][471] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 2A(2A): inserted, on 30 October 2003, by [section 5(2)][473] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 2A(2A)(b): amended, on 9 April 2008, by [section 5(1)][473] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 2A(2A)(b): amended, on 9 April 2008, by [section 5(1)][475] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 2A(2A)(c): added, on 9 April 2008, by [section 5(2)][473] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 2A(2A)(c): added, on 9 April 2008, by [section 5(2)][475] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
 
 ##### 3 Act to bind the Crown
     
@@ -1548,23 +1550,23 @@ Preliminary
     
     *   (b) may comply with the relevant requirements in paragraph (a) by following the relevant code of practice approved under [section 79][167].
     
-    (6) The Secretary of Defence shall audit the controls on hazardous substances under the control of the Minister of Defence in accordance with [section 24(2)(e)][474] of the Defence Act 1990, and report the results to the Minister and the Minister of Defence.
+    (6) The Secretary of Defence shall audit the controls on hazardous substances under the control of the Minister of Defence in accordance with [section 24(2)(e)][476] of the Defence Act 1990, and report the results to the Minister and the Minister of Defence.
     
     (7) Any person may report to the Authority a breach of the requirements required to be met by any regulations in relation to hazardous substances under the control of the Minister of Defence.
     
-    (8) Where an incident occurs which involves any hazardous substance under the control of the Minister of Defence and the incident is not being investigated under the [Armed Forces Discipline Act 1971][475], the Authority may, after consultation with the Minister and the Minister of the Crown who is responsible for the Ministry of Justice, direct an inquiry to be held before a District Court Judge.
+    (8) Where an incident occurs which involves any hazardous substance under the control of the Minister of Defence and the incident is not being investigated under the [Armed Forces Discipline Act 1971][477], the Authority may, after consultation with the Minister and the Minister of the Crown who is responsible for the Ministry of Justice, direct an inquiry to be held before a District Court Judge.
     
     (9) To assist the Judge, the Authority may appoint 2 or more people with skills or knowledge relevant to the subject matter of the inquiry.
     
     (10) The Judge may hold the inquiry at any times and places the Judge appoints, and shall report on the cause of the incident to the Authority.
     
-    (11) The Judge has all the powers of a Commission of Inquiry under the [Commissions of Inquiry Act 1908][476]; and subject to subsections (9) and (10), that Act shall apply accordingly.
+    (11) The Judge has all the powers of a Commission of Inquiry under the [Commissions of Inquiry Act 1908][478]; and subject to subsections (9) and (10), that Act shall apply accordingly.
     
-    Section 3(4): substituted, on 22 December 2005, by [section 4][477] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 3(4): substituted, on 22 December 2005, by [section 4][479] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 3(5): substituted, on 22 December 2005, by [section 4][477] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 3(5): substituted, on 22 December 2005, by [section 4][479] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 3(8): amended, on 1 October 2003, by [section 12(2)][478] of the State Sector Amendment Act 2003 (2003 No 41).
+    Section 3(8): amended, on 1 October 2003, by [section 12(2)][480] of the State Sector Amendment Act 2003 (2003 No 41).
 
 ## Part 2  
 Purpose of Act
@@ -1599,17 +1601,17 @@ Purpose of Act
     
     *   (f) New Zealand's international obligations.
     
-    Section 6(e): substituted, on 30 October 2003, by [section 6][479] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 6(e): substituted, on 30 October 2003, by [section 6][481] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 7 Precautionary approach
     
 *   All persons exercising functions, powers, and duties under this Act, including but not limited to, functions, powers, and duties under [sections 28A][53], [29][54], [32][60], [38][68], [45][95], and [48][101], shall take into account the need for caution in managing adverse effects where there is scientific and technical uncertainty about those effects.
     
-    Section 7: amended, on 31 December 2000, by [section 4][480] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 7: amended, on 31 December 2000, by [section 4][482] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 8 Treaty of Waitangi
     
-*   All persons exercising powers and functions under this Act shall take into account the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][481].
+*   All persons exercising powers and functions under this Act shall take into account the principles of the [Treaty of Waitangi (Te Tiriti o Waitangi)][483].
 
 ##### 9 Methodology to be used
     
@@ -1646,19 +1648,19 @@ Powers, functions, and duties
     
     *   (d) carry out any powers, functions, and duties conferred on the Minister by or under this Act.
     
-    (2) Subsection (1)(c) and (d) apply despite [section 113][482] of the Crown Entities Act 2004\.
+    (2) Subsection (1)(c) and (d) apply despite [section 113][484] of the Crown Entities Act 2004\.
     
-    (3) This section does not limit [section 27][483] of the Crown Entities Act 2004\.
+    (3) This section does not limit [section 27][485] of the Crown Entities Act 2004\.
     
-    Section 10(1)(a): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(1)(a): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(1)(b): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(1)(b): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(1)(c): amended, on 7 May 1999, by [section 15(a)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 10(1)(c): amended, on 7 May 1999, by [section 15(a)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 10(2): added, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(2): added, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 10(3): added, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 10(3): added, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 Powers, functions, and duties of Authority
     
@@ -1700,25 +1702,25 @@ Powers, functions, and duties
     
     (2) The Authority must, before exercising the function specified in subsection (1)(fc), consult the persons whom the Authority considers are representative of the classes of person who are likely to have an interest in the standards.
     
-    (3) This section does not limit [section 17][486] of the Crown Entities Act 2004\.
+    (3) This section does not limit [section 17][488] of the Crown Entities Act 2004\.
     
-    Section 11(1)(fa): inserted, on 31 December 2000, by [section 5][487] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 11(1)(fa): inserted, on 31 December 2000, by [section 5][489] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 11(1)(fb): inserted, on 23 December 2004, by [section 5][488] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 11(1)(fb): inserted, on 23 December 2004, by [section 5][490] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 11(1)(fc): inserted, as section 11(1)(fb), on 30 October 2003, by [section 7(1)][489] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 11(1)(fc): inserted, as section 11(1)(fb), on 30 October 2003, by [section 7(1)][491] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 11(1)(fc) paragraph number: substituted, on 20 September 2007, by [section 4(1)][490] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 11(1)(fc) paragraph number: substituted, on 20 September 2007, by [section 4(1)][492] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
     
-    Section 11(1)(g): amended, on 1 July 2011, by [section 5][491] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 11(1)(g): amended, on 1 July 2011, by [section 5][493] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 11(2): added, on 30 October 2003, by [section 7(2)][489] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 11(2): added, on 30 October 2003, by [section 7(2)][491] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 11(2): amended, on 20 April 2010, by [section 6][492] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 11(2): amended, on 20 April 2010, by [section 6][494] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 11(3): added, as section 11(2), on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 11(3): added, as section 11(2), on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 11(3) subsection number: substituted, on 20 September 2007, by [section 4(2)][490] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 11(3) subsection number: substituted, on 20 September 2007, by [section 4(2)][492] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
 
 ##### 12 Powers, functions, and duties of enforcement officers
     
@@ -1749,35 +1751,35 @@ Powers, functions, and duties
 ## Part 4  
 Administrative provisions
     
-*   Part 4 heading: substituted, on 1 July 2011, by [section 6][493] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+*   Part 4 heading: substituted, on 1 July 2011, by [section 6][495] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 14 Establishment of Authority
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 1 July 2011, by [section 7][494] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 14: repealed, on 1 July 2011, by [section 7][496] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 15 Membership of Authority
     
 *   \[Repealed\]
     
-    Section 15: repealed, on 1 July 2011, by [section 7][494] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 15: repealed, on 1 July 2011, by [section 7][496] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 16 Eligibility for appointment as member of Authority
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 July 2011, by [section 7][494] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 16: repealed, on 1 July 2011, by [section 7][496] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 17 Restriction on Ministerial direction
     
-*   The Minister may not give a direction under [section 103][495] of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Authority under [Part 5][40] or [Part 6A][194] of this Act.
+*   The Minister may not give a direction under [section 103][497] of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Authority under [Part 5][40] or [Part 6A][194] of this Act.
     
-    Section 17: substituted, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 17: substituted, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 17: amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 17: amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 17: amended, on 22 December 2005, by [section 5][496] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 17: amended, on 22 December 2005, by [section 5][498] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 18 EPA may appoint committees
     
@@ -1785,19 +1787,19 @@ Administrative provisions
     
     (2) A person must not be appointed as a member of a committee unless the Minister has approved the appointment.
     
-    (3) [Clause 14][497] of Schedule 5 of the Crown Entities Act 2004 applies to the EPA subject to subsection (2).
+    (3) [Clause 14][499] of Schedule 5 of the Crown Entities Act 2004 applies to the EPA subject to subsection (2).
     
-    Section 18: substituted, on 1 July 2011, by [section 8][498] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 18: substituted, on 1 July 2011, by [section 8][500] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 18A Committee may appoint and delegate functions to subcommittee
     
-*   (1) A committee appointed by the EPA under [clause 14][497] of Schedule 5 of the Crown Entities Act 2004 may appoint a subcommittee to hear and decide an application to which [section 19(2)(b)][28] applies.
+*   (1) A committee appointed by the EPA under [clause 14][499] of Schedule 5 of the Crown Entities Act 2004 may appoint a subcommittee to hear and decide an application to which [section 19(2)(b)][28] applies.
     
     (2) For the purpose of subsection (1), the committee may delegate a power delegated to the committee under [section 19(2)(b)][28] to the subcommittee.
     
-    (3) A subcommittee is a committee for the purposes of [clause 15][499] of Schedule 5 of the Crown Entities Act 2004\.
+    (3) A subcommittee is a committee for the purposes of [clause 15][501] of Schedule 5 of the Crown Entities Act 2004\.
     
-    Section 18A: inserted, on 1 July 2011, by [section 8][498] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 18A: inserted, on 1 July 2011, by [section 8][500] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 18B Composition of subcommittee
     
@@ -1805,13 +1807,13 @@ Administrative provisions
     
     (2) The subcommittee need not include a member of the EPA.
     
-    Section 18B: inserted, on 1 July 2011, by [section 8][498] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 18B: inserted, on 1 July 2011, by [section 8][500] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 18C Qualification for appointment to committee or subcommittee
     
 *   A committee or subcommittee appointed for the purpose of [section 19(2)(b)][28] must consist of persons who collectively have particular knowledge of, and expertise in, the subject matter of the application before the committee.
     
-    Section 18C: inserted, on 1 July 2011, by [section 8][498] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 18C: inserted, on 1 July 2011, by [section 8][500] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 19 Delegation by Authority
     
@@ -1827,7 +1829,7 @@ Administrative provisions
         
     *   (a) the power to conduct a rapid assessment under any of [sections 35][65], [38BA][72], [42][88], [42A][89], [42B][90], or [42C][91] to any person, whether or not that person is a member of the Authority:
     
-    *   (b) the power to hear and decide any other application made under [Part 5][40] or [Part 6A][194] to any committee appointed for that purpose in accordance with the [Crown Entities Act 2004][500]:
+    *   (b) the power to hear and decide any other application made under [Part 5][40] or [Part 6A][194] to any committee appointed for that purpose in accordance with the [Crown Entities Act 2004][502]:
     
     *   (ba) the power to assess and approve an application under [section 38I(1)][80] for the release of a qualifying organism to the responsible chief executive:
     
@@ -1835,7 +1837,7 @@ Administrative provisions
     
     *   (bc) the power to review and amend controls under [section 38L][83] in relation to qualifying medicines and qualifying veterinary medicines to the responsible chief executive:
     
-    *   (bd) the power to impose controls under [section 45(2)][95] in relation to a genetically modified human cell to which [section 55][501] of the Hazardous Substances and New Organisms Amendment Act 2003 applies:
+    *   (bd) the power to impose controls under [section 45(2)][95] in relation to a genetically modified human cell to which [section 55][503] of the Hazardous Substances and New Organisms Amendment Act 2003 applies:
     
     *   (c) \[Repealed\]
     
@@ -1859,7 +1861,7 @@ Administrative provisions
     
     *   (h) the power to decide any application for any permission or licence under [Part 6][158], or the revocation of any permission or licence under that Part, to---
             
-        *   (i) any employee of the Ministry of Agriculture and Forestry, any Medical Officer of Health (as defined in [section 2(1)][502] of the Health Act 1956), or any employee of any person specified in [section 97][203], or any enforcement officer, with relevant experience in the subject matter of the application or the permission or licence; or
+        *   (i) any employee of the Ministry of Agriculture and Forestry, any Medical Officer of Health (as defined in [section 2(1)][504] of the Health Act 1956), or any employee of any person specified in [section 97][203], or any enforcement officer, with relevant experience in the subject matter of the application or the permission or licence; or
         
         *   (ii) if there is no employee or enforcement officer with the relevant experience, any other person with the relevant experience, whether or not that person is a member of the Authority:
         
@@ -1883,61 +1885,61 @@ Administrative provisions
     
     (6) Every delegation under subsection (2) must be available for public inspection at the office of the Authority during ordinary office hours.
     
-    (7) [Sections 73 to 76][503] of the Crown Entities Act 2004 do not apply to the Authority's functions, powers, or duties under this Act.
+    (7) [Sections 73 to 76][505] of the Crown Entities Act 2004 do not apply to the Authority's functions, powers, or duties under this Act.
     
-    Section 19(1): amended, on 20 April 2010, by [section 7(1)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(1): amended, on 20 April 2010, by [section 7(1)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(1)(b): substituted, on 20 April 2010, by [section 7(2)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(1)(b): substituted, on 20 April 2010, by [section 7(2)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(2): amended, on 20 April 2010, by [section 7(3)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(2): amended, on 20 April 2010, by [section 7(3)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(2)(a): amended, on 20 April 2010, by [section 7(4)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(2)(a): amended, on 20 April 2010, by [section 7(4)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(2)(a): amended, on 30 October 2003, by [section 9(1)][505] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 19(2)(a): amended, on 30 October 2003, by [section 9(1)][507] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 19(2)(b): amended, on 1 July 2011, by [section 9(1)][506] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 19(2)(b): amended, on 1 July 2011, by [section 9(1)][508] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 19(2)(b): amended, on 22 December 2005, by [section 6(1)][507] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 19(2)(b): amended, on 22 December 2005, by [section 6(1)][509] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 19(2)(ba): inserted, on 30 October 2003, by [section 9(2)][505] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 19(2)(ba): inserted, on 30 October 2003, by [section 9(2)][507] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 19(2)(bb): inserted, on 30 October 2003, by [section 9(2)][505] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 19(2)(bb): inserted, on 30 October 2003, by [section 9(2)][507] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 19(2)(bc): inserted, on 30 October 2003, by [section 9(2)][505] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 19(2)(bc): inserted, on 30 October 2003, by [section 9(2)][507] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 19(2)(bd): inserted, on 30 October 2003, by [section 9(2)][505] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 19(2)(bd): inserted, on 30 October 2003, by [section 9(2)][507] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 19(2)(c): repealed, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 19(2)(c): repealed, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 19(2)(ca): inserted, on 23 December 2004, by [section 6][508] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 19(2)(ca): inserted, on 23 December 2004, by [section 6][510] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 19(2)(cb): inserted, on 20 April 2010, by [section 7(5)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(2)(cb): inserted, on 20 April 2010, by [section 7(5)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(2)(d): added, on 31 December 2000, by [section 6(1)][509] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 19(2)(d): added, on 31 December 2000, by [section 6(1)][511] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 19(2)(e): added, on 31 December 2000, by [section 6(1)][509] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 19(2)(e): added, on 31 December 2000, by [section 6(1)][511] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 19(2)(f): added, on 31 December 2000, by [section 6(1)][509] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 19(2)(f): added, on 31 December 2000, by [section 6(1)][511] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 19(2)(g): added, on 31 December 2000, by [section 6(1)][509] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 19(2)(g): added, on 31 December 2000, by [section 6(1)][511] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 19(2)(h): added, on 24 March 2004, by [section 4][510] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 19(2)(h): added, on 24 March 2004, by [section 4][512] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 19(2)(ha): inserted, on 22 December 2005, by [section 6(2)][507] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 19(2)(ha): inserted, on 22 December 2005, by [section 6(2)][509] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 19(2)(ha): amended, on 20 April 2010, by [section 7(6)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(2)(ha): amended, on 20 April 2010, by [section 7(6)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(2)(i): added, on 24 March 2004, by [section 4][510] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 19(2)(i): added, on 24 March 2004, by [section 4][512] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 19(3): amended, on 20 April 2010, by [section 7(7)][504] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 19(3): amended, on 20 April 2010, by [section 7(7)][506] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 19(5A): inserted, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(5A): inserted, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 19(6): added, on 31 December 2000, by [section 6(2)][509] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 19(6): added, on 31 December 2000, by [section 6(2)][511] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 19(7): added, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 19(7): added, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 19(7): amended, on 1 July 2011, by [section 9(2)][506] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 19(7): amended, on 1 July 2011, by [section 9(2)][508] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 20 Obligation to prepare and maintain register
     
@@ -1965,9 +1967,9 @@ Administrative provisions
     
     (5) Every person shall have the right to inspect the register during the ordinary office hours of the Authority.
     
-    Section 20(2)(ca): inserted, on 30 October 2003, by [section 10][511] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 20(2)(ca): inserted, on 30 October 2003, by [section 10][513] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 20(2)(e): amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 20(2)(e): amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 20A Register of exposure limits for substances with toxic or ecotoxic properties
     
@@ -1985,7 +1987,7 @@ Administrative provisions
     
     (3) Every person has the right to inspect the register during the ordinary office hours of the Authority.
     
-    Section 20A: inserted, on 22 December 2005, by [section 7][512] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 20A: inserted, on 22 December 2005, by [section 7][514] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 21 Charges
     
@@ -2029,11 +2031,11 @@ Administrative provisions
 
 ##### 23 Fees for local authorities
     
-*   Any local authority may prescribe fees by bylaw or resolution in accordance with [section 150][513] of the Local Government Act 2002 for the exercise or performance by the local authority of any power, function, or duty under this Act.
+*   Any local authority may prescribe fees by bylaw or resolution in accordance with [section 150][515] of the Local Government Act 2002 for the exercise or performance by the local authority of any power, function, or duty under this Act.
     
-    Section 23: amended, on 22 December 2005, by [section 8][514] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 23: amended, on 22 December 2005, by [section 8][516] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 23: amended, on 1 July 2003, by [section 262][468] of the Local Government Act 2002 (2002 No 84).
+    Section 23: amended, on 1 July 2003, by [section 262][470] of the Local Government Act 2002 (2002 No 84).
 
 ##### 24 Power to request information
     
@@ -2044,31 +2046,31 @@ Nga Kaihautu Tikanga Taiao
 
 \[Repealed\]
     
-*   Part 4A: repealed, on 1 July 2011, by [section 10][515] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+*   Part 4A: repealed, on 1 July 2011, by [section 10][517] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 24A Establishment of Nga Kaihautu Tikanga Taiao
     
 *   \[Repealed\]
     
-    Section 24A: repealed, on 1 July 2011, by [section 10][515] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 24A: repealed, on 1 July 2011, by [section 10][517] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 24B Function of Nga Kaihautu Tikanga Taiao
     
 *   \[Repealed\]
     
-    Section 24B: repealed, on 1 July 2011, by [section 10][515] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 24B: repealed, on 1 July 2011, by [section 10][517] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 24C Appointment and remuneration of members and chair
     
 *   \[Repealed\]
     
-    Section 24C: repealed, on 1 July 2011, by [section 10][515] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 24C: repealed, on 1 July 2011, by [section 10][517] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 24D Review of terms of reference
     
 *   \[Repealed\]
     
-    Section 24D: repealed, on 1 July 2011, by [section 10][515] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 24D: repealed, on 1 July 2011, by [section 10][517] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ## Part 5  
 Assessment of hazardous substances and new organisms
@@ -2079,7 +2081,7 @@ Assessment of hazardous substances and new organisms
     
 *   \[Repealed\]
     
-    Section 25AA: repealed, on 30 October 2003, by [section 13(1)][516] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25AA: repealed, on 30 October 2003, by [section 13(1)][518] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 25 Restriction of import, manufacture, development, field testing, or release
     
@@ -2097,7 +2099,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the movement or use of those goods, together with any new organisms incidentally imported while they remain in or on those goods, after their importation.
     
-    (1B) The department responsible for administering the [Biosecurity Act 1993][427] or its agents, and any other departments recognised by the responsible Minister under [section 101(2)][517] of that Act or their agents may, despite subsection (1)(b), isolate, aggregate, multiply, or use an incidentally imported new organism for the purpose of identifying, managing, or eradicating that organism.
+    (1B) The department responsible for administering the [Biosecurity Act 1993][427] or its agents, and any other departments recognised by the responsible Minister under [section 101(2)][519] of that Act or their agents may, despite subsection (1)(b), isolate, aggregate, multiply, or use an incidentally imported new organism for the purpose of identifying, managing, or eradicating that organism.
     
     (2) No approval shall be issued to import, develop, field test, or release any new organism specified in [Schedule 2][416].
     
@@ -2113,31 +2115,31 @@ Assessment of hazardous substances and new organisms
     
     (8) In this section,---
     
-    _innovative agricultural compound application_ has the same meaning as in [section 72][518] of the Agricultural Compounds and Veterinary Medicines Act 1997
+    _innovative agricultural compound application_ has the same meaning as in [section 72][520] of the Agricultural Compounds and Veterinary Medicines Act 1997
     
-    _innovative medicine application_ has the same meaning as in [section 23A][519] of the Medicines Act 1981\.
+    _innovative medicine application_ has the same meaning as in [section 23A][521] of the Medicines Act 1981\.
     
-    Section 25 heading: amended, on 9 April 2008, by [section 6(1)][520] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 25 heading: amended, on 9 April 2008, by [section 6(1)][522] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 25(1A): inserted, on 9 April 2008, by [section 6(2)][520] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 25(1A): inserted, on 9 April 2008, by [section 6(2)][522] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 25(1B): inserted, on 9 April 2008, by [section 6(2)][520] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 25(1B): inserted, on 9 April 2008, by [section 6(2)][522] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 25(2): amended, on 30 October 2003, by [section 12(1)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(2): amended, on 30 October 2003, by [section 12(1)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(3): substituted, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(3): substituted, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(4): added, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(4): added, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(5): added, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(5): added, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(5): amended, on 9 April 2008, by [section 6(3)][520] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
+    Section 25(5): amended, on 9 April 2008, by [section 6(3)][522] of the Hazardous Substances and New Organisms Amendment Act 2008 (2008 No 22).
     
-    Section 25(6): added, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(6): added, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(7): added, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(7): added, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 25(8): added, on 30 October 2003, by [section 12(2)][521] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 25(8): added, on 30 October 2003, by [section 12(2)][523] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 25A Prohibition of import, manufacture, or use of persistent organic pollutants
     
@@ -2151,7 +2153,7 @@ Assessment of hazardous substances and new organisms
     
     (2) A persistent organic pollutant that is manufactured in New Zealand must not be used in New Zealand except for a use specified in [Schedule 2A][417] for the persistent organic pollutant.
     
-    Section 25A: inserted, on 23 December 2004, by [section 7][522] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 25A: inserted, on 23 December 2004, by [section 7][524] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 25B Prohibition on storage of persistent organic pollutants
     
@@ -2163,13 +2165,13 @@ Assessment of hazardous substances and new organisms
     
     *   (b) a persistent organic pollutant in respect of which storage is specified in [Schedule 2A][417].
     
-    Section 25B: inserted, on 23 December 2004, by [section 7][522] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 25B: inserted, on 23 December 2004, by [section 7][524] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 25B(2)(a): amended, on 22 December 2005, by [section 9][523] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 25B(2)(a): amended, on 22 December 2005, by [section 9][525] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 25C Continuation of certain exemptions under Toxic Substances Regulations 1983
     
-*   (1) For the purposes of [sections 25A][44] and [25B][45] and [Schedule 2A][417], an exemption granted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983 that is in force immediately before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][524] continues---
+*   (1) For the purposes of [sections 25A][44] and [25B][45] and [Schedule 2A][417], an exemption granted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983 that is in force immediately before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][526] continues---
         
     *   (a) on the same terms and conditions as in force at that time; and
     
@@ -2183,11 +2185,11 @@ Assessment of hazardous substances and new organisms
     
     (2) The Authority may grant an extension of an exemption for the purposes of subsection (1)(b)(ii).
     
-    Section 25C: inserted, on 23 December 2004, by [section 7][522] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 25C: inserted, on 23 December 2004, by [section 7][524] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 25D Use of persistent organic pollutants imported or manufactured before commencement of Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003
     
-*   (1) This section applies to persistent organic pollutants imported or manufactured before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][524].
+*   (1) This section applies to persistent organic pollutants imported or manufactured before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][526].
     
     (2) No person may use a persistent organic pollutant for a use not specified in [Schedule 2A][417] if the Authority has issued a direction, by notice in the _Gazette_, restricting the use of the persistent organic pollutant to the use in that schedule for the persistent organic pollutant.
     
@@ -2197,7 +2199,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) [section 30(ba)][58], but only for research in a laboratory.
     
-    Section 25D: inserted, on 23 December 2004, by [section 7][522] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 25D: inserted, on 23 December 2004, by [section 7][524] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 26 Determination of new organism or hazardous substance
     
@@ -2207,17 +2209,17 @@ Assessment of hazardous substances and new organisms
         
     *   (a) any information held by the Authority; and
     
-    *   (b) any information held by any department listed in [Schedule 1][525] of the State Sector Act 1988 and any Crown entity; and
+    *   (b) any information held by any department listed in [Schedule 1][527] of the State Sector Act 1988 and any Crown entity; and
     
     *   (c) any information provided by the applicant.
     
     (3) Any determination issued by the Authority under subsection (1) may be revoked or reissued on receipt of further information by the Authority.
     
-    Section 26 heading: amended, on 2 July 2001, by [section 7(2)][526] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 26 heading: amended, on 2 July 2001, by [section 7(2)][528] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 26(1): amended, on 2 July 2001, by [section 7(1)][526] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 26(1): amended, on 2 July 2001, by [section 7(1)][528] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 26(2)(b): amended, on 25 January 2005, by [section 37(1)][456] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26(2)(b): amended, on 25 January 2005, by [section 37(1)][457] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 27 Types of approval
     
@@ -2239,11 +2241,11 @@ Assessment of hazardous substances and new organisms
     
     *   (f) an approval to import an agricultural compound or medicine for release in a special emergency, release an agricultural compound or medicine from containment in a special emergency, or use an agricultural compound or a medicine in a special emergency.
     
-    Section 27(ba): inserted, on 30 October 2003, by [section 14(1)][527] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 27(ba): inserted, on 30 October 2003, by [section 14(1)][529] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 27(bb): inserted, on 30 October 2003, by [section 14(1)][527] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 27(bb): inserted, on 30 October 2003, by [section 14(1)][529] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 27(f): added, on 30 October 2003, by [section 14(2)][527] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 27(f): added, on 30 October 2003, by [section 14(2)][529] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 27A Approvals at any taxonomic classification
     
@@ -2255,7 +2257,7 @@ Assessment of hazardous substances and new organisms
     
     (4) Despite subsections (2) and (3), an approval may exclude any organism or groups of organisms from its scope.
     
-    Section 27A: inserted, on 30 October 2003, by [section 15][528] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 27A: inserted, on 30 October 2003, by [section 15][530] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Approvals for hazardous substances
 
@@ -2287,9 +2289,9 @@ Assessment of hazardous substances and new organisms
     
     (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 28(1): amended, on 2 July 2001, by [section 8(1)][529] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 28(1): amended, on 2 July 2001, by [section 8(1)][531] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 28(2): amended, on 2 July 2001, by [section 8(2)][529] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 28(2): amended, on 2 July 2001, by [section 8(2)][531] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 28A Rapid assessment for importation or manufacture of hazardous substances
     
@@ -2307,13 +2309,13 @@ Assessment of hazardous substances and new organisms
     
     (4) If the Authority does not approve a hazardous substance under this section the application under [section 28][52] may be determined under [section 29][54].
     
-    Section 28A: inserted, on 2 July 2001, by [section 9][530] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 28A: inserted, on 2 July 2001, by [section 9][532] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 28A(2)(b): amended, on 22 December 2005, by [section 10(1)][531] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 28A(2)(b): amended, on 22 December 2005, by [section 10(1)][533] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 28A(2)(c): added, on 22 December 2005, by [section 10(1)][531] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 28A(2)(c): added, on 22 December 2005, by [section 10(1)][533] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 28A(3): amended, on 22 December 2005, by [section 10(2)][531] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 28A(3): amended, on 22 December 2005, by [section 10(2)][533] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 29 Determination of applications
     
@@ -2345,13 +2347,13 @@ Assessment of hazardous substances and new organisms
     
     (3) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
     
-    Section 29(2): amended, on 22 December 2005, by [section 11][532] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 29(2): amended, on 22 December 2005, by [section 11][534] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 29A Approvals for innovative agricultural compounds and medicines
     
 *   \[Repealed\]
     
-    Section 29A: repealed, on 30 October 2003, by [section 16(1)][533] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 29A: repealed, on 30 October 2003, by [section 16(1)][535] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 29B Applications relating to persistent organic pollutants
     
@@ -2363,7 +2365,7 @@ Assessment of hazardous substances and new organisms
     
     (2) An application to manufacture a persistent organic pollutant may be granted if manufacture for the persistent organic pollutant is specified in [Schedule 2A][417].
     
-    Section 29B: inserted, on 23 December 2004, by [section 8][534] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 29B: inserted, on 23 December 2004, by [section 8][536] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 #### Containment approvals for hazardous substances
 
@@ -2389,11 +2391,11 @@ Assessment of hazardous substances and new organisms
     
     *   (d) such other purposes as the Authority thinks fit.
     
-    Section 30(a): substituted, on 23 December 2004, by [section 9][535] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 30(a): substituted, on 23 December 2004, by [section 9][537] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 30(ba): inserted, on 2 July 2001, by [section 11][536] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 30(ba): inserted, on 2 July 2001, by [section 11][538] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 30(ca): inserted, on 22 December 2005, by [section 12][537] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 30(ca): inserted, on 22 December 2005, by [section 12][539] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 31 Application for hazardous substance containment approval
     
@@ -2425,7 +2427,7 @@ Assessment of hazardous substances and new organisms
     
     (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 31(2): amended, on 2 July 2001, by [section 12][538] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 31(2): amended, on 2 July 2001, by [section 12][540] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 32 Decision on application
     
@@ -2439,7 +2441,7 @@ Assessment of hazardous substances and new organisms
     
     (3) The Authority shall give its decision, in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
     
-    Section 32(2): substituted, on 2 July 2001, by [section 13][539] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 32(2): substituted, on 2 July 2001, by [section 13][541] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 33 Exemptions from Act for small-scale research on hazardous substances
     
@@ -2467,13 +2469,13 @@ Assessment of hazardous substances and new organisms
         
         
     
-    Section 33: substituted, on 2 July 2001, by [section 14][540] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 33: substituted, on 2 July 2001, by [section 14][542] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 33(1)(ba): inserted, on 23 December 2004, by [section 10][541] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 33(1)(ba): inserted, on 23 December 2004, by [section 10][543] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 33(1)(d): amended, on 22 December 2005, by [section 13(1)][542] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 33(1)(d): amended, on 22 December 2005, by [section 13(1)][544] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 33(2): added, on 22 December 2005, by [section 13(2)][542] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 33(2): added, on 22 December 2005, by [section 13(2)][544] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 #### Assessment of new organisms for importation or release
 
@@ -2507,11 +2509,11 @@ Assessment of hazardous substances and new organisms
     
     (4) Any applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 34(1): amended, on 30 October 2003, by [section 17(1)][543] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 34(1): amended, on 30 October 2003, by [section 17(1)][545] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 34(2): amended, on 30 October 2003, by [section 17(2)][543] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 34(2): amended, on 30 October 2003, by [section 17(2)][545] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 34(2): amended, on 31 December 2000, by [section 15][544] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 34(2): amended, on 31 December 2000, by [section 15][546] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 34A Applications for conditional release and for release in respect of same new organism
     
@@ -2521,7 +2523,7 @@ Assessment of hazardous substances and new organisms
     
     (3) If the application is granted, the approval takes effect immediately after the expiry of the conditional release approval.
     
-    Section 34A: inserted, on 30 October 2003, by [section 18][545] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 34A: inserted, on 30 October 2003, by [section 18][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 35 Rapid assessment of risk for importation of new organisms
     
@@ -2621,15 +2623,15 @@ Assessment of hazardous substances and new organisms
     
     (5) The Authority shall give its decision in writing, including reasons for the decision, give written notice of the decision to the applicant and every person who made a submission, and publicly notify it.
     
-    Section 38(1): amended, on 30 October 2003, by [section 19(1)][546] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38(1): amended, on 30 October 2003, by [section 19(1)][548] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 38(2): substituted, on 30 October 2003, by [section 19(2)][546] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38(2): substituted, on 30 October 2003, by [section 19(2)][548] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 38(3A): inserted, on 30 October 2003, by [section 19(3)][546] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38(3A): inserted, on 30 October 2003, by [section 19(3)][548] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Conditional release of new organisms
     
-*   Heading: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38A Application for approval to import or release new organism with controls
     
@@ -2657,15 +2659,15 @@ Assessment of hazardous substances and new organisms
     
     (4) Any applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 38A: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38A: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38B Application under section 34 may be treated as application under section 38A
     
 *   The Authority may, with the agreement of the applicant, treat an application made under [section 34][63] as if it were an application made under [section 38A][70], and sections 38A, [38BA][72], [38C][73], and [53(1)(ab)][123] apply accordingly.
     
-    Section 38B: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38B: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 38B: amended, on 20 April 2010, by [section 8][548] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 38B: amended, on 20 April 2010, by [section 8][550] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 38BA Rapid assessment of risk for importation or release of new organisms with controls
     
@@ -2677,7 +2679,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) after the controls are imposed, the organism will comply with [section 35(2)(b)][65].
     
-    Section 38BA: inserted, on 20 April 2010, by [section 9][549] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 38BA: inserted, on 20 April 2010, by [section 9][551] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 38C Determination of applications to import or release new organisms with controls
     
@@ -2707,9 +2709,9 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the ease with which the organism could be recovered or eradicated if it formed a self-sustaining population.
     
-    Section 38C: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38C: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 38C(1): amended, on 20 April 2010, by [section 10][550] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 38C(1): amended, on 20 April 2010, by [section 10][552] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 38D Controls
     
@@ -2737,7 +2739,7 @@ Assessment of hazardous substances and new organisms
     
     (2) Subsection (1) does not limit the type of controls the Authority may impose on a conditional release approval.
     
-    Section 38D: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38D: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38E Duration of conditional release approval
     
@@ -2751,13 +2753,13 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the close of the date on which the last control to which the approval relates expires.
     
-    Section 38E: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38E: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38F Consequences of expiry of conditional release approval
     
 *   On the expiry of a conditional release approval, the new organism concerned must be disposed of unless, before the expiry of the approval, another approval has been granted under this Act.
     
-    Section 38F: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38F: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38G Review of controls on conditional release approval
     
@@ -2787,17 +2789,17 @@ Assessment of hazardous substances and new organisms
     
     (3) This section does not limit [section 67A][142].
     
-    Section 38G: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38G: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38H Restriction on release of new organism subject to conditional release approval
     
 *   A person who did not obtain a conditional release approval for a new organism that is subject to a conditional release approval must not release the new organism in accordance with the approval unless, before the release, the person has given notice in writing to the Authority of the proposed release.
     
-    Section 38H: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38H: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Release of qualifying organisms
     
-*   Heading: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38I Assessment of applications for release of qualifying organisms
     
@@ -2839,11 +2841,11 @@ Assessment of hazardous substances and new organisms
     
     (5) An approval granted under this section is not an approval---
         
-    *   (a) to use a qualifying medicine until the medicine has been lawfully supplied for use under the [Medicines Act 1981][444]; or
+    *   (a) to use a qualifying medicine until the medicine has been lawfully supplied for use under the [Medicines Act 1981][445]; or
     
-    *   (b) to use a qualifying veterinary medicine until the veterinary medicine has been approved for use under the [Agricultural Compounds and Veterinary Medicines Act 1997][445].
+    *   (b) to use a qualifying veterinary medicine until the veterinary medicine has been approved for use under the [Agricultural Compounds and Veterinary Medicines Act 1997][446].
     
-    Section 38I: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38I: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38J Procedure for assessing and approving application by responsible chief executive
     
@@ -2855,7 +2857,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) if the responsible chief executive is satisfied that the medicine is a qualifying medicine or the veterinary medicine is a qualifying veterinary medicine, the responsible chief executive may, with or without controls, approve the release of the qualifying organism.
     
-    Section 38J: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38J: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38K Controls
     
@@ -2873,7 +2875,7 @@ Assessment of hazardous substances and new organisms
     
     (2) Subsection (1) does not limit the type of controls that may be imposed on the importation for release or release from containment of a qualifying organism.
     
-    Section 38K: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38K: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 38L Review of controls for qualifying organisms
     
@@ -2903,7 +2905,7 @@ Assessment of hazardous substances and new organisms
     
     (3) This section does not limit [section 67A][142].
     
-    Section 38L: inserted, on 30 October 2003, by [section 20][547] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 38L: inserted, on 30 October 2003, by [section 20][549] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Containment approval for new organisms
 
@@ -2941,13 +2943,13 @@ Assessment of hazardous substances and new organisms
     
     *   (b) may be granted only for 1 or more of the purposes specified in subsection (1).
     
-    Section 39(1)(a): amended, on 30 October 2003, by [section 21(1)][551] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 39(1)(a): amended, on 30 October 2003, by [section 21(1)][553] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 39(2): substituted, on 30 October 2003, by [section 21(2)][551] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 39(2): substituted, on 30 October 2003, by [section 21(2)][553] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 39(3): added, on 30 October 2003, by [section 21(2)][551] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 39(3): added, on 30 October 2003, by [section 21(2)][553] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 39(4): added, on 30 October 2003, by [section 21(2)][551] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 39(4): added, on 30 October 2003, by [section 21(2)][553] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 40 Application for containment approval for new organisms
     
@@ -2987,15 +2989,15 @@ Assessment of hazardous substances and new organisms
     
     (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 40(1): substituted, on 20 April 2010, by [section 11][552] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 40(1): substituted, on 20 April 2010, by [section 11][554] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 40(2): amended, on 31 December 2000, by [section 16][553] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 40(2): amended, on 31 December 2000, by [section 16][555] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 40(2)(a)(iv): amended, on 7 May 1999, by [section 4][554] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 40(2)(a)(iv): amended, on 7 May 1999, by [section 4][556] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 40(2)(b): amended, on 30 October 2003, by [section 22][555] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 40(2)(b): amended, on 30 October 2003, by [section 22][557] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 40(2)(b)(ii): amended, on 30 October 2003, by [section 22][555] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 40(2)(b)(ii): amended, on 30 October 2003, by [section 22][557] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 41 Assessment of adverse effects of developing genetically modified organisms
     
@@ -3039,7 +3041,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) direct the applicant to provide progress reports on the development at the times specified or required by the Authority.
     
-    Section 42A: inserted, on 30 October 2003, by [section 23][556] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 42A: inserted, on 30 October 2003, by [section 23][558] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 42B Rapid assessment of adverse effects for importation of genetically modified organisms into containment
     
@@ -3049,13 +3051,13 @@ Assessment of hazardous substances and new organisms
     
     (3) [Section 25(4)][43] does not apply if an application is approved under this section by a person acting under delegated authority from the Authority under [section 19(2)(a)][28].
     
-    Section 42B: inserted, on 30 October 2003, by [section 23][556] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 42B: inserted, on 30 October 2003, by [section 23][558] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 42C Rapid assessment of adverse effects for development in containment, etc, of certain new organisms
     
 *   (1) If the Authority receives an application under [section 40][86] in respect of a new organism (other than a genetically modified organism), the Authority may make a rapid assessment of the adverse effects of importing the organism into containment, or of developing or field testing the organism in containment.
     
-    (2) If the Authority is satisfied that the importation, development, or field testing is low-risk, in accordance with regulations made under subsection (3), the Authority may approve the application and impose controls providing for each of the matters specified in [Part 2][557] of Schedule 3 as the Authority thinks fit.
+    (2) If the Authority is satisfied that the importation, development, or field testing is low-risk, in accordance with regulations made under subsection (3), the Authority may approve the application and impose controls providing for each of the matters specified in [Part 2][559] of Schedule 3 as the Authority thinks fit.
     
     (3) The Governor-General may, by Order in Council, make regulations specifying the circumstances in which there is a low risk of adverse effects from---
         
@@ -3063,7 +3065,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) developing or field testing a new organism (other than a genetically modified organism) in containment.
     
-    Section 42C: inserted, on 20 April 2010, by [section 12][558] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 42C: inserted, on 20 April 2010, by [section 12][560] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 43 Additional matters to be considered when application made for developing new organisms in containment
     
@@ -3073,11 +3075,11 @@ Assessment of hazardous substances and new organisms
     
     *   (b) in the case of all applications made under [section 40][86] to develop a new organism in containment, the matters specified in [section 37][67].
     
-    Section 43: substituted, on 30 October 2003, by [section 24][559] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 43: substituted, on 30 October 2003, by [section 24][561] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 43(a): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 43(a): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 43(b): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 43(b): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 44 Additional matters to be considered on applications for importing and field testing of organisms
     
@@ -3087,7 +3089,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the ability of the organism to escape from containment.
     
-    Section 44: amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 44: amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ##### 44A Additional matters to be considered for certain developments and field tests
     
@@ -3115,9 +3117,9 @@ Assessment of hazardous substances and new organisms
     
     (4) \[Repealed\]
     
-    Section 44A: inserted, on 28 May 2002, by [section 7(1)][560] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    Section 44A: inserted, on 28 May 2002, by [section 7(1)][562] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
-    Section 44A(4): repealed, on 30 October 2003, by [section 25][561] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 44A(4): repealed, on 30 October 2003, by [section 25][563] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 45 Determination of application
     
@@ -3151,13 +3153,13 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the effects of the organism, if the organism were to escape.
     
-    Section 45(1): amended, on 20 April 2010, by [section 13][562] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 45(1): amended, on 20 April 2010, by [section 13][564] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 45(1)(a)(ii): substituted, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 45(1)(a)(ii): substituted, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 45(2): substituted, on 31 December 2000, by [section 17][563] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 45(2): substituted, on 31 December 2000, by [section 17][565] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 45(4): added, on 30 October 2003, by [section 26(3)][564] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 45(4): added, on 30 October 2003, by [section 26(3)][566] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 45A Controls required for certain developments and for all field tests
     
@@ -3175,7 +3177,7 @@ Assessment of hazardous substances and new organisms
     
     (3) In subsection (2), _destroyed_ includes leaving genetic elements to break down or become inactive at the site of the development or field test.
     
-    Section 45A: inserted, on 28 May 2002, by [section 8(1)][565] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    Section 45A: inserted, on 28 May 2002, by [section 8(1)][567] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
 
 ##### 45B Animals in circus or zoological garden deemed approved under section 255
     
@@ -3187,7 +3189,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) remove or vary the conditions imposed under [section 255][408] that the organism remains at a particular place.
     
-    Section 45B: inserted, on 30 October 2003, by [section 27][566] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 45B: inserted, on 30 October 2003, by [section 27][568] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Use of hazardous substances and new organisms in emergencies
 
@@ -3195,21 +3197,21 @@ Assessment of hazardous substances and new organisms
     
 *   (1) For the purposes of [section 30(c)][58] and [sections 47 to 49][100], _emergency_ means---
         
-    *   (a) an event involving the release of a new organism for which a national pest management plan has been approved under [section 66][567] of the Biosecurity Act 1993; or
+    *   (a) an event involving the release of a new organism for which a national pest management plan has been approved under [section 66][569] of the Biosecurity Act 1993; or
     
-    *   (b) a state of emergency declared under the [Civil Defence Emergency Management Act 2002][568]; or
+    *   (b) a state of emergency declared under the [Civil Defence Emergency Management Act 2002][570]; or
     
-    *   (c) an emergency as defined in [section 2][569] of the Fire Service Act 1975; or
+    *   (c) an emergency as defined in [section 2][571] of the Fire Service Act 1975; or
     
     *   (d) an emergency declared under [Part 9][262]; or
     
-    *   (e) a marine oil spill emergency under the [Maritime Transport Act 1994][570].
+    *   (e) a marine oil spill emergency under the [Maritime Transport Act 1994][572].
     
     (2) [Sections 47][100] and [48][101] apply to every foreseeable emergency where the importation, release, or use of the hazardous substance or new organism in that emergency is also foreseeable.
     
-    Section 46(1)(a): amended, on 18 September 2012, by [section 93][571] of the Biosecurity Law Reform Act 2012 (2012 No 73).
+    Section 46(1)(a): amended, on 18 September 2012, by [section 93][573] of the Biosecurity Law Reform Act 2012 (2012 No 73).
     
-    Section 46(1)(b): substituted, on 1 December 2002, by [section 117][572] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 46(1)(b): substituted, on 1 December 2002, by [section 117][574] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ##### 47 Application for approval to use a hazardous substance or new organism in an emergency
     
@@ -3243,7 +3245,7 @@ Assessment of hazardous substances and new organisms
     
     (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 47(2): amended, on 31 December 2000, by [section 18][573] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 47(2): amended, on 31 December 2000, by [section 18][575] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 48 Determination of applications
     
@@ -3283,11 +3285,11 @@ Assessment of hazardous substances and new organisms
     
     was not foreseeable.
     
-    Section 49: amended, on 30 October 2003, by [section 28][574] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49: amended, on 30 October 2003, by [section 28][576] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Rapid assessment and approval of agricultural compounds and medicines in special emergencies
     
-*   Heading: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49A Interpretation
     
@@ -3295,37 +3297,39 @@ Assessment of hazardous substances and new organisms
     
     _adverse event_ includes, but is not limited to, any of the events or emergencies specified in [section 46(1)][99]
     
-    _agricultural compound_ means an agricultural compound (as defined in [section 2(1)][576] of the Agricultural Compounds and Veterinary Medicines Act 1997) that is or contains a hazardous substance or a new organism
+    _agricultural compound_ means an agricultural compound (as defined in [section 2(1)][578] of the Agricultural Compounds and Veterinary Medicines Act 1997) that is or contains a hazardous substance or a new organism
     
     _government agency_ means---
         
-    *   (a) a department specified in [Schedule 1][525] of the State Sector Act 1988:
+    *   (a) a department specified in [Schedule 1][527] of the State Sector Act 1988:
     
-    *   (b) a Crown entity specified in [Schedule 4][429] of the Public Finance Act 1989
+    *   (b) a Crown entity specified in [Schedule 4][429] or [4A][430] of the Public Finance Act 1989
     
     _interested government agency_ means a government agency that, in the opinion of the Authority, is likely to have an interest in the approval of an agricultural compound or medicine in a special emergency
     
-    _medicine_ means a medicine (as defined in [section 3][440] of the Medicines Act 1981) that is or contains a hazardous substance or new organism
+    _medicine_ means a medicine (as defined in [section 3][441] of the Medicines Act 1981) that is or contains a hazardous substance or new organism
     
     _responsible Minister_ means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of---
         
     *   (a) this Act; or
     
-    *   (b) the [Agricultural Compounds and Veterinary Medicines Act 1997][445]; or
+    *   (b) the [Agricultural Compounds and Veterinary Medicines Act 1997][446]; or
     
     *   (c) the [Biosecurity Act 1993][427]; or
     
-    *   (d) the [Conservation Act 1987][443]; or
+    *   (d) the [Conservation Act 1987][444]; or
     
-    *   (e) the [Fisheries Act 1996][577]; or
+    *   (e) the [Fisheries Act 1996][579]; or
     
-    *   (f) the [Health Act 1956][578]; or
+    *   (f) the [Health Act 1956][580]; or
     
-    *   (g) the [Medicines Act 1981][444]
+    *   (g) the [Medicines Act 1981][445]
     
     _special emergency_ means a special emergency declared under [section 49B][105].
     
-    Section 49A: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49A: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    
+    Section 49A **government agency** paragraph (b): amended, on 18 July 2013, by [section 57][458] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 49B Declaration of special emergency
     
@@ -3335,7 +3339,7 @@ Assessment of hazardous substances and new organisms
         
     *   (a) must be notified or published in the _Gazette_ as soon as practicable after the special emergency is declared; and
     
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][579].
+    *   (b) is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][581] and does not have to be presented to the House of Representatives under [section 41][582] of that Act.
     
     (3) A special emergency expires---
         
@@ -3343,7 +3347,9 @@ Assessment of hazardous substances and new organisms
     
     *   (b) if paragraph (a) does not apply, then on the close of a date specified by notice in the _Gazette_ as the date of expiry of the emergency.
     
-    Section 49B: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49B: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    
+    Section 49B(2)(b): replaced, on 5 August 2013, by [section 77(3)][583] of the Legislation Act 2012 (2012 No 119).
 
 ##### 49C Application of sections 49D to 49K
     
@@ -3353,7 +3359,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the importation, release, or use of an agricultural compound or medicine in the special emergency is foreseeable.
     
-    Section 49C: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49C: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49D Application for approval to use agricultural compound or medicine in special emergency
     
@@ -3375,7 +3381,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the applicant may import, release, or use the agricultural compound or medicine before the declaration of the special emergency has been notified or published in the _Gazette_.
     
-    Section 49D: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49D: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49E Contents of application
     
@@ -3415,7 +3421,7 @@ Assessment of hazardous substances and new organisms
     
     (4) An applicant may, by written notice to the Authority, withdraw the application at any time.
     
-    Section 49E: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49E: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49F Determination of applications
     
@@ -3437,7 +3443,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) if the application relates to a new organism, the proposed plan does not adequately control the adverse effects of the new organism or any inseparable organism (including, but not limited to, adequate control of the organism if the organism is likely to establish an undesirable self-sustaining population, taking into account the ease of destroying such a population).
     
-    Section 49F: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49F: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49G Controls attaching to approval of application
     
@@ -3449,7 +3455,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the requirements for the eradication or control of any new organism.
     
-    Section 49G: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49G: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49H Notification or publication of approval of application
     
@@ -3469,7 +3475,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the Authority must make copies of the approval available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Authority and at any other places that the Authority determines as necessary or appropriate.
     
-    Section 49H: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49H: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49I Effect of approval of release
     
@@ -3477,7 +3483,7 @@ Assessment of hazardous substances and new organisms
     
     (2) If an approval relates to a new organism, the organism does not cease to be a new organism because it is released in accordance with the approval.
     
-    Section 49I: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49I: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49J Duration of approval
     
@@ -3495,17 +3501,17 @@ Assessment of hazardous substances and new organisms
     
     *   (c) if paragraph (a) or paragraph (b) does not apply, 2 years after the date on which the approval is granted.
     
-    Section 49J: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49J: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 49K Consequences of expiry of approval
     
 *   On the expiry of an approval under [section 49F][109] that relates to a hazardous substance or new organism, the hazardous substance or new organism must be disposed of unless, before the expiry of the approval, the applicant has, under any other provision of this Act, been granted an approval.
     
-    Section 49K: inserted, on 30 October 2003, by [section 29][575] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 49K: inserted, on 30 October 2003, by [section 29][577] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Rapid assessment and approval of other hazardous substances in special emergencies
     
-*   Heading: inserted, on 22 December 2005, by [section 14][580] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+*   Heading: inserted, on 22 December 2005, by [section 14][584] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 49L Rapid assessment and approval of other hazardous substances in special emergencies
     
@@ -3513,7 +3519,7 @@ Assessment of hazardous substances and new organisms
     
     (2) In this section, _other hazardous substances_ means hazardous substances that are not already covered by [sections 49A to 49K][104] by virtue of being contained in an agricultural compound or a medicine.
     
-    Section 49L: inserted, on 22 December 2005, by [section 14][580] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 49L: inserted, on 22 December 2005, by [section 14][584] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 #### Prohibited list organisms
 
@@ -3541,19 +3547,21 @@ Assessment of hazardous substances and new organisms
     
     (4) The Authority, when making a recommendation under subsection (3), may advise the Minister that a group of organisms should be included in [Schedule 2][416] if it is difficult for persons to distinguish between high-risk and low-risk members of that group.
     
-    (5) Every Order in Council made under this section shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][581].
+    (5) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][581] and must be presented to the House of Representatives under [section 41][582] of that Act.
     
-    Section 50(1): amended, on 30 October 2003, by [section 30(1)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(1): amended, on 30 October 2003, by [section 30(1)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 50(2): substituted, on 30 October 2003, by [section 30(2)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(2): substituted, on 30 October 2003, by [section 30(2)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 50(2A): inserted, on 30 October 2003, by [section 30(2)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(2A): inserted, on 30 October 2003, by [section 30(2)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 50(2B): inserted, on 30 October 2003, by [section 30(2)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(2B): inserted, on 30 October 2003, by [section 30(2)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 50(3): amended, on 30 October 2003, by [section 30(1)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(3): amended, on 30 October 2003, by [section 30(1)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 50(4): amended, on 30 October 2003, by [section 30(1)][582] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 50(4): amended, on 30 October 2003, by [section 30(1)][585] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    
+    Section 50(5): replaced, on 5 August 2013, by [section 77(3)][583] of the Legislation Act 2012 (2012 No 119).
 
 #### Transhipment
 
@@ -3577,7 +3585,7 @@ Assessment of hazardous substances and new organisms
         
         
     
-    Section 51(2)(a): amended, on 30 October 2003, by [section 31][583] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 51(2)(a): amended, on 30 October 2003, by [section 31][586] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Procedure for assessment
 
@@ -3621,7 +3629,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the place where the application and accompanying information may be viewed, and the address for service of the Authority and the applicant unless that information has been withheld---
             
-        *   (i) in accordance with the [Official Information Act 1982][584]; or
+        *   (i) in accordance with the [Official Information Act 1982][587]; or
         
         *   (ii) in accordance with this Act.
         
@@ -3631,37 +3639,37 @@ Assessment of hazardous substances and new organisms
         
     *   (a) the Minister; and
     
-    *   (b) any department listed in [Schedule 1][525] of the State Sector Act 1988 and any Crown entity which, in the opinion of the Authority, is likely to have an interest in the application; and
+    *   (b) any department listed in [Schedule 1][527] of the State Sector Act 1988 and any Crown entity which, in the opinion of the Authority, is likely to have an interest in the application; and
     
     *   (c) if the application is an application for approval of a new organism,---
             
         *   (i) the Department of Conservation; and
         
-        *   (ii) any local authority (within the meaning of the [Local Government Act 2002][442]) if, in the opinion of the Authority, the local authority is likely to have an interest in the application.
+        *   (ii) any local authority (within the meaning of the [Local Government Act 2002][443]) if, in the opinion of the Authority, the local authority is likely to have an interest in the application.
         
         
     
-    Section 53(1)(a): repealed, on 20 April 2010, by [section 14(1)][585] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 53(1)(a): repealed, on 20 April 2010, by [section 14(1)][588] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 53(1)(ab): inserted, on 30 October 2003, by [section 32(1)][586] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 53(1)(ab): inserted, on 30 October 2003, by [section 32(1)][589] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 53(1)(ab): amended, on 20 April 2010, by [section 14(2)][585] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 53(1)(ab): amended, on 20 April 2010, by [section 14(2)][588] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 53(1)(b): amended, on 30 October 2003, by [section 32(2)][586] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 53(1)(b): amended, on 30 October 2003, by [section 32(2)][589] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 53(1)(c): amended, on 30 October 2003, by [section 32(3)][586] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 53(1)(c): amended, on 30 October 2003, by [section 32(3)][589] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 53(1)(f): added, on 22 December 2005, by [section 15][587] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 53(1)(f): added, on 22 December 2005, by [section 15][590] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 53(2): substituted, on 20 April 2010, by [section 14(3)][585] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 53(2): substituted, on 20 April 2010, by [section 14(3)][588] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 53(3)(b): amended, on 7 May 1999, by [section 5][588] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 53(3)(b): amended, on 7 May 1999, by [section 5][591] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 53(3)(c)(ii): amended, on 7 May 1999, by [section 15(b)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 53(3)(c)(ii): amended, on 7 May 1999, by [section 15(b)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 53(4)(b): amended, on 25 January 2005, by [section 37(1)][456] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 53(4)(b): amended, on 25 January 2005, by [section 37(1)][457] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 53(4)(c)(ii): substituted, on 30 October 2003, by [section 32(5)][586] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 53(4)(c)(ii): substituted, on 30 October 2003, by [section 32(5)][589] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 53A Method of public notification
     
@@ -3705,7 +3713,7 @@ Assessment of hazardous substances and new organisms
     
     *   (c) the relevant application has not yet been lodged with the Authority,---
     
-    the information shall be held by the Authority on behalf of that person; and the provisions of the [Official Information Act 1982][584] shall not apply to that information until the relevant application has been received by the Authority.
+    the information shall be held by the Authority on behalf of that person; and the provisions of the [Official Information Act 1982][587] shall not apply to that information until the relevant application has been received by the Authority.
     
     (2) Where any information supplied under subsection (1) is held by the Authority on behalf of any person, that information shall be returned upon request.
     
@@ -3713,15 +3721,15 @@ Assessment of hazardous substances and new organisms
         
     *   (a) any information is held by the Authority relating to any application made under this Act in respect of a hazardous substance or new organism; and
     
-    *   (b) the substance or organism that is the subject of the application is also the subject of an innovative medicine application as defined in [section 23A][519] of the Medicines Act 1981; and
+    *   (b) the substance or organism that is the subject of the application is also the subject of an innovative medicine application as defined in [section 23A][521] of the Medicines Act 1981; and
     
     *   (c) that information includes trade secrets or information that has commercial value that would be, or would be likely to be, diminished by disclosure,---
     
-    the provisions of [sections 23A to 23C][519] of the Medicines Act 1981, with the necessary modifications, shall apply to that information as if the information were confidential supporting information as defined in section 23A of that Act.
+    the provisions of [sections 23A to 23C][521] of the Medicines Act 1981, with the necessary modifications, shall apply to that information as if the information were confidential supporting information as defined in section 23A of that Act.
     
-    (4) The provisions of [sections 23A to 23C][519] of the Medicines Act 1981, with the necessary modifications, shall also apply to the Authority in respect of the information referred to in subsection (3) as if the Authority were the Minister of Health, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but---
+    (4) The provisions of [sections 23A to 23C][521] of the Medicines Act 1981, with the necessary modifications, shall also apply to the Authority in respect of the information referred to in subsection (3) as if the Authority were the Minister of Health, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but---
         
-    *   (a) the protected period (as defined in [section 23A][519] of the Medicines Act 1981) shall be the same period for which the information is protected under the [Medicines Act 1981][444]; and
+    *   (a) the protected period (as defined in [section 23A][521] of the Medicines Act 1981) shall be the same period for which the information is protected under the [Medicines Act 1981][445]; and
     
     *   (b) the Authority may disclose the information to any prescribed person or organisation or prescribed class of persons or organisations; and
     
@@ -3731,15 +3739,15 @@ Assessment of hazardous substances and new organisms
         
     *   (a) any information is held by the Authority relating to any application made under this Act in respect of a hazardous substance or new organism; and
     
-    *   (b) the substance or organism that is the subject of the application is also the subject of an innovative agricultural compound application as defined in [Part 6][589] of the Agricultural Compounds and Veterinary Medicines Act 1997; and
+    *   (b) the substance or organism that is the subject of the application is also the subject of an innovative agricultural compound application as defined in [Part 6][592] of the Agricultural Compounds and Veterinary Medicines Act 1997; and
     
     *   (c) that information includes trade secrets or information that has commercial value that would be, or would be likely to be, diminished by disclosure,---
     
-    the provisions of [Part 6][589] of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to that information as if the information were confidential supporting information as defined in that Part of that Act.
+    the provisions of [Part 6][592] of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to that information as if the information were confidential supporting information as defined in that Part of that Act.
     
-    (4B) The provisions of [Part 6][589] of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to the Authority in respect of the information referred to in subsection (4A) as if the Authority were the Director-General, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but---
+    (4B) The provisions of [Part 6][592] of the Agricultural Compounds and Veterinary Medicines Act 1997, with the necessary modifications, apply to the Authority in respect of the information referred to in subsection (4A) as if the Authority were the Director-General, and as if references in those sections to applications were references to applications in respect of hazardous substances or new organisms; but---
         
-    *   (a) the protected period (as defined in [Part 6][589] of the Agricultural Compounds and Veterinary Medicines Act 1997) is the same period for which the information is protected under the [Agricultural Compounds and Veterinary Medicines Act 1997][445]; and
+    *   (a) the protected period (as defined in [Part 6][592] of the Agricultural Compounds and Veterinary Medicines Act 1997) is the same period for which the information is protected under the [Agricultural Compounds and Veterinary Medicines Act 1997][446]; and
     
     *   (b) the Authority may disclose the information to any prescribed person or organisation or prescribed class of persons or organisations; and
     
@@ -3751,63 +3759,63 @@ Assessment of hazardous substances and new organisms
     
     (7) The Governor-General may, from time to time, by Order in Council, make regulations prescribing persons or organisations or classes of persons or organisations for the purposes of subsections (4)(b) and (4B)(b).
     
-    Section 55(3)(a): substituted, on 30 October 2003, by [section 33(1)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(3)(a): substituted, on 30 October 2003, by [section 33(1)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(3)(b): amended, on 30 October 2003, by [section 33(2)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(3)(b): amended, on 30 October 2003, by [section 33(2)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4): amended, on 30 October 2003, by [section 33(3)(a)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4): amended, on 30 October 2003, by [section 33(3)(a)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4)(c): amended, on 30 October 2003, by [section 33(3)(b)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4)(c): amended, on 30 October 2003, by [section 33(3)(b)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4A): inserted, on 2 July 2001, by [section 85][591] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 55(4A): inserted, on 2 July 2001, by [section 85][594] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
     
-    Section 55(4A)(a): substituted, on 30 October 2003, by [section 33(4)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4A)(a): substituted, on 30 October 2003, by [section 33(4)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4A)(b): amended, on 30 October 2003, by [section 33(5)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4A)(b): amended, on 30 October 2003, by [section 33(5)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4B): inserted, on 2 July 2001, by [section 85][591] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 55(4B): inserted, on 2 July 2001, by [section 85][594] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
     
-    Section 55(4B): amended, on 30 October 2003, by [section 33(6)(a)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4B): amended, on 30 October 2003, by [section 33(6)(a)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(4B)(c): amended, on 30 October 2003, by [section 33(6)(b)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(4B)(c): amended, on 30 October 2003, by [section 33(6)(b)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 55(5): repealed, on 2 July 2001, by [section 85][591] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 55(5): repealed, on 2 July 2001, by [section 85][594] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
     
-    Section 55(6): repealed, on 2 July 2001, by [section 85][591] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 55(6): repealed, on 2 July 2001, by [section 85][594] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
     
-    Section 55(7): amended, on 30 October 2003, by [section 33(7)][590] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 55(7): amended, on 30 October 2003, by [section 33(7)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 56 Consideration of information withheld under Official Information Act 1982
     
-*   Any information withheld from any person in accordance with [section 9(2)(b)][592] of the Official Information Act 1982 may be considered by the Authority in reaching a decision under this Act.
+*   Any information withheld from any person in accordance with [section 9(2)(b)][595] of the Official Information Act 1982 may be considered by the Authority in reaching a decision under this Act.
 
 ##### 57 Authority to withhold information
     
-*   (1) Where, in the Authority's opinion, any information which has been supplied to the Authority in respect of any application may be able to be withheld under [section 9(2)(b)][592] of the Official Information Act 1982, that information shall not be released to any person when any application is publicly notified.
+*   (1) Where, in the Authority's opinion, any information which has been supplied to the Authority in respect of any application may be able to be withheld under [section 9(2)(b)][595] of the Official Information Act 1982, that information shall not be released to any person when any application is publicly notified.
     
     (2) Where---
         
-    *   (a) the Authority receives a request to release any information held by the Authority under the [Official Information Act 1982][584]; and
+    *   (a) the Authority receives a request to release any information held by the Authority under the [Official Information Act 1982][587]; and
     
     *   (b) the information to which the request relates,---
             
-        *   (i) in the Authority's opinion, may be able to be withheld under [section 9(2)(b)][592] of that Act; or
+        *   (i) in the Authority's opinion, may be able to be withheld under [section 9(2)(b)][595] of that Act; or
         
         *   (ii) has been classified as commercially sensitive by the person who gave the information to the Authority,---
         
         the Authority shall make all reasonable efforts to contact and notify immediately the person who gave the information to the Authority that a request to release the information has been received.
     
-    (3) Where a person receives notice from the Authority under subsection (2), that person shall, within 10 working days of receipt of the notice, respond to the Authority stating whether that person believes that the information should be withheld under [section 9(2)(b)][592] of the Official Information Act 1982 and give reasons for that person's belief.
+    (3) Where a person receives notice from the Authority under subsection (2), that person shall, within 10 working days of receipt of the notice, respond to the Authority stating whether that person believes that the information should be withheld under [section 9(2)(b)][595] of the Official Information Act 1982 and give reasons for that person's belief.
     
-    (4) The Authority may release the information or withhold the information in accordance with the [Official Information Act 1982][584] if---
+    (4) The Authority may release the information or withhold the information in accordance with the [Official Information Act 1982][587] if---
         
     *   (a) the Authority has complied with subsection (2); and
     
     *   (b) the time limit specified in subsection (3) has expired.
     
-    Section 57(2): amended, on 30 October 2003, by [section 34(1)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 57(2): amended, on 30 October 2003, by [section 34(1)][596] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 57(4): substituted, on 30 October 2003, by [section 34(2)][593] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 57(4): substituted, on 30 October 2003, by [section 34(2)][596] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 58 Further information
     
@@ -3821,15 +3829,15 @@ Assessment of hazardous substances and new organisms
     
     (1A) Any report, advice, or other information obtained under subsection (1) may be considered at any hearing conducted by the Authority.
     
-    (2) Where the Authority obtains further information under subsection (1), the Authority, at least 10 working days before commencement of the hearing or consideration, as the case may be, of the application, shall notify the applicant and every person who made a submission that the information is available for inspection, unless that information has been withheld in accordance with [section 9(2)(b)][592] of the Official Information Act 1982\.
+    (2) Where the Authority obtains further information under subsection (1), the Authority, at least 10 working days before commencement of the hearing or consideration, as the case may be, of the application, shall notify the applicant and every person who made a submission that the information is available for inspection, unless that information has been withheld in accordance with [section 9(2)(b)][595] of the Official Information Act 1982\.
     
     (3) Where information is requested in accordance with subsection (1), the Authority may postpone the hearing or consideration of the application until the information has been received.
     
-    Section 58(1)(c): amended, on 30 October 2003, by [section 35][594] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 58(1)(c): amended, on 30 October 2003, by [section 35][597] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 58(1A): inserted, on 31 December 2000, by [section 21(1)][595] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 58(1A): inserted, on 31 December 2000, by [section 21(1)][598] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 58(2): amended, on 31 December 2000, by [section 21(2)][595] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 58(2): amended, on 31 December 2000, by [section 21(2)][598] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 59 Time limits and waivers
     
@@ -3887,19 +3895,19 @@ Assessment of hazardous substances and new organisms
     
     but in all cases must ensure the matter is carried out as promptly as is reasonable in the circumstances.
     
-    Section 59(1)(a): amended, on 30 October 2003, by [section 36(1)][596] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 59(1)(a): amended, on 30 October 2003, by [section 36(1)][599] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 59(1)(b): substituted, on 30 October 2003, by [section 36(2)][596] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 59(1)(b): substituted, on 30 October 2003, by [section 36(2)][599] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 59(1)(b): amended, on 20 April 2010, by [section 15][597] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 59(1)(b): amended, on 20 April 2010, by [section 15][600] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 59(1)(d): amended, on 31 December 2000, by [section 22(2)][598] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 59(1)(d): amended, on 31 December 2000, by [section 22(2)][601] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 59(2): amended, on 30 October 2003, by [section 36(3)][596] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 59(2): amended, on 30 October 2003, by [section 36(3)][599] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 59(4): amended, on 31 December 2000, by [section 22(3)][598] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 59(4): amended, on 31 December 2000, by [section 22(3)][601] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 59(5): amended, on 31 December 2000, by [section 22(4)][598] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 59(5): amended, on 31 December 2000, by [section 22(4)][601] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 60 Obligation to hold hearing
     
@@ -3919,11 +3927,11 @@ Assessment of hazardous substances and new organisms
     
     (2) The Authority shall keep a record of all proceedings before it.
     
-    (3) For the purpose of considering any application, the Authority shall have the same powers as are conferred on a Commission of Inquiry by the [Commissions of Inquiry Act 1908][476]; and [sections 4][599], [4B][600], [4D][601], [6][602], [7][603], [9][604], [11][605], and [12][606] of that Act shall apply accordingly.
+    (3) For the purpose of considering any application, the Authority shall have the same powers as are conferred on a Commission of Inquiry by the [Commissions of Inquiry Act 1908][478]; and [sections 4][602], [4B][603], [4D][604], [6][605], [7][606], [9][607], [11][608], and [12][609] of that Act shall apply accordingly.
     
     (4) The members of the Authority shall have, in relation to any such consideration and any decision on any matter, the same immunities and privileges as are possessed by a District Court Judge.
     
-    (4A) Subsection (4) applies despite [section 121][607] of the Crown Entities Act 2004\.
+    (4A) Subsection (4) applies despite [section 121][610] of the Crown Entities Act 2004\.
     
     (5) Every summons to a witness to appear at a hearing shall be in an approved form and be signed by the person chairing the hearing.
     
@@ -3941,11 +3949,11 @@ Assessment of hazardous substances and new organisms
     
     (9) Where any person who has stated that he or she wished to be heard fails to appear at the hearing, the Authority may nevertheless proceed with the hearing if it considers it fair and reasonable to do so.
     
-    Section 61(4A): inserted, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 61(4A): inserted, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 61(5): amended, on 31 December 2000, by [section 23][608] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 61(5): amended, on 31 December 2000, by [section 23][611] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 61(7): amended, on 7 May 1999, by [section 6][609] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 61(7): amended, on 7 May 1999, by [section 6][612] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 62 Grounds for reassessment of a substance or organism
     
@@ -3969,21 +3977,21 @@ Assessment of hazardous substances and new organisms
     
     (4) For the purposes of subsection (1), _assessed by the Authority_ means a decision under any of [sections 28A][53], [29][54], [32][60], [38BA][72], [38C][73], [38I][80], [42][88], [42A][89], [42B][90], [42C][91], [45][95] or [48][101] or a decision by the Minister under [section 73][149], or a deemed assessment under [section 160A][304].
     
-    Section 62(1): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 62(1): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 62(1): amended, on 30 October 2003, by [section 37(1)][610] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 62(1): amended, on 30 October 2003, by [section 37(1)][613] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 62(4): amended, on 20 April 2010, by [section 16(a)][611] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 62(4): amended, on 20 April 2010, by [section 16(a)][614] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 62(4): amended, on 20 April 2010, by [section 16(b)][611] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 62(4): amended, on 20 April 2010, by [section 16(b)][614] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 62(4): amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 62(4): amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 62(4): amended, on 30 October 2003, by [section 37(2)][610] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 62(4): amended, on 30 October 2003, by [section 37(2)][613] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 62(4): amended, on 2 July 2001, by [section 24][612] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 62(4): amended, on 2 July 2001, by [section 24][615] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 62(4): amended, on 7 May 1999, by [section 15(c)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 62(4): amended, on 7 May 1999, by [section 15(c)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 63 Reassessment
     
@@ -4005,17 +4013,17 @@ Assessment of hazardous substances and new organisms
     
     (3) However, a reassessment of a qualifying organism released with controls is not required to be publicly notified in accordance with [section 53][123].
     
-    Section 63(1): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 63(1): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 63(2)(a): amended, on 2 July 2001, by [section 25][613] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 63(2)(a): amended, on 2 July 2001, by [section 25][616] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 63(2)(c): amended, on 20 April 2010, by [section 17][614] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 63(2)(c): amended, on 20 April 2010, by [section 17][617] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 63(2)(ca): inserted, on 30 October 2003, by [section 38(1)][615] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 63(2)(ca): inserted, on 30 October 2003, by [section 38(1)][618] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 63(2)(cb): inserted, on 30 October 2003, by [section 38(1)][615] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 63(2)(cb): inserted, on 30 October 2003, by [section 38(1)][618] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 63(3): added, on 30 October 2003, by [section 38(2)][615] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 63(3): added, on 30 October 2003, by [section 38(2)][618] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 63A Modified reassessment procedure for amendments to approvals of hazardous substances
     
@@ -4053,7 +4061,7 @@ Assessment of hazardous substances and new organisms
     
     (8) [Section 65(e)][138] applies, with all necessary modifications, to a reassessment under this section.
     
-    Section 63A: inserted, on 22 December 2005, by [section 16][616] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 63A: inserted, on 22 December 2005, by [section 16][619] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 63B Proposal for group standard may be consulted on in same way as reassessment
     
@@ -4071,7 +4079,7 @@ Assessment of hazardous substances and new organisms
     
     (3) If the Authority consults in accordance with subsection (2), then the public notice requirements of [sections 96C(1)(h) and (2)][197] and [96D][198] do not apply.
     
-    Section 63B: inserted, on 20 April 2010, by [section 18][617] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 63B: inserted, on 20 April 2010, by [section 18][620] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 64 Suspension of approvals during reassessment
     
@@ -4107,7 +4115,7 @@ Assessment of hazardous substances and new organisms
     
     *   (b) the Authority may issue a direction, by notice in the _Gazette_, requiring the environmentally sound disposal of the persistent organic pollutant.
     
-    Section 66A: inserted, on 23 December 2004, by [section 11][618] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 66A: inserted, on 23 December 2004, by [section 11][621] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 67 Authority to direct disposal of new organisms
     
@@ -4123,7 +4131,7 @@ Assessment of hazardous substances and new organisms
     
 *   The Authority may, of its own motion, amend any approval given by it under this Part if it considers that the alteration is minor in effect or corrects a minor or technical error.
     
-    Section 67A: inserted, on 31 December 2000, by [section 26][619] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 67A: inserted, on 31 December 2000, by [section 26][622] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 #### Minister's call-in powers
 
@@ -4137,17 +4145,17 @@ Assessment of hazardous substances and new organisms
     
     (2) The direction shall include the Minister's reasons for giving it.
     
-    (2A) [Sections 114][620] and [115][621] of the Crown Entities Act 2004 do not apply to a direction under subsection (1).
+    (2A) [Sections 114][623] and [115][624] of the Crown Entities Act 2004 do not apply to a direction under subsection (1).
     
-    (2B) This section applies despite [section 113][482] of the Crown Entities Act 2004\.
+    (2B) This section applies despite [section 113][484] of the Crown Entities Act 2004\.
     
     (3) Where the application is for approval to release from containment any new organism, the Minister, in the Minister's discretion, may include in the direction given under subsection (1) a statement specifying, in the circumstances of the particular case, what is or is not significant for the purposes of applying [section 36][66] in respect of the application.
     
-    Section 68(1): substituted, on 30 October 2003, by [section 39][622] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 68(1): substituted, on 30 October 2003, by [section 39][625] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 68(2A): inserted, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 68(2A): inserted, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 68(2B): inserted, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 68(2B): inserted, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 69 Notification of Minister's direction
     
@@ -4155,7 +4163,7 @@ Assessment of hazardous substances and new organisms
     
     (2) The Minister shall forward a copy of the _Gazette_ notice under subsection (1) to the Authority; and the Authority shall inquire into and report on the application concerned under [sections 71][147] and [72][148].
     
-    Section 69(1): amended, on 30 October 2003, by [section 40][623] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 69(1): amended, on 30 October 2003, by [section 40][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 70 Minister may appoint persons
     
@@ -4181,7 +4189,7 @@ Assessment of hazardous substances and new organisms
         
         
     
-    Section 71(4): substituted, on 30 October 2003, by [section 41][624] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 71(4): substituted, on 30 October 2003, by [section 41][627] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 72 Authority to report to Minister
     
@@ -4207,56 +4215,56 @@ Assessment of hazardous substances and new organisms
     
     (3) Every decision by the Minister under this section may include such controls as may be imposed by the Authority under this Act, and shall have the same effect as a decision by the Authority.
     
-    Section 73(3): amended, on 30 October 2003, by [section 42][625] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73(3): amended, on 30 October 2003, by [section 42][628] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ## Part 5A  
 Restrictions on approving certain applications
 
 \[Repealed\]
     
-*   Part 5A: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Part 5A: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73A Interpretation
     
 *   \[Repealed\]
     
-    Section 73A: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73A: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73B Application
     
 *   \[Repealed\]
     
-    Section 73B: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73B: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73C Authority must not consider or approve certain applications during restricted period
     
 *   \[Repealed\]
     
-    Section 73C: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73C: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73D Additional information required for certain applications
     
 *   \[Repealed\]
     
-    Section 73D: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73D: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73E Additional matters Authority must consider for certain applications
     
 *   \[Repealed\]
     
-    Section 73E: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73E: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73F No compensation
     
 *   \[Repealed\]
     
-    Section 73F: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73F: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 73G Expiry
     
 *   \[Repealed\]
     
-    Section 73G: repealed, on 30 October 2003, by [section 43(1)][626] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 73G: repealed, on 30 October 2003, by [section 43(1)][629] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ## Part 6  
 Controls
@@ -4335,7 +4343,7 @@ Controls
     
     *   (b) set, or provide for the setting of, exposure limits by adopting international values or international methodologies.
     
-    Section 75(3): added, on 22 December 2005, by [section 17][627] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 75(3): added, on 22 December 2005, by [section 17][630] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 76 Requirements for containers, identification, disposal, emergencies, tracking, and fireworks
     
@@ -4367,9 +4375,9 @@ Controls
     
     (3) Any regulations made under this section may require any person to obtain a test certificate at any specified time certifying that any specified requirement has been met.
     
-    (4) Despite [section 18(1)][628] of the Building Act 2004, regulations may be made prescribing requirements for stationary containers that require a person to achieve performance criteria that are additional to or more restrictive in relation to any building work than the performance criteria specified in the building code as defined in [section 7][426] of the Building Act 2004\.
+    (4) Despite [section 18(1)][631] of the Building Act 2004, regulations may be made prescribing requirements for stationary containers that require a person to achieve performance criteria that are additional to or more restrictive in relation to any building work than the performance criteria specified in the building code as defined in [section 7][426] of the Building Act 2004\.
     
-    Section 76(4): substituted, on 20 September 2007, by [section 5][629] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 76(4): substituted, on 20 September 2007, by [section 5][632] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
 
 ##### 77 Controls on hazardous substances
     
@@ -4405,11 +4413,11 @@ Controls
     
     (8) The powers under [sections 77A][164] and [77B][165] are in addition to the powers conferred by this section.
     
-    Section 77(1): amended, on 2 July 2001, by [section 27][630] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 77(1): amended, on 2 July 2001, by [section 27][633] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 77(2A): inserted, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 77(2A): inserted, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 77(8): added, on 22 December 2005, by [section 18][631] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 77(8): added, on 22 December 2005, by [section 18][634] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 77A Authority's power to impose controls and vary specified controls
     
@@ -4443,7 +4451,7 @@ Controls
     
     (5) In this section, _other specified controls_ means controls imposed by or under any other section of this Act, and includes controls imposed by regulations made under this Act.
     
-    Section 77A: inserted, on 24 March 2004, by [section 5][632] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 77A: inserted, on 24 March 2004, by [section 5][635] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 77B Exposure limits for substances with toxic or ecotoxic properties
     
@@ -4509,7 +4517,7 @@ Controls
     
     _workplace exposure standard_ means the limit on the concentration of a substance (or any element or compound making up the substance) with toxic properties in air set in accordance with this section or regulations made under [section 75][161] for the purpose of protecting persons in a workplace from the adverse effects of toxic substances.
     
-    Section 77B: inserted, on 22 December 2005, by [section 19][633] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 77B: inserted, on 22 December 2005, by [section 19][636] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 78 Codes of practice
     
@@ -4531,9 +4539,9 @@ Controls
     
     without the written consent of the relevant Minister or the Building Industry Authority.
     
-    Section 78(1): substituted, on 2 July 2001, by [section 28][634] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 78(1): substituted, on 2 July 2001, by [section 28][637] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 78(5): substituted, on 7 May 1999, by [section 7][635] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 78(5): substituted, on 7 May 1999, by [section 7][638] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 79 Codes may be approved by Authority
     
@@ -4557,9 +4565,9 @@ Controls
     
     *   (b) show the date of the approval of the code of practice on the code, amendment, or revocation and promulgate it in such manner as the Authority thinks fit.
     
-    Section 79(2)(b): amended, on 2 July 2001, by [section 29(1)][636] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 79(2)(b): amended, on 2 July 2001, by [section 29(1)][639] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 79(4): repealed, on 2 July 2001, by [section 29(2)][636] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 79(4): repealed, on 2 July 2001, by [section 29(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 80 Availability of codes
     
@@ -4571,9 +4579,9 @@ Controls
     
     (2) The notice of approval published in the _Gazette_ pursuant to [section 79][167] shall show, in relation to the code, or the amendment to a code to which it relates, a place or places at which copies of the code or, as the case requires, the amendment, are available for public inspection and purchase.
     
-    Section 80(1): substituted, on 2 July 2001, by [section 30(1)][637] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 80(1): substituted, on 2 July 2001, by [section 30(1)][640] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 80(2): amended, on 2 July 2001, by [section 30(2)][637] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 80(2): amended, on 2 July 2001, by [section 30(2)][640] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 81 Proof of code
     
@@ -4619,25 +4627,25 @@ Controls
     
     (4D) In all other respects, a conditional test certificate is a test certificate for the purposes of this Act.
     
-    (4E) In subsection (4A), _hazardous substance location_ has the same meaning as in [regulation 3][638] of the Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001\.
+    (4E) In subsection (4A), _hazardous substance location_ has the same meaning as in [regulation 3][641] of the Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001\.
     
     (5) A test certifier must, as soon as practicable after issuing a test certificate under this section, forward a copy of that test certificate to the Authority.
     
-    Section 82(1)(aa): inserted, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 82(1)(aa): inserted, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 82(4): amended, on 20 April 2010, by [section 19(1)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4): amended, on 20 April 2010, by [section 19(1)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(4A): inserted, on 20 April 2010, by [section 19(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4A): inserted, on 20 April 2010, by [section 19(2)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(4B): inserted, on 20 April 2010, by [section 19(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4B): inserted, on 20 April 2010, by [section 19(2)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(4C): inserted, on 20 April 2010, by [section 19(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4C): inserted, on 20 April 2010, by [section 19(2)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(4D): inserted, on 20 April 2010, by [section 19(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4D): inserted, on 20 April 2010, by [section 19(2)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(4E): inserted, on 20 April 2010, by [section 19(2)][639] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82(4E): inserted, on 20 April 2010, by [section 19(2)][642] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82(5): added, on 22 December 2005, by [section 20][640] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 82(5): added, on 22 December 2005, by [section 20][643] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 82A Register of test certificates
     
@@ -4645,7 +4653,7 @@ Controls
     
     (2) The purpose of the register is to facilitate compliance with, and enforcement of,---
         
-    *   (a) this Act, the [Agricultural Compounds and Veterinary Medicines Act 1997][445], the [Health and Safety in Employment Act 1992][641], and the [Resource Management Act 1991][642]; and
+    *   (a) this Act, the [Agricultural Compounds and Veterinary Medicines Act 1997][446], the [Health and Safety in Employment Act 1992][644], and the [Resource Management Act 1991][645]; and
     
     *   (b) any regulations or notices in force under those Acts.
     
@@ -4681,7 +4689,7 @@ Controls
     
     (4) A search of the register may be carried out by the Authority, and by the following persons for the following purposes:
         
-    *   (a) an individual, or a person with the written consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][643]:
+    *   (a) an individual, or a person with the written consent of the individual, for the purpose of searching for information about that individual in accordance with the [Privacy Act 1993][646]:
     
     *   (b) a test certifier for the purpose of searching for information that the test certifier has provided under [section 82(5)][171]:
     
@@ -4693,7 +4701,7 @@ Controls
         
         *   (iii) is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences); or
         
-        *   (iv) has been authorised by the Privacy Commissioner under [section 54(1)][644] of the Privacy Act 1993; or
+        *   (iv) has been authorised by the Privacy Commissioner under [section 54(1)][647] of the Privacy Act 1993; or
         
         *   (v) is necessary to plan for responses to any emergency (as defined in [section 46][99]).
         
@@ -4701,7 +4709,7 @@ Controls
     
     (5) In this section, _approved person_ means---
         
-    *   (a) the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Agricultural Compounds and Veterinary Medicines Act 1997][445]:
+    *   (a) the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the [Agricultural Compounds and Veterinary Medicines Act 1997][446]:
     
     *   (b) a person specified in [section 97][203]:
     
@@ -4709,17 +4717,17 @@ Controls
     
     *   (c) an enforcement officer.
     
-    Section 82A: inserted, on 22 December 2005, by [section 21][645] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 82A: inserted, on 22 December 2005, by [section 21][648] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 82A(3)(f)(ii): amended, on 20 April 2010, by [section 20(1)][646] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82A(3)(f)(ii): amended, on 20 April 2010, by [section 20(1)][649] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82A(3)(g): added, on 20 April 2010, by [section 20(1)][646] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82A(3)(g): added, on 20 April 2010, by [section 20(1)][649] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82A(4)(c)(iv): amended, on 20 April 2010, by [section 20(2)][646] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82A(4)(c)(iv): amended, on 20 April 2010, by [section 20(2)][649] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82A(4)(c)(v): added, on 20 April 2010, by [section 20(2)][646] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82A(4)(c)(v): added, on 20 April 2010, by [section 20(2)][649] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82A(5)(ba): inserted, on 20 April 2010, by [section 20(3)][646] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82A(5)(ba): inserted, on 20 April 2010, by [section 20(3)][649] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 82B Delegation by approved person
     
@@ -4735,9 +4743,9 @@ Controls
     
     (6) Every delegation under subsection (1) must be available for public inspection at the office of the relevant approved person during ordinary office hours.
     
-    Section 82B: inserted, on 22 December 2005, by [section 21][645] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 82B: inserted, on 22 December 2005, by [section 21][648] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 82B(1): amended, on 20 April 2010, by [section 21][647] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82B(1): amended, on 20 April 2010, by [section 21][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 82C Revocation of test certificates
     
@@ -4773,17 +4781,17 @@ Controls
         
     *   (a) in the case of non-disclosure to an individual of information about the individual,---
             
-        *   (i) the Authority must inform the individual that he or she may, under the [Privacy Act 1993][643], complain to the Privacy Commissioner about that non-disclosure; and
+        *   (i) the Authority must inform the individual that he or she may, under the [Privacy Act 1993][646], complain to the Privacy Commissioner about that non-disclosure; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][648] of that Act; and
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][651] of that Act; and
         
         
     
     *   (b) in any other case,---
             
-        *   (i) the Authority must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][584]; and
+        *   (i) the Authority must inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][587]; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][649] of that Act.
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][652] of that Act.
         
         
     
@@ -4797,17 +4805,17 @@ Controls
     
     (9) \[Repealed\]
     
-    Section 82C: inserted, on 22 December 2005, by [section 21][645] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 82C: inserted, on 22 December 2005, by [section 21][648] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 82C heading: amended, on 20 April 2010, by [section 22(1)][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82C heading: amended, on 20 April 2010, by [section 22(1)][653] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82C(1): amended, on 20 April 2010, by [section 22(2)][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82C(1): amended, on 20 April 2010, by [section 22(2)][653] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82C(1)(c): amended, on 20 April 2010, by [section 22(3)][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82C(1)(c): amended, on 20 April 2010, by [section 22(3)][653] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82C(1)(d): added, on 20 April 2010, by [section 22(3)][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82C(1)(d): added, on 20 April 2010, by [section 22(3)][653] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 82C(9): repealed, on 20 April 2010, by [section 22(4)][650] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 82C(9): repealed, on 20 April 2010, by [section 22(4)][653] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 83 Applications for approval as test certifier
     
@@ -4869,7 +4877,7 @@ Controls
     
     *   (b) the date of expiry (if any) specified by the Authority in the approval.
     
-    Section 84(7): substituted, on 2 July 2001, by[section 31][651] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 84(7): substituted, on 2 July 2001, by[section 31][654] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 85 Register of test certifiers
     
@@ -4937,7 +4945,7 @@ Controls
     
     *   (b) that such a scheme will be cost effective to implement, having regard to the costs associated with the transferable permit scheme, including the costs of monitoring and the costs of alternative methods of controls, and the benefits provided from the ability to transfer permits.
     
-    Section 88(a): amended, on 22 December 2005, by [section 22][652] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 88(a): amended, on 22 December 2005, by [section 22][655] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 89 Transferable permit scheme and variation of controls
     
@@ -4945,7 +4953,7 @@ Controls
     
     (2) Any substitution or deletion of controls on any substance in accordance with subsection (1) shall remain in force so long as the transferable permit scheme in place at the time of the substitution or deletion of controls remains the same.
     
-    Section 89(1): amended, on 22 December 2005, by [section 23][653] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 89(1): amended, on 22 December 2005, by [section 23][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 90 Transfer of permits
     
@@ -5003,7 +5011,7 @@ Controls
 
 #### Permissions and licences
     
-*   Heading: inserted, on 24 March 2004, by [section 6][654] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+*   Heading: inserted, on 24 March 2004, by [section 6][657] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 95A Permissions
     
@@ -5029,7 +5037,7 @@ Controls
     
     *   (b) revoke a permission granted to the holder under this section.
     
-    Section 95A: inserted, on 24 March 2004, by [section 6][654] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 95A: inserted, on 24 March 2004, by [section 6][657] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 95B Licences
     
@@ -5067,7 +5075,7 @@ Controls
     
     (5) The holder of a licence granted under this section is authorised to possess the substance specified in the licence in accordance with the approval of the substance and the holder's licence.
     
-    Section 95B: inserted, on 24 March 2004, by [section 6][654] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 95B: inserted, on 24 March 2004, by [section 6][657] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 #### Environmental user charges
 
@@ -5097,18 +5105,18 @@ Controls
     
     *   (f) any procedure for adjusting or removing any combination of controls and environmental user charge or an environmental user charge, after a reassessment of the substance under [section 62][133].
     
-    Section 96(1): amended, on 22 December 2005, by [section 24][655] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96(1): amended, on 22 December 2005, by [section 24][658] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ## Part 6A  
 Group standards
     
-*   Part 6A: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+*   Part 6A: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 96A Purpose of Part
     
 *   The purpose of this Part is to enable the Authority to issue, amend, and revoke standards (known as group standards) for groups of hazardous substances (whether these are subject to [Part 5][40] or not) that have a similar nature, are of a similar type, or have similar circumstances of use, so that the risks of the grouped hazardous substances can be effectively managed by 1 set of conditions.
     
-    Section 96A: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96A: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 96B Group standards
     
@@ -5136,7 +5144,7 @@ Group standards
     
     *   (b) on application by any person.
     
-    (5) A notice issued under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][581], but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][579].
+    (5) A notice issued under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][581] and must be presented to the House of Representatives under [section 41][582] of that Act.
     
     (6) As soon as practicable after issuing, amending, or revoking a group standard, the Authority must do the following:
         
@@ -5146,7 +5154,9 @@ Group standards
     
     *   (c) give public notice of where the group standard, amendment, or revocation can be inspected or purchased.
     
-    Section 96B: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96B: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    
+    Section 96B(5): replaced, on 5 August 2013, by [section 77(3)][583] of the Legislation Act 2012 (2012 No 119).
 
 ##### 96C When group standards may be issued or amended
     
@@ -5192,9 +5202,9 @@ Group standards
     
     (3) However, the Authority may, on its own initiative, amend a group standard under [section 96B][196] without complying with subsections (1) and (2) of this section, if it considers that the amendment is minor in effect or corrects a minor or technical error.
     
-    Section 96C: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96C: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 96C(3): added, on 20 April 2010, by [section 23][657] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 96C(3): added, on 20 April 2010, by [section 23][660] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 96D Revocation of group standards
     
@@ -5202,7 +5212,7 @@ Group standards
     
     (2) [Sections 54 to 61][125] apply, with all necessary modifications, for the purposes of this section.
     
-    Section 96D: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96D: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 96E Effect of group standards
     
@@ -5212,7 +5222,7 @@ Group standards
     
     (3) A hazardous substance to which [section 96B(2)(a)][196] applies is deemed to have been approved by the Authority under [section 29][54].
     
-    Section 96E: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96E: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 96F Hazardous substances in group standards if Parts 11 to 15 apply
     
@@ -5222,7 +5232,7 @@ Group standards
     
     *   (b) the hazardous substance is deemed to have been approved by the Authority on the date that the group standard comes into force.
     
-    Section 96F: inserted, on 22 December 2005, by [section 25][656] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 96F: inserted, on 22 December 2005, by [section 25][659] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ## Part 7  
 Inspection, enforcement, and ancillary powers
@@ -5233,9 +5243,9 @@ Inspection, enforcement, and ancillary powers
     
 *   (1) The following persons shall ensure the provisions of this Act (including any controls imposed on approvals granted under this Act) are enforced in the following situations:
         
-    *   (a) the chief executive of the department of State that is for the time being responsible for the administration of the [Health and Safety in Employment Act 1992][641] shall ensure that the provisions of this Act are enforced in any place of work:
+    *   (a) the chief executive of the department of State that is for the time being responsible for the administration of the [Health and Safety in Employment Act 1992][644] shall ensure that the provisions of this Act are enforced in any place of work:
     
-    *   (b) the chief executive of the department of State that is for the time being responsible for the administration of the [Gas Act 1992][658] shall ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
+    *   (b) the chief executive of the department of State that is for the time being responsible for the administration of the [Gas Act 1992][661] shall ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
     
     *   (c) the New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
     
@@ -5251,7 +5261,7 @@ Inspection, enforcement, and ancillary powers
             
         *   (i) shall ensure that the provisions of this Act are enforced in or on any premises situated in the district of the territorial authority other than those premises specified in paragraphs (a) to (g):
         
-        *   (ii) may enforce the provisions of this Act in or on those premises specified in paragraphs (a) to (g) where the territorial authority is in or on those premises for the purposes of enforcing the provisions of the [Resource Management Act 1991][642]:
+        *   (ii) may enforce the provisions of this Act in or on those premises specified in paragraphs (a) to (g) where the territorial authority is in or on those premises for the purposes of enforcing the provisions of the [Resource Management Act 1991][645]:
         
         *   (iii) shall ensure that the provisions of this Act are enforced in or on those premises specified in paragraphs (a) to (g), where the function, power, or duty is transferred to the territorial authority in accordance with [section 98][206].
         
@@ -5261,29 +5271,29 @@ Inspection, enforcement, and ancillary powers
     
     (2) The chief executive of a regional council may---
         
-    *   (a) enforce the provisions of this Act in or on those premises specified in subsection (1)(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the [Resource Management Act 1991][642]:
+    *   (a) enforce the provisions of this Act in or on those premises specified in subsection (1)(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the [Resource Management Act 1991][645]:
     
     *   (b) enforce the provisions of this Act in or on those premises specified in subsection (1)(a) to (g) if the function, power, or duty is transferred to the regional council in accordance with [section 98][206].
     
-    Section 97(1): amended, on 30 October 2003, by [section 44][659] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 97(1): amended, on 30 October 2003, by [section 44][662] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 97(1)(c): amended, on 1 August 2008, by [section 50(1)][660] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 97(1)(c): amended, on 1 August 2008, by [section 50(1)][663] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 97(1)(c): amended, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 97(1)(c): amended, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 97(1)(d): amended, on 1 August 2008, by [section 50(1)][660] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 97(1)(d): amended, on 1 August 2008, by [section 50(1)][663] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 97(1)(d): amended, on 20 July 2005, by [section 103(3)][462] of the Railways Act 2005 (2005 No 37).
+    Section 97(1)(d): amended, on 20 July 2005, by [section 103(3)][464] of the Railways Act 2005 (2005 No 37).
     
-    Section 97(1)(e): amended, on 20 April 2010, by [section 24][661] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 97(1)(e): amended, on 20 April 2010, by [section 24][664] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 97(1)(f): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 97(1)(f): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 97(1)(h)(iii): amended, on 22 December 2005, by [section 27(1)][662] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 97(1)(h)(iii): amended, on 22 December 2005, by [section 27(1)][665] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 97(1)(h)(iv): repealed, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 97(1)(h)(iv): repealed, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 97(2): added, on 22 December 2005, by [section 27(2)][662] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 97(2): added, on 22 December 2005, by [section 27(2)][665] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 97A Enforcement of Act in respect of new organisms
     
@@ -5293,45 +5303,45 @@ Inspection, enforcement, and ancillary powers
     
     (3) A person who may exercise powers under the [Biosecurity Act 1993][427] in respect of unwanted organisms may also exercise those powers under that Act in respect of new organisms whether or not the person is appointed as an enforcement officer under this Act.
     
-    (4) Without limiting subsection (2), the provisions of the [Biosecurity Act 1993][427] that apply, with all necessary modifications, for the purposes of this section include [sections 162A][663], [163][664], and [164][665] of that Act.
+    (4) Without limiting subsection (2), the provisions of the [Biosecurity Act 1993][427] that apply, with all necessary modifications, for the purposes of this section include [sections 162A][666], [163][667], and [164][668] of that Act.
     
     (4A) The enforcement agency's costs of enforcing this Act in respect of new organisms are to be treated as if they were costs of administering the [Biosecurity Act 1993][427], and---
         
-    *   (a) may be recovered in accordance with [section 135][666] of that Act; and
+    *   (a) may be recovered in accordance with [section 135][669] of that Act; and
     
-    *   (b) may be funded by a levy imposed under [section 137][667] of that Act; and
+    *   (b) may be funded by a levy imposed under [section 137][670] of that Act; and
     
-    *   (c) may be prescribed, in regulations made under [section 165(1)(s)][668] of that Act, as costs that are recoverable.
+    *   (c) may be prescribed, in regulations made under [section 165(1)(s)][671] of that Act, as costs that are recoverable.
     
     (5) In this section,---
     
     _enforcement agency_ means the chief executive of the department of State responsible for the administration of the [Biosecurity Act 1993][427]
     
-    _unwanted organism_ has the same meaning as in [section 2(1)][669] of the Biosecurity Act 1993\.
+    _unwanted organism_ has the same meaning as in [section 2(1)][672] of the Biosecurity Act 1993\.
     
-    Section 97A: inserted, on 30 October 2003, by [section 45][670] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 97A: inserted, on 30 October 2003, by [section 45][673] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 97A(4A): inserted, on 20 April 2010, by [section 25][671] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 97A(4A): inserted, on 20 April 2010, by [section 25][674] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 97B Enforcement of Act in respect of hazardous substances in place of work
     
 *   (1) The enforcement agency must ensure that the provisions of this Act are enforced in respect of hazardous substances in a place of work.
     
-    (2) For the purpose of complying with subsection (1), the enforcement agency may appoint enforcement officers in accordance with this Act who may exercise the powers of inspectors under the [Health and Safety in Employment Act 1992][641], and the provisions of that Act apply with all necessary modifications.
+    (2) For the purpose of complying with subsection (1), the enforcement agency may appoint enforcement officers in accordance with this Act who may exercise the powers of inspectors under the [Health and Safety in Employment Act 1992][644], and the provisions of that Act apply with all necessary modifications.
     
     (3) In this section,---
     
     _enforcement agency_---
         
-    *   (a) means the chief executive of the department responsible for the administration of the [Health and Safety in Employment Act 1992][641]; and
+    *   (a) means the chief executive of the department responsible for the administration of the [Health and Safety in Employment Act 1992][644]; and
     
-    *   (b) includes, in relation to a particular industry, sector, or type of work, the chief executive of an agency designated under [section 28B(1)][672] of that Act to administer that Act for the particular industry, sector, or type of work
+    *   (b) includes, in relation to a particular industry, sector, or type of work, the chief executive of an agency designated under [section 28B(1)][675] of that Act to administer that Act for the particular industry, sector, or type of work
     
-    _inspector_ and _place of work_ have the same meanings as in [section 2(1)][438] of the Health and Safety in Employment Act 1992\.
+    _inspector_ and _place of work_ have the same meanings as in [section 2(1)][439] of the Health and Safety in Employment Act 1992\.
     
-    Section 97B: inserted, on 22 December 2005, by [section 28][673] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 97B: inserted, on 22 December 2005, by [section 28][676] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 97B(3) **enforcement agency**: substituted, on 20 April 2010, by [section 26][674] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 97B(3) **enforcement agency**: substituted, on 20 April 2010, by [section 26][677] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 98 Co-ordination of inspection
     
@@ -5375,11 +5385,11 @@ Inspection, enforcement, and ancillary powers
     
     (8) Any transfer of any function, power, or duty under this section may be changed or revoked at any time by agreement between the transferee and transferor and upon notice to the Authority.
     
-    Section 98(1): amended, on 30 October 2003, by [section 46][675] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 98(1): amended, on 30 October 2003, by [section 46][678] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 98(3): amended, on 30 October 2003, by [section 46][675] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 98(3): amended, on 30 October 2003, by [section 46][678] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 98(4): repealed, on 2 July 2001, by [section 32][676] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 98(4): repealed, on 2 July 2001, by [section 32][679] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 ##### 98A Chief executives of Ministry and Authority to have functions, powers, duties, and protections of enforcement officers
     
@@ -5391,7 +5401,7 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) the chief executive of the Authority.
     
-    Section 98A: inserted, on 30 October 2003, by [section 47][677] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 98A: inserted, on 30 October 2003, by [section 47][680] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 99 Supervision of inspection
     
@@ -5405,7 +5415,7 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) authorise the chief executive of---
             
-        *   (i) any department specified in [Schedule 1][525] of the State Sector Act 1988:
+        *   (i) any department specified in [Schedule 1][527] of the State Sector Act 1988:
         
         *   (ii) any Crown entity:
         
@@ -5417,11 +5427,11 @@ Inspection, enforcement, and ancillary powers
     
     (4) In this section, _hazardous substance_ includes compressed gases, whether intrinsically hazardous or not.
     
-    Section 99(1): amended, on 30 October 2003, by [section 48][678] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 99(1): amended, on 30 October 2003, by [section 48][681] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 99(3)(b)(ii): amended, on 25 January 2005, by [section 37(1)][456] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 99(3)(b)(ii): amended, on 25 January 2005, by [section 37(1)][457] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 99(4): added, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 99(4): added, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 100 Appointment of enforcement officers
     
@@ -5453,15 +5463,15 @@ Inspection, enforcement, and ancillary powers
 
 ##### 102 Building Act 2004
     
-*   (1) Where an enforcement officer believes that any building or sitework does not comply with the [Building Act 2004][679], the enforcement officer shall, by notice in writing, give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
+*   (1) Where an enforcement officer believes that any building or sitework does not comply with the [Building Act 2004][682], the enforcement officer shall, by notice in writing, give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
     
-    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][679].
+    (2) For the purposes of this section, the terms _building_, _sitework_, and _territorial authority_ have the meanings ascribed to them by the [Building Act 2004][682].
     
-    Section 102 heading: substituted, on 31 March 2005, pursuant to [section 414][680] of the Building Act 2004 (2004 No 72).
+    Section 102 heading: substituted, on 31 March 2005, pursuant to [section 414][683] of the Building Act 2004 (2004 No 72).
     
-    Section 102(1): amended, on 31 March 2005, by [section 414][680] of the Building Act 2004 (2004 No 72).
+    Section 102(1): amended, on 31 March 2005, by [section 414][683] of the Building Act 2004 (2004 No 72).
     
-    Section 102(2): amended, on 31 March 2005, by [section 414][680] of the Building Act 2004 (2004 No 72).
+    Section 102(2): amended, on 31 March 2005, by [section 414][683] of the Building Act 2004 (2004 No 72).
 
 ##### 103 Powers of entry for inspection
     
@@ -5523,17 +5533,17 @@ Inspection, enforcement, and ancillary powers
     
     (7) Nothing in this section shall limit or affect the privilege against self-incrimination.
     
-    Section 103(1)(a): amended, on 31 December 2000, by [section 33(1)][681] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 103(1)(a): amended, on 31 December 2000, by [section 33(1)][684] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 103(1)(c): amended, on 30 October 2003, by [section 49][682] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 103(1)(c): amended, on 30 October 2003, by [section 49][685] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 103(2)(c): substituted, on 31 December 2000, by [section 33(2)][681] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 103(2)(c): substituted, on 31 December 2000, by [section 33(2)][684] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 103(2)(ea): inserted, on 31 December 2000, by [section 33(3)][681] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 103(2)(ea): inserted, on 31 December 2000, by [section 33(3)][684] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 103(2)(eb): inserted, on 31 December 2000, by [section 33(3)][681] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 103(2)(eb): inserted, on 31 December 2000, by [section 33(3)][684] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 103(6): substituted, on 31 December 2000, by [section 33(4)][681] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 103(6): substituted, on 31 December 2000, by [section 33(4)][684] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 #### Compliance orders
 
@@ -5593,11 +5603,11 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) be reasonable, having regard to the circumstances giving rise to the compliance order.
     
-    Section 106(1)(d): amended, on 30 October 2003, by [section 50(1)][683] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 106(1)(d): amended, on 30 October 2003, by [section 50(1)][686] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 106(1)(f): amended, on 30 October 2003, by [section 50(2)][683] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 106(1)(f): amended, on 30 October 2003, by [section 50(2)][686] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 106(2): added, on 30 October 2003, by [section 50(3)][683] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 106(2): added, on 30 October 2003, by [section 50(3)][686] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 107 Service of compliance order
     
@@ -5691,47 +5701,47 @@ Inspection, enforcement, and ancillary powers
     
     (2) \[Repealed\]
     
-    Section 109(1)(aa): inserted, on 23 December 2004, by [section 12][684] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 109(1)(aa): inserted, on 23 December 2004, by [section 12][687] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 109(1)(b): amended, on 7 May 1999, by [section 9][685] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 109(1)(b): amended, on 7 May 1999, by [section 9][688] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 109(1)(ea): inserted, on 24 March 2004, by [section 7][686] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 109(1)(ea): inserted, on 24 March 2004, by [section 7][689] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 109(1)(eb): inserted, on 22 December 2005, by [section 29][687] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 109(1)(eb): inserted, on 22 December 2005, by [section 29][690] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 109(1)(m): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][688] of the Policing Act 2008 (2008 No 72).
+    Section 109(1)(m): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][691] of the Policing Act 2008 (2008 No 72).
     
-    Section 109(2): repealed, on 20 April 2010, by [section 27][689] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 109(2): repealed, on 20 April 2010, by [section 27][692] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
-##### 109A Time for laying information
+##### 109A Time for filing charging document
     
-*   (1) An information in respect of an offence against this Act that relates to a hazardous substance may be laid by any person at any time within 6 months after the earlier of---
+*   (1) The limitation period in respect of an offence against this Act that relates to a hazardous substance ends on the date that is 6 months after the earlier of---
         
-    *   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to the person; or
+    *   (a) the date when the incident, situation, or set of circumstances to which the offence relates first became known to the person by whom the proceedings are commenced; or
     
     *   (b) the date when the incident, situation, or set of circumstances to which the offence relates should reasonably have become known to the person.
     
-    (2) An information in respect of an offence against this Act that relates to a new organism may be laid by any person at any time within 2 years after the time when the matter of the information arose.
+    (2) The limitation period in respect of an offence against this Act that relates to a new organism ends on the date that is 2 years after the date on which the offence was committed.
     
     (3) Subsection (1) is subject to [section 109B][222].
     
-    Section 109A: inserted, on 20 April 2010, by [section 28][690] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 109A: replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 109B Extension of time for laying information
+##### 109B Extension of time for filing charging document
     
-*   (1) The District Court may, on application by any person, extend the time for the person to lay an information under [section 109A(1)][221].
+*   (1) The District Court may, on application by any person, extend the time for the person to file a charging document under [section 109A(1)][221].
     
     (2) The application must be made within the 6-month period that applies to the person under [section 109A(1)][221].
     
     (3) The court must not grant an extension unless it is satisfied that---
         
-    *   (a) the person reasonably requires longer than the 6-month period to decide whether to lay an information; and
+    *   (a) the person reasonably requires longer than the 6-month period to decide whether to file a charging document; and
     
     *   (b) the reason for requiring the longer period is that the investigation of the events and issues surrounding the alleged offence is complex or time-consuming; and
     
-    *   (c) it is in the public interest in the circumstances that an information is able to be laid after the 6-month period expires; and
+    *   (c) it is in the public interest in the circumstances that a charging document is able to be filed after the 6-month period expires; and
     
-    *   (d) laying the information after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
+    *   (d) filing the charging document after the 6-month period expires will not unfairly prejudice the proposed defendant in defending the charge.
     
     (4) The court must give the following persons an opportunity to be heard:
         
@@ -5739,7 +5749,17 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) the proposed defendant.
     
-    Section 109B: inserted, on 20 April 2010, by [section 28][690] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 109B: inserted, on 20 April 2010, by [section 28][694] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    
+    Section 109B heading: amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 109B(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 109B(3)(a): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 109B(3)(c): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 109B(3)(d): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 110 Infringement offences
     
@@ -5749,25 +5769,25 @@ Inspection, enforcement, and ancillary powers
     
     _infringement offence_ means an offence specified as such in regulations made under [section 140][269].
     
-    Section 110 **infringement fee**: amended, on 7 May 1999, by [section 15(d)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 110 **infringement fee**: amended, on 7 May 1999, by [section 15(d)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 110 **infringement offence**: amended, on 7 May 1999, by [section 15(d)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 110 **infringement offence**: amended, on 7 May 1999, by [section 15(d)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 111 Commission of infringement offence
     
 *   Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be prosecuted against for the alleged offence under the [Summary Proceedings Act 1957][691]; or
+    *   (a) be proceeded against by filing a charging document under [section 14][695] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided for in [section 112][225].
     
-    
+    Section 111(a): replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 112 Infringement notices
     
 *   (1) Where an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice may be issued in respect of that offence.
     
-    (2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and in that case for the purpose of the [Summary Proceedings Act 1957][691], it (or the copy) shall be deemed to have been served on that person when it was posted.
+    (2) Any enforcement officer (not necessarily the officer who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence or business; and in that case it (or the copy) shall be deemed to have been served on that person when it was posted.
     
     (3) Every infringement notice shall be in the prescribed form and shall contain the following particulars---
         
@@ -5779,7 +5799,7 @@ Inspection, enforcement, and ancillary powers
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][692] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][696] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has the right to request a hearing; and
     
@@ -5787,7 +5807,9 @@ Inspection, enforcement, and ancillary powers
     
     *   (h) such other particulars as are prescribed.
     
-    (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][692] of the Summary Proceedings Act 1957; and in that case the provisions of that section shall apply with the necessary modifications.
+    (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][696] of the Summary Proceedings Act 1957; and in that case the provisions of that section shall apply with the necessary modifications.
+    
+    Section 112(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Entitlement to infringement fees
     
@@ -5795,11 +5817,11 @@ Inspection, enforcement, and ancillary powers
 
 ##### 114 Penalties
     
-*   (1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of [section 109(1)][220] is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
+*   (1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of [section 109(1)][220] is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
     
-    (2) Every person who commits an offence against paragraph (f) or paragraph (g) or paragraph (h) or paragraph (i) of [section 109(1)][220], or [section 156(1)][299], is liable on summary conviction to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $5,000 for every day or part of a day during which the offence has continued.
+    (2) Every person who commits an offence against paragraph (f) or paragraph (g) or paragraph (h) or paragraph (i) of [section 109(1)][220], or [section 156(1)][299], is liable on conviction to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $5,000 for every day or part of a day during which the offence has continued.
     
-    (3) Every person who commits an offence against paragraph (j) or paragraph (k) or paragraph (l) or paragraph (m) of [section 109(1)][220] is liable on summary conviction to a fine not exceeding $5,000\.
+    (3) Every person who commits an offence against paragraph (j) or paragraph (k) or paragraph (l) or paragraph (m) of [section 109(1)][220] is liable on conviction to a fine not exceeding $5,000\.
     
     (4) Where any person is convicted of an offence against [section 109][220], the court may, instead of or in addition to imposing any fine or term of imprisonment, revoke any transferable permit held by that person.
     
@@ -5817,13 +5839,19 @@ Inspection, enforcement, and ancillary powers
     
     (7) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act shall be deemed to be a continuing offence.
     
-    Section 114(1): amended, on 22 December 2005, by [section 30][693] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 114(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 114(1): amended, on 23 December 2004, by [section 13][694] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 114(1): amended, on 22 December 2005, by [section 30][697] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 114(1): amended, on 24 March 2004, by [section 8][695] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 114(1): amended, on 23 December 2004, by [section 13][698] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 114(6A): inserted, on 30 October 2003, by [section 51][696] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 114(1): amended, on 24 March 2004, by [section 8][699] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    
+    Section 114(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 114(3): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 114(6A): inserted, on 30 October 2003, by [section 51][700] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 115 Liability of employers and principals
     
@@ -5901,17 +5929,17 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) had not expired under [section 82(4C)][171].
     
-    Section 117(1): amended, on 22 December 2005, by [section 31][697] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 117(1): amended, on 22 December 2005, by [section 31][701] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 117(1): amended, on 23 December 2004, by [section 14][698] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 117(1): amended, on 23 December 2004, by [section 14][702] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 117(3): amended, on 7 May 1999, by [section 10][699] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 117(3): amended, on 7 May 1999, by [section 10][703] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 117(4): added, on 20 April 2010, by [section 29][700] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 117(4): added, on 20 April 2010, by [section 29][704] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 118 Fines to be paid to territorial authority instituting prosecution
     
-*   (1) Subject to subsection (2), where a person is convicted of an offence under [section 109][220] and the court imposes a fine, the court shall, if the information for that offence was laid on behalf of a territorial authority, order that the fine be paid to that territorial authority.
+*   (1) Subject to subsection (2), where a person is convicted of an offence under [section 109][220] and the court imposes a fine, the court shall, if the charging document for that offence was filed on behalf of a territorial authority, order that the fine be paid to that territorial authority.
     
     (2) There shall be deducted from every amount payable to a territorial authority under subsection (1), a sum equal to 10% thereof, and that sum shall be credited to a Crown Bank Account.
     
@@ -5919,13 +5947,15 @@ Inspection, enforcement, and ancillary powers
     
     (4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the territorial authority entitled to it under the order.
     
-    (5) Nothing in [section 73][701] of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any territorial authority under subsection (1).
+    (5) Nothing in [section 73][705] of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any territorial authority under subsection (1).
     
-    Section 118(2): amended, on 25 January 2005, pursuant to [section 65R(3)][702] of the Public Finance Act 1989 (1989 No 44).
+    Section 118(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 118(2): amended, on 25 January 2005, pursuant to [section 65R(3)][706] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 119 Search warrants
     
-*   (1) Any issuing officer (within the meaning of [section 3][703] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][704] of Part 4 of that Act, that there are reasonable grounds for believing that there is, in or on or under or over any premises or any dwelling,---
+*   (1) Any issuing officer (within the meaning of [section 3][707] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][708] of Part 4 of that Act, that there are reasonable grounds for believing that there is, in or on or under or over any premises or any dwelling,---
         
     *   (a) any substance or organism that has been imported, manufactured, developed, released, held, transported, or disposed of in contravention of this Act; or
     
@@ -5935,9 +5965,9 @@ Inspection, enforcement, and ancillary powers
     
     (2) Every search warrant shall be directed either to a constable by name or to every constable or to any enforcement officer by name, but in any of those cases, the warrant may be executed by any constable.
     
-    (3) Subject to subsection (4), the provisions of [Part 4][705] of the Search and Surveillance Act 2012 apply.
+    (3) Subject to subsection (4), the provisions of [Part 4][709] of the Search and Surveillance Act 2012 apply.
     
-    (4) Despite subsection (3), [sections 118][706] and [119][707] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (4) Despite subsection (3), [sections 118][710] and [119][711] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     (5) \[Repealed\]
     
@@ -5947,35 +5977,35 @@ Inspection, enforcement, and ancillary powers
     
     (8) \[Repealed\]
     
-    Section 119(1): amended, on 1 October 2012, by [section 255(2)(a)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(1): amended, on 1 October 2012, by [section 255(2)(a)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(1): amended, on 1 October 2012, by [section 255(2)(b)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(1): amended, on 1 October 2012, by [section 255(2)(b)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][688] of the Policing Act 2008 (2008 No 72).
+    Section 119(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][691] of the Policing Act 2008 (2008 No 72).
     
-    Section 119(3): replaced, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(3): replaced, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(4): replaced, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(4): replaced, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(5): repealed, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(5): repealed, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(6): repealed, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(6): repealed, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(7): repealed, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(7): repealed, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 119(8): repealed, on 1 October 2012, by [section 255(3)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 119(8): repealed, on 1 October 2012, by [section 255(3)][712] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 120 Dealing with property seized by enforcement officers
     
 *   \[Repealed\]
     
-    Section 120: repealed, on 1 October 2012, by [section 255(4)][708] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 120: repealed, on 1 October 2012, by [section 255(4)][712] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 121 Application of Customs and Excise Act 1996 to hazardous substance imported in breach of this Act
     
-*   A hazardous substance that is being, or has been, imported in breach of this Act is a prohibited import under [section 54][709] of the Customs and Excise Act 1996, and the provisions of that Act (including, for the avoidance of doubt, [section 209][710] of that Act) apply accordingly.
+*   A hazardous substance that is being, or has been, imported in breach of this Act is a prohibited import under [section 54][713] of the Customs and Excise Act 1996, and the provisions of that Act (including, for the avoidance of doubt, [section 209][714] of that Act) apply accordingly.
     
-    Section 121: substituted, on 22 December 2005, by [section 32][711] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 121: substituted, on 22 December 2005, by [section 32][715] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 122 Power to require hazardous substance to leave New Zealand
     
@@ -5985,19 +6015,19 @@ Inspection, enforcement, and ancillary powers
     
     *   (b) in the case of a hazardous substance that has been imported in breach of this Act and has been unloaded from a ship or aircraft, direct that the importer of the hazardous substance cause the hazardous substance to leave New Zealand at the importer's own cost and in accordance with the directions of the Customs officer.
     
-    (2) Subsection (1)(b) applies only to hazardous substances that are goods that are subject to the control of the Customs in accordance with [section 20][712] of the Customs and Excise Act 1996\.
+    (2) Subsection (1)(b) applies only to hazardous substances that are goods that are subject to the control of the Customs in accordance with [section 20][716] of the Customs and Excise Act 1996\.
     
     (3) In this section,---
     
     _cost_, in relation to a hazardous substance that has been imported in breach of this Act, includes the costs of handling, storing, and transporting the hazardous substance
     
-    _importer_ has the same meaning as in [section 2(1)][433] of the Customs and Excise Act 1996\.
+    _importer_ has the same meaning as in [section 2(1)][434] of the Customs and Excise Act 1996\.
     
-    Section 122: substituted, on 22 December 2005, by [section 33][713] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 122: substituted, on 22 December 2005, by [section 33][717] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 123 Declaration that organism not genetically modified
     
-*   Any inspector (as defined in [section 2(1)][434] of the Biosecurity Act 1993) may require any person importing any organism to declare, by statutory declaration, that the organism is not a genetically modified organism.
+*   Any inspector (as defined in [section 2(1)][435] of the Biosecurity Act 1993) may require any person importing any organism to declare, by statutory declaration, that the organism is not a genetically modified organism.
 
 ##### 124 Responsibilities of carrier and person in charge of any craft
     
@@ -6018,7 +6048,7 @@ Inspection, enforcement, and ancillary powers
 ## Part 7A  
 Pecuniary penalties and civil liability for breaches relating to new organisms
     
-*   Part 7A: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Part 7A: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124A Interpretation
     
@@ -6028,11 +6058,11 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     _enforcement agency_ means the chief executive of the department of State responsible for the administration of the [Biosecurity Act 1993][427].
     
-    Section 124A: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124A: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Pecuniary penalties
     
-*   Heading: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124B Pecuniary penalty order
     
@@ -6054,9 +6084,9 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     (3) The court must not make the order if the person satisfies the court that the person did not know, and could not reasonably have known, of the breach.
     
-    Section 124B: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124B: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 124B(2)(b): amended, on 20 September 2007, by [section 6][715] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 124B(2)(b): amended, on 20 September 2007, by [section 6][719] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
 
 ##### 124C Amount of pecuniary penalty
     
@@ -6088,9 +6118,9 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     *   (f) the steps taken by the person to avoid, remedy, or mitigate the effects of the breach.
     
-    (3) In this section, _interconnected_ and _turnover_ have the same meaning as in the [Commerce Act 1986][716].
+    (3) In this section, _interconnected_ and _turnover_ have the same meaning as in the [Commerce Act 1986][720].
     
-    Section 124C: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124C: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124D Other orders instead of or in addition to pecuniary penalty order
     
@@ -6110,7 +6140,7 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     (3) To avoid doubt, the court may make an order under either or both of subsections (1) and (2) against the same person in respect of the same breach.
     
-    Section 124D: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124D: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124E Standard of proof and procedural matters
     
@@ -6120,7 +6150,7 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     *   (b) the enforcement agency may, by order of the court, obtain discovery and administer interrogatories.
     
-    Section 124E: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124E: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124F Relationship between concurrent proceedings for pecuniary penalty and criminal proceedings
     
@@ -6128,11 +6158,11 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     (2) Uncompleted proceedings for an order under [section 124B][241] must be stayed if criminal proceedings are started or have already been started against the person for the same act or omission or substantially the same act or omission in respect of which the order is sought.
     
-    Section 124F: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124F: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Civil liability for acts and omissions while in breach
     
-*   Heading: inserted, 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124G Civil liability
     
@@ -6158,9 +6188,9 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     (3) To avoid doubt, proceedings under this section are in addition to, and not in substitution for, any other cause of action.
     
-    Section 124G: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124G: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 124G(1)(b): amended, on 20 September 2007, by [section 7][717] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 124G(1)(b): amended, on 20 September 2007, by [section 7][721] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
 
 ##### 124H Defences to liability under section 124G
     
@@ -6196,11 +6226,11 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     *   (c) that the defendant did not know, and could not reasonably have known, of the breach.
     
-    Section 124H: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124H: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 #### Liability for acts and omissions of others
     
-*   Heading: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Heading: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ##### 124I Breaches, acts, and omissions by directors, employees, or agents
     
@@ -6224,7 +6254,7 @@ Pecuniary penalties and civil liability for breaches relating to new organisms
     
     (6) If the court is prevented by [section 124B(3)][241] from making an order under that section against a person in breach of this Act and the breach is to be treated under subsection (2) or subsection (3) of this section as also the breach of another person, the court must not make an order under section 124B against the other person if it is satisfied that the other person did not know and could not reasonably have known of the breach.
     
-    Section 124I: inserted, on 30 October 2003, by [section 52][714] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 124I: inserted, on 30 October 2003, by [section 52][718] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 ## Part 8  
 Appeals
@@ -6301,15 +6331,15 @@ Appeals
     
     (7) Any party to an appeal under this section may further appeal to the High Court on a question of law.
     
-    Section 125(1)(da): inserted, on 22 December 2005, by [section 34(1)][718] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 125(1)(da): inserted, on 22 December 2005, by [section 34(1)][722] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 125(1)(h): repealed, on 7 May 1999, by [section 12(1)][719] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 125(1)(h): repealed, on 7 May 1999, by [section 12(1)][723] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 125(1A): inserted, on 24 March 2004, by [section 9][720] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 125(1A): inserted, on 24 March 2004, by [section 9][724] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 125(2A): inserted, on 7 May 1999, by [section 12(2)][719] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 125(2A): inserted, on 7 May 1999, by [section 12(2)][723] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 125(2B): inserted, on 22 December 2005, by [section 34(2)][718] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 125(2B): inserted, on 22 December 2005, by [section 34(2)][722] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 126 Appeal on question of law
     
@@ -6321,9 +6351,9 @@ Appeals
     
     may appeal against the decision of the Authority to the High Court on a question of law, unless a right of appeal to the District Court against the decision is provided for in any other provision of this Act.
     
-    (2) Any report and recommendation of the Authority under [section 72][148] is deemed to be a decision for the purposes of [Part 10][721] of the High Court Rules.
+    (2) Any report and recommendation of the Authority under [section 72][148] is deemed to be a decision for the purposes of [Part 10][725] of the High Court Rules.
     
-    (3) An appeal under this section shall be made in accordance with the [High Court Rules][722], except to the extent that those rules are inconsistent with [sections 127 to 134][254].
+    (3) An appeal under this section shall be made in accordance with the [High Court Rules][726], except to the extent that those rules are inconsistent with [sections 127 to 134][254].
 
 ##### 127 Notice of appeal
     
@@ -6409,7 +6439,9 @@ Appeals
 
 ##### 134 Appeals to Court of Appeal
     
-*   [Section 144][723] of the Summary Proceedings Act 1957 applies in respect of a decision of the High Court under [section 126][253] as if the decision has been made under [section 107][724] of the Summary Proceedings Act 1957\.
+*   [Subpart 8][727] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to a decision of the High Court under [section 126][253] as if the decision were made under [section 304][728] of that Act.
+    
+    Section 134: replaced, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 9  
 Emergencies
@@ -6426,9 +6458,9 @@ Emergencies
         
         arising from a hazardous substance or new organism
     
-    _enforcement officer_ includes any constable, and any Chief Fire Officer or person exercising the powers of a Chief Fire Officer under [section 28][725] or [section 28A][726] or [section 29][727] of the Fire Service Act 1975\.
+    _enforcement officer_ includes any constable, and any Chief Fire Officer or person exercising the powers of a Chief Fire Officer under [section 28][729] or [section 28A][730] or [section 29][731] of the Fire Service Act 1975\.
     
-    Section 135 **enforcement officer**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][688] of the Policing Act 2008 (2008 No 72).
+    Section 135 **enforcement officer**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][691] of the Policing Act 2008 (2008 No 72).
 
 ##### 136 Declaration of emergency
     
@@ -6438,11 +6470,11 @@ Emergencies
     
     *   (b) either,---
             
-        *   (i) no state of emergency has been declared under the [Civil Defence Emergency Management Act 2002][568]; or
+        *   (i) no state of emergency has been declared under the [Civil Defence Emergency Management Act 2002][570]; or
         
-        *   (ii) the emergency is not being dealt with under the [Fire Service Act 1975][728]; or
+        *   (ii) the emergency is not being dealt with under the [Fire Service Act 1975][732]; or
         
-        *   (iii) no emergency has been declared under [section 144][729] of the Biosecurity Act 1993; or
+        *   (iii) no emergency has been declared under [section 144][733] of the Biosecurity Act 1993; or
         
         *   (iv) no other enforcement officer has declared an emergency under this Act; and
         
@@ -6482,11 +6514,11 @@ Emergencies
         
     *   (a) 48 hours after the time of declaration; or
     
-    *   (b) when a state of emergency is declared under the [Civil Defence Emergency Management Act 2002][568]; or
+    *   (b) when a state of emergency is declared under the [Civil Defence Emergency Management Act 2002][570]; or
     
-    *   (c) when the emergency is treated by a Chief Fire Officer as an emergency under the [Fire Service Act 1975][728]; or
+    *   (c) when the emergency is treated by a Chief Fire Officer as an emergency under the [Fire Service Act 1975][732]; or
     
-    *   (d) when an emergency is declared under [section 144][729] of the Biosecurity Act 1993,---
+    *   (d) when an emergency is declared under [section 144][733] of the Biosecurity Act 1993,---
     
     whichever is the sooner.
     
@@ -6494,9 +6526,9 @@ Emergencies
     
     (6) Any emergency declared under this section shall have effect over the area specified under subsection (2)(c).
     
-    Section 136(1)(b)(i): substituted, on 1 December 2002, by [section 117][572] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 136(1)(b)(i): substituted, on 1 December 2002, by [section 117][574] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
     
-    Section 136(4)(b): substituted, on 1 December 2002, by [section 117][572] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 136(4)(b): substituted, on 1 December 2002, by [section 117][574] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ##### 137 Emergency powers
     
@@ -6524,7 +6556,7 @@ Emergencies
     
     (2) If an enforcement officer enters any private property pursuant to the powers conferred by subsection (1), he or she shall advise the occupier of the property as soon as practicable.
     
-    Section 137(1)(b): amended, on 7 May 1999, by [section 15(e)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 137(1)(b): amended, on 7 May 1999, by [section 15(e)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 138 Compensation for property requisitioned or destroyed
     
@@ -6540,7 +6572,7 @@ Emergencies
     
     (3) Where there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of such compensation, or as to the liability of the Crown or any other person or organisation to pay any such compensation, the matter shall be determined by any court of competent jurisdiction.
     
-    Section 138(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][688] of the Policing Act 2008 (2008 No 72).
+    Section 138(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][691] of the Policing Act 2008 (2008 No 72).
 
 ##### 139 Protection of enforcement officers and persons
     
@@ -6623,25 +6655,25 @@ Miscellaneous provisions
     
     (5) Regulations made under subsection (1)(c) may prescribe or provide for controls on any compressed gases, whether or not the properties of any gas that is compressed are intrinsically hazardous, and those compressed gases must all be treated as hazardous substances for the purposes of [Part 7][201] regardless of their properties.
     
-    Section 140(1)(ba): inserted, on 30 October 2003, by [section 53(1)][730] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 140(1)(ba): inserted, on 30 October 2003, by [section 53(1)][734] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 140(1)(c): amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 140(1)(c): amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 140(1)(fa): inserted, on 30 October 2003, by [section 53(2)][730] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 140(1)(fa): inserted, on 30 October 2003, by [section 53(2)][734] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 140(1)(fb): inserted, on 30 October 2003, by [section 53(2)][730] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 140(1)(fb): inserted, on 30 October 2003, by [section 53(2)][734] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 140(1)(g): substituted, on 2 July 2001, by [section 34(1)][731] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 140(1)(g): substituted, on 2 July 2001, by [section 34(1)][735] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 140(1)(k): amended, on 20 September 2007, by [section 8][732] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
+    Section 140(1)(k): amended, on 20 September 2007, by [section 8][736] of the Hazardous Substances and New Organisms Amendment Act 2007 (2007 No 61).
     
-    Section 140(1)(k): amended, on 7 May 1999, by [section 15(f)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 140(1)(k): amended, on 7 May 1999, by [section 15(f)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
     
-    Section 140(2A): inserted, on 30 October 2003, by [section 53(3)][730] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+    Section 140(2A): inserted, on 30 October 2003, by [section 53(3)][734] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
     
-    Section 140(4): added, on 2 July 2001, by [section 34(2)][731] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 140(4): added, on 2 July 2001, by [section 34(2)][735] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 140(5): added, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 140(5): added, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 140A Persistent organic pollutants
     
@@ -6655,7 +6687,7 @@ Miscellaneous provisions
     
     (2) An Order in Council made under subsection (1) must be consistent with New Zealand's obligations under the Stockholm Convention.
     
-    Section 140A: inserted, on 23 December 2004, by [section 15][733] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 140A: inserted, on 23 December 2004, by [section 15][737] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 140B Schedule 1AA may be amended or substituted
     
@@ -6665,7 +6697,7 @@ Miscellaneous provisions
     
     *   (b) revoke [Schedule 1AA][414] and substitute a new schedule setting out in an up-to-date form the text of the Stockholm Convention.
     
-    Section 140B: inserted, on 23 December 2004, by [section 15][733] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 140B: inserted, on 23 December 2004, by [section 15][737] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 ##### 141 Procedure for making Orders in Council
     
@@ -6689,11 +6721,11 @@ Miscellaneous provisions
     
     (3) A failure to comply with subsection (1) shall not affect the validity of any Order in Council made under this Act.
     
-    Section 141(1): amended, on 1 July 2011, by [section 12][451] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+    Section 141(1): amended, on 1 July 2011, by [section 12][452] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
     
-    Section 141(1): amended, on 23 December 2004, by [section 16][734] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+    Section 141(1): amended, on 23 December 2004, by [section 16][738] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
     
-    Section 141(1): amended, on 7 May 1999, by [section 15(1)(g)][485] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
+    Section 141(1): amended, on 7 May 1999, by [section 15(1)(g)][487] of the Hazardous Substances and New Organisms Amendment Act 1999 (1999 No 35).
 
 ##### 141A Incorporation of material by reference
     
@@ -6711,25 +6743,25 @@ Miscellaneous provisions
     
     (4) \[Repealed\]
     
-    Section 141A: inserted, on 2 July 2001, by [section 35][735] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+    Section 141A: inserted, on 2 July 2001, by [section 35][739] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
     
-    Section 141A(1): amended, on 22 December 2005, by [section 35(1)][736] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 141A(1): amended, on 22 December 2005, by [section 35(1)][740] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 141A(1)(a): substituted, on 20 April 2010, by [section 30(1)][737] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141A(1)(a): substituted, on 20 April 2010, by [section 30(1)][741] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 141A(1)(ab): inserted, on 20 April 2010, by [section 30(1)][737] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141A(1)(ab): inserted, on 20 April 2010, by [section 30(1)][741] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 141A(1)(b): amended, on 22 December 2005, by [section 35(2)(a)][736] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 141A(1)(b): amended, on 22 December 2005, by [section 35(2)(a)][740] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 141A(1)(b): amended, on 22 December 2005, by [section 35(2)(b)][736] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 141A(1)(b): amended, on 22 December 2005, by [section 35(2)(b)][740] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 141A(2): amended, on 22 December 2005, by [section 35(3)(a)][736] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 141A(2): amended, on 22 December 2005, by [section 35(3)(a)][740] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 141A(2): amended, on 22 December 2005, by [section 35(3)(b)][736] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 141A(2): amended, on 22 December 2005, by [section 35(3)(b)][740] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 141A(3): substituted, on 20 April 2010, by [section 30(2)][737] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141A(3): substituted, on 20 April 2010, by [section 30(2)][741] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
     
-    Section 141A(4): repealed, on 20 April 2010, by [section 30(3)][737] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141A(4): repealed, on 20 April 2010, by [section 30(3)][741] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141B Amendment to, or replacement of, material incorporated by reference
     
@@ -6749,7 +6781,7 @@ Miscellaneous provisions
     
     (4) An amendment to, or replacement of, material does not have legal effect as part of a notice of transfer in which the material is incorporated by reference.
     
-    Section 141B: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141B: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141C Proof of material incorporated by reference
     
@@ -6767,7 +6799,7 @@ Miscellaneous provisions
     
     (3) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of that material in the regulations, group standard, notice of transfer, or code of practice.
     
-    Section 141C: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141C: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141D Material incorporated by reference that ceases to have effect
     
@@ -6785,7 +6817,7 @@ Miscellaneous provisions
     
     (3) Material that ceases to have effect does not cease to have legal effect as part of a notice of transfer in which the material is incorporated by reference.
     
-    Section 141D: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141D: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141E Notice must be provided to committee responsible for examining regulations
     
@@ -6795,7 +6827,7 @@ Miscellaneous provisions
     
     *   (b) the chief executive of the Authority, in the case of material incorporated in a group standard.
     
-    Section 141E: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141E: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141F Requirement to consult on proposal to amend or replace material incorporated by reference
     
@@ -6813,7 +6845,7 @@ Miscellaneous provisions
     
     (5) A failure to comply with this section does not invalidate regulations that incorporate material by reference or a group standard or code of practice that incorporates material by reference.
     
-    Section 141F: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141F: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141G Access to material incorporated by reference in regulations
     
@@ -6861,7 +6893,7 @@ Miscellaneous provisions
     
     (6) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
     
-    Section 141G: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141G: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 141H Access to material incorporated by reference in group standard, notice of transfer, or code of practice
     
@@ -6891,37 +6923,37 @@ Miscellaneous provisions
     
     (4) A failure to comply with this section does not invalidate a group standard, notice of transfer, or code of practice that incorporates material by reference.
     
-    Section 141H: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141H: inserted, on 20 April 2010, by [section 31][742] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
-##### 141I Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
+##### 141I Application of Legislation Act 2012
     
-*   (1) The [Acts and Regulations Publication Act 1989][579] does not apply to material incorporated by reference in regulations, group standards, notices of transfer, or codes of practice, or to an amendment to, or replacement of, that material.
+*   (1) [Part 2][743] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations, group standards, notices of transfer, or codes of practice, or to any amendment to, or replacement of, that material.
     
-    (2) The [Regulations (Disallowance) Act 1989][581] applies to regulations, group standards, and notices of transfer that incorporate material by reference, but does not apply to codes of practice that incorporate material by reference.
+    (2) [Subpart 1][744] of Part 3 of the Legislation Act 2012 applies to regulations, group standards, and notices of transfer that incorporate material by reference, but does not apply to codes of practice that incorporate material by reference.
     
-    (3) However, nothing in [section 4][739] of the Regulations (Disallowance) Act 1989 requires material (including an amendment to, or replacement of, that material) that is incorporated by reference in regulations, group standards, or notices of transfer to be presented to the House of Representatives.
+    (3) However, nothing in [section 41][582] of the Legislation Act 2012 requires material (including any amendment to, or replacement of, that material) that is incorporated by reference in regulations, group standards, or notices of transfer to be presented to the House of Representatives.
     
-    Section 141I: inserted, on 20 April 2010, by [section 31][738] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 141I: replaced, on 5 August 2013, by [section 77(3)][583] of the Legislation Act 2012 (2012 No 119).
 
 ##### 142 Relationship to other Acts
     
 *   (1) Nothing in this Act shall affect the requirements of the [Biosecurity Act 1993][427] in relation to any organism.
     
-    (2) Every person exercising a power or function under the [Resource Management Act 1991][642] relating to the storage, use, disposal, or transportation of any hazardous substance shall comply with the provisions of this Act and with regulations and notices of transfer made under this Act.
+    (2) Every person exercising a power or function under the [Resource Management Act 1991][645] relating to the storage, use, disposal, or transportation of any hazardous substance shall comply with the provisions of this Act and with regulations and notices of transfer made under this Act.
     
-    (3) Nothing in subsection (2) shall prevent any person lawfully imposing more stringent requirements on the storage, use, disposal, or transportation of any hazardous substance than may be required by or under this Act where such requirements are considered necessary by that person for the purposes of the [Resource Management Act 1991][642].
+    (3) Nothing in subsection (2) shall prevent any person lawfully imposing more stringent requirements on the storage, use, disposal, or transportation of any hazardous substance than may be required by or under this Act where such requirements are considered necessary by that person for the purposes of the [Resource Management Act 1991][645].
     
     (4) Nothing in this Act shall apply to any resource consent, being---
         
     *   (a) a land use consent relating to the storage, use, disposal, or transportation of any hazardous substance; or
     
-    *   (b) a coastal permit to do something that would otherwise contravene [section 15][740] of the Resource Management Act 1991; or
+    *   (b) a coastal permit to do something that would otherwise contravene [section 15][745] of the Resource Management Act 1991; or
     
     *   (c) a discharge permit,---
     
-    where that resource consent was granted before the coming into force of any regulations made under this Act (other than regulations made under [Parts 11 to 16][292]) until such time as the conditions on the resource consent are reviewed in accordance with [section 128][741] of the Resource Management Act 1991\.
+    where that resource consent was granted before the coming into force of any regulations made under this Act (other than regulations made under [Parts 11 to 16][292]) until such time as the conditions on the resource consent are reviewed in accordance with [section 128][746] of the Resource Management Act 1991\.
     
-    (5) For the purposes of this section, _resource consent_ has the same meaning as in the [Resource Management Act 1991][642].
+    (5) For the purposes of this section, _resource consent_ has the same meaning as in the [Resource Management Act 1991][645].
     
     (6) Any controls prescribed under any other Act for any hazardous substance shall not contravene the provisions of regulations made under [sections 75][161] and [76][162] unless---
         
@@ -6929,9 +6961,9 @@ Miscellaneous provisions
     
     *   (b) the controls are made for the purposes provided for in that Act.
     
-    Section 142(2): amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 142(2): amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
     
-    Section 142(3): amended, on 24 March 2004, by [section 13][465] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
+    Section 142(3): amended, on 24 March 2004, by [section 13][467] of the Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004 (2004 No 7).
 
 ##### 142A Exemptions from approval requirements
     
@@ -6943,9 +6975,9 @@ Miscellaneous provisions
     
 *   (1) In this section,---
     
-    _hospital_ means a hospital care institution within the meaning of [section 58(4)][742] of the Health and Disability Services (Safety) Act 2001
+    _hospital_ means a hospital care institution within the meaning of [section 58(4)][747] of the Health and Disability Services (Safety) Act 2001
     
-    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][743] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+    _medical practitioner_ means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][748] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
     
     (2) If any person, upon admission to a hospital, is found to be suffering from any injury caused by a hazardous substance, the person for the time being in charge of the hospital shall give notice of the injury to the Medical Officer of Health.
     
@@ -6953,11 +6985,11 @@ Miscellaneous provisions
     
     (3) The Medical Officer of Health shall ensure that information about any injury notified in accordance with subsection (2) or subsection (2A) (not being information which identifies any individual person) is supplied to the Minister of Health.
     
-    Section 143(1): substituted, on 22 December 2005, by [section 36(1)][744] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 143(1): substituted, on 22 December 2005, by [section 36(1)][749] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 143(2A): inserted, on 22 December 2005, by [section 36(2)][744] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 143(2A): inserted, on 22 December 2005, by [section 36(2)][749] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
     
-    Section 143(3): amended, on 22 December 2005, by [section 36(3)][744] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
+    Section 143(3): amended, on 22 December 2005, by [section 36(3)][749] of the Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005 (2005 No 123).
 
 ##### 144 Reporting of incidents
     
@@ -6969,17 +7001,17 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 145: repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 145: repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 146 Authority to be Crown entity
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 146: repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 147 Additional matters to be included in statement of intent
     
-*   (1) The Authority shall include in its statement of intent under [section 139][745] of the Crown Entities Act 2004:
+*   (1) The Authority shall include in its statement of intent under [section 139][750] of the Crown Entities Act 2004:
         
     *   (a) \[Repealed\]
     
@@ -6997,21 +7029,21 @@ Miscellaneous provisions
     
     (3) \[Repealed\]
     
-    Section 147(1): amended, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 147(1): amended, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 147(1)(a): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 147(1)(a): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 147(1)(b): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 147(1)(b): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 147(1)(c): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 147(1)(c): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 147(2): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 147(2): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 147(3): repealed, on 20 April 2010, by [section 32][746] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 147(3): repealed, on 20 April 2010, by [section 32][751] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 148 Additional reporting requirements
     
-*   The annual report under [section 150][747] of the Crown Entities Act 2004 must include the following additional matters:
+*   The annual report under [section 150][752] of the Crown Entities Act 2004 must include the following additional matters:
         
     *   (a) \[Repealed\]
     
@@ -7023,11 +7055,11 @@ Miscellaneous provisions
     
     *   (e) any other matters the Authority considers to be significant in the management and use of hazardous substances and new organisms, including the investigation and use of environmental user charges.
     
-    Section 148: amended, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 148: amended, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 148(a): repealed, on 25 January 2005, by [section 200][484] of the Crown Entities Act 2004 (2004 No 115).
+    Section 148(a): repealed, on 25 January 2005, by [section 200][486] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 148(b): repealed, on 20 April 2010, by [section 33][748] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
+    Section 148(b): repealed, on 20 April 2010, by [section 33][753] of the Hazardous Substances and New Organisms Amendment Act 2010 (2010 No 18).
 
 ##### 149 Amendments to other Acts
     
@@ -7780,7 +7812,7 @@ Stockholm Convention on Persistent Organic Pollutants
 
 [s 2(1)][4]
 
-*   Schedule 1AA: inserted, on 23 December 2004, by [section 18][749] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+*   Schedule 1AA: inserted, on 23 December 2004, by [section 18][754] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 The Parties to this Convention,
 
@@ -8444,8 +8476,6 @@ IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have s
 
 Done at Stockholm on this twenty-second day of May, two thousand and one.
 
----
-
 ## Annex A  
 Elimination
 
@@ -8566,9 +8596,9 @@ _Notes_:
 
 *   (v) Technical endosulfan (CAS No:115-29-7), its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) and endosulfan sulfate (CAS No: 1031-07-8) were assessed and identified as persistent organic pollutants.
 
-*   Schedule 1AA Annex A Part I table: amended, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
-*   Schedule 1AA Annex A Part I note (iv): substituted, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
-*   Schedule A Annex A Part I note (v): added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part I table: amended, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part I note (iv): substituted, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule A Annex A Part I note (v): added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ## Part II  
 Polychlorinated biphenyls
@@ -8610,7 +8640,7 @@ Each Party shall:
 ## Part III  
 Definitions
     
-*   Schedule 1AA Annex A Part III: added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part III: added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 For the purpose of this Annex:
     
@@ -8621,11 +8651,9 @@ For the purpose of this Annex:
 ## Part IV  
 Hexabromodiphenyl ether and heptabromodiphenyl ether
     
-*   Schedule 1AA Annex A Part IV: added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part IV: added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
-##### 1\.
-    
-*   A Party may allow recycling of articles that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, provided that:
+*   1\. A Party may allow recycling of articles that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain hexabromodiphenyl ether and heptabromodiphenyl ether, provided that:
         
     *   (a) The recycling and final disposal is carried out in an environmentally sound manner and does not lead to recovery of hexabromodiphenyl ether and heptabromodiphenyl ether for the purpose of their reuse;
     
@@ -8635,18 +8663,14 @@ Hexabromodiphenyl ether and heptabromodiphenyl ether
     
     
 
-##### 2\.
-    
-*   At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of hexabromodiphenyl ether and heptabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030\.
+*   2\. At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of hexabromodiphenyl ether and heptabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030\.
 
 ## Part V  
 Tetrabromodiphenyl ether and pentabromodiphenyl ether
     
-*   Schedule 1AA Annex A Part V: added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part V: added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
-##### 1\.
-    
-*   A Party may allow recycling of articles that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, provided that:
+*   1\. A Party may allow recycling of articles that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, and the use and final disposal of articles manufactured from recycled materials that contain or may contain tetrabromodiphenyl ether and pentabromodiphenyl ether, provided that:
         
     *   (a) The recycling and final disposal is carried out in an environmentally sound manner and does not lead to recovery of tetrabromodiphenyl ether and pentabromodiphenyl ether for the purpose of their reuse;
     
@@ -8656,14 +8680,12 @@ Tetrabromodiphenyl ether and pentabromodiphenyl ether
     
     
 
-##### 2\.
-    
-*   At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of tetrabromodiphenyl ether and pentabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030\.
+*   2\. At its sixth ordinary meeting and at every second ordinary meeting thereafter the Conference of the Parties shall evaluate the progress that Parties have made towards achieving their ultimate objective of elimination of tetrabromodiphenyl ether and pentabromodiphenyl ether contained in articles and review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2030\.
 
 ## Part VI  
 Technical endosulfan and its related isomers (endosulfan)
     
-*   Schedule 1AA Annex A Part VI: added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex A Part VI: added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 The production and use of endosulfan shall be eliminated except for parties that have notified the Secretariat of their intention to produce and/or use it in accordance with Article 4 of the Convention. Specific exemptions may be available for the use of endosulfan for the following crop-pest complexes:
 
@@ -8787,7 +8809,7 @@ _Notes_:
 
 *   (iv) All the specific exemptions in this Annex may be exercised by Parties that have registered in respect of them in accordance with Article 4\.
 
-*   Schedule 1AA Annex B Part I table: substituted, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex B Part I table: substituted, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ## Part II  
 DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)
@@ -8831,23 +8853,15 @@ DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)
 ## Part III  
 Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride
     
-*   Schedule 1AA Annex B Part III: added, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex B Part III: added, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
-##### 1\.
-    
-*   The production and use of perfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF) shall be eliminated by all Parties except as provided in Part I of this Annex for Parties that have notified the Secretariat of their intention to produce and/or use them for acceptable purposes. A Register of Acceptable Purposes is hereby established and shall be available to the public. The Secretariat shall maintain the Register of Acceptable Purposes. In the event that a Party not listed in the Register determines that it requires the use of PFOS, its salts or PFOSF for the acceptable purposes listed in Part I of this Annex it shall notify the Secretariat as soon as possible in order to have its name added forthwith to the Register.
+*   1\. The production and use of perfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF) shall be eliminated by all Parties except as provided in Part I of this Annex for Parties that have notified the Secretariat of their intention to produce and/or use them for acceptable purposes. A Register of Acceptable Purposes is hereby established and shall be available to the public. The Secretariat shall maintain the Register of Acceptable Purposes. In the event that a Party not listed in the Register determines that it requires the use of PFOS, its salts or PFOSF for the acceptable purposes listed in Part I of this Annex it shall notify the Secretariat as soon as possible in order to have its name added forthwith to the Register.
 
-##### 2\.
-    
-*   Parties that produce and/or use these chemicals shall take into account, as appropriate, guidance such as that given in the relevant parts of the general guidance on best available techniques and best environmental practices given in Part V of Annex C of the Convention.
+*   2\. Parties that produce and/or use these chemicals shall take into account, as appropriate, guidance such as that given in the relevant parts of the general guidance on best available techniques and best environmental practices given in Part V of Annex C of the Convention.
 
-##### 3\.
-    
-*   Every four years, each Party that uses and/or produces these chemicals shall report on progress made to eliminate PFOS, its salts and PFOSF and submit information on such progress to the Conference of the Parties pursuant to and in the process of reporting under Article 15 of the Convention.
+*   3\. Every four years, each Party that uses and/or produces these chemicals shall report on progress made to eliminate PFOS, its salts and PFOSF and submit information on such progress to the Conference of the Parties pursuant to and in the process of reporting under Article 15 of the Convention.
 
-##### 4\.
-    
-*   With the goal of reducing and ultimately eliminating the production and/or use of these chemicals, the Conference of the Parties shall encourage:
+*   4\. With the goal of reducing and ultimately eliminating the production and/or use of these chemicals, the Conference of the Parties shall encourage:
         
     *   (a) Each Party using these chemicals to take action to phase out uses when suitable alternatives substances or methods are available;
     
@@ -8857,9 +8871,7 @@ Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride
     
     
 
-##### 5\.
-    
-*   The Conference of the Parties shall evaluate the continued need for these chemicals for the various acceptable purposes and specific exemptions on the basis of available scientific, technical, environmental and economic information, including:
+*   5\. The Conference of the Parties shall evaluate the continued need for these chemicals for the various acceptable purposes and specific exemptions on the basis of available scientific, technical, environmental and economic information, including:
         
     *   (a) Information provided in the reports described in paragraph 3;
     
@@ -8871,21 +8883,13 @@ Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride
     
     
 
-##### 6\.
-    
-*   The evaluation referred to in the preceding paragraph shall take place no later than in 2015 and every four years thereafter, in conjunction with a regular meeting of the Conference of the Parties.
+*   6\. The evaluation referred to in the preceding paragraph shall take place no later than in 2015 and every four years thereafter, in conjunction with a regular meeting of the Conference of the Parties.
 
-##### 7\.
-    
-*   Due to the complexity of the use and the many sectors of society involved in the use of these chemicals, there might be other uses of these chemicals of which countries are not presently aware. Parties which become aware of other uses are encouraged to inform the Secretariat as soon as possible.
+*   7\. Due to the complexity of the use and the many sectors of society involved in the use of these chemicals, there might be other uses of these chemicals of which countries are not presently aware. Parties which become aware of other uses are encouraged to inform the Secretariat as soon as possible.
 
-##### 8\.
-    
-*   A Party may, at any time, withdraw its name from the Register of acceptable purposes upon written notification to the Secretariat. The withdrawal shall take effect on the date specified in the notification.
+*   8\. A Party may, at any time, withdraw its name from the Register of acceptable purposes upon written notification to the Secretariat. The withdrawal shall take effect on the date specified in the notification.
 
-##### 9\.
-    
-*   The provisions of note (iii) of Part I of Annex B shall not apply to these chemicals.
+*   9\. The provisions of note (iii) of Part I of Annex B shall not apply to these chemicals.
 
 ## Annex C  
 Unintentional production
@@ -8902,7 +8906,7 @@ Hexachlorobenzene (HCB) (CAS No: 118-74-1)
 Pentachlorobenzene (PeCB) (CAS No: 608-93-5)  
 Polychlorinated biphenyls (PCB)
 
-*   Schedule 1AA Annex C Part I table: amended, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex C Part I table: amended, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ## Part II  
 Source categories
@@ -8927,7 +8931,7 @@ Hexachlorobenzene, pentachlorobenzene, polychlorinated biphenyls, and polychlori
     
     
 
-*   Schedule 1AA Annex C Part II: amended, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex C Part II: amended, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ## Part III  
 Source categories
@@ -8960,7 +8964,7 @@ Hexachlorobenzene, pentachlorobenzene, polychlorinated biphenyls, and polychlori
 
 *   (m) Waste oil refineries.
 
-*   Schedule 1AA Annex C Part III: amended, on 18 August 2011, by [clause 3][750] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 1AA Annex C Part III: amended, on 18 August 2011, by [clause 3][755] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ## Part IV  
 Definitions
@@ -8980,7 +8984,7 @@ General guidance on best available techniques and best environmental practices
 
 This Part provides general guidance to Parties on preventing or reducing releases of the chemicals listed in Part I.
 
-### A. General prevention measures relating to both best available techniques and best environmental practices
+### A.---General prevention measures relating to both best available techniques and best environmental practices
 
 Priority should be given to the consideration of approaches to prevent the formation and release of the chemicals listed in Part I. Useful measures could include:
     
@@ -9000,7 +9004,7 @@ Priority should be given to the consideration of approaches to prevent the forma
 
 *   (h) Avoiding elemental chlorine or chemicals generating elemental chlorine for bleaching.
 
-### B. Best available techniques
+### B.---Best available techniques
 
 The concept of best available techniques is not aimed at the prescription of any specific technique or technology, but at taking into account the technical characteristics of the installation concerned, its geographical location and the local environmental conditions. Appropriate control techniques to reduce releases of the chemicals listed in Part I are in general the same. In determining best available techniques, special consideration should be given, generally or in specific cases, to the following factors, bearing in mind the likely costs and benefits of a measure and consideration of precaution and prevention:
     
@@ -9038,7 +9042,7 @@ The concept of best available techniques is not aimed at the prescription of any
     
     
 
-### C. Best environmental practices
+### C.---Best environmental practices
 
 The Conference of the Parties may develop guidance with regard to best environmental practices.
 
@@ -9192,7 +9196,7 @@ Provisions relating to Environmental Risk Management Authority
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 July 2011, by [section 11][751] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
+*   Schedule 1: repealed, on 1 July 2011, by [section 11][756] of the Hazardous Substances and New Organisms Amendment Act 2011 (2011 No 16).
 
 ---
 
@@ -9201,7 +9205,7 @@ Prohibited new organisms
 
 [ss 25(2)][43], [50(1)--(4)][118]
 
-*   Schedule 2: substituted, on 30 October 2003, by [section 54][752] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
+*   Schedule 2: substituted, on 30 October 2003, by [section 54][757] of the Hazardous Substances and New Organisms Amendment Act 2003 (2003 No 54).
 
 *   1 Any snake of any species whatever.
 
@@ -9284,7 +9288,7 @@ Persistent organic pollutants
 
 [s 2(1)][4]
 
-*   Schedule 2A: inserted, on 23 December 2004, by [section 19][753] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
+*   Schedule 2A: inserted, on 23 December 2004, by [section 19][758] of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 (2003 No 37).
 
 **Substance** **Use or storage****Manufacture****Expiry of permitted use or storage**
 
@@ -9344,7 +9348,7 @@ in accordance with an exemption---
     
 *   (a) granted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983; and
 
-*   (b) that is in force immediately before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][524]
+*   (b) that is in force immediately before the commencement of the [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][526]
 
 at the expiry of---
     
@@ -9359,7 +9363,7 @@ Tetrabromodiphenyl ether and pentabromodiphenyl ether
 Toxaphene  
 CAS No: 8001-35-2 
 
-*   Schedule 2A: amended, on 18 August 2011, by [clause 4][754] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
+*   Schedule 2A: amended, on 18 August 2011, by [clause 4][759] of the Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011 (SR 2011/255).
 
 ---
 
@@ -9370,7 +9374,7 @@ CAS No: 8001-35-2
 ## Part 1  
 Matters to be addressed by containment controls for importing, developing, or field testing of genetically modified organisms
     
-*   Schedule 3 Part 1 heading: amended, on 2 July 2001, by [section 41][755] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
+*   Schedule 3 Part 1 heading: amended, on 2 July 2001, by [section 41][760] of the Hazardous Substances and New Organisms Amendment Act 2000 (2000 No 89).
 
 *   1 To limit the likelihood of any accidental release of any organism or any viable genetic material, the controls imposed by an approval shall specify---
         
@@ -9436,7 +9440,7 @@ Matters to be addressed by containment controls for importing, developing, or fi
 
 *   6 Controls imposed by an approval shall specify inspection and monitoring requirements for containment facilities, including any inspection required before commencement of the development.
         
-    *   Schedule 3 Part 1 clause 6: amended, on 28 May 2002, by [section 11(1)][756] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    *   Schedule 3 Part 1 clause 6: amended, on 28 May 2002, by [section 11(1)][761] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
     
 
@@ -9452,13 +9456,13 @@ Matters to be addressed by containment controls for importing, developing, or fi
     
     *   (b) may specify inspection of the site before field testing commences.
     
-    *   Schedule 3 Part 1 clause 6A: inserted, on 28 May 2002, by [section 11(2)][756] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    *   Schedule 3 Part 1 clause 6A: inserted, on 28 May 2002, by [section 11(2)][761] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
     
 
 *   6B Clause 6A applies, with all necessary modifications, to controls imposed on an approval to develop a new organism that is a genetically modified organism, to the extent that the development does not take place in a containment structure.
         
-    *   Schedule 3 Part 1 clause 6B: inserted, on 28 May 2002, by [section 11(2)][756] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
+    *   Schedule 3 Part 1 clause 6B: inserted, on 28 May 2002, by [section 11(2)][761] of the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002 (2002 No 13).
     
     
 
@@ -9599,7 +9603,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Arms Act 1983 (1983 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][757]_.
+_Amendment(s) incorporated in the [Act(s)][762]_.
 
 ##### Biosecurity Act 1993 (1993 No 95)
 
@@ -9611,19 +9615,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][758]_.
+_Amendment(s) incorporated in the [Act(s)][763]_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][443]_.
+_Amendment(s) incorporated in the [Act(s)][444]_.
 
 ##### Defence Act 1990 (1990 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][759]_.
+_Amendment(s) incorporated in the [Act(s)][764]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][760]_.
+_Amendment(s) incorporated in the [Act(s)][765]_.
 
 ##### Fertilisers Act 1960 (1960 No 33)
 
@@ -9635,31 +9639,31 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Fire Service Act 1975 (1975 No 42) (RS Vol 27, p 11)
 
-_Amendment(s) incorporated in the [Act(s)][728]_.
+_Amendment(s) incorporated in the [Act(s)][732]_.
 
 ##### Fire Service Amendment Act 1990 (1990 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][761]_.
+_Amendment(s) incorporated in the [Act(s)][766]_.
 
 ##### Fisheries Act 1983 (1983 No 14) (RS Vol 27, p 137)
 
-_Amendment(s) incorporated in the [Act(s)][762]_.
+_Amendment(s) incorporated in the [Act(s)][767]_.
 
 ##### Food Act 1981 (1981 No 45)
 
-_Amendment(s) incorporated in the [Act(s)][763]_.
+_Amendment(s) incorporated in the [Act(s)][768]_.
 
 ##### Gas Act 1992 (1992 No 124)
 
-_Amendment(s) incorporated in the [Act(s)][658]_.
+_Amendment(s) incorporated in the [Act(s)][661]_.
 
 ##### Health Act 1956 (1956 No 65) (RS Vol 31, p 467)
 
-_Amendment(s) incorporated in the [Act(s)][578]_.
+_Amendment(s) incorporated in the [Act(s)][580]_.
 
 ##### Health and Safety in Employment Act 1992 (1992 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][641]_.
+_Amendment(s) incorporated in the [Act(s)][644]_.
 
 ##### Land Transport Act 1993 (1993 No 88)
 
@@ -9667,19 +9671,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][444]_.
+_Amendment(s) incorporated in the [Act(s)][445]_.
 
 ##### Misuse of Drugs Act 1975 (1975 No 116) (RS Vol 26, p 567)
 
-_Amendment(s) incorporated in the [Act(s)][764]_.
+_Amendment(s) incorporated in the [Act(s)][769]_.
 
 ##### Official Information Act 1982 (1982 No 156) (RS Vol 21, p 579)
 
-_Amendment(s) incorporated in the [Act(s)][584]_.
+_Amendment(s) incorporated in the [Act(s)][587]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][765]_.
+_Amendment(s) incorporated in the [Act(s)][770]_.
 
 ##### Ozone Layer Protection Act 1990 (1990 No 50)
 
@@ -9687,11 +9691,11 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Radiation Protection Act 1965 (1965 No 23) (RS Vol 18, p 673)
 
-_Amendment(s) incorporated in the [Act(s)][766]_.
+_Amendment(s) incorporated in the [Act(s)][771]_.
 
 ##### Resource Management Act 1991 (1991 No 69) (RS Vol 32, p 131)
 
-_Amendment(s) incorporated in the [Act(s)][642]_.
+_Amendment(s) incorporated in the [Act(s)][645]_.
 
 ##### Shipping and Seaman Act 1952 (1952 No 49) (RS Vol 4, p 275)
 
@@ -9699,7 +9703,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][767]_.
+_Amendment(s) incorporated in the [Act(s)][772]_.
 
 ##### Transport Amendment Act 1987 (1987 No 96)
 
@@ -9714,7 +9718,7 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137) (RS Vol 21, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][768]_.
+_Amendment(s) incorporated in the [Act(s)][773]_.
 
 ##### Animals Act 1967 (1967 No 50) (RS Vol 21, p 73)
 
@@ -9726,7 +9730,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][769]_.
+_Amendment(s) incorporated in the [Act(s)][774]_.
 
 ##### Dangerous Goods Act 1974 (1974 No 26) (RS Vol 24, p 241)
 
@@ -9740,7 +9744,7 @@ _Amendment(s) incorporated in the [Act(s)][769]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][760]_.
+_Amendment(s) incorporated in the [Act(s)][765]_.
 
 ##### Explosives Act 1957 (1957 No 19) (RS Vol 6, p 361)
 
@@ -9770,19 +9774,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Health Amendment Act 1987 (1987 No 10) (RS Vol 31, p 580)
 
-_Amendment(s) incorporated in the [Act(s)][770]_.
+_Amendment(s) incorporated in the [Act(s)][775]_.
 
 ##### Health and Safety in Employment Act 1992 (1992 No 96)
 
-_Amendment(s) incorporated in the [Act(s)][641]_.
+_Amendment(s) incorporated in the [Act(s)][644]_.
 
 ##### Health Reforms (Transitional Provisions) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][771]_.
+_Amendment(s) incorporated in the [Act(s)][776]_.
 
 ##### Judicature Amendment Act 1991 (1991 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][772]_.
+_Amendment(s) incorporated in the [Act(s)][777]_.
 
 ##### Ministry of Agriculture and Fisheries Amendment Act 1990 (1990 No 53)
 
@@ -9790,7 +9794,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Official Information Amendment Act 1987 (1987 No 8) (RS Vol 21, p 652)
 
-_Amendment(s) incorporated in the [Act(s)][773]_.
+_Amendment(s) incorporated in the [Act(s)][778]_.
 
 ##### Pesticides Act 1979 (1979 No 26)
 
@@ -9800,11 +9804,11 @@ _Amendment(s) incorporated in the [Act(s)][773]_.
 
 ##### Plants Act 1970 (1970 No 151) (RS Vol 21, p 735)
 
-_Amendment(s) incorporated in the [Act(s)][469]_.
+_Amendment(s) incorporated in the [Act(s)][471]_.
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][774]_.
+_Amendment(s) incorporated in the [Act(s)][779]_.
 
 ##### Toxic Substances Act 1979 (1979 No 27)
 
@@ -9888,7 +9892,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002][775].
+*   (1) This Act is the [Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002][780].
     
     (2) In this Act, the Hazardous Substances and New Organisms Act 1996 is called ""the principal Act"".
 
@@ -9952,7 +9956,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005][776].
+*   (1) This Act is the [Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005][781].
     
     (2) In this Act, the Hazardous Substances and New Organisms Act 1996 is called ""the principal Act"".
 
@@ -9977,7 +9981,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Hazardous Substances and New Organisms Amendment Act 2010][777].
+*   This Act is the [Hazardous Substances and New Organisms Amendment Act 2010][782].
 
 ##### 2 Commencement
     
@@ -10015,228 +10019,131 @@ Commencementsee section 2
     
     
 
-##### 38 Transitional provision for laying information
+##### 38 Transitional provision for filing charging document
     
-*   (1) Subsection (2) applies to an information in respect of an offence against the principal Act that relates to a hazardous substance.
+*   (1) Subsection (2) applies to a charge in respect of an offence against the principal Act that relates to a hazardous substance.
     
-    (2) The information must be laid---
+    (2) The charging document must be filed---
         
     *   (a) as if this Act had not been enacted, if the incident, situation, or set of circumstances to which the offence relates occurred before the commencement of this Act; or
     
     *   (b) in accordance with the principal Act as amended by this Act in all other cases.
     
-    (3) Subsection (4) applies to an information in respect of an offence against the principal Act that relates to a new organism.
+    (3) Subsection (4) applies to a charge in respect of an offence against the principal Act that relates to a new organism.
     
-    (4) The information must be laid---
+    (4) The charging document must be filed---
         
-    *   (a) as if this Act had not been enacted, if the matter of the information arose before the commencement of this Act; or
+    *   (a) as if this Act had not been enacted, if the offence was committed before the commencement of this Act; or
     
     *   (b) in accordance with the principal Act as amended by this Act in all other cases.
     
+    Section 38 heading: amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 38(1): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 38(2): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 38(3): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 38(4): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 38(4)(a): amended, on 1 July 2013, by [section 413][693] of the Criminal Procedure Act 2011 (2011 No 81).
+
+#### 
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][778].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][779] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Hazardous Substances and New Organisms Act 1996\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][780] ![](/images/external_link.gif).
+*   This is a reprint of the _\[name\]_ that incorporates all the amendments to that _\[type\]_ as at the date of the last amendment to _\[it/them\]_.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][781] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][783] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][784] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][782] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][785] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][786] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][783] and [17E][784] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Public Finance Amendment Act 2013 (2013 No 50): [section 57][458]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Legislation Act 2012 (2012 No 119): [section 77(3)][583]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][573]
     
+    Search and Surveillance Act 2012 (2012 No 24): [section 255][712]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][693]
     
-*   Biosecurity Law Reform Act 2012 (2012 No 73): [section 93][571]
+    [Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011][787] (SR 2011/255)
     
-    Search and Surveillance Act 2012 (2012 No 24): [section 255][708]
+    [Hazardous Substances and New Organisms Amendment Act 2011][788] (2011 No 16)
     
-    [Hazardous Substances and New Organisms (Schedules 1AA and 2A) Order 2011][785] (SR 2011/255)
+    [Hazardous Substances and New Organisms Amendment Act 2010][782] (2010 No 18)
     
-    [Hazardous Substances and New Organisms Amendment Act 2011][786] (2011 No 16)
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][691]
     
-    [Hazardous Substances and New Organisms Amendment Act 2010][777] (2010 No 18)
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][663]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][688]
+    [Hazardous Substances and New Organisms Amendment Act 2008][789] (2008 No 22)
     
-    Land Transport Management Amendment Act 2008 (2008 No 47): [section 50(1)][660]
+    [Hazardous Substances and New Organisms Amendment Act 2007][790] (2007 No 61)
     
-    [Hazardous Substances and New Organisms Amendment Act 2008][787] (2008 No 22)
+    [Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005][781] (2005 No 123)
     
-    [Hazardous Substances and New Organisms Amendment Act 2007][788] (2007 No 61)
+    Railways Act 2005 (2005 No 37): [section 103(3)][464]
     
-    [Hazardous Substances and New Organisms (Approvals and Enforcement) Amendment Act 2005][776] (2005 No 123)
+    Crown Entities Act 2004 (2004 No 115): [section 200][486]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][462]
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][457]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][484]
+    Building Act 2004 (2004 No 72): [sections 414][683], [415(1)][454]
     
-    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][456]
+    [Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004][791] (2004 No 7)
     
-    Building Act 2004 (2004 No 72): [sections 414][680], [415(1)][453]
+    [Hazardous Substances and New Organisms Amendment Act 2003][792] (2003 No 54)
     
-    [Hazardous Substances and New Organisms (Transitional Provisions and Controls) Amendment Act 2004][789] (2004 No 7)
+    State Sector Amendment Act 2003 (2003 No 41): [section 12(2)][480]
     
-    [Hazardous Substances and New Organisms Amendment Act 2003][790] (2003 No 54)
+    [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][526] (2003 No 37)
     
-    State Sector Amendment Act 2003 (2003 No 41): [section 12(2)][478]
+    Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 34][468]
     
-    [Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003][524] (2003 No 37)
+    Local Government Act 2002 (2002 No 84): [section 262][470]
     
-    Health and Safety in Employment Amendment Act 2002 (2002 No 86): [section 34][466]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][574]
     
-    Local Government Act 2002 (2002 No 84): [section 262][468]
+    [Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002][780] (2002 No 13)
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][572]
+    [Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001][793] (SR 2001/171)
     
-    [Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002][775] (2002 No 13)
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][469]
     
-    [Hazardous Substances and New Organisms Act Commencement Order (No 2) 2001][791] (SR 2001/171)
-    
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][467]
-    
-    [Hazardous Substances and New Organisms Amendment Act 2000][792] (2000 No 89)
+    [Hazardous Substances and New Organisms Amendment Act 2000][794] (2000 No 89)
     
     Explosives Amendment Act 2000 (2000 No 63): section 4
     
-    [Hazardous Substances and New Organisms Amendment Act 1999][793] (1999 No 35)
+    [Hazardous Substances and New Organisms Amendment Act 1999][795] (1999 No 35)
     
-    Land Transport Act 1998 (1998 No 110): [section 215(1)][463]
+    Land Transport Act 1998 (1998 No 110): [section 215(1)][465]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][794]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][796]
     
-    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 85][591]
+    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [section 85][594]
     
     Hazardous Substances and New Organisms Act 1996 (1996 No 30): [sections 142A(6)][283], [152(1)][294]
     
-    Customs and Excise Act 1996 (1996 No 27): [sections 290(1)][461], [294(2)][457]
+    Customs and Excise Act 1996 (1996 No 27): [sections 290(1)][463], [294(2)][459]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][702]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][706]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0030/latest/whole.html#DLM381224
 [2]: http://www.legislation.govt.nz/act/public/1996/0030/latest/whole.html#DLM381226
 [3]: http://www.legislation.govt.nz/act/public/1996/0030/latest/whole.html#DLM381227
@@ -10666,368 +10573,370 @@ Amendments, repeals, and miscellaneous provisions
 [427]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM314622
 [428]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329641
 [429]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM163544
-[430]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM377336
-[431]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM129117
-[432]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM285420
-[433]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM377342
-[434]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM314629
-[435]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM341575
-[436]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433619
-[437]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230272
-[438]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM278835
-[439]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM80064
-[440]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM54687
-[441]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415055
-[442]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM170872
-[443]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM103609
-[444]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM53789
-[445]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM414576
-[446]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM279943
-[447]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM334667
-[448]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435375
-[449]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852881
-[450]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79506
-[451]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719025
-[452]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719008
-[453]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM309091
-[454]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214966
-[455]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143110
-[456]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM328867
-[457]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM380192
-[458]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229907
-[459]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363402
-[460]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198992
-[461]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM380186
-[462]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM343101
-[463]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435656
-[464]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23981
-[465]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239419
-[466]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM183319
-[467]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM81644
-[468]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM174088
-[469]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM396887
-[470]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23982
-[471]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214994
-[472]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852886
-[473]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229915
-[474]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM206017
-[475]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM401062
-[476]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139130
-[477]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363413
-[478]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM201376
-[479]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214995
-[480]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79517
-[481]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435834
-[482]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330361
-[483]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329952
-[484]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331111
-[485]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23994
-[486]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329931
-[487]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79518
-[488]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198999
-[489]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214996
-[490]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968315
-[491]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719013
-[492]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852887
-[493]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719014
-[494]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719016
-[495]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330351
-[496]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363414
-[497]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331147
-[498]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719017
-[499]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331148
-[500]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329630
-[501]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215827
-[502]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM305845
-[503]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330308
-[504]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852888
-[505]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214999
-[506]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719022
-[507]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363415
-[508]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199400
-[509]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79519
-[510]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239403
-[511]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215400
-[512]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363416
-[513]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM172990
-[514]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363418
-[515]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719023
-[516]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215412
-[517]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316050
-[518]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415153
-[519]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM55065
-[520]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229916
-[521]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215407
-[522]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199401
-[523]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363419
-[524]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198983
-[525]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM130706
-[526]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79520
-[527]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215413
-[528]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215414
-[529]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79521
-[530]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79522
-[531]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363420
-[532]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363421
-[533]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215416
-[534]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199406
-[535]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199408
-[536]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79526
-[537]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363422
-[538]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79527
-[539]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79528
-[540]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79529
-[541]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199409
-[542]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363423
-[543]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215417
-[544]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79531
-[545]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215418
-[546]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215420
-[547]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215421
-[548]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852889
-[549]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852890
-[550]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852892
-[551]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215436
-[552]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852893
-[553]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79532
-[554]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23983
-[555]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215437
-[556]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215438
-[557]: http://www.legislation.govt.nz/act/public/1996/0030/latest/whole.html#DLM386577
-[558]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852894
-[559]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215441
-[560]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143119
-[561]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215443
-[562]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852896
-[563]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79533
-[564]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215444
-[565]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143122
-[566]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215445
-[567]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM315701
-[568]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM149788
-[569]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM432653
-[570]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM334659
-[571]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3388552
-[572]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM151437
-[573]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79534
-[574]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215447
-[575]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215448
-[576]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM414589
-[577]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM394191
-[578]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM305839
-[579]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195097
-[580]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363424
-[581]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195534
-[582]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215475
-[583]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215476
-[584]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM64784
-[585]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852897
-[586]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215477
-[587]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363427
-[588]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23984
-[589]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415152
-[590]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215478
-[591]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415183
-[592]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM65371
-[593]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215479
-[594]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215480
-[595]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79538
-[596]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215481
-[597]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852898
-[598]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79539
-[599]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139145
-[600]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139153
-[601]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139157
-[602]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139161
-[603]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139163
-[604]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139167
-[605]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139172
-[606]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139174
-[607]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330373
-[608]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79540
-[609]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23985
-[610]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215482
-[611]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852899
-[612]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79541
-[613]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79542
-[614]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853400
-[615]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215483
-[616]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363428
-[617]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853401
-[618]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199410
-[619]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79543
-[620]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330363
-[621]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330364
-[622]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215484
-[623]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215485
-[624]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215486
-[625]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215487
-[626]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215488
-[627]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363430
-[628]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM306339
-[629]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968316
-[630]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79545
-[631]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363431
-[632]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239404
-[633]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363432
-[634]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79546
-[635]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23986
-[636]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79547
-[637]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79548
-[638]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM36301
-[639]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853403
-[640]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363440
-[641]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM278828
-[642]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230264
-[643]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM296638
-[644]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM297419
-[645]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363441
-[646]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853405
-[647]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853406
-[648]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM297081
-[649]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM65366
-[650]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853407
-[651]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79549
-[652]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363451
-[653]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363452
-[654]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239406
-[655]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363453
-[656]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363455
-[657]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853408
-[658]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM285411
-[659]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215489
-[660]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1313622
-[661]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853409
-[662]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363465
-[663]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316743
-[664]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316745
-[665]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316746
-[666]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316371
-[667]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316373
-[668]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316753
-[669]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM315211
-[670]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215490
-[671]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853410
-[672]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM279606
-[673]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363466
-[674]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853411
-[675]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215496
-[676]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79550
-[677]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215497
-[678]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215800
-[679]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM306035
-[680]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM309090
-[681]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79551
-[682]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215801
-[683]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215802
-[684]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199412
-[685]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23988
-[686]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239410
-[687]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363472
-[688]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1102349
-[689]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853415
-[690]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853416
-[691]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM310742
-[692]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM311346
-[693]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363473
-[694]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199413
-[695]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239411
-[696]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215803
-[697]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363474
-[698]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199414
-[699]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23989
-[700]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853419
-[701]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM163137
-[702]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM162942
-[703]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136542
-[704]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136781
-[705]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136770
-[706]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136813
-[707]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136815
-[708]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136993
-[709]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM378460
-[710]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM379566
-[711]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363475
-[712]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM378192
-[713]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363477
-[714]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215804
-[715]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968317
-[716]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM87622
-[717]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968318
-[718]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363483
-[719]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23991
-[720]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239412
-[721]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM156525
-[722]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM147653
-[723]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM313122
-[724]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM312658
-[725]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433277
-[726]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433287
-[727]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433289
-[728]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM432647
-[729]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316395
-[730]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215825
-[731]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79552
-[732]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968319
-[733]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199415
-[734]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199418
-[735]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79553
-[736]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363484
-[737]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853420
-[738]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853421
-[739]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195549
-[740]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM231978
-[741]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM235230
-[742]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM120905
-[743]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM204329
-[744]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363485
-[745]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330540
-[746]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853432
-[747]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330552
-[748]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853433
-[749]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199421
-[750]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867071
-[751]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719024
-[752]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215826
-[753]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199422
-[754]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867073
-[755]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79562
-[756]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143128
-[757]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM72621
-[758]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214686
-[759]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM204972
-[760]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM98974
-[761]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM227373
-[762]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM66581
-[763]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM48686
-[764]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM436100
-[765]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM430983
-[766]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM372538
-[767]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM341189
-[768]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM396478
-[769]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM264291
-[770]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM101365
-[771]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM294914
-[772]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230212
-[773]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM101320
-[774]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM223190
-[775]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM142699
-[776]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363095
-[777]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852876
-[778]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136500
-[779]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM4686448
-[780]: http://www.pco.parliament.govt.nz/reprints/
-[781]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195439
-[782]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[783]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195468
-[784]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM195470
-[785]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867090
-[786]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719003
-[787]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229902
-[788]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968308
-[789]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM238694
-[790]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214959
-[791]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM59543
-[792]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79500
-[793]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23975
-[794]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM427920
+[430]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM5466801
+[431]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM377336
+[432]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM129117
+[433]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM285420
+[434]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM377342
+[435]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM314629
+[436]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM341575
+[437]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433619
+[438]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230272
+[439]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM278835
+[440]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM80064
+[441]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM54687
+[442]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415055
+[443]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM170872
+[444]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM103609
+[445]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM53789
+[446]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM414576
+[447]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM279943
+[448]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM334667
+[449]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435375
+[450]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852881
+[451]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79506
+[452]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719025
+[453]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719008
+[454]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM309091
+[455]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214966
+[456]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143110
+[457]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM328867
+[458]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM5326333
+[459]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM380192
+[460]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229907
+[461]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363402
+[462]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198992
+[463]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM380186
+[464]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM343101
+[465]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435656
+[466]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23981
+[467]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239419
+[468]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM183319
+[469]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM81644
+[470]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM174088
+[471]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM396887
+[472]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23982
+[473]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214994
+[474]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852886
+[475]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229915
+[476]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM206017
+[477]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM401062
+[478]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139130
+[479]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363413
+[480]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM201376
+[481]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214995
+[482]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79517
+[483]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM435834
+[484]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330361
+[485]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329952
+[486]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331111
+[487]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23994
+[488]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329931
+[489]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79518
+[490]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198999
+[491]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214996
+[492]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968315
+[493]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719013
+[494]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852887
+[495]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719014
+[496]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719016
+[497]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330351
+[498]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363414
+[499]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331147
+[500]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719017
+[501]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM331148
+[502]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM329630
+[503]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215827
+[504]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM305845
+[505]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330308
+[506]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852888
+[507]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214999
+[508]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719022
+[509]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363415
+[510]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199400
+[511]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79519
+[512]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239403
+[513]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215400
+[514]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363416
+[515]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM172990
+[516]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363418
+[517]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719023
+[518]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215412
+[519]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316050
+[520]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415153
+[521]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM55065
+[522]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229916
+[523]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215407
+[524]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199401
+[525]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363419
+[526]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM198983
+[527]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM130706
+[528]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79520
+[529]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215413
+[530]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215414
+[531]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79521
+[532]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79522
+[533]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363420
+[534]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363421
+[535]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215416
+[536]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199406
+[537]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199408
+[538]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79526
+[539]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363422
+[540]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79527
+[541]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79528
+[542]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79529
+[543]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199409
+[544]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363423
+[545]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215417
+[546]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79531
+[547]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215418
+[548]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215420
+[549]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215421
+[550]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852889
+[551]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852890
+[552]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852892
+[553]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215436
+[554]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852893
+[555]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79532
+[556]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23983
+[557]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215437
+[558]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215438
+[559]: http://www.legislation.govt.nz/act/public/1996/0030/latest/whole.html#DLM386577
+[560]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852894
+[561]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215441
+[562]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143119
+[563]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215443
+[564]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852896
+[565]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79533
+[566]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215444
+[567]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143122
+[568]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215445
+[569]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM315701
+[570]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM149788
+[571]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM432653
+[572]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM334659
+[573]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3388552
+[574]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM151437
+[575]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79534
+[576]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215447
+[577]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215448
+[578]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM414589
+[579]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM394191
+[580]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM305839
+[581]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2997643
+[582]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998573
+[583]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998633
+[584]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363424
+[585]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215475
+[586]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215476
+[587]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM64784
+[588]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852897
+[589]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215477
+[590]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363427
+[591]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23984
+[592]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415152
+[593]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215478
+[594]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM415183
+[595]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM65371
+[596]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215479
+[597]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215480
+[598]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79538
+[599]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215481
+[600]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852898
+[601]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79539
+[602]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139145
+[603]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139153
+[604]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139157
+[605]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139161
+[606]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139163
+[607]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139167
+[608]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139172
+[609]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM139174
+[610]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330373
+[611]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79540
+[612]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23985
+[613]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215482
+[614]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852899
+[615]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79541
+[616]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79542
+[617]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853400
+[618]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215483
+[619]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363428
+[620]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853401
+[621]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199410
+[622]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79543
+[623]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330363
+[624]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330364
+[625]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215484
+[626]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215485
+[627]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215486
+[628]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215487
+[629]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215488
+[630]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363430
+[631]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM306339
+[632]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968316
+[633]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79545
+[634]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363431
+[635]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239404
+[636]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363432
+[637]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79546
+[638]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23986
+[639]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79547
+[640]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79548
+[641]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM36301
+[642]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853403
+[643]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363440
+[644]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM278828
+[645]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230264
+[646]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM296638
+[647]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM297419
+[648]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363441
+[649]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853405
+[650]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853406
+[651]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM297081
+[652]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM65366
+[653]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853407
+[654]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79549
+[655]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363451
+[656]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363452
+[657]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239406
+[658]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363453
+[659]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363455
+[660]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853408
+[661]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM285411
+[662]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215489
+[663]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1313622
+[664]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853409
+[665]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363465
+[666]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316743
+[667]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316745
+[668]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316746
+[669]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316371
+[670]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316373
+[671]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316753
+[672]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM315211
+[673]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215490
+[674]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853410
+[675]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM279606
+[676]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363466
+[677]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853411
+[678]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215496
+[679]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79550
+[680]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215497
+[681]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215800
+[682]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM306035
+[683]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM309090
+[684]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79551
+[685]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215801
+[686]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215802
+[687]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199412
+[688]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23988
+[689]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239410
+[690]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363472
+[691]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1102349
+[692]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853415
+[693]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3360714
+[694]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853416
+[695]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3360057
+[696]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM311346
+[697]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363473
+[698]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199413
+[699]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239411
+[700]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215803
+[701]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363474
+[702]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199414
+[703]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23989
+[704]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853419
+[705]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM163137
+[706]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM162942
+[707]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136542
+[708]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136781
+[709]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136770
+[710]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136813
+[711]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136815
+[712]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2136993
+[713]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM378460
+[714]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM379566
+[715]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363475
+[716]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM378192
+[717]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363477
+[718]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215804
+[719]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968317
+[720]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM87622
+[721]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968318
+[722]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363483
+[723]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23991
+[724]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM239412
+[725]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM156525
+[726]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM147653
+[727]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3360482
+[728]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3360493
+[729]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433277
+[730]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433287
+[731]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM433289
+[732]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM432647
+[733]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM316395
+[734]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215825
+[735]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79552
+[736]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968319
+[737]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199415
+[738]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199418
+[739]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79553
+[740]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363484
+[741]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853420
+[742]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853421
+[743]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2997693
+[744]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998558
+[745]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM231978
+[746]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM235230
+[747]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM120905
+[748]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM204329
+[749]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363485
+[750]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330540
+[751]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853432
+[752]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM330552
+[753]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2853433
+[754]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199421
+[755]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867071
+[756]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719024
+[757]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM215826
+[758]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM199422
+[759]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867073
+[760]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79562
+[761]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM143128
+[762]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM72621
+[763]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214686
+[764]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM204972
+[765]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM98974
+[766]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM227373
+[767]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM66581
+[768]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM48686
+[769]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM436100
+[770]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM430983
+[771]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM372538
+[772]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM341189
+[773]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM396478
+[774]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM264291
+[775]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM101365
+[776]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM294914
+[777]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM230212
+[778]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM101320
+[779]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM223190
+[780]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM142699
+[781]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM363095
+[782]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2852876
+[783]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998516
+[784]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998515
+[785]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM2998532
+[786]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[787]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3867090
+[788]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM3719003
+[789]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM1229902
+[790]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM968308
+[791]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM238694
+[792]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM214959
+[793]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM59543
+[794]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM79500
+[795]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM23975
+[796]: http://www.legislation.govt.nz/act/public/1996/0030/latest/link.aspx?id=DLM427920
