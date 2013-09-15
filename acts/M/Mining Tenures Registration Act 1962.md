@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,59 +25,59 @@ This Act is administered by the Ministry of Justice.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation and application][3]
+[2][3][][3][Interpretation and application][3]
 
-[3][4] [Mining Registrar to investigate title to licences][4]
+[3][4][][4][Mining Registrar to investigate title to licences][4]
 
-[4][5] [Land occupied by person other than registered licensee][5]
+[4][5][][5][Land occupied by person other than registered licensee][5]
 
-[5][6] [Description of land and diagrams][6]
+[5][6][][6][Description of land and diagrams][6]
 
-[6][7] [Power to compel production of licences, etc][7]
+[6][7][][7][Power to compel production of licences, etc][7]
 
-[7][8] [Provisions as to lost or destroyed licences][8]
+[7][8][][8][Provisions as to lost or destroyed licences][8]
 
-[8][9] [Appeal against Warden's decision][9]
+[8][9][][9][Appeal against Warden's decision][9]
 
-[9][10] [Mining Registrar to forward licences, etc, to District Land Registrar][10]
+[9][10][][10][Mining Registrar to forward licences, etc, to District Land Registrar][10]
 
-[10][11] [Registration of licences under Land Transfer Act][11]
+[10][11][][11][Registration of licences under Land Transfer Act][11]
 
-[11][12] [New licences issued on subdivision of land in existing licence][12]
+[11][12][][12][New licences issued on subdivision of land in existing licence][12]
 
-[12][13] [Renewal of licences][13]
+[12][13][][13][Renewal of licences][13]
 
-[13][14] [Director-General of Lands to exercise powers of Warden and Mining Registrar where licence registered under Land Transfer Act][14]
+[13][14][][14][Director-General of Lands to exercise powers of Warden and Mining Registrar where licence registered under Land Transfer Act][14]
 
-[14][15] [Application of certain provisions of Mining Act 1926 and Land Act 1948 to licences registered under Land Transfer Act][15]
+[14][15][][15][Application of certain provisions of Mining Act 1926 and Land Act 1948 to licences registered under Land Transfer Act][15]
 
-[15][16] [Rent, etc, under licences to be paid to Land Information New Zealand][16]
+[15][16][][16][Rent, etc, under licences to be paid to Land Information New Zealand][16]
 
-[16][17] [Notice to be given to Commissioner of Crown Lands of transfer of licence][17]
+[16][17][][17][Notice to be given to Commissioner of Crown Lands of transfer of licence][17]
 
-[17][18] [Payments to territorial authorities][18]
+[17][18][][18][Payments to territorial authorities][18]
 
-[18][19] [Licensees of Crown land may acquire fee simple][19]
+[18][19][][19][Licensees of Crown land may acquire fee simple][19]
 
-[19][20] [Residence site used as a business site to be treated as a business site][20]
+[19][20][][20][Residence site used as a business site to be treated as a business site][20]
 
-[20][21] [Special provisions as to residence area grants][21]
+[20][21][][21][Special provisions as to residence area grants][21]
 
-[21][22] [Fee simple may not be acquired in certain cases][22]
+[21][22][][22][Fee simple may not be acquired in certain cases][22]
 
-[22][23] [Issue of certificate of title or renewable lease limited as to parcels][23]
+[22][23][][23][Issue of certificate of title or renewable lease limited as to parcels][23]
 
-[23][24] [Provisions of Land Act 1948 as to land on seashore, lakes, and rivers, and as to minerals reserved from sale, to apply to dispositions under this Act][24]
+[23][24][][24][Provisions of Land Act 1948 as to land on seashore, lakes, and rivers, and as to minerals reserved from sale, to apply to dispositions under this Act][24]
 
-[24][25] [Acquisition of fee simple or renewable lease of land having no frontage to an existing road or street][25]
+[24][25][][25][Acquisition of fee simple or renewable lease of land having no frontage to an existing road or street][25]
 
-[25][26] [District Land Registrar may enter memorial of licence on certificate of title][26]
+[25][26][][26][District Land Registrar may enter memorial of licence on certificate of title][26]
 
-[26][27] [Service of notices][27]
+[26][27][][27][Service of notices][27]
 
-[27][28] [Regulations][28]
+[27][28][][28][Regulations][28]
 
 [Schedule 1][29]  
 
@@ -260,7 +260,9 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     *   (b) any person being the solicitor or agent of, and acting on behalf of, any of the aforesaid persons.
     
-    (4) If upon a requisition in writing made by the Mining Registrar for any purpose mentioned in the foregoing provisions of this section any person without reasonable cause refuses or neglects to comply with the requisition, he commits an offence, and is liable on summary conviction to a fine not exceeding 5 pounds for every day during which the refusal or neglect has continued.
+    (4) If upon a requisition in writing made by the Mining Registrar for any purpose mentioned in the foregoing provisions of this section any person without reasonable cause refuses or neglects to comply with the requisition, he commits an offence, and is liable on conviction to a fine not exceeding $10 for every day during which the refusal or neglect has continued.
+    
+    Section 6(4): amended, on 1 July 2013, by [section 413][40] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Provisions as to lost or destroyed licences
     
@@ -298,7 +300,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
 *   Any person aggrieved by a decision of the Warden under [section 4][5] or [section 7][8] may appeal against that decision to the High Court. The provisions of the Mining Act 1926, as far as they are applicable and with the necessary modifications, shall apply with respect to every such appeal as if it were an appeal to which section 366 of that Act applied.
     
-    Section 8: amended, on 1 April 1980, pursuant to [section 12][40] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 8: amended, on 1 April 1980, pursuant to [section 12][41] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 9 Mining Registrar to forward licences, etc, to District Land Registrar
     
@@ -332,7 +334,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     (4) Where the District Land Registrar has constituted any licence a folium of the register book, he may, if the land is not properly defined by survey or cannot for any other reason be fully described, endorse on the licence the words ""Limited as to parcels"".
     
-    (5) Where a licence is endorsed as provided in subsection (4), the licence shall be limited as to parcels, and the provisions of [Part 12][41] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the licence as if it were a certificate of title limited as to parcels issued under that Part.
+    (5) Where a licence is endorsed as provided in subsection (4), the licence shall be limited as to parcels, and the provisions of [Part 12][42] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the licence as if it were a certificate of title limited as to parcels issued under that Part.
     
     (6) No person claiming any estate or interest in any licence by virtue of any instrument that might have been registered against that licence under the Mining Act 1926 or any former Mining Act shall have any claim or action against the Crown by reason of the deprivation of that estate or interest consequent upon the bringing of that licence under the [Land Transfer Act 1952][36] pursuant to this Act, unless that instrument had been so registered or unless the Mining Registrar has been served personally with notice in writing of the estate or interest claimed, or has had actual personal knowledge thereof, and has omitted to recognise the same.
     
@@ -372,7 +374,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
 *   (1) Notwithstanding anything in the Mining Act 1926, but subject to the provisions of this Act, the Director-General of Lands shall exercise with respect to licences brought under the [Land Transfer Act 1952][36] pursuant to this Act all the powers of the Warden or the Mining Registrar conferred by the Mining Act 1926, as if references in the Mining Act 1926 to the Warden or the Mining Registrar were references to the Director-General of Lands.
     
-    (2) The provisions of [section 15][42] of the Land Act 1948 (which authorises the Director-General of Lands to delegate its powers) shall apply with respect to any powers conferred on the Director-General under subsection (1).
+    (2) The provisions of [section 15][43] of the Land Act 1948 (which authorises the Director-General of Lands to delegate its powers) shall apply with respect to any powers conferred on the Director-General under subsection (1).
     
     Section 13 heading: amended, on 1 April 1987, by [section 65(1)][37] of the Conservation Act 1987 (1987 No 65).
     
@@ -392,7 +394,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     (2) Where any licence of Maori land (including Maori ceded land) or private General land has been brought under the [Land Transfer Act 1952][36] pursuant to this Act, the provisions of the Mining Act 1926 and its amendments which are specified in [Schedule 4][32] shall not apply with respect to that licence.
     
-    Section 14(2): amended, on 10 October 1975, pursuant to [section 16(2)][43] of the Maori Purposes Act 1975 (1975 No 135).
+    Section 14(2): amended, on 10 October 1975, pursuant to [section 16(2)][44] of the Maori Purposes Act 1975 (1975 No 135).
 
 ##### 15 Rent, etc, under licences to be paid to Land Information New Zealand
     
@@ -404,21 +406,21 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
         
     *   (a) in the case of land other than Maori land, to the person lawfully entitled to the land from which the revenues accrue by virtue of the payment:
     
-    *   (b) in the case of Maori land (including Maori ceded land) to the Māori Trustee for distribution to the persons entitled to receive the same, and the provisions of [section 45][44] of the Maori Trustee Act 1953 shall thereupon apply to the same.
+    *   (b) in the case of Maori land (including Maori ceded land) to the Māori Trustee for distribution to the persons entitled to receive the same, and the provisions of [section 45][45] of the Maori Trustee Act 1953 shall thereupon apply to the same.
     
     (3) All amounts deducted under the provisions of this section in respect of expenses incidental to the collection of the money shall be paid into a Crown Bank Account to the credit of a Crown Bank Account.
     
     Section 15 heading: amended, on 1 July 1996, pursuant to section 5 of the Survey Amendment Act 1996 (1996 No 55).
     
-    Section 15(1): amended, on 25 January 2005, pursuant to [section 83(7)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 15(1): amended, on 25 January 2005, pursuant to [section 83(7)][46] of the Public Finance Act 1989 (1989 No 44).
     
     Section 15(1): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
     
     Section 15(2): amended, on 1 July 1996, by section 5 of the Survey Amendment Act 1996 (1996 No 55).
     
-    Section 15(2)(b): amended, on 1 July 2009, by [section 30(1)][46] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    Section 15(2)(b): amended, on 1 July 2009, by [section 30(1)][47] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 15(3): amended, on 25 January 2005, pursuant to [section 83(7)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 15(3): amended, on 25 January 2005, pursuant to [section 83(7)][46] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 16 Notice to be given to Commissioner of Crown Lands of transfer of licence
     
@@ -430,17 +432,17 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     (2) Money paid to a territorial authority under this section shall be deemed to be goldfields revenue for the purposes of any enactment.
     
-    Section 17 heading: amended, on 1 April 1980, by [section 8(3)][47] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 17 heading: amended, on 1 April 1980, by [section 8(3)][48] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 17(1): amended, on 25 January 2005, pursuant to [section 83(7)][45] of the Public Finance Act 1989 (1989 No 44).
+    Section 17(1): amended, on 25 January 2005, pursuant to [section 83(7)][46] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 17(1): amended, on 1 April 1980, by [section 8(3)][47] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 17(1): amended, on 1 April 1980, by [section 8(3)][48] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 17(2): amended, on 1 April 1980, by [section 8(3)][47] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 17(2): amended, on 1 April 1980, by [section 8(3)][48] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 18 Licensees of Crown land may acquire fee simple
     
-*   (1) Subject to the provisions of [sections 21][22] and [23][24], the licensee under a licence that includes any unalienated Crown land (not being Maori ceded land) and is registered under the [Land Transfer Act 1952][36] pursuant to this Act (not being a licence of land that is subject to the [Westland and Nelson Coal Fields Administration Act 1877][48]) who has paid all rent, licence fees, and other money for the time being payable in respect of his licence may at any time during the currency of that licence acquire the fee simple of any unalienated Crown land (not being Maori ceded land) described in the licence in accordance with the provisions of this section.
+*   (1) Subject to the provisions of [sections 21][22] and [23][24], the licensee under a licence that includes any unalienated Crown land (not being Maori ceded land) and is registered under the [Land Transfer Act 1952][36] pursuant to this Act (not being a licence of land that is subject to the [Westland and Nelson Coal Fields Administration Act 1877][49]) who has paid all rent, licence fees, and other money for the time being payable in respect of his licence may at any time during the currency of that licence acquire the fee simple of any unalienated Crown land (not being Maori ceded land) described in the licence in accordance with the provisions of this section.
     
     (2) Subject to subsection (2A), the purchase price of the land shall be as follows:
         
@@ -460,7 +462,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     *   (b) if the licensee gives such notice on or after the expiry of that period of 5 years, the purchase price shall be the market value of the land, exclusive of improvements, on the date of such notice.
     
-    (2B) The provisions of [section 122][49] of the Land Act 1948, so far as they are applicable and with the necessary modifications, shall apply in respect of the fixing of the purchase price under subsection (2A)(b).
+    (2B) The provisions of [section 122][50] of the Land Act 1948, so far as they are applicable and with the necessary modifications, shall apply in respect of the fixing of the purchase price under subsection (2A)(b).
     
     (3) In fixing the purchase price of any land in any case where no rent, licence fees, or other money are payable annually under the licence, the Director-General of Lands shall---
         
@@ -496,7 +498,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
     Section 18(4): amended, on 1 April 1987, pursuant to [section 65(1)][37] of the Conservation Act 1987 (1987 No 65).
     
-    Section 18(4): amended, on 23 December 1977, pursuant to [section 6(7A)][50] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
+    Section 18(4): amended, on 23 December 1977, pursuant to [section 6(7A)][51] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
 
 ##### 19 Residence site used as a business site to be treated as a business site
     
@@ -508,7 +510,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
 *   (1) In this section the term _residence area grant_ means a grant of the right to take possession of and occupy Crown land for the purpose of residence or cultivation made under the provisions of section 20 of the Mines Act 1877 or the corresponding provisions of any former Act.
     
-    (2) Subject to the provisions of [sections 21][22] and [23][24], the proprietor of any residence area grant (not being a grant of land that is subject to the [Westland and Nelson Coal Fields Administration Act 1877][48]) shall be entitled at any time before 1 April 1968 to acquire the fee simple of the land comprised in the grant at a purchase price fixed by the Director-General of Lands.
+    (2) Subject to the provisions of [sections 21][22] and [23][24], the proprietor of any residence area grant (not being a grant of land that is subject to the [Westland and Nelson Coal Fields Administration Act 1877][49]) shall be entitled at any time before 1 April 1968 to acquire the fee simple of the land comprised in the grant at a purchase price fixed by the Director-General of Lands.
     
     (3) The provisions of subsections (4) to (8) of [section 18][19] shall apply with respect to the acquisition under this section of the fee simple of the land comprised in a residence area grant as if references in those subsections to a licence and to the licensee were references to a residence area grant and to the proprietor of a residence area grant, respectively.
     
@@ -516,7 +518,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
         
     *   (a) the proprietor of any residence area grant to which subsection (2) applies has not before 1 April 1968 exercised the right of acquisition of the fee simple of the land conferred by that subsection; or
     
-    *   (b) the land comprised in any residence area grant is subject to the [Westland and Nelson Coal Fields Administration Act 1877][48],---
+    *   (b) the land comprised in any residence area grant is subject to the [Westland and Nelson Coal Fields Administration Act 1877][49],---
     
     then, notwithstanding anything to the contrary in the grant or in any other enactment, the grant shall be deemed to have expired on that date and, subject to the provisions of [sections 21][22] and [24][25], the proprietor of the grant shall be deemed to be the lessee of the land or of such part thereof as the Director-General of Lands determines, as if a renewable lease of the land under the Land Act 1948 commencing on that date had been granted to him, and he shall be entitled on making application to the Director-General of Lands to the grant of a renewable lease accordingly:
     
@@ -548,7 +550,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
         
     *   (a) the land comprised in any licence or residence area grant, or any part of that land, forms part of a road or street or public reserve; or
     
-    *   (b) the land comprised in any licence or residence area grant, or any part of that land, was land that was reserved from alienation by [section 58][51] of the Land Act 1948 or the corresponding provisions of any former Land Act,---
+    *   (b) the land comprised in any licence or residence area grant, or any part of that land, was land that was reserved from alienation by [section 58][52] of the Land Act 1948 or the corresponding provisions of any former Land Act,---
     
     the licensee or proprietor of the residence area grant shall not be entitled under this Act to acquire the fee simple of the land or of that part, as the case may be, and, in the case of land comprised in a residence area grant, any renewable lease granted under subsection (4) of [section 20][21] shall confer no right on the lessee to acquire the fee simple of the land or of that part, as the case may be.
 
@@ -556,15 +558,15 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
     
 *   (1) Where under the provisions of this Act the licensee under any licence of unalienated Crown land or the proprietor of a residence area grant acquires the fee simple, or the proprietor of a residence area grant acquires a renewable lease, of the whole or part of the land comprised in the licence or grant, and the land is not properly defined by survey or cannot for any other reason be fully described, then---
         
-    *   (a) where the fee simple is so acquired, the District Land Registrar may issue to the licensee or to the proprietor of the grant, as the case may be, a certificate of title limited as to parcels, and thereupon the provisions of [Part 12][41] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply as if it were a certificate of title limited as to parcels issued under that Part of that Act:
+    *   (a) where the fee simple is so acquired, the District Land Registrar may issue to the licensee or to the proprietor of the grant, as the case may be, a certificate of title limited as to parcels, and thereupon the provisions of [Part 12][42] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply as if it were a certificate of title limited as to parcels issued under that Part of that Act:
     
-    *   (b) where a renewable lease is so acquired, the District Land Registrar may accept the lease for registration, but in such a case he shall endorse on the registered copy of the lease and on the outstanding copy thereof the words ""Limited as to parcels"", and thereupon the provisions of [Part 12][41] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the lease as if it were a certificate of title limited as to parcels issued under that Part of that Act.
+    *   (b) where a renewable lease is so acquired, the District Land Registrar may accept the lease for registration, but in such a case he shall endorse on the registered copy of the lease and on the outstanding copy thereof the words ""Limited as to parcels"", and thereupon the provisions of [Part 12][42] of the Land Transfer Act 1952, as far as they are applicable and with the necessary modifications, shall apply to the lease as if it were a certificate of title limited as to parcels issued under that Part of that Act.
     
-    (2) Nothing in subsection (1B) of [section 82][52] of the Land Act 1948 (as inserted by section 5 of the Land Amendment Act 1954) shall apply with respect to any lease that is limited as to parcels under paragraph (b) of subsection (1) of this section.
+    (2) Nothing in subsection (1B) of [section 82][53] of the Land Act 1948 (as inserted by section 5 of the Land Amendment Act 1954) shall apply with respect to any lease that is limited as to parcels under paragraph (b) of subsection (1) of this section.
 
 ##### 23 Provisions of Land Act 1948 as to land on seashore, lakes, and rivers, and as to minerals reserved from sale, to apply to dispositions under this Act
     
-*   Where under the provisions of this Act the licensee under any licence of unalienated Crown land or the proprietor of a residence area grant acquires the fee simple, or the proprietor of a residence area grant acquires a renewable lease, of the whole or part of the land comprised in his licence or grant, the provisions of [sections 58][51] and [59][53] of the Land Act 1948 shall apply with respect to the acquisition of the fee simple or the granting of the lease as if it were a disposition of Crown land under that Act.
+*   Where under the provisions of this Act the licensee under any licence of unalienated Crown land or the proprietor of a residence area grant acquires the fee simple, or the proprietor of a residence area grant acquires a renewable lease, of the whole or part of the land comprised in his licence or grant, the provisions of [sections 58][52] and [59][54] of the Land Act 1948 shall apply with respect to the acquisition of the fee simple or the granting of the lease as if it were a disposition of Crown land under that Act.
 
 ##### 24 Acquisition of fee simple or renewable lease of land having no frontage to an existing road or street
     
@@ -572,7 +574,7 @@ An Act to provide for the registration under the Land Transfer Act 1952 of resid
         
     *   (a) nothing in this Act or in the Land Act 1948 or in section 124 of the Public Works Act 1928 or in any other Act or in any rule of law shall impose any obligation on the Crown or the Director-General of Lands to provide road or street access to the land:
     
-    *   (b) in the case of an application for a renewable lease by the proprietor of a residence area grant, the provisions of subsection (2) of [section 67][54] of the Land Act 1948 (as substituted by [section 6][55] of the Land Amendment Act 1951) shall apply with respect to the land as if it were Crown land available for disposal under the [Land Act 1948][33].
+    *   (b) in the case of an application for a renewable lease by the proprietor of a residence area grant, the provisions of subsection (2) of [section 67][55] of the Land Act 1948 (as substituted by [section 6][56] of the Land Amendment Act 1951) shall apply with respect to the land as if it were Crown land available for disposal under the [Land Act 1948][33].
     
     Section 24(a): amended, on 1 April 1987, by [section 65(1)][37] of the Conservation Act 1987 (1987 No 65).
 
@@ -738,7 +740,7 @@ Provisions of Land Act 1948 that apply to licences of unalienated Crown land (no
 
 *   Schedule 3: amended, on 1 April 1987, by [section 65(1)][37] of the Conservation Act 1987 (1987 No 65).
 *   Schedule 3: amended, on 1 April 1987, pursuant to [section 65(1)][37] of the Conservation Act 1987 (1987 No 65).
-*   Schedule 3: amended, on 1 April 1980, pursuant to [section 12][40] of the Judicature Amendment Act 1979 (1979 No 124).
+*   Schedule 3: amended, on 1 April 1980, pursuant to [section 12][41] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ---
 
@@ -747,7 +749,7 @@ Provisions of Mining Act 1926 that do not apply to licences of Maori land (inclu
 
 [s 14(2)][15]
 
-*   Schedule 4 heading: amended, on 10 October 1975, pursuant to [section 16(2)][43] of the Maori Purposes Act 1975 (1975 No 135).
+*   Schedule 4 heading: amended, on 10 October 1975, pursuant to [section 16(2)][44] of the Maori Purposes Act 1975 (1975 No 135).
 
 **Number of section****Subject matter**
 
@@ -785,23 +787,23 @@ Provisions of Mining Act 1926 that do not apply to licences of Maori land (inclu
 
 ###### 1 General
     
-*   This is a reprint of the Mining Tenures Registration Act 1962\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Mining Tenures Registration Act 1962\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][56] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][57] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][57] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][58] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][58] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][59] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][59] and [17E][60] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][60] and [17E][61] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -832,27 +834,29 @@ Provisions of Mining Act 1926 that do not apply to licences of Maori land (inclu
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][46]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][40]
+    
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][47]
     
     Local Government Act 2002 (2002 No 84): [section 262][38]
     
     Survey Amendment Act 1996 (1996 No 55): section 5
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][45]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][46]
     
     Conservation Act 1987 (1987 No 65): [section 65(1)][37]
     
     Mining Tenures Registration Amendment Act 1983 (1983 No 26)
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][40]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][41]
     
-    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][47]
+    Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][48]
     
     Ministry of Energy Act 1977 (1977 No 33): section 23
     
-    Land Valuation Proceedings Amendment Act 1977 (1977 No 15): [section 6(7A)][50]
+    Land Valuation Proceedings Amendment Act 1977 (1977 No 15): [section 6(7A)][51]
     
-    Maori Purposes Act 1975 (1975 No 135): [section 16(2)][43]
+    Maori Purposes Act 1975 (1975 No 135): [section 16(2)][44]
 
 
 
@@ -896,24 +900,25 @@ Provisions of Mining Act 1926 that do not apply to licences of Maori land (inclu
 [37]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM106995
 [38]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM174088
 [39]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM304703
-[40]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM35049
-[41]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM271699
-[42]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251161
-[43]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM437772
-[44]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM282933
-[45]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM163167
-[46]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM1583888
-[47]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM34672
-[48]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM13550
-[49]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM252438
-[50]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM442575
-[51]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251718
-[52]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM252109
-[53]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251726
-[54]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251778
-[55]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM263686
-[56]: http://www.pco.parliament.govt.nz/reprints/
-[57]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195439
-[58]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[59]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195468
-[60]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195470
+[40]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM3360714
+[41]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM35049
+[42]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM271699
+[43]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251161
+[44]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM437772
+[45]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM282933
+[46]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM163167
+[47]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM1583888
+[48]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM34672
+[49]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM13550
+[50]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM252438
+[51]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM442575
+[52]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251718
+[53]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM252109
+[54]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251726
+[55]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM251778
+[56]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM263686
+[57]: http://www.pco.parliament.govt.nz/reprints/
+[58]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195439
+[59]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[60]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195468
+[61]: http://www.legislation.govt.nz/act/public/1962/0048/latest/link.aspx?id=DLM195470
