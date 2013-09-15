@@ -1,5 +1,5 @@
 Reprint  
-as at 22 September 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -25,364 +25,364 @@ This Act is administered by the Ministry of Health.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Meaning of medicine, new medicine, prescription medicine, and restricted medicine][4]
+[3][4][][4][Meaning of medicine, new medicine, prescription medicine, and restricted medicine][4]
 
-[4][5] [Meaning of therapeutic purpose][5]
+[4][5][][5][Meaning of therapeutic purpose][5]
 
-[5][6] [Meaning of selling by wholesale, selling by retail, and selling in circumstances corresponding to retail sale][6]
+[5][6][][6][Meaning of selling by wholesale, selling by retail, and selling in circumstances corresponding to retail sale][6]
 
-[5A][7] [Relationship with Hazardous Substances and New Organisms Act 1996][7]
+[5A][7][][7][Relationship with Hazardous Substances and New Organisms Act 1996][7]
 
-[5A][8] [Meaning of holding an interest in a pharmacy][8]
+[5A][8][][8][Meaning of holding an interest in a pharmacy][8]
 
-[5B][9] [Meaning of operating a pharmacy][9]
+[5B][9][][9][Meaning of operating a pharmacy][9]
 
 [Part 1][10]  
 [Application and administration of Act][10]
 
 [Application][11]
 
-[6][12] [Act to bind Crown][12]
+[6][12][][12][Act to bind Crown][12]
 
-[7][13] [Principals and agents][13]
+[7][13][][13][Principals and agents][13]
 
 [Administration][14]
 
-[8][15] [Advisory and technical committees][15]
+[8][15][][15][Advisory and technical committees][15]
 
-[9][16] [Medicines Classification Committee][16]
+[9][16][][16][Medicines Classification Committee][16]
 
-[10][17] [Medicines Review Committee established][17]
+[10][17][][17][Medicines Review Committee established][17]
 
-[11][18] [Deputies of members][18]
+[11][18][][18][Deputies of members][18]
 
-[12][19] [Committee may appoint subcommittees][19]
+[12][19][][19][Committee may appoint subcommittees][19]
 
-[13][20] [Functions, powers, and procedures of Medicines Review Committee][20]
+[13][20][][20][Functions, powers, and procedures of Medicines Review Committee][20]
 
-[14][21] [Servicing of committees][21]
+[14][21][][21][Servicing of committees][21]
 
-[15][22] [Appointment of officers][22]
+[15][22][][22][Appointment of officers][22]
 
-[16][23] [Exercise of powers of Director-General and other officers][23]
+[16][23][][23][Exercise of powers of Director-General and other officers][23]
 
 [Part 2][24]  
 [Dealings with medicines and medical devices][24]
 
-[17][25] [Manufacturers, wholesalers, packers of medicines, and operators of pharmacies to be licensed][25]
+[17][25][][25][Manufacturers, wholesalers, packers of medicines, and operators of pharmacies to be licensed][25]
 
-[18][26] [Sale of medicines by retail][26]
+[18][26][][26][Sale of medicines by retail][26]
 
-[19][27] [Administering prescription medicines][27]
+[19][27][][27][Administering prescription medicines][27]
 
-[20][28] [Restrictions on sale or supply of new medicines][28]
+[20][28][][28][Restrictions on sale or supply of new medicines][28]
 
-[21][29] [Applications for Minister's consent][29]
+[21][29][][29][Applications for Minister's consent][29]
 
-[22][30] [Procedure in respect of applications for Minister's consent][30]
+[22][30][][30][Procedure in respect of applications for Minister's consent][30]
 
-[23][31] [Minister may give provisional consent][31]
+[23][31][][31][Minister may give provisional consent][31]
 
-[23A][32] [Interpretation][32]
+[23A][32][][32][Interpretation][32]
 
-[23B][33] [Protection of confidential supporting information about innovative medicines][33]
+[23B][33][][33][Protection of confidential supporting information about innovative medicines][33]
 
-[23C][34] [Circumstances where protection under section 23B does not apply][34]
+[23C][34][][34][Circumstances where protection under section 23B does not apply][34]
 
-[24][35] [Distribution of changed medicines restricted][35]
+[24][35][][35][Distribution of changed medicines restricted][35]
 
 [Qualifying new medicines][36]
 
-[24A][37] [Assessment of qualifying new medicines][37]
+[24A][37][][37][Assessment of qualifying new medicines][37]
 
-[24B][38] [Procedure if Director-General declines to grant approval][38]
+[24B][38][][38][Procedure if Director-General declines to grant approval][38]
 
 [Approval of medicines required for use in special emergency][39]
 
-[24C][40] [Interpretation][40]
+[24C][40][][40][Interpretation][40]
 
-[24D][41] [Approval of medicines required for use in special emergency][41]
+[24D][41][][41][Approval of medicines required for use in special emergency][41]
 
-[24E][42] [Notification or publication of approval][42]
+[24E][42][][42][Notification or publication of approval][42]
 
-[24F][43] [Duration of approval][43]
+[24F][43][][43][Duration of approval][43]
 
-[24G][44] [Consequences of expiry of approval][44]
+[24G][44][][44][Consequences of expiry of approval][44]
 
 [Exemptions][45]
 
-[25][46] [Exemptions for practitioners and others][46]
+[25][46][][46][Exemptions for practitioners and others][46]
 
-[26][47] [Exemptions for pharmacists][47]
+[26][47][][47][Exemptions for pharmacists][47]
 
-[27][48] [Exemptions for veterinarians and certain registered health practitioners][48]
+[27][48][][48][Exemptions for veterinarians and certain registered health practitioners][48]
 
-[28][49] [Exemptions in respect of herbal remedies][49]
+[28][49][][49][Exemptions in respect of herbal remedies][49]
 
-[29][50] [Exemption for medicine required by medical practitioner][50]
+[29][50][][50][Exemption for medicine required by medical practitioner][50]
 
-[30][51] [Exemption for clinical trial][51]
+[30][51][][51][Exemption for clinical trial][51]
 
-[31][52] [Exemptions for agents and employees][52]
+[31][52][][52][Exemptions for agents and employees][52]
 
-[32][53] [Exemptions for natural therapists and others][53]
+[32][53][][53][Exemptions for natural therapists and others][53]
 
-[32A][54] [Exemptions in respect of importation by the Crown][54]
+[32A][54][][54][Exemptions in respect of importation by the Crown][54]
 
-[33][55] [Exemptions in respect of procuring and exporting medicines][55]
+[33][55][][55][Exemptions in respect of procuring and exporting medicines][55]
 
-[34][56] [Exemption for sale by wholesale of medicines that are not prescription, restricted, or pharmacy-only medicines][56]
+[34][56][][56][Exemption for sale by wholesale of medicines that are not prescription, restricted, or pharmacy-only medicines][56]
 
 [Quality and standards][57]
 
-[35][58] [Revocation and suspension of consents][58]
+[35][58][][58][Revocation and suspension of consents][58]
 
-[36][59] [Control of established medicines][59]
+[36][59][][59][Control of established medicines][59]
 
-[37][60] [Powers of Minister to prohibit import, etc, of medicines][60]
+[37][60][][60][Powers of Minister to prohibit import, etc, of medicines][60]
 
-[38][61] [Restrictions on sale of medical devices][61]
+[38][61][][61][Restrictions on sale of medical devices][61]
 
-[39][62] [Adulteration of medicines][62]
+[39][62][][62][Adulteration of medicines][62]
 
-[40][63] [Compliance with standards][63]
+[40][63][][63][Compliance with standards][63]
 
-[41][64] [Duty of importer or manufacturer to report untoward effects of medicines][64]
+[41][64][][64][Duty of importer or manufacturer to report untoward effects of medicines][64]
 
-[42][65] [Duty of importer and manufacturer to have and produce specifications of medicines][65]
+[42][65][][65][Duty of importer and manufacturer to have and produce specifications of medicines][65]
 
 [Restrictions on operation of pharmacies][66]
 
-[42A][67] [Every pharmacy must be under supervision of pharmacist][67]
+[42A][67][][67][Every pharmacy must be under supervision of pharmacist][67]
 
-[42B][68] [Security of pharmacies][68]
+[42B][68][][68][Security of pharmacies][68]
 
-[42C][69] [Restriction on authorised prescribers holding interest in pharmacies][69]
+[42C][69][][69][Restriction on authorised prescribers holding interest in pharmacies][69]
 
 [Miscellaneous provisions][70]
 
-[43][71] [Restrictions on possession of prescription medicines][71]
+[43][71][][71][Restrictions on possession of prescription medicines][71]
 
-[44][72] [Containers and packages of medicines][72]
+[44][72][][72][Containers and packages of medicines][72]
 
-[45][73] [Records][73]
+[45][73][][73][Records][73]
 
-[46][74] [Custody of medicines][74]
+[46][74][][74][Custody of medicines][74]
 
-[47][75] [Storage and delivery of medicines][75]
+[47][75][][75][Storage and delivery of medicines][75]
 
-[48][76] [Powers of Minister to prohibit prescribing, etc][76]
+[48][76][][76][Powers of Minister to prohibit prescribing, etc][76]
 
-[48A][77] [Powers of councils and boards][77]
+[48A][77][][77][Powers of councils and boards][77]
 
-[49][78] [Restrictions on supply to particular persons][78]
+[49][78][][78][Restrictions on supply to particular persons][78]
 
-[49A][79] [Statements regarding persons dependent on prescription medicines or restricted medicines][79]
+[49A][79][][79][Statements regarding persons dependent on prescription medicines or restricted medicines][79]
 
 [Part 3][80]  
 [Provisions relating to licences][80]
 
-[50][81] [Applications for licences][81]
+[50][81][][81][Applications for licences][81]
 
-[51][82] [Grant of licences][82]
+[51][82][][82][Grant of licences][82]
 
-[52][83] [Effect of licences][83]
+[52][83][][83][Effect of licences][83]
 
-[53][84] [Duration of licences][84]
+[53][84][][84][Duration of licences][84]
 
-[54][85] [Display of licences][85]
+[54][85][][85][Display of licences][85]
 
-[55][86] [Register of licences][86]
+[55][86][][86][Register of licences][86]
 
-[55A][87] [Additional criteria to be satisfied by pharmacy operators][87]
+[55A][87][][87][Additional criteria to be satisfied by pharmacy operators][87]
 
-[55B][88] [Licensing authority may require further information][88]
+[55B][88][][88][Licensing authority may require further information][88]
 
-[55C][89] [Mandatory condition of licence to operate pharmacy][89]
+[55C][89][][89][Mandatory condition of licence to operate pharmacy][89]
 
 [Restrictions on persons allowed to operate pharmacies][90]
 
-[55D][91] [Restriction on companies operating pharmacies][91]
+[55D][91][][91][Restriction on companies operating pharmacies][91]
 
-[55E][92] [Restriction on individuals operating or holding majority interest in pharmacies][92]
+[55E][92][][92][Restriction on individuals operating or holding majority interest in pharmacies][92]
 
-[55F][93] [Prohibition on operating or holding of majority interest in more than 5 pharmacies][93]
+[55F][93][][93][Prohibition on operating or holding of majority interest in more than 5 pharmacies][93]
 
-[55G][94] [Exemption for mortgagees in possession][94]
+[55G][94][][94][Exemption for mortgagees in possession][94]
 
 [Part 4][95]  
 [Medical advertisements][95]
 
-[56][96] [Interpretation][96]
+[56][96][][96][Interpretation][96]
 
-[57][97] [Restrictions on advertisements][97]
+[57][97][][97][Restrictions on advertisements][97]
 
-[58][98] [Further restrictions on advertisements][98]
+[58][98][][98][Further restrictions on advertisements][98]
 
-[59][99] [Advertisements to contain true name of advertiser][99]
+[59][99][][99][Advertisements to contain true name of advertiser][99]
 
-[60][100] [Exemption for certain advertisements][100]
+[60][100][][100][Exemption for certain advertisements][100]
 
-[61][101] [Misleading branding][101]
+[61][101][][101][Misleading branding][101]
 
-[62][102] [Regulations relating to advertisements][102]
+[62][102][][102][Regulations relating to advertisements][102]
 
 [Part 5][103]  
 [Enforcement][103]
 
-[63][104] [Powers of officers][104]
+[63][104][][104][Powers of officers][104]
 
-[64][105] [Further provisions relating to seizure and detention of articles][105]
+[64][105][][105][Further provisions relating to seizure and detention of articles][105]
 
-[65][106] [District Court may order return of property or compensation][106]
+[65][106][][106][District Court may order return of property or compensation][106]
 
-[66][107] [Powers to require information][107]
+[66][107][][107][Powers to require information][107]
 
-[67][108] [Power to require name and address of seller][108]
+[67][108][][108][Power to require name and address of seller][108]
 
-[68][109] [Source of information or reports need not be disclosed][109]
+[68][109][][109][Source of information or reports need not be disclosed][109]
 
-[69][110] [Procuring samples for analysis][110]
+[69][110][][110][Procuring samples for analysis][110]
 
-[70][111] [Analysis of sample and certificate of analyst][111]
+[70][111][][111][Analysis of sample and certificate of analyst][111]
 
-[71][112] [Evidence of analysis][112]
+[71][112][][112][Evidence of analysis][112]
 
-[72][113] [Special provisions relating to imported consignments][113]
+[72][113][][113][Special provisions relating to imported consignments][113]
 
-[73][114] [Certain matters presumed][114]
+[73][114][][114][Certain matters presumed][114]
 
-[74][115] [Certificates of Director-General or Medical Officer of Health][115]
+[74][115][][115][Certificates of Director-General or Medical Officer of Health][115]
 
-[75][116] [Obstruction of officers][116]
+[75][116][][116][Obstruction of officers][116]
 
-[76][117] [Penalty for false statement][117]
+[76][117][][117][Penalty for false statement][117]
 
-[76A][118] [Offences in relation to authorised prescribers][118]
+[76A][118][][118][Offences in relation to authorised prescribers][118]
 
-[77][119] [Jurisdiction of District Courts][119]
+[77][119][][119][Jurisdiction of District Courts][119]
 
-[78][120] [General penalty][120]
+[78][120][][120][General penalty][120]
 
-[79][121] [Liability of principal for acts of agents, etc][121]
+[79][121][][121][Liability of principal for acts of agents, etc][121]
 
-[80][122] [Strict liability][122]
+[80][122][][122][Strict liability][122]
 
-[81][123] [Further defences][123]
+[81][123][][123][Further defences][123]
 
-[82][124] [Liability of persons named on labels][124]
+[82][124][][124][Liability of persons named on labels][124]
 
-[83][125] [Cancellation of licence][125]
+[83][125][][125][Cancellation of licence][125]
 
-[84][126] [Payment of expenses of analysis on conviction][126]
+[84][126][][126][Payment of expenses of analysis on conviction][126]
 
-[85][127] [Forfeiture on conviction][127]
+[85][127][][127][Forfeiture on conviction][127]
 
-[86][128] [Courts may order withdrawal of goods from circulation][128]
+[86][128][][128][Courts may order withdrawal of goods from circulation][128]
 
-[87][129] [Notification of conviction of practitioners, etc][129]
+[87][129][][129][Notification of conviction of practitioners, etc][129]
 
 [Part 6][130]  
 [Appeals][130]
 
-[88][131] [Refusal of licensing authority to grant licence][131]
+[88][131][][131][Refusal of licensing authority to grant licence][131]
 
-[89][132] [Right of appeal to High Court][132]
+[89][132][][132][Right of appeal to High Court][132]
 
-[90][133] [Proceedings before court][133]
+[90][133][][133][Proceedings before court][133]
 
-[91][134] [Further provisions relating to appeals][134]
+[91][134][][134][Further provisions relating to appeals][134]
 
-[92][135] [Court may state case for Court of Appeal][135]
+[92][135][][135][Court may state case for Court of Appeal][135]
 
-[93][136] [Appeal to Court of Appeal in certain cases][136]
+[93][136][][136][Appeal to Court of Appeal in certain cases][136]
 
 [Part 7][137]  
 [Related products][137]
 
-[94][138] [Interpretation][138]
+[94][138][][138][Interpretation][138]
 
-[95][139] [Application of Act to related products][139]
+[95][139][][139][Application of Act to related products][139]
 
-[96][140] [Certain provisions to apply to related products as if medicines][140]
+[96][140][][140][Certain provisions to apply to related products as if medicines][140]
 
 [Part 7A][141]  
 [Restrictions on specified biotechnical procedures][141]
 
-[96A][142] [Interpretation][142]
+[96A][142][][142][Interpretation][142]
 
-[96B][143] [Restrictions on specified biotechnical procedures][143]
+[96B][143][][143][Restrictions on specified biotechnical procedures][143]
 
-[96C][144] [Authorisation of particular procedures][144]
+[96C][144][][144][Authorisation of particular procedures][144]
 
-[96D][145] [Authorisation of class of procedure][145]
+[96D][145][][145][Authorisation of class of procedure][145]
 
-[96E][146] [Criteria for authorisations][146]
+[96E][146][][146][Criteria for authorisations][146]
 
-[96F][147] [Advice on applicability of criteria][147]
+[96F][147][][147][Advice on applicability of criteria][147]
 
-[96G][148] [Applications][148]
+[96G][148][][148][Applications][148]
 
-[96H][149] [No compensation][149]
+[96H][149][][149][No compensation][149]
 
-[96I][150] [Enforcement powers][150]
+[96I][150][][150][Enforcement powers][150]
 
-[96J][151] [Expiry of Part][151]
+[96J][151][][151][Expiry of Part][151]
 
 [Part 8][152]  
 [Miscellaneous provisions][152]
 
-[97][153] [Duty of officer to procure samples for analysis on request][153]
+[97][153][][153][Duty of officer to procure samples for analysis on request][153]
 
-[98][154] [Statement by Director-General][154]
+[98][154][][154][Statement by Director-General][154]
 
-[99][155] [Director-General to publish lists of general sale medicines][155]
+[99][155][][155][Director-General to publish lists of general sale medicines][155]
 
-[100][156] [Power of court to restrict publication of name of medicine][156]
+[100][156][][156][Power of court to restrict publication of name of medicine][156]
 
-[101][157] [Examination of Customs entries][157]
+[101][157][][157][Examination of Customs entries][157]
 
-[102][158] [Protection of persons acting under authority of Act][158]
+[102][158][][158][Protection of persons acting under authority of Act][158]
 
-[103][159] [Service of documents][159]
+[103][159][][159][Service of documents][159]
 
-[104][160] [Amendment of Schedule 1][160]
+[104][160][][160][Amendment of Schedule 1][160]
 
-[105][161] [Regulations][161]
+[105][161][][161][Regulations][161]
 
-[105A][162] [Regulations relating to practitioners, veterinarians, and registered midwives][162]
+[105A][162][][162][Regulations relating to practitioners, veterinarians, and registered midwives][162]
 
-[105B][163] [Regulations relating to designated prescribers][163]
+[105B][163][][163][Regulations relating to designated prescribers][163]
 
-[105C][164] [Orders in Council providing for exemption from, or modifications of, restrictions on pharmacy ownership and operation][164]
+[105C][164][][164][Orders in Council providing for exemption from, or modifications of, restrictions on pharmacy ownership and operation][164]
 
-[106][165] [Minister may classify medicines by notice in the _Gazette_][165]
+[106][165][][165][Minister may classify medicines by notice in the _Gazette_][165]
 
-[107][166] [Power to obtain information for purposes of regulations][166]
+[107][166][][166][Power to obtain information for purposes of regulations][166]
 
-[108][167] [Specified publications][167]
+[108][167][][167][Specified publications][167]
 
-[109][168] [Relationship with Misuse of Drugs Act 1975][168]
+[109][168][][168][Relationship with Misuse of Drugs Act 1975][168]
 
-[110][169] [Relationship with Hazardous Substances and New Organisms Act 1996][169]
+[110][169][][169][Relationship with Hazardous Substances and New Organisms Act 1996][169]
 
-[111][170] [Amendment of and effect on Animal Remedies Act 1967][170] \[Repealed\]
+[111][170][][170][Amendment of and effect on Animal Remedies Act 1967][170] \[Repealed\]
 
-[112][171] [Amendment of Consumer Information Act 1969][171] \[Repealed\]
+[112][171][][171][Amendment of Consumer Information Act 1969][171] \[Repealed\]
 
-[113][172] [Amendment of Ombudsmen Act 1975][172]
+[113][172][][172][Amendment of Ombudsmen Act 1975][172]
 
-[114][173] [Transitional][173]
+[114][173][][173][Transitional][173]
 
-[114A][174] [Certain persons deemed to have licence to operate pharmacy][174] \[Expired\]
+[114A][174][][174][Certain persons deemed to have licence to operate pharmacy][174] \[Expired\]
 
-[114B][175] [Expiry of section 114A][175]
+[114B][175][][175][Expiry of section 114A][175]
 
-[115][176] [Repeals][176]
+[115][176][][176][Repeals][176]
 
 [Schedule 1][177]  
 
@@ -649,87 +649,91 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
     
     (2) Any approval by the Minister of a laboratory as an approved laboratory for the purposes of this Act may be given on such terms and conditions as the Minister thinks fit and as are specified in the notice approving that laboratory.
     
-    (3) Any notice given by the Minister in the _Gazette_ for the purposes of subsection (1) shall be deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][194] and the Acts Interpretation Act 1924\.
+    (3) A notice given by the Minister in the _Gazette_ for the purposes of subsection (1) is---
+        
+    *   (a) a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][194] and must be presented to the House of Representatives under [section 41][195] of that Act; and
     
-    Compare: 1960 No 97 s 2(1); 1969 No 7 s 2(1); [1975 No 116][195] [s 31(1)][196]; 1979 No 27 s 2(1); SR 1964/64 r 2(1); SR 1969/193 r 2(1); SR 1973/79 r 2(1); Medicines Act 1968 ss 130(9), 132(1) (UK)
+    *   (b) a regulation for the purposes of the [Interpretation Act 1999][196].
     
-    Section 2(1) **analyst**: substituted, on 1 July 1992, by [section 2(1)][197] of the Medicines Amendment Act 1992 (1992 No 50).
+    Compare: 1960 No 97 s 2(1); 1969 No 7 s 2(1); [1975 No 116][197] [s 31(1)][198]; 1979 No 27 s 2(1); SR 1964/64 r 2(1); SR 1969/193 r 2(1); SR 1973/79 r 2(1); Medicines Act 1968 ss 130(9), 132(1) (UK)
+    
+    Section 2(1) **analyst**: substituted, on 1 July 1992, by [section 2(1)][199] of the Medicines Amendment Act 1992 (1992 No 50).
     
     Section 2(1) **animal**: amended, on 28 May 2002, by section 5 of the Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14).
     
-    Section 2(1) **animal remedy**: substituted, on 2 July 2001, by [section 85][198] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 2(1) **animal remedy**: substituted, on 2 July 2001, by [section 85][200] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
     
-    Section 2(1) **approved laboratory**: inserted, on 1 July 1992, by [section 2(2)][197] of the Medicines Amendment Act 1992 (1992 No 50).
+    Section 2(1) **approved laboratory**: inserted, on 1 July 1992, by [section 2(2)][199] of the Medicines Amendment Act 1992 (1992 No 50).
     
-    Section 2(1) **authorised prescriber**: inserted, on 18 September 2004, by [section 3(1)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **authorised prescriber**: inserted, on 18 September 2004, by [section 3(1)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **controlled drug**: inserted, on 22 October 2003, by [section 3(1)][200] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 2(1) **controlled drug**: inserted, on 22 October 2003, by [section 3(1)][202] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 2(1) **Customs ** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2(1) **Customs ** or **the Customs**: inserted, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2(1) **dentist**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **dentist**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **designated prescriber**: inserted, on 15 October 1999, by [section 2(3)][202] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 2(1) **designated prescriber**: inserted, on 15 October 1999, by [section 2(3)][204] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 2(1) **Director-General**: substituted, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 2(1) **Director-General**: substituted, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 2(1) **dispensing**: inserted, on 18 September 2004, by [section 3(2)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **dispensing**: inserted, on 18 September 2004, by [section 3(2)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **EPA**: inserted, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 2(1) **EPA**: inserted, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
-    Section 2(1) **ERMA**: repealed, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 2(1) **ERMA**: repealed, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
-    Section 2(1) **health services**: inserted, on 15 October 1999, by [section 2(3)][202] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 2(1) **health services**: inserted, on 15 October 1999, by [section 2(3)][204] of the Medicines Amendment Act 1999 (1999 No 117).
     
     Section 2(1) **hospital**: substituted, on 1 October 2002, by [section 58(1)][185] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 2(1) **importer**: amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 2(1) **importer**: amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 2(1) **licensing authority**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **licensing authority**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **Medical Officer of Health**: amended, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 2(1) **Medical Officer of Health**: amended, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 2(1) **medical practitioner**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **medical practitioner**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **new organism**: inserted, on 30 October 2003, by [section 3][205] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 2(1) **new organism**: inserted, on 30 October 2003, by [section 3][207] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
     
-    Section 2(1) **officer**: substituted, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 2(1) **officer**: substituted, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 2(1) **optician**: repealed, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **optician**: repealed, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **pharmacist**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **pharmacist**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **pharmacy**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **pharmacy**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **pharmacy practice**: inserted, on 18 September 2004, by [section 3(4)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **pharmacy practice**: inserted, on 18 September 2004, by [section 3(4)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **qualifying new medicine**: inserted, on 30 October 2003, by [section 3][205] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 2(1) **qualifying new medicine**: inserted, on 30 October 2003, by [section 3][207] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
     
-    Section 2(1) **qualifying organism**: inserted, on 30 October 2003, by [section 3][205] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 2(1) **qualifying organism**: inserted, on 30 October 2003, by [section 3][207] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
     
-    Section 2(1) **registered health professional**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **registered health professional**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **registered midwife**: substituted, on 18 September 2004, by [section 3(3)][199] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 2(1) **registered midwife**: substituted, on 18 September 2004, by [section 3(3)][201] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 2(1) **standing order**: inserted, on 15 October 1999, by [section 2(3)][202] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 2(1) **standing order**: inserted, on 15 October 1999, by [section 2(3)][204] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 2(1) **standing order** paragraph (a): amended, on 22 October 2003, by [section 3(2)][200] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 2(1) **standing order** paragraph (a): amended, on 22 October 2003, by [section 3(2)][202] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 2(1) **standing order** paragraph (b): amended, on 22 October 2003, by [section 3(2)][200] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 2(1) **standing order** paragraph (b): amended, on 22 October 2003, by [section 3(2)][202] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 2(1) **standing order** paragraph (c): added, on 22 October 2003, by [section 3(3)][200] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 2(1) **standing order** paragraph (c): added, on 22 October 2003, by [section 3(3)][202] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 2(1) **standing order** paragraph (d): added, on 22 October 2003, by [section 3(3)][200] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 2(1) **standing order** paragraph (d): added, on 22 October 2003, by [section 3(3)][202] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 2(1) **veterinarian**: added, on 15 October 1999, by [section 2(2)][202] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 2(1) **veterinarian**: added, on 15 October 1999, by [section 2(2)][204] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 2(1) **veterinarian**: amended, on 22 December 2005, by [section 105][206] of the Veterinarians Act 2005 (2005 No 126).
+    Section 2(1) **veterinarian**: amended, on 22 December 2005, by [section 105][208] of the Veterinarians Act 2005 (2005 No 126).
     
-    Section 2(1) **veterinary surgeon**: repealed, on 15 October 1999, by [section 2(2)][202] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 2(1) **veterinary surgeon**: repealed, on 15 October 1999, by [section 2(2)][204] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 2(2): added, on 1 July 1992, by [section 2(3)][197] of the Medicines Amendment Act 1992 (1992 No 50).
+    Section 2(2): added, on 1 July 1992, by [section 2(3)][199] of the Medicines Amendment Act 1992 (1992 No 50).
     
-    Section 2(3): added, on 1 July 1992, by [section 2(3)][197] of the Medicines Amendment Act 1992 (1992 No 50).
+    Section 2(3): replaced, on 5 August 2013, by [section 77(3)][209] of the Legislation Act 2012 (2012 No 119).
 
 ##### 3 Meaning of medicine, new medicine, prescription medicine, and restricted medicine
     
@@ -749,7 +753,7 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
     
     *   (c) for use as a pregnancy test.
     
-    (2) In this Act, unless the context otherwise requires, the term **medicine** does not include---
+    (2) In this Act, unless the context otherwise requires, the term _medicine_ does not include---
         
     *   (a) substances used in dental surgery for filling dental cavities; or
     
@@ -835,13 +839,13 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
     
     Compare: Medicines Act 1968 s 130(1), (3), (5), (7) (UK)
     
-    Section 3(1)(b)(ii): substituted, on 15 October 1999, by [section 3(1)][207] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 3(1)(b)(ii): substituted, on 15 October 1999, by [section 3(1)][210] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 3(3) **pharmacy-only medicine**: substituted, on 22 October 2003, by [section 4(1)][208] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 3(3) **pharmacy-only medicine**: substituted, on 22 October 2003, by [section 4(1)][211] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
     
-    Section 3(3) **prescription medicine**: substituted, on 15 October 1999, by [section 3(2)][207] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 3(3) **prescription medicine**: substituted, on 15 October 1999, by [section 3(2)][210] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 3(3) **restricted medicine**: substituted, on 22 October 2003, by [section 4(2)][208] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 3(3) **restricted medicine**: substituted, on 22 October 2003, by [section 4(2)][211] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
 
 ##### 4 Meaning of therapeutic purpose
     
@@ -891,9 +895,9 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
 
 ##### 5A Relationship with Hazardous Substances and New Organisms Act 1996
     
-*   In relation to medicines that are or contain hazardous substances or new organisms, the requirements of this Act are additional to the requirements of the [Hazardous Substances and New Organisms Act 1996][209].
+*   In relation to medicines that are or contain hazardous substances or new organisms, the requirements of this Act are additional to the requirements of the [Hazardous Substances and New Organisms Act 1996][212].
     
-    First section 5A: inserted, on 30 October 2003, by [section 4][210] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    First section 5A: inserted, on 30 October 2003, by [section 4][213] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 5A Meaning of holding an interest in a pharmacy
     
@@ -917,7 +921,7 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
     
     Compare: 1970 No 143 s 2(2)--(4)
     
-    Second section 5A: inserted, on 18 September 2004, by [section 4][211] of the Medicines Amendment Act 2003 (2003 No 50).
+    Second section 5A: inserted, on 18 September 2004, by [section 4][214] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 5B Meaning of operating a pharmacy
     
@@ -929,7 +933,7 @@ An Act to consolidate and amend the law relating to the manufacture, sale, and s
     
     *   (c) establishes, or is responsible for the management or control of a pharmacy carried on, on a not for profit basis.
     
-    Section 5B: inserted, on 18 September 2004, by [section 4][211] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 5B: inserted, on 18 September 2004, by [section 4][214] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ## Part 1  
 Application and administration of Act
@@ -960,7 +964,7 @@ Application and administration of Act
     
 *   (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
     
-    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][212], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
+    (2) There may be paid out of money appropriated by Parliament for the purpose to the members of any committee appointed under this section remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][215], and the provisions of that Act shall apply accordingly as if the committee were a statutory board within the meaning of that Act.
     
     (3) Subject to the provisions of this Act and of any regulations made under this Act, every such committee may determine its own procedure.
     
@@ -998,7 +1002,7 @@ Application and administration of Act
     
     Compare: 1960 No 97 s 6; 1967 No 108 s 2; 1979 No 28 s 5(1)
     
-    Section 9(3)(c): amended, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 9(3)(c): amended, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
 
 ##### 10 Medicines Review Committee established
     
@@ -1016,7 +1020,7 @@ Application and administration of Act
     
     (3) The Minister shall also appoint 1 person with wide experience in the practice of natural therapy to act as a member of the Committee whenever any matter relating to the practice of natural therapy is before the Committee.
     
-    (4) There may be paid out of money appropriated by Parliament for the purpose to the members of the Committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][212], and the provisions of that Act shall apply accordingly as if the Committee were a statutory board within the meaning of that Act.
+    (4) There may be paid out of money appropriated by Parliament for the purpose to the members of the Committee remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][215], and the provisions of that Act shall apply accordingly as if the Committee were a statutory board within the meaning of that Act.
     
     Compare: 1960 No 97 s 6; 1967 No 51 s 6(3); 1967 No 108 s 2; 1979 No 28 s 5(1)
 
@@ -1072,7 +1076,7 @@ Application and administration of Act
 
 ##### 15 Appointment of officers
     
-*   (1) There may from time to time be appointed under the [State Sector Act 1988][213] such officers as are required for the purposes of this Act.
+*   (1) There may from time to time be appointed under the [State Sector Act 1988][216] such officers as are required for the purposes of this Act.
     
     (2) The Director-General may from time to time appoint any person, not being an officer of the Public Service, as an officer, either in a part- or full-time capacity, for the purposes of this Act.
     
@@ -1080,19 +1084,19 @@ Application and administration of Act
     
     (4) There may be paid out of money appropriated by Parliament for the purpose to any person appointed under subsection (2) such remuneration as may be fixed by the Director-General.
     
-    (5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty the Queen for the purposes of the State Sector Act 1988 or the [Government Superannuation Fund Act 1956][214].
+    (5) No person appointed under subsection (2) shall be deemed by reason of that appointment to be employed in the service of Her Majesty the Queen for the purposes of the State Sector Act 1988 or the [Government Superannuation Fund Act 1956][217].
     
     Compare: 1960 No 97 s 7; 1969 No 7 s 19; 1979 No 27 s 9
     
-    Section 15(1): amended, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 15(1): amended, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 15(1): amended, on 1 April 1988, pursuant to [section 88(2)][215] of the State Sector Act 1988 (1988 No 20).
+    Section 15(1): amended, on 1 April 1988, pursuant to [section 88(2)][218] of the State Sector Act 1988 (1988 No 20).
     
-    Section 15(2): substituted, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 15(2): substituted, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 15(4): amended, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 15(4): amended, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 15(5): amended, on 1 April 1988, pursuant to [section 88(2)][215] of the State Sector Act 1988 (1988 No 20).
+    Section 15(5): amended, on 1 April 1988, pursuant to [section 88(2)][218] of the State Sector Act 1988 (1988 No 20).
 
 ##### 16 Exercise of powers of Director-General and other officers
     
@@ -1106,11 +1110,11 @@ Application and administration of Act
     
     Compare: 1979 No 27 s 10
     
-    Section 16(2): amended, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(2): amended, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
     Section 16(2): amended, on 1 April 1984, by section 98 of the Area Health Boards 1983 (1983 No 134).
     
-    Section 16(1A): repealed, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 16(1A): repealed, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
 
 ## Part 2  
 Dealings with medicines and medical devices
@@ -1129,17 +1133,19 @@ Dealings with medicines and medical devices
     
     otherwise than in accordance with a licence issued under [Part 3][80].
     
-    (2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $40,000\.
+    (2) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000\.
     
     Compare: 1960 No 97 ss 8, 12(1), 14(1); 1969 No 44 s 3; 1979 No 27 ss 19, 20; 1979 No 28 s 6(1)
     
-    Section 17 heading: amended, on 18 September 2004, by [section 5(1)][216] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 17 heading: amended, on 18 September 2004, by [section 5(1)][219] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 17(1)(c): substituted, on 18 September 2004, by [section 5(2)][216] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 17(1)(c): substituted, on 18 September 2004, by [section 5(2)][219] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 17(1)(d): added, on 18 September 2004, by [section 5(2)][216] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 17(1)(d): added, on 18 September 2004, by [section 5(2)][219] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 17(2): substituted, on 18 September 2004, by [section 5(3)][216] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 17(2): substituted, on 18 September 2004, by [section 5(3)][219] of the Medicines Amendment Act 2003 (2003 No 50).
+    
+    Section 17(2): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Sale of medicines by retail
     
@@ -1179,7 +1185,7 @@ Dealings with medicines and medical devices
         
     *   (a) from house to house; or
     
-    *   (b) in any public place within the meaning of [section 2][217] of the Summary Offences Act 1981,---
+    *   (b) in any public place within the meaning of [section 2][221] of the Summary Offences Act 1981,---
     
     otherwise than pursuant to any authority to do so expressly conferred by a licence held by him under [Part 3][80], and in accordance with any conditions or restrictions specified in the licence.
     
@@ -1191,23 +1197,23 @@ Dealings with medicines and medical devices
     
     Compare: 1960 No 97 ss 8(1), (4), 9, 13(1); 1969 No 7 ss 18, 39(6); 1969 No 44 s 3; SR 1964/64 rr 12, 65; Medicines Act 1968 ss 52--54 (UK)
     
-    Section 18(1)(a): substituted, on 18 September 2004, by [section 6(1)][218] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 18(1)(a): substituted, on 18 September 2004, by [section 6(1)][222] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 18(1)(aa): repealed, on 18 September 2004, by [section 6(1)][218] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 18(1)(aa): repealed, on 18 September 2004, by [section 6(1)][222] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 18(1)(b): substituted, on 18 September 2004, by [section 6(1)][218] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 18(1)(b): substituted, on 18 September 2004, by [section 6(1)][222] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 18(1)(c): substituted, on 18 September 2004, by [section 6(1)][218] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 18(1)(c): substituted, on 18 September 2004, by [section 6(1)][222] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 18(2): substituted, on 15 October 1999, by [section 4(2)][219] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 18(2): substituted, on 15 October 1999, by [section 4(2)][223] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 18(2A): inserted, on 15 October 1999, by [section 4(2)][219] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 18(2A): inserted, on 15 October 1999, by [section 4(2)][223] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 18(2B): inserted, on 15 October 1999, by [section 4(2)][219] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 18(2B): inserted, on 15 October 1999, by [section 4(2)][223] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 18(3)(b): substituted, on 15 October 1999, by [section 4(3)][219] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 18(3)(b): substituted, on 15 October 1999, by [section 4(3)][223] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 18(5): amended, on 18 September 2004, by [section 6(2)][218] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 18(5): amended, on 18 September 2004, by [section 6(2)][222] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 19 Administering prescription medicines
     
@@ -1223,9 +1229,9 @@ Dealings with medicines and medical devices
     
     (4) \[Repealed\]
     
-    Section 19: substituted, on 15 October 1999, by [section 5][220] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 19: substituted, on 15 October 1999, by [section 5][224] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 19(4): repealed, on 18 September 2004, by [section 7][221] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 19(4): repealed, on 18 September 2004, by [section 7][225] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 20 Restrictions on sale or supply of new medicines
     
@@ -1259,11 +1265,11 @@ Dealings with medicines and medical devices
     
     Compare: 1969 No 7 s 12
     
-    Section 20(4): substituted, on 19 May 1998, by [section 11][222] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
+    Section 20(4): substituted, on 19 May 1998, by [section 11][226] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
     
-    Section 20(6A): inserted, on 2 July 2001, by [section 149][223] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 20(6A): inserted, on 2 July 2001, by [section 149][227] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
     
-    Section 20(6A): amended, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 20(6A): amended, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ##### 21 Applications for Minister's consent
     
@@ -1595,11 +1601,11 @@ Dealings with medicines and medical devices
     
     Section 24(1A): inserted, on 8 August 1990, by section 4 of the Medicines Amendment Act (No 2) 1990 (1990 No 97).
     
-    Section 24(7): added, on 19 May 1998, by [section 12][224] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
+    Section 24(7): added, on 19 May 1998, by [section 12][228] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
 
 #### Qualifying new medicines
     
-*   Heading: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+*   Heading: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24A Assessment of qualifying new medicines
     
@@ -1607,11 +1613,11 @@ Dealings with medicines and medical devices
         
     *   (a) has the consent of the Minister to do so; and
     
-    *   (b) is acting under a delegation from the EPA given under [section 19][226] of that Act.
+    *   (b) is acting under a delegation from the EPA given under [section 19][230] of that Act.
     
-    Section 24A: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24A: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
     
-    Section 24A(b): amended, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 24A(b): amended, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 ##### 24B Procedure if Director-General declines to grant approval
     
@@ -1621,35 +1627,35 @@ Dealings with medicines and medical devices
             
         *   (i) inform the EPA that the new medicine is not a qualifying new medicine; and
         
-        *   (ii) provide the EPA with a copy of all information (from assessing the safety, quality, and efficacy of the new medicine) that the Director-General considers may assist the EPA in deciding whether to approve or decline the application under the [Hazardous Substances and New Organisms Act 1996][209]; and
+        *   (ii) provide the EPA with a copy of all information (from assessing the safety, quality, and efficacy of the new medicine) that the Director-General considers may assist the EPA in deciding whether to approve or decline the application under the [Hazardous Substances and New Organisms Act 1996][212]; and
         
         
     
-    *   (b) the Minister must not consent under [section 20][28] or give provisional consent under [section 23][31] to the distribution, sale, or advertising of the medicine unless the Minister receives written advice from the EPA that the medicine has been approved for release under the [Hazardous Substances and New Organisms Act 1996][209].
+    *   (b) the Minister must not consent under [section 20][28] or give provisional consent under [section 23][31] to the distribution, sale, or advertising of the medicine unless the Minister receives written advice from the EPA that the medicine has been approved for release under the [Hazardous Substances and New Organisms Act 1996][212].
     
-    Section 24B: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24B: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
     
-    Section 24B(a)(i): amended, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 24B(a)(i): amended, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
-    Section 24B(a)(ii): amended, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 24B(a)(ii): amended, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
-    Section 24B(b): amended, on 1 July 2011, by [section 53(1)][204] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 24B(b): amended, on 1 July 2011, by [section 53(1)][206] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
 #### Approval of medicines required for use in special emergency
     
-*   Heading: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+*   Heading: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24C Interpretation
     
 *   In [sections 24D to 24G][41], unless the context otherwise requires,---
     
-    _hazardous substance_ has the same meaning as in [section 2(1)][227] of the Hazardous Substances and New Organisms Act 1996
+    _hazardous substance_ has the same meaning as in [section 2(1)][231] of the Hazardous Substances and New Organisms Act 1996
     
-    _responsible Minister_ has the same meaning as in [section 49A][228] of the Hazardous Substances and New Organisms Act 1996
+    _responsible Minister_ has the same meaning as in [section 49A][232] of the Hazardous Substances and New Organisms Act 1996
     
-    _special emergency_ has the same meaning as in [section 49A][228] of the Hazardous Substances and New Organisms Act 1996\.
+    _special emergency_ has the same meaning as in [section 49A][232] of the Hazardous Substances and New Organisms Act 1996\.
     
-    Section 24C: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24C: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24D Approval of medicines required for use in special emergency
     
@@ -1671,13 +1677,13 @@ Dealings with medicines and medical devices
     
     *   (c) be accompanied by any information that the Minister considers is necessary for determining whether or not to approve the application.
     
-    Section 24D: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24D: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24E Notification or publication of approval
     
 *   The approval of an application under [section 24D][41] must be notified in the _Gazette_.
     
-    Section 24E: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24E: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24F Duration of approval
     
@@ -1695,13 +1701,13 @@ Dealings with medicines and medical devices
     
     *   (c) if paragraph (a) or paragraph (b) does not apply, 2 years after the date on which the approval is granted.
     
-    Section 24F: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24F: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 ##### 24G Consequences of expiry of approval
     
 *   On the expiry of an approval of an application under [section 24D][41], the medicine to which the approval applies must not be distributed or used unless authorised by or under any other provision of this Act.
     
-    Section 24G: inserted, on 30 October 2003, by [section 5][225] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
+    Section 24G: inserted, on 30 October 2003, by [section 5][229] of the Medicines Amendment Act (No 2) 2003 (2003 No 56).
 
 #### Exemptions
 
@@ -1731,9 +1737,9 @@ Dealings with medicines and medical devices
     
     (4) \[Repealed\]
     
-    Section 25: substituted, on 15 October 1999, by [section 6][229] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 25: substituted, on 15 October 1999, by [section 6][233] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 25(4): repealed, on 18 September 2004, by [section 8][230] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 25(4): repealed, on 18 September 2004, by [section 8][234] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 26 Exemptions for pharmacists
     
@@ -1767,7 +1773,7 @@ Dealings with medicines and medical devices
         
     *   (a) any veterinarian may manufacture, sell, supply, or administer a medicine for the treatment of an animal under the care of that veterinarian or under the care of another veterinarian, and may pack or label the medicine for the purposes of any such sale or supply:
     
-    *   (b) any person registered with the Optometrists and Dispensing Opticians Board continued under [section 114(1)][231] of the Health Practitioners Competence Assurance Act 2003, and having the appropriate scope of practice as defined by the Board under that Act, may:
+    *   (b) any person registered with the Optometrists and Dispensing Opticians Board continued under [section 114(1)][235] of the Health Practitioners Competence Assurance Act 2003, and having the appropriate scope of practice as defined by the Board under that Act, may:
             
         *   (i) sell or supply a medicine for use in cleaning, soaking, or lubricating contact lenses if the medicine is suitable for that purpose; and
         
@@ -1785,17 +1791,17 @@ Dealings with medicines and medical devices
     
     Compare: 1969 No 7 s 18(3)(g)(i), (ii)
     
-    Section 27 heading: amended, on 18 September 2004, by [section 9(1)][232] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 27 heading: amended, on 18 September 2004, by [section 9(1)][236] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 27 heading: amended, on 15 October 1999, by [section 7][233] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 27 heading: amended, on 15 October 1999, by [section 7][237] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 27(a): amended, on 15 October 1999, by [section 7][233] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 27(a): amended, on 15 October 1999, by [section 7][237] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 27(b): substituted, on 18 September 2004, by [section 9(2)][232] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 27(b): substituted, on 18 September 2004, by [section 9(2)][236] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 27(c)(i): amended, on 15 October 1999, by [section 7][233] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 27(c)(i): amended, on 15 October 1999, by [section 7][237] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 27(c)(ii): substituted, on 18 September 2004, by [section 9(3)][232] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 27(c)(ii): substituted, on 18 September 2004, by [section 9(3)][236] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 28 Exemptions in respect of herbal remedies
     
@@ -1825,7 +1831,7 @@ Dealings with medicines and medical devices
 
 ##### 30 Exemption for clinical trial
     
-*   (1) Notwithstanding [section 20][28] or [section 24][35], but subject to the succeeding provisions of this section, the importer or manufacturer in New Zealand of any medicine may distribute it for the sole purpose of obtaining clinical and scientific information with respect to its safety and efficacy, if the clinical trial, and the persons (in this section called the **investigators**) who will conduct the trial, have been approved by the Director-General on the recommendation of the Health Research Council of New Zealand.
+*   (1) Notwithstanding [section 20][28] or [section 24][35], but subject to the succeeding provisions of this section, the importer or manufacturer in New Zealand of any medicine may distribute it for the sole purpose of obtaining clinical and scientific information with respect to its safety and efficacy, if the clinical trial, and the persons (in this section called the _investigators_) who will conduct the trial, have been approved by the Director-General on the recommendation of the Health Research Council of New Zealand.
     
     (2) An application for the approval of the Director-General in respect of this section shall be made by the importer, manufacturer, or packer, or the intending manufacturer, packer, seller, or supplier, in New Zealand of the medicine, and shall---
         
@@ -1893,7 +1899,7 @@ Dealings with medicines and medical devices
     
     Compare: 1969 No 7 s 15
     
-    Section 30(1): amended, on 1 October 1990, by [section 57][234] of the Health Research Council Act 1990 (1990 No 68).
+    Section 30(1): amended, on 1 October 1990, by [section 57][238] of the Health Research Council Act 1990 (1990 No 68).
     
     Section 30(2)(ca): inserted, on 8 August 1990, by section 5 of the Medicines Amendment Act (No 2) 1990 (1990 No 97).
 
@@ -1927,7 +1933,7 @@ Dealings with medicines and medical devices
     
     Compare: 1960 No 97 ss 13(1)(a), (f), (6), 14(1)
     
-    Section 31(4): added, on 18 September 2004, by [section 10][235] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 31(4): added, on 18 September 2004, by [section 10][239] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 32 Exemptions for natural therapists and others
     
@@ -1963,7 +1969,7 @@ Dealings with medicines and medical devices
     
     *   (b) any other pharmacist, in any pharmacy, selling a medicine imported by the Crown under subsection (1), or supplying it by way of gift or loan or sample or in any other way.
     
-    (6) Nothing in subsection (5) affects a duty or obligation imposed on a pharmacist in relation to the sale, supply, or dispensing of a medicine under the [Social Security Act 1964][236].
+    (6) Nothing in subsection (5) affects a duty or obligation imposed on a pharmacist in relation to the sale, supply, or dispensing of a medicine under the [Social Security Act 1964][240].
     
     (7) The powers conferred by this section to do anything in respect of a medicine include the power to do likewise in respect of any advertising material, container, label, labelling material, or package (as those terms are defined in [section 2][3]), or a data sheet or other written or printed material, relating to that medicine.
     
@@ -2017,7 +2023,9 @@ Dealings with medicines and medical devices
     
     (4) The Minister may at any time, by a like notice, revoke any notice given under subsection (3), or vary, revoke, or add to any conditions imposed in any such notice.
     
-    (5) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who sells or supplies any medicine in contravention of a notice given under subsection (3), or of a condition imposed in any such notice or in a notice given under subsection (4).
+    (5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who sells or supplies any medicine in contravention of a notice given under subsection (3), or of a condition imposed in any such notice or in a notice given under subsection (4).
+    
+    Section 36(5): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 37 Powers of Minister to prohibit import, etc, of medicines
     
@@ -2059,13 +2067,13 @@ Dealings with medicines and medical devices
     
     (7) In any proceedings for an offence against this section in which it is alleged that 2 or more medical devices are of the same kind, it shall be presumed that those medical devices are of the same kind until the contrary is proved.
     
-    (8) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who,---
+    (8) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who,---
         
     *   (a) having received a notice under subsection (2) and failed to comply with subsection (3), sells the medical device; or
     
     *   (b) having received a notice under subsection (4), sells the medical device before he has been notified by the Director-General that he is satisfied of the safety of the medical device.
     
-    
+    Section 38(8): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 39 Adulteration of medicines
     
@@ -2101,9 +2109,11 @@ Dealings with medicines and medical devices
     
 *   (1) If at any time the importer or manufacturer in New Zealand of any medicine has reason to believe that any substantial untoward effects have arisen from the use of the medicine whether in New Zealand or elsewhere, the importer or manufacturer shall forthwith notify the Director-General of the nature of those effects and the circumstances in which they have arisen, so far as they are known to him.
     
-    (2) Every person commits an offence against this Act and is liable to a fine not exceeding $1,000 who fails to comply with subsection (1).
+    (2) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who fails to comply with subsection (1).
     
     Compare: 1969 No 7 ss 17, 39(5)
+    
+    Section 41(2): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 42 Duty of importer and manufacturer to have and produce specifications of medicines
     
@@ -2121,11 +2131,11 @@ Dealings with medicines and medical devices
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 42(3): substituted, on 19 May 1998, by [section 13][237] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
+    Section 42(3): substituted, on 19 May 1998, by [section 13][241] of the Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20).
 
 #### Restrictions on operation of pharmacies
     
-*   Heading: inserted, on 18 September 2004, by [section 11][238] of the Medicines Amendment Act 2003 (2003 No 50).
+*   Heading: inserted, on 18 September 2004, by [section 11][242] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 42A Every pharmacy must be under supervision of pharmacist
     
@@ -2133,7 +2143,7 @@ Dealings with medicines and medical devices
     
     Compare: 1970 No 143 s 41
     
-    Section 42A: inserted, on 18 September 2004, by [section 11][238] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 42A: inserted, on 18 September 2004, by [section 11][242] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 42B Security of pharmacies
     
@@ -2145,7 +2155,7 @@ Dealings with medicines and medical devices
     
     (4) The requirements imposed by subsections (1) and (2) are in addition to the requirements imposed by [section 47][75] or any regulations made under this Act.
     
-    Section 42B: inserted, on 18 September 2004, by [section 11][238] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 42B: inserted, on 18 September 2004, by [section 11][242] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 42C Restriction on authorised prescribers holding interest in pharmacies
     
@@ -2155,7 +2165,7 @@ Dealings with medicines and medical devices
     
     (3) The licensing authority may not give its consent under subsection (1) unless it is satisfied that there are sufficient safeguards to prevent the issue of prescriptions, the manner in which prescriptions are issued, or the other provision of health care by the authorised prescriber from being influenced by the commercial or financial interests of the authorised prescriber or any other person holding an interest in the pharmacy.
     
-    Section 42C: inserted, on 18 September 2004, by [section 11][238] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 42C: inserted, on 18 September 2004, by [section 11][242] of the Medicines Amendment Act 2003 (2003 No 50).
 
 #### Miscellaneous provisions
 
@@ -2215,9 +2225,9 @@ Dealings with medicines and medical devices
     
     Compare: 1960 No 97 s 26; 1969 No 44 s 7
     
-    Section 43(2): substituted, on 15 October 1999, by [section 8(1)][239] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 43(2): substituted, on 15 October 1999, by [section 8(1)][243] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 43(6): added, on 15 October 1999, by [section 8(2)][239] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 43(6): added, on 15 October 1999, by [section 8(2)][243] of the Medicines Amendment Act 1999 (1999 No 117).
 
 ##### 44 Containers and packages of medicines
     
@@ -2263,7 +2273,7 @@ Dealings with medicines and medical devices
     
     Compare: 1960 No 97 s 23
     
-    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][240] of the Policing Act 2008 (2008 No 72).
+    Section 45(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][244] of the Policing Act 2008 (2008 No 72).
 
 ##### 46 Custody of medicines
     
@@ -2319,13 +2329,13 @@ Dealings with medicines and medical devices
     
     (3) The Minister may at any time, by notice in the _Gazette_, revoke any notice given under subsection (1).
     
-    Section 48: substituted, on 15 October 1999, by [section 9][241] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 48: substituted, on 15 October 1999, by [section 9][245] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 48(2)(c): amended, on 18 September 2004, by [section 12(1)][242] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 48(2)(c): amended, on 18 September 2004, by [section 12(1)][246] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 48(2)(d): amended, on 18 September 2004, by [section 12(2)][242] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 48(2)(d): amended, on 18 September 2004, by [section 12(2)][246] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 48(2)(f): amended, on 18 September 2004, by [section 12(3)][242] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 48(2)(f): amended, on 18 September 2004, by [section 12(3)][246] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 48A Powers of councils and boards
     
@@ -2337,7 +2347,7 @@ Dealings with medicines and medical devices
     
     (4) Without prejudice to the liability of any person under any other provision of this Act, a person who contravenes any notice given under [section 48(1)][76] commits an offence against this Act.
     
-    Section 48A: inserted, on 15 October 1999, by [section 9][241] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 48A: inserted, on 15 October 1999, by [section 9][245] of the Medicines Amendment Act 1999 (1999 No 117).
 
 ##### 49 Restrictions on supply to particular persons
     
@@ -2365,7 +2375,7 @@ Dealings with medicines and medical devices
     
     Compare: SR 1964/64 r 20A; SR 1969/45 r 6
     
-    Section 49(2): amended, on 15 October 1999, by [section 10][243] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 49(2): amended, on 15 October 1999, by [section 10][247] of the Medicines Amendment Act 1999 (1999 No 117).
 
 ##### 49A Statements regarding persons dependent on prescription medicines or restricted medicines
     
@@ -2377,13 +2387,13 @@ Dealings with medicines and medical devices
         
     *   (a) officers:
     
-    *   (b) officers and employees of any district health board established by or under [section 19][244] of the New Zealand Public Health and Disability Act 2000:
+    *   (b) officers and employees of any district health board established by or under [section 19][248] of the New Zealand Public Health and Disability Act 2000:
     
-    *   (c) people providing, or employed in providing, hospital care (within the meaning of the [Health and Disability Services (Safety) Act 2001][245]):
+    *   (c) people providing, or employed in providing, hospital care (within the meaning of the [Health and Disability Services (Safety) Act 2001][249]):
     
-    *   (d) managers of prisons within the meaning of the [Corrections Act 2004][246]:
+    *   (d) managers of prisons within the meaning of the [Corrections Act 2004][250]:
     
-    *   (e) managers and superintendents of institutions within the meaning of the [Alcoholism and Drug Addiction Act 1966][247]:
+    *   (e) managers and superintendents of institutions within the meaning of the [Alcoholism and Drug Addiction Act 1966][251]:
     
     *   (f) medical practitioners:
     
@@ -2403,21 +2413,21 @@ Dealings with medicines and medical devices
     
     Section 49A: inserted, on 23 February 1987, by section 4 of the Medicines Amendment Act 1987 (1987 No 9).
     
-    Section 49A(3)(a): substituted, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 49A(3)(a): substituted, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 49A(3)(b): substituted, on 1 July 1993, by [section 32][203] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 49A(3)(b): substituted, on 1 July 1993, by [section 32][205] of the Health Sector (Transfers) Act 1993 (1993 No 23).
     
-    Section 49A(3)(b): amended, on 1 January 2001, by [section 111(1)][248] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 49A(3)(b): amended, on 1 January 2001, by [section 111(1)][252] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 49A(3)(c): substituted, on 1 October 2002, by [section 58(1)][185] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 49A(3)(d): substituted, on 1 June 2005, by [section 206][249] of the Corrections Act 2004 (2004 No 50).
+    Section 49A(3)(d): substituted, on 1 June 2005, by [section 206][253] of the Corrections Act 2004 (2004 No 50).
     
-    Section 49A(3)(ga): inserted, on 15 October 1999, by [section 11][250] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 49A(3)(ga): inserted, on 15 October 1999, by [section 11][254] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 49A(3)(gb): inserted, on 15 October 1999, by [section 11][250] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 49A(3)(gb): inserted, on 15 October 1999, by [section 11][254] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 49A(3)(h): amended, on 1 October 2008, by [section 130(1)][251] of the Policing Act 2008 (2008 No 72).
+    Section 49A(3)(h): amended, on 1 October 2008, by [section 130(1)][255] of the Policing Act 2008 (2008 No 72).
 
 ## Part 3  
 Provisions relating to licences
@@ -2436,11 +2446,11 @@ Provisions relating to licences
     
     Compare: 1960 No 97 s 15; 1979 No 27 s 35; Medicines Act 1968 s 18 (UK)
     
-    Section 50(1): substituted, on 18 September 2004, by [section 13(1)][252] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 50(1): substituted, on 18 September 2004, by [section 13(1)][256] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 50(4): substituted, on 18 September 2004, by [section 13(2)][252] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 50(4): substituted, on 18 September 2004, by [section 13(2)][256] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 50(5): substituted, on 18 September 2004, by [section 13(2)][252] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 50(5): substituted, on 18 September 2004, by [section 13(2)][256] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 51 Grant of licences
     
@@ -2484,17 +2494,17 @@ Provisions relating to licences
     
     Compare: 1960 No 97 s 16; 1979 No 27 s 36
     
-    Section 51(1): amended, on 18 September 2004, by [section 14(1)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(1): amended, on 18 September 2004, by [section 14(1)][257] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 51(1)(f): amended, on 18 September 2004, by [section 14(2)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(1)(f): amended, on 18 September 2004, by [section 14(2)][257] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 51(2): amended, on 18 September 2004, by [section 14(3)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(2): amended, on 18 September 2004, by [section 14(3)][257] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 51(6A): inserted, on 18 September 2004, by [section 14(4)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(6A): inserted, on 18 September 2004, by [section 14(4)][257] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 51(6B): inserted, on 18 September 2004, by [section 14(4)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(6B): inserted, on 18 September 2004, by [section 14(4)][257] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 51(7): amended, on 18 September 2004, by [section 14(5)][253] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 51(7): amended, on 18 September 2004, by [section 14(5)][257] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 52 Effect of licences
     
@@ -2518,9 +2528,9 @@ Provisions relating to licences
     
     Compare: 1960 No 97 s 17; 1979 No 27 s 37
     
-    Section 52(1)(e): added, on 18 September 2004, by [section 15(1)][254] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 52(1)(e): added, on 18 September 2004, by [section 15(1)][258] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 52(3): amended, on 18 September 2004, by [section 15(2)][254] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 52(3): amended, on 18 September 2004, by [section 15(2)][258] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 53 Duration of licences
     
@@ -2532,7 +2542,7 @@ Provisions relating to licences
     
     Compare: 1960 No 97 s 18; 1979 No 27 s 38
     
-    Section 53(1): substituted, on 18 September 2004, by [section 16][255] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 53(1): substituted, on 18 September 2004, by [section 16][259] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 54 Display of licences
     
@@ -2566,7 +2576,7 @@ Provisions relating to licences
     
     (4) If, after giving the holder of a licence to operate a pharmacy whose licence is suspended under subsection (2) a reasonable opportunity to be heard and after considering any evidence adduced or submissions made by the licensee, the licensing authority is satisfied that the holder satisfies all of the criteria set out in subsection (1), the licensing authority must reinstate the licence.
     
-    Section 55A: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55A: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 55B Licensing authority may require further information
     
@@ -2582,17 +2592,17 @@ Provisions relating to licences
     
     (3) If the applicant fails to supply the information requested within 30 days of the date of the request, or within any further time allowed by the licensing authority, the application lapses.
     
-    Section 55B: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55B: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 55C Mandatory condition of licence to operate pharmacy
     
 *   It is a condition of every licence to operate a pharmacy that the holder of the licence must not request or require any pharmacist who is employed or engaged in duties at a pharmacy to act in a way that is inconsistent with the applicable professional or ethical standards of pharmacy practice.
     
-    Section 55C: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55C: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
 
 #### Restrictions on persons allowed to operate pharmacies
     
-*   Heading: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+*   Heading: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 55D Restriction on companies operating pharmacies
     
@@ -2620,9 +2630,9 @@ Provisions relating to licences
     
     Compare: 1970 No 143 s 42
     
-    Section 55D: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55D: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 55D(4): amended, on 3 December 2007, by [section 445][257] of the Insolvency Act 2006 (2006 No 55).
+    Section 55D(4): amended, on 3 December 2007, by [section 445][261] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 55E Restriction on individuals operating or holding majority interest in pharmacies
     
@@ -2650,9 +2660,9 @@ Provisions relating to licences
     
     *   (b) an assignee, within the meaning of the Insolvency Act 2006, carrying on a pharmacy in his or her capacity as assignee of the estate of a pharmacist:
     
-    *   (c) a liquidator carrying on a pharmacy under the authority of [section 260][258] and [Schedule 6][259] of the Companies Act 1993:
+    *   (c) a liquidator carrying on a pharmacy under the authority of [section 260][262] and [Schedule 6][263] of the Companies Act 1993:
     
-    *   (d) a receiver or manager of the property of a company carrying on, subject to the [Receiverships Act 1993][260], a pharmacy comprised in that property.
+    *   (d) a receiver or manager of the property of a company carrying on, subject to the [Receiverships Act 1993][264], a pharmacy comprised in that property.
     
     (4) Subsection (3) does not entitle any person to carry on business in a pharmacy after---
         
@@ -2664,9 +2674,9 @@ Provisions relating to licences
     
     Compare: 1970 No 143 s 43
     
-    Section 55E: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55E: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 55E(3) **pharmacist** paragraph (b): amended, on 3 December 2007, by [section 445][257] of the Insolvency Act 2006 (2006 No 55).
+    Section 55E(3) **pharmacist** paragraph (b): amended, on 3 December 2007, by [section 445][261] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 55F Prohibition on operating or holding of majority interest in more than 5 pharmacies
     
@@ -2684,19 +2694,19 @@ Provisions relating to licences
     
     Compare: 1970 No 143 s 45
     
-    Section 55F: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55F: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 55G Exemption for mortgagees in possession
     
 *   (1) Despite [sections 55D][91] and [55E][92], a mortgagee in possession of a pharmacy may be granted a licence to operate that pharmacy for a period of 3 months or, subject to any conditions that the licensing authority imposes, for any extended period or periods permitted by the licensing authority.
     
-    (2) In this section, _mortgagee in possession_ has the same meaning as in [section 4][261] of the Property Law Act 2007\.
+    (2) In this section, _mortgagee in possession_ has the same meaning as in [section 4][265] of the Property Law Act 2007\.
     
     Compare: 1970 No 143 s 47
     
-    Section 55G: inserted, on 18 September 2004, by [section 17][256] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 55G: inserted, on 18 September 2004, by [section 17][260] of the Medicines Amendment Act 2003 (2003 No 50).
     
-    Section 55G(2): amended, on 1 January 2008, by [section 364(1)][262] of the Property Law Act 2007 (2007 No 91).
+    Section 55G(2): amended, on 1 January 2008, by [section 364(1)][266] of the Property Law Act 2007 (2007 No 91).
 
 ## Part 4  
 Medical advertisements
@@ -2719,13 +2729,13 @@ Medical advertisements
     
     *   (c) deliver to any person or leave upon premises in the occupation of any person; or
     
-    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][263]; or
+    *   (d) broadcast within the meaning of the [Broadcasting Act 1989][267]; or
     
     *   (e) bring to the notice of the public in New Zealand in any other manner.
     
     Compare: 1969 No 7 s 2; 1979 No 27 s 2
     
-    Section 56 **publish** paragraph (d): amended, on 1 July 1989, pursuant to [section 89(1)][264] of the Broadcasting Act 1989 (1989 No 25).
+    Section 56 **publish** paragraph (d): amended, on 1 July 1989, pursuant to [section 89(1)][268] of the Broadcasting Act 1989 (1989 No 25).
 
 ##### 57 Restrictions on advertisements
     
@@ -2799,9 +2809,11 @@ Medical advertisements
     
     *   (b) any medical advertisement relating to any description of medicines or any kind of medical devices in respect of which an exemption granted under or by virtue of this Act from the material provisions of any such regulations is for the time being in force.
     
-    (5) Every person commits an offence and is liable to a fine not exceeding $1,000 who contravenes subsection (1).
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
     
     Compare: 1969 No 7 s 9
+    
+    Section 59(5): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 60 Exemption for certain advertisements
     
@@ -2902,7 +2914,7 @@ Enforcement
     
     Compare: 1969 No 7 s 21(1), (2), (4); 1979 No 27 s 47(1)--(6)
     
-    Section 63(4): repealed, on 1 April 1987, by [section 25(1)][265] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 63(4): repealed, on 1 April 1987, by [section 25(1)][269] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 64 Further provisions relating to seizure and detention of articles
     
@@ -2952,7 +2964,7 @@ Enforcement
     
     (7) The applicant shall serve notice of his application on the respondent on or before the date on which he files it in the court.
     
-    (8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the [District Courts Act 1947][266] shall apply with respect to every application to the court under this section.
+    (8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the [District Courts Act 1947][270] shall apply with respect to every application to the court under this section.
     
     (9) Every order made by the court under this section shall be final and binding on all parties.
     
@@ -2960,7 +2972,7 @@ Enforcement
     
     Compare: 1969 No 7 s 22; 1979 No 27 s 49; SR 1964/64 r 20(f)
     
-    Section 65(10): amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 65(10): amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 66 Powers to require information
     
@@ -2984,7 +2996,7 @@ Enforcement
     
     Compare: 1960 No 97 s 40; 1969 No 7 s 27; 1979 No 27 s 50
     
-    Section 66(4): repealed, on 1 April 1987, [section 25(1)][265] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 66(4): repealed, on 1 April 1987, [section 25(1)][269] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 67 Power to require name and address of seller
     
@@ -3048,7 +3060,7 @@ Enforcement
     
     Compare: 1969 No 7 s 25; 1979 No 27 s 55
     
-    Section 70(5): repealed, on 1 April 1987, by [section 25(1)][265] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 70(5): repealed, on 1 April 1987, by [section 25(1)][269] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 71 Evidence of analysis
     
@@ -3100,19 +3112,19 @@ Enforcement
     
     Compare: 1979 No 27 s 57
     
-    Section 72(1)(b): amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 72(1)(b): amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 72(1)(g): amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 72(1)(g): amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 72(2): amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 72(2): amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 72(4): amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 72(4): amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 73 Certain matters presumed
     
 *   (1) In any prosecution for an offence against this Act or against any regulations made under this Act, it shall be presumed, until the contrary is proved, that the contents of a container conform with any purported description of the contents shown on any label attached to the container.
     
-    (2) In any prosecution for an offence against this Act or against any regulations made under this Act involving any medicine that is a new medicine by virtue of [section 3(3)(c)][267], it shall be presumed that the medicine is a new medicine until the contrary is proved.
+    (2) In any prosecution for an offence against this Act or against any regulations made under this Act involving any medicine that is a new medicine by virtue of [section 3(3)(c)][271], it shall be presumed that the medicine is a new medicine until the contrary is proved.
     
     Compare: 1960 No 97 s 50A; 1979 No 27 s 58
 
@@ -3156,9 +3168,11 @@ Enforcement
     
     *   (c) utters, produces, or makes use of any document that he knows is not genuine.
     
-    (2) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000\.
+    (2) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $1,000\.
     
     Compare: 1960 No 97 s 47; 1969 No 44 s 10; 1979 No 27 s 60
+    
+    Section 76(2): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 76A Offences in relation to authorised prescribers
     
@@ -3166,25 +3180,31 @@ Enforcement
     
     Compare: 1970 No 143 s 49(1)(a)
     
-    Section 76A: inserted, on 18 September 2004, by [section 18][268] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 76A: inserted, on 18 September 2004, by [section 18][272] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 77 Jurisdiction of District Courts
     
-*   (1) Every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
+*   (1) \[Repealed\]
     
-    (2) Notwithstanding anything in [section 14][269] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+    (2) Despite anything to the contrary in [section 25][273] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
     (3) The summons in any such proceedings shall not be made returnable in less than 14 days from the day on which it is served.
     
     (4) There shall be served with the summons in any such proceedings a copy of the analyst's certificate or report (if any) relating to the prosecution.
     
     Compare: 1969 No 7 s 38; 1979 No 27 s 61
+    
+    Section 77(1): repealed, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 77(2): replaced, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 General penalty
     
-*   Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+*   Every person who commits any offence against this Act for which no penalty is provided elsewhere than in this section is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500, and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
     
     Compare: 1969 No 7 s 39; 1979 No 27 s 62
+    
+    Section 78: amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 Liability of principal for acts of agents, etc
     
@@ -3294,11 +3314,13 @@ Enforcement
     
     (5) Every person commits an offence against this Act who, without reasonable excuse, fails to produce any licence in accordance with subsection (4).
     
-    (6) For the purposes of [Part 4][270] of the Summary Proceedings Act 1957, the cancellation or endorsement of a licence, or a disqualification, under this section shall be deemed to be a sentence or part of a sentence, as the case may be.
+    (6) For the purposes of [Part 6][274] of the Criminal Procedure Act 2011, the cancellation or endorsement of a licence, or a disqualification, under this section shall be deemed to be a sentence or part of a sentence, as the case may be.
     
     (7) The particulars of any cancellation, disqualification, or endorsement under this section, and the particulars of the conviction relating thereto, shall be notified in writing to the Director-General by the Registrar of the court.
     
     Compare: 1960 No 97 s 21; 1979 No 27 s 64
+    
+    Section 83(6): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 84 Payment of expenses of analysis on conviction
     
@@ -3340,7 +3362,7 @@ Enforcement
     
     Compare: 1960 No 97 s 52
     
-    Section 87: amended, on 15 October 1999, by [section 12][271] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 87: amended, on 15 October 1999, by [section 12][275] of the Medicines Amendment Act 1999 (1999 No 117).
 
 ## Part 6  
 Appeals
@@ -3391,7 +3413,7 @@ Appeals
     
     Compare: 1960 No 97 s 42; 1979 No 27 s 67
     
-    Section 89(4): repealed, on 15 August 1991, by [section 3(4)][272] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 89(4): repealed, on 15 August 1991, by [section 3(4)][276] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 90 Proceedings before court
     
@@ -3517,17 +3539,17 @@ Restrictions on specified biotechnical procedures
     
     Section 96A: inserted, on 28 May 2002, by section 6 of the Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14).
     
-    Section 96A **cloned human organism**: repealed, on 21 August 2005, by [section 86(1)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **cloned human organism**: repealed, on 21 August 2005, by [section 86(1)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
     
-    Section 96A **cloning procedure**: repealed, on 21 August 2005, by [section 86(1)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **cloning procedure**: repealed, on 21 August 2005, by [section 86(1)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
     
-    Section 96A **genetically modified embryo**: repealed, on 21 August 2005, by [section 86(1)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **genetically modified embryo**: repealed, on 21 August 2005, by [section 86(1)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
     
-    Section 96A **genetically modified gamete**: repealed, on 21 August 2005, by [section 86(1)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **genetically modified gamete**: repealed, on 21 August 2005, by [section 86(1)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
     
-    Section 96A **germ-cell genetic procedure**: repealed, on 21 August 2005, by [section 86(1)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **germ-cell genetic procedure**: repealed, on 21 August 2005, by [section 86(1)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
     
-    Section 96A **specified biotechnical procedure**: substituted, on 21 August 2005, by [section 86(2)][273] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
+    Section 96A **specified biotechnical procedure**: substituted, on 21 August 2005, by [section 86(2)][277] of the Human Assisted Reproductive Technology Act 2004 (2004 No 92).
 
 ##### 96B Restrictions on specified biotechnical procedures
     
@@ -3535,9 +3557,11 @@ Restrictions on specified biotechnical procedures
     
     (2) Subsection (1) applies to a person who continues, after the commencement of this section, to conduct a specified biotechnical procedure that was begun before that commencement.
     
-    (3) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200,000 who contravenes subsection (1).
+    (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 6 months or to a fine not exceeding $200,000 who contravenes subsection (1).
     
     Section 96B: inserted, on 28 May 2002, by section 6 of the Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14).
+    
+    Section 96B(3): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 96C Authorisation of particular procedures
     
@@ -3615,7 +3639,7 @@ Restrictions on specified biotechnical procedures
     
     *   (b) taken any such submissions into account.
     
-    (3) [Sections 74 to 86][274] of the New Zealand Public Health and Disability Act 2000 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be established or that has been established under subsection (1)(a) as if it were an inquiry board under that Act.
+    (3) [Sections 74 to 86][278] of the New Zealand Public Health and Disability Act 2000 apply, with all necessary modifications, to the establishment and procedures of a committee that is to be established or that has been established under subsection (1)(a) as if it were an inquiry board under that Act.
     
     (4) The Minister may agree with an applicant whose application relates to the work of a committee, body, or association established or requested under subsection (1)(a) or (b) that the applicant will pay, or contribute towards the payment of, any costs incurred or to be incurred by the committee or body or association in the examination of aspects of the applicant's application that, in the Minister's opinion, could have significant commercial benefits (whether or not that examination also benefits the public).
     
@@ -3655,7 +3679,7 @@ Restrictions on specified biotechnical procedures
     
     *   (e) there were inserted in [section 66(1)][107], after the words ""dealing with the importation"", the word ""use,"".
     
-    (2) To avoid any doubt, subsection (1) does not limit the application of any of [sections 75][275], [76][117], [79][121], and [84][126] to any matter concerning, or arising out of, the commission, investigation, or prosecution of an offence against [section 96B][143].
+    (2) To avoid any doubt, subsection (1) does not limit the application of any of [sections 75][279], [76][117], [79][121], and [84][126] to any matter concerning, or arising out of, the commission, investigation, or prosecution of an offence against [section 96B][143].
     
     Section 96I: inserted, on 28 May 2002, by section 6 of the Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14).
 
@@ -3665,13 +3689,15 @@ Restrictions on specified biotechnical procedures
     
     (2) The Governor-General may, by Order in Council, before the date specified in subsection (1), on the recommendation of the Minister, specify a later date in substitution for that date.
     
-    (3) An Order in Council made under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][194].
+    (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][194] and must be presented to the House of Representatives under [section 41][195] of that Act.
     
     Section 96J: inserted, on 28 May 2002, by section 6 of the Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14).
     
-    Section 96J(1): amended, on 22 September 2011, by [clause 3][276] of the Medicines (Deferral of Expiry of Part 7A) Order 2011 (SR 2011/283).
+    Section 96J(1): amended, on 22 September 2011, by [clause 3][280] of the Medicines (Deferral of Expiry of Part 7A) Order 2011 (SR 2011/283).
     
-    Section 96J(2): amended, on 24 May 2005, by [section 3(2)][277] of the Medicines (Specified Biotechnical Procedures) Amendment Act 2005 (2005 No 73).
+    Section 96J(2): amended, on 24 May 2005, by [section 3(2)][281] of the Medicines (Specified Biotechnical Procedures) Amendment Act 2005 (2005 No 73).
+    
+    Section 96J(3): replaced, on 5 August 2013, by [section 77(3)][209] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 8  
 Miscellaneous provisions
@@ -3712,7 +3738,7 @@ Miscellaneous provisions
     
     Compare: 1960 No 97 s 43; 1964 No 31 s 2; 1979 No 27 s 78
     
-    Section 100(2): amended, on 15 October 1999, by [section 13][278] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 100(2): amended, on 15 October 1999, by [section 13][282] of the Medicines Amendment Act 1999 (1999 No 117).
 
 ##### 101 Examination of Customs entries
     
@@ -3720,7 +3746,7 @@ Miscellaneous provisions
     
     Compare: 1969 No 7 s 43; 1979 No 27 s 79
     
-    Section 101: amended, on 1 October 1996, by [section 289(1)][201] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 101: amended, on 1 October 1996, by [section 289(1)][203] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 102 Protection of persons acting under authority of Act
     
@@ -3844,13 +3870,13 @@ Miscellaneous provisions
     
     Section 105(1)(aa): inserted, on 1 January 1995, by section 3 of the Medicines Amendment Act 1994 (1994 No 128).
     
-    Section 105(1)(q): substituted, on 15 October 1999, by [section 14][279] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 105(1)(q): substituted, on 15 October 1999, by [section 14][283] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 105(1)(qa): inserted, on 15 October 1999, by [section 14][279] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 105(1)(qa): inserted, on 15 October 1999, by [section 14][283] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 105(1)(qb): inserted, on 15 October 1999, by [section 14][279] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 105(1)(qb): inserted, on 15 October 1999, by [section 14][283] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 105(2)(c): amended, on 22 October 2003, by [section 5][280] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
+    Section 105(2)(c): amended, on 22 October 2003, by [section 5][284] of the Medicines Amendment Act (No 3) 2003 (2003 No 84).
 
 ##### 105A Regulations relating to practitioners, veterinarians, and registered midwives
     
@@ -3880,11 +3906,11 @@ Miscellaneous provisions
     
     *   (b) in the case of a veterinarian or any class of veterinarian, the Veterinary Council of New Zealand.
     
-    Section 105A: inserted, on 15 October 1999, by [section 15][281] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 105A: inserted, on 15 October 1999, by [section 15][285] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 105A(1)(c): amended, on 17 May 2005, by [section 3][282] of the Medicines Amendment Act 2005 (2005 No 60).
+    Section 105A(1)(c): amended, on 17 May 2005, by [section 3][286] of the Medicines Amendment Act 2005 (2005 No 60).
     
-    Section 105A(2)(a): amended, on 18 September 2004, by [section 19][283] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 105A(2)(a): amended, on 18 September 2004, by [section 19][287] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 105B Regulations relating to designated prescribers
     
@@ -3910,11 +3936,11 @@ Miscellaneous provisions
     
     (2) In this section, _relevant professional organisation_ means the authority under the [Health Practitioners Competence Assurance Act 2003][182] that has jurisdiction in respect of the class of registered health professional to which a designated prescriber, or a class of designated prescriber, belongs.
     
-    Section 105B: inserted, on 15 October 1999, by [section 15][281] of the Medicines Amendment Act 1999 (1999 No 117).
+    Section 105B: inserted, on 15 October 1999, by [section 15][285] of the Medicines Amendment Act 1999 (1999 No 117).
     
-    Section 105B(1)(c): amended, on 17 May 2005, by [section 4][284] of the Medicines Amendment Act 2005 (2005 No 60).
+    Section 105B(1)(c): amended, on 17 May 2005, by [section 4][288] of the Medicines Amendment Act 2005 (2005 No 60).
     
-    Section 105B(2): amended, on 18 September 2004, by [section 20][285] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 105B(2): amended, on 18 September 2004, by [section 20][289] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 105C Orders in Council providing for exemption from, or modifications of, restrictions on pharmacy ownership and operation
     
@@ -3932,7 +3958,7 @@ Miscellaneous provisions
     
     (3) The Minister's reasons for making the recommendation must be included in, or appended to, the Order in Council.
     
-    Section 105C: inserted, on 18 September 2004, by [section 21][286] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 105C: inserted, on 18 September 2004, by [section 21][290] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 106 Minister may classify medicines by notice in the _Gazette_
     
@@ -3950,9 +3976,11 @@ Miscellaneous provisions
     
     (3) The disclosure of any information pursuant to subsection (2) shall not prejudice any application subsequently made for a patent.
     
-    (4) Every person commits an offence against this Act and is liable to a fine not exceeding $1,000 who fails to comply with any requirement under subsection (2).
+    (4) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who fails to comply with any requirement under subsection (2).
     
     Compare: 1969 No 7 ss 39(5), 47
+    
+    Section 107(4): amended, on 1 July 2013, by [section 413][220] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 108 Specified publications
     
@@ -3978,37 +4006,37 @@ Miscellaneous provisions
 
 ##### 109 Relationship with Misuse of Drugs Act 1975
     
-*   (1) Subject to subsection (3), in the case of a medicine that is a controlled drug within the meaning of the [Misuse of Drugs Act 1975][195], the prohibitions, conditions, and requirements contained in or imposed under this Act shall be in addition to the prohibitions, conditions, and requirements contained in or imposed under that Act to the extent that they are not inconsistent therewith.
+*   (1) Subject to subsection (3), in the case of a medicine that is a controlled drug within the meaning of the [Misuse of Drugs Act 1975][197], the prohibitions, conditions, and requirements contained in or imposed under this Act shall be in addition to the prohibitions, conditions, and requirements contained in or imposed under that Act to the extent that they are not inconsistent therewith.
     
-    (2) Nothing in [section 8][287] of the Misuse of Drugs Act 1975 shall authorise any person to prescribe, manufacture, pack, label, sell by wholesale or retail, administer, procure, receive, store, use, or otherwise have in that person's possession any medicine contrary to the provisions of this Act.
+    (2) Nothing in [section 8][291] of the Misuse of Drugs Act 1975 shall authorise any person to prescribe, manufacture, pack, label, sell by wholesale or retail, administer, procure, receive, store, use, or otherwise have in that person's possession any medicine contrary to the provisions of this Act.
     
-    (3) So long as a person is authorised by a licence under the [Misuse of Drugs Act 1975][195] to manufacture, pack, or sell by wholesale or retail, any controlled drug that is a medicine, that person shall be deemed to be licensed under this Act to manufacture, pack, or sell by wholesale or retail, as the case may require, that medicine, and, if that person is so authorised to procure, receive, store, use or otherwise have in his possession any such controlled drug, that person shall, for the purposes of [section 43][71], be deemed to have a reasonable excuse for such procurement, receipt, storage, use, or other possession, as the case may require.
+    (3) So long as a person is authorised by a licence under the [Misuse of Drugs Act 1975][197] to manufacture, pack, or sell by wholesale or retail, any controlled drug that is a medicine, that person shall be deemed to be licensed under this Act to manufacture, pack, or sell by wholesale or retail, as the case may require, that medicine, and, if that person is so authorised to procure, receive, store, use or otherwise have in his possession any such controlled drug, that person shall, for the purposes of [section 43][71], be deemed to have a reasonable excuse for such procurement, receipt, storage, use, or other possession, as the case may require.
     
-    (4) Except as provided in subsections (1) and (2), this Act shall be read subject to the [Misuse of Drugs Act 1975][195] and, in the event of any inconsistency between the provisions of that Act and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, the provisions of that Act and of the regulations made under that Act shall prevail.
+    (4) Except as provided in subsections (1) and (2), this Act shall be read subject to the [Misuse of Drugs Act 1975][197] and, in the event of any inconsistency between the provisions of that Act and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, the provisions of that Act and of the regulations made under that Act shall prevail.
 
 ##### 110 Relationship with Hazardous Substances and New Organisms Act 1996
     
-*   (1) Subject to subsection (2), nothing in this Act shall affect or derogate from the [Hazardous Substances and New Organisms Act 1996][209].
+*   (1) Subject to subsection (2), nothing in this Act shall affect or derogate from the [Hazardous Substances and New Organisms Act 1996][212].
     
-    (2) In the event of any inconsistency between the provisions of the [Hazardous Substances and New Organisms Act 1996][209] and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, in the case of a medicine that is also a hazardous substance within the meaning of that Act, the provisions of this Act and of the regulations made under this Act shall prevail.
+    (2) In the event of any inconsistency between the provisions of the [Hazardous Substances and New Organisms Act 1996][212] and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, in the case of a medicine that is also a hazardous substance within the meaning of that Act, the provisions of this Act and of the regulations made under this Act shall prevail.
     
-    Section 110: substituted, on 2 July 2001, by [section 149][223] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
+    Section 110: substituted, on 2 July 2001, by [section 149][227] of the Hazardous Substances and New Organisms Act 1996 (1996 No 30).
 
 ##### 111 Amendment of and effect on Animal Remedies Act 1967
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 2 July 2001, by [section 86(1)][288] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
+    Section 111: repealed, on 2 July 2001, by [section 86(1)][292] of the Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87).
 
 ##### 112 Amendment of Consumer Information Act 1969
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 1 May 1987, by [section 49(2)][289] of the Fair Trading Act 1986 (1986 No 121).
+    Section 112: repealed, on 1 May 1987, by [section 49(2)][293] of the Fair Trading Act 1986 (1986 No 121).
 
 ##### 113 Amendment of Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][290]._
+*   _Amendment(s) incorporated in the [Act(s)][294]._
 
 ##### 114 Transitional
     
@@ -4032,13 +4060,13 @@ Miscellaneous provisions
     
 *   \[Expired\]
     
-    Section 114A: expired, on 18 September 2005, by [section 114B][291].
+    Section 114A: expired, on 18 September 2005, by [section 114B][295].
 
 ##### 114B Expiry of section 114A
     
-*   [Section 114A][292] expires 1 year after the date of its commencement.
+*   [Section 114A][296] expires 1 year after the date of its commencement.
     
-    Section 114B: inserted, on 18 September 2004, by [section 22][293] of the Medicines Amendment Act 2003 (2003 No 50).
+    Section 114B: inserted, on 18 September 2004, by [section 22][297] of the Medicines Amendment Act 2003 (2003 No 50).
 
 ##### 115 Repeals
     
@@ -4203,7 +4231,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Human Assisted Reproductive Technology Act 2004][294].
+*   This Act is the [Human Assisted Reproductive Technology Act 2004][298].
 
 ##### 2 Commencement
     
@@ -4222,134 +4250,95 @@ Enforcement and miscellaneous provisions
     
     (3) Any application made, before the commencement of this section, under section 96G of the Medicines Act 1981 for the grant of an authorisation in relation to any germ-cell genetic procedure or any cloning procedure must be treated as if this Act had not been enacted; and an authorisation under section 96C or section 96D of that Act granted in respect of such an application has effect as if this Act had not been enacted.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Medicines Act 1981\. The reprint incorporates all the amendments to the Act as at 22 September 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][295] ![](/images/external_link.gif).
+*   This is a reprint of the Medicines Act 1981 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][296] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][299] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][300] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][297] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][301] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][302] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][298] and [17E][299] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][209]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][220]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Medicines (Deferral of Expiry of Part 7A) Order 2011 (SR 2011/283): [clause 3][280]
     
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][206]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][244], [130(1)][255]
     
-*   Medicines (Deferral of Expiry of Part 7A) Order 2011 (SR 2011/283): [clause 3][276]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][266]
     
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][204]
+    Insolvency Act 2006 (2006 No 55): [section 445][261]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][240], [130(1)][251]
+    Veterinarians Act 2005 (2005 No 126): [section 105][208]
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][262]
+    [Medicines (Specified Biotechnical Procedures) Amendment Act 2005][303] (2005 No 73)
     
-    Insolvency Act 2006 (2006 No 55): [section 445][257]
+    [Medicines Amendment Act 2005][304] (2005 No 60)
     
-    Veterinarians Act 2005 (2005 No 126): [section 105][206]
+    Human Assisted Reproductive Technology Act 2004 (2004 No 92): [section 86(1), (2)][277]
     
-    [Medicines (Specified Biotechnical Procedures) Amendment Act 2005][300] (2005 No 73)
+    Corrections Act 2004 (2004 No 50): [section 206][253]
     
-    [Medicines Amendment Act 2005][301] (2005 No 60)
+    [Medicines Amendment Act (No 3) 2003][305] (2003 No 84)
     
-    [Human Assisted Reproductive Technology Act 2004][294] (2004 No 92): section 86(1), (2)
+    [Medicines Amendment Act (No 2) 2003][306] (2003 No 56)
     
-    Corrections Act 2004 (2004 No 50): [section 206][249]
-    
-    [Medicines Amendment Act (No 3) 2003][302] (2003 No 84)
-    
-    [Medicines Amendment Act (No 2) 2003][303] (2003 No 56)
-    
-    [Medicines Amendment Act 2003][304] (2003 No 50)
+    [Medicines Amendment Act 2003][307] (2003 No 50)
     
     Medicines (Restricted Biotechnical Procedures) Amendment Act 2002 (2002 No 14)
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][185]
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][248]
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][252]
     
-    [Medicines Amendment Act 1999][305] (1999 No 117)
+    [Medicines Amendment Act 1999][308] (1999 No 117)
     
-    Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20): [sections 11--13][222]
+    Copyright (Removal of Prohibition on Parallel Importing) Amendment Act 1998 (1998 No 20): [sections 11--13][226]
     
-    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [sections 85][198], [86(1)][288]
+    Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87): [sections 85][200], [86(1)][292]
     
-    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][223]
+    Hazardous Substances and New Organisms Act 1996 (1996 No 30): [section 149][227]
     
-    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][201]
+    Customs and Excise Act 1996 (1996 No 27): [section 289(1)][203]
     
     Medicines Amendment Act 1994 (1994 No 128)
     
-    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][203]
+    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][205]
     
-    [Medicines Amendment Act 1992][306] (1992 No 50)
+    [Medicines Amendment Act 1992][309] (1992 No 50)
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][272]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][276]
     
     Medicines Amendment Act (No 2) 1990 (1990 No 97)
     
     Medicines Amendment Act 1990 (1990 No 69)
     
-    Health Research Council Act 1990 (1990 No 68): [section 57][234]
+    Health Research Council Act 1990 (1990 No 68): [section 57][238]
     
-    Broadcasting Act 1989 (1989 No 25): [section 89(1)][264]
+    Broadcasting Act 1989 (1989 No 25): [section 89(1)][268]
     
-    State Sector Act 1988 (1988 No 20): [section 88(2)][215]
+    State Sector Act 1988 (1988 No 20): [section 88(2)][218]
     
     Medicines Amendment Act 1987 (1987 No 9)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][265]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][269]
     
-    Fair Trading Act 1986 (1986 No 121): [section 49(2)][289]
+    Fair Trading Act 1986 (1986 No 121): [section 49(2)][293]
     
     Medicines Amendment Act 1985 (1985 No 29)
     
@@ -4361,7 +4350,7 @@ Enforcement and miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM53792
 [2]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM53794
 [3]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM53795
@@ -4555,116 +4544,119 @@ Enforcement and miscellaneous provisions
 [191]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM382982
 [192]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM383553
 [193]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM363866
-[194]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM195534
-[195]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436100
-[196]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436508
-[197]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM266220
-[198]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM415183
-[199]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207432
-[200]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217675
-[201]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM380185
-[202]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43952
-[203]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM295182
-[204]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3366997
-[205]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215848
-[206]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM364675
-[207]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43965
-[208]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217678
-[209]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM381221
-[210]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215857
-[211]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207453
-[212]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM264952
-[213]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM129109
-[214]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM446000
-[215]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM130375
-[216]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207456
-[217]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM53353
-[218]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207457
-[219]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43968
-[220]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43969
-[221]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207458
-[222]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426056
-[223]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM385160
-[224]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426057
-[225]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215859
-[226]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM383125
-[227]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM382730
-[228]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM384003
-[229]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43972
-[230]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207459
-[231]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM204329
-[232]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207460
-[233]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43975
-[234]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM213347
-[235]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207461
-[236]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM359106
-[237]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426058
-[238]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207462
-[239]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43976
-[240]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM1102349
-[241]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43978
-[242]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207467
-[243]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43981
-[244]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM80802
-[245]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM119974
-[246]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM294848
-[247]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM380084
-[248]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM81644
-[249]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM297136
-[250]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43982
-[251]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM1102383
-[252]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207468
-[253]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207469
-[254]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207470
-[255]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207471
-[256]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207472
-[257]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM387857
-[258]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM321919
-[259]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM323543
-[260]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM327640
-[261]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM968969
-[262]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM969644
-[263]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM155364
-[264]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM158931
-[265]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM101353
-[266]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM242775
-[267]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM54689
-[268]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207485
-[269]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM311191
-[270]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM312656
-[271]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43983
-[272]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM230219
-[273]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM319827
-[274]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM81271
-[275]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM57960
-[276]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3932612
-[277]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM350817
-[278]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43984
-[279]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43985
-[280]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217683
-[281]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43986
-[282]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348443
-[283]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207487
-[284]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348444
-[285]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207488
-[286]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207489
-[287]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436242
-[288]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM415184
-[289]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM97350
-[290]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM431296
-[291]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM56598
-[292]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM56596
-[293]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207491
-[294]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM319240
-[295]: http://www.pco.parliament.govt.nz/reprints/
-[296]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM195439
-[297]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[298]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM195468
-[299]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM195470
-[300]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM350811
-[301]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348437
-[302]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217669
-[303]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215842
-[304]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207426
-[305]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43945
-[306]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM266214
+[194]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2997643
+[195]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998573
+[196]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM31458
+[197]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436100
+[198]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436508
+[199]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM266220
+[200]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM415183
+[201]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207432
+[202]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217675
+[203]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM380185
+[204]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43952
+[205]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM295182
+[206]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3366997
+[207]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215848
+[208]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM364675
+[209]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998633
+[210]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43965
+[211]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217678
+[212]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM381221
+[213]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215857
+[214]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207453
+[215]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM264952
+[216]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM129109
+[217]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM446000
+[218]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM130375
+[219]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207456
+[220]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3360714
+[221]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM53353
+[222]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207457
+[223]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43968
+[224]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43969
+[225]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207458
+[226]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426056
+[227]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM385160
+[228]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426057
+[229]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215859
+[230]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM383125
+[231]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM382730
+[232]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM384003
+[233]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43972
+[234]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207459
+[235]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM204329
+[236]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207460
+[237]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43975
+[238]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM213347
+[239]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207461
+[240]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM359106
+[241]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM426058
+[242]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207462
+[243]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43976
+[244]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM1102349
+[245]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43978
+[246]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207467
+[247]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43981
+[248]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM80802
+[249]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM119974
+[250]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM294848
+[251]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM380084
+[252]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM81644
+[253]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM297136
+[254]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43982
+[255]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM1102383
+[256]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207468
+[257]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207469
+[258]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207470
+[259]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207471
+[260]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207472
+[261]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM387857
+[262]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM321919
+[263]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM323543
+[264]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM327640
+[265]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM968969
+[266]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM969644
+[267]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM155364
+[268]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM158931
+[269]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM101353
+[270]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM242775
+[271]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM54689
+[272]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207485
+[273]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3360067
+[274]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3360366
+[275]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43983
+[276]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM230219
+[277]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM319827
+[278]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM81271
+[279]: http://www.legislation.govt.nz/act/public/1981/0118/latest/whole.html#DLM57960
+[280]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM3932612
+[281]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM350817
+[282]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43984
+[283]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43985
+[284]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217683
+[285]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43986
+[286]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348443
+[287]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207487
+[288]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348444
+[289]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207488
+[290]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207489
+[291]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM436242
+[292]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM415184
+[293]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM97350
+[294]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM431296
+[295]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM56598
+[296]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM56596
+[297]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207491
+[298]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM319240
+[299]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998516
+[300]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998515
+[301]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM2998532
+[302]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[303]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM350811
+[304]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM348437
+[305]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM217669
+[306]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM215842
+[307]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM207426
+[308]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM43945
+[309]: http://www.legislation.govt.nz/act/public/1981/0118/latest/link.aspx?id=DLM266214
