@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -19,63 +19,59 @@ Changes authorised by [section 17C][1] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[Title][2]
+[Title][2] \[Repealed\]
 
-\[Repealed\]
+[1][3][][3][Short Title and commencement][3]
 
-[1][3] [Short Title and commencement][3]
+[2][4][][4][Interpretation][4]
 
-[2][4] [Interpretation][4]
+[2A][5][][5][Act binds the Crown][5]
 
-[2A][5] [Act binds the Crown][5]
+[3][6][][6][Prohibition of imports][6]
 
-[3][6] [Prohibition of imports][6]
+[3A][7][][7][Prohibition of exports][7]
 
-[3A][7] [Prohibition of exports][7]
-
-[3B][8] [Conditional prohibition of exportation][8]
+[3B][8][][8][Conditional prohibition of exportation][8]
 
 [Application to Environmental Protection Authority for permits][9]
 
-[3BA][10] [General requirements for permits][10]
+[3BA][10][][10][General requirements for permits][10]
 
-[3BB][11] [Conditions on permits][11]
+[3BB][11][][11][Conditions on permits][11]
 
-[3BC][12] [Refusal of permits][12]
+[3BC][12][][12][Refusal of permits][12]
 
 [Imports and Exports (Restrictions) Register][13]
 
-[3BD][14] [Register][14]
+[3BD][14][][14][Register][14]
 
-[3BE][15] [Information to be included in register][15]
+[3BE][15][][15][Information to be included in register][15]
 
-[3BF][16] [Environmental Protection Authority to allow New Zealand Customs Service access to register][16]
+[3BF][16][][16][Environmental Protection Authority to allow New Zealand Customs Service access to register][16]
 
-[3C][17] [Forms][17]
+[3C][17][][17][Forms][17]
 
-[3D][18] [Order in Council not invalid][18]
+[3D][18][][18][Order in Council not invalid][18]
 
-[3E][19] [Other Acts not affected][19]
+[3E][19][][19][Other Acts not affected][19]
 
-[4][20] [Offences][20]
+[4][20][][20][Offences][20]
 
-[5][21] [Delegation of powers by Minister and Secretary][21] \[Repealed\]
+[5][21][][21][Delegation of powers by Minister and Secretary][21] \[Repealed\]
 
-[6][22] [Regulations][22]
+[6][22][][22][Regulations][22]
 
-[7][23] [Savings][23]
+[7][23][][23][Savings][23]
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 8 July 2003, by [section 4][24] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
 
@@ -439,11 +435,11 @@ Title
     
     (6) Any Order in Council made under [section 3][6] or [section 3A][7] may prescribe fines, in the case of an individual, not exceeding $5,000, and in the case of a body corporate, not exceeding $25,000, for the breach of any provision of any such Order in Council not being a breach which is an offence against any of the foregoing provisions of this section.
     
-    (7) Every offence against this section or against any Order in Council made under [section 3][6] or [section 3A][7] shall be punishable on summary conviction.
+    (7) \[Repealed\]
     
-    (8) Every information under the [Summary Proceedings Act 1957][54] for an offence against this section or against any Order in Council made under [section 3][6] or [section 3A][7] shall be laid by the chief executive.
+    (8) Proceedings for an offence against this section or against any Order in Council made under [section 3][6] or [3A][7] of this Act must be commenced by the chief executive.
     
-    (9) Notwithstanding anything in the [Summary Proceedings Act 1957][54], any information for an offence against this section or against any Order in Council made under [section 3][6] or [section 3A][7] may be laid within 3 years after the date of the offence.
+    (9) Despite anything to the contrary in [section 25][54] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this section or against any Order in Council made under [section 3][6] or [3A][7] ends on the date that is 3 years after the date on which the offence was committed.
     
     (10) When the amount of a fine under this section is to be determined by reference to the value of any goods, their value shall be estimated according to the price for which goods of the like kind and of the best quality, on which duties (if any) have been paid, are available in New Zealand at the time of the offence.
     
@@ -463,19 +459,17 @@ Title
     
     Section 4(6): amended, on 8 July 2003, by [section 10(5)][55] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
     
-    Section 4(7): amended, on 8 July 2003, by [section 10(5)][55] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
+    Section 4(7): repealed, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 4(8): amended, on 8 July 2003, by [section 10(5)][55] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
+    Section 4(8): replaced, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 4(8): amended, on 1 October 1996, by [section 289(1)][45] of the Customs and Excise Act 1996 (1996 No 27).
-    
-    Section 4(9): amended, on 8 July 2003, by [section 10(5)][55] of the Imports and Exports (Restrictions) Amendment Act 2003 (2003 No 36).
+    Section 4(9): replaced, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Delegation of powers by Minister and Secretary
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 1 July 2011, by [section 10][56] of the Imports and Exports (Restrictions) Amendment Act 2011 (2011 No 17).
+    Section 5: repealed, on 1 July 2011, by [section 10][57] of the Imports and Exports (Restrictions) Amendment Act 2011 (2011 No 17).
 
 ##### 6 Regulations
     
@@ -497,7 +491,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Imports and Exports (Restrictions) Amendment Act 2011][57].
+*   This Act is the [Imports and Exports (Restrictions) Amendment Act 2011][58].
 
 ##### 2 Commencement
     
@@ -505,7 +499,7 @@ Commencementsee section 2
     
     (2) Any provision that has not earlier been brought into force comes into force on 1 December 2012\.
     
-    Section 2(1): this Act brought into force, on 1 July 2011, by the [Imports and Exports (Restrictions) Amendment Act 2011 Commencement Order 2011][58] (SR 2011/195).
+    Section 2(1): this Act brought into force, on 1 July 2011, by the [Imports and Exports (Restrictions) Amendment Act 2011 Commencement Order 2011][59] (SR 2011/195).
 
 ##### 11 Transitional provision
     
@@ -527,23 +521,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Imports and Exports (Restrictions) Act 1988\. The reprint incorporates all the amendments to the Act as at 1 July 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Imports and Exports (Restrictions) Act 1988\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][60] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][61] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][62] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][63] and [17E][64] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -574,9 +568,11 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Imports and Exports (Restrictions) Amendment Act 2011][57] (2011 No 17)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][56]
     
-    [Imports and Exports (Restrictions) Amendment Act 2003][64] (2003 No 36)
+    [Imports and Exports (Restrictions) Amendment Act 2011][58] (2011 No 17)
+    
+    [Imports and Exports (Restrictions) Amendment Act 2003][65] (2003 No 36)
     
     Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][44]
     
@@ -638,14 +634,15 @@ Commencementsee section 2
 [51]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719082
 [52]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719093
 [53]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719094
-[54]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM310742
+[54]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3360067
 [55]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM198979
-[56]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719095
-[57]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719062
-[58]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3754800
-[59]: http://www.pco.parliament.govt.nz/reprints/
-[60]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195439
-[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[62]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195468
-[63]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195470
-[64]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM198950
+[56]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3360714
+[57]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719095
+[58]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3719062
+[59]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM3754800
+[60]: http://www.pco.parliament.govt.nz/reprints/
+[61]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195439
+[62]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[63]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195468
+[64]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM195470
+[65]: http://www.legislation.govt.nz/act/public/1988/0157/latest/link.aspx?id=DLM198950
