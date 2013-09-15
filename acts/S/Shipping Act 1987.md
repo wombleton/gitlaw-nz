@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 1995
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,44 +25,44 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Shipping policy and practices][4]
 
-[3][5] [Shipping policy objectives][5]
+[3][5][][5][Shipping policy objectives][5]
 
-[4][6] [Unfair practices justifying use of Minister's powers to initiate investigations and issue directions][6]
+[4][6][][6][Unfair practices justifying use of Minister's powers to initiate investigations and issue directions][6]
 
-[5][7] [Minister may investigate suspected unfair practices][7]
+[5][7][][7][Minister may investigate suspected unfair practices][7]
 
-[6][8] [Report on investigation][8]
+[6][8][][8][Report on investigation][8]
 
-[7][9] [Minister may issue directions to carriers engaging in unfair practices][9]
+[7][9][][9][Minister may issue directions to carriers engaging in unfair practices][9]
 
-[8][10] [Restrictions on directions][10]
+[8][10][][10][Restrictions on directions][10]
 
-[9][11] [Period for which direction in force][11]
+[9][11][][11][Period for which direction in force][11]
 
-[10][12] [Minister's powers not to be delegated][12]
+[10][12][][12][Minister's powers not to be delegated][12]
 
-[11][13] [Offences][13]
+[11][13][][13][Offences][13]
 
 [Part 2][14]  
 [Inter-Governmental shipping relations][14]
 
-[12][15] [Regulations may be made for defence of New Zealand shipping or trading interests][15]
+[12][15][][15][Regulations may be made for defence of New Zealand shipping or trading interests][15]
 
-[13][16] [Designation of national flag carriers][16]
+[13][16][][16][Designation of national flag carriers][16]
 
 [Part 3][17]  
 [Miscellaneous provisions][17]
 
-[14][18] [Application of other Acts][18]
+[14][18][][18][Application of other Acts][18]
 
-[15][19] [Repeal and consequential amendments][19]
+[15][19][][19][Repeal and consequential amendments][19]
 
 ---
 
@@ -281,7 +281,7 @@ Shipping policy and practices
 
 ##### 11 Offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 who---
         
     *   (a) refuses or fails without reasonable excuse to comply with any direction given under [section 7][9]; or
     
@@ -290,6 +290,8 @@ Shipping policy and practices
     *   (c) fails without reasonable excuse to supply information requested by a person carrying out an investigation under [section 5][7] for the purposes of that investigation.
     
     (2) For the purposes of paragraphs (a) and (c) of subsection (1), it shall constitute a reasonable excuse if the person charged can show that compliance with the direction or the supply of the information, as the case may be, would render that person liable to prosecution under the law of another country.
+    
+    Section 11(1): amended, on 1 July 2013, by [section 413][25] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Inter-Governmental shipping relations
@@ -339,7 +341,7 @@ Miscellaneous provisions
 
 ##### 14 Application of other Acts
     
-*   Nothing in [Parts 2][25] and [4][26] of the Commerce Act 1986 shall apply to outwards shipping.
+*   Nothing in [Parts 2][26] and [4][27] of the Commerce Act 1986 shall apply to outwards shipping.
 
 ##### 15 Repeal and consequential amendments
     
@@ -349,9 +351,9 @@ Miscellaneous provisions
     
     (3) \[Repealed\]
     
-    Section 15(2): repealed, on 1 February 1995, by [section 202(1)][27] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 15(2): repealed, on 1 February 1995, by [section 202(1)][28] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 15(3): repealed, on 1 September 1990, by [section 5(2)(g)][28] of the Ministry of Transport Act Repeal Act 1990 (1990 No 101).
+    Section 15(3): repealed, on 1 September 1990, by [section 5(2)(g)][29] of the Ministry of Transport Act Repeal Act 1990 (1990 No 101).
 
 ---
 
@@ -369,23 +371,23 @@ Miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Shipping Act 1987\. The reprint incorporates all the amendments to the Act as at 1 February 1995, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Shipping Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][29] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][30] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][30] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][31] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][31] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][32] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][32] and [17E][33] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][33] and [17E][34] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -416,7 +418,9 @@ Miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Maritime Transport Act 1994 (1994 No 104): section 202(1)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][25]
+    
+    Maritime Transport Act 1994 (1994 No 104): section 202(1)
     
     Ship Registration Act 1992 (1992 No 89): section 88(2)
     
@@ -449,12 +453,13 @@ Miscellaneous provisions
 [22]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM139145
 [23]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM139153
 [24]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM64784
-[25]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM88261
-[26]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM88433
-[27]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM336918
-[28]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM222605
-[29]: http://www.pco.parliament.govt.nz/reprints/
-[30]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195439
-[31]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[32]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195468
-[33]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195470
+[25]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM3360714
+[26]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM88261
+[27]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM88433
+[28]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM336918
+[29]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM222605
+[30]: http://www.pco.parliament.govt.nz/reprints/
+[31]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195439
+[32]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[33]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195468
+[34]: http://www.legislation.govt.nz/act/public/1987/0183/latest/link.aspx?id=DLM195470
