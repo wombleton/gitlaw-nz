@@ -1,5 +1,5 @@
 Reprint  
-as at 23 July 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,452 +17,452 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Weathertight homes resolution services][3]
 
-[Subpart 1][4]---[Purpose, overviews, and other preliminary provisions][4]
+[Subpart 1][4][---][4][Purpose, overviews, and other preliminary provisions][4]
 
-[3][5] [Purpose of this Act][5]
+[3][5][][5][Purpose of this Act][5]
 
-[4][6] [Overview of this Act][6]
+[4][6][][6][Overview of this Act][6]
 
-[5][7] [Overviews of types of claims][7]
+[5][7][][7][Overviews of types of claims][7]
 
-[6][8] [Owner claims: other relevant procedural provisions][8]
+[6][8][][8][Owner claims: other relevant procedural provisions][8]
 
-[7][9] [Representative claims in respect of multi-unit complexes: other relevant procedural provisions][9]
+[7][9][][9][Representative claims in respect of multi-unit complexes: other relevant procedural provisions][9]
 
-[8][10] [Interpretation][10]
+[8][10][][10][Interpretation][10]
 
-[9][11] [How claim is brought under this Act][11]
+[9][11][][11][How claim is brought under this Act][11]
 
-[10][12] [How claim becomes eligible claim][12]
+[10][12][][12][How claim becomes eligible claim][12]
 
-[11][13] [Act binds the Crown][13]
+[11][13][][13][Act binds the Crown][13]
 
-[12][14] [Assistance and guidance for claimants and respondents][14]
+[12][14][][14][Assistance and guidance for claimants and respondents][14]
 
-[Subpart 2][15]---[Eligibility criteria][15]
+[Subpart 2][15][---][15][Eligibility criteria][15]
 
-[13][16] [Criteria for eligibility of claims for mediation and adjudication services][16]
+[13][16][][16][Criteria for eligibility of claims for mediation and adjudication services][16]
 
-[14][17] [Dwellinghouse claim][17]
+[14][17][][17][Dwellinghouse claim][17]
 
-[15][18] [Claim in respect of single dwellinghouse in multi-unit complex that is not stand-alone complex][18]
+[15][18][][18][Claim in respect of single dwellinghouse in multi-unit complex that is not stand-alone complex][18]
 
-[16][19] [Multi-unit complex claim][19]
+[16][19][][19][Multi-unit complex claim][19]
 
-[17][20] [Common areas only claim][20]
+[17][20][][20][Common areas only claim][20]
 
-[18][21] [Claim in respect of 1 or more dwellinghouses in stand-alone complex][21]
+[18][21][][21][Claim in respect of 1 or more dwellinghouses in stand-alone complex][21]
 
-[Subpart 3][22]---[Procedure for representative claims in respect of multi-unit complexes][22]
+[Subpart 3][22][---][22][Procedure for representative claims in respect of multi-unit complexes][22]
 
 [Types of claims in respect of multi-unit complexes][23]
 
-[19][24] [Representative claims in respect of dwellinghouses in multi-unit complexes][24]
+[19][24][][24][Representative claims in respect of dwellinghouses in multi-unit complexes][24]
 
-[20][25] [Representative claims in respect of common areas only in multi-unit complexes][25]
+[20][25][][25][Representative claims in respect of common areas only in multi-unit complexes][25]
 
-[21][26] [Representative claims in respect of dwellinghouses in stand-alone complexes][26]
+[21][26][][26][Representative claims in respect of dwellinghouses in stand-alone complexes][26]
 
 [Authorising and making decisions on claim under section 19 or 20][27]
 
-[22][28] [How authority to bring representative claims in respect of dwellinghouses in multi-unit complexes to be obtained][28]
+[22][28][][28][How authority to bring representative claims in respect of dwellinghouses in multi-unit complexes to be obtained][28]
 
-[23][29] [How administrative decisions relating to representative claims in respect of multi-unit complexes to be made][29]
+[23][29][][29][How administrative decisions relating to representative claims in respect of multi-unit complexes to be made][29]
 
-[24][30] [Act does not generally limit or affect certain matters][30]
+[24][30][][30][Act does not generally limit or affect certain matters][30]
 
-[25][31] [Voting provisions not to affect validity of unit title rules][31] \[Repealed\]
+[25][31][][31][Voting provisions not to affect validity of unit title rules][31] \[Repealed\]
 
 [Changes in owners involved in claim under section 19 or 21][32]
 
-[26][33] [Adding further owners to representative claims in respect of multi-unit complexes or stand-alone complexes][33]
+[26][33][][33][Adding further owners to representative claims in respect of multi-unit complexes or stand-alone complexes][33]
 
-[27][34] [How addition under section 26(1) or (2) effected][34]
+[27][34][][34][How addition under section 26(1) or (2) effected][34]
 
-[28][35] [Withdrawal of authority][35]
+[28][35][][35][Withdrawal of authority][35]
 
-[29][36] [Notifying changes of ownership after claim brought in respect of dwellinghouses in multi-unit complex or stand-alone complex][36]
+[29][36][][36][Notifying changes of ownership after claim brought in respect of dwellinghouses in multi-unit complex or stand-alone complex][36]
 
 [How Act applies to claims under section 19, 20, or 21][37]
 
-[30][38] [Application of Act to representative claims in respect of multi-unit complexes or stand-alone complexes][38]
+[30][38][][38][Application of Act to representative claims in respect of multi-unit complexes or stand-alone complexes][38]
 
-[Subpart 4][39]---[Assessment and evaluation of claims, remedies, lower-value claims, and termination of claims][39]
+[Subpart 4][39][---][39][Assessment and evaluation of claims, remedies, lower-value claims, and termination of claims][39]
 
 [Assessment and evaluation of claims][40]
 
-[31][41] [Assessors][41]
+[31][41][][41][Assessors][41]
 
-[32][42] [Application for assessor's report][42]
+[32][42][][42][Application for assessor's report][42]
 
-[33][43] [Restriction if assessor's report prepared for claim brought in respect of dwellinghouse by former owner][43]
+[33][43][][43][Restriction if assessor's report prepared for claim brought in respect of dwellinghouse by former owner][43]
 
-[34][44] [Requirements for application under section 32(1)(a)][44]
+[34][44][][44][Requirements for application under section 32(1)(a)][44]
 
-[35][45] [Requirements for application under section 32(1)(b)][45]
+[35][45][][45][Requirements for application under section 32(1)(b)][45]
 
-[36][46] [Statutory declarations required][46]
+[36][46][][46][Statutory declarations required][46]
 
-[37][47] [Application of Limitation Act 2010 to applications for assessor's report, etc][47]
+[37][47][][47][Application of Limitation Act 2010 to applications for assessor's report, etc][47]
 
-[38][48] [Assessor's reports are eligibility reports or full reports][48]
+[38][48][][48][Assessor's reports are eligibility reports or full reports][48]
 
-[39][49] [Assessor's reports not to be done in certain cases][49]
+[39][49][][49][Assessor's reports not to be done in certain cases][49]
 
-[40][50] [Eligibility report does not generally prevent claimant applying for and obtaining full report on same claim][50]
+[40][50][][50][Eligibility report does not generally prevent claimant applying for and obtaining full report on same claim][50]
 
-[41][51] [Eligibility assessor's report][51]
+[41][51][][51][Eligibility assessor's report][51]
 
-[42][52] [Full assessor's report][52]
+[42][52][][52][Full assessor's report][52]
 
-[43][53] [Full report does not cover eligibility of claim if eligibility report obtained states that claim is eligible][53]
+[43][53][][53][Full report does not cover eligibility of claim if eligibility report obtained states that claim is eligible][53]
 
-[44][54] [Copy of assessor's report must be given to claimant][54]
+[44][54][][54][Copy of assessor's report must be given to claimant][54]
 
-[45][55] [Claimant may make submission on assessor's report stating that claim does not meet eligibility criteria][55]
+[45][55][][55][Claimant may make submission on assessor's report stating that claim does not meet eligibility criteria][55]
 
-[46][56] [Assessor who suspects claim must be terminated must advise chief executive and cease preparing report][56]
+[46][56][][56][Assessor who suspects claim must be terminated must advise chief executive and cease preparing report][56]
 
-[47][57] [Assessment may be abandoned if inspection and testing not possible][57]
+[47][57][][57][Assessment may be abandoned if inspection and testing not possible][57]
 
-[48][58] [Chief executive to evaluate assessor's reports][58]
+[48][58][][58][Chief executive to evaluate assessor's reports][58]
 
-[49][59] [Reconsideration of chief executive's decision][59]
+[49][59][][59][Reconsideration of chief executive's decision][59]
 
 [Remedies that may be sought by claimants][60]
 
-[50][61] [What remedies may be claimed][61]
+[50][61][][61][What remedies may be claimed][61]
 
 [Lower-value claims][62]
 
-[51][63] [Overview of procedures for lower-value claims][63]
+[51][63][][63][Overview of procedures for lower-value claims][63]
 
 [Termination of claims][64]
 
-[52][65] [Chief executive must terminate certain claims if situation alters][65]
+[52][65][][65][Chief executive must terminate certain claims if situation alters][65]
 
-[53][66] [Tribunal must terminate claims in certain circumstances][66]
+[53][66][][66][Tribunal must terminate claims in certain circumstances][66]
 
-[54][67] [Application of section 37 if claim terminated under section 52(4) or 53(4)][67]
+[54][67][][67][Application of section 37 if claim terminated under section 52(4) or 53(4)][67]
 
-[55][68] [Termination of claim where ownership changes][68]
+[55][68][][68][Termination of claim where ownership changes][68]
 
-[56][69] [Termination of claims not pursued][69]
+[56][69][][69][Termination of claims not pursued][69]
 
-[Subpart 5][70]---[Adjudication of claims][70]
+[Subpart 5][70][---][70][Adjudication of claims][70]
 
 [Nature of adjudication proceedings, and aims and procedure for lower-value claims][71]
 
-[57][72] [Adjudications to be managed to achieve purpose of Act][72]
+[57][72][][72][Adjudications to be managed to achieve purpose of Act][72]
 
-[58][73] [Aims in relation to adjudication of lower-value claims][73]
+[58][73][][73][Aims in relation to adjudication of lower-value claims][73]
 
-[59][74] [Procedure for adjudication of lower-value claims][74]
+[59][74][][74][Procedure for adjudication of lower-value claims][74]
 
 [Adjudication and other dispute resolution procedures][75]
 
-[60][76] [Right to apply for adjudication of claims][76]
+[60][76][][76][Right to apply for adjudication of claims][76]
 
-[61][77] [Effect on other dispute resolution procedures][77]
+[61][77][][77][Effect on other dispute resolution procedures][77]
 
 [Procedure for, and effect of, initiating adjudication][78]
 
-[62][79] [How to initiate adjudication][79]
+[62][79][][79][How to initiate adjudication][79]
 
-[63][80] [Status and effect of adjudication proceedings under other enactments][80]
+[63][80][][80][Status and effect of adjudication proceedings under other enactments][80]
 
 [Other provisions relating to adjudication][81]
 
-[64][82] [Assignment of member to act as tribunal][82]
+[64][82][][82][Assignment of member to act as tribunal][82]
 
-[65][83] [Preliminary conferences][83]
+[65][83][][83][Preliminary conferences][83]
 
-[66][84] [Response to adjudication claim][84]
+[66][84][][84][Response to adjudication claim][84]
 
-[67][85] [Withdrawal of claim from adjudication][85]
+[67][85][][85][Withdrawal of claim from adjudication][85]
 
-[68][86] [Parties may be represented at adjudication proceedings][86]
+[68][86][][86][Parties may be represented at adjudication proceedings][86]
 
-[69][87] [Adjudication proceedings usually to be in public][87]
+[69][87][][87][Adjudication proceedings usually to be in public][87]
 
-[70][88] [Protection and privileges of witnesses][88]
+[70][88][][88][Protection and privileges of witnesses][88]
 
-[71][89] [Privileges and immunities of counsel][89]
+[71][89][][89][Privileges and immunities of counsel][89]
 
-[72][90] [Matters tribunal may determine in adjudicating claim][90]
+[72][90][][90][Matters tribunal may determine in adjudicating claim][90]
 
-[73][91] [Powers of tribunal in adjudication proceedings][91]
+[73][91][][91][Powers of tribunal in adjudication proceedings][91]
 
-[74][92] [Parties' failures to act do not affect tribunal's powers to determine claim][92]
+[74][92][][92][Parties' failures to act do not affect tribunal's powers to determine claim][92]
 
-[75][93] [Tribunal may draw inferences from parties' failures to act and determine claim based on available information][93]
+[75][93][][93][Tribunal may draw inferences from parties' failures to act and determine claim based on available information][93]
 
-[76][94] [Further provisions in Part 2 of Schedule 3][94]
+[76][94][][94][Further provisions in Part 2 of Schedule 3][94]
 
-[Subpart 6][95]---[Mediation of claims][95]
+[Subpart 6][95][---][95][Mediation of claims][95]
 
-[77][96] [Mediation services][96]
+[77][96][][96][Mediation services][96]
 
-[78][97] [Independence of mediation personnel][97]
+[78][97][][97][Independence of mediation personnel][97]
 
-[79][98] [Other mediation services][98]
+[79][98][][98][Other mediation services][98]
 
-[80][99] [Access to mediation services][99]
+[80][99][][99][Access to mediation services][99]
 
-[81][100] [Procedure in relation to mediation services][100]
+[81][100][][100][Procedure in relation to mediation services][100]
 
-[82][101] [Time-frames for mediation][101]
+[82][101][][101][Time-frames for mediation][101]
 
-[83][102] [Chief executive may for certain lower-value claims allow longer maximum period of mediation][102]
+[83][102][][102][Chief executive may for certain lower-value claims allow longer maximum period of mediation][102]
 
-[84][103] [Confidentiality][103]
+[84][103][][103][Confidentiality][103]
 
-[85][104] [Settlements][104]
+[85][104][][104][Settlements][104]
 
-[86][105] [Use of settlements for research, education, etc][105]
+[86][105][][105][Use of settlements for research, education, etc][105]
 
-[87][106] [Enforcement of terms of settlement agreed or authorised][106]
+[87][106][][106][Enforcement of terms of settlement agreed or authorised][106]
 
-[88][107] [Mediation services not to be questioned as being inappropriate][107]
+[88][107][][107][Mediation services not to be questioned as being inappropriate][107]
 
-[Subpart 7][108]---[Determination of claims in adjudication proceedings][108]
+[Subpart 7][108][---][108][Determination of claims in adjudication proceedings][108]
 
 [Tribunal's determination][109]
 
-[89][110] [Tribunal's determination: timing][110]
+[89][110][][110][Tribunal's determination: timing][110]
 
-[90][111] [Tribunal's determination: substance][111]
+[90][111][][111][Tribunal's determination: substance][111]
 
-[91][112] [Costs of adjudication proceedings][112]
+[91][112][][112][Costs of adjudication proceedings][112]
 
-[92][113] [Tribunal's determination: form][113]
+[92][113][][113][Tribunal's determination: form][113]
 
 [Appeal from tribunal's determination][114]
 
-[93][115] [Right of appeal][115]
+[93][115][][115][Right of appeal][115]
 
-[94][116] [Procedure for commencing appeal][116]
+[94][116][][116][Procedure for commencing appeal][116]
 
-[95][117] [Determination of appeal][117]
+[95][117][][117][Determination of appeal][117]
 
-[96][118] [Effect of appeal on tribunal's determination][118]
+[96][118][][118][Effect of appeal on tribunal's determination][118]
 
 [Enforcement of tribunal's determination][119]
 
-[97][120] [Duty to comply with tribunal's determination][120]
+[97][120][][120][Duty to comply with tribunal's determination][120]
 
-[98][121] [Enforcement of tribunal's determination][121]
+[98][121][][121][Enforcement of tribunal's determination][121]
 
-[99][122] [Records of adjudication][122]
+[99][122][][122][Records of adjudication][122]
 
-[100][123] [Adjudication determinations to be made available][123]
+[100][123][][123][Adjudication determinations to be made available][123]
 
-[Subpart 8][124]---[Weathertight Homes Tribunal][124]
+[Subpart 8][124][---][124][Weathertight Homes Tribunal][124]
 
 [Establishment, exercise of powers, and members and officers][125]
 
-[101][126] [Weathertight Homes Tribunal established][126]
+[101][126][][126][Weathertight Homes Tribunal established][126]
 
-[102][127] [Exercise of powers of tribunal][127]
+[102][127][][127][Exercise of powers of tribunal][127]
 
-[103][128] [Appointment of members of tribunal][128]
+[103][128][][128][Appointment of members of tribunal][128]
 
-[104][129] [Conflicts of interest][129]
+[104][129][][129][Conflicts of interest][129]
 
-[105][130] [Members not compellable witnesses][130]
+[105][130][][130][Members not compellable witnesses][130]
 
-[106][131] [Manner of provision of adjudication services][131]
+[106][131][][131][Manner of provision of adjudication services][131]
 
-[107][132] [Chair may delegate duties][132]
+[107][132][][132][Chair may delegate duties][132]
 
-[108][133] [Registrar and other staff of tribunal][133]
+[108][133][][133][Registrar and other staff of tribunal][133]
 
 [Tribunal's powers, etc, relating to adjudication proceedings][134]
 
-[109][135] [Termination of proceedings by tribunal][135]
+[109][135][][135][Termination of proceedings by tribunal][135]
 
-[110][136] [Consolidation of adjudication proceedings][136]
+[110][136][][136][Consolidation of adjudication proceedings][136]
 
-[111][137] [Joinder of parties][137]
+[111][137][][137][Joinder of parties][137]
 
-[112][138] [Removal of party from proceedings][138]
+[112][138][][138][Removal of party from proceedings][138]
 
-[113][139] [Questions of law may be referred to High Court][139]
+[113][139][][139][Questions of law may be referred to High Court][139]
 
-[114][140] [Practice directions][140]
+[114][140][][140][Practice directions][140]
 
 [Offences, and contempt of tribunal][141]
 
-[115][142] [Offences][142]
+[115][142][][142][Offences][142]
 
-[116][143] [Person in contempt of tribunal may be excluded from proceedings][143]
+[116][143][][143][Person in contempt of tribunal may be excluded from proceedings][143]
 
-[Subpart 9][144]---[Miscellaneous provisions][144]
+[Subpart 9][144][---][144][Miscellaneous provisions][144]
 
-[117][145] [Service of notices][145]
+[117][145][][145][Service of notices][145]
 
-[118][146] [Mediator or tribunal may decline to deal with claim][146]
+[118][146][][146][Mediator or tribunal may decline to deal with claim][146]
 
-[119][147] [Transfer of claim to court][147]
+[119][147][][147][Transfer of claim to court][147]
 
-[120][148] [Transfer of proceedings from court][148]
+[120][148][][148][Transfer of proceedings from court][148]
 
-[121][149] [Transfer of proceedings from arbitration][149]
+[121][149][][149][Transfer of proceedings from arbitration][149]
 
-[122][150] [Exclusion of liability][150]
+[122][150][][150][Exclusion of liability][150]
 
-[123][151] [Regulations][151]
+[123][151][][151][Regulations][151]
 
-[124][152] [Notifications to territorial authorities for land information memorandum purposes][152]
+[124][152][][152][Notifications to territorial authorities for land information memorandum purposes][152]
 
-[125][153] [Rules of Court: District Courts][153]
+[125][153][][153][Rules of Court: District Courts][153]
 
 [Part 1A][154]  
 [Financial assistance package][154]
 
 [Preliminary][155]
 
-[125A][156] [Purpose of this Part][156]
+[125A][156][][156][Purpose of this Part][156]
 
-[125B][157] [Interpretation][157]
+[125B][157][][157][Interpretation][157]
 
 [Applications for financial assistance measures][158]
 
-[125C][159] [Application for financial assistance measures][159]
+[125C][159][][159][Application for financial assistance measures][159]
 
-[125D][160] [Deadline for application for financial assistance measures][160]
+[125D][160][][160][Deadline for application for financial assistance measures][160]
 
 [Assessments relating to applications for financial assistance measures][161]
 
-[125E][162] [Assessors may prepare concise assessor's report relating to application for financial assistance measures and provide other advice or recommendation][162]
+[125E][162][][162][Assessors may prepare concise assessor's report relating to application for financial assistance measures and provide other advice or recommendation][162]
 
 [Restrictions on civil proceedings relating to financial assistance measures][163]
 
-[125F][164] [Protection from liability][164]
+[125F][164][][164][Protection from liability][164]
 
-[125G][165] [Restriction on naming or joining contributing party or additional contributing party as defendant or third or subsequent party in certain civil proceedings, or otherwise seeking remedy or relief from them][165]
+[125G][165][][165][Restriction on naming or joining contributing party or additional contributing party as defendant or third or subsequent party in certain civil proceedings, or otherwise seeking remedy or relief from them][165]
 
 [Effect of contribution agreement on civil proceedings relating to dwellinghouse][166]
 
-[125H][167] [Effect of contribution agreement on civil proceedings relating to dwellinghouse][167]
+[125H][167][][167][Effect of contribution agreement on civil proceedings relating to dwellinghouse][167]
 
 [Guarantees or indemnities may be given by Minister][168]
 
-[125I][169] [Minister may give guarantee or indemnity][169]
+[125I][169][][169][Minister may give guarantee or indemnity][169]
 
-[125J][170] [Minister of Finance may specify types of financial institutions and criteria][170]
+[125J][170][][170][Minister of Finance may specify types of financial institutions and criteria][170]
 
-[125K][171] [Minister of Finance may specify terms and conditions of guarantees or indemnities][171]
+[125K][171][][171][Minister of Finance may specify terms and conditions of guarantees or indemnities][171]
 
-[125L][172] [Recovery of money paid under guarantee or indemnity][172]
+[125L][172][][172][Recovery of money paid under guarantee or indemnity][172]
 
-[125M][173] [Payments in respect of guarantee or indemnity][173]
+[125M][173][][173][Payments in respect of guarantee or indemnity][173]
 
 [Part 2][174]  
 [Repeal, consequential amendments, and transitional provisions][174]
 
-[Subpart 1][175]---[Repeal and consequential amendments][175]
+[Subpart 1][175][---][175][Repeal and consequential amendments][175]
 
-[126][176] [Repeal of former Act][176]
+[126][176][][176][Repeal of former Act][176]
 
-[127][177] [Consequential amendments][177]
+[127][177][][177][Consequential amendments][177]
 
-[Subpart 2][178]---[Overview of transitional provisions for claims under former Act that are not disposed of before transition date][178]
+[Subpart 2][178][---][178][Overview of transitional provisions for claims under former Act that are not disposed of before transition date][178]
 
-[128][179] [Categories of claims under former Act][179]
+[128][179][][179][Categories of claims under former Act][179]
 
-[Subpart 3][180]---[Claims whose eligibility undecided before transition date][180]
+[Subpart 3][180][---][180][Claims whose eligibility undecided before transition date][180]
 
-[129][181] [Claims to which this subpart applies][181]
+[129][181][][181][Claims to which this subpart applies][181]
 
-[130][182] [How Part 1 applies to claim][182]
+[130][182][][182][How Part 1 applies to claim][182]
 
-[131][183] [Making submission to chief executive if assessor thinks claim does not meet eligibility criteria][183]
+[131][183][][183][Making submission to chief executive if assessor thinks claim does not meet eligibility criteria][183]
 
-[132][184] [Lower-value claims provisions apply to claim][184]
+[132][184][][184][Lower-value claims provisions apply to claim][184]
 
-[133][185] [Provisions that apply instead or as well if claim relates to dwellinghouse, etc, in multi-unit complex][185]
+[133][185][][185][Provisions that apply instead or as well if claim relates to dwellinghouse, etc, in multi-unit complex][185]
 
-[Subpart 4][186]---[Claims that it has been decided are eligible, but that are not in mediation or adjudication, before transition date][186]
+[Subpart 4][186][---][186][Claims that it has been decided are eligible, but that are not in mediation or adjudication, before transition date][186]
 
-[134][187] [Claims to which this subpart applies][187]
+[134][187][][187][Claims to which this subpart applies][187]
 
-[135][188] [How Part 1 applies to claim][188]
+[135][188][][188][How Part 1 applies to claim][188]
 
-[136][189] [Mediation fee paid may be applied to adjudication fee][189]
+[136][189][][189][Mediation fee paid may be applied to adjudication fee][189]
 
-[137][190] [Lower-value claims provisions do not apply to claim][190]
+[137][190][][190][Lower-value claims provisions do not apply to claim][190]
 
-[138][191] [Consolidation of adjudication of claims relating to multi-unit complexes][191]
+[138][191][][191][Consolidation of adjudication of claims relating to multi-unit complexes][191]
 
-[139][192] [Availability of wider remedies in adjudication][192]
+[139][192][][192][Availability of wider remedies in adjudication][192]
 
-[140][193] [Claim history must be notified to territorial authorities for land information memorandum purposes][193]
+[140][193][][193][Claim history must be notified to territorial authorities for land information memorandum purposes][193]
 
-[141][194] [New claim in respect of same dwellinghouse, etc, in multi-unit complex][194]
+[141][194][][194][New claim in respect of same dwellinghouse, etc, in multi-unit complex][194]
 
-[Subpart 5][195]---[Claims that it has been decided are eligible, and that are in mediation, before transition date][195]
+[Subpart 5][195][---][195][Claims that it has been decided are eligible, and that are in mediation, before transition date][195]
 
-[142][196] [Claims to which this subpart applies][196]
+[142][196][][196][Claims to which this subpart applies][196]
 
-[143][197] [How Part 1 applies to claim][197]
+[143][197][][197][How Part 1 applies to claim][197]
 
-[144][198] [Consolidation of mediation of claims relating to multi-unit complexes][198]
+[144][198][][198][Consolidation of mediation of claims relating to multi-unit complexes][198]
 
-[145][199] [Availability of wider remedies in mediation][199]
+[145][199][][199][Availability of wider remedies in mediation][199]
 
-[146][200] [Sections 136 to 141 apply to claim][200]
+[146][200][][200][Sections 136 to 141 apply to claim][200]
 
-[Subpart 6][201]---[Claims that it has been decided are eligible, and that are in adjudication, before transition date][201]
+[Subpart 6][201][---][201][Claims that it has been decided are eligible, and that are in adjudication, before transition date][201]
 
 [Application of subpart and whether claim under former Act][202]
 
-[147][203] [Claims to which this subpart applies][203]
+[147][203][][203][Claims to which this subpart applies][203]
 
-[148][204] [Claim may continue under former Act or be withdrawn][204]
+[148][204][][204][Claim may continue under former Act or be withdrawn][204]
 
-[148A][205] [How former Act modified for section 148(1)][205]
+[148A][205][][205][How former Act modified for section 148(1)][205]
 
-[149][206] [Who deals with claims to which section 148 applies][206]
+[149][206][][206][Who deals with claims to which section 148 applies][206]
 
 [How matters may proceed if claim under former Act withdrawn][207]
 
-[150][208] [Owner of dwellinghouse not in multi-unit complex may apply to have withdrawn claim adjudicated by tribunal][208]
+[150][208][][208][Owner of dwellinghouse not in multi-unit complex may apply to have withdrawn claim adjudicated by tribunal][208]
 
-[151][209] [How Part 1 applies to adjudication of withdrawn claim in respect of dwellinghouse not in multi-unit complex][209]
+[151][209][][209][How Part 1 applies to adjudication of withdrawn claim in respect of dwellinghouse not in multi-unit complex][209]
 
-[152][210] [Exceptions to sections 151 and 154][210]
+[152][210][][210][Exceptions to sections 151 and 154][210]
 
-[153][211] [Dwellinghouse or common areas in multi-unit complex][211]
+[153][211][][211][Dwellinghouse or common areas in multi-unit complex][211]
 
-[154][212] [How Part 1 applies to adjudication of withdrawn claim under former Act in respect of multi-unit complex][212]
+[154][212][][212][How Part 1 applies to adjudication of withdrawn claim under former Act in respect of multi-unit complex][212]
 
-[155][213] [How Part 1 applies to new claim in respect of same dwellinghouse, etc, in multi-unit complex][213]
+[155][213][][213][How Part 1 applies to new claim in respect of same dwellinghouse, etc, in multi-unit complex][213]
 
-[Subpart 7][214]---[Transitional provisions relating to appointments, etc][214]
+[Subpart 7][214][---][214][Transitional provisions relating to appointments, etc][214]
 
-[156][215] [Chief adjudicator to be taken to have been appointed as chair on day after assent][215]
+[156][215][][215][Chief adjudicator to be taken to have been appointed as chair on day after assent][215]
 
-[157][216] [Chair's role before transition date][216]
+[157][216][][216][Chair's role before transition date][216]
 
-[158][217] [Chief adjudicator before and after transition][217]
+[158][217][][217][Chief adjudicator before and after transition][217]
 
-[159][218] [Powers of appointment not limited or affected][218]
+[159][218][][218][Powers of appointment not limited or affected][218]
 
-[160][219] [Appointment of tribunal members and officers, etc, after enactment but before transition date][219]
+[160][219][][219][Appointment of tribunal members and officers, etc, after enactment but before transition date][219]
 
 [Schedule 1][220]  
 [Overview of types of claims by owners of dwellinghouses][220]
@@ -2805,7 +2805,7 @@ Weathertight homes resolution services
 
 ##### 115 Offences
     
-*   Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who---
+*   Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who---
         
     *   (a) assaults, threatens, or intimidates, or intentionally insults, the tribunal or any member, or any officer of the tribunal, during a sitting of the tribunal, or in going to, or returning from, any sitting; or
     
@@ -2815,7 +2815,7 @@ Weathertight homes resolution services
     
     *   (d) fails or refuses to comply with a witness summons issued by the tribunal.
     
-    
+    Section 115: amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 116 Person in contempt of tribunal may be excluded from proceedings
     
@@ -2837,7 +2837,7 @@ Weathertight homes resolution services
     
     *   (d) the notice or document is sent in any manner approved for the purpose by the chair.
     
-    Compare: 2002 No 47 [s 56][307]
+    Compare: 2002 No 47 [s 56][308]
 
 ##### 118 Mediator or tribunal may decline to deal with claim
     
@@ -2857,7 +2857,7 @@ Weathertight homes resolution services
     
     (3) If in any case a mediator or the tribunal decides to decline to deal with a claim, the mediator or the tribunal must inform the parties of that decision and state the reasons for that decision.
     
-    Compare: 2002 No 47 [s 57][308]
+    Compare: 2002 No 47 [s 57][309]
 
 ##### 119 Transfer of claim to court
     
@@ -2869,7 +2869,7 @@ Weathertight homes resolution services
     
     *   (c) the subject matter of the claim is related to the subject matter of proceedings that are already before the court.
     
-    Compare: 2002 No 47 [s 58][309]
+    Compare: 2002 No 47 [s 58][310]
 
 ##### 120 Transfer of proceedings from court
     
@@ -2885,7 +2885,7 @@ Weathertight homes resolution services
     
     *   (b) the Judge making the order believes that the transfer is in the best interests of justice.
     
-    Compare: 2002 No 47 [s 59][310]
+    Compare: 2002 No 47 [s 59][311]
 
 ##### 121 Transfer of proceedings from arbitration
     
@@ -2893,7 +2893,7 @@ Weathertight homes resolution services
     
     (2) If proceedings are transferred under subsection (1), the tribunal may have regard to any notes of evidence transmitted to the tribunal by the arbitral tribunal, and it is not necessary for that evidence to be given again in the adjudication unless the tribunal requires it.
     
-    Compare: 2002 No 47 [s 60][311]
+    Compare: 2002 No 47 [s 60][312]
 
 ##### 122 Exclusion of liability
     
@@ -2913,7 +2913,7 @@ Weathertight homes resolution services
     
     *   (c) anything in any notice given under this Act.
     
-    Compare: 2002 No 47 [s 61][312]
+    Compare: 2002 No 47 [s 61][313]
 
 ##### 123 Regulations
     
@@ -2925,11 +2925,11 @@ Weathertight homes resolution services
     
     *   (c) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 2002 No 47 [s 62][313]
+    Compare: 2002 No 47 [s 62][314]
 
 ##### 124 Notifications to territorial authorities for land information memorandum purposes
     
-*   (1) The chief executive must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under [section 44A][314] of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
+*   (1) The chief executive must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under [section 44A][315] of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
         
     *   (a) an application under [section 32(1)][42] by an owner of the dwellinghouse who wishes to bring a claim in respect of it---
             
@@ -2951,7 +2951,7 @@ Weathertight homes resolution services
     
     *   (g) the discontinuance or termination, for any other reason (for example, under [section 55][68] and because of a change of ownership), and if known to the department, of a claim.
     
-    (2) The chair must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under [section 44A][314] of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
+    (2) The chair must notify a territorial authority (as soon as is reasonably practicable after the event, and in enough detail to enable particulars to be included in a land information memorandum issued by a territorial authority under [section 44A][315] of the Local Government Official Information and Meetings Act 1987) of any of the following events occurring in relation to a dwellinghouse in its district:
         
     *   (a) the termination of a claim under [section 53][66]:
     
@@ -2977,26 +2977,26 @@ Weathertight homes resolution services
         
     *   (a) the Chief District Court Judge; and
     
-    *   (b) 2 or more members of the Rules Committee established under [section 51B][315] of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
+    *   (b) 2 or more members of the Rules Committee established under [section 51B][316] of the Judicature Act 1908 of whom at least 1 is a District Court Judge.
     
     (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the [District Courts Act 1947][292] apply, with all necessary modifications, to proceedings under this Act.
     
-    Compare: 2002 No 47 [s 63][316]
+    Compare: 2002 No 47 [s 63][317]
 
 ## Part 1A  
 Financial assistance package
     
-*   Part 1A: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Part 1A: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Preliminary
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125A Purpose of this Part
     
 *   The purpose of this Part is to facilitate the repair of leaky buildings by providing for certain matters relating to the provision of a package of financial assistance measures to qualifying claimants.
     
-    Section 125A: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125A: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125B Interpretation
     
@@ -3050,7 +3050,7 @@ Financial assistance package
     
     *   (d) building consent in relation to or in connection with any repair:
     
-    *   (e) resource consent under the [Resource Management Act 1991][318] in relation to or in connection with any repair:
+    *   (e) resource consent under the [Resource Management Act 1991][319] in relation to or in connection with any repair:
     
     *   (f) alternative accommodation for the claimant in connection with or as a result of any repair:
     
@@ -3118,31 +3118,31 @@ Financial assistance package
     
     *   (b) includes demolishing the dwellinghouse and rebuilding or re-erecting it, if provided for under the contribution agreement
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][319].
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][320].
     
     (2) In this Part, unless the context otherwise requires, _approved_, _chief executive_, _civil proceedings_, _claim_, _claimant_, _court of competent jurisdiction_, _damages_, _department_, _dwellinghouse_, _eligible claim_, _leaky building_, and _Minister_ have the meanings given to them by [section 8][10].
     
-    Section 125B: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125B: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Applications for financial assistance measures
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125C Application for financial assistance measures
     
 *   A qualifying claimant who wishes to obtain any financial assistance measures in relation to a dwellinghouse may apply to the chief executive in the approved manner.
     
-    Section 125C: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125C: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125D Deadline for application for financial assistance measures
     
 *   An application under [section 125C][159] must be made no later than the expiry of the period of 5 years after the date of commencement of this section.
     
-    Section 125D: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125D: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Assessments relating to applications for financial assistance measures
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125E Assessors may prepare concise assessor's report relating to application for financial assistance measures and provide other advice or recommendation
     
@@ -3166,11 +3166,11 @@ Financial assistance package
     
     *   (b) what caused that damage.
     
-    Section 125E: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125E: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Restrictions on civil proceedings relating to financial assistance measures
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125F Protection from liability
     
@@ -3190,7 +3190,7 @@ Financial assistance package
     
     (4) A person is not exempted from liability under subsection (1) for any act or omission to act that constitutes bad faith or gross negligence on the part of the person.
     
-    Section 125F: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125F: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125G Restriction on naming or joining contributing party or additional contributing party as defendant or third or subsequent party in certain civil proceedings, or otherwise seeking remedy or relief from them
     
@@ -3218,11 +3218,11 @@ Financial assistance package
     
     (5) If the contribution from an additional contributing party under a contribution agreement is a combination of the forms described in subsection (4), a restriction under subsection (1) or (2) takes effect in respect of the additional contributing party at the earliest time that any of subsection (4)(a) to (c) applies.
     
-    Section 125G: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125G: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Effect of contribution agreement on civil proceedings relating to dwellinghouse
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125H Effect of contribution agreement on civil proceedings relating to dwellinghouse
     
@@ -3234,11 +3234,11 @@ Financial assistance package
     
     (2) In assessing damages in any civil proceedings to which this section applies, the court or tribunal must, to the extent that it is relevant, take into account any contributions made under the contribution agreement.
     
-    Section 125H: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125H: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 #### Guarantees or indemnities may be given by Minister
     
-*   Heading: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+*   Heading: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125I Minister may give guarantee or indemnity
     
@@ -3260,7 +3260,7 @@ Financial assistance package
     
     (5) The statement may contain any details about the guarantees or indemnities that the Minister considers appropriate.
     
-    Section 125I: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125I: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125J Minister of Finance may specify types of financial institutions and criteria
     
@@ -3278,7 +3278,7 @@ Financial assistance package
     
     *   (b) may withhold from the notice information that he or she considers to be commercially sensitive.
     
-    Section 125J: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125J: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125K Minister of Finance may specify terms and conditions of guarantees or indemnities
     
@@ -3296,7 +3296,7 @@ Financial assistance package
     
     (3) The statement may contain any details about the terms and conditions that the Minister considers appropriate.
     
-    Section 125K: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125K: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125L Recovery of money paid under guarantee or indemnity
     
@@ -3312,13 +3312,13 @@ Financial assistance package
     
     (3) This section does not limit or affect any other rights that the Crown may have as guarantor or indemnifier.
     
-    Section 125L: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125L: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 125M Payments in respect of guarantee or indemnity
     
 *   Any money paid by the Crown under a guarantee or indemnity given under [section 125I(2)][169] may be incurred without further appropriation, and must be paid without further authority, than this section.
     
-    Section 125M: inserted, on 23 July 2011, by [section 7][317] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 125M: inserted, on 23 July 2011, by [section 7][318] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ## Part 2  
 Repeal, consequential amendments, and transitional provisions
@@ -3331,13 +3331,13 @@ Repeal, consequential amendments, and transitional provisions
 
 ##### 127 Consequential amendments
     
-*   (1) The [Building Act 2004][320] is amended---
+*   (1) The [Building Act 2004][321] is amended---
         
-    *   (a) by omitting from [section 398(2)(b)][321] ""2002"" and substituting ""2006""; and
+    *   (a) by omitting from [section 398(2)(b)][322] ""2002"" and substituting ""2006""; and
     
-    *   (b) by repealing so much of [Part 1][322] of Schedule 4 (enactments amended) as relates to the former Act.
+    *   (b) by repealing so much of [Part 1][323] of Schedule 4 (enactments amended) as relates to the former Act.
     
-    (2) [Section 27(2)][323] of the Construction Contracts Act 2002 is amended---
+    (2) [Section 27(2)][324] of the Construction Contracts Act 2002 is amended---
         
     *   (a) by omitting ""an adjudicator"" and substituting ""a member""; and
     
@@ -3345,7 +3345,7 @@ Repeal, consequential amendments, and transitional provisions
     
     *   (c) by omitting ""or adjudicator"" in each place where it appears and substituting in each case ""or member"".
     
-    (3) The item relating to the former Act in [Part 1][324] of Schedule 2 of the Insolvency Act 2006 is amended---
+    (3) The item relating to the former Act in [Part 1][325] of Schedule 2 of the Insolvency Act 2006 is amended---
         
     *   (a) by omitting ""**2002 (2002 No 47)**"" and substituting ""**2006 (2006 No 84)**""; and
     
@@ -3357,21 +3357,21 @@ Repeal, consequential amendments, and transitional provisions
     
     *   (e) by omitting ""4(2) of the Schedule"" and substituting ""5(2) of Schedule 3"".
     
-    (4) The [Legal Services Act 2000][325] is amended---
+    (4) The [Legal Services Act 2000][326] is amended---
         
-    *   (a) by omitting from the definition of **civil proceedings** in [section 4(1)][326] ""sections 22 to 55 of the Weathertight Homes Resolution Services Act 2002"" and substituting ""subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006""; and
+    *   (a) by omitting from the definition of **civil proceedings** in [section 4(1)][327] ""sections 22 to 55 of the Weathertight Homes Resolution Services Act 2002"" and substituting ""subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006""; and
     
-    *   (b) by omitting from [section 7(1)(p)][327] ""an adjudicator"" and substituting ""the tribunal""; and
+    *   (b) by omitting from [section 7(1)(p)][328] ""an adjudicator"" and substituting ""the tribunal""; and
     
-    *   (c) by omitting from [section 7(1)(p)][327] ""2002"" and substituting ""2006"".
+    *   (c) by omitting from [section 7(1)(p)][328] ""2002"" and substituting ""2006"".
     
-    (5) [Section 44A(2)][314] of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (e):
+    (5) [Section 44A(2)][315] of the Local Government Official Information and Meetings Act 1987 is amended by inserting the following paragraph after paragraph (e):
     
     > *   "(ea) information notified to the territorial authority under section 124 of the Weathertight Homes Resolution Services Act 2006:".
     > 
     > 
     
-    (6) [Schedule 4][328] (officers whose remuneration is to be determined by Authority) of the Remuneration Authority Act 1977 is amended by inserting the following item after the item relating to the members of the Waitangi Tribunal:
+    (6) [Schedule 4][329] (officers whose remuneration is to be determined by Authority) of the Remuneration Authority Act 1977 is amended by inserting the following item after the item relating to the members of the Waitangi Tribunal:
     
     > "The chair of the tribunal under the Weathertight Homes Resolution Services Act 2006\."
     
@@ -3671,13 +3671,13 @@ Repeal, consequential amendments, and transitional provisions
     
     (4) Subsection (3) does not limit the application to the claim of [section 30][260] of the former Act.
     
-    Section 148(1): substituted, on 29 August 2007, by [section 10][329] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
+    Section 148(1): substituted, on 29 August 2007, by [section 10][330] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
 
 ##### 148A How former Act modified for section 148(1)
     
 *   The former Act must for the purposes of [section 148(1)][204] be treated as if it had been amended in the manner specified in [Schedule 4][223].
     
-    Section 148A: inserted, on 29 August 2007, by [section 11][330] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
+    Section 148A: inserted, on 29 August 2007, by [section 11][331] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
 
 ##### 149 Who deals with claims to which section 148 applies
     
@@ -3695,7 +3695,7 @@ Repeal, consequential amendments, and transitional provisions
     
     (4) To enable claims to which this section applies to be dealt with in accordance with [section 148][204] by adjudicators additional to those referred to in subsection (1)(b) or appointed in accordance with subsection (3), additional adjudicators of that kind may be appointed under [section 24(2) and (3)][297] of the former Act (as if those subsections had not been repealed).
     
-    (5) To avoid doubt, adjudicators referred to in subsection (1)(b) or appointed in accordance with subsection (3) or (4) are paid salaries and allowances in accordance with [clause 5][331] of the Schedule of the former Act.
+    (5) To avoid doubt, adjudicators referred to in subsection (1)(b) or appointed in accordance with subsection (3) or (4) are paid salaries and allowances in accordance with [clause 5][332] of the Schedule of the former Act.
     
     (6) For the purposes of this section, and until it is no longer reasonably necessary for those purposes, the person who holds office as the chair (whether because [section 156(1)][215] applies to the person or otherwise) is to be taken to be, and to have the duties, functions, and powers of, the chief adjudicator.
     
@@ -3779,15 +3779,15 @@ Repeal, consequential amendments, and transitional provisions
     
     *   (b) subject to the conditions of employment that applied to the person as chief adjudicator immediately before that commencement; and
     
-    *   (c) subject to any determination made under [clause 6(1)][332] of Schedule 3, with any determination of that kind prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b).
+    *   (c) subject to any determination made under [clause 6(1)][333] of Schedule 3, with any determination of that kind prevailing if, and to the extent that, it is more favourable to the person than any of the conditions of employment referred to in paragraph (b).
     
-    (3) The Remuneration Authority is not obliged to make a determination under [clause 6(1)][332] of Schedule 3 of the salary and allowances of the person to whom subsection (1) applies before the time when that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
+    (3) The Remuneration Authority is not obliged to make a determination under [clause 6(1)][333] of Schedule 3 of the salary and allowances of the person to whom subsection (1) applies before the time when that person's salary and allowances would have been next reviewed under the conditions of employment referred to in subsection (2)(b).
 
 ##### 157 Chair's role before transition date
     
 *   (1) Before the transition date, the person to whom [section 156(1)][215] applies---
         
-    *   (a) may exercise powers of the chair in enactments to which [section 2(2)][2] applies, but only in accordance with [section 11][333] of the Interpretation Act 1999; and
+    *   (a) may exercise powers of the chair in enactments to which [section 2(2)][2] applies, but only in accordance with [section 11][334] of the Interpretation Act 1999; and
     
     *   (b) must not be paid a salary or allowances, or otherwise remunerated, in respect of the office of chair.
     
@@ -3807,7 +3807,7 @@ Repeal, consequential amendments, and transitional provisions
     
 *   [Sections 156 to 158][215] do not limit or affect---
         
-    *   (a) the application of [section 11][333] of the Interpretation Act 1999, after the commencement of this section but before the transition date, to the power to appoint the chair under [section 103(4)][128]; or
+    *   (a) the application of [section 11][334] of the Interpretation Act 1999, after the commencement of this section but before the transition date, to the power to appoint the chair under [section 103(4)][128]; or
     
     *   (b) the power, before that date, to appoint adjudicators under [section 24(2) and (3)][297] of the former Act; or
     
@@ -3817,7 +3817,7 @@ Repeal, consequential amendments, and transitional provisions
 
 ##### 160 Appointment of tribunal members and officers, etc, after enactment but before transition date
     
-*   This Act does not limit or affect the exercise, in accordance with [section 11][333] of the Interpretation Act 1999, of powers to do, before the transition date, the following acts or things under the following enactments:
+*   This Act does not limit or affect the exercise, in accordance with [section 11][334] of the Interpretation Act 1999, of powers to do, before the transition date, the following acts or things under the following enactments:
         
     *   (a) appoint members of the tribunal under [section 103(1)][128]:
     
@@ -4075,7 +4075,7 @@ Appointment of members
     
 *   (1) Every member takes office from the date stated in the notice of appointment.
     
-    (2) A person is not an employee (as defined in [section 2][334] of the State Sector Act 1988) as a result of being appointed as a member.
+    (2) A person is not an employee (as defined in [section 2][335] of the State Sector Act 1988) as a result of being appointed as a member.
     
     (3) A person appointed as a member may hold that office concurrently with any other office.
 
@@ -4113,7 +4113,7 @@ Appointment of members
     
     *   (b) allowances (if any) determined by the Remuneration Authority.
     
-    (2) There is to be paid to each member other than the chair remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][335]; and that Act applies accordingly as if he or she were a member of a statutory board within the meaning of that Act.
+    (2) There is to be paid to each member other than the chair remuneration by way of fees, salary, and allowances (including travelling allowances and expenses) in accordance with the [Fees and Travelling Allowances Act 1951][336]; and that Act applies accordingly as if he or she were a member of a statutory board within the meaning of that Act.
 
 ## Part 2  
 Provisions having effect in relation to adjudications
@@ -4138,19 +4138,23 @@ Provisions having effect in relation to adjudications
 
 ##### 10 Witnesses' expenses
     
-*   (1) Every person attending before a member on a summons, and every other person giving evidence before the tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Summary Proceedings Act 1957][336], and those regulations apply accordingly.
+*   (1) Every person attending before a member on a summons, and every other person giving evidence before the tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][337], and those regulations apply accordingly.
     
     (2) The tribunal may disallow the whole or any part of any sum payable under subclause (1).
     
     (3) On each occasion on which the tribunal issues a summons under [clause 9][301], the tribunal must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
     
     (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the tribunal, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
+    
+    Schedule 3 clause 10(1): amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Power to take evidence on oath
     
 *   (1) The tribunal may take evidence on oath, and for that purpose any member, or any other person acting under the express or implied direction of the tribunal, may administer an oath.
     
-    (2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+    (2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+    
+    Schedule 3 clause 11(2): amended, on 1 July 2013, by [section 413][307] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Party competent as witness
     
@@ -4170,9 +4174,9 @@ Provisions having effect in relation to adjudications
 
 ##### 15 Discovery
     
-*   (1) The tribunal may, in relation to discovery, make any order that a District Court may make under [section 56A][337] or [56B][338] of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
+*   (1) The tribunal may, in relation to discovery, make any order that a District Court may make under [section 56A][338] or [56B][339] of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
     
-    (2) Every application for an order under [section 56A][337] or [56B][338] of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
+    (2) Every application for an order under [section 56A][338] or [56B][339] of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 
 ##### 16 Power to award interest
     
@@ -4213,7 +4217,7 @@ Modifications to former Act for section 148(1)
 
 [s 148A][205]
 
-*   Schedule 4: added, on 29 August 2007, by [section 12][339] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
+*   Schedule 4: added, on 29 August 2007, by [section 12][340] of the Weathertight Homes Resolution Services (Remedies) Amendment Act 2007 (2007 No 33).
 
 ##### Section 5
 
@@ -4304,9 +4308,9 @@ Purpose and application of Part 2
     
     *   (b) claims brought under the principal Act, but not withdrawn, terminated, or otherwise disposed of (for example, through resolution by a settlement agreement, or by a determination by the tribunal), before the commencement of this Act; and
     
-    *   (c) claims adjudication of which was initiated under the [Weathertight Homes Resolution Services Act 2002][340] (in this Act called the **former Act**) before the transition date and that,---
+    *   (c) claims adjudication of which was initiated under the [Weathertight Homes Resolution Services Act 2002][341] (in this Act called the **former Act**) before the transition date and that,---
             
-        *   (i) under [section 149 ][341] of the principal Act must, if they are not withdrawn before they are disposed of under the former Act, be dealt with in accordance with [section 148 ][342] of the principal Act by a person specified in section 149(1) of the principal Act; and
+        *   (i) under [section 149 ][342] of the principal Act must, if they are not withdrawn before they are disposed of under the former Act, be dealt with in accordance with [section 148 ][343] of the principal Act by a person specified in section 149(1) of the principal Act; and
         
         *   (ii) are not withdrawn, terminated, or otherwise disposed of before the commencement of this Act.
         
@@ -4346,7 +4350,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011][343].
+*   This Act is the [Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011][344].
 
 ##### 2 Commencement
     
@@ -4375,23 +4379,23 @@ Consequential amendment to, and relationship with, Public Finance Act 1989
 
 ###### 1 General
     
-*   This is a reprint of the Weathertight Homes Resolution Services Act 2006\. The reprint incorporates all the amendments to the Act as at 23 July 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Weathertight Homes Resolution Services Act 2006\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][344] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][345] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][345] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][346] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][346] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][347] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][347] and [17E][348] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][348] and [17E][349] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4422,13 +4426,15 @@ Consequential amendment to, and relationship with, Public Finance Act 1989
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011][343] (2011 No 50)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][307]
+    
+    [Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011][344] (2011 No 50)
     
     Limitation Act 2010 (2010 No 110): [section 58][241]
     
     Unit Titles Act 2010 (2010 No 22): [section 233(1)][230]
     
-    [Weathertight Homes Resolution Services (Remedies) Amendment Act 2007][349] (2007 No 33)
+    [Weathertight Homes Resolution Services (Remedies) Amendment Act 2007][350] (2007 No 33)
     
     [Weathertight Homes Resolution Services Act 2006 Commencement Order 2007][224] (SR 2007/21)
     
@@ -4743,46 +4749,47 @@ Consequential amendment to, and relationship with, Public Finance Act 1989
 [304]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164119
 [305]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164121
 [306]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164123
-[307]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164173
-[308]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164175
-[309]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164177
-[310]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164179
-[311]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164181
-[312]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164183
-[313]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164185
-[314]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM123065
-[315]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM146601
-[316]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164187
-[317]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3389714
-[318]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM230264
-[319]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM170872
-[320]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM306035
-[321]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM309063
-[322]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM309389
-[323]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM163408
-[324]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM387878
-[325]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71806
-[326]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71814
-[327]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71928
-[328]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM16452
-[329]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967874
-[330]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967875
-[331]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164198
-[332]: http://www.legislation.govt.nz/act/public/2006/0084/latest/whole.html#DLM404438
-[333]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM31478
-[334]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM129117
-[335]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM264952
-[336]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM310742
-[337]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM243727
-[338]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM243729
-[339]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967877
-[340]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM163496
-[341]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM404412
-[342]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM404411
-[343]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3389700
-[344]: http://www.pco.parliament.govt.nz/reprints/
-[345]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195439
-[346]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[347]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195468
-[348]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195470
-[349]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967849
+[307]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3360714
+[308]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164173
+[309]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164175
+[310]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164177
+[311]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164179
+[312]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164181
+[313]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164183
+[314]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164185
+[315]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM123065
+[316]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM146601
+[317]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164187
+[318]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3389714
+[319]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM230264
+[320]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM170872
+[321]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM306035
+[322]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM309063
+[323]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM309389
+[324]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM163408
+[325]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM387878
+[326]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71806
+[327]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71814
+[328]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM71928
+[329]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM16452
+[330]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967874
+[331]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967875
+[332]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM164198
+[333]: http://www.legislation.govt.nz/act/public/2006/0084/latest/whole.html#DLM404438
+[334]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM31478
+[335]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM129117
+[336]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM264952
+[337]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3359902
+[338]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM243727
+[339]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM243729
+[340]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967877
+[341]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM163496
+[342]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM404412
+[343]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM404411
+[344]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM3389700
+[345]: http://www.pco.parliament.govt.nz/reprints/
+[346]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195439
+[347]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[348]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195468
+[349]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM195470
+[350]: http://www.legislation.govt.nz/act/public/2006/0084/latest/link.aspx?id=DLM967849
