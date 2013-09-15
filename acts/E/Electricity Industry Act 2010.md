@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1154,9 +1154,13 @@ Electricity industry governance
 
 ##### 31 Offences relating to registration
     
-*   (1) An industry participant that fails, without reasonable excuse, to register as an industry participant commits an offence and is liable on summary conviction to a fine not exceeding $20,000\.
+*   (1) An industry participant that fails, without reasonable excuse, to register as an industry participant commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    (2) A registered industry participant commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, if it knows or ought to know that the information recorded for it on the register is wrong or incomplete and it fails to supply updated information as required by [section 29(2)][37].
+    (2) A registered industry participant commits an offence, and is liable on conviction to a fine not exceeding $20,000, if it knows or ought to know that the information recorded for it on the register is wrong or incomplete and it fails to supply updated information as required by [section 29(2)][37].
+    
+    Section 31(1): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 31(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Electricity Industry Participation Code
 
@@ -1180,15 +1184,15 @@ Electricity industry governance
         
     *   (a) impose obligations on any person other than an industry participant or a person acting on behalf of an industry participant, or the Authority; or
     
-    *   (b) purport to do or regulate anything that the Commerce Commission is authorised or required to do or regulate under [Part 3][277] or [4][278] of the Commerce Act 1986 (other than to set quality standards for Transpower and set pricing methodologies (as defined in [section 52C][279] of that Act) for Transpower and distributors); or
+    *   (b) purport to do or regulate anything that the Commerce Commission is authorised or required to do or regulate under [Part 3][278] or [4][279] of the Commerce Act 1986 (other than to set quality standards for Transpower and set pricing methodologies (as defined in [section 52C][280] of that Act) for Transpower and distributors); or
     
-    *   (c) purport to regulate any matter dealt with in or under the [Electricity Act 1992][280].
+    *   (c) purport to regulate any matter dealt with in or under the [Electricity Act 1992][281].
     
     (3) The Code may incorporate by reference any of the following:
         
     *   (a) New Zealand Standards, or standards, requirements, or recommended practices of any overseas or international body:
     
-    *   (b) codes of practice issued under [Part 4][281] of the Electricity Act 1992:
+    *   (b) codes of practice issued under [Part 4][282] of the Electricity Act 1992:
     
     *   (c) any other written material dealing with technical matters that, in the opinion of the Authority,---
             
@@ -1202,9 +1206,11 @@ Electricity industry governance
 
 ##### 33 Status of Code
     
-*   (1) The Code is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][282] but is not a regulation for the purposes of the [Acts and Regulations Publications Act 1989][283].
+*   (1) The Code is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][283] and must be presented to the House of Representatives under [section 41][284] of that Act.
     
     (2) If any provision of the Code conflicts with this or any other Act, or with any regulation made under this or any other Act, the Act or regulation prevails.
+    
+    Section 33(1): replaced, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 #### Making and amending Code
 
@@ -1214,21 +1220,21 @@ Electricity industry governance
         
     *   (a) a consolidation of the following enactments:
             
-        *   (i) the Electricity Governance Rules made under [section 172H][284] of the Electricity Act 1992:
+        *   (i) the Electricity Governance Rules made under [section 172H][286] of the Electricity Act 1992:
         
-        *   (ii) [subpart 2][285] of Part 1 and [Parts 2][286], [2A][287], and [3][288] of the Electricity Governance Regulations 2003:
+        *   (ii) [subpart 2][287] of Part 1 and [Parts 2][288], [2A][289], and [3][290] of the Electricity Governance Regulations 2003:
         
-        *   (iii) subpart 2 of [Part 10][289] of the Electricity Governance Regulations 2003 (the Comalco agreements exemptions):
+        *   (iii) subpart 2 of [Part 10][291] of the Electricity Governance Regulations 2003 (the Comalco agreements exemptions):
         
-        *   (iv) the [Electricity Governance (Security of Supply) Regulations 2008][290]:
+        *   (iv) the [Electricity Governance (Security of Supply) Regulations 2008][292]:
         
-        *   (v) the [Electricity Governance (Connection of Distributed Generation) Regulations 2007][291]:
+        *   (v) the [Electricity Governance (Connection of Distributed Generation) Regulations 2007][293]:
         
         
     
     *   (b) provisions referred to in [section 8(3)][12] (concerning the system operator):
     
-    *   (c) provisions to give effect to any exemptions granted under subpart 1 of [Part 10][289] of the Electricity Governance Regulations 2003\.
+    *   (c) provisions to give effect to any exemptions granted under subpart 1 of [Part 10][291] of the Electricity Governance Regulations 2003\.
     
     (2) The Code must include whatever changes to the text of the enactments referred to in subsection (1)(a) are necessary or reasonably required to ensure that the Code---
         
@@ -1240,7 +1246,7 @@ Electricity industry governance
     
     (3) To avoid doubt, the Code must not include provisions relating to statements of opportunities or grid planning assumptions.
     
-    (4) The Code is deemed to include the provisions of any regulations or rules made, within 6 months before this section comes into force, under [section 172E(3)][292] of the Electricity Act 1992 (which relates to regulations and rules made urgently); but---
+    (4) The Code is deemed to include the provisions of any regulations or rules made, within 6 months before this section comes into force, under [section 172E(3)][294] of the Electricity Act 1992 (which relates to regulations and rules made urgently); but---
         
     *   (a) the provisions expire on the date that is 6 months after the date on which those regulations and rules come into force; and
     
@@ -1266,13 +1272,13 @@ Electricity industry governance
     
 *   (1) The Authority must make the Code, and all amendments to it, publicly available.
     
-    (2) The Minister must present a copy of the Code, and of all amendments to it, to the House of Representatives in accordance with [section 4][293] of the Regulations (Disallowance) Act 1989\.
+    (2) The Minister must present a copy of the Code, and of all amendments to it, to the House of Representatives in accordance with [section 4][295] of the Regulations (Disallowance) Act 1989\.
     
     (3) The Authority may periodically issue and make publicly available consolidated versions of the Code with all amendments incorporated, in which case the consolidation must clearly show the date on which it is issued and when each amendment was made.
 
 ##### 38 Authority amends Code
     
-*   (1) The Authority may amend the Code at any time, subject to [section 39][50] of this Act and [section 54V][294] of the Commerce Act 1986\.
+*   (1) The Authority may amend the Code at any time, subject to [section 39][50] of this Act and [section 54V][296] of the Commerce Act 1986\.
     
     (2) An amendment may be an addition, an omission, a substitution, or a complete replacement.
     
@@ -1332,7 +1338,7 @@ Electricity industry governance
     
     *   (b) expires on the date that is 9 months after the date on which it comes into force.
     
-    Compare: 1992 No 122 [s 172E(3)][292]
+    Compare: 1992 No 122 [s 172E(3)][294]
 
 ##### 41 Authority to publish consultation charter
     
@@ -1368,7 +1374,7 @@ Electricity industry governance
     
     *   (e) requirements for distributors that do not send accounts to consumers directly to use more standardised tariff structures:
     
-    *   (f) requirements for all distributors to use more standardised use-of-system agreements, and for those use-of-system agreements to include provisions indemnifying retailers in respect of liability under the [Consumer Guarantees Act 1993][295] for breaches of acceptable quality of supply, where those breaches were caused by faults on a distributor's network:
+    *   (f) requirements for all distributors to use more standardised use-of-system agreements, and for those use-of-system agreements to include provisions indemnifying retailers in respect of liability under the [Consumer Guarantees Act 1993][297] for breaches of acceptable quality of supply, where those breaches were caused by faults on a distributor's network:
     
     *   (g) facilitating, or providing for, an active market for trading financial hedge contracts for electricity.
     
@@ -1418,7 +1424,7 @@ Electricity industry governance
     
     (6) If the parties do not comply with a requirement in the Code to enter into 1 or more transmission agreements, the default terms and conditions in the Code, and the provision in subsection (4), are binding on both parties and enforceable as if they were set out in a transmission agreement.
     
-    Compare: 1992 No 122 [s 172KA][296]
+    Compare: 1992 No 122 [s 172KA][298]
 
 ### Subpart 4---Monitoring and enforcement
 
@@ -1440,7 +1446,7 @@ Electricity industry governance
     
     *   (b) carrying out the Authority's function of investigating breaches or possible breaches of, and enforcing compliance with, this Part, [Part 4][125], the regulations, and the Code.
     
-    Compare: 1992 No 122 [s 172KB][297]
+    Compare: 1992 No 122 [s 172KB][299]
 
 ##### 46 Authority's monitoring, investigation, and enforcement powers
     
@@ -1458,21 +1464,21 @@ Electricity industry governance
     
     (4) If an industry participant, whether directly or through an officer or employee, fails to comply with a requirement of the Authority under this section, the failure is treated as if it were a breach of the Code and the Authority may apply to the Rulings Panel for any order under [section 54][70].
     
-    Compare: 1992 No 122 [s 172KB][297]
+    Compare: 1992 No 122 [s 172KB][299]
 
 ##### 47 Power to search
     
 *   (1) The Authority may, for a purpose specified in [section 45(b)][60], authorise an employee of the Authority (an _authorised person_) to search, under a warrant issued under subsection (2), any place named in the warrant for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, [Part 4][125], the regulations, or the Code.
     
-    (2) An issuing officer (within the meaning of [section 3][298] of the Search and Surveillance Act 2012), on an application made in the manner provided in [subpart 3][299] of Part 4 of that Act, who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, [Part 4][125], the regulations, or the Code, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
+    (2) An issuing officer (within the meaning of [section 3][300] of the Search and Surveillance Act 2012), on an application made in the manner provided in [subpart 3][301] of Part 4 of that Act, who is satisfied that there are reasonable grounds to believe that it is necessary, for the purpose of ascertaining whether an industry participant has breached, or may breach, this Part, [Part 4][125], the regulations, or the Code, for an authorised person to search any place may, by warrant, authorise that person to search a place specified in the warrant.
     
-    (3) The provisions of [Part 4][300] of the Search and Surveillance Act 2012 (except for [sections 118][301] and [119][302]) apply, with any necessary modifications.
+    (3) The provisions of [Part 4][302] of the Search and Surveillance Act 2012 (except for [sections 118][303] and [119][304]) apply, with any necessary modifications.
     
-    Compare: 1992 No 122 [s 172KD][303]; 1986 No 5 [s 98A][304]
+    Compare: 1992 No 122 [s 172KD][305]; 1986 No 5 [s 98A][306]
     
-    Section 47(2): amended, on 1 October 2012, by [section 239(2)][305] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47(2): amended, on 1 October 2012, by [section 239(2)][307] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 47(3): replaced, on 1 October 2012, by [section 239(3)][305] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 47(3): replaced, on 1 October 2012, by [section 239(3)][307] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 48 Privileges protected
     
@@ -1482,7 +1488,7 @@ Electricity industry governance
     
     (3) However, any self-incriminating statement or document made or given by an officer or employee, or an industry participant that is an individual, is not admissible as evidence in any criminal or civil proceedings against that person.
     
-    Compare: 1992 No 122 [s 172KC][306]
+    Compare: 1992 No 122 [s 172KC][308]
 
 ##### 49 Authority may suspend trading in case of insolvency
     
@@ -1490,7 +1496,7 @@ Electricity industry governance
         
     *   (a) is unable to pay its debts; or
     
-    *   (b) calls a meeting for the purpose of [Part 14][307] of the Companies Act 1993; or
+    *   (b) calls a meeting for the purpose of [Part 14][309] of the Companies Act 1993; or
     
     *   (c) is adjudicated bankrupt; or
     
@@ -1516,7 +1522,7 @@ Electricity industry governance
     
     *   (c) the generator or purchaser may apply to the Rulings Panel to review the suspension by the Authority; and the Rulings Panel may, on review, exercise all the powers that the Authority has under subsection (3) and paragraph (a) of this subsection.
     
-    Compare: SR 2003/374 [rr 143][308], [144][309], [145][310]
+    Compare: SR 2003/374 [rr 143][310], [144][311], [145][312]
 
 #### Code enforcement
 
@@ -1554,7 +1560,7 @@ Electricity industry governance
     
     (6) Nothing in this Act or the regulations prevents the Authority from seeking an interim injunction under this section at any time.
     
-    Compare: SR 2003/374 [r 68][311]
+    Compare: SR 2003/374 [r 68][313]
 
 ##### 52 Limitation periods for breaches of Code
     
@@ -1576,7 +1582,7 @@ Electricity industry governance
     
     (3) The Rulings Panel has all the powers necessary to perform its functions in accordance with this Act, the regulations, and the Code.
     
-    Compare: SR 2003/374 [rr 96][312], [171A][313], [177][314]
+    Compare: SR 2003/374 [rr 96][314], [171A][315], [177][316]
 
 ##### 54 Remedial orders for breach of Code
     
@@ -1602,7 +1608,7 @@ Electricity industry governance
     
     (2) The Rulings Panel must take into account its own previous decisions in respect of any similar situations previously dealt with by the Authority or any predecessor of the Authority.
     
-    Compare: 1992 No 122 [s 172KE][315]
+    Compare: 1992 No 122 [s 172KE][317]
 
 ##### 55 Restrictions on remedies
     
@@ -1620,7 +1626,7 @@ Electricity industry governance
     
     *   (c) damages for breach of contract, or for any other wrong, that arises from an act or omission that is also a breach of the Code.
     
-    Compare: 1992 No 122 [ss 172KF][316], [172KG][317]
+    Compare: 1992 No 122 [ss 172KF][318], [172KG][319]
 
 ##### 56 Pecuniary penalty orders
     
@@ -1648,13 +1654,15 @@ Electricity industry governance
     
     *   (j) any other matters that the Rulings Panel thinks fit.
     
-    Compare: SR 2003/374 [r 109][318]
+    Compare: SR 2003/374 [r 109][320]
 
 ##### 57 Offence to breach certain orders of Rulings Panel
     
-*   An industry participant that breaches a compliance order made under [section 54(1)(f)][70], or an order made under section 54(1)(c), commits an offence and is liable on summary conviction to a fine not exceeding $20,000\.
+*   An industry participant that breaches a compliance order made under [section 54(1)(f)][70], or an order made under section 54(1)(c), commits an offence and is liable on conviction to a fine not exceeding $20,000\.
     
-    Compare: SR 2003/374 [r 108][319]
+    Compare: SR 2003/374 [r 108][321]
+    
+    Section 57: amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Suspension and termination for breach of certain Rulings Panel orders
     
@@ -1664,7 +1672,7 @@ Electricity industry governance
     
     *   (b) the Authority has suspended trading in a generator or purchaser under [section 49][64] and applies to the Rulings Panel for a termination order.
     
-    Compare: SR 2003/374 [r 138][320]
+    Compare: SR 2003/374 [r 138][322]
 
 ##### 59 Effect of suspension and termination orders
     
@@ -1674,17 +1682,19 @@ Electricity industry governance
     
     (3) A termination order does not affect any liability for payment of money under the Code before the date of the relevant order.
     
-    Compare: SR 2003/374 [rr 138(1)][320], [146(2), (3)][321]
+    Compare: SR 2003/374 [rr 138(1)][322], [146(2), (3)][323]
 
 ##### 60 Offences relating to suspension and termination orders
     
-*   An industry participant commits an offence, and is liable on summary conviction to a fine not exceeding $20,000, if it fails to comply with---
+*   An industry participant commits an offence, and is liable on conviction to a fine not exceeding $20,000, if it fails to comply with---
         
     *   (a) a suspension order or a termination order; or
     
     *   (b) any direction or arrangement made by the Rulings Panel under the regulations in relation to a suspension order or a termination order.
     
-    Compare: SR 2003/374 [r 139][322]
+    Compare: SR 2003/374 [r 139][324]
+    
+    Section 60: amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Powers in relation to appeals and disputes
     
@@ -1714,13 +1724,13 @@ Electricity industry governance
     
 *   An industry participant that is affected by a decision of the Rulings Panel may appeal that decision to the High Court on the ground of lack of jurisdiction.
     
-    Compare: 1992 No 122 [s 172KH][323]
+    Compare: 1992 No 122 [s 172KH][325]
 
 ##### 64 Appeal on question of law
     
 *   There is a right of appeal to the High Court, on a question of law only, against any decision of the Authority or the Rulings Panel.
     
-    Compare: 1992 No 122 [s 172KJ][324]
+    Compare: 1992 No 122 [s 172KJ][326]
 
 ##### 65 Appeal against certain orders of Rulings Panel
     
@@ -1746,13 +1756,13 @@ Electricity industry governance
     
     *   (b) an industry participant who joined or was joined as a party to the proceeding that is the subject of the appeal.
     
-    Compare: 1992 No 122 [ss 172KK][325], [172KL][326]
+    Compare: 1992 No 122 [ss 172KK][327], [172KL][328]
 
 ##### 66 How and when appeals made
     
 *   An appeal under this Part must be made by giving notice of appeal within 20 working days after the date of the decision or order appealed against or within any further time that the High Court allows.
     
-    Compare: 1992 No 122 [s 172KJ(2)][324]
+    Compare: 1992 No 122 [s 172KJ(2)][326]
 
 ##### 67 Determination of appeals
     
@@ -1762,7 +1772,7 @@ Electricity industry governance
     
     *   (b) exercise any of the powers that could have been exercised by the Rulings Panel in relation to the matter to which the appeal relates.
     
-    Compare: 1986 No 5 [s 93][327]; 1992 No 122 [s 172KM][328]
+    Compare: 1986 No 5 [s 93][329]; 1992 No 122 [s 172KM][330]
 
 ##### 68 High Court may refer appeals back for reconsideration
     
@@ -1776,13 +1786,13 @@ Electricity industry governance
     
     (3) In reconsidering the matter, the Rulings Panel must have regard to the court's reasons for giving the direction, and the court's directions.
     
-    Compare: 1986 No 5 [s 94][329]; 1992 No 122 [s 172KN][330]
+    Compare: 1986 No 5 [s 94][331]; 1992 No 122 [s 172KN][332]
 
 ##### 69 Provisions pending determination of appeal
     
 *   If an appeal is brought against any decision or order of the Rulings Panel, the decision or order remains in full force pending the determination of the appeal, unless the High Court orders to the contrary.
     
-    Compare: 1986 No 5 [s 95][331]; 1992 No 122 [s 172KO][332]
+    Compare: 1986 No 5 [s 95][333]; 1992 No 122 [s 172KO][334]
 
 ##### 70 High Court may order proceedings be heard in private
     
@@ -1790,7 +1800,7 @@ Electricity industry governance
     
     (2) The High Court may make an order prohibiting the publication of any report or description of a proceeding or any part of a proceeding (whether heard in public or in private), but no order may prohibit the publication of any determination of the court.
     
-    Compare: 1986 No 5 [s 96][333]; 1992 No 122 [s 172KP][334]
+    Compare: 1986 No 5 [s 96][335]; 1992 No 122 [s 172KP][336]
 
 ##### 71 Appeal to Court of Appeal in certain cases
     
@@ -1810,7 +1820,7 @@ Electricity industry governance
     
     (4) The court granting leave may, in its discretion, impose any conditions that it thinks fit, whether as to costs or otherwise.
     
-    Compare: 1986 No 5 [s 97][335]; 1992 No 122 [s 172KQ][332]
+    Compare: 1986 No 5 [s 97][337]; 1992 No 122 [s 172KQ][334]
 
 ## Part 3  
 Separation of distribution from certain generation and retailing
@@ -1847,7 +1857,7 @@ Separation of distribution from certain generation and retailing
     
     (3) Subsection (2) is intended only as a guide to the general scheme and effect of this Part.
     
-    Compare: 1998 No 88 [s 2(2)][336]
+    Compare: 1998 No 88 [s 2(2)][338]
 
 #### Interpretation of Part
 
@@ -1859,25 +1869,25 @@ Separation of distribution from certain generation and retailing
     
     _assets_ includes property of any kind, whether tangible or intangible, and includes rights, interests, and claims of every kind however they arise
     
-    _associate_ has the meaning given in [clause 8][337] of Schedule 2
+    _associate_ has the meaning given in [clause 8][339] of Schedule 2
     
     _business_ means any undertaking that is carried on whether for gain or reward or not
     
-    _control right_ has the meaning given in [clause 5][338] of Schedule 2
+    _control right_ has the meaning given in [clause 5][340] of Schedule 2
     
     _customer_, in respect of a retailer, means a consumer to whom that retailer sells electricity
     
     _director_, in relation to a body corporate, means a person occupying the position of director of the body corporate by whatever name called
     
-    _equity return right_ has the meaning given in [clause 6][339] of Schedule 2
+    _equity return right_ has the meaning given in [clause 6][341] of Schedule 2
     
     _financial year_ means a period of 12 months ending with 31 March
     
     _involved in_ has the meaning given in [section 74][95] 
     
-    _manager_ has the meaning given in [clause 10][340] of Schedule 2
+    _manager_ has the meaning given in [clause 10][342] of Schedule 2
     
-    _material influence_ has the meaning given in [clause 7][341] of Schedule 2
+    _material influence_ has the meaning given in [clause 7][343] of Schedule 2
     
     _nameplate_ means the full-load continuous rating of a generating plant under specific conditions as designated by its manufacturer and measured in megawatts in accordance with International Electrotechnical Commission Standard 60034-1 or any successor to that standard or any recognised equivalent standard
     
@@ -1885,7 +1895,7 @@ Separation of distribution from certain generation and retailing
     
     _rights_ means all rights, powers, privileges, and immunities, whether actual, contingent, or prospective
     
-    _subsidiary_ has the meaning given in [sections 5][342] and [6][343] of the Companies Act 1993
+    _subsidiary_ has the meaning given in [sections 5][344] and [6][345] of the Companies Act 1993
     
     _total capacity_ means the total nominal capacity of a generator in a financial year (determined according to the nameplates of all of the generator's generating plants).
 
@@ -1913,7 +1923,7 @@ Separation of distribution from certain generation and retailing
     
     (4) This section is subject to [Schedule 2][227].
     
-    Compare: 1998 No 88 [ss 7][344], [8][345]
+    Compare: 1998 No 88 [ss 7][346], [8][347]
 
 #### Ownership separation
 
@@ -1923,7 +1933,7 @@ Separation of distribution from certain generation and retailing
     
     (2) To avoid doubt, generation connected to a distribution network is not directly connected to the national grid.
     
-    Compare: 1998 No 88 [s 17][346]
+    Compare: 1998 No 88 [s 17][348]
 
 #### Corporate separation and arm's-length rules
 
@@ -1947,7 +1957,7 @@ Separation of distribution from certain generation and retailing
     
     *   (b) in respect of which the distributor, or any other person involved in the distributor, is involved.
     
-    Compare: 1998 No 88 [ss 17D][347], [17E][348]
+    Compare: 1998 No 88 [ss 17D][349], [17E][350]
 
 #### Other rules
 
@@ -2001,9 +2011,11 @@ Separation of distribution from certain generation and retailing
     
     *   (b) allows a use-of-systems agreement or a certificate to be publicised or provided to the Authority knowing that it is false or misleading in a material particular.
     
-    (6) Every director who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding $200,000\.
+    (6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000\.
     
-    Compare: 1998 No 88 [s 17F][349]
+    Compare: 1998 No 88 [s 17F][351]
+    
+    Section 77(6): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Person involved in distributor must not pay for transfer of retail customers to connected retailers
     
@@ -2025,7 +2037,9 @@ Separation of distribution from certain generation and retailing
     
     *   (b) any consideration that is directly or indirectly or in whole or in part in respect of the transfer of any of another retailer's customers or customer accounts.
     
-    (5) Every person commits an offence who knowingly fails to comply with this section and is liable on summary conviction to a fine not exceeding $500,000\. 
+    (5) Every person commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $500,000\. 
+    
+    Section 78(5): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 No discrimination when paying rebates or dividends
     
@@ -2047,7 +2061,9 @@ Separation of distribution from certain generation and retailing
     
     (4) In this section, **connected retailer** has the same meaning as in section 77\.
     
-    (5) Every director and trustee commits an offence who knowingly fails to comply with this section and is liable on summary conviction to a fine not exceeding $200,000\. 
+    (5) Every director and trustee commits an offence who knowingly fails to comply with this section and is liable on conviction to a fine not exceeding $200,000\. 
+    
+    Section 79(5): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Enforcement and general provisions
 
@@ -2083,7 +2099,7 @@ Separation of distribution from certain generation and retailing
     
     *   (d) whether the person has previously been found by the court in proceedings under this Part (or any predecessor to this Part) to have engaged in any similar conduct.
     
-    Compare: 1986 No 5 [s 80][350]; 1998 No 88 [s 51][351]
+    Compare: 1986 No 5 [s 80][352]; 1998 No 88 [s 51][353]
 
 ##### 81 Injunctions
     
@@ -2097,13 +2113,13 @@ Separation of distribution from certain generation and retailing
     
     (2) In any proceedings under this section, the Authority, upon the order of the court, may obtain discovery and administer interrogatories.
     
-    Compare: 1986 No 5 [s 84][352]; 1998 No 88 [s 52][353]
+    Compare: 1986 No 5 [s 84][354]; 1998 No 88 [s 52][355]
 
 ##### 82 Actions for damages
     
 *   Every person is liable in damages for any loss or damage caused by that person engaging in conduct that constitutes a breach of a provision of this Part.
     
-    Compare: 1986 No 5 [s 82][354]; 1998 No 88 [s 53][355]
+    Compare: 1986 No 5 [s 82][356]; 1998 No 88 [s 53][357]
 
 ##### 83 Other powers to give directions, reopen agreements
     
@@ -2115,7 +2131,7 @@ Separation of distribution from certain generation and retailing
     
     *   (b) give directions concerning the business or property of the person, or the management or administration of that person's business or property (including a direction that a person cease to be a manager of the business), and every person is bound by the directions.
     
-    Compare: 1998 No 88 [s 56][356]
+    Compare: 1998 No 88 [s 56][358]
 
 ##### 84 Miscellaneous provisions relating to civil proceedings under this Part
     
@@ -2129,31 +2145,31 @@ Separation of distribution from certain generation and retailing
     
     (5) Uncompleted proceedings for an order under [section 80][106] must be stayed if criminal proceedings are started or have already been started against the person for the same or substantially the same breach in respect of which the order is sought.
     
-    Compare: 1986 No 5 [s 80(2)--(6)][350]; 1996 No 30 [s 124F][357]; 1998 No 88 [s 57][358]
+    Compare: 1986 No 5 [s 80(2)--(6)][352]; 1996 No 30 [s 124F][359]; 1998 No 88 [s 57][360]
 
 ##### 85 Application of Commerce Act 1986 provisions
     
-*   The following provisions of the [Commerce Act 1986][359] apply for the purpose of the exercise by the Authority and the High Court of their jurisdiction and powers under this Part as if the Authority were the Commerce Commission, as if references to provisions of the Commerce Act 1986 were references to corresponding provisions of this Part of this Act, and with other necessary modifications:
+*   The following provisions of the [Commerce Act 1986][361] apply for the purpose of the exercise by the Authority and the High Court of their jurisdiction and powers under this Part as if the Authority were the Commerce Commission, as if references to provisions of the Commerce Act 1986 were references to corresponding provisions of this Part of this Act, and with other necessary modifications:
         
-    *   (a) [sections 77][360] and [78][361] (lay members):
+    *   (a) [sections 77][362] and [78][363] (lay members):
     
-    *   (b) [section 79][362] (evidence not otherwise admissible):
+    *   (b) [section 79][364] (evidence not otherwise admissible):
     
-    *   (c) [section 88A][363] (when undertaking as to damages not required by Authority):
+    *   (c) [section 88A][365] (when undertaking as to damages not required by Authority):
     
-    *   (d) [section 89][364] (other orders):
+    *   (d) [section 89][366] (other orders):
     
-    *   (e) [section 90][365] (conduct by servants or agents):
+    *   (e) [section 90][367] (conduct by servants or agents):
     
-    *   (f) [Part 7][366] (except [sections 98H][367], [99A][368], [104][369], [105][370], [106][371], [108][372], [110][373], and [111][374]).
+    *   (f) [Part 7][368] (except [sections 98H][369], [99A][370], [104][371], [105][372], [106][373], [108][374], [110][375], and [111][376]).
     
-    Compare: 1998 No 88 [s 58][375]
+    Compare: 1998 No 88 [s 58][377]
 
 ##### 86 Additional proceedings
     
 *   Proceedings brought under this Part are in addition to any proceedings brought under any other Act.
     
-    Compare: 1998 No 88 [s 59][376]
+    Compare: 1998 No 88 [s 59][378]
 
 #### Territorial application of this Part
 
@@ -2161,7 +2177,7 @@ Separation of distribution from certain generation and retailing
     
 *   This Part extends to persons outside New Zealand who are involved in a distributor, generator, or retailer in New Zealand.
     
-    Compare: 1986 No 5 [s 4(3)][377]; 1998 No 88 [s 15][378]
+    Compare: 1986 No 5 [s 4(3)][379]; 1998 No 88 [s 15][380]
 
 #### Disclosure and reporting to Authority
 
@@ -2181,9 +2197,11 @@ Separation of distribution from certain generation and retailing
     
     *   (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
     
-    (6) Every director who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding $200,000\.
+    (6) Every director who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $200,000\.
     
-    Compare: 1998 No 88 [s 70A][379]
+    Compare: 1998 No 88 [s 70A][381]
+    
+    Section 88(6): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 89 Directors must report compliance with arm's-length rules
     
@@ -2197,9 +2215,11 @@ Separation of distribution from certain generation and retailing
     
     *   (b) provides the statement to the Authority knowing that it is false or misleading in a material particular.
     
-    (4) Every person who commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding $200,000\.
+    (4) Every person who commits an offence under subsection (3) is liable on conviction to a fine not exceeding $200,000\.
     
-    Compare: 1998 No 88 [s 70B][380]
+    Compare: 1998 No 88 [s 70B][382]
+    
+    Section 89(4): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Exemptions
 
@@ -2225,25 +2245,27 @@ Separation of distribution from certain generation and retailing
     
     (6) The Authority must make publicly available a list of all current exemptions under this section.
     
-    (7) An exemption under this section is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][282] or the [Acts and Regulations Publication Act 1989][283].
+    (7) An exemption under this section is neither a disallowable instrument nor a legislative instrument for the purposes of the [Legislation Act 2012][283] and does not have to be presented to the House of Representatives under [section 41][284] of that Act.
     
-    Compare: 1998 No 88 [s 81][381]
+    Compare: 1998 No 88 [s 81][383]
+    
+    Section 90(7): replaced, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 #### Application of other Acts
 
 ##### 91 Application of Commerce Act 1986
     
-*   Except as provided in [section 92][122], nothing in this Part overrides or limits the provisions of the [Commerce Act 1986][359].
+*   Except as provided in [section 92][122], nothing in this Part overrides or limits the provisions of the [Commerce Act 1986][361].
     
-    Compare: 1998 No 88 [s 82][382]
+    Compare: 1998 No 88 [s 82][384]
 
 ##### 92 Not interconnected under Commerce Act 1986
     
-*   (1) For the purposes of [Part 2][383] of the Commerce Act 1986, businesses to which [section 76][99] (corporate separation and arm's-length rules) applies are deemed to be separate bodies corporate that are not interconnected, despite the fact that they may have a common owner.
+*   (1) For the purposes of [Part 2][385] of the Commerce Act 1986, businesses to which [section 76][99] (corporate separation and arm's-length rules) applies are deemed to be separate bodies corporate that are not interconnected, despite the fact that they may have a common owner.
     
-    (2) Subsection (1) applies despite [section 2(7)][384] of the Commerce Act 1986\.
+    (2) Subsection (1) applies despite [section 2(7)][386] of the Commerce Act 1986\.
     
-    Compare: 1998 No 88 [s 83][385]
+    Compare: 1998 No 88 [s 83][387]
 
 ##### 93 Illegal Contracts Act 1970
     
@@ -2251,13 +2273,13 @@ Separation of distribution from certain generation and retailing
     
     (2) An agreement entered into in breach of a provision of this Part is voidable at the option of any party to the agreement who is not in breach of a provision of this Part by notice in writing to the other party to the agreement at any time within 1 month after the innocent party has notice that the agreement is in breach of a provision of this Part.
     
-    Compare: 1998 No 88 [s 86][386]
+    Compare: 1998 No 88 [s 86][388]
 
 ##### 94 Substance matters, not form
     
 *   Any question under this Part or [Schedule 2][227] or [3][228] is to be determined according to the nature, substance, and economic effect of the interest or relationship or other facts, and independently of form.
     
-    Compare: 1988 No 234 [s 5(4), (5), (6)][387]; 1998 No 88 [s 14][388]
+    Compare: 1988 No 234 [s 5(4), (5), (6)][389]; 1998 No 88 [s 14][390]
 
 ## Part 4  
 Industry participants and consumers
@@ -2272,19 +2294,19 @@ Industry participants and consumers
     
     (3) The _dispute resolution scheme_ is either---
         
-    *   (a) the approved scheme identified in [clause 3][389] of Schedule 4; or
+    *   (a) the approved scheme identified in [clause 3][391] of Schedule 4; or
     
-    *   (b) the regulated scheme provided for in regulations made under [clause 18][390] of Schedule 4\.
+    *   (b) the regulated scheme provided for in regulations made under [clause 18][392] of Schedule 4\.
     
     (4) The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
     
-    Compare: 1992 No 122 [s 158G][391]
+    Compare: 1992 No 122 [s 158G][393]
 
 ##### 96 Membership of dispute resolution scheme
     
 *   (1) Transpower (other than in its capacity as system operator), and every distributor and retailer, must be a member of the dispute resolution scheme, unless exempt under subsection (3).
     
-    (2) A person commits an offence and is liable on summary conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme. 
+    (2) A person commits an offence and is liable on conviction to a fine not exceeding $100,000 if the person knowingly refuses or fails to become a member of the dispute resolution scheme. 
     
     (3) A person need not be a member of a dispute resolution scheme if---
         
@@ -2309,6 +2331,8 @@ Industry participants and consumers
     (6) To avoid doubt, an individual exemption notice issued under subsection (3)(b) is not a regulation for any purpose.
     
     (7) The Ministry must publicise a list of all current class and individual exemptions.
+    
+    Section 96(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 97 Compliance with rules and binding settlements
     
@@ -2328,9 +2352,11 @@ Industry participants and consumers
 
 ##### 98 Offence to fail to comply with District Court order
     
-*   (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under [section 97][129], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $100,000\.
+*   (1) A member or former member of the dispute resolution scheme who, knowing that the member or former member is subject to an order made under [section 97][129], fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on conviction to a fine not exceeding $100,000\.
     
     (2) Nothing in this section applies to an order or part of an order of a District Court referred to in [section 97(4)][129].
+    
+    Section 98(1): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Financial statements of customer and community trusts
 
@@ -2338,11 +2364,11 @@ Industry participants and consumers
     
 *   The trustees of a customer trust and the trustees of a community trust must, within 4 months after the end of each financial year of the trust,---
         
-    *   (a) prepare financial statements in accordance with generally accepted accounting practice (within the meaning in [section 3][392] of the Financial Reporting Act 1993, applied as if trusts were reporting entities) with respect to the affairs of the trust for that financial year; and
+    *   (a) prepare financial statements in accordance with generally accepted accounting practice (within the meaning in [section 3][394] of the Financial Reporting Act 1993, applied as if trusts were reporting entities) with respect to the affairs of the trust for that financial year; and
     
     *   (b) submit those financial statements to an auditor for audit.
     
-    Compare: 1992 No 122 [s 158A][393]
+    Compare: 1992 No 122 [s 158A][395]
 
 ##### 100 Publication of audited financial statements
     
@@ -2350,7 +2376,7 @@ Industry participants and consumers
     
     (2) The trustees must also notify the fact that copies of the documents referred to in subsection (1) are so available (and where) by advertisement in the news section of 2 separate editions of each newspaper that is widely read by customers of the customer trust or by persons in the community of the community trust (as the case requires).
     
-    Compare: 1992 No 122 [s 158B][394]
+    Compare: 1992 No 122 [s 158B][396]
 
 ##### 101 Auditor of trusts
     
@@ -2366,15 +2392,15 @@ Industry participants and consumers
     
     (4) An auditor of a customer trust or community trust---
         
-    *   (a) must be a person who is qualified to act as an auditor under [section 199(1)][395] of the Companies Act 1993 and, in selecting an auditor, the beneficiaries may seek the advice of the Auditor-General:
+    *   (a) must be a person who is qualified to act as an auditor under [section 199(1)][397] of the Companies Act 1993 and, in selecting an auditor, the beneficiaries may seek the advice of the Auditor-General:
     
-    *   (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under [section 199(2)(b) and (d)][395] of the Companies Act 1993\.
+    *   (b) must not be a trustee, a director, an employee, or an agent of the trust or of any distributor owned by the trust, or be otherwise disqualified from being an auditor under [section 199(2)(b) and (d)][397] of the Companies Act 1993\.
     
-    (5) In addition, [sections 198][396], [200][397], and [202 to 207][398] of the Companies Act 1993 apply in relation to the auditor.
+    (5) In addition, [sections 198][398], [200][399], and [202 to 207][400] of the Companies Act 1993 apply in relation to the auditor.
     
-    (6) These sections of the [Companies Act 1993][399] apply as if references to a company were to a trust, references to a director were to a trustee, references to a board were to the trustees, references to shareholders were to beneficiaries, references to a subsidiary were to a distributor owned by the trust and the distributor's subsidiaries, and all other necessary modifications were made.
+    (6) These sections of the [Companies Act 1993][401] apply as if references to a company were to a trust, references to a director were to a trustee, references to a board were to the trustees, references to shareholders were to beneficiaries, references to a subsidiary were to a distributor owned by the trust and the distributor's subsidiaries, and all other necessary modifications were made.
     
-    Compare: 1992 No 122 [s 158C][400]
+    Compare: 1992 No 122 [s 158C][402]
 
 ##### 102 Procedures for annual meeting to appoint auditor
     
@@ -2386,7 +2412,7 @@ Industry participants and consumers
     
     (4) No business may be transacted at the annual meeting if a quorum is not present.
     
-    Compare: 1992 No 122 [s 158D][401]
+    Compare: 1992 No 122 [s 158D][403]
 
 ##### 103 Auditor-General to be auditor if no other auditor appointed
     
@@ -2394,21 +2420,23 @@ Industry participants and consumers
     
     (2) The trustees of a customer trust or community trust must, within 5 working days after subsection (1) becoming applicable, give written notice to the Auditor-General of this fact.
     
-    (3) If the Auditor-General becomes the auditor of a trust, the sections and Parts of the [Public Audit Act 2001][402] listed in [section 19][403] of that Act apply to the trust, until an auditor is appointed at an annual meeting of beneficiaries, as if references in those sections to a public entity were references to the trust and with any other necessary modifications.
+    (3) If the Auditor-General becomes the auditor of a trust, the sections and Parts of the [Public Audit Act 2001][404] listed in [section 19][405] of that Act apply to the trust, until an auditor is appointed at an annual meeting of beneficiaries, as if references in those sections to a public entity were references to the trust and with any other necessary modifications.
     
-    Compare: 1992 No 122 [s 158E][404]
+    Compare: 1992 No 122 [s 158E][406]
 
 ##### 104 Offences, enforcement, and application of sections 99 to 103
     
-*   (1) The trustees of a customer trust and the trustees of a community trust must comply with [sections 99 to 103][132], rather than [section 46A][405] of the Energy Companies Act 1992\. 
+*   (1) The trustees of a customer trust and the trustees of a community trust must comply with [sections 99 to 103][132], rather than [section 46A][407] of the Energy Companies Act 1992\. 
     
-    (2) Every trustee commits an offence and is liable on summary conviction to a fine not exceeding $200,000 who, without lawful justification or excuse, knowingly acts in breach of, or fails to comply in any respect with, any provision of [sections 99 to 103][132].
+    (2) Every trustee commits an offence and is liable on conviction to a fine not exceeding $200,000 who, without lawful justification or excuse, knowingly acts in breach of, or fails to comply in any respect with, any provision of [sections 99 to 103][132].
     
     (3) Except as provided in subsection (1), nothing in [sections 99 to 103][132] limits any other enactment or rule of law concerning the maintenance and auditing of the financial statements of a trust.
     
     (4) For the purpose of enforcing [sections 99 to 103][132] and any regulations made under [section 114][150], the Authority's monitoring, investigation, and enforcement powers in [Part 2][8] apply to trustees of customer trusts and trustees of consumer trusts as if those trustees were industry participants.
     
-    Compare: 1992 No 122 [s 158F][406]
+    Compare: 1992 No 122 [s 158F][408]
+    
+    Section 104(2): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Continuance of supply
 
@@ -2416,7 +2444,7 @@ Industry participants and consumers
     
 *   (1) This section applies to a distributor who, in relation to any place,---
         
-    *   (a) is, immediately before the repeal by this Act of [section 62][407] of the Electricity Act 1992, prohibited from ceasing to supply line function services to the place without the prior consent of either the Minister or every consumer who would be affected by the cessation of those services; or
+    *   (a) is, immediately before the repeal by this Act of [section 62][409] of the Electricity Act 1992, prohibited from ceasing to supply line function services to the place without the prior consent of either the Minister or every consumer who would be affected by the cessation of those services; or
     
     *   (b) is the successor in business to a distributor referred to in paragraph (a).
     
@@ -2426,9 +2454,9 @@ Industry participants and consumers
     
     *   (b) supply the place with electricity from an alternative source.
     
-    (3) The obligation in subsection (2) is subject to anything to the contrary in the [Electricity Act 1992][280], any regulations made under [section 169][408] of that Act, or any written agreement, entered into before this section comes into force, between the distributor and a landowner who is, or would be but for the agreement, affected by the obligation.
+    (3) The obligation in subsection (2) is subject to anything to the contrary in the [Electricity Act 1992][281], any regulations made under [section 169][410] of that Act, or any written agreement, entered into before this section comes into force, between the distributor and a landowner who is, or would be but for the agreement, affected by the obligation.
     
-    (4) A distributor who is obliged under subsection (2) to supply line function services or electricity from an alternative source to a place commits an offence, and is liable on summary conviction to a fine not exceeding $10,000 and to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues, if the distributor,---
+    (4) A distributor who is obliged under subsection (2) to supply line function services or electricity from an alternative source to a place commits an offence, and is liable on conviction to a fine not exceeding $10,000 and to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues, if the distributor,---
         
     *   (a) having been made aware that supply to the place has ceased in the circumstances described in [section 106(2)(a)][140], fails to resume supply as soon as is reasonable in the circumstances; or
     
@@ -2440,7 +2468,9 @@ Industry participants and consumers
     
     _supplying electricity from an alternative source_ means supplying a place with electricity from a source other than a distributor's network, and includes, if necessary, supplying the associated line function services to deliver that electricity.
     
-    Compare: 1992 No 122 [s 62][407]
+    Compare: 1992 No 122 [s 62][409]
+    
+    Section 105(4): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 106 Cessation and suspension of supply obligation
     
@@ -2496,13 +2526,13 @@ Industry participants and consumers
         
     *   (a) obligations under this Act, the regulations, and the Code:
     
-    *   (b) obligations under the [Electricity Act 1992][280] and any regulation made under that Act.
+    *   (b) obligations under the [Electricity Act 1992][281] and any regulation made under that Act.
     
     (2) However, regulations made under [section 113][149] about low fixed charge tariff options do not apply to a distributor in respect of consumers to whom the distributor supplies electricity from an alternative source.
     
     (3) If a distributor, during a trial or transition in the course of complying with [section 105(2)][139], both supplies a place with line function services that connect the place to a network and, at the same time, supplies the place with electricity from an alternative source, the distributor is not to be treated as thereby being involved in generation or retailing for the purposes of [Part 3][89].
     
-    (4) For the purposes of [subpart 9][409] of Part 4 of the Commerce Act 1986, the Commerce Commission must treat the costs of providing electricity to a place from an alternative source, and any cost arising in respect of a place from an agreement under [section 106(1)(a)][140], as if the costs were the cost of providing electricity lines services (as defined in [section 54C][410] of the Commerce Act 1986).
+    (4) For the purposes of [subpart 9][411] of Part 4 of the Commerce Act 1986, the Commerce Commission must treat the costs of providing electricity to a place from an alternative source, and any cost arising in respect of a place from an agreement under [section 106(1)(a)][140], as if the costs were the cost of providing electricity lines services (as defined in [section 54C][412] of the Commerce Act 1986).
 
 ## Part 5  
 Miscellaneous
@@ -2533,7 +2563,7 @@ Miscellaneous
     
 *   The Governor-General may, by Order in Council made on the recommendation of the Minister of Consumer Affairs, make regulations identifying a class of industry participants that is exempt from the obligation in [section 96(1)][128] to be a member of a dispute resolution scheme.
     
-    Section 111: amended, on 12 December 2012, by [section 4][411] of the Electricity Industry Amendment Act 2012 (2012 No 102).
+    Section 111: amended, on 12 December 2012, by [section 4][413] of the Electricity Industry Amendment Act 2012 (2012 No 102).
 
 ##### 112 Regulations relating to monitoring, investigating, and enforcing Code
     
@@ -2559,15 +2589,17 @@ Miscellaneous
     
     *   (j) identifying regulations the breach of which are to be treated as a breach of the Code:
     
-    *   (k) providing for offences, punishable on summary conviction by a fine not exceeding $20,000, for breaching any regulation made under this section or breaching any order made by the Rulings Panel under the regulations.
+    *   (k) providing for offences, punishable on conviction by a fine not exceeding $20,000, for breaching any regulation made under this section or breaching any order made by the Rulings Panel under the regulations.
     
     (2) The requirement in subsection (1) to consult with the Authority does not apply to the first regulations made under this section if---
         
-    *   (a) the regulations largely correspond to [Parts 4 to 8][412] of the Electricity Governance Regulations 2003, adapted as necessary for consistency with this Act; and
+    *   (a) the regulations largely correspond to [Parts 4 to 8][414] of the Electricity Governance Regulations 2003, adapted as necessary for consistency with this Act; and
     
     *   (b) the Minister or the Electricity Commission has consulted with interested parties on any material changes.
     
-    Compare: 1992 No 122 [ss 172D][413], [172K(a)][414]
+    Compare: 1992 No 122 [ss 172D][415], [172K(a)][416]
+    
+    Section 112(1)(k): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 113 Regulations about tariffs and other consumer issues
     
@@ -2593,7 +2625,7 @@ Miscellaneous
     
     *   (f) regulate the rate of change in the prices charged to consumers supplied with electricity from an alternative source under section 105:
     
-    *   (g) provide for offences, punishable on summary conviction by a fine prescribed by the regulations but not exceeding $100,000, for breaching any regulation made under this section.
+    *   (g) provide for offences, punishable on conviction by a fine prescribed by the regulations but not exceeding $100,000, for breaching any regulation made under this section.
     
     (3) Regulations made under this section may include any other provisions necessary or desirable for monitoring and enforcing compliance with the regulations.
     
@@ -2611,9 +2643,11 @@ Miscellaneous
     
     (6) If any material is incorporated by reference in the regulations, [Schedule 1][226] applies.
     
-    (7) The [Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004][415] are deemed to have been made under this section.
+    (7) The [Electricity (Low Fixed Charge Tariff Option for Domestic Consumers) Regulations 2004][417] are deemed to have been made under this section.
     
-    Compare: 1992 No 122 [ss 172B][416], [172D][413]
+    Compare: 1992 No 122 [ss 172B][418], [172D][415]
+    
+    Section 113(2)(g): amended, on 1 July 2013, by [section 413][277] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114 Regulations promoting accountability in customer trusts and community trusts
     
@@ -2631,7 +2665,7 @@ Miscellaneous
     
     (4) If any material is incorporated by reference in the regulations, [Schedule 1][226] applies.
     
-    Compare: 1992 No 122 [s 172C][417]
+    Compare: 1992 No 122 [s 172C][419]
 
 ##### 115 General regulation-making power
     
@@ -2641,7 +2675,7 @@ Miscellaneous
     
     *   (b) providing for such other matters as are contemplated by, or are necessary for giving full effect to, this Act and for its due administration.
     
-    Compare: 1998 No 88 [s 87][418]
+    Compare: 1998 No 88 [s 87][420]
 
 ### Subpart 2---State-owned enterprise asset reconfiguration and miscellaneous matters
 
@@ -2661,7 +2695,7 @@ Miscellaneous
     
     _Mighty River_ means Mighty River Power Limited, and includes any subsidiary of that company
     
-    _permit_ means a water permit or a discharge permit granted, or deemed to be granted, under the [Resource Management Act 1991][419]
+    _permit_ means a water permit or a discharge permit granted, or deemed to be granted, under the [Resource Management Act 1991][421]
     
     _shareholding Ministers_ means the Minister of Finance and the Minister for State Owned Enterprises
     
@@ -2669,7 +2703,7 @@ Miscellaneous
     
     _Waitaki Power Scheme_ means the activities allowed by the resource consents numbered from CRC905301.1 to CRC905366.1 relating to the generation of electricity within the Waitaki River system.
     
-    Compare: 1998 No 88 [s 97][420]
+    Compare: 1998 No 88 [s 97][422]
 
 ##### 117 Directions that may be given by shareholding Ministers
     
@@ -2685,7 +2719,7 @@ Miscellaneous
     
     *   (d) 1 or more directions requiring the State generators to enter into 1 or more contracts that are necessary or desirable to implement a direction under any of paragraphs (a) to (c) and specifying some or all of the terms and conditions of those contracts.
     
-    Compare: 1998 No 88 [s 98(1)][421]
+    Compare: 1998 No 88 [s 98(1)][423]
 
 ##### 118 Process for giving directions
     
@@ -2707,29 +2741,29 @@ Miscellaneous
     
     (4) However, the Minister for State Owned Enterprises may withhold from disclosure under subsection (3) any part of a direction that he or she considers is commercially sensitive, and in that case must substitute a note of explanation for the parts withheld.
     
-    Compare: 1998 No 88 [s 98(2), (7)][421]
+    Compare: 1998 No 88 [s 98(2), (7)][423]
 
 ##### 119 Legal effect of directions
     
-*   (1) The shareholding Ministers may give a direction under [section 117][155] despite anything to the contrary in [sections 4 to 7][422] of the State-Owned Enterprises Act 1986 or in the [Companies Act 1993][399] or any other Act or rule of law.
+*   (1) The shareholding Ministers may give a direction under [section 117][155] despite anything to the contrary in [sections 4 to 7][424] of the State-Owned Enterprises Act 1986 or in the [Companies Act 1993][401] or any other Act or rule of law.
     
-    (2) The board must comply with a direction given to it under [section 117][155] despite anything to the contrary in the [State-Owned Enterprises Act 1986][423], the [Companies Act 1993][399], or any other Act or rule of law.
+    (2) The board must comply with a direction given to it under [section 117][155] despite anything to the contrary in the [State-Owned Enterprises Act 1986][425], the [Companies Act 1993][401], or any other Act or rule of law.
     
-    (3) Neither the Crown nor any shareholding Minister is in breach of, or liable to any person under, [sections 4 to 7][422] of the State-Owned Enterprises Act 1986, the [Companies Act 1993][399], or any other Act or rule of law by reason of giving a direction under [section 117][155] or advice under [section 118][156].
+    (3) Neither the Crown nor any shareholding Minister is in breach of, or liable to any person under, [sections 4 to 7][424] of the State-Owned Enterprises Act 1986, the [Companies Act 1993][401], or any other Act or rule of law by reason of giving a direction under [section 117][155] or advice under [section 118][156].
     
-    (4) No State generator, and no director, employee, or contractor of, or adviser to, a State generator, is in breach of, or liable to any person under, the [State-Owned Enterprises Act 1986][423], the [Companies Act 1993][399], or any other Act or rule of law by reason of any act or omission reasonably believed by the person to be necessary or desirable--- 
+    (4) No State generator, and no director, employee, or contractor of, or adviser to, a State generator, is in breach of, or liable to any person under, the [State-Owned Enterprises Act 1986][425], the [Companies Act 1993][401], or any other Act or rule of law by reason of any act or omission reasonably believed by the person to be necessary or desirable--- 
         
     *   (a) to give effect to, or as a consequence of, a direction given under [section 117][155]; or
     
     *   (b) as a result of advice given under [section 118][156].
     
-    (5) In subsections (3) and (4), the references to any other Act do not extend to the [Commerce Act 1986][359] (but [section 130][172] provides specific authorisations under that Act).
+    (5) In subsections (3) and (4), the references to any other Act do not extend to the [Commerce Act 1986][361] (but [section 130][172] provides specific authorisations under that Act).
     
     (6) To avoid doubt, subsections (3) and (4) do not give any protection from liability for breach of, or default under, any agreement.
     
     (7) No director, employee, or contractor of, or adviser to, a State generator is in breach of, or default under, any agreement, or in breach of confidence, or in the position of having committed any tort (including negligence) or other civil wrong, by reason of any act or omission referred to in subsection (4).
     
-    Compare: 1998 No 88 [s 98(3)--(6)][421]
+    Compare: 1998 No 88 [s 98(3)--(6)][423]
 
 #### Asset reconfiguration provisions in respect of Waitaki Power Scheme
 
@@ -2783,13 +2817,15 @@ Miscellaneous
         
     *   (a) must be notified in the _Gazette_, and publicised by the Minister and the consent authority, as soon as practicable after it is made; and
     
-    *   (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the [Resource Management Act 1991][419] but may not be before the date of the notice in the _Gazette_); and
+    *   (b) takes effect on a date specified in the order (which may be on or before the date that the permits are transferred to Genesis under the [Resource Management Act 1991][421] but may not be before the date of the notice in the _Gazette_); and
     
     *   (c) takes effect as if it were a change to a condition that had been made by the consent authority; and
     
-    *   (d) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][282] but not for the purposes of the [Acts and Regulations Publication Act 1989][283].
+    *   (d) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][283] and must be presented to the House of Representatives under [section 41][284] of that Act.
     
-    (4) The Minister must present a copy of the order to the House of Representatives in accordance with [section 4][293] of the Regulations (Disallowance) Act 1989\.
+    (4) The Minister must present a copy of the order to the House of Representatives in accordance with [section 4][295] of the Regulations (Disallowance) Act 1989\.
+    
+    Section 122(3)(d): replaced, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 ##### 123 Existing agreements with other parties in respect of Waitaki Power Scheme
     
@@ -2865,7 +2901,7 @@ Miscellaneous
 
 ##### 126 Interface with Resource Management Act 1991
     
-*   (1) [Sections 88 to 121][424] and [127][425] of the Resource Management Act 1991 do not apply in respect of any matters under [sections 121 to 125][160].
+*   (1) [Sections 88 to 121][426] and [127][427] of the Resource Management Act 1991 do not apply in respect of any matters under [sections 121 to 125][160].
     
     (2) There are no other appeal rights in respect of any matters under[sections 121 to 125][160].
     
@@ -2901,7 +2937,7 @@ Miscellaneous
     
     *   (b) the costs that are associated with the Whirinaki agreement referred to in [section 127][167], and any costs incurred by the Crown that are associated with the Whirinaki generating plant after the Whirinaki agreement is terminated; and
     
-    *   (c) a portion of the costs of the Energy Efficiency and Conservation Authority in performing its functions and exercising its powers and duties under the [Energy Efficiency and Conservation Act 2000][426] in relation to the encouragement, promotion, and support of electricity efficiency, where the size of the portion to be met by levies under this Act is determined by the Minister; and 
+    *   (c) a portion of the costs of the Energy Efficiency and Conservation Authority in performing its functions and exercising its powers and duties under the [Energy Efficiency and Conservation Act 2000][428] in relation to the encouragement, promotion, and support of electricity efficiency, where the size of the portion to be met by levies under this Act is determined by the Minister; and 
     
     *   (d) the costs incurred by the Crown before 1 May 2014 in promoting to customers the benefits of comparing and switching retailers, subject to both of the following limits: 
             
@@ -2965,7 +3001,7 @@ Miscellaneous
 
 ##### 130 Specific authorisations for purposes of Commerce Act 1986
     
-*   (1) The following are specifically authorised for the purpose of [section 43][427] of the Commerce Act 1986:
+*   (1) The following are specifically authorised for the purpose of [section 43][429] of the Commerce Act 1986:
         
     *   (a) anything done or omitted by the Authority, the Rulings Panel, or an industry participant that is reasonably necessary to comply with, enforce, or otherwise administer this Act, the regulations, or the Code; and 
     
@@ -2981,9 +3017,9 @@ Miscellaneous
     
     *   (d) anything done or omitted to be done by an industry participant for the purpose of developing and operating an active market for trading financial hedge contracts for electricity.
     
-    (2) [Section 47][428] of the Commerce Act 1986 does not apply to any transfer of assets undertaken by a State generator pursuant to a direction given under [section 117(2)(b) or (c)][155]. 
+    (2) [Section 47][430] of the Commerce Act 1986 does not apply to any transfer of assets undertaken by a State generator pursuant to a direction given under [section 117(2)(b) or (c)][155]. 
     
-    Compare: 1992 No 122 [s 172ZR][429]
+    Compare: 1992 No 122 [s 172ZR][431]
 
 #### Distributors' and grid owners' exemption from liability
 
@@ -3005,7 +3041,7 @@ Miscellaneous
     
     _commencement date_ means the date on which this section comes into force
     
-    _Electricity Commission_ means the Electricity Commission continued by [section 172M][430] of the Electricity Act 1992
+    _Electricity Commission_ means the Electricity Commission continued by [section 172M][432] of the Electricity Act 1992
     
     _property_---
         
@@ -3059,7 +3095,7 @@ Miscellaneous
     
     (2) Despite anything in subsection (1), the Authority may appoint a new chief executive or general manager to commence on or after the commencement date.
     
-    (3) The transfer of information from the Electricity Commission to the Authority under subsection (1)(c) does not constitute an action that is an interference with the privacy of an individual under [section 66][431] of the Privacy Act 1993\.
+    (3) The transfer of information from the Electricity Commission to the Authority under subsection (1)(c) does not constitute an action that is an interference with the privacy of an individual under [section 66][433] of the Privacy Act 1993\.
     
     (4) The dissolution of the Electricity Commission does not, by itself, affect any of the following matters:
         
@@ -3077,7 +3113,7 @@ Miscellaneous
     
     *   (c) for the purpose of effectively managing the transition of functions from the Electricity Commission to the Authority.
     
-    Compare: 2008 No 47 [Schedule 2 cl 26][432]
+    Compare: 2008 No 47 [Schedule 2 cl 26][434]
 
 ##### 135 References in documents to Electricity Commission
     
@@ -3087,7 +3123,7 @@ Miscellaneous
     
     *   (b) such a reading is consistent with this Act.
     
-    Compare: 2008 No 47 [Schedule 2 cl 28][433]
+    Compare: 2008 No 47 [Schedule 2 cl 28][435]
 
 ##### 136 References to reserve generation capacity in resource consents
     
@@ -3119,7 +3155,7 @@ Miscellaneous
     
     *   (b) the employee's period of service with the Electricity Commission, and every other period of service of that employee that is recognised by the Electricity Commission as continuous service, is to be treated as a period of service with the Authority.
     
-    (3) To avoid doubt, the employment of a transferred employee by the Authority does not constitute new employment for the purposes of the [KiwiSaver Act 2006][434].
+    (3) To avoid doubt, the employment of a transferred employee by the Authority does not constitute new employment for the purposes of the [KiwiSaver Act 2006][436].
     
     (4) A transferred employee is not entitled to receive any payment or benefit from the Electricity Commission or the Authority on the grounds that the person's position in the Electricity Commission or Authority has ceased to exist, or the person has ceased to be an employee of the Electricity Commission as a result of the transfer to the Authority, if---
         
@@ -3133,21 +3169,21 @@ Miscellaneous
         
         
     
-    Compare: 2008 No 47 [Schedule 2 cl 31][435]
+    Compare: 2008 No 47 [Schedule 2 cl 31][437]
 
 ##### 138 Government Superannuation Fund
     
 *   (1) This section applies to every person who, immediately before the commencement date, is an employee of the Electricity Commission.
     
-    (2) Nothing in this Act affects any entitlement under the [Government Superannuation Fund Act 1956][436] of a person to whom this section applies.
+    (2) Nothing in this Act affects any entitlement under the [Government Superannuation Fund Act 1956][438] of a person to whom this section applies.
     
     (3) This section is for the avoidance of doubt.
     
-    Compare: 2008 No 47 [Schedule 2 cl 32][437]
+    Compare: 2008 No 47 [Schedule 2 cl 32][439]
 
 ##### 139 Complaints, investigations, etc, transfer to Authority
     
-*   (1) On and from the commencement date, the Authority takes over responsibility for dealing with every matter, such as a complaint about a breach, or possible breach, of the [Electricity Governance Rules 2003][438], or an investigation, that was before the Electricity Commission immediately before its disestablishment, provided the matter had not, before the commencement date, been referred to the Rulings Panel (_see_ section 142).
+*   (1) On and from the commencement date, the Authority takes over responsibility for dealing with every matter, such as a complaint about a breach, or possible breach, of the [Electricity Governance Rules 2003][440], or an investigation, that was before the Electricity Commission immediately before its disestablishment, provided the matter had not, before the commencement date, been referred to the Rulings Panel (_see_ section 142).
     
     (2) The processes, procedures, and rights of appeal set out in this Act and the regulations apply to---
         
@@ -3159,7 +3195,7 @@ Miscellaneous
 
 ##### 140 References to Electricity Governance Rules 2003 and certain regulations
     
-*   Unless the context otherwise requires, a reference in any agreement, contract, or other document to the [Electricity Governance Rules 2003][438] or to any provision of those rules, or to the regulations listed in [section 34(1)][45] or any provision of those regulations, must be read as a reference to the Code or to the corresponding provision of the Code, as the case requires.
+*   Unless the context otherwise requires, a reference in any agreement, contract, or other document to the [Electricity Governance Rules 2003][440] or to any provision of those rules, or to the regulations listed in [section 34(1)][45] or any provision of those regulations, must be read as a reference to the Code or to the corresponding provision of the Code, as the case requires.
 
 #### Rulings Panel
 
@@ -3189,15 +3225,15 @@ Miscellaneous
 
 ##### 143 Investigations relating to separation of distribution from generation and retailing
     
-*   (1) After the commencement date, the Commerce Commission may continue any investigations and proceedings in relation to a breach or possible breach of the [Electricity Industry Reform Act 1998][439] as if that Act had not been repealed, but only if the Commerce Commission has, before the commencement date, confirmed in writing to a party to the investigation or proceedings that the investigation or proceeding has begun.
+*   (1) After the commencement date, the Commerce Commission may continue any investigations and proceedings in relation to a breach or possible breach of the [Electricity Industry Reform Act 1998][441] as if that Act had not been repealed, but only if the Commerce Commission has, before the commencement date, confirmed in writing to a party to the investigation or proceedings that the investigation or proceeding has begun.
     
-    (2) Any breach or possible breach of the [Electricity Industry Reform Act 1998][439] that is not referred to the Commerce Commission before the commencement date may be referred after that date to the Authority (but may not be referred to the Commerce Commission), in which case [subpart 2][104] of Part 3 of this Act applies to the breach or possible breach.
+    (2) Any breach or possible breach of the [Electricity Industry Reform Act 1998][441] that is not referred to the Commerce Commission before the commencement date may be referred after that date to the Authority (but may not be referred to the Commerce Commission), in which case [subpart 2][104] of Part 3 of this Act applies to the breach or possible breach.
     
     (3) The Commerce Commission must, on request by the Authority, provide to the Authority any information it holds that the Authority considers is, or may be, relevant to a breach or possible breach of [Part 3][89] of this Act.
 
 ##### 144 Exemptions granted under Electricity Industry Reform Act 1998
     
-*   (1) Any exemption granted by the Commerce Commission under the [Electricity Industry Reform Act 1998][439] from an obligation under that Act continues in force, until it is revoked or expires, as if it was granted by the Authority under this Act in respect of any corresponding obligation under this Act.
+*   (1) Any exemption granted by the Commerce Commission under the [Electricity Industry Reform Act 1998][441] from an obligation under that Act continues in force, until it is revoked or expires, as if it was granted by the Authority under this Act in respect of any corresponding obligation under this Act.
     
     (2) The Authority must include any exemption that is continued in force by this section in the list of exemptions that it is required to make publicly available under [section 90(6)][119]. 
 
@@ -3207,11 +3243,11 @@ Miscellaneous
 
 ##### 145 Amendments to Commerce Act 1986
     
-*   [Sections 146 to 156][195] amend the [Commerce Act 1986][359].
+*   [Sections 146 to 156][195] amend the [Commerce Act 1986][361].
 
 ##### 146 Interpretation
     
-*   (1) [Section 2(1)][384] is amended by inserting the following definition in its appropriate alphabetical order:
+*   (1) [Section 2(1)][386] is amended by inserting the following definition in its appropriate alphabetical order:
     
     > "_Authority_ means the Electricity Authority established under the Electricity Industry Act 2010".
     
@@ -3219,15 +3255,15 @@ Miscellaneous
 
 ##### 147 Matters covered by input methodologies
     
-*   [Section 52T(1)(b)][440] is amended by inserting "", except where another industry regulator (such as the Electricity Authority) has the power to set pricing methodologies in relation to particular goods or services"" after ""methodologies"".
+*   [Section 52T(1)(b)][442] is amended by inserting "", except where another industry regulator (such as the Electricity Authority) has the power to set pricing methodologies in relation to particular goods or services"" after ""methodologies"".
 
 ##### 148 Commission's costs in setting customised price-quality path
     
-*   (1) The heading to [section 53Y][441] is amended by omitting ""**in setting**"" and substituting ""**relating to assessing, setting, and reconsidering**"".
+*   (1) The heading to [section 53Y][443] is amended by omitting ""**in setting**"" and substituting ""**relating to assessing, setting, and reconsidering**"".
     
-    (2) [Section 53Y(1)][441] is amended by omitting ""setting"" and substituting ""assessing a proposal for, and setting or reconsidering,"".
+    (2) [Section 53Y(1)][443] is amended by omitting ""setting"" and substituting ""assessing a proposal for, and setting or reconsidering,"".
     
-    (3) [Section 53Y][441] is amended by inserting the following subsection after subsection (1):
+    (3) [Section 53Y][443] is amended by inserting the following subsection after subsection (1):
     
     > *   "(1A) If the amount paid by a person in respect of a proposal for a customised price-quality path exceeds the Commission's costs in assessing the proposal and (if applicable) setting or reconsidering the customised price-quality path, the Commission may refund the excess to the person who paid it."
     > 
@@ -3237,7 +3273,7 @@ Miscellaneous
 
 ##### 149 Interpretation for subpart
     
-*   [Section 54B][442] is amended by adding the following subsection as subsection (2):
+*   [Section 54B][444] is amended by adding the following subsection as subsection (2):
     
     > *   "(2) References in this subpart to Transpower include references to Transpower in its role as system operator under the Electricity Industry Act 2010\."
     > 
@@ -3247,7 +3283,7 @@ Miscellaneous
 
 ##### 150 Meaning of electricity lines services
     
-*   (1) [Section 54C][410] is amended by repealing subsection (1) and substituting the following subsection:
+*   (1) [Section 54C][412] is amended by repealing subsection (1) and substituting the following subsection:
     
     > *   "(1) In this subpart, unless the context otherwise requires, _electricity lines services_---
     >         
@@ -3259,21 +3295,21 @@ Miscellaneous
     > 
     > 
     
-    (2) The definition of _associate_ in [section 54C(4)][410] is amended by omitting ""section 12 of the Electricity Industry Reform Act 1998"" and substituting ""section 73 of the Electricity Industry Act 2010"".
+    (2) The definition of _associate_ in [section 54C(4)][412] is amended by omitting ""section 12 of the Electricity Industry Reform Act 1998"" and substituting ""section 73 of the Electricity Industry Act 2010"".
     
-    (3) The definition of _national grid_ in [section 54C(4)][410] is amended by omitting ""section 2(1) of the Electricity Act 1992"" and substituting ""section 5 of the Electricity Industry Act 2010"".
+    (3) The definition of _national grid_ in [section 54C(4)][412] is amended by omitting ""section 2(1) of the Electricity Act 1992"" and substituting ""section 5 of the Electricity Industry Act 2010"".
 
 ##### 151 Definition of consumer-owned
     
-*   (1) [Section 54D(1)(a)][443] is amended by omitting ""section 3 of the Electricity Industry Reform Act 1998"" and substituting ""clause 6 of Schedule 2 of the Electricity Industry Act 2010"".
+*   (1) [Section 54D(1)(a)][445] is amended by omitting ""section 3 of the Electricity Industry Reform Act 1998"" and substituting ""clause 6 of Schedule 2 of the Electricity Industry Act 2010"".
     
-    (2) [Section 54D(1)][443] is amended by repealing paragraph (b) and substituting the following paragraph:
+    (2) [Section 54D(1)][445] is amended by repealing paragraph (b) and substituting the following paragraph:
     
     > *   "(b) the trustees of each customer trust or community trust, or the committee of shareholders of each customer co-operative, as the case may be, that is referred to in paragraph (a) are elected by the persons who are consumers of the supplier in accordance with subsections (2A) to (2C); and".
     > 
     > 
     
-    (3) [Section 54D][443] is amended by inserting the following subsections after subsection (2):
+    (3) [Section 54D][445] is amended by inserting the following subsections after subsection (2):
     
     > *   "(2A) The requirements in respect of elections for the purposes of subsection (1)(b) are as follows: 
     >         
@@ -3333,13 +3369,13 @@ Miscellaneous
 
 ##### 152 How exempt status can be lost and default/customised price-quality regulation can be applied to consumer-owned suppliers
     
-*   (1) [Section 54H][444] is amended by inserting the following subsection after subsection (2):
+*   (1) [Section 54H][446] is amended by inserting the following subsection after subsection (2):
     
     > *   "(2A) A supplier must give notice in writing to the Commission within 10 working days after becoming aware that it has ceased to be consumer-owned."
     > 
     > 
     
-    (2) [Section 54H(3)][444] is amended by repealing paragraphs (a) to (c) and substituting the following paragraphs:
+    (2) [Section 54H(3)][446] is amended by repealing paragraphs (a) to (c) and substituting the following paragraphs:
     
     > *   "(a) 15% of the persons who are domestic consumers of the supplier as at the date of the petition who are eligible to vote in elections for trustees of the customer trust or community trust, or for members of the committee of shareholders of the customer co-operative:
     > 
@@ -3349,7 +3385,7 @@ Miscellaneous
     > 
     > 
     
-    (3) [Section 54H][444] is amended by inserting the following subsection after subsection (3):
+    (3) [Section 54H][446] is amended by inserting the following subsection after subsection (3):
     
     > *   "(3A) In this section, **domestic consumer** has the same meaning as in section 5 of the Electricity Industry Act 2010\."
     > 
@@ -3359,13 +3395,13 @@ Miscellaneous
 
 ##### 153 Administrative settlements with Transpower made before 1 April 2009
     
-*   (1) [Section 54M(3)(b)][445] is amended by omitting ""path"".
+*   (1) [Section 54M(3)(b)][447] is amended by omitting ""path"".
     
-    (2) [Section 54M(6)][445] is repealed.
+    (2) [Section 54M(6)][447] is repealed.
 
 ##### 154 Proposals for customised price-quality paths
     
-*   [Section 54P(1)][446] is amended by---
+*   [Section 54P(1)][448] is amended by---
         
     *   (a) omitting ""a section 52P determination"" and substituting ""an input methodology""; and
     
@@ -3375,7 +3411,7 @@ Miscellaneous
 
 ##### 155 New heading and sections 54R and 54S substituted
     
-*   The heading above [section 54R][447] and [sections 54R to 54U][447] are repealed and the following heading and sections substituted:
+*   The heading above [section 54R][449] and [sections 54R to 54U][449] are repealed and the following heading and sections substituted:
     
     > #### "Transpower grid upgrade plans and capital expenditure proposals
     > 
@@ -3441,7 +3477,7 @@ Miscellaneous
 
 ##### 156 New section 54V substituted
     
-*   [Section 54V][294] is repealed and the following heading and section are substituted:
+*   [Section 54V][296] is repealed and the following heading and section are substituted:
     
     > #### "Interface with Electricity Industry Act 2010
     > 
@@ -3487,7 +3523,7 @@ Miscellaneous
 
 ##### 157 Amendments to Energy (Fuels, Levies, and References) Act 1989
     
-*   [Sections 158][213] and [159][214] amend the [Energy (Fuels, Levies, and References) Act 1989][448].
+*   [Sections 158][213] and [159][214] amend the [Energy (Fuels, Levies, and References) Act 1989][450].
 
 ##### 158 Part 2 repealed
     
@@ -3495,17 +3531,17 @@ Miscellaneous
 
 ##### 159 Purpose of levies
     
-*   [Section 14(1)(c)][449] is amended by inserting ""or gas retailers (as defined in section 2(1) of the Gas Act 1992)"" after ""Electricity Act 1992)"".
+*   [Section 14(1)(c)][451] is amended by inserting ""or gas retailers (as defined in section 2(1) of the Gas Act 1992)"" after ""Electricity Act 1992)"".
 
 #### Amendments to Electricity Act 1992
 
 ##### 160 Amendments to Electricity Act 1992
     
-*   [Sections 162 to 164][218] amend the [Electricity Act 1992][280].
+*   [Sections 162 to 164][218] amend the [Electricity Act 1992][281].
 
 ##### 161 Purposes
     
-*   [Section 1A][450] is amended by repealing paragraph (b).
+*   [Section 1A][452] is amended by repealing paragraph (b).
 
 ##### 162 Interpretation
     
@@ -3543,7 +3579,7 @@ Miscellaneous
 
 ##### 163 New section 43A inserted
     
-*   (1) The following section is inserted after [section 43][451]:
+*   (1) The following section is inserted after [section 43][453]:
     
     > ##### "43A Different Ministries responsible for different codes
     >     
@@ -3563,21 +3599,21 @@ Miscellaneous
     
     (2) Part 5 is repealed.
     
-    (3) [Section 62][407] is repealed.
+    (3) [Section 62][409] is repealed.
     
-    (4) The heading above [section 158A][393] and the heading above [section 158G][391], and [sections 158A to 158G][393], are repealed.
+    (4) The heading above [section 158A][395] and the heading above [section 158G][393], and [sections 158A to 158G][395], are repealed.
     
     (5) Subpart 2 of Part 14 is repealed.
     
     (6) Part 15 is repealed.
     
-    (7) [Section 177][452] is repealed.
+    (7) [Section 177][454] is repealed.
 
 #### Repeal of Electricity Industry Reform Act 1998
 
 ##### 165 Repeal of Electricity Industry Reform Act 1998
     
-*   The [Electricity Industry Reform Act 1998][439] (1998 No 88) is repealed.
+*   The [Electricity Industry Reform Act 1998][441] (1998 No 88) is repealed.
 
 #### Amendments to other enactments
 
@@ -3628,7 +3664,7 @@ Material incorporated by reference
         
     *   (a) is the material as it exists at the time the relevant provision of the main document is published; and
     
-    *   (b) has legal effect as part of the main document for all purposes, except as provided in [clauses 7][453] and [8][454].
+    *   (b) has legal effect as part of the main document for all purposes, except as provided in [clauses 7][455] and [8][456].
     
     
 
@@ -3672,13 +3708,19 @@ Material incorporated by reference
     
     
 
-##### 7 Acts and Regulations Publication Act 1989 not applicable
+##### 7 Application of Legislation Act 2012
     
-*   The [Acts and Regulations Publication Act 1989][283] does not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
+*   (1) [Part 2][457] of the Legislation Act 2012 does not apply to material incorporated by reference into the main document, or to any amendment to, or replacement of, the material.
+    
+    (2) [Subpart 1][458] of Part 3 of the Legislation Act 2012, except [section 41][284], applies to material incorporated by reference in the main document, or to any amendment to, or replacement of, the material.
+    
+    Schedule 1 clause 7: replaced, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 ##### 8 Application of Regulations (Disallowance) Act 1989
     
-*   The [Regulations (Disallowance) Act 1989][282], except [section 4][293], applies to material incorporated by reference in the main document, or to any amendment to, or replacement of, the material.
+*   \[Repealed\]
+    
+    Schedule 1 clause 8: repealed, on 5 August 2013, by [section 77(3)][285] of the Legislation Act 2012 (2012 No 119).
 
 ---
 
@@ -3689,31 +3731,31 @@ When person is involved in distributor, generator, or retailer for purposes of P
 
 ## Contents
 
-[Involvements that do not count for purposes of separation rules in Part 3][455]
+[Involvements that do not count for purposes of separation rules in Part 3][459]
 
-[1][456][][456][Purpose of this schedule][456]
+[1][460][][460][Purpose of this schedule][460]
 
-[2][457][][457][Interests in distributors that are too small to count for purposes of Part 3][457]
+[2][461][][461][Interests in distributors that are too small to count for purposes of Part 3][461]
 
-[3][458][][458][Interests in generators that are too small to count for purposes of Part 3][458]
+[3][462][][462][Interests in generators that are too small to count for purposes of Part 3][462]
 
-[4][459][][459][Other interests that are not counted for purposes of Part 3][459]
+[4][463][][463][Other interests that are not counted for purposes of Part 3][463]
 
-[Interpretation of terms used in definition of "involved in"][460]
+[Interpretation of terms used in definition of "involved in"][464]
 
-[5][338][][338][Meaning of control rights][338]
+[5][340][][340][Meaning of control rights][340]
 
-[6][339][][339][Meaning of equity return rights][339]
+[6][341][][341][Meaning of equity return rights][341]
 
-[7][341][][341][Meaning of material influence][341]
+[7][343][][343][Meaning of material influence][343]
 
-[8][337][][337][Meaning of associate][337]
+[8][339][][339][Meaning of associate][339]
 
-[9][461][][461][Substance matters, not form, for purposes of determining level of involvement][461]
+[9][465][][465][Substance matters, not form, for purposes of determining level of involvement][465]
 
-[10][340][][340][Other interpretation for purposes of separation rules][340]
+[10][342][][342][Other interpretation for purposes of separation rules][342]
 
-[11][462][][462][Exclusions, etc, are cumulative][462]
+[11][466][][466][Exclusions, etc, are cumulative][466]
 
 ---
 
@@ -3745,7 +3787,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     *   (f) the conveyance of electricity mostly in competition with another line or lines operated by another electricity business that is not an associate of a person who is involved in the first line, provided that the competition is actual competition and not potential competition.
     
-    Compare: 1988 No 234 [s 6][463]; 1998 No 88 [s 19][464]
+    Compare: 1988 No 234 [s 6][467]; 1998 No 88 [s 19][468]
 
 ##### 3 Interests in generators that are too small to count for purposes of Part 3
     
@@ -3769,7 +3811,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     *   (c) the generation of electricity that does not have a total annual nominal capacity greater than 5 GWh per year (determined according to nameplate).
     
-    Compare: 1988 No 234 [s 6][463]; 1998 No 88 [s 19][464]
+    Compare: 1988 No 234 [s 6][467]; 1998 No 88 [s 19][468]
 
 ##### 4 Other interests that are not counted for purposes of Part 3
     
@@ -3805,7 +3847,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     (2) For the purposes of subclause (1)(f), a trustee may be a bare trustee despite the fact that he or she is entitled as a trustee to be remunerated from the income or property of the trust.
     
-    Compare: 1988 No 234 [s 6][463]; 1998 No 88 [s 19][464]
+    Compare: 1988 No 234 [s 6][467]; 1998 No 88 [s 19][468]
 
 #### Interpretation of terms used in definition of "involved in"
 
@@ -3813,13 +3855,13 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
 *   (1) For the purposes of this Act, a _control right_ means a voting right attaching to a voting security.
     
-    (2) A person has a control right if the person would have a relevant interest under sections 5 to 5B of the [Securities Markets Act 1988][465], in the voting securities that confer that right,---
+    (2) A person has a control right if the person would have a relevant interest under sections 5 to 5B of the [Securities Markets Act 1988][469], in the voting securities that confer that right,---
         
     *   (a) if _voting security_, in relation to a body, meant a security of the body that confers a right to vote at meetings of members (whether or not there is any restriction or limitation on the number of votes that may be cast by or on behalf of the holder of the security), and includes a security that, in accordance with the terms of the security, is convertible into a security of that kind; and
     
     *   (b) if references in those sections to a number or percentage of voting securities were a reference to the number or percentage of the votes conferred by those securities.
     
-    Compare: 1998 No 88 [s 9][466]
+    Compare: 1998 No 88 [s 9][470]
 
 ##### 6 Meaning of equity return rights
     
@@ -3867,7 +3909,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     > 
     > is the percentage of the equity return rights held by the second person in the business.
     
-    Compare: 1998 No 88 [s 10][467]
+    Compare: 1998 No 88 [s 10][471]
 
 ##### 7 Meaning of material influence
     
@@ -3897,7 +3939,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     (5) To avoid doubt, a power to cast 1 of many votes at an election of trustees or councillors does not, of itself, constitute material influence.
     
-    Compare: 1998 No 88 [s 11][468]
+    Compare: 1998 No 88 [s 11][472]
 
 ##### 8 Meaning of associate
     
@@ -3935,7 +3977,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     (2) References in subclause (1)(e) to (h) to a company or business relate to a company or business in respect of which a connection with a business is relevant.
     
-    Compare: 1998 No 88 [s 12][469]
+    Compare: 1998 No 88 [s 12][473]
 
 ##### 9 Substance matters, not form, for purposes of determining level of involvement
     
@@ -3961,7 +4003,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     (3) A reference to a power or obligation includes a reference to a power, influence, ability, or requirement that arises from, or is capable of being exercised or required as a result of, a breach of any trust or agreement whether or not it is legally enforceable.
     
-    Compare: 1988 No 234 [s 5(4)--(6)][387]; 1998 No 88 [s 14(2)--(4)][388]
+    Compare: 1988 No 234 [s 5(4)--(6)][389]; 1998 No 88 [s 14(2)--(4)][390]
 
 ##### 10 Other interpretation for purposes of separation rules
     
@@ -3995,7 +4037,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
         
         
     
-    Compare: 1998 No 88 [s 3(2)][470]
+    Compare: 1998 No 88 [s 3(2)][474]
 
 ##### 11 Exclusions, etc, are cumulative
     
@@ -4005,7 +4047,7 @@ When person is involved in distributor, generator, or retailer for purposes of P
     
     *   (b) references to an activity being carried out only or solely for a particular purpose or in a particular way, or to a person having an involvement or interest only or solely for a particular reason, must not be read as excluding reliance on any other limitation, exclusion, or exemption in any of those clauses.
     
-    Compare: 1998 No 88 [s 3(3)][470]
+    Compare: 1998 No 88 [s 3(3)][474]
 
 ---
 
@@ -4016,15 +4058,15 @@ Arm's-length rules
 
 ## Contents
 
-[1][471][][471][Objective][471]
+[1][475][][475][Objective][475]
 
-[2][472][][472][Interpretation][472]
+[2][476][][476][Interpretation][476]
 
-[3][473][][473][Arm's-length rules][473]
+[3][477][][477][Arm's-length rules][477]
 
-[4][474][][474][Rules do not limit objective][474]
+[4][478][][478][Rules do not limit objective][478]
 
-[5][475][][475][These duties are additional to other duties][475]
+[5][479][][479][These duties are additional to other duties][479]
 
 ---
 
@@ -4080,45 +4122,31 @@ Arm's-length rules
 
 #### Duty to ensure arm's-length objective is met
 
-##### 1
-    
-*   Business A and every parent of business A, and business B and every parent of business B, must take all reasonable steps to ensure that the arm's-length objective in clause 1 is met.
+*   1 Business A and every parent of business A, and business B and every parent of business B, must take all reasonable steps to ensure that the arm's-length objective in clause 1 is met.
 
 #### Arm's-length test
 
-##### 2
-    
-*   Business A, and every parent of business A, must not enter into a transaction in which business B, or any parent of business B, is interested if the terms of the transaction are terms that unrelated parties in the position of the parties to the transaction, each acting independently and in its own best interests, would not have agreed to.
+*   2 Business A, and every parent of business A, must not enter into a transaction in which business B, or any parent of business B, is interested if the terms of the transaction are terms that unrelated parties in the position of the parties to the transaction, each acting independently and in its own best interests, would not have agreed to.
 
 #### Duty not to prefer interests of business B
 
-##### 3
-    
-*   A director or manager of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B over the interests of business A.
+*   3 A director or manager of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B over the interests of business A.
 
 #### Duty not to discriminate in favour of business B
 
-##### 4
-    
-*   Business A must not, in providing services or benefits, discriminate in favour of business B or the customers, suppliers, or members of business B.
+*   4 Business A must not, in providing services or benefits, discriminate in favour of business B or the customers, suppliers, or members of business B.
 
 #### Duty to focus on interests of right ultimate owners
 
-##### 5
-    
-*   A director or manager of business A must, when exercising powers or performing duties in connection with business A, act in the interests of the ultimate members of business A in their capacity as such, and must neither subordinate the interests of those members to the interests of the members of business B nor, to the extent that the members or ultimate beneficial members of each business overlap, take account of that fact or have regard to their dual capacity as members of business B and business A.
+*   5 A director or manager of business A must, when exercising powers or performing duties in connection with business A, act in the interests of the ultimate members of business A in their capacity as such, and must neither subordinate the interests of those members to the interests of the members of business B nor, to the extent that the members or ultimate beneficial members of each business overlap, take account of that fact or have regard to their dual capacity as members of business B and business A.
 
 #### Duty of directors and managers of parents of business A
 
-##### 6
-    
-*   A director or manager of a parent of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B, or of the customers, suppliers, or members of business B in that capacity, over the interests of business A or the customers, suppliers, or members of business A.
+*   6 A director or manager of a parent of business A must not, when exercising powers or performing duties in connection with business A, act in a manner that the director or manager knows or ought reasonably to know would prefer the interests of business B, or of the customers, suppliers, or members of business B in that capacity, over the interests of business A or the customers, suppliers, or members of business A.
 
 #### At least 2 independent directors
 
-##### 7
-    
-*   At least 2 directors of business A must---
+*   7 At least 2 directors of business A must---
         
     *   (a) be neither a director nor a manager of business B; and
     
@@ -4128,9 +4156,7 @@ Arm's-length rules
 
 #### No cross-directors who are executive directors
 
-##### 8
-    
-*   A director of business A may be a director of business B, but must not---
+*   8 A director of business A may be a director of business B, but must not---
         
     *   (a) manage business B on a day-to-day basis; or
     
@@ -4142,9 +4168,7 @@ Arm's-length rules
 
 #### Separate management rule
 
-##### 9(1)
-    
-*   This clause applies if business A is involved in---
+*   9(1) This clause applies if business A is involved in---
         
     *   (a) a generator that has a total capacity of more than 50 MW and that is connected to any of business A's networks; or 
     
@@ -4162,17 +4186,13 @@ Arm's-length rules
 
 #### Directors and managers must not be placed under certain obligations
 
-##### 10(1)
-    
-*   Subject to subclause (2), no person may place a director or manager of business A under an obligation, whether enforceable or not, to act in accordance with the directions, instructions, or wishes of business B, or any director or manager or associate of business B, or any parent of business B, and no director or manager may submit to any such obligation.
+*   10(1) Subject to subclause (2), no person may place a director or manager of business A under an obligation, whether enforceable or not, to act in accordance with the directions, instructions, or wishes of business B, or any director or manager or associate of business B, or any parent of business B, and no director or manager may submit to any such obligation.
     
     (2) A common parent, or a cross-director or a cross-manager, of both business A and business B may place a director or manager under an obligation referred to in subclause (1) if doing so does not contravene another of the arm's-length rules.
 
 #### Restriction on use of information
 
-##### 11(1)
-    
-*   Business A must not disclose or permit the disclosure to business B, or use or permit the use for the purposes of business B, of restricted information of business A.
+*   11(1) Business A must not disclose or permit the disclosure to business B, or use or permit the use for the purposes of business B, of restricted information of business A.
     
     An electricity trust that is a parent of business A (**trust A**), business A, and every parent of trust A, must not disclose or permit the disclosure to business B, an electricity trust that is a parent of business B (**trust B**), or any parent of trust B, or use or permit the use for the purposes of business B or trust B, of restricted information of business A or trust A.
     
@@ -4188,27 +4208,19 @@ Arm's-length rules
 
 #### Records
 
-##### 12
-    
-*   Every business to which this schedule applies must keep at its registered office a register of transactions entered into between business A, or any parent of business A, and business B, or any parent of business B.
+*   12 Every business to which this schedule applies must keep at its registered office a register of transactions entered into between business A, or any parent of business A, and business B, or any parent of business B.
 
-##### 13
-    
-*   Business A must, within 10 working days of entering into any such transaction, enter in its register details sufficient to identify the nature and import of the transaction.
+*   13 Business A must, within 10 working days of entering into any such transaction, enter in its register details sufficient to identify the nature and import of the transaction.
 
 #### Practical considerations
 
-##### 14
-    
-*   Business A and every parent of business A must ensure that its practical arrangements, such as use of accommodation, equipment, and services, do not contravene this schedule.
+*   14 Business A and every parent of business A must ensure that its practical arrangements, such as use of accommodation, equipment, and services, do not contravene this schedule.
 
-##### 15
-    
-*   Business A and every parent of business A must ensure that its selection and appointment of advisors does not prejudice compliance with rules 7 to 11\.
+*   15 Business A and every parent of business A must ensure that its selection and appointment of advisors does not prejudice compliance with rules 7 to 11\.
 
 ##### 4 Rules do not limit objective
     
-*   The arm's-length rules in [clause 3][473] do not limit the generality of the arm's-length objective in [clause 1][471].
+*   The arm's-length rules in [clause 3][477] do not limit the generality of the arm's-length objective in [clause 1][475].
 
 ##### 5 These duties are additional to other duties
     
@@ -4223,51 +4235,51 @@ Dispute resolution scheme
 
 ## 
 
-[1][476][][476][Purpose of dispute resolution scheme][476]
+[1][480][][480][Purpose of dispute resolution scheme][480]
 
-[2][477][][477][Interpretation][477]
+[2][481][][481][Interpretation][481]
 
-[Approved scheme: approval and withdrawal of approval][478]
+[Approved scheme: approval and withdrawal of approval][482]
 
-[3][389][][389][Meaning of approved scheme][389]
+[3][391][][391][Meaning of approved scheme][391]
 
-[4][479][][479][Application for approval][479]
+[4][483][][483][Application for approval][483]
 
-[5][480][][480][Mandatory considerations for approval][480]
+[5][484][][484][Mandatory considerations for approval][484]
 
-[6][481][][481][Minister must decide application for approval][481]
+[6][485][][485][Minister must decide application for approval][485]
 
-[7][482][][482][Decision must be notified and publicised][482]
+[7][486][][486][Decision must be notified and publicised][486]
 
-[8][483][][483][Rules of approved scheme not to change without Ministerial approval][483]
+[8][487][][487][Rules of approved scheme not to change without Ministerial approval][487]
 
-[9][484][][484][Notice of intention to withdraw approval ][484]
+[9][488][][488][Notice of intention to withdraw approval ][488]
 
-[10][485][][485][Objection to withdrawal of approval][485]
+[10][489][][489][Objection to withdrawal of approval][489]
 
-[11][486][][486][Withdrawal of approval][486]
+[11][490][][490][Withdrawal of approval][490]
 
-[12][487][][487][Effect of withdrawal of approval][487]
+[12][491][][491][Effect of withdrawal of approval][491]
 
-[Approved scheme: rules and obligations][488]
+[Approved scheme: rules and obligations][492]
 
-[13][489][][489][Rules of approved scheme][489]
+[13][493][][493][Rules of approved scheme][493]
 
-[14][490][][490][List of members][490]
+[14][494][][494][List of members][494]
 
-[15][491][][491][Independent 5-yearly review][491]
+[15][495][][495][Independent 5-yearly review][495]
 
-[16][492][][492][Annual report][492]
+[16][496][][496][Annual report][496]
 
-[17][493][][493][Provision of information][493]
+[17][497][][497][Provision of information][497]
 
-[Regulated scheme: rules of scheme and appointment of provider][494]
+[Regulated scheme: rules of scheme and appointment of provider][498]
 
-[18][390][][390][Regulations setting out rules of regulated schemes][390]
+[18][392][][392][Regulations setting out rules of regulated schemes][392]
 
-[19][495][][495][Order in Council appointing provider of regulated scheme][495]
+[19][499][][499][Order in Council appointing provider of regulated scheme][499]
 
-[20][496][][496][Notice of intention to revoke appointment][496]
+[20][500][][500][Notice of intention to revoke appointment][500]
 
 ---
 
@@ -4285,7 +4297,7 @@ Dispute resolution scheme
     
 *   In this schedule, unless the context otherwise requires,---
     
-    _approved scheme_ has the meaning given in [clause 3][389]
+    _approved scheme_ has the meaning given in [clause 3][391]
     
     _dispute resolution scheme_, at any time, means whichever of the following is in force under this schedule at the time:
         
@@ -4297,7 +4309,7 @@ Dispute resolution scheme
     
     _provider_, in relation to a scheme, means the person responsible for the scheme
     
-    _regulated scheme_ means the scheme provided for in regulations made under [clause 18][390].
+    _regulated scheme_ means the scheme provided for in regulations made under [clause 18][392].
 
 #### Approved scheme: approval and withdrawal of approval
 
@@ -4305,11 +4317,11 @@ Dispute resolution scheme
     
 *   The _approved scheme_ is---
         
-    *   (a) the complaints resolution scheme (if any) approved by the Electricity Commission under [section 158G][391] of the Electricity Act 1992, and the Minister under [section 43E][497] of the Gas Act 1992 (provided the scheme's approval has not been withdrawn); or 
+    *   (a) the complaints resolution scheme (if any) approved by the Electricity Commission under [section 158G][393] of the Electricity Act 1992, and the Minister under [section 43E][501] of the Gas Act 1992 (provided the scheme's approval has not been withdrawn); or 
     
-    *   (b) the scheme approved by the Minister under [clause 6][481] (provided the approval has not been withdrawn).
+    *   (b) the scheme approved by the Minister under [clause 6][485] (provided the approval has not been withdrawn).
     
-    Compare: 2008 No 97 [s 50][498]
+    Compare: 2008 No 97 [s 50][502]
 
 ##### 4 Application for approval
     
@@ -4325,13 +4337,13 @@ Dispute resolution scheme
     
     (3) The Minister may ask an applicant to supply any further information or documentation in support of the application.
     
-    Compare: 2008 No 97 [s 51][499]
+    Compare: 2008 No 97 [s 51][503]
 
 ##### 5 Mandatory considerations for approval
     
-*   (1) When considering an application under [clause 4][479], the Minister must have regard to the following considerations in light of the principles listed in subclause (2):
+*   (1) When considering an application under [clause 4][483], the Minister must have regard to the following considerations in light of the principles listed in subclause (2):
         
-    *   (a) whether the scheme is capable of meeting the purpose of the dispute resolution scheme as set out in [clause 1][476]:
+    *   (a) whether the scheme is capable of meeting the purpose of the dispute resolution scheme as set out in [clause 1][480]:
     
     *   (b) whether the scheme has broad support among the persons who are required to be members:
     
@@ -4347,7 +4359,7 @@ Dispute resolution scheme
             
         *   (i) the principles listed in subclause (2); and
         
-        *   (ii) the requirements of [clause 13(1)][489].
+        *   (ii) the requirements of [clause 13(1)][493].
         
         
     
@@ -4365,11 +4377,11 @@ Dispute resolution scheme
     
     *   (f) effectiveness.
     
-    Compare: 2008 No 97 [s 52][500]
+    Compare: 2008 No 97 [s 52][504]
 
 ##### 6 Minister must decide application for approval
     
-*   (1) After considering an application made under [clause 4][479], the Minister may---
+*   (1) After considering an application made under [clause 4][483], the Minister may---
         
     *   (a) approve the scheme as the approved scheme; or
     
@@ -4381,7 +4393,7 @@ Dispute resolution scheme
     
     *   (b) the Authority; and 
     
-    *   (c) if an industry body is appointed under [section 43ZL][501] of the Gas Act 1992, that industry body; and
+    *   (c) if an industry body is appointed under [section 43ZL][505] of the Gas Act 1992, that industry body; and
     
     *   (d) any persons (or their representatives) that the Minister considers are likely to be substantially affected by the approval.
     
@@ -4389,7 +4401,7 @@ Dispute resolution scheme
     
     (4) The Minister may approve a scheme if there is already another approved scheme, but in that case the approval does not take effect until the approval of the other scheme is withdrawn.
     
-    Compare: 2008 No 97 [s 53][502]
+    Compare: 2008 No 97 [s 53][506]
 
 ##### 7 Decision must be notified and publicised
     
@@ -4399,7 +4411,7 @@ Dispute resolution scheme
     
     *   (b) if the decision is to approve the application, ensure that the approval is publicised. 
     
-    Compare: 2008 No 97 [s 54][503]
+    Compare: 2008 No 97 [s 54][507]
 
 ##### 8 Rules of approved scheme not to change without Ministerial approval
     
@@ -4407,9 +4419,9 @@ Dispute resolution scheme
     
     (2) If the provider of the approved scheme notifies the Minister of a proposed rule change, the rule change is deemed to be approved by the Minister unless, within 45 days after the date of notification, the Minister declines approval.
     
-    (3) The Minister may decline approval for a rule change only on the grounds that, if the rules were changed as proposed, they would not comply with the principles listed in [clause 5(2)][480] or would not comply with [clause 13][489].
+    (3) The Minister may decline approval for a rule change only on the grounds that, if the rules were changed as proposed, they would not comply with the principles listed in [clause 5(2)][484] or would not comply with [clause 13][493].
     
-    Compare: 2008 No 97 [ss 65][504], [66][505]
+    Compare: 2008 No 97 [ss 65][508], [66][509]
 
 ##### 9 Notice of intention to withdraw approval 
     
@@ -4427,7 +4439,7 @@ Dispute resolution scheme
     
     (3) The only grounds for withdrawing approval are as follows:
         
-    *   (a) the scheme is not, or is no longer, capable of meeting the purpose of the dispute resolution scheme as set out in [clause 1][476]:
+    *   (a) the scheme is not, or is no longer, capable of meeting the purpose of the dispute resolution scheme as set out in [clause 1][480]:
     
     *   (b) there has been a loss of broad support for the scheme:
     
@@ -4439,17 +4451,17 @@ Dispute resolution scheme
     
     *   (f) the provider has not supplied the Minister with 1 or more of the following:
             
-        *   (i) an annual report as required by [clause 16][492]:
+        *   (i) an annual report as required by [clause 16][496]:
         
-        *   (ii) any further information requested by the Minister under [clause 17][493]:
+        *   (ii) any further information requested by the Minister under [clause 17][497]:
         
-        *   (iii) a report of an independent review as required by [clause 15][491]:
+        *   (iii) a report of an independent review as required by [clause 15][495]:
         
         
     
-    *   (g) the provider has not notified the Minister before changing the rules of the scheme as required by [clause 8][483]:
+    *   (g) the provider has not notified the Minister before changing the rules of the scheme as required by [clause 8][487]:
     
-    *   (h) the scheme no longer satisfies the principles in [clause 5(2)][480].
+    *   (h) the scheme no longer satisfies the principles in [clause 5(2)][484].
     
     (4) The Minister's notice may require the provider to--- 
         
@@ -4457,7 +4469,7 @@ Dispute resolution scheme
     
     *   (b) provide the Minister with a list of the names and business addresses of current members so that the Minister can, if the Minister wishes, notify all members of the Minister's intention to withdraw the scheme's approval.
     
-    Compare: 2008 No 97 [ss 56][506], [57][507]
+    Compare: 2008 No 97 [ss 56][510], [57][511]
 
 ##### 10 Objection to withdrawal of approval
     
@@ -4465,17 +4477,17 @@ Dispute resolution scheme
     
     (2) The Minister must consider any objection that is received before the end of the notice period.
     
-    Compare: 2008 No 97 [s 58][508]
+    Compare: 2008 No 97 [s 58][512]
 
 ##### 11 Withdrawal of approval
     
 *   (1) If the Minister has given notice of intention to withdraw approval, the Minister may withdraw the approval at any time after the expiry of the notice period. 
     
-    (2) When considering whether to withdraw approval, the Minister must have regard to the considerations referred to in [clause 5(1)][480] in light of the principles listed in clause 5(2).
+    (2) When considering whether to withdraw approval, the Minister must have regard to the considerations referred to in [clause 5(1)][484] in light of the principles listed in clause 5(2).
     
     (3) The Minister must withdraw the approval of an approved dispute resolution scheme if the provider so requests, in which case the scheme is no longer approved from the date that is 3 months after the date of withdrawal of approval.
     
-    Compare: 2008 No 97 [s 56][506]
+    Compare: 2008 No 97 [s 56][510]
 
 ##### 12 Effect of withdrawal of approval
     
@@ -4485,7 +4497,7 @@ Dispute resolution scheme
     
     *   (b) the regulated scheme.
     
-    Compare: 2008 No 97 [s 61][509]
+    Compare: 2008 No 97 [s 61][513]
 
 #### Approved scheme: rules and obligations
 
@@ -4521,19 +4533,19 @@ Dispute resolution scheme
     
     (2) The responsible person of the approved scheme must publicise the rules.
     
-    Compare: 2008 No 97 [ss 63][510], [64][511]
+    Compare: 2008 No 97 [ss 63][514], [64][515]
 
 ##### 14 List of members
     
 *   The provider of the approved scheme must maintain and publicise a list of current members of the scheme.
     
-    Compare: 2008 No 97 [s 62][512]
+    Compare: 2008 No 97 [s 62][516]
 
 ##### 15 Independent 5-yearly review
     
 *   The provider of the approved scheme must ensure that, at least once every 5 years, an independent review of the scheme is carried out and the report of the review is provided to the Minister within 3 months of its completion.
     
-    Compare: 2008 No 97 [s 63(q)][510]
+    Compare: 2008 No 97 [s 63(q)][514]
 
 ##### 16 Annual report
     
@@ -4543,7 +4555,7 @@ Dispute resolution scheme
     
     (3) The provider must publicise the annual report.
     
-    Compare: 2008 No 97 [ss 68][513], [70][514]
+    Compare: 2008 No 97 [ss 68][517], [70][518]
 
 ##### 17 Provision of information
     
@@ -4551,11 +4563,11 @@ Dispute resolution scheme
         
     *   (a) matters relating to the most recent annual report:
     
-    *   (b) the scheme's compliance with the principles listed in [clause 5(2)][480].
+    *   (b) the scheme's compliance with the principles listed in [clause 5(2)][484].
     
-    (2) Nothing in this clause or [clause 16][492] authorises a breach of the [Privacy Act 1993][515] or any obligation of confidentiality.
+    (2) Nothing in this clause or [clause 16][496] authorises a breach of the [Privacy Act 1993][519] or any obligation of confidentiality.
     
-    Compare: 2008 No 97 [s 69][516]
+    Compare: 2008 No 97 [s 69][520]
 
 #### Regulated scheme: rules of scheme and appointment of provider
 
@@ -4565,9 +4577,9 @@ Dispute resolution scheme
     
     (2) The regulations must---
         
-    *   (a) set out the rules of the scheme, which must comply with [clause 13][489]; and
+    *   (a) set out the rules of the scheme, which must comply with [clause 13][493]; and
     
-    *   (b) be consistent with the purpose in [clause 1][476].
+    *   (b) be consistent with the purpose in [clause 1][480].
     
     (3) Before making a recommendation for the regulations, the Minister must consult with---
         
@@ -4579,7 +4591,7 @@ Dispute resolution scheme
     
     (4) However, a failure to consult with the persons referred to in subclause (3)(c) does not affect the validity of the regulations.
     
-    Schedule 4 clause 18 heading: amended, on 12 December 2012, by [section 5][517] of the Electricity Industry Amendment Act 2012 (2012 No 102).
+    Schedule 4 clause 18 heading: amended, on 12 December 2012, by [section 5][521] of the Electricity Industry Amendment Act 2012 (2012 No 102).
 
 ##### 19 Order in Council appointing provider of regulated scheme
     
@@ -4589,7 +4601,7 @@ Dispute resolution scheme
         
     *   (a) is a formally constituted dispute resolution body; and
     
-    *   (b) is capable of providing the scheme in accordance with the purpose in [clause 1][476] and the rules of the scheme.
+    *   (b) is capable of providing the scheme in accordance with the purpose in [clause 1][480] and the rules of the scheme.
     
     (3) Before making a recommendation for an Order in Council, the Minister must consult with the Minister of Energy.
 
@@ -4606,49 +4618,27 @@ Existing agreements in respect of Waitaki Power Scheme
 
 [s 123][162]
 
-##### 1
-    
-*   Agreement between Meridian Energy Limited and Transit New Zealand, dated April 2008, entitled ""Agreement in relation to water rights"".
+*   1 Agreement between Meridian Energy Limited and Transit New Zealand, dated April 2008, entitled Agreement in relation to water rights.
 
-##### 2
-    
-*   Agreement between Meridian Energy Limited and Her Majesty The Queen acting by and through the Director-General of Conservation, dated September 2006, entitled ""Compensatory funding agreement"".
+*   2 Agreement between Meridian Energy Limited and Her Majesty The Queen acting by and through the Director-General of Conservation, dated September 2006, entitled Compensatory funding agreement.
 
-##### 3
-    
-*   Agreement between Meridian Energy Limited and the Mackenzie District Council, dated January 2008, entitled ""Agreement in relation to water rights"".
+*   3 Agreement between Meridian Energy Limited and the Mackenzie District Council, dated January 2008, entitled Agreement in relation to water rights.
 
-##### 4
-    
-*   Agreement between Meridian Energy Limited and Royal Forest & Bird Protection Society of New Zealand Incorporated, undated, entitled ""Agreement in relation to water rights"".
+*   4 Agreement between Meridian Energy Limited and Royal Forest & Bird Protection Society of New Zealand Incorporated, undated, entitled Agreement in relation to water rights.
 
-##### 5
-    
-*   Agreement between Meridian Energy Limited and Central South Island Fish and Game Council, dated 24 September 2008, entitled ""Agreement in relation to water rights"".
+*   5 Agreement between Meridian Energy Limited and Central South Island Fish and Game Council, dated 24 September 2008, entitled Agreement in relation to water rights.
 
-##### 6
-    
-*   Agreement between Meridian Energy Limited and New Zealand Recreational Canoeing Association Incorporated and Tekapo Whitewater Trust, dated 30 September 2009, entitled ""Agreement in relation to water rights"".
+*   6 Agreement between Meridian Energy Limited and New Zealand Recreational Canoeing Association Incorporated and Tekapo Whitewater Trust, dated 30 September 2009, entitled Agreement in relation to water rights.
 
-##### 7
-    
-*   Agreement between Electricity Corporation of New Zealand Limited and Lower Waitaki Irrigation Company Limited, Maerewhenua District Water Resource Co. Limited and Morven, Glenavy, Ikawai Irrigation Company Limited, dated 26 November 1990, entitled ""Agreement in relation to water rights"".
+*   7 Agreement between Electricity Corporation of New Zealand Limited and Lower Waitaki Irrigation Company Limited, Maerewhenua District Water Resource Co. Limited and Morven, Glenavy, Ikawai Irrigation Company Limited, dated 26 November 1990, entitled Agreement in relation to water rights.
 
-##### 8
-    
-*   Agreement between Electricity Corporation of New Zealand Limited and Benmore Irrigation Company Limited, dated 26 November 1990, entitled ""Agreement in relation to water rights"".
+*   8 Agreement between Electricity Corporation of New Zealand Limited and Benmore Irrigation Company Limited, dated 26 November 1990, entitled Agreement in relation to water rights.
 
-##### 9
-    
-*   Agreement between Meridian Energy Limited and Te Rūnanga o Ngāi Tahu, dated 2 August 2000, entitled ""Waitaki catchment deed of agreement"".
+*   9 Agreement between Meridian Energy Limited and Te Rūnanga o Ngāi Tahu, dated 2 August 2000, entitled Waitaki catchment deed of agreement.
 
-##### 10
-    
-*   Agreement between Meridian Energy Limited and Mount Cook Salmon Limited, dated 24 May 1999, entitled ""Agreement to lease"".
+*   10 Agreement between Meridian Energy Limited and Mount Cook Salmon Limited, dated 24 May 1999, entitled Agreement to lease.
 
-##### 11
-    
-*   The head agreement between Electricity Corporation of New Zealand Limited and---
+*   11 The head agreement between Electricity Corporation of New Zealand Limited and---
         
     *   (a) Her Majesty The Queen acting by and through the Minister of Conservation; and
     
@@ -4676,9 +4666,7 @@ Existing agreements in respect of Waitaki Power Scheme
     
     
 
-##### 12
-    
-*   Agreement between Meridian Energy Limited and Mackenzie Irrigation Company Limited, dated 31 October 2006, entitled ""Agreement in relation to the allocation of water for irrigation"".
+*   12 Agreement between Meridian Energy Limited and Mackenzie Irrigation Company Limited, dated 31 October 2006, entitled Agreement in relation to the allocation of water for irrigation.
 
 ---
 
@@ -4692,25 +4680,25 @@ Repeals of, and amendments to, Acts
 
 ##### [Crown Entities Act 2004][240] (2004 No 115)
 
-Item relating to Electricity Commission in Part 1 of [Schedule 1][518]: repeal.
+Item relating to Electricity Commission in Part 1 of [Schedule 1][522]: repeal.
 
-First column of Part 3 of [Schedule 1][518]: insert ""Electricity Authority"" in its appropriate alphabetical order.
+First column of Part 3 of [Schedule 1][522]: insert ""Electricity Authority"" in its appropriate alphabetical order.
 
-##### [Electricity Amendment Act 2004][519] (2004 No 80)
+##### [Electricity Amendment Act 2004][523] (2004 No 80)
 
 Repeal.
 
-##### [Energy Companies Act 1992][520] (1992 No 56)
+##### [Energy Companies Act 1992][524] (1992 No 56)
 
-[Section 46A][405]: add:
+[Section 46A][407]: add:
 
 > *   "(4) This section is subject to section 104 of the Electricity Industry Act 2010\."
 > 
 > 
 
-##### [Gas Act 1992][521] (1992 No 124)
+##### [Gas Act 1992][525] (1992 No 124)
 
-Heading above [section 43E][497]: repeal and substitute:
+Heading above [section 43E][501]: repeal and substitute:
 
 > #### "Dispute resolution".
 
@@ -4730,7 +4718,7 @@ Section 43E: repeal and substitute:
 >     
 >     "(4) The procedures for making complaints to the dispute resolution scheme are as set out in the rules of the dispute resolution scheme.
 >     
->     "Compare: 1992 No 122 [s 158G][391]
+>     "Compare: 1992 No 122 [s 158G][393]
 > 
 > ##### "43EA Membership of dispute resolution scheme
 >     
@@ -4784,7 +4772,7 @@ Section 43E: repeal and substitute:
 > 
 > 
 
-[Section 43S(1)][522]: insert the following paragraph after paragraph (f):
+[Section 43S(1)][526]: insert the following paragraph after paragraph (f):
 
 > *   "(fa) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any class of persons from all or any of the requirements in sections 43EA to 43EC (which relate to dispute resolution):".
 > 
@@ -4824,36 +4812,36 @@ Section 43ZZQ(1): omit "Electricity Commission" and substitute "Electricity Auth
 
 Section 43ZZQ(2): omit "Electricity Commission" and substitute "Electricity Authority". 
 
-##### [Local Government Act 2002][523] (2002 No 84)
+##### [Local Government Act 2002][527] (2002 No 84)
 
-[Section 6(4)(a)][524] of the Local Government Act 2002 (which defines what are not council-controlled organisations) is repealed and the following paragraph substituted:
+[Section 6(4)(a)][528] of the Local Government Act 2002 (which defines what are not council-controlled organisations) is repealed and the following paragraph substituted:
 
 > *   "(a) a body corporate that carries on an electricity business (whether or not that business is its principal or only business) or a trust that is constituted for purposes which include owning or controlling, directly or indirectly, all or part of an electricity company that carries on that business; or".
 > 
 > 
 
-##### [Ombudsmen Act 1975][525] (1975 No 9)
+##### [Ombudsmen Act 1975][529] (1975 No 9)
 
-[Schedule 1][526], Part 2: omit item relating to the Electricity Commission and substitute:
+[Schedule 1][530], Part 2: omit item relating to the Electricity Commission and substitute:
 
 > "Electricity Authority".
 
 ## Part 2  
 Revocations of, and amendments to, other enactments
 
-##### [Electricity Governance Regulations 2003][438] (SR 2003/374)
+##### [Electricity Governance Regulations 2003][440] (SR 2003/374)
 
 Revoke.
 
-##### [Electricity Governance (Connection of Distributed Generation) Regulations 2007][291] (SR 2007/219)
+##### [Electricity Governance (Connection of Distributed Generation) Regulations 2007][293] (SR 2007/219)
 
 Revoke.
 
-##### [Electricity Governance (Security of Supply) Regulations 2008][290] (SR 2008/252)
+##### [Electricity Governance (Security of Supply) Regulations 2008][292] (SR 2008/252)
 
 Revoke.
 
-##### [Electricity Industry Reform Act (Fees) Regulations 1998][527] (SR 1998/276)
+##### [Electricity Industry Reform Act (Fees) Regulations 1998][531] (SR 1998/276)
 
 Revoke.
 
@@ -4861,76 +4849,37 @@ Revoke.
 
 Revoke.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Electricity Industry Act 2010\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][528] ![](/images/external_link.gif).
+*   This is a reprint of the Electricity Industry Act 2010 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][529] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][532] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][533] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][530] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][534] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][535] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][531] and [17E][532] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][285]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Electricity Industry Amendment Act 2012][536] (2012 No 102)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Search and Surveillance Act 2012 (2012 No 24): [section 239][307]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Electricity Industry Amendment Act 2012][533] (2012 No 102)
-    
-    Search and Surveillance Act 2012 (2012 No 24): [section 239][305]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][277]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634236
 [2]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3019705
 [3]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634238
@@ -5207,260 +5156,263 @@ Revoke.
 [274]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230585
 [275]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230588
 [276]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230591
-[277]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88419
-[278]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88433
-[279]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685406
-[280]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM281857
-[281]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282492
-[282]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195534
-[283]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195097
-[284]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283742
-[285]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230592
-[286]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231412
-[287]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231445
-[288]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231454
-[289]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233158
-[290]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1403500
-[291]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM444566
-[292]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283733
-[293]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195549
-[294]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940060
-[295]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM311052
-[296]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283759
-[297]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283761
-[298]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136542
-[299]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136781
-[300]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136770
-[301]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136813
-[302]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136815
-[303]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283765
-[304]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89919
-[305]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4356303
-[306]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283763
-[307]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM321160
-[308]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232286
-[309]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232287
-[310]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232288
-[311]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231476
-[312]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232217
-[313]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1216702
-[314]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233128
-[315]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283767
-[316]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283769
-[317]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283771
-[318]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232235
-[319]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232234
-[320]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232280
-[321]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232289
-[322]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232281
-[323]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283776
-[324]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283780
-[325]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283782
-[326]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283784
-[327]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89908
-[328]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283786
-[329]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89910
-[330]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283788
-[331]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89911
-[332]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283790
-[333]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89912
-[334]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283792
-[335]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89913
-[336]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428208
-[337]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510089
-[338]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510081
-[339]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510084
-[340]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510092
-[341]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510088
-[342]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM319999
-[343]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320101
-[344]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428443
-[345]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428445
-[346]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428472
-[347]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684415
-[348]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684417
-[349]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684419
-[350]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89442
-[351]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428560
-[352]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89475
-[353]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428561
-[354]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89467
-[355]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428562
-[356]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428565
-[357]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM384965
-[358]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428570
-[359]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87622
-[360]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89425
-[361]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89430
-[362]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89439
-[363]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89493
-[364]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89495
-[365]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89496
-[366]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89916
-[367]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89934
-[368]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89941
-[369]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89955
-[370]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89957
-[371]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89961
-[372]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89978
-[373]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89982
-[374]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89983
-[375]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428571
-[376]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428574
-[377]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87956
-[378]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428468
-[379]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684817
-[380]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684818
-[381]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428625
-[382]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428628
-[383]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88261
-[384]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87631
-[385]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428629
-[386]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428633
-[387]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139980
-[388]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428466
-[389]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634710
-[390]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252404
-[391]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283333
-[392]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM324886
-[393]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283318
-[394]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283320
-[395]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320887
-[396]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320886
-[397]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320893
-[398]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320895
-[399]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM319569
-[400]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283322
-[401]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283325
-[402]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88540
-[403]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88902
-[404]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283327
-[405]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM267781
-[406]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283329
-[407]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282833
-[408]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283361
-[409]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1686200
-[410]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940014
-[411]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989910
-[412]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231463
-[413]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283728
-[414]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283754
-[415]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283613
-[416]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283703
-[417]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283721
-[418]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428635
-[419]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230264
-[420]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428653
-[421]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428670
-[422]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM98017
-[423]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM97376
-[424]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233858
-[425]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM235220
-[426]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM54947
-[427]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88405
-[428]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88421
-[429]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284131
-[430]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284004
-[431]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM297441
-[432]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313715
-[433]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313717
-[434]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM378371
-[435]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313721
-[436]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM446000
-[437]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313722
-[438]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230534
-[439]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428202
-[440]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685460
-[441]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685632
-[442]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940001
-[443]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685686
-[444]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940043
-[445]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940050
-[446]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940052
-[447]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940056
-[448]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM194753
-[449]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM194794
-[450]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2858102
-[451]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282801
-[452]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284142
-[453]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634645
-[454]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634646
-[455]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634647
-[456]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634648
-[457]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634649
-[458]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510078
-[459]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510080
-[460]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634650
-[461]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510091
-[462]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510098
-[463]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139988
-[464]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428475
-[465]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139726
-[466]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428447
-[467]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428451
-[468]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428457
-[469]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428459
-[470]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428211
-[471]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256916
-[472]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256918
-[473]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256928
-[474]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256958
-[475]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256959
-[476]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634697
-[477]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634698
-[478]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634709
-[479]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634712
-[480]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634713
-[481]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634714
-[482]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634715
-[483]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3019770
-[484]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634716
-[485]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634717
-[486]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634718
-[487]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634719
-[488]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634720
-[489]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634721
-[490]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634722
-[491]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634723
-[492]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634724
-[493]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634725
-[494]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634726
-[495]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252405
-[496]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252406
-[497]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285948
-[498]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109558
-[499]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109562
-[500]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109563
-[501]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM286231
-[502]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109564
-[503]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109565
-[504]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109580
-[505]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109581
-[506]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109568
-[507]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109570
-[508]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109571
-[509]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109574
-[510]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109578
-[511]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109579
-[512]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109576
-[513]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109583
-[514]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109585
-[515]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM296638
-[516]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1585430
-[517]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989911
-[518]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM331113
-[519]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM314835
-[520]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM267121
-[521]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285411
-[522]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285986
-[523]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM170872
-[524]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM171482
-[525]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM430983
-[526]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM431204
-[527]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM259339
-[528]: http://www.pco.parliament.govt.nz/reprints/
-[529]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195439
-[530]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[531]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195468
-[532]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195470
-[533]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989903
+[277]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM3360714
+[278]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88419
+[279]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88433
+[280]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685406
+[281]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM281857
+[282]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282492
+[283]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2997643
+[284]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998573
+[285]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998633
+[286]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283742
+[287]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230592
+[288]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231412
+[289]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231445
+[290]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231454
+[291]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233158
+[292]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1403500
+[293]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM444566
+[294]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283733
+[295]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM195549
+[296]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940060
+[297]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM311052
+[298]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283759
+[299]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283761
+[300]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136542
+[301]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136781
+[302]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136770
+[303]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136813
+[304]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2136815
+[305]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283765
+[306]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89919
+[307]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4356303
+[308]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283763
+[309]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM321160
+[310]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232286
+[311]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232287
+[312]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232288
+[313]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231476
+[314]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232217
+[315]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1216702
+[316]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233128
+[317]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283767
+[318]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283769
+[319]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283771
+[320]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232235
+[321]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232234
+[322]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232280
+[323]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232289
+[324]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM232281
+[325]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283776
+[326]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283780
+[327]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283782
+[328]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283784
+[329]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89908
+[330]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283786
+[331]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89910
+[332]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283788
+[333]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89911
+[334]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283790
+[335]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89912
+[336]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283792
+[337]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89913
+[338]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428208
+[339]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510089
+[340]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510081
+[341]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510084
+[342]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510092
+[343]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510088
+[344]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM319999
+[345]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320101
+[346]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428443
+[347]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428445
+[348]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428472
+[349]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684415
+[350]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684417
+[351]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684419
+[352]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89442
+[353]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428560
+[354]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89475
+[355]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428561
+[356]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89467
+[357]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428562
+[358]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428565
+[359]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM384965
+[360]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428570
+[361]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87622
+[362]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89425
+[363]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89430
+[364]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89439
+[365]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89493
+[366]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89495
+[367]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89496
+[368]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89916
+[369]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89934
+[370]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89941
+[371]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89955
+[372]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89957
+[373]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89961
+[374]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89978
+[375]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89982
+[376]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM89983
+[377]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428571
+[378]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428574
+[379]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87956
+[380]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428468
+[381]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684817
+[382]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1684818
+[383]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428625
+[384]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428628
+[385]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88261
+[386]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM87631
+[387]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428629
+[388]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428633
+[389]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139980
+[390]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428466
+[391]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634710
+[392]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252404
+[393]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283333
+[394]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM324886
+[395]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283318
+[396]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283320
+[397]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320887
+[398]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320886
+[399]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320893
+[400]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM320895
+[401]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM319569
+[402]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283322
+[403]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283325
+[404]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88540
+[405]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88902
+[406]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283327
+[407]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM267781
+[408]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283329
+[409]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282833
+[410]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283361
+[411]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1686200
+[412]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940014
+[413]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989910
+[414]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM231463
+[415]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283728
+[416]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283754
+[417]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283613
+[418]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283703
+[419]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM283721
+[420]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428635
+[421]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230264
+[422]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428653
+[423]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428670
+[424]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM98017
+[425]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM97376
+[426]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM233858
+[427]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM235220
+[428]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM54947
+[429]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88405
+[430]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM88421
+[431]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284131
+[432]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284004
+[433]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM297441
+[434]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313715
+[435]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313717
+[436]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM378371
+[437]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313721
+[438]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM446000
+[439]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1313722
+[440]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM230534
+[441]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428202
+[442]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685460
+[443]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685632
+[444]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940001
+[445]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1685686
+[446]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940043
+[447]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940050
+[448]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940052
+[449]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1940056
+[450]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM194753
+[451]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM194794
+[452]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2858102
+[453]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM282801
+[454]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM284142
+[455]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634645
+[456]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634646
+[457]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2997693
+[458]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998558
+[459]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634647
+[460]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634648
+[461]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634649
+[462]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510078
+[463]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510080
+[464]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634650
+[465]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510091
+[466]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2510098
+[467]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139988
+[468]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428475
+[469]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM139726
+[470]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428447
+[471]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428451
+[472]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428457
+[473]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428459
+[474]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM428211
+[475]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256916
+[476]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256918
+[477]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256928
+[478]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256958
+[479]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3256959
+[480]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634697
+[481]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634698
+[482]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634709
+[483]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634712
+[484]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634713
+[485]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634714
+[486]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634715
+[487]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3019770
+[488]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634716
+[489]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634717
+[490]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634718
+[491]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634719
+[492]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634720
+[493]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634721
+[494]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634722
+[495]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634723
+[496]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634724
+[497]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634725
+[498]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM2634726
+[499]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252405
+[500]: http://www.legislation.govt.nz/act/public/2010/0116/latest/whole.html#DLM3252406
+[501]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285948
+[502]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109558
+[503]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109562
+[504]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109563
+[505]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM286231
+[506]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109564
+[507]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109565
+[508]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109580
+[509]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109581
+[510]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109568
+[511]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109570
+[512]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109571
+[513]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109574
+[514]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109578
+[515]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109579
+[516]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109576
+[517]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109583
+[518]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1109585
+[519]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM296638
+[520]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM1585430
+[521]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989911
+[522]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM331113
+[523]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM314835
+[524]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM267121
+[525]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285411
+[526]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM285986
+[527]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM170872
+[528]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM171482
+[529]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM430983
+[530]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM431204
+[531]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM259339
+[532]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998516
+[533]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998515
+[534]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM2998532
+[535]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[536]: http://www.legislation.govt.nz/act/public/2010/0116/latest/link.aspx?id=DLM4989903
