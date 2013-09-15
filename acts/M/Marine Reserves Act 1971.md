@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -83,7 +83,7 @@ This Act is administered by the Department of Conservation.
 
 [19][30][][30][Offences within a reserve][30] \[Repealed\]
 
-[20][31][][31][Time within which information may be laid][31]
+[20][31][][31][Time for filing charging document][31]
 
 [21][32][][32][Penalties][32] \[Repealed\]
 
@@ -575,11 +575,13 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     (3) Subject to subsection (2), the provisions of [Part 4][74] of the Search and Surveillance Act 2012 (except [subpart 3][75]) apply.
     
-    (4) A ranger who, acting under subsection (2), at the time of seizure returns to the reserve any marine life that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the marine life was seized in the event of a decision being made not to lay an information or charge in respect of the marine life, or of the person being acquitted of the charge.
+    (4) A ranger who, acting under subsection (2), at the time of seizure returns to the reserve any marine life that he or she believes to be alive, shall not be under any civil or criminal liability to the person from whom the marine life was seized in the event of a decision being made not to file a charging document in respect of the marine life, or of the person being acquitted of the charge.
     
     Section 18A: inserted, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
     
     Section 18A(3): replaced, on 1 October 2012, by [section 276(3)][76] of the Search and Surveillance Act 2012 (2012 No 24).
+    
+    Section 18A(4): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18B Director-General may release seized property under bond
     
@@ -641,11 +643,11 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     Section 18G: inserted, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
     
-    Section 18G(1): amended, on 30 June 2002, by [section 186][77] of the Sentencing Act 2002 (2002 No 9).
+    Section 18G(1): amended, on 30 June 2002, by [section 186][78] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 18G(2): amended, on 30 June 2002, by [section 186][77] of the Sentencing Act 2002 (2002 No 9).
+    Section 18G(2): amended, on 30 June 2002, by [section 186][78] of the Sentencing Act 2002 (2002 No 9).
     
-    Section 18G(3): replaced, on 30 June 2002, by [section 186][77] of the Sentencing Act 2002 (2002 No 9).
+    Section 18G(3): replaced, on 30 June 2002, by [section 186][78] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 18H Provisions relating to forfeit property
     
@@ -661,7 +663,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     _interest_ means a legal or equitable interest in that forfeit property that existed at the time of the forfeiture; but does not include any interest (including ownership) in any foreign vessel or foreign-owned New Zealand fishing vessel or a foreign-operated fish carrier.
     
-    (2) The Director-General shall, within 10 working days after the date of any forfeiture under [section 255][78], publicly notify the details of the forfeit property and the rights of persons to apply under this section.
+    (2) The Director-General shall, within 10 working days after the date of any forfeiture under [section 255][79], publicly notify the details of the forfeit property and the rights of persons to apply under this section.
     
     (3) Any person claiming an interest in any forfeit property may, within 35 working days after the date of the forfeiture, apply to a District Court for relief from the effect of forfeiture on that interest.
     
@@ -793,7 +795,7 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     *   (g) gives, or agrees to give, or offers to any such ranger any gift or consideration as an inducement or reward for any act done or to be done, or any forbearance observed or to be observed, or any favour shown or to be shown, by that ranger, or being a ranger accepts or agrees to accept or solicits any such gift or consideration.
     
-    (6) A person shall be deemed to have taken or removed marine life for commercial purposes if he or she is found in possession of an amount exceeding 3 times the amateur individual limit (if any) prescribed in respect of that marine life in regulations made under the [Fisheries Act 1996][79].
+    (6) A person shall be deemed to have taken or removed marine life for commercial purposes if he or she is found in possession of an amount exceeding 3 times the amateur individual limit (if any) prescribed in respect of that marine life in regulations made under the [Fisheries Act 1996][80].
     
     Section 18I: inserted, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
 
@@ -811,11 +813,11 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     Section 19: repealed, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
 
-##### 20 Time within which information may be laid
+##### 20 Time for filing charging document
     
-*   Notwithstanding anything in the [Summary Proceedings Act 1957][80], any information in respect of any offence against this Act or any regulation made under this Act may be laid at any time within 1 year from the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][81] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any regulations made under it ends on the date that is 12 months after the date on which the offence was committed.
     
-    Section 20: amended, on 10 April 1990, by [section 57][81] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 20: replaced, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Penalties
     
@@ -857,9 +859,11 @@ An Act to provide for the setting up and management of areas of the sea and fore
     
     *   (e) prescribe the conditions on which persons may remain within any reserve:
     
-    *   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fines that may be imposed on summary conviction in respect of any such offences, which fines shall be an amount not exceeding $2,500\.
+    *   (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fines that may be imposed on conviction in respect of any such offences, which fines shall be an amount not exceeding $2,500\.
     
     Section 24(2): inserted, on 10 April 1990, by [section 60][84] of the Conservation Law Reform Act 1990 (1990 No 31).
+    
+    Section 24(2)(f): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 24(2)(f): amended, on 1 October 1996, by [section 316(1)][47] of the Fisheries Act 1996 (1996 No 88).
 
@@ -868,76 +872,6 @@ An Act to provide for the setting up and management of areas of the sea and fore
 *   \[Repealed\]
     
     Section 25: repealed, on 1 October 1975, by section 9 of the Petroleum Amendment Act 1975 (1975 No 43).
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][85].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][86] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -955,23 +889,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Marine Reserves Act 1971\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Marine Reserves Act 1971\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][87] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][85] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][88] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][86] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][89] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][87] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][90] and [17E][91] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][88] and [17E][89] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1004,19 +938,21 @@ Amendments, repeals, and miscellaneous provisions
     
 *   Search and Surveillance Act 2012 (2012 No 24): [section 276][76]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][77]
+    
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][73]
     
     New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 (2008 No 30): [section 38][59]
     
     Local Government Act 2002 (2002 No 84): [section 262][65]
     
-    Sentencing Act 2002 (2002 No 9): [section 186][77]
+    Sentencing Act 2002 (2002 No 9): [section 186][78]
     
     Fisheries Act 1996 (1996 No 88): [section 316(1)][47]
     
     Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    Conservation Law Reform Act 1990 (1990 No 31): [Part 2][92]
+    Conservation Law Reform Act 1990 (1990 No 31): [Part 2][90]
     
     State-Owned Enterprises Amendment Act 1987 (1987 No 117): section 11(1)
     
@@ -1119,19 +1055,17 @@ Amendments, repeals, and miscellaneous provisions
 [74]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM2136770
 [75]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM2136781
 [76]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM2137026
-[77]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM137267
-[78]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM398847
-[79]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM394191
-[80]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM310742
-[81]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208790
+[77]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM3360714
+[78]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM137267
+[79]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM398847
+[80]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM394191
+[81]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM3360067
 [82]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208791
 [83]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208793
 [84]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208794
-[85]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM2136500
-[86]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM4686448
-[87]: http://www.pco.parliament.govt.nz/reprints/
-[88]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195439
-[89]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[90]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195468
-[91]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195470
-[92]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208764
+[85]: http://www.pco.parliament.govt.nz/reprints/
+[86]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195439
+[87]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[88]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195468
+[89]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM195470
+[90]: http://www.legislation.govt.nz/act/public/1971/0015/latest/link.aspx?id=DLM208764
