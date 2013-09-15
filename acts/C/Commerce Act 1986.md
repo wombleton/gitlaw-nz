@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -1476,7 +1476,7 @@ The Commerce Commission
     
     (1A) Subsection (1) applies despite [section 28(1)(b)][446] of the Crown Entities Act 2004\.
     
-    (2) An associate member shall be appointed only in relation to a matter or a class of matters to be specified in that member's notice of appointment, and for such period, not exceeding 5 years, as is specified in that instrument.
+    (2) An associate member shall be appointed only in relation to a matter or a class of matters to be specified in that member's notice of appointment, and for such period, not exceeding 5 years, as is specified in that notice.
     
     (3) Subject to subsection (4), an associate member shall be deemed to be a member of the Commission for the purposes of the performance or exercise of any function, duty, or power of a member of the Commission under this Act or any other Act; and except where this section or the context otherwise requires, a reference in this Act or in any other Act to a member of the Commission must be construed as including a reference to an associate member.
     
@@ -1556,7 +1556,7 @@ The Commerce Commission
     
     (4) At any meeting of the Commission the quorum shall be 3 members.
     
-    (5) Subsection (4) applies despite [clause 9(1) and (2) ][457] of Schedule 5 of the Crown Entities Act 2004\.
+    (5) Subsection (4) applies despite [clause 9(1) and (2)][457] of Schedule 5 of the Crown Entities Act 2004\.
     
     (6) \[Repealed\]
     
@@ -1805,7 +1805,7 @@ Restrictive trade practices
     
     (6) No exclusionary provision of a contract, whether made before or after the commencement of this Act, is enforceable.
     
-    Compare: Trade Practices Act 1974 ss 4D, 45(1)--(3) (Aust) 
+    Compare: Trade Practices Act 1974 ss 4D, 45(1)--(3) (Aust)
     
     Section 29(1): substituted, on 1 July 1990, by [section 13][468] of the Commerce Amendment Act 1990 (1990 No 41).
     
@@ -2261,7 +2261,7 @@ Regulated goods or services
         
     *   (a) have incentives to innovate and to invest, including in replacement, upgraded, and new assets; and
     
-    *   (b) have incentives to improve efficiency and provide services at a quality that reflects consumer demands; and 
+    *   (b) have incentives to improve efficiency and provide services at a quality that reflects consumer demands; and
     
     *   (c) share with consumers the benefits of efficiency gains in the supply of the regulated goods or services, including through lower prices; and
     
@@ -2283,17 +2283,17 @@ Regulated goods or services
         
     *   (a) information disclosure regulation, under which regulated suppliers are required to disclose information in accordance with requirements determined by the Commission (_see_ [subpart 4][110]):
     
-    *   (b) negotiate/arbitrate regulation, under which regulated suppliers are required to negotiate with other parties on prices and quality, and, if negotiation is unsuccessful, to enter into binding arbitration (_see_ [subpart 5][117]): 
+    *   (b) negotiate/arbitrate regulation, under which regulated suppliers are required to negotiate with other parties on prices and quality, and, if negotiation is unsuccessful, to enter into binding arbitration (_see_ [subpart 5][117]):
     
     *   (c) price-quality regulation, of which there are 2 types:
             
-        *   (i) default/customised price-quality regulation, under which default price-quality paths are set for regulated suppliers, but individual suppliers may seek a customised price-quality path instead (_see_ [subpart 6][122]); and 
+        *   (i) default/customised price-quality regulation, under which default price-quality paths are set for regulated suppliers, but individual suppliers may seek a customised price-quality path instead (_see_ [subpart 6][122]); and
         
         *   (ii) individual price-quality regulation, under which the Commission sets a price-quality path for an individual regulated supplier (_see_ [subpart 7][144]).
         
         
     
-    (3) Regulation of the following services is dealt with by [subparts 9 to 11][151]: 
+    (3) Regulation of the following services is dealt with by [subparts 9 to 11][151]:
         
     *   (a) electricity lines services ([subpart 9][151]):
     
@@ -2463,7 +2463,7 @@ Regulated goods or services
     
     *   (b) must, when carrying out the analysis required by [section 52G(1)(c)][83], undertake a qualitative analysis of all material long-term efficiency and distributional considerations.
     
-    (3) As part of that qualitative analysis, the Commission must, as far as practicable,--- 
+    (3) As part of that qualitative analysis, the Commission must, as far as practicable,---
         
     *   (a) quantify material effects on allocative, productive, and dynamic efficiency; and
     
@@ -2473,7 +2473,7 @@ Regulated goods or services
     
     (4) As part of an inquiry, the Commission must, when considering which type of regulation might be imposed,---
         
-    *   (a) assess the benefits of imposing different types of regulation in meeting the purpose of this Part against the costs of imposing those types of regulation; and 
+    *   (a) assess the benefits of imposing different types of regulation in meeting the purpose of this Part against the costs of imposing those types of regulation; and
     
     *   (b) consider what would be the most cost-effective type or types of regulation in the circumstances.
     
@@ -2509,7 +2509,7 @@ Regulated goods or services
     
 *   (1) At the end of an inquiry, having considered the matters in [section 52I][86], the Commission must make a recommendation to the Minister on whether, in its opinion, the goods or services should be regulated.
     
-    (2) If the recommendation is that particular goods or services should be regulated, the recommendation must state the following: 
+    (2) If the recommendation is that particular goods or services should be regulated, the recommendation must state the following:
         
     *   (a) how the goods or services should be specified:
     
@@ -2579,7 +2579,7 @@ Regulated goods or services
     
     (2) The order must---
         
-    *   (a) declare that the goods or services are regulated; and 
+    *   (a) declare that the goods or services are regulated; and
     
     *   (b) state which type or types of regulation the goods or services are subject to.
     
@@ -2597,9 +2597,11 @@ Regulated goods or services
     
     (5) The order must include an expiry date, which must be a date not later than 20 years after its date of commencement.
     
-    (6) The order is a regulation within the meaning of the [Regulations (Disallowance) Act 1989][487] and the [Acts and Regulations Publication Act 1989][488].
+    (6) The order is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][487] and must be presented to the House of Representatives under [section 41][488] of that Act.
     
     Section 52N: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 52N(6): replaced, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ##### 52O Revocation or amendment of Order in Council
     
@@ -2611,7 +2613,7 @@ Regulated goods or services
     
     *   (b) materially alters the goods or services to which the regulation applies, so that either---
             
-        *   (i) the goods or services, or any of them, are no longer regulated; or 
+        *   (i) the goods or services, or any of them, are no longer regulated; or
         
         *   (ii) goods or services that were not identified in the original order are now subject to regulation.
         
@@ -2637,9 +2639,9 @@ Regulated goods or services
     
     (3) Determinations must---
         
-    *   (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and 
+    *   (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
     
-    *   (b) set out any time frames (including the regulatory periods) that must be met or that apply; and 
+    *   (b) set out any time frames (including the regulatory periods) that must be met or that apply; and
     
     *   (c) specify the input methodologies that apply; and
     
@@ -2647,13 +2649,13 @@ Regulated goods or services
     
     (4) It is not necessary for a single determination to address all matters relating to particular regulated goods or services, or to a supplier of regulated goods or services, and different parts of any determination may come into effect at different times.
     
-    (5) If a determination under this section is made following an inquiry and a recommendation under [section 52K][88], the requirements referred to in subsection (3)(a) must not differ in any material respect from the recommendation, or (if applicable) from any advice given to the Minister under [section 52L(3)][90]. 
+    (5) If a determination under this section is made following an inquiry and a recommendation under [section 52K][88], the requirements referred to in subsection (3)(a) must not differ in any material respect from the recommendation, or (if applicable) from any advice given to the Minister under [section 52L(3)][90].
     
     (6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
     
     (7) The Commission must, as soon as practicable after making a determination under this section,---
         
-    *   (a) give a copy of the determination to each supplier to whom the determination relates; and 
+    *   (a) give a copy of the determination to each supplier to whom the determination relates; and
     
     *   (b) publish a summary of it in the _Gazette_; and
     
@@ -2661,7 +2663,11 @@ Regulated goods or services
     
     (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
     
+    (9) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][487] (and does not have to be presented to the House of Representatives under [section 41][488] of that Act).
+    
     Section 52P: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 52P(9): inserted, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ##### 52Q Amendment of section 52P determination
     
@@ -2675,7 +2681,7 @@ Regulated goods or services
     
     (5) The Commission must, as soon as practicable after making an amendment,---
         
-    *   (a) give a copy of the amendment to each supplier to whom the determination relates; and 
+    *   (a) give a copy of the amendment to each supplier to whom the determination relates; and
     
     *   (b) publish the amendment, or a summary of the amendment, in the _Gazette_; and
     
@@ -2755,7 +2761,7 @@ Regulated goods or services
     
     Section 52T: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 52T(1)(b): amended, on 1 November 2010, by [section 147][489] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 52T(1)(b): amended, on 1 November 2010, by [section 147][490] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 52U When input methodologies must be determined
     
@@ -2809,7 +2815,11 @@ Regulated goods or services
     
     (3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
     
+    (4) A published input methodology is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][487] (and does not have to be presented to the House of Representatives under [section 41][488] of that Act).
+    
     Section 52W: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 52W(4): inserted, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ##### 52X Amendment of input methodologies
     
@@ -2825,7 +2835,7 @@ Regulated goods or services
     
     (3) [Section 52V][102] applies, with all necessary modifications, as if the review were a new input methodology.
     
-    (4) [Section 52W][103] applies if, following a review, an input methodology is replaced or amended. 
+    (4) [Section 52W][103] applies if, following a review, an input methodology is replaced or amended.
     
     Section 52Y: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -2869,7 +2879,7 @@ Regulated goods or services
 
 ##### 52ZA Process for appeals
     
-*   (1) Any appeal under [section 52Z][107] must be brought within 20 working days after the date on which the input methodology determination is published. 
+*   (1) Any appeal under [section 52Z][107] must be brought within 20 working days after the date on which the input methodology determination is published.
     
     (2) The appeal must be by way of rehearing and must be conducted solely on the basis of the documentary information and views that were before the Commission when it made its determination, and no party may introduce any new material during the appeal.
     
@@ -2903,7 +2913,7 @@ Regulated goods or services
     
 *   (1) Every supplier of goods or services that are subject to information disclosure regulation must---
         
-    *   (a) publicly disclose information in accordance with the information disclosure requirements set out in the relevant [section 52P][95] determination; and 
+    *   (a) publicly disclose information in accordance with the information disclosure requirements set out in the relevant [section 52P][95] determination; and
     
     *   (b) supply to the Commission a copy of all information disclosed in accordance with the [section 52P][95] determination, within 5 working days after the information is first made publicly available; and
     
@@ -3089,7 +3099,7 @@ Regulated goods or services
     
 *   (1) If a settlement is not reached (whether by negotiation or voluntary arbitration) within the time frame set by the Commission, the parties must enter into arbitration under this section on the terms set out in the [section 52P][95] determination.
     
-    (2) The [Arbitration Act 1996][490] does not apply to arbitration under this section, but the Commission may, in setting out the terms of the arbitration in the [section 52P][95] determination, apply any provisions of that Act to the arbitration.
+    (2) The [Arbitration Act 1996][491] does not apply to arbitration under this section, but the Commission may, in setting out the terms of the arbitration in the [section 52P][95] determination, apply any provisions of that Act to the arbitration.
     
     (3) The arbitrator's role is to make an arbitral award that promotes the purpose of this Part.
     
@@ -3131,7 +3141,7 @@ Regulated goods or services
             
         *   (i) the maximum price or prices that may be charged by a regulated supplier:
         
-        *   (ii) the maximum revenues that may be recovered by a regulated supplier; and 
+        *   (ii) the maximum revenues that may be recovered by a regulated supplier; and
         
         
     
@@ -3187,7 +3197,7 @@ Regulated goods or services
     
 *   If default price-quality regulation applies to regulated goods or services, the [section 52P][95] determination must set out a default price-quality path that includes---
         
-    *   (a) the starting prices that apply to the supply of the goods or services during the first regulatory period; and 
+    *   (a) the starting prices that apply to the supply of the goods or services during the first regulatory period; and
     
     *   (b) the rate or rates of change in prices, relative to the Consumer Price Index, allowed during the first regulatory period; and
     
@@ -3195,7 +3205,7 @@ Regulated goods or services
     
     *   (d) the date or dates on which the default price-quality path (or any part of it) takes effect; and
     
-    *   (e) the annual date by which any proposal for a customised price-quality path must be received; and 
+    *   (e) the annual date by which any proposal for a customised price-quality path must be received; and
     
     *   (f) the annual date by which compliance must be demonstrated in accordance with [section 53N][126].
     
@@ -3215,7 +3225,7 @@ Regulated goods or services
     
     (4) Starting prices set in accordance with subsection (3)(b) must not seek to recover any excessive profits made during any earlier period.
     
-    (5) Subject to subsection (8), the Commission must set only 1 rate of change per type of regulated goods or services (for example, if the rate of change (__x__) is 1% in a CPI−_x_ path, 1% must be the rate for all goods or services of that type). 
+    (5) Subject to subsection (8), the Commission must set only 1 rate of change per type of regulated goods or services (for example, if the rate of change (__x__) is 1% in a CPI−_x_ path, 1% must be the rate for all goods or services of that type).
     
     (6) The rate of change must be based on the long-run average productivity improvement rate achieved by either or both of suppliers in New Zealand, and suppliers in other comparable countries, of the relevant goods or services, using whatever measures of productivity the Commission considers appropriate.
     
@@ -3277,7 +3287,7 @@ Regulated goods or services
         
     *   (a) discontinue any consideration of the proposal; or
     
-    *   (b) request the supplier to remedy the deficiencies in the proposal by providing additional information within 40 working days. 
+    *   (b) request the supplier to remedy the deficiencies in the proposal by providing additional information within 40 working days.
     
     (3) If the supplier fails to provide any additional information requested by the Commission under subsection (2)(b), the Commission may discontinue any consideration of the proposal.
     
@@ -3355,11 +3365,11 @@ Regulated goods or services
     
     Section 53Y: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 53Y heading: amended, on 1 November 2010, by [section 148(1)][491] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 53Y heading: amended, on 1 November 2010, by [section 148(1)][492] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 53Y(1): amended, on 1 November 2010, by [section 148(2)][491] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 53Y(1): amended, on 1 November 2010, by [section 148(2)][492] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 53Y(1A): inserted, on 1 November 2010, by [section 148(3)][491] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 53Y(1A): inserted, on 1 November 2010, by [section 148(3)][492] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 53Z Prioritisation by Commission
     
@@ -3433,7 +3443,7 @@ Regulated goods or services
 
 ##### 53ZD Powers of Commission under this Part
     
-*   For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under [section 98][369], do any of the following: 
+*   For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under [section 98][369], do any of the following:
         
     *   (a) consult with any person the Commission considers may assist it:
     
@@ -3517,7 +3527,7 @@ Regulated goods or services
 
 ##### 53ZG Power to exempt disclosure of commercially sensitive information
     
-*   (1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation. 
+*   (1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation.
     
     (2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
     
@@ -3527,9 +3537,11 @@ Regulated goods or services
     
     (5) The Commission must keep a list of all current exemptions made by it under this section available for public inspection free of charge during normal office hours of the Commission at the offices of the Commission.
     
-    (6) An exemption under this section is not a regulation within the meaning of the [Regulations (Disallowance) Act 1989][487] or the [Acts and Regulations Publication Act 1989][488].
+    (6) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][487] and does not have to be presented to the House of Representatives under [section 41][488] of that Act.
     
     Section 53ZG: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 53ZG(6): replaced, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ### Subpart 9---Electricity lines services
     
@@ -3543,9 +3555,9 @@ Regulated goods or services
     
 *   (1) This subpart provides---
         
-    *   (a) that all suppliers of electricity lines services are subject to information disclosure regulation; and 
+    *   (a) that all suppliers of electricity lines services are subject to information disclosure regulation; and
     
-    *   (b) that suppliers of electricity lines services that are not consumer-owned are also subject to price-quality regulation; and 
+    *   (b) that suppliers of electricity lines services that are not consumer-owned are also subject to price-quality regulation; and
     
     *   (c) for the transition to the new regime provided for in this Part.
     
@@ -3573,7 +3585,7 @@ Regulated goods or services
     
     _electricity lines services_ has the meaning given in [section 54C][156]
     
-    _Part 4A_ means Part 4A of this Act as in force immediately before its repeal by the [Commerce Amendment Act 2008][492]
+    _Part 4A_ means Part 4A of this Act as in force immediately before its repeal by the [Commerce Amendment Act 2008][493]
     
     _threshold_ means a threshold set by the Commission under [Part 4A][219] for the declaration of control in relation to large electricity lines businesses
     
@@ -3583,7 +3595,7 @@ Regulated goods or services
     
     Section 54B: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54B(2): added, on 1 November 2010, by [section 149][493] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54B(2): added, on 1 November 2010, by [section 149][494] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54C Meaning of electricity lines services
     
@@ -3609,35 +3621,35 @@ Regulated goods or services
     
     *   (g) conveying electricity if the total amount of electricity conveyed to consumers by the supplier is less than 20 gigawatt hours per annum:
     
-    *   (h) conveying electricity if the total number of consumers to whom the supplier conveys electricity is less than 500\. 
+    *   (h) conveying electricity if the total number of consumers to whom the supplier conveys electricity is less than 500\.
     
     (3) The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a supplier include, for the purposes of subsection (2)(f) to (h), the lines provided by, electricity conveyed by, or number of consumers of, any associate of the supplier.
     
     (4) In this section, unless the context otherwise requires,---
     
-    _associate_ has the same meaning as in [section 73][494] of the Electricity Industry Act 2010
+    _associate_ has the same meaning as in [section 73][495] of the Electricity Industry Act 2010
     
-    _consumer_ has the same meaning as in [section 2(1)][495] of the Electricity Act 1992
+    _consumer_ has the same meaning as in [section 2(1)][496] of the Electricity Act 1992
     
-    _lines_ has the same meaning as in [section 2(1)][495] of the Electricity Act 1992
+    _lines_ has the same meaning as in [section 2(1)][496] of the Electricity Act 1992
     
-    _national grid_ has the same meaning as in [section 5][496] of the Electricity Industry Act 2010
+    _national grid_ has the same meaning as in [section 5][497] of the Electricity Industry Act 2010
     
     _prescribed voltage electric line_ means a line that is capable of conveying electricity at a voltage equal to or greater than 3.3 kilovolts.
     
     Section 54C: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54C(1): substituted, on 1 November 2010, by [section 150(1)][497] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54C(1): substituted, on 1 November 2010, by [section 150(1)][498] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54C(4) **associate**: amended, on 1 November 2010, by [section 150(2)][497] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54C(4) **associate**: amended, on 1 November 2010, by [section 150(2)][498] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54C(4) **national grid**: amended, on 1 November 2010, by [section 150(3)][497] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54C(4) **national grid**: amended, on 1 November 2010, by [section 150(3)][498] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54D Definition of consumer-owned
     
 *   (1) In this subpart, unless the context otherwise requires, a supplier is _consumer-owned_ if it is a supplier that meets the following criteria:
         
-    *   (a) all the control rights and all the equity return rights (within the meaning of [clause 6][498] of Schedule 2 of the Electricity Industry Act 2010) in the supplier are held by 1 or more customer trusts, community trusts, or customer co-operatives; and
+    *   (a) all the control rights and all the equity return rights (within the meaning of [clause 6][499] of Schedule 2 of the Electricity Industry Act 2010) in the supplier are held by 1 or more customer trusts, community trusts, or customer co-operatives; and
     
     *   (b) the trustees of each customer trust or community trust, or the committee of shareholders of each customer co-operative, as the case may be, that is referred to in paragraph (a) are elected by the persons who are consumers of the supplier in accordance with subsections (2A) to (2C); and
     
@@ -3653,9 +3665,9 @@ Regulated goods or services
     
     *   (b) at least 90% of its income distributions are paid to those beneficiaries or for purposes related to that geographic area or areas
     
-    _consumer_ has the same meaning as in [section 2(1)][495] of the Electricity Act 1992, and includes, for the purposes of references to the election of trustees in this section and [section 54H][162], any person who is listed on an electoral roll as a resident of an address that consumes the electricity in question
+    _consumer_ has the same meaning as in [section 2(1)][496] of the Electricity Act 1992, and includes, for the purposes of references to the election of trustees in this section and [section 54H][162], any person who is listed on an electoral roll as a resident of an address that consumes the electricity in question
     
-    _customer co-operative_, in relation to a supplier, means a co-operative company (as defined in [section 2(1)][499] of the Co-operative Companies Act 1996) that has the characteristics described in the definition of customer trust in this subsection, applied as if references to trusts were to co-operatives, references to income beneficiaries were to shareholders, and all other necessary modifications were made
+    _customer co-operative_, in relation to a supplier, means a co-operative company (as defined in [section 2(1)][500] of the Co-operative Companies Act 1996) that has the characteristics described in the definition of customer trust in this subsection, applied as if references to trusts were to co-operatives, references to income beneficiaries were to shareholders, and all other necessary modifications were made
     
     _customer trust_, in relation to a supplier, means a trust in respect of which---
         
@@ -3679,13 +3691,13 @@ Regulated goods or services
     
     _income distribution resolution date_ means the date that a supplier, or the trust or co-operative that owns a supplier, as the case may be, resolves to make an income distribution to beneficiaries.
     
-    (2A) The requirements in respect of elections for the purposes of subsection (1)(b) are as follows: 
+    (2A) The requirements in respect of elections for the purposes of subsection (1)(b) are as follows:
         
-    *   (a) every trustee of the customer trust or community trust, or every member of the committee of shareholders of each customer co-operative, as the case may be, must have been elected solely by the persons who are consumers of the supplier; and 
+    *   (a) every trustee of the customer trust or community trust, or every member of the committee of shareholders of each customer co-operative, as the case may be, must have been elected solely by the persons who are consumers of the supplier; and
     
     *   (b) either---
             
-        *   (i) at least 90% of the persons who are consumers of the supplier at the time of the election are eligible to vote in those elections; or 
+        *   (i) at least 90% of the persons who are consumers of the supplier at the time of the election are eligible to vote in those elections; or
         
         *   (ii) in the case of a customer trust or community trust, there is ward-based voting that complies with the requirements of subsection (2B); and
         
@@ -3709,9 +3721,9 @@ Regulated goods or services
     
     (2C) A trustee of a customer trust or community trust, or a member of the committee of shareholders of a customer co-operative, as the case may be, must be treated as having been elected solely by the persons who are consumers of the supplier if the person---
         
-    *   (a) has been declared to be elected without an election in the case of a nominee at an election where the number of nominations was equal to or less than the number of vacancies; or 
+    *   (a) has been declared to be elected without an election in the case of a nominee at an election where the number of nominations was equal to or less than the number of vacancies; or
     
-    *   (b) has been declared to be elected as the next-highest-polling candidate in the case where a higher-polling candidate at the election was unable to fill the elected position; or 
+    *   (b) has been declared to be elected as the next-highest-polling candidate in the case where a higher-polling candidate at the election was unable to fill the elected position; or
     
     *   (c) has been declared to be elected by the remaining trustees or members following a casual vacancy that arose between elections, provided that---
             
@@ -3721,7 +3733,7 @@ Regulated goods or services
         
         
     
-    (2D) The Commerce Commission may require a supplier that claims to meet the criteria in this section to verify that claim by statutory declaration. 
+    (2D) The Commerce Commission may require a supplier that claims to meet the criteria in this section to verify that claim by statutory declaration.
     
     (2E) The declaration must be made by the persons and in the form required by the Commerce Commission.
     
@@ -3731,21 +3743,21 @@ Regulated goods or services
     
     Section 54D: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54D(1)(a): amended, on 1 November 2010, by [section 151(1)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(1)(a): amended, on 1 November 2010, by [section 151(1)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(1)(b): substituted, on 1 November 2010, by [section 151(2)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(1)(b): substituted, on 1 November 2010, by [section 151(2)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(2A): inserted, on 1 November 2010, by [section 151(3)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(2A): inserted, on 1 November 2010, by [section 151(3)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(2B): inserted, on 1 November 2010, by [section 151(3)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(2B): inserted, on 1 November 2010, by [section 151(3)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(2C): inserted, on 1 November 2010, by [section 151(3)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(2C): inserted, on 1 November 2010, by [section 151(3)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(2D): inserted, on 1 November 2010, by [section 151(3)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(2D): inserted, on 1 November 2010, by [section 151(3)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(2E): inserted, on 1 November 2010, by [section 151(3)][500] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54D(2E): inserted, on 1 November 2010, by [section 151(3)][501] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54D(3): brought into force, on 14 October 2008, by [section 2(1)(b)][501] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 54D(3): brought into force, on 14 October 2008, by [section 2(1)(b)][502] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Imposition of regulation under this Part
     
@@ -3767,7 +3779,7 @@ Regulated goods or services
     
 *   (1) All electricity lines services (other than those supplied by Transpower) are subject to default/customised price-quality regulation under this Part unless they are exempt.
     
-    (2) All electricity lines services that are supplied by a supplier that is consumer-owned are exempt (unless an Order in Council has been made in respect of the service under [section 54H][162]). 
+    (2) All electricity lines services that are supplied by a supplier that is consumer-owned are exempt (unless an Order in Council has been made in respect of the service under [section 54H][162]).
     
     Section 54G: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -3791,7 +3803,7 @@ Regulated goods or services
     
     *   (c) 25% of the persons who are non-domestic consumers (either by number or by consumption of that class of consumer) of the supplier as at that date.
     
-    (3A) In this section, _domestic consumer_ has the same meaning as in [section 5][496] of the Electricity Industry Act 2010\.
+    (3A) In this section, _domestic consumer_ has the same meaning as in [section 5][497] of the Electricity Industry Act 2010\.
     
     (4) If exact figures are not available as to the number of persons in a class referred to in subsection (3), the Commission may rely on any estimate that the Commission considers to be a reasonable estimate.
     
@@ -3801,23 +3813,23 @@ Regulated goods or services
     
     Section 54H: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54H(2A): inserted, on 1 November 2010, by [section 152(1)][502] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54H(2A): inserted, on 1 November 2010, by [section 152(1)][503] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54H(3)(a): substituted, on 1 November 2010, by [section 152(2)][502] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54H(3)(a): substituted, on 1 November 2010, by [section 152(2)][503] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54H(3)(b): substituted, on 1 November 2010, by [section 152(2)][502] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54H(3)(b): substituted, on 1 November 2010, by [section 152(2)][503] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54H(3)(c): substituted, on 1 November 2010, by [section 152(2)][502] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54H(3)(c): substituted, on 1 November 2010, by [section 152(2)][503] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54H(3A): inserted, on 1 November 2010, by [section 152(3)][502] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54H(3A): inserted, on 1 November 2010, by [section 152(3)][503] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54I Commission must make section 52P determination specifying how subpart applies
     
-*   (1) The [section 52P][95] determinations that specify how information disclosure regulation applies to each supplier of electricity lines services must be made as soon as practicable after 1 April 2009\. 
+*   (1) The [section 52P][95] determinations that specify how information disclosure regulation applies to each supplier of electricity lines services must be made as soon as practicable after 1 April 2009\.
     
     (2) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that is subject to that form of regulation as at 1 April 2009 are made as set out in [section 54J][164].
     
-    (3) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that becomes subject to that form of regulation as a result of an Order in Council made under [section 54H][162] must be made as soon as practicable after the order comes into force. 
+    (3) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that becomes subject to that form of regulation as a result of an Order in Council made under [section 54H][162] must be made as soon as practicable after the order comes into force.
     
     Section 54I: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -3863,7 +3875,7 @@ Regulated goods or services
     
 *   (1) This section applies to every administrative settlement accepted by the Commission before 1 April 2009 in respect of a breach of a threshold other than an administrative settlement with Transpower.
     
-    (2) The enactment of the [Commerce Amendment Act 2008][492] does not limit or affect an administrative settlement to which this section applies, except as provided in this section.
+    (2) The enactment of the [Commerce Amendment Act 2008][493] does not limit or affect an administrative settlement to which this section applies, except as provided in this section.
     
     (3) Any breach of the administrative settlement must be dealt with in accordance with the terms of the settlement.
     
@@ -3875,11 +3887,11 @@ Regulated goods or services
     
 *   (1) This section applies to any administrative settlement with Transpower that is accepted by the Commission before 1 April 2009 in respect of a breach of a threshold.
     
-    (2) Any breach of an administrative settlement with Transpower may be dealt with under [Part 6][503] as if it were a breach of a customised price-quality path, despite anything in the terms of the settlement.
+    (2) Any breach of an administrative settlement with Transpower may be dealt with under [Part 6][504] as if it were a breach of a customised price-quality path, despite anything in the terms of the settlement.
     
     (3) Before the expiry of the administrative settlement, the Commission must recommend to the Minister that an Order in Council be made under [section 52N][92] declaring that either---
         
-    *   (a) Transpower is subject to default/customised price-quality regulation under [subpart 6][122]; or 
+    *   (a) Transpower is subject to default/customised price-quality regulation under [subpart 6][122]; or
     
     *   (b) Transpower is subject to individual price-quality regulation under [subpart 7][144].
     
@@ -3891,23 +3903,23 @@ Regulated goods or services
     
     Section 54M: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54M(3)(b): amended, on 1 November 2010, by [section 153(1)][504] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54M(3)(b): amended, on 1 November 2010, by [section 153(1)][505] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54M(6): repealed, on 1 November 2010, by [section 153(2)][504] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54M(6): repealed, on 1 November 2010, by [section 153(2)][505] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54N Breaches of thresholds and default price-quality paths before 1 April 2010
     
 *   (1) This section applies to---
         
-    *   (a) any breach of a threshold that occurred before the close of 31 March 2007; and 
+    *   (a) any breach of a threshold that occurred before the close of 31 March 2007; and
     
-    *   (b) any breach of a threshold that occurs on or after 1 April 2007 and before the close of 31 March 2009; and 
+    *   (b) any breach of a threshold that occurs on or after 1 April 2007 and before the close of 31 March 2009; and
     
     *   (c) any breach of a default price-quality path that occurs on or after 1 April 2009 and before the close of 31 March 2010\.
     
     (2) The Commission may not publish a notice of intention to declare control under [Part 4A][219],---
         
-    *   (a) in respect of a breach referred to in subsection (1)(a), at any time after 1 October 2008; and 
+    *   (a) in respect of a breach referred to in subsection (1)(a), at any time after 1 October 2008; and
     
     *   (b) in respect of a breach referred to in subsection (1)(b) or (c), at any time after the expiry of 12 months after the end of the financial year in which the breach occurs.
     
@@ -3915,9 +3927,9 @@ Regulated goods or services
         
     *   (a) make a control declaration under [Part 4A][219]; or
     
-    *   (b) enter into an administrative settlement in respect of the breach under [Part 4A][219]. 
+    *   (b) enter into an administrative settlement in respect of the breach under [Part 4A][219].
     
-    (4) The Commission may do anything under subsections (2) and (3) as if the [Commerce Amendment Act 2008][492] had not been enacted, except that the purpose in [section 52A][76] must be taken to be the purpose of [Part 4A][219].
+    (4) The Commission may do anything under subsections (2) and (3) as if the [Commerce Amendment Act 2008][493] had not been enacted, except that the purpose in [section 52A][76] must be taken to be the purpose of [Part 4A][219].
     
     (5) To avoid doubt, the Commission may, but need not, apply input methodologies in acting under subsection (3).
     
@@ -3945,9 +3957,9 @@ Regulated goods or services
     
     Section 54P: inserted, on 1 April 2009, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 54P(1): amended, on 1 November 2010, by [section 154(a)][505] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54P(1): amended, on 1 November 2010, by [section 154(a)][506] of the Electricity Industry Act 2010 (2010 No 116).
     
-    Section 54P(1): amended, on 1 November 2010, by [section 154(b)][505] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54P(1): amended, on 1 November 2010, by [section 154(b)][506] of the Electricity Industry Act 2010 (2010 No 116).
 
 #### Energy efficiency
     
@@ -3961,7 +3973,7 @@ Regulated goods or services
 
 #### Transpower grid upgrade plans and capital expenditure proposals
     
-*   Heading: substituted, on 1 November 2010, by [section 155][506] of the Electricity Industry Act 2010 (2010 No 116).
+*   Heading: substituted, on 1 November 2010, by [section 155][507] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54R Approval of Transpower's grid upgrade plans
     
@@ -4001,7 +4013,7 @@ Regulated goods or services
     
     _grid upgrade plan_ has the meaning set out in the Electricity Governance Rules.
     
-    Section 54R: substituted, on 1 November 2010, by [section 155][506] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54R: substituted, on 1 November 2010, by [section 155][507] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54S Commission to prepare input methodology for capital expenditure proposals
     
@@ -4021,29 +4033,29 @@ Regulated goods or services
     
     Compare: 1986 No 5 ss 52T(1)(d), 52U
     
-    Section 54S: substituted, on 1 November 2010, by [section 155][506] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54S: substituted, on 1 November 2010, by [section 155][507] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54T Procedure before jurisdiction order can be made
     
 *   \[Repealed\]
     
-    Section 54T: repealed, on 1 November 2010, by [section 155][506] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54T: repealed, on 1 November 2010, by [section 155][507] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54U Levies during transition in jurisdiction
     
 *   \[Repealed\]
     
-    Section 54U: repealed, on 1 November 2010, by [section 155][506] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54U: repealed, on 1 November 2010, by [section 155][507] of the Electricity Industry Act 2010 (2010 No 116).
 
 #### Interface with Electricity Industry Act 2010
     
-*   Heading: inserted, on 1 November 2010, by [section 156][507] of the Electricity Industry Act 2010 (2010 No 116).
+*   Heading: inserted, on 1 November 2010, by [section 156][508] of the Electricity Industry Act 2010 (2010 No 116).
 
 ##### 54V Impact of certain decisions made under Electricity Industry Act 2010
     
 *   (1) The Electricity Authority must consult with the Commission before amending the Electricity Industry Participation Code (the _Code_) in a manner that will, or is likely to, affect the Commission in the performance of its functions or exercise of its powers under this Part.
     
-    (2) The Electricity Authority must advise the Commission as soon as practicable after doing any of the following things that is likely to be relevant to the powers or functions of the Commission under this Part: 
+    (2) The Electricity Authority must advise the Commission as soon as practicable after doing any of the following things that is likely to be relevant to the powers or functions of the Commission under this Part:
         
     *   (a) making any provision of the Code:
     
@@ -4051,11 +4063,11 @@ Regulated goods or services
     
     *   (c) issuing any guidelines:
     
-    *   (d) giving a direction to Transpower and 1 or more industry participants to enter into 1 or more transmission agreements under [section 44][508] of the Electricity Industry Act 2010\.
+    *   (d) giving a direction to Transpower and 1 or more industry participants to enter into 1 or more transmission agreements under [section 44][509] of the Electricity Industry Act 2010\.
     
     (3) The Electricity Authority must advise the Commission, as soon as practicable, following any change in the Code that results in increased costs to Transpower or to any distributor or class of distributors.
     
-    (4) The Commission must take into account, before exercising any of its powers or performing any of its functions under this Part,--- 
+    (4) The Commission must take into account, before exercising any of its powers or performing any of its functions under this Part,---
         
     *   (a) any provision of the Code, or decision made under it, that relates to or affects the pricing methodologies or performance requirements applicable to Transpower:
     
@@ -4065,15 +4077,15 @@ Regulated goods or services
     
     *   (d) any directions of which it receives advice under subsection (2)(d):
     
-    *   (e) the levy payable by Transpower or any other line owner under [section 128][509] of the Electricity Industry Act 2010:
+    *   (e) the levy payable by Transpower or any other line owner under [section 128][510] of the Electricity Industry Act 2010:
     
-    *   (f) the continuance of supply obligations imposed by [section 105][510] of the Electricity Industry Act 2010\.
+    *   (f) the continuance of supply obligations imposed by [section 105][511] of the Electricity Industry Act 2010\.
     
     (5) The Commission must, if asked by the Electricity Authority to do so, reconsider a [section 52P][95] determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (4).
     
     (6) Requirements relating to quality standards for Transpower in a [section 52P][95] determination must be based on, and be consistent with, quality standards for Transpower that are set by the Electricity Authority; but the Commission may prescribe them in any way it considers appropriate, as authorised by [section 53M(3)][125].
     
-    Section 54V: substituted, on 1 November 2010, by [section 156][507] of the Electricity Industry Act 2010 (2010 No 116).
+    Section 54V: substituted, on 1 November 2010, by [section 156][508] of the Electricity Industry Act 2010 (2010 No 116).
 
 #### Savings provisions
     
@@ -4091,7 +4103,7 @@ Regulated goods or services
     
     (2) Subsection (1) applies as if---
         
-    *   (a) references in those regulations to the Commission's costs included references to the costs of exercising and performing the Commission's powers, duties, and functions under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and 
+    *   (a) references in those regulations to the Commission's costs included references to the costs of exercising and performing the Commission's powers, duties, and functions under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and
     
     *   (b) terms used in subsection (1) have the same meaning as they do in those regulations.
     
@@ -4133,13 +4145,13 @@ Regulated goods or services
     
     (4) In this section, unless the context otherwise requires,---
     
-    _associate_ has the same meaning as in [section 12][511] of the Electricity Industry Reform Act 1998
+    _associate_ has the same meaning as in [section 12][512] of the Electricity Industry Reform Act 1998
     
-    _consumer_ has the same meaning as in [section 2(1)][512] of the Gas Act 1992
+    _consumer_ has the same meaning as in [section 2(1)][513] of the Gas Act 1992
     
-    _container_ has the same meaning as in [section 2(1)][512] of the Gas Act 1992
+    _container_ has the same meaning as in [section 2(1)][513] of the Gas Act 1992
     
-    _gas refueller_ has the same meaning as in [section 2(1)][512] of the Gas Act 1992
+    _gas refueller_ has the same meaning as in [section 2(1)][513] of the Gas Act 1992
     
     _pipeline_---
         
@@ -4147,7 +4159,7 @@ Regulated goods or services
             
         *   (i) the boundary of the gas field or gas processing facility to the point of supply to a consumer or gas refueller; or
         
-        *   (ii) the outlet of the container in which gas is stored to the point of supply to a consumer or gas refueller; but 
+        *   (ii) the outlet of the container in which gas is stored to the point of supply to a consumer or gas refueller; but
         
         
     
@@ -4201,7 +4213,7 @@ Regulated goods or services
     
     (2) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services must be made as soon as practicable after 1 July 2010, in the manner set out in [section 55F][193].
     
-    (3) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services that become subject to that form of regulation as a result of an Order in Council made under [section 55A(5)(a)][187] must be made as soon as practicable after the order comes into force. 
+    (3) The [section 52P][95] determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services that become subject to that form of regulation as a result of an Order in Council made under [section 55A(5)(a)][187] must be made as soon as practicable after the order comes into force.
     
     Section 55E: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -4225,19 +4237,19 @@ Regulated goods or services
 
 ##### 55G Existing order, authorisations, and undertakings continue to apply until 1 July 2012 (or earlier expiry)
     
-*   (1) This section provides how price-quality regulation under this Part applies to services that are controlled by virtue of the [Commerce (Control of Natural Gas Services) Order 2005][513] (the _order_).
+*   (1) This section provides how price-quality regulation under this Part applies to services that are controlled by virtue of the [Commerce (Control of Natural Gas Services) Order 2005][514] (the _order_).
     
-    (2) The order continues in force, despite the repeal of Part 4 (as it was before its repeal by the [Commerce Amendment Act 2008][492]), until the date on which the order expires or is revoked (the _expiry date_).
+    (2) The order continues in force, despite the repeal of Part 4 (as it was before its repeal by the [Commerce Amendment Act 2008][493]), until the date on which the order expires or is revoked (the _expiry date_).
     
-    (3) The enactment of the [Commerce Amendment Act 2008][492] does not limit or affect, before the expiry date, any of the following in respect of the gas pipeline services that are controlled by virtue of the order:
+    (3) The enactment of the [Commerce Amendment Act 2008][493] does not limit or affect, before the expiry date, any of the following in respect of the gas pipeline services that are controlled by virtue of the order:
         
     *   (a) any authorisation made (including the ability to amend or revoke an authorisation), or any undertaking obtained or accepted, under [Part 5][277] before 1 April 2009; or
     
     *   (b) the power of the Commission to obtain or accept any further undertakings under [Part 5][277]; or
     
-    *   (c) any action that may be commenced or continued in respect of a breach of any authorisation or undertaking. 
+    *   (c) any action that may be commenced or continued in respect of a breach of any authorisation or undertaking.
     
-    (4) To avoid doubt, subsection (3) applies as if the provisions of [Parts 4 to 6][73] had not been amended or repealed by the [Commerce Amendment Act 2008][492].
+    (4) To avoid doubt, subsection (3) applies as if the provisions of [Parts 4 to 6][73] had not been amended or repealed by the [Commerce Amendment Act 2008][493].
     
     (5) However, any breach of the order after 1 April 2009 may be dealt with under [Part 6][312] as if it were a breach of a customised price-quality path.
     
@@ -4245,7 +4257,7 @@ Regulated goods or services
 
 ##### 55H How price-quality regulation under this Part applies after 1 July 2012 (or earlier expiry)
     
-*   (1) This section provides how price-quality regulation under this Part applies to a gas pipeline service after it ceases to be controlled by virtue of the [Commerce (Control of Natural Gas Services) Order 2005][513] (the _order_).
+*   (1) This section provides how price-quality regulation under this Part applies to a gas pipeline service after it ceases to be controlled by virtue of the [Commerce (Control of Natural Gas Services) Order 2005][514] (the _order_).
     
     (2) The expiry of the order must be treated as if it were the expiry of a customised price-quality path, and [section 53X][138] applies accordingly.
     
@@ -4253,7 +4265,7 @@ Regulated goods or services
         
     *   (a) the expiry date referred to in [section 55G][195]; or
     
-    *   (b) if an undertaking is obtained or accepted from a supplier in respect of a service that expires on an earlier date, that earlier date, provided that the order ceases to apply to that service on or before that date (by revocation of the order or otherwise). 
+    *   (b) if an undertaking is obtained or accepted from a supplier in respect of a service that expires on an earlier date, that earlier date, provided that the order ceases to apply to that service on or before that date (by revocation of the order or otherwise).
     
     Section 55H: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -4263,19 +4275,19 @@ Regulated goods or services
 
 ##### 55I Impact of certain decisions made under Gas Act 1992
     
-*   (1) The recommending body must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation or rule under [Part 4A][514] of the Gas Act 1992, or after making any decision under gas governance regulations or rules, or after issuing any guidelines, that is or are likely to be relevant to the powers of the Commerce Commission under this Part.
+*   (1) The recommending body must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation or rule under [Part 4A][515] of the Gas Act 1992, or after making any decision under gas governance regulations or rules, or after issuing any guidelines, that is or are likely to be relevant to the powers of the Commerce Commission under this Part.
     
     (2) The Commission must take into account, before exercising any of its powers under this Part,---
         
-    *   (a) any gas governance regulation or rule under [Part  4A][514] of the Gas Act 1992, or decision under those gas governance regulations or rules, that relates to or affects the quality standards or pricing methodologies applicable to a pipeline owner:
+    *   (a) any gas governance regulation or rule under [Part  4A][515] of the Gas Act 1992, or decision under those gas governance regulations or rules, that relates to or affects the quality standards or pricing methodologies applicable to a pipeline owner:
     
     *   (b) any guidelines issued by the recommending body of which it is advised under subsection (1) that are likely to be relevant to the powers of the Commerce Commission under this Part:
     
-    *   (c) the levy payable by any pipeline owner under the [Gas Act 1992][515].
+    *   (c) the levy payable by any pipeline owner under the [Gas Act 1992][516].
     
     (3) The Commission must, if asked by the recommending body to do so, reconsider any [section 52P][95] determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (2).
     
-    (4) In this section, _recommending body_ has the same meaning as in [section 43D][516] of the Gas Act 1992\.
+    (4) In this section, _recommending body_ has the same meaning as in [section 43D][517] of the Gas Act 1992\.
     
     Section 55I: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
@@ -4285,19 +4297,19 @@ Regulated goods or services
 
 ##### 55J Savings provision until Commission publishes information disclosure requirements
     
-*   (1) The [Gas (Information Disclosure) Regulations 1997][517] continue to apply to each supplier of gas pipeline services in respect of every financial year that precedes the first financial year to which a determination made by the Commission referred to in [section 55E(1)][192] applies to that supplier.
+*   (1) The [Gas (Information Disclosure) Regulations 1997][518] continue to apply to each supplier of gas pipeline services in respect of every financial year that precedes the first financial year to which a determination made by the Commission referred to in [section 55E(1)][192] applies to that supplier.
     
-    (2) After that, no regulations made under [section 55][518] of the Gas Act 1992 apply to the supplier of gas pipeline services.
+    (2) After that, no regulations made under [section 55][519] of the Gas Act 1992 apply to the supplier of gas pipeline services.
     
     Section 55J: inserted, on 14 October 2008, by [section 4][486] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 55K Savings provision for existing levy regulations for services controlled under Commerce (Control of Natural Gas Services) Order 2005
     
-*   (1) Any regulations made pursuant to [section 74][311] before the repeal of that section continue to apply to each person that is a supplier of controlled services under the [Commerce (Control of Natural Gas Services) Order 2005][513] in respect of every financial year that precedes the first financial year to which levy regulations made under [section 53ZE][148] apply to that supplier.
+*   (1) Any regulations made pursuant to [section 74][311] before the repeal of that section continue to apply to each person that is a supplier of controlled services under the [Commerce (Control of Natural Gas Services) Order 2005][514] in respect of every financial year that precedes the first financial year to which levy regulations made under [section 53ZE][148] apply to that supplier.
     
     (2) Subsection (1) applies as if---
         
-    *   (a) references in those regulations to the Commission's costs include references to the costs of exercising the Commission's powers and performing its duties under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and 
+    *   (a) references in those regulations to the Commission's costs include references to the costs of exercising the Commission's powers and performing its duties under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and
     
     *   (b) terms used in subsection (1) have the same meaning as they do in those regulations.
     
@@ -4339,13 +4351,13 @@ Regulated goods or services
     
     (2) The companies are---
         
-    *   (a) the company (as defined in [section 2][519] of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
+    *   (a) the company (as defined in [section 2][520] of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
     
-    *   (b) the company (as defined in [section 2][520] of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
+    *   (b) the company (as defined in [section 2][521] of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
     
-    *   (c) the airport company (as defined in [section 2][521] of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport.
+    *   (c) the airport company (as defined in [section 2][522] of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport.
     
-    (3) Terms used in subsection (1)(a) to (c) have the same meanings as in [section 2][521] of the Airport Authorities Act 1966\.
+    (3) Terms used in subsection (1)(a) to (c) have the same meanings as in [section 2][522] of the Airport Authorities Act 1966\.
     
     (4) The Minister may recommend that an Order in Council be made under subsection (1)(d) only if the Minister is satisfied that---
         
@@ -4391,9 +4403,9 @@ Regulated goods or services
 
 ##### 56F Transitional provision until Commission publishes information disclosure requirements
     
-*   (1) The [Airport Authorities (Airport Companies Information Disclosure) Regulations 1999][522] continue to apply to each supplier of specified airport services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under [section 56E][210] applies to that supplier.
+*   (1) The [Airport Authorities (Airport Companies Information Disclosure) Regulations 1999][523] continue to apply to each supplier of specified airport services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under [section 56E][210] applies to that supplier.
     
-    (2) After that, no regulations made under [section 9A][523] of the Airport Authorities Act 1966 apply to that supplier.
+    (2) After that, no regulations made under [section 9A][524] of the Airport Authorities Act 1966 apply to that supplier.
     
     (3) Each supplier of specified airport services must supply to the Commission a copy of any information disclosed under those regulations, as soon as practicable after so disclosing.
     
@@ -4450,345 +4462,345 @@ Provisions applicable to electricity industry
 
 \[Repealed\]
     
-*   Part 4A: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Part 4A: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57D Interpretation
     
 *   \[Repealed\]
     
-    Section 57D: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57D: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DAA Meaning of electricity lines business
     
 *   \[Repealed\]
     
-    Section 57DAA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DAA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DAAB Meaning of electricity supply business
     
 *   \[Repealed\]
     
-    Section 57DAAB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DAAB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DA Body that exercises jurisdiction under this Part
     
 *   \[Repealed\]
     
-    Section 57DA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DB Transfer of jurisdiction in respect of Transpower
     
 *   \[Repealed\]
     
-    Section 57DB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DC Transfer of jurisdiction relating to other large electricity lines businesses
     
 *   \[Repealed\]
     
-    Section 57DC: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DC: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DD Procedure before jurisdiction order can be made
     
 *   \[Repealed\]
     
-    Section 57DD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DE Levies during transition in jurisdiction
     
 *   \[Repealed\]
     
-    Section 57DE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57DF Ministerial powers
     
 *   \[Repealed\]
     
-    Section 57DF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57DF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ### Subpart 1---Controlled goods or services
 
 \[Repealed\]
     
-*   Subpart 1: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Subpart 1: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57E Purpose
     
 *   \[Repealed\]
     
-    Section 57E: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57E: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57F Commission, not Minister, may declare that goods or services supplied by large electricity lines businesses are controlled
     
 *   \[Repealed\]
     
-    Section 57F: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57F: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57G Thresholds for declaration of control
     
 *   \[Repealed\]
     
-    Section 57G: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57G: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GA Incorporation by reference of material in thresholds
     
 *   \[Repealed\]
     
-    Section 57GA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GB Effect of amendments to, or replacement of, material incorporated by reference in thresholds
     
 *   \[Repealed\]
     
-    Section 57GB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GB: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GC Amendments to, or replacement of, material incorporated by reference to be of same general character as original material
     
 *   \[Repealed\]
     
-    Section 57GC: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GC: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GD Proof of material incorporated by reference
     
 *   \[Repealed\]
     
-    Section 57GD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GE Effect of expiry of material incorporated by reference
     
 *   \[Repealed\]
     
-    Section 57GE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GF Requirement to consult
     
 *   \[Repealed\]
     
-    Section 57GF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57GG Access to material incorporated by reference
     
 *   \[Repealed\]
     
-    Section 57GG: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57GG: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57H Process for making decisions on declaration of control
     
 *   \[Repealed\]
     
-    Section 57H: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57H: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57I Process before declaration made
     
 *   \[Repealed\]
     
-    Section 57I: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57I: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57J Effect of declaration of control
     
 *   \[Repealed\]
     
-    Section 57J: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57J: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57K Priorities
     
 *   \[Repealed\]
     
-    Section 57K: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57K: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57L Maximum of 5 years for duration of declaration
     
 *   \[Repealed\]
     
-    Section 57L: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57L: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57M Authorisations and undertakings
     
 *   \[Repealed\]
     
-    Section 57M: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57M: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57MA Impact of certain decisions made under Electricity Act 1992
     
 *   \[Repealed\]
     
-    Section 57MA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57MA: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57N Commission may lift control
     
 *   \[Repealed\]
     
-    Section 57N: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57N: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ### Subpart 2---Transpower's pricing methodology
 
 \[Repealed\]
     
-*   Subpart 2: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+*   Subpart 2: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57O Commission may be required to authorise Transpower's pricing methodology
     
 *   \[Repealed\]
     
-    Section 57O: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57O: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57P Authorisations in respect of Transpower's pricing methodology
     
 *   \[Repealed\]
     
-    Section 57P: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57P: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57Q Authorisations and undertakings
     
 *   \[Repealed\]
     
-    Section 57Q: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57Q: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57R Enforcement of authorisations
     
 *   \[Repealed\]
     
-    Section 57R: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57R: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57S Revocation of authorisations
     
 *   \[Repealed\]
     
-    Section 57S: repealed, on 18 October 2004, by [section 10(1)][525] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57S: repealed, on 18 October 2004, by [section 10(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ### Subpart 3---Information disclosure
 
 \[Repealed\]
     
-*   Subpart 3: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Subpart 3: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57T Information disclosure
     
 *   \[Repealed\]
     
-    Section 57T: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57T: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57U Information to be supplied to Commerce Commission
     
 *   \[Repealed\]
     
-    Section 57U: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57U: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57V Commerce Commission to publish summaries
     
 *   \[Repealed\]
     
-    Section 57V: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57V: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57W Reasonable charge may be imposed for providing copies of statements
     
 *   \[Repealed\]
     
-    Section 57W: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57W: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ### Subpart 4---Asset valuations
 
 \[Repealed\]
     
-*   Subpart 4: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Subpart 4: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Recalibration of asset values of large electricity line owners
     
-*   Heading: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+*   Heading: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57X Purpose of recalibrations
     
 *   \[Repealed\]
     
-    Section 57X: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57X: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57Y Interpretation
     
 *   \[Repealed\]
     
-    Section 57Y: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57Y: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57Z Large electricity line owners must supply valuation to Commerce Commission
     
 *   \[Repealed\]
     
-    Section 57Z: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57Z: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57ZA Comprehensive audit of asset values of large electricity line owners
     
 *   \[Repealed\]
     
-    Section 57ZA: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57ZA: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57ZB Procedure after audit of asset values carried out
     
 *   \[Repealed\]
     
-    Section 57ZB: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57ZB: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 ##### 57ZC Outcome of audit of asset values
     
 *   \[Repealed\]
     
-    Section 57ZC: repealed, on 18 October 2004, by [section 11(1)][526] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
+    Section 57ZC: repealed, on 18 October 2004, by [section 11(1)][527] of the Commerce Amendment Act (No 2) 2004 (2004 No 82).
 
 #### Review of valuation methodologies
     
-*   Heading: repealed, on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Heading: repealed, on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZD Review of valuation methodologies
     
 *   \[Repealed\]
     
-    Section 57ZD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZD: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZE Process when carrying out review of valuation methodologies
     
 *   \[Repealed\]
     
-    Section 57ZE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZE: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ### Subpart 5---General provisions
 
 \[Repealed\]
     
-*   Subpart 5: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Subpart 5: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZF Powers of Commission
     
 *   \[Repealed\]
     
-    Section 57ZF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZF: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZG Powers of entry and inspection
     
 *   \[Repealed\]
     
-    Section 57ZG: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZG: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZH Authorised persons to prove identity
     
 *   \[Repealed\]
     
-    Section 57ZH: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZH: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZI Offence to obstruct authorised persons
     
 *   \[Repealed\]
     
-    Section 57ZI: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZI: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZJ Other offences
     
 *   \[Repealed\]
     
-    Section 57ZJ: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZJ: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 57ZK Levy of electricity lines businesses
     
 *   \[Repealed\]
     
-    Section 57ZK: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][524] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 57ZK: repealed (but may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal), on 1 April 2009, by [section 5][525] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ## Part 5  
 Authorisations and clearances
@@ -4813,7 +4825,7 @@ Authorisations and clearances
     
     (8) A person who wishes to do an act to which that person considers [section 38][58] would apply, or might apply, may apply to the Commission for an authorisation to do so, and the Commission may grant an authorisation for that person to do that act.
     
-    Section 58: substituted, on 1 July 1990, by [section 19][527] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 58: substituted, on 1 July 1990, by [section 19][528] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 58A Effect of authorisation
     
@@ -4843,7 +4855,7 @@ Authorisations and clearances
     
     (6) While an authorisation under subsection (8) of [section 58][279] remains in force, nothing in [section 38][58] shall prevent the applicant from doing the act to which the authorisation relates in accordance with the authorisation.
     
-    Section 58A: inserted, on 1 July 1990, by [section 19][527] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 58A: inserted, on 1 July 1990, by [section 19][528] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 58B Additional provisions relating to authorisations
     
@@ -4873,7 +4885,7 @@ Authorisations and clearances
     
     *   (d) in the case of an authorisation to carry out or enforce the terms of a covenant, becomes bound by, or entitled to the benefit of, the covenant at a time after the authorisation is granted.
     
-    Section 58B: inserted, on 1 July 1990, by [section 19][527] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 58B: inserted, on 1 July 1990, by [section 19][528] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 59 Contracts or covenants subject to authorisation not prohibited under certain conditions
     
@@ -4889,7 +4901,7 @@ Authorisations and clearances
     
     *   (b) in the case of a covenant to which [section 28][42] applies, that the covenant is subject to the condition that it does not have effect unless and until authorisation is granted to give effect to it and that application must be made for that authorisation within 15 working days after the covenant is made.
     
-    Section 59: substituted, on 26 May 2001, by [section 13][528] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 59: substituted, on 26 May 2001, by [section 13][529] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 59A When Commission may grant authorisation
     
@@ -4911,13 +4923,13 @@ Authorisations and clearances
     
     (3) The parties to the contract, arrangement, or understanding may do any of the things set out in subsection (2) as long as any of the parties establishes to the satisfaction of the Commission that discontinuing any of those things would, or would be likely to, result in exceptional hardship to any of the parties.
     
-    Section 59A: inserted, on 26 May 2001, by [section 13][528] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 59A: inserted, on 26 May 2001, by [section 13][529] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 59B Contraventions not prevented by granting of authorisation under section 59 or section 59A
     
 *   Nothing in [section 59][282] or [section 59A][283] prevents conduct that occurred before an authorisation was granted in respect of it and that would otherwise have constituted a contravention of this Act from continuing to constitute a contravention.
     
-    Section 59B: inserted, on 26 May 2001, by [section 13][528] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 59B: inserted, on 26 May 2001, by [section 13][529] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 60 Procedure for applications for authorisation of restrictive trade practices
     
@@ -5009,13 +5021,13 @@ Authorisations and clearances
     
     Compare: Trade Practices Act 1974 s 90(1), (2), (4), (5), (6), (7), (8) (Aust)
     
-    Section 61(6): amended, on 1 July 1990, by [section 21(1)][529] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 61(6): amended, on 1 July 1990, by [section 21(1)][530] of the Commerce Amendment Act 1990 (1990 No 41).
     
     Section 61(6A): inserted, on 2 September 1996, by section 4 of the Commerce Amendment Act 1996 (1996 No 113).
     
-    Section 61(7): amended, on 1 July 1990, by [section 21(2)][529] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 61(7): amended, on 1 July 1990, by [section 21(2)][530] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 61(8): added, on 1 July 1990, by [section 21(3)][529] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 61(8): added, on 1 July 1990, by [section 21(3)][530] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 62 Commission to prepare draft determination in relation to restrictive trade practices
     
@@ -5049,15 +5061,15 @@ Authorisations and clearances
     
     Compare: Trade Practices Act 1974 s 90A(1), (2), (5), (6), (13) (Aust)
     
-    Section 62(5): substituted, on 14 October 2008 (applying in respect of every application for an authorisation under [section 58][279] that is made after that date), by [section 6(1)][530] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 62(5): substituted, on 14 October 2008 (applying in respect of every application for an authorisation under [section 58][279] that is made after that date), by [section 6(1)][531] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 62(6): substituted, on 14 October 2008 (applying in respect of every application for an authorisation under [section 58][279] that is made after that date), by [section 6(1)][530] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 62(6): substituted, on 14 October 2008 (applying in respect of every application for an authorisation under [section 58][279] that is made after that date), by [section 6(1)][531] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 63 Commission may grant provisional authorisation
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 July 1990, by [section 22][531] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 63: repealed, on 1 July 1990, by [section 22][532] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 64 Procedure at conference
     
@@ -5071,7 +5083,7 @@ Authorisations and clearances
     
     *   (d) no other person is entitled to be present.
     
-    (2) The Commission may require any employee of the Commission to attend a conference called under [section 62][287] where in the opinion of the Commission that officer may assist the Commission in the determination of the application.
+    (2) The Commission may require any employee of the Commission to attend a conference called under [section 62][287] where in the opinion of the Commission that employee may assist the Commission in the determination of the application.
     
     (3) At every conference called under [section 62][287] the Commission shall provide for as little formality and technicality as the requirements of this Act and a proper consideration of the application permits.
     
@@ -5105,7 +5117,7 @@ Authorisations and clearances
 
 #### Business acquisitions
     
-*   Heading: substituted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+*   Heading: substituted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 66 Commission may give clearances for business acquisitions
     
@@ -5127,13 +5139,13 @@ Authorisations and clearances
     
     *   (b) in the event of an appeal being made against the determination of the Commission giving the clearance, and the determination being confirmed by the court, 12 months after the date on which the determination is confirmed.
     
-    Section 66: substituted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 66: substituted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 66(3)(a): amended, on 15 December 2005, by [section 3(1)][533] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
+    Section 66(3)(a): amended, on 15 December 2005, by [section 3(1)][534] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
     
     Section 66(3)(a): amended, on 26 May 2001, by [section 11(2)][439] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 66(3)(b): amended, on 15 December 2005, by [section 3(2)][533] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
+    Section 66(3)(b): amended, on 15 December 2005, by [section 3(2)][534] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
     
     Section 66(3)(b): amended, on 26 May 2001, by [section 11(2)][439] of the Commerce Amendment Act 2001 (2001 No 32).
 
@@ -5161,9 +5173,9 @@ Authorisations and clearances
     
     *   (b) in the event of an appeal being made against the determination of the Commission giving the clearance or granting the authorisation, and the determination of the Commission being confirmed by the court, 12 months after the date on which the determination is confirmed.
     
-    Section 67: substituted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 67: substituted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 67(3)(a): amended, on 15 December 2005, by [section 4][534] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
+    Section 67(3)(a): amended, on 15 December 2005, by [section 4][535] of the Commerce Amendment Act (No 2) 2005 (2005 No 95).
     
     Section 67(3)(a): amended, on 26 May 2001, by [section 11(2)][439] of the Commerce Amendment Act 2001 (2001 No 32).
 
@@ -5179,13 +5191,13 @@ Authorisations and clearances
     
     (5) The Commission may consult with any person who, in the opinion of the Commission, is able to assist it in making a determination under [section 66][292] or [section 67][293], as the case may be.
     
-    Section 68: substituted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 68: substituted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 69 Effect of clearance or authorisation
     
 *   Nothing in [section 27][41] or [section 47][68] applies to the acquisition of assets of a business or shares if the assets or shares are acquired in accordance with a clearance or an authorisation and while the clearance or authorisation is in force.
     
-    Section 69: substituted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 69: substituted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 69A Commission may accept undertakings
     
@@ -5195,15 +5207,15 @@ Authorisations and clearances
     
     (3) An undertaking given to the Commission under subsection (1) is deemed to form part of the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates.
     
-    Section 69A: inserted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 69A: inserted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 69AB Authorisation or clearance void if undertaking contravened
     
-*   (1) If a person contravenes an undertaking accepted under [section 69A][296], the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates is void and of no effect from the date it was given or granted. 
+*   (1) If a person contravenes an undertaking accepted under [section 69A][296], the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates is void and of no effect from the date it was given or granted.
     
     (2) Subsection (1) does not prevent the court from making an order under [sections 85A to 85C][343] in relation to the undertaking.
     
-    Section 69AB: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 7(1)][535] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 69AB: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 7(1)][536] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 69AC Variation of undertaking
     
@@ -5213,7 +5225,7 @@ Authorisations and clearances
         
     *   (a) may be made only by the person who gave the undertaking or on whose behalf the undertaking was given; and
     
-    *   (b) must be made no later than 20 working days before the date on which the relevant obligation under the undertaking must be met. 
+    *   (b) must be made no later than 20 working days before the date on which the relevant obligation under the undertaking must be met.
     
     (3) The Commission must notify the person who made the application of its decision on the application no later than 3 working days before the relevant obligation under the undertaking must be met.
     
@@ -5223,7 +5235,7 @@ Authorisations and clearances
     
     *   (b) is deemed to form part of the undertaking (and, accordingly, is deemed under [section 69A(3)][296] to form part of the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates).
     
-    Section 69AC: inserted, on 14 October 2008 (applying to every undertaking accepted under [section 69A][296] before that date if the period for giving effect to the undertaking has not expired at that time and to every undertaking accepted under section 69A after that date), by [section 7(1)][535] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 69AC: inserted, on 14 October 2008 (applying to every undertaking accepted under [section 69A][296] before that date if the period for giving effect to the undertaking has not expired at that time and to every undertaking accepted under section 69A after that date), by [section 7(1)][536] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 69B Conferences in relation to business acquisitions
     
@@ -5237,86 +5249,86 @@ Authorisations and clearances
     
     *   (c) the reference in subsection (6) of that section to a determination in respect of an application, were a reference to a determination under [section 66(3)][292] or [section 67(3)][293], as the case may be.
     
-    Section 69B: inserted, on 1 January 1991, by [section 23][532] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 69B: inserted, on 1 January 1991, by [section 23][533] of the Commerce Amendment Act 1990 (1990 No 41).
 
 #### Authorisations in respect of controlled goods or services
 
 \[Repealed\]
     
-*   Heading: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Heading: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70 Authorisations in respect of prices, revenues, and quality standards
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70A Considerations to be observed by Commission
     
 *   \[Repealed\]
     
-    Section 70A: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70A: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70B Procedure for making authorisations
     
 *   \[Repealed\]
     
-    Section 70B: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70B: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70C Remedies and penalties if overcharging or quality standards breached
     
 *   \[Repealed\]
     
-    Section 70C: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70C: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70D Terms of authorisations
     
 *   \[Repealed\]
     
-    Section 70D: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70D: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70E Investigations and audits
     
 *   \[Repealed\]
     
-    Section 70E: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70E: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 70F Revocation and amendment of authorisations
     
 *   \[Repealed\]
     
-    Section 70F: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 70F: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 71 Provisional authorisations
     
 *   \[Repealed\]
     
-    Section 71: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 71: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 72 Alternative undertakings
     
 *   \[Repealed\]
     
-    Section 72: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 72: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 73 Conferences in relation to authorisations about controlled goods or services
     
 *   \[Repealed\]
     
-    Section 73: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 73: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 74 Levies
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 14 October 2008, by [section 8][536] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 74: repealed, on 14 October 2008, by [section 8][537] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ## Part 6  
 Enforcement, remedies, and appeals
 
 #### Cease and desist orders
     
-*   Heading: inserted, on 1 April 2002, by [section 15(1)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+*   Heading: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 74AA Cease and desist Commissioners
     
@@ -5326,7 +5338,7 @@ Enforcement, remedies, and appeals
         
     *   (a) is a barrister or solicitor; and
     
-    *   (b) would qualify for appointment as a member of the Commission under [section 9(4)(a)][17] of this Act and [sections 29(2)][447] and [30(2)][538] of the Crown Entities Act 2004\.
+    *   (b) would qualify for appointment as a member of the Commission under [section 9(4)(a)][17] of this Act and [sections 29(2)][447] and [30(2)][539] of the Crown Entities Act 2004\.
     
     (3) The notice of appointment must---
         
@@ -5340,11 +5352,11 @@ Enforcement, remedies, and appeals
     
     *   (b) be published by the Minister in the _Gazette_ as soon as practicable after being given.
     
-    (4) [Section 106][402] of this Act and [sections 31][539], [32(2) to (4)][455], [34][540], [35][541], [39 to 45][454], [47][542], [48][543], [62 to 68][544], [122 to 126][545] (as applied by [section 106(3B)][402] of this Act), and [188 to 190][546] of the Crown Entities Act 2004 apply to a Commissioner, with any necessary modification, as if he or she were a member of the Commission.
+    (4) [Section 106][402] of this Act and [sections 31][540], [32(2) to (4)][455], [34][541], [35][542], [39 to 45][454], [47][543], [48][544], [62 to 68][545], [122 to 126][546] (as applied by [section 106(3B)][402] of this Act), and [188 to 190][547] of the Crown Entities Act 2004 apply to a Commissioner, with any necessary modification, as if he or she were a member of the Commission.
     
     (5) A Commissioner must act independently of the Commission in carrying out his or her functions under this Act.
     
-    (6) The Commission must include in its annual report under [section 150][547] of the Crown Entities Act 2004 the information in [section 152(1)(a) and (d) to (f)][548] of that Act, in respect of each Commissioner.
+    (6) The Commission must include in its annual report under [section 150][548] of the Crown Entities Act 2004 the information in [section 152(1)(a) and (d) to (f)][549] of that Act, in respect of each Commissioner.
     
     Section 74AA: inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5372,7 +5384,7 @@ Enforcement, remedies, and appeals
     
     *   (c) is deemed to be a determination of the Commission that is subject to appeal in accordance with [sections 91 to 97][361].
     
-    Section 74A: inserted, on 1 April 2002, by [section 15(1)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 74A: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 74B Investigation, notice, and opportunity to be heard
     
@@ -5402,7 +5414,7 @@ Enforcement, remedies, and appeals
         
         
     
-    Section 74B: inserted, on 1 April 2002, by [section 15(1)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 74B: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
     
     Section 74B(b): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5418,7 +5430,7 @@ Enforcement, remedies, and appeals
     
     (2) For the purposes of conducting a hearing for a cease and desist order, a Commissioner may exercise the powers in [section 98][369] as if he or she were the Commission.
     
-    Section 74C: inserted, on 1 April 2002, by [section 15(1)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 74C: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
     
     Section 74C(2): added, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -5434,11 +5446,11 @@ Enforcement, remedies, and appeals
     
     (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
     
-    Section 74D: inserted, on 1 April 2002, by [section 15(1)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 74D: inserted, on 1 April 2002, by [section 15(1)][538] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 74D(3): repealed, on 14 October 2008, by [section 12(2)(a)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 74D(3): repealed, on 14 October 2008, by [section 12(2)(a)][550] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 74D(4): repealed, on 14 October 2008, by [section 12(2)(a)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 74D(4): repealed, on 14 October 2008, by [section 12(2)(a)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Jurisdiction of courts
 
@@ -5494,31 +5506,31 @@ Enforcement, remedies, and appeals
     
     (2) \[Repealed\]
     
-    Section 75(1)(aa): inserted, on 26 May 2001, by [section 16(1)][550] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 75(1)(aa): inserted, on 26 May 2001, by [section 16(1)][551] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 75(1)(b)(i): substituted, on 1 January 1991, by [section 25][551] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 75(1)(b)(i): substituted, on 1 January 1991, by [section 25][552] of the Commerce Amendment Act 1990 (1990 No 41).
     
     Section 75(1)(b)(iia): inserted, on 2 September 1996, by section 5 of the Commerce Amendment Act 1996 (1996 No 113).
     
-    Section 75(1)(c): substituted, on 14 October 2008, by [section 9(1)][552] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 75(1)(c): substituted, on 14 October 2008, by [section 9(1)][553] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 75(1)(e): added, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 75(1)(e): added, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 75(1)(f): added, on 26 May 2001, by [section 16(2)][550] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 75(1)(f): added, on 26 May 2001, by [section 16(2)][551] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 75(1)(g): added, on 26 May 2001, by [section 16(2)][550] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 75(1)(g): added, on 26 May 2001, by [section 16(2)][551] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 75(1)(h): added, on 26 May 2001, by [section 16(2)][550] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 75(1)(h): added, on 26 May 2001, by [section 16(2)][551] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 75(1)(i): added, on 14 October 2008, by [section 9(2)][552] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 75(1)(i): added, on 14 October 2008, by [section 9(2)][553] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 75(2): repealed, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 75(2): repealed, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 76 Jurisdiction of District Courts
     
 *   In accordance with this Part, the District Court shall hear and determine proceedings for offences against [sections 86B][349], [87B][353], [100][395], and [103][399].
     
-    Section 76: amended, on 14 October 2008, by [section 10][554] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 76: amended, on 14 October 2008, by [section 10][555] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 77 Additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations
     
@@ -5528,7 +5540,7 @@ Enforcement, remedies, and appeals
     
     (3) A lay member of the court shall hold office for such term, not exceeding 5 years, as the Governor-General shall specify in that member's instrument of appointment, but may from time to time be reappointed.
     
-    (4) There shall be paid to such lay members, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][555], and the provisions of that Act shall apply accordingly as if the court were a statutory Board within the meaning of that Act.
+    (4) There shall be paid to such lay members, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][556], and the provisions of that Act shall apply accordingly as if the court were a statutory Board within the meaning of that Act.
     
     (5) The Governor-General may terminate the appointment of a lay member of the court for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
     
@@ -5564,25 +5576,25 @@ Enforcement, remedies, and appeals
     
     Compare: 1975 No 113 s 122A; 1983 No 144 s 41; 1985 No 7 s 2
     
-    Section 77(1): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(1): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(2): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(2): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(3): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(3): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(5): amended, on 1 January 2002, by [section 70(1)][556] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 77(5): amended, on 1 January 2002, by [section 70(1)][557] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 77(5): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(5): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(6): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(6): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(7): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(7): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(9): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(9): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 77(13): amended, on 1 January 2004, by [section 48(1)][557] of the Supreme Court Act 2003 (2003 No 53).
+    Section 77(13): amended, on 1 January 2004, by [section 48(1)][558] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 77(14): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 77(14): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 78 Lay members of High Court in certain cases
     
@@ -5622,33 +5634,33 @@ Enforcement, remedies, and appeals
     
     Section 78(1): amended, on 2 September 1996, by section 6 of the Commerce Amendment Act 1996 (1996 No 113).
     
-    Section 78(1): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 78(1): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 78(1): amended, on 1 January 1991, by [section 26(1)(a)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(1): amended, on 1 January 1991, by [section 26(1)(a)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(1): amended, on 1 January 1991, by [section 26(1)(b)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(1): amended, on 1 January 1991, by [section 26(1)(b)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(2): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 78(2): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 78(3): amended, on 1 January 1991, by [section 26(2)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(3): amended, on 1 January 1991, by [section 26(2)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(4)(c): amended, on 1 January 1991, by [section 26(3)(a)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(4)(c): amended, on 1 January 1991, by [section 26(3)(a)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(4)(d): amended, on 1 January 1991, by [section 26(3)(b)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(4)(d): amended, on 1 January 1991, by [section 26(3)(b)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(4)(e): amended, on 1 January 1991, by [section 26(3)(c)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(4)(e): amended, on 1 January 1991, by [section 26(3)(c)][559] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 78(4)(f): added, on 1 January 1991, by [section 26(3)(d)][558] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 78(4)(f): added, on 1 January 1991, by [section 26(3)(d)][559] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 79 Evidence not otherwise admissible
     
 *   In the exercise of its jurisdiction under this Part, except in respect of criminal proceedings and proceedings for pecuniary penalties, the court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
     
-    Section 79: amended, on 14 October 2008, by [section 11][559] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 79: amended, on 14 October 2008, by [section 11][560] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Proceedings for pecuniary penalties
     
-*   Heading: inserted, on 14 October 2008, by [section 12(1)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Heading: inserted, on 14 October 2008, by [section 12(1)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 79A Proceedings for pecuniary penalties
     
@@ -5658,7 +5670,7 @@ Enforcement, remedies, and appeals
     
     *   (b) the Commission may, by the order of the court, obtain discovery and administer interrogatories.
     
-    Section 79A: inserted, on 14 October 2008, by [section 12(1)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 79A: inserted, on 14 October 2008, by [section 12(1)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 79B Relationship between pecuniary penalties and criminal liability
     
@@ -5666,7 +5678,7 @@ Enforcement, remedies, and appeals
     
     (2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under [section 86B][349] or [87B][353] in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
     
-    Section 79B: inserted, on 14 October 2008, by [section 12(1)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 79B: inserted, on 14 October 2008, by [section 12(1)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Restrictive trade practices
 
@@ -5724,19 +5736,19 @@ Enforcement, remedies, and appeals
     
     Compare: Trade Practices Act 1974 ss 76, 77 (Aust)
     
-    Section 80(1): amended, on 26 May 2001, by [section 17(1)][560] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80(1): amended, on 26 May 2001, by [section 17(1)][561] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 80(2): substituted, on 26 May 2001, by [section 17(2)][560] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80(2): substituted, on 26 May 2001, by [section 17(2)][561] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 80(2A): inserted, on 26 May 2001, by [section 17(2)][560] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80(2A): inserted, on 26 May 2001, by [section 17(2)][561] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 80(2B): inserted, on 26 May 2001, by [section 17(2)][560] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80(2B): inserted, on 26 May 2001, by [section 17(2)][561] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 80(3): repealed, on 14 October 2008, by [section 12(2)(b)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 80(3): repealed, on 14 October 2008, by [section 12(2)(b)][550] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 80(4): repealed, on 14 October 2008, by [section 12(2)(b)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 80(4): repealed, on 14 October 2008, by [section 12(2)(b)][550] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 80(5): substituted, on 26 May 2001, by [section 17(3)][560] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80(5): substituted, on 26 May 2001, by [section 17(3)][561] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 80A Body corporate not to indemnify certain persons in respect of pecuniary penalties
     
@@ -5758,7 +5770,7 @@ Enforcement, remedies, and appeals
     
     _servant_ includes a former servant.
     
-    Section 80A: inserted, on 26 May 2001, by [section 18][561] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80A: inserted, on 26 May 2001, by [section 18][562] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 80B Pecuniary penalties for contravention of section 80A
     
@@ -5772,11 +5784,11 @@ Enforcement, remedies, and appeals
     
     (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
     
-    Section 80B: inserted, on 26 May 2001, by [section 18][561] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80B: inserted, on 26 May 2001, by [section 18][562] of the Commerce Amendment Act 2001 (2001 No 32).
     
-    Section 80B(3): repealed, on 14 October 2008, by [section 12(2)(c)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 80B(3): repealed, on 14 October 2008, by [section 12(2)(c)][550] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 80B(4): repealed, on 14 October 2008, by [section 12(2)(c)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 80B(4): repealed, on 14 October 2008, by [section 12(2)(c)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 80C Court may order certain persons to be excluded from management of body corporate
     
@@ -5790,7 +5802,7 @@ Enforcement, remedies, and appeals
     
     *   (d) the person has given effect to an exclusionary provision of a contract, arrangement, or understanding.
     
-    Section 80C: inserted, on 26 May 2001, by [section 18][561] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80C: inserted, on 26 May 2001, by [section 18][562] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 80D Application for order under section 80C
     
@@ -5808,7 +5820,7 @@ Enforcement, remedies, and appeals
     
     *   (b) the Registrar of Companies, and the Registrar of Companies must give notice in the _Gazette_ of the name of the person against whom the order is made.
     
-    Section 80D: inserted, on 26 May 2001, by [section 18][561] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80D: inserted, on 26 May 2001, by [section 18][562] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 80E Offence to act in contravention of order made under section 80C
     
@@ -5816,9 +5828,11 @@ Enforcement, remedies, and appeals
     
     (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000\.
     
-    (3) The offence is triable on indictment.
+    (3) \[Repealed\]
     
-    Section 80E: inserted, on 26 May 2001, by [section 18][561] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 80E: inserted, on 26 May 2001, by [section 18][562] of the Commerce Amendment Act 2001 (2001 No 32).
+    
+    Section 80E(3): repealed, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 81 Injunctions may be granted by court for contravention of Part 2
     
@@ -5856,7 +5870,7 @@ Enforcement, remedies, and appeals
     
     Compare: Trade Practices Act 1974 s 82 (Aust)
     
-    Section 82(2): substituted, on 26 May 2001, by [section 19][562] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 82(2): substituted, on 26 May 2001, by [section 19][564] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 82A Exemplary damages for contravention of Part 2
     
@@ -5868,11 +5882,11 @@ Enforcement, remedies, and appeals
     
     *   (b) if so, the amount of the pecuniary penalty.
     
-    Section 82A: inserted, on 26 May 2001, by [section 20][563] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 82A: inserted, on 26 May 2001, by [section 20][565] of the Commerce Amendment Act 2001 (2001 No 32).
 
 #### Business acquisitions
     
-*   Heading: substituted, on 1 January 1991, by [section 29][564] of the Commerce Amendment Act 1990 (1990 No 41).
+*   Heading: substituted, on 1 January 1991, by [section 29][566] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 83 Pecuniary penalties
     
@@ -5910,11 +5924,11 @@ Enforcement, remedies, and appeals
     
     (6) A person is not liable to a pecuniary penalty under both [section 80][329] and this section in respect of the same conduct.
     
-    Section 83: substituted, on 1 January 1991, by [section 29][564] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 83: substituted, on 1 January 1991, by [section 29][566] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 83(3): repealed, on 14 October 2008, by [section 12(2)(d)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 83(3): repealed, on 14 October 2008, by [section 12(2)(d)][550] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 83(4): repealed, on 14 October 2008, by [section 12(2)(d)][549] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 83(4): repealed, on 14 October 2008, by [section 12(2)(d)][550] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 84 Injunctions may be granted by court for contravention of Part 3 or undertaking
     
@@ -5964,13 +5978,13 @@ Enforcement, remedies, and appeals
     
     Compare: 1975 No 113 s 81H; 1976 No 67 s 22; 1983 No 144 s 35
     
-    Section 84 heading: amended, on 14 October 2008, by [section 13(1)][565] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 84 heading: amended, on 14 October 2008, by [section 13(1)][567] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 84(1): amended, on 1 January 1991, by [section 30(a)][566] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 84(1): amended, on 1 January 1991, by [section 30(a)][568] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 84(1)(a)(i): amended, on 1 January 1991, by [section 30(b)][566] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 84(1)(a)(i): amended, on 1 January 1991, by [section 30(b)][568] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 84(2): added, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 13(2)][565] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 84(2): added, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 13(2)][567] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 84A Actions for damages for contravention of Part 3
     
@@ -5988,7 +6002,7 @@ Enforcement, remedies, and appeals
     
     (2) An action under subsection (1) may be commenced at any time within 3 years from the time when the cause of action arose.
     
-    Section 84A: inserted, on 1 January 1991, by [section 31][567] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 84A: inserted, on 1 January 1991, by [section 31][569] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 85 Court may order divestiture of assets or shares in respect of contravention of Part 3
     
@@ -6006,7 +6020,7 @@ Enforcement, remedies, and appeals
     
     (2) An application under subsection (1) may be made at any time within 2 years from the date on which the contravention occurred.
     
-    Section 85: substituted, on 1 January 1991, by [section 32][568] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 85: substituted, on 1 January 1991, by [section 32][570] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 85A Pecuniary penalties for contravention of undertaking
     
@@ -6052,7 +6066,7 @@ Enforcement, remedies, and appeals
     
     (7) An application under this section may be made at any time within 12 months from the date on which the relevant obligation under the undertaking was required to be met.
     
-    Section 85A: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][569] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 85A: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][571] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 85B Court may order divestiture of assets or shares in respect of contravention of undertaking
     
@@ -6060,7 +6074,7 @@ Enforcement, remedies, and appeals
     
     (2) An application under this section may be made at any time within 12 months from the date on which the relevant obligation under the undertaking was required to be met.
     
-    Section 85B: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][569] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 85B: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][571] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 85C Matters court must not take into account under sections 85A and 85B
     
@@ -6074,11 +6088,11 @@ Enforcement, remedies, and appeals
     
     *   (d) the extent to which the contravention of the undertaking under [section 69A][296] may have lessened competition in a market.
     
-    Section 85C: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][569] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 85C: inserted, on 14 October 2008 (applying only to undertakings under [section 69A][296] that are accepted in relation to clearances given or authorisations granted on notices under [section 66][292] or [67][293] that are registered after that date), by [section 14(1)][571] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Regulated goods or services
     
-*   Heading: substituted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Heading: substituted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 86 Pecuniary penalty for contravening information disclosure requirement
     
@@ -6118,7 +6132,7 @@ Enforcement, remedies, and appeals
     
     (6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
     
-    Section 86: substituted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 86: substituted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 86A Order requiring information disclosure requirement to be complied with
     
@@ -6126,7 +6140,7 @@ Enforcement, remedies, and appeals
     
     (2) An order under this section must specify the date by which, or period within which, the supplier must comply with the requirement.
     
-    Section 86A: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 86A: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 86B Offences relating to information disclosure regulation
     
@@ -6136,11 +6150,15 @@ Enforcement, remedies, and appeals
     
     *   (b) the person is subject to an order under [section 86A][348] and fails to comply with the order by the date, or within the period, specified.
     
-    (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+    (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
     
-    (3) Despite [section 14][571] of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+    (3) \[Repealed\]
     
-    Section 86B: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 86B: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 86B(2): amended, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 86B(3): repealed, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 86C Orders where negotiate/arbitrate regulation applies
     
@@ -6160,13 +6178,13 @@ Enforcement, remedies, and appeals
     
     *   (c) whether party B has previously been ordered to pay compensation for a similar failure in proceedings under this section.
     
-    Section 86C: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 86C: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 87 Pecuniary penalty for contravening price-quality requirements
     
 *   (1) The court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person---
         
-    *   (a) has contravened any price-quality requirement applying to the regulated goods or services; or 
+    *   (a) has contravened any price-quality requirement applying to the regulated goods or services; or
     
     *   (b) has attempted to contravene any such requirement; or
     
@@ -6206,7 +6224,7 @@ Enforcement, remedies, and appeals
     
     (6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
     
-    Section 87: substituted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 87: substituted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 87A Compensation for contravention of price-quality requirement
     
@@ -6220,7 +6238,7 @@ Enforcement, remedies, and appeals
     
     (5) In proceedings under this section, the court may make such orders as to cost as it thinks fit.
     
-    Section 87A: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 87A: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 87B Offence relating to price-quality regulation
     
@@ -6230,11 +6248,15 @@ Enforcement, remedies, and appeals
     
     *   (b) the person is subject to an order under [section 87C(1)(b)][354] and fails to comply with the order.
     
-    (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+    (2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
     
-    (3) Despite [section 14][571] of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+    (3) \[Repealed\]
     
-    Section 87B: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 87B: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
+    
+    Section 87B(2): amended, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 87B(3): repealed, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 87C Injunction and other orders relating to price-quality regulation
     
@@ -6246,7 +6268,7 @@ Enforcement, remedies, and appeals
     
     (2) An application for an order under this section may be made by any person.
     
-    Section 87C: inserted, on 14 October 2008, by [section 15][570] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 87C: inserted, on 14 October 2008, by [section 15][572] of the Commerce Amendment Act 2008 (2008 No 70).
 
 #### Injunctions generally
 
@@ -6276,7 +6298,7 @@ Enforcement, remedies, and appeals
     
     Compare: Trade Practices Act 1974 s 80(3), (4), (5) (Aust)
     
-    Section 88(3A): substituted, on 26 May 2001, by [section 22][572] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 88(3A): substituted, on 26 May 2001, by [section 22][573] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 88A When undertaking as to damages not required by Commission
     
@@ -6284,7 +6306,7 @@ Enforcement, remedies, and appeals
     
     (2) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
     
-    Section 88A: inserted, on 26 May 2001, by [section 23][573] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 88A: inserted, on 26 May 2001, by [section 23][574] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 89 Other orders
     
@@ -6306,7 +6328,7 @@ Enforcement, remedies, and appeals
     
     (4) Nothing in subsection (2) or subsection (3) shall prevent any proceedings being instituted or commenced under this Part.
     
-    (5) Nothing in the [Illegal Contracts Act 1970][574] applies to any contract entered into in contravention of this Act or to any contract which contains a provision the giving effect to of which would constitute a contravention of this Act.
+    (5) Nothing in the [Illegal Contracts Act 1970][575] applies to any contract entered into in contravention of this Act or to any contract which contains a provision the giving effect to of which would constitute a contravention of this Act.
     
     (6) Notwithstanding any enactment or rule of law, where a contract is entered into in contravention of this Act by reason that the contract contains a particular provision, or the contract contains a provision which if given effect to would contravene this Act, the enforceability of any other provision of the contract shall not be affected by the existence of that provision.
     
@@ -6314,7 +6336,7 @@ Enforcement, remedies, and appeals
     
     Compare: Trade Practices Act 1974 s 87(1)(a) (Aust)
     
-    Section 89(7): added, on 14 October 2008, by [section 16][575] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 89(7): added, on 14 October 2008, by [section 16][576] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 90 Conduct by servants or agents
     
@@ -6366,11 +6388,11 @@ Enforcement, remedies, and appeals
     
     Compare: 1975 No 113 s 42
     
-    Section 91(1): substituted, on 14 October 2008, by [section 17][576] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 91(1): substituted, on 14 October 2008, by [section 17][577] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 91(1A): inserted, on 14 October 2008, by [section 17][576] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 91(1A): inserted, on 14 October 2008, by [section 17][577] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 91(1B): inserted, on 14 October 2008, by [section 17][576] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 91(1B): inserted, on 14 October 2008, by [section 17][577] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 92 Persons entitled to appeal
     
@@ -6396,13 +6418,13 @@ Enforcement, remedies, and appeals
     
     *   (f) in the case of an appeal against a determination of a Commissioner under [section 74A][315], any person against whom a cease and desist order was made.
     
-    Section 92(c): substituted, on 1 January 1991, by [section 33][577] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 92(c): substituted, on 1 January 1991, by [section 33][578] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 92(d): substituted, on 14 October 2008, by [section 18][578] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 92(d): substituted, on 14 October 2008, by [section 18][579] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 92(e): repealed, on 14 October 2008, by [section 18][578] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 92(e): repealed, on 14 October 2008, by [section 18][579] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 92(f): added, on 1 April 2002, by [section 15(2)][537] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 92(f): added, on 1 April 2002, by [section 15(2)][538] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 93 Determination of appeals
     
@@ -6414,7 +6436,7 @@ Enforcement, remedies, and appeals
     
     Compare: 1975 No 113 s 45(3), (4)
     
-    Section 93: amended, on 14 October 2008, by [section 19][579] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 93: amended, on 14 October 2008, by [section 19][580] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 94 Court may refer appeals back for reconsideration
     
@@ -6438,7 +6460,7 @@ Enforcement, remedies, and appeals
     
     Compare: 1975 No 113 s 47; 1979 No 140 s 21
     
-    Section 95(2): added, on 14 October 2008, by [section 20][580] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 95(2): added, on 14 October 2008, by [section 20][581] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 96 Court may order proceedings to be heard in private
     
@@ -6450,7 +6472,7 @@ Enforcement, remedies, and appeals
 
 ##### 97 Appeal to Court of Appeal in certain cases
     
-*   (1) Notwithstanding anything in any enactment, any party to any appeal before the High Court against any determination of the Commission who is dissatisfied with any decision or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and [section 66][581] of the Judicature Act 1908 shall apply to any such appeal.
+*   (1) Notwithstanding anything in any enactment, any party to any appeal before the High Court against any determination of the Commission who is dissatisfied with any decision or order of the court may, with the leave of the court or of the Court of Appeal, appeal to the Court of Appeal; and [section 66][582] of the Judicature Act 1908 shall apply to any such appeal.
     
     (2) In determining whether to grant leave to appeal under this section, the court to which the application for leave is made shall have regard to the following matters:
         
@@ -6472,11 +6494,11 @@ Enforcement, remedies, and appeals
     
     *   (b) a decision or order of the High Court on an appeal under [section 91(1) or (1B)][361] against a determination of the Commission made under [section 52P][95].
     
-    Section 97(1): amended, on 15 August 1991, by [section 3(4)][553] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 97(1): amended, on 15 August 1991, by [section 3(4)][554] of the Judicature Amendment Act 1991 (1991 No 60).
     
-    Section 97(4): repealed, on 1 January 2004, by [section 48(1)][557] of the Supreme Court Act 2003 (2003 No 53).
+    Section 97(4): repealed, on 1 January 2004, by [section 48(1)][558] of the Supreme Court Act 2003 (2003 No 53).
     
-    Section 97(5): added, on 14 October 2008, by [section 21][582] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 97(5): added, on 14 October 2008, by [section 21][583] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ## Part 7  
 Miscellaneous provisions
@@ -6491,69 +6513,69 @@ Miscellaneous provisions
     
     *   (c) to appear before the Commission at a time and place specified in the notice to give evidence, either orally or in writing, and produce any document or class of documents specified in the notice.
     
-    Section 98: substituted, on 1 July 1990, by [section 34][583] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 98: substituted, on 1 July 1990, by [section 34][584] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 98A Power to search
     
 *   (1) The Commission may, from time to time, authorise an employee of the Commission to search under a warrant issued under subsection (2) any place named in the warrant for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of [section 99A][379].
     
-    (2) An issuing officer (within the meaning of [section 3][584] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][585] of Part 4 of that Act by a person who is authorised under subsection (1) that there are reasonable grounds to believe that it is necessary for the purpose of ascertaining whether or not a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of [section 99A][379], for an employee of the Commission to search any place may, by warrant, authorise that employee to search a place specified in the warrant.
+    (2) An issuing officer (within the meaning of [section 3][585] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][586] of Part 4 of that Act by a person who is authorised under subsection (1) that there are reasonable grounds to believe that it is necessary for the purpose of ascertaining whether or not a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of [section 99A][379], for an employee of the Commission to search any place may, by warrant, authorise that employee to search a place specified in the warrant.
     
-    (3) The provisions of [Part 4][586] of the Search and Surveillance Act 2012 (except [sections 118][587] and [119][588]) apply, with any necessary modifications.
+    (3) The provisions of [Part 4][587] of the Search and Surveillance Act 2012 (except [sections 118][588] and [119][589]) apply, with any necessary modifications.
     
     (4) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under [Part 4][73] of this Act.
     
     (5) For the purpose of allowing the Commission to provide, under [section 99I][387], compulsorily acquired information and investigative assistance to a recognised overseas regulator, every reference in this section to a contravention of this Act must be taken to include a reference to a contravention of any foreign enactment that is identified (as required by [section 99G(1)(b)][385]) in the co-operation arrangement concerning that recognised overseas regulator.
     
-    Section 98A: inserted, on 1 July 1990, by [section 34][583] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 98A: inserted, on 1 July 1990, by [section 34][584] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 98A(2): amended, on 1 October 2012, by [section 313(2)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98A(2): amended, on 1 October 2012, by [section 313(2)][590] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 98A(3): replaced, on 1 October 2012, by [section 313(3)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98A(3): replaced, on 1 October 2012, by [section 313(3)][590] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 98A(4): added, on 14 October 2008, by [section 22][590] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 98A(4): added, on 14 October 2008, by [section 22][591] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 98A(4): amended, on 1 October 2012, by [section 313(4)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98A(4): amended, on 1 October 2012, by [section 313(4)][590] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 98A(5): inserted, on 24 October 2012, by [section 4][591] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 98A(5): inserted, on 24 October 2012, by [section 4][592] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 98B Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 98B: repealed, on 1 October 2012, by [section 313(5)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98B: repealed, on 1 October 2012, by [section 313(5)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98C Warrant to be produced
     
 *   \[Repealed\]
     
-    Section 98C: repealed, on 1 October 2012, by [section 313(5)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98C: repealed, on 1 October 2012, by [section 313(5)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98D Other duties of person who executes a warrant
     
 *   \[Repealed\]
     
-    Section 98D: repealed, on 1 October 2012, by [section 313(5)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98D: repealed, on 1 October 2012, by [section 313(5)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98E Duty to assist
     
 *   \[Repealed\]
     
-    Section 98E: repealed, on 1 October 2012, by [section 313(5)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98E: repealed, on 1 October 2012, by [section 313(5)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98F Power to inspect and take copies of documents, etc
     
 *   \[Repealed\]
     
-    Section 98F: repealed, on 1 October 2012, by [section 313(5)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98F: repealed, on 1 October 2012, by [section 313(5)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98G Commission may exercise powers notwithstanding other proceedings
     
 *   The Commission may exercise any power under [sections 98][369] and [98A][370] notwithstanding that any proceedings, whether under [Part 6][312] or otherwise, have been instituted in any court.
     
-    Section 98G: inserted, on 1 July 1990, by [section 34][583] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 98G: inserted, on 1 July 1990, by [section 34][584] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 98G: amended, on 1 October 2012, by [section 313(6)][589] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 98G: amended, on 1 October 2012, by [section 313(6)][590] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 98H Supply of information and documents in relation to section 36A
     
@@ -6565,7 +6587,7 @@ Miscellaneous provisions
     
     (2) A person who is required to furnish information or a class of information or produce any document or class of documents to the Commission pursuant to this section complies with this section if that person furnishes the information or that class of information or produces the document or that class of documents to the Australian Competition and Consumer Commission in accordance with the Trade Practices Act 1974\.
     
-    Section 98H: inserted, on 1 July 1990, by [section 34][583] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 98H: inserted, on 1 July 1990, by [section 34][584] of the Commerce Amendment Act 1990 (1990 No 41).
     
     Section 98H(2): amended, on 2 September 1996, by section 8 of the Commerce Amendment Act 1996 (1996 No 113).
 
@@ -6587,7 +6609,7 @@ Miscellaneous provisions
     
     Section 99(3): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 99(3): amended, on 1 July 1990, by [section 35][592] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 99(3): amended, on 1 July 1990, by [section 35][593] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 99A Commission may receive information and documents on behalf of Australian Competition and Consumer Commission
     
@@ -6601,25 +6623,27 @@ Miscellaneous provisions
     
     *   (b) in purported compliance with such a requirement, furnishes information or produces a document knowing it to be false or misleading---
     
-    commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+    commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
     
-    Section 99A: inserted, on 1 July 1990, by [section 36][593] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 99A: inserted, on 1 July 1990, by [section 36][594] of the Commerce Amendment Act 1990 (1990 No 41).
     
     Section 99A heading: amended, on 2 September 1996, by section 9 of the Commerce Amendment Act 1996 (1996 No 113).
     
     Section 99A(1): amended, on 2 September 1996, by section 9 of the Commerce Amendment Act 1996 (1996 No 113).
     
     Section 99A(2): amended, on 2 September 1996, by section 9 of the Commerce Amendment Act 1996 (1996 No 113).
+    
+    Section 99A(3): amended, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99B Purpose of sections 99C to 99P (which relate to assistance to overseas regulators)
     
-*   The purpose of [sections 99C to 99P][381] is--- 
+*   The purpose of [sections 99C to 99P][381] is---
         
     *   (a) to provide for when and how the Commission may provide compulsorily acquired information and investigative assistance to overseas regulators; and
     
     *   (b) to clarify other matters relating to sharing other kinds of information with overseas regulators.
     
-    Section 99B: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99B: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99C Definitions of terms used in sections 99B to 99P
     
@@ -6639,11 +6663,11 @@ Miscellaneous provisions
     
     _investigative assistance _includes providing assistance by way of exercising any power of the Commission under, or in relation to, [section 98][369], [98A][370], or [98H][377], and any powers incidental to those powers
     
-    _overseas regulator_ means an overseas body that has competition law functions corresponding to those of the Commission under this Act 
+    _overseas regulator_ means an overseas body that has competition law functions corresponding to those of the Commission under this Act
     
     _recognised overseas regulator_ means an overseas regulator that is the subject of a co-operation arrangement.
     
-    Section 99C: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99C: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99D Restrictions on providing compulsorily acquired information and investigative assistance
     
@@ -6653,7 +6677,7 @@ Miscellaneous provisions
     
     *   (b) in accordance with [sections 99I to 99K][387].
     
-    Section 99D: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99D: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99E Government-to-government co-operation arrangements
     
@@ -6673,7 +6697,7 @@ Miscellaneous provisions
     
     (3) The Minister must not enter into a co-operation arrangement unless he or she is satisfied that entering into the arrangement is not inconsistent with any of New Zealand's obligations under international agreements, conventions, or treaties.
     
-    Section 99E: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99E: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99F Regulator-to-regulator co-operation arrangements
     
@@ -6685,7 +6709,7 @@ Miscellaneous provisions
     
     *   (b) is satisfied of the matter specified in [section 99E(3)][383].
     
-    Section 99F: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99F: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99G Content of co-operation arrangements
     
@@ -6693,7 +6717,7 @@ Miscellaneous provisions
         
     *   (a) identify the overseas regulator that it concerns; and
     
-    *   (b) identify the foreign enactments in connection with which the recognised overseas regulator may seek compulsorily acquired information and investigative assistance from the Commission; and 
+    *   (b) identify the foreign enactments in connection with which the recognised overseas regulator may seek compulsorily acquired information and investigative assistance from the Commission; and
     
     *   (c) set out how any compulsorily acquired information that is provided may be used by the overseas regulator, and how it is to be kept secure.
     
@@ -6703,7 +6727,7 @@ Miscellaneous provisions
     
     *   (b) include other conditions on the provision of compulsorily acquired information or investigative assistance.
     
-    Section 99G: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99G: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99H Procedures relating to co-operation arrangements
     
@@ -6731,11 +6755,11 @@ Miscellaneous provisions
     
     (3) Subsections (1) and (2) apply with all necessary modifications to every amendment to a co-operation arrangement.
     
-    Section 99H: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99H: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99I Providing compulsorily acquired information and investigative assistance
     
-*   (1) Following a request by a recognised overseas regulator made in accordance with a co-operation arrangement, the Commission may do either or both of the following: 
+*   (1) Following a request by a recognised overseas regulator made in accordance with a co-operation arrangement, the Commission may do either or both of the following:
         
     *   (a) provide compulsorily acquired information to the recognised overseas regulator:
     
@@ -6759,9 +6783,9 @@ Miscellaneous provisions
     
     *   (b) whether the recognised overseas regulator could more conveniently obtain the information or assistance from another source; and
     
-    *   (c) whether the request would, in the opinion of the Commission, be more appropriately dealt with under the [Mutual Assistance in Criminal Matters Act 1992][595].
+    *   (c) whether the request would, in the opinion of the Commission, be more appropriately dealt with under the [Mutual Assistance in Criminal Matters Act 1992][596].
     
-    Section 99I: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99I: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99J Conditions on providing compulsorily acquired information and investigative assistance
     
@@ -6787,7 +6811,7 @@ Miscellaneous provisions
     
     *   (b) that, to the extent that it is within the ability of the overseas regulator to do so, it will ensure that such statements are not used by any other person, authority, or agency as evidence in proceedings referred to in paragraph (a).
     
-    Section 99J: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99J: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99K Notice to persons affected by provision of information
     
@@ -6805,7 +6829,7 @@ Miscellaneous provisions
     
     *   (c) it is not practicable in the circumstances to give notice to the person.
     
-    Section 99K: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99K: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99L Reporting on use of co-operation arrangements
     
@@ -6815,7 +6839,7 @@ Miscellaneous provisions
     
     *   (b) the number and general nature of requests for information and investigative assistance that the Commission has made to recognised overseas regulators.
     
-    Section 99L: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99L: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99M Sharing of non-compulsorily acquired information not affected
     
@@ -6825,31 +6849,31 @@ Miscellaneous provisions
     
     *   (b) whether or not the overseas regulator is a recognised overseas regulator.
     
-    Section 99M: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99M: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99N Information provided by consent
     
-*   Nothing in [sections 99B to 99L][380] or any co-operation arrangement prevents the Commission providing any information to an overseas regulator with the consent of the person who is the subject of the information. 
+*   Nothing in [sections 99B to 99L][380] or any co-operation arrangement prevents the Commission providing any information to an overseas regulator with the consent of the person who is the subject of the information.
     
-    Section 99N: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99N: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99O Part 4 information not to be provided
     
 *   The Commission must not provide information to an overseas regulator that the Commission has obtained under, pursuant to, or for the purposes of [Part 4][73], unless the information is already in the public domain.
     
-    Section 99O: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99O: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 99P Maintenance of privilege
     
-*   (1) If the Commission provides to an overseas regulator, for the purpose of assisting the overseas regulator to perform its competition law functions, a communication or information in respect of which the Commission has any privilege referred to in [section 54][596], [56][597], or [57][598] of the Evidence Act 2006, the Commission is not to be taken as having waived its privilege in relation to that communication or information merely by providing it to the overseas regulator.
+*   (1) If the Commission provides to an overseas regulator, for the purpose of assisting the overseas regulator to perform its competition law functions, a communication or information in respect of which the Commission has any privilege referred to in [section 54][597], [56][598], or [57][599] of the Evidence Act 2006, the Commission is not to be taken as having waived its privilege in relation to that communication or information merely by providing it to the overseas regulator.
     
-    (2) If the Commission receives from an overseas regulator, for the purpose of assisting the Commission to perform its competition law functions under this Act, a communication or information that, under the law of the country of the overseas regulator is subject to a privilege analogous to a privilege of a kind referred to in [section 54][596], [56][597], or [57][598] of the Evidence Act 2006, that communication or information is subject to the analogous privilege in New Zealand, and the [Evidence Act 2006][599] applies accordingly.
+    (2) If the Commission receives from an overseas regulator, for the purpose of assisting the Commission to perform its competition law functions under this Act, a communication or information that, under the law of the country of the overseas regulator is subject to a privilege analogous to a privilege of a kind referred to in [section 54][597], [56][598], or [57][599] of the Evidence Act 2006, that communication or information is subject to the analogous privilege in New Zealand, and the [Evidence Act 2006][600] applies accordingly.
     
-    (3) The Commission must not provide a communication or information that is subject to the privilege referred to in [section 57][598] of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
+    (3) The Commission must not provide a communication or information that is subject to the privilege referred to in [section 57][599] of the Evidence Act 2006 (which relates to settlement negotiation and mediation) to an overseas regulator unless every other party that has a privilege in relation to that communication or information consents to the Commission providing the communication or information to the overseas regulator.
     
     (4) To avoid doubt, this section applies whether or not a communication or information is provided under a co-operation arrangement.
     
-    Section 99P: inserted, on 24 October 2012, by [section 5][594] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 99P: inserted, on 24 October 2012, by [section 5][595] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 100 Powers of Commission to prohibit disclosure of information, documents, and evidence
     
@@ -6865,11 +6889,13 @@ Miscellaneous provisions
     
     *   (b) where that order was made in connection with any other investigation or inquiry conducted by the Commission, after the conclusion of that investigation or inquiry.
     
-    (3) On the expiry of any order made under subsection (1), the provisions of the [Official Information Act 1982][600] shall apply in respect of any information, document, or evidence that was the subject of that order.
+    (3) On the expiry of any order made under subsection (1), the provisions of the [Official Information Act 1982][601] shall apply in respect of any information, document, or evidence that was the subject of that order.
     
-    (4) Every person who, contrary to any order made by the Commission under subsection (1), publishes or communicates any information or document or evidence commits an offence and is liable, on summary conviction, to a fine not exceeding $4,000 in the case of a person not being a body corporate, and $12,000 in the case of a body corporate.
+    (4) Every person who, contrary to any order made by the Commission under subsection (1), publishes or communicates any information or document or evidence commits an offence and is liable, on conviction, to a fine not exceeding $4,000 in the case of a person not being a body corporate, and $12,000 in the case of a body corporate.
     
-    Section 100: substituted, on 1 April 1987, by [section 25(1)][601] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 100: substituted, on 1 April 1987, by [section 25(1)][602] of the Official Information Amendment Act 1987 (1987 No 8).
+    
+    Section 100(4): amended, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100A Commission may state case for opinion of High Court
     
@@ -6923,15 +6949,17 @@ Miscellaneous provisions
     
     *   (d) refuse to produce to the Commission any book or document that that person is required to produce.
     
-    (4) Any person who contravenes subsection (1) or subsection (2) or subsection (3) commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
+    (4) Any person who contravenes subsection (1) or subsection (2) or subsection (3) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $30,000 in the case of a body corporate.
     
     (5) Proceedings for an offence against subsection (4) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
     
-    Section 103: substituted, on 1 July 1990, by [section 37][602] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 103: substituted, on 1 July 1990, by [section 37][603] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 103(1)(a): amended, on 14 October 2008, by [section 23][603] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 103(1)(a): amended, on 14 October 2008, by [section 23][604] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 103(5): added, on 26 May 2001, by [section 25][604] of the Commerce Amendment Act 2001 (2001 No 32).
+    Section 103(4): amended, on 1 July 2013, by [section 413][563] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 103(5): added, on 26 May 2001, by [section 25][605] of the Commerce Amendment Act 2001 (2001 No 32).
 
 ##### 104 Determinations of Commission
     
@@ -6957,11 +6985,11 @@ Miscellaneous provisions
     
     Section 105: substituted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 105(1): amended, on 14 October 2008, by [section 24(1)][605] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 105(1): amended, on 14 October 2008, by [section 24(1)][606] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 105(2): repealed, on 14 October 2008, by [section 24(2)][605] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 105(2): repealed, on 14 October 2008, by [section 24(2)][606] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 105(3): repealed, on 14 October 2008, by [section 24(2)][605] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 105(3): repealed, on 14 October 2008, by [section 24(2)][606] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 106 Proceedings privileged
     
@@ -6971,17 +6999,17 @@ Miscellaneous provisions
     
     (3) Nothing in subsections (1) and (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][606] or [section 78A][607] or [section 105][608] or [section 105A][609] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][607] or [section 78A][608] or [section 105][609] or [section 105A][610] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][606] or [section 78A][607] or [section 105][608] or [section 105A][609] of the Crimes Act 1961; or
+    *   (b) the offence of conspiring to commit an offence against [section 78][607] or [section 78A][608] or [section 105][609] or [section 105A][610] of the Crimes Act 1961; or
     
-    *   (c) the offence of attempting to commit an offence against [section 78][606] or [section 78A][607] or [section 105][608] or [section 105A][609] of the Crimes Act 1961\.
+    *   (c) the offence of attempting to commit an offence against [section 78][607] or [section 78A][608] or [section 105][609] or [section 105A][610] of the Crimes Act 1961\.
     
-    (3A) [Section 59(3)][610] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
+    (3A) [Section 59(3)][611] of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
     
-    (3B) [Sections 122 to 126][545] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
+    (3B) [Sections 122 to 126][546] of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
     
-    (3C) This section contains an exception to [section 121][611] of the Crown Entities Act 2004\.
+    (3C) This section contains an exception to [section 121][612] of the Crown Entities Act 2004\.
     
     (4) A person shall not be excused from complying with any requirement to furnish information, produce documents, or give evidence under this Act, or, on appearing before the Commission, from answering any question or producing any document, on the ground that to do so might tend to incriminate that person.
     
@@ -7003,7 +7031,7 @@ Miscellaneous provisions
     
     (9) Anything said, or any information furnished, or any document produced or tendered, or any evidence given by any person to the Commission, shall be privileged in the same manner as if that statement, information, document, or evidence were made, furnished, produced, or given in proceedings in a court.
     
-    (10) For the purposes of [clause 3][612] of Part 2 of Schedule 1 of the Defamation Act 1992, any statement, document, determination, clearance, authorisation, or decision made by the Commission in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (10) For the purposes of [clause 3][613] of Part 2 of Schedule 1 of the Defamation Act 1992, any statement, document, determination, clearance, authorisation, or decision made by the Commission in the exercise or intended exercise of any of its functions or powers shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
     Compare: 1975 No 113 ss 17(1), (3), (4), 130B; 1976 No 67 ss 9, 23(3); 1983 No 144 s 45
     
@@ -7015,21 +7043,21 @@ Miscellaneous provisions
     
     Section 106(3C): inserted, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 106(4): substituted, on 1 July 1990, by [section 39][613] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 106(4): substituted, on 1 July 1990, by [section 39][614] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 106(4): amended, on 14 October 2008, by [section 25(1)][614] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 106(4): amended, on 14 October 2008, by [section 25(1)][615] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 106(5): substituted, on 1 July 1990, by [section 39][613] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 106(5): substituted, on 1 July 1990, by [section 39][614] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 106(5): amended, on 14 October 2008, by [section 25(2)][614] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 106(5): amended, on 14 October 2008, by [section 25(2)][615] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 106(5): amended, on 14 October 2008, by [section 25(3)][614] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 106(5): amended, on 14 October 2008, by [section 25(3)][615] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 106(6)(b): amended, on 14 October 2008, by [section 25(4)][614] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 106(6)(b): amended, on 14 October 2008, by [section 25(4)][615] of the Commerce Amendment Act 2008 (2008 No 70).
     
     Section 106(7): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 106(10): substituted, on 1 February 1993, by [section 56(1)][615] of the Defamation Act 1992 (1992 No 105).
+    Section 106(10): substituted, on 1 February 1993, by [section 56(1)][616] of the Defamation Act 1992 (1992 No 105).
 
 ##### 106A Judicial notice
     
@@ -7043,7 +7071,7 @@ Miscellaneous provisions
     
     *   (d) the official signature of any person holding, or who has held, office as the chairperson, deputy chairperson, or a member, of the Australian Competition and Consumer Commission on a document that appears to be a document made on behalf of that Commission.
     
-    Section 106A: inserted, on 1 July 1990, by [section 40][616] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 106A: inserted, on 1 July 1990, by [section 40][617] of the Commerce Amendment Act 1990 (1990 No 41).
     
     Section 106A(b): amended, on 25 January 2005, by [section 200][432] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -7081,13 +7109,13 @@ Miscellaneous provisions
     
     Compare: 1975 No 113 s 132
     
-    Section 108(ca): inserted, on 1  July 1990, by [section 42][617] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 108(ca): inserted, on 1  July 1990, by [section 42][618] of the Commerce Amendment Act 1990 (1990 No 41).
     
-    Section 108(cb): substituted, on 14 October 2008, by [section 26][618] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 108(cb): substituted, on 14 October 2008, by [section 26][619] of the Commerce Amendment Act 2008 (2008 No 70).
     
-    Section 108(cc): inserted, on 24 October 2012, by [section 7][619] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 108(cc): inserted, on 24 October 2012, by [section 7][620] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
     
-    Section 108(cd): inserted, on 24 October 2012, by [section 7][619] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
+    Section 108(cd): inserted, on 24 October 2012, by [section 7][620] of the Commerce (International Co-operation, and Fees) Amendment Act 2012 (2012 No 84).
 
 ##### 109 Commission may prescribe forms
     
@@ -7135,43 +7163,43 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 1 July 1990, by [section 43(1)][620] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 112: repealed, on 1 July 1990, by [section 43(1)][621] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 113 Transitional provisions in respect of goods and services subject to price restraint under regulations made under Commerce Act 1975
     
 *   \[Repealed\]
     
-    Section 113: repealed, on 1 July 1990, by [section 43(1)][620] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 113: repealed, on 1 July 1990, by [section 43(1)][621] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 114 Transitional provisions in respect of milk pricing
     
 *   \[Repealed\]
     
-    Section 114: repealed, on 1 July 1990, by [section 43(1)][620] of the Commerce Amendment Act 1990 (1990 No 41).
+    Section 114: repealed, on 1 July 1990, by [section 43(1)][621] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ##### 115 Savings in respect of certain provisions of Commerce Act 1975
     
 *   \[Repealed\]
     
-    Section 115: repealed, on 1 March 1987, by [section 49(2)][621] of the Fair Trading Act 1986 (1986 No 121).
+    Section 115: repealed, on 1 March 1987, by [section 49(2)][622] of the Fair Trading Act 1986 (1986 No 121).
 
 ##### 116 Winding up of Commerce Commission established under Commerce Act 1975
     
 *   \[Repealed\]
     
-    Section 116: repealed, on 14 October 2008, by [section 27][622] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 116: repealed, on 14 October 2008, by [section 27][623] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 117 Members of Commerce Commission established under Commerce Act 1975 deemed to be members of Commission
     
 *   \[Repealed\]
     
-    Section 117: repealed, on 14 October 2008, by [section 27][622] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 117: repealed, on 14 October 2008, by [section 27][623] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 118 Lay members of High Court appointed pursuant to Commerce Act 1975 deemed to be lay members of High Court appointed under this Act
     
 *   \[Repealed\]
     
-    Section 118: repealed, on 14 October 2008, by [section 27][622] of the Commerce Amendment Act 2008 (2008 No 70).
+    Section 118: repealed, on 14 October 2008, by [section 27][623] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ---
 
@@ -7182,7 +7210,7 @@ Classes of merger or takeover proposals requiring prior clearance or authorisati
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 January 1991, by [section 44][623] of the Commerce Amendment Act 1990 (1990 No 41).
+*   Schedule 1: repealed, on 1 January 1991, by [section 44][624] of the Commerce Amendment Act 1990 (1990 No 41).
 
 ---
 
@@ -7205,7 +7233,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][624]._
+_Amendment(s) incorporated in the [Act(s)][625]._
 
 ##### Real Estate Agents Act 1976 (1976 No 9)
 
@@ -7217,11 +7245,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Social Security Act 1964 (1964 No 136) (RS Vol 13, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][625]._
+_Amendment(s) incorporated in the [Act(s)][626]._
 
 ##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
 
-_Amendment(s) incorporated in the [Act(s)][626]._
+_Amendment(s) incorporated in the [Act(s)][627]._
 
 ##### Trustee Banks Act 1983 (1983 No 116)
 
@@ -7312,7 +7340,7 @@ Material incorporated by reference
 
 [s 53ZF][149]
 
-*   Schedule 5: added, on 14 October 2008, by [section 28][627] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Schedule 5: added, on 14 October 2008, by [section 28][628] of the Commerce Amendment Act 2008 (2008 No 70).
 
 ##### 1 Definitions
     
@@ -7346,7 +7374,7 @@ Material incorporated by reference
         
     *   (a) is the material as it exists at the time the [Part 4][73] determination is published; and
     
-    *   (b) has legal effect as part of the [Part 4][73] determination for all purposes, except as provided in [clauses 8][628] and [9][629].
+    *   (b) has legal effect as part of the [Part 4][73] determination for all purposes, except as provided in [clauses 8][629] and [9][630].
     
     
 
@@ -7410,7 +7438,7 @@ Material incorporated by reference
         
     *   (a) the Commission proposes to incorporate material by reference into any [Part 4][73] determination; or
     
-    *   (b) the Commission proposes to make a [Part  4][73] determination adopting amended or replacement material; or
+    *   (b) the Commission proposes to make a [Part 4][73] determination adopting amended or replacement material; or
     
     *   (c) the chairperson proposes to publish a notice in the _Gazette_ adopting amended or replacement material.
     
@@ -7430,13 +7458,19 @@ Material incorporated by reference
     
     (3) A failure to comply with this clause does not invalidate a [Part 4][73] determination.
 
-##### 8 Acts and Regulations Publication Act 1989 not applicable
+##### 8 Application of Legislation Act 2012 to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][488] does not apply to material incorporated by reference in a [Part 4][73] determination, or to any amendment to, or replacement of, the material.
+*   (1) [Part 2][631] of the Legislation Act 2012 does not apply to material incorporated by reference in a [Part 4][73] determination or to any amendment to, or replacement of, that material.
+    
+    (2) [Subpart 1][632] of Part 3 of the Legislation Act 2012 does not apply to material incorporated by reference in a [Part 4][73] determination or to any amendment to, or replacement of, that material.
+    
+    Schedule 5 clause 8: replaced, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ##### 9 Regulations (Disallowance) Act 1989 not applicable
     
-*   The [Regulations (Disallowance) Act 1989][487] does not apply to material incorporated by reference in a [Part 4][73] determination, or to any amendment to, or replacement of, the material.
+*   \[Repealed\]
+    
+    Schedule 5 clause 9: repealed, on 5 August 2013, by [section 77(3)][489] of the Legislation Act 2012 (2012 No 119).
 
 ---
 
@@ -7445,7 +7479,7 @@ Exemptions from Part 4 in respect of specific pipelines
 
 [s 55A(2)(c), (4)][187]
 
-*   Schedule 6: added, on 14 October 2008, by [section 28][627] of the Commerce Amendment Act 2008 (2008 No 70).
+*   Schedule 6: added, on 14 October 2008, by [section 28][628] of the Commerce Amendment Act 2008 (2008 No 70).
 
 **Pipeline owner** **Pipeline**
 
@@ -7472,8 +7506,8 @@ TAG Oil (NZ) Limited Sidewinder Production Station---Vector 300 Line at Durham R
 
 Cheal Petroleum Limited Cheal Gas Export Pipeline
 
-*   Schedule 6: amended, on 13 June 2013, by [clause 3][630] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013 (SR 2013/145).
-*   Schedule 6: amended, on 15 September 2011, by [clause 3][631] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011 (SR 2011/274).
+*   Schedule 6: amended, on 13 June 2013, by [clause 3][633] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013 (SR 2013/145).
+*   Schedule 6: amended, on 15 September 2011, by [clause 3][634] of the Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011 (SR 2011/274).
 
 ---
 
@@ -7485,7 +7519,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Commerce Amendment Act 1990 ][632]and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Commerce Amendment Act 1990][635] and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as "the principal Act").
     
     (2) Except as provided in subsection (3), this Act shall come into force on 1 July 1990\.
     
@@ -7517,7 +7551,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the Commerce (Clearance Validation) Amendment Act 2001\.
+*   (1) This Act is the [Commerce (Clearance Validation) Amendment Act 2001][636].
     
     (2) In this Act, the Commerce Act 1986 is called "the principal Act".
 
@@ -7549,7 +7583,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the Commerce Amendment Act 2004\.
+*   (1) This Act is the [Commerce Amendment Act 2004][637].
     
     (2) In this Act, the Commerce Act 1986 is called "the principal Act".
 
@@ -7563,104 +7597,63 @@ Commencementsee section 2
     
     (2) For the avoidance of doubt, any appointment made before the commencement of this Act under section 11 of the principal Act is valid and effective whether or not it relates to a matter or class of matters under an Act other than the principal Act.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Commerce Act 1986\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][633] ![](/images/external_link.gif).
+*   This is a reprint of the Commerce Act 1986 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][634] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][638] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][639] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][635] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][640] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][641] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][636] and [17E][637] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][642] (SR 2013/145)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Legislation Act 2012 (2012 No 119): [section 77(3)][489]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Commerce (International Co-operation, and Fees) Amendment Act 2012][643] (2012 No 84)
     
+    Search and Surveillance Act 2012 (2012 No 24): [section 313][590]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][563]
     
-*   [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2013][638] (SR 2013/145)
-    
-    [Commerce (International Co-operation, and Fees) Amendment Act 2012][639] (2012 No 84)
-    
-    Search and Surveillance Act 2012 (2012 No 24): [section 313][589]
-    
-    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011][640] (SR 2011/274)
+    [Commerce (Part 4 Regulation---Gas Pipeline Services) Order 2011][644] (SR 2011/274)
     
     Electricity Industry Act 2010 (2010 No 116): [sections 146--156][433]
     
-    [Commerce Amendment Act 2008][641] (2008 No 70)
+    [Commerce Amendment Act 2008][645] (2008 No 70)
     
-    [Commerce Amendment Act (No 2) 2005][642] (2005 No 95)
+    [Commerce Amendment Act (No 2) 2005][646] (2005 No 95)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][432]
     
     Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][462]
     
-    [Commerce Amendment Act (No 2) 2004][643] (2004 No 82)
+    [Commerce Amendment Act (No 2) 2004][647] (2004 No 82)
     
-    [Commerce Amendment Act 2004][644] (2004 No 23)
+    [Commerce Amendment Act 2004][648] (2004 No 23)
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][557]
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][558]
     
-    [Commerce Amendment Act 2003][645] (2003 No 32)
+    [Commerce Amendment Act 2003][649] (2003 No 32)
     
     Trade Marks Act 2002 (2002 No 49): [section 201][483]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][556]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][557]
     
-    [Commerce Amendment Act 2001][646] (2001 No 32)
+    [Commerce Amendment Act 2001][650] (2001 No 32)
     
     New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 107][437]
-    
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][647]
     
     Commerce Amendment Act 1996 (1996 No 113)
     
@@ -7672,9 +7665,9 @@ Commencementsee section 2
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][435]
     
-    Defamation Act 1992 (1992 No 105): [section 56(1)][615]
+    Defamation Act 1992 (1992 No 105): [section 56(1)][616]
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][553]
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][554]
     
     National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][449]
     
@@ -7682,15 +7675,15 @@ Commencementsee section 2
     
     Commerce Amendment Act 1990 (1990 No 41)
     
-    Civil Aviation Amendment Act 1987 (1987 No 12): sections 2(3), [43(1)][620]
+    Civil Aviation Amendment Act 1987 (1987 No 12): section 2(3)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][601]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][602]
     
-    Fair Trading Act 1986 (1986 No 121): [section 49(2)][621]
+    Fair Trading Act 1986 (1986 No 121): [section 49(2)][622]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM87625
 [2]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM87628
 [3]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM87629
@@ -8177,164 +8170,167 @@ Commencementsee section 2
 [484]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM347117
 [485]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210472
 [486]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194520
-[487]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195534
-[488]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195097
-[489]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634580
-[490]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM403276
-[491]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3019751
-[492]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194500
-[493]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634581
-[494]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634418
-[495]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281866
-[496]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634242
-[497]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634582
-[498]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2510084
-[499]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM376816
-[500]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634585
-[501]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194516
-[502]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634586
-[503]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM89401
-[504]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634587
-[505]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3120002
-[506]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634588
-[507]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634592
-[508]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634381
-[509]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634544
-[510]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634508
-[511]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM428459
-[512]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285420
-[513]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM340939
-[514]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285903
-[515]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285411
-[516]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285914
-[517]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM234021
-[518]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM286544
-[519]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM125376
-[520]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM211896
-[521]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM379829
-[522]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM290139
-[523]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM380065
-[524]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194731
-[525]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315513
-[526]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315514
-[527]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210473
-[528]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92261
-[529]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210475
-[530]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432001
-[531]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210476
-[532]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210477
-[533]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361155
-[534]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361156
-[535]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432002
-[536]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432005
-[537]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92279
-[538]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329956
-[539]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329958
-[540]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329961
-[541]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329962
-[542]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329975
-[543]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329976
-[544]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329995
-[545]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330374
-[546]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330598
-[547]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330552
-[548]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330554
-[549]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432010
-[550]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92286
-[551]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210479
-[552]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432007
-[553]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM230219
-[554]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432008
-[555]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM264952
-[556]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM122579
-[557]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM214522
-[558]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210480
-[559]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432009
-[560]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92287
-[561]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92288
-[562]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92703
-[563]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92704
-[564]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210483
-[565]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432013
-[566]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210484
-[567]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210485
-[568]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210486
-[569]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432014
-[570]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432018
-[571]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM311191
-[572]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92707
-[573]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92708
-[574]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM396434
-[575]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432033
-[576]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432034
-[577]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210487
-[578]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432035
-[579]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432036
-[580]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1453535
-[581]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM147320
-[582]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1453536
-[583]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210488
-[584]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136542
-[585]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136781
-[586]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136770
-[587]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136813
-[588]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136815
-[589]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2137099
-[590]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432038
-[591]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576316
-[592]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210489
-[593]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210490
-[594]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576317
-[595]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM273056
-[596]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393659
-[597]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393663
-[598]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393664
-[599]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393462
-[600]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM64784
-[601]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM101353
-[602]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210491
-[603]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432039
-[604]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92711
-[605]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432040
-[606]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328526
-[607]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328528
-[608]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328753
-[609]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328755
-[610]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329990
-[611]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330373
-[612]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281290
-[613]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210493
-[614]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432041
-[615]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281277
-[616]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210494
-[617]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210496
-[618]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432042
-[619]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576374
-[620]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210497
-[621]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM97350
-[622]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432043
-[623]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210498
-[624]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM64785
-[625]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM359107
-[626]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM341190
-[627]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194777
-[628]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM1690609
-[629]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM1690610
-[630]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5126905
-[631]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893405
-[632]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210449
-[633]: http://www.pco.parliament.govt.nz/reprints/
-[634]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195439
-[635]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[636]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195468
-[637]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM195470
-[638]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5141105
-[639]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576300
-[640]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893410
-[641]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194512
-[642]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361150
-[643]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315175
-[644]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244110
-[645]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198399
-[646]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92215
-[647]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM427920
+[487]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2997643
+[488]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998573
+[489]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998633
+[490]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634580
+[491]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM403276
+[492]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3019751
+[493]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194500
+[494]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634581
+[495]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634418
+[496]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281866
+[497]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634242
+[498]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634582
+[499]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2510084
+[500]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM376816
+[501]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634585
+[502]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194516
+[503]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634586
+[504]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM89401
+[505]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634587
+[506]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3120002
+[507]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634588
+[508]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634592
+[509]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634381
+[510]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634544
+[511]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2634508
+[512]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM428459
+[513]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285420
+[514]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM340939
+[515]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285903
+[516]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285411
+[517]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM285914
+[518]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM234021
+[519]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM286544
+[520]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM125376
+[521]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM211896
+[522]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM379829
+[523]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM290139
+[524]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM380065
+[525]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194731
+[526]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315513
+[527]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315514
+[528]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210473
+[529]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92261
+[530]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210475
+[531]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432001
+[532]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210476
+[533]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210477
+[534]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361155
+[535]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361156
+[536]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432002
+[537]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432005
+[538]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92279
+[539]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329956
+[540]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329958
+[541]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329961
+[542]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329962
+[543]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329975
+[544]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329976
+[545]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329995
+[546]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330374
+[547]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330598
+[548]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330552
+[549]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330554
+[550]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432010
+[551]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92286
+[552]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210479
+[553]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432007
+[554]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM230219
+[555]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432008
+[556]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM264952
+[557]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM122579
+[558]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM214522
+[559]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210480
+[560]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432009
+[561]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92287
+[562]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92288
+[563]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3360714
+[564]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92703
+[565]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92704
+[566]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210483
+[567]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432013
+[568]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210484
+[569]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210485
+[570]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210486
+[571]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432014
+[572]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432018
+[573]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92707
+[574]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92708
+[575]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM396434
+[576]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432033
+[577]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432034
+[578]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210487
+[579]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432035
+[580]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432036
+[581]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1453535
+[582]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM147320
+[583]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1453536
+[584]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210488
+[585]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136542
+[586]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136781
+[587]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136770
+[588]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136813
+[589]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2136815
+[590]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2137099
+[591]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432038
+[592]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576316
+[593]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210489
+[594]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210490
+[595]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576317
+[596]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM273056
+[597]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393659
+[598]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393663
+[599]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393664
+[600]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM393462
+[601]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM64784
+[602]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM101353
+[603]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210491
+[604]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432039
+[605]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92711
+[606]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432040
+[607]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328526
+[608]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328528
+[609]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328753
+[610]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM328755
+[611]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM329990
+[612]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM330373
+[613]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281290
+[614]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210493
+[615]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432041
+[616]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM281277
+[617]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210494
+[618]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210496
+[619]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432042
+[620]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576374
+[621]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210497
+[622]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM97350
+[623]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1432043
+[624]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210498
+[625]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM64785
+[626]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM359107
+[627]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM341190
+[628]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194777
+[629]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM1690609
+[630]: http://www.legislation.govt.nz/act/public/1986/0005/latest/whole.html#DLM1690610
+[631]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2997693
+[632]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998558
+[633]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5126905
+[634]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893405
+[635]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM210449
+[636]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM119292
+[637]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244109
+[638]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998516
+[639]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998515
+[640]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM2998532
+[641]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[642]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM5141105
+[643]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1576300
+[644]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM3893410
+[645]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM1194512
+[646]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM361150
+[647]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM315175
+[648]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM244110
+[649]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM198399
+[650]: http://www.legislation.govt.nz/act/public/1986/0005/latest/link.aspx?id=DLM92215
