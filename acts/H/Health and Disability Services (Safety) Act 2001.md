@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Health and Disability Services (Safety) Act 2001Public Act2001 No 93
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Health.
 
@@ -23,161 +23,161 @@ This Act is administered by the Ministry of Health.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Health or disability services defined][6]
+[5][6][][6][Health or disability services defined][6]
 
-[6][7] [Rest home care defined][7]
+[6][7][][7][Rest home care defined][7]
 
-[7][8] [Act may be applied to other health or disability services][8]
+[7][8][][8][Act may be applied to other health or disability services][8]
 
-[8][9] [Services to which Act does not apply][9]
+[8][9][][9][Services to which Act does not apply][9]
 
-[9][10] [Providers of health care services to meet service standards][10]
+[9][10][][10][Providers of health care services to meet service standards][10]
 
-[10][11] [Certification not to have effect as professional qualification][11]
+[10][11][][11][Certification not to have effect as professional qualification][11]
 
-[11][12] [Transitional arrangements for existing providers][12] \[Expired\]
+[11][12][][12][Transitional arrangements for existing providers][12] \[Expired\]
 
-[12][13] [Act binds the Crown][13]
+[12][13][][13][Act binds the Crown][13]
 
 [Part 2][14]  
 [Service standards, and certification and audit of providers][14]
 
 [Service standards][15]
 
-[13][16] [Minister may approve service standards][16]
+[13][16][][16][Minister may approve service standards][16]
 
-[14][17] [Amendments and revocations][17]
+[14][17][][17][Amendments and revocations][17]
 
-[15][18] [Power not to be delegated][18]
+[15][18][][18][Power not to be delegated][18]
 
-[16][19] [Status of notices][19]
+[16][19][][19][Status of notices][19]
 
-[17][20] [Copies of standards to be available][20]
+[17][20][][20][Copies of standards to be available][20]
 
-[18][21] [Criteria for approval of standards][21]
+[18][21][][21][Criteria for approval of standards][21]
 
-[19][22] [Criteria for approval of amendments][22]
+[19][22][][22][Criteria for approval of amendments][22]
 
-[20][23] [Consultation][23]
+[20][23][][23][Consultation][23]
 
-[21][24] [Contents of standards][24]
+[21][24][][24][Contents of standards][24]
 
-[22][25] [Commencement of approvals and revocations][25]
+[22][25][][25][Commencement of approvals and revocations][25]
 
-[23][26] [Minister may grant exemptions][26]
+[23][26][][26][Minister may grant exemptions][26]
 
-[24][27] [Standards to be reviewed regularly][27]
+[24][27][][27][Standards to be reviewed regularly][27]
 
-[25][28] [Previous consultation sufficient for certain initial standards][28]
+[25][28][][28][Previous consultation sufficient for certain initial standards][28]
 
 [Certification of providers][29]
 
-[26][30] [Director-General may certify providers][30]
+[26][30][][30][Director-General may certify providers][30]
 
-[27][31] [Criteria for certification][31]
+[27][31][][31][Criteria for certification][31]
 
-[28][32] [Conditions][32]
+[28][32][][32][Conditions][32]
 
-[29][33] [Expiry of certification][33]
+[29][33][][33][Expiry of certification][33]
 
-[30][34] [Cancellation of certification][34]
+[30][34][][34][Cancellation of certification][34]
 
-[31][35] [Providers to give Director-General certain information][35]
+[31][35][][35][Providers to give Director-General certain information][35]
 
 [Auditing agencies][36]
 
-[32][37] [Director-General may designate persons to audit providers][37]
+[32][37][][37][Director-General may designate persons to audit providers][37]
 
-[33][38] [Criteria for designating external agencies][38]
+[33][38][][38][Criteria for designating external agencies][38]
 
-[34][39] [Criteria for designating employees of Ministry][39]
+[34][39][][39][Criteria for designating employees of Ministry][39]
 
-[35][40] [Modification of designation][40]
+[35][40][][40][Modification of designation][40]
 
-[36][41] [Agency to give Director-General copy of audit report][41]
+[36][41][][41][Agency to give Director-General copy of audit report][41]
 
-[37][42] [Cancellation of designation][42]
+[37][42][][42][Cancellation of designation][42]
 
-[38][43] [Expiry of designation][43]
+[38][43][][43][Expiry of designation][43]
 
-[39][44] [Procedure for cancelling private agency's designation][44]
+[39][44][][44][Procedure for cancelling private agency's designation][44]
 
 [Part 3][45]  
 [Enforcement][45]
 
 [Inspection of places][46]
 
-[40][47] [General right to inspect places][47]
+[40][47][][47][General right to inspect places][47]
 
-[41][48] [Right to monitor certain places][48]
+[41][48][][48][Right to monitor certain places][48]
 
-[42][49] [Powers of authorised persons][49]
+[42][49][][49][Powers of authorised persons][49]
 
-[43][50] [Requirement to answer questions][50]
+[43][50][][50][Requirement to answer questions][50]
 
-[44][51] [Search warrants][51]
+[44][51][][51][Search warrants][51]
 
-[45][52] [Warrant to be produced][52]
+[45][52][][52][Warrant to be produced][52]
 
-[46][53] [Other duties of authorised persons inspecting premises][53]
+[46][53][][53][Other duties of authorised persons inspecting premises][53]
 
-[47][54] [Notice of entry][54]
+[47][54][][54][Notice of entry][54]
 
-[47A][55] [Crimes of Torture Act 1989 not limited][55]
+[47A][55][][55][Crimes of Torture Act 1989 not limited][55]
 
 [Cessation and closing orders][56]
 
-[48][57] [Director-General may issue cessation orders][57]
+[48][57][][57][Director-General may issue cessation orders][57]
 
-[49][58] [Director-General may issue closing orders][58]
+[49][58][][58][Director-General may issue closing orders][58]
 
-[50][59] [Director-General may revoke cessation or closing order][59]
+[50][59][][59][Director-General may revoke cessation or closing order][59]
 
 [Part 4][60]  
 [Miscellaneous][60]
 
 [Appeals][61]
 
-[51][62] [Rights of appeal][62]
+[51][62][][62][Rights of appeal][62]
 
-[52][63] [Suspension of cancellation or order][63]
+[52][63][][63][Suspension of cancellation or order][63]
 
 [Regulations][64]
 
-[53][65] [Regulations][65]
+[53][65][][65][Regulations][65]
 
 [Offences][66]
 
-[54][67] [Offences][67]
+[54][67][][67][Offences][67]
 
-[55][68] [Burden of proof in relation to certain matters][68]
+[55][68][][68][Burden of proof in relation to certain matters][68]
 
-[56][69] [Defence for certain agents, contractors, employees, and officers][69]
+[56][69][][69][Defence for certain agents, contractors, employees, and officers][69]
 
 [Limitations on licensing and registration][70]
 
-[57][71] [Limitations on licensing and registration after 30 September 2002][71] \[Expired\]
+[57][71][][71][Limitations on licensing and registration after 30 September 2002][71] \[Expired\]
 
 [Amendments, repeals, revocations, and savings][72]
 
-[58][73] [Consequential amendments][73]
+[58][73][][73][Consequential amendments][73]
 
-[59][74] [Repeals and revocations][74]
+[59][74][][74][Repeals and revocations][74]
 
-[60][75] [Savings][75]
+[60][75][][75][Savings][75]
 
-[61][76] [Statutory references to psychiatric hospitals][76]
+[61][76][][76][Statutory references to psychiatric hospitals][76]
 
 [Schedule 1][77]  
 [Form of search warrant][77]
@@ -434,7 +434,7 @@ Service standards, and certification and audit of providers
 
 ##### 16 Status of notices
     
-*   (1) A notice under [section 13][16] or [section 14][17] is regulations for the purposes of the [Regulations (Disallowance) Act 1989][89].
+*   (1) A notice under [section 13][16] or [14][17] is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][89] and must be presented to the House of Representatives under [section 41][90] of that Act.
     
     (2) The Director-General may sign a written certificate that, on a day stated in the certificate, a document (or a document and 1 or more amendments to it) attached to the certificate constituted service standards for providing health or disability services of a kind or kinds stated in the certificate; and---
         
@@ -442,7 +442,7 @@ Service standards, and certification and audit of providers
     
     *   (b) a court or person acting judicially must take judicial notice of the Director-General's signature.
     
-    
+    Section 16(1): replaced, on 5 August 2013, by [section 77(3)][91] of the Legislation Act 2012 (2012 No 119).
 
 ##### 17 Copies of standards to be available
     
@@ -518,7 +518,7 @@ Service standards, and certification and audit of providers
         
         *   (ii) organisations known to the Minister to represent affected providers; and
         
-        *   (iii) all Crown entities (within the meaning of [section 2(1)][90] of the Public Finance Act 1989) whose functions are, include, or are capable of including, purchasing services of that kind; and
+        *   (iii) all Crown entities (within the meaning of [section 2(1)][92] of the Public Finance Act 1989) whose functions are, include, or are capable of including, purchasing services of that kind; and
         
         *   (iv) a reasonably representative sample of affected providers; and
         
@@ -836,7 +836,7 @@ Service standards, and certification and audit of providers
     
     (4) A certified provider must promptly give the Director-General written notice,---
         
-    *   (a) in the case of a body corporate (other than a District Health Board, some other body corporate that is a Crown entity, a corporation sole, or a Trust Board incorporated under the [Charitable Trusts Act 1957][91]), of any change in the membership of its governing body:
+    *   (a) in the case of a body corporate (other than a District Health Board, some other body corporate that is a Crown entity, a corporation sole, or a Trust Board incorporated under the [Charitable Trusts Act 1957][93]), of any change in the membership of its governing body:
     
     *   (b) in the case of a Trust Board incorporated under the Charitable Trusts Act 1957, of any change in its membership:
     
@@ -850,11 +850,11 @@ Service standards, and certification and audit of providers
     
     *   (b) any investigation commenced by a constable into any aspect of the services, their provision, or any premises in which they were provided; and
     
-    *   (c) any death of a person to whom the person was providing the services, or occurring in any premises in which they were provided, that is required to be reported to a coroner under the [Coroners Act 2006][92].
+    *   (c) any death of a person to whom the person was providing the services, or occurring in any premises in which they were provided, that is required to be reported to a coroner under the [Coroners Act 2006][94].
     
-    Section 31(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    Section 31(5)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
     
-    Section 31(5)(c): amended, on 1 July 2007, by [section 146][94] of the Coroners Act 2006 (2006 No 38).
+    Section 31(5)(c): amended, on 1 July 2007, by [section 146][96] of the Coroners Act 2006 (2006 No 38).
 
 #### Auditing agencies
 
@@ -1063,7 +1063,7 @@ Enforcement
     
     (2) An authorised person exercising powers under subsection (1) or [section 41(2)][48] may be accompanied by a constable, and any assistants necessary in all the circumstances.
     
-    Section 42(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    Section 42(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
 
 ##### 43 Requirement to answer questions
     
@@ -1093,9 +1093,9 @@ Enforcement
     
     *   (c) the dwellinghouse is (or the other place is) unsafe or insanitary.
     
-    (3) The warrant must be in the [form][95] of Schedule 1, and may be issued unconditionally or subject to conditions.
+    (3) The warrant must be in the [form][97] of Schedule 1, and may be issued unconditionally or subject to conditions.
     
-    Section 44(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    Section 44(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
 
 ##### 45 Warrant to be produced
     
@@ -1127,9 +1127,9 @@ Enforcement
 
 ##### 47A Crimes of Torture Act 1989 not limited
     
-*   Nothing in this Act limits the operation of [Part 2][96] of the Crimes of Torture Act 1989\.
+*   Nothing in this Act limits the operation of [Part 2][98] of the Crimes of Torture Act 1989\.
     
-    Section 47A: inserted, on 5 December 2006, by [section 10][97] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
+    Section 47A: inserted, on 5 December 2006, by [section 10][99] of the Crimes of Torture Amendment Act 2006 (2006 No 68).
 
 #### Cessation and closing orders
 
@@ -1151,13 +1151,13 @@ Enforcement
         
         *   (ii) been convicted of an offence punishable by imprisonment; or
         
-        *   (iii) been adjudged bankrupt under the [Insolvency Act 2006][98]; or
+        *   (iii) been adjudged bankrupt under the [Insolvency Act 2006][100]; or
         
-        *   (iv) become the subject of an order under [section 383][99] of the Companies Act 1993; or
+        *   (iv) become the subject of an order under [section 383][101] of the Companies Act 1993; or
         
         
     
-    *   (c) there is in force in respect of the provider or a person providing health care services under the provider's control an order under the [Protection of Personal and Property Rights Act 1988][100].
+    *   (c) there is in force in respect of the provider or a person providing health care services under the provider's control an order under the [Protection of Personal and Property Rights Act 1988][102].
     
     (2) The order must be signed by the Director-General; and must state---
         
@@ -1189,7 +1189,7 @@ Enforcement
     
     *   (c) if it was served because the Director-General was satisfied that health care services of the kind concerned were being provided otherwise than in compliance with [section 9][10], describing in general terms the alleged failures to comply with section 9 on which the Director-General relied.
     
-    Section 48(1)(b)(iii): amended, on 3 December 2007, by [section 445][101] of the Insolvency Act 2006 (2006 No 55).
+    Section 48(1)(b)(iii): amended, on 3 December 2007, by [section 445][103] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 49 Director-General may issue closing orders
     
@@ -1211,11 +1211,11 @@ Enforcement
         
         *   (ii) convicted of an offence punishable by imprisonment; or
         
-        *   (iii) adjudged bankrupt under the [Insolvency Act 2006][98]; or
+        *   (iii) adjudged bankrupt under the [Insolvency Act 2006][100]; or
         
         
     
-    *   (d) there is in force in respect of the provider or a person providing health care services in the place under the provider's control an order under the [Protection of Personal and Property Rights Act 1988][100].
+    *   (d) there is in force in respect of the provider or a person providing health care services in the place under the provider's control an order under the [Protection of Personal and Property Rights Act 1988][102].
     
     (2) The order must be signed by the Director-General; and must state---
         
@@ -1249,7 +1249,7 @@ Enforcement
     
     *   (c) if it was served because the Director-General was satisfied that health care services were being provided in an unsafe or insanitary manner, or because the Director-General was satisfied that the place concerned was unsafe or insanitary, describing in general terms the alleged deficiencies on which the Director-General relied.
     
-    Section 49(1)(c)(iii): amended, on 3 December 2007, by [section 445][101] of the Insolvency Act 2006 (2006 No 55).
+    Section 49(1)(c)(iii): amended, on 3 December 2007, by [section 445][103] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 50 Director-General may revoke cessation or closing order
     
@@ -1322,7 +1322,7 @@ Miscellaneous
 
 ##### 54 Offences
     
-*   (1) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $50,000, who---
+*   (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $50,000, who---
         
     *   (a) provides health care services otherwise than in compliance with [section 9][10]; or
     
@@ -1330,7 +1330,7 @@ Miscellaneous
     
     *   (c) provides health care services in any premises, or controls the provision of health care services in any premises, while a closing order relating to the premises is in effect.
     
-    (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who---
+    (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,000, who---
         
     *   (a) intentionally obstructs, hinders, or resists an authorised person exercising or attempting to exercise powers under any of [sections 41 to 43][48]; or
     
@@ -1338,7 +1338,9 @@ Miscellaneous
     
     *   (c) when asked a question by an authorised person under section 43, gives an answer the person knows to be false or misleading.
     
+    Section 54(1): amended, on 1 July 2013, by [section 413][104] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 54(2): amended, on 1 July 2013, by [section 413][104] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Burden of proof in relation to certain matters
     
@@ -1350,7 +1352,7 @@ Miscellaneous
     
     *   (c) that at any time premises in which hospital care services were provided were a licensed hospital within the meaning of section 118 of the Hospitals Act 1957:
     
-    *   (d) that at any time premises in which residential disability care was provided were a home registered or deemed to be registered under [Part 2][102] of the Disabled Persons Community Welfare Act 1975:
+    *   (d) that at any time premises in which residential disability care was provided were a home registered or deemed to be registered under [Part 2][105] of the Disabled Persons Community Welfare Act 1975:
     
     *   (e) that at any time rest home care was provided in a home within the meaning of the Old People's Homes Regulations 1987:
     
@@ -1372,13 +1374,13 @@ Miscellaneous
 
 #### Limitations on licensing and registration
     
-*   Heading: expired, on 1 October 2004, pursuant to [section 57(4)][103].
+*   Heading: expired, on 1 October 2004, pursuant to [section 57(4)][106].
 
 ##### 57 Limitations on licensing and registration after 30 September 2002
     
 *   \[Expired\]
     
-    Section 57: expired, on 1 October 2004, by [section 57(4)][103].
+    Section 57: expired, on 1 October 2004, by [section 57(4)][106].
 
 #### Amendments, repeals, revocations, and savings
 
@@ -1412,13 +1414,13 @@ Miscellaneous
         
     *   (a) means premises used to provide residential disability care, in accordance with [section 9][10]; but where only parts of any premises are used for that purpose, means only those parts and any other parts used for ancillary purposes; and
     
-    *   (b) at a time before 1 October 2004, includes a home registered under [Part 2][102] of the Disabled Persons Community Welfare Act 1975
+    *   (b) at a time before 1 October 2004, includes a home registered under [Part 2][105] of the Disabled Persons Community Welfare Act 1975
     
     _residential disability care operator_---
         
     *   (a) means a person for the time being in charge of providing residential disability care, in accordance with [section 9][10]; but
     
-    *   (b) at a time before 1 October 2004, includes the controlling authority of a home registered under [Part 2][102] of the Disabled Persons Community Welfare Act 1975
+    *   (b) at a time before 1 October 2004, includes the controlling authority of a home registered under [Part 2][105] of the Disabled Persons Community Welfare Act 1975
     
     _rest home_---
         
@@ -1434,27 +1436,27 @@ Miscellaneous
     
     (5) The Orders in Council amended by subsection (3) may be amended or revoked as if the amendments effected by that subsection had been effected by Order in Council.
     
-    Section 58(2)(a): repealed, on 18 September 2004, by [section 175(4)][104] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 58(2)(a): repealed, on 18 September 2004, by [section 175(4)][107] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 59 Repeals and revocations
     
 *   (1) The enactments specified in [Schedule 4][80] are repealed.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][105]._
+    (2) _Amendment(s) incorporated in the [Act(s)][108]._
     
     (3) The regulations, orders, and notices specified in [Schedule 5][81] are revoked.
 
 ##### 60 Savings
     
-*   (1) The repeal by [section 59(1)][74] of section 2(3) of the Hospitals Amendment Act 1962 does not affect the continued application of [section 6][106] of the Finance Act (No 2) 1941 in relation to any officer or employee of a Hospital Board who died before 5 December 1962\.
+*   (1) The repeal by [section 59(1)][74] of section 2(3) of the Hospitals Amendment Act 1962 does not affect the continued application of [section 6][109] of the Finance Act (No 2) 1941 in relation to any officer or employee of a Hospital Board who died before 5 December 1962\.
     
-    (2) The [Health Reforms (Transitional Provisions) Act Commencement Order 1997][107] (SR 1997/272) is deemed to be, and always to have been, valid and effective according to its tenor, despite the fact that it appointed a date for the commencement of subsection (2) of [section 26][108] of the Health Reforms (Transitional Provisions) Act 1993, but not for subsections (2A) and (2B) of that section.
+    (2) The [Health Reforms (Transitional Provisions) Act Commencement Order 1997][110] (SR 1997/272) is deemed to be, and always to have been, valid and effective according to its tenor, despite the fact that it appointed a date for the commencement of subsection (2) of [section 26][111] of the Health Reforms (Transitional Provisions) Act 1993, but not for subsections (2A) and (2B) of that section.
     
     (3) Subsection (2) is for the avoidance of doubt.
 
 ##### 61 Statutory references to psychiatric hospitals
     
-*   After 30 September 2002, a reference to a psychiatric hospital in an enactment must be read as a reference to a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][109], unless---
+*   After 30 September 2002, a reference to a psychiatric hospital in an enactment must be read as a reference to a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][112], unless---
         
     *   (a) psychiatric hospital is defined in or for the purposes of the enactment; or
     
@@ -1494,10 +1496,8 @@ District Court Judge
 (_or_ Justice _or_ court Registrar 
 
 (not being a constable)).
-
----
-
-*   Schedule 1 form 1: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][93] of the Policing Act 2008 (2008 No 72).
+    
+*   Schedule 1 form 1: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
 
 ---
 
@@ -1508,23 +1508,23 @@ Enactments amended
 
 ##### Adoption Act 1955 (1955 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][110]._
+_Amendment(s) incorporated in the [Act(s)][113]._
 
 ##### Alcoholism and Drug Addiction Act 1966 (1966 No 97)
 
-_Amendment(s) incorporated in the [Act(s)][111]._
+_Amendment(s) incorporated in the [Act(s)][114]._
 
 ##### Births, Deaths, and Marriages Registration Act 1995 (1995 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][112]._
+_Amendment(s) incorporated in the [Act(s)][115]._
 
 ##### Children, Young Persons, and Their Families Act 1989 (1989 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][113]._
+_Amendment(s) incorporated in the [Act(s)][116]._
 
 ##### Child Support Act 1991 (1991 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][114]._
+_Amendment(s) incorporated in the [Act(s)][117]._
 
 ##### Chiropractors Act 1982 (1982 No 32)
 
@@ -1532,7 +1532,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Contraception, Sterilisation, and Abortion Act 1977 (1977 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][115]._
+_Amendment(s) incorporated in the [Act(s)][118]._
 
 ##### Dental Act 1988 (1988 No 150)
 
@@ -1544,7 +1544,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][116]._
+_Amendment(s) incorporated in the [Act(s)][119]._
 
 ##### Disabled Persons Employment Promotion Act 1960 (1960 No 42)
 
@@ -1552,31 +1552,31 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Education Act 1989 (1989 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][117]._
+_Amendment(s) incorporated in the [Act(s)][120]._
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][118]._
+_Amendment(s) incorporated in the [Act(s)][121]._
 
 ##### Employment Relations Act 2000 (2000 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][119]._
+_Amendment(s) incorporated in the [Act(s)][122]._
 
 ##### Goods and Services Tax Act 1985 (1985 No 141)
 
-_Amendment(s) incorporated in the [Act(s)][120]._
+_Amendment(s) incorporated in the [Act(s)][123]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][121]._
+_Amendment(s) incorporated in the [Act(s)][124]._
 
 ##### Health Act 1956 (1956 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][122]._
+_Amendment(s) incorporated in the [Act(s)][125]._
 
 ##### Health and Disability Commissioner Act 1994 (1994 No 88)
 
-_Amendment(s) incorporated in the [Act(s)][123]._
+_Amendment(s) incorporated in the [Act(s)][126]._
 
 ##### Human Tissue Act 1964 (1964 No 19)
 
@@ -1588,7 +1588,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Insolvency Act 1967 (1967 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][124]._
+_Amendment(s) incorporated in the [Act(s)][127]._
 
 ##### Medical Practitioners Act 1995 (1995 No 95)
 
@@ -1596,15 +1596,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][125]._
+_Amendment(s) incorporated in the [Act(s)][128]._
 
 ##### Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46)
 
-_Amendment(s) incorporated in the [Act(s)][126]._
+_Amendment(s) incorporated in the [Act(s)][129]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][127]._
+_Amendment(s) incorporated in the [Act(s)][130]._
 
 ##### Nurses Act 1977 (1977 No 53)
 
@@ -1624,15 +1624,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Smoke-free Environments Act 1990 (1990 No 108)
 
-_Amendment(s) incorporated in the [Act(s)][128]._
+_Amendment(s) incorporated in the [Act(s)][131]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][129]._
+_Amendment(s) incorporated in the [Act(s)][132]._
 
 ##### Tuberculosis Act 1948 (1948 No 36)
 
-_Amendment(s) incorporated in the [Act(s)][130]._
+_Amendment(s) incorporated in the [Act(s)][133]._
 
 ---
 
@@ -1643,11 +1643,11 @@ Consequential amendments to regulations
 
 ##### Abortion Regulations 1978 (SR 1978/50)
 
-_Amendment(s) incorporated in the [regulations][131]._
+_Amendment(s) incorporated in the [regulations][134]._
 
 ##### Children, Young Persons, and Their Families Rules 1989 (SR 1989/295)
 
-_Amendment(s) incorporated in the [rules][132]._
+_Amendment(s) incorporated in the [rules][135]._
 
 ##### Dietitians Regulations 1987 (SR 1987/63)
 
@@ -1655,15 +1655,15 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Health (Burial) Regulations 1946 (SR 1946/132)
 
-_Amendment(s) incorporated in the [regulations][133]._
+_Amendment(s) incorporated in the [regulations][136]._
 
 ##### Health Entitlement Cards Regulations 1993 (SR 1993/169)
 
-_Amendment(s) incorporated in the [regulations][134]._
+_Amendment(s) incorporated in the [regulations][137]._
 
 ##### Health (Retention of Health Information) Regulations 1996 (SR 1996/343)
 
-_Amendment(s) incorporated in the [regulations][135]._
+_Amendment(s) incorporated in the [regulations][138]._
 
 ##### Medical Laboratory Technologists Regulations 1989 (SR 1989/282)
 
@@ -1675,11 +1675,11 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Medicines Regulations 1984 (SR 1984/143)
 
-_Amendment(s) incorporated in the [regulations][136]._
+_Amendment(s) incorporated in the [regulations][139]._
 
 ##### Misuse of Drugs Regulations 1977 (SR 1977/37)
 
-_Amendment(s) incorporated in the [regulations][137]._
+_Amendment(s) incorporated in the [regulations][140]._
 
 ##### Obstetric Regulations 1986 (SR 1986/75)
 
@@ -1706,7 +1706,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16)
 
-_Amendment(s) incorporated in the [Act(s)][138]._
+_Amendment(s) incorporated in the [Act(s)][141]._
 
 ##### Dietitians Amendment Act 1979 (1979 No 44)
 
@@ -1714,19 +1714,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Disabled Persons Community Welfare Act 1975 (1975 No 122)
 
-_Amendment(s) incorporated in the [Act(s)][139]._
+_Amendment(s) incorporated in the [Act(s)][142]._
 
 ##### Health Amendment Act 1988 (1988 No 99)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][143]._
 
 ##### Health Amendment Act 1993 (1993 No 24)
 
-_Amendment(s) incorporated in the [Act(s)][141]._
+_Amendment(s) incorporated in the [Act(s)][144]._
 
 ##### Health Reforms (Transitional Provisions) Act 1993 (1993 No 23)
 
-_Amendment(s) incorporated in the [Act(s)][108]._
+_Amendment(s) incorporated in the [Act(s)][111]._
 
 ##### Hospitals Act 1957 (1957 No 40)
 
@@ -1766,7 +1766,7 @@ _Amendment(s) incorporated in the [Act(s)][108]._
 
 ##### Social Security Act 1964 (1964 No 136)
 
-_Amendment(s) incorporated in the [Act(s)][129]._
+_Amendment(s) incorporated in the [Act(s)][132]._
 
 ---
 
@@ -1799,90 +1799,51 @@ Enactments revoked
 
 ##### Old People's Homes Regulations 1987, Amendment No 1 (SR 1993/159)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Health and Disability Services (Safety) Act 2001\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Health and Disability Services (Safety) Act 2001 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][142] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][145] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][146] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][147] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][148] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][143] and [17E][144] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][91]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][104]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][95]
     
+    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 10][99]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Insolvency Act 2006 (2006 No 55): [section 445][103]
     
-*   Policing Act 2008 (2008 No 72): [section 116(a)(ii)][93]
+    Coroners Act 2006 (2006 No 38): [section 146][96]
     
-    Crimes of Torture Amendment Act 2006 (2006 No 68): [section 10][97]
-    
-    Insolvency Act 2006 (2006 No 55): [section 445][101]
-    
-    Coroners Act 2006 (2006 No 38): [section 146][94]
-    
-    [Health and Disability Services (Safety) Amendment Act 2005][145] (2005 No 56)
+    [Health and Disability Services (Safety) Amendment Act 2005][149] (2005 No 56)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][84]
     
     Corrections Act 2004 (2004 No 50): [section 206][87]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][104]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(4)][107]
     
     Health and Disability Services (Safety) Act 2001 (2001 No 93): [sections 11(5)][12], [57(4)][71]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2001/0093/latest/whole.html#DLM119978
 [2]: http://www.legislation.govt.nz/act/public/2001/0093/latest/whole.html#DLM119979
 [3]: http://www.legislation.govt.nz/act/public/2001/0093/latest/whole.html#DLM119980
@@ -1971,60 +1932,64 @@ Enactments revoked
 [86]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM154320
 [87]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM297136
 [88]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM129507
-[89]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM195534
-[90]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM160819
-[91]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM308795
-[92]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM377056
-[93]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM1102349
-[94]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM378303
-[95]: http://www.legislation.govt.nz/act/public/2001/0093/latest/whole.html#DLM2685205
-[96]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM192866
-[97]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM393150
-[98]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM385298
-[99]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM323252
-[100]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM126527
-[101]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM387857
-[102]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM437025
-[103]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM120902
-[104]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM205009
-[105]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM264251
-[106]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM235134
-[107]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM239969
-[108]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM295163
-[109]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM262175
-[110]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM293323
-[111]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM380363
-[112]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM359378
-[113]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM149457
-[114]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM253150
-[115]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM17685
-[116]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM436795
-[117]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM180449
-[118]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM307525
-[119]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM61714
-[120]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM81045
-[121]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM385138
-[122]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM305845
-[123]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM333589
-[124]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM384107
-[125]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM53795
-[126]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM262181
-[127]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM436441
-[128]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM223196
-[129]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM359124
-[130]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM248405
-[131]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM61588
-[132]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM132832
-[133]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2950
-[134]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM176257
-[135]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM225641
-[136]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM96553
-[137]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM54846
-[138]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM328991
-[139]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM437059
-[140]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM132558
-[141]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM295792
-[142]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM195439
-[143]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM195468
-[144]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM195470
-[145]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM348069
+[89]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2997643
+[90]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998573
+[91]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998633
+[92]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM160819
+[93]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM308795
+[94]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM377056
+[95]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM1102349
+[96]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM378303
+[97]: http://www.legislation.govt.nz/act/public/2001/0093/latest/whole.html#DLM2685205
+[98]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM192866
+[99]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM393150
+[100]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM385298
+[101]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM323252
+[102]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM126527
+[103]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM387857
+[104]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM3360714
+[105]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM437025
+[106]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM120902
+[107]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM205009
+[108]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM264251
+[109]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM235134
+[110]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM239969
+[111]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM295163
+[112]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM262175
+[113]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM293323
+[114]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM380363
+[115]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM359378
+[116]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM149457
+[117]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM253150
+[118]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM17685
+[119]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM436795
+[120]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM180449
+[121]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM307525
+[122]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM61714
+[123]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM81045
+[124]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM385138
+[125]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM305845
+[126]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM333589
+[127]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM384107
+[128]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM53795
+[129]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM262181
+[130]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM436441
+[131]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM223196
+[132]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM359124
+[133]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM248405
+[134]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM61588
+[135]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM132832
+[136]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2950
+[137]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM176257
+[138]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM225641
+[139]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM96553
+[140]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM54846
+[141]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM328991
+[142]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM437059
+[143]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM132558
+[144]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM295792
+[145]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998516
+[146]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998515
+[147]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM2998532
+[148]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[149]: http://www.legislation.govt.nz/act/public/2001/0093/latest/link.aspx?id=DLM348069
