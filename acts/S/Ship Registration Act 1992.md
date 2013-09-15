@@ -1,5 +1,5 @@
 Reprint  
-as at 29 November 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,235 +25,235 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [New Zealand-owned ships][4]
+[3][4][][4][New Zealand-owned ships][4]
 
-[4][5] [Ships on demise charter to New Zealand-based operators][5]
+[4][5][][5][Ships on demise charter to New Zealand-based operators][5]
 
-[5][6] [Application of Act to Crown, etc][6]
+[5][6][][6][Application of Act to Crown, etc][6]
 
 [Part 1][7]  
 [Ships required or entitled to be registered][7]
 
-[6][8] [Requirement to register certain New Zealand-owned ships and pleasure vessels][8]
+[6][8][][8][Requirement to register certain New Zealand-owned ships and pleasure vessels][8]
 
-[7][9] [Representative persons][9]
+[7][9][][9][Representative persons][9]
 
-[8][10] [Entitlement to register certain New Zealand-owned ships and other ships][10]
+[8][10][][10][Entitlement to register certain New Zealand-owned ships and other ships][10]
 
-[9][11] [Foreign-registered ships not registrable under this Act][11]
+[9][11][][11][Foreign-registered ships not registrable under this Act][11]
 
-[10][12] [Liabilities of ships not registered][12]
+[10][12][][12][Liabilities of ships not registered][12]
 
-[11][13] [Certain unregistered ships not to leave New Zealand][13]
+[11][13][][13][Certain unregistered ships not to leave New Zealand][13]
 
 [Part 2][14]  
 [Registration of ships][14]
 
-[12][15] [Applications for registration][15]
+[12][15][][15][Applications for registration][15]
 
-[13][16] [Declaration of ownership and nationality][16]
+[13][16][][16][Declaration of ownership and nationality][16]
 
-[14][17] [Evidence required before registration][17]
+[14][17][][17][Evidence required before registration][17]
 
-[15][18] [Tonnage measurement of ship required before registration][18]
+[15][18][][18][Tonnage measurement of ship required before registration][18]
 
-[16][19] [Power to disallow proposed name and to allow change of name][19]
+[16][19][][19][Power to disallow proposed name and to allow change of name][19]
 
-[17][20] [Appeals from decisions under section 16][20]
+[17][20][][20][Appeals from decisions under section 16][20]
 
-[18][21] [Application for reservation of name][21]
+[18][21][][21][Application for reservation of name][21]
 
-[19][22] [Ship to be marked before registration][22]
+[19][22][][22][Ship to be marked before registration][22]
 
-[20][23] [Entry of particulars in Part A of Register][23]
+[20][23][][23][Entry of particulars in Part A of Register][23]
 
-[21][24] [Entry of particulars in Part B of Register][24]
+[21][24][][24][Entry of particulars in Part B of Register][24]
 
-[22][25] [Registration of property in ships][25]
+[22][25][][25][Registration of property in ships][25]
 
 [Certificates of registry and registration, provisional certificates of registry, and temporary passes][26]
 
-[23][27] [Grant of certificates of registry and registration][27]
+[23][27][][27][Grant of certificates of registry and registration][27]
 
-[24][28] [Particulars of master to be endorsed on certificate of registry of ship leaving New Zealand][28]
+[24][28][][28][Particulars of master to be endorsed on certificate of registry of ship leaving New Zealand][28]
 
-[25][29] [Custody of certificates][29]
+[25][29][][29][Custody of certificates][29]
 
-[26][30] [Replacement certificates][30]
+[26][30][][30][Replacement certificates][30]
 
-[27][31] [Grant of provisional certificate of registry or registration][31]
+[27][31][][31][Grant of provisional certificate of registry or registration][31]
 
-[28][32] [Duration of provisional certificates of registry or registration][32]
+[28][32][][32][Duration of provisional certificates of registry or registration][32]
 
-[29][33] [Temporary passes][33]
+[29][33][][33][Temporary passes][33]
 
 [Alterations to ships, changes in ownership, etc, to be notified to Registrar][34]
 
-[30][35] [Alterations to ships][35]
+[30][35][][35][Alterations to ships][35]
 
-[31][36] [Change of name or address or nationality of owner or mortgagee][36]
+[31][36][][36][Change of name or address or nationality of owner or mortgagee][36]
 
 [Closure of registration][37]
 
-[32][38] [Closure of registration][38]
+[32][38][][38][Closure of registration][38]
 
-[33][39] [Rights of mortgagees where ship ceases to be registrable][39]
+[33][39][][39][Rights of mortgagees where ship ceases to be registrable][39]
 
 [Part 3][40]  
 [Transfers, transmissions, and mortgages of ships][40]
 
 [Transfers and transmissions][41]
 
-[34][42] [Application of Part][42]
+[34][42][][42][Application of Part][42]
 
-[35][43] [Transfer of ships and shares in ships][43]
+[35][43][][43][Transfer of ships and shares in ships][43]
 
-[36][44] [Transmission of ship or share in ship by operation of law][44]
+[36][44][][44][Transmission of ship or share in ship by operation of law][44]
 
-[37][45] [Declarations of transfer and transmission][45]
+[37][45][][45][Declarations of transfer and transmission][45]
 
-[38][46] [Certificate of registry to be endorsed where change in ownership][46]
+[38][46][][46][Certificate of registry to be endorsed where change in ownership][46]
 
 [Mortgages][47]
 
-[39][48] [Mortgage of ship or share in ship][48]
+[39][48][][48][Mortgage of ship or share in ship][48]
 
-[40][49] [Priority of mortgages][49]
+[40][49][][49][Priority of mortgages][49]
 
-[41][50] [Alteration of terms of mortgage by endorsement][50]
+[41][50][][50][Alteration of terms of mortgage by endorsement][50]
 
-[42][51] [Variation of priority of mortgages][51]
+[42][51][][51][Variation of priority of mortgages][51]
 
-[43][52] [Transfer of mortgage][52]
+[43][52][][52][Transfer of mortgage][52]
 
-[44][53] [Transmission of mortgage by operation of law][53]
+[44][53][][53][Transmission of mortgage by operation of law][53]
 
-[45][54] [Discharge, waiver, or extinction of mortgage][54]
+[45][54][][54][Discharge, waiver, or extinction of mortgage][54]
 
 [General matters relating to ownership, mortgages, and other interests][55]
 
-[46][56] [Powers of disposal by owner][56]
+[46][56][][56][Powers of disposal by owner][56]
 
-[47][57] [Mortgage not to change ownership][57]
+[47][57][][57][Mortgage not to change ownership][57]
 
-[48][58] [Mortgagee to have power of disposal][58]
+[48][58][][58][Mortgagee to have power of disposal][58]
 
-[49][59] [Trusts not recognised][59]
+[49][59][][59][Trusts not recognised][59]
 
-[50][60] [Equities not excluded][60]
+[50][60][][60][Equities not excluded][60]
 
-[51][61] [Caveat forbidding registration of certain instruments][61]
+[51][61][][61][Caveat forbidding registration of certain instruments][61]
 
-[52][62] [Notice of caveat][62]
+[52][62][][62][Notice of caveat][62]
 
-[53][63] [Procedure for removal of caveat][63]
+[53][63][][63][Procedure for removal of caveat][63]
 
-[54][64] [When caveat to lapse][64]
+[54][64][][64][When caveat to lapse][64]
 
-[55][65] [No dealing to be registered while caveat in force][65]
+[55][65][][65][No dealing to be registered while caveat in force][65]
 
-[56][66] [Compensation for lodging caveat without reasonable cause][66]
+[56][66][][66][Compensation for lodging caveat without reasonable cause][66]
 
 [Part 4][67]  
 [Nationality and national colours][67]
 
-[57][68] [Certain ships to have New Zealand nationality][68]
+[57][68][][68][Certain ships to have New Zealand nationality][68]
 
-[58][69] [National colours and other flags][69]
+[58][69][][69][National colours and other flags][69]
 
-[58A][70] [Flags authorised under prerogative][70]
+[58A][70][][70][Flags authorised under prerogative][70]
 
-[59][71] [Declaration of ship's nationality before Customs clearance][71]
+[59][71][][71][Declaration of ship's nationality before Customs clearance][71]
 
-[60][72] [Improperly assuming or concealing New Zealand nationality][72]
+[60][72][][72][Improperly assuming or concealing New Zealand nationality][72]
 
 [Part 5][73]  
 [Administration][73]
 
-[61][74] [Registrar of Ships][74]
+[61][74][][74][Registrar of Ships][74]
 
-[62][75] [Deputy Registrars of Ships][75]
+[62][75][][75][Deputy Registrars of Ships][75]
 
-[63][76] [Seal of Registrar][76]
+[63][76][][76][Seal of Registrar][76]
 
-[64][77] [Protection of Registrar and Deputies][77]
+[64][77][][77][Protection of Registrar and Deputies][77]
 
 [New Zealand Register of Ships][78]
 
-[65][79] [New Zealand Register of Ships][79]
+[65][79][][79][New Zealand Register of Ships][79]
 
-[66][80] [Power to appoint suitable organisation to maintain any Part of Register][80]
+[66][80][][80][Power to appoint suitable organisation to maintain any Part of Register][80]
 
 [Corrections and rectification of Register][81]
 
-[67][82] [Correction of clerical errors][82]
+[67][82][][82][Correction of clerical errors][82]
 
-[68][83] [Power to give directions in respect of obsolete or incorrect entries][83]
+[68][83][][83][Power to give directions in respect of obsolete or incorrect entries][83]
 
-[69][84] [High Court may direct rectification of Register][84]
+[69][84][][84][High Court may direct rectification of Register][84]
 
 [Part 6][85]  
 [Miscellaneous provisions][85]
 
-[70][86] [Priority of securities or charges in respect of foreign ships][86]
+[70][86][][86][Priority of securities or charges in respect of foreign ships][86]
 
-[71][87] [Detention of ships][87]
+[71][87][][87][Detention of ships][87]
 
-[72][88] [Proceedings on forfeiture][88]
+[72][88][][88][Proceedings on forfeiture][88]
 
-[73][89] [Protection of officers in respect of seizure or detention][89]
+[73][89][][89][Protection of officers in respect of seizure or detention][89]
 
-[74][90] [False statements][90]
+[74][90][][90][False statements][90]
 
-[75][91] [Making false documents, etc][91]
+[75][91][][91][Making false documents, etc][91]
 
-[76][92] [Liability of directors and officers of bodies corporate][92]
+[76][92][][92][Liability of directors and officers of bodies corporate][92]
 
-[77][93] [Offences to be punishable on summary conviction][93]
+[77][93][][93][Offences to be punishable on summary conviction][93] \[Repealed\]
 
-[78][94] [Proceedings for offences][94]
+[78][94][][94][Proceedings for offences][94]
 
-[79][95] [Service of documents][95]
+[79][95][][95][Service of documents][95]
 
-[80][96] [Admissibility of documents in evidence][96]
+[80][96][][96][Admissibility of documents in evidence][96]
 
-[81][97] [Evidence relating to transmissions][97]
+[81][97][][97][Evidence relating to transmissions][97]
 
-[82][98] [Power of Registrar to dispense with declarations and other evidence, etc][98]
+[82][98][][98][Power of Registrar to dispense with declarations and other evidence, etc][98]
 
-[83][99] [Mode of making declarations][99]
+[83][99][][99][Mode of making declarations][99]
 
-[84][100] [Power to prescribe or approve forms][100]
+[84][100][][100][Power to prescribe or approve forms][100]
 
-[85][101] [Power to appoint or recognise persons as proper officers][101]
+[85][101][][101][Power to appoint or recognise persons as proper officers][101]
 
-[85A][102] [Delegation of Minister's functions and powers to Director][102]
+[85A][102][][102][Delegation of Minister's functions and powers to Director][102]
 
-[86][103] [Delegation of Director's powers][103]
+[86][103][][103][Delegation of Director's powers][103]
 
-[87][104] [Regulations][104]
+[87][104][][104][Regulations][104]
 
-[88][105] [Repeals and amendments][105]
+[88][105][][105][Repeals and amendments][105]
 
-[89][106] [Revocations][106]
+[89][106][][106][Revocations][106]
 
 [Transitional provisions][107]
 
-[90][108] [Ships registered in New Zealand under previous law deemed registered under this Act][108]
+[90][108][][108][Ships registered in New Zealand under previous law deemed registered under this Act][108]
 
-[91][109] [Verification of particulars in registers kept under previous law][109]
+[91][109][][109][Verification of particulars in registers kept under previous law][109]
 
-[92][110] [Applications under previous law][110]
+[92][110][][110][Applications under previous law][110]
 
-[93][111] [Transfer of foreign registered ships][111]
+[93][111][][111][Transfer of foreign registered ships][111]
 
-[94][112] [References in other laws][112]
+[94][112][][112][References in other laws][112]
 
-[95][113] [Savings][113]
+[95][113][][113][Savings][113]
 
 [Schedule][114]  
 [Repeals and amendments][114]
@@ -581,9 +581,11 @@ Ships required or entitled to be registered
     
     *   (c) left for any such person at that address.
     
-    (7) Every person commits an offence and is liable to a fine not exceeding $2,000 who fails to comply with subsection (2) or subsection (4).
+    (7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to comply with subsection (2) or subsection (4).
     
     Compare: Merchant Shipping Act 1988 s 5 (UK)
+    
+    Section 7(7): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Entitlement to register certain New Zealand-owned ships and other ships
     
@@ -605,9 +607,9 @@ Ships required or entitled to be registered
     
     *   (b) New Zealand-owned ships not exceeding 24 metres register length:
     
-    *   (ba) any ship that is jointly owned in equal proportions by a New Zealand citizen or New Zealand citizens and a person or persons (not being a New Zealand citizen or New Zealand citizens) who is or are entitled, in terms of the [Immigration Act 2009][123], to reside in New Zealand indefinitely:
+    *   (ba) any ship that is jointly owned in equal proportions by a New Zealand citizen or New Zealand citizens and a person or persons (not being a New Zealand citizen or New Zealand citizens) who is or are entitled, in terms of the [Immigration Act 2009][124], to reside in New Zealand indefinitely:
     
-    *   (c) any other ship, if a majority interest in the ship is owned by a person or persons (not being a New Zealand citizen or New Zealand citizens) who is or are entitled, in terms of the [Immigration Act 2009][123], to reside in New Zealand indefinitely.
+    *   (c) any other ship, if a majority interest in the ship is owned by a person or persons (not being a New Zealand citizen or New Zealand citizens) who is or are entitled, in terms of the [Immigration Act 2009][124], to reside in New Zealand indefinitely.
     
     (3) This section is subject to [section 9][11].
     
@@ -615,11 +617,11 @@ Ships required or entitled to be registered
     
     Section 8(2)(ba): inserted, on 1 February 1995, by [section 203][120] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 8(2)(ba): amended, at 2 am on 29 November 2010, by [section 406(1)][124] of the Immigration Act 2009 (2009 No 51).
+    Section 8(2)(ba): amended, at 2 am on 29 November 2010, by [section 406(1)][125] of the Immigration Act 2009 (2009 No 51).
     
-    Section 8(2)(c): amended, at 2 am on 29 November 2010, by [section 406(1)][124] of the Immigration Act 2009 (2009 No 51).
+    Section 8(2)(c): amended, at 2 am on 29 November 2010, by [section 406(1)][125] of the Immigration Act 2009 (2009 No 51).
     
-    Section 8(3): added, on 15 December 2005, by [section 3][125] of the Ship Registration Amendment Act 2005 (2005 No 114).
+    Section 8(3): added, on 15 December 2005, by [section 3][126] of the Ship Registration Amendment Act 2005 (2005 No 114).
 
 ##### 9 Foreign-registered ships not registrable under this Act
     
@@ -661,7 +663,7 @@ Ships required or entitled to be registered
     
     (2) A Customs officer shall not grant a certificate of clearance in respect of a ship that is about to depart from a New Zealand port to a place outside New Zealand in contravention of subsection (1).
     
-    (3) The master or owner of any ship commits an offence who causes or permits or fails to take reasonable steps to prevent a contravention of subsection (1), and is liable,---
+    (3) The master or owner of any ship commits an offence who causes or permits or fails to take reasonable steps to prevent a contravention of subsection (1), and is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $5,000; or
     
@@ -670,6 +672,8 @@ Ships required or entitled to be registered
     Compare: Shipping Registration Act 1981 s 68 (Aust)
     
     Section 11(2): amended, on 1 October 1996, by [section 289(1)][119] of the Customs and Excise Act 1996 (1996 No 27).
+    
+    Section 11(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Registration of ships
@@ -706,9 +710,11 @@ Registration of ships
     
     (4) For the purpose of determining whether a ship may properly be registered, the Registrar may require the applicant to furnish such supplementary information and evidence relating to the ship and its ownership as the Registrar thinks necessary.
     
-    (5) Every person commits an offence and is liable to a fine not exceeding $2,000 who makes any statement in an application for registration of a ship knowing that the statement is false in any material particular.
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who makes any statement in an application for registration of a ship knowing that the statement is false in any material particular.
     
     Compare: 1952 No 49 s 387; Shipping Registration Act 1981 s 15 (Aust)
+    
+    Section 12(5): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Declaration of ownership and nationality
     
@@ -768,7 +774,7 @@ Registration of ships
     
     (3) Every person who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship shall, within 21 days after the date on which the construction of the ship has been completed, deliver to the person for whom it has been constructed or any agent of that person a certificate specifying the particulars required by subsection (1)(a).
     
-    (4) Every person commits an offence and is liable to a fine not exceeding $2,000 who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship, and---
+    (4) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who constructs in New Zealand a ship that is required to be registered in Part A of the Register or any part of such a ship, and---
         
     *   (a) fails to comply with the requirements of subsection (3); or
     
@@ -776,7 +782,9 @@ Registration of ships
     
     Compare: 1952 No 49 s 387
     
-    Section 14(1)(b): amended, on 9 June 1999, by [section 3][126] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 14(1)(b): amended, on 9 June 1999, by [section 3][127] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    
+    Section 14(4): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Tonnage measurement of ship required before registration
     
@@ -852,7 +860,7 @@ Registration of ships
         
         
     
-    *   (h) is a name whose use is prohibited by or under any provision of the [Flags, Emblems, and Names Protection Act 1981][127] or any other enactment.
+    *   (h) is a name whose use is prohibited by or under any provision of the [Flags, Emblems, and Names Protection Act 1981][128] or any other enactment.
     
     (2) The Registrar may disallow any name registered or proposed to be registered in respect of any ship if the name contains any prefix that the Registrar considers to be unnecessary or undesirable.
     
@@ -872,17 +880,21 @@ Registration of ships
     
     *   (b) the owner of the ship shall alter the ship's markings so that it is marked with its new name or port of registry, as the case may be, as if it were being marked for registration under this Act.
     
-    (7) Every person commits an offence and is liable to a fine not exceeding $2,000 who fails to comply with subsection (6)(b).
+    (7) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to comply with subsection (6)(b).
     
-    (8) Every person commits an offence and is liable to a fine not exceeding $2,000 who describes a registered ship by any name other than the name by which the ship is for the time being registered, if the name is likely to mislead or deceive any person who has official business in relation to the ship under the provisions of this Act or any other enactment.
+    (8) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who describes a registered ship by any name other than the name by which the ship is for the time being registered, if the name is likely to mislead or deceive any person who has official business in relation to the ship under the provisions of this Act or any other enactment.
     
     (9) Nothing in subsection (1) applies in relation to the name under which any ship is deemed by [section 90][108] to be registered.
     
     Compare: 1952 No 49 ss 434, 435, 436; Shipping Registration Act 1981 ss 27(3), 28 (Aust)
+    
+    Section 16(7): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 16(8): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Appeals from decisions under section 16
     
-*   (1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)(a) of [section 16][128] may appeal to a District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
+*   (1) Any person who is dissatisfied with a decision of the Registrar under subsection (1) or subsection (2) or subsection (5)(a) of [section 16][129] may appeal to a District Court within 21 days after being notified of that decision, or within such further time as the court may allow.
     
     (2) On hearing the appeal, the court may, subject to subsection (3), confirm the decision or give such directions or make such other determination in the matter as the court thinks fit.
     
@@ -954,7 +966,7 @@ Registration of ships
     
     (9) Every owner or master of a ship commits an offence who, in relation to any marking that is on a registered ship in the manner prescribed, fails to maintain any such marking.
     
-    (10) Every person who commits an offence against subsection (8) or subsection (9) is liable,---
+    (10) Every person who commits an offence against subsection (8) or subsection (9) is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $2,000; or
     
@@ -969,6 +981,8 @@ Registration of ships
     Section 19(6): repealed, on 1 February 1995, by [section 203][120] of the Maritime Transport Act 1994 (1994 No 104).
     
     Section 19(7): amended, on 1 February 1995, by [section 203][120] of the Maritime Transport Act 1994 (1994 No 104).
+    
+    Section 19(10): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 20 Entry of particulars in Part A of Register
     
@@ -1088,7 +1102,7 @@ Registration of ships
     
     *   (c) if the corporation has neither a registered office nor a principal place of business in New Zealand, it must state the address of its principal place of business outside New Zealand.
     
-    Section 21(6): added, on 9 June 1999, by [section 4][129] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 21(6): added, on 9 June 1999, by [section 4][130] of the Ship Registration Amendment Act 1999 (1999 No 67).
 
 ##### 22 Registration of property in ships
     
@@ -1160,7 +1174,7 @@ Registration of ships
     
     *   (b) the Registrar, a Deputy Registrar, a Customs officer, a proper officer, or any other person entitled by law to require its delivery.
     
-    (3) Every person commits an offence and is liable to a fine not exceeding $5,000 who---
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who---
         
     *   (a) fails to comply with subsection (2); or
     
@@ -1171,6 +1185,8 @@ Registration of ships
     Compare: 1952 No 49 s 394(2)--(5); Shipping Registration Act 1981 s 20 (Aust)
     
     Section 25(2)(b): amended, on 1 October 1996, by [section 289(1)][119] of the Customs and Excise Act 1996 (1996 No 27).
+    
+    Section 25(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Replacement certificates
     
@@ -1222,11 +1238,13 @@ Registration of ships
     
     (2) The owner of a ship in respect of which a provisional certificate of registry or a provisional certificate of registration is granted shall, as soon as practicable, lodge the certificate or cause it to be lodged with the Registrar.
     
-    (3) Every owner commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (2).
+    (3) Every owner commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (2).
     
     (4) During the period of its currency, a provisional certificate of registry has the same effect as a certificate of registry and a provisional certificate of registration has the same effect as a certificate of registration, and, for the purposes of this Act and of the lawful navigation of the ship concerned, the ship is deemed to be registered during that period.
     
     Compare: 1952 No 49 ss 396(4)--(7), 401(2), (3); Shipping Registration Act 1981 ss 21(3)--(8), 22 (Aust)
+    
+    Section 28(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Temporary passes
     
@@ -1250,9 +1268,11 @@ Registration of ships
     
     (4) The owner of a ship in respect of which a temporary pass is granted shall, as soon as practicable after the pass expires, lodge the pass or cause it to be lodged with the Registrar.
     
-    (5) Every owner commits an offence and is liable to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (4).
+    (5) Every owner commits an offence and is liable on conviction to a fine not exceeding $2,000 who, without reasonable excuse, fails to comply with subsection (4).
     
     Compare: 1952 No 49 s 402; Shipping Registration Act 1981 s 23 (Aust)
+    
+    Section 29(5): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Alterations to ships, changes in ownership, etc, to be notified to Registrar
 
@@ -1280,13 +1300,15 @@ Registration of ships
     
     *   (b) the proper officer shall send the ship's certificate of registry to the Registrar to enable a new certificate of registry to be issued.
     
-    (4) Every owner and every representative person commits an offence and is liable to a fine not exceeding $5,000 who fails to comply with subsection (1).
+    (4) Every owner and every representative person commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with subsection (1).
     
     (5) In this section, _surveyor_ means a surveyor of ships recognised by the Director.
     
     Compare: 1952 No 49 ss 403, 404; Shipping Registration Act 1981 s 65 (Aust)
     
-    Section 30(5): added, on 9 June 1999, by [section 5][130] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 30(4): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 30(5): added, on 9 June 1999, by [section 5][131] of the Ship Registration Amendment Act 1999 (1999 No 67).
 
 ##### 31 Change of name or address or nationality of owner or mortgagee
     
@@ -1346,13 +1368,15 @@ Registration of ships
     
     *   (c) an entry made under paragraph (a) has the same effect as an entry made under subsection (2).
     
-    (4) For the purposes of subsection (1), a ship shall be deemed to be constructively lost if there is in respect of that ship a constructive total loss within the meaning of [section 60][131] of the Marine Insurance Act 1908\.
+    (4) For the purposes of subsection (1), a ship shall be deemed to be constructively lost if there is in respect of that ship a constructive total loss within the meaning of [section 60][132] of the Marine Insurance Act 1908\.
     
-    (5) Every owner of a registered ship commits an offence and is liable to a fine not exceeding $5,000 who fails to comply with subsection (1).
+    (5) Every owner of a registered ship commits an offence and is liable on conviction to a fine not exceeding $5,000 who fails to comply with subsection (1).
     
     Compare: 1952 No 49 s 399; Shipping Registration Act 1981 s 66 (Aust)
     
-    Section 32(3A): inserted, on 9 June 1999, by [section 6][132] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 32(3A): inserted, on 9 June 1999, by [section 6][133] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    
+    Section 32(5): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Rights of mortgagees where ship ceases to be registrable
     
@@ -1405,9 +1429,11 @@ Transfers, transmissions, and mortgages of ships
     
     (3) The transferee of any bill of sale made under this section shall lodge the bill of sale with the Registrar within 3 months after the date on which the transfer takes effect, and bills of sale lodged under this section shall be registered in the order of their lodgment.
     
-    (4) Every transferee commits an offence and is liable to a fine not exceeding $2,000 who fails to lodge a bill of sale in accordance with subsection (3).
+    (4) Every transferee commits an offence and is liable on conviction to a fine not exceeding $2,000 who fails to lodge a bill of sale in accordance with subsection (3).
     
     Compare: 1952 No 49 ss 412, 413; Shipping Registration Act 1981 s 36(1), (2), (5) (Aust)
+    
+    Section 35(4): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Transmission of ship or share in ship by operation of law
     
@@ -1495,7 +1521,7 @@ Transfers, transmissions, and mortgages of ships
     
     (4) A memorandum varying the terms or conditions of any mortgage of a ship subject to a subsequent mortgage shall not be binding on any mortgagee unless the mortgagee has consented thereto in writing on that memorandum, but that consent shall render the said memorandum binding on the mortgagee so consenting, and shall be deemed to be notice to and shall be binding on all persons who may subsequently derive from the mortgagee any interest in the mortgaged property.
     
-    Compare: 1952 No 52 [s 102][133]
+    Compare: 1952 No 52 [s 102][134]
 
 ##### 42 Variation of priority of mortgages
     
@@ -1507,7 +1533,7 @@ Transfers, transmissions, and mortgages of ships
     
     (4) Upon the registration of a memorandum of priority the Registrar shall record it upon the register and upon any relevant instrument of title.
     
-    Compare: 1952 No 52 [s 103][134]
+    Compare: 1952 No 52 [s 103][135]
 
 ##### 43 Transfer of mortgage
     
@@ -1549,7 +1575,7 @@ Transfers, transmissions, and mortgages of ships
     
     (3) On an entry being made under this section, any interest of the mortgagee under the mortgage vests in the person in whom, having regard to any relevant statutory provisions or intervening acts and circumstances, it would have been vested if the mortgage had not been made.
     
-    Section 45: substituted, on 9 June 1999, by [section 7][135] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 45: substituted, on 9 June 1999, by [section 7][136] of the Ship Registration Amendment Act 1999 (1999 No 67).
 
 #### General matters relating to ownership, mortgages, and other interests
 
@@ -1579,7 +1605,7 @@ Transfers, transmissions, and mortgages of ships
     
     (2) Nothing in subsection (1) prevents the registration of a ship that---
         
-    *   (a) is owned by a body corporate incorporated under the [Charitable Trusts Act 1957][136]; or
+    *   (a) is owned by a body corporate incorporated under the [Charitable Trusts Act 1957][137]; or
     
     *   (b) is subject to a mortgage under which such a body corporate is the mortgagee.
     
@@ -1633,7 +1659,7 @@ Transfers, transmissions, and mortgages of ships
     
     Compare: Shipping Registration Act 1981 s 47A (Aust)
     
-    Section 51(6)(c): amended, on 3 December 2007, by [section 445][137] of the Insolvency Act 2006 (2006 No 55).
+    Section 51(6)(c): amended, on 3 December 2007, by [section 445][138] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 52 Notice of caveat
     
@@ -1649,7 +1675,7 @@ Transfers, transmissions, and mortgages of ships
     
     (3) The court may, upon proof that notice of the application has been served on the caveator or the caveator's solicitor or agent, make such order, either _ex parte_ or otherwise, as the court thinks fit.
     
-    Compare: 1952 No 52 [s 143][138]; Shipping Registration Act 1981 s 47B(2), (3) (Aust)
+    Compare: 1952 No 52 [s 143][139]; Shipping Registration Act 1981 s 47B(2), (3) (Aust)
 
 ##### 54 When caveat to lapse
     
@@ -1710,13 +1736,15 @@ Nationality and national colours
     
     (4) Subsection (3)(c) applies only to ships registered under [section 6(1)][8] and ships (other than barges) registered under [section 8(1)][10].
     
-    (5) The master of any New Zealand ship required or entitled to fly the New Zealand national colours commits an offence and is liable to a fine not exceeding $5,000 if the ship---
+    (5) The master of any New Zealand ship required or entitled to fly the New Zealand national colours commits an offence and is liable on conviction to a fine not exceeding $5,000 if the ship---
         
     *   (a) fails to comply with any provision of subsection (3); or
     
     *   (b) flies national colours other than those specified in respect of the ship by this section.
     
     Compare: 1952 No 49 ss 5, 6; Shipping Registration Act 1981 s 30 (Aust)
+    
+    Section 58(5): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58A Flags authorised under prerogative
     
@@ -1728,7 +1756,7 @@ Nationality and national colours
     
     (2) Where any New Zealand ship is entitled to fly any flag in accordance with an authority given by the Sovereign or the Governor-General, that flag is the appropriate national colour for that ship and subsections (3), (4), and (5)(a) of [section 58][69] apply with any necessary modifications.
     
-    Section 58A: inserted, on 7 May 1999, by [section 2][139] of the Ship Registration Amendment Act 1999 (1999 No 46).
+    Section 58A: inserted, on 7 May 1999, by [section 2][140] of the Ship Registration Amendment Act 1999 (1999 No 46).
 
 ##### 59 Declaration of ship's nationality before Customs clearance
     
@@ -1754,18 +1782,20 @@ Nationality and national colours
     
     *   (c) causing the ship to appear not to be a New Zealand ship.
     
-    (3) Every master or owner who commits an offence against subsection (1) or subsection (2) is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000; and the ship in respect of which the offence has been committed is liable to forfeiture under this Act.
+    (3) Every master or owner who commits an offence against subsection (1) or subsection (2) is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000; and the ship in respect of which the offence has been committed is liable on conviction to forfeiture under this Act.
     
     (4) In any prosecution for an offence against subsection (1) or subsection (2), it is a defence if the defendant proves that the purpose of the conduct specified in the charge was to escape capture by an enemy.
     
     Compare: 1952 No 49 ss 438, 439; Shipping Registration Act 1981 ss 32, 33 (Aust)
+    
+    Section 60(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Administration
 
 ##### 61 Registrar of Ships
     
-*   (1) There shall from time to time be appointed under the [State Sector Act 1988][140] a Registrar of Ships.
+*   (1) There shall from time to time be appointed under the [State Sector Act 1988][141] a Registrar of Ships.
     
     (2) The Registrar shall be responsible for maintaining the New Zealand Register of Ships, and shall have such functions, responsibilities, and duties as are conferred on the Registrar by this Act or any other enactment.
     
@@ -1775,7 +1805,7 @@ Administration
 
 ##### 62 Deputy Registrars of Ships
     
-*   (1) There may also from time to time be appointed under the [State Sector Act 1988][140] suitable persons to be Deputy Registrars of Ships.
+*   (1) There may also from time to time be appointed under the [State Sector Act 1988][141] suitable persons to be Deputy Registrars of Ships.
     
     (2) Unless the Registrar otherwise directs in the case of any Deputy Registrar, every Deputy Registrar shall have and may exercise all the functions, duties, and powers of the Registrar.
     
@@ -1948,19 +1978,21 @@ Miscellaneous provisions
     
     (2) A Customs officer shall not grant a certificate of clearance in respect of a ship that is detained under this Act.
     
-    (3) The master or owner of any ship detained under this Act commits an offence and is liable to a fine not exceeding $5,000 who causes or permits that ship to go to sea or fails to take reasonable steps to prevent that ship going to sea, before it is released from detention by a competent authority.
+    (3) The master or owner of any ship detained under this Act commits an offence and is liable on conviction to a fine not exceeding $5,000 who causes or permits that ship to go to sea or fails to take reasonable steps to prevent that ship going to sea, before it is released from detention by a competent authority.
     
-    (4) The provisions of the [Maritime Transport Act 1994][117] shall, with any necessary modifications, apply in relation to any ship detained under this section as if it were a ship detained under [section 55][141] of that Act.
+    (4) The provisions of the [Maritime Transport Act 1994][117] shall, with any necessary modifications, apply in relation to any ship detained under this section as if it were a ship detained under [section 55][142] of that Act.
     
     Compare: 1952 No 49 s 490; Shipping Registration Act 1981 s 71 (Aust)
     
     Section 71(1): substituted, on 1 February 1995, by [section 203][120] of the Maritime Transport Act 1994 (1994 No 104).
     
-    Section 71(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][142] of the Policing Act 2008 (2008 No 72).
+    Section 71(1)(b): amended, on 1 October 2008, pursuant to [section 116(a)(iii)][143] of the Policing Act 2008 (2008 No 72).
     
     Section 71(1)(c): substituted, on 1 October 1996, pursuant to [section 289(1)][119] of the Customs and Excise Act 1996 (1996 No 27).
     
     Section 71(2): amended, on 1 October 1996, by [section 289(1)][119] of the Customs and Excise Act 1996 (1996 No 27).
+    
+    Section 71(3): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 71(4): substituted, on 1 February 1995, by [section 203][120] of the Maritime Transport Act 1994 (1994 No 104).
 
@@ -1988,9 +2020,9 @@ Miscellaneous provisions
 
 ##### 74 False statements
     
-*   (1) Every person commits an offence and is liable to a fine not exceeding $5,000 who makes or presents to an officer having duties and functions under this Act any oral or written statement, knowing that statement to be false or misleading in any material particular.
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who makes or presents to an officer having duties and functions under this Act any oral or written statement, knowing that statement to be false or misleading in any material particular.
     
-    (2) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who, by means of a statement or document that the person knows to be, or to contain information that is, false or misleading in any material particular, causes or attempts to cause an officer to do or refrain from doing any act or thing in the performance or exercise of that officer's duties, functions, or powers under this Act.
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who, by means of a statement or document that the person knows to be, or to contain information that is, false or misleading in any material particular, causes or attempts to cause an officer to do or refrain from doing any act or thing in the performance or exercise of that officer's duties, functions, or powers under this Act.
     
     (3) For the purposes of the application of this section in relation to a body corporate, but without prejudice to the liability of any person other than the body corporate,---
         
@@ -1999,18 +2031,26 @@ Miscellaneous provisions
     *   (b) the knowledge of any person employed by or concerned in the management of the body corporate shall be deemed to be knowledge of the body corporate.
     
     Compare: 1952 No 49 s 457(2)(a); Shipping Registration Act 1981 s 73 (Aust)
+    
+    Section 74(1): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 74(2): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 75 Making false documents, etc
     
-*   (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who---
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 who---
         
     *   (a) makes any register book, certificate, bill of sale, instrument of mortgage, or other document under this Act, knowing the same to be false or misleading in any material particular; or
     
     *   (b) forges or fraudulently alters any such document, or assists any other person to do so, or procures the forgery or fraudulent alteration of any such document.
     
-    (2) Every person commits an offence and is liable to a fine not exceeding $5,000 who prints, sells, or uses any document purporting to be a form prescribed by the Minister, knowing that the document is not in fact a form that is for the time being prescribed by the Minister.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who prints, sells, or uses any document purporting to be a form prescribed by the Minister, knowing that the document is not in fact a form that is for the time being prescribed by the Minister.
     
     Compare: 1952 No 49 s 503; 1987 No 184 s 25(1)
+    
+    Section 75(1): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 75(2): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 76 Liability of directors and officers of bodies corporate
     
@@ -2020,7 +2060,9 @@ Miscellaneous provisions
 
 ##### 77 Offences to be punishable on summary conviction
     
-*   Every offence against this Act shall be punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 77: repealed, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Proceedings for offences
     
@@ -2028,9 +2070,11 @@ Miscellaneous provisions
         
     *   (a) the offence may be treated as having been committed either at the place at which it was actually committed or at any place in which the offender may be:
     
-    *   (b) the period of 6 months referred to in [section 14][143] of the Summary Proceedings Act 1957 for the laying of an information shall not run while the person charged (or to be charged) is beyond the territorial limits of New Zealand.
+    *   (b) The applicable limitation period referred to in [section 25][144] of the Criminal Procedure Act 2011 for the filing of a charging document shall not run while the person charged (or to be charged) is beyond the territorial limits of New Zealand.
     
     Compare: 1952 No 49 ss 481(1), 483
+    
+    Section 78(b): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 Service of documents
     
@@ -2054,9 +2098,11 @@ Miscellaneous provisions
         
         
     
-    (2) Every person commits an offence and is liable to a fine not exceeding $5,000, who obstructs the service of any document under this Act; and the owner or master of the ship commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 if the owner or master is a party to the obstruction.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000, who obstructs the service of any document under this Act; and the owner or master of the ship commits an offence and is liable to imprisonment for a term not exceeding 2 years or to a fine not exceeding $10,000 if the owner or master is a party to the obstruction.
     
     Compare: 1952 No 49 s 498
+    
+    Section 79(2): amended, on 1 July 2013, by [section 413][123] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Admissibility of documents in evidence
     
@@ -2098,7 +2144,7 @@ Miscellaneous provisions
     
     *   (e) in the case of forfeiture of a ship, to furnish the Registrar with the order of a court directing that the ship be forfeit or an office copy of the order, or such particulars as the Registrar may reasonably require for the purposes of this section.
     
-    Section 81: substituted, on 9 June 1999, by [section 8][144] of the Ship Registration Amendment Act 1999 (1999 No 67).
+    Section 81: substituted, on 9 June 1999, by [section 8][145] of the Ship Registration Amendment Act 1999 (1999 No 67).
 
 ##### 82 Power of Registrar to dispense with declarations and other evidence, etc
     
@@ -2110,11 +2156,11 @@ Miscellaneous provisions
 
 ##### 83 Mode of making declarations
     
-*   (1) Declarations required by this Act shall, when made in New Zealand, be made before any person before whom a declaration may be made under [section 9][145] of the Oaths and Declarations Act 1957 or before any Registrar of Ships.
+*   (1) Declarations required by this Act shall, when made in New Zealand, be made before any person before whom a declaration may be made under [section 9][146] of the Oaths and Declarations Act 1957 or before any Registrar of Ships.
     
     (2) Declarations required by this Act shall, when made out of New Zealand, be made---
         
-    *   (a) before any person before whom a declaration may be made outside New Zealand under [section 11][146] of the Oaths and Declarations Act 1957; or
+    *   (a) before any person before whom a declaration may be made outside New Zealand under [section 11][147] of the Oaths and Declarations Act 1957; or
     
     *   (b) before a proper officer.
     
@@ -2222,11 +2268,11 @@ Miscellaneous provisions
 
 ##### 88 Repeals and amendments
     
-*   (1) The enactments specified in [Part 1][147] of the Schedule are hereby repealed.
+*   (1) The enactments specified in [Part 1][148] of the Schedule are hereby repealed.
     
-    (2) The enactments specified in [Part 2][148] of the Schedule are hereby amended in the manner indicated in that Part.
+    (2) The enactments specified in [Part 2][149] of the Schedule are hereby amended in the manner indicated in that Part.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][149]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][150]_.
 
 ##### 89 Revocations
     
@@ -2244,7 +2290,7 @@ Miscellaneous provisions
     
     *   (f) the Bay of Plenty Harbour Board Flag Regulations 1986 (SR 1986/323).
     
-    (2) As from the commencement of this Act, the [Merchant Shipping (Registration of New Zealand Government Ships) Order 1946][150] (SR 1946/174) shall cease to be part of the law of New Zealand.
+    (2) As from the commencement of this Act, the [Merchant Shipping (Registration of New Zealand Government Ships) Order 1946][151] (SR 1946/174) shall cease to be part of the law of New Zealand.
     
     (3) The following exemptions granted by the Minister of Marine under section 308(5) of the Shipping and Seamen Act 1908 are hereby revoked:
         
@@ -2395,15 +2441,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][127]._
+_Amendment(s) incorporated in the [Act(s)][128]._
 
 ##### Imperial Laws Application Act 1988 (1988 No 112)
 
-_Amendment(s) incorporated in the [Act(s)][151]._
+_Amendment(s) incorporated in the [Act(s)][152]._
 
 ##### Shipping Act 1987 (1987 No 183)
 
-_Amendment(s) incorporated in the [Act(s)][152]._
+_Amendment(s) incorporated in the [Act(s)][153]._
 
 ##### Shipping and Seamen Act 1952 (1952 No 49)
 
@@ -2411,7 +2457,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1940 (1940 No 18) (RS Vol 15, p 79)
 
-_Amendment(s) incorporated in the [Act(s)][153]._
+_Amendment(s) incorporated in the [Act(s)][154]._
 
 ---
 
@@ -2429,23 +2475,23 @@ _Amendment(s) incorporated in the [Act(s)][153]._
 
 ###### 1 General
     
-*   This is a reprint of the Ship Registration Act 1992\. The reprint incorporates all the amendments to the Act as at 29 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Ship Registration Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][154] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][155] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][155] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][156] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][156] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][157] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][157] and [17E][158] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][158] and [17E][159] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2476,19 +2522,21 @@ _Amendment(s) incorporated in the [Act(s)][153]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Immigration Act 2009 (2009 No 51): [section 406(1)][124]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][123]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(iii)][142]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][125]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][137]
+    Policing Act 2008 (2008 No 72): [section 116(a)(iii)][143]
     
-    [Ship Registration Amendment Act 2005][159] (2005 No 114)
+    Insolvency Act 2006 (2006 No 55): [section 445][138]
+    
+    [Ship Registration Amendment Act 2005][160] (2005 No 114)
     
     Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][121]
     
     Ship Registration Amendment Act 1999 (1999 No 67)
     
-    [Ship Registration Amendment Act 1999][160] (1999 No 46)
+    [Ship Registration Amendment Act 1999][161] (1999 No 46)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][119]
     
@@ -2621,41 +2669,42 @@ _Amendment(s) incorporated in the [Act(s)][153]._
 [120]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM336920
 [121]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM322600
 [122]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30532
-[123]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1440300
-[124]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1441347
-[125]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM362612
-[126]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30533
-[127]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM51357
-[128]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM275026
-[129]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30534
-[130]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30535
-[131]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM171270
-[132]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30536
-[133]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM270696
-[134]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM271000
-[135]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30537
-[136]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM308795
-[137]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM387857
-[138]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM271247
-[139]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM24778
-[140]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM129109
-[141]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM335734
-[142]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1102349
-[143]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM311191
-[144]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30538
-[145]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM314584
-[146]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM316109
-[147]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM276685
-[148]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM276686
-[149]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM314314
-[150]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1595
-[151]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM135603
-[152]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM125302
-[153]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM229681
-[154]: http://www.pco.parliament.govt.nz/reprints/
-[155]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195439
-[156]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[157]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195468
-[158]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195470
-[159]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM362606
-[160]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM24772
+[123]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM3360714
+[124]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1440300
+[125]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1441347
+[126]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM362612
+[127]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30533
+[128]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM51357
+[129]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM275026
+[130]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30534
+[131]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30535
+[132]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM171270
+[133]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30536
+[134]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM270696
+[135]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM271000
+[136]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30537
+[137]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM308795
+[138]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM387857
+[139]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM271247
+[140]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM24778
+[141]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM129109
+[142]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM335734
+[143]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1102349
+[144]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM3360067
+[145]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM30538
+[146]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM314584
+[147]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM316109
+[148]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM276685
+[149]: http://www.legislation.govt.nz/act/public/1992/0089/latest/whole.html#DLM276686
+[150]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM314314
+[151]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM1595
+[152]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM135603
+[153]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM125302
+[154]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM229681
+[155]: http://www.pco.parliament.govt.nz/reprints/
+[156]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195439
+[157]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[158]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195468
+[159]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM195470
+[160]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM362606
+[161]: http://www.legislation.govt.nz/act/public/1992/0089/latest/link.aspx?id=DLM24772
