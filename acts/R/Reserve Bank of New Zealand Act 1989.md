@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 4 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Reserve Bank of New Zealand.
 
@@ -23,9 +23,7 @@ This Act is administered by the Reserve Bank of New Zealand.
 
 ## Contents
 
-[Title][1]
-
-\[Repealed\]
+[Title][1] \[Repealed\]
 
 [1][2][][2][Short Title and commencement][2]
 
@@ -844,7 +842,7 @@ This Act is administered by the Reserve Bank of New Zealand.
 
 [176][400][][400][Penalties for offences][400]
 
-[177][401][][401][Time limit for prosecutions][401]
+[177][401][][401][Time for filing charging document][401]
 
 [178][402][][402][Evidence][402]
 
@@ -894,9 +892,7 @@ This Act is administered by the Reserve Bank of New Zealand.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 10 September 2008, by [section 4][422] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
@@ -1560,21 +1556,23 @@ Functions and powers of Reserve Bank
     
     that bank note.
     
-    (3) Every person who contravenes subsection (1) or subsection (2) commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000\.
+    (3) Every person who contravenes subsection (1) or subsection (2) commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000\.
     
     Compare: 1964 No 134 s 23
+    
+    Section 28(3): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 29 Making or issuing of other bank notes or coins
     
 *   (1) No person shall make or issue any bank note or coin, other than a bank note or coin issued under this Act.
     
-    (2) Every person who contravenes subsection (1) commits an offence against this Act and shall be liable on conviction on indictment,---
+    (2) Every person who contravenes subsection (1) commits an offence against this Act and shall be liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $100,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $300,000\.
     
-    
+    Section 29(2): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 30 Reproduction or imitation of currency
     
@@ -1618,11 +1616,11 @@ Functions and powers of Reserve Bank
     
     (3) The Bank may also provide advice to the Minister, at any time, on any matters or subjects within the responsibility of the Bank.
     
-    Section 33: substituted, on 10 September 2008, by [section 9][451] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 33: substituted, on 10 September 2008, by [section 9][452] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 34 Government banking business
     
-*   (1) Subject to the [Public Finance Act 1989][452], the Bank may, in accordance with an agreement with the Minister, undertake all or part of the banking business of the Government.
+*   (1) Subject to the [Public Finance Act 1989][453], the Bank may, in accordance with an agreement with the Minister, undertake all or part of the banking business of the Government.
     
     (2) Any such agreement may provide for the Bank to charge for the provision of banking services.
     
@@ -1656,7 +1654,7 @@ Functions and powers of Reserve Bank
     
     Compare: 1964 No 134 s 38H(1), (2), (4)--(6); 1986 No 131 s 10
     
-    Section 36(6): added, on 10 September 2008, by [section 10][453] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 36(6): added, on 10 September 2008, by [section 10][454] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 37 Failure to supply information
     
@@ -1678,7 +1676,7 @@ Functions and powers of Reserve Bank
 
 ##### 39 Powers
     
-*   Without limiting [section 5][8] or any other provision of this Act or the [Insurance (Prudential Supervision) Act 2010][454], the Bank has power, whether in New Zealand or elsewhere, to---
+*   Without limiting [section 5][8] or any other provision of this Act or the [Insurance (Prudential Supervision) Act 2010][455], the Bank has power, whether in New Zealand or elsewhere, to---
         
     *   (a) carry on the business of banking:
     
@@ -1711,15 +1709,15 @@ Management of Reserve Bank
         
     *   (a) this Act; and
     
-    *   (b) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][455]; and
+    *   (b) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][456]; and
     
-    *   (c) the [Insurance (Prudential Supervision) Act 2010][454].
+    *   (c) the [Insurance (Prudential Supervision) Act 2010][455].
     
     (2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act, or either of the following Acts, required to be dealt with by the Board:
         
-    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][455]:
+    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][456]:
     
-    *   (b) the [Insurance (Prudential Supervision) Act 2010][454].
+    *   (b) the [Insurance (Prudential Supervision) Act 2010][455].
     
     Section 41: substituted, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
@@ -1765,7 +1763,7 @@ Management of Reserve Bank
     
     *   (c) is 70 years of age or over; or
     
-    *   (d) is a chief executive of a Government department or an employee of a Government department, appointed under the [State Sector Act 1988][456]; or
+    *   (d) is a chief executive of a Government department or an employee of a Government department, appointed under the [State Sector Act 1988][457]; or
     
     *   (e) is a bankrupt who has not obtained a final order of discharge, or whose order of discharge has been suspended for a term not yet expired, or is subject to a condition not yet fulfilled; or
     
@@ -1777,7 +1775,7 @@ Management of Reserve Bank
     
     *   (i) \[Repealed\]
     
-    *   (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][424], or the [Securities Act 1978][457], or the [Securities Markets Act 1988][458], or the [Takeovers Act 1993][459].
+    *   (j) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][424], or the [Securities Act 1978][458], or the [Securities Markets Act 1988][459], or the [Takeovers Act 1993][460].
     
     *   (k) \[Repealed\]
     
@@ -1785,19 +1783,19 @@ Management of Reserve Bank
     
     Section 46(1)(b): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 46(1)(b): amended, on 10 September 2008, by [section 11][460] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 46(1)(b): amended, on 10 September 2008, by [section 11][461] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 46(1)(d): amended, on 25 January 2005, by [section 19(1)][461] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
+    Section 46(1)(d): amended, on 25 January 2005, by [section 19(1)][462] of the State Sector Amendment Act (No 2) 2004 (2004 No 114).
     
     Section 46(1)(h): substituted, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 46(1)(i): repealed, on 25 October 2006, by [section 25][462] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 46(1)(i): repealed, on 25 October 2006, by [section 25][463] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 46(1)(j): substituted, on 25 October 2006, by [section 25][462] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 46(1)(j): substituted, on 25 October 2006, by [section 25][463] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 46(1)(j): amended, on 10 September 2008, by [section 15(2)][463] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 46(1)(j): amended, on 10 September 2008, by [section 15(2)][464] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
     
-    Section 46(1)(k): repealed, on 10 September 2008, by [section 15(3)][463] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 46(1)(k): repealed, on 10 September 2008, by [section 15(3)][464] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 47 Incapacity of Governor and Deputy Chief Executive
     
@@ -1829,7 +1827,7 @@ Management of Reserve Bank
     
     Compare: 1964 No 134 s 18(2), (6), (7)
     
-    Section 47(5): substituted, on 21 August 2003, by [section 4][464] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 47(5): substituted, on 21 August 2003, by [section 4][465] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 48 Vacancy in office of Governor
     
@@ -1887,7 +1885,7 @@ Management of Reserve Bank
     
     Section 49(2)(h)(iii): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 49(2)(h)(iii): amended, on 10 September 2008, by [section 12][465] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 49(2)(h)(iii): amended, on 10 September 2008, by [section 12][466] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 50 Removal of Deputy Governor from office by Order in Council
     
@@ -1915,11 +1913,11 @@ Management of Reserve Bank
     
     (3) If a person who holds office as the Deputy Governor or as a Deputy Governor is removed from office under this section, that person shall, unless that person's conditions of employment provide for that person to cease to be employed as an officer of the Bank in the event of removal from office of Deputy Governor under this section, continue to be employed by the Bank.
     
-    Section 50(2)(a): repealed, on 21 August 2003, by [section 5][466] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 50(2)(a): repealed, on 21 August 2003, by [section 5][467] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 50(2)(d)(iii): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 50(2)(d)(iii): amended, on 10 September 2008, by [section 13][467] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 50(2)(d)(iii): amended, on 10 September 2008, by [section 13][468] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 51 Delegation
     
@@ -1937,9 +1935,9 @@ Management of Reserve Bank
     
     (5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under either of the following Acts, and not by delegation:
         
-    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][455]:
+    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][456]:
     
-    *   (b) the [Insurance (Prudential Supervision) Act 2010][454].
+    *   (b) the [Insurance (Prudential Supervision) Act 2010][455].
     
     (6) A delegation under this section may be revoked at any time.
     
@@ -1949,9 +1947,9 @@ Management of Reserve Bank
     
     (9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the following Acts:
         
-    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][455]:
+    *   (a) the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][456]:
     
-    *   (b) the [Insurance (Prudential Supervision) Act 2010][454].
+    *   (b) the [Insurance (Prudential Supervision) Act 2010][455].
     
     Compare: 1964 No 134 s 18(3), (4)
     
@@ -2017,11 +2015,11 @@ Management of Reserve Bank
     
     the Board shall advise the Minister in writing and may recommend to the Minister that the Governor be removed from office.
     
-    Section 53(1)(a): substituted, on 10 September 2008, by [section 14(1)][468] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 53(1)(a): substituted, on 10 September 2008, by [section 14(1)][469] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
     Section 53(3)(f)(iii): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
-    Section 53(3)(f)(iii): amended, on 10 September 2008, by [section 14(2)][468] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 53(3)(f)(iii): amended, on 10 September 2008, by [section 14(2)][469] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 53A Board must prepare annual report
     
@@ -2035,7 +2033,7 @@ Management of Reserve Bank
     
     (3) The report stands referred, by virtue of this section, to the House of Representatives.
     
-    Section 53A: inserted, on 21 August 2003, by [section 6][469] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 53A: inserted, on 21 August 2003, by [section 6][470] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 53A(3): substituted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
 
@@ -2061,7 +2059,7 @@ Management of Reserve Bank
     
     (5) Subsection (3) is subject to [sections 47][58] and [48][59].
     
-    Section 54: substituted, on 21 August 2003, by [section 7][470] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 54: substituted, on 21 August 2003, by [section 7][471] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 55 Term of office of non-executive directors
     
@@ -2115,7 +2113,7 @@ Management of Reserve Bank
     
     *   (g) \[Repealed\]
     
-    *   (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][424], or the [Securities Act 1978][457], or the [Securities Markets Act 1988][458], or the [Takeovers Act 1993][459].
+    *   (h) is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the [Companies Act 1993][424], or the [Securities Act 1978][458], or the [Securities Markets Act 1988][459], or the [Takeovers Act 1993][460].
     
     *   (i) \[Repealed\]
     
@@ -2125,11 +2123,11 @@ Management of Reserve Bank
     
     Section 58(f): substituted, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
-    Section 58(g): repealed, on 25 October 2006, by [section 25][462] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 58(g): repealed, on 25 October 2006, by [section 25][463] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 58(h): substituted, on 25 October 2006, by [section 25][462] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 58(h): substituted, on 25 October 2006, by [section 25][463] of the Securities Amendment Act 2006 (2006 No 46).
     
-    Section 58(i): repealed, on 10 September 2008, by [section 15(4)][463] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
+    Section 58(i): repealed, on 10 September 2008, by [section 15(4)][464] of the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64).
 
 ##### 59 Removal from office of non-executive directors
     
@@ -2167,7 +2165,7 @@ Management of Reserve Bank
     
     (4) A vacancy in the office of chairperson must be filled as soon as practicable in the manner set out in subsection (1).
     
-    Section 59A: inserted, on 21 August 2003, by [section 8][471] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 59A: inserted, on 21 August 2003, by [section 8][472] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 60 Meetings of Board
     
@@ -2183,7 +2181,7 @@ Management of Reserve Bank
     
     (6) Subject to this Act, the Board may regulate its own procedure.
     
-    Section 60: substituted, on 21 August 2003, by [section 9][472] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 60: substituted, on 21 August 2003, by [section 9][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 60A Teleconference meeting
     
@@ -2197,7 +2195,7 @@ Management of Reserve Bank
     
     *   (d) the resolution is assented to by a majority of the directors participating in the conference.
     
-    Section 60A: inserted, on 21 August 2003, by [section 9][472] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 60A: inserted, on 21 August 2003, by [section 9][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 60B Directors to be notified of meetings
     
@@ -2219,7 +2217,7 @@ Management of Reserve Bank
     
     (5) For the purposes of subsection (1), it is enough if the person or persons calling a meeting made all reasonable efforts to ensure each director was given the notice by the time required under that subsection.
     
-    Section 60B: inserted, on 21 August 2003, by [section 9][472] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 60B: inserted, on 21 August 2003, by [section 9][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 60C Who presides at meetings of Board
     
@@ -2235,7 +2233,7 @@ Management of Reserve Bank
     
     (3) The person appointed under subsection (2) has and may exercise all the powers, duties, and functions of the chairperson for the purposes of that meeting.
     
-    Section 60C: inserted, on 21 August 2003, by [section 9][472] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 60C: inserted, on 21 August 2003, by [section 9][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 61 Directors to disclose interests
     
@@ -2288,11 +2286,11 @@ Management of Reserve Bank
 ## Part 4  
 Use of words 'bank', 'banker', and 'banking'
     
-*   Part 4: substituted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Part 4: substituted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Limit on use of restricted words in name or title
     
-*   Heading: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 64 Limit on use of restricted words in name or title
     
@@ -2314,7 +2312,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (d) any person who is exempted under [section 66][85] but only to the extent that the person is acting within the scope of that exemption.
     
-    (3) Despite subsection (2)(b), a registered bank must not use, without an authorisation from the Bank under [section 65(1)(e)][84], a name or title that includes a restricted word in respect of a unit trust of which the registered bank is a trustee or a manager within the meaning of the [Unit Trusts Act 1960][474].
+    (3) Despite subsection (2)(b), a registered bank must not use, without an authorisation from the Bank under [section 65(1)(e)][84], a name or title that includes a restricted word in respect of a unit trust of which the registered bank is a trustee or a manager within the meaning of the [Unit Trusts Act 1960][475].
     
     (4) Subsection (2)(b) does not extend to a person carrying on any activity by means of, or through the agency of, a registered bank.
     
@@ -2324,7 +2322,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (7) In this section (except subsection (1)(a) to (c)) and [sections 65][84] and [66][85], _use_, in relation to a restricted word, means act in a manner prohibited by subsection (1)(a) to (c) (as the context requires).
     
-    Section 64: substituted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 64: substituted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 65 Bank may authorise use of restricted words in name or title
     
@@ -2344,7 +2342,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (d) an associated person of a registered bank:
     
-    *   (e) a registered bank or an associated person of a registered bank that intends to use a name or title that includes a restricted word in respect of a unit trust of which the registered bank or the associated person is a trustee or manager within the meaning of the [Unit Trusts Act 1960][474]:
+    *   (e) a registered bank or an associated person of a registered bank that intends to use a name or title that includes a restricted word in respect of a unit trust of which the registered bank or the associated person is a trustee or manager within the meaning of the [Unit Trusts Act 1960][475]:
     
     *   (f) a person that is not a financial institution.
     
@@ -2382,7 +2380,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (7) Any authorisation given under this section applies to any other person (for example, the Registrar of Companies), but only to the extent that the acts of that person are necessary to allow the person to whom the authorisation is given to have the benefit of that authorisation.
     
-    Section 65: substituted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 65: substituted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66 Certain persons exempt from application of section 64
     
@@ -2392,21 +2390,21 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (b) the name or title is not used in respect of a financial institution, or could not reasonably be mistaken for the name or title of a financial institution.
     
-    Section 66: substituted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66: substituted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66A Application of Companies Act 1993
     
 *   Nothing in [sections 65][84] and [66][85] affects or limits the following sections of the [Companies Act 1993][424]:
         
-    *   (a) [sections 20 to 24][475] (which relate to company names):
+    *   (a) [sections 20 to 24][476] (which relate to company names):
     
-    *   (b) [section 333][476] (which relates to the reservation of the name of an overseas company).
+    *   (b) [section 333][477] (which relates to the reservation of the name of an overseas company).
     
-    Section 66A: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66A: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Limit on use of restricted words in advertisement
     
-*   Heading: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66B Limit on use of restricted words in advertisement
     
@@ -2444,11 +2442,11 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (b) is not a registered bank.
     
-    Section 66B: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66B: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Powers of Bank in relation to use of restricted words
     
-*   Heading: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66C Power to obtain information
     
@@ -2466,7 +2464,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (5) The penalty for an offence against this section is set out in [section 66M][101].
     
-    Section 66C: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66C: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66D Power to require change of name, etc
     
@@ -2486,7 +2484,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (5) The penalty for an offence against this section is set out in [section 66M][101].
     
-    Section 66D: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66D: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66E Power to appoint person to enter and search premises
     
@@ -2508,7 +2506,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (5) The penalty for an offence against this section is set out in [section 66M][101].
     
-    Section 66E: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66E: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66F Requirements on entering and searching premises
     
@@ -2524,7 +2522,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (b) evidence of that person's identity.
     
-    Section 66F: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66F: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66G Confidentiality of information or documents
     
@@ -2534,7 +2532,7 @@ Use of words 'bank', 'banker', and 'banking'
         
     *   (a) with the consent of the person to whom the information relates or of the person to whom the information is confidential; or
     
-    *   (b) to the extent that the information is available to the public under any Act, including the [Official Information Act 1982][477], or is otherwise publicly available; or
+    *   (b) to the extent that the information is available to the public under any Act, including the [Official Information Act 1982][478], or is otherwise publicly available; or
     
     *   (c) for the purposes of, or in connection with, the exercise of powers conferred by this Part; or
     
@@ -2556,7 +2554,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (6) The penalty for an offence against this section is set out in [section 66M][101].
     
-    Section 66G: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66G: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66H Limits on further disclosure of information or documents published or disclosed under section 66G
     
@@ -2584,29 +2582,29 @@ Use of words 'bank', 'banker', and 'banking'
     
     (3) The penalty for an offence against this section is set out in [section 66M][101].
     
-    Section 66H: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66H: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66I Procedure for obtaining warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][478] of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under [section 66E(2)][92] if the issuing officer is satisfied, on application made in the manner provided in [subpart 3][479] of Part 4 of that Act, that there are reasonable grounds for believing ---
+*   (1) An issuing officer (within the meaning of [section 3][479] of the Search and Surveillance Act 2012) may issue a warrant to a person appointed under [section 66E(2)][92] if the issuing officer is satisfied, on application made in the manner provided in [subpart 3][480] of Part 4 of that Act, that there are reasonable grounds for believing ---
         
     *   (a) that any information or documents supplied to the Bank under [section 66C][90] or [section 66D(2)][91] are false or misleading in a material particular; or
     
     *   (b) that a person has failed to comply with any requirement to supply information or documents under [section 66C][90] or [section 66D(2)][91].
     
-    (2) The provisions of [Part 4][480] of the Search and Surveillance Act 2012 (except [sections 118][481] and [119][482]) apply.
+    (2) The provisions of [Part 4][481] of the Search and Surveillance Act 2012 (except [sections 118][482] and [119][483]) apply.
     
-    Section 66I: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66I: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 66I(1): amended, on 1 October 2012, by [section 297(1)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66I(1): amended, on 1 October 2012, by [section 297(1)][484] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 66I(2): inserted, on 1 October 2012, by [section 297(2)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66I(2): inserted, on 1 October 2012, by [section 297(2)][484] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 66J Effect of warrant
     
 *   \[Repealed\]
     
-    Section 66J: repealed, on 1 October 2012, by [section 297(3)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 66J: repealed, on 1 October 2012, by [section 297(3)][484] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 66K Effect of proceedings
     
@@ -2614,7 +2612,7 @@ Use of words 'bank', 'banker', and 'banking'
     
     (2) This section applies despite the provisions of any other Act or any rule of law.
     
-    Section 66K: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66K: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66L Effect of final decision that exercise of powers under section 66E unlawful
     
@@ -2632,15 +2630,15 @@ Use of words 'bank', 'banker', and 'banking'
     
     (3) No information, documents, or records obtained as a result of the unlawful exercise of the power are admissible in evidence in any proceedings.
     
-    Section 66L: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66L: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Penalty for offences against this Part
     
-*   Heading: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 66M Penalty for offences
     
-*   (1) A person who commits an offence against any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence against any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000; and
     
@@ -2662,7 +2660,9 @@ Use of words 'bank', 'banker', and 'banking'
     
     *   (g) [section 66H][95] (which relates to further disclosures of information).
     
-    Section 66M: inserted, on 21 August 2003, by [section 10][473] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 66M: inserted, on 21 August 2003, by [section 10][474] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 66M(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Registration of banks and prudential supervision of registered banks
@@ -2679,7 +2679,7 @@ Registration of banks and prudential supervision of registered banks
     
     _prescribed Australian financial authority_ means an Australian public authority prescribed by regulations made under [section 68A][106].
     
-    Section 67A: inserted, on 15 December 2006, by [section 5][484] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 67A: inserted, on 15 December 2006, by [section 5][485] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
 
 ##### 67 Registration and prudential supervision
     
@@ -2703,7 +2703,7 @@ Registration of banks and prudential supervision of registered banks
 
 ##### 68A Trans-Tasman co-operation
     
-*   (1) When performing functions or duties or exercising powers under this Part or the [Insurance (Prudential Supervision) Act 2010][454], the Bank must---
+*   (1) When performing functions or duties or exercising powers under this Part or the [Insurance (Prudential Supervision) Act 2010][455], the Bank must---
         
     *   (a) support prescribed Australian financial authorities in meeting their statutory responsibilities relating to prudential regulation and financial system stability in Australia; and
     
@@ -2717,7 +2717,7 @@ Registration of banks and prudential supervision of registered banks
     
     (5) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations prescribing Australian financial authorities for the purposes of this section and [section 121A][191].
     
-    Section 68A: inserted, on 15 December 2006, by [section 6][485] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 68A: inserted, on 15 December 2006, by [section 6][486] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
     
     Section 68A(1): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
 
@@ -2745,9 +2745,9 @@ Registration of banks and prudential supervision of registered banks
     
     (6) A direction may be amended, revoked, or replaced in the same way as it may be given.
     
-    Compare: 2004 No 115 ss [104(1)][486], [113(1)(b)][487], [114][488], [115(2)][489]
+    Compare: 2004 No 115 ss [104(1)][487], [113(1)(b)][488], [114][489], [115(2)][490]
     
-    Section 68B: inserted, on 10 September 2008, by [section 15][490] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 68B: inserted, on 10 September 2008, by [section 15][491] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Registration of banks
 
@@ -2757,9 +2757,19 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The Bank must determine the form of the register and may amend the form from time to time as it considers necessary.
     
+    (2A) The register must include---
+        
+    *   (a) the name of each registered bank; and
+    
+    *   (b) the current rating of each registered bank under [section 80][124] (if any); and
+    
+    *   (c) any other prescribed information.
+    
     (3) The Bank must take all reasonable steps to ensure that the information contained in the public register is available to members of the public at all reasonable times.
     
-    Section 69: substituted, on 1 November 2006, by [section 7][491] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 69: substituted, on 1 November 2006, by [section 7][492] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    
+    Section 69(2A): inserted, on 4 September 2013, by [section 4][493] of the Reserve Bank of New Zealand Amendment Act 2013 (2013 No 62).
 
 ##### 70 Application for registration
     
@@ -2779,9 +2789,9 @@ Registration of banks and prudential supervision of registered banks
     
     Compare: 1964 No 134 s 38C(3), (4), (5); 1986 No 131 s 10
     
-    Section 70(4): added, on 21 August 2003, by [section 11][492] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 70(4): added, on 21 August 2003, by [section 11][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 70(5): added, on 21 August 2003, by [section 11][492] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 70(5): added, on 21 August 2003, by [section 11][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 71 Voluntary removal of name from register
     
@@ -2819,19 +2829,19 @@ Registration of banks and prudential supervision of registered banks
     
     *   (e) the registered bank is subject to statutory management.
     
-    Section 71(3): substituted, on 21 August 2003, by [section 12][493] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(3): substituted, on 21 August 2003, by [section 12][495] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(4)(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(4)(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(4)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(4)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(4)(d): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(4)(d): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(5)(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(5)(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(5)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(5)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 71(5)(d): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 71(5)(d): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 72 Offence for person who is not registered bank to hold itself out to be registered bank
     
@@ -2843,7 +2853,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 72: substituted, on 21 August 2003, by [section 13][495] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 72: substituted, on 21 August 2003, by [section 13][497] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 73 Determination of applications
     
@@ -2871,7 +2881,7 @@ Registration of banks and prudential supervision of registered banks
     
     Compare: 1964 No 134 s 38D(1), (2), (4); 1986 No 131 s 10
     
-    Section 73(2): substituted, on 21 August 2003, by [section 14][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 73(2): substituted, on 21 August 2003, by [section 14][498] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 73A Further matters to which Bank must have regard if applicant is overseas person
     
@@ -2893,7 +2903,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) the nature and extent of the financial and other information disclosed to the public by the applicant.
     
-    Section 73A: inserted, on 21 August 2003, by [section 15][497] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 73A: inserted, on 21 August 2003, by [section 15][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 73B Further matters to which Bank must have regard if applicant is subsidiary of overseas person
     
@@ -2913,7 +2923,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) the nature and extent of the financial and other information disclosed to the public by the overseas person.
     
-    Section 73B: inserted, on 21 August 2003, by [section 15][497] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 73B: inserted, on 21 August 2003, by [section 15][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 74 Conditions of registration
     
@@ -2947,7 +2957,7 @@ Registration of banks and prudential supervision of registered banks
     
     (6) The penalty for an offence against this section is set out in [section 156AB][231].
     
-    Section 74: substituted, on 21 August 2003, by [section 16][498] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 74: substituted, on 21 August 2003, by [section 16][500] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 75 Publication of principles
     
@@ -3045,21 +3055,21 @@ Registration of banks and prudential supervision of registered banks
     
     Compare: 1964 No 134 s 38F(1), (2), (3)(a)--(e), (g), (4), (5); 1986 No 131 s 10
     
-    Section 77(1): substituted, on 21 August 2003, by [section 17(1)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(1): substituted, on 21 August 2003, by [section 17(1)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 77(2)(b): substituted, on 21 August 2003, by [section 17(2)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(2)(b): substituted, on 21 August 2003, by [section 17(2)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 77(2)(ba): inserted, on 21 August 2003, by [section 17(2)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(2)(ba): inserted, on 21 August 2003, by [section 17(2)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 77(2)(bb): inserted, on 21 August 2003, by [section 17(2)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(2)(bb): inserted, on 21 August 2003, by [section 17(2)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 77(2)(d): repealed, on 21 August 2003, by [section 17(3)(a)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(2)(d): repealed, on 21 August 2003, by [section 17(3)(a)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 77(2)(g): amended, on 21 August 2003, by [section 17(3)(b)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(2)(g): amended, on 21 August 2003, by [section 17(3)(b)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 77(3): substituted, on 24 March 1995, by section 4 of the Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5).
     
-    Section 77(5): substituted, on 21 August 2003, by [section 17(4)][499] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77(5): substituted, on 21 August 2003, by [section 17(4)][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 77A Changes of ownership
     
@@ -3069,7 +3079,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) in the case of a person who has, with the consent of the Bank, acquired a significant influence over a registered bank, the transaction would result in that person increasing the level of the person's significant influence over that registered bank beyond the level permitted in the existing consent; or
     
-    *   (c) in the case of a person who acquired a significant influence over a registered bank before the commencement of the [Reserve Bank of New Zealand Amendment Act 2003][500], the transaction would result in that person increasing the person's significant influence over that registered bank beyond the existing level.
+    *   (c) in the case of a person who acquired a significant influence over a registered bank before the commencement of the [Reserve Bank of New Zealand Amendment Act 2003][502], the transaction would result in that person increasing the person's significant influence over that registered bank beyond the existing level.
     
     (2) The Bank may, in giving its consent,---
         
@@ -3089,13 +3099,13 @@ Registration of banks and prudential supervision of registered banks
     
     (6) For the purposes of this section, a reference to a registered bank is a reference to a registered bank that is not an overseas person.
     
-    Section 77A: inserted, on 21 August 2003, by [section 18][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77A: inserted, on 21 August 2003, by [section 18][503] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 77B Effect of section 77A on contracts, etc
     
 *   Nothing in [section 77A][120] invalidates any contract, or transfer of ownership, made without the written consent of the Bank.
     
-    Section 77B: inserted, on 21 August 2003, by [section 18][501] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 77B: inserted, on 21 August 2003, by [section 18][503] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 78 Carrying on business in prudent manner
     
@@ -3125,11 +3135,11 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The Governor may, from time to time, issue, in such manner as the Governor may determine, guidelines for the purpose of interpreting any of the matters referred to in paragraphs (c) to (g) of subsection (1).
     
-    Section 78(1)(b): amended, on 21 August 2003, by [section 19(1)][502] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 78(1)(b): amended, on 21 August 2003, by [section 19(1)][504] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 78(1)(fa): inserted, on 21 August 2003, by [section 19(2)][502] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 78(1)(fa): inserted, on 21 August 2003, by [section 19(2)][504] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 78(1)(fb): inserted, on 21 August 2003, by [section 19(2)][502] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 78(1)(fb): inserted, on 21 August 2003, by [section 19(2)][504] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 78(3): amended, on 24 March 1995, by section 5 of the Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5).
 
@@ -3153,7 +3163,7 @@ Registration of banks and prudential supervision of registered banks
     
     (4) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 80: substituted, on 21 August 2003, by [section 20][503] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 80: substituted, on 21 August 2003, by [section 20][505] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Financial disclosure by registered banks
 
@@ -3183,9 +3193,11 @@ Registration of banks and prudential supervision of registered banks
     
     (4) The Order in Council must be published in the _Gazette_.
     
-    (5) The [Regulations (Disallowance) Act 1989][504] applies to the Order in Council as if the order were a regulation within the meaning of [section 2][505] of that Act.
+    (5) An Order in Council made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][506] and must be presented to the House of Representatives under [section 41][507] of that Act.
     
-    Section 81: substituted, on 21 August 2003, by [section 21][506] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 81: substituted, on 21 August 2003, by [section 21][508] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 81(5): replaced, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
 
 ##### 81AA Further matters that maybe prescribed
     
@@ -3197,11 +3209,11 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) about any individual member of its banking group, whether or not the member is incorporated, domiciled, or resident in New Zealand:
     
-    *   (d) about a body incorporated in New Zealand, or an overseas company registered under [section 337][507] of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
+    *   (d) about a body incorporated in New Zealand, or an overseas company registered under [section 337][510] of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
     
     (2) An Order in Council made under [section 81][126] may also---
         
-    *   (a) prescribe the information that is required to be contained in accordance with generally accepted accounting practice (within the meaning of [section 3][508] of the Financial Reporting Act 1993) in financial statements:
+    *   (a) prescribe the information that is required to be contained in accordance with generally accepted accounting practice (within the meaning of [section 3][511] of the Financial Reporting Act 1993) in financial statements:
     
     *   (b) require the publication of financial statements and notes to those statements for any period or periods specified in the order:
     
@@ -3229,11 +3241,11 @@ Registration of banks and prudential supervision of registered banks
     
     (3) [Schedule 3][420] applies to any material incorporated by reference in an Order in Council made under [section 81][126].
     
-    Section 81AA: inserted, on 21 August 2003, by [section 21][506] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 81AA: inserted, on 21 August 2003, by [section 21][508] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 81AA(2)(g): added, on 10 September 2008, by [section 16(1)][509] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 81AA(2)(g): added, on 10 September 2008, by [section 16(1)][512] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 81AA(3): added, on 10 September 2008, by [section 16(2)][509] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 81AA(3): added, on 10 September 2008, by [section 16(2)][512] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 81AB Disclosure statement not required to include information or data about customers or clients of registered banks
     
@@ -3261,7 +3273,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) the number of loans or risk exposures that fall within a specified range of percentages or are above a specified percentage, as the case may be, of the capital or equity of the registered bank, or an associated person of the registered bank, or the banking group or a company in which a holding company of a registered bank has a substantial interest, and the actual amounts involved.
     
-    Section 81AB: inserted, on 21 August 2003, by [section 21][506] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 81AB: inserted, on 21 August 2003, by [section 21][508] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 81AC Duty to supply information or data to registered bank
     
@@ -3269,7 +3281,7 @@ Registration of banks and prudential supervision of registered banks
         
     *   (a) an associated person of a registered bank; and
     
-    *   (b) a body incorporated in New Zealand, or an overseas company registered under [section 337][507] of the Companies Act 1993, in which a holding company of a registered bank has a substantial interest.
+    *   (b) a body incorporated in New Zealand, or an overseas company registered under [section 337][510] of the Companies Act 1993, in which a holding company of a registered bank has a substantial interest.
     
     (2) A person to whom this section applies must, on being required by a registered bank to do so for the purpose of enabling the registered bank to comply with an Order in Council made under [section 81][126], supply the registered bank with any information or data that the registered bank may be required to disclose under [section 81AA][127] if that information or data---
         
@@ -3281,7 +3293,7 @@ Registration of banks and prudential supervision of registered banks
     
     (4) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 81AC: inserted, on 21 August 2003, by [section 21][506] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 81AC: inserted, on 21 August 2003, by [section 21][508] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 81A Bank to consult
     
@@ -3323,7 +3335,7 @@ Registration of banks and prudential supervision of registered banks
     
     (4) If the Bank exercises the power conferred by subsection (3), it must give notice in writing to the registered bank as soon as practicable.
     
-    Section 82: substituted, on 21 August 2003, by [section 22][510] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 82: substituted, on 21 August 2003, by [section 22][513] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 83 Bank may require disclosure statement to be corrected
     
@@ -3341,7 +3353,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (e) take such other corrective action as the Bank may specify in the notice.
     
-    Section 83(d): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 83(d): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Advertising by registered banks
 
@@ -3389,7 +3401,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 89: substituted, on 21 August 2003, by [section 23][511] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 89: substituted, on 21 August 2003, by [section 23][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 89A Offence to publish false or misleading disclosure statements
     
@@ -3409,7 +3421,7 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 89A: inserted, on 21 August 2003, by [section 23][511] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 89A: inserted, on 21 August 2003, by [section 23][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 89B Offence to fail to make most recent disclosure statement publicly available
     
@@ -3417,7 +3429,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The penalty for an offence against this section is set out in [section 156AB][231].
     
-    Section 89B: inserted, on 21 August 2003, by [section 23][511] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 89B: inserted, on 21 August 2003, by [section 23][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 89C Other offences in relation to disclosure statements
     
@@ -3431,7 +3443,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 89C: inserted, on 21 August 2003, by [section 23][511] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 89C: inserted, on 21 August 2003, by [section 23][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 90 Civil liability
     
@@ -3445,11 +3457,11 @@ Registration of banks and prudential supervision of registered banks
     
     Section 90: substituted, on 24 March 1995, by section 9 of the Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5).
     
-    Section 90(a): substituted, on 21 August 2003, by [section 24][512] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 90(a): substituted, on 21 August 2003, by [section 24][515] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 90(b): substituted, on 21 August 2003, by [section 24][512] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 90(b): substituted, on 21 August 2003, by [section 24][515] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 90(c): added, on 21 August 2003, by [section 24][512] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 90(c): added, on 21 August 2003, by [section 24][515] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 91 Defences
     
@@ -3465,7 +3477,7 @@ Registration of banks and prudential supervision of registered banks
 
 ##### 92 Fair Trading Act 1986 not affected
     
-*   Nothing in [sections 89 to 91][140] limits or affects the [Fair Trading Act 1986][513].
+*   Nothing in [sections 89 to 91][140] limits or affects the [Fair Trading Act 1986][516].
     
     Section 92: substituted, on 24 March 1995, by section 9 of the Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5).
 
@@ -3505,7 +3517,7 @@ Registration of banks and prudential supervision of registered banks
     
     (6) The penalty for an offence against this section is set out in [section 156AB][231].
     
-    Section 93: substituted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 93: substituted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 93A Scope of notice under section 93
     
@@ -3513,9 +3525,9 @@ Registration of banks and prudential supervision of registered banks
         
     *   (a) any associated person of a registered bank; or
     
-    *   (b) a body incorporated in New Zealand, or an overseas company registered under [section 337][507] of the Companies Act 1993, in which a holding company of a registered bank has a substantial interest.
+    *   (b) a body incorporated in New Zealand, or an overseas company registered under [section 337][510] of the Companies Act 1993, in which a holding company of a registered bank has a substantial interest.
     
-    Section 93A: inserted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 93A: inserted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 93B Certain persons may be required to supply information to registered banks
     
@@ -3525,7 +3537,7 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AB][231].
     
-    Section 93B: inserted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 93B: inserted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 93C Supply of information by other persons for purposes of prudential supervision
     
@@ -3547,7 +3559,7 @@ Registration of banks and prudential supervision of registered banks
     
     (5) The penalty for an offence against this section is set out in [section 156AB][231].
     
-    Section 93C: inserted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 93C: inserted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 94 Requirement that information, data, or forecasts be audited
     
@@ -3557,7 +3569,7 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AA][230].
     
-    Section 94: substituted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 94: substituted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 95 Bank may require report relating to registered banks, etc
     
@@ -3575,7 +3587,7 @@ Registration of banks and prudential supervision of registered banks
             
         *   (i) any associated person of the registered bank:
         
-        *   (ii) a body incorporated in New Zealand, or an overseas company registered under [section 337][507] of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
+        *   (ii) a body incorporated in New Zealand, or an overseas company registered under [section 337][510] of the Companies Act 1993, in which a holding company of the registered bank has a substantial interest.
         
         
     
@@ -3585,7 +3597,7 @@ Registration of banks and prudential supervision of registered banks
     
     (4) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 95: substituted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 95: substituted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 95A Bank may require report under section 95 to be published
     
@@ -3595,7 +3607,7 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Section 95A: inserted, on 21 August 2003, by [section 25][514] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 95A: inserted, on 21 August 2003, by [section 25][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 96 Disclosure of information to Bank by auditors
     
@@ -3605,11 +3617,11 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) the disclosure of that information is likely to assist, or be relevant to, the exercise by the Bank of its powers under this Part.
     
-    Compare: 1964 No 134 s 38M(1); 1986 No 131 s 10; 1989 No 11 [s 13][515]
+    Compare: 1964 No 134 s 38M(1); 1986 No 131 s 10; 1989 No 11 [s 13][518]
     
-    Section 96: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 96: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 96(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 96(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 97 Auditor to inform of intention to disclose
     
@@ -3617,9 +3629,9 @@ Registration of banks and prudential supervision of registered banks
     
     Compare: 1964 No 134 s 38M(5); 1986 No 131 s 10
     
-    Section 97 heading: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 97 heading: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 97: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 97: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 98 Protection of auditors
     
@@ -3631,11 +3643,11 @@ Registration of banks and prudential supervision of registered banks
     
     (4) Nothing in subsection (3) of this section shall limit the admissibility of any information obtained in any other way.
     
-    Compare: 1964 No 134 s 38M(2); 1986 No 131 s 10; 1989 No 11 [s 15][516]
+    Compare: 1964 No 134 s 38M(2); 1986 No 131 s 10; 1989 No 11 [s 15][519]
 
 #### Access to information by home country supervisor
     
-*   Heading: inserted, on 21 August 2003, by [section 26][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 26][520] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 98A Access to information by home country supervisor
     
@@ -3675,7 +3687,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) has an agent in New Zealand.
     
-    Section 98A: inserted, on 21 August 2003, by [section 26][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 98A: inserted, on 21 August 2003, by [section 26][520] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 98B Duties of person on receipt of notice under section 98A
     
@@ -3693,7 +3705,7 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AA][230].
     
-    Section 98B: inserted, on 21 August 2003, by [section 26][517] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 98B: inserted, on 21 August 2003, by [section 26][520] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Powers to obtain information and documents
 
@@ -3733,7 +3745,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) in the case of an offence against subsection (4), in [section 156AC][232].
     
-    Section 99: substituted, on 21 August 2003, by [section 27][518] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 99: substituted, on 21 August 2003, by [section 27][521] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 100 Requirements on entering and searching premises
     
@@ -3749,9 +3761,9 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) evidence of that person's identity.
     
-    Compare: 1964 No 134 s 38N(2), (7); 1986 No 131 s 10; 1989 No 11 [s 18][519]
+    Compare: 1964 No 134 s 38N(2), (7); 1986 No 131 s 10; 1989 No 11 [s 18][522]
     
-    Section 100(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 100(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Investigations
 
@@ -3759,9 +3771,9 @@ Registration of banks and prudential supervision of registered banks
     
 *   Where the Bank is satisfied that it is necessary or desirable for the purpose of determining whether or not to exercise the powers conferred under [section 113][179] or [section 117][186] that an investigation of the affairs of any registered bank or associated person of a registered bank should be carried out, the Bank may appoint, in writing, any person to carry out an investigation of the affairs of that registered bank or associated person of that registered bank.
     
-    Compare: 1964 No 134 s 38O(1); 1986 No 131 s 10; 1989 No 11 [s 19][520]
+    Compare: 1964 No 134 s 38O(1); 1986 No 131 s 10; 1989 No 11 [s 19][523]
     
-    Section 101: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 101: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 102 Powers of person appointed to carry out investigation
     
@@ -3791,25 +3803,25 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) if necessary, require any person to reproduce in usable form any information recorded or stored in those documents.
     
-    Compare: 1964 No 134 s 38O(2), (4); 1986 No 131 s 10; 1989 No 11 [s 21][521]
+    Compare: 1964 No 134 s 38O(2), (4); 1986 No 131 s 10; 1989 No 11 [s 21][524]
     
-    Section 102(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1)(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1)(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1)(a)(i): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1)(a)(i): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1)(a)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1)(a)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1)(c): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1)(c): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(1A): inserted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(1A): inserted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(2): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(2): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 102(2)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 102(2)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 103 Offences in relation to investigations
     
@@ -3829,17 +3841,17 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Compare: 1964 No 134 s 38O(11), (12), (13); 1986 No 131 s 10; 1989 No 11 [s 20][522]
+    Compare: 1964 No 134 s 38O(11), (12), (13); 1986 No 131 s 10; 1989 No 11 [s 20][525]
     
-    Section 103(1)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 103(1)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 103(1)(c): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 103(1)(c): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 103(2): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 103(2): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 103(2)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 103(2)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 103(3): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 103(3): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 104 Requirements to be complied with by person carrying out investigation
     
@@ -3857,7 +3869,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) evidence of that person's identity.
     
-    Compare: 1964 No 134 s 38O(3), (5), (9); 1986 No 131 s 10; 1989 No 11 [s 22][523]
+    Compare: 1964 No 134 s 38O(3), (5), (9); 1986 No 131 s 10; 1989 No 11 [s 22][526]
 
 #### Miscellaneous provisions
 
@@ -3881,7 +3893,7 @@ Registration of banks and prudential supervision of registered banks
         
     *   (a) with the consent of the person to whom the information relates:
     
-    *   (b) to the extent that the information is available to the public under any Act, other than the [Official Information Act 1982][477], or is otherwise publicly available information:
+    *   (b) to the extent that the information is available to the public under any Act, other than the [Official Information Act 1982][478], or is otherwise publicly available information:
     
     *   (c) in statistical or summary form arranged in such a manner as to prevent any information published or disclosed from being identified by any person as relating to any particular person:
     
@@ -3919,27 +3931,27 @@ Registration of banks and prudential supervision of registered banks
     
     (7B) The penalty for an offence against this section is set out in [section 156AA][230].
     
-    (8) Nothing in the [Official Information Act 1982][477] or any other Act, other than this Act, applies to information, data, and forecasts to which this section applies whether or not such information, data, and forecasts has or have been published or disclosed to any person pursuant to this section.
+    (8) Nothing in the [Official Information Act 1982][478] or any other Act, other than this Act, applies to information, data, and forecasts to which this section applies whether or not such information, data, and forecasts has or have been published or disclosed to any person pursuant to this section.
     
-    Compare: 1964 No 134 s 38P; 1986 No 131 s 10; 1989 No 11 [s 23][524]
+    Compare: 1964 No 134 s 38P; 1986 No 131 s 10; 1989 No 11 [s 23][527]
     
-    Section 105(1)(a)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(1)(a)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(2): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(2): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(2)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(2)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(4): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(4): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(7): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(7): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(7A): inserted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(7A): inserted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 105(7B): inserted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 105(7B): inserted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 106 Procedure for obtaining warrants
     
-*   (1) An issuing officer (within the meaning of [section 3][478] of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in [subpart 3][479] of Part 4 of that Act, that there are reasonable grounds for believing---
+*   (1) An issuing officer (within the meaning of [section 3][479] of the Search and Surveillance Act 2012) who is satisfied, on application made in the manner provided in [subpart 3][480] of Part 4 of that Act, that there are reasonable grounds for believing---
         
     *   (aaa) that any information or data published in a disclosure statement by a registered bank under [section 81][126] or [section 83][132] is false or misleading in a material particular; or
     
@@ -3957,29 +3969,29 @@ Registration of banks and prudential supervision of registered banks
     
     may issue a warrant, in terms of [section 107][172], to a person appointed pursuant to [section 99(2)(b)][162].
     
-    (2) An issuing officer (within the meaning of [section 3][478] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][479] of Part 4 of that Act, that there are reasonable grounds for believing that it is necessary for the purpose of determining whether to exercise the powers conferred under [section 113][179] or [section 117][186] that an investigation of the affairs of a registered bank should be carried out, may issue a warrant, in terms of [section 107][172], to a person appointed under [section 101][165].
+    (2) An issuing officer (within the meaning of [section 3][479] of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in [subpart 3][480] of Part 4 of that Act, that there are reasonable grounds for believing that it is necessary for the purpose of determining whether to exercise the powers conferred under [section 113][179] or [section 117][186] that an investigation of the affairs of a registered bank should be carried out, may issue a warrant, in terms of [section 107][172], to a person appointed under [section 101][165].
     
-    (3) [Part 4][480] of the Search and Surveillance Act 2012 (except [sections 118][481] and [119][482]) applies.
+    (3) [Part 4][481] of the Search and Surveillance Act 2012 (except [sections 118][482] and [119][483]) applies.
     
-    Compare: 1964 No 134 ss 38N(3), (5), 38O(6); 1986 No 131 s 10; 1989 No 11 [s 24][525]
+    Compare: 1964 No 134 ss 38N(3), (5), 38O(6); 1986 No 131 s 10; 1989 No 11 [s 24][528]
     
-    Section 106(1): amended, on 1 October 2012, by [section 297(4)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(1): amended, on 1 October 2012, by [section 297(4)][484] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 106(1): amended, on 21 August 2003, by [section 28(3)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(1): amended, on 21 August 2003, by [section 28(3)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(1)(aaa): inserted, on 21 August 2003, by [section 28(1)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(1)(aaa): inserted, on 21 August 2003, by [section 28(1)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(1)(aa): inserted, on 21 August 2003, by [section 28(1)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(1)(aa): inserted, on 21 August 2003, by [section 28(1)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(1)(ba): inserted, on 21 August 2003, by [section 28(2)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(1)(ba): inserted, on 21 August 2003, by [section 28(2)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(1)(bb): inserted, on 21 August 2003, by [section 28(2)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(1)(bb): inserted, on 21 August 2003, by [section 28(2)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(2): amended, on 1 October 2012, by [section 297(5)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(2): amended, on 1 October 2012, by [section 297(5)][484] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 106(2): amended, on 21 August 2003, by [section 28(4)][526] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 106(2): amended, on 21 August 2003, by [section 28(4)][529] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 106(3): replaced, on 1 October 2012, by [section 297(6)][483] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106(3): replaced, on 1 October 2012, by [section 297(6)][484] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 107 Effect of warrant
     
@@ -4003,7 +4015,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) This section shall apply notwithstanding the provisions of any other Act or any rule of law.
     
-    Compare: 1964 No 134 ss 38N(11), 38O(14); 1986 No 131 s 10; 1989 No 11 [s 26][527]
+    Compare: 1964 No 134 ss 38N(11), 38O(14); 1986 No 131 s 10; 1989 No 11 [s 26][530]
 
 ##### 109 Effect of final decision that exercise of powers under section 99 unlawful
     
@@ -4027,15 +4039,15 @@ Registration of banks and prudential supervision of registered banks
         
         
     
-    Compare: 1964 No 134 s 38N(12); 1986 No 131 s 10; 1989 No 11 [s 27][528]
+    Compare: 1964 No 134 s 38N(12); 1986 No 131 s 10; 1989 No 11 [s 27][531]
     
-    Section 109(a)(i): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 109(a)(i): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 109(a)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 109(a)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 109(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 109(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 109(b)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 109(b)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 110 Effect of final decision that exercise of powers under section 101 or section 102 unlawful
     
@@ -4061,25 +4073,25 @@ Registration of banks and prudential supervision of registered banks
         
         
     
-    Compare: 1964 No 134 s 38O(15); 1986 No 131 s 10; 1989 No 11 [s 28][529]
+    Compare: 1964 No 134 s 38O(15); 1986 No 131 s 10; 1989 No 11 [s 28][532]
     
-    Section 110(b)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 110(b)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Reserve Bank may give directions
     
-*   Heading: substituted, on 21 August 2003, by [section 29][530] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: substituted, on 21 August 2003, by [section 29][533] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 111 Bank may require registered bank to consult
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 21 August 2003, by [section 29][530] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 111: repealed, on 21 August 2003, by [section 29][533] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 112 Bank may give advice and assistance
     
 *   \[Repealed\]
     
-    Section 112: repealed, on 21 August 2003, by [section 29][530] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 112: repealed, on 21 August 2003, by [section 29][533] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 113 Bank may give directions
     
@@ -4131,7 +4143,7 @@ Registration of banks and prudential supervision of registered banks
     
     (5) To avoid doubt, the Bank may exercise the power conferred by subsection (1) by giving a direction to a registered bank in respect of an associated person of that registered bank, and vice versa.
     
-    Section 113: substituted, on 21 August 2003, by [section 30][531] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 113: substituted, on 21 August 2003, by [section 30][534] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 113A Scope of directions
     
@@ -4155,7 +4167,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (i) take any other action that may be specified in the direction.
     
-    Section 113A: inserted, on 21 August 2003, by [section 30][531] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 113A: inserted, on 21 August 2003, by [section 30][534] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 113B Power to remove, replace, or appoint directors
     
@@ -4183,11 +4195,11 @@ Registration of banks and prudential supervision of registered banks
         
         
     
-    (4) A notice given under subsection (3)(b)(ii) is sufficient compliance with [section 159][532] of the Companies Act 1993 as long as the notice is accompanied by the form of consent and certificate required under [section 152][533] of that Act.
+    (4) A notice given under subsection (3)(b)(ii) is sufficient compliance with [section 159][535] of the Companies Act 1993 as long as the notice is accompanied by the form of consent and certificate required under [section 152][536] of that Act.
     
     (5) This section has effect despite any enactment, rule of law, or the terms of the constitution of, or the instrument or contract creating, a registered bank or an associated person of a registered bank.
     
-    Section 113B: inserted, on 21 August 2003, by [section 30][531] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 113B: inserted, on 21 August 2003, by [section 30][534] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 114 Offence to contravene directions
     
@@ -4197,9 +4209,9 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Compare: 1964 No 134 s 38Q(11), (12); 1986 No 134 [s 10][534]; 1989 No 11 [s 35][535]
+    Compare: 1964 No 134 s 38Q(11), (12); 1986 No 134 [s 10][537]; 1989 No 11 [s 35][538]
     
-    Section 114(3): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 114(3): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 115 Offence to disclose giving of direction
     
@@ -4223,21 +4235,21 @@ Registration of banks and prudential supervision of registered banks
     
     (4) The penalty for an offence against this section is set out in [section 156AA][230].
     
-    Compare: 1964 No 134 s 38Q(14), (15); 1986 No 131 s 10; 1989 No 11 [s 36][536]
+    Compare: 1964 No 134 s 38Q(14), (15); 1986 No 131 s 10; 1989 No 11 [s 36][539]
     
-    Section 115 heading: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115 heading: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(2): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(2): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(2)(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(2)(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(2)(c)(ii): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(2)(c)(ii): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(3): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(3): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 115(4): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 115(4): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 116 Miscellaneous provisions with respect to directions and dispositions
     
@@ -4249,7 +4261,7 @@ Registration of banks and prudential supervision of registered banks
     
     (4) For the purposes of this section, _address for service_, in relation to a registered bank, means the address for service specified in a disclosure statement published in accordance with [section 81][126].
     
-    Section 116: substituted, on 21 August 2003, by [section 31][537] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 116: substituted, on 21 August 2003, by [section 31][540] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Statutory management of registered banks
 
@@ -4287,21 +4299,21 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) [section 104][168] (which sets out the requirements that must be complied with by a person carrying out an investigation).
     
-    Compare: 1964 No 134 s 38R(2), (3); 1986 No 131 s 10; 1989 No 11 [s 38][538]
+    Compare: 1964 No 134 s 38R(2), (3); 1986 No 131 s 10; 1989 No 11 [s 38][541]
     
-    Section 117(1)(b): amended, on 21 August 2003, by [section 32(2)][539] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 117(1)(b): amended, on 21 August 2003, by [section 32(2)][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 117(1A): inserted, on 21 August 2003, by [section 32(1)][539] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 117(1A): inserted, on 21 August 2003, by [section 32(1)][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 117(2): substituted, on 21 August 2003, by [section 32(3)][539] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 117(2): substituted, on 21 August 2003, by [section 32(3)][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 117(2A): inserted, on 21 August 2003, by [section 32(3)][539] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 117(2A): inserted, on 21 August 2003, by [section 32(3)][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 117(4): added, on 26 April 1999, by [section 2][540] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 117(4): added, on 26 April 1999, by [section 2][543] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 117(5): added, on 26 April 1999, by [section 2][540] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 117(5): added, on 26 April 1999, by [section 2][543] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 117(6): added, on 21 August 2003, by [section 32(4)][539] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 117(6): added, on 21 August 2003, by [section 32(4)][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 118 Grounds on which registered bank may be declared to be subject to statutory management
     
@@ -4313,9 +4325,9 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The Bank shall, as soon as practicable after the making of an Order in Council declaring a registered bank or associated person to be subject to statutory management, give written notice to the registered bank or associated person stating the grounds on which the recommendation made by the Bank was made.
     
-    Compare: 1964 No 134 s 38R(4), (6); 1986 No 131 s 10; 1989 No 11 [s 39][541]
+    Compare: 1964 No 134 s 38R(4), (6); 1986 No 131 s 10; 1989 No 11 [s 39][544]
     
-    Section 118(1): substituted, on 21 August 2003, by [section 33][542] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 118(1): substituted, on 21 August 2003, by [section 33][545] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 119 Advisory committee
     
@@ -4341,19 +4353,19 @@ Registration of banks and prudential supervision of registered banks
     
     (9) Every notice given under this section must be published in the _Gazette_ as soon as practicable.
     
-    Compare: 1964 No 134 s 38S(1)--(8); 1986 No 131 s 10; 1989 No 11 [s 60][543]
+    Compare: 1964 No 134 s 38S(1)--(8); 1986 No 131 s 10; 1989 No 11 [s 60][546]
     
-    Section 119(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 119(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 119(4): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 119(4): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 119(5): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 119(5): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 119(6): amended, on 1 January 2002, by [section 70(1)][544] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 119(6): amended, on 1 January 2002, by [section 70(1)][547] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 119(8): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 119(8): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 119(9): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 119(9): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 120 Statutory manager to comply with directions of Bank
     
@@ -4385,13 +4397,13 @@ Registration of banks and prudential supervision of registered banks
     
     (3) A statutory manager may refuse to supply information to an advisory committee under subsection (2)(c) if the Bank considers that the refusal is appropriate and gives its written approval to the statutory manager accordingly.
     
-    Compare: 1964 No 134 s 38T; 1986 No 131 s 10; 1989 No 11 [s 41][545]
+    Compare: 1964 No 134 s 38T; 1986 No 131 s 10; 1989 No 11 [s 41][548]
     
-    Section 121(2)(b): substituted, on 21 August 2003, by [section 34(1)][546] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 121(2)(b): substituted, on 21 August 2003, by [section 34(1)][549] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 121(2)(c): added, on 21 August 2003, by [section 34(1)][546] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 121(2)(c): added, on 21 August 2003, by [section 34(1)][549] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 121(3): added, on 21 August 2003, by [section 34(2)][546] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 121(3): added, on 21 August 2003, by [section 34(2)][549] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 121A Statutory manager to avoid actions likely to have detrimental effect
     
@@ -4411,7 +4423,7 @@ Registration of banks and prudential supervision of registered banks
     
     (6) A statutory manager may consult a prescribed Australian financial authority about whether an action the statutory manager proposes to take is likely to have a detrimental effect on financial system stability in Australia.
     
-    Section 121A: inserted, on 15 December 2006, by [section 8][547] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 121A: inserted, on 15 December 2006, by [section 8][550] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
 
 ##### 122 Moratorium
     
@@ -4443,7 +4455,7 @@ Registration of banks and prudential supervision of registered banks
     
     (6) \[Repealed\]
     
-    (7) In the case of a netting agreement to which [sections 310A to 310O][548] of the Companies Act 1993 or [sections 255 to 263][549] of the Insolvency Act 2006 apply,---
+    (7) In the case of a netting agreement to which [sections 310A to 310O][551] of the Companies Act 1993 or [sections 255 to 263][552] of the Insolvency Act 2006 apply,---
         
     *   (a) nothing in subsection (1)(h) applies to any right of set-off provided for in the netting agreement; and
     
@@ -4455,7 +4467,7 @@ Registration of banks and prudential supervision of registered banks
         
         
     
-    *   (c) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that registered bank to the extent that the right is exercised to enforce, or to assist in enforcing, the due performance, by that registered bank, of obligations entered into by that registered bank under a recognised multilateral netting agreement (within the meaning of [section 310A][548] of the Companies Act 1993).
+    *   (c) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that registered bank to the extent that the right is exercised to enforce, or to assist in enforcing, the due performance, by that registered bank, of obligations entered into by that registered bank under a recognised multilateral netting agreement (within the meaning of [section 310A][551] of the Companies Act 1993).
     
     (8) In the case of netting under the rules of a designated settlement system,---
         
@@ -4469,35 +4481,35 @@ Registration of banks and prudential supervision of registered banks
         
         
     
-    (9) For the purpose of subsection (8), _netted balance_ and _netting_ have the meanings set out in [section 156L][550].
+    (9) For the purpose of subsection (8), _netted balance_ and _netting_ have the meanings set out in [section 156L][553].
     
-    Compare: 1964 No 134 s 38V; 1986 No 131 s 10; 1989 No 11 [s 42][551]
+    Compare: 1964 No 134 s 38V; 1986 No 131 s 10; 1989 No 11 [s 42][554]
     
     Section 122(1)(c): substituted, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
     Section 122(1)(c): amended, on 1 November 2007, by [section 41][443] of the Companies Amendment Act 2006 (2006 No 56).
     
-    Section 122(1)(d): amended, on 1 January 2008, by [section 364(1)][552] of the Property Law Act 2007 (2007 No 91).
+    Section 122(1)(d): amended, on 1 January 2008, by [section 364(1)][555] of the Property Law Act 2007 (2007 No 91).
     
-    Section 122(1)(g): amended, on 1 January 2008, by [section 364(1)][552] of the Property Law Act 2007 (2007 No 91).
+    Section 122(1)(g): amended, on 1 January 2008, by [section 364(1)][555] of the Property Law Act 2007 (2007 No 91).
     
-    Section 122(5): substituted, on 21 August 2003, by [section 35(1)][553] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 122(5): substituted, on 21 August 2003, by [section 35(1)][556] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 122(6): repealed, on 21 August 2003, by [section 35(1)][553] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 122(6): repealed, on 21 August 2003, by [section 35(1)][556] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 122(7): added, on 26 April 1999, by [section 3(2)][554] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 122(7): added, on 26 April 1999, by [section 3(2)][557] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 122(7): amended, on 3 December 2007, by [section 445][555] of the Insolvency Act 2006 (2006 No 55).
+    Section 122(7): amended, on 3 December 2007, by [section 445][558] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 122(7)(c): substituted, on 21 August 2003, by [section 35(2)][553] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 122(7)(c): substituted, on 21 August 2003, by [section 35(2)][556] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 122(8): added, on 21 August 2003, by [section 35(3)][553] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 122(8): added, on 21 August 2003, by [section 35(3)][556] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 122(8): amended, on 24 November 2009, by [section 5][556] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 122(8): amended, on 24 November 2009, by [section 5][559] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 122(8)(b)(i): amended, on 24 November 2009, by [section 5][556] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 122(8)(b)(i): amended, on 24 November 2009, by [section 5][559] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 122(9): added, on 21 August 2003, by [section 35(3)][553] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 122(9): added, on 21 August 2003, by [section 35(3)][556] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 123 Statutory manager may incorporate company under Companies Act 1993 to acquire business of branch of foreign institution
     
@@ -4517,7 +4529,7 @@ Registration of banks and prudential supervision of registered banks
     
     Compare: 1964 No 134 s 38W(1), (3)--(5); 1986 No 131 s 10
     
-    Section 123 heading: amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 123 heading: amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 123(1)(a): amended, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -4559,11 +4571,11 @@ Registration of banks and prudential supervision of registered banks
     
     (3) Nothing in subsection (2) shall prevent the issue of an injunction or the making of any order to prevent any property or assets being removed from New Zealand.
     
-    Compare: 1964 No 134 s 38X; 1986 No 131 s 10; 1989 No 11 [s 43][557]
+    Compare: 1964 No 134 s 38X; 1986 No 131 s 10; 1989 No 11 [s 43][560]
     
-    Section 126(2): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 126(2): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 126(2A): inserted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 126(2A): inserted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 127 Statutory manager may suspend payment of money owing
     
@@ -4577,23 +4589,23 @@ Registration of banks and prudential supervision of registered banks
     
     (3) Nothing in subsection (1) shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, or the cancellation by the statutory manager of any obligation to provide funding, to any person where the obligation to repay the deposit, or to pay the debt, or the obligation, was incurred by the registered bank, or by the statutory manager, after the date upon which, and the time at which, the registered bank became subject to statutory management.
     
-    (4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with [section 310C][558] of the Companies Act 1993 or [section 257][559] of the Insolvency Act 2006 or [section 156R][262], as the case may be. However, subsection (1) applies to the payment of the netted balance.
+    (4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with [section 310C][561] of the Companies Act 1993 or [section 257][562] of the Insolvency Act 2006 or [section 156R][262], as the case may be. However, subsection (1) applies to the payment of the netted balance.
     
-    Compare: 1964 No 134 s 38Y; 1986 No 131 s 10; 1989 No 11 [s 44][560]
+    Compare: 1964 No 134 s 38Y; 1986 No 131 s 10; 1989 No 11 [s 44][563]
     
-    Section 127(1): substituted, on 21 August 2003, by [section 36(1)][561] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 127(1): substituted, on 21 August 2003, by [section 36(1)][564] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 127(2): substituted, on 21 August 2003, by [section 36(1)][561] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 127(2): substituted, on 21 August 2003, by [section 36(1)][564] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 127(3): amended, on 21 August 2003, by [section 36(2)][561] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 127(3): amended, on 21 August 2003, by [section 36(2)][564] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 127(3): amended, on 26 April 1999, by [section 4(1)][562] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 127(3): amended, on 26 April 1999, by [section 4(1)][565] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 127(4): added, on 26 April 1999, by [section 4(2)][562] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 127(4): added, on 26 April 1999, by [section 4(2)][565] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 127(4): amended, on 3 December 2007, by [section 445][555] of the Insolvency Act 2006 (2006 No 55).
+    Section 127(4): amended, on 3 December 2007, by [section 445][558] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 127(4): amended, on 21 August 2003, by [section 36(3)][561] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 127(4): amended, on 21 August 2003, by [section 36(3)][564] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 128 Management of registered bank to vest in statutory manager
     
@@ -4601,9 +4613,9 @@ Registration of banks and prudential supervision of registered banks
     
     (2) Where a registered bank is declared to be subject to statutory management, it shall not be lawful or competent for any director, manager, or other person to be engaged in the management or conduct of its business, or to act as an officer or as the agent, or servant, of the registered bank, except with the permission of the statutory manager and so far as that permission extends.
     
-    Compare: 1964 No 134 s 38Z; 1986 No 131 s 10; 1989 No 11 [s 45][563]
+    Compare: 1964 No 134 s 38Z; 1986 No 131 s 10; 1989 No 11 [s 45][566]
     
-    Section 128(1): amended, on 26 April 1999, by [section 5][564] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 128(1): amended, on 26 April 1999, by [section 5][567] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
 
 ##### 129 Powers of statutory manager
     
@@ -4617,9 +4629,9 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) in the case of a partnership, all the powers exercisable by a partner or partners.
     
-    (3) Without limiting subsection (1), a statutory manager has, and may exercise, all of the powers conferred on a liquidator of a company by [section 269][565] of the Companies Act 1993 in the same manner as if the statutory manager was the liquidator of a company in liquidation under that Act, and all the provisions of that section shall apply in respect of the disclaimer of any property of the registered bank as if that property was property of a company to which that section applied.
+    (3) Without limiting subsection (1), a statutory manager has, and may exercise, all of the powers conferred on a liquidator of a company by [section 269][568] of the Companies Act 1993 in the same manner as if the statutory manager was the liquidator of a company in liquidation under that Act, and all the provisions of that section shall apply in respect of the disclaimer of any property of the registered bank as if that property was property of a company to which that section applied.
     
-    Compare: 1964 No 134 s 38AB; 1986 No 131 s 10; 1989 No 11 [s 46][566]
+    Compare: 1964 No 134 s 38AB; 1986 No 131 s 10; 1989 No 11 [s 46][569]
     
     Section 129(3): substituted, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
 
@@ -4627,7 +4639,7 @@ Registration of banks and prudential supervision of registered banks
     
 *   Subject to this Part, a statutory manager of a registered bank may carry on all or any part of the business of the registered bank and has, and may exercise, in relation to the registered bank, all such powers, rights, and authorities as may be necessary to carry on that business.
     
-    Compare: 1964 No 134 s 38AC; 1986 No 131 s 10; 1989 No 11 [s 47][567]
+    Compare: 1964 No 134 s 38AC; 1986 No 131 s 10; 1989 No 11 [s 47][570]
 
 ##### 131 Statutory manager may pay creditors and compromise claims
     
@@ -4639,7 +4651,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) compromise all calls, debts and claims subsisting, or supposed to subsist, between the registered bank and any other person, and all questions relating to the assets of the registered bank, and give a complete or partial discharge.
     
-    Compare: 1964 No 134 s 38AD; 1986 No 131 s 10; 1989 No 11 [s 48][568]
+    Compare: 1964 No 134 s 38AD; 1986 No 131 s 10; 1989 No 11 [s 48][571]
 
 ##### 132 Sale of registered bank
     
@@ -4667,7 +4679,7 @@ Registration of banks and prudential supervision of registered banks
     
     unless the statutory manager has consulted with the Bank and the Bank, with the consent of the Minister, has given approval in writing to the sale or other disposition and the terms and conditions of it.
     
-    Compare: 1964 No 134 s 38AE(1)--(3); 1986 No 131 s 10; 1989 No 11 [s 50(1)][569], [(2)][569]
+    Compare: 1964 No 134 s 38AE(1)--(3); 1986 No 131 s 10; 1989 No 11 [s 50(1)][572], [(2)][572]
     
     Section 132(2)(a): amended, on 1 July 1994, by [section 2][442] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
     
@@ -4687,7 +4699,7 @@ Registration of banks and prudential supervision of registered banks
     
     being a sale or disposition to which the Bank has, with the consent of the Minister, given its approval under [section 132(3)][202].
     
-    Compare: 1964 No 134 s 38AE(4); 1986 No 131 s 10; 1989 No 11 [s 50(3)][569]
+    Compare: 1964 No 134 s 38AE(4); 1986 No 131 s 10; 1989 No 11 [s 50(3)][572]
 
 ##### 134 Sale of property or assets subject to a security
     
@@ -4713,27 +4725,27 @@ Registration of banks and prudential supervision of registered banks
         
     *   (a) is over all or any part of the bank's or body corporate's (as the case may be) accounts receivable and inventory or all or any part of either of them; and
     
-    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][570] of the Personal Property Securities Act 1999; and
+    *   (b) is not a purchase money security interest that has been perfected at the time specified in [section 74][573] of the Personal Property Securities Act 1999; and
     
     *   (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
     
-    (7) In this section, _account receivable_, _inventory_, _new value_, _purchase money security interest_, _proceeds_, and **security interest** have the same meanings as in the [Personal Property Securities Act 1999][571].
+    (7) In this section, _account receivable_, _inventory_, _new value_, _purchase money security interest_, _proceeds_, and **security interest** have the same meanings as in the [Personal Property Securities Act 1999][574].
     
-    Compare: 1964 No 134 s 38AE(5)--(9); 1986 No 131 s 10; 1989 No 11 [s 51][572]
+    Compare: 1964 No 134 s 38AE(5)--(9); 1986 No 131 s 10; 1989 No 11 [s 51][575]
     
-    Section 134(2): substituted, on 1 May 2002, by [section 191(1)][573] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 134(2): substituted, on 1 May 2002, by [section 191(1)][576] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 134(4): substituted, on 1 May 2002, by [section 191(1)][573] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 134(4): substituted, on 1 May 2002, by [section 191(1)][576] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 134(5): substituted, on 1 May 2002, by [section 191(1)][573] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 134(5): substituted, on 1 May 2002, by [section 191(1)][576] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 134(6): added, on 1 May 2002, by [section 191(1)][573] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 134(6): added, on 1 May 2002, by [section 191(1)][576] of the Personal Property Securities Act 1999 (1999 No 126).
     
-    Section 134(6)(b): amended, on 3 December 2007, by [section 445][555] of the Insolvency Act 2006 (2006 No 55).
+    Section 134(6)(b): amended, on 3 December 2007, by [section 445][558] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 134(6)(c): amended, on 3 December 2007, by [section 445][555] of the Insolvency Act 2006 (2006 No 55).
+    Section 134(6)(c): amended, on 3 December 2007, by [section 445][558] of the Insolvency Act 2006 (2006 No 55).
     
-    Section 134(7): added, on 1 May 2002, by [section 191(1)][573] of the Personal Property Securities Act 1999 (1999 No 126).
+    Section 134(7): added, on 1 May 2002, by [section 191(1)][576] of the Personal Property Securities Act 1999 (1999 No 126).
 
 ##### 135 Proof of transactions
     
@@ -4747,7 +4759,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to [section 132(2)(a)][202] has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
     
-    Compare: 1964 No 134 s 38AE(10), (11); 1986 No 131 s 10; 1989 No 11 [s 72][574]
+    Compare: 1964 No 134 s 38AE(10), (11); 1986 No 131 s 10; 1989 No 11 [s 72][577]
 
 ##### 136 Liquidation of registered banks
     
@@ -4765,11 +4777,11 @@ Registration of banks and prudential supervision of registered banks
     
     (4) Nothing in this section limits or affects any other enactment which provides for the winding up, liquidation, or dissolution of any body corporate or any class of body corporate.
     
-    Section 136: substituted, on 1 July 1994, by [section 2][575] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 136: substituted, on 1 July 1994, by [section 2][578] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 136(1)(a): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 136(1)(a): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 136(1)(b): amended, on 3 December 2007, by [section 445][555] of the Insolvency Act 2006 (2006 No 55).
+    Section 136(1)(b): amended, on 3 December 2007, by [section 445][558] of the Insolvency Act 2006 (2006 No 55).
 
 ##### 137 Provisions applying where liabilities included in sale
     
@@ -4783,7 +4795,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) Where all or any part of any liability of a body corporate formed and registered under [section 123(1)][193], or all or any part of any liability relating to the business carried on by a branch of any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, is included in such a sale or other disposition, nothing in subsection (1)(a) shall relieve any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand from any obligation in respect of that liability.
     
-    Compare: 1964 No 134 s 38AG; 1986 No 131 s 10; 1989 No 11 [s 53][576]
+    Compare: 1964 No 134 s 38AG; 1986 No 131 s 10; 1989 No 11 [s 53][579]
 
 ##### 138 Power to trace property improperly disposed of
     
@@ -4805,15 +4817,15 @@ Registration of banks and prudential supervision of registered banks
     
     (4) Nothing in this section restricts the operation of the [Companies Act 1993][424].
     
-    Compare: 1989 No 11 [s 54][577]
+    Compare: 1989 No 11 [s 54][580]
     
-    Section 138(4): substituted, on 1 July 1994, by [section 3][578] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 138(4): substituted, on 1 July 1994, by [section 3][581] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 138(4): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 138(4): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 139 Application of certain provisions of Companies Act 1993
     
-*   (1) [Sections 275][579], [292 to 301][580], [310G][581], [310I][582], and [312][583] of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if---
+*   (1) [Sections 275][582], [292 to 301][583], [310G][584], [310I][585], and [312][586] of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management under this Act in all respects, and with such modifications as may be necessary, as if---
         
     *   (a) the registered bank was a company in liquidation under that Act; and
     
@@ -4821,19 +4833,19 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) the date on which, and the time at which, the registered bank became subject to statutory management was the date on which, and the time at which, the liquidation commenced.
     
-    (2) Nothing in [section 263][584] of the Companies Act 1993 shall apply to a registered bank by virtue of the application of [section 312][583] of that Act.
+    (2) Nothing in [section 263][587] of the Companies Act 1993 shall apply to a registered bank by virtue of the application of [section 312][586] of that Act.
     
-    (3) To avoid doubt, the reference in [section 275(4)][579] of the Companies Act 1993 to [clause 1(a)][585] of Schedule 7 of the Companies Act 1993 must be read as a reference to [section 148(1)][220] of this Act.
+    (3) To avoid doubt, the reference in [section 275(4)][582] of the Companies Act 1993 to [clause 1(a)][588] of Schedule 7 of the Companies Act 1993 must be read as a reference to [section 148(1)][220] of this Act.
     
-    Section 139: substituted, on 1 July 1994, by [section 4][586] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 139: substituted, on 1 July 1994, by [section 4][589] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 139(1): amended, on 20 September 2007, by [section 4(1)][587] of the Reserve Bank of New Zealand Amendment Act 2007 (2007 No 76).
+    Section 139(1): amended, on 20 September 2007, by [section 4(1)][590] of the Reserve Bank of New Zealand Amendment Act 2007 (2007 No 76).
     
-    Section 139(1): amended, on 26 April 1999, by [section 6(1)][588] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 139(1): amended, on 26 April 1999, by [section 6(1)][591] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 139(1)(c): substituted, on 26 April 1999, by [section 6(2)][588] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 139(1)(c): substituted, on 26 April 1999, by [section 6(2)][591] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 139(3): added, on 20 September 2007, by [section 4(2)][587] of the Reserve Bank of New Zealand Amendment Act 2007 (2007 No 76).
+    Section 139(3): added, on 20 September 2007, by [section 4(2)][590] of the Reserve Bank of New Zealand Amendment Act 2007 (2007 No 76).
 
 #### Miscellaneous provisions
 
@@ -4847,7 +4859,7 @@ Registration of banks and prudential supervision of registered banks
     
     *   (b) where an associated person of a registered bank is declared to be subject to statutory management, or a subsidiary of a registered bank becomes subject to statutory management under [section 117(2)][186], references in [sections 119 to 139][188] and in [sections 141 to 156][212] to a registered bank shall be read as references to that associated person or subsidiary, as the case may be.
     
-    Compare: 1964 No 134 s 38R(11), (12); 1986 No 131 s 10; 1989 No 11 [s 56][589]
+    Compare: 1964 No 134 s 38R(11), (12); 1986 No 131 s 10; 1989 No 11 [s 56][592]
 
 ##### 141 Termination of appointment of statutory manager
     
@@ -4877,21 +4889,21 @@ Registration of banks and prudential supervision of registered banks
     
     (6) The Bank must publish a notice given by the Minister under this section in the _Gazette_ as soon as practicable.
     
-    Compare: 1964 No 134 s 38AH; 1986 No 131 s 10; 1989 No 11 [s 57][590]
+    Compare: 1964 No 134 s 38AH; 1986 No 131 s 10; 1989 No 11 [s 57][593]
     
-    Section 141(1): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(1): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 141(3): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(3): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
     Section 141(3A): inserted, on 8 April 1992, by section 2 of the Reserve Bank of New Zealand Amendment Act 1992 (1992 No 32).
     
-    Section 141(3A): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(3A): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 141(4): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(4): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 141(5): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(5): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 141(6): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 141(6): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 142 Statutory manager may apply to High Court for directions
     
@@ -4899,7 +4911,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) On any application under subsection (1) the High Court may give directions concerning the business or property of the registered bank, or the management or administration of that business or property, or the exercise of any powers under this Part and every person shall be bound by any such directions.
     
-    Compare: 1964 No 134 s 38AI; 1986 No 131 s 10; 1989 No 11 [s 58][591]
+    Compare: 1964 No 134 s 38AI; 1986 No 131 s 10; 1989 No 11 [s 58][594]
 
 ##### 143 Prior winding up, liquidation, or receivership to cease
     
@@ -4913,9 +4925,9 @@ Registration of banks and prudential supervision of registered banks
     
     (3) Where any liquidation, receivership, or voluntary administration revives under subsection (2), the person specified in the order as such must be the liquidator, receiver, or administrator of that registered bank, subsidiary, or associated person for the time being.
     
-    Compare: 1989 No 11 [s 61][592]
+    Compare: 1989 No 11 [s 61][595]
     
-    Section 143 heading: amended, on 1 July 1994, pursuant to [section 6][593] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 143 heading: amended, on 1 July 1994, pursuant to [section 6][596] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
     Section 143(1): substituted, on 1 November 2007, by [section 41][443] of the Companies Amendment Act 2006 (2006 No 56).
     
@@ -4925,11 +4937,11 @@ Registration of banks and prudential supervision of registered banks
 
 ##### 143A Continuation of statutory management
     
-*   (1) This section applies to a registered bank, an associated person of a registered bank, or a subsidiary of a registered bank, that has been removed from the New Zealand register under [section 317][594] of the Companies Act 1993 while subject to statutory management under this Act.
+*   (1) This section applies to a registered bank, an associated person of a registered bank, or a subsidiary of a registered bank, that has been removed from the New Zealand register under [section 317][597] of the Companies Act 1993 while subject to statutory management under this Act.
     
-    (2) If a person to whom this section applies is restored to the New Zealand register under [section 328][595] of the Companies Act 1993, the person continues to be subject to statutory management from the date that person is so restored.
+    (2) If a person to whom this section applies is restored to the New Zealand register under [section 328][598] of the Companies Act 1993, the person continues to be subject to statutory management from the date that person is so restored.
     
-    Section 143A: inserted, on 21 August 2003, by [section 37][596] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 143A: inserted, on 21 August 2003, by [section 37][599] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 144 Termination of statutory management
     
@@ -4969,31 +4981,31 @@ Registration of banks and prudential supervision of registered banks
     
     *   (c) the appointment of any person appointed as a member of an advisory committee under [section 119][188] in relation to the statutory management of that subsidiary shall terminate on the date and at the time referred to in paragraph (a).
     
-    Compare: 1964 No 134 s 38AJ; 1986 No 131 s 10; 1989 No 11 [s 62][597]
+    Compare: 1964 No 134 s 38AJ; 1986 No 131 s 10; 1989 No 11 [s 62][600]
     
-    Section 144(2): substituted, on 1 July 1994, by [section 7(1)][598] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 144(2): substituted, on 1 July 1994, by [section 7(1)][601] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 144(4): amended, on 1 July 1994, by [section 7(2)][598] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 144(4): amended, on 1 July 1994, by [section 7(2)][601] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 144(4)(a): amended, on 26 April 1999, by [section 7(a)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(4)(a): amended, on 26 April 1999, by [section 7(a)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(4)(b): amended, on 26 April 1999, by [section 7(a)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(4)(b): amended, on 26 April 1999, by [section 7(a)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(4)(c): amended, on 26 April 1999, by [section 7(a)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(4)(c): amended, on 26 April 1999, by [section 7(a)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(5): amended, on 26 April 1999, by [section 7(b)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(5): amended, on 26 April 1999, by [section 7(b)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(5)(a): amended, on 26 April 1999, by [section 7(c)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(5)(a): amended, on 26 April 1999, by [section 7(c)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(5)(b): substituted, on 1 July 1994, by [section 7(3)][598] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 144(5)(b): substituted, on 1 July 1994, by [section 7(3)][601] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 144(5)(b): amended, on 26 April 1999, by [section 7(c)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(5)(b): amended, on 26 April 1999, by [section 7(c)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(6)(a): amended, on 26 April 1999, by [section 7(d)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(6)(a): amended, on 26 April 1999, by [section 7(d)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(6)(b): amended, on 26 April 1999, by [section 7(e)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(6)(b): amended, on 26 April 1999, by [section 7(e)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
     
-    Section 144(6)(c): amended, on 26 April 1999, by [section 7(e)][599] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
+    Section 144(6)(c): amended, on 26 April 1999, by [section 7(e)][602] of the Reserve Bank of New Zealand Amendment Act 1999 (1999 No 22).
 
 ##### 145 Obligations incurred by statutory manager
     
@@ -5001,19 +5013,19 @@ Registration of banks and prudential supervision of registered banks
     
     (2) In the winding up or liquidation of a registered bank or an associated person of a registered bank or a subsidiary of a registered bank, all amounts required to satisfy obligations incurred by the statutory manager on behalf of the registered bank, associated person, or subsidiary must be paid in priority to all other debts.
     
-    Section 145: substituted, on 21 August 2003, by [section 38][600] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 145: substituted, on 21 August 2003, by [section 38][603] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 146 Indemnity
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 21 August 2003, by [section 39][601] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 146: repealed, on 21 August 2003, by [section 39][604] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 147 Registered bank not entitled to be informed about exercise of powers
     
 *   Except as otherwise provided in this Part, no registered bank, associated person, or subsidiary, and no director, officer, or employee of a registered bank, associated person, or subsidiary, has a right to be consulted or informed as to the exercise, or possible exercise, of any powers conferred by this Part or to make representations to any person as to the exercise, or possible exercise, of those powers.
     
-    Compare: 1989 No 11 [s 64][602]
+    Compare: 1989 No 11 [s 64][605]
 
 ##### 148 Expenses of statutory management
     
@@ -5023,13 +5035,13 @@ Registration of banks and prudential supervision of registered banks
     
     (3) This section prevails over [section 145][217].
     
-    Compare: 1964 No 134 s 38AL; 1986 No 131 s 10; 1989 No 11 [s 65][603]
+    Compare: 1964 No 134 s 38AL; 1986 No 131 s 10; 1989 No 11 [s 65][606]
     
-    Section 148(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 148(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 148(2): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 148(2): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 148(3): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 148(3): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 149 Advances to statutory manager and members of advisory committee
     
@@ -5037,7 +5049,7 @@ Registration of banks and prudential supervision of registered banks
     
     (2) All money so advanced to that person shall be refunded to the Crown out of money payable to that person, and the Crown shall have all the rights of the person to whom the advance was made to receive and recover that money. Money refunded to the Crown shall be credited upon receipt to the Crown Bank Account.
     
-    Compare: 1989 No 11 [s 66][604]
+    Compare: 1989 No 11 [s 66][607]
 
 ##### 150 Duty to deliver books and property to statutory manager
     
@@ -5051,13 +5063,13 @@ Registration of banks and prudential supervision of registered banks
     
     (5) The penalty for an offence against this section is set out in [section 156AC][232].
     
-    Compare: 1989 No 11 [s 67][605]
+    Compare: 1989 No 11 [s 67][608]
     
-    Section 150(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 150(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 150(2): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 150(2): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 150(5): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 150(5): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 151 Offence to destroy, alter, or conceal records
     
@@ -5071,13 +5083,13 @@ Registration of banks and prudential supervision of registered banks
     
     (2) If, in any prosecution for an offence alleged to have been committed against this section, it is proved that the person charged with the offence has destroyed, altered, or concealed any book, document, or record, or has sent, or attempted to send, out of New Zealand, any such book, document, or record, the onus of proving that in so doing that person had not acted in contravention of this section shall lie on that person.
     
-    Compare: 1989 No 11 [s 68][606]
+    Compare: 1989 No 11 [s 68][609]
     
-    Section 151(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 151(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 151(1)(b): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 151(1)(b): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 151(1A): inserted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 151(1A): inserted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 152 Regulations relating to powers of Bank and statutory manager
     
@@ -5099,37 +5111,37 @@ Registration of banks and prudential supervision of registered banks
 
 ##### 153 Application of other Acts
     
-*   (1) Subject to subsection (2), all the provisions of the [Companies Act 1993][424] and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a company within the meaning of [section 2][607] of that Act and that is subject to statutory management.
+*   (1) Subject to subsection (2), all the provisions of the [Companies Act 1993][424] and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a company within the meaning of [section 2][610] of that Act and that is subject to statutory management.
     
     (2) \[Repealed\]
     
     (3) \[Repealed\]
     
-    (4) Nothing in [sections 120][608], [196 to 209B][609], and [214][610] of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management.
+    (4) Nothing in [sections 120][611], [196 to 209B][612], and [214][613] of the Companies Act 1993 shall apply to a registered bank that is subject to statutory management.
     
-    (5) Nothing in the [Receiverships Act 1993][611] shall apply to a company that is subject to statutory management.
+    (5) Nothing in the [Receiverships Act 1993][614] shall apply to a company that is subject to statutory management.
     
-    (6) Subject to subsection (7), all the provisions of the [Building Societies Act 1965][612] and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a building society within the meaning of [section 2][426] of that Act and that is subject to statutory management.
+    (6) Subject to subsection (7), all the provisions of the [Building Societies Act 1965][615] and all rules and regulations under that Act shall, so far as they are applicable, and with the necessary modifications, apply to a registered bank that is a building society within the meaning of [section 2][426] of that Act and that is subject to statutory management.
     
-    (7) Nothing in [sections 76][613] and [91 to 106][614] of the Building Societies Act 1965 shall apply to a building society that is subject to statutory management.
+    (7) Nothing in [sections 76][616] and [91 to 106][617] of the Building Societies Act 1965 shall apply to a building society that is subject to statutory management.
     
     (8) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with the recommendation of the Bank, declare that the provisions of any Act under which any other registered bank that is subject to statutory management is incorporated, constituted, or registered corresponding with the provisions referred to in subsections (4), (7), and (9) shall not apply to that registered bank.
     
-    (9) To avoid doubt, the Bank or any other person is not a director (within the meaning of [section 126][615] of the Companies Act 1993) of any registered bank or an associated person of the registered bank by reason only of the Bank or that other person exercising the powers conferred by this Part.
+    (9) To avoid doubt, the Bank or any other person is not a director (within the meaning of [section 126][618] of the Companies Act 1993) of any registered bank or an associated person of the registered bank by reason only of the Bank or that other person exercising the powers conferred by this Part.
     
-    Section 153: substituted, on 1 July 1994, by [section 9][616] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
+    Section 153: substituted, on 1 July 1994, by [section 9][619] of the Reserve Bank of New Zealand Amendment Act 1993 (1993 No 118).
     
-    Section 153(1): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 153(1): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 153(2): repealed, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 153(2): repealed, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 153(3): repealed, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 153(3): repealed, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 153(4): amended, on 18 June 2007, by [section 17][617] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
+    Section 153(4): amended, on 18 June 2007, by [section 17][620] of the Companies Amendment Act (No 2) 2006 (2006 No 62).
     
-    Section 153(8): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 153(8): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 153(9): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 153(9): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 154 Appointment of auditors
     
@@ -5149,13 +5161,13 @@ Registration of banks and prudential supervision of registered banks
     
     (8) A notice given under subsection (4) must be published in the _Gazette_ as soon as practicable.
     
-    Section 154(1): substituted, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 154(1): substituted, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 154(4): amended, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 154(4): amended, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 154(4): amended, on 1 January 2002, by [section 70(1)][544] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 154(4): amended, on 1 January 2002, by [section 70(1)][547] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 154(8): added, on 21 August 2003, by [section 41][494] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 154(8): added, on 21 August 2003, by [section 41][496] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 155 Annual accounts
     
@@ -5169,11 +5181,11 @@ Registration of banks and prudential supervision of registered banks
     
     (3) The accounts specified in subsection (1) shall be audited and reported on by the auditor.
     
-    Section 155(1)(a): amended, on 1 October 1997, pursuant to [section 6(1)][618] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 155(1)(a): amended, on 1 October 1997, pursuant to [section 6(1)][621] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 155(1)(a): amended, on 1 October 1997, pursuant to [section 6(2)][618] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 155(1)(a): amended, on 1 October 1997, pursuant to [section 6(2)][621] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 155(2): amended, on 1 October 1997, pursuant to [section 6(1)][618] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 155(2): amended, on 1 October 1997, pursuant to [section 6(1)][621] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 156 Annual report by statutory manager
     
@@ -5193,11 +5205,11 @@ Registration of banks and prudential supervision of registered banks
 
 #### Penalties for offences against this Part
     
-*   Heading: inserted, on 21 August 2003, by [section 40][619] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 40][622] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156AA Penalty for miscellaneous offences
     
-*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000:
     
@@ -5217,11 +5229,13 @@ Registration of banks and prudential supervision of registered banks
     
     *   (f) [section 115][183] (which relates to the unauthorised disclosure of the fact that a direction has been given).
     
-    Section 156AA: inserted, on 21 August 2003, by [section 40][619] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156AA: inserted, on 21 August 2003, by [section 40][622] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 156AA(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 156AB Penalty for offences relating to supply of information, etc
     
-*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000:
     
@@ -5241,11 +5255,13 @@ Registration of banks and prudential supervision of registered banks
     
     *   (f) [section 99(3)][162] (which relates to hindering, obstructing, or delaying the conduct of an inspection).
     
-    Section 156AB: inserted, on 21 August 2003, by [section 40][619] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156AB: inserted, on 21 August 2003, by [section 40][622] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 156AB(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 156AC Penalty for offences relating to registration of banks, disclosure statements, prudential supervision of registered banks, etc
     
-*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 18 months or to a fine not exceeding $200,000:
     
@@ -5293,7 +5309,9 @@ Registration of banks and prudential supervision of registered banks
     
     *   (t) [section 151(1)(b)][223] (which relates to failing or refusing to answer a statutory manager's question about any book, document, etc, relating to a registered bank that is subject to statutory management, and giving a false answer to that question).
     
-    Section 156AC: inserted, on 21 August 2003, by [section 40][619] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156AC: inserted, on 21 August 2003, by [section 40][622] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 156AC(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5A  
 Retention of documents by banks
@@ -5334,13 +5352,13 @@ Retention of documents by banks
         
     *   (a) a copy of the document has been made by the bank on microfilm, microfiche, tape, disc, electronic or photographic storage media, or other means; and
     
-    *   (b) the copy is able to be reproduced therefrom in a form that can be produced in evidence under the [Evidence Act 2006][620]; and
+    *   (b) the copy is able to be reproduced therefrom in a form that can be produced in evidence under the [Evidence Act 2006][623]; and
     
     *   (c) the copy is retained by the bank for the same period as the document is required to be retained pursuant to that subsection.
     
-    (5) It is sufficient compliance with the duty to retain imposed by subsection (2), in the case of a cheque that has been presented for payment in accordance with [section 7D(1)(b)(iii)][621] of the Cheques Act 1960, if---
+    (5) It is sufficient compliance with the duty to retain imposed by subsection (2), in the case of a cheque that has been presented for payment in accordance with [section 7D(1)(b)(iii)][624] of the Cheques Act 1960, if---
         
-    *   (a) the paying bank arranges, in accordance with the rules of an inter-bank clearing system (within the meaning of [section 7A][622] of that Act), for the retention, on behalf of the paying bank, of the cheque or a copy of it in accordance with subsection (4); and
+    *   (a) the paying bank arranges, in accordance with the rules of an inter-bank clearing system (within the meaning of [section 7A][625] of that Act), for the retention, on behalf of the paying bank, of the cheque or a copy of it in accordance with subsection (4); and
     
     *   (b) the paying bank is entitled to obtain possession of the cheque or the copy; and
     
@@ -5354,26 +5372,26 @@ Retention of documents by banks
     
     Section 156A: inserted, on 30 June 1995, by section 2 of the Reserve Bank of New Zealand Amendment Act (No 2) 1995 (1995 No 34).
     
-    Section 156A(4)(b): amended, on 1 August 2007, by [section 216][623] of the Evidence Act 2006 (2006 No 69).
+    Section 156A(4)(b): amended, on 1 August 2007, by [section 216][626] of the Evidence Act 2006 (2006 No 69).
 
 ## Part 5B  
 Oversight of payment systems
     
-*   Part 5B: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Part 5B: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### General
     
-*   Heading: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156B Exercise of powers under this Part
     
 *   The powers conferred on the Bank by this Part must be exercised for the purpose of promoting the maintenance of a sound and efficient financial system.
     
-    Section 156B: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156B: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Supply of information relating to payment systems
     
-*   Heading: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156C Requirement to supply information relating to payment system
     
@@ -5395,7 +5413,7 @@ Oversight of payment systems
     
     (4) The Bank may, by a subsequent notice, vary, revoke, or amend a notice.
     
-    Section 156C: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156C: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156D Offence to fail to supply information
     
@@ -5407,7 +5425,7 @@ Oversight of payment systems
     
     (2) The penalty for an offence against this section is set out in [section 156J][248].
     
-    Section 156D: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156D: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156E Requirement that information be audited
     
@@ -5415,7 +5433,7 @@ Oversight of payment systems
     
     (2) Every audit must be conducted by a suitably qualified independent person who is approved by the Bank.
     
-    Section 156E: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156E: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156F Offence not to comply with requirement for audit
     
@@ -5423,11 +5441,11 @@ Oversight of payment systems
     
     (2) The penalty for an offence against this section is set out in [section 156J][248].
     
-    Section 156F: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156F: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Disclosure of information relating to payment systems
     
-*   Heading: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156G Disclosure of information
     
@@ -5453,7 +5471,7 @@ Oversight of payment systems
     
     (5) The penalty for an offence against this section is set out in [section 156J][248].
     
-    Section 156G: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156G: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156H Limits on further disclosure of information
     
@@ -5481,21 +5499,21 @@ Oversight of payment systems
     
     (3) The penalty for an offence against this section is set out in [section 156J][248].
     
-    Section 156H: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156H: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156I Application of other enactments to information published or disclosed under section 156G
     
-*   Nothing in any Act, other than this Act or the [Official Information Act 1982][477], requires the Bank or any person to whom information or data has been published or disclosed under [section 156G][244] to make that information or data available to any other person.
+*   Nothing in any Act, other than this Act or the [Official Information Act 1982][478], requires the Bank or any person to whom information or data has been published or disclosed under [section 156G][244] to make that information or data available to any other person.
     
-    Section 156I: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156I: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 #### Penalties for offences against this Part
     
-*   Heading: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+*   Heading: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 156J Penalties for offences
     
-*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; and
     
@@ -5511,16 +5529,18 @@ Oversight of payment systems
     
     *   (d) [section 156H][245] (which relates to further disclosure of information).
     
-    Section 156J: inserted, on 21 August 2003, by [section 42][624] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 156J: inserted, on 21 August 2003, by [section 42][627] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    
+    Section 156J(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5C  
 Designated settlement systems
     
-*   Part 5C: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Part 5C: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### General
     
-*   Heading: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156K Exercise of powers under this Part
     
@@ -5530,7 +5550,7 @@ Designated settlement systems
     
     *   (b) avoiding significant damage to the financial system that could result from the failure of a participant in a settlement system.
     
-    (2) The powers conferred on the Minister responsible for the [Securities Act 1978][457] and the FMA by this Part must be exercised for the purposes of---
+    (2) The powers conferred on the Minister responsible for the [Securities Act 1978][458] and the FMA by this Part must be exercised for the purposes of---
         
     *   (a) promoting the integrity and effectiveness of settlement systems and related markets in New Zealand; and
     
@@ -5538,9 +5558,9 @@ Designated settlement systems
     
     (3) The Governor-General must exercise the powers conferred on him or her by this Part for the purposes set out in subsections (1) and (2).
     
-    Section 156K: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156K: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 156K(2): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156K(2): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 156L Limit on FMA's powers in relation to Bank
     
@@ -5556,7 +5576,7 @@ Designated settlement systems
 
 \[Repealed\]
     
-*   Heading: repealed, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: repealed, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156M Definitions for this Part
     
@@ -5572,7 +5592,7 @@ Designated settlement systems
     
     *   (b) the FMA
     
-    _Minister responsible for the Securities Act 1978_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Securities Act 1978][457]
+    _Minister responsible for the Securities Act 1978_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the [Securities Act 1978][458]
     
     _netted balance_ means any amount calculated in accordance with the netting provisions of the rules of a designated settlement system as the net debit payable by, or on behalf of, a participant in the designated settlement system to, or on behalf of, another participant in that system for all or any claims or obligations to which those rules apply
     
@@ -5652,13 +5672,13 @@ Designated settlement systems
         
     *   (a) in the case of a company or other body corporate,---
             
-        *   (i) a liquidator is appointed in respect of a liquidation under [Part 16][627] of the Companies Act 1993 or under any other Act; or
+        *   (i) a liquidator is appointed in respect of a liquidation under [Part 16][630] of the Companies Act 1993 or under any other Act; or
         
-        *   (ii) an administrator is appointed in respect of a voluntary administration under [Part 15A][628] of the Companies Act 1993; or
+        *   (ii) an administrator is appointed in respect of a voluntary administration under [Part 15A][631] of the Companies Act 1993; or
         
-        *   (iii) a liquidator is appointed in respect of a liquidation of an overseas company under [section 342][629] of the Companies Act 1993; or
+        *   (iii) a liquidator is appointed in respect of a liquidation of an overseas company under [section 342][632] of the Companies Act 1993; or
         
-        *   (iv) a statutory manager is appointed in respect of a statutory management under [Part 3][630] of the Corporations (Investigation and Management) Act 1989; or
+        *   (iv) a statutory manager is appointed in respect of a statutory management under [Part 3][633] of the Corporations (Investigation and Management) Act 1989; or
         
         *   (v) a statutory manager is appointed in respect of a statutory management under [Part 5][102] of this Act; or
         
@@ -5668,25 +5688,25 @@ Designated settlement systems
     
     *   (b) in the case of an individual,---
             
-        *   (i) a person is adjudicated bankrupt under the [Insolvency Act 2006][631] or is given, or determined to have, a similar status (whether in New Zealand or in another country); or
+        *   (i) a person is adjudicated bankrupt under the [Insolvency Act 2006][634] or is given, or determined to have, a similar status (whether in New Zealand or in another country); or
         
-        *   (ii) a person is admitted to the no asset procedure in [subpart 4][632] of Part 5 of the Insolvency Act 2006 or becomes subject to a similar procedure (whether in New Zealand or in another country).
+        *   (ii) a person is admitted to the no asset procedure in [subpart 4][635] of Part 5 of the Insolvency Act 2006 or becomes subject to a similar procedure (whether in New Zealand or in another country).
         
         
     
-    Section 156M: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156M: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
     Section 156M(1) **Commission**: repealed, on 1 May 2011, by [section 82][437] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 156M(1) **joint regulators** paragraph (b): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156M(1) **joint regulators** paragraph (b): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 #### Designation
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156N Designation of settlement system
     
-*   (1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][457] given in accordance with a joint recommendation of the joint regulators, declare any settlement system to be a designated settlement system.
+*   (1) The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][458] given in accordance with a joint recommendation of the joint regulators, declare any settlement system to be a designated settlement system.
     
     (2) The order must specify---
         
@@ -5704,7 +5724,7 @@ Designated settlement systems
     
     *   (b) that a particular operator is a participant in the settlement system that is the subject of the designation:
     
-    *   (c) that the operator specified in accordance with subsection (2)(c) is an operator to whom [section 103A][633] of the Personal Property Securities Act 1999 applies:
+    *   (c) that the operator specified in accordance with subsection (2)(c) is an operator to whom [section 103A][636] of the Personal Property Securities Act 1999 applies:
     
     *   (d) that the settlement system that is the subject of the designation is a pure payment system.
     
@@ -5714,29 +5734,31 @@ Designated settlement systems
     
     (6) To avoid doubt,---
         
-    *   (a) rules are not regulations for the purposes of the [Regulations (Disallowance) Act 1989][504] and the [Acts and Regulations Publication Act 1989][634]; and
+    *   (a) rules are neither legislative instruments nor disallowable instruments for the purposes of the [Legislation Act 2012][506] (and do not have to be presented to the House of Representatives under [section 41][507] of that Act); and
     
-    *   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of [section 156Q][261], [156R][262], [156T][264], or [156X][269] of this Act or [section 103A][633] of the Personal Property Securities Act 1999\.
+    *   (b) a breach of a condition to which the designation of a settlement system is subject does not affect the application of [section 156Q][261], [156R][262], [156T][264], or [156X][269] of this Act or [section 103A][636] of the Personal Property Securities Act 1999\.
     
-    Section 156N: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156N: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 156N(5): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156N(5): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
+    
+    Section 156N(6)(a): replaced, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
 
 #### Effect of designation
 
 \[Repealed\]
     
-*   Heading: repealed, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: repealed, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156O Joint regulators' recommendations subject to procedure in sections 156Y to 156ZA
     
 *   The procedure set out in [sections 156Y to 156ZA][271] must be followed by the joint regulators when they make a recommendation under [section 156N(1)][256].
     
-    Section 156O: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156O: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Effect of designation
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156P Application of this Part to pure payment systems
     
@@ -5752,9 +5774,9 @@ Designated settlement systems
     
     *   (e) except as set out in subsection (2), in performing its functions and duties and exercising its powers under [sections 156K][251], [156M][254], and [156ZB to 156ZQ][275], the Bank does not have to consult with, advise, or give notice to, the FMA; and
     
-    *   (f) [section 156L][550] does not apply; and
+    *   (f) [section 156L][553] does not apply; and
     
-    *   (g) the advice of the Minister responsible for the [Securities Act 1978][457] is not required under [section 156ZD][278] or [156ZE][279]; and
+    *   (g) the advice of the Minister responsible for the [Securities Act 1978][458] is not required under [section 156ZD][278] or [156ZE][279]; and
     
     *   (h) this Part must be interpreted with all necessary modifications in order to give effect to this section.
     
@@ -5776,11 +5798,11 @@ Designated settlement systems
     
     *   (b) any other act that discharges an obligation to make a payment in accordance with the rules of a settlement system.
     
-    Section 156P: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156P: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 156P(1)(e): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156P(1)(e): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 156P(2): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156P(2): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 156Q Rules of designated settlement system are valid and enforceable
     
@@ -5804,7 +5826,7 @@ Designated settlement systems
         
         
     
-    Section 156Q: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156Q: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156R Settlements must not be reversed, etc
     
@@ -5820,9 +5842,9 @@ Designated settlement systems
     
     _foreign representative_ means a person or body, including one appointed on an interim basis, authorised in a foreign proceeding to administer the reorganisation or the liquidation of the debtor's assets or affairs or to act as a representative of the foreign proceeding.
     
-    Compare: 2006 No 57 [Schedule 1][635] Article 2
+    Compare: 2006 No 57 [Schedule 1][637] Article 2
     
-    Section 156R: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156R: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156S Limits on application of section 156R(1)
     
@@ -5840,11 +5862,11 @@ Designated settlement systems
     
     (3) For the purposes of subsection (2), _authorised on behalf of the insolvent participant_ means authorised (either individually or as part of a broader authorisation) by---
         
-    *   (a) a liquidator appointed under [Part 16][627] of the Companies Act 1993 or under any other Act; or
+    *   (a) a liquidator appointed under [Part 16][630] of the Companies Act 1993 or under any other Act; or
     
-    *   (b) an administrator appointed in accordance with subpart 2 of [Part 15A][628] of the Companies Act 1993; or
+    *   (b) an administrator appointed in accordance with subpart 2 of [Part 15A][631] of the Companies Act 1993; or
     
-    *   (c) a statutory manager appointed in accordance with [section 38][538] of the Corporations (Investigation and Management) Act 1989; or
+    *   (c) a statutory manager appointed in accordance with [section 38][541] of the Corporations (Investigation and Management) Act 1989; or
     
     *   (d) a statutory manager appointed in accordance with [section 117][186] of this Act; or
     
@@ -5852,53 +5874,53 @@ Designated settlement systems
     
     *   (f) a person who is authorised to do so under any enactment or rule of law of New Zealand or of any other country in which the insolvent participant was incorporated, created, or established; or
     
-    *   (g) the Assignee nominated under [section 59][636] of the Insolvency Act 2006 to be the Assignee of a bankrupt's property or any person who performs a similar role in respect of a process (whether in New Zealand or in another country) that is, or is similar to, bankruptcy.
+    *   (g) the Assignee nominated under [section 59][638] of the Insolvency Act 2006 to be the Assignee of a bankrupt's property or any person who performs a similar role in respect of a process (whether in New Zealand or in another country) that is, or is similar to, bankruptcy.
     
-    Section 156S: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156S: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156T Netting is valid and enforceable
     
 *   If the rules of a designated settlement system provide for netting, any netting in accordance with those rules is valid and enforceable despite any enactment or rule of law to the contrary.
     
-    Section 156T: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156T: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156U Interrelationship between netting and Companies Act 1993 and Insolvency Act 2006
     
 *   (1) The following provisions do not apply to any netting in accordance with the rules of a designated settlement system:
         
-    *   (a) [sections 310 to 310O][637] of the Companies Act 1993:
+    *   (a) [sections 310 to 310O][639] of the Companies Act 1993:
     
-    *   (b) [sections 254 to 262][638] of the Insolvency Act 2006\.
+    *   (b) [sections 254 to 262][640] of the Insolvency Act 2006\.
     
     (2) However, a netted balance is to be treated as---
         
-    *   (a) an amount to which [section 310(1)][637] of the Companies Act 1993 applies if a company that is in liquidation and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system; and
+    *   (a) an amount to which [section 310(1)][639] of the Companies Act 1993 applies if a company that is in liquidation and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system; and
     
-    *   (b) an amount to which [section 254(1)][638] of the Insolvency Act 2006 applies if the bankrupt (as defined in [section 3][639] of that Act) and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system.
+    *   (b) an amount to which [section 254(1)][640] of the Insolvency Act 2006 applies if the bankrupt (as defined in [section 3][641] of that Act) and another party (both of whom are participants in a designated settlement system) also have mutual credits, mutual debts, or other mutual dealings between them that are not netted in accordance with the rules of the designated settlement system.
     
-    Section 156U: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156U: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Procedure for making designation
 
 \[Repealed\]
     
-*   Heading: repealed, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: repealed, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156V Underlying transactions, settlements, and limits on effect of sections 156Q, 156R, and 156T
     
 *   (1) Nothing in [section 156Q][261], [156R][262], or [156T][264] prevents---
         
-    *   (a) the operation of any enactment or rule of law in relation to an underlying transaction (including, without limitation, [sections 56][640], [292][580], [297][641], and [298][642] of the Companies Act 1993 and [section 194][643] of the Insolvency Act 2006); or 
+    *   (a) the operation of any enactment or rule of law in relation to an underlying transaction (including, without limitation, [sections 56][642], [292][583], [297][643], and [298][644] of the Companies Act 1993 and [section 194][645] of the Insolvency Act 2006); or 
     
     *   (b) any party from taking action against another party that has acted fraudulently or dishonestly so long as the remedy sought or obtained in respect of that action does not affect the application of [section 156Q][261], [156R][262], or [156T][264].
     
-    (2) If a person brings an action under any enactment or rule of law in relation to an underlying transaction (including, without limitation, [sections 56][640], [292][580], [297][641], and [298][642] of the Companies Act 1993 and [section 194][643] of the Insolvency Act 2006), that person may produce evidence of a settlement before the court for the purpose of proving that---
+    (2) If a person brings an action under any enactment or rule of law in relation to an underlying transaction (including, without limitation, [sections 56][642], [292][583], [297][643], and [298][644] of the Companies Act 1993 and [section 194][645] of the Insolvency Act 2006), that person may produce evidence of a settlement before the court for the purpose of proving that---
         
     *   (a) a participant received value by means of that settlement; and
     
     *   (b) the value received was an element of the underlying transaction.
     
-    (3) Nothing in [section 292(4A)][580] of the Companies Act 1993 or [section 196][644] of the Insolvency Act 2006 applies to---
+    (3) Nothing in [section 292(4A)][583] of the Companies Act 1993 or [section 196][646] of the Insolvency Act 2006 applies to---
         
     *   (a) an underlying transaction; or
     
@@ -5924,7 +5946,7 @@ Designated settlement systems
         
         
     
-    Section 156V: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156V: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156W Interrelationship with other enactments
     
@@ -5932,11 +5954,11 @@ Designated settlement systems
         
     *   (a) [sections 122(8)][192] and [127(4)][197] of this Act:
     
-    *   (b) [sections 42(8)][551] and [44(4)][560] of the Corporations (Investigation and Management) Act 1989\.
+    *   (b) [sections 42(8)][554] and [44(4)][563] of the Corporations (Investigation and Management) Act 1989\.
     
-    (2) This Part prevails over the [Insolvency (Cross-border) Act 2006][645].
+    (2) This Part prevails over the [Insolvency (Cross-border) Act 2006][647].
     
-    Section 156W: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156W: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156X Transfer of property in accordance with rules is effective
     
@@ -5948,17 +5970,17 @@ Designated settlement systems
         
     *   (a) affects any right a person has to refuse to take an action on any other ground; or
     
-    *   (b) derogates from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][646] of the Public Finance Act 1989).
+    *   (b) derogates from section 45G(3) of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][648] of the Public Finance Act 1989).
     
-    (4) Section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][646] of the Public Finance Act 1989) must be read subject to this section.
+    (4) Section 45I of the Reserve Bank of New Zealand Act 1964 (as continued in force by [section 84][648] of the Public Finance Act 1989) must be read subject to this section.
     
     (5) Except as provided in this section, this section has effect despite anything to the contrary in any enactment, rule of law, constitution, deed, or agreement.
     
-    Section 156X: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156X: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Procedure for making designation
     
-*   Heading: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156Y Application for designation
     
@@ -5974,11 +5996,11 @@ Designated settlement systems
     
     *   (c) set out the contact details and the name or title of the person who is proposed to act as the contact person of the settlement system; and
     
-    *   (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the [Securities Act 1978][457] by notice in the _Gazette_.
+    *   (d) be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the [Securities Act 1978][458] by notice in the _Gazette_.
     
     (4) The joint regulators may, together, produce guidelines relating to the application procedure.
     
-    Section 156Y: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156Y: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156Z Consideration of application
     
@@ -6000,7 +6022,7 @@ Designated settlement systems
     
     *   (g) the importance of the settlement system to the financial system:
     
-    *   (h) the impact on creditors of participants in the settlement system of specifying that an operator of the settlement system is an operator to whom [section 103A][633] of the Personal Property Securities Act 1999 applies:
+    *   (h) the impact on creditors of participants in the settlement system of specifying that an operator of the settlement system is an operator to whom [section 103A][636] of the Personal Property Securities Act 1999 applies:
     
     *   (i) any other matters that the regulator considers appropriate.
     
@@ -6008,13 +6030,13 @@ Designated settlement systems
     
     (4) In considering an application, each of the joint regulators may have regard, or refer, to, and may rely upon, any relevant information, work, or matter held, or produced, by the other joint regulator.
     
-    Section 156Z: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156Z: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZA Decision on application
     
 *   (1) After considering an application, the joint regulators must, together, either---
         
-    *   (a) make a joint recommendation to both the Minister and the Minister responsible for the [Securities Act 1978][457] that the settlement system to which the application relates be declared to be a designated settlement system under [section 156N][256]; or
+    *   (a) make a joint recommendation to both the Minister and the Minister responsible for the [Securities Act 1978][458] that the settlement system to which the application relates be declared to be a designated settlement system under [section 156N][256]; or
     
     *   (b) refuse to make that recommendation.
     
@@ -6024,11 +6046,11 @@ Designated settlement systems
     
     *   (b) the reasons for the joint regulators' refusal.
     
-    Section 156ZA: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZA: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Amendments to rules
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZB Joint regulators must be notified of proposed amendments to rules
     
@@ -6036,7 +6058,7 @@ Designated settlement systems
     
     (2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives notice of a proposed amendment to the rules of a designated settlement system.
     
-    Section 156ZB: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZB: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZC Proposed amendments to rules may be disallowed
     
@@ -6060,15 +6082,15 @@ Designated settlement systems
     
     *   (b) any later date that is specified as part of the proposed amendment.
     
-    Section 156ZC: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZC: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Variation and revocation of designation
     
-*   Heading: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZD Variation of designation
     
-*   The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][457] given in accordance with a joint recommendation of the joint regulators, vary any designation made under [section 156N][256]---
+*   The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][458] given in accordance with a joint recommendation of the joint regulators, vary any designation made under [section 156N][256]---
         
     *   (a) by amending any of the matters referred to in [section 156N(2)(b) to (d) and (3)(b) to (d)][256]; or
     
@@ -6078,19 +6100,19 @@ Designated settlement systems
     
     *   (d) by making the designation subject to a new condition.
     
-    Section 156ZD: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZD: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZE Revocation of designation
     
-*   The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][457] given in accordance with a joint recommendation of the joint regulators, revoke any designation made under [section 156N][256].
+*   The Governor-General may, by Order in Council, on the advice of both the Minister and the Minister responsible for the [Securities Act 1978][458] given in accordance with a joint recommendation of the joint regulators, revoke any designation made under [section 156N][256].
     
-    Section 156ZE: substituted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZE: substituted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZF Settlement and netting not affected by variation or revocation of designation
     
 *   The variation or revocation of a designation made under [section 156N][256] does not affect the application of [sections 156Q][261], [156R][262], and [156T][264] to settlements that were effected, and netting that took place, before the variation or revocation.
     
-    Section 156ZF: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZF: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZG Application for variation or revocation of designation
     
@@ -6098,9 +6120,9 @@ Designated settlement systems
     
     (2) A joint regulator must, as soon as practicable, advise the other joint regulator if it receives an application.
     
-    (3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the [Securities Act 1978][457] by notice in the _Gazette_.
+    (3) An application must be accompanied by the application fee (if any) that is jointly determined by the joint regulators and approved by both the Minister and the Minister responsible for the [Securities Act 1978][458] by notice in the _Gazette_.
     
-    Section 156ZG: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZG: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZH Either joint regulator may independently begin review of designation
     
@@ -6110,7 +6132,7 @@ Designated settlement systems
     
     (3) No fee can be charged if a joint regulator begins a review under subsection (1).
     
-    Section 156ZH: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZH: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZI Matters joint regulators may have regard to in recommending variation or revocation of designation
     
@@ -6130,7 +6152,7 @@ Designated settlement systems
     
     *   (g) the importance of the designated settlement system to the financial system:
     
-    *   (h) the impact on creditors of participants in the settlement system of specifying, or no longer specifying, that an operator of the settlement system is an operator to whom [section 103A][633] of the Personal Property Securities Act 1999 applies:
+    *   (h) the impact on creditors of participants in the settlement system of specifying, or no longer specifying, that an operator of the settlement system is an operator to whom [section 103A][636] of the Personal Property Securities Act 1999 applies:
     
     *   (i) any failure to comply with any condition to which the designation is subject:
     
@@ -6140,7 +6162,7 @@ Designated settlement systems
     
     (2) In determining whether to make a recommendation that any designation made under [section 156N][256] be varied or revoked, each of the joint regulators may have regard, or refer, to, and may rely upon, any relevant information, work, or matter held, or produced, by the other joint regulator.
     
-    Section 156ZI: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZI: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZJ Procedure for variation or revocation of designation
     
@@ -6160,11 +6182,11 @@ Designated settlement systems
     
     (2) The notice referred to in subsection (1)(a) may be given either in writing or orally depending on the circumstances of the particular case.
     
-    Section 156ZJ: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZJ: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Obligations to give notice and supply information
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZK Contact person must be notified of insolvency event 
     
@@ -6182,7 +6204,7 @@ Designated settlement systems
     
     *   (b) the contact person was already aware of the insolvency event by the time participant A had to notify the contact person under that subsection.
     
-    Section 156ZK: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZK: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZL Supply of information relating to designated settlement system
     
@@ -6206,11 +6228,11 @@ Designated settlement systems
     
     (5) The penalty for an offence against this section is set out in [section 156ZQ][294].
     
-    Section 156ZL: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZL: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Disclosure of information
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZM Disclosure of information between joint regulators
     
@@ -6226,11 +6248,11 @@ Designated settlement systems
     
     *   (b) that is disclosed by the Bank or the FMA in order to enable them to perform their functions and duties, or exercise their powers, under this Part.
     
-    Section 156ZM: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZM: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
     
-    Section 156ZM(1)(b): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156ZM(1)(b): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
     
-    Section 156ZM(2)(b): amended, on 1 May 2011, by [section 84(3)][626] of the Financial Markets Authority Act 2011 (2011 No 5).
+    Section 156ZM(2)(b): amended, on 1 May 2011, by [section 84(3)][629] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 156ZN Disclosure of information to third parties
     
@@ -6256,7 +6278,7 @@ Designated settlement systems
     
     (5) The penalty for an offence against this section is set out in [section 156ZQ][294].
     
-    Section 156ZN: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZN: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZO Limits on further disclosure of information
     
@@ -6284,21 +6306,21 @@ Designated settlement systems
     
     (3) The penalty for an offence against this section is set out in [section 156ZQ][294].
     
-    Section 156ZO: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZO: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZP Application of other enactments to information published or disclosed under section 156ZN
     
 *   Nothing in any Act, other than this Act or the Official Information Act 1982, requires the joint regulators or any person to whom information or data has been published or disclosed under [section 156ZN][290] to make that information or data available to any other person.
     
-    Section 156ZP: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZP: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 #### Penalties for offences against this Part
     
-*   Heading: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+*   Heading: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
 
 ##### 156ZQ Penalties for offences
     
-*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on summary conviction,---
+*   (1) A person who commits an offence under any of the provisions listed in subsection (2) is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000; or
     
@@ -6312,16 +6334,18 @@ Designated settlement systems
     
     *   (c) [section 156ZO][291] (which relates to limits on further disclosure of information).
     
-    Section 156ZQ: inserted, on 24 November 2009, by [section 6][625] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    Section 156ZQ: inserted, on 24 November 2009, by [section 6][628] of the Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53).
+    
+    Section 156ZQ(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5D  
 Deposit takers
     
-*   Part 5D: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Part 5D: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157A Exercise of powers under this Part
     
@@ -6331,7 +6355,7 @@ Deposit takers
     
     *   (b) avoiding significant damage to the financial system that could result from the failure of a deposit taker.
     
-    Section 157A: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157A: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157B Interpretation
     
@@ -6347,9 +6371,9 @@ Deposit takers
         
     *   (a) an arrangement or scheme to which a participatory security (within the meaning of [section 2(1)][430] of the Securities Act 1978) relates; and
     
-    *   (b) a superannuation scheme (within the meaning of [section 2A(1)][648] of the Superannuation Schemes Act 1989); and
+    *   (b) a superannuation scheme (within the meaning of [section 2A(1)][650] of the Superannuation Schemes Act 1989); and
     
-    *   (c) a unit trust (within the meaning of [section 2(1)][649] of the Unit Trusts Act 1960)
+    *   (c) a unit trust (within the meaning of [section 2(1)][651] of the Unit Trusts Act 1960)
     
     _debt security_ has the meaning given to it by [section 2(1)][430] of the Securities Act 1978
     
@@ -6427,9 +6451,9 @@ Deposit takers
     
     _subsidiary_ means a subsidiary within the meaning of [sections 5 to 8][428] of the Companies Act 1993
     
-    _trust deed_, in relation to a deposit taker, means a trust deed required by [section 33(2)(a)][650] of the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker
+    _trust deed_, in relation to a deposit taker, means a trust deed required by [section 33(2)(a)][652] of the Securities Act 1978 in respect of any debt security offered to the public by the deposit taker
     
-    _trustee_, in relation to a deposit taker, means a person appointed as trustee in accordance with the [Securities Act 1978][457] in respect of any debt security offered to the public by the deposit taker.
+    _trustee_, in relation to a deposit taker, means a person appointed as trustee in accordance with the [Securities Act 1978][458] in respect of any debt security offered to the public by the deposit taker.
     
     (2) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, make regulations for either or both of the following purposes:
         
@@ -6437,7 +6461,7 @@ Deposit takers
     
     *   (b) declaring a class of persons to be, or not to be, senior office holders for the purposes of this Part.
     
-    Section 157B: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157B: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157C Deposit taker defined
     
@@ -6455,7 +6479,7 @@ Deposit takers
             
         *   (i) a building society as defined in [section 2(1)][426] of the Building Societies Act 1965, unless the building society is a registered bank; and
         
-        *   (ii) a credit union as defined in [section 2][651] of the Friendly Societies and Credit Unions Act 1982; and
+        *   (ii) a credit union as defined in [section 2][653] of the Friendly Societies and Credit Unions Act 1982; and
         
         *   (iii) a person or class of persons that is declared by regulations to be a deposit taker for the purposes of this Part; but
         
@@ -6469,13 +6493,13 @@ Deposit takers
         
         *   (iii) a local authority:
         
-        *   (iv) the Crown (as defined in [section 2(1)][652] of the Public Finance Act 1989):
+        *   (iv) the Crown (as defined in [section 2(1)][654] of the Public Finance Act 1989):
         
         *   (v) a person or class of persons that is declared by regulations not to be a deposit taker for the purposes of this Part.
         
         
     
-    (2) For the purposes of this Part, a reference to an **offer of debt securities to the public** has the same meaning as an offer of securities to the public as set out in [section 3][653] of the Securities Act 1978\.
+    (2) For the purposes of this Part, a reference to an **offer of debt securities to the public** has the same meaning as an offer of securities to the public as set out in [section 3][655] of the Securities Act 1978\.
     
     (3) If a person has, before this section comes into force, offered debt securities to the public in New Zealand and any of those securities remain unpaid, the person must be treated as satisfying the requirement in subsection (1)(a)(i). 
     
@@ -6499,13 +6523,13 @@ Deposit takers
     
     *   (d) any other matters the Minister or the Bank considers relevant.
     
-    Section 157C: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157C: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157D Application of Part
     
-*   This Part, in so far as it applies to trust deeds, applies to every trust deed whether or not the trust deed was registered under the [Securities Act 1978][457] before the date of commencement of this Part.
+*   This Part, in so far as it applies to trust deeds, applies to every trust deed whether or not the trust deed was registered under the [Securities Act 1978][458] before the date of commencement of this Part.
     
-    Section 157D: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157D: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157E Bank to consult before recommending making of regulations under this Part
     
@@ -6517,7 +6541,7 @@ Deposit takers
     
     (2) Failure to comply with subsection (1) does not affect the validity of regulations made under this Part.
     
-    Section 157E: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157E: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
     Section 157E(1)(a): amended, on 1 May 2011, by [section 82][437] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6553,11 +6577,11 @@ Deposit takers
     
     *   (g) the need to maintain competition within the deposit taking sector.
     
-    Section 157F: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157F: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157G Exemptions from Part
     
-*   (1) The Bank may, by notice in the _Gazette_, exempt any deposit taker, class of deposit takers, or trustee from compliance with any provision or provisions of---
+*   (1) The Bank may exempt any deposit taker, class of deposit takers, or trustee from compliance with any provision or provisions of---
         
     *   (a) this Part; or
     
@@ -6593,13 +6617,39 @@ Deposit takers
     
     (4) The Bank may amend or revoke an exemption in the same way as an exemption may be granted under this section.
     
-    (5) The Bank's reasons for granting an exemption (including why an exemption is appropriate) must be notified in the _Gazette_, together with the exemption.
+    (5) An exemption is a disallowable instrument under the [Legislation Act 2012][506] and must be presented to the House of Representatives under [section 41][507] of that Act.
     
-    (6) However, the Bank may defer notifying or not notify the reasons for granting an exemption if the Bank is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
+    (6) A class exemption must be published under [section 6][656] of the Legislation Act 2012 and, for this purpose, _class exemption_ means an exemption of general application that applies to a class of deposit takers.
     
-    (7) An exemption under this section is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][634] and the [Regulations (Disallowance) Act 1989][504].
+    (7) An exemption that is not a class exemption under subsection (6) must, as soon as practicable after being granted, be---
+        
+    *   (a) published on an Internet site maintained by or on behalf of the Bank; and
     
-    Section 157G: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    *   (b) notified in the _Gazette_; and
+    
+    *   (c) made available in printed form for purchase on request by members of the public.
+    
+    (8) The Bank's reasons for granting the exemption (including why an exemption is appropriate) must be published together with the exemption.
+    
+    (9) However, the Bank may defer publishing, and need not publish, the reasons for granting an exemption if the Bank is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
+    
+    (10) A notification in the _Gazette_ for the purpose of subsection (7)(b) does not have to incorporate the exemption.
+    
+    Section 157G: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    
+    Section 157G(1): amended, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(5): replaced, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(6): replaced, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(7): replaced, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(8): inserted, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(9): inserted, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 157G(10): inserted, on 5 August 2013, by [section 77(3)][509] of the Legislation Act 2012 (2012 No 119).
 
 ##### 157H Effect of exemption
     
@@ -6609,11 +6659,11 @@ Deposit takers
     
     *   (b) the person complies with the terms and conditions of the exemption.
     
-    Section 157H: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157H: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Credit ratings
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157I Deposit taker must have current credit rating
     
@@ -6623,7 +6673,7 @@ Deposit takers
     
     *   (b) is given by an approved rating agency.
     
-    Section 157I: inserted, on 1 March 2010, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157I: inserted, on 1 March 2010, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157J Bank may approve rating agencies
     
@@ -6649,7 +6699,7 @@ Deposit takers
     
     (5) The Bank must publish and keep up to date a list of approved rating agencies on an Internet site maintained by, or on behalf of, the Bank that is publicly accessible at all reasonable times.
     
-    Section 157J: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157J: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157K Regulations relating to credit ratings
     
@@ -6665,11 +6715,11 @@ Deposit takers
     
     *   (b) requiring a deposit taker to have a rating of creditworthiness of the borrowing group of which the deposit taker is part.
     
-    Section 157K: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157K: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Governance requirements
     
-*   Heading: inserted, on 1 December 2010, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 1 December 2010, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157L Governance requirements
     
@@ -6689,11 +6739,11 @@ Deposit takers
     
     *   (c) does not, directly or indirectly, have a qualifying interest in more than 10% of the voting securities of the deposit taker or a related party. 
     
-    Section 157L: inserted, on 1 December 2010, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157L: inserted, on 1 December 2010, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Risk management
     
-*   Heading: inserted, on 1 September 2009, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 1 September 2009, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157M Deposit taker must have and comply with risk management programme
     
@@ -6729,7 +6779,7 @@ Deposit takers
     
     (3) The Bank may issue, in the manner that the Governor thinks fit, guidelines for the purpose of interpreting the risk categories referred to in subsection (2)(b) that must be covered by the risk management programme.
     
-    Section 157M: inserted, on 1 September 2009, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157M: inserted, on 1 September 2009, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157N Risk management programme must be provided to trustee and must be amended if required by trustee
     
@@ -6743,7 +6793,7 @@ Deposit takers
     
     *   (b) the deposit taker must comply with those requirements.
     
-    Section 157N: inserted, on 1 September 2009, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157N: inserted, on 1 September 2009, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157O Trustee may require deposit taker to have risk management programme audited
     
@@ -6751,11 +6801,11 @@ Deposit takers
     
     (2) The deposit taker must comply with a requirement of the trustee under subsection (1) within the time specified by the trustee.
     
-    Section 157O: inserted, on 1 September 2009, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157O: inserted, on 1 September 2009, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Minimum capital requirement
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157P Regulations may impose requirement that trust deed sets out minimum capital that deposit taker is required to maintain
     
@@ -6775,23 +6825,23 @@ Deposit takers
     
     *   (c) provide that the form of the capital set out in the trust deed must be a form prescribed by the regulations.
     
-    Section 157P: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157P: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157Q Deposit takers and trustees must ensure trust deed sets out minimum capital deposit taker is required to maintain
     
 *   A deposit taker and the trustee must comply with any requirement imposed by regulations made under [section 157P][316].
     
-    Section 157Q: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157Q: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157R Deposit taker must maintain not less than minimum capital prescribed
     
 *   A deposit taker must maintain minimum capital of not less than the amount prescribed by regulations for the purposes of [section 157P][316] in a form prescribed by regulations for the purposes of that section.
     
-    Section 157R: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157R: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Capital ratio requirement
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157S Regulations may impose requirement that trust deed includes capital ratio
     
@@ -6823,23 +6873,23 @@ Deposit takers
     
     (3) The provisions of [Schedule 3][420] apply to a framework incorporated by reference in regulations made under this section.
     
-    Section 157S: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157S: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157T Deposit takers and trustees must ensure capital ratio included in trust deed
     
 *   A deposit taker and the trustee must comply with any requirement imposed by regulations made under [section 157S][320].
     
-    Section 157T: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157T: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157U Deposit taker must maintain capital ratio required to be included in trust deed
     
 *   A deposit taker must maintain any capital ratio that is required to be included in the trust deed by regulations made under [section 157S][320].
     
-    Section 157U: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157U: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Restrictions on related party exposures
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157V Regulations may impose requirement that trust deed includes maximum limit on exposures to related parties
     
@@ -6863,7 +6913,7 @@ Deposit takers
     
     (3) If subsection (2)(d) applies, the regulations must specify the framework (for example, covering matters as to the identification and measurement of credit exposures) in accordance with which the deposit taker and the trustee must fix the maximum agreed limit.
     
-    Section 157V: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157V: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157W Regulations may incorporate by reference framework for calculation of maximum limit on exposures to related parties
     
@@ -6877,23 +6927,23 @@ Deposit takers
     
     (3) The provisions of [Schedule 3][420] apply to a framework incorporated by reference in regulations made under [section 157V][324].
     
-    Section 157W: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157W: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157X Deposit takers and trustees must ensure maximum limit on exposures to related parties is included in trust deed
     
 *   A deposit taker and the trustee must comply with any requirement imposed by regulations made under [section 157V][324].
     
-    Section 157X: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157X: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157Y Deposit taker must not exceed maximum limit on related party exposures
     
 *   A deposit taker must not exceed any maximum limit on exposures to related parties required by regulations made under [section 157V][324] to be included in the trust deed.
     
-    Section 157Y: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157Y: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Liquidity requirements
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157Z Regulations may impose requirement that liquidity requirements be included in trust deed
     
@@ -6911,23 +6961,23 @@ Deposit takers
     
     *   (e) other measures to better ensure that a deposit taker maintains prudent cash flows and a level of liquid assets sufficient to enable it to withstand a plausible range of liquidity shocks (for example, events that result in it experiencing a significantly reduced inflow of liquid assets).
     
-    Section 157Z: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157Z: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZA Deposit takers and trustees must ensure liquidity requirements are included in trust deeds
     
 *   A deposit taker and the trustee must comply with any requirement prescribed by regulations made under [section 157Z][329].
     
-    Section 157ZA: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZA: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZB Deposit takers must comply with liquidity requirements in trust deeds
     
 *   A deposit taker must comply with the liquidity requirements required to be included in the trust deed by regulations made under [section 157Z][329].
     
-    Section 157ZB: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZB: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Other matters relating to trust deeds
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZC Amendment to trust deed must be treated as if authorised to be made
     
@@ -6939,7 +6989,7 @@ Deposit takers
     
     (2) Subsection (1) applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment, rule of law, or agreement.
     
-    Section 157ZC: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZC: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZD Trustee may execute amendment to trust deed
     
@@ -6965,11 +7015,11 @@ Deposit takers
     
     (4) Subsection (3) applies despite there being no power of variation in the trust deed or anything to the contrary in the trust deed or other enactment, rule of law, or agreement.
     
-    Section 157ZD: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZD: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Obligations of trustees to Bank
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZE Bank may require trustee to attest as to deposit taker's compliance with requirements
     
@@ -6981,13 +7031,13 @@ Deposit takers
     
     *   (b) if the trustee is not able to attest to the Bank as required, the trustee must report the reason, including the details of any non-compliance or suspected non-compliance by the deposit taker.
     
-    Section 157ZE: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZE: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZF Trustee must report to Bank non-compliance or likely non-compliance by deposit taker
     
 *   If a trustee has reasonable grounds to believe that a failure on the part of the deposit taker to comply in a material respect with this Part or any regulations made under this Part has or may have occurred, or is likely to occur, the trustee must report the non-compliance or likely non-compliance to the Bank as soon as practicable.
     
-    Section 157ZF: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZF: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZG Obligation on trustees to disclose information to Bank in certain circumstances
     
@@ -7017,7 +7067,7 @@ Deposit takers
     
     (3) If this section applies, the trustee must, as soon as practicable, disclose to the Bank all information held by the trustee that is relevant to the matter referred to in subsection (1) or, as the case may be, the matters referred to in the notice under subsection (2), obtained in the course of, or in connection with, the performance of functions as trustee.
     
-    Section 157ZG: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZG: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZH Protection of trustees
     
@@ -7027,11 +7077,11 @@ Deposit takers
     
     (3) No tribunal, body, or authority, having jurisdiction in respect of the professional conduct of a trustee, may make an order against, or do any act in relation to, that person in respect of the fact of that disclosure.
     
-    Section 157ZH: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZH: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Investigation and enforcement powers of Bank
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZI Bank may require report relating to deposit taker
     
@@ -7043,7 +7093,7 @@ Deposit takers
     
     (4) To avoid doubt, the deposit taker is liable for the cost of every report that it is required to supply to the Bank under this section.
     
-    Section 157ZI: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZI: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZJ Power to obtain information and documents
     
@@ -7055,35 +7105,35 @@ Deposit takers
     
     *   (b) appoint in writing a suitably qualified person to enter and search any place and inspect, remove, and take copies of any information, papers, documents, records, or things in the possession, custody, or control of any person.
     
-    Section 157ZJ: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZJ: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZK Limitation on information to be provided
     
-*   Nothing in [section 157ZI(2)][341] or [157ZJ(2)][342] requires a person to produce any information, papers, documents, records, or things if compliance with that requirement would be a breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the [Official Information Act 1982][477] or the [Privacy Act 1993][654]).
+*   Nothing in [section 157ZI(2)][341] or [157ZJ(2)][342] requires a person to produce any information, papers, documents, records, or things if compliance with that requirement would be a breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the [Official Information Act 1982][478] or the [Privacy Act 1993][657]).
     
-    Section 157ZK: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZK: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZL Limitations on entering and searching place
     
 *   A person appointed under [section 157ZJ(2)(b)][342] must not enter and search any place, or inspect, remove, or take copies of any information, papers, documents, records, or things in the possession, or under the control, of any person unless that person is authorised by search warrant issued under [section 157ZM][345].
     
-    Section 157ZL: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZL: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZM Search warrant may be issued
     
-*   (1) An issuing officer (within the meaning of [section 3][478] of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under [section 157ZJ(2)(b)][342] if the issuing officer is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
+*   (1) An issuing officer (within the meaning of [section 3][479] of the Search and Surveillance Act 2012) may issue a search warrant to a person appointed under [section 157ZJ(2)(b)][342] if the issuing officer is satisfied that there is reasonable cause to believe that a deposit taker has committed an offence under this Part.
     
-    (2) The provisions of [Part 4][480] of the Search and Surveillance Act 2012 (except [sections 118][481] and [119][482]) apply.
+    (2) The provisions of [Part 4][481] of the Search and Surveillance Act 2012 (except [sections 118][482] and [119][483]) apply.
     
-    Section 157ZM: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZM: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 157ZM(1): amended, on 1 October 2012, by [section 298(1)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZM(1): amended, on 1 October 2012, by [section 298(1)][658] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 157ZM(2): replaced, on 1 October 2012, by [section 298(2)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZM(2): replaced, on 1 October 2012, by [section 298(2)][658] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 157ZN Privileges
     
-*   (1) If a person could, in a criminal proceeding, assert a privilege under [sections 54 to 57][656] of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of---
+*   (1) If a person could, in a criminal proceeding, assert a privilege under [sections 54 to 57][659] of the Evidence Act 2006 in respect of any communication or information, the person is taken to have the same privilege for the purposes of---
         
     *   (a) a request to supply access to accounting and other records of the deposit taker or provide information relating to those records under [section 157ZI(2)][341]; and
     
@@ -7091,9 +7141,9 @@ Deposit takers
     
     *   (c) \[Repealed\]
     
-    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][657] of the Evidence Act 2006\.
+    (2) Subsection (3) applies to documents that are books of account or accounting records referred to in [section 55(1)][660] of the Evidence Act 2006\.
     
-    (3) The application by subsection (1) of [section 54][656] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
+    (3) The application by subsection (1) of [section 54][659] of the Evidence Act 2006 (which relates to the privilege for communications with legal advisers) does not prevent, limit, or affect---
         
     *   (a) the issue of, or the obligation to comply with, a notice under [section 157ZJ(2)(a)][342] in respect of a document to which this subsection applies; or
     
@@ -7111,25 +7161,25 @@ Deposit takers
     
     (5) If a person refuses to disclose a communication or information on the ground that it is privileged under this section, the Governor may apply to a District Court Judge for an order determining whether the claim of privilege is valid; and, for the purpose of determining any such application, the District Court Judge may require the communication or information to be produced to him or her.
     
-    (6) A District Court Judge may, on the application of the Governor, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][658] of the Evidence Act 2006, be disallowed in a proceeding.
+    (6) A District Court Judge may, on the application of the Governor, disallow a privilege claimed under this section if the Judge is satisfied that the claim to privilege would, under [section 67(1)][661] of the Evidence Act 2006, be disallowed in a proceeding.
     
-    (7) [Section 65][659] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
+    (7) [Section 65][662] of the Evidence Act 2006 (which relates to waiver of privilege) applies in respect of any privilege under this section.
     
-    (8) Nothing in this section affects the application of [section 60][660] of the Evidence Act 2006\.
+    (8) Nothing in this section affects the application of [section 60][663] of the Evidence Act 2006\.
     
-    Section 157ZN: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZN: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 157ZN(1)(b): amended, on 1 October 2012, by [section 298(3)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZN(1)(b): amended, on 1 October 2012, by [section 298(3)][658] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 157ZN(1)(c): repealed, on 1 October 2012, by [section 298(4)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZN(1)(c): repealed, on 1 October 2012, by [section 298(4)][658] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 157ZN(3)(b): repealed, on 1 October 2012, by [section 298(5)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZN(3)(b): repealed, on 1 October 2012, by [section 298(5)][658] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 157ZN(3)(c): amended, on 1 October 2012, by [section 298(6)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 157ZN(3)(c): amended, on 1 October 2012, by [section 298(6)][658] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Confidentiality of information
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZO Confidentiality of information
     
@@ -7151,7 +7201,7 @@ Deposit takers
         
     *   (a) with the consent of the person to whom the information relates; or
     
-    *   (b) to the extent that the information is available to the public under any Act, other than the [Official Information Act 1982][477], or in a public document; or
+    *   (b) to the extent that the information is available to the public under any Act, other than the [Official Information Act 1982][478], or in a public document; or
     
     *   (c) for the purposes of this Part or in connection with the exercise of powers conferred by this Part; or
     
@@ -7177,29 +7227,31 @@ Deposit takers
     
     *   (b) necessary or desirable in connection with the exercise of any function or power conferred by any enactment.
     
-    Section 157ZO: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZO: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
     Section 157ZO(2)(e): amended, on 1 May 2011, by [section 82][437] of the Financial Markets Authority Act 2011 (2011 No 5).
 
 ##### 157ZP Person who does not comply with section 157ZO commits offence
     
-*   Every person who does not comply with [section 157ZO][348] commits an offence and is liable, on summary conviction,---
+*   Every person who does not comply with [section 157ZO][348] commits an offence and is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $50,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $500,000\.
     
-    Section 157ZP: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZP: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    
+    Section 157ZP: amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 157ZQ Application of Official Information Act 1982, etc
     
-*   Nothing in the [Official Information Act 1982][477] or any other Act, other than this Act, applies to information to which [section 157ZO][348] applies, whether or not that information has been published or disclosed to any person under that section.
+*   Nothing in the [Official Information Act 1982][478] or any other Act, other than this Act, applies to information to which [section 157ZO][348] applies, whether or not that information has been published or disclosed to any person under that section.
     
-    Section 157ZQ: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZQ: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Offences and penalties
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZR Offences by deposit takers against this Part
     
@@ -7231,7 +7283,7 @@ Deposit takers
     
     *   (m) [section 157ZB][331] (which relates to the obligation to comply with any liquidity requirements required by regulations to be included in the trust deed).
     
-    Section 157ZR: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZR: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZS Other offences by deposit takers against this Part
     
@@ -7253,7 +7305,7 @@ Deposit takers
     
     *   (h) without reasonable excuse, obstructs or hinders an authorised person in the execution of any powers conferred on that person by or under this Part or any regulations made under this Part.
     
-    Section 157ZS: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZS: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZT Defence for deposit takers charged with offences against this Part
     
@@ -7267,11 +7319,11 @@ Deposit takers
     
     (3) A deposit taker is not, without the leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the deposit taker has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecution a notice in writing identifying the act, omission, or cause relied on by the deposit taker.
     
-    Section 157ZT: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZT: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZU Power of court to discharge deposit taker
     
-*   (1) If a deposit taker is charged with an offence against [section 157ZR][352] or [157ZS][353], the court may direct that the defendant be discharged if the court considers that the alleged contravention was in respect of matters that were immaterial.
+*   (1) If a deposit taker is charged with an offence against [section 157ZR][352] or [157ZS][353], the court may direct that the charge against the defendant be dismissed if the court considers that the alleged contravention was in respect of matters that were immaterial.
     
     (2) A direction under subsection (1) may be made at any stage of the proceeding---
         
@@ -7279,11 +7331,15 @@ Deposit takers
     
     *   (b) after giving both the prosecutor and the defendant a reasonable opportunity to be heard on the matter.
     
-    (3) A discharge under this section is deemed to be an acquittal.
+    (3) The dismissal of a charge under this section is deemed to be an acquittal.
     
-    (4) Nothing in this section limits [sections 106 to 109][661] of the Sentencing Act 2002\.
+    (4) Nothing in this section limits [sections 106 to 109][664] of the Sentencing Act 2002\.
     
-    Section 157ZU: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZU: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    
+    Section 157ZU(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157ZU(3): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 157ZV Liability of directors
     
@@ -7299,7 +7355,7 @@ Deposit takers
         
         
     
-    Section 157ZV: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZV: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZW Offences by trustees against this Part
     
@@ -7321,31 +7377,39 @@ Deposit takers
     
     (2) Every trustee commits an offence who makes a statement to the Bank in relation to its obligations to the Bank, including providing an attestation, knowing it to be false or misleading in a material particular.
     
-    Section 157ZW: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZW: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZX Penalties for offences
     
-*   (1) Every deposit taker who commits an offence under [section 157ZR(a)][352] is liable, on summary conviction,---
+*   (1) Every deposit taker who commits an offence under [section 157ZR(a)][352] is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 18 months or to a fine not exceeding $200,000, or both; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $2,000,000\.
     
-    (2) Every deposit taker who commits an offence under any other provision in [section 157ZR][352] or [157ZS][353] is liable, on summary conviction,---
+    (2) Every deposit taker who commits an offence under any other provision in [section 157ZR][352] or [157ZS][353] is liable, on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or both; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $1,000,000\.
     
-    (3) Every director who commits an offence under [section 157ZV][356] is liable, on summary conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, or both.
+    (3) Every director who commits an offence under [section 157ZV][356] is liable, on conviction, to imprisonment for a term not exceeding 12 months or a fine not exceeding $100,000, or both.
     
-    (4) Every trustee who commits an offence under any provision in [section 157ZW][357] is liable, on summary conviction, to a fine not exceeding $200,000\.
+    (4) Every trustee who commits an offence under any provision in [section 157ZW][357] is liable, on conviction, to a fine not exceeding $200,000\.
     
-    Section 157ZX: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZX: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    
+    Section 157ZX(1): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157ZX(2): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157ZX(3): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 157ZX(4): amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZY Matters relating to regulation-making powers under this Part
     
@@ -7359,7 +7423,7 @@ Deposit takers
     
     *   (d) prescribe different requirements or clauses for particular deposit takers.
     
-    Section 157ZY: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZY: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157ZZ Bank must review and report on operation of this Part
     
@@ -7373,12 +7437,12 @@ Deposit takers
     
     (3) As soon as practicable after receiving the report, the Minister must present a copy of that report to the House of Representatives.
     
-    Section 157ZZ: inserted, on 10 September 2008, by [section 17][647] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 157ZZ: inserted, on 10 September 2008, by [section 17][649] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ## Part 6  
 Financial and accountability matters
     
-*   Part 6 heading: substituted, on 10 September 2008, by [section 21][662] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Part 6 heading: substituted, on 10 September 2008, by [section 21][665] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 157 Financial year
     
@@ -7392,7 +7456,7 @@ Financial and accountability matters
     
 *   \[Repealed\]
     
-    Section 158: repealed, on 10 September 2008, by [section 18][663] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 158: repealed, on 10 September 2008, by [section 18][666] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 159 Funding agreements
     
@@ -7424,7 +7488,7 @@ Financial and accountability matters
     
     Section 159(1): substituted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 159(1)(da): inserted, on 10 September 2008, by [section 19][664] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 159(1)(da): inserted, on 10 September 2008, by [section 19][667] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 160 Contents of funding agreements
     
@@ -7470,11 +7534,11 @@ Financial and accountability matters
     
     *   (b) the determination made by the Minister under subsection (3).
     
-    Section 162: substituted, on 10 September 2008, by [section 20][665] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162: substituted, on 10 September 2008, by [section 20][668] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Accountability documents
     
-*   Heading: inserted, on 10 September 2008, by [section 22][666] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 22][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 162AA Purpose of accountability documents
     
@@ -7508,17 +7572,17 @@ Financial and accountability matters
         
         
     
-    Compare: 2004 No 115 [s 138][667]
+    Compare: 2004 No 115 [s 138][670]
     
-    Section 162AA: inserted, on 10 September 2008, by [section 22][666] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162AA: inserted, on 10 September 2008, by [section 22][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 162AB Assessment of regulatory impacts of policies
     
 *   (1) The Bank must---
         
-    *   (a) assess the expected regulatory impacts of any policy that it intends to adopt under [Part 5][102] and [Parts 5B to 5D][235] and under the [Insurance (Prudential Supervision) Act 2010][454]; and
+    *   (a) assess the expected regulatory impacts of any policy that it intends to adopt under [Part 5][102] and [Parts 5B to 5D][235] and under the [Insurance (Prudential Supervision) Act 2010][455]; and
     
-    *   (b) assess the regulatory impacts of the policies adopted and applied under [Part 5][102] and [Parts 5B to 5D][235] and under the [Insurance (Prudential Supervision) Act 2010][454] at intervals appropriate to the nature of the policy being assessed; and
+    *   (b) assess the regulatory impacts of the policies adopted and applied under [Part 5][102] and [Parts 5B to 5D][235] and under the [Insurance (Prudential Supervision) Act 2010][455] at intervals appropriate to the nature of the policy being assessed; and
     
     *   (c) give reports on the assessments to the Minister.
     
@@ -7536,7 +7600,7 @@ Financial and accountability matters
     
     (6) To avoid doubt, the publication of an accountability document that includes a report on the assessments of regulatory impacts satisfies the obligation in subsection (4).
     
-    Section 162AB: inserted, on 10 September 2008, by [section 22][666] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162AB: inserted, on 10 September 2008, by [section 22][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
     Section 162AB(1)(a): amended, on 8 September 2010, by [section 241(1)][435] of the Insurance (Prudential Supervision) Act 2010 (2010 No 111).
     
@@ -7544,7 +7608,7 @@ Financial and accountability matters
 
 #### Statement of intent
     
-*   Heading: inserted, on 10 September 2008, by [section 23][668] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 23][671] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 162A Obligation to provide statement of intent
     
@@ -7582,19 +7646,19 @@ Financial and accountability matters
     
     Section 162B: inserted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 162B(1)(c): substituted, on 10 September 2008, by [section 24(1)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(c): substituted, on 10 September 2008, by [section 24(1)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(d): substituted, on 10 September 2008, by [section 24(1)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(d): substituted, on 10 September 2008, by [section 24(1)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(da): inserted, on 10 September 2008, by [section 24(1)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(da): inserted, on 10 September 2008, by [section 24(1)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(g): added, on 10 September 2008, by [section 24(2)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(g): added, on 10 September 2008, by [section 24(2)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(h): added, on 10 September 2008, by [section 24(2)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(h): added, on 10 September 2008, by [section 24(2)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(i): added, on 10 September 2008, by [section 24(2)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(i): added, on 10 September 2008, by [section 24(2)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
     
-    Section 162B(1)(j): added, on 10 September 2008, by [section 24(2)][669] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162B(1)(j): added, on 10 September 2008, by [section 24(2)][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 162C Process for providing statement of intent to Minister
     
@@ -7608,7 +7672,7 @@ Financial and accountability matters
     
     Section 162C: inserted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 162C(2): added, on 10 September 2008, by [section 25][670] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 162C(2): added, on 10 September 2008, by [section 25][673] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 162D Amendments by Bank to statement of intent
     
@@ -7630,7 +7694,7 @@ Financial and accountability matters
 
 #### Annual reports
     
-*   Heading: inserted, on 10 September 2008, by [section 26][671] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 26][674] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 163 Annual reports and accounts
     
@@ -7664,11 +7728,11 @@ Financial and accountability matters
     
     Section 163: substituted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 163(2)(aaa): inserted, on 10 September 2008, by [section 27][672] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 163(2)(aaa): inserted, on 10 September 2008, by [section 27][675] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 163A Bank not Crown entity
     
-*   The Bank is not a Crown entity for the purposes of the [Crown Entities Act 2004][673].
+*   The Bank is not a Crown entity for the purposes of the [Crown Entities Act 2004][676].
     
     Section 163A: inserted, on 25 January 2005, by [section 37(1)][439] of the Public Finance Amendment Act 2004 (2004 No 113).
 
@@ -7716,7 +7780,7 @@ Financial and accountability matters
 
 #### Financial stability reports
     
-*   Heading: inserted, on 10 September 2008, by [section 28][674] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 28][677] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 165A Financial stability reports
     
@@ -7734,17 +7798,17 @@ Financial and accountability matters
     
     (3) The Minister must, as soon as practicable after receiving the report, present it to the House of Representatives.
     
-    Section 165A: inserted, on 10 September 2008, by [section 28][674] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+    Section 165A: inserted, on 10 September 2008, by [section 28][677] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 #### Audits
     
-*   Heading: inserted, on 10 September 2008, by [section 29][675] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Heading: inserted, on 10 September 2008, by [section 29][678] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 166 Auditor-General to be auditor of Bank
     
-*   The Bank is a public entity as defined in [section 4][676] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Bank is a public entity as defined in [section 4][679] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 166: substituted, on 1 July 2001, by [section 53][677] of the Public Audit Act 2001 (2001 No 10).
+    Section 166: substituted, on 1 July 2001, by [section 53][680] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 167 Performance audit
     
@@ -7783,19 +7847,19 @@ Miscellaneous provisions
     
     *   (d) opportunities for the enhancement of the abilities of individual employees.
     
-    Compare: 1986 No 124 [s 4(1)(b)][678], [(2)][678]
+    Compare: 1986 No 124 [s 4(1)(b)][681], [(2)][681]
 
 ##### 169 Bank to exhibit sense of social responsibility
     
 *   It shall be an objective of the Bank to exhibit a sense of social responsibility in exercising its powers under this Act.
     
-    Compare: 1986 No 124 [s 4(1)(c)][678]
+    Compare: 1986 No 124 [s 4(1)(c)][681]
 
 ##### 170 Application of Banking Act 1982 to Bank
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 30 June 1995, by [section 2(4)][679] of the Banking Act Repeal Act 1995 (1995 No 32).
+    Section 170: repealed, on 30 June 1995, by [section 2(4)][682] of the Banking Act Repeal Act 1995 (1995 No 32).
 
 ##### 171 Conflict with other Acts
     
@@ -7825,6 +7889,8 @@ Miscellaneous provisions
     
     *   (f) providing for and regulating the issue, registration, transfer, control, and redemption of any securities issued by the Bank:
     
+    *   (fa) prescribing information for the purposes of [section 69(2A)(c)][109]:
+    
     *   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
     
     *   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
@@ -7836,6 +7902,8 @@ Miscellaneous provisions
     *   (k) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
     Compare: 1964 No 134 s 50; 1977 No 68 s 6
+    
+    Section 173(fa): inserted, on 4 September 2013, by [section 5][683] of the Reserve Bank of New Zealand Amendment Act 2013 (2013 No 62).
 
 ##### 174 Consents under regulations
     
@@ -7877,7 +7945,7 @@ Miscellaneous provisions
     
 *   A person is not excused from answering any question, supplying any information, producing any document, or providing any explanation under this Act on the ground that to do so would or might incriminate or tend to incriminate that person.
     
-    Section 175A: inserted, on 21 August 2003, by [section 44][680] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 175A: inserted, on 21 August 2003, by [section 44][684] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 175B Admissibility of self-incriminating statements
     
@@ -7889,11 +7957,11 @@ Miscellaneous provisions
     
     *   (b) the answering of any question in a way that is false or misleading in a material particular, or the supply of any information, or the production of any document, or the provision of any explanation that is false or misleading in a material particular, may be used in evidence against that person in a prosecution for any offence under this Act arising from that act.
     
-    Section 175B: inserted, on 21 August 2003, by [section 44][680] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 175B: inserted, on 21 August 2003, by [section 44][684] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
 
 ##### 176 Penalties for offences
     
-*   Every person who commits an offence against this Act for which no penalty is provided except in this section is liable on summary conviction---
+*   Every person who commits an offence against this Act for which no penalty is provided except in this section is liable on conviction---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $10,000:
     
@@ -7901,17 +7969,19 @@ Miscellaneous provisions
     
     Compare: 1964 No 134 s 52(1); 1977 No 68 s 7(1)
     
+    Section 176: amended, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 176: amended, on 24 March 1995, by section 10 of the Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5).
 
-##### 177 Time limit for prosecutions
+##### 177 Time for filing charging document
     
-*   Despite [section 14][681] of the Summary Proceedings Act 1957, an information for an offence against this Act may be laid,---
+*   Despite anything to the contrary in [section 25][685] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act,---
         
-    *   (a) in the case of an offence against [section 28][36] or [section 30][38], within 3 years from the time when the matter of the information arose; or
+    *   (a) in the case of an offence against [section 28][36] or [30][38], ends on the date that is 3 years after the date on which the offence was committed; or
     
-    *   (b) in any other case, within 6 years from the time when the matter of the information arose.
+    *   (b) in any other case, ends on the date that is 6 years after the date on which the offence was committed.
     
-    Section 177: substituted, on 21 August 2003, by [section 45][682] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 177: replaced, on 1 July 2013, by [section 413][451] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 178 Evidence
     
@@ -7943,11 +8013,11 @@ Miscellaneous provisions
     
     (2) No person to whom this section applies is personally liable for an act done or omitted to be done in the exercise or performance in good faith of that person's functions, duties, or powers under this Act.
     
-    Section 179: substituted, on 21 August 2003, by [section 46][683] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 179: substituted, on 21 August 2003, by [section 46][686] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 179(1)(c): amended, on 1 November 2006, by [section 9][684] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 179(1)(c): amended, on 1 November 2006, by [section 9][687] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
     
-    Section 179(1)(d): added, on 1 November 2006, by [section 9][684] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 179(1)(d): added, on 1 November 2006, by [section 9][687] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
 
 ##### 179A Indemnity
     
@@ -7973,9 +8043,9 @@ Miscellaneous provisions
     
     (5) Within 12 sitting days of the making of any payment under this section, the Minister must present to the House of Representatives a report which contains details of the circumstances giving rise to the liability of the Crown, the amount of the payment, the person to whom the payment was made and any other relevant matters.
     
-    Section 179A: inserted, on 21 August 2003, by [section 47][685] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
+    Section 179A: inserted, on 21 August 2003, by [section 47][688] of the Reserve Bank of New Zealand Amendment Act 2003 (2003 No 46).
     
-    Section 179A(2)(f): added, on 1 November 2006, by [section 10][686] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
+    Section 179A(2)(f): added, on 1 November 2006, by [section 10][689] of the Reserve Bank of New Zealand Amendment Act 2006 (2006 No 51).
 
 ##### 180 Amendment to Income Tax Act 1976
     
@@ -8005,37 +8075,37 @@ Miscellaneous provisions
     
     (10) \[Repealed\]
     
-    (11) [Section 48][687] of the Securities Amendment Act 1988 is hereby consequentially repealed.
+    (11) [Section 48][690] of the Securities Amendment Act 1988 is hereby consequentially repealed.
     
-    Section 181(1): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(1): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(2): expired, on 31 March 1990, by [section 181(3)][689].
+    Section 181(2): expired, on 31 March 1990, by [section 181(3)][692].
     
-    Section 181(3): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(3): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(4): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(4): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(5): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(5): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(6): expired, on 30 June 1996, by [clause 2][690] of the Reserve Bank of New Zealand Act Commencement Order 1995 (SR 1995/249).
+    Section 181(6): expired, on 30 June 1996, by [clause 2][693] of the Reserve Bank of New Zealand Act Commencement Order 1995 (SR 1995/249).
     
-    Section 181(7): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(7): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(8): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(8): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(9): repealed, on 1 October 1997, by [section 6(6)][688] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(9): repealed, on 1 October 1997, by [section 6(6)][691] of the Securities Amendment Act 1996 (1996 No 100).
     
-    Section 181(10): repealed, on 1 October 1997, by [section 16(2)(b)][691] of the Securities Amendment Act 1996 (1996 No 100).
+    Section 181(10): repealed, on 1 October 1997, by [section 16(2)(b)][694] of the Securities Amendment Act 1996 (1996 No 100).
 
 ##### 182 Amendments to Superannuation Schemes Act 1989
     
-*   _Amendment(s) incorporated in the [Act(s)][692]._
+*   _Amendment(s) incorporated in the [Act(s)][695]._
 
 ##### 183 Amendments to Trustee Banks Restructuring Act 1988
     
 *   \[Repealed\]
     
-    Section 183: repealed, on 21 May 1999, by [section 5][693] of the Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53).
+    Section 183: repealed, on 21 May 1999, by [section 5][696] of the Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53).
 
 ##### 184 Amendment to Securities Amendment Act 1988
     
@@ -8051,7 +8121,7 @@ Miscellaneous provisions
     
     (2) The regulations and the proclamation specified in [Schedule 2][419] are hereby revoked.
     
-    (3) Without limiting the [Interpretation Act 1999][694], the repeal of those enactments does not affect any document made or any thing done under any of the provisions of those enactments, and every document or thing subsisting or in force at the commencement of this Act shall continue to have effect as if it had been made or done under this Act.
+    (3) Without limiting the [Interpretation Act 1999][697], the repeal of those enactments does not affect any document made or any thing done under any of the provisions of those enactments, and every document or thing subsisting or in force at the commencement of this Act shall continue to have effect as if it had been made or done under this Act.
     
     (4) \[Repealed\]
     
@@ -8132,7 +8202,7 @@ Enactments amended
 
 ##### Corporations Investigation and Management Act 1989 (1989 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][695]._
+_Amendment(s) incorporated in the [Act(s)][698]._
 
 ##### Housing Corporation Act 1974 (1974 No 19)
 
@@ -8140,7 +8210,7 @@ _Amendment(s) incorporated in the [Act(s)][695]._
 
 ##### International Finance Agreements Act 1961 (1961 No 3)
 
-_Amendment(s) incorporated in the [Act(s)][696]._
+_Amendment(s) incorporated in the [Act(s)][699]._
 
 ##### Overseas Investment Act 1973 (1973 No 14)
 
@@ -8148,9 +8218,9 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][697]._
+_Amendment(s) incorporated in the [Act(s)][700]._
 
-Schedule 1 Housing Corporation Act 1974: repealed, on 1 July 2001, by [section 25(1)(c)][698] of the Housing Corporation Amendment Act 2001 (2001 No 37).
+Schedule 1 Housing Corporation Act 1974: repealed, on 1 July 2001, by [section 25(1)(c)][701] of the Housing Corporation Amendment Act 2001 (2001 No 37).
 
 ---
 
@@ -8177,7 +8247,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### International Finance Agreements Amendment Act 1976 (1976 No 25) (RS Vol 16, p 374)
 
-_Amendment(s) incorporated in the [Act(s)][699]._
+_Amendment(s) incorporated in the [Act(s)][702]._
 
 ##### Reserve Bank of New Zealand Act 1964 (1964 No 134) (RS Vol 16, p 455)
 
@@ -8228,11 +8298,11 @@ General provisions relating to material incorporated by reference
 
 [ss 81AA(3)][127], [157S(3)][320], [157W(3)][325]
 
-*   Schedule 3: added, on 10 September 2008, by [section 30][700] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
+*   Schedule 3: added, on 10 September 2008, by [section 30][703] of the Reserve Bank of New Zealand Amendment Act 2008 (2008 No 59).
 
 ##### 1 Effect of material incorporated by reference
     
-*   (1) This clause and [clauses 2 to 7][701] apply to material incorporated by reference in---
+*   (1) This clause and [clauses 2 to 7][704] apply to material incorporated by reference in---
         
     *   (a) an Order in Council made under [section 81][126]; and
     
@@ -8312,13 +8382,13 @@ General provisions relating to material incorporated by reference
 
 ##### 6 Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][634] does not apply to material incorporated by reference in an Order in Council or regulations or to an amendment to, or replacement of, that material.
+*   The [Acts and Regulations Publication Act 1989][705] does not apply to material incorporated by reference in an Order in Council or regulations or to an amendment to, or replacement of, that material.
 
 ##### 7 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
-*   (1) Nothing in [section 4][702] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in an Order in Council or regulations to be laid before the House of Representatives.
+*   (1) Nothing in [section 4][706] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in an Order in Council or regulations to be laid before the House of Representatives.
     
-    (2) The [Regulations (Disallowance) Act 1989][504], apart from the modification to the application of [section 4][702] of that Act made by subclause (1) of this clause, applies to an Order in Council or regulations that incorporate material by reference.
+    (2) The [Regulations (Disallowance) Act 1989][707], apart from the modification to the application of [section 4][706] of that Act made by subclause (1) of this clause, applies to an Order in Council or regulations that incorporate material by reference.
 
 ---
 
@@ -8329,7 +8399,7 @@ General provisions relating to search warrants issued under Part 5D
 
 \[Repealed\]
     
-*   Schedule 4: repealed, on 1 October 2012, by [section 298(7)][655] of the Search and Surveillance Act 2012 (2012 No 24).
+*   Schedule 4: repealed, on 1 October 2012, by [section 298(7)][658] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ---
 
@@ -8341,7 +8411,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Reserve Bank of New Zealand Amendment Act 1993][703], and shall be read together with and deemed part of the Reserve Bank of New Zealand Act 1989 (hereinafter referred to as "the principal Act").
+*   (1) This Act may be cited as the [Reserve Bank of New Zealand Amendment Act 1993][708], and shall be read together with and deemed part of the Reserve Bank of New Zealand Act 1989 (hereinafter referred to as "the principal Act").
     
     (2) This Act shall come into force on 1 July 1994\.
 
@@ -8373,7 +8443,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Reserve Bank of New Zealand Amendment Act 2003][500].
+*   (1) This Act is the [Reserve Bank of New Zealand Amendment Act 2003][502].
     
     (2) In this Act, the Reserve Bank of New Zealand Act 1989 is called ""the principal Act"".
 
@@ -8404,208 +8474,101 @@ Miscellaneous
     
 *   An application for registration as a registered bank under the principal Act that has been made, but not determined or withdrawn, before the date of commencement of this Act must continue to be dealt with in accordance with the principal Act and any regulations made under that Act as if this Act had not been enacted.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][704].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][705] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Reserve Bank of New Zealand Act 1989\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][706] ![](/images/external_link.gif).
+*   This is a reprint of the Reserve Bank of New Zealand Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][707] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][709] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][710] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][708] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][711] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][712] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][709] and [17E][710] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Reserve Bank of New Zealand Amendment Act 2013][713] (2013 No 62)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Legislation Act 2012 (2012 No 119): [section 77(3)][509]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Search and Surveillance Act 2012 (2012 No 24): [sections 297][484], [298][658]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][451]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [sections 297][483], [298][655]
-    
-    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][437], [84(3)][626]
+    Financial Markets Authority Act 2011 (2011 No 5): [sections 82][437], [84(3)][629]
     
     Insurance (Prudential Supervision) Act 2010 (2010 No 111): [section 241(1)][435]
     
-    [Reserve Bank of New Zealand Amendment Act 2009][711] (2009 No 53)
+    [Reserve Bank of New Zealand Amendment Act 2009][714] (2009 No 53)
     
-    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][712]
+    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][715]
     
-    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 15][463]
+    Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008 (2008 No 64): [section 15][464]
     
-    [Reserve Bank of New Zealand Amendment Act 2008][713] (2008 No 59)
+    [Reserve Bank of New Zealand Amendment Act 2008][716] (2008 No 59)
     
-    Property Law Act 2007 (2007 No 91): [section 364(1)][552]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][555]
     
-    [Reserve Bank of New Zealand Amendment Act 2007][714] (2007 No 76)
+    [Reserve Bank of New Zealand Amendment Act 2007][717] (2007 No 76)
     
-    Evidence Act 2006 (2006 No 69): [section 216][623]
+    Evidence Act 2006 (2006 No 69): [section 216][626]
     
-    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][617]
+    Companies Amendment Act (No 2) 2006 (2006 No 62): [section 17][620]
     
     Companies Amendment Act 2006 (2006 No 56): [section 41][443]
     
-    Insolvency Act 2006 (2006 No 55): [section 445][555]
+    Insolvency Act 2006 (2006 No 55): [section 445][558]
     
-    [Reserve Bank of New Zealand Amendment Act 2006][715] (2006 No 51)
+    [Reserve Bank of New Zealand Amendment Act 2006][718] (2006 No 51)
     
-    Securities Amendment Act 2006 (2006 No 46): [section 25][462]
+    Securities Amendment Act 2006 (2006 No 46): [section 25][463]
     
     Overseas Investment Act 2005 (2005 No 82): [section 75][441]
     
-    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][461]
+    State Sector Amendment Act (No 2) 2004 (2004 No 114): [section 19(1)][462]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][439]
     
-    [Reserve Bank of New Zealand Amendment Act 2003][500] (2003 No 46)
+    [Reserve Bank of New Zealand Amendment Act 2003][502] (2003 No 46)
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][544]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][547]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 25(1)(c)][698]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 25(1)(c)][701]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][677]
+    Public Audit Act 2001 (2001 No 10): [section 53][680]
     
-    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][573]
+    Personal Property Securities Act 1999 (1999 No 126): [section 191(1)][576]
     
-    Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53): [section 5][693]
+    Trustee Banks Restructuring Act Repeal Act 1999 (1999 No 53): [section 5][696]
     
-    [Reserve Bank of New Zealand Amendment Act 1999][716] (1999 No 22)
+    [Reserve Bank of New Zealand Amendment Act 1999][719] (1999 No 22)
     
     Treasurer (Statutory References) Act 1997 (1997 No 20): [section 2][438]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][618]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][621]
     
-    Securities Amendment Act 1996 (1996 No 100): [sections 6(6)][688], [16(2)(b)][691]
+    Securities Amendment Act 1996 (1996 No 100): [sections 6(6)][691], [16(2)(b)][694]
     
-    [Reserve Bank of New Zealand Act Commencement Order 1995][717] (SR 1995/249)
+    [Reserve Bank of New Zealand Act Commencement Order 1995][720] (SR 1995/249)
     
     Reserve Bank of New Zealand Amendment Act (No 2) 1995 (1995 No 34)
     
-    Banking Act Repeal Act 1995 (1995 No 32): [section 2(4)][679]
+    Banking Act Repeal Act 1995 (1995 No 32): [section 2(4)][682]
     
     Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5)
     
-    Income Tax Act 1994 (1994 No 164): [section YB 3(1)][718]
+    Income Tax Act 1994 (1994 No 164): [section YB 3(1)][721]
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][442]
     
-    [Reserve Bank of New Zealand Amendment Act 1993][703] (1993 No 118)
+    [Reserve Bank of New Zealand Amendment Act 1993][708] (1993 No 118)
     
     Companies Amendment Act 1993 (1993 No 108): section 63
     
@@ -8615,7 +8578,7 @@ Amendments, repeals, and miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM199366
 [2]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM199368
 [3]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM1606600
@@ -9066,271 +9029,274 @@ Amendments, repeals, and miscellaneous provisions
 [448]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM351272
 [449]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM351280
 [450]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM351286
-[451]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106243
-[452]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM160808
-[453]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411003
-[454]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2478100
-[455]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2140700
-[456]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM129109
-[457]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM25999
-[458]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM139726
-[459]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325508
-[460]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411004
-[461]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM329600
-[462]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM383050
-[463]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1404056
-[464]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202110
-[465]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411005
-[466]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202111
-[467]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411006
-[468]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106245
-[469]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202112
-[470]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202114
-[471]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202116
-[472]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202118
-[473]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202124
-[474]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325263
-[475]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320123
-[476]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322865
-[477]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM64784
-[478]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136542
-[479]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136781
-[480]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136770
-[481]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136813
-[482]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136815
-[483]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2137064
-[484]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM384893
-[485]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385203
-[486]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330352
-[487]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330361
-[488]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330363
-[489]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330364
-[490]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106246
-[491]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385205
-[492]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202152
-[493]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202153
-[494]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202622
-[495]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202154
-[496]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202156
-[497]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202157
-[498]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202160
-[499]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202162
-[500]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM201751
-[501]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202163
-[502]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202166
-[503]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202167
-[504]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195534
-[505]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195540
-[506]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202169
-[507]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322869
-[508]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324886
-[509]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411007
-[510]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202174
-[511]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202176
-[512]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202181
-[513]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM96438
-[514]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202182
-[515]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144912
-[516]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144914
-[517]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202190
-[518]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202194
-[519]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144918
-[520]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144920
-[521]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144922
-[522]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144921
-[523]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144923
-[524]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144925
-[525]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144926
-[526]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202196
-[527]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144928
-[528]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144929
-[529]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144930
-[530]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202197
-[531]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202198
-[532]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320802
-[533]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320694
-[534]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM100539
-[535]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144938
-[536]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144939
-[537]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202602
-[538]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144942
-[539]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202605
-[540]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23515
-[541]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144944
-[542]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202606
-[543]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145301
-[544]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM122579
-[545]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144947
-[546]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202607
-[547]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385207
-[548]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322351
-[549]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387245
-[550]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM202004
-[551]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144948
-[552]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM969644
-[553]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202608
-[554]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23516
-[555]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387857
-[556]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474033
-[557]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144953
-[558]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322371
-[559]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387263
-[560]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144954
-[561]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202611
-[562]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23517
-[563]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144958
-[564]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23518
-[565]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321933
-[566]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144960
-[567]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144962
-[568]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144963
-[569]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144965
-[570]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM46737
-[571]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM45599
-[572]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144969
-[573]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM47639
-[574]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145340
-[575]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327474
-[576]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144983
-[577]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144984
-[578]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327475
-[579]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321943
-[580]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321975
-[581]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322379
-[582]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322384
-[583]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322807
-[584]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321926
-[585]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM323546
-[586]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327476
-[587]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM968501
-[588]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23519
-[589]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144991
-[590]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144992
-[591]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144994
-[592]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145303
-[593]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327478
-[594]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322826
-[595]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322855
-[596]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202612
-[597]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145305
-[598]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327479
-[599]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23520
-[600]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202614
-[601]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202616
-[602]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145320
-[603]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145321
-[604]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145323
-[605]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145325
-[606]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145326
-[607]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM319576
-[608]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320614
-[609]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320877
-[610]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321131
-[611]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327640
-[612]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM367767
-[613]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM372007
-[614]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM372037
-[615]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320630
-[616]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327481
-[617]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM392177
-[618]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM408960
-[619]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202617
-[620]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393462
-[621]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324682
-[622]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324675
-[623]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM394552
-[624]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202624
-[625]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474034
-[626]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM3231794
-[627]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321666
-[628]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321191
-[629]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322879
-[630]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144941
-[631]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385298
-[632]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387707
-[633]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2589604
-[634]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195097
-[635]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM389648
-[636]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385945
-[637]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322337
-[638]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387243
-[639]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385805
-[640]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320176
-[641]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322306
-[642]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322314
-[643]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM386950
-[644]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM386954
-[645]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM389626
-[646]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM163169
-[647]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106248
-[648]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM143741
-[649]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325269
-[650]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM28187
-[651]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM59737
-[652]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM160819
-[653]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM27271
-[654]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM296638
-[655]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2137065
-[656]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393659
-[657]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393662
-[658]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393679
-[659]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393677
-[660]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393672
-[661]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM136807
-[662]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106341
-[663]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411020
-[664]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411021
-[665]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411022
-[666]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106343
-[667]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330539
-[668]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106347
-[669]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106348
-[670]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106349
-[671]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106350
-[672]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106351
-[673]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM329630
-[674]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106352
-[675]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106355
-[676]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM88548
-[677]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM88957
-[678]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM98017
-[679]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM366890
-[680]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202689
-[681]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM311191
-[682]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202692
-[683]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202694
-[684]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385209
-[685]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202696
-[686]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385210
-[687]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM142009
-[688]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM406303
-[689]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202430
-[690]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM207314
-[691]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM406313
-[692]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM143296
-[693]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM25245
-[694]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM31462
-[695]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144267
-[696]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM326504
-[697]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM399732
-[698]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM96740
-[699]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM438781
-[700]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106356
-[701]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM1608206
-[702]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195549
-[703]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327468
-[704]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136500
-[705]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM4686448
-[706]: http://www.pco.parliament.govt.nz/reprints/
-[707]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195439
-[708]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[709]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195468
-[710]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195470
-[711]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474000
-[712]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2141072
-[713]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106222
-[714]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM968494
-[715]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM384885
-[716]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23509
-[717]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM207309
-[718]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1184504
+[451]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM3360714
+[452]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106243
+[453]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM160808
+[454]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411003
+[455]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2478100
+[456]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2140700
+[457]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM129109
+[458]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM25999
+[459]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM139726
+[460]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325508
+[461]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411004
+[462]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM329600
+[463]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM383050
+[464]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1404056
+[465]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202110
+[466]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411005
+[467]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202111
+[468]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411006
+[469]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106245
+[470]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202112
+[471]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202114
+[472]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202116
+[473]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202118
+[474]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202124
+[475]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325263
+[476]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320123
+[477]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322865
+[478]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM64784
+[479]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136542
+[480]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136781
+[481]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136770
+[482]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136813
+[483]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2136815
+[484]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2137064
+[485]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM384893
+[486]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385203
+[487]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330352
+[488]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330361
+[489]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330363
+[490]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330364
+[491]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106246
+[492]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385205
+[493]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM5560807
+[494]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202152
+[495]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202153
+[496]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202622
+[497]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202154
+[498]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202156
+[499]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202157
+[500]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202160
+[501]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202162
+[502]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM201751
+[503]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202163
+[504]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202166
+[505]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202167
+[506]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2997643
+[507]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998573
+[508]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202169
+[509]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998633
+[510]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322869
+[511]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324886
+[512]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411007
+[513]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202174
+[514]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202176
+[515]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202181
+[516]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM96438
+[517]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202182
+[518]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144912
+[519]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144914
+[520]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202190
+[521]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202194
+[522]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144918
+[523]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144920
+[524]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144922
+[525]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144921
+[526]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144923
+[527]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144925
+[528]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144926
+[529]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202196
+[530]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144928
+[531]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144929
+[532]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144930
+[533]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202197
+[534]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202198
+[535]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320802
+[536]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320694
+[537]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM100539
+[538]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144938
+[539]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144939
+[540]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202602
+[541]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144942
+[542]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202605
+[543]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23515
+[544]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144944
+[545]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202606
+[546]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145301
+[547]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM122579
+[548]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144947
+[549]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202607
+[550]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385207
+[551]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322351
+[552]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387245
+[553]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM202004
+[554]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144948
+[555]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM969644
+[556]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202608
+[557]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23516
+[558]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387857
+[559]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474033
+[560]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144953
+[561]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322371
+[562]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387263
+[563]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144954
+[564]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202611
+[565]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23517
+[566]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144958
+[567]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23518
+[568]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321933
+[569]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144960
+[570]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144962
+[571]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144963
+[572]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144965
+[573]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM46737
+[574]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM45599
+[575]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144969
+[576]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM47639
+[577]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145340
+[578]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327474
+[579]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144983
+[580]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144984
+[581]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327475
+[582]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321943
+[583]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321975
+[584]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322379
+[585]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322384
+[586]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322807
+[587]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321926
+[588]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM323546
+[589]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327476
+[590]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM968501
+[591]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23519
+[592]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144991
+[593]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144992
+[594]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144994
+[595]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145303
+[596]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327478
+[597]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322826
+[598]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322855
+[599]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202612
+[600]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145305
+[601]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327479
+[602]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23520
+[603]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202614
+[604]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202616
+[605]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145320
+[606]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145321
+[607]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145323
+[608]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145325
+[609]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM145326
+[610]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM319576
+[611]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320614
+[612]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320877
+[613]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321131
+[614]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327640
+[615]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM367767
+[616]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM372007
+[617]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM372037
+[618]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320630
+[619]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327481
+[620]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM392177
+[621]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM408960
+[622]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202617
+[623]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393462
+[624]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324682
+[625]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM324675
+[626]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM394552
+[627]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202624
+[628]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474034
+[629]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM3231794
+[630]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321666
+[631]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM321191
+[632]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322879
+[633]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144941
+[634]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385298
+[635]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387707
+[636]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2589604
+[637]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM389648
+[638]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385945
+[639]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322337
+[640]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM387243
+[641]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385805
+[642]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM320176
+[643]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322306
+[644]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM322314
+[645]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM386950
+[646]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM386954
+[647]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM389626
+[648]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM163169
+[649]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106248
+[650]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM143741
+[651]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM325269
+[652]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM28187
+[653]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM59737
+[654]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM160819
+[655]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM27271
+[656]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2997696
+[657]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM296638
+[658]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2137065
+[659]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393659
+[660]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393662
+[661]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393679
+[662]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393677
+[663]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM393672
+[664]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM136807
+[665]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106341
+[666]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411020
+[667]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411021
+[668]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1411022
+[669]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106343
+[670]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM330539
+[671]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106347
+[672]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106348
+[673]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106349
+[674]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106350
+[675]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106351
+[676]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM329630
+[677]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106352
+[678]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106355
+[679]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM88548
+[680]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM88957
+[681]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM98017
+[682]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM366890
+[683]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM5560808
+[684]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202689
+[685]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM3360067
+[686]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202694
+[687]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385209
+[688]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202696
+[689]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM385210
+[690]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM142009
+[691]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM406303
+[692]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM202430
+[693]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM207314
+[694]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM406313
+[695]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM143296
+[696]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM25245
+[697]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM31462
+[698]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM144267
+[699]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM326504
+[700]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM399732
+[701]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM96740
+[702]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM438781
+[703]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106356
+[704]: http://www.legislation.govt.nz/act/public/1989/0157/latest/whole.html#DLM1608206
+[705]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195097
+[706]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195549
+[707]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM195534
+[708]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM327468
+[709]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998516
+[710]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998515
+[711]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2998532
+[712]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[713]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM5560800
+[714]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1474000
+[715]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM2141072
+[716]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1106222
+[717]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM968494
+[718]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM384885
+[719]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM23509
+[720]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM207309
+[721]: http://www.legislation.govt.nz/act/public/1989/0157/latest/link.aspx?id=DLM1184504
