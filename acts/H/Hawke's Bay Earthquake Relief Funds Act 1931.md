@@ -1,5 +1,5 @@
 Reprint  
-as at 10 November 1931
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -123,9 +123,11 @@ An Act to make provision for the administration and control of funds raised whol
     
 *   (1) The Minister may direct the trustees of any Earthquake Relief Fund to transfer such fund and the administration thereof to the Committee.
     
-    (2) Any person who refuses or fails to comply with such direction within the time limited thereby or within such extended time as the Minister may allow shall be liable on summary conviction to a fine not exceeding 100 pounds.
+    (2) Any person who refuses or fails to comply with such direction within the time limited thereby or within such extended time as the Minister may allow shall be liable on conviction to a fine not exceeding 100 pounds.
     
     (3) The transfer of any such fund as aforesaid shall not operate to exempt any trustee from liability under this Act or otherwise for any breach of trust, or other unlawful act, whether of commission or omission, for which he was legally responsible before such transfer.
+    
+    Section 7(2): amended, on 1 July 2013, by [section 413][21] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Funds so transferred to be paid to Public Trustee
     
@@ -177,7 +179,9 @@ An Act to make provision for the administration and control of funds raised whol
 
 ##### 12 Penalties for failure to furnish particulars or for furnishing false particulars
     
-*   Any person, being required to furnish particulars pursuant to [section 10][11] or [section 11][12], who wilfully fails to furnish such particulars, or who wilfully furnishes any statement that is to his knowledge false in any material particular, shall be liable on summary conviction before a Magistrate to a fine of not less than 5 pounds and not exceeding 100 pounds, and to a further fine not exceeding 5 pounds for every day during which the failure to supply correct particulars continues.
+*   Any person, being required to furnish particulars pursuant to [section 10][11] or [section 11][12], who wilfully fails to furnish such particulars, or who wilfully furnishes any statement that is to his knowledge false in any material particular, shall be liable on conviction before a Magistrate to a fine of not less than 5 pounds and not exceeding 100 pounds, and to a further fine not exceeding 5 pounds for every day during which the failure to supply correct particulars continues.
+    
+    Section 12: amended, on 1 July 2013, by [section 413][21] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Expenditure of funds
     
@@ -197,7 +201,7 @@ An Act to make provision for the administration and control of funds raised whol
     
 *   (1) Subject to such modifications as the Minister of Finance may from time to time, either generally or in particular cases, determine, the Audit Office shall have the same powers and duties in respect of all moneys collected or purported to be collected by any person for any Earthquake Relief Fund, and in respect of the accounts of such moneys, and in respect of every person dealing therewith, as it has in respect of the public moneys and accounts within the meaning of the Public Revenues Act 1926, and of all persons dealing therewith.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][21]._
+    (2) _Amendment(s) incorporated in the [Act(s)][22]._
 
 ##### 15 Protection of moneys paid out of funds in respect of personal injuries
     
@@ -245,23 +249,23 @@ An Act to make provision for the administration and control of funds raised whol
 
 ###### 1 General
     
-*   This is a reprint of the Hawke's Bay Earthquake Relief Funds Act 1931\. The reprint incorporates all the amendments to the Act as at 10 November 1931, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Hawke's Bay Earthquake Relief Funds Act 1931\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][22] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][23] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][23] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][24] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][24] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][25] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][25] and [17E][26] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][26] and [17E][27] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -292,7 +296,7 @@ An Act to make provision for the administration and control of funds raised whol
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][21]
 
 
 
@@ -317,9 +321,10 @@ An Act to make provision for the administration and control of funds raised whol
 [18]: http://www.legislation.govt.nz/act/public/1931/0029/latest/whole.html#DLM210305
 [19]: http://www.legislation.govt.nz/act/public/1931/0029/latest/whole.html#DLM210306
 [20]: http://www.legislation.govt.nz/act/public/1931/0029/latest/whole.html#DLM210307
-[21]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM209208
-[22]: http://www.pco.parliament.govt.nz/reprints/
-[23]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195439
-[24]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[25]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195468
-[26]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195470
+[21]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM3360714
+[22]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM209208
+[23]: http://www.pco.parliament.govt.nz/reprints/
+[24]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195439
+[25]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[26]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195468
+[27]: http://www.legislation.govt.nz/act/public/1931/0029/latest/link.aspx?id=DLM195470
