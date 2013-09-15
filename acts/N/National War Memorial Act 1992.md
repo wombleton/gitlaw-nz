@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2000
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,47 +25,47 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Act to bind the Crown][3]
+[2][3][][3][Act to bind the Crown][3]
 
-[3][4] [Purposes][4]
+[3][4][][4][Purposes][4]
 
-[3A][5] [Interpretation][5]
+[3A][5][][5][Interpretation][5]
 
-[4][6] [National War Memorial][6]
+[4][6][][6][National War Memorial][6]
 
-[5][7] [Minister to control and maintain Memorial][7]
+[5][7][][7][Minister to control and maintain Memorial][7]
 
-[6][8] [Vesting of land and of right of way in the Crown][8]
+[6][8][][8][Vesting of land and of right of way in the Crown][8]
 
-[7][9] [Vesting of personal property in the Crown][9]
+[7][9][][9][Vesting of personal property in the Crown][9]
 
 [National War Memorial Advisory Council][10]
 
-[8][11] [National War Memorial Advisory Council][11]
+[8][11][][11][National War Memorial Advisory Council][11]
 
-[9][12] [Function of Council][12]
+[9][12][][12][Function of Council][12]
 
-[10][13] [Membership of Council][13]
+[10][13][][13][Membership of Council][13]
 
-[11][14] [Term of office][14]
+[11][14][][14][Term of office][14]
 
-[12][15] [Extraordinary vacancies][15]
+[12][15][][15][Extraordinary vacancies][15]
 
-[13][16] [Procedure][16]
+[13][16][][16][Procedure][16]
 
-[14][17] [Fees and allowances of members of Council][17]
+[14][17][][17][Fees and allowances of members of Council][17]
 
 [Miscellaneous provisions][18]
 
-[15][19] [Protection of names][19]
+[15][19][][19][Protection of names][19]
 
-[16][20] [Amendment to Flags, Emblems, and Names Protection Act 1981][20]
+[16][20][][20][Amendment to Flags, Emblems, and Names Protection Act 1981][20]
 
-[17][21] [References to War Memorial, Carillon, and Hall of Memories deemed references to National War Memorial][21]
+[17][21][][21][References to War Memorial, Carillon, and Hall of Memories deemed references to National War Memorial][21]
 
-[18][22] [References to Board of Trustees deemed references to Minister][22]
+[18][22][][22][References to Board of Trustees deemed references to Minister][22]
 
 ---
 
@@ -227,13 +227,15 @@ An Act to provide for the control and maintenance of the National War Memorial
     
     *   (b) carry on business, or conduct any activities in relation to any name knowing that that name so resembles any name listed in paragraph (a) or paragraph (b) of subsection (1) as to be likely to mislead any person.
     
-    (3) Every person who contravenes subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+    (3) Every person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
     
     Section 15(2): amended, on 1 October 2000, by [section 12][23] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+    
+    Section 15(3): amended, on 1 July 2013, by [section 413][26] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Amendment to Flags, Emblems, and Names Protection Act 1981
     
-*   _Amendment(s) incorporated in the [Act(s)][26]._
+*   _Amendment(s) incorporated in the [Act(s)][27]._
 
 ##### 17 References to War Memorial, Carillon, and Hall of Memories deemed references to National War Memorial
     
@@ -263,23 +265,23 @@ An Act to provide for the control and maintenance of the National War Memorial
 
 ###### 1 General
     
-*   This is a reprint of the National War Memorial Act 1992\. The reprint incorporates all the amendments to the Act as at 1 October 2000, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the National War Memorial Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][27] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][28] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][28] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][29] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][29] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][30] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][31] and [17E][32] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -310,7 +312,9 @@ An Act to provide for the control and maintenance of the National War Memorial
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][23]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][26]
+    
+    Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][23]
 
 
 
@@ -340,9 +344,10 @@ An Act to provide for the control and maintenance of the National War Memorial
 [23]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM67196
 [24]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM260224
 [25]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM264952
-[26]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM51358
-[27]: http://www.pco.parliament.govt.nz/reprints/
-[28]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195439
-[29]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[30]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195468
-[31]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195470
+[26]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM3360714
+[27]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM51358
+[28]: http://www.pco.parliament.govt.nz/reprints/
+[29]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195439
+[30]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[31]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195468
+[32]: http://www.legislation.govt.nz/act/public/1992/0020/latest/link.aspx?id=DLM195470
