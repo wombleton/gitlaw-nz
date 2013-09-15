@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,61 +25,61 @@ This Act is administered by the Department of the Prime Minister and Cabinet.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [This Act to bind the Crown][4]
+[3][4][][4][This Act to bind the Crown][4]
 
-[4][5] [This Act not to affect functions, duties, and powers under other Acts or general law][5]
+[4][5][][5][This Act not to affect functions, duties, and powers under other Acts or general law][5]
 
 [Authority to exercise emergency powers][6]
 
-[5][7] [Commissioner of Police to inform Prime Minister of existence of international terrorist emergency][7]
+[5][7][][7][Commissioner of Police to inform Prime Minister of existence of international terrorist emergency][7]
 
-[6][8] [Meeting of Ministers may authorise exercise of emergency powers][8]
+[6][8][][8][Meeting of Ministers may authorise exercise of emergency powers][8]
 
-[7][9] [House of Representatives may extend authority to exercise emergency powers][9]
+[7][9][][9][House of Representatives may extend authority to exercise emergency powers][9]
 
-[8][10] [House of Representatives may revoke authority to exercise emergency powers][10]
+[8][10][][10][House of Representatives may revoke authority to exercise emergency powers][10]
 
 [Emergency powers][11]
 
-[9][12] [Proof of identity][12]
+[9][12][][12][Proof of identity][12]
 
-[10][13] [Emergency powers][13]
+[10][13][][13][Emergency powers][13]
 
-[11][14] [Requisitioning powers][14]
+[11][14][][14][Requisitioning powers][14]
 
-[12][15] [Members of Armed Forces assisting Police may exercise emergency powers][15]
+[12][15][][15][Members of Armed Forces assisting Police may exercise emergency powers][15]
 
-[13][16] [Compensation payable where property requisitioned or destroyed][16]
+[13][16][][16][Compensation payable where property requisitioned or destroyed][16]
 
-[14][17] [Prime Minister may prohibit publication or broadcasting of certain matters relating to international terrorist emergency][17]
+[14][17][][17][Prime Minister may prohibit publication or broadcasting of certain matters relating to international terrorist emergency][17]
 
-[15][18] [Commencement, revocation, expiry, and renewal of notice issued under section 14][18]
+[15][18][][18][Commencement, revocation, expiry, and renewal of notice issued under section 14][18]
 
-[16][19] [Protection from liability][19]
+[16][19][][19][Protection from liability][19]
 
-[17][20] [Commissioner of Police to give information to House of Representatives][20]
+[17][20][][20][Commissioner of Police to give information to House of Representatives][20]
 
 [Provisions relating to interception of private communications][21]
 
-[18][22] [Prohibition on disclosure of private communications lawfully intercepted][22]
+[18][22][][22][Prohibition on disclosure of private communications lawfully intercepted][22]
 
-[19][23] [Notice to be given of intention to produce evidence of private communication][23]
+[19][23][][23][Notice to be given of intention to produce evidence of private communication][23]
 
-[20][24] [Inadmissibility of evidence of private communications lawfully intercepted][24]
+[20][24][][24][Inadmissibility of evidence of private communications lawfully intercepted][24]
 
 [Offences][25]
 
-[21][26] [Offences][26]
+[21][26][][26][Offences][26]
 
 [Consequential amendment][27]
 
 \[Repealed\]
 
-[22][28] [Crimes Act 1961 amended][28] \[Repealed\]
+[22][28][][28][Crimes Act 1961 amended][28] \[Repealed\]
 
 ---
 
@@ -493,13 +493,13 @@ An Act to make better provision to deal with international terrorist emergencies
         
         
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $20,000\.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who acts in contravention of [section 18][22].
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who acts in contravention of [section 18][22].
     
     (4) It is a defence to a charge under subsection (1)(a) if the court is satisfied that---
         
@@ -509,6 +509,10 @@ An Act to make better provision to deal with international terrorist emergencies
     
     Section 21(1)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][31] of the Policing Act 2008 (2008 No 72).
     
+    Section 21(2): amended, on 1 July 2013, by [section 413][38] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(3): amended, on 1 July 2013, by [section 413][38] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 21(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][31] of the Policing Act 2008 (2008 No 72).
     
     Section 21(4)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][31] of the Policing Act 2008 (2008 No 72).
@@ -517,13 +521,15 @@ An Act to make better provision to deal with international terrorist emergencies
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 February 1998, pursuant to [section 4(3)(b)][38] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
+*   Heading: repealed, on 1 February 1998, pursuant to [section 4(3)(b)][39] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
 
 ##### 22 Crimes Act 1961 amended
+
+\[Repealed\]
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 February 1998, by [section 4(3)(b)][38] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
+    Section 22: repealed, on 1 February 1998, by [section 4(3)(b)][39] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
 
 ---
 
@@ -541,23 +547,23 @@ An Act to make better provision to deal with international terrorist emergencies
 
 ###### 1 General
     
-*   This is a reprint of the International Terrorism (Emergency Powers) Act 1987\. The reprint incorporates all the amendments to the Act as at 1 October 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the International Terrorism (Emergency Powers) Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][39] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][40] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][40] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][41] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][41] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][42] and [17E][43] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][43] and [17E][44] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -588,11 +594,13 @@ An Act to make better provision to deal with international terrorist emergencies
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (b)][31], [130(1)][33]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][38]
+    
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (b)][31], [130(1)][33]
     
     Crimes Amendment Act 2003 (2003 No 39): [section 35][29]
     
-    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 4(3)(b)][38]
+    Crimes Amendment Act (No 2) 1997 (1997 No 93): [section 4(3)(b)][39]
 
 
 
@@ -634,9 +642,10 @@ An Act to make better provision to deal with international terrorist emergencies
 [35]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM23663
 [36]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM23664
 [37]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM23673
-[38]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM418010
-[39]: http://www.pco.parliament.govt.nz/reprints/
-[40]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195439
-[41]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[42]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195468
-[43]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195470
+[38]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM3360714
+[39]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM418010
+[40]: http://www.pco.parliament.govt.nz/reprints/
+[41]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195439
+[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[43]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195468
+[44]: http://www.legislation.govt.nz/act/public/1987/0179/latest/link.aspx?id=DLM195470
