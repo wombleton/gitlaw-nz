@@ -1,7 +1,7 @@
 Reprint  
-as at 24 January 2009
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Civil Union Act 2004Public Act2004 No 102
 
@@ -23,133 +23,133 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Interpretation][4]
+[3][4][][4][Interpretation][4]
 
-[4][5] [Overview of civil union][5]
+[4][5][][5][Overview of civil union][5]
 
-[5][6] [Reference to civil union in any other enactment][6]
+[5][6][][6][Reference to civil union in any other enactment][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Civil unions][8]
 
-[Subpart 1][9]---[Entering into civil union][9]
+[Subpart 1][9][---][9][Entering into civil union][9]
 
 [Capacity][10]
 
-[7][11] [Age of eligibility][11]
+[7][11][][11][Age of eligibility][11]
 
-[8][12] [Partners not to be already married or in civil union][12]
+[8][12][][12][Partners not to be already married or in civil union][12]
 
-[9][13] [Partners not to be within prohibited degrees of civil union][13]
+[9][13][][13][Partners not to be within prohibited degrees of civil union][13]
 
-[10][14] [Order dispensing with prohibition on civil union within prohibited degrees of affinity][14]
+[10][14][][14][Order dispensing with prohibition on civil union within prohibited degrees of affinity][14]
 
 [Formalities][15]
 
-[11][16] [Notice of civil union, and statutory declaration][16]
+[11][16][][16][Notice of civil union, and statutory declaration][16]
 
-[12][17] [Issue of licence and forms where solemnisation by civil union celebrant or exempt body][17]
+[12][17][][17][Issue of licence and forms where solemnisation by civil union celebrant or exempt body][17]
 
-[13][18] [Licence authorises but does not oblige][18]
+[13][18][][18][Licence authorises but does not oblige][18]
 
-[14][19] [Solemnisation by Registrar][19]
+[14][19][][19][Solemnisation by Registrar][19]
 
-[15][20] [Solemnisation by civil union celebrant][20]
+[15][20][][20][Solemnisation by civil union celebrant][20]
 
-[16][21] [Solemnisation by exempt body][21]
+[16][21][][21][Solemnisation by exempt body][21]
 
 [Changing form of relationship][22]
 
-[17][23] [Purpose of section 18][23]
+[17][23][][23][Purpose of section 18][23]
 
-[18][24] [Changing form of relationship][24]
+[18][24][][24][Changing form of relationship][24]
 
 [Consent for persons aged 16 or 17][25]
 
-[19][26] [Consent to civil union of persons aged 16 or 17][26]
+[19][26][][26][Consent to civil union of persons aged 16 or 17][26]
 
-[20][27] [Application to Family Court Judge if consent refused][27]
+[20][27][][27][Application to Family Court Judge if consent refused][27]
 
 [Notice of objection to civil union][28]
 
-[21][29] [Notice of objection to proposed civil union][29]
+[21][29][][29][Notice of objection to proposed civil union][29]
 
-[22][30] [Judge to deal with notice of objection][30]
+[22][30][][30][Judge to deal with notice of objection][30]
 
 [When civil union is or may be declared void][31]
 
-[23][32] [When civil union is or may be declared void][32]
+[23][32][][32][When civil union is or may be declared void][32]
 
-[24][33] [Effect of defects in formalities or procedures][33]
+[24][33][][33][Effect of defects in formalities or procedures][33]
 
 [Certificate of no impediment][34]
 
-[25][35] [Registrar-General may issue certificate of no impediment][35]
+[25][35][][35][Registrar-General may issue certificate of no impediment][35]
 
-[Subpart 2][36]---[Civil union celebrants][36]
+[Subpart 2][36][---][36][Civil union celebrants][36]
 
-[26][37] [Appointment of civil union celebrants][37]
+[26][37][][37][Appointment of civil union celebrants][37]
 
-[27][38] [Expiry of appointment and reappointment][38]
+[27][38][][38][Expiry of appointment and reappointment][38]
 
-[28][39] [Ceasing to be civil union celebrant][39]
+[28][39][][39][Ceasing to be civil union celebrant][39]
 
-[29][40] [List of civil union celebrants][40]
+[29][40][][40][List of civil union celebrants][40]
 
-[Subpart 3][41]---[Offences and miscellaneous provisions][41]
+[Subpart 3][41][---][41][Offences and miscellaneous provisions][41]
 
 [Offences][42]
 
-[30][43] [Offence to issue licence or solemnise civil union contrary to Act][43]
+[30][43][][43][Offence to issue licence or solemnise civil union contrary to Act][43]
 
-[31][44] [Offence to purport to solemnise civil union][44]
+[31][44][][44][Offence to purport to solemnise civil union][44]
 
-[32][45] [Offences in connection with false statements relating to civil union][45]
+[32][45][][45][Offences in connection with false statements relating to civil union][45]
 
-[33][46] [Limitation on prosecutions][46]
+[33][46][][46][Limitation on prosecutions][46]
 
 [Miscellaneous][47]
 
-[34][48] [Registrar-General][48]
+[34][48][][48][Registrar-General][48]
 
-[35][49] [Regulations][49]
+[35][49][][49][Regulations][49]
 
-[36][50] [Rules of procedure][50]
+[36][50][][50][Rules of procedure][50]
 
-[37][51] [Appointment of civil union celebrants before section 26 comes into force][51]
+[37][51][][51][Appointment of civil union celebrants before section 26 comes into force][51]
 
-[Subpart 4][52]---[Amendments to other enactments][52]
+[Subpart 4][52][---][52][Amendments to other enactments][52]
 
 [Amendments to Births, Deaths, and Marriages Registration Act 1995][53]
 
-[38][54] [Amendments to section 2 of Births, Deaths, and Marriages Registration Act 1995][54]
+[38][54][][54][Amendments to section 2 of Births, Deaths, and Marriages Registration Act 1995][54]
 
-[39][55] [New Part 7A inserted in Births, Deaths, and Marriages Registration Act 1995][55]
+[39][55][][55][New Part 7A inserted in Births, Deaths, and Marriages Registration Act 1995][55]
 
 [Amendments to other enactments][56]
 
-[40][57] [Sections 16 and 23 of Adoption Act 1955 amended][57]
+[40][57][][57][Sections 16 and 23 of Adoption Act 1955 amended][57]
 
-[41][58] [Section 205 of Crimes Act 1961 amended][58]
+[41][58][][58][Section 205 of Crimes Act 1961 amended][58]
 
-[42][59] [Section 206 of Crimes Act 1961 amended][59]
+[42][59][][59][Section 206 of Crimes Act 1961 amended][59]
 
-[43][60] [New section 207 of Crimes Act 1961 substituted][60]
+[43][60][][60][New section 207 of Crimes Act 1961 substituted][60]
 
-[44][61] [Amendments to Family Proceedings Act 1980][61]
+[44][61][][61][Amendments to Family Proceedings Act 1980][61]
 
-[45][62] [Amendments to Family Proceedings Act 1980 made by Care of Children Act 2004 amended][62]
+[45][62][][62][Amendments to Family Proceedings Act 1980 made by Care of Children Act 2004 amended][62]
 
-[46][63] [Consequential amendments to other enactments][63]
+[46][63][][63][Consequential amendments to other enactments][63]
 
 [Schedule 1][64]  
 [Exempt bodies][64]
@@ -586,21 +586,27 @@ Civil unions
     
     (2) A Registrar or civil union celebrant who knowingly and wilfully solemnises a civil union contrary to [section 14][19] or [section 15][20] commits an offence.
     
-    (3) A person is liable, on conviction on indictment for an offence against subsection (1) or subsection (2), to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $10,000, or to both.
+    (3) A person is liable, on conviction for an offence against subsection (1) or subsection (2), to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $10,000, or to both.
     
-    (4) An exempt body that knowingly and wilfully solemnises a civil union otherwise than in accordance with its rules and procedures as most recently notified to the Registrar-General commits an offence and is liable on conviction on indictment to a fine not exceeding $10,000\.
+    (4) An exempt body that knowingly and wilfully solemnises a civil union otherwise than in accordance with its rules and procedures as most recently notified to the Registrar-General commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
     Compare: 1955 No 92 [s 58][100]
+    
+    Section 30(3): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 30(4): amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 31 Offence to purport to solemnise civil union
     
-*   Every person commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, if he or she purports to solemnise a civil union as a civil union celebrant knowing that he or she is not a civil union celebrant.
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 5 years, if he or she purports to solemnise a civil union as a civil union celebrant knowing that he or she is not a civil union celebrant.
     
-    Compare: 1955 No 92 [s 59][101]
+    Compare: 1955 No 92 [s 59][102]
+    
+    Section 31: amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32 Offences in connection with false statements relating to civil union
     
-*   Every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully---
         
     *   (a) makes or causes to be made any false declaration for the purposes of this Act; or
     
@@ -608,13 +614,15 @@ Civil unions
     
     *   (c) gives a Registrar a document that purports to be a copy of a notice of objection when it is not in fact a copy of a notice of objection.
     
-    Compare: 1955 No 92 [s 60][102]
+    Compare: 1955 No 92 [s 60][103]
+    
+    Section 32: amended, on 1 July 2013, by [section 413][101] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Limitation on prosecutions
     
 *   A prosecution under this Act may not be commenced more than 3 years from the date on which the offence was committed.
     
-    Compare: 1955 No 92 [s 63][103]
+    Compare: 1955 No 92 [s 63][104]
 
 #### Miscellaneous
 
@@ -622,7 +630,7 @@ Civil unions
     
 *   The Registrar-General is charged with the general administration of this Act.
     
-    Compare: 1955 No 92 [s 4][104]
+    Compare: 1955 No 92 [s 4][105]
 
 ##### 35 Regulations
     
@@ -674,19 +682,19 @@ Civil unions
     
     *   (e) requires that, during the relationship, the parties may not enter into that sort of relationship with anyone else, and may not marry anyone else.
     
-    Compare: 1955 No 92 [s 64][105]
+    Compare: 1955 No 92 [s 64][106]
 
 ##### 36 Rules of procedure
     
-*   (1) Rules may be made under [section 16A][106] of the Family Courts Act 1980 that regulate the practice and procedure of Family Courts in proceedings under [sections 10][14], [20][27], and [22][30].
+*   (1) Rules may be made under [section 16A][107] of the Family Courts Act 1980 that regulate the practice and procedure of Family Courts in proceedings under [sections 10][14], [20][27], and [22][30].
     
-    (2) Rules made under the [Family Courts Act 1980][107]---
+    (2) Rules made under the [Family Courts Act 1980][108]---
         
     *   (a) are subject to [section 20(2) and (3)][27]; and
     
     *   (b) do not affect the practice and procedure of District Courts in proceedings under [section 22][30].
     
-    Compare: 1955 No 92 [s 64A][108]
+    Compare: 1955 No 92 [s 64A][109]
 
 ##### 37 Appointment of civil union celebrants before section 26 comes into force
     
@@ -710,19 +718,19 @@ Civil unions
 
 ##### 40 Sections 16 and 23 of Adoption Act 1955 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][109]_.
+*   _Amendment(s) incorporated in the [Act(s)][110]_.
 
 ##### 41 Section 205 of Crimes Act 1961 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][110]_.
+*   _Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### 42 Section 206 of Crimes Act 1961 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][110]_.
+*   _Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### 43 New section 207 of Crimes Act 1961 substituted
     
-*   _Amendment(s) incorporated in the [Act(s)][110]_.
+*   _Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### 44 Amendments to Family Proceedings Act 1980
     
@@ -730,7 +738,7 @@ Civil unions
 
 ##### 45 Amendments to Family Proceedings Act 1980 made by Care of Children Act 2004 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][111]._
+*   _Amendment(s) incorporated in the [Act(s)][112]._
 
 ##### 46 Consequential amendments to other enactments
     
@@ -806,9 +814,7 @@ Prohibited degrees of civil union
 
 [s 3][4]
 
-##### 1
-    
-*   Person A and person B are within the prohibited degrees of civil union if person A is person B's---
+*   1 Person A and person B are within the prohibited degrees of civil union if person A is person B's---
     
     1grandparent
     
@@ -842,13 +848,9 @@ Prohibited degrees of civil union
     
     
 
-##### 2
-    
-*   The prohibited degrees of civil union apply whether the relationships described are by the whole blood or by the half blood.
+*   2 The prohibited degrees of civil union apply whether the relationships described are by the whole blood or by the half blood.
 
-##### 3
-    
-*   In this schedule, _spouse_ and _civil union partner_ includes a former spouse or former civil union partner, whether alive or deceased, and whether the marriage or civil union was terminated by death, dissolution, or otherwise.
+*   3 In this schedule, spouse and civil union partner includes a former spouse or former civil union partner, whether alive or deceased, and whether the marriage or civil union was terminated by death, dissolution, or otherwise.
 
 ---
 
@@ -866,7 +868,7 @@ New Schedule 2 inserted in Care of Children Act 2004
 
 [s 45][62]
 
-_Amendment(s) incorporated in the [Act(s)][111]_.
+_Amendment(s) incorporated in the [Act(s)][112]_.
 
 ---
 
@@ -884,34 +886,34 @@ _Amendment(s) incorporated in the [Act(s)][99]_.
 
 ##### Care of Children Act 2004 (2004 No 90)
 
-_Amendment(s) incorporated in the [Act(s)][112]_.
+_Amendment(s) incorporated in the [Act(s)][113]_.
 
 ##### Electoral Act 1993 (1993 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][113]_.
+_Amendment(s) incorporated in the [Act(s)][114]_.
 
 ##### Family Courts Act 1980 (1980 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][107]_.
+_Amendment(s) incorporated in the [Act(s)][108]_.
 
 ##### Privacy Act 1993 (1993 No 28)
 
-_Amendment(s) incorporated in the [Act(s)][114]_.
+_Amendment(s) incorporated in the [Act(s)][115]_.
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][115]_.
+_Amendment(s) incorporated in the [Act(s)][116]_.
 
 ## Part 2  
 Amendments to Regulations
 
 ##### Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 
-_Amendment(s) incorporated in the [regulations][116]_.
+_Amendment(s) incorporated in the [regulations][117]_.
 
 ##### Family Courts Rules 2002 (SR 2002/261)
 
-_Amendment(s) incorporated in the [rules][117]_.
+_Amendment(s) incorporated in the [rules][118]_.
 
 ---
 
@@ -929,23 +931,23 @@ _Amendment(s) incorporated in the [rules][117]_.
 
 ###### 1 General
     
-*   This is a reprint of the Civil Union Act 2004\. The reprint incorporates all the amendments to the Act as at 24 January 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Civil Union Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][119] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][118] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][120] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][121] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][119] and [17E][120] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][122] and [17E][123] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -976,9 +978,11 @@ _Amendment(s) incorporated in the [rules][117]_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][73]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][101]
     
-    [Civil Union Amendment Act 2007][121] (2007 No 47)
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][73]
+    
+    [Civil Union Amendment Act 2007][124] (2007 No 47)
     
     Care of Children Act 2004 (2004 No 90): [section 151][72]
 
@@ -1085,24 +1089,27 @@ _Amendment(s) incorporated in the [rules][117]_.
 [98]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM968137
 [99]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM359368
 [100]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292617
-[101]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292618
-[102]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292619
-[103]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292624
-[104]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292058
-[105]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292625
-[106]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM42296
-[107]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM42253
-[108]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292627
-[109]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292660
-[110]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM327381
-[111]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM318163
-[112]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM317232
-[113]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM307518
-[114]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM296638
-[115]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM310742
-[116]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM264406
-[117]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM142994
-[118]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195439
-[119]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195468
-[120]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195470
-[121]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM968130
+[101]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM3360714
+[102]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292618
+[103]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292619
+[104]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292624
+[105]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292058
+[106]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292625
+[107]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM42296
+[108]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM42253
+[109]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292627
+[110]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM292660
+[111]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM327381
+[112]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM318163
+[113]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM317232
+[114]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM307518
+[115]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM296638
+[116]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM310742
+[117]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM264406
+[118]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM142994
+[119]: http://www.pco.parliament.govt.nz/reprints/
+[120]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195439
+[121]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[122]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195468
+[123]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM195470
+[124]: http://www.legislation.govt.nz/act/public/2004/0102/latest/link.aspx?id=DLM968130
