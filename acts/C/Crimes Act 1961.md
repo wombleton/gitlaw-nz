@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -2304,7 +2304,7 @@ Matters of justification or excuse
     
     *   (m) [section 267][417] (arson).
     
-    (3) Where a woman who is married or in a civil union commits an offence, the fact that her husband or civil union partner was present at the commission of the offence does not of itself raise a presumption of compulsion.
+    (3) Where a woman who is married or in a civil union commits an offence, the fact that her spouse or civil union partner was present at the commission of the offence does not of itself raise a presumption of compulsion.
     
     Compare: 1908 No 32 s 44
     
@@ -2319,6 +2319,8 @@ Matters of justification or excuse
     Section 24(2)(m): added, on 1 October 2003, by [section 5][735] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 24(3): substituted, on 26 April 2005, by [section 7][736] of the Relationships (Statutory References) Act 2005 (2005 No 3).
+    
+    Section 24(3): amended, on 19 August 2013, by [section 9][737] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 #### Ignorance of law
 
@@ -2346,7 +2348,7 @@ Matters of justification or excuse
     
     Section 26(3): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 26(3): amended, on 30 June 1998, by [section 2][737] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
+    Section 26(3): amended, on 30 June 1998, by [section 2][738] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
 
 ##### 27 Execution of erroneous sentence or process
     
@@ -2380,9 +2382,9 @@ Matters of justification or excuse
     
     Section 28(1): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 28(1)(a): amended, on 30 June 1998, by [section 3(a)][738] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
+    Section 28(1)(a): amended, on 30 June 1998, by [section 3(a)][739] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
     
-    Section 28(1)(b): amended, on 30 June 1998, by [section 3(b)][738] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
+    Section 28(1)(b): amended, on 30 June 1998, by [section 3(b)][739] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
 
 ##### 29 Irregular warrant or process
     
@@ -2438,7 +2440,7 @@ Matters of justification or excuse
     
     Compare: 1908 No 32 ss 53, 57(1)
     
-    Section 35(a): amended, on 27 March 2008, by [section 4][739] of the Crimes Amendment Act 2008 (2008 No 8).
+    Section 35(a): amended, on 27 March 2008, by [section 4][740] of the Crimes Amendment Act 2008 (2008 No 8).
 
 ##### 36 Arrest of person believed to be committing crime by night
     
@@ -2520,7 +2522,7 @@ Matters of justification or excuse
     
     Compare: 1908 No 32 s 68
     
-    Section 44: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 44: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
 
 ##### 45 Suppression of riot by persons acting under lawful orders
     
@@ -2530,7 +2532,7 @@ Matters of justification or excuse
     
     Compare: 1908 No 32 s 69
     
-    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 45(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
 
 ##### 46 Suppression of riot by persons without orders
     
@@ -2664,7 +2666,7 @@ Matters of justification or excuse
     
     (4) To avoid doubt, it is affirmed that the Police have the discretion not to prosecute complaints against a parent of a child or person in the place of a parent of a child in relation to an offence involving the use of force against a child, where the offence is considered to be so inconsequential that there is no public interest in proceeding with a prosecution.
     
-    Section 59: substituted, on 21 June 2007, by [section 5][741] of the Crimes (Substituted Section 59) Amendment Act 2007 (2007 No 18).
+    Section 59: substituted, on 21 June 2007, by [section 5][742] of the Crimes (Substituted Section 59) Amendment Act 2007 (2007 No 18).
 
 ##### 60 Discipline on ship or aircraft
     
@@ -2751,11 +2753,11 @@ Parties to the commission of offences
     
     (3) It is a defence to a charge under this section to prove that the doing or omission of the act was not an offence under the law of the place where it was, or was to be, done or omitted.
     
-    (4) Nothing in this section limits or affects [sections 9 to 11][742] of the International Crimes and International Criminal Court Act 2000\.
+    (4) Nothing in this section limits or affects [sections 9 to 11][743] of the International Crimes and International Criminal Court Act 2000\.
     
     Compare: 1908 No 32 s 189(b)
     
-    Section 68(4): added, on 1 October 2000, by [section 181(1)][743] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    Section 68(4): added, on 1 October 2000, by [section 181(1)][744] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
 
 ##### 69 Party to any other crime outside New Zealand
     
@@ -2769,13 +2771,13 @@ Parties to the commission of offences
     
     (4) Except as otherwise provided in this Act, no one shall be convicted of inciting, counselling, or attempting to procure in New Zealand the doing or omission of an act outside New Zealand when that act is not in fact done or omitted.
     
-    (5) Nothing in this section limits or affects [sections 9 to 11][742] of the International Crimes and International Criminal Court Act 2000\.
+    (5) Nothing in this section limits or affects [sections 9 to 11][743] of the International Crimes and International Criminal Court Act 2000\.
     
     Section 69(1): amended, on 1 July 1983, by section 2(2) of the Crimes Amendment Act (No 2) 1982 (1982 No 157).
     
     Section 69(3): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 69(5): added, on 1 October 2000, by [section 181(2)][743] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
+    Section 69(5): added, on 1 October 2000, by [section 181(2)][744] of the International Crimes and International Criminal Court Act 2000 (2000 No 26).
 
 ##### 70 Offence committed other than offence intended
     
@@ -2926,7 +2928,7 @@ Crimes against public order
     
     (2) In this section,---
     
-    _department_ means a government department named in [Part 1][744] of Schedule 1 of the Ombudsmen Act 1975
+    _department_ means a government department named in [Part 1][745] of Schedule 1 of the Ombudsmen Act 1975
     
     _object_ means any object which---
         
@@ -2986,9 +2988,9 @@ Crimes against public order
     
     _organisation_ means---
         
-    *   (a) an organisation named in [Part 2][745] of Schedule 1 of the Ombudsmen Act 1975:
+    *   (a) an organisation named in [Part 2][746] of Schedule 1 of the Ombudsmen Act 1975:
     
-    *   (b) an organisation named in [Schedule 1][746] of the Official Information Act 1982
+    *   (b) an organisation named in [Schedule 1][747] of the Official Information Act 1982
     
     _statutory officer_ means a person---
         
@@ -3066,7 +3068,7 @@ Crimes against public order
 
 #### Offence of oath to commit offence
     
-*   Heading: substituted, on 1 January 2008, by [section 4][747] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+*   Heading: substituted, on 1 January 2008, by [section 4][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 ##### 80 Oath to commit offence
     
@@ -3086,31 +3088,31 @@ Crimes against public order
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 1 January 2008, by [section 5][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+    Section 81: repealed, on 1 January 2008, by [section 5][749] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 ##### 82 Seditious conspiracy
     
 *   \[Repealed\]
     
-    Section 82: repealed, on 1 January 2008, by [section 5][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+    Section 82: repealed, on 1 January 2008, by [section 5][749] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 ##### 83 Seditious statements
     
 *   \[Repealed\]
     
-    Section 83: repealed, on 1 January 2008, by [section 5][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+    Section 83: repealed, on 1 January 2008, by [section 5][749] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 ##### 84 Publication of seditious documents
     
 *   \[Repealed\]
     
-    Section 84: repealed, on 1 January 2008, by [section 5][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+    Section 84: repealed, on 1 January 2008, by [section 5][749] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 ##### 85 Use of apparatus for making seditious documents or statements
     
 *   \[Repealed\]
     
-    Section 85: repealed, on 1 January 2008, by [section 5][748] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
+    Section 85: repealed, on 1 January 2008, by [section 5][749] of the Crimes (Repeal of Seditious Offences) Amendment Act 2007 (2007 No 96).
 
 #### Unlawful assemblies, riots, and breaches of the peace
 
@@ -3134,7 +3136,7 @@ Crimes against public order
     
     Section 86(1): substituted, on 1 January 1974, by section 3 of the Crimes Amendment Act 1973 (1973 No 118).
     
-    Section 86(3): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 86(3): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ##### 87 Riot
     
@@ -3174,9 +3176,9 @@ Crimes against public order
     
     Compare: 1908 No 32 s 111
     
-    Section 91(2): amended, on 1 October 2003, by [section 6][750] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 91(2): amended, on 1 October 2003, by [section 6][751] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 91(3): amended, on 1 October 2003, by [section 6][750] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 91(3): amended, on 1 October 2003, by [section 6][751] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Piracy
 
@@ -3278,11 +3280,11 @@ Crimes against public order
     
     Compare: Slave Trade Act 1824 ss 2, 3, 10 (UK); Slave Trade Act 1843 s 1 (UK)
     
-    Section 98(1)(e): substituted, on 4 April 2001, by [section 3(1)][751] of the Crimes Amendment Act 2001 (2001 No 9).
+    Section 98(1)(e): substituted, on 4 April 2001, by [section 3(1)][752] of the Crimes Amendment Act 2001 (2001 No 9).
     
-    Section 98(1)(f): substituted, on 4 April 2001, by [section 3(1)][751] of the Crimes Amendment Act 2001 (2001 No 9).
+    Section 98(1)(f): substituted, on 4 April 2001, by [section 3(1)][752] of the Crimes Amendment Act 2001 (2001 No 9).
     
-    Section 98(2) **slave**: added, on 4 April 2001, by [section 3(2)][751] of the Crimes Amendment Act 2001 (2001 No 9).
+    Section 98(2) **slave**: added, on 4 April 2001, by [section 3(2)][752] of the Crimes Amendment Act 2001 (2001 No 9).
 
 ##### 98AA Dealing in people under 18 for sexual exploitation, removal of body parts, or engagement in forced labour
     
@@ -3386,11 +3388,11 @@ Crimes against public order
     
     (8) This section does not limit or affect the generality of [section 98][150].
     
-    Section 98AA: inserted, on 14 June 2006, by [section 6][752] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 98AA: inserted, on 14 June 2006, by [section 6][753] of the Crimes Amendment Act 2005 (2005 No 41).
 
 #### Participation in criminal gang
     
-*   Heading: inserted, on 1 January 1998, by [section 2][753] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
+*   Heading: inserted, on 1 January 1998, by [section 2][754] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
 
 ##### 98A Participation in organised criminal group
     
@@ -3420,21 +3422,21 @@ Crimes against public order
     
     *   (c) its membership changes from time to time.
     
-    Section 98A: substituted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98A: substituted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
     
-    Section 98A(1): substituted, on 1 December 2009, by [section 5(1)][755] of the Crimes Amendment Act 2009 (2009 No 47).
+    Section 98A(1): substituted, on 1 December 2009, by [section 5(1)][756] of the Crimes Amendment Act 2009 (2009 No 47).
     
     Section 98A(2)(c): amended, on 18 April 2012, by [section 325(5)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 98A(2)(c): amended, on 1 December 2009, by [section 5(2)][755] of the Crimes Amendment Act 2009 (2009 No 47).
+    Section 98A(2)(c): amended, on 1 December 2009, by [section 5(2)][756] of the Crimes Amendment Act 2009 (2009 No 47).
     
     Section 98A(2)(d): amended, on 18 April 2012, by [section 325(5)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 98A(2)(d): amended, on 1 December 2009, by [section 5(2)][755] of the Crimes Amendment Act 2009 (2009 No 47).
+    Section 98A(2)(d): amended, on 1 December 2009, by [section 5(2)][756] of the Crimes Amendment Act 2009 (2009 No 47).
 
 #### Smuggling and trafficking in people
     
-*   Heading: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+*   Heading: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 98B Terms used in sections 98C to 98F
     
@@ -3484,7 +3486,7 @@ Crimes against public order
     
     _unauthorised migrant_, in relation to a State, means a person who is neither a citizen of the State nor in possession of all the documents required by or under the law of the State for the person's lawful entry into the State.
     
-    Section 98B: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98B: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
     
     Section 98B **for a material benefit**: repealed, on 20 May 2005, by [section 3(3)][686] of the Crimes Amendment Act 2005 (2005 No 41).
 
@@ -3516,7 +3518,7 @@ Crimes against public order
     
     (5) Proceedings may be brought under subsection (2) even if the unauthorised migrant was not in fact brought to the State concerned.
     
-    Section 98C: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98C: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 98D Trafficking in people by means of coercion or deception
     
@@ -3536,7 +3538,7 @@ Crimes against public order
     
     (4) Proceedings may be brought under this section even if parts of the process by which the person coerced or deceived was brought or came to or towards the State concerned were accomplished without an act of coercion or deception.
     
-    Section 98D: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98D: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 98E Aggravating factors
     
@@ -3562,7 +3564,7 @@ Crimes against public order
     
     (4) This section does not limit the matters that a court may take into account when determining the sentence to be imposed on, or other way of dealing with, a person convicted of an offence against [section 98C][156] or [section 98D][157].
     
-    Section 98E: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98E: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 98F Attorney-General's consent to prosecutions required
     
@@ -3570,7 +3572,7 @@ Crimes against public order
     
     (2) A person alleged to have committed an offence against [section 98C][156] or [section 98D][157] may be arrested, or a warrant for the person's arrest may be issued and executed, and the person be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
     
-    Section 98F: inserted, on 18 June 2002, by [section 5][754] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 98F: inserted, on 18 June 2002, by [section 5][755] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ## Part 6  
 Crimes affecting the administration of law and justice
@@ -3587,15 +3589,15 @@ Crimes affecting the administration of law and justice
     
     _law enforcement officer_ means any constable, or any person employed in the detection or prosecution or punishment of offenders
     
-    _official_ means any person in the service of Her Majesty in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the education service within the meaning of the [State Sector Act 1988][756].
+    _official_ means any person in the service of Her Majesty in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the education service within the meaning of the [State Sector Act 1988][757].
     
     Compare: 1908 No 32 ss 126, 127
     
-    Section 99 **judicial officer**: amended, on 30 June 1998, by [section 4][757] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
+    Section 99 **judicial officer**: amended, on 30 June 1998, by [section 4][758] of the Crimes Amendment Act (No 2) 1998 (1998 No 79).
     
-    Section 99 **judicial officer**: amended, on 1 April 1980, pursuant to [section 18(2)][758] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 99 **judicial officer**: amended, on 1 April 1980, pursuant to [section 18(2)][759] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 99 **official**: amended, on 3 May 1997, by [section 4][759] of the State Sector Amendment Act 1997 (1997 No 8).
+    Section 99 **official**: amended, on 3 May 1997, by [section 4][760] of the State Sector Amendment Act 1997 (1997 No 8).
 
 ##### 100 Judicial corruption
     
@@ -3613,7 +3615,7 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 ss 126(b), 127(b)
     
-    Section 101(2): amended, on 3 May 2001, by [section 4][760] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 101(2): amended, on 3 May 2001, by [section 4][761] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 102 Corruption and bribery of Minister of the Crown
     
@@ -3625,7 +3627,7 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 ss 128, 362; Criminal Code (1954) s 100 (Canada)
     
-    Section 102(3): amended, on 1 April 1980, pursuant to [section 12][761] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 102(3): amended, on 1 April 1980, pursuant to [section 12][762] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 103 Corruption and bribery of member of Parliament
     
@@ -3637,9 +3639,9 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 ss 128, 362; Criminal Code (1954) s 100 (Canada)
     
-    Section 103(2): amended, on 3 May 2001, by [section 5][762] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 103(2): amended, on 3 May 2001, by [section 5][763] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
     
-    Section 103(3): amended, on 1 April 1980, pursuant to [section 12][761] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 103(3): amended, on 1 April 1980, pursuant to [section 12][762] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 104 Corruption and bribery of law enforcement officer
     
@@ -3649,7 +3651,7 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 s 127
     
-    Section 104(2): amended, on 3 May 2001, by [section 6][763] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 104(2): amended, on 3 May 2001, by [section 6][764] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 105 Corruption and bribery of official
     
@@ -3659,7 +3661,7 @@ Crimes affecting the administration of law and justice
     
     Compare: Criminal Code (1954) s 102 (Canada)
     
-    Section 105(2): amended, on 3 May 2001, by [section 7][764] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 105(2): amended, on 3 May 2001, by [section 7][765] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 105A Corrupt use of official information
     
@@ -3765,7 +3767,7 @@ Crimes affecting the administration of law and justice
     
     (4) This section is subject to [section 105E][173].
     
-    Section 105C: inserted, on 3 May 2001, by [section 8][765] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 105C: inserted, on 3 May 2001, by [section 8][766] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 105D Bribery outside New Zealand of foreign public official
     
@@ -3785,7 +3787,7 @@ Crimes affecting the administration of law and justice
     
     (4) This section is subject to [section 105E][173].
     
-    Section 105D: inserted, on 3 May 2001, by [section 8][765] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 105D: inserted, on 3 May 2001, by [section 8][766] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 105E Exception for acts lawful in country of foreign public official
     
@@ -3797,7 +3799,7 @@ Crimes affecting the administration of law and justice
     
     (2) If a person is charged with an offence under [section 105C][171] or [section 105D][172], it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the laws of the foreign country referred to in subsection (1)(b).
     
-    Section 105E: inserted, on 3 May 2001, by [section 8][765] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 105E: inserted, on 3 May 2001, by [section 8][766] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
 
 ##### 106 Restrictions on prosecution
     
@@ -3807,7 +3809,7 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 s 361
     
-    Section 106(1): amended, on 3 May 2001, by [section 9][766] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
+    Section 106(1): amended, on 3 May 2001, by [section 9][767] of the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001 (2001 No 28).
     
     Section 106(1): amended, on 1 July 1993, by section 3(2) of the Crimes Amendment Act 1993 (1993 No 33).
     
@@ -3825,7 +3827,7 @@ Crimes affecting the administration of law and justice
     
     (2) Nothing in subsection (1) applies to any contravention of any Imperial enactment or Imperial subordinate legislation that is part of the laws of New Zealand, or to any omission to do any act which any such Imperial enactment or Imperial subordinate legislation requires to be done.
     
-    (3) In subsection (2), the terms _Imperial enactment_ and _Imperial subordinate legislation_ have the meanings given to them by [section 2][767] of the Imperial Laws Application Act 1988\.
+    (3) In subsection (2), the terms _Imperial enactment_ and _Imperial subordinate legislation_ have the meanings given to them by [section 2][768] of the Imperial Laws Application Act 1988\.
     
     Compare: 1908 No 32 s 129
     
@@ -3839,7 +3841,7 @@ Crimes affecting the administration of law and justice
     
 *   (1) Perjury is an assertion as to a matter of fact, opinion, belief, or knowledge made by a witness in a judicial proceeding as part of his evidence on oath, whether the evidence is given in open court or by affidavit or otherwise, that assertion being known to the witness to be false and being intended by him to mislead the tribunal holding the proceeding.
     
-    (2) In this section the term _oath_ includes an affirmation, and also includes a declaration made under [section 13][768] of the Oaths and Declarations Act 1957\.
+    (2) In this section the term _oath_ includes an affirmation, and also includes a declaration made under [section 13][769] of the Oaths and Declarations Act 1957\.
     
     (3) Every person is a witness within the meaning of this section who actually gives evidence, whether he is competent to be a witness or not, and whether his evidence is admissible or not.
     
@@ -3855,13 +3857,13 @@ Crimes affecting the administration of law and justice
     
     *   (e) any person acting as a court or tribunal having power to hold a judicial proceeding:
     
-    *   (f) a disciplinary officer, the Summary Appeal Court of New Zealand, or the Court Martial of New Zealand acting under the [Armed Forces Discipline Act 1971][769].
+    *   (f) a disciplinary officer, the Summary Appeal Court of New Zealand, or the Court Martial of New Zealand acting under the [Armed Forces Discipline Act 1971][770].
     
     (5) Every such proceeding is judicial within the meaning of this section whether the tribunal was duly constituted or appointed or not, and whether the proceeding was duly instituted or not, and whether the proceeding was invalid or not.
     
     Compare: 1908 No 32 s 130
     
-    Section 108(4)(f): substituted, on 1 July 2009, by [section 81][770] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
+    Section 108(4)(f): substituted, on 1 July 2009, by [section 81][771] of the Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98).
 
 ##### 109 Punishment of perjury
     
@@ -3927,7 +3929,7 @@ Crimes affecting the administration of law and justice
     
     Compare: 1908 No 32 s 137
     
-    Section 116: amended, on 18 June 2002, by [section 6(1)][771] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 116: amended, on 18 June 2002, by [section 6(1)][772] of the Crimes Amendment Act 2002 (2002 No 20).
 
 ##### 117 Corrupting juries and witnesses
     
@@ -3943,7 +3945,7 @@ Crimes affecting the administration of law and justice
     
     *   (e) wilfully attempts in any other way to obstruct, prevent, pervert, or defeat the course of justice in New Zealand or the course of justice in an overseas jurisdiction.
     
-    Section 117: substituted, on 18 June 2002, by [section 7(1)][772] of the Crimes Amendment Act 2002 (2002 No 20).
+    Section 117: substituted, on 18 June 2002, by [section 7(1)][773] of the Crimes Amendment Act 2002 (2002 No 20).
 
 #### Escapes and rescues
 
@@ -3975,7 +3977,7 @@ Crimes affecting the administration of law and justice
     
     *   (b) whether convicted or not, escapes from any prison in which he is lawfully detained; or
     
-    *   (ba) being subject to an order or direction made under any of [sections 38][773], [42][774], and [44][775] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or [section 169][776] of the Criminal Procedure Act 2011, escapes from the place in which he or she is required to stay under the order; or
+    *   (ba) being subject to an order or direction made under any of [sections 38][774], [42][775], and [44][776] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or [section 169][777] of the Criminal Procedure Act 2011, escapes from the place in which he or she is required to stay under the order; or
     
     *   (c) being in lawful custody otherwise than aforesaid, escapes from such custody.
     
@@ -3985,7 +3987,7 @@ Crimes affecting the administration of law and justice
     
     Section 120(1)(b): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 120(1)(ba): substituted, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 120(1)(ba): substituted, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 120(1)(ba): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
 
@@ -4003,7 +4005,7 @@ Crimes affecting the administration of law and justice
         
     *   (a) being a constable who has any person in his lawful custody, voluntarily and intentionally permits that person to escape from such custody:
     
-    *   (aa) being a security officer (within the meaning of [section 3(1)][778] of the Corrections Act 2004) in whose custody any person is lawfully detained, voluntarily and intentionally permits that person to escape from such custody:
+    *   (aa) being a security officer (within the meaning of [section 3(1)][779] of the Corrections Act 2004) in whose custody any person is lawfully detained, voluntarily and intentionally permits that person to escape from such custody:
     
     *   (b) being an officer of a prison in which any person is lawfully detained, voluntarily and intentionally permits that person to escape from the prison.
     
@@ -4029,11 +4031,11 @@ Crimes affecting the administration of law and justice
     
 *   Every one is liable to imprisonment for a term not exceeding 5 years who---
         
-    *   (a) rescues any person who is ordered to be detained as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][779] or as a special care recipient under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][780] while that person is being taken to or from a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, or any other place; or
+    *   (a) rescues any person who is ordered to be detained as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][780] or as a special care recipient under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][781] while that person is being taken to or from a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, or any other place; or
     
-    *   (b) being a constable, an officer of a prison, a security officer within the meaning of [section 3(1)][778] of the Corrections Act 2004, or an officer of or employee in any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][779], or a secure facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][780], and who has in his or her custody any person lawfully detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, voluntarily and intentionally permits that person to escape from custody, whether while the person is being taken to or from any of the places specified in paragraph (a) or otherwise.
+    *   (b) being a constable, an officer of a prison, a security officer within the meaning of [section 3(1)][779] of the Corrections Act 2004, or an officer of or employee in any hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][780], or a secure facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][781], and who has in his or her custody any person lawfully detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, voluntarily and intentionally permits that person to escape from custody, whether while the person is being taken to or from any of the places specified in paragraph (a) or otherwise.
     
-    Section 122: substituted, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 122: substituted, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 122(b): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
 
@@ -4078,7 +4080,7 @@ Crimes against religion, morality, and public welfare
     
     (5) No one shall be prosecuted for an offence against this section without the leave of the Attorney-General, who before giving leave may make such inquiries as he thinks fit.
     
-    (6) Nothing in this section shall apply to any publication within the meaning of the [Films, Videos, and Publications Classification Act 1993][781], whether the publication is objectionable within the meaning of that Act or not.
+    (6) Nothing in this section shall apply to any publication within the meaning of the [Films, Videos, and Publications Classification Act 1993][782], whether the publication is objectionable within the meaning of that Act or not.
     
     (7) \[Repealed\]
     
@@ -4088,9 +4090,9 @@ Crimes against religion, morality, and public welfare
     
     Section 124(1)(c): added, on 1 January 1967, by section 3(1) of the Crimes Amendment Act 1966 (1966 No 98).
     
-    Section 124(6): substituted, on 1 October 1994, by [section 150(1)][782] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+    Section 124(6): substituted, on 1 October 1994, by [section 150(1)][783] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
     
-    Section 124(7): repealed, on 1 October 1994, by [section 150(1)][782] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
+    Section 124(7): repealed, on 1 October 1994, by [section 150(1)][783] of the Films, Videos, and Publications Classification Act 1993 (1993 No 94).
 
 ##### 125 Indecent act in public place
     
@@ -4114,7 +4116,7 @@ Crimes against religion, morality, and public welfare
     
 *   There is no presumption of law that a person is incapable of sexual connection because of his or her age.
     
-    Section 127: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 127: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 128 Sexual violation defined
     
@@ -4138,7 +4140,7 @@ Crimes against religion, morality, and public welfare
     
     (4) One person may be convicted of the sexual violation of another person at a time when they were married to each other.
     
-    Section 128: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 128: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 128A Allowing sexual activity does not amount to consent in some circumstances
     
@@ -4174,7 +4176,7 @@ Crimes against religion, morality, and public welfare
     
     *   (b) the doing on the person of an indecent act that, without the person's consent, would be an indecent assault of the person.
     
-    Section 128A: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 128A: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 128B Sexual violation
     
@@ -4188,7 +4190,7 @@ Crimes against religion, morality, and public welfare
     
     *   (b) the particular circumstances of the offence, including the nature of the conduct constituting it.
     
-    Section 128B: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 128B: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 129 Attempted sexual violation and assault with intent to commit sexual violation
     
@@ -4196,7 +4198,7 @@ Crimes against religion, morality, and public welfare
     
     (2) Every one who assaults another person with intent to commit sexual violation of the other person is liable to imprisonment for a term not exceeding 10 years.
     
-    Section 129: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 129: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 129A Sexual conduct with consent induced by certain threats
     
@@ -4238,7 +4240,7 @@ Crimes against religion, morality, and public welfare
         
         
     
-    Section 129A: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 129A: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 130 Incest
     
@@ -4250,7 +4252,7 @@ Crimes against religion, morality, and public welfare
     
     (2) Every one of or over the age of 16 years who commits incest is liable to imprisonment for a term not exceeding 10 years.
     
-    Section 130: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 130: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 131 Sexual conduct with dependent family member
     
@@ -4264,7 +4266,7 @@ Crimes against religion, morality, and public welfare
     
     (5) It is not a defence to a charge under this section that the dependent family member consented.
     
-    Section 131: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 131: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 131A Dependent family member defined
     
@@ -4306,7 +4308,7 @@ Crimes against religion, morality, and public welfare
     
     _guardian_---
         
-    *   (a) means guardian by virtue of the Guardianship Act 1968 or the [Children, Young Persons, and Their Families Act 1989][784]; and
+    *   (a) means guardian by virtue of the Guardianship Act 1968 or the [Children, Young Persons, and Their Families Act 1989][785]; and
     
     *   (b) includes a former guardian
     
@@ -4314,7 +4316,7 @@ Crimes against religion, morality, and public welfare
     
     _uncle_, in relation to a person, includes a half-brother of one of the person's parents.
     
-    Section 131A: inserted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 131A: inserted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 131B Meeting young person following sexual grooming, etc
     
@@ -4346,11 +4348,11 @@ Crimes against religion, morality, and public welfare
     
     *   (b) at the time he or she took the action concerned, he or she believed on reasonable grounds that the young person was of or over the age of 16 years.
     
-    Section 131B: inserted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 131B: inserted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
     
-    Section 131B heading: amended, on 19 March 2012, by [section 5(1)][785] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 131B heading: amended, on 19 March 2012, by [section 5(1)][786] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
     
-    Section 131B(1A): inserted, on 19 March 2012, by [section 5(2)][785] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 131B(1A): inserted, on 19 March 2012, by [section 5(2)][786] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 132 Sexual conduct with child under 12
     
@@ -4370,13 +4372,13 @@ Crimes against religion, morality, and public welfare
     
     *   (b) _doing an indecent act on a child_ includes indecently assaulting the child.
     
-    Section 132: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 132: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 133 Indecency with girl under 12
     
 *   \[Repealed\]
     
-    Section 133: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 133: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 134 Sexual conduct with young person under 16
     
@@ -4396,7 +4398,7 @@ Crimes against religion, morality, and public welfare
     
     *   (b) _doing an indecent act on a young person_ includes indecently assaulting the young person.
     
-    Section 134: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 134: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 134A Defence to charge under section 134
     
@@ -4414,25 +4416,25 @@ Crimes against religion, morality, and public welfare
     
     *   (b) it is not a defence to a charge under [section 134][214] that the person charged believed that the young person concerned was of or over the age of 16 years.
     
-    Section 134A: inserted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 134A: inserted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 135 Indecent assault
     
 *   Every one is liable to imprisonment for a term not exceeding 7 years who indecently assaults another person.
     
-    Section 135: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 135: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 136 Conspiracy to induce sexual intercourse
     
 *   \[Repealed\]
     
-    Section 136: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 136: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 137 Inducing sexual intercourse under pretence of marriage
     
 *   \[Repealed\]
     
-    Section 137: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 137: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 138 Sexual exploitation of person with significant impairment
     
@@ -4464,37 +4466,37 @@ Crimes against religion, morality, and public welfare
     
     *   (d) to communicate decisions about sexual conduct.
     
-    Section 138: substituted, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 138: substituted, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 139 Indecent act between woman and girl
     
 *   \[Repealed\]
     
-    Section 139: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 139: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 140 Indecency with boy under 12
     
 *   \[Repealed\]
     
-    Section 140: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 140: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 140A Indecency with boy between 12 and 16
     
 *   \[Repealed\]
     
-    Section 140A: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 140A: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 141 Indecent assault on man or boy
     
 *   \[Repealed\]
     
-    Section 141: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 141: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 142 Anal intercourse
     
 *   \[Repealed\]
     
-    Section 142: repealed, on 20 May 2005, by [section 7][783] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 142: repealed, on 20 May 2005, by [section 7][784] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 142A Compelling indecent act with animal
     
@@ -4502,7 +4504,7 @@ Crimes against religion, morality, and public welfare
     
     (2) \[Repealed\]
     
-    Section 142A: inserted, on 1 February 1986, by [section 3][786] of the Crimes Amendment Act (No 3) 1985 (1985 No 160).
+    Section 142A: inserted, on 1 February 1986, by [section 3][787] of the Crimes Amendment Act (No 3) 1985 (1985 No 160).
     
     Section 142A(2): repealed, on 30 June 2002, by [section 164(b)][719] of the Sentencing Act 2002 (2002 No 9).
 
@@ -4548,7 +4550,7 @@ Crimes against religion, morality, and public welfare
     
     *   (c) [section 134(3)][214] (doing an indecent act on a young person).
     
-    (4) This subsection applies to an act that, if done in New Zealand, would be an offence against [section 23(1)][787] of the Prostitution Reform Act 2003 (breach of prohibitions on use in prostitution of persons under 18 years).
+    (4) This subsection applies to an act that, if done in New Zealand, would be an offence against [section 23(1)][788] of the Prostitution Reform Act 2003 (breach of prohibitions on use in prostitution of persons under 18 years).
     
     (5) A person who commits an offence against this section in respect of a provision specified in any of subsections (2) to (4) is liable to the penalty to which he or she would be liable if convicted of an offence against the provision.
     
@@ -4558,7 +4560,7 @@ Crimes against religion, morality, and public welfare
     
     *   (b) a charge under this section in respect of the provision specified.
     
-    (7) In this section, _limiting provision_, in relation to a provision specified in any of subsections (2) to (4), means a provision of this Act or the [Prostitution Reform Act 2003][788] that states (in relation to the provision specified only, or more generally)---
+    (7) In this section, _limiting provision_, in relation to a provision specified in any of subsections (2) to (4), means a provision of this Act or the [Prostitution Reform Act 2003][789] that states (in relation to the provision specified only, or more generally)---
         
     *   (a) circumstances that constitute a defence to a charge under the provision specified; or
     
@@ -4566,7 +4568,7 @@ Crimes against religion, morality, and public welfare
     
     *   (c) circumstances in which the person on or with whom an offence against the provision specified is committed may not be charged with an offence against that provision.
     
-    Section 144A: substituted, on 14 June 2006, by [section 8][789] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 144A: substituted, on 14 June 2006, by [section 8][790] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 144B Consent of Attorney-General required
     
@@ -4620,31 +4622,31 @@ Crimes against religion, morality, and public welfare
     
 *   \[Repealed\]
     
-    Section 146: repealed, on 8 August 1986, by [section 6(1)][790] of the Homosexual Law Reform Act 1986 (1986 No 33).
+    Section 146: repealed, on 8 August 1986, by [section 6(1)][791] of the Homosexual Law Reform Act 1986 (1986 No 33).
 
 ##### 147 Brothel-keeping
     
 *   \[Repealed\]
     
-    Section 147: repealed, on 28 June 2003, by [section 48(1)(a)][791] of the Prostitution Reform Act 2003 (2003 No 28).
+    Section 147: repealed, on 28 June 2003, by [section 48(1)(a)][792] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 148 Living on earnings of prostitution
     
 *   \[Repealed\]
     
-    Section 148: repealed, on 28 June 2003, by [section 48(1)(a)][791] of the Prostitution Reform Act 2003 (2003 No 28).
+    Section 148: repealed, on 28 June 2003, by [section 48(1)(a)][792] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 149 Procuring for prostitution
     
 *   \[Repealed\]
     
-    Section 149: repealed, on 28 June 2003, by [section 48(1)(a)][791] of the Prostitution Reform Act 2003 (2003 No 28).
+    Section 149: repealed, on 28 June 2003, by [section 48(1)(a)][792] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 149A Being client in act of prostitution by person under 18 years of age
     
 *   \[Repealed\]
     
-    Section 149A: repealed, on 28 June 2003, by [section 48(1)(a)][791] of the Prostitution Reform Act 2003 (2003 No 28).
+    Section 149A: repealed, on 28 June 2003, by [section 48(1)(a)][792] of the Prostitution Reform Act 2003 (2003 No 28).
 
 ##### 150 Misconduct in respect of human remains
     
@@ -4671,7 +4673,7 @@ Crimes against the person
     
     (2) For the purposes of this Part, a person is criminally responsible for omitting to discharge or perform a legal duty, or performing an unlawful act, to which this section applies only if, in the circumstances, the omission or unlawful act is a major departure from the standard of care expected of a reasonable person to whom that legal duty applies or who performs that unlawful act.
     
-    Section 150A: replaced, on 19 March 2012, by [section 6][792] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 150A: replaced, on 19 March 2012, by [section 6][793] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 151 Duty to provide necessaries and protect from injury
     
@@ -4681,7 +4683,7 @@ Crimes against the person
     
     *   (b) to take reasonable steps to protect that person from injury.
     
-    Section 151: replaced, on 19 March 2012, by [section 6][792] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 151: replaced, on 19 March 2012, by [section 6][793] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 152 Duty of parent or guardian to provide necessaries and protect from injury
     
@@ -4691,7 +4693,7 @@ Crimes against the person
     
     *   (b) to take reasonable steps to protect that child from injury.
     
-    Section 152: replaced, on 19 March 2012, by [section 6][792] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 152: replaced, on 19 March 2012, by [section 6][793] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 153 Duty of employers to provide necessaries
     
@@ -4861,25 +4863,25 @@ Crimes against the person
     
     Section 168(2)(e): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 168(2)(f): substituted, on 1 October 2003, by [section 7(1)][793] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 168(2)(f): substituted, on 1 October 2003, by [section 7(1)][794] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 168(2)(j): substituted, on 1 October 2003, by [section 7(2)][793] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 168(2)(j): substituted, on 1 October 2003, by [section 7(2)][794] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 168(2)(k): substituted, on 1 October 2003, by [section 7(2)][793] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 168(2)(k): substituted, on 1 October 2003, by [section 7(2)][794] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 168(2)(l): substituted, on 1 October 2003, by [section 7(2)][793] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 168(2)(l): substituted, on 1 October 2003, by [section 7(2)][794] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 169 Provocation
     
 *   \[Repealed\]
     
-    Section 169: repealed, on 8 December 2009, by [section 4][794] of the Crimes (Provocation Repeal) Amendment Act 2009 (2009 No 64).
+    Section 169: repealed, on 8 December 2009, by [section 4][795] of the Crimes (Provocation Repeal) Amendment Act 2009 (2009 No 64).
 
 ##### 170 Illegal arrest may be evidence of provocation
     
 *   \[Repealed\]
     
-    Section 170: repealed, on 8 December 2009, by [section 4][794] of the Crimes (Provocation Repeal) Amendment Act 2009 (2009 No 64).
+    Section 170: repealed, on 8 December 2009, by [section 4][795] of the Crimes (Provocation Repeal) Amendment Act 2009 (2009 No 64).
 
 ##### 171 Manslaughter
     
@@ -4891,9 +4893,9 @@ Crimes against the person
     
 *   (1) Every one who commits murder is liable to imprisonment for life.
     
-    (2) Subsection (1) is subject to [section 102][795] of the Sentencing Act 2002\.
+    (2) Subsection (1) is subject to [section 102][796] of the Sentencing Act 2002\.
     
-    Section 172: substituted, on 30 June 2002, by [section 165][796] of the Sentencing Act 2002 (2002 No 9).
+    Section 172: substituted, on 30 June 2002, by [section 165][797] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 173 Attempt to murder
     
@@ -4955,23 +4957,23 @@ Crimes against the person
         
     *   (a) pending the receipt by the Judge of certificates from the medical practitioners, the woman must be detained in a place that the Judge thinks appropriate, and that place must be one of the following:
             
-        *   (i) a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][779]:
+        *   (i) a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][780]:
         
-        *   (ii) a facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][780]:
+        *   (ii) a facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][781]:
         
         *   (iii) a prison:
         
         
     
-    *   (b) if each of the medical practitioners certifies that the woman is no longer insane and that she is in no need of care and treatment in a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][779] or in a facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][780], the Judge must order that the woman be discharged from custody immediately:
+    *   (b) if each of the medical practitioners certifies that the woman is no longer insane and that she is in no need of care and treatment in a hospital within the meaning of the [Mental Health (Compulsory Assessment and Treatment) Act 1992][780] or in a facility within the meaning of the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][781], the Judge must order that the woman be discharged from custody immediately:
     
-    *   (c) unless each of the medical practitioners certifies in accordance with paragraph (b), [sections 23 to 29][797] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 apply, so far as they are applicable, as if the references in those sections to the court were references to the Judge.
+    *   (c) unless each of the medical practitioners certifies in accordance with paragraph (b), [sections 23 to 29][798] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 apply, so far as they are applicable, as if the references in those sections to the court were references to the Judge.
     
-    (5) If, under subsection (4)(c), the Judge makes an order that the woman be detained in a hospital as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][779] or as a special care recipient under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][780], [section 33][798] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies.
+    (5) If, under subsection (4)(c), the Judge makes an order that the woman be detained in a hospital as a special patient under the [Mental Health (Compulsory Assessment and Treatment) Act 1992][780] or as a special care recipient under the [Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003][781], [section 33][799] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies.
     
     (6) \[Repealed\]
     
-    (7) Nothing in this section shall affect the power of the jury, upon the trial of any woman for infanticide or for murder or manslaughter, to return a verdict, otherwise than under this section, of acquittal on account of insanity; and where any such verdict is returned the provisions of the [Criminal Procedure (Mentally Impaired Persons) Act 2003][799] shall apply accordingly.
+    (7) Nothing in this section shall affect the power of the jury, upon the trial of any woman for infanticide or for murder or manslaughter, to return a verdict, otherwise than under this section, of acquittal on account of insanity; and where any such verdict is returned the provisions of the [Criminal Procedure (Mentally Impaired Persons) Act 2003][800] shall apply accordingly.
     
     (8) The fact that by virtue of this section any woman has not been or is not liable to be convicted of murder or manslaughter, whether or not she has been or is liable to be convicted of infanticide, shall not affect the question whether the homicide amounted to murder or manslaughter in the case of any other party to it.
     
@@ -4979,15 +4981,15 @@ Crimes against the person
     
     Section 178(2): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 178(4): substituted, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 178(4): substituted, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
     Section 178(4)(a)(iii): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 178(5): substituted, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 178(5): substituted, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 178(6): repealed, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 178(6): repealed, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 178(7): amended, on 1 September 2004, by [section 51][777] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 178(7): amended, on 1 September 2004, by [section 51][778] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
 
 ##### 179 Aiding and abetting suicide
     
@@ -5029,7 +5031,7 @@ Crimes against the person
     
     Compare: 1908 No 32 s 220
     
-    Section 182(2): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 182(2): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ##### 182A Miscarriage defined
     
@@ -5107,7 +5109,7 @@ Crimes against the person
     
     (3) For the purposes of [sections 183][279] and [186][282], any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of more than 20 weeks' gestation, the person doing the act believes that the miscarriage is necessary to save the life of the woman or girl or to prevent serious permanent injury to her physical or mental health.
     
-    (4) Where a medical practitioner, in pursuance of a certificate issued by 2 certifying consultants under [section 33][800] of the Contraception, Sterilisation, and Abortion Act 1977, does any act specified in [section 183][279] or [section 186][282] of this Act, the doing of that act shall not be unlawful for the purposes of the section applicable unless it is proved that, at the time when he did that act, he did not believe it to be lawful in terms of subsection (1) or subsection (3), as the case may require.
+    (4) Where a medical practitioner, in pursuance of a certificate issued by 2 certifying consultants under [section 33][801] of the Contraception, Sterilisation, and Abortion Act 1977, does any act specified in [section 183][279] or [section 186][282] of this Act, the doing of that act shall not be unlawful for the purposes of the section applicable unless it is proved that, at the time when he did that act, he did not believe it to be lawful in terms of subsection (1) or subsection (3), as the case may require.
     
     Section 187A: inserted, on 16 December 1977, by section 6 of the Crimes Amendment Act 1977 (1977 No 113).
     
@@ -5223,7 +5225,7 @@ Crimes against the person
     
     (3) For the purposes of this section and [section 195A][294], a _child_ is a person under the age of 18 years.
     
-    Section 195: replaced, on 19 March 2012, by [section 7][801] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 195: replaced, on 19 March 2012, by [section 7][802] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 195A Failure to protect child or vulnerable adult
     
@@ -5255,7 +5257,7 @@ Crimes against the person
     
     (5) In determining whether a person is so closely connected with a particular household as to be regarded as a member of that household, regard must be had to the frequency and duration of visits to the household and whether the person has a familial relationship with the victim and any other matters that may be relevant in the circumstances.
     
-    Section 195A: inserted, on 19 March 2012, by [section 7][801] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 195A: inserted, on 19 March 2012, by [section 7][802] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
 
 ##### 196 Common assault
     
@@ -5297,7 +5299,7 @@ Crimes against the person
     
     Section 198A: inserted, on 28 October 1986, by section 3 of the Crimes Amendment Act (No 2) 1986 (1986 No 71).
     
-    Section 198A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 198A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
 
 ##### 198B Commission of crime with firearm
     
@@ -5377,9 +5379,9 @@ Crimes against the person
     
     Compare: 1927 No 35 s 53A(1), (2), (8)--(10); 1976 No 157 s4(1)
     
-    Section 202A: inserted, on 1 February 1982, by [section 48(1)][802] of the Summary Offences Act 1981 (1981 No 113).
+    Section 202A: inserted, on 1 February 1982, by [section 48(1)][803] of the Summary Offences Act 1981 (1981 No 113).
     
-    Section 202A(4): amended, on 19 March 2012, by [section 8][803] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
+    Section 202A(4): amended, on 19 March 2012, by [section 8][804] of the Crimes Amendment Act (No 3) 2011 (2011 No 79).
     
     Section 202A(4)(a): amended, on 1 August 1987, by section 2(1) of the Crimes Amendment Act (No 2) 1987 (1987 No 167).
 
@@ -5397,11 +5399,11 @@ Crimes against the person
     
     *   (b) that person has previously been convicted on at least 1 occasion within the preceding 2 years of a crime against either of those paragraphs,---
     
-    the court shall impose a sentence of imprisonment (within the meaning of [section 4(1)][804] of the Sentencing Act 2002) on the offender unless the court is satisfied that, because of the special circumstances of the offence or of the offender, the offender should not be so sentenced.
+    the court shall impose a sentence of imprisonment (within the meaning of [section 4(1)][805] of the Sentencing Act 2002) on the offender unless the court is satisfied that, because of the special circumstances of the offence or of the offender, the offender should not be so sentenced.
     
     Section 202BA: inserted, on 1 August 1987, by section 3 of the Crimes Amendment Act (No 2) 1987 (1987 No 167).
     
-    Section 202BA: amended, on 30 June 2002, by [section 186][805] of the Sentencing Act 2002 (2002 No 9).
+    Section 202BA: amended, on 30 June 2002, by [section 186][806] of the Sentencing Act 2002 (2002 No 9).
 
 ##### 202C Assault with weapon
     
@@ -5421,7 +5423,7 @@ Crimes against the person
     
 *   \[Repealed\]
     
-    Section 203: repealed, on 1 October 2003, by [section 8][806] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 203: repealed, on 1 October 2003, by [section 8][807] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 204 Impeding rescue
     
@@ -5539,7 +5541,7 @@ Crimes against the person
         
     *   (a) a form of marriage is any form of marriage recognised by the law of New Zealand, or by the law of the place where it is solemnised, as a valid form of marriage:
     
-    *   (b) a form of civil union is any form of civil union recognised under the [Civil Union Act 2004][807] as a valid form of civil union under that Act:
+    *   (b) a form of civil union is any form of civil union recognised under the [Civil Union Act 2004][808] as a valid form of civil union under that Act:
     
     *   (c) no form of marriage or civil union may be held to be an invalid form of marriage or civil union by reason of any act or omission of the person charged with bigamy, if it is otherwise a valid form.
     
@@ -5553,29 +5555,29 @@ Crimes against the person
     
     Compare: 1908 No 32 s 224
     
-    Section 205(1)(a): amended, on 26 April 2005, by [section 41(1)(a)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(a): amended, on 26 April 2005, by [section 41(1)(a)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(1)(b): amended, on 26 April 2005, by [section 41(1)(b)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(b): amended, on 26 April 2005, by [section 41(1)(b)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(1)(c): amended, on 26 April 2005, by [section 41(1)(c)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(c): amended, on 26 April 2005, by [section 41(1)(c)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(1)(d): amended, on 26 April 2005, by [section 41(1)(d)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(d): amended, on 26 April 2005, by [section 41(1)(d)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(1)(e): added, on 26 April 2005, by [section 41(2)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(e): added, on 26 April 2005, by [section 41(2)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(1)(f): added, on 26 April 2005, by [section 41(2)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(1)(f): added, on 26 April 2005, by [section 41(2)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(2)(b): substituted, on 26 April 2005, by [section 41(3)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(2)(b): substituted, on 26 April 2005, by [section 41(3)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(2)(c): added, on 26 April 2005, by [section 41(3)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(2)(c): added, on 26 April 2005, by [section 41(3)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(3): amended, on 26 April 2005, by [section 41(4)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(3): amended, on 26 April 2005, by [section 41(4)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(4): amended, on 26 April 2005, by [section 41(5)(a)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(4): amended, on 26 April 2005, by [section 41(5)(a)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(4)(a): amended, on 26 April 2005, by [section 41(5)(b)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(4)(a): amended, on 26 April 2005, by [section 41(5)(b)][809] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 205(4)(b): amended, on 26 April 2005, by [section 41(5)(b)][808] of the Civil Union Act 2004 (2004 No 102).
+    Section 205(4)(b): amended, on 26 April 2005, by [section 41(5)(b)][809] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 206 Punishment of bigamy
     
@@ -5585,9 +5587,9 @@ Crimes against the person
     
     Compare: 1908 No 32 s 225
     
-    Section 206 proviso: amended, on 26 April 2005, by [section 42(a)][809] of the Civil Union Act 2004 (2004 No 102).
+    Section 206 proviso: amended, on 26 April 2005, by [section 42(a)][810] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 206 proviso: amended, on 26 April 2005, by [section 42(b)][809] of the Civil Union Act 2004 (2004 No 102).
+    Section 206 proviso: amended, on 26 April 2005, by [section 42(b)][810] of the Civil Union Act 2004 (2004 No 102).
 
 ##### 207 Feigned marriage or feigned civil union
     
@@ -5595,7 +5597,7 @@ Crimes against the person
     
     (2) Provided that if the Judge is satisfied that that other person knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
     
-    Section 207: substituted, on 26 April 2005, by [section 43][810] of the Civil Union Act 2004 (2004 No 102).
+    Section 207: substituted, on 26 April 2005, by [section 43][811] of the Civil Union Act 2004 (2004 No 102).
 
 #### Abduction, kidnapping
 
@@ -5611,7 +5613,7 @@ Crimes against the person
     
     Compare: 1908 No 32 s 226
     
-    Section 208: substituted, on 20 May 2005, by [section 9][811] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 208: substituted, on 20 May 2005, by [section 9][812] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 209 Kidnapping
     
@@ -5625,13 +5627,13 @@ Crimes against the person
     
     Compare: Criminal Code (1954) s 233 (Canada)
     
-    Section 209: substituted, on 20 May 2005, by [section 9][811] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 209: substituted, on 20 May 2005, by [section 9][812] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 209A Young person under 16 cannot consent to being taken away or detained
     
 *   For the purposes of [sections 208][318] and [209][319], a person under the age of 16 years cannot consent to being taken away or detained.
     
-    Section 209A: inserted, on 20 May 2005, by [section 9][811] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 209A: inserted, on 20 May 2005, by [section 9][812] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 210 Abduction of young person under 16
     
@@ -5649,56 +5651,56 @@ Crimes against the person
     
     Compare: 1908 No 32 ss 229, 230; 1941 No 10 part Schedule; 1952 No 42 s 3
     
-    Section 210: substituted, on 20 May 2005, by [section 9][811] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 210: substituted, on 20 May 2005, by [section 9][812] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 210A People claiming in good faith right to possession of young person under 16
     
 *   A person who claims in good faith a right to the possession of a young person under the age of 16 years cannot be convicted of an offence against [section 209][319] or [section 210][321] because he or she gets possession of the young person.
     
-    Section 210A: inserted, on 20 May 2005, by [section 9][811] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 210A: inserted, on 20 May 2005, by [section 9][812] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ## Part 9  
 Crimes against reputation
 
 \[Repealed\]
     
-*   Part 9: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+*   Part 9: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 211 Criminal libel and publishing defined
     
 *   \[Repealed\]
     
-    Section 211: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 211: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 212 Publishing upon invitation
     
 *   \[Repealed\]
     
-    Section 212: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 212: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 213 No prosecution without leave of Judge
     
 *   \[Repealed\]
     
-    Section 213: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 213: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 214 Plea of justification
     
 *   \[Repealed\]
     
-    Section 214: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 214: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 215 Punishment of criminal libel
     
 *   \[Repealed\]
     
-    Section 215: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 215: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ##### 216 Criminal slander
     
 *   \[Repealed\]
     
-    Section 216: repealed, on 1 February 1993, by [section 56(2)][812] of the Defamation Act 1992 (1992 No 105).
+    Section 216: repealed, on 1 February 1993, by [section 56(2)][813] of the Defamation Act 1992 (1992 No 105).
 
 ## Part 9A  
 Crimes against personal privacy
@@ -5743,9 +5745,9 @@ Crimes against personal privacy
     
     Section 216A: inserted, on 6 August 1979, by section 2 of the Crimes Amendment Act 1979 (1979 No 5).
     
-    Section 216A(1): substituted, on 1 October 2003, by [section 9][813] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216A(1): substituted, on 1 October 2003, by [section 9][814] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216A first subsection (2): inserted, on 1 October 2003, by [section 9][813] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216A first subsection (2): inserted, on 1 October 2003, by [section 9][814] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 216B Prohibition on use of interception devices
     
@@ -5757,23 +5759,23 @@ Crimes against personal privacy
     
     *   (b) does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under---
             
-        *   (i) the [Search and Surveillance Act 2012][814]; or
+        *   (i) the [Search and Surveillance Act 2012][815]; or
         
         *   (ii) \[Repealed\]
         
-        *   (iii) the [New Zealand Security Intelligence Service Act 1969][815]; or
+        *   (iii) the [New Zealand Security Intelligence Service Act 1969][816]; or
         
-        *   (iiia) the [Government Communications Security Bureau Act 2003][816]; or
+        *   (iiia) the [Government Communications Security Bureau Act 2003][817]; or
         
         *   (iv) \[Repealed\]
         
-        *   (v) the [International Terrorism (Emergency Powers) Act 1987][817].
+        *   (v) the [International Terrorism (Emergency Powers) Act 1987][818].
         
         
     
     (3) \[Repealed\]
     
-    (4) Subsection (1) does not apply to any monitoring of a prisoner call under [section 113][818] of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under [section 189B][819] of that Act.
+    (4) Subsection (1) does not apply to any monitoring of a prisoner call under [section 113][819] of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under [section 189B][820] of that Act.
     
     (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if---
         
@@ -5787,7 +5789,7 @@ Crimes against personal privacy
     
     (6) Information obtained under subsection (5) must be destroyed immediately if it is no longer needed for the purpose of maintaining the Internet or other communication service.
     
-    (7) Any information held by any person that was obtained while assisting with the execution of a surveillance device warrant issued under the [Search and Surveillance Act 2012][814] must, upon expiry of the warrant, be---
+    (7) Any information held by any person that was obtained while assisting with the execution of a surveillance device warrant issued under the [Search and Surveillance Act 2012][815] must, upon expiry of the warrant, be---
         
     *   (a) destroyed immediately; or
     
@@ -5795,21 +5797,21 @@ Crimes against personal privacy
     
     Section 216B: inserted, on 6 August 1979, by section 2 of the Crimes Amendment Act 1979 (1979 No 5).
     
-    Section 216B heading: amended, on 1 October 2003, by [section 10(1)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B heading: amended, on 1 October 2003, by [section 10(1)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(1): amended, on 1 October 2003, by [section 10(2)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(1): amended, on 1 October 2003, by [section 10(2)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(1): amended, on 1 October 2003, by [section 10(3)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(1): amended, on 1 October 2003, by [section 10(3)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 216B(1): amended, on 14 October 1999, by section 10(1) of the Penal Institutions Amendment Act 1999 (1999 No 114).
     
-    Section 216B(2): substituted, on 1 February 1998, by [section 4(1)][821] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
+    Section 216B(2): substituted, on 1 February 1998, by [section 4(1)][822] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
     
     Section 216B(2)(b)(i): replaced, on 18 April 2012, by [section 325(10)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 216B(2)(b)(ii): repealed, on 1 October 2003, by [section 10(4)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(2)(b)(ii): repealed, on 1 October 2003, by [section 10(4)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(2)(b)(iiia): inserted, on 2 April 2003, by [section 26(1)][822] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 216B(2)(b)(iiia): inserted, on 2 April 2003, by [section 26(1)][823] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
     Section 216B(2)(b)(iv): repealed, on 18 April 2012, by [section 325(11)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
@@ -5817,17 +5819,17 @@ Crimes against personal privacy
     
     Section 216B(4): added, on 14 October 1999, by section 10(2) of the Penal Institutions Amendment Act 1999 (1999 No 114).
     
-    Section 216B(4): amended, on 3 April 2009, by [section 35(2)(a)][823] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 216B(4): amended, on 3 April 2009, by [section 35(2)(a)][824] of the Corrections Amendment Act 2009 (2009 No 3).
     
-    Section 216B(4): amended, on 3 April 2009, by [section 35(2)(b)][823] of the Corrections Amendment Act 2009 (2009 No 3).
+    Section 216B(4): amended, on 3 April 2009, by [section 35(2)(b)][824] of the Corrections Amendment Act 2009 (2009 No 3).
     
     Section 216B(4): amended, on 1 June 2005, by [section 206][690] of the Corrections Act 2004 (2004 No 50).
     
-    Section 216B(5): added, on 1 October 2003, by [section 10(6)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(5): added, on 1 October 2003, by [section 10(6)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(6): added, on 1 October 2003, by [section 10(6)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(6): added, on 1 October 2003, by [section 10(6)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(7): added, on 1 October 2003, by [section 10(6)][820] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216B(7): added, on 1 October 2003, by [section 10(6)][821] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 216B(7): amended, on 18 April 2012, by [section 325(13)][671] of the Search and Surveillance Act 2012 (2012 No 24).
 
@@ -5851,7 +5853,7 @@ Crimes against personal privacy
         
         *   (ii) giving evidence in any civil or criminal proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted by that means; or
         
-        *   (iii) giving evidence in any other civil or criminal proceeding where that evidence is not rendered inadmissible by the [Evidence Act 2006][824] or [section 25][825] of the Misuse of Drugs Amendment Act 1978 or any other enactment or rule of law; or
+        *   (iii) giving evidence in any other civil or criminal proceeding where that evidence is not rendered inadmissible by the [Evidence Act 2006][825] or [section 25][826] of the Misuse of Drugs Amendment Act 1978 or any other enactment or rule of law; or
         
         *   (iv) determining whether the disclosure is admissible in any civil or criminal proceedings.
         
@@ -5859,9 +5861,9 @@ Crimes against personal privacy
     
     Section 216C: inserted, on 6 August 1979, by section 2 of the Crimes Amendment Act 1979 (1979 No 5).
     
-    Section 216C(2)(b)(ii): amended, on 1 October 2003, by [section 11][826] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216C(2)(b)(ii): amended, on 1 October 2003, by [section 11][827] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216C(2)(b)(iii): amended, on 1 August 2007, by [section 216][827] of the Evidence Act 2006 (2006 No 69).
+    Section 216C(2)(b)(iii): amended, on 1 August 2007, by [section 216][828] of the Evidence Act 2006 (2006 No 69).
 
 ##### 216D Prohibition on dealing, etc, with interception devices
     
@@ -5895,23 +5897,23 @@ Crimes against personal privacy
     
     Section 216D: inserted, on 6 August 1979, by section 2 of the Crimes Amendment Act 1979 (1979 No 5).
     
-    Section 216D heading: amended, on 1 October 2003, by [section 12(a)][828] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216D heading: amended, on 1 October 2003, by [section 12(a)][829] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216D(1): amended, on 1 October 2003, by [section 12(b)][828] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216D(1): amended, on 1 October 2003, by [section 12(b)][829] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216D(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 216D(2)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
     
-    Section 216D(2)(a): amended, on 2 April 2003, by [section 26(2)][822] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 216D(2)(a): amended, on 2 April 2003, by [section 26(2)][823] of the Government Communications Security Bureau Act 2003 (2003 No 9).
     
-    Section 216D(2)(b): amended, on 1 October 2003, by [section 12(c)][828] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216D(2)(b): amended, on 1 October 2003, by [section 12(c)][829] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216D(2)(b)(i): amended, on 1 October 2003, by [section 12(d)][828] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216D(2)(b)(i): amended, on 1 October 2003, by [section 12(d)][829] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216B(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 216B(2)(b)(ii): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
     
-    Section 216D(2)(b)(ii): amended, on 1 October 2003, by [section 12(d)][828] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216D(2)(b)(ii): amended, on 1 October 2003, by [section 12(d)][829] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 216D(2)(b)(ii): amended, on 2 April 2003, by [section 26(2)][822] of the Government Communications Security Bureau Act 2003 (2003 No 9).
+    Section 216D(2)(b)(ii): amended, on 2 April 2003, by [section 26(2)][823] of the Government Communications Security Bureau Act 2003 (2003 No 9).
 
 ##### 216E Forfeiture
     
@@ -5919,7 +5921,7 @@ Crimes against personal privacy
     
     Section 216E: inserted, on 6 August 1979, by section 2 of the Crimes Amendment Act 1979 (1979 No 5).
     
-    Section 216E: amended, on 1 October 2003, by [section 13][829] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216E: amended, on 1 October 2003, by [section 13][830] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 216F Unlawful disclosure
     
@@ -5929,19 +5931,19 @@ Crimes against personal privacy
     
     (3) Every person who makes an unlawful disclosure is liable to imprisonment for a term not exceeding 2 years.
     
-    Section 216F: inserted, on 1 October 2003, by [section 14][830] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 216F: inserted, on 1 October 2003, by [section 14][831] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 216F(1): replaced, on 18 April 2012, by [section 325(7)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 216F(2): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 216F(2): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
     Section 216F(2): amended, on 18 April 2012, by [section 325(8)][671] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 216F(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 216F(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
 
 #### Intimate visual recordings
     
-*   Heading: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+*   Heading: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216G Intimate visual recording defined
     
@@ -5971,13 +5973,13 @@ Crimes against personal privacy
     
     *   (b) an electronic form from which the recording is capable of being reproduced with or without the aid of any device or thing.
     
-    Section 216G: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216G: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216H Prohibition on making intimate visual recording
     
 *   Everyone is liable to imprisonment for a term not exceeding 3 years who intentionally or recklessly makes an intimate visual recording of another person.
     
-    Section 216H: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216H: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216I Prohibition on possessing intimate visual recording in certain circumstances
     
@@ -5989,7 +5991,7 @@ Crimes against personal privacy
     
     (2) Everyone is liable to imprisonment for a term not exceeding 1 year who, without reasonable excuse, has in his or her possession an intimate visual recording knowing it to be an intimate visual recording.
     
-    Section 216I: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216I: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216J Prohibition on publishing, importing, exporting, or selling intimate visual recording
     
@@ -6023,7 +6025,7 @@ Crimes against personal privacy
     
     *   (b) agrees to sell.
     
-    Section 216J: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216J: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216K Exceptions to prohibition in section 216J
     
@@ -6043,11 +6045,11 @@ Crimes against personal privacy
     
     _courier_ means a person carrying on business as a courier
     
-    _network operator_ has the same meaning as in [section 3(1)][832] of the Telecommunications (Interception Capability) Act 2004
+    _network operator_ has the same meaning as in [section 3(1)][833] of the Telecommunications (Interception Capability) Act 2004
     
-    _postal operator_ has the same meaning as in [section 2(1)][833] of the Postal Services Act 1998
+    _postal operator_ has the same meaning as in [section 2(1)][834] of the Postal Services Act 1998
     
-    _public data network_ has the same meaning as in [section 5][834] of the Telecommunications Act 2001
+    _public data network_ has the same meaning as in [section 5][835] of the Telecommunications Act 2001
     
     _service provider_---
         
@@ -6055,7 +6057,7 @@ Crimes against personal privacy
     
     *   (b) does not include a network operator.
     
-    Section 216K: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216K: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216L Disposal and forfeiture
     
@@ -6071,13 +6073,13 @@ Crimes against personal privacy
     
     (4) If the court is satisfied that the intimate visual recording that was the subject of the prosecution, or any equipment, goods, or other thing used in respect of the commission of the offence, should be delivered to a person other than the person convicted, it may so order.
     
-    Section 216L: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216L: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
 
 ##### 216M Effect of appeal on order made under section 216L
     
 *   (1) If any person is convicted of an offence against [section 216H][339] or [section 216I][340] or [section 216J][341], and any order is made under [section 216L][343], the operation of the order is suspended,---
         
-    *   (a) in any case, until the expiration of the time prescribed in the [Criminal Procedure Act 2011][835] or this Act for the filing of a notice of appeal or an application for leave to appeal; and
+    *   (a) in any case, until the expiration of the time prescribed in the [Criminal Procedure Act 2011][836] or this Act for the filing of a notice of appeal or an application for leave to appeal; and
     
     *   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
     
@@ -6085,7 +6087,7 @@ Crimes against personal privacy
     
     (2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
     
-    Section 216M: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216M: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
     
     Section 216M(1)(a): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
 
@@ -6135,18 +6137,18 @@ Crimes against personal privacy
     
     *   (b) immediately destroyed if the person who is the subject of the recording makes no request under paragraph (a).
     
-    Section 216N: inserted, on 5 December 2006, by [section 4][831] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
+    Section 216N: inserted, on 5 December 2006, by [section 4][832] of the Crimes (Intimate Covert Filming) Amendment Act 2006 (2006 No 75).
     
-    Section 216N(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][740] of the Policing Act 2008 (2008 No 72).
+    Section 216N(1)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][741] of the Policing Act 2008 (2008 No 72).
 
 ## Part 10  
 Crimes against rights of property
     
-*   Part 10: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Part 10: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Interpretation
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 217 Interpretation
     
@@ -6170,11 +6172,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 ss 217, [218][350], [263][409]
     
-    Section 217: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 217: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Unlawful taking
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 218 Matters of ownership
     
@@ -6198,7 +6200,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 219][351], [225][357]
     
-    Section 218: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 218: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 219 Theft or stealing
     
@@ -6220,7 +6222,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 220(1), (2), (5)][352]
     
-    Section 219: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 219: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 220 Theft by person in special relationship
     
@@ -6238,7 +6240,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 222][354], [223][355], [224][356]
     
-    Section 220: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 220: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 221 Theft of animals
     
@@ -6246,7 +6248,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 s 221
     
-    Section 221: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 221: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 222 Theft by spouse or partner
     
@@ -6254,7 +6256,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 226][358]
     
-    Section 222: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 222: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 222 heading: amended, on 26 April 2005, by [section 7][736] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -6274,7 +6276,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 227][359]
     
-    Section 223: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 223: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 224 Power of search for goods stolen or unlawfully obtained in transit
     
@@ -6302,7 +6304,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 228][362]
     
-    Section 226: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 226: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 227 Being in possession of instrument for conversion
     
@@ -6310,19 +6312,19 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 229][363]
     
-    Section 227: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 227: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 227A Power of search for goods stolen or unlawfully obtained in transit
     
 *   \[Repealed\]
     
-    Section 227A: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 227A: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 227B Power to search vehicles for goods stolen or obtained by crimes involving dishonesty
     
 *   \[Repealed\]
     
-    Section 227B: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 227B: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 228 Dishonestly taking or using document
     
@@ -6334,7 +6336,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 229A][364]
     
-    Section 228: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 228: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 229 Criminal breach of trust
     
@@ -6344,13 +6346,13 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 230][365]
     
-    Section 229: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 229: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 229A Taking or dealing with certain documents with intent to defraud
     
 *   \[Repealed\]
     
-    Section 229A: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 229A: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 230 Taking, obtaining, or copying trade secrets
     
@@ -6370,11 +6372,11 @@ Crimes against rights of property
     
     *   (d) is the subject of all reasonable efforts to preserve its secrecy.
     
-    Section 230: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 230: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Burglary
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 231 Burglary
     
@@ -6394,7 +6396,7 @@ Crimes against rights of property
     
     Compare: 161 No 43 ss 240, 241, 242
     
-    Section 231: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 231: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 231(1)(a): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
@@ -6412,7 +6414,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 240A][379], [243][383]
     
-    Section 232: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 232: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 233 Being disguised or in possession of instrument for burglary
     
@@ -6424,15 +6426,15 @@ Crimes against rights of property
     
     (2) If any person is convicted of being in possession of an instrument for burglary, the court may, if it thinks fit, order the instrument to be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order the person to pay any reasonable cost incurred by the Commissioner of Police in retaining the instrument.
     
-    Compare: 1961 No 43 [s 244][385]; 1999 No 93 [s 97(d)][837]
+    Compare: 1961 No 43 [s 244][385]; 1999 No 93 [s 97(d)][838]
     
-    Section 233: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 233: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 233(1)(b): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 233(1)(b): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 #### Robbery and blackmail
     
-*   Heading: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 234 Robbery
     
@@ -6442,7 +6444,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 s 234
     
-    Section 234: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 234: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 235 Aggravated robbery
     
@@ -6456,7 +6458,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 s 235
     
-    Section 235: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 235: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 236 Assault with intent to rob
     
@@ -6472,7 +6474,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 235(1)][372], [237][374]
     
-    Section 236: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 236: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 237 Blackmail
     
@@ -6488,7 +6490,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 238][375]
     
-    Section 237: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 237: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 238 Punishment of blackmail
     
@@ -6496,7 +6498,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 s 238(1)
     
-    Section 238: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 238: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 239 Demanding with intent to steal, etc
     
@@ -6506,11 +6508,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 236][373], 239
     
-    Section 239: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 239: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Crimes involving deceit
     
-*   Heading: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 240 Obtaining by deception or causing loss by deception
     
@@ -6540,13 +6542,13 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 246][388], [247][389], [270][420]
     
-    Section 240: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 240: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 240A Aggravated burglary
     
 *   \[Repealed\]
     
-    Section 240A: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 240A: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 241 Punishment of obtaining by deception or causing loss by deception
     
@@ -6560,13 +6562,13 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 246(2)][388]
     
-    Section 241: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 241: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 242 False statement by promoter, etc
     
 *   (1) Every one is liable to imprisonment for a term not exceeding 10 years who, in respect of any body, whether incorporated or unincorporated and whether formed or intended to be formed, makes or concurs in making or publishes any false statement, whether in any prospectus, account, or otherwise, with intent---
         
-    *   (a) to induce any person, whether ascertained or not, to subscribe to any security within the meaning of the [Securities Act 1978][838]; or
+    *   (a) to induce any person, whether ascertained or not, to subscribe to any security within the meaning of the [Securities Act 1978][839]; or
     
     *   (b) to deceive or cause loss to any person, whether ascertained or not; or
     
@@ -6580,11 +6582,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 250][393]
     
-    Section 242: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 242: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Money laundering
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 243 Money laundering
     
@@ -6642,7 +6644,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 233][369], [257A(1)--(5)][402]
     
-    Section 243: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 243: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
     Section 243(1): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
@@ -6652,7 +6654,7 @@ Crimes against rights of property
 
 ##### 243A Charges for money laundering
     
-*   A person charged with an offence against [section 243(2) or (3)][383] of this Act or [section 12B][839] of the Misuse of Drugs Act 1975 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
+*   A person charged with an offence against [section 243(2) or (3)][383] of this Act or [section 12B][840] of the Misuse of Drugs Act 1975 in respect of any property that is the proceeds of a serious offence may be charged whether or not the person who committed that serious offence has been charged or convicted or is amenable to justice.
     
     Section 243A: inserted, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
 
@@ -6662,19 +6664,19 @@ Crimes against rights of property
         
     *   (a) the enforcement or intended enforcement of this section, any other provision of this Act, or any other enactment relating to a serious offence; or
     
-    *   (b) the enforcement or intended enforcement of the [Criminal Proceeds (Recovery) Act 2009][840]; or
+    *   (b) the enforcement or intended enforcement of the [Criminal Proceeds (Recovery) Act 2009][841]; or
     
-    *   (ba) the enforcement or intended enforcement of the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][841]; or
+    *   (ba) the enforcement or intended enforcement of the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][842]; or
     
-    *   (c) the enforcement or intended enforcement of the [Financial Transactions Reporting Act 1996][842].
+    *   (c) the enforcement or intended enforcement of the [Financial Transactions Reporting Act 1996][843].
     
     Compare: 1961 No 43 [s 257A(6)][402]
     
-    Section 244: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 244: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 244(b): amended, on 1 December 2009, by [section 176][843] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 244(b): amended, on 1 December 2009, by [section 176][844] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 244(ba): inserted, on 17 October 2009, by [section 161(2)][844] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 244(ba): inserted, on 17 October 2009, by [section 161(2)][845] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
 ##### 245 Section 243 not to apply to certain acts committed outside New Zealand
     
@@ -6690,11 +6692,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 257A(6A), (6B)][402]
     
-    Section 245: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 245: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Receiving
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 246 Receiving
     
@@ -6716,17 +6718,17 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 258(1)][404], [260][406], [261][407]
     
-    Section 246: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 246: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 246(1): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 246(1): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 246(2): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 246(2): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 246(3): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 246(3): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 246(4): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 246(4): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 246(4)(a): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 246(4)(a): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ##### 247 Punishment of receiving
     
@@ -6740,11 +6742,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 258(1)][404]
     
-    Section 247: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 247: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Crimes involving computers
     
-*   Heading: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 248 Interpretation
     
@@ -6770,11 +6772,11 @@ Crimes against rights of property
     
     *   (b) includes any part of the items described in paragraph (a) and all related input, output, processing, storage, software, or communication facilities, and stored data.
     
-    Section 248: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 248: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 248: amended, on 13 July 2011, by [section 4(1)][845] of the Crimes Amendment Act 2011 (2011 No 29).
+    Section 248: amended, on 13 July 2011, by [section 4(1)][846] of the Crimes Amendment Act 2011 (2011 No 29).
     
-    Section 248 **authorisation**: inserted, on 13 July 2011, by [section 4(2)][845] of the Crimes Amendment Act 2011 (2011 No 29).
+    Section 248 **authorisation**: inserted, on 13 July 2011, by [section 4(2)][846] of the Crimes Amendment Act 2011 (2011 No 29).
 
 ##### 249 Accessing computer system for dishonest purpose
     
@@ -6792,7 +6794,7 @@ Crimes against rights of property
     
     (3) In this section, _deception_ has the same meaning as in [section 240(2)][378].
     
-    Section 249: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 249: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 250 Damaging or interfering with computer system
     
@@ -6812,7 +6814,7 @@ Crimes against rights of property
         
         
     
-    Section 250: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 250: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 251 Making, selling, or distributing or possessing software for committing crime
     
@@ -6830,13 +6832,13 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 216D(1)][334], [229][363], [244][385]
     
-    Section 251: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 251: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 251(1)(a): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 251(1)(a): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 251(1)(b): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 251(1)(b): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
     
-    Section 251(2)(b): amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 251(2)(b): amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ##### 252 Accessing computer system without authorisation
     
@@ -6846,25 +6848,25 @@ Crimes against rights of property
     
     (3) \[Repealed\]
     
-    Section 252: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 252: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 252(3): repealed, on 13 July 2011, by [section 5][846] of the Crimes Amendment Act 2011 (2011 No 29).
+    Section 252(3): repealed, on 13 July 2011, by [section 5][847] of the Crimes Amendment Act 2011 (2011 No 29).
 
 ##### 253 Qualified exemption to access without authorisation offence for New Zealand Security Intelligence Service
     
 *   \[Repealed\]
     
-    Section 253: repealed, on 13 July 2011, by [section 6][847] of the Crimes Amendment Act 2011 (2011 No 29).
+    Section 253: repealed, on 13 July 2011, by [section 6][848] of the Crimes Amendment Act 2011 (2011 No 29).
 
 ##### 254 Qualified exemption to access without authorisation offence for Government Communications Security Bureau
     
 *   \[Repealed\]
     
-    Section 254: repealed, on 13 July 2011, by [section 6][847] of the Crimes Amendment Act 2011 (2011 No 29).
+    Section 254: repealed, on 13 July 2011, by [section 6][848] of the Crimes Amendment Act 2011 (2011 No 29).
 
 #### Forgery and counterfeiting
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 255 Interpretation
     
@@ -6886,7 +6888,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 263][409]
     
-    Section 255: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 255: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 256 Forgery
     
@@ -6900,7 +6902,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 264][410], [265][411]
     
-    Section 256: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 256: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 257 Using forged documents
     
@@ -6916,19 +6918,19 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 266][413]
     
-    Section 257: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 257: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 257A Money laundering
     
 *   \[Repealed\]
     
-    Section 257A: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 257A: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 257B Immunity from liability for disclosure of information
     
 *   \[Repealed\]
     
-    Section 257B: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 257B: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 258 Altering, concealing, destroying, or reproducing documents with intent to deceive
     
@@ -6948,7 +6950,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 231][367], [256][400], [266A][414]
     
-    Section 258: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 258: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 259 Using altered or reproduced document with intent to deceive
     
@@ -6962,7 +6964,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 266B][415]
     
-    Section 259: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 259: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 260 False accounting
     
@@ -6976,7 +6978,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 251--254][394]
     
-    Section 260: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 260: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 261 Counterfeiting public seals
     
@@ -6996,7 +6998,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 267][417]
     
-    Section 261: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 261: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 262 Counterfeiting corporate seals
     
@@ -7014,7 +7016,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 268][418]
     
-    Section 262: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 262: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 263 Possessing forged bank notes
     
@@ -7022,7 +7024,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 271][421]
     
-    Section 263: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 263: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 264 Paper or implements for forgery
     
@@ -7030,7 +7032,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 274][424]
     
-    Section 264: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 264: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 265 Imitating authorised or customary marks
     
@@ -7044,11 +7046,11 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 280][430], [281][431]
     
-    Section 265: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 265: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Coinage
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 266 Offences involving coinage
     
@@ -7088,23 +7090,23 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 282--286][432], [289--292][439]
     
-    Section 266: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 266: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 266A Altering or reproducing document with intent to defraud
     
 *   \[Repealed\]
     
-    Section 266A: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 266A: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 266B Using altered or reproduced document with intent to defraud
     
 *   \[Repealed\]
     
-    Section 266B: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 266B: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 #### Arson, damage, and waste
     
-*   Heading: inserted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+*   Heading: inserted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 267 Arson
     
@@ -7128,7 +7130,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 294][444], [296][446]
     
-    Section 267: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 267: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 268 Attempted arson
     
@@ -7136,7 +7138,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 295][445]
     
-    Section 268: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 268: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 269 Intentional damage
     
@@ -7152,7 +7154,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 298][448]
     
-    Section 269: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 269: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 270 Endangering transport
     
@@ -7166,7 +7168,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [ss 203][308], [300--303][452]
     
-    Section 270: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 270: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 271 Waste or diversion of electricity, gas, or water
     
@@ -7174,7 +7176,7 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 299][451]
     
-    Section 271: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 271: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 272 Providing explosive to commit crime
     
@@ -7182,165 +7184,165 @@ Crimes against rights of property
     
     Compare: 1961 No 43 [s 305][457]
     
-    Section 272: substituted, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 272: substituted, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
     
-    Section 272: amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 272: amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ##### 273 Using probate obtained by forgery or perjury
     
 *   \[Repealed\]
     
-    Section 273: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 273: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 274 Paper or implements for forgery
     
 *   \[Repealed\]
     
-    Section 274: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 274: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 275 Counterfeiting stamps
     
 *   \[Repealed\]
     
-    Section 275: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 275: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 276 Falsifying registers
     
 *   \[Repealed\]
     
-    Section 276: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 276: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 277 Falsifying extracts from registers
     
 *   \[Repealed\]
     
-    Section 277: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 277: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 278 Uttering false certificates
     
 *   \[Repealed\]
     
-    Section 278: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 278: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 279 Forging certificates
     
 *   \[Repealed\]
     
-    Section 279: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 279: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 280 Imitating authorised marks
     
 *   \[Repealed\]
     
-    Section 280: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 280: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 281 Imitating customary marks
     
 *   \[Repealed\]
     
-    Section 281: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 281: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 282 Interpretation
     
 *   \[Repealed\]
     
-    Section 282: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 282: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 283 Preparations for coining
     
 *   \[Repealed\]
     
-    Section 283: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 283: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 284 Counterfeiting coin
     
 *   \[Repealed\]
     
-    Section 284: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 284: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 285 Altering coin
     
 *   \[Repealed\]
     
-    Section 285: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 285: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 286 Impairing coin
     
 *   \[Repealed\]
     
-    Section 286: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 286: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 287 Defacing coin
     
 *   \[Repealed\]
     
-    Section 287: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 287: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 288 Melting coin
     
 *   \[Repealed\]
     
-    Section 288: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 288: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 289 Possessing counterfeit coin
     
 *   \[Repealed\]
     
-    Section 289: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 289: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 290 Uttering counterfeit coin
     
 *   \[Repealed\]
     
-    Section 290: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 290: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 291 Buying and selling counterfeit coin
     
 *   \[Repealed\]
     
-    Section 291: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 291: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 292 Importing and exporting counterfeit coin
     
 *   \[Repealed\]
     
-    Section 292: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 292: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 293 What constitutes criminal damage
     
 *   \[Repealed\]
     
-    Section 293: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 293: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 294 Arson
     
 *   \[Repealed\]
     
-    Section 294: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 294: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 295 Attempted arson
     
 *   \[Repealed\]
     
-    Section 295: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 295: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 296 Damage to other property by fire or explosive
     
 *   \[Repealed\]
     
-    Section 296: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 296: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 297 Attempt to damage property by fire or explosive
     
 *   \[Repealed\]
     
-    Section 297: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 297: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 298 Wilful damage
     
 *   \[Repealed\]
     
-    Section 298: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 298: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 298A Causing disease or sickness in animals
     
@@ -7356,7 +7358,7 @@ Crimes against rights of property
     
     *   (b) is likely, directly or indirectly, to cause major damage to the national economy of New Zealand.
     
-    Section 298A: inserted, on 17 November 2003, by [section 5][848] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
+    Section 298A: inserted, on 17 November 2003, by [section 5][849] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
 
 ##### 298B Contaminating food, crops, water, or other products
     
@@ -7368,49 +7370,49 @@ Crimes against rights of property
     
     *   (c) intending to cause major damage to the national economy of New Zealand or reckless as to whether major damage is caused to the national economy of New Zealand.
     
-    Section 298B: inserted, on 17 November 2003, by [section 5][848] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
+    Section 298B: inserted, on 17 November 2003, by [section 5][849] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
 
 ##### 299 Wilful waste or diversion of water, gas, or electricity
     
 *   \[Repealed\]
     
-    Section 299: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 299: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 300 Interfering with means of transport
     
 *   \[Repealed\]
     
-    Section 300: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 300: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 301 Wrecking
     
 *   \[Repealed\]
     
-    Section 301: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 301: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 302 Attempting to wreck
     
 *   \[Repealed\]
     
-    Section 302: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 302: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 303 Interfering with signals, etc
     
 *   \[Repealed\]
     
-    Section 303: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 303: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 304 Interfering with mines
     
 *   \[Repealed\]
     
-    Section 304: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 304: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 305 Providing explosive to commit crime
     
 *   \[Repealed\]
     
-    Section 305: repealed, on 1 October 2003, by [section 15][836] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 305: repealed, on 1 October 2003, by [section 15][837] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ## Part 11  
 Threatening, conspiring, and attempting to commit offences
@@ -7437,7 +7439,7 @@ Threatening, conspiring, and attempting to commit offences
     
     Compare: 1908 No 32 s 343; 1941 No 10 Schedule
     
-    Section 307(2): amended, on 1 October 2003, by [section 16][849] of the Crimes Amendment Act 2003 (2003 No 39).
+    Section 307(2): amended, on 1 October 2003, by [section 16][850] of the Crimes Amendment Act 2003 (2003 No 39).
 
 ##### 307A Threats of harm to people or property
     
@@ -7475,7 +7477,7 @@ Threatening, conspiring, and attempting to commit offences
     
     (4) To avoid doubt, the fact that a person engages in any protest, advocacy, or dissent, or engages in any strike, lockout, or other industrial action, is not, by itself, a sufficient basis for inferring that a person has committed an offence against subsection (1).
     
-    Section 307A: inserted, on 17 November 2003, by [section 6][850] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
+    Section 307A: inserted, on 17 November 2003, by [section 6][851] of the Crimes Amendment Act (No 2) 2003 (2003 No 105).
 
 ##### 308 Threatening acts
     
@@ -7517,7 +7519,7 @@ Threatening, conspiring, and attempting to commit offences
     
     Compare: 1908 No 32 ss 352, 353
     
-    Section 312: amended, on 1 July 2013, by [section 7][749] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 312: amended, on 1 July 2013, by [section 7][750] of the Crimes Amendment Act 2013 (2013 No 27).
 
 ## Part 11A  
 Obtaining evidence by interception devices
@@ -7753,11 +7755,11 @@ Procedure
     
     Section 315(2)(b): amended, on 26 December 1989, by [section 3(5)][717] of the Abolition of the Death Penalty Act 1989 (1989 No 119).
     
-    Section 315(2)(c): repealed, on 1 February 1982, by [section 51(1)][851] of the Summary Offences Act 1981 (1981 No 113).
+    Section 315(2)(c): repealed, on 1 February 1982, by [section 51(1)][852] of the Summary Offences Act 1981 (1981 No 113).
     
-    Section 315(2)(d): repealed, on 1 February 1982, by [section 51(1)][851] of the Summary Offences Act 1981 (1981 No 113).
+    Section 315(2)(d): repealed, on 1 February 1982, by [section 51(1)][852] of the Summary Offences Act 1981 (1981 No 113).
     
-    Section 315(2)(e): repealed, on 1 February 1982, by [section 51(1)][851] of the Summary Offences Act 1981 (1981 No 113).
+    Section 315(2)(e): repealed, on 1 February 1982, by [section 51(1)][852] of the Summary Offences Act 1981 (1981 No 113).
 
 ##### 316 Duty of persons arresting
     
@@ -7781,9 +7783,9 @@ Procedure
     
     (5A) The obligation under subsection (5) ceases if the person is---
         
-    *   (a) released following the service of a summons under [section 28][852] of the Criminal Procedure Act 2011 to appear in court to answer the charge; or
+    *   (a) released following the service of a summons under [section 28][853] of the Criminal Procedure Act 2011 to appear in court to answer the charge; or
     
-    *   (b) released on bail under [section 21][853] of the Bail Act 2000; or
+    *   (b) released on bail under [section 21][854] of the Bail Act 2000; or
     
     *   (c) otherwise released from custody.
     
@@ -7795,11 +7797,11 @@ Procedure
     
     Compare: 1908 No 32 s 61
     
-    Section 316(2)(a): replaced, on 5 March 2012 (applying to the execution of any warrant of arrest on or after that date even if the warrant was issued before that date), by [section 4(1)][854] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
+    Section 316(2)(a): replaced, on 5 March 2012 (applying to the execution of any warrant of arrest on or after that date even if the warrant was issued before that date), by [section 4(1)][855] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 316(2)(b): replaced, on 5 March 2012 (applying to the execution of any warrant of arrest on or after that date even if the warrant was issued before that date), by [section 4(1)][854] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
+    Section 316(2)(b): replaced, on 5 March 2012 (applying to the execution of any warrant of arrest on or after that date even if the warrant was issued before that date), by [section 4(1)][855] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 316(5A): inserted, on 1 July 2013, by [section 4(2)][854] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
+    Section 316(5A): inserted, on 1 July 2013, by [section 4(2)][855] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
 
 ##### 317 Power to enter premises to arrest offender or prevent offence
     
@@ -7835,55 +7837,55 @@ Procedure
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 January 2001, pursuant to [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+*   Heading: repealed, on 1 January 2001, pursuant to [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 318 When bail not allowable
     
 *   \[Repealed\]
     
-    Section 318: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 318: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 319 Rules as to granting bail
     
 *   \[Repealed\]
     
-    Section 319: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 319: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 319A Detention while bail bond prepared and signed
     
 *   \[Repealed\]
     
-    Section 319A: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 319A: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 319B Variation of conditions of bail
     
 *   \[Repealed\]
     
-    Section 319B: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 319B: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 320 Arrest of absconder
     
 *   \[Repealed\]
     
-    Section 320: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 320: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 320A Person on bail may be arrested without warrant in certain circumstances
     
 *   \[Repealed\]
     
-    Section 320A: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 320A: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 320B Failure to answer bail
     
 *   \[Repealed\]
     
-    Section 320B: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 320B: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 320C Non-performance of condition of bail bond to be certified by Judge
     
 *   \[Repealed\]
     
-    Section 320C: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 320C: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 #### Plea of guilty after committal for trial
 
@@ -7913,7 +7915,7 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 323: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 323: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 324 Attendance of witnesses at substituted court
     
@@ -8089,7 +8091,7 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 344D: repealed, on 1 August 2007, by [section 215][856] of the Evidence Act 2006 (2006 No 69).
+    Section 344D: repealed, on 1 August 2007, by [section 215][857] of the Evidence Act 2006 (2006 No 69).
 
 #### Filing indictment
 
@@ -8161,7 +8163,7 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 350: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 350: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 351 Failure of witness to attend
     
@@ -8263,13 +8265,13 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 362: repealed, on 1 May 1982, by [section 37(1)][857] of the Juries Act 1981 (1981 No 23).
+    Section 362: repealed, on 1 May 1982, by [section 37(1)][858] of the Juries Act 1981 (1981 No 23).
 
 ##### 363 Challenges and directions to stand by
     
 *   \[Repealed\]
     
-    Section 363: repealed, on 1 May 1982, by [section 37(1)][857] of the Juries Act 1981 (1981 No 23).
+    Section 363: repealed, on 1 May 1982, by [section 37(1)][858] of the Juries Act 1981 (1981 No 23).
 
 ##### 364 Caution to accused when undefended
     
@@ -8317,7 +8319,7 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 369: repealed, on 1 August 2007, by [section 215][856] of the Evidence Act 2006 (2006 No 69).
+    Section 369: repealed, on 1 August 2007, by [section 215][857] of the Evidence Act 2006 (2006 No 69).
 
 ##### 369A Prosecution may withdraw in certain cases
     
@@ -8329,7 +8331,7 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 370: repealed, on 29 June 2009, by [section 19(2)][858] of the Juries Amendment Act 2008 (2008 No 40).
+    Section 370: repealed, on 29 June 2009, by [section 19(2)][859] of the Juries Amendment Act 2008 (2008 No 40).
 
 ##### 371 Motion in arrest of judgment. Sentence
     
@@ -8359,13 +8361,13 @@ Procedure
     
 *   \[Repealed\]
     
-    Section 375: repealed, on 1 October 1985, by [section 11(1)][859] of the Crimes Amendment Act (No 2) 1985 (1985 No 121).
+    Section 375: repealed, on 1 October 1985, by [section 11(1)][860] of the Crimes Amendment Act (No 2) 1985 (1985 No 121).
 
 ##### 375A Special provisions in cases of sexual nature
     
 *   \[Repealed\]
     
-    Section 375A: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][860] of the Criminal Procedure Act 2011 (2011 No 81).
+    Section 375A: repealed, on 5 March 2012 (applying in relation to a proceeding for an offence that was committed before that date in accordance with the provisions of sections 397 and 399--401 of the Criminal Procedure Act 2011), by [section 393][861] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 376 Presence of the accused
     
@@ -8468,13 +8470,13 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 379B: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 379B: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 379C Procedural provisions relating to appeal on question of bail
     
 *   \[Repealed\]
     
-    Section 379C: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 379C: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 379CA Appeal against order in respect of costs
     
@@ -8486,7 +8488,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 379D: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 379D: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 #### Appeal on question of law
 
@@ -8586,7 +8588,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 391: repealed, on 1 April 1968, by [section 14(2)][861] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 391: repealed, on 1 April 1968, by [section 14(2)][862] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 392 Duties of Registrar with respect to notices of appeal, etc
     
@@ -8640,7 +8642,7 @@ Appeals
     
 *   \[Repealed\]
     
-    Section 397: repealed, on 1 January 2001, by [section 74(2)][855] of the Bail Act 2000 (2000 No 38).
+    Section 397: repealed, on 1 January 2001, by [section 74(2)][856] of the Bail Act 2000 (2000 No 38).
 
 ##### 398 Judgment of Court of Appeal
     
@@ -8703,13 +8705,13 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 402: repealed, on 1 April 1968, by [section 14(2)][861] of the Costs in Criminal Cases Act 1967 (1967 No 129).
+    Section 402: repealed, on 1 April 1968, by [section 14(2)][862] of the Costs in Criminal Cases Act 1967 (1967 No 129).
 
 ##### 403 Compensation for loss of property
     
 *   \[Repealed\]
     
-    Section 403: repealed, on 1 October 1985, by [section 15(1)][862] of the Crimes Amendment Act (No 2) 1985 (1985 No 121).
+    Section 403: repealed, on 1 October 1985, by [section 15(1)][863] of the Crimes Amendment Act (No 2) 1985 (1985 No 121).
 
 ##### 404 Restitution of property
     
@@ -8725,17 +8727,21 @@ Miscellaneous provisions
 
 ##### 406 Prerogative of mercy
     
-*   Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either---
+*   (1) Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either---
         
-    *   (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person's right of appeal against conviction under [section 229][863] of the Criminal Procedure Act 2011 was to a District Court or the High Court, to the High Court, and the question so referred shall then be heard and determined by the court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
+    *   (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person's right of appeal against conviction under [section 229][864] of the Criminal Procedure Act 2011 was to a District Court or the High Court, to the High Court, and the question so referred shall then be heard and determined by the court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
     
     *   (b) if he desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
     
+    (2) A reference under this section must be published in the _Gazette_.
+    
     Compare: 1945 No 23 s 17
     
-    Section 406(a): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
+    Section 406(1)(a): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 406(a): amended, on 1 April 1980, pursuant to [section 12][761] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 406(1)(a): amended, on 1 April 1980, pursuant to [section 12][762] of the Judicature Amendment Act 1979 (1979 No 124).
+    
+    Section 406(2): inserted, on 5 August 2013, by [section 77(3)][865] of the Legislation Act 2012 (2012 No 119).
 
 ##### 406A Appeals against decisions made on references
     
@@ -8745,9 +8751,9 @@ Miscellaneous provisions
     
     (3) With the leave of the Supreme Court, a party to an appeal to the Court of Appeal under subsection (1) may appeal to the Supreme Court against the Court of Appeal's determination of the appeal.
     
-    (4) Subsection (1) is subject to [section 14][864] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+    (4) Subsection (1) is subject to [section 14][866] of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
     
-    Section 406A: inserted, on 1 January 2004, by [section 47][865] of the Supreme Court Act 2003 (2003 No 53).
+    Section 406A: inserted, on 1 January 2004, by [section 47][867] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 407 Effect of free pardon
     
@@ -8787,7 +8793,7 @@ Miscellaneous provisions
     
     Compare: 1908 No 32 s 385
     
-    Section 410(3): repealed, on 19 December 1989, by [section 11][866] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 410(3): repealed, on 19 December 1989, by [section 11][868] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 411 Consequential amendments
     
@@ -8797,11 +8803,11 @@ Miscellaneous provisions
     
     (3) Every reference in any enactment to a bill of indictment, or to the preferring or filing of a bill of indictment before the grand jury, or to the filing or finding of an indictment by the grand jury, or to an indictment found, or any other similar expression, shall be read as a reference to a charging document or, as the case may require, to the filing of a charging document in the District Court, or to a charging document filed.
     
-    Section 411(2): repealed, on 1 July 2013, by [section 5][867] of the Crimes Amendment Act 2013 (2013 No 27).
+    Section 411(2): repealed, on 1 July 2013, by [section 5][869] of the Crimes Amendment Act 2013 (2013 No 27).
     
     Section 411(3): amended, on 1 July 2013, by [section 6][685] of the Crimes Amendment Act (No 4) 2011 (2011 No 85).
     
-    Section 411(3): amended, on 1 March 1996, by [section 4(1)][868] of the Crimes Amendment Act (No 2) 1995 (1995 No 68).
+    Section 411(3): amended, on 1 March 1996, by [section 4(1)][870] of the Crimes Amendment Act (No 2) 1995 (1995 No 68).
 
 ##### 412 Repeals and savings
     
@@ -8815,17 +8821,17 @@ Miscellaneous provisions
         
     *   (a) an enactment that forms a part of this Act and that creates an offence is repealed and is replaced by, or is consolidated in, a new enactment, whether in the same or a different form; and
             
-        *   (i) proceedings are commenced for an offence contrary to the repealed enactment in reliance on [section 19][869] of the Interpretation Act 1999; or
+        *   (i) proceedings are commenced for an offence contrary to the repealed enactment in reliance on [section 19][871] of the Interpretation Act 1999; or
         
         *   (ii) proceedings are commenced for an offence contrary to the new enactment; or
         
-        *   (iii) proceedings are commenced for an offence contrary to the repealed enactment in reliance on [section 19][869] of the Interpretation Act 1999 and, in the alternative, for an offence contrary to the new enactment; and
+        *   (iii) proceedings are commenced for an offence contrary to the repealed enactment in reliance on [section 19][871] of the Interpretation Act 1999 and, in the alternative, for an offence contrary to the new enactment; and
         
         
     
     *   (b) the date of the act or omission by the defendant constituting the alleged offence cannot be established with sufficient certainty to determine whether it occurred before the repeal of the repealed enactment or after the commencement of the new enactment.
     
-    Section 413: added, on 26 June 2008, by [section 17][870] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
+    Section 413: added, on 26 June 2008, by [section 17][872] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
 
 ##### 414 Repealed enactment continues to have effect
     
@@ -8841,13 +8847,13 @@ Miscellaneous provisions
     
     (4) A defendant found guilty or convicted, in accordance with this section, of an offence created by the repealed enactment is liable to a maximum penalty which is the lesser of that prescribed for the offence of which the defendant is found guilty or convicted and that prescribed for the corresponding offence created under the new enactment.
     
-    Section 414: added, on 26 June 2008, by [section 17][870] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
+    Section 414: added, on 26 June 2008, by [section 17][872] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
 
 ##### 415 Inconsistency with other enactment or rule of law
     
 *   If [sections 413][661] and [414][662] are inconsistent with any other enactment or rule of law, sections 413 and 414 prevail over that enactment or rule of law.
     
-    Section 415: added, on 26 June 2008, by [section 17][870] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
+    Section 415: added, on 26 June 2008, by [section 17][872] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
 
 ---
 
@@ -8908,7 +8914,7 @@ Challenge to array
 
 \[Repealed\]
     
-*   Schedule 2 form 5: repealed, on 1 May 1982, by [section 37(1)][857] of the Juries Act 1981 (1981 No 23).
+*   Schedule 2 form 5: repealed, on 1 May 1982, by [section 37(1)][858] of the Juries Act 1981 (1981 No 23).
 
 #### Form 6  
 Challenge for cause
@@ -8917,7 +8923,7 @@ Challenge for cause
 
 \[Repealed\]
     
-*   Schedule 2 form 6: repealed, on 1 May 1982, by [section 37(1)][857] of the Juries Act 1981 (1981 No 23).
+*   Schedule 2 form 6: repealed, on 1 May 1982, by [section 37(1)][858] of the Juries Act 1981 (1981 No 23).
 
 ---
 
@@ -8944,7 +8950,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Evidence Act 1908 (1908 No 56) (1957 Reprint, Vol 4, p 693)
 
-_Amendment(s) incorporated in the [Act(s)][871]._
+_Amendment(s) incorporated in the [Act(s)][873]._
 
 ##### Juries Act 1908 (1908 No 90) (1957 Reprint, Vol 6, p 745)
 
@@ -8980,11 +8986,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patents Act 1953 (1953 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][872]._
+_Amendment(s) incorporated in the [Act(s)][874]._
 
 ##### Police Act 1958 (1958 No 109)
 
-_Amendment(s) incorporated in the [Act(s)][873]._
+_Amendment(s) incorporated in the [Act(s)][875]._
 
 ##### Police Offences Act 1927 (1927 No 35) (1957 Reprint, Vol 12, p 1)
 
@@ -9004,7 +9010,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][874]._
+_Amendment(s) incorporated in the [Act(s)][876]._
 
 ---
 
@@ -9282,7 +9288,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (1957 Reprint, Vol 2, pp 27, 46; Vol 3, pp 414, 415, 435, 437)
 
-_Amendment(s) incorporated in the [Act(s)][875]._
+_Amendment(s) incorporated in the [Act(s)][877]._
 
 ##### Statutes Amendment Act 1937 (1937 No 38) (1957 Reprint, Vol 3, pp 412, 438)
 
@@ -9290,11 +9296,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1945 (1945 No 40) (1957 Reprint, Vol 6, pp 762, 799)
 
-_Amendment(s) incorporated in the [Act(s)][876]._
+_Amendment(s) incorporated in the [Act(s)][878]._
 
 ##### Statutes Amendment Act 1946 (1946 No 40) (1957 Reprint, Vol 3, p 449)
 
-_Amendment(s) incorporated in the [Act(s)][877]._
+_Amendment(s) incorporated in the [Act(s)][879]._
 
 ##### Statutes Amendment Act 1948 (1948 No 77) (1957 Reprint, Vol 3, p 450)
 
@@ -9302,7 +9308,7 @@ _Amendment(s) incorporated in the [Act(s)][680]._
 
 ##### Summary Proceedings Act 1957 (1957 No 87) (1957 Reprint, Vol 15, p 406)
 
-_Amendment(s) incorporated in the [Act(s)][878]._
+_Amendment(s) incorporated in the [Act(s)][880]._
 
 ---
 
@@ -9313,7 +9319,7 @@ Interception warrant
 
 \[Repealed\]
     
-*   Schedule 6: repealed, on 1 February 1998, by [section 24(1)][879] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
+*   Schedule 6: repealed, on 1 February 1998, by [section 24(1)][881] of the Crimes Amendment Act (No 2) 1997 (1997 No 93).
 
 ---
 
@@ -9325,7 +9331,7 @@ Commencement14 December 1979
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Crimes Amendment Act (No 2) 1979][880], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Crimes Amendment Act (No 2) 1979][882], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
 
 ##### 2 New sections inserted
     
@@ -9343,7 +9349,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Crimes Amendment Act (No 3) 1985][881], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Crimes Amendment Act (No 3) 1985][883], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 February 1986\.
 
@@ -9393,7 +9399,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Homosexual Law Reform Act 1986][882].
+*   (1) This Act may be cited as the [Homosexual Law Reform Act 1986][884].
     
     (2) This Act shall come into force on the 28th day after the date on which it receives the Governor-General's assent.
 
@@ -9425,7 +9431,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Crimes Amendment Act (No 2) 1989][883], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Crimes Amendment Act (No 2) 1989][885], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 January 1990\.
 
@@ -9443,11 +9449,11 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Crimes Amendment Act (No 2) 1995][884], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Crimes Amendment Act (No 2) 1995][886], and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 1(2): Crimes Amendment Act (No 2) 1995 brought into force, on 1 March 1996, by the [Crimes Amendment Act Commencement Order 1996][885] (SR 1996/1).
+    Section 1(2): Crimes Amendment Act (No 2) 1995 brought into force, on 1 March 1996, by the [Crimes Amendment Act Commencement Order 1996][887] (SR 1996/1).
 
 ##### 5 Savings provision relating to indictments
     
@@ -9469,7 +9475,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act may be cited as the [Crimes (Bribery of Foreign Public Officials) Amendment Act 2001][886].
+*   (1) This Act may be cited as the [Crimes (Bribery of Foreign Public Officials) Amendment Act 2001][888].
     
     (2) In this Act, the Crimes Act 1961 is called ""the principal Act"".
 
@@ -9509,7 +9515,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Crimes (Criminal Appeals) Amendment Act 2001][887].
+*   (1) This Act is the [Crimes (Criminal Appeals) Amendment Act 2001][889].
     
     (2) In this Act, the Crimes Act 1961 is called ""the principal Act"".
 
@@ -9517,7 +9523,7 @@ Commencementsee section 2
     
 *   This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
     
-    Section 2: Crimes (Criminal Appeals) Amendment Act 2001 brought into force, on 10 December 2001, by the [Crimes (Criminal Appeals) Amendment Act Commencement Order 2001][888] (SR 2001/370).
+    Section 2: Crimes (Criminal Appeals) Amendment Act 2001 brought into force, on 10 December 2001, by the [Crimes (Criminal Appeals) Amendment Act Commencement Order 2001][890] (SR 2001/370).
 
 ## Part 1  
 Amendments to principal Act
@@ -9617,7 +9623,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Prostitution Reform Act 2003][788].
+*   This Act is the [Prostitution Reform Act 2003][789].
 
 ## Part 1  
 Preliminary provisions
@@ -9673,7 +9679,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Crimes Amendment Act 2005][889].
+*   (1) This Act is the [Crimes Amendment Act 2005][891].
     
     (2) In this Act, the Crimes Act 1961 is called ""the principal Act"".
 
@@ -9685,7 +9691,7 @@ Commencementsee section 2
     
     (3) The rest of this Act comes into force on the 30th day after the date on which it receives the Royal assent.
     
-    Section 2(1): sections 6 and 8 brought into force, on 14 June 2006, by the [Crimes Amendment Act Commencement Order 2006][890] (SR 2006/121).
+    Section 2(1): sections 6 and 8 brought into force, on 14 June 2006, by the [Crimes Amendment Act Commencement Order 2006][892] (SR 2006/121).
 
 ## Part 2  
 Amendments, repeals, and transitional matters
@@ -9698,7 +9704,7 @@ Amendments, repeals, and transitional matters
     
     (3) Subsections (1) and (2) are subject to section 13, the District Courts Amendment Act (No 2) 2008, and the Summary Proceedings Amendment Act (No 2) 2008\.
     
-    Section 12(3): amended, on 26 June 2008, by [section 18(2)][891] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
+    Section 12(3): amended, on 26 June 2008, by [section 18(2)][893] of the Crimes Amendment Act (No 2) 2008 (2008 No 37).
 
 ##### 13 Availability of new defences
     
@@ -9720,7 +9726,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes (Substituted Section 59) Amendment Act 2007][892].
+*   This Act is the [Crimes (Substituted Section 59) Amendment Act 2007][894].
 
 ##### 2 Commencement
     
@@ -9758,7 +9764,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 2) 2008][893].
+*   This Act is the [Crimes Amendment Act (No 2) 2008][895].
 
 ##### 2 Commencement
     
@@ -9810,7 +9816,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Crimes Amendment Act (No 3) 2011][894].
+*   This Act is the [Crimes Amendment Act (No 3) 2011][896].
 
 ##### 2 Commencement
     
@@ -9829,170 +9835,131 @@ Amendments to other enactments and transitional provision
     
     (2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Crimes Act 1961\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][895] ![](/images/external_link.gif).
+*   This is a reprint of the Crimes Act 1961 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][896] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][897] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][898] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][897] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][899] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][900] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][898] and [17E][899] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Crimes Amendment Act 2013][901] (2013 No 27)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][737]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Crimes Amendment Act 2013][900] (2013 No 27)
+    Legislation Act 2012 (2012 No 119): [section 77(3)][865]
     
     Search and Surveillance Act 2012 (2012 No 24): [section 325][671]
     
-    [Crimes Amendment Act 2012][901] (2012 No 8)
+    [Crimes Amendment Act 2012][902] (2012 No 8)
     
-    [Crimes Amendment Act (No 4) 2011][902] (2011 No 85)
+    [Crimes Amendment Act (No 4) 2011][903] (2011 No 85)
     
-    Criminal Procedure Act 2011 (2011 No 81): [section 393][860]
+    Criminal Procedure Act 2011 (2011 No 81): [section 393][861]
     
-    [Crimes Amendment Act (No 3) 2011][894] (2011 No 79)
+    [Crimes Amendment Act (No 3) 2011][896] (2011 No 79)
     
-    [Crimes Amendment Act (No 2) 2011][903] (2011 No 34)
+    [Crimes Amendment Act (No 2) 2011][904] (2011 No 34)
     
-    [Crimes Amendment Act 2011][904] (2011 No 29)
+    [Crimes Amendment Act 2011][905] (2011 No 29)
     
-    [Crimes (Provocation Repeal) Amendment Act 2009][905] (2009 No 64)
+    [Crimes (Provocation Repeal) Amendment Act 2009][906] (2009 No 64)
     
-    [Crimes Amendment Act 2009][906] (2009 No 47)
+    [Crimes Amendment Act 2009][907] (2009 No 47)
     
-    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][844]
+    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][845]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 176--178][843]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 176--178][844]
     
-    Corrections Amendment Act 2009 (2009 No 3): [section 35][823]
+    Corrections Amendment Act 2009 (2009 No 3): [section 35][824]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv), (b)][740], [130(1)][684]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (iv), (b)][741], [130(1)][684]
     
-    Juries Amendment Act 2008 (2008 No 40): [sections 16(1)][907], [19(2)][858]
+    Juries Amendment Act 2008 (2008 No 40): [sections 16(1)][908], [19(2)][859]
     
-    [Crimes Amendment Act (No 2) 2008][893] (2008 No 37)
+    [Crimes Amendment Act (No 2) 2008][895] (2008 No 37)
     
-    [Crimes Amendment Act 2008][908] (2008 No 8)
+    [Crimes Amendment Act 2008][909] (2008 No 8)
     
     Court Martial Act 2007 (2007 No 101): [section 87][715]
     
-    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][770]
+    Armed Forces Discipline Amendment Act (No 2) 2007 (2007 No 98): [section 81][771]
     
-    [Crimes (Repeal of Seditious Offences) Amendment Act 2007][909] (2007 No 96)
+    [Crimes (Repeal of Seditious Offences) Amendment Act 2007][910] (2007 No 96)
     
-    [Crimes (Substituted Section 59) Amendment Act 2007][892] (2007 No 18)
+    [Crimes (Substituted Section 59) Amendment Act 2007][894] (2007 No 18)
     
-    [Crimes (Intimate Covert Filming) Amendment Act 2006][910] (2006 No 75)
+    [Crimes (Intimate Covert Filming) Amendment Act 2006][911] (2006 No 75)
     
-    Evidence Act 2006 (2006 No 69): [sections 215][856], [216][827]
+    Evidence Act 2006 (2006 No 69): [sections 215][857], [216][828]
     
-    [Crimes Amendment Act Commencement Order 2006][890] (SR 2006/121)
+    [Crimes Amendment Act Commencement Order 2006][892] (SR 2006/121)
     
-    [Crimes Amendment Act 2005 ][889](2005 No 41)
+    [Crimes Amendment Act 2005 ][891](2005 No 41)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][736]
     
-    Civil Union Act 2004 (2004 No 102): [sections 41][808], [42][809], [43][810]
+    Civil Union Act 2004 (2004 No 102): [sections 41][809], [42][810], [43][811]
     
     Corrections Act 2004 (2004 No 50): [section 206][690]
     
     Civil Aviation Amendment Act 2004 (2004 No 8): [section 41(3)][704]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][777]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][778]
     
-    [Crimes Amendment Act (No 2) 2003][911] (2003 No 105)
+    [Crimes Amendment Act (No 2) 2003][912] (2003 No 105)
     
-    Supreme Court Act 2003 (2003 No 53): [sections 47][865], [48(1)][692]
+    Supreme Court Act 2003 (2003 No 53): [sections 47][867], [48(1)][692]
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][687]
     
-    [Crimes Amendment Act 2003][912] (2003 No 39)
+    [Crimes Amendment Act 2003][913] (2003 No 39)
     
-    Prostitution Reform Act 2003 (2003 No 28): [section 48(1)(a)][791]
+    Prostitution Reform Act 2003 (2003 No 28): [section 48(1)(a)][792]
     
     New Zealand Trade and Enterprise Act 2003 (2003 No 27): [section 84][714]
     
-    Government Communications Security Bureau Act 2003 (2003 No 9): [section 26][822]
+    Government Communications Security Bureau Act 2003 (2003 No 9): [section 26][823]
     
-    [Crimes Amendment Act 2002][913] (2002 No 20)
+    [Crimes Amendment Act 2002][914] (2002 No 20)
     
-    Sentencing Act 2002 (2002 No 9): [sections 164][719], [165][796], [186][805]
+    Sentencing Act 2002 (2002 No 9): [sections 164][719], [165][797], [186][806]
     
-    [Crimes (Criminal Appeals) Amendment Commencement Order 2001][888] (SR 2001/370)
+    [Crimes (Criminal Appeals) Amendment Commencement Order 2001][890] (SR 2001/370)
     
-    [Crimes (Bribery of Foreign Public Officials) Amendment Act 2001][886] (2001 No 28)
+    [Crimes (Bribery of Foreign Public Officials) Amendment Act 2001][888] (2001 No 28)
     
-    [Crimes Amendment Act 2001][914] (2001 No 9)
+    [Crimes Amendment Act 2001][915] (2001 No 9)
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][855]
+    Bail Act 2000 (2000 No 38): [section 74(2)][856]
     
-    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 181][743]
+    International Crimes and International Criminal Court Act 2000 (2000 No 26): [section 181][744]
     
     Penal Institutions Amendment Act 1999 (1999 No 114): section 10
     
-    [Crimes Amendment Act (No 2) 1998][915] (1998 No 79)
+    [Crimes Amendment Act (No 2) 1998][916] (1998 No 79)
     
-    [Crimes Amendment Act (No 2) 1997][916] (1997 No 93)
+    [Crimes Amendment Act (No 2) 1997][917] (1997 No 93)
     
-    State Sector Amendment Act 1997 (1997 No 8): [section 4][759]
+    State Sector Amendment Act 1997 (1997 No 8): [section 4][760]
     
     Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    [Crimes Amendment Act Commencement Order 1996][885] (SR 1996/1)
+    [Crimes Amendment Act Commencement Order 1996][887] (SR 1996/1)
     
-    [Crimes Amendment Act (No 2) 1995][884] (1995 No 68)
+    [Crimes Amendment Act (No 2) 1995][886] (1995 No 68)
     
     Crimes Amendment Act 1995 (1995 No 49)
     
@@ -10000,17 +9967,17 @@ Amendments to other enactments and transitional provision
     
     Maritime Transport Act 1994 (1994 No 104): [section 202(1)][705]
     
-    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][782]
+    Films, Videos, and Publications Classification Act 1993 (1993 No 94): [section 150(1)][783]
     
     Foreign Affairs Amendment Act 1993 (1993 No 48): [sections 2(3)][712], [6(1)][713]
     
     Crimes Amendment Act 1993 (1993 No 33)
     
-    Defamation Act 1992 (1992 No 105): [section 56(2)][812]
+    Defamation Act 1992 (1992 No 105): [section 56(2)][813]
     
     Civil Aviation Act 1990 (1990 No 98): [section 101(1)][681]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][866]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][868]
     
     Abolition of the Death Penalty Act 1989 (1989 No 119): [section 3][717]
     
@@ -10026,13 +9993,13 @@ Amendments to other enactments and transitional provision
     
     Crimes Amendment Act (No 2) 1986 (1986 No 71)
     
-    Homosexual Law Reform Act 1986 (1986 No 33): [section 6(1)][790]
+    Homosexual Law Reform Act 1986 (1986 No 33): [section 6(1)][791]
     
     Crimes Amendment Act (No 4) 1985 (1985 No 171)
     
-    [Crimes Amendment Act (No 3) 1985][881] (1985 No 160)
+    [Crimes Amendment Act (No 3) 1985][883] (1985 No 160)
     
-    [Crimes Amendment Act (No 2) 1985][917] (1985 No 121)
+    [Crimes Amendment Act (No 2) 1985][918] (1985 No 121)
     
     Foreign Affairs Act 1983 (1983 No 128): section 30
     
@@ -10040,15 +10007,15 @@ Amendments to other enactments and transitional provision
     
     Crimes Amendment Act 1982 (1982 No 46)
     
-    Summary Offences Act 1981 (1981 No 113): [sections 48(1)][802], [51(1)][851]
+    Summary Offences Act 1981 (1981 No 113): [sections 48(1)][803], [51(1)][852]
     
-    Juries Act 1981 (1981 No 23): [section 37(1)][857]
+    Juries Act 1981 (1981 No 23): [section 37(1)][858]
     
     Crimes Amendment Act 1980 (1980 No 63)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][758]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][759]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][761]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][762]
     
     Crimes Amendment Act 1979 (1979 No 5)
     
@@ -10060,7 +10027,7 @@ Amendments to other enactments and transitional provision
     
     Crimes Amendment Act 1973 (1973 No 118)
     
-    Costs in Criminal Cases Act 1967 (1967 No 129): [section 14(2)][861]
+    Costs in Criminal Cases Act 1967 (1967 No 129): [section 14(2)][862]
     
     Crimes Amendment Act 1966 (1966 No 98)
     
@@ -10068,7 +10035,7 @@ Amendments to other enactments and transitional provision
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html#DLM327384
 [2]: http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html#DLM327386
 [3]: http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html#DLM327394
@@ -10805,184 +10772,185 @@ Amendments to other enactments and transitional provision
 [734]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM87395
 [735]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199779
 [736]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM333795
-[737]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428120
-[738]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428121
-[739]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1209107
-[740]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1102349
-[741]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407671
-[742]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM64147
-[743]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM65516
-[744]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM431205
-[745]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM431296
-[746]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM65921
-[747]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981008
-[748]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981009
-[749]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189023
-[750]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199780
-[751]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM88528
-[752]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346172
-[753]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418008
-[754]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145431
-[755]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1815415
-[756]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM129109
-[757]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428122
-[758]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35085
-[759]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407982
-[760]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91249
-[761]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35049
-[762]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91250
-[763]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91251
-[764]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91252
-[765]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91253
-[766]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91273
-[767]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM135079
-[768]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM316124
-[769]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM401062
-[770]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1034362
-[771]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145455
-[772]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145456
-[773]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224509
-[774]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224519
-[775]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224521
-[776]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360289
-[777]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224534
-[778]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM294857
-[779]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM262175
-[780]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224577
-[781]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM312894
-[782]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM314425
-[783]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346175
-[784]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM147087
-[785]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650018
-[786]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM87391
-[787]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM197876
-[788]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM197814
-[789]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346408
-[790]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM93165
-[791]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM198309
-[792]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650020
-[793]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199782
-[794]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2258108
-[795]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM136497
-[796]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM137220
-[797]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM223888
-[798]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224501
-[799]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM223817
-[800]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM18516
-[801]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650024
-[802]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM53746
-[803]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650030
-[804]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM135350
-[805]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM137267
-[806]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199784
-[807]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323384
-[808]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323477
-[809]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323478
-[810]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323479
-[811]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346411
-[812]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM281277
-[813]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199786
-[814]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2136500
-[815]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM391605
-[816]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM187177
-[817]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM124822
-[818]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM296084
-[819]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1955998
-[820]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199793
-[821]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418010
-[822]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM187857
-[823]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1098397
-[824]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM393462
-[825]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM23666
-[826]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199794
-[827]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM394552
-[828]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199795
-[829]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199796
-[830]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199797
-[831]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM398244
-[832]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM242343
-[833]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM423264
-[834]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM124974
-[835]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3359902
-[836]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM200200
-[837]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35242
-[838]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM25999
-[839]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM436285
-[840]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=BILL-SCDRAFT-7242
-[841]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2140700
-[842]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM373803
-[843]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1451409
-[844]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2141072
-[845]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840009
-[846]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840012
-[847]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840013
-[848]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219418
-[849]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM200408
-[850]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219421
-[851]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM53759
-[852]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360071
-[853]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM68931
-[854]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4057907
-[855]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM69643
-[856]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM394551
-[857]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM44849
-[858]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1379248
-[859]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79189
-[860]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3865810
-[861]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM385070
-[862]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79194
-[863]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360397
-[864]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM214075
-[865]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM214520
-[866]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195558
-[867]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189021
-[868]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM371234
-[869]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM31488
-[870]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1378660
-[871]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM142563
-[872]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM281010
-[873]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM322258
-[874]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM313550
-[875]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM221364
-[876]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM239146
-[877]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM242179
-[878]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM314549
-[879]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418032
-[880]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35088
-[881]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM87383
-[882]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM93150
-[883]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM192397
-[884]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM371226
-[885]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM207759
-[886]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91241
-[887]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM119947
-[888]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM95700
-[889]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346154
-[890]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM381594
-[891]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1378665
-[892]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407663
-[893]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM999000
-[894]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650002
-[895]: http://www.pco.parliament.govt.nz/reprints/
-[896]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195439
-[897]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[898]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195468
-[899]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195470
-[900]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189013
-[901]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4014000
-[902]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4057903
-[903]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3556400
-[904]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840004
-[905]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2258100
-[906]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1815400
-[907]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1379238
-[908]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1209100
-[909]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981000
-[910]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM398236
-[911]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219410
-[912]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199765
-[913]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145419
-[914]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM88521
-[915]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428114
-[916]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418002
-[917]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79174
+[737]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5045103
+[738]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428120
+[739]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428121
+[740]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1209107
+[741]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1102349
+[742]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407671
+[743]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM64147
+[744]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM65516
+[745]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM431205
+[746]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM431296
+[747]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM65921
+[748]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981008
+[749]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981009
+[750]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189023
+[751]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199780
+[752]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM88528
+[753]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346172
+[754]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418008
+[755]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145431
+[756]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1815415
+[757]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM129109
+[758]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428122
+[759]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35085
+[760]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407982
+[761]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91249
+[762]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35049
+[763]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91250
+[764]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91251
+[765]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91252
+[766]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91253
+[767]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91273
+[768]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM135079
+[769]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM316124
+[770]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM401062
+[771]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1034362
+[772]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145455
+[773]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145456
+[774]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224509
+[775]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224519
+[776]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224521
+[777]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360289
+[778]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224534
+[779]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM294857
+[780]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM262175
+[781]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224577
+[782]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM312894
+[783]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM314425
+[784]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346175
+[785]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM147087
+[786]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650018
+[787]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM87391
+[788]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM197876
+[789]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM197814
+[790]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346408
+[791]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM93165
+[792]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM198309
+[793]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650020
+[794]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199782
+[795]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2258108
+[796]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM136497
+[797]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM137220
+[798]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM223888
+[799]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM224501
+[800]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM223817
+[801]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM18516
+[802]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650024
+[803]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM53746
+[804]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650030
+[805]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM135350
+[806]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM137267
+[807]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199784
+[808]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323384
+[809]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323477
+[810]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323478
+[811]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM323479
+[812]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346411
+[813]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM281277
+[814]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199786
+[815]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2136500
+[816]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM391605
+[817]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM187177
+[818]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM124822
+[819]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM296084
+[820]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1955998
+[821]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199793
+[822]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418010
+[823]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM187857
+[824]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1098397
+[825]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM393462
+[826]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM23666
+[827]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199794
+[828]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM394552
+[829]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199795
+[830]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199796
+[831]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199797
+[832]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM398244
+[833]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM242343
+[834]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM423264
+[835]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM124974
+[836]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3359902
+[837]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM200200
+[838]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35242
+[839]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM25999
+[840]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM436285
+[841]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=BILL-SCDRAFT-7242
+[842]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2140700
+[843]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM373803
+[844]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1451409
+[845]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2141072
+[846]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840009
+[847]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840012
+[848]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840013
+[849]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219418
+[850]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM200408
+[851]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219421
+[852]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM53759
+[853]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360071
+[854]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM68931
+[855]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4057907
+[856]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM69643
+[857]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM394551
+[858]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM44849
+[859]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1379248
+[860]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79189
+[861]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3865810
+[862]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM385070
+[863]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79194
+[864]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3360397
+[865]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2998633
+[866]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM214075
+[867]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM214520
+[868]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM195558
+[869]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189021
+[870]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM371234
+[871]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM31488
+[872]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1378660
+[873]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM142563
+[874]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM281010
+[875]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM322258
+[876]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM313550
+[877]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM221364
+[878]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM239146
+[879]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM242179
+[880]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM314549
+[881]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418032
+[882]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM35088
+[883]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM87383
+[884]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM93150
+[885]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM192397
+[886]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM371226
+[887]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM207759
+[888]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM91241
+[889]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM119947
+[890]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM95700
+[891]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM346154
+[892]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM381594
+[893]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1378665
+[894]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM407663
+[895]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM999000
+[896]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3650002
+[897]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2998516
+[898]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2998515
+[899]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2998532
+[900]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[901]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM5189013
+[902]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4014000
+[903]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM4057903
+[904]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3556400
+[905]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM3840004
+[906]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM2258100
+[907]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1815400
+[908]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1379238
+[909]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM1209100
+[910]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM981000
+[911]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM398236
+[912]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM219410
+[913]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM199765
+[914]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM145419
+[915]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM88521
+[916]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM428114
+[917]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM418002
+[918]: http://www.legislation.govt.nz/act/public/1961/0043/latest/link.aspx?id=DLM79174
