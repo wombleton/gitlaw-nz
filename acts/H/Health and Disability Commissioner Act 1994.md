@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -244,7 +244,7 @@ An Act to promote and protect the rights of health consumers and disability serv
 
 *   (c) to provide for the establishment of a Health and Disability Services Consumer Advocacy Service; and
 
-*   (d) to provide for the promulgation of a Code of Health and Disability Services Consumers's Rights; and
+*   (d) to provide for the promulgation of a Code of Health and Disability Services Consumers' Rights; and
 
 *   (e) to provide for matters incidental thereto
 
@@ -1625,7 +1625,7 @@ Miscellaneous provisions
     
     fees, allowances, and expenses as if the parties or their representatives and those persons were witnesses in a court, and, for that purpose,---
         
-    *   (c) the provisions of any regulations in that behalf under the [Summary Proceedings Act 1957][184] shall apply accordingly; and
+    *   (c) the provisions of any regulations in that behalf under the [Criminal Procedure Act 2011][184] shall apply accordingly; and
     
     *   (d) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
     
@@ -1634,6 +1634,8 @@ Miscellaneous provisions
     Compare: 1987 No 77 ss 249, 250(2)
     
     Section 61(1): amended, on 18 September 2004, by [section 17][185] of the Health and Disability Commissioner Amendment Act 2003 (2003 No 49).
+    
+    Section 61(4)(c): amended, on 1 July 2013, by [section 413][186] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Evidence
     
@@ -1641,25 +1643,27 @@ Miscellaneous provisions
     
     (2) The Commissioner may summon before him or her and examine on oath any person who in the Commissioner's opinion is able to give information relating to the matter under investigation, and may for that purpose administer an oath to any person so summoned.
     
-    (3) Every such examination by the Commissioner shall be deemed to be a judicial proceeding within the meaning of [section 108][186] of the Crimes Act 1961 (which relates to perjury).
+    (3) Every such examination by the Commissioner shall be deemed to be a judicial proceeding within the meaning of [section 108][187] of the Crimes Act 1961 (which relates to perjury).
     
-    Compare: 1993 No 28 [s 91][187]
+    Compare: 1993 No 28 [s 91][188]
 
 ##### 63 Protection and privileges of witnesses, etc
     
 *   (1) Except as provided in [section 64(2)][77], every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to the Commissioner or any employee of the Commissioner, as witnesses have in any court.
     
-    (2) No person shall be required to supply any information to or to answer any question put by the Commissioner or any employee of the Commissioner in relation to any matter, or to produce to the Commissioner or any employee of the Commissioner any document or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the [Official Information Act 1982][188] or the [State Sector Act 1988][189].
+    (2) No person shall be required to supply any information to or to answer any question put by the Commissioner or any employee of the Commissioner in relation to any matter, or to produce to the Commissioner or any employee of the Commissioner any document or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the [Official Information Act 1982][189] or the [State Sector Act 1988][190].
     
     (3) No person shall be liable to prosecution for an offence against any enactment, other than [section 73][89], by reason of that person's compliance with any requirement of the Commissioner or any employee of the Commissioner under [section 62][75].
     
     (4) Where the attendance of any person is required by the Commissioner under [section 62][75], the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,---
         
-    *   (a) the provisions of any regulations in that behalf under the [Summary Proceedings Act 1957][184] shall apply accordingly; and
+    *   (a) the provisions of any regulations in that behalf under the [Criminal Procedure Act 2011][184] shall apply accordingly; and
     
     *   (b) the Commissioner shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
     
-    Compare: 1993 No 82 [s 128][190]
+    Compare: 1993 No 82 [s 128][191]
+    
+    Section 63(4)(a): amended, on 1 July 2013, by [section 413][186] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 64 Disclosure of certain matters not to be required
     
@@ -1669,7 +1673,7 @@ Miscellaneous provisions
             
         *   (i) the security or defence of New Zealand, or the international relations of the Government of New Zealand; or
         
-        *   (ii) any interest protected by [section 7][191] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
+        *   (ii) any interest protected by [section 7][192] of the Official Information Act 1982 (which relates to the Cook Islands, Niue, Tokelau, and the Ross Dependency); or
         
         
     
@@ -1685,11 +1689,11 @@ Miscellaneous provisions
     
     (2) Except as provided in subsection (1), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest, shall not apply in respect of any investigation by or proceedings before the Commissioner.
     
-    Compare: 1993 No 82 [s 129][192]
+    Compare: 1993 No 82 [s 129][193]
 
 ##### 65 Proceedings privileged
     
-*   (1) [Sections 120 to 126][193] and [section 135][194] of the Crown Entities Act 2004 apply to an advocate, with any necessary modifications, as if the advocate were an office holder.
+*   (1) [Sections 120 to 126][194] and [section 135][195] of the Crown Entities Act 2004 apply to an advocate, with any necessary modifications, as if the advocate were an office holder.
     
     (2) Subject to subsection (3),---
         
@@ -1699,15 +1703,15 @@ Miscellaneous provisions
     
     (3) Nothing in subsection (2) applies in respect of proceedings for---
         
-    *   (a) an offence against [section 78][195] or [section 78A(1)][196] or [section 105][197] or [section 105A][198] or [section 105B][199] of the Crimes Act 1961; or
+    *   (a) an offence against [section 78][196] or [section 78A(1)][197] or [section 105][198] or [section 105A][199] or [section 105B][200] of the Crimes Act 1961; or
     
-    *   (b) the offence of conspiring to commit an offence against [section 78][195] or [section 78A(1)][196] or [section 105][197] or [section 105A][198] or [section 105B][199] of the Crimes Act 1961\.
+    *   (b) the offence of conspiring to commit an offence against [section 78][196] or [section 78A(1)][197] or [section 105][198] or [section 105A][199] or [section 105B][200] of the Crimes Act 1961\.
     
     (4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by or proceedings before the Commissioner or an advocate under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
     
-    (5) For the purposes of [clause 3][200] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+    (5) For the purposes of [clause 3][201] of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
     
-    Compare: 1993 No 82 [s 130][201]
+    Compare: 1993 No 82 [s 130][202]
     
     Section 65(1): substituted, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1723,7 +1727,7 @@ Miscellaneous provisions
 
 ##### 67 Adverse comment
     
-*   The Commissioner shall not, in any report or recommendation made or published under any of [sections 14][16], [45][55], and [46(2)(b)][56] or its annual report under [Part 4][202] of the Crown Entities Act 2004, make any comment that is adverse to any person unless---
+*   The Commissioner shall not, in any report or recommendation made or published under any of [sections 14][16], [45][55], and [46(2)(b)][56] or its annual report under [Part 4][203] of the Crown Entities Act 2004, make any comment that is adverse to any person unless---
         
     *   (a) that person has been given a reasonable opportunity---
             
@@ -1741,7 +1745,7 @@ Miscellaneous provisions
         
         whichever the Commissioner considers is more appropriate in the circumstances.
     
-    Compare: 1993 No 82 [s 138][203]
+    Compare: 1993 No 82 [s 138][204]
     
     Section 67: amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1763,7 +1767,7 @@ Miscellaneous provisions
     
     (3) The Commissioner may not delegate the functions or powers of the Commissioner under [Part 4][35] or [section 61][74] to the Director of Proceedings.
     
-    (3A) In other respects, the Commissioner may delegate in accordance with [section 73][204] of the Crown Entities Act 2004\.
+    (3A) In other respects, the Commissioner may delegate in accordance with [section 73][205] of the Crown Entities Act 2004\.
     
     (4) The Director of Proceedings may from time to time, with the prior approval of the Commissioner in each case, delegate to any person holding office under the Commissioner all or any of the functions and powers of the Director of Proceedings under this Act or any other Act.
     
@@ -1773,17 +1777,17 @@ Miscellaneous provisions
     
     (7) No delegation under subsection (5) shall be to the Director of Proceedings.
     
-    (8) [Sections 62 to 72][205] of the Crown Entities Act 2004 apply to a delegate under subsection (4) or (5) as if the delegate were a member and as if the disclosure must be made to the Commissioner and with other necessary modifications.
+    (8) [Sections 62 to 72][206] of the Crown Entities Act 2004 apply to a delegate under subsection (4) or (5) as if the delegate were a member and as if the disclosure must be made to the Commissioner and with other necessary modifications.
     
-    (9) [Sections 74 to 76][206] of the Crown Entities Act 2004 do not apply to a delegation under subsection (4) or (5).
+    (9) [Sections 74 to 76][207] of the Crown Entities Act 2004 do not apply to a delegation under subsection (4) or (5).
     
-    Compare: 1993 No 28 [s 121(1), (3)][207]
+    Compare: 1993 No 28 [s 121(1), (3)][208]
     
     Section 68(1): repealed, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 68(2): amended, on 1 July 2012, by [section 5(4)][130] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
     
-    Section 68(2): amended (with effect on 25 January 2005), on 20 September 2007, by[section 5 ][208]of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 68(2): amended (with effect on 25 January 2005), on 20 September 2007, by[section 5 ][209]of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 68(2): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -1817,25 +1821,25 @@ Miscellaneous provisions
     
     (6) No delegation under [section 68(4) or (5)][82] shall affect or prevent the exercise of any function or power by the Commissioner or, as the case requires, the Director of Proceedings or the Director of Advocacy, nor shall any such delegation affect the responsibility of the Commissioner for the actions of any person acting under the delegation.
     
-    Compare: 1993 No 28 [s 121(2), (4)--(8)][207]
+    Compare: 1993 No 28 [s 121(2), (4)--(8)][208]
     
-    Section 69(1): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][209] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 69(1): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][210] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 69(1): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 69(2): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 69(3): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][209] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 69(3): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][210] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 69(3): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 69(4): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][209] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 69(4): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][210] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 69(4): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
     Section 69(5): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 69(6): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][209] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 69(6): amended (with effect on 25 January 2005), on 20 September 2007, by [section 6][210] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 69(6): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1843,7 +1847,7 @@ Miscellaneous provisions
     
 *   Any person purporting to exercise any power of the Commissioner or, as the case requires, the Director of Proceedings or the Director of Advocacy by virtue of a delegation under [section 68(4) or (5)][82] shall, when required to do so, produce evidence of that person's authority to exercise the power.
     
-    Compare: 1993 No 28 [s 122][210]
+    Compare: 1993 No 28 [s 122][211]
     
     Section 70: amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1853,9 +1857,9 @@ Miscellaneous provisions
     
     (2) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the person by whom the delegation was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of the person by whom the delegation was made.
     
-    Compare: 1993 No 28 [s 123][211]
+    Compare: 1993 No 28 [s 123][212]
     
-    Section 71(1): amended (with effect on 25 January 2005), on 20 September 2007, by [section 7][212] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
+    Section 71(1): amended (with effect on 25 January 2005), on 20 September 2007, by [section 7][213] of the Health and Disability Commissioner Amendment Act 2007 (2007 No 62).
     
     Section 71(1): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1873,13 +1877,13 @@ Miscellaneous provisions
     
     (5) In any proceedings under this Act against any employing authority in respect of anything alleged to have been done or omitted by an employee of that employing authority, it shall be a defence for that employing authority to prove that he or she or it took such steps as were reasonably practicable to prevent the employee from doing or omitting to do that thing, or from doing or omitting to do as an employee of the employing authority things of that description.
     
-    Compare: 1993 No 82 [s 68][213]
+    Compare: 1993 No 82 [s 68][214]
 
 #### Offences
 
 ##### 73 Offences
     
-*   Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $3,000 who,---
+*   Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $3,000 who,---
         
     *   (a) without reasonable excuse, obstructs, hinders, or resists the Commissioner or any other person in the exercise of their powers under this Act:
     
@@ -1889,7 +1893,9 @@ Miscellaneous provisions
     
     *   (d) represents directly or indirectly that he or she holds any authority under this Act when he or she does not hold that authority.
     
-    Compare: 1975 No 9 [s 30][214]
+    Compare: 1975 No 9 [s 30][215]
+    
+    Section 73: amended, on 1 July 2013, by [section 413][186] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Regulations
 
@@ -1955,15 +1961,15 @@ Miscellaneous provisions
 
 ##### 80 Amendments to Health Reforms (Transitional Provisions) Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][215]_.
+*   _Amendment(s) incorporated in the [Act(s)][216]_.
 
 ##### 81 Amendments to Privacy Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][216]_.
+*   _Amendment(s) incorporated in the [Act(s)][217]_.
 
 ##### 82 Amendment to Human Rights Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][217]_.
+*   _Amendment(s) incorporated in the [Act(s)][218]_.
 
 ---
 
@@ -1972,7 +1978,7 @@ Former health registration enactments
 
 [s 2][3]
 
-*   Schedule 1 heading: amended, on 18 September 2004, by [section 20][218] of the Health and Disability Commissioner Amendment Act 2003 (2003 No 49).
+*   Schedule 1 heading: amended, on 18 September 2004, by [section 20][219] of the Health and Disability Commissioner Amendment Act 2003 (2003 No 49).
 
 Chiropractors Act 1982
 
@@ -2025,19 +2031,19 @@ Provisions applying in respect of Commissioner
 
 ##### 4 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing superannuation or retiring allowances for the Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][219].
+*   (1) For the purpose of providing superannuation or retiring allowances for the Commissioner, the Commissioner may, out of the funds of the Commissioner, make payments to or subsidise any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][220].
     
-    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Commissioner or, as the case may be, becoming an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][220] or [Part 2A][221] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][222], employed in the Government service so long as that person continues to hold office as the Commissioner or, as the case may be, to be an employee of the Commissioner; and that Act shall apply to that person in all respects as if that person's service as the Commissioner or, as the case may be, as such an employee were Government service.
+    (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the Commissioner or, as the case may be, becoming an employee of the Commissioner, is a contributor to the Government Superannuation Fund under [Part 2][221] or [Part 2A][222] of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the [Government Superannuation Fund Act 1956][223], employed in the Government service so long as that person continues to hold office as the Commissioner or, as the case may be, to be an employee of the Commissioner; and that Act shall apply to that person in all respects as if that person's service as the Commissioner or, as the case may be, as such an employee were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][222], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][223], nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][222], in accordance with subclause (2), to a person who holds office as the Commissioner or, as the case may be, is in the service of the Commissioner as an employee and (in either case) is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
+    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][223], in accordance with subclause (2), to a person who holds office as the Commissioner or, as the case may be, is in the service of the Commissioner as an employee and (in either case) is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to any such person, means the Commissioner.
     
     (5) For the purposes of this clause, _Commissioner_ includes any Deputy Commissioner or the Mental Health Commissioner.
     
     Schedule 2 clause 4(1): amended, on 25 January 2005, by [section 200][117] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 2 clause 4(5): added, on 18 September 2004, by [section 21(2)][223] of the Health and Disability Commissioner Amendment Act 2003 (2003 No 49).
+    Schedule 2 clause 4(5): added, on 18 September 2004, by [section 21(2)][224] of the Health and Disability Commissioner Amendment Act 2003 (2003 No 49).
     
     Schedule 2 clause 4(5): amended, on 1 July 2012, by [section 5(5)][130] of the Mental Health Commission Amendment Act 2012 (2012 No 42).
 
@@ -2103,7 +2109,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Mental Health Commission Amendment Act 2012][224].
+*   This Act is the [Mental Health Commission Amendment Act 2012][225].
 
 ##### 2 Commencement
     
@@ -2135,23 +2141,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Health and Disability Commissioner Act 1994\. It incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Health and Disability Commissioner Act 1994\. It incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][225] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][226] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][226] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][227] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][227] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][228] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][228] and [17E][229] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][229] and [17E][230] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2184,11 +2190,13 @@ Commencementsee section 2
     
 *   Mental Health Commission Amendment Act 2012 (2012 No 42): [section 5][130]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][186]
+    
     Accident Compensation Amendment Act 2010 (2010 No 1): [section 5(1)(b)][146]
     
     Human Tissue Act 2008 (2008 No 28): [section 90][120]
     
-    [Health and Disability Commissioner Amendment Act 2007][230] (2007 No 62)
+    [Health and Disability Commissioner Amendment Act 2007][231] (2007 No 62)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][174]
     
@@ -2196,7 +2204,7 @@ Commencementsee section 2
     
     Children's Commissioner Act 2003 (2003 No 121): [section 37][135]
     
-    [Health and Disability Commissioner Amendment Act 2003][231] (2003 No 49)
+    [Health and Disability Commissioner Amendment Act 2003][232] (2003 No 49)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][116]
     
@@ -2402,51 +2410,52 @@ Commencementsee section 2
 [181]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305710
 [182]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM297903
 [183]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM431134
-[184]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM310742
+[184]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM3359902
 [185]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM207417
-[186]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328793
-[187]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM297904
-[188]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM64784
-[189]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM129109
-[190]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305468
-[191]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM65368
-[192]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305470
-[193]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330372
-[194]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330503
-[195]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328526
-[196]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328528
-[197]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328753
-[198]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328755
-[199]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328758
-[200]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM281290
-[201]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305472
-[202]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330504
-[203]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305492
-[204]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330308
-[205]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM329995
-[206]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330309
-[207]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298425
-[208]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968331
-[209]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968332
-[210]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298427
-[211]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298429
-[212]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968333
-[213]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM304661
-[214]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM431194
-[215]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM295163
-[216]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM297449
-[217]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305707
-[218]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM207420
-[219]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM143291
-[220]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446395
-[221]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446842
-[222]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446000
-[223]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM207421
-[224]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM4484302
-[225]: http://www.pco.parliament.govt.nz/reprints/
-[226]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195439
-[227]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[228]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195468
-[229]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195470
-[230]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968325
-[231]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM206862
+[186]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM3360714
+[187]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328793
+[188]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM297904
+[189]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM64784
+[190]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM129109
+[191]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305468
+[192]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM65368
+[193]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305470
+[194]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330372
+[195]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330503
+[196]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328526
+[197]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328528
+[198]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328753
+[199]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328755
+[200]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM328758
+[201]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM281290
+[202]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305472
+[203]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330504
+[204]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305492
+[205]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330308
+[206]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM329995
+[207]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM330309
+[208]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298425
+[209]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968331
+[210]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968332
+[211]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298427
+[212]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM298429
+[213]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968333
+[214]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM304661
+[215]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM431194
+[216]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM295163
+[217]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM297449
+[218]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM305707
+[219]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM207420
+[220]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM143291
+[221]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446395
+[222]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446842
+[223]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM446000
+[224]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM207421
+[225]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM4484302
+[226]: http://www.pco.parliament.govt.nz/reprints/
+[227]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195439
+[228]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[229]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195468
+[230]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM195470
+[231]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM968325
+[232]: http://www.legislation.govt.nz/act/public/1994/0088/latest/link.aspx?id=DLM206862
