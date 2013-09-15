@@ -1,5 +1,5 @@
 Reprint  
-as at 25 March 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Civil Defence and Emergency Management.
 
@@ -23,310 +23,310 @@ This Act is administered by the Ministry of Civil Defence and Emergency Manageme
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act to bind the Crown][6]
+[5][6][][6][Act to bind the Crown][6]
 
-[6][7] [Act not to affect functions, duties, and powers under other Acts or general law][7]
+[6][7][][7][Act not to affect functions, duties, and powers under other Acts or general law][7]
 
-[7][8] [Precautionary approach][8]
+[7][8][][8][Precautionary approach][8]
 
 [Part 2][9]  
 [Appointment, functions, and powers of persons involved in civil defence emergency management][9]
 
 [Director of Civil Defence Emergency Management][10]
 
-[8][11] [Appointment and functions of Director of Civil Defence Emergency Management][11]
+[8][11][][11][Appointment and functions of Director of Civil Defence Emergency Management][11]
 
-[9][12] [Powers of Director][12]
+[9][12][][12][Powers of Director][12]
 
 [National Controller][13]
 
-[10][14] [Delegation of certain functions and powers of Director to National Controller][14]
+[10][14][][14][Delegation of certain functions and powers of Director to National Controller][14]
 
-[11][15] [Further provisions relating to delegation to National Controller][15]
+[11][15][][15][Further provisions relating to delegation to National Controller][15]
 
 [Civil Defence Emergency Management Groups][16]
 
-[12][17] [Local authorities to establish Civil Defence Emergency Management Groups][17]
+[12][17][][17][Local authorities to establish Civil Defence Emergency Management Groups][17]
 
-[13][18] [Membership of Civil Defence Emergency Management Groups][18]
+[13][18][][18][Membership of Civil Defence Emergency Management Groups][18]
 
-[14][19] [Membership rules for territorial authorities][19]
+[14][19][][19][Membership rules for territorial authorities][19]
 
-[15][20] [Appointment of chairperson][20]
+[15][20][][20][Appointment of chairperson][20]
 
-[16][21] [Powers and obligations of members of Civil Defence Emergency Management Groups][21]
+[16][21][][21][Powers and obligations of members of Civil Defence Emergency Management Groups][21]
 
-[17][22] [Functions of Civil Defence Emergency Management Groups][22]
+[17][22][][22][Functions of Civil Defence Emergency Management Groups][22]
 
-[18][23] [General powers of Civil Defence Emergency Management Groups][23]
+[18][23][][23][General powers of Civil Defence Emergency Management Groups][23]
 
-[19][24] [Civil Defence Emergency Management Groups to follow model standing orders][24]
+[19][24][][24][Civil Defence Emergency Management Groups to follow model standing orders][24]
 
-[20][25] [Appointment and functions of Civil Defence Emergency Management Co-ordinating Executive Groups][25]
+[20][25][][25][Appointment and functions of Civil Defence Emergency Management Co-ordinating Executive Groups][25]
 
-[21][26] [Mergers of Civil Defence Emergency Management Groups][26]
+[21][26][][26][Mergers of Civil Defence Emergency Management Groups][26]
 
-[22][27] [Membership rules in event of local government reorganisations][27]
+[22][27][][27][Membership rules in event of local government reorganisations][27]
 
-[23][28] [Establishment of administering authorities][28]
+[23][28][][28][Establishment of administering authorities][28]
 
-[24][29] [Functions and costs of administering authorities and chief executives of administering authorities][29]
+[24][29][][29][Functions and costs of administering authorities and chief executives of administering authorities][29]
 
 [Appointment of persons who may declare state of local emergency][30]
 
-[25][31] [Appointment of persons who may declare state of local emergency][31]
+[25][31][][31][Appointment of persons who may declare state of local emergency][31]
 
 [Group Controllers][32]
 
-[26][33] [Appointment of Group Controllers][33]
+[26][33][][33][Appointment of Group Controllers][33]
 
-[27][34] [Appointment of Local Controller][34]
+[27][34][][34][Appointment of Local Controller][34]
 
-[28][35] [Functions of Group Controllers][35]
+[28][35][][35][Functions of Group Controllers][35]
 
 [Recovery Co-ordinator][36]
 
-[29][37] [Appointment and functions of Recovery Co-ordinator][37]
+[29][37][][37][Appointment and functions of Recovery Co-ordinator][37]
 
-[30][38] [Powers of Recovery Co-ordinator][38]
+[30][38][][38][Powers of Recovery Co-ordinator][38]
 
 [Part 3][39]  
 [Civil defence emergency management planning and civil defence emergency management duties][39]
 
 [National civil defence emergency management strategy][40]
 
-[31][41] [National civil defence emergency management strategy][41]
+[31][41][][41][National civil defence emergency management strategy][41]
 
-[32][42] [Procedure for completing national civil defence emergency management strategy][42]
+[32][42][][42][Procedure for completing national civil defence emergency management strategy][42]
 
-[33][43] [Timing of first national civil defence emergency management strategy][43]
+[33][43][][43][Timing of first national civil defence emergency management strategy][43]
 
-[34][44] [Currency of national civil defence emergency management strategy][44]
+[34][44][][44][Currency of national civil defence emergency management strategy][44]
 
-[35][45] [House of Representatives may resolve not to approve civil defence emergency management strategy][45]
+[35][45][][45][House of Representatives may resolve not to approve civil defence emergency management strategy][45]
 
-[36][46] [Amendment or revocation of national civil defence emergency management strategy][46]
+[36][46][][46][Amendment or revocation of national civil defence emergency management strategy][46]
 
-[37][47] [Groups and Director must not act inconsistently with national civil defence emergency management strategy][47]
+[37][47][][47][Groups and Director must not act inconsistently with national civil defence emergency management strategy][47]
 
 [Matters relevant to development of civil defence emergency management plans][48]
 
-[38][49] [Matters relevant to development of civil defence emergency management plans][49]
+[38][49][][49][Matters relevant to development of civil defence emergency management plans][49]
 
 [National civil defence emergency management plan][50]
 
-[39][51] [National civil defence emergency management plan][51]
+[39][51][][51][National civil defence emergency management plan][51]
 
-[40][52] [Incorporation by reference][52]
+[40][52][][52][Incorporation by reference][52]
 
-[41][53] [Notification of proposed national civil defence emergency management plan][53]
+[41][53][][53][Notification of proposed national civil defence emergency management plan][53]
 
-[42][54] [National civil defence emergency management plan must not be inconsistent with national civil defence emergency management strategy][54]
+[42][54][][54][National civil defence emergency management plan must not be inconsistent with national civil defence emergency management strategy][54]
 
-[43][55] [Copy of order to be presented to House of Representatives][55]
+[43][55][][55][Copy of order to be presented to House of Representatives][55]
 
-[44][56] [First national civil defence emergency management plan][56]
+[44][56][][56][First national civil defence emergency management plan][56]
 
-[45][57] [Currency of national civil defence emergency management plan][57]
+[45][57][][57][Currency of national civil defence emergency management plan][57]
 
 [Review and amendment of national civil defence emergency management plan][58]
 
-[46][59] [Review of national civil defence emergency management plan][59]
+[46][59][][59][Review of national civil defence emergency management plan][59]
 
-[47][60] [Minor changes to plan][60]
+[47][60][][60][Minor changes to plan][60]
 
 [Civil defence emergency management group plans][61]
 
-[48][62] [Civil defence emergency management group plans][62]
+[48][62][][62][Civil defence emergency management group plans][62]
 
-[49][63] [Proposed plan to be sent to Minister][63]
+[49][63][][63][Proposed plan to be sent to Minister][63]
 
-[50][64] [Timing of first issue of guidelines under section 49(3)][64]
+[50][64][][64][Timing of first issue of guidelines under section 49(3)][64]
 
-[51][65] [Incorporation by reference][65]
+[51][65][][65][Incorporation by reference][65]
 
-[52][66] [Procedure for making civil defence emergency management group plans][66]
+[52][66][][66][Procedure for making civil defence emergency management group plans][66]
 
-[53][67] [Civil defence emergency management group plan must not be inconsistent with national civil defence emergency management strategy and must take account of Director's guidelines, codes, or technical standards][67]
+[53][67][][67][Civil defence emergency management group plan must not be inconsistent with national civil defence emergency management strategy and must take account of Director's guidelines, codes, or technical standards][67]
 
-[54][68] [Timing of first civil defence emergency management group plan][68]
+[54][68][][68][Timing of first civil defence emergency management group plan][68]
 
-[55][69] [Currency of civil defence emergency management group plan][69]
+[55][69][][69][Currency of civil defence emergency management group plan][69]
 
 [Review and amendment of civil defence emergency management group plans][70]
 
-[56][71] [Review of civil defence emergency management group plans][71]
+[56][71][][71][Review of civil defence emergency management group plans][71]
 
-[57][72] [Minor changes to plan][72]
+[57][72][][72][Minor changes to plan][72]
 
 [General duties of government departments and others][73]
 
-[58][74] [Departments to prepare plans to continue functioning during and after emergency][74]
+[58][74][][74][Departments to prepare plans to continue functioning during and after emergency][74]
 
-[59][75] [Departments and others to undertake civil defence emergency management functions and responsibilities][75]
+[59][75][][75][Departments and others to undertake civil defence emergency management functions and responsibilities][75]
 
 [Duties of lifeline utilities][76]
 
-[60][77] [Duties of lifeline utilities][77]
+[60][77][][77][Duties of lifeline utilities][77]
 
-[61][78] [Schedule 1 may be amended by Order in Council][78]
+[61][78][][78][Schedule 1 may be amended by Order in Council][78]
 
-[62][79] [Minister may exempt lifeline utility][79]
+[62][79][][79][Minister may exempt lifeline utility][79]
 
 [Duties of emergency services][80]
 
-[63][81] [Duties of emergency services][81]
+[63][81][][81][Duties of emergency services][81]
 
 [Duties of local authorities][82]
 
-[64][83] [Duties of local authorities][83]
+[64][83][][83][Duties of local authorities][83]
 
 [General duty to consider alternatives, etc][84]
 
-[65][85] [Duties to consider alternatives, assess benefits and costs, etc][85]
+[65][85][][85][Duties to consider alternatives, assess benefits and costs, etc][85]
 
 [Part 4][86]  
 [Declaration of state of emergency][86]
 
 [Declaration of state of national emergency][87]
 
-[66][88] [Minister may declare state of national emergency][88]
+[66][88][][88][Minister may declare state of national emergency][88]
 
-[67][89] [Parliament must meet if state of national emergency declared][89]
+[67][89][][89][Parliament must meet if state of national emergency declared][89]
 
 [Declaration of state of local emergency][90]
 
-[68][91] [Declaration of state of local emergency][91]
+[68][91][][91][Declaration of state of local emergency][91]
 
-[69][92] [Minister may declare state of local emergency in certain cases][92]
+[69][92][][92][Minister may declare state of local emergency in certain cases][92]
 
 [General provisions applying to declaration of state of national emergency or state of local emergency][93]
 
-[70][94] [Commencement and duration of state of emergency][94]
+[70][94][][94][Commencement and duration of state of emergency][94]
 
-[71][95] [Extension of duration of state of emergency][95]
+[71][95][][95][Extension of duration of state of emergency][95]
 
-[72][96] [Termination of state of emergency][96]
+[72][96][][96][Termination of state of emergency][96]
 
-[73][97] [Form and publication of declaration of state of emergency and declaration extending or terminating state of emergency][97]
+[73][97][][97][Form and publication of declaration of state of emergency and declaration extending or terminating state of emergency][97]
 
 [Part 5][98]  
 [Powers in relation to civil defence emergency management][98]
 
-[74][99] [Statements by Director][99]
+[74][99][][99][Statements by Director][99]
 
-[75][100] [Power of Director to act on default by others][100]
+[75][100][][100][Power of Director to act on default by others][100]
 
-[76][101] [Power to require information][101]
+[76][101][][101][Power to require information][101]
 
-[77][102] [Appeal against requirement to give information][102]
+[77][102][][102][Appeal against requirement to give information][102]
 
-[78][103] [Power of entry to obtain information in urgent cases][103]
+[78][103][][103][Power of entry to obtain information in urgent cases][103]
 
-[79][104] [Form and content of warrant][104]
+[79][104][][104][Form and content of warrant][104]
 
-[80][105] [Powers conferred by warrant][105]
+[80][105][][105][Powers conferred by warrant][105]
 
-[81][106] [Disposal of information][106]
+[81][106][][106][Disposal of information][106]
 
-[82][107] [Certain information not to be disclosed or seized][107]
+[82][107][][107][Certain information not to be disclosed or seized][107]
 
-[83][108] [Restriction on disclosure of information][108]
+[83][108][][108][Restriction on disclosure of information][108]
 
-[84][109] [Minister's power of direction][109]
+[84][109][][109][Minister's power of direction][109]
 
-[85][110] [Emergency powers of Civil Defence Emergency Management Groups][110]
+[85][110][][110][Emergency powers of Civil Defence Emergency Management Groups][110]
 
-[86][111] [Evacuation of premises and places][111]
+[86][111][][111][Evacuation of premises and places][111]
 
-[87][112] [Entry on premises][112]
+[87][112][][112][Entry on premises][112]
 
-[88][113] [Closing roads and public places][113]
+[88][113][][113][Closing roads and public places][113]
 
-[89][114] [Removal of aircraft, vessels, vehicles, etc][114]
+[89][114][][114][Removal of aircraft, vessels, vehicles, etc][114]
 
-[90][115] [Requisitioning powers][115]
+[90][115][][115][Requisitioning powers][115]
 
-[91][116] [Power to give directions][116]
+[91][116][][116][Power to give directions][116]
 
-[92][117] [Power to carry out inspections, etc][117]
+[92][117][][117][Power to carry out inspections, etc][117]
 
-[93][118] [Person exercising emergency powers to provide proof of identity][118]
+[93][118][][118][Person exercising emergency powers to provide proof of identity][118]
 
-[94][119] [Contracts in urgent cases][119]
+[94][119][][119][Contracts in urgent cases][119]
 
 [Part 6][120]  
 [Offences, penalties, and proceedings][120]
 
-[95][121] [Failure to comply with requirement in civil defence emergency management plan][121]
+[95][121][][121][Failure to comply with requirement in civil defence emergency management plan][121]
 
-[96][122] [Withholding information or giving false or misleading information][122]
+[96][122][][122][Withholding information or giving false or misleading information][122]
 
-[97][123] [Disclosing information][123]
+[97][123][][123][Disclosing information][123]
 
-[98][124] [Obstruction][124]
+[98][124][][124][Obstruction][124]
 
-[99][125] [Failure to comply with direction to evacuate premises or place][125]
+[99][125][][125][Failure to comply with direction to evacuate premises or place][125]
 
-[100][126] [Failure to comply with prohibition or restriction on access to road or public place][126]
+[100][126][][126][Failure to comply with prohibition or restriction on access to road or public place][126]
 
-[101][127] [Offences in relation to requisitioning][127]
+[101][127][][127][Offences in relation to requisitioning][127]
 
-[102][128] [Failure to comply with direction][128]
+[102][128][][128][Failure to comply with direction][128]
 
-[103][129] [Personation][129]
+[103][129][][129][Personation][129]
 
-[104][130] [Penalty for offences][130]
+[104][130][][130][Penalty for offences][130]
 
 [Part 7][131]  
 [Miscellaneous provisions][131]
 
-[105][132] [Delegation of powers of Director][132]
+[105][132][][132][Delegation of powers of Director][132]
 
-[106][133] [Acting Director][133]
+[106][133][][133][Acting Director][133]
 
-[107][134] [Compensation if property requisitioned][134]
+[107][134][][134][Compensation if property requisitioned][134]
 
-[108][135] [Compensation for loss or damage to personal property][135]
+[108][135][][135][Compensation for loss or damage to personal property][135]
 
-[109][136] [Compensation for other matters][136]
+[109][136][][136][Compensation for other matters][136]
 
-[110][137] [Protection from liability][137]
+[110][137][][137][Protection from liability][137]
 
-[111][138] [Restricted application of Resource Management Act 1991][138]
+[111][138][][138][Restricted application of Resource Management Act 1991][138]
 
-[112][139] [Absence on duty not to affect employment rights][139]
+[112][139][][139][Absence on duty not to affect employment rights][139]
 
-[113][140] [Recovery of costs by Civil Defence Emergency Management Groups][140]
+[113][140][][140][Recovery of costs by Civil Defence Emergency Management Groups][140]
 
-[114][141] [Service of documents][141]
+[114][141][][141][Service of documents][141]
 
-[115][142] [Regulations][142]
+[115][142][][142][Regulations][142]
 
-[116][143] [Repeal of Civil Defence Act 1983][143]
+[116][143][][143][Repeal of Civil Defence Act 1983][143]
 
-[117][144] [Amendments to other Acts][144]
+[117][144][][144][Amendments to other Acts][144]
 
 [Transitional provisions][145]
 
-[118][146] [Civil defence plans to continue][146]
+[118][146][][146][Civil defence plans to continue][146]
 
-[119][147] [Provisions of Civil Defence Act 1983 that continue][147]
+[119][147][][147][Provisions of Civil Defence Act 1983 that continue][147]
 
-[120][148] [Amendments to references in documents to civil defence personnel and entities][148]
+[120][148][][148][Amendments to references in documents to civil defence personnel and entities][148]
 
-[121][149] [Proceedings not affected][149]
+[121][149][][149][Proceedings not affected][149]
 
 [Schedule 1][150]  
 [Lifeline utilities][150]
@@ -1109,27 +1109,43 @@ Civil defence emergency management planning and civil defence emergency manageme
     
     (3) The national civil defence emergency management plan may authorise a person to exercise the power in [section 88][113].
     
-    (4) A national civil defence emergency management plan made under this section is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][177], but is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][178].
+    (4) A national civil defence emergency management plan made under this section is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][177] and must be presented to the House of Representatives under [section 41][178] of that Act.
+    
+    Section 39(4): replaced, on 5 August 2013, by [section 77(3)][179] of the Legislation Act 2012 (2012 No 119).
 
 ##### 40 Incorporation by reference
     
-*   (1) Any written material or document that, in the opinion of the Minister, is too large or otherwise impractical to be printed as part of a national civil defence emergency management plan may be incorporated by reference.
+*   (1) This section applies if [section 49][180] of the Legislation Act 2012 is relied on to incorporate material by reference in a national civil defence emergency plan.
     
-    (2) Any material incorporated by reference under this section is to be treated for all purposes as forming part of the plan.
-    
-    (3) If any amendment to the material incorporated by reference under this section is made, the amendment does not come into force as part of the plan until---
+    (2) When this section applies, [subpart 2][181] of Part 3 of the Legislation Act 2012 applies with the following modifications:
         
-    *   (a) an amendment to that effect to the plan has been made under this Act; or
+    *   (a) [section 51][182] does not apply:
     
-    *   (b) a date specified by the Minister by notice in the _Gazette_.
+    *   (b) [section 52][183] must be read as if---
+            
+        *   (i) references to the chief executive were references to the Director; and
+        
+        *   (ii) references to the inspection sites were references to the office of the Director:
+        
+        
     
-    (4) All material incorporated by reference under this section must be available at the office of the Director and copies of that material must be available for purchase for a reasonable charge.
+    *   (c) [section 54][184] must be read as if references to the chief executive were references to the Director:
+    
+    *   (d) [section 56][185] does not apply.
+    
+    Section 40: replaced, on 5 August 2013, by [section 77(3)][179] of the Legislation Act 2012 (2012 No 119).
 
 ##### 41 Notification of proposed national civil defence emergency management plan
     
 *   (1) The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan unless the Minister---
         
-    *   (a) has publicly notified the proposed plan by---
+    *   (a) has made copies of the proposed plan available for inspection at the office of the Director, free of charge, for a reasonable period; and
+    
+    *   (b) has stated where copies of the proposed plan are available for purchase; and
+    
+    *   (c) has made copies of the proposed plan available, free of charge, on an Internet site maintained by or on behalf of the Director, except any part of the proposed plan where making it available in this manner would infringe copyright; and
+    
+    *   (d) has publicly notified the proposed plan by---
             
         *   (i) publishing a notice in the _Gazette_; and
         
@@ -1139,7 +1155,7 @@ Civil defence emergency management planning and civil defence emergency manageme
         
         
     
-    *   (b) has presented the proposed plan to the House of Representatives at least 90 days before making the recommendation.
+    *   (e) has presented the proposed plan to the House of Representatives at least 90 days before making the recommendation.
     
     (2) Every notice under this section must include---
         
@@ -1147,7 +1163,7 @@ Civil defence emergency management planning and civil defence emergency manageme
     
     *   (b) a statement that submissions on the proposed plan may be made in writing to the Minister by any person:
     
-    *   (c) a closing date for submissions (which must not be earlier than 40 working days after notification under this section):
+    *   (c) a closing date for submissions (which must not be earlier than 40 working days after the notification under this section):
     
     *   (d) a statement that every submission should state---
             
@@ -1161,11 +1177,17 @@ Civil defence emergency management planning and civil defence emergency manageme
         
         
     
-    *   (e) a list of the places where a copy of the proposal for the plan may be obtained or inspected:
+    *   (e) a list of places where a copy of the proposed plan may be purchased or inspected:
     
     *   (f) an address for submissions.
     
+    (3) The Minister may comply with subsection (1)(c) by providing a hypertext link from an Internet site maintained by or on behalf of the responsible department to a copy of the proposed plan that is available, free of charge, on an Internet site that is maintained by or on behalf of someone else.
     
+    (4) For the purposes of subsection (1)(c), the Minister may not rely on [section 66][186] of the Copyright Act 1994 as authority to make available on an Internet site any material that is proposed to be incorporated by reference.
+    
+    (5) In this section, _proposed plan_ includes material incorporated by reference in the plan under [section 40][52], together with a translation in an official New Zealand language, where that material is not in an official New Zealand language.
+    
+    Section 41: replaced, on 5 August 2013, by [section 77(3)][179] of the Legislation Act 2012 (2012 No 119).
 
 ##### 42 National civil defence emergency management plan must not be inconsistent with national civil defence emergency management strategy
     
@@ -1494,7 +1516,7 @@ Declaration of state of emergency
             
         *   (i) a day not later than 7 days after the date of the making of the declaration of a state of national emergency; or
         
-        *   (ii) if the declaration is made after the date on which Parliament has been dissolved or has expired and before the latest day appointed under the [Electoral Act 1993][179] for the return of the writ for the election of members of Parliament, a day not later than 7 days after the latest day appointed for the return of the writ; and
+        *   (ii) if the declaration is made after the date on which Parliament has been dissolved or has expired and before the latest day appointed under the [Electoral Act 1993][187] for the return of the writ for the election of members of Parliament, a day not later than 7 days after the latest day appointed for the return of the writ; and
         
         
     
@@ -1530,7 +1552,7 @@ Declaration of state of emergency
     
     Compare: 1983 No 46 ss 51, 52
     
-    Section 68(2A): inserted, on 25 March 2012, by [section 5][180] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Section 68(2A): inserted, on 25 March 2012, by [section 5][188] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
 ##### 69 Minister may declare state of local emergency in certain cases
     
@@ -1544,7 +1566,7 @@ Declaration of state of emergency
     
     (2) Nothing in this section authorises the Minister to declare a state of local emergency for any part of New Zealand while a state of national emergency is in force in respect of that part.
     
-    Section 69(1A): inserted, on 25 March 2012, by [section 6][181] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Section 69(1A): inserted, on 25 March 2012, by [section 6][189] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
 #### General provisions applying to declaration of state of national emergency or state of local emergency
 
@@ -1562,7 +1584,7 @@ Declaration of state of emergency
     
     *   (b) the termination of a state of emergency under [section 72][96].
     
-    (5) For the purposes of this section, **7 days after the time and date on which the state of emergency comes into force** means immediately after a period that---
+    (5) For the purposes of this section, _7 days after the time and date on which the state of emergency comes into force_ means immediately after a period that---
         
     *   (a) begins immediately after the time of the day on which the state of emergency comes into force; and
     
@@ -1572,7 +1594,7 @@ Declaration of state of emergency
     
     If a state of emergency came into force at 9.35 am on 1 January, it would expire at 9.35 am on 8 January. If the state of emergency came into force at 9.35 am on a Friday, it would expire at 9.35 am on the following Friday.
     
-    Section 70: replaced, on 25 March 2012, by [section 7][182] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Section 70: replaced, on 25 March 2012, by [section 7][190] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
 ##### 71 Extension of duration of state of emergency
     
@@ -1594,13 +1616,13 @@ Declaration of state of emergency
     
     *   (b) the termination of a state of emergency under [section 72][96].
     
-    (6) For the purposes of this section, **7 days after the time and date on which the extension of the state of emergency comes into force** means a period that---
+    (6) For the purposes of this section, _7 days after the time and date on which the extension of the state of emergency comes into force_ means a period that---
         
     *   (a) begins immediately after the time of the day on which the extension comes into force; and
     
     *   (b) ends immediately before the same time of the day on the date that is 7 days after the day on which the extension comes into force.
     
-    Section 71: replaced, on 25 March 2012, by [section 8][183] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Section 71: replaced, on 25 March 2012, by [section 8][191] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
 ##### 72 Termination of state of emergency
     
@@ -1614,7 +1636,7 @@ Declaration of state of emergency
     
     Compare: 1983 No 46 s 56
     
-    Section 72(2): replaced, on 25 March 2012, by [section 9][184] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Section 72(2): replaced, on 25 March 2012, by [section 9][192] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
 ##### 73 Form and publication of declaration of state of emergency and declaration extending or terminating state of emergency
     
@@ -1651,9 +1673,9 @@ Powers in relation to civil defence emergency management
     
     (7) Nothing in this section limits the powers of the Minister under [section 29][37].
     
-    Compare: 1956 No 65 [s 123][185]
+    Compare: 1956 No 65 [s 123][193]
     
-    Section 75(6): amended, on 25 January 2005, pursuant to [section 65R(3)][186] of the Public Finance Act 1989 (1989 No 44).
+    Section 75(6): amended, on 25 January 2005, pursuant to [section 65R(3)][194] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 76 Power to require information
     
@@ -1701,7 +1723,7 @@ Powers in relation to civil defence emergency management
     
     *   (b) whether or not appeal proceedings or the prosecution of an offence in respect of that requirement have been completed.
     
-    Section 78(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 78(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 79 Form and content of warrant
     
@@ -1715,7 +1737,7 @@ Powers in relation to civil defence emergency management
     
     *   (d) be subject to any special conditions that the District Court Judge may state in the warrant.
     
-    Section 79(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 79(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 80 Powers conferred by warrant
     
@@ -1737,9 +1759,9 @@ Powers in relation to civil defence emergency management
     
     (2) Every person called on to assist any constable executing a warrant issued under [section 78][103] has the powers described in paragraphs (c) and (d) of subsection (1).
     
-    Section 80(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 80(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
     
-    Section 80(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 80(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 81 Disposal of information
     
@@ -1751,9 +1773,9 @@ Powers in relation to civil defence emergency management
     
     (2) Any person to whom a constable gives any information or document under subsection (1)(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
     
-    Section 81(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 81(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
     
-    Section 81(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 81(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 82 Certain information not to be disclosed or seized
     
@@ -1835,7 +1857,7 @@ Powers in relation to civil defence emergency management
     
     Compare: 1983 No 46 s 60(1)
     
-    Section 86: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 86: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 87 Entry on premises
     
@@ -1847,7 +1869,7 @@ Powers in relation to civil defence emergency management
     
     Compare: 1983 No 46 s 61
     
-    Section 87: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 87: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 88 Closing roads and public places
     
@@ -1855,7 +1877,7 @@ Powers in relation to civil defence emergency management
     
     Compare: 1983 No 46 s 62(1)
     
-    Section 88: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 88: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 89 Removal of aircraft, vessels, vehicles, etc
     
@@ -1867,7 +1889,7 @@ Powers in relation to civil defence emergency management
     
     Compare: 1983 No 46 s 63
     
-    Section 89: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 89: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 90 Requisitioning powers
     
@@ -1889,13 +1911,13 @@ Powers in relation to civil defence emergency management
     
     Compare: 1983 No 46 s 64(1)--(4)
     
-    Section 90(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 90(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
     
-    Section 90(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 90(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
     
-    Section 90(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 90(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
     
-    Section 90(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 90(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 91 Power to give directions
     
@@ -1905,15 +1927,15 @@ Powers in relation to civil defence emergency management
     
     *   (b) request any person, either verbally or in writing, to take any action to prevent or limit the extent of the emergency.
     
-    Compare: 1996 No 30 [s 137(1)(d), (e)][188]
+    Compare: 1996 No 30 [s 137(1)(d), (e)][196]
     
-    Section 91: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 91: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 92 Power to carry out inspections, etc
     
 *   While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may examine, mark, seize, sample, secure, disinfect, or destroy any property, animal, or any other thing in order to prevent or limit the extent of the emergency.
     
-    Section 92: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 92: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 93 Person exercising emergency powers to provide proof of identity
     
@@ -1927,7 +1949,7 @@ Powers in relation to civil defence emergency management
 
 ##### 94 Contracts in urgent cases
     
-*   (1) Despite anything in the [Public Bodies Contracts Act 1959][189], the following persons may, during a state of emergency, enter into any contract on behalf of a Civil Defence Emergency Management Group for any of the purposes of this Act:
+*   (1) Despite anything in the [Public Bodies Contracts Act 1959][197], the following persons may, during a state of emergency, enter into any contract on behalf of a Civil Defence Emergency Management Group for any of the purposes of this Act:
         
     *   (a) the chairperson of the Group:
     
@@ -1976,7 +1998,7 @@ Offences, penalties, and proceedings
     
     Compare: 1983 No 46 s 60(2), (3)
     
-    Section 99(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 99(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 100 Failure to comply with prohibition or restriction on access to road or public place
     
@@ -1998,7 +2020,7 @@ Offences, penalties, and proceedings
     
     Compare: 1983 No 46 s 64(5), (6)
     
-    Section 101(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 101(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 102 Failure to comply with direction
     
@@ -2012,13 +2034,15 @@ Offences, penalties, and proceedings
 
 ##### 104 Penalty for offences
     
-*   A person who commits an offence against this Act is liable on summary conviction,---
+*   A person who commits an offence against this Act is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or both:
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
     Compare: 1983 No 46 s 78
+    
+    Section 104: amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 7  
 Miscellaneous provisions
@@ -2049,7 +2073,7 @@ Miscellaneous provisions
     
     (3) No direction or appointment under this section, and no acts done by a person acting under the direction or appointment, may in proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the person has not been appointed to the position of Director.
     
-    (4) If a person appointed under this section is an employee within the meaning of that term in the [State Sector Act 1988][159], nothing in [section 62][190] of that Act applies.
+    (4) If a person appointed under this section is an employee within the meaning of that term in the [State Sector Act 1988][159], nothing in [section 62][199] of that Act applies.
     
     (5) Except as provided in subsection (4), this section does not limit or affect the application of the [State Sector Act 1988][159].
 
@@ -2077,7 +2101,7 @@ Miscellaneous provisions
     
     Compare: 1983 No 46 s 65
     
-    Section 107(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 107(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 108 Compensation for loss or damage to personal property
     
@@ -2113,7 +2137,7 @@ Miscellaneous provisions
     
     (7) A payment of compensation by the Crown under this section must be made out of public money appropriated by Parliament for the purpose.
     
-    (8) Despite anything to the contrary in the [Social Security Act 1964][191], nothing in this section may be construed as to in any way limit or affect the entitlement of any person to any benefit under that Act.
+    (8) Despite anything to the contrary in the [Social Security Act 1964][200], nothing in this section may be construed as to in any way limit or affect the entitlement of any person to any benefit under that Act.
     
     Compare: 1983 No 46 s 75
 
@@ -2165,7 +2189,7 @@ Miscellaneous provisions
         
         
     
-    (8) Despite anything in subsection (7), if any emergency or anticipated emergency is a natural disaster within the meaning of the [Earthquake Commission Act 1993][192] or within the meaning of any policy or contract of insurance, the loss or damage is to be treated as natural disaster damage for the purposes of that Act, policy, or contract.
+    (8) Despite anything in subsection (7), if any emergency or anticipated emergency is a natural disaster within the meaning of the [Earthquake Commission Act 1993][201] or within the meaning of any policy or contract of insurance, the loss or damage is to be treated as natural disaster damage for the purposes of that Act, policy, or contract.
     
     (9) Nothing in this section prevents the Crown or a Civil Defence Emergency Management Group from making any _ex gratia_ payments it considers justifiable on the basis of hardship or fairness.
     
@@ -2181,7 +2205,7 @@ Miscellaneous provisions
     
     *   (c) personal property, excluding livestock, not exceeding $20,000 less any insurance cover for that personal property (if any).
     
-    Section 109(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][187] of the Policing Act 2008 (2008 No 72).
+    Section 109(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][195] of the Policing Act 2008 (2008 No 72).
 
 ##### 110 Protection from liability
     
@@ -2195,7 +2219,7 @@ Miscellaneous provisions
 
 ##### 111 Restricted application of Resource Management Act 1991
     
-*   If a state of emergency is declared under this Act, the [Resource Management Act 1991][173] applies to emergency works as provided for in [section 330B][193] of that Act.
+*   If a state of emergency is declared under this Act, the [Resource Management Act 1991][173] applies to emergency works as provided for in [section 330B][202] of that Act.
 
 ##### 112 Absence on duty not to affect employment rights
     
@@ -2335,70 +2359,40 @@ Lifeline utilities
 ## Part A  
 Specific entities
 
-##### 1
-    
-*   Radio New Zealand Limited and Television New Zealand Limited.
+*   1 Radio New Zealand Limited and Television New Zealand Limited.
 
-##### 2
-    
-*   The company (as defined in [section 2][194] of the Auckland Airport Act 1987) that operates Auckland international airport.
+*   2 The company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland international airport.
 
-##### 3
-    
-*   The company (as defined in [section 2][195] of the Wellington Airport Act 1990) that operates Wellington international airport.
+*   3 The company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington international airport.
 
-##### 4
-    
-*   The airport company (as defined in [section 2][196] of the Airport Authorities Act 1966) that operates Christchurch international airport.
+*   4 The airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch international airport.
 
-##### 5
-    
-*   The entity (being an airport authority as defined in [section 2][196] of the Airport Authorities Act 1966, whether or not it is also an airport company as defined in that section) that operates the primary airport at Bay of Islands, Blenheim, Dunedin, Gisborne, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, Wanganui, Westport, Whakatane, or Whangarei.
+*   5 The entity (being an airport authority as defined in section 2 of the Airport Authorities Act 1966, whether or not it is also an airport company as defined in that section) that operates the primary airport at Bay of Islands, Blenheim, Dunedin, Gisborne, Hamilton, Hokitika, Invercargill, Napier, Nelson, New Plymouth, Palmerston North, Queenstown, Rotorua, Tauranga, Wanganui, Westport, Whakatane, or Whangarei.
 
-##### 6
+*   6 The port company (as defined in section 2(1) of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttelton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
     
-*   The port company (as defined in [section 2(1)][197] of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttelton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
-    
-    Schedule 1 Part A clause 6: amended, on 25 March 2012, by [section 10][198] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
+    Schedule 1 Part A clause 6: amended, on 25 March 2012, by [section 10][203] of the Civil Defence Emergency Management Amendment Act 2012 (2012 No 6).
 
-##### 7
-    
-*   The Grey District Council, acting as the Greymouth harbour authority and owner and operator of the Port of Greymouth under Parts 4 and 6 of the Local Government (West Coast Region) Reorganisation Order 1989, [Part 39A][199] of the Local Government Act 1974, and [section 16][200] of the Local Government Amendment Act (No 2) 1999\.
+*   7 The Grey District Council, acting as the Greymouth harbour authority and owner and operator of the Port of Greymouth under Parts 4 and 6 of the Local Government (West Coast Region) Reorganisation Order 1989, Part 39A of the Local Government Act 1974, and section 16 of the Local Government Amendment Act (No 2) 1999\.
 
 ## Part B  
 Entities carrying on certain businesses
 
-##### 1
-    
-*   An entity that produces, supplies, or distributes manufactured gas or natural gas (whether it is supplied or distributed through a network or in bottles of more than 20 kg of gas).
+*   1 An entity that produces, supplies, or distributes manufactured gas or natural gas (whether it is supplied or distributed through a network or in bottles of more than 20 kg of gas).
 
-##### 2
-    
-*   An entity that generates electricity for distribution through a network or distributes electricity through a network.
+*   2 An entity that generates electricity for distribution through a network or distributes electricity through a network.
 
-##### 3
-    
-*   An entity that supplies or distributes water to the inhabitants of a city, district, or other place.
+*   3 An entity that supplies or distributes water to the inhabitants of a city, district, or other place.
 
-##### 4
-    
-*   An entity that provides a waste water or sewerage network or that disposes of sewage or storm water.
+*   4 An entity that provides a waste water or sewerage network or that disposes of sewage or storm water.
 
-##### 5
-    
-*   An entity that provides a telecommunications network (within the meaning of the [Telecommunications Act 1987][201]).
+*   5 An entity that provides a telecommunications network (within the meaning of the Telecommunications Act 1987).
 
-##### 6
-    
-*   An entity that provides a road network (including State highways).
+*   6 An entity that provides a road network (including State highways).
 
-##### 7
-    
-*   An entity that produces, processes, or distributes to retail outlets and bulk customers any petroleum products used as an energy source or an essential lubricant or additive for motors for machinery.
+*   7 An entity that produces, processes, or distributes to retail outlets and bulk customers any petroleum products used as an energy source or an essential lubricant or additive for motors for machinery.
 
-##### 8
-    
-*   An entity that provides a rail network or service.
+*   8 An entity that provides a rail network or service.
 
 ---
 
@@ -2409,23 +2403,23 @@ Acts amended
 
 ##### Burial and Cremation Act 1964 (1964 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][202]_.
+_Amendment(s) incorporated in the [Act(s)][204]_.
 
 ##### Civil Aviation Act 1990 (1990 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][203]_.
+_Amendment(s) incorporated in the [Act(s)][205]_.
 
 ##### Constitution Act 1986 (1986 No 114)
 
-_Amendment(s) incorporated in the [Act(s)][204]_.
+_Amendment(s) incorporated in the [Act(s)][206]_.
 
 ##### Crown Research Institutes Act 1992 (1992 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][205]_.
+_Amendment(s) incorporated in the [Act(s)][207]_.
 
 ##### Customs and Excise Act 1996 (1996 No 27)
 
-_Amendment(s) incorporated in the [Act(s)][206]_.
+_Amendment(s) incorporated in the [Act(s)][208]_.
 
 ##### Defence Act 1990 (1990 No 28)
 
@@ -2433,7 +2427,7 @@ _Amendment(s) incorporated in the [Act(s)][160]_.
 
 ##### Finance Act 1968 (1968 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][207]_.
+_Amendment(s) incorporated in the [Act(s)][209]_.
 
 ##### Fire Service Act 1975 (1975 No 42)
 
@@ -2441,7 +2435,7 @@ _Amendment(s) incorporated in the [Act(s)][166]_.
 
 ##### Forest and Rural Fires Act 1977 (1977 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][208]_.
+_Amendment(s) incorporated in the [Act(s)][210]_.
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
@@ -2453,11 +2447,11 @@ _Amendment(s) incorporated in the [Act(s)][169]_.
 
 ##### Layout Designs Act 1994 (1994 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][209]_.
+_Amendment(s) incorporated in the [Act(s)][211]_.
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147)
 
-_Amendment(s) incorporated in the [Act(s)][210]_.
+_Amendment(s) incorporated in the [Act(s)][212]_.
 
 ##### Local Government Act 1974 (1974 No 66)
 
@@ -2469,108 +2463,69 @@ _Amendment(s) incorporated in the [Act(s)][172]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][211]_.
+_Amendment(s) incorporated in the [Act(s)][213]_.
 
 ##### Patents Act 1953 (1953 No 64)
 
-_Amendment(s) incorporated in the [Act(s)][212]_.
+_Amendment(s) incorporated in the [Act(s)][214]_.
 
 ##### Petroleum Demand Restraint Act 1981 (1981 No 12)
 
-_Amendment(s) incorporated in the [Act(s)][213]_.
+_Amendment(s) incorporated in the [Act(s)][215]_.
 
 ##### Plant Variety Rights Act 1987 (1987 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][214]_.
+_Amendment(s) incorporated in the [Act(s)][216]_.
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][215]_.
+_Amendment(s) incorporated in the [Act(s)][217]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][216]_.
+_Amendment(s) incorporated in the [Act(s)][218]_.
 
 ##### Transport Services Licensing Act 1989 (1989 No 74)
 
-_Amendment(s) incorporated in the [Act(s)][217]_.
+_Amendment(s) incorporated in the [Act(s)][219]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Civil Defence Emergency Management Act 2002\. The reprint incorporates all the amendments to the Act as at 25 March 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][218] ![](/images/external_link.gif).
+*   This is a reprint of the Civil Defence Emergency Management Act 2002 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][219] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][220] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][221] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][220] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][222] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][223] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][221] and [17E][222] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][179]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Civil Defence Emergency Management Amendment Act 2012][224] (2012 No 6)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][198]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Civil Defence Emergency Management Amendment Act 2012][223] (2012 No 6)
-    
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][187], [130(1)][176]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][195], [130(1)][176]
     
     Building Act 2004 (2004 No 72): [section 414][174]
     
     Local Government Act 2002 (2002 No 84): [section 262][158]
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][186]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][194]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2002/0033/latest/whole.html#DLM149792
 [2]: http://www.legislation.govt.nz/act/public/2002/0033/latest/whole.html#DLM149793
 [3]: http://www.legislation.govt.nz/act/public/2002/0033/latest/whole.html#DLM149794
@@ -2747,50 +2702,51 @@ _Amendment(s) incorporated in the [Act(s)][217]_.
 [174]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM309090
 [175]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM122241
 [176]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM1102383
-[177]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195097
-[178]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195534
-[179]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM307518
-[180]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013708
-[181]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013709
-[182]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013710
-[183]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013712
-[184]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013714
-[185]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM308449
-[186]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM162942
-[187]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM1102349
-[188]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM385101
-[189]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM324218
-[190]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM129752
-[191]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM359106
-[192]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM305967
-[193]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM239003
-[194]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM125376
-[195]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM211896
-[196]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM379829
-[197]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM131688
-[198]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013715
-[199]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM423527
-[200]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM23555
-[201]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM119011
-[202]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM355842
-[203]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM218706
-[204]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM94243
-[205]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM265655
-[206]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM378146
-[207]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM388272
-[208]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM443387
-[209]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM342156
-[210]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM390021
-[211]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM431204
-[212]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM280729
-[213]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM44083
-[214]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM101060
-[215]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM161607
-[216]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM239014
-[217]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM172825
-[218]: http://www.pco.parliament.govt.nz/reprints/
-[219]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195439
-[220]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[221]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195468
-[222]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM195470
-[223]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013700
+[177]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2997643
+[178]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998573
+[179]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998633
+[180]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998598
+[181]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998584
+[182]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998601
+[183]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998603
+[184]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998607
+[185]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998609
+[186]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM346207
+[187]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM307518
+[188]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013708
+[189]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013709
+[190]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013710
+[191]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013712
+[192]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013714
+[193]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM308449
+[194]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM162942
+[195]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM1102349
+[196]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM385101
+[197]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM324218
+[198]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM3360714
+[199]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM129752
+[200]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM359106
+[201]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM305967
+[202]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM239003
+[203]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013715
+[204]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM355842
+[205]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM218706
+[206]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM94243
+[207]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM265655
+[208]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM378146
+[209]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM388272
+[210]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM443387
+[211]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM342156
+[212]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM390021
+[213]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM431204
+[214]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM280729
+[215]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM44083
+[216]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM101060
+[217]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM161607
+[218]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM239014
+[219]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM172825
+[220]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998516
+[221]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998515
+[222]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM2998532
+[223]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[224]: http://www.legislation.govt.nz/act/public/2002/0033/latest/link.aspx?id=DLM4013700
