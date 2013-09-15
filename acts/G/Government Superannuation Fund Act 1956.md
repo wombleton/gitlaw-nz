@@ -1,5 +1,5 @@
 Reprint  
-as at 30 August 2011
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -9105,7 +9105,7 @@ General provisions
     
     (1A) The annual report must also include (in addition to any other requirements)---
         
-    *   (a) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Authority (if any), and comprising the same statements that are required by [section 42(2)][725] of the Public Finance Act 1989 as if the Fund were a Crown entity; and
+    *   (a) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Authority (if any); and
     
     *   (b) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Authority's expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
     
@@ -9127,15 +9127,17 @@ General provisions
     
     (3) \[Repealed\]
     
-    Compare: 1956 No 47 [s 93][375]; 1989 No 10 [s 14][726]; 1989 No 44 [s 44A][727]; 1994 No 18 s 40
+    Compare: 1956 No 47 [s 93][375]; 1989 No 10 [s 14][725]; 1989 No 44 [s 44A][726]; 1994 No 18 s 40
     
     Section 93B: inserted, on 1 October 1995, by [section 16][719] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
     Section 93B(1): amended, on 25 January 2005, by [section 200][419] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 93B(1)(b): repealed, on 2 October 2001, by [section 17(1)][728] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 93B(1)(b): repealed, on 2 October 2001, by [section 17(1)][727] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 93B(1A): inserted, on 2 October 2001, by [section 17(2)][728] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 93B(1A): inserted, on 2 October 2001, by [section 17(2)][727] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    
+    Section 93B(1A)(a): amended, on 18 July 2013, by [section 57][728] of the Public Finance Amendment Act 2013 (2013 No 50).
     
     Section 93B(2): repealed, on 25 January 2005, by [section 200][419] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -9167,7 +9169,7 @@ General provisions
     
     *   (b) arrange for the publication in the _Gazette_ of a notice indicating that the report has been so published.
     
-    Compare: 1956 No 47 [s 94][378]; 1989 No 10 [s 15][729]; 1989 No 44 [s 44A][727]; 1994 No 18 s 40
+    Compare: 1956 No 47 [s 94][378]; 1989 No 10 [s 15][729]; 1989 No 44 [s 44A][726]; 1994 No 18 s 40
     
     Section 94: replaced, on 1 October 1995, by [section 16][719] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
@@ -9283,9 +9285,11 @@ General provisions
 
 ##### 96 Offences
     
-*   Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 12 months who for the purpose of obtaining any payment or benefit or avoiding any obligation for himself or for any other person under this Act makes any false statement to or otherwise misleads or attempts to mislead any person concerned in the administration of this Act or any other person whomsoever.
+*   Every person commits an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term not exceeding 12 months who for the purpose of obtaining any payment or benefit or avoiding any obligation for himself or for any other person under this Act makes any false statement to or otherwise misleads or attempts to mislead any person concerned in the administration of this Act or any other person whomsoever.
     
     Compare: 1947 No 57 s 87
+    
+    Section 96: amended, on 1 July 2013, by [section 413][737] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 97 Regulations
     
@@ -9327,15 +9331,15 @@ General provisions
     
     *   (i) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
     
-    Section 97: replaced, on 1 October 1995, by [section 18][737] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 97: replaced, on 1 October 1995, by [section 18][738] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
-    Section 97(a): repealed, on 2 October 2001, by [section 20][738] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 97(a): repealed, on 2 October 2001, by [section 20][739] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 97(ba): inserted, on 17 May 2005, by [section 4][739] of the Government Superannuation Fund Amendment Act (No 2) 2005 (2005 No 55).
+    Section 97(ba): inserted, on 17 May 2005, by [section 4][740] of the Government Superannuation Fund Amendment Act (No 2) 2005 (2005 No 55).
     
-    Section 97(c): replaced, on 2 October 2001, by [section 20][738] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 97(c): replaced, on 2 October 2001, by [section 20][739] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 97(d): replaced, on 2 October 2001, by [section 20][738] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 97(d): replaced, on 2 October 2001, by [section 20][739] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 ##### 98 Reciprocal arrangements with other Commonwealth Governments or other bodies
     
@@ -9407,9 +9411,7 @@ The contributor and the chargeholder each agree that notices under [section 92C]
 Signature of contributor:
 
 Signature of chargeholder:
-
----
-
+    
 *   Schedule 1: amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 ---
@@ -9423,7 +9425,7 @@ Enactments repealed
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][740]._
+_Amendment(s) incorporated in the [Act(s)][741]._
 
 ##### Estate and Gift Duties Act 1955 (1955 No 105)
 
@@ -9431,7 +9433,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Finance Act 1948 (1948 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][741]._
+_Amendment(s) incorporated in the [Act(s)][742]._
 
 ##### Public Revenues Act 1953 (1953 No 73)
 
@@ -9439,7 +9441,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1949 (1949 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][742]._
+_Amendment(s) incorporated in the [Act(s)][743]._
 
 ##### Superannuation Act 1947 (1947 No 57)
 
@@ -9503,9 +9505,9 @@ Further provisions relating to Appeals Board
 
 ##### 3 Fees and travelling allowances
     
-*   (1) The Appeals Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][743].
+*   (1) The Appeals Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][744].
     
-    (2) The members of the Appeals Board may be paid fees and allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][743], and the provisions of that Act shall apply accordingly.
+    (2) The members of the Appeals Board may be paid fees and allowances and travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][744], and the provisions of that Act shall apply accordingly.
     
     Schedule 3 clause 3(1): amended, on 2 October 2001, by [section 4(3)(a)][407] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
@@ -9564,173 +9566,173 @@ Further provisions relating to board of Government Superannuation Fund Authority
 
 ## Contents
 
-[1][744][][744][Interpretation][744] \[Repealed\]
+[1][745][][745][Interpretation][745] \[Repealed\]
 
-[Members' appointments][745]
-
-\[Repealed\]
-
-[2][746][][746][Criterion for appointments][746] \[Repealed\]
-
-[3][747][][747][Method of appointment][747] \[Repealed\]
-
-[4][748][][748][When appointment takes effect][748] \[Repealed\]
-
-[5][749][][749][Position where concurrent office][749] \[Repealed\]
-
-[Term of office][750]
+[Members' appointments][746]
 
 \[Repealed\]
 
-[6][751][][751][Term of office][751] \[Repealed\]
+[2][747][][747][Criterion for appointments][747] \[Repealed\]
 
-[Duties of board members][752]
+[3][748][][748][Method of appointment][748] \[Repealed\]
 
-\[Repealed\]
+[4][749][][749][When appointment takes effect][749] \[Repealed\]
 
-[7][753][][753][Duties of members][753] \[Repealed\]
+[5][750][][750][Position where concurrent office][750] \[Repealed\]
 
-[Liability of members][754]
-
-\[Repealed\]
-
-[8][755][][755][Liability of members and committee members][755] \[Repealed\]
-
-[Resignation and removal of members][756]
+[Term of office][751]
 
 \[Repealed\]
 
-[9][757][][757][Resignation][757] \[Repealed\]
+[6][752][][752][Term of office][752] \[Repealed\]
 
-[10][758][][758][Removal from office][758] \[Repealed\]
-
-[Vacancies in Authority's membership][759]
+[Duties of board members][753]
 
 \[Repealed\]
 
-[11][760][][760][Effect of vacancy in membership][760] \[Repealed\]
+[7][754][][754][Duties of members][754] \[Repealed\]
 
-[Remuneration][761]
-
-\[Repealed\]
-
-[12][762][][762][Remuneration][762] \[Repealed\]
-
-[Chairperson and deputy chairperson][763]
+[Liability of members][755]
 
 \[Repealed\]
 
-[13][764][][764][Appointment][764] \[Repealed\]
+[8][756][][756][Liability of members and committee members][756] \[Repealed\]
 
-[14][765][][765][Term of office][765] \[Repealed\]
-
-[15][766][][766][Resignation][766] \[Repealed\]
-
-[16][767][][767][Exercise of chairperson's functions, duties, and powers during vacancy, etc][767] \[Repealed\]
-
-[Acts not to be called into question][768]
+[Resignation and removal of members][757]
 
 \[Repealed\]
 
-[17][769][][769][Acts not to be called into question][769] \[Repealed\]
+[9][758][][758][Resignation][758] \[Repealed\]
 
-[18][770][][770][Validity of members' acts][770] \[Repealed\]
+[10][759][][759][Removal from office][759] \[Repealed\]
 
-[Disclosure of interest][771]
-
-[19][772][][772][Obligation to disclose interests][772]
-
-[20][773][][773][Meaning of interested][773] \[Repealed\]
-
-[21][774][][774][Disclosure of interest][774] \[Repealed\]
-
-[22][775][][775][Consequences of disclosure][775] \[Repealed\]
-
-[23][776][][776][Matters to be delegated to committee][776]
-
-[24][777][][777][Exceptions][777]
-
-[25][778][][778][Effect of non-compliance][778] \[Repealed\]
-
-[Use of information][779]
+[Vacancies in Authority's membership][760]
 
 \[Repealed\]
 
-[26][780][][780][Restrictions on disclosure or use of Authority's information][780] \[Repealed\]
+[11][761][][761][Effect of vacancy in membership][761] \[Repealed\]
 
-[27][781][][781][When member may rely on certain information and advice][781] \[Repealed\]
-
-[28][782][][782][When clause 27 applies][782] \[Repealed\]
-
-[Procedure of board: General][783]
+[Remuneration][762]
 
 \[Repealed\]
 
-[29][784][][784][Procedure generally][784] \[Repealed\]
+[12][763][][763][Remuneration][763] \[Repealed\]
 
-[Procedure of board: Meetings][785]
-
-\[Repealed\]
-
-[30][786][][786][Ordinary meetings][786] \[Repealed\]
-
-[31][787][][787][Special meetings][787] \[Repealed\]
-
-[32][788][][788][Methods of holding meetings][788] \[Repealed\]
-
-[33][789][][789][Quorum][789] \[Repealed\]
-
-[34][790][][790][Who presides at meetings][790] \[Repealed\]
-
-[35][791][][791][Voting at meetings][791] \[Repealed\]
-
-[36][792][][792][Resolutions][792] \[Repealed\]
-
-[37][793][][793][Method of contracting][793] \[Repealed\]
-
-[38][794][][794][Attorneys][794] \[Repealed\]
-
-[Delegations][795]
-
-[39][796][][796][Additional persons to whom delegation may be made][796]
-
-[40][797][][797][Certain powers must not be delegated][797]
-
-[41][798][][798][Effect of delegation][798] \[Repealed\]
-
-[42][799][][799][Presumption of acting in accordance with delegation][799] \[Repealed\]
-
-[43][800][][800][Other matters relating to delegation][800] \[Repealed\]
-
-[Subsidiaries][801]
+[Chairperson and deputy chairperson][764]
 
 \[Repealed\]
 
-[44][802][][802][Subsidiaries][802] \[Repealed\]
+[13][765][][765][Appointment][765] \[Repealed\]
 
-[Committees][803]
+[14][766][][766][Term of office][766] \[Repealed\]
+
+[15][767][][767][Resignation][767] \[Repealed\]
+
+[16][768][][768][Exercise of chairperson's functions, duties, and powers during vacancy, etc][768] \[Repealed\]
+
+[Acts not to be called into question][769]
 
 \[Repealed\]
 
-[45][804][][804][Committees][804] \[Repealed\]
+[17][770][][770][Acts not to be called into question][770] \[Repealed\]
 
-[Employees][805]
+[18][771][][771][Validity of members' acts][771] \[Repealed\]
 
-[46][806][][806][Appointment of chief executive officer][806] \[Repealed\]
+[Disclosure of interest][772]
 
-[47][807][][807][Appointment of other employees][807] \[Repealed\]
+[19][773][][773][Obligation to disclose interests][773]
 
-[48][808][][808][Personnel policy][808] \[Repealed\]
+[20][774][][774][Meaning of interested][774] \[Repealed\]
 
-[49][809][][809][Equal employment opportunities][809] \[Repealed\]
+[21][775][][775][Disclosure of interest][775] \[Repealed\]
 
-[50][810][][810][Choice of procedure][810] \[Repealed\]
+[22][776][][776][Consequences of disclosure][776] \[Repealed\]
 
-[51][811][][811][Superannuation or retiring allowances][811] \[Repealed\]
+[23][777][][777][Matters to be delegated to committee][777]
 
-[52][812][][812][Application of certain acts to members and employees][812] \[Repealed\]
+[24][778][][778][Exceptions][778]
 
-[53][813][][813][Existing Government Superannuation Fund members][813]
+[25][779][][779][Effect of non-compliance][779] \[Repealed\]
+
+[Use of information][780]
+
+\[Repealed\]
+
+[26][781][][781][Restrictions on disclosure or use of Authority's information][781] \[Repealed\]
+
+[27][782][][782][When member may rely on certain information and advice][782] \[Repealed\]
+
+[28][783][][783][When clause 27 applies][783] \[Repealed\]
+
+[Procedure of board: General][784]
+
+\[Repealed\]
+
+[29][785][][785][Procedure generally][785] \[Repealed\]
+
+[Procedure of board: Meetings][786]
+
+\[Repealed\]
+
+[30][787][][787][Ordinary meetings][787] \[Repealed\]
+
+[31][788][][788][Special meetings][788] \[Repealed\]
+
+[32][789][][789][Methods of holding meetings][789] \[Repealed\]
+
+[33][790][][790][Quorum][790] \[Repealed\]
+
+[34][791][][791][Who presides at meetings][791] \[Repealed\]
+
+[35][792][][792][Voting at meetings][792] \[Repealed\]
+
+[36][793][][793][Resolutions][793] \[Repealed\]
+
+[37][794][][794][Method of contracting][794] \[Repealed\]
+
+[38][795][][795][Attorneys][795] \[Repealed\]
+
+[Delegations][796]
+
+[39][797][][797][Additional persons to whom delegation may be made][797]
+
+[40][798][][798][Certain powers must not be delegated][798]
+
+[41][799][][799][Effect of delegation][799] \[Repealed\]
+
+[42][800][][800][Presumption of acting in accordance with delegation][800] \[Repealed\]
+
+[43][801][][801][Other matters relating to delegation][801] \[Repealed\]
+
+[Subsidiaries][802]
+
+\[Repealed\]
+
+[44][803][][803][Subsidiaries][803] \[Repealed\]
+
+[Committees][804]
+
+\[Repealed\]
+
+[45][805][][805][Committees][805] \[Repealed\]
+
+[Employees][806]
+
+[46][807][][807][Appointment of chief executive officer][807] \[Repealed\]
+
+[47][808][][808][Appointment of other employees][808] \[Repealed\]
+
+[48][809][][809][Personnel policy][809] \[Repealed\]
+
+[49][810][][810][Equal employment opportunities][810] \[Repealed\]
+
+[50][811][][811][Choice of procedure][811] \[Repealed\]
+
+[51][812][][812][Superannuation or retiring allowances][812] \[Repealed\]
+
+[52][813][][813][Application of certain acts to members and employees][813] \[Repealed\]
+
+[53][814][][814][Existing Government Superannuation Fund members][814]
 
 ---
 
@@ -9900,7 +9902,7 @@ Further provisions relating to board of Government Superannuation Fund Authority
 
 ##### 19 Obligation to disclose interests
     
-*   [Section 66][814] of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of a company referred to in [section 15B(6)][34].
+*   [Section 66][815] of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of a company referred to in [section 15B(6)][34].
     
     Schedule 4 clause 19: replaced, on 25 January 2005, by [section 200][419] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -9924,7 +9926,7 @@ Further provisions relating to board of Government Superannuation Fund Authority
 
 ##### 23 Matters to be delegated to committee
     
-*   (1) The board must delegate a deliberation or decision to a committee if the effect of [section 66][814] of the Crown Entities Act 2004 is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
+*   (1) The board must delegate a deliberation or decision to a committee if the effect of [section 66][815] of the Crown Entities Act 2004 is that there is not a quorum of members able to take part in the deliberation or decision, or to form a quorum.
     
     (2) The committee must consist of a majority of persons---
         
@@ -9932,17 +9934,17 @@ Further provisions relating to board of Government Superannuation Fund Authority
     
     *   (b) in the case of members of the committee who are not members of the board, who are appointed by the board with the agreement of the Minister.
     
-    (3) Subclause (1) is subject to [clause 24][777].
+    (3) Subclause (1) is subject to [clause 24][778].
     
     Schedule 4 clause 23(1): amended, on 25 January 2005, by [section 200][419] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 Exceptions
     
-*   (1) [Section 66][814] of the Crown Entities Act 2004 does not apply---
+*   (1) [Section 66][815] of the Crown Entities Act 2004 does not apply---
         
     *   (a) to any deliberation or decision of the board that is made in accordance with any existing contract that governs the way in which the deliberation or decision is to be made; or
     
-    *   (b) to any deliberation or decision of the board to establish a committee, and to delegate the matter to a committee of the board, under [clause 23][776].
+    *   (b) to any deliberation or decision of the board to establish a committee, and to delegate the matter to a committee of the board, under [clause 23][777].
     
     (2) _Existing contract_ means a contract---
         
@@ -10058,7 +10060,7 @@ Further provisions relating to board of Government Superannuation Fund Authority
 
 ##### 39 Additional persons to whom delegation may be made
     
-*   The board may delegate any of the functions or powers of the board or the Authority to all or any of the following, despite [section 73(1)(d)][815] of the Crown Entities Act 2004:
+*   The board may delegate any of the functions or powers of the board or the Authority to all or any of the following, despite [section 73(1)(d)][816] of the Crown Entities Act 2004:
         
     *   (a) an administration manager:
     
@@ -10080,7 +10082,7 @@ Further provisions relating to board of Government Superannuation Fund Authority
     
     *   (c) the power of appointment in [section 19][56] or [section 19A][57].
     
-    (2) Neither this clause nor [section 73(4)][815] of the Crown Entities Act 2004 limits [sections 19][56] and [19A][57] of this Act or [clauses 23][776] and [24][777] of this schedule.
+    (2) Neither this clause nor [section 73(4)][816] of the Crown Entities Act 2004 limits [sections 19][56] and [19A][57] of this Act or [clauses 23][777] and [24][778] of this schedule.
     
     Schedule 4 clause 40(1)(a): repealed, on 25 January 2005, by [section 200][419] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -10158,7 +10160,7 @@ Further provisions relating to board of Government Superannuation Fund Authority
     
 *   \[Repealed\]
     
-    Schedule 4 clause 50: repealed, on 1 December 2004, by [section 72][816] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Schedule 4 clause 50: repealed, on 1 December 2004, by [section 72][817] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 51 Superannuation or retiring allowances
     
@@ -10214,7 +10216,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1961][817], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1961][818], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 3 to 5 shall come into force on the termination on 1 January 1962 of the Trusteeship Agreement for the Territory of Western Samoa.
     
@@ -10254,7 +10256,7 @@ Commencementsee section 1
     
     is less than would be payable if this Act had not been passed, the annual retiring allowance or annuity, as the case may be, shall be paid at the rate that would have been payable if this Act had not been passed.
     
-    Section 12(b): amended, on 26 April 2005, by [section 10(1)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 12(b): amended, on 26 April 2005, by [section 10(1)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
 
 ---
 
@@ -10300,13 +10302,13 @@ Police and prisons service
     
 *   Notwithstanding anything in this Part applying to members of the Police, nothing in this Part shall apply in respect of any person who is a member of the Police on 1 May 1985 or any person who becomes a member of the Police after that date.
     
-    Section 17A: inserted, on 29 March 1985, by [section 9][819] of the Government Superannuation Fund Amendment Act (No 2) 1985 (1985 No 63).
+    Section 17A: inserted, on 29 March 1985, by [section 9][820] of the Government Superannuation Fund Amendment Act (No 2) 1985 (1985 No 63).
 
 ##### 17B Restricted application of Act to prisons service
     
 *   Notwithstanding anything in this Part applying to members of the prisons service, nothing in this Part shall apply in respect of any person who is a member of the prisons service on 11 December 1986 (unless that person has made an election under section 88O(3) of the principal Act), or any person who becomes a member of the prisons service after that date.
     
-    Section 17B: inserted, on 25 December 1986, by [section 32][820] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 17B: inserted, on 25 December 1986, by [section 32][821] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
 
 ##### 18 Contributors
     
@@ -10529,7 +10531,7 @@ Commencementsee section 1(2)
     
     Section 2(4)(b): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 2(5)(b): amended, on 26 April 2005, by [section 10(3)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 2(5)(b): amended, on 26 April 2005, by [section 10(3)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
     Section 2(5)(b): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
@@ -10543,17 +10545,17 @@ Commencementsee section 1(2)
     
     Section 2(7): amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 2(8): replaced, on 1 July 2006, by [section 3][821] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
+    Section 2(8): replaced, on 1 July 2006, by [section 3][822] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
     
-    Section 2(9): replaced, on 25 December 1986, by [section 33(1)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 2(9): replaced, on 25 December 1986, by [section 33(1)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
-    Section 2(10): repealed, on 25 December 1986, by [section 33(1)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 2(10): repealed, on 25 December 1986, by [section 33(1)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
 
 ##### 3 Adjustable retiring allowances, annual allowances, and annuities
     
 *   Every retiring allowance, annual allowance, and annuity payable under the principal Act shall be adjustable in accordance with the provisions of this Act.
     
-    Section 3: replaced, on 25 December 1986, by [section 34][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 3: replaced, on 25 December 1986, by [section 34][824] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
 
 ##### 3A Additional payments for period 1 October 2010 to 27 April 2011
     
@@ -10567,7 +10569,7 @@ Commencementsee section 1(2)
     
     *   (c) must for all other purposes be treated as a payment of the person's retiring allowance, annual allowance, or annuity.
     
-    Section 3A: inserted (with effect on 20 May 2010), on 28 May 2010, by [section 3][824] of the Government Superannuation Fund Amendment Act 1969 Amendment Act 2010 (2010 No 28).
+    Section 3A: inserted (with effect on 20 May 2010), on 28 May 2010, by [section 3][825] of the Government Superannuation Fund Amendment Act 1969 Amendment Act 2010 (2010 No 28).
 
 ##### 4 Provision for annual adjustment
     
@@ -10627,23 +10629,23 @@ Commencementsee section 1(2)
     
     (5) No person is entitled, because of the amendments made to this Act by section 3 of the Government Superannuation Fund Amendment Act 2009, to any increased payment for any retiring allowance, annual allowance, or annuity that was paid or is payable for any period before 1 April 2009\.
     
-    Section 5(1): replaced, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1): replaced, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(1A): replaced, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1A): replaced, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(1B): replaced, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1B): replaced, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(1C): replaced, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1C): replaced, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(1D): inserted, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1D): inserted, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(1E): inserted, on 1 April 2009, by [section 3(2)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(1E): inserted, on 1 April 2009, by [section 3(2)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
     
-    Section 5(3): inserted (with effect on 15 April 1976), on 1 November 1976, by [section 12(3)][826] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 5(3): inserted (with effect on 15 April 1976), on 1 November 1976, by [section 12(3)][827] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
     Section 5(4): inserted, on 1 July 2006, by section 4 of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
     
-    Section 5(5): inserted, on 1 April 2009, by [section 3(3)][825] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 5(5): inserted, on 1 April 2009, by [section 3(3)][826] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
 
 ##### 6 Amount of annual adjustment
     
@@ -10685,7 +10687,7 @@ Commencementsee section 1(2)
     
     (6) \[Repealed\]
     
-    Section 7(1) **date of qualification** proviso: repealed, on 1 April 1988, by [section 2(2)(a)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 7(1) **date of qualification** proviso: repealed, on 1 April 1988, by [section 2(2)(a)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
     
     Section 7(2): amended, on 15 April 1976, by [section 13(1)][574] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
@@ -10697,13 +10699,13 @@ Commencementsee section 1(2)
     
     Section 7(2) second proviso: amended (with effect on 15 April 1976), on 1 November 1976, by [section 13(2)(b)][574] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 7(2) third proviso: repealed, on 1 April 1988, by [section 2(2)(a)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 7(2) third proviso: repealed, on 1 April 1988, by [section 2(2)(a)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
     
-    Section 7(4): repealed, on 25 December 1986, by [section 33(4)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 7(4): repealed, on 25 December 1986, by [section 33(4)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
-    Section 7(5): repealed, on 1 April 1988, by [section 2(2)(a)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 7(5): repealed, on 1 April 1988, by [section 2(2)(a)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
     
-    Section 7(6): repealed, on 1 April 1988, by [section 2(2)(a)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 7(6): repealed, on 1 April 1988, by [section 2(2)(a)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
 
 ##### 8 Limit to amount of annual adjustment
     
@@ -10725,17 +10727,17 @@ Commencementsee section 1(2)
     
     (2) The foregoing provisions of this section shall not limit the amount of any adjustment to be made in April 1976 or at any subsequent time.
     
-    Section 8(1)(c): amended, on 19 April 1973, by [section 7(1)][828] of the Government Superannuation Fund Amendment Act 1972 (1972 No 33).
+    Section 8(1)(c): amended, on 19 April 1973, by [section 7(1)][829] of the Government Superannuation Fund Amendment Act 1972 (1972 No 33).
     
-    Section 8(1)(d): inserted, on 19 April 1973, by [section 7(2)][828] of the Government Superannuation Fund Amendment Act 1972 (1972 No 33).
+    Section 8(1)(d): inserted, on 19 April 1973, by [section 7(2)][829] of the Government Superannuation Fund Amendment Act 1972 (1972 No 33).
     
-    Section 8(1)(e): repealed, on 18 April 1974, by [section 3][829] of the Government Superannuation Fund Amendment Act 1974 (1974 No 138).
+    Section 8(1)(e): repealed, on 18 April 1974, by [section 3][830] of the Government Superannuation Fund Amendment Act 1974 (1974 No 138).
     
-    Section 8(1)(f): inserted, on 18 April 1974, by [section 3][829] of the Government Superannuation Fund Amendment Act 1974 (1974 No 138).
+    Section 8(1)(f): inserted, on 18 April 1974, by [section 3][830] of the Government Superannuation Fund Amendment Act 1974 (1974 No 138).
     
-    Section 8(1)(g): replaced, on 1 November 1976, by [section 14(1)][830] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
+    Section 8(1)(g): replaced, on 1 November 1976, by [section 14(1)][831] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
     
-    Section 8(2): inserted, on 1 November 1976, by [section 14(2)][830] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
+    Section 8(2): inserted, on 1 November 1976, by [section 14(2)][831] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
 
 ##### 9 Adjustments to annuities
     
@@ -10767,14 +10769,14 @@ Commencementsee section 1(2)
     
     Section 11: amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Section 11: amended, on 1 November 1976, by [section 16][831] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
+    Section 11: amended, on 1 November 1976, by [section 16][832] of the Government Superannuation Fund Amendment Act 1976 (1976 No 130).
 
 ## Schedule 2  
 Proportion of percentage to be applied to any retiring allowance, annual allowance, or annuity
 
 s 5
 
-*   Schedule 2: replaced, on 1 July 2006, by [section 5][832] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
+*   Schedule 2: replaced, on 1 July 2006, by [section 5][833] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
 
 1Where the contributory service terminated before 15 June 1969\. 90%
 
@@ -10819,7 +10821,7 @@ Date of qualification
 
 s 7
 
-*   Schedule 3: replaced, on 1 April 1988, by [section 2(1)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+*   Schedule 3: replaced, on 1 April 1988, by [section 2(1)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
 
 **Retiring allowance, annuity, or annual allowance** **Date**
 
@@ -10855,8 +10857,8 @@ Where paragraph (a) applies, the adjustments shall be made as if this provision 
 
 5A retiring allowance or annuity payable to or in respect of any person in respect of whom an election has been made under section 16 or section 17 of the Government Superannuation Fund Amendment Act 1986\. The day immediately preceding the date on which the first instalment of the retiring allowance or annuity is payable.
 
-*   Schedule 3 table item 1B: inserted, on 8 May 1992, by [section 11(2)][833] of the Government Superannuation Fund Amendment Act 1992 (1992 No 40).
-*   Schedule 3 table item 2B: inserted, on 8 May 1992, by [section 11(3)][833] of the Government Superannuation Fund Amendment Act 1992 (1992 No 40).
+*   Schedule 3 table item 1B: inserted, on 8 May 1992, by [section 11(2)][834] of the Government Superannuation Fund Amendment Act 1992 (1992 No 40).
+*   Schedule 3 table item 2B: inserted, on 8 May 1992, by [section 11(3)][834] of the Government Superannuation Fund Amendment Act 1992 (1992 No 40).
 *   Schedule 3 table item 4: amended, on 1 April 1988, by [section 5(2)][685] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
 
 ---
@@ -10869,7 +10871,7 @@ Commencement27 November 1970
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Government Superannuation Fund Amendment Act 1970][834], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Government Superannuation Fund Amendment Act 1970][835], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     Section 1: amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
@@ -10892,21 +10894,21 @@ Miscellaneous provisions
     
     (7) This section shall be deemed to have come into force on 15 June 1969\.
     
-    Section 5 heading: amended, on 1 April 1980, pursuant to [section 18(2)][835] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 5 heading: amended, on 1 April 1980, pursuant to [section 18(2)][836] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 5(1): repealed, on 25 December 1986, by [section 33(7)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 5(1): repealed, on 25 December 1986, by [section 33(7)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
-    Section 5(2): repealed, on 25 December 1986, by [section 33(7)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 5(2): repealed, on 25 December 1986, by [section 33(7)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
     Section 5(3): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 5(4): amended, on 26 April 2005, by [section 10(4)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 5(4): amended, on 26 April 2005, by [section 10(4)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
     Section 5(4): amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
     Section 5(4): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 5(5): repealed, on 20 November 1979, by [section 15(2)][836] of the Government Superannuation Fund Amendment Act 1979 (1979 No 46).
+    Section 5(5): repealed, on 20 November 1979, by [section 15(2)][837] of the Government Superannuation Fund Amendment Act 1979 (1979 No 46).
     
     Section 5(6): repealed, on 1 January 1981, by section 6(4) of the Government Superannuation Fund Amendment Act 1980 (1980 No 163).
 
@@ -10944,19 +10946,19 @@ Miscellaneous provisions
     
     (9) This section shall be deemed to have come into force on 1 April 1970\.
     
-    Section 6(1): repealed, on 25 December 1986, by [section 33(7)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 6(1): repealed, on 25 December 1986, by [section 33(7)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
     Section 6(2)(b): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 6(3): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][837] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
+    Section 6(3): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][838] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
     
-    Section 6(4): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][837] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
+    Section 6(4): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][838] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
     
-    Section 6(5): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][837] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
+    Section 6(5): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][838] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
     
-    Section 6(6): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][837] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
+    Section 6(6): repealed (with effect on 1 April 1988), on 8 May 1989, by [section 6][838] of the Government Superannuation Fund Amendment Act 1989 (1989 No 23).
     
-    Section 6(7): repealed, on 1 November 1976, by [section 30(2)(c)][838] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 6(7): repealed, on 1 November 1976, by [section 30(2)(c)][839] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
     Section 6(8): repealed, on 1 January 1981, by section 6(4) of the Government Superannuation Fund Amendment Act 1980 (1980 No 163).
 
@@ -10986,15 +10988,15 @@ Miscellaneous provisions
     
     (6) This section shall be deemed to have come into force on 1 April 1970\.
     
-    Section 7(1): repealed, on 25 December 1986, by [section 33(7)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 7(1): repealed, on 25 December 1986, by [section 33(7)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
     
     Section 7(2)(b): amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 7(3): repealed (with effect on 1 April 1987), on 29 October 1987, by [section 8][839] of the Government Superannuation Fund Amendment Act 1987 (1987 No 187).
+    Section 7(3): repealed (with effect on 1 April 1987), on 29 October 1987, by [section 8][840] of the Government Superannuation Fund Amendment Act 1987 (1987 No 187).
     
-    Section 7(4): repealed (with effect on 1 April 1987), on 29 October 1987, by [section 8][839] of the Government Superannuation Fund Amendment Act 1987 (1987 No 187).
+    Section 7(4): repealed (with effect on 1 April 1987), on 29 October 1987, by [section 8][840] of the Government Superannuation Fund Amendment Act 1987 (1987 No 187).
     
-    Section 7(5): amended, on 26 April 2005, by [section 10(4)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 7(5): amended, on 26 April 2005, by [section 10(4)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
     Section 7(5): amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
@@ -11011,7 +11013,7 @@ Superannuation of members of Calibration Flight of Ministry of Transport
     
     provided that any member of the said Occupational Class who immediately before the commencement of this Part was a contributor to the Fund may, at any time before 1 January 1971, by notice in writing to the Authority, elect that he shall not be subject to the provisions of this Part. Where any person so elects, then, as from the commencement of this Part any contributions payable by him and any retiring allowance payable to him and any amount payable to him pursuant to an election under section 91 of the principal Act shall be computed as if this Part had not been enacted.
     
-    Section 11: amended, on 1 December 1973, by [section 3(1)][840] of the Government Superannuation Fund Amendment Act 1973 (1973 No 94).
+    Section 11: amended, on 1 December 1973, by [section 3(1)][841] of the Government Superannuation Fund Amendment Act 1973 (1973 No 94).
     
     Section 11 proviso: amended, on 2 October 2001, by [section 21][409] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
@@ -11121,7 +11123,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1972][841], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1972][842], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Part 1 shall be deemed to have come into force on 20 April 1972\.
     
@@ -11150,15 +11152,15 @@ Miscellaneous amendments
     
     (7) Nothing in this section shall have effect to entitle any surviving spouse or partner to any adjustment to her or his annuity before the date on which she or he would be entitled to an adjustment if this section had not been enacted.
     
-    Section 6 heading: amended, on 26 April 2005, by [section 10(5)(a)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 6 heading: amended, on 26 April 2005, by [section 10(5)(a)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
-    Section 6(1): repealed (with effect on 1 April 1975), on 1 November 1976, by [section 8(2)(d)][842] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 6(1): repealed (with effect on 1 April 1975), on 1 November 1976, by [section 8(2)(d)][843] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 6(2): repealed (with effect on 1 April 1975), on 1 November 1976, by [section 9(2)(d)][843] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 6(2): repealed (with effect on 1 April 1975), on 1 November 1976, by [section 9(2)(d)][844] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 6(3): repealed, on 1 November 1976, by [section 32(2)(c)][844] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
+    Section 6(3): repealed, on 1 November 1976, by [section 32(2)(c)][845] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 6(4): amended, on 26 April 2005, by [section 10(5)(b)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 6(4): amended, on 26 April 2005, by [section 10(5)(b)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
     Section 6(4): amended, on 29 March 1985, by [section 22(2)][429] of the Government Superannuation Fund Amendment Act 1985 (1985 No 62).
     
@@ -11168,9 +11170,9 @@ Miscellaneous amendments
     
     Section 6(5) proviso: amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
     
-    Section 6(6): repealed (with effect on 1 April 1988), on 9 June 1995, by [section 20(1)][845] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 6(6): repealed (with effect on 1 April 1988), on 9 June 1995, by [section 20(1)][846] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
     
-    Section 6(7): amended, on 26 April 2005, by [section 10(5)(b)][818] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
+    Section 6(7): amended, on 26 April 2005, by [section 10(5)(b)][819] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
 
 ---
 
@@ -11182,7 +11184,7 @@ Commencement21 November 1973
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Government Superannuation Fund Amendment Act 1973][846], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Government Superannuation Fund Amendment Act 1973][847], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     Section 1: amended, on 1 November 1976, pursuant to [section 3(3)][0] of the Government Superannuation Fund Amendment Act 1976 (1976 No 30).
 
@@ -11216,7 +11218,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1974][847], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956\.
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1974][848], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956\.
     
     (2) This Act shall be deemed to have come into force on 18 April 1974\.
     
@@ -11238,7 +11240,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1976][848], and shall be read together with and deemed part of the Act heretofore known as the Superannuation Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1976][849], and shall be read together with and deemed part of the Act heretofore known as the Superannuation Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Sections 2(1), 5, 6, 8, 9, 10, 11, 20, 21, 27, 31, 33, 35, and 37 and Schedule 3 shall be deemed to have come into force on 1 April 1975; sections 12 and 13 shall be deemed to have come into force on 15 April 1976; and the remaining provisions of this Act shall come into force on the date on which this Act receives the Governor-General's assent.
 
@@ -11252,7 +11254,7 @@ Commencementsee section 1(2)
     
     (4) In any case where this section operates during any period to reduce the amount that would otherwise be payable to any person under the principal Act, the amount payable to that person during that period under that Act shall be calculated as if this section had not been passed.
     
-    Section 12(2): repealed, on 25 December 1986, by [section 33(7)][822] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
+    Section 12(2): repealed, on 25 December 1986, by [section 33(7)][823] of the Government Superannuation Fund Amendment Act 1986 (1986 No 132).
 
 ##### 17 Adjustments to allowances, etc, payable before commencement of this Act
     
@@ -11272,7 +11274,7 @@ Commencementsee section 1(2)
     
     _prescribed period_, in relation to any contributor means the period commencing on 1 April 1975 and ending with the prescribed date.
     
-    Section 35(1): amended, on 1 August 1990, by [section 14][849] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
+    Section 35(1): amended, on 1 August 1990, by [section 14][850] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
 
 ---
 
@@ -11367,7 +11369,7 @@ Annual adjustments to allowances payable to contributors under the age of 60 yea
     
     (2) No person is entitled, because of the amendments made to this Act by section 4 of the Government Superannuation Fund Amendment Act 2009, to any increased payment for any retiring allowance, annual allowance, or annuity that was paid or is payable for any period before 1 April 2009\.
     
-    Section 7: replaced, on 1 April 2009, by [section 4(2)][850] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
+    Section 7: replaced, on 1 April 2009, by [section 4(2)][851] of the Government Superannuation Fund Amendment Act 2009 (2009 No 2).
 
 ##### 8 Amount of annual adjustment
     
@@ -11461,7 +11463,7 @@ Commencement29 March 1985
     
     Section 14(2): amended, on 26 April 2005, by [section 4(1)][517] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
-    Section 14(2): amended (with effect on 1 April 1988), on 8 May 1989, by [section 21][851] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 14(2): amended (with effect on 1 April 1988), on 8 May 1989, by [section 21][852] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
 
 ---
 
@@ -11473,7 +11475,7 @@ Commencement29 March 1985
 
 ##### 1 Short Title
     
-*   This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1985][852], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1985][853], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
 
 ##### 3 Special provisions in respect of contributors who retire or die between 1 December 1984 and 1 May 1985
     
@@ -11493,7 +11495,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1986][853], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1986][854], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in sections 18(4) and 19(2), this Act shall come into force on the day after the date on which it receives the Governor-General's assent.
 
@@ -11565,9 +11567,9 @@ Commencementsee section 1(2)
     
     (9) The repeal of section 20(3) of the Government Superannuation Fund Amendment Act 1985 by subsection (7) shall not affect the prohibition in that provision on the making of increased payments in respect of any period before 4 April 1985\.
     
-    Section 33(3): repealed, on 1 April 1988, by [section 2(2)(d)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 33(3): repealed, on 1 April 1988, by [section 2(2)(d)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
     
-    Section 33(6): repealed, on 1 April 1988, by [section 2(2)(d)][827] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
+    Section 33(6): repealed, on 1 April 1988, by [section 2(2)(d)][828] of the Government Superannuation Fund Amendment Act 1988 (1988 No 19).
 
 ---
 
@@ -11579,7 +11581,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1987][854], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1987][855], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall be deemed to have come into force on 1 April 1987\.
 
@@ -11643,7 +11645,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1988][855], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1988][856], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 April 1988\.
 
@@ -11670,7 +11672,7 @@ Adjustments
     
     (4) The Governor-General may, from time to time by Order in Council, increase the amount specified in subsection (3) with effect from any date specified in the order.
     
-    Section 3(3): amended, on 1 July 2004, by [clause 2(1)][856] of the Government Superannuation Fund (Increased Amount in Respect of Adjustments) Order 2004 (SR 2004/115).
+    Section 3(3): amended, on 1 July 2004, by [clause 2(1)][857] of the Government Superannuation Fund (Increased Amount in Respect of Adjustments) Order 2004 (SR 2004/115).
 
 ##### 4 Special provision in relation to annuities
     
@@ -11688,7 +11690,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1989][857], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1989][858], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall be deemed to have come into force on 1 April 1988\.
 
@@ -11718,7 +11720,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1990][858], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1990][859], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) This Act shall come into force on 1 April 1990\.
 
@@ -11771,7 +11773,7 @@ Reduction of existing allowances and annuities
     > 
     > 
     
-    Section 4 formula item T paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][859] of the Income Tax Act 2004 (2004 No 35).
+    Section 4 formula item T paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][860] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 5 Amount of retiring allowance, etc, to include amount of any cost of living bonus or other adjustment
     
@@ -11807,17 +11809,17 @@ Reduction of existing allowances and annuities
     
     (3) No person is entitled, because of the amendments made to this Act by section 6(1) and (2) of the Government Superannuation Fund Amendment Act (No 3) 2005, to any increased payment for any annuity that was paid or is payable for any period before 1 July 2006\.
     
-    Section 8 heading: amended, on 1 July 2006, by [section 6(1)][860] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
+    Section 8 heading: amended, on 1 July 2006, by [section 6(1)][861] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
     
     Section 8 heading: amended, on 26 April 2005, by [section 4(1)][517] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
     Section 8(1): amended, on 26 April 2005, by [section 4(1)][517] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
-    Section 8(1)(a): repealed, on 1 July 2006, by [section 6(2)][860] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
+    Section 8(1)(a): repealed, on 1 July 2006, by [section 6(2)][861] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
     
     Section 8(2): amended, on 26 April 2005, by [section 4(1)][517] of the Government Superannuation Fund Amendment Act 2005 (2005 No 10).
     
-    Section 8(3): inserted, on 1 July 2006, by [section 6(3)][860] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
+    Section 8(3): inserted, on 1 July 2006, by [section 6(3)][861] of the Government Superannuation Fund Amendment Act (No 3) 2005 (2005 No 105).
 
 ##### 9 Part not to apply to pensioners and annuitants who are resident overseas as at 31 March 1990
     
@@ -11847,7 +11849,7 @@ Reduction of existing allowances and annuities
     
     Section 10(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][451] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 10(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][859] of the Income Tax Act 2004 (2004 No 35).
+    Section 10(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][860] of the Income Tax Act 2004 (2004 No 35).
     
     Section 10(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][451] of the Income Tax Act 2007 (2007 No 97).
 
@@ -11858,7 +11860,7 @@ Amendments to principal Act in respect of allowances, annuities, and payments co
     
 *   For the purpose of calculating any retiring allowance, annual allowance, annuity, or other payment payable in respect of any contributor to the Fund under section 22B or section 22BA or section 50 or section 50A or section 50B of the principal Act, the provisions of the principal Act shall apply as if this Part had not been enacted.
     
-    Section 31: amended, on 1 August 1990, by [section 15(1)][861] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
+    Section 31: amended, on 1 August 1990, by [section 15(1)][862] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
 
 ##### 32 Savings in respect of pensions that become payable before 1 October 1990 to overseas residents
     
@@ -11902,7 +11904,7 @@ Amendments to principal Act in respect of allowances, annuities, and payments co
     
     Section 33(1)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][451] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 33(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][859] of the Income Tax Act 2004 (2004 No 35).
+    Section 33(2)(b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][860] of the Income Tax Act 2004 (2004 No 35).
     
     Section 33(3): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][451] of the Income Tax Act 2007 (2007 No 97).
 
@@ -11921,7 +11923,7 @@ Further variation of allowances and annuities commencing between 1 April 1990 an
     
     *   (d) any allowance or annuity payable in respect of any contributor to the Fund under section 22B or section 22BA or section 50 or section 50A or section 50B of the principal Act.
     
-    Section 34(d): amended, on 1 August 1990, by [section 15(2)][861] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
+    Section 34(d): amended, on 1 August 1990, by [section 15(2)][862] of the Government Superannuation Fund Amendment Act (No 2) 1990 (1990 No 77).
 
 ##### 35 Retiring allowances, annual allowances, and annuities to be varied
     
@@ -11965,7 +11967,7 @@ Further variation of allowances and annuities commencing between 1 April 1990 an
         
         F = FO + 0.02n, with a maximum of 1\.
     
-    Section 36(2) formula item T paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][859] of the Income Tax Act 2004 (2004 No 35).
+    Section 36(2) formula item T paragraph (b): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][860] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 37 Amount of retiring allowance, etc, to include amount of any cost of living bonus or other adjustment
     
@@ -11985,7 +11987,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1990][862], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1990][863], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in sections 4(3), 5(2), 7(2), 8(2), 9(6), and 12(2), this Act shall come into force on the day on which it receives the Royal assent.
 
@@ -12031,7 +12033,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1992][863], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act (No 2) 1992][864], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in section 11(3), this Act shall come into force on 1 July 1992\.
 
@@ -12043,7 +12045,7 @@ Commencementsee section 1(2)
     
     (5) Notwithstanding the definition of the term financial year (as substituted by subsection (2)) in section 2(1) of the principal Act, the period of 15 months beginning on 1 April 1992 and ending with 30 June 1993 shall, for the purposes of the principal Act, be treated as 1 financial year.
     
-    Section 2(1): repealed, on 1 October 1995, by [section 31][864] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
+    Section 2(1): repealed, on 1 October 1995, by [section 31][865] of the Government Superannuation Fund Amendment Act 1995 (1995 No 28).
 
 ##### 20 Members of prisons service who may contribute to Fund under Part 6B of principal Act
     
@@ -12067,7 +12069,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1995][865], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [Government Superannuation Fund Amendment Act 1995][866], and shall be read together with and deemed part of the Government Superannuation Fund Act 1956 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as otherwise provided in sections 2, 6, 7, 8, 19, and 20, this Act shall come into force on 1 October 1995\.
 
@@ -12450,7 +12452,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Government Superannuation Fund Amendment Act 2005][866].
+*   (1) This Act is the [Government Superannuation Fund Amendment Act 2005][867].
     
     (2) In this Act, the Government Superannuation Fund Act 1956 is called ""the principal Act"".
 
@@ -12484,23 +12486,23 @@ Commencementsee section 2
 
 ###### 1 General
     
-*   This is a reprint of the Government Superannuation Fund Act 1956\. The reprint incorporates all the amendments to the Act as at 30 August 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Government Superannuation Fund Act 1956\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][867] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][868] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][868] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][869] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][1] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][869] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][870] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][870] and [17E][871] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][1] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][871] and [17E][872] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][1] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -12531,37 +12533,41 @@ Commencementsee section 2
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Education Amendment Act 2011 (2011 No 66): [section 48][416]
+*   Public Finance Amendment Act 2013 (2013 No 50): [section 57][728]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][737]
+    
+    Education Amendment Act 2011 (2011 No 66): [section 48][416]
     
     Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][456]
     
     Financial Markets Authority Act 2011 (2011 No 5): [section 82][405]
     
-    [Government Superannuation Fund Amendment Act 2009][872] (2009 No 2)
+    [Government Superannuation Fund Amendment Act 2009][873] (2009 No 2)
     
     Policing Act 2008 (2008 No 72): [section 130(1)][666]
     
     Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][451]
     
-    [Government Superannuation Fund Amendment Act (No 2) 2005][873] (2005 No 55)
+    [Government Superannuation Fund Amendment Act (No 2) 2005][874] (2005 No 55)
     
-    [Government Superannuation Fund Amendment Act 2005][866] (2005 No 10)
+    [Government Superannuation Fund Amendment Act 2005][867] (2005 No 10)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][419]
     
-    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][816]
+    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][817]
     
     Corrections Act 2004 (2004 No 50): [section 206][427]
     
     Judicature Amendment Act 2004 (2004 No 45): [section 6(2), (3)][624]
     
-    [Government Superannuation Fund Amendment Act (No 2) 2003][874] (2003 No 75)
+    [Government Superannuation Fund Amendment Act (No 2) 2003][875] (2003 No 75)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][425]
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14(2)][633]
     
-    [Government Superannuation Fund Amendment Act 2003][875] (2003 No 2)
+    [Government Superannuation Fund Amendment Act 2003][876] (2003 No 2)
     
     Education (Tertiary Reform) Amendment Act 2002 (2002 No 50): [section 59][415]
     
@@ -12579,13 +12585,13 @@ Commencementsee section 2
     
     Tokelau Amendment Act 1999 (1999 No 49): [sections 4][438], [5(1)][421]
     
-    [Government Superannuation Fund Amendment Act 1997][876] (1997 No 47)
+    [Government Superannuation Fund Amendment Act 1997][877] (1997 No 47)
     
-    [Judicial Superannuation Determination 1996][877] (SR 1996/320)
+    [Judicial Superannuation Determination 1996][878] (SR 1996/320)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(c)][679], [10(3)][426]
     
-    [Government Superannuation Fund Amendment Act 1995][865] (1995 No 28)
+    [Government Superannuation Fund Amendment Act 1995][866] (1995 No 28)
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
@@ -12595,7 +12601,7 @@ Commencementsee section 2
     
     Public Finance Amendment Act 1992 (1992 No 142): [section 42][732]
     
-    [Government Superannuation Fund Amendment Act (No 2) 1992][863] (1992 No 61)
+    [Government Superannuation Fund Amendment Act (No 2) 1992][864] (1992 No 61)
     
     Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][418]
     
@@ -12605,11 +12611,11 @@ Commencementsee section 2
     
     National Provident Fund Restructuring Act 1990 (1990 No 126): [section 80][543]
     
-    [Government Superannuation Fund Amendment Act (No 2) 1990][862] (1990 No 77)
+    [Government Superannuation Fund Amendment Act (No 2) 1990][863] (1990 No 77)
     
     Education Amendment Act 1990 (1990 No 60): [section 50(1)][414]
     
-    [Government Superannuation Fund Amendment Act 1990][858] (1990 No 30)
+    [Government Superannuation Fund Amendment Act 1990][859] (1990 No 30)
     
     Defence Act 1990 (1990 No 28): [section 102(5)][571]
     
@@ -12623,15 +12629,15 @@ Commencementsee section 2
     
     State Sector Act 1988 (1988 No 20): [sections 87][411], [90(a)][479]
     
-    [Government Superannuation Fund Amendment Act 1988][855] (1988 No 19)
+    [Government Superannuation Fund Amendment Act 1988][856] (1988 No 19)
     
-    [Government Superannuation Fund Amendment Act 1987][854] (1987 No 187)
+    [Government Superannuation Fund Amendment Act 1987][855] (1987 No 187)
     
-    [Government Superannuation Fund Amendment Act 1986][853] (1986 No 132)
+    [Government Superannuation Fund Amendment Act 1986][854] (1986 No 132)
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][468]
     
-    [Government Superannuation Fund Amendment Act (No 2) 1985][852] (1985 No 63)
+    [Government Superannuation Fund Amendment Act (No 2) 1985][853] (1985 No 63)
     
     [Government Superannuation Fund Amendment Act 1985][484] (1985 No 62)
     
@@ -12649,15 +12655,15 @@ Commencementsee section 2
     
     Tokelau Amendment Act 1976 (1976 No 122): [section 3(8)][528]
     
-    [Government Superannuation Fund Amendment Act 1976][848] (1976 No 30)
+    [Government Superannuation Fund Amendment Act 1976][849] (1976 No 30)
     
-    [Government Superannuation Fund Amendment Act 1973][846] (1973 No 94)
+    [Government Superannuation Fund Amendment Act 1973][847] (1973 No 94)
     
-    [Government Superannuation Fund Amendment Act 1972][841] (1972 No 33)
+    [Government Superannuation Fund Amendment Act 1972][842] (1972 No 33)
     
     Defence Act 1971 (1971 No 52): section 89(1)
     
-    [Government Superannuation Fund Amendment Act 1970][834] (1970 No 116)
+    [Government Superannuation Fund Amendment Act 1970][835] (1970 No 116)
     
     [Government Superannuation Fund Amendment Act 1969][699] (1969 No 38)
     
@@ -12673,7 +12679,7 @@ Commencementsee section 2
     
     [Government Superannuation Fund Amendment Act 1962][478] (1962 No 130)
     
-    [Government Superannuation Fund Amendment Act 1961][817] (1961 No 111)
+    [Government Superannuation Fund Amendment Act 1961][818] (1961 No 111)
     
     Universities Act 1961 (1961 No 54): section 59
     
@@ -13414,10 +13420,10 @@ Commencementsee section 2
 [722]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM88956
 [723]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM88957
 [724]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM330552
-[725]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM162459
-[726]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM143780
-[727]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM162472
-[728]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98873
+[725]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM143780
+[726]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM162472
+[727]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98873
+[728]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM5326333
 [729]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM143785
 [730]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM160808
 [731]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214622
@@ -13426,144 +13432,145 @@ Commencementsee section 2
 [734]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366246
 [735]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98874
 [736]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98875
-[737]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366247
-[738]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98876
-[739]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM348066
-[740]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM262405
-[741]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM248060
-[742]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM260571
-[743]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM264952
-[744]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533403
-[745]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533812
-[746]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448062
-[747]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448064
-[748]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448066
-[749]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448068
-[750]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533813
-[751]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448071
-[752]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533814
-[753]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448074
-[754]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533815
-[755]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448077
-[756]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533816
-[757]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448080
-[758]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448082
-[759]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533817
-[760]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448085
-[761]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533818
-[762]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448088
-[763]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533819
-[764]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448091
-[765]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448093
-[766]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448095
-[767]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448097
-[768]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533820
-[769]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448100
-[770]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448102
-[771]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533821
-[772]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448105
-[773]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448107
-[774]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448109
-[775]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448111
-[776]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448113
-[777]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448115
-[778]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448118
-[779]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533822
-[780]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448121
-[781]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448123
-[782]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448125
-[783]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533823
-[784]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448128
-[785]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533824
-[786]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448131
-[787]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448133
-[788]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448135
-[789]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448137
-[790]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448139
-[791]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448141
-[792]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448143
-[793]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448145
-[794]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448147
-[795]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533825
-[796]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448150
-[797]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448152
-[798]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448155
-[799]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448157
-[800]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448159
-[801]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533826
-[802]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448162
-[803]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533827
-[804]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448165
-[805]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533828
-[806]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448168
-[807]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448170
-[808]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448172
-[809]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448174
-[810]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448176
-[811]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448178
-[812]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448180
-[813]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448182
-[814]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM330300
-[815]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM330308
-[816]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM316477
-[817]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM337532
-[818]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM335539
-[819]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM75923
-[820]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100534
-[821]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361770
-[822]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100535
-[823]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100537
-[824]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM2988106
-[825]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575407
-[826]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439013
-[827]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM128787
-[828]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM406597
-[829]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM425996
-[830]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439016
-[831]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439019
-[832]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361773
-[833]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM261624
-[834]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM395723
-[835]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM35085
-[836]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM34632
-[837]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM147084
-[838]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439033
-[839]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM125354
-[840]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410881
-[841]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM406574
-[842]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439007
-[843]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439009
-[844]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439036
-[845]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366249
-[846]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410874
-[847]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM425988
-[848]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM438794
-[849]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214626
-[850]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575419
-[851]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM129108
-[852]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM75906
-[853]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM99993
-[854]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM125341
-[855]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM128780
-[856]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM256838
-[857]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM147074
-[858]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM207525
-[859]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM277147
-[860]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361775
-[861]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214627
-[862]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214605
-[863]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM268507
-[864]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366271
-[865]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366224
-[866]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM335520
-[867]: http://www.pco.parliament.govt.nz/reprints/
-[868]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195439
-[869]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[870]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195468
-[871]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195470
-[872]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575400
-[873]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM348059
-[874]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM217059
-[875]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM184040
-[876]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410374
-[877]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM225036
+[737]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM3360714
+[738]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366247
+[739]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM98876
+[740]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM348066
+[741]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM262405
+[742]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM248060
+[743]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM260571
+[744]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM264952
+[745]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533403
+[746]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533812
+[747]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448062
+[748]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448064
+[749]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448066
+[750]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448068
+[751]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533813
+[752]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448071
+[753]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533814
+[754]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448074
+[755]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533815
+[756]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448077
+[757]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533816
+[758]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448080
+[759]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448082
+[760]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533817
+[761]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448085
+[762]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533818
+[763]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448088
+[764]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533819
+[765]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448091
+[766]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448093
+[767]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448095
+[768]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448097
+[769]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533820
+[770]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448100
+[771]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448102
+[772]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533821
+[773]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448105
+[774]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448107
+[775]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448109
+[776]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448111
+[777]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448113
+[778]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448115
+[779]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448118
+[780]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533822
+[781]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448121
+[782]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448123
+[783]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448125
+[784]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533823
+[785]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448128
+[786]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533824
+[787]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448131
+[788]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448133
+[789]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448135
+[790]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448137
+[791]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448139
+[792]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448141
+[793]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448143
+[794]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448145
+[795]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448147
+[796]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533825
+[797]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448150
+[798]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448152
+[799]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448155
+[800]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448157
+[801]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448159
+[802]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533826
+[803]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448162
+[804]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533827
+[805]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448165
+[806]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM3533828
+[807]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448168
+[808]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448170
+[809]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448172
+[810]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448174
+[811]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448176
+[812]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448178
+[813]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448180
+[814]: http://www.legislation.govt.nz/act/public/1956/0047/latest/whole.html#DLM448182
+[815]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM330300
+[816]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM330308
+[817]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM316477
+[818]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM337532
+[819]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM335539
+[820]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM75923
+[821]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100534
+[822]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361770
+[823]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100535
+[824]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM100537
+[825]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM2988106
+[826]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575407
+[827]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439013
+[828]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM128787
+[829]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM406597
+[830]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM425996
+[831]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439016
+[832]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439019
+[833]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361773
+[834]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM261624
+[835]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM395723
+[836]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM35085
+[837]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM34632
+[838]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM147084
+[839]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439033
+[840]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM125354
+[841]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410881
+[842]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM406574
+[843]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439007
+[844]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439009
+[845]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM439036
+[846]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366249
+[847]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410874
+[848]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM425988
+[849]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM438794
+[850]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214626
+[851]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575419
+[852]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM129108
+[853]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM75906
+[854]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM99993
+[855]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM125341
+[856]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM128780
+[857]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM256838
+[858]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM147074
+[859]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM207525
+[860]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM277147
+[861]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM361775
+[862]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214627
+[863]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM214605
+[864]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM268507
+[865]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366271
+[866]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM366224
+[867]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM335520
+[868]: http://www.pco.parliament.govt.nz/reprints/
+[869]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195439
+[870]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[871]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195468
+[872]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM195470
+[873]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM1575400
+[874]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM348059
+[875]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM217059
+[876]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM184040
+[877]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM410374
+[878]: http://www.legislation.govt.nz/act/public/1956/0047/latest/link.aspx?id=DLM225036
