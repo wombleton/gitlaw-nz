@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -310,463 +310,467 @@ This Act is administered by the Ministry of Transport.
 
 [64][140][][140][Appeals against disqualification][140]
 
-[Offences punishable on summary conviction][141]
+[Charging documents and burden of proof][141]
 
-[65][142][][142][Offences to be punishable on summary conviction][142]
+[65][142][][142][Time for filing charging document][142]
 
-[Part 5A][143]  
-[Unruly passenger offences][143]
+[65AA][143][][143][Burden of proof of reasonable excuse][143]
 
-[Preliminary provisions][144]
+[Part 5A][144]  
+[Unruly passenger offences][144]
 
-[65A][145][][145][Application of this Part][145]
+[Preliminary provisions][145]
 
-[65B][146][][146][Liability for offences against this Part despite extraterritoriality][146]
+[65A][146][][146][Application of this Part][146]
 
-[65C][147][][147][Liability for offences under Summary Offences Act 1981 despite extraterritoriality][147]
+[65B][147][][147][Liability for offences against this Part despite extraterritoriality][147]
 
-[65D][148][][148][Foreign aircraft outside New Zealand][148]
+[65C][148][][148][Liability for offences under Summary Offences Act 1981 despite extraterritoriality][148]
 
-[65E][149][][149][Proceedings for offences][149]
+[65D][149][][149][Foreign aircraft outside New Zealand][149]
 
-[Unruly passenger offences][150]
+[65E][150][][150][Proceedings for offences][150]
 
-[65F][151][][151][Strict liability for acts endangering safety][151]
+[Unruly passenger offences][151]
 
-[65G][152][][152][Disruptive conduct towards crew member][152]
+[65F][152][][152][Strict liability for acts endangering safety][152]
 
-[65H][153][][153][Interference with aircraft][153]
+[65G][153][][153][Disruptive conduct towards crew member][153]
 
-[65I][154][][154][Intoxicated persons on aircraft][154]
+[65H][154][][154][Interference with aircraft][154]
 
-[65J][155][][155][Non-compliance with commands given by pilot-in-command][155]
+[65I][155][][155][Intoxicated persons on aircraft][155]
 
-[65K][156][][156][Offensive behaviour or words][156]
+[65J][156][][156][Non-compliance with commands given by pilot-in-command][156]
 
-[65L][157][][157][Portable electronic devices not to be operated][157]
+[65K][157][][157][Offensive behaviour or words][157]
 
-[65M][158][][158][Non-compliance with seating and seatbelt instructions][158]
+[65L][158][][158][Portable electronic devices not to be operated][158]
 
-[65N][159][][159][No smoking][159]
+[65M][159][][159][Non-compliance with seating and seatbelt instructions][159]
 
-[65O][160][][160][Dangerous goods][160]
+[65N][160][][160][No smoking][160]
 
-[65P][161][][161][Procedure for certain unruly passenger offences][161]
+[65O][161][][161][Dangerous goods][161]
 
-[65Q][162][][162][Form of infringement notice][162]
+[65P][162][][162][Procedure for certain unruly passenger offences][162]
 
-[65R][163][][163][Payment of fees][163]
+[65Q][163][][163][Form of infringement notice][163]
 
-[65S][164][][164][Filing of notices][164]
+[65R][164][][164][Payment of fees][164]
 
-[65T][165][][165][Savings][165]
+[65S][165][][165][Filing of notices][165]
 
-[Part 6][166]  
-[Rights of appeal][166]
+[65T][166][][166][Savings][166]
 
-[66][167][][167][Appeal to District Court][167]
+[Part 6][167]  
+[Rights of appeal][167]
 
-[67][168][][168][Procedure][168] \[Repealed\]
+[66][168][][168][Appeal to District Court][168]
 
-[68][169][][169][Decision of Director to continue in force pending appeal, etc][169] \[Repealed\]
+[67][169][][169][Procedure][169] \[Repealed\]
 
-[69][170][][170][Appeal to High Court on question of law][170]
+[68][170][][170][Decision of Director to continue in force pending appeal, etc][170] \[Repealed\]
 
-[70][171][][171][Further appeal to Court of Appeal][171]
+[69][171][][171][Appeal to High Court on question of law][171]
 
-[71][172][][172][Evidence and proof][172]
+[70][172][][172][Further appeal to Court of Appeal][172]
 
-[72][173][][173][Evidence of air traffic services provider][173]
+[71][173][][173][Evidence and proof][173]
 
-[Part 6A][174]  
-[Civil Aviation Authority of New Zealand][174]
+[72][174][][174][Evidence of air traffic services provider][174]
 
-[72A][175][][175][Civil Aviation Authority of New Zealand established][175]
+[Part 6A][175]  
+[Civil Aviation Authority of New Zealand][175]
 
-[72AA][176][][176][Objective of Authority][176]
+[72A][176][][176][Civil Aviation Authority of New Zealand established][176]
 
-[72B][177][][177][Functions of Authority][177]
+[72AA][177][][177][Objective of Authority][177]
 
-[72C][178][][178][Authority to comply with policy directions][178] \[Repealed\]
+[72B][178][][178][Functions of Authority][178]
 
-[72CA][179][][179][Surplus of Aviation Security Service funds payable to the Crown][179]
+[72C][179][][179][Authority to comply with policy directions][179] \[Repealed\]
 
-[72D][180][][180][Authority to have powers of natural person][180] \[Repealed\]
+[72CA][180][][180][Surplus of Aviation Security Service funds payable to the Crown][180]
 
-[72E][181][][181][Authority to consider delegating or contracting out of functions and powers][181]
+[72D][181][][181][Authority to have powers of natural person][181] \[Repealed\]
 
-[72F][182][][182][Extra information to be included in statement of intent][182]
+[72E][182][][182][Authority to consider delegating or contracting out of functions and powers][182]
 
-[72G][183][][183][Service charter][183]
+[72F][183][][183][Extra information to be included in statement of intent][183]
 
-[72H][184][][184][Use of words Civil Aviation Authority][184]
+[72G][184][][184][Service charter][184]
 
-[72I][185][][185][Director of Civil Aviation][185]
+[72H][185][][185][Use of words Civil Aviation Authority][185]
 
-[72J][186][][186][Acting Director of Civil Aviation][186]
+[72I][186][][186][Director of Civil Aviation][186]
 
-[72K][187][][187][Powers of Director in relation to examinations, etc][187]
+[72J][187][][187][Acting Director of Civil Aviation][187]
 
-[72L][188][][188][General Manager of Aviation Security Service][188]
+[72K][188][][188][Powers of Director in relation to examinations, etc][188]
 
-[72M][189][][189][Acting General Manager of Aviation Security Service][189]
+[72L][189][][189][General Manager of Aviation Security Service][189]
 
-[72N][190][][190][Use of words Aviation Security Service][190]
+[72M][190][][190][Acting General Manager of Aviation Security Service][190]
 
-[72O][191][][191][References to Director to be read as General Manager of Aviation Security Service in certain circumstances][191]
+[72N][191][][191][Use of words Aviation Security Service][191]
 
-[Part 7][192]  
-[Registries and information services][192]
+[72O][192][][192][References to Director to be read as General Manager of Aviation Security Service in certain circumstances][192]
 
-[73][193][][193][New Zealand Register of Aircraft][193]
+[Part 7][193]  
+[Registries and information services][193]
 
-[74][194][][194][Civil Aviation Registry][194]
+[73][194][][194][New Zealand Register of Aircraft][194]
 
-[75][195][][195][Information services][195]
+[74][195][][195][Civil Aviation Registry][195]
 
-[Part 8][196]  
-[Aviation security][196]
+[75][196][][196][Information services][196]
 
-[76][197][][197][Aviation security][197]
+[Part 8][197]  
+[Aviation security][197]
 
-[77][198][][198][Responsibility of Minister][198]
+[76][198][][198][Aviation security][198]
 
-[77A][199][][199][Powers and duties of Minister to require screening, searching, and seizing][199]
+[77][199][][199][Responsibility of Minister][199]
 
-[77B][200][][200][Powers and duties of Director to require screening, searching, and seizing][200]
+[77A][200][][200][Powers and duties of Minister to require screening, searching, and seizing][200]
 
-[77BA][201][][201][Certain _Gazette_ notices may not include security sensitive information][201]
+[77B][201][][201][Powers and duties of Director to require screening, searching, and seizing][201]
 
-[77C][202][][202][Transitional provisions for screening][202]
+[77BA][202][][202][Certain _Gazette_ notices may not include security sensitive information][202]
 
-[77F][203][][203][Powers and duties of Director relating to security checks][203]
+[77C][203][][203][Transitional provisions for screening][203]
 
-[77G][204][][204][Review procedures for security check determinations][204]
+[77F][204][][204][Powers and duties of Director relating to security checks][204]
 
-[77H][205][][205][Offence to carry out activity while authorisation withdrawn or after authorisation revoked][205]
+[77G][205][][205][Review procedures for security check determinations][205]
 
-[77I][206][][206][Offence to fail to comply with Director's requirement to withdraw or revoke authorisation][206]
+[77H][206][][206][Offence to carry out activity while authorisation withdrawn or after authorisation revoked][206]
 
-[78][207][][207][Aviation Security Service][207] \[Repealed\]
+[77I][207][][207][Offence to fail to comply with Director's requirement to withdraw or revoke authorisation][207]
 
-[79][208][][208][Authorised aviation security service providers][208]
+[78][208][][208][Aviation Security Service][208] \[Repealed\]
 
-[79A][209][][209][Further provisions relating to Aviation Security Service][209]
+[79][209][][209][Authorised aviation security service providers][209]
 
-[80][210][][210][Powers, functions, and duties of Aviation Security Service][210]
+[79A][210][][210][Further provisions relating to Aviation Security Service][210]
 
-[80A][211][][211][Powers and duties of aviation security officer relating to dangerous goods][211]
+[80][211][][211][Powers, functions, and duties of Aviation Security Service][211]
 
-[80B][212][][212][Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas][212]
+[80A][212][][212][Powers and duties of aviation security officer relating to dangerous goods][212]
 
-[80C][213][][213][Powers and duties of aviation security officers relating to security enhanced areas][213]
+[80B][213][][213][Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas][213]
 
-[80D][214][][214][Consent to be screened or searched][214]
+[80C][214][][214][Powers and duties of aviation security officers relating to security enhanced areas][214]
 
-[80E][215][][215][Persons who refuse to consent to be screened or searched][215]
+[80D][215][][215][Consent to be screened or searched][215]
 
-[80F][216][][216][Searches of persons refusing consent to be searched][216]
+[80E][216][][216][Persons who refuse to consent to be screened or searched][216]
 
-[80G][217][][217][Searches of persons][217]
+[80F][217][][217][Searches of persons refusing consent to be searched][217]
 
-[80H][218][][218][Power to require drivers to stop vehicles in security enhanced areas for screening or searching][218]
+[80G][218][][218][Searches of persons][218]
 
-[80I][219][][219][Protection of aviation security officers][219]
+[80H][219][][219][Power to require drivers to stop vehicles in security enhanced areas for screening or searching][219]
 
-[81][220][][220][Functions and duties of other aviation security service providers][220]
+[80I][220][][220][Protection of aviation security officers][220]
 
-[82][221][][221][Security designated aerodromes and navigation installations][221]
+[81][221][][221][Functions and duties of other aviation security service providers][221]
 
-[83][222][][222][Right of access][222]
+[82][222][][222][Security designated aerodromes and navigation installations][222]
 
-[84][223][][223][Security areas and security enhanced areas][223]
+[83][223][][223][Right of access][223]
 
-[85][224][][224][Powers of arrest and seizure of items or substances][224]
+[84][224][][224][Security areas and security enhanced areas][224]
 
-[86][225][][225][Arrest of persons delivered to Police][225]
+[85][225][][225][Powers of arrest and seizure of items or substances][225]
 
-[87][226][][226][Powers of Police][226]
+[86][226][][226][Arrest of persons delivered to Police][226]
 
-[Part 8A][227]  
-[International air services licensing][227]
+[87][227][][227][Powers of Police][227]
 
-[87A][228][][228][Interpretation][228]
+[Part 8A][228]  
+[International air services licensing][228]
 
-[87B][229][][229][Scheduled international air service not to be carried on except pursuant to licence][229]
+[87A][229][][229][Interpretation][229]
 
-[87C][230][][230][Application for licence][230]
+[87B][230][][230][Scheduled international air service not to be carried on except pursuant to licence][230]
 
-[Scheduled international air service licences for New Zealand international airlines][231]
+[87C][231][][231][Application for licence][231]
 
-[87D][232][][232][Minister to be licensing authority for New Zealand international airlines][232]
+[Scheduled international air service licences for New Zealand international airlines][232]
 
-[87E][233][][233][Notice of application][233]
+[87D][233][][233][Minister to be licensing authority for New Zealand international airlines][233]
 
-[87F][234][][234][Consideration of application for scheduled international air service licence by New Zealand international airline][234]
+[87E][234][][234][Notice of application][234]
 
-[87G][235][][235][Scheduled international air service licence may be granted subject to conditions][235]
+[87F][235][][235][Consideration of application for scheduled international air service licence by New Zealand international airline][235]
 
-[87H][236][][236][Duration of scheduled international air service licence][236]
+[87G][236][][236][Scheduled international air service licence may be granted subject to conditions][236]
 
-[87I][237][][237][Renewal of scheduled international air service licence][237]
+[87H][237][][237][Duration of scheduled international air service licence][237]
 
-[87J][238][][238][Variation of terms and conditions of scheduled international air service licence][238]
+[87I][238][][238][Renewal of scheduled international air service licence][238]
 
-[87K][239][][239][Transfer of scheduled international air service licence][239]
+[87J][239][][239][Variation of terms and conditions of scheduled international air service licence][239]
 
-[Scheduled international air service licences for foreign international airlines][240]
+[87K][240][][240][Transfer of scheduled international air service licence][240]
 
-[87L][241][][241][Secretary to be licensing authority for foreign international airlines][241]
+[Scheduled international air service licences for foreign international airlines][241]
 
-[87M][242][][242][Consideration of application for scheduled international air service licence by foreign international airline][242]
+[87L][242][][242][Secretary to be licensing authority for foreign international airlines][242]
 
-[87N][243][][243][Scheduled international air service licence may be granted subject to conditions][243]
+[87M][243][][243][Consideration of application for scheduled international air service licence by foreign international airline][243]
 
-[87O][244][][244][Duration of scheduled international air service licence][244]
+[87N][244][][244][Scheduled international air service licence may be granted subject to conditions][244]
 
-[87P][245][][245][Renewal of scheduled international air service licence][245]
+[87O][245][][245][Duration of scheduled international air service licence][245]
 
-[87Q][246][][246][Variation of terms and conditions of scheduled international air service licence][246]
+[87P][246][][246][Renewal of scheduled international air service licence][246]
 
-[Open aviation market licences][247]
+[87Q][247][][247][Variation of terms and conditions of scheduled international air service licence][247]
 
-[87R][248][][248][Minister may designate countries or territories for open aviation market licences][248]
+[Open aviation market licences][248]
 
-[87S][249][][249][Secretary to be licensing authority for open aviation market licences][249]
+[87R][249][][249][Minister may designate countries or territories for open aviation market licences][249]
 
-[87T][250][][250][Consideration of application for open aviation market licence][250]
+[87S][250][][250][Secretary to be licensing authority for open aviation market licences][250]
 
-[87U][251][][251][Open aviation market licence may be granted subject to conditions][251]
+[87T][251][][251][Consideration of application for open aviation market licence][251]
 
-[87V][252][][252][Duration of open aviation market licence][252]
+[87U][252][][252][Open aviation market licence may be granted subject to conditions][252]
 
-[87W][253][][253][Renewal of open aviation market licence][253]
+[87V][253][][253][Duration of open aviation market licence][253]
 
-[87X][254][][254][Variation of terms and conditions of open aviation market licence][254]
+[87W][254][][254][Renewal of open aviation market licence][254]
 
-[87Y][255][][255][Transfer of open aviation market licence][255]
+[87X][255][][255][Variation of terms and conditions of open aviation market licence][255]
 
-[87Z][256][][256][Holder of open aviation market licence may operate non-scheduled international flights without authorisation under section 87ZE][256]
+[87Y][256][][256][Transfer of open aviation market licence][256]
 
-[Requirements on licensees][257]
+[87Z][257][][257][Holder of open aviation market licence may operate non-scheduled international flights without authorisation under section 87ZE][257]
 
-[87ZA][258][][258][Insurance cover against liability][258]
+[Requirements on licensees][258]
 
-[87ZB][259][][259][Returns to be furnished][259]
+[87ZA][259][][259][Insurance cover against liability][259]
 
-[Suspension and revocation of licences][260]
+[87ZB][260][][260][Returns to be furnished][260]
 
-[87ZC][261][][261][Suspension of licences][261]
+[Suspension and revocation of licences][261]
 
-[87ZD][262][][262][Revocation of licences][262]
+[87ZC][262][][262][Suspension of licences][262]
 
-[Non-scheduled international flights][263]
+[87ZD][263][][263][Revocation of licences][263]
 
-[87ZE][264][][264][Commercial non-scheduled international flights not to be operated except as authorised by Secretary][264]
+[Non-scheduled international flights][264]
 
-[Miscellaneous provisions][265]
+[87ZE][265][][265][Commercial non-scheduled international flights not to be operated except as authorised by Secretary][265]
 
-[87ZF][266][][266][Provisions of this Part in addition to requirements of regulations and rules][266]
+[Miscellaneous provisions][266]
 
-[87ZG][267][][267][This Part not in force in Tokelau][267]
+[87ZF][267][][267][Provisions of this Part in addition to requirements of regulations and rules][267]
 
-[Part 9][268]  
-[International air carriage competition][268]
+[87ZG][268][][268][This Part not in force in Tokelau][268]
 
-[88][269][][269][Authorisation of contracts, arrangements, and understandings relating to international carriage by air][269]
+[Part 9][269]  
+[International air carriage competition][269]
 
-[89][270][][270][Minister may issue commission regimes][270]
+[88][270][][270][Authorisation of contracts, arrangements, and understandings relating to international carriage by air][270]
 
-[90][271][][271][Authorisation of tariffs by Minister][271]
+[89][271][][271][Minister may issue commission regimes][271]
 
-[91][272][][272][Application of Commerce Act 1986][272]
+[90][272][][272][Authorisation of tariffs by Minister][272]
 
-[Part 9A][273]  
-[International carriage by air][273]
+[91][273][][273][Application of Commerce Act 1986][273]
 
-[91A][274][][274][Interpretation][274]
+[Part 9A][274]  
+[International carriage by air][274]
 
-[91B][275][][275][Application of Guadalajara Convention][275]
+[91A][275][][275][Interpretation][275]
 
-[91C][276][][276][Conventions to have force of law][276]
+[91B][276][][276][Application of Guadalajara Convention][276]
 
-[91D][277][][277][Inconsistency between French and English texts][277]
+[91C][277][][277][Conventions to have force of law][277]
 
-[91E][278][][278][Fatal accidents][278]
+[91D][278][][278][Inconsistency between French and English texts][278]
 
-[91F][279][][279][Contributory negligence][279]
+[91E][279][][279][Fatal accidents][279]
 
-[91G][280][][280][Limitation of liability][280]
+[91F][280][][280][Contributory negligence][280]
 
-[91H][281][][281][Value of special drawing right][281]
+[91G][281][][281][Limitation of liability][281]
 
-[91I][282][][282][Time for bringing proceedings][282]
+[91H][282][][282][Value of special drawing right][282]
 
-[91J][283][][283][Actions against High Contracting Parties][283]
+[91I][283][][283][Time for bringing proceedings][283]
 
-[91JA][284][][284][Actions against Parties to Montreal Convention][284]
+[91J][284][][284][Actions against High Contracting Parties][284]
 
-[91K][285][][285][Designation of Parties][285]
+[91JA][285][][285][Actions against Parties to Montreal Convention][285]
 
-[91L][286][][286][Article 40A of amended Convention][286]
+[91K][286][][286][Designation of Parties][286]
 
-[91M][287][][287][Power to exclude aircraft in use for military purposes][287]
+[91L][287][][287][Article 40A of amended Convention][287]
 
-[Transitional provisions][288]
+[91M][288][][288][Power to exclude aircraft in use for military purposes][288]
 
-[91N][289][][289][Occurrences before commencement of this Part][289]
+[Transitional provisions][289]
 
-[91O][290][][290][High Contracting Parties not Party to Hague Protocol][290]
+[91N][290][][290][Occurrences before commencement of this Part][290]
 
-[91P][291][][291][High Contracting Parties not Party to Montreal Protocols][291]
+[91O][291][][291][High Contracting Parties not Party to Hague Protocol][291]
 
-[91Q][292][][292][High Contracting Parties not Party to Protocol No 4][292]
+[91P][292][][292][High Contracting Parties not Party to Montreal Protocols][292]
 
-[91R][293][][293][High Contracting Parties not Party to Protocol No 2][293]
+[91Q][293][][293][High Contracting Parties not Party to Protocol No 4][293]
 
-[91RA][294][][294][High Contracting Party or Party not Party to Montreal Convention][294]
+[91R][294][][294][High Contracting Parties not Party to Protocol No 2][294]
 
-[91S][295][][295][Currency equivalent notices][295]
+[91RA][295][][295][High Contracting Party or Party not Party to Montreal Convention][295]
 
-[91T][296][][296][Regulations][296]
+[91S][296][][296][Currency equivalent notices][296]
 
-[Part 9B][297]  
-[Domestic carriage by air][297]
+[91T][297][][297][Regulations][297]
 
-[91U][298][][298][Interpretation][298]
+[Part 9B][298]  
+[Domestic carriage by air][298]
 
-[91V][299][][299][Application of this Part][299]
+[91U][299][][299][Interpretation][299]
 
-[91W][300][][300][Exclusions][300]
+[91V][300][][300][Application of this Part][300]
 
-[91X][301][][301][Provisions if carriage performed by actual carrier][301]
+[91W][301][][301][Exclusions][301]
 
-[91Y][302][][302][Provisions if carriage performed by successive carriers][302]
+[91X][302][][302][Provisions if carriage performed by actual carrier][302]
 
-[91Z][303][][303][Liability of carrier in respect of delay][303]
+[91Y][303][][303][Provisions if carriage performed by successive carriers][303]
 
-[91ZA][304][][304][Avoidance of liability][304]
+[91Z][304][][304][Liability of carrier in respect of delay][304]
 
-[91ZB][305][][305][Contributory negligence][305]
+[91ZA][305][][305][Avoidance of liability][305]
 
-[91ZC][306][][306][Limitation of liability][306]
+[91ZB][306][][306][Contributory negligence][306]
 
-[91ZD][307][][307][Contracting out][307]
+[91ZC][307][][307][Limitation of liability][307]
 
-[91ZE][308][][308][Wilful or reckless misconduct][308]
+[91ZD][308][][308][Contracting out][308]
 
-[91ZF][309][][309][Servants or agents of carrier][309]
+[91ZE][309][][309][Wilful or reckless misconduct][309]
 
-[91ZG][310][][310][Aggregation of damages][310]
+[91ZF][310][][310][Servants or agents of carrier][310]
 
-[91ZH][311][][311][Aggregate liability][311]
+[91ZG][311][][311][Aggregation of damages][311]
 
-[91ZI][312][][312][Just and equitable orders and awards][312]
+[91ZH][312][][312][Aggregate liability][312]
 
-[91ZJ][313][][313][Tortfeasors][313]
+[91ZI][313][][313][Just and equitable orders and awards][313]
 
-[91ZK][314][][314][Relationship between carriers][314]
+[91ZJ][314][][314][Tortfeasors][314]
 
-[91ZL][315][][315][Limitation of actions][315]
+[91ZK][315][][315][Relationship between carriers][315]
 
-[91ZM][316][][316][Combined carriage][316]
+[91ZL][316][][316][Limitation of actions][316]
 
-[Part 10][317]  
-[Aerodromes, facilities, and joint venture airports][317]
+[91ZM][317][][317][Combined carriage][317]
 
-[92][318][][318][Definition of joint venture airport][318]
+[Part 10][318]  
+[Aerodromes, facilities, and joint venture airports][318]
 
-[93][319][][319][Powers of Minister in respect of aerodromes and facilities][319]
+[92][319][][319][Definition of joint venture airport][319]
 
-[94][320][][320][Joint ventures][320]
+[93][320][][320][Powers of Minister in respect of aerodromes and facilities][320]
 
-[95][321][][321][Retention of Crown money in joint venture airport accounts][321]
+[94][321][][321][Joint ventures][321]
 
-[Part 11][322]  
-[Miscellaneous provisions][322]
+[95][322][][322][Retention of Crown money in joint venture airport accounts][322]
 
-[96][323][][323][Sale of liquor at international airports][323]
+[Part 11][323]  
+[Miscellaneous provisions][323]
 
-[96A][324][][324][Minister may prohibit smoking on international air routes][324]
+[96][324][][324][Sale of liquor at international airports][324]
 
-[96B][325][][325][Offences in respect of smoking on international flights][325]
+[96A][325][][325][Minister may prohibit smoking on international air routes][325]
 
-[96C][326][][326][Procedure for offence of smoking on international flight][326] \[Repealed\]
+[96B][326][][326][Offences in respect of smoking on international flights][326]
 
-[96D][327][][327][Form of infringement notice][327] \[Repealed\]
+[96C][327][][327][Procedure for offence of smoking on international flight][327] \[Repealed\]
 
-[96E][328][][328][Payment of fees][328] \[Repealed\]
+[96D][328][][328][Form of infringement notice][328] \[Repealed\]
 
-[96F][329][][329][Filing of notices][329] \[Repealed\]
+[96E][329][][329][Payment of fees][329] \[Repealed\]
 
-[97][330][][330][Nuisance, trespass, and responsibility for damage][330]
+[96F][330][][330][Filing of notices][330] \[Repealed\]
 
-[98][331][][331][Indemnity in respect of certain messages][331] \[Repealed\]
+[97][331][][331][Nuisance, trespass, and responsibility for damage][331]
 
-[99][332][][332][Airways Corporation to be sole provider of certain airways services][332]
+[98][332][][332][Indemnity in respect of certain messages][332] \[Repealed\]
 
-[99A][333][][333][Regulations relating to information disclosure][333]
+[99][333][][333][Airways Corporation to be sole provider of certain airways services][333]
 
-[99B][334][][334][Information to be supplied to Secretary][334]
+[99A][334][][334][Regulations relating to information disclosure][334]
 
-[99C][335][][335][Offences][335]
+[99B][335][][335][Information to be supplied to Secretary][335]
 
-[99D][336][][336][Administration of sections 99A to 99C][336] \[Repealed\]
+[99C][336][][336][Offences][336]
 
-[100][337][][337][Regulations][337]
+[99D][337][][337][Administration of sections 99A to 99C][337] \[Repealed\]
 
-[101][338][][338][Repeals, revocation, amendments, and savings][338]
+[100][338][][338][Regulations][338]
 
-[102][339][][339][Transitional provisions][339]
+[100A][339][][339][Burden of proof of exceptions, etc, for offences in rules and regulations][339]
 
-[103][340][][340][Effect of Act on Civil Aviation Regulations][340] \[Repealed\]
+[101][340][][340][Repeals, revocation, amendments, and savings][340]
 
-[Part 12][341]  
-[Cape Town Convention and Aircraft Protocol][341]
+[102][341][][341][Transitional provisions][341]
 
-[104][342][][342][Interpretation][342]
+[103][342][][342][Effect of Act on Civil Aviation Regulations][342] \[Repealed\]
 
-[105][343][][343][Cape Town Convention and Aircraft Protocol to have force of law][343]
+[Part 12][343]  
+[Cape Town Convention and Aircraft Protocol][343]
 
-[106][344][][344][Cape Town Convention and Aircraft Protocol to have effect in place of New Zealand law in certain circumstances][344]
+[104][344][][344][Interpretation][344]
 
-[107][345][][345][Governor-General may issue copies of declarations][345]
+[105][345][][345][Cape Town Convention and Aircraft Protocol to have force of law][345]
 
-[108][346][][346][Certificates about Contracting States][346]
+[106][346][][346][Cape Town Convention and Aircraft Protocol to have effect in place of New Zealand law in certain circumstances][346]
 
-[109][347][][347][Irrevocable de-registration and export request authorisations][347]
+[107][347][][347][Governor-General may issue copies of declarations][347]
 
-[110][348][][348][De-registration requests][348]
+[108][348][][348][Certificates about Contracting States][348]
 
-[111][349][][349][Removal requests][349]
+[109][349][][349][Irrevocable de-registration and export request authorisations][349]
 
-[112][350][][350][Director must prescribe and publish forms for de-registration requests][350]
+[110][350][][350][De-registration requests][350]
 
-[113][351][][351][Director may not exercise certain powers][351]
+[111][351][][351][Removal requests][351]
 
-[Schedule 1][352]  
-[Enactments repealed][352]
+[112][352][][352][Director must prescribe and publish forms for de-registration requests][352]
 
-[Schedule 2][353]  
-[Enactments amended][353]
+[113][353][][353][Director may not exercise certain powers][353]
 
-[Schedule 3][354]  
-[Provisions relating to Civil Aviation Authority of New Zealand][354]
+[Schedule 1][354]  
+[Enactments repealed][354]
 
-[Schedule 4][355]  
-[The Warsaw Convention as amended by the Hague Protocol of 1955 and the Montreal Additional Protocols Nos 1 and 2 and Protocol No 4 of 1975][355]
+[Schedule 2][355]  
+[Enactments amended][355]
 
-[Schedule 5][356]  
-[The Guadalajara Convention][356]
+[Schedule 3][356]  
+[Provisions relating to Civil Aviation Authority of New Zealand][356]
 
-[Schedule 6][357]  
-[The Montreal Convention][357]
+[Schedule 4][357]  
+[The Warsaw Convention as amended by the Hague Protocol of 1955 and the Montreal Additional Protocols Nos 1 and 2 and Protocol No 4 of 1975][357]
 
-[Schedule 7][358]  
-[Convention on International Interests in Mobile Equipment][358]
+[Schedule 5][358]  
+[The Guadalajara Convention][358]
 
-[Schedule 8][359]  
-[Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment][359]
+[Schedule 6][359]  
+[The Montreal Convention][359]
+
+[Schedule 7][360]  
+[Convention on International Interests in Mobile Equipment][360]
+
+[Schedule 8][361]  
+[Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment][361]
 
 ---
 
@@ -870,7 +874,7 @@ An Act---
     
     _ANZA_ means Australia New Zealand Aviation
     
-    _ANZA mutual recognition agreements_ means the agreements or arrangements specified in regulations made under [section 100(1)(ed)][337]
+    _ANZA mutual recognition agreements_ means the agreements or arrangements specified in regulations made under [section 100(1)(ed)][338]
     
     _approach control service_ means an air traffic control service for arriving or departing controlled flights
     
@@ -882,7 +886,7 @@ An Act---
     
     _Australian temporary stop notice_ has the same meaning as in section 3(1) of the Civil Aviation Act 1988 (Aust)
     
-    _Authority_ means the Civil Aviation Authority of New Zealand established by [section 72A][175]
+    _Authority_ means the Civil Aviation Authority of New Zealand established by [section 72A][176]
     
     _aviation document_ means any licence, permit, certificate, or other document issued under this Act to or in respect of any person, aircraft, aerodrome, aeronautical procedure, aeronautical product, or aviation related service
     
@@ -892,7 +896,7 @@ An Act---
     
     _aviation security officer_ means a person for the time being employed as such in the Aviation Security Service
     
-    _Aviation Security Service_ means the Aviation Security Service established under [section 72B(2)(ca)][177]
+    _Aviation Security Service_ means the Aviation Security Service established under [section 72B(2)(ca)][178]
     
     _CASA_ means---
         
@@ -900,9 +904,9 @@ An Act---
     
     *   (b) any successor of that Authority
     
-    _Civil Aviation Registry_ means the Registry established under [section 74][194]
+    _Civil Aviation Registry_ means the Registry established under [section 74][195]
     
-    _Commission_ means the Transport Accident Investigation Commission established under the [Transport Accident Investigation Commission Act 1990][360]
+    _Commission_ means the Transport Accident Investigation Commission established under the [Transport Accident Investigation Commission Act 1990][362]
     
     _controlled airspace_ means an airspace of defined dimensions within which an air traffic control service is provided to controlled flights
     
@@ -918,7 +922,7 @@ An Act---
     
     *   (c) the international standards and recommended practices from time to time accepted and amended by the International Civil Aviation Organisation under Article 37 of the Convention, to the extent adopted by New Zealand
     
-    _Corporation_ means Airways Corporation of New Zealand Limited, a company incorporated under the Companies Act 1955 pursuant to the [State-Owned Enterprises Act 1986][361]
+    _Corporation_ means Airways Corporation of New Zealand Limited, a company incorporated under the Companies Act 1955 pursuant to the [State-Owned Enterprises Act 1986][363]
     
     _dangerous goods_ means articles or substances that are capable of posing risk to health, safety, property, or the environment and---
         
@@ -928,13 +932,13 @@ An Act---
     
     _deputy convener_ means a medical practitioner appointed as deputy convener by the Minister under [section 27J][64]
     
-    _Director_ means the person who is for the time being the Director of Civil Aviation under [section 72I][185]
+    _Director_ means the person who is for the time being the Director of Civil Aviation under [section 72I][186]
     
     _flight information service_ means an air traffic service provided for the purpose of giving advice and information intended for the safe and efficient conduct of flights
     
-    _General Manager_ means the person who is for the time being the General Manager of the Aviation Security Service under [section 72L][188]
+    _General Manager_ means the person who is for the time being the General Manager of the Aviation Security Service under [section 72L][189]
     
-    _health professional_ means a person who is, or is deemed to be, registered with an authority established or continued by [section 114][362] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
+    _health professional_ means a person who is, or is deemed to be, registered with an authority established or continued by [section 114][364] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
     
     _holder_, in relation to any aviation document, includes any person lawfully entitled to exercise privileges in respect of that document
     
@@ -956,7 +960,7 @@ An Act---
     
     _medical practitioner_ means---
         
-    *   (a) a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][362] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; or
+    *   (a) a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by [section 114(1)(a)][364] of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; or
     
     *   (b) a person in a jurisdiction other than New Zealand who is entitled, licensed, or registered to practise medicine in that jurisdiction
     
@@ -974,7 +978,7 @@ An Act---
     
     _New Zealand AOC with ANZA privileges_ has the meaning set out in [section 11G][24]
     
-    _New Zealand Register of Aircraft_ means the register of that name that is established under [section 73][193]
+    _New Zealand Register of Aircraft_ means the register of that name that is established under [section 73][194]
     
     _New Zealand registered aircraft_ means any aircraft that is for the time being registered by the Director under [section 6(1)(a)][8]
     
@@ -992,15 +996,15 @@ An Act---
     
     _Secretary_ means the chief executive of the Ministry
     
-    _security area_ means an area that the Director has declared to be a security area under [section 84][223]
+    _security area_ means an area that the Director has declared to be a security area under [section 84][224]
     
-    _security designated aerodrome_ means an aerodrome for the time being designated as a security aerodrome under [section 82][221]
+    _security designated aerodrome_ means an aerodrome for the time being designated as a security aerodrome under [section 82][222]
     
-    _security designated navigation installation_ means a navigation installation for the time being designated as a security navigation installation under [section 82][221]
+    _security designated navigation installation_ means a navigation installation for the time being designated as a security navigation installation under [section 82][222]
     
-    _security enhanced area_ means an area that the Director has declared to be a security enhanced area under [section 84(1A)][363]
+    _security enhanced area_ means an area that the Director has declared to be a security enhanced area under [section 84(1A)][365]
     
-    _service charter_ means a service charter prepared and made available to the public under [section 72G][183]
+    _service charter_ means a service charter prepared and made available to the public under [section 72G][184]
     
     _specified examination_ means---
         
@@ -1016,103 +1020,103 @@ An Act---
     
     _unruly passenger offence_---
         
-    *   (a) means an offence against [Part 5A][143]; and
+    *   (a) means an offence against [Part 5A][144]; and
     
-    *   (b) includes an offence to which [section 65C][147] applies.
+    *   (b) includes an offence to which [section 65C][148] applies.
     
     (2) For the purposes of this Act, an aviation identity card issued or approved by the Director under any regulations or rules made under this Act is not an aviation document.
     
-    Compare: 1964 No 68 s 2; 1968 No 39 s 16(1); 1969 No 9 s 2; 1973 No 6 s 6(1); 1976 No 122 [s 3(8)][364]; 1976 No 153 s 2; 1977 No 146 s 2; 1987 No 108 s 2
+    Compare: 1964 No 68 s 2; 1968 No 39 s 16(1); 1969 No 9 s 2; 1973 No 6 s 6(1); 1976 No 122 [s 3(8)][366]; 1976 No 153 s 2; 1977 No 146 s 2; 1987 No 108 s 2
     
-    Section 2(1) **accident** paragraph (b): amended, on 1 June 2002, by [section 4(1)][365] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 2(1) **accident** paragraph (b): amended, on 1 June 2002, by [section 4(1)][367] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 2(1) **air traffic service** paragraph (g): amended, on 10 August 1992, by [section 2(1)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **air traffic service** paragraph (g): amended, on 10 August 1992, by [section 2(1)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 2(1) **air transport operations**: repealed, on 13 August 1996, by section 2 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 2(1) **ANZA**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **ANZA**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **ANZA mutual recognition agreements**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **ANZA mutual recognition agreements**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **Australia**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **Australia**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **Australian AOC with ANZA privileges**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **Australian AOC with ANZA privileges**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **Australian temporary stop notice**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **Australian temporary stop notice**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **Authority**: inserted, on 10 August 1992, by [section 2(3)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **Authority**: inserted, on 10 August 1992, by [section 2(3)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 2(1) **aviation examiner**: inserted, on 1 April 2002, by [section 4][368] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 2(1) **aviation examiner**: inserted, on 1 April 2002, by [section 4][370] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 2(1) **aviation examiner**: amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **aviation examiner**: amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Aviation Security Service**: amended, on 20 August 1993, by [section 2(2)][370] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 2(1) **Aviation Security Service**: amended, on 20 August 1993, by [section 2(2)][372] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 2(1) **CASA**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **CASA**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **convener**: inserted, on 1 April 2002, by [section 4][368] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 2(1) **convener**: inserted, on 1 April 2002, by [section 4][370] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 2(1) **convener**: amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **convener**: amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Convention**: substituted, on 1 June 2002, by [section 4(3)][365] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 2(1) **Convention**: substituted, on 1 June 2002, by [section 4(3)][367] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 2(1) **dangerous goods**: substituted, on 1 June 2004, by [section 4(2)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **dangerous goods**: substituted, on 1 June 2004, by [section 4(2)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **deputy convener**: inserted, on 1 April 2002, by [section 4][368] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 2(1) **deputy convener**: inserted, on 1 April 2002, by [section 4][370] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 2(1) **deputy convener**: amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **deputy convener**: amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **Director**: substituted, on 10 August 1992, by [section 2(4)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **Director**: substituted, on 10 August 1992, by [section 2(4)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 2(1) **General Manager**: inserted, on 20 August 1993, by [section 2(1)][370] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 2(1) **General Manager**: inserted, on 20 August 1993, by [section 2(1)][372] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 2(1) **health professional**: inserted, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **health professional**: inserted, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **judicial officer**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 2(1) **judicial officer**: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 2(1) **judicial officer**: amended, on 30 June 1998, by [section 7][372] of the District Courts Amendment Act 1998 (1998 No 76).
+    Section 2(1) **judicial officer**: amended, on 30 June 1998, by [section 7][374] of the District Courts Amendment Act 1998 (1998 No 76).
     
-    Section 2(1) **medical examiner**: inserted, on 1 April 2002, by [section 4][368] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 2(1) **medical examiner**: inserted, on 1 April 2002, by [section 4][370] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 2(1) **medical examiner**: amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical examiner**: amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **medical practitioner**: inserted, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **member**: inserted, on 10 August 1992, by [section 2(5)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **member**: inserted, on 10 August 1992, by [section 2(5)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 2(1) **member**: amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **member**: amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **Minister**: substituted, on 1 December 2004, by [section 3][374] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 2(1) **Minister**: substituted, on 1 December 2004, by [section 3][376] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 2(1) **Ministry**: substituted, on 1 December 2004, by [section 3][374] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 2(1) **Ministry**: substituted, on 1 December 2004, by [section 3][376] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 2(1) **New Zealand AOC with ANZA privileges**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **New Zealand AOC with ANZA privileges**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **New Zealand registered aircraft**: amended, on 10 August 1992, by [section 2(6)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **New Zealand registered aircraft**: amended, on 10 August 1992, by [section 2(6)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 2(1) **New Zealand temporary stop notice**: inserted, on 30 March 2007, by [section 4(1)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **New Zealand temporary stop notice**: inserted, on 30 March 2007, by [section 4(1)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(1) **performance agreement**: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 2(1) **performance agreement**: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 2(1) **registered medical practitioner**: repealed, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 2(1) **rules**: amended, on 1 August 2010, by [section 4][375] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 2(1) **rules**: amended, on 1 August 2010, by [section 4][377] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 2(1) **Secretary**: substituted, on 1 December 2004, by [section 3][374] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 2(1) **Secretary**: substituted, on 1 December 2004, by [section 3][376] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 2(1) **security area**: amended, on 20 August 1993, by [section 2(3)][370] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 2(1) **security area**: amended, on 20 August 1993, by [section 2(3)][372] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 2 **security enhanced area**: inserted, on 26 September 2007, by [section 4(2)][376] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 2 **security enhanced area**: inserted, on 26 September 2007, by [section 4(2)][378] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 2(1) **service charter**: added, on 10 August 1992, by [section 2(8)][366] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 2(1) **service charter**: added, on 10 August 1992, by [section 2(8)][368] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 2(1) **specified examination**: added, on 1 April 2002, by [section 4][368] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 2(1) **specified examination**: added, on 1 April 2002, by [section 4][370] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 2(1) **sterile area**: added, on 26 September 2007, by [section 4(3)][376] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 2(1) **sterile area**: added, on 26 September 2007, by [section 4(3)][378] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 2(1) **unruly passenger offence**: added, on 1 June 2004, by [section 4(3)][367] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 2(1) **unruly passenger offence**: added, on 1 June 2004, by [section 4(3)][369] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 2(2): added, on 11 April 2008, by [section 4(4)][376] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 2(2): added, on 11 April 2008, by [section 4(4)][378] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 3 Act to bind the Crown
     
@@ -1120,11 +1124,11 @@ An Act---
     
     (2) Except as otherwise expressly provided in this Act or any other Act, or in the regulations or rules concerned, nothing in this Act or in any regulations or rules made under this Act shall apply to the New Zealand Defence Force.
     
-    Compare: 1964 No 68 s 26; 1986 No 124 [s 32(1)][377]; 1987 No 108 s 5
+    Compare: 1964 No 68 s 26; 1986 No 124 [s 32(1)][379]; 1987 No 108 s 5
 
 ##### 4 Application of Act
     
-*   (1) Except as provided in [section 53A][125], [Part 5A][143], and [section 96A][324], this Act and all regulations and rules made under this Act shall apply to the following:
+*   (1) Except as provided in [section 53A][125], [Part 5A][144], and [section 96A][325], this Act and all regulations and rules made under this Act shall apply to the following:
         
     *   (a) every person, aircraft, aerodrome, aeronautical product, air service, and aviation related service, in New Zealand:
     
@@ -1154,19 +1158,19 @@ An Act---
     
     *   (b) the officers and crew of any foreign military aircraft.
     
-    Section 4(1): amended, on 1 June 2004, by [section 5][378] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 4(1): amended, on 1 June 2004, by [section 5][380] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 4(1): amended, on 13 August 1996, by section 3 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 4(2): substituted, on 10 August 1992, by [section 3][379] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 4(2): substituted, on 10 August 1992, by [section 3][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 4(2A): inserted, on 10 August 1992, by [section 3][379] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 4(2A): inserted, on 10 August 1992, by [section 3][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 5 Civil Aviation Authority
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 10 August 1992, by [section 4][380] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 5: repealed, on 10 August 1992, by [section 4][382] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ## Part 1  
 Entry into the civil aviation system
@@ -1185,15 +1189,15 @@ Entry into the civil aviation system
     
     (3) The Director may decline to register any aircraft in accordance with the provisions of rules made under this Act.
     
-    (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][167].
+    (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][168].
     
     Compare: 1964 No 68 s 29(2)(h)
     
     Section 6(1): amended, on 13 August 1996, by section 4 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 6(1)(a): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 6(1)(a): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 6(3): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 6(3): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 7 Requirement for aviation document
     
@@ -1241,11 +1245,11 @@ Entry into the civil aviation system
     
     (3) Subject to any rules made under this Act, an aviation document may be issued by the Director for such specified period and subject to such conditions as the Director considers appropriate in each particular case.
     
-    (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][167].
+    (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][168].
     
-    Section 7(1)(s): added, on 1 April 2002, by [section 6][382] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 7(1)(s): added, on 1 April 2002, by [section 6][384] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 7(3): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 7(3): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 8 Application for aviation document
     
@@ -1259,7 +1263,7 @@ Entry into the civil aviation system
     
     (5) Service of any notification under this Act on a holder of, or applicant for, an aviation document shall be effective service if served on the address last provided by that holder or applicant under this section.
     
-    Section 8: substituted, on 10 August 1992, by [section 5][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 8: substituted, on 10 August 1992, by [section 5][385] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 8(2): substituted, on 13 August 1996, by section 5 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -1293,25 +1297,25 @@ Entry into the civil aviation system
     
     (3) It shall be a condition of every current aviation document that the holder and any person who has or is likely to have control over the exercise of the privileges under the document continue to satisfy the fit and proper person test specified in subsection (1)(b)(ii).
     
-    (4) Where the Director declines to grant an application for the grant or renewal of an aviation document under this section, the applicant may appeal against that decision to a District Court under [section 66][167].
+    (4) Where the Director declines to grant an application for the grant or renewal of an aviation document under this section, the applicant may appeal against that decision to a District Court under [section 66][168].
     
-    Section 9(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 9(1)(b)(i): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(1)(b)(i): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 9(1)(b)(iii): amended, on 10 August 1992, by [section 6(1)][384] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(1)(b)(iii): amended, on 10 August 1992, by [section 6(1)][386] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 9(1)(ba): inserted, on 30 March 2007, by [section 6][385] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 9(1)(ba): inserted, on 30 March 2007, by [section 6][387] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 9(1)(c): added, on 10 August 1992, by [section 6(1)][384] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(1)(c): added, on 10 August 1992, by [section 6(1)][386] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 9(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 9(3): amended, on 13 August 1996, by section 6 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 9(3): amended, on 10 August 1992, by [section 6(2)][384] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(3): amended, on 10 August 1992, by [section 6(2)][386] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 9(4): substituted, on 10 August 1992, by [section 6(3)][384] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 9(4): substituted, on 10 August 1992, by [section 6(3)][386] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 10 Criteria for fit and proper person test
     
@@ -1359,45 +1363,45 @@ Entry into the civil aviation system
         
     *   (a) in the case of non-disclosure to an individual of information about the individual,---
             
-        *   (i) inform the individual that he or she may, under the [Privacy Act 1993][386], complain to the Privacy Commissioner about that non-disclosure; and
+        *   (i) inform the individual that he or she may, under the [Privacy Act 1993][388], complain to the Privacy Commissioner about that non-disclosure; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][387] of that Act; and
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][389] of that Act; and
         
         
     
     *   (b) in any other case,---
             
-        *   (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][388]; and
+        *   (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][390]; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][389] of that Act.
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][391] of that Act.
         
         
     
-    Section 10(1): amended, on 10 August 1992, by [section 7(1)][390] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(1): amended, on 10 August 1992, by [section 7(1)][392] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(1)(d): amended, on 10 August 1992, by [section 7(2)][390] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(1)(d): amended, on 10 August 1992, by [section 7(2)][392] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(1)(g): added, on 30 March 2007, by [section 7(1)][391] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 10(1)(g): added, on 30 March 2007, by [section 7(1)][393] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 10(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(3): amended, on 10 August 1992, by [section 7(1)][390] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(3): amended, on 10 August 1992, by [section 7(1)][392] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(3): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(3): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(3)(a): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(3)(a): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(4): substituted, on 28 November 1991, by [section 2][392] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 10(4): substituted, on 28 November 1991, by [section 2][394] of the Civil Aviation Amendment Act 1991 (1991 No 116).
     
-    Section 10(4)(a): amended, on 30 March 2007, by [section 7(2)][391] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 10(4)(a): amended, on 30 March 2007, by [section 7(2)][393] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 10(5): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(5): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(6): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 10(6): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 10(7): substituted, on 1 June 2004, by [section 7(3)][391] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 10(7): substituted, on 1 June 2004, by [section 7(3)][393] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11 Rights of persons affected by proposed adverse decisions
     
@@ -1407,7 +1411,7 @@ Entry into the civil aviation system
     
     _affected document holder_, in relation to a person directly affected by an adverse decision, means the holder of or the applicant for the aviation document
     
-    _person directly affected_, in relation to any adverse decision, means the person who would be entitled under [section 66][167] to appeal against that adverse decision
+    _person directly affected_, in relation to any adverse decision, means the person who would be entitled under [section 66][168] to appeal against that adverse decision
     
     _person on the basis of whose character the adverse decision arises_, in relation to any adverse decision made or proposed to be made on the grounds referred to in [section 10][12], means the person whom the Director assesses as not being a fit and proper person.
     
@@ -1421,7 +1425,7 @@ Entry into the civil aviation system
     
     *   (d) where appropriate, specify the date on which the proposed decision will, unless the Director otherwise determines, take effect, being a date not less than 28 days after the date on which the notice is given; and
     
-    *   (e) notify the person of the person's right of appeal under [section 66][167], in the event of the Director proceeding with the proposed decision; and
+    *   (e) notify the person of the person's right of appeal under [section 66][168], in the event of the Director proceeding with the proposed decision; and
     
     *   (f) specify such other matters as in any particular case may be required by any provision of this or any other Act.
     
@@ -1465,56 +1469,56 @@ Entry into the civil aviation system
         
         
     
-    Section 11(1) **adverse decision**: substituted, on 10 August 1992, by [section 8(1)][393] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(1) **adverse decision**: substituted, on 10 August 1992, by [section 8(1)][395] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(1) **person on the basis of whose character the adverse decision arises**: amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(1) **person on the basis of whose character the adverse decision arises**: amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(2): amended, on 10 August 1992, by [section 8(2)][393] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(2): amended, on 10 August 1992, by [section 8(2)][395] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(2)(c): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(2)(c): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(2)(d): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(2)(d): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(2)(e): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(2)(e): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(3): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(3): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(3)(a)(ii): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(3)(a)(ii): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(5)(a): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(5)(a): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(5)(b): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(5)(b): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(5)(c): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(5)(c): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(6): amended, on 10 August 1992, by [section 8(3)][393] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(6): amended, on 10 August 1992, by [section 8(3)][395] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(6): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(6): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(6)(b)(i): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(6)(b)(i): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 11(6)(b)(iii): substituted, on 10 August 1992, by [section 8(4)][393] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 11(6)(b)(iii): substituted, on 10 August 1992, by [section 8(4)][395] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ## Part 1A  
 ANZA mutual recognition
     
-*   Part 1A: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Part 1A: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Heading: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11A Purpose
     
 *   The purpose of this Part is to implement the ANZA mutual recognition agreements.
     
-    Section 11A: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11A: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 #### Australian AOCs with ANZA privileges
     
-*   Heading: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Heading: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11B Holder of Australian AOC with ANZA privileges entitled to conduct air operations in New Zealand
     
@@ -1556,7 +1560,7 @@ ANZA mutual recognition
     
     (2) A holder of an Australian AOC with ANZA privileges must ensure that the Director is advised of every alteration to the Australian AOC with ANZA privileges or to the information provided by the holder to the Director within 7 days of the date on which the alteration is made.
     
-    Section 11B: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11B: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11C New Zealand temporary stop notice
     
@@ -1572,7 +1576,7 @@ ANZA mutual recognition
     
     (6) The Director must revoke a New Zealand temporary stop notice if the Authority receives notification from CASA of the Director of CASA's response to the New Zealand temporary stop notice.
     
-    Section 11C: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11C: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11D Contents of New Zealand temporary stop notice
     
@@ -1584,17 +1588,17 @@ ANZA mutual recognition
     
     (2) Failure to comply with subsection (1) does not invalidate the New Zealand temporary stop notice.
     
-    Section 11D: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11D: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11E Director to notify CASA about New Zealand temporary stop notice
     
 *   As soon as practicable after giving a New Zealand temporary stop notice to the holder of an Australian AOC with ANZA privileges, the Director must give CASA a copy of the notice and any other information that CASA may require.
     
-    Section 11E: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11E: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 #### AOCs with ANZA privileges
     
-*   Heading: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Heading: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11F Requirements for AOCs with ANZA privileges
     
@@ -1616,7 +1620,7 @@ ANZA mutual recognition
         
         
     
-    Section 11F: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11F: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11G Grant of New Zealand AOC with ANZA privileges
     
@@ -1652,9 +1656,9 @@ ANZA mutual recognition
     
     (5) A New Zealand AOC with ANZA privileges may be issued on any other conditions that the Director thinks appropriate.
     
-    (6) In subsection (2), _licensing authority_ has the same meaning as in [Part 8A][227].
+    (6) In subsection (2), _licensing authority_ has the same meaning as in [Part 8A][228].
     
-    Section 11G: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11G: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11H Action by Director when CASA gives Australian temporary stop notice to holder of New Zealand AOC with ANZA privileges
     
@@ -1676,7 +1680,7 @@ ANZA mutual recognition
     
     (2) The Director must notify CASA of his or her decision and of any action taken.
     
-    Section 11H: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11H: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11I Change of country of certification
     
@@ -1706,15 +1710,15 @@ ANZA mutual recognition
     
     *   (b) withdraw the privileges attaching to the AOC.
     
-    (4) Any person in respect of whom a decision is taken under subsection (3) may appeal against that decision to a District Court under [section 66][167].
+    (4) Any person in respect of whom a decision is taken under subsection (3) may appeal against that decision to a District Court under [section 66][168].
     
-    Section 11I: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11I: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 11J Delegation of Australian powers relating to Australian AOCs with ANZA privileges to employees of Authority
     
 *   An employee of the Authority may, subject to any directions from the Director of CASA, perform any function or exercise any power delegated to that employee under the Civil Aviation Act 1988 (Aust) for the purpose of enabling that employee to perform the function or exercise the power in New Zealand in respect of Australian AOCs with ANZA privileges.
     
-    Section 11J: inserted, on 30 March 2007, by [section 8][394] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 11J: inserted, on 30 March 2007, by [section 8][396] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ## Part 2  
 Functions, powers, and duties of participants in the civil aviation system
@@ -1735,9 +1739,9 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (c) shall provide sufficient resources to ensure compliance with the relevant prescribed safety standards and the conditions attached to the document.
     
-    Section 12(2): amended, on 11 April 2008, by [section 5][395] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 12(2): amended, on 11 April 2008, by [section 5][397] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 12(4)(c): amended, on 28 November 1991, by [section 3][396] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 12(4)(c): amended, on 28 November 1991, by [section 3][398] of the Civil Aviation Amendment Act 1991 (1991 No 116).
 
 ##### 13 Duties of pilot-in-command
     
@@ -1801,7 +1805,7 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) to ensure that New Zealand's obligations under international civil aviation agreements are implemented.
     
-    Section 14: substituted, on 1 December 2004, by [section 4][397] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 14: substituted, on 1 December 2004, by [section 4][399] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 14A Functions of Minister
     
@@ -1811,11 +1815,11 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) to administer New Zealand's participation in the Convention and any other international aviation convention, agreement, or understanding to which the Government of New Zealand is a party:
     
-    *   (c) to administer the Crown's interest in the aerodromes referred to in [Part 10][317]:
+    *   (c) to administer the Crown's interest in the aerodromes referred to in [Part 10][318]:
     
     *   (d) to make rules under this Act.
     
-    Section 14A: inserted, on 1 December 2004, by [section 4][397] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 14A: inserted, on 1 December 2004, by [section 4][399] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 14B Search and rescue operations
     
@@ -1847,7 +1851,7 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) the owner of any vehicle, ship, or aircraft used in a search and rescue operation specified in subsection (1)(a) in response to a request by a person appointed under subsection (1)(c).
     
-    Section 14B: inserted, on 1 December 2004, by [section 4][397] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 14B: inserted, on 1 December 2004, by [section 4][399] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 14C Minister may direct agencies with respect to search and rescue operations
     
@@ -1861,9 +1865,9 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (d) exercise any or all of the powers of the Minister under [section 14B(1)(b)][34] and (c) and section 14B(2).
     
-    Section 14C: inserted, on 1 December 2004, by [section 4][397] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 14C: inserted, on 1 December 2004, by [section 4][399] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 14C: amended, on 1 July 2005, by [section 11(3)][398] of the Maritime Transport Amendment Act 2004 (2004 No 98).
+    Section 14C: amended, on 1 July 2005, by [section 11(3)][400] of the Maritime Transport Amendment Act 2004 (2004 No 98).
 
 ##### 15 Director may require or carry out safety and security inspections and monitoring
     
@@ -1887,15 +1891,15 @@ Functions, powers, and duties of participants in the civil aviation system
     
     Section 15: substituted, on 13 August 1996, by section 8(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 15(1)(a): amended, on 30 March 2007, by [section 9(1)][399] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 15(1)(a): amended, on 30 March 2007, by [section 9(1)][401] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 15(1)(b): amended, on 1 April 2002, by [section 11][400] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 15(1)(b): amended, on 1 April 2002, by [section 11][402] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 15(1)(c): inserted, on 1 April 2002, by [section 11][400] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 15(1)(c): inserted, on 1 April 2002, by [section 11][402] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 15(1A): inserted, on 30 March 2007, by [section 9(2)][399] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 15(1A): inserted, on 30 March 2007, by [section 9(2)][401] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 15(2A): inserted, on 30 March 2007, by [section 9(3)][399] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 15(2A): inserted, on 30 March 2007, by [section 9(3)][401] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 15A Power of Director to investigate holder of aviation document
     
@@ -1923,13 +1927,13 @@ Functions, powers, and duties of participants in the civil aviation system
         
         
     
-    Section 15A: inserted, on 1 June 2002, by [section 5][401] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 15A: inserted, on 1 June 2002, by [section 5][403] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 16 Director of Civil Aviation Safety
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 10 August 1992, by [section 10][402] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 16: repealed, on 10 August 1992, by [section 10][404] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 17 Power of Director to suspend aviation document or impose conditions
     
@@ -1967,27 +1971,27 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (6) The whole or any part of an aviation document may be suspended under this section.
     
-    (7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][167].
+    (7) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][168].
     
-    Section 17(1)(c): substituted, on 10 August 1992, by [section 11][403] of the Civil Aviation Act 1992 (1992 No 75).
+    Section 17(1)(c): substituted, on 10 August 1992, by [section 11][405] of the Civil Aviation Act 1992 (1992 No 75).
     
-    Section 17(1)(d): amended, on 30 March 2007, by [section 10(1)][404] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 17(1)(d): amended, on 30 March 2007, by [section 10(1)][406] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 17(1)(e): added, on 30 March 2007, by [section 10(1)][404] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 17(1)(e): added, on 30 March 2007, by [section 10(1)][406] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 17(3): substituted, on 1 June 2002, by [section 6(1)][405] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 17(3): substituted, on 1 June 2002, by [section 6(1)][407] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 17(4): substituted, on 1 June 2002, by [section 6(1)][405] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 17(4): substituted, on 1 June 2002, by [section 6(1)][407] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 17(4)(e): added, on 1 June 2004, by [section 10(2)][404] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 17(4)(e): added, on 1 June 2004, by [section 10(2)][406] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 17(4A): inserted, on 1 June 2002, by [section 6(1)][405] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 17(4A): inserted, on 1 June 2002, by [section 6(1)][407] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 17(4A): amended, on 1 June 2004, by [section 10(3)(a)][404] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 17(4A): amended, on 1 June 2004, by [section 10(3)(a)][406] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 17(4A): amended, on 1 June 2004, by [section 10(3)(b)][404] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 17(4A): amended, on 1 June 2004, by [section 10(3)(b)][406] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 17(5): amended, on 1 June 2002, by [section 6(2)][405] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 17(5): amended, on 1 June 2002, by [section 6(2)][407] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 18 Power to revoke aviation document or impose conditions
     
@@ -2009,11 +2013,11 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) if the whole document is revoked, immediately surrender the document to the Director.
     
-    (5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][167].
+    (5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][168].
     
-    Section 18: substituted, on 1 June 2002, by [section 7][406] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 18: substituted, on 1 June 2002, by [section 7][408] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 18(1A): inserted, on 30 March 2007, by [section 11][407] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 18(1A): inserted, on 30 March 2007, by [section 11][409] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 19 Criteria for action taken under section 17 or section 18
     
@@ -2053,39 +2057,39 @@ Functions, powers, and duties of participants in the civil aviation system
         
     *   (a) in the case of non-disclosure to an individual of information about the individual,---
             
-        *   (i) inform the individual that the individual may, under the [Privacy Act 1993][386], complain to the Privacy Commissioner about that non-disclosure; and
+        *   (i) inform the individual that the individual may, under the [Privacy Act 1993][388], complain to the Privacy Commissioner about that non-disclosure; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][387] of that Act; and
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 27(1)(d)][389] of that Act; and
         
         
     
     *   (b) in any other case,---
             
-        *   (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][388]; and
+        *   (i) inform the person that the person may seek a review by an Ombudsman of that non-disclosure under the [Official Information Act 1982][390]; and
         
-        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][389] of that Act.
+        *   (ii) the provisions of that Act apply to that non-disclosure as if, following a request under that Act for the information withheld, the information had been withheld under [section 6(d)][391] of that Act.
         
         
     
-    Section 19(1): amended, on 1 June 2002, by [section 8(1)][408] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 19(1): amended, on 1 June 2002, by [section 8(1)][410] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 19(2): amended, on 10 August 1992, by [section 13(1)(a)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(2): amended, on 10 August 1992, by [section 13(1)(a)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(2): amended, on 10 August 1992, by [section 13(1)(b)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(2): amended, on 10 August 1992, by [section 13(1)(b)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(3): amended, on 10 August 1992, by [section 13(2)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(3): amended, on 10 August 1992, by [section 13(2)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(4): amended, on 10 August 1992, by [section 13(3)(a)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(4): amended, on 10 August 1992, by [section 13(3)(a)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(4)(a): amended, on 10 August 1992, by [section 13(3)(b)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(4)(a): amended, on 10 August 1992, by [section 13(3)(b)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(5): amended, on 1 June 2002, by [section 8(2)][408] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 19(5): amended, on 1 June 2002, by [section 8(2)][410] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 19(5): amended, on 10 August 1992, by [section 13(4)(a)][409] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 19(5): amended, on 10 August 1992, by [section 13(4)(a)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 19(6): substituted, on 1 June 2002, by [section 8(3)][408] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 19(6): substituted, on 1 June 2002, by [section 8(3)][410] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 19(7): substituted, on 1 June 2004, by [section 12][410] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 19(7): substituted, on 1 June 2004, by [section 12][412] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 20 Power of Director to amend or revoke aviation document in other cases
     
@@ -2109,15 +2113,15 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (5) When the holder of an aviation document is notified that specified action is proposed under this section, the holder shall forthwith produce the document to the Director.
     
-    Section 20 heading: amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 20 heading: amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 20(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 20(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 20(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 20(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 20(3): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 20(3): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 20(5): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 20(5): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 21 Power of Director to detain aircraft, seize aeronautical products, and impose prohibitions and conditions
     
@@ -2141,17 +2145,17 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (4) The Director shall, if requested by the owner or the person for the time being in charge of an aircraft detained or an aeronautical product seized under subsection (1), provide in writing to the owner or that person the reasons for the detention or seizure.
     
-    (5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][167].
+    (5) Any person in respect of whom any decision is taken under this section may appeal against that decision to a District Court under [section 66][168].
     
     (6) For the purpose of subsections (1) and (2), the Director shall notify any prohibitions or conditions to such persons as he or she considers necessary by such means of communication, whether or not of a permanent nature, as the Director considers appropriate in the circumstances.
     
     (7) \[Repealed\]
     
-    Section 21(1)(c): amended, on 10 August 1992, by [section 14(a)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 21(1)(c): amended, on 10 August 1992, by [section 14(a)][413] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 21(6): amended, on 10 August 1992, by [section 14(b)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 21(6): amended, on 10 August 1992, by [section 14(b)][413] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 21(7): repealed, on 10 August 1992, by [section 14(c)][411] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 21(7): repealed, on 10 August 1992, by [section 14(c)][413] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 22 Delegation of Minister's functions or powers to Authority
     
@@ -2175,15 +2179,15 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (8) The Authority must not delegate any functions or powers delegated to the Authority by the Minister without the written consent of the Minister.
     
-    Section 22: substituted, on 10 August 1992, by [section 15][412] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 22: substituted, on 10 August 1992, by [section 15][414] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 22(8): added, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 22(8): added, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 Delegation of Authority's functions or powers to employees of Authority
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23A Delegation of Director's functions or powers to employees of Authority
     
@@ -2199,7 +2203,7 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) the power under [section 18][40] to revoke an aviation document.
     
-    (5) The provisions of [sections 73(4)][413] and [74 to 76][414] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
+    (5) The provisions of [sections 73(4)][415] and [74 to 76][416] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
     
     (6) The Director must not delegate any functions or powers delegated to the Director by the Minister without the written consent of the Minister.
     
@@ -2207,19 +2211,19 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (8) Every delegation under this section, until it is revoked, continues in force according to its tenor, despite the fact that the employee of the Authority by whom it was made may cease to hold office, and continues to have effect as if made by the employee for the time being holding that office.
     
-    Section 23A: inserted, on 10 August 1992, by [section 15][412] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 23A: inserted, on 10 August 1992, by [section 15][414] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 23A(3): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(3): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23A(4)(a): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(4)(a): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23A(5): substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(5): substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23A(6): added, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(6): added, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23A(7): added, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(7): added, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23A(8): added, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23A(8): added, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23B Delegation of Director's functions or powers to persons outside Authority
     
@@ -2241,7 +2245,7 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (5) In any case where the Director has delegated any functions or powers to any person under this section, that person may, with the prior approval in writing of the Minister, delegate to any other person such of those functions or powers as are so approved.
     
-    (6) The provisions of [sections 73(4)][413] and [74 to 76][414] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
+    (6) The provisions of [sections 73(4)][415] and [74 to 76][416] of the Crown Entities Act 2004 apply as if references to the board were references to the Director, with all necessary modifications.
     
     (7) Any delegation under this section may be made to a specified person or persons of a specified class or to the holder or holders for the time being of a specified office or specified class of office.
     
@@ -2253,29 +2257,29 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (11) Every person purporting to act under any delegation under this section shall when reasonably requested to do so produce evidence of his or her authority to so act.
     
-    (12) Any person who exercises any function or power under a delegation made under this section or under [section 73][413] of the Crown Entities Act 2004 may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
+    (12) Any person who exercises any function or power under a delegation made under this section or under [section 73][415] of the Crown Entities Act 2004 may charge the person in respect of whom the function or power is exercised a reasonable fee in respect of the exercise of that function or power.
     
-    Section 23B: inserted, on 10 August 1992, by [section 15][412] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 23B: inserted, on 10 August 1992, by [section 15][414] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 23B heading: amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B heading: amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(1): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(1): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(2A): inserted, on 30 March 2007, by [section 13][415] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 23B(2A): inserted, on 30 March 2007, by [section 13][417] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 23B(5): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(5): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(6): substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(6): substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(9): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(9): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(10): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(10): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 23B(12): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23B(12): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23C Restrictions on delegations
     
-*   Notwithstanding [sections 23 to 23B][45] of this Act or [section 73][413] of the Crown Entities Act 2004,---
+*   Notwithstanding [sections 23 to 23B][45] of this Act or [section 73][415] of the Crown Entities Act 2004,---
         
     *   (a) neither the Authority nor the Director may delegate any function or power that does not relate to the functions or powers of the Aviation Security Service to any person in the Aviation Security Service without the prior written approval of the Minister:
     
@@ -2283,9 +2287,9 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (c) the General Manager shall not delegate any function or power in relation to the Aviation Security Service to any employee of the Authority who is not in the Aviation Security Service without the prior written approval of the Minister.
     
-    Section 23C: inserted, on 20 August 1993, by [section 3][416] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 23C: inserted, on 20 August 1993, by [section 3][418] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 23C: amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 23C: amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 24 General power of entry
     
@@ -2315,13 +2319,13 @@ Functions, powers, and duties of participants in the civil aviation system
     
     *   (b) must, if a document is surrendered under paragraph (a), orally inform the relevant aviation document holders or, if applicable, the relevant Australian AOC with ANZA privileges holder, as soon as practicable, and in writing that the document has been surrendered.
     
-    (3A) The right of access and the powers conferred by any of subsections (1) to (3) may not be used to gain a right of access to, to inspect, or to require the production or surrender of a record specified in paragraph (a) or paragraph (b) of [section 14C(2)][417] of the Transport Accident Investigation Commission Act 1990\.
+    (3A) The right of access and the powers conferred by any of subsections (1) to (3) may not be used to gain a right of access to, to inspect, or to require the production or surrender of a record specified in paragraph (a) or paragraph (b) of [section 14C(2)][419] of the Transport Accident Investigation Commission Act 1990\.
     
-    (4) Nothing in subsection (1) or subsection (2) shall confer on any person the power to enter any dwellinghouse, or any marae or building associated with a marae, unless the entry is authorised by a warrant given by an issuing officer on application in the manner provided for an application for a search warrant in [subpart 3][418] of Part 4 of the Search and Surveillance Act 2012, which must not be granted unless the issuing officer is satisfied that the entry is essential to enable the inspection to be carried out.
+    (4) Nothing in subsection (1) or subsection (2) shall confer on any person the power to enter any dwellinghouse, or any marae or building associated with a marae, unless the entry is authorised by a warrant given by an issuing officer on application in the manner provided for an application for a search warrant in [subpart 3][420] of Part 4 of the Search and Surveillance Act 2012, which must not be granted unless the issuing officer is satisfied that the entry is essential to enable the inspection to be carried out.
     
-    (5) Subject to subsections (5A), (6), and (7), [subparts 1][419], [3][420], [4][421], [5][422], [7][423], [9][424], and [10][425] of the Search and Surveillance Act 2012 apply in relation to the issue of a warrant under subsection (4) and its execution.
+    (5) Subject to subsections (5A), (6), and (7), [subparts 1][421], [3][422], [4][423], [5][424], [7][425], [9][426], and [10][427] of the Search and Surveillance Act 2012 apply in relation to the issue of a warrant under subsection (4) and its execution.
     
-    (5A) Despite subsection (5), [sections 118][426] and [119][427] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
+    (5A) Despite subsection (5), [sections 118][428] and [119][429] of the Search and Surveillance Act 2012 apply only in respect of a warrant issued to a named constable or to every constable.
     
     (6) Every person exercising the power of entry conferred by subsection (1) or subsection (2) shall carry a warrant of authority issued by the Director specifying---
         
@@ -2339,45 +2343,45 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (8) Every constable shall have and may exercise all or any of the powers conferred on a person who has been duly authorised by the Director under this section.
     
-    Section 24(1): amended, on 30 March 2007, by [section 14(1)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(1): amended, on 30 March 2007, by [section 14(1)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 24(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 24(1A): inserted, on 30 March 2007, by [section 14(2)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(1A): inserted, on 30 March 2007, by [section 14(2)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 24(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 24(2)(ab): inserted, on 30 March 2007, by [section 14(3)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(2)(ab): inserted, on 30 March 2007, by [section 14(3)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(2)(b): amended, on 30 March 2007, by [section 14(4)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(2)(b): amended, on 30 March 2007, by [section 14(4)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(3): substituted, on 1 June 2002, by [section 9][429] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 24(3): substituted, on 1 June 2002, by [section 9][431] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 24(3): amended, on 1 June 2004, by [section 14(5)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(3): amended, on 1 June 2004, by [section 14(5)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(3)(a): amended, on 30 March 2007, by [section 14(6)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(3)(a): amended, on 30 March 2007, by [section 14(6)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(3)(b): substituted, on 30 March 2007, by [section 14(7)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(3)(b): substituted, on 30 March 2007, by [section 14(7)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(3A): inserted, on 10 September 1999, by [section 10][430] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
+    Section 24(3A): inserted, on 10 September 1999, by [section 10][432] of the Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113).
     
-    Section 24(4): amended, on 1 October 2012, by [section 210(2)][431] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 24(4): amended, on 1 October 2012, by [section 210(2)][433] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 24(5): replaced, on 1 October 2012, by [section 210(3)][431] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 24(5): replaced, on 1 October 2012, by [section 210(3)][433] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 24(5A): inserted, on 1 October 2012, by [section 210(3)][431] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 24(5A): inserted, on 1 October 2012, by [section 210(3)][433] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 24(6): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 24(6): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 24(6)(b): amended, on 30 March 2007, by [section 14(8)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(6)(b): amended, on 30 March 2007, by [section 14(8)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(6)(b): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 24(6)(b): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 24(6)(c): added, on 30 March 2007, by [section 14(8)][428] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 24(6)(c): added, on 30 March 2007, by [section 14(8)][430] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 24(8): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 24(8): amended, on 1 October 2008, pursuant to [section 116(a)(vii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 24(8): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 24(8): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 25 Powers of entry of Corporation
     
@@ -2393,7 +2397,7 @@ Functions, powers, and duties of participants in the civil aviation system
         
     *   (a) entry to the land shall be made only by an officer, employee, or agent of the Corporation authorised by it in writing, or by persons under the immediate control of such an officer, employee, or agent:
     
-    *   (b) reasonable notice of the intention to enter shall be given, and the provisions of [Part 10][432] of Te Ture Whenua Maori Act 1993 shall apply in respect of notices served in the circumstances set out in that Part of that Act:
+    *   (b) reasonable notice of the intention to enter shall be given, and the provisions of [Part 10][434] of Te Ture Whenua Maori Act 1993 shall apply in respect of notices served in the circumstances set out in that Part of that Act:
     
     *   (c) entry shall be made at reasonable times:
     
@@ -2403,7 +2407,7 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (5) Any equipment owned by the Corporation that is fixed to or installed over or under the land and is not owned by the Corporation shall be deemed to be lawfully fixed or installed and shall continue to be fixed or installed until the Corporation otherwise decides, and no person other than the Corporation shall have any interest in any such equipment by reason only of having an interest in the land.
     
-    Section 25(3)(b): amended, on 1 July 1993, pursuant to [section 362(2)][433] of Te Ture Whenua Maori Act 1993 (1993 No 4).
+    Section 25(3)(b): amended, on 1 July 1993, pursuant to [section 362(2)][435] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
 ##### 26 Obligation to notify all accidents and incidents
     
@@ -2423,17 +2427,17 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (4) The Authority may on being notified under subsection (1) or subsection (1A) or subsection (2) or subsection (3) request such additional information, in such form as the Authority considers appropriate in each specific case, and the pilot-in-command or operator or person of whom the request is made shall provide the additional information forthwith.
     
-    Section 26(1): substituted, on 10 August 1992, by [section 16(1)][434] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 26(1): substituted, on 10 August 1992, by [section 16(1)][436] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 26(1A): inserted, on 10 August 1992, by [section 16(1)][434] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 26(1A): inserted, on 10 August 1992, by [section 16(1)][436] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 26(3): substituted, on 10 August 1992, by [section 16(2)][434] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 26(3): substituted, on 10 August 1992, by [section 16(2)][436] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 26(4): amended, on 13 August 1996, by section 9 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 26(4): amended, on 10 August 1992, by [section 16(3)][434] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 26(4): amended, on 10 August 1992, by [section 16(3)][436] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 26(4): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 26(4): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 26A Obligation to identify pilot-in-command
     
@@ -2447,9 +2451,9 @@ Functions, powers, and duties of participants in the civil aviation system
     
     (3) Subsection (1) does not apply if the operator or holder of the certificate of registration has been arrested or detained in relation to the suspected offence.
     
-    Section 26A: inserted, on 1 June 2002, by [section 10][435] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 26A: inserted, on 1 June 2002, by [section 10][437] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 26A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 26A(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 27 Duty of Authority to notify accidents and incidents to Transport Accident Investigation Commission
     
@@ -2466,7 +2470,7 @@ Functions, powers, and duties of participants in the civil aviation system
 ## Part 2A  
 Medical certification
     
-*   Part 2A: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+*   Part 2A: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27A Interpretation
     
@@ -2498,9 +2502,9 @@ Medical certification
     
     *   (b) is permitted under the rules to operate an aircraft solo as a pilot.
     
-    Section 27A: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27A: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 27A(1) **medical certificate**: substituted, on 1 June 2004, by [section 15][437] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 27A(1) **medical certificate**: substituted, on 1 June 2004, by [section 15][439] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 27B Power of Director to issue medical certificate
     
@@ -2530,7 +2534,7 @@ Medical certification
     
     (8) Any decision made under this section by the Director in relation to a medical certificate other than a decision under sub- [section (5)(b)][56] is subject to [section 27L][66] (review of decisions regarding medical certificates or applications).
     
-    Section 27B: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27B: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27C Changes in medical condition of licence holder
     
@@ -2586,13 +2590,13 @@ Medical certification
         
         
     
-    Section 27C: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27C: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 27C(3): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27C(3): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 27C(4): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27C(4): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 27C(5)(b): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27C(5)(b): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 27D Medical examination, report, and disclosure
     
@@ -2600,13 +2604,13 @@ Medical certification
     
     (2) The Director may, by written notice, require any applicant to disclose, or authorise the disclosure of, any information relevant to his or her medical condition or history for the purpose of determining whether or not the applicant is eligible for a medical certificate under [section 27B][56].
     
-    Section 27D: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27D: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27E Expiry of medical certificate
     
 *   The Director may, on receiving an application for a medical certificate from a licence holder before the expiry of his or her existing medical certificate, grant an extension of no more than 60 days from the expiry date of the licence holder's existing medical certificate with any additional conditions, restrictions, or endorsements as the Director considers necessary.
     
-    Section 27E: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27E: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27F Designation of aviation examiners and medical examiners
     
@@ -2614,7 +2618,7 @@ Medical certification
     
     (2) The Director may designate, by issuing an aviation document under [section 9][11], 1 or more aviation examiners to conduct specified examinations that the Director may require under this Part.
     
-    Section 27F: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27F: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27G General directions and emergency directives
     
@@ -2650,7 +2654,7 @@ Medical certification
     
     (5) The Director may reissue, under subsection (1), directives issued under subsection (4) before or after they expire.
     
-    Section 27G: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27G: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27H Investigation of medical condition of licence holder
     
@@ -2682,7 +2686,7 @@ Medical certification
     
     *   (b) is able to exercise safely the privileges to which the medical certificate relates.
     
-    Section 27H: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27H: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27I Revocation, suspension, amendment, and surrender of medical certificate
     
@@ -2752,9 +2756,9 @@ Medical certification
     
     *   (b) update the register of current medical certificates.
     
-    Section 27I: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27I: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 27I(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 27I(9): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 27J Appointment of convener and deputy convener
     
@@ -2786,9 +2790,9 @@ Medical certification
     
     *   (b) the Minister has appointed a new convener.
     
-    Section 27J: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27J: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 27J(4)(a): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27J(4)(a): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 27K Cancellation of appointment as convener or deputy convener
     
@@ -2804,7 +2808,7 @@ Medical certification
     
     (3) If the Minister cancels an appointment, the Minister must give the person written notice of the cancellation that sets out the grounds for the cancellation.
     
-    Section 27K: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27K: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27L Review of decisions regarding medical certificates or applications
     
@@ -2852,7 +2856,7 @@ Medical certification
     
     (8) Any decision by the Director under review by the convener remains in force until the Director makes a final decision under subsection (5).
     
-    Section 27L: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27L: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27M Referral to convener by agreement
     
@@ -2902,7 +2906,7 @@ Medical certification
     
     *   (b) has any other conflict of interest with respect to the person's medical certificate.
     
-    Section 27M: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27M: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27N Delegation of Director's powers under this Part to medical practitioners who are employees of Authority
     
@@ -2916,17 +2920,17 @@ Medical certification
     
     (5) Any delegation under this section may be made to a suitably qualified medical practitioner who is the holder of a specified office of the Authority.
     
-    Section 27N: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27N: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 27N heading: amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27N heading: amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 27N(1): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27N(1): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
     
-    Section 27N(3): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 27N(3): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 27N(4): substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 27N(4): substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 27N(5): amended, on 18 September 2004, by [section 175(1)][369] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+    Section 27N(5): amended, on 18 September 2004, by [section 175(1)][371] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 
 ##### 27O Delegation of Director's power under this Part to medical examiners who are not employees of Authority
     
@@ -2954,13 +2958,13 @@ Medical certification
     
     (10) The Director may not delegate under this section any of his or her functions or powers under [section 27L][66] or [section 27M][67].
     
-    Section 27O: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27O: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27P Right of appeal to District Court
     
-*   Any person affected by a decision of the Director under [section 27B][56] (other than a decision made under section 27B(5)(b)), [section 27I(7)][63], section 27I(11), [section 27L][66], or [section 27M][67] has a right of appeal to a District Court under [section 66][167].
+*   Any person affected by a decision of the Director under [section 27B][56] (other than a decision made under section 27B(5)(b)), [section 27I(7)][63], section 27I(11), [section 27L][66], or [section 27M][67] has a right of appeal to a District Court under [section 66][168].
     
-    Section 27P: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27P: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27Q Transitional provisions
     
@@ -2992,13 +2996,13 @@ Medical certification
     
     *   (b) any requirements for the purposes of determining suitably qualified medical examiners and establishing the criteria for standard medical assessments under [section 27O(2)][69].
     
-    Section 27Q: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27Q: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 27R Savings
     
 *   Any medical certificate issued under the rules before the commencement of this Part is deemed to be a medical certificate issued under this Part.
     
-    Section 27R: inserted, on 1 April 2002, by [section 5][436] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 27R: inserted, on 1 April 2002, by [section 5][438] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ## Part 3  
 Rules
@@ -3029,11 +3033,11 @@ Rules
         
         *   (ii) the Minister's functions under [section 14A][33]:
         
-        *   (iii) the Authority's objectives under [section 72AA][176]:
+        *   (iii) the Authority's objectives under [section 72AA][177]:
         
-        *   (iv) the Authority's functions and duties under [section 72B][177]:
+        *   (iv) the Authority's functions and duties under [section 72B][178]:
         
-        *   (v) the Director's functions and powers under [section 72I][185]:
+        *   (v) the Director's functions and powers under [section 72I][186]:
         
         
     
@@ -3061,29 +3065,31 @@ Rules
     
     (6) No breach of any ordinary rule shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act.
     
-    (7) Every ordinary rule is hereby deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][438], but shall not be a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][439].
+    (7) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
     (8) So far as the bylaws of any local authority are inconsistent with or repugnant to any ordinary rule made under this Act in force in the same locality, the bylaws shall be construed subject to the rules.
     
-    (9) Notwithstanding [section 28][440] of the State Sector Act 1988, the Minister shall not delegate his or her power to make ordinary rules under this Act.
+    (9) Notwithstanding [section 28][442] of the State Sector Act 1988, the Minister shall not delegate his or her power to make ordinary rules under this Act.
     
-    Section 28(1)(ab): inserted, on 30 March 2007, by [section 16][441] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 28(1)(ab): inserted, on 30 March 2007, by [section 16][443] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 28(1)(c): substituted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(c): substituted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(1)(ca): inserted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(ca): inserted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(1)(cb): inserted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(cb): inserted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(1)(cc): inserted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(cc): inserted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(1)(cd): inserted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(cd): inserted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(1)(ce): inserted, on 1 December 2004, by [section 5][442] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 28(1)(ce): inserted, on 1 December 2004, by [section 5][444] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 28(5): substituted, on 1 August 2010, by [section 5][443] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 28(5): substituted, on 1 August 2010, by [section 5][445] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 28(5A): inserted, on 1 August 2010, by [section 5][443] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 28(5A): inserted, on 1 August 2010, by [section 5][445] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    
+    Section 28(7): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 29 Rules relating to safety and security
     
@@ -3219,21 +3225,21 @@ Rules
     
     Compare: 1964 No 68 s 29(4), (5); 1970 No 52 s 2(1)
     
-    Section 30(a)(via): inserted, on 1 April 2002, by [section 7(1)][444] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 30(a)(via): inserted, on 1 April 2002, by [section 7(1)][447] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 30(b)(vi): amended, on 10 August 1992, by [section 19][445] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 30(b)(vi): amended, on 10 August 1992, by [section 19][448] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 30(b)(viii): amended, on 10 August 1992, by [section 40(3)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 30(b)(viii): amended, on 10 August 1992, by [section 40(3)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 30(b)(ix): added, on 1 April 2002, by [section 7(2)][444] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 30(b)(ix): added, on 1 April 2002, by [section 7(2)][447] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 30(b)(x): added, on 1 April 2002, by [section 7(2)][444] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 30(b)(x): added, on 1 April 2002, by [section 7(2)][447] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 30(b)(xi): added, on 1 April 2002, by [section 7(2)][444] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 30(b)(xi): added, on 1 April 2002, by [section 7(2)][447] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 30(b)(xii): added, on 1 April 2002, by [section 7(2)][444] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 30(b)(xii): added, on 1 April 2002, by [section 7(2)][447] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 30(ca): inserted, on 30 March 2007, by [section 17][446] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 30(ca): inserted, on 30 March 2007, by [section 17][449] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 30(e): added, on 13 August 1996, by section 13 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -3245,7 +3251,9 @@ Rules
     
     (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation shall be notified as if it were an emergency rule.
     
-    (4) Every emergency rule is hereby deemed to be a regulation for the purposes of the [Regulations (Disallowance) Act 1989][438], but shall not be a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][439].
+    (4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
+    
+    Section 31(4): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 32 Procedures relating to rules
     
@@ -3265,9 +3273,9 @@ Rules
     
     *   (c) set out fully the requirements of the rule, except where certain information is, under [section 36][85], incorporated in the rule by reference.
     
-    Section 32(1)(c): substituted, on 1 June 2004, by [section 18(1)][447] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 32(1)(c): substituted, on 1 June 2004, by [section 18(1)][450] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 32(2)(c): substituted, on 1 June 2004, by [section 18(2)][447] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 32(2)(c): substituted, on 1 June 2004, by [section 18(2)][450] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 33 Matters to be taken into account in making rules
     
@@ -3313,15 +3321,15 @@ Rules
     
     *   (h) such other matters as the Minister or the Director considers appropriate in the circumstances.
     
-    Section 33(2): amended, on 1 August 2010, by [section 6][448] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 33(2): amended, on 1 August 2010, by [section 6][451] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 33(2)(e): substituted, on 1 December 2004, by [section 6][449] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 33(2)(e): substituted, on 1 December 2004, by [section 6][452] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 33(2)(f): substituted, on 1 December 2004, by [section 6][449] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 33(2)(f): substituted, on 1 December 2004, by [section 6][452] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 33(2)(fa): inserted, on 1 December 2004, by [section 6][449] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 33(2)(fa): inserted, on 1 December 2004, by [section 6][452] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 33(2)(g): substituted, on 30 March 2007, by [section 19][450] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 33(2)(g): substituted, on 30 March 2007, by [section 19][453] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 34 Procedure for making ordinary rules
     
@@ -3333,7 +3341,7 @@ Rules
             
         *   (i) the persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies; and
         
-        *   (ii) the Environmental Protection Authority, established by [section 7][451] of the Environmental Protection Authority Act 2011, about the contents of any rules that relate to the transportation of hazardous substances as defined in [section 2(1)][452] of the Hazardous Substances and New Organisms Act 1996\.
+        *   (ii) the Environmental Protection Authority, established by [section 7][454] of the Environmental Protection Authority Act 2011, about the contents of any rules that relate to the transportation of hazardous substances as defined in [section 2(1)][455] of the Hazardous Substances and New Organisms Act 1996\.
         
         
     
@@ -3343,15 +3351,15 @@ Rules
     
     (4) \[Repealed\]
     
-    Section 34(1): substituted, on 1 August 2010, by [section 7(1)][453] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 34(1): substituted, on 1 August 2010, by [section 7(1)][456] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 34(1)(b)(ii): substituted, on 1 July 2011, by [section 53(1)][454] of the Environmental Protection Authority Act 2011 (2011 No 14).
+    Section 34(1)(b)(ii): substituted, on 1 July 2011, by [section 53(1)][457] of the Environmental Protection Authority Act 2011 (2011 No 14).
     
-    Section 34(2): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 34(2): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 34(3): amended, on 1 August 2010, by [section 7(2)][453] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 34(3): amended, on 1 August 2010, by [section 7(2)][456] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 34(4): repealed, on 1 August 2010, by [section 7(3)][453] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 34(4): repealed, on 1 August 2010, by [section 7(3)][456] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 34A Governor-General may make ordinary rules
     
@@ -3365,13 +3373,11 @@ Rules
     
     (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
     
-    (6) An Order in Council made under subsection (1)---
-        
-    *   (a) is a regulation or an instrument for the purposes of the [Regulations (Disallowance) Act 1989][438]; but
+    (6) An Order in Council made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
-    *   (b) is not a regulation or an instrument for the purposes of the [Acts and Regulations Publication Act 1989][439].
+    Section 34A: inserted, on 1 August 2010, by [section 8][458] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 34A: inserted, on 1 August 2010, by [section 8][455] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 34A(6): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 35 Procedure for making emergency rules
     
@@ -3393,7 +3399,7 @@ Rules
     
     Section 35(5): amended, on 13 August 1996, by section 15(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 35(5): amended, on 20 August 1993, by [section 5][456] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 35(5): amended, on 20 August 1993, by [section 5][459] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
     Section 35(5A): inserted, on 13 August 1996, by section 15(2) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
@@ -3447,13 +3453,17 @@ Rules
     
     (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Civil Aviation Registry for inspection by the public free of charge.
     
-    (7) The [Acts and Regulations Publication Act 1989][439] does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+    (7) [Part 2][460] of the Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
     
-    (8) Nothing in [section 4][457] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
+    (8) Nothing in [section 41][441] of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
     
-    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 25][458] of the Standards Act 1988\.
+    (9) Subsections (1) to (8) do not affect the application of [sections 22 to 25][461] of the Standards Act 1988\.
     
-    Section 36: substituted, on 1 August 2010, by [section 9][459] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 36: substituted, on 1 August 2010, by [section 9][462] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    
+    Section 36(7): amended, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 36(8): amended, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 37 Exemption power of Director
     
@@ -3475,14 +3485,14 @@ Rules
     
     (4) Nothing in this section shall apply in any case where any rule specifically provides that no exemptions are to be granted.
     
-    Section 37(1): amended, on 1 August 2010, by [section 10][460] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 37(1): amended, on 1 August 2010, by [section 10][463] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ## Part 4  
 Fees and charges
 
 ##### 38 Fees and charges
     
-*   (1) Without limiting the power to make regulations conferred by [section 100][337], but subject to the provisions of this Act, the Governor-General may, from time to time, by Order in Council, make regulations prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
+*   (1) Without limiting the power to make regulations conferred by [section 100][338], but subject to the provisions of this Act, the Governor-General may, from time to time, by Order in Council, make regulations prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
         
     *   (a) to provide funds for the establishment, maintenance, and operation of works, facilities, and services under this Act:
     
@@ -3510,15 +3520,15 @@ Fees and charges
     
     (4A) The power to prescribe, or provide for the fixing of, fees and charges in respect of any matter under this Act includes the power to prescribe, or provide for the fixing of, fees or charges, or both, in respect of any matter.
     
-    (5) For the purposes of this section, the expressions _airport_ and _airport authority_ shall have the same meaning as in the [Airport Authorities Act 1966][461].
+    (5) For the purposes of this section, the expressions _airport_ and _airport authority_ shall have the same meaning as in the [Airport Authorities Act 1966][464].
     
     Compare: 1964 No 68 ss 13, 13A; 1986 No 128 s 8(3)
     
-    Section 38(1)(b): amended, on 10 August 1992, by [section 20(1)][462] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 38(1)(b): amended, on 10 August 1992, by [section 20(1)][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 38(1)(ba): inserted, on 1 April 2002, by [section 8][463] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 38(1)(ba): inserted, on 1 April 2002, by [section 8][466] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 38(4A): inserted, on 10 August 1992, by [section 20(2)][462] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 38(4A): inserted, on 10 August 1992, by [section 20(2)][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 39 Rebates
     
@@ -3544,9 +3554,9 @@ Fees and charges
     
     *   (b) provide for a discount for early payment of any such fee or charge or a penalty for late payment, or both, on an equal basis to persons liable to pay the fee or charge.
     
-    Section 40(1): substituted, on 10 August 1992, by [section 21(1)][464] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 40(1): substituted, on 10 August 1992, by [section 21(1)][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 40(2)(a): amended, on 10 August 1992, by [section 21(2)][464] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 40(2)(a): amended, on 10 August 1992, by [section 21(2)][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 41 Suspension or revocation of aviation document where prescribed fees or charges unpaid
     
@@ -3562,9 +3572,9 @@ Fees and charges
     
     (4) Where a fee or a charge is payable in respect of an application under this Act or the provision of a service under this Act, the Authority or the Director or other person asked to process the application or provide the service, as the case may be, may, unless the safety of any person would be put at risk, decline to process that application or provide that service until the appropriate fee or charge has been paid, or arrangements acceptable to the Authority or the Director, as the case may be, for payment of the fee or charge have been made.
     
-    (5) The holder of an aviation document that is suspended under subsection (1) or revoked under subsection (2) may appeal against that decision to a District Court under [section 66][167].
+    (5) The holder of an aviation document that is suspended under subsection (1) or revoked under subsection (2) may appeal against that decision to a District Court under [section 66][168].
     
-    Section 41: substituted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 41: substituted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 42 Recovery of fees and charges for aviation related services
     
@@ -3576,11 +3586,11 @@ Fees and charges
     
     *   (b) has taken all reasonable steps to supply the Authority with such information as would identify the actual user.
     
-    Section 42: substituted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 42: substituted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 #### Levies
     
-*   Heading: inserted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+*   Heading: inserted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 42A Governor-General may impose levies
     
@@ -3600,7 +3610,7 @@ Fees and charges
     
     *   (c) he or she is satisfied that the Authority has consulted with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as he or she considers appropriate.
     
-    Section 42A: inserted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 42A: inserted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 42B Basis on which levies may be imposed
     
@@ -3636,7 +3646,7 @@ Fees and charges
         
         
     
-    Section 42B: inserted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 42B: inserted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 42C Levy orders to be confirmed
     
@@ -3660,7 +3670,7 @@ Fees and charges
     
     (5) The repeal of any Act passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (2) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those orders.
     
-    Section 42C: inserted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 42C: inserted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 42D Other provisions relating to levies
     
@@ -3676,9 +3686,9 @@ Fees and charges
     
     (3) Every levy imposed under [section 42A][94] is hereby deemed for the purposes of [section 41][91] to be a charge payable under this Act.
     
-    (4) Every such levy order is hereby declared to be a specific authorisation by an enactment for the purposes of [section 43][466] of the Commerce Act 1986\.
+    (4) Every such levy order is hereby declared to be a specific authorisation by an enactment for the purposes of [section 43][469] of the Commerce Act 1986\.
     
-    Section 42D: inserted, on 10 August 1992, by [section 22][465] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 42D: inserted, on 10 August 1992, by [section 22][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ## Part 5  
 Offences and penalties
@@ -3689,7 +3699,7 @@ Offences and penalties
     
 *   (1) Every holder of an aviation document commits an offence who, in respect of any activity or service to which the document relates, does or omits to do any act or causes or permits any act or omission, if the act or omission causes unnecessary danger to any other person or to any property.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
     
@@ -3697,13 +3707,15 @@ Offences and penalties
     
     (3) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
     
-    Section 43(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 43(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 43A Operating aircraft in careless manner
     
 *   (1) Every person commits an offence who operates any aircraft in a careless manner.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $7,000; or
     
@@ -3712,6 +3724,8 @@ Offences and penalties
     (3) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
     
     Section 43A: inserted, on 13 August 1996, by section 17 of the Civil Aviation Amendment Act 1996 (1996 No 91).
+    
+    Section 43A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Dangerous activity involving aircraft, aeronautical product, or aviation related service
     
@@ -3731,7 +3745,7 @@ Offences and penalties
     
     in a manner which causes unnecessary danger to any other person or to any property.
     
-    (3) Every person who commits an offence against subsection (1) or subsection (2) is liable,---
+    (3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
     
@@ -3739,21 +3753,25 @@ Offences and penalties
     
     (4) The provisions of this section shall be in addition to and not in derogation of any regulations or rules made under this Act.
     
-    Section 44(3)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 44(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 44(3)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 44A Failure to comply with inspection or monitoring request
     
 *   (1) Every person commits an offence who, without reasonable excuse, fails to comply with any requirement of the Director under subsection (1) or subsection (3) of [section 15][36].
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000 and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence is continued.
     
-    Section 44A: inserted, on 10 August 1992, by [section 23][468] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 44A: inserted, on 10 August 1992, by [section 23][472] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 44A heading: amended, on 1 June 2002, by [section 11][469] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 44A heading: amended, on 1 June 2002, by [section 11][473] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    
+    Section 44A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 45 Court may disqualify holder of aviation document or impose conditions on holding of document
     
@@ -3769,9 +3787,9 @@ Offences and penalties
     
     Section 45(1): amended, on 13 August 1996, by section 18 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 45(1): amended, on 10 August 1992, by [section 24][470] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 45(1): amended, on 10 August 1992, by [section 24][474] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 45(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 45(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 46 Acting without necessary aviation document
     
@@ -3783,13 +3801,15 @@ Offences and penalties
     
     any aircraft, aeronautical product, or aviation related service, either without holding the appropriate current aviation document or knowing that a current aviation document is required to be held in respect of that aircraft, product, or service before that act may lawfully be done and knowing that the appropriate aviation document is not held.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 46(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 46(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 46A Acting without required medical certificate
     
@@ -3801,9 +3821,11 @@ Offences and penalties
     
     *   (c) fails to comply with any conditions, restrictions, or endorsements specified by the Director under [section 27B(4)][56].
     
-    (2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000\.
+    (2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000\.
     
-    Section 46A: inserted, on 1 April 2002, by [section 9][471] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 46A: inserted, on 1 April 2002, by [section 9][475] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    
+    Section 46A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46B Fraudulent, misleading, or intentionally false statements to obtain medical certificate
     
@@ -3817,41 +3839,49 @@ Offences and penalties
     
     *   (d) any fraudulent, misleading, or intentionally false statement during an investigation under [section 27H][62] or a review under [section 27L][66] or an assessment under [section 27M][67].
     
-    (2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000\.
+    (2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $10,000\.
     
-    Section 46B: inserted, on 1 April 2002, by [section 9][471] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 46B: inserted, on 1 April 2002, by [section 9][475] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    
+    Section 46B(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46C Failure to disclose information required by Director
     
 *   (1) Every person commits an offence who fails to disclose, without reasonable excuse, information required by the Director under [section 27C(1)][57] or [section 27H][62].
     
-    (2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000\.
     
-    Section 46C: inserted, on 1 April 2002, by [section 9][471] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 46C: inserted, on 1 April 2002, by [section 9][475] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    
+    Section 46C(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46D Failure to provide information to Director relating to Australian AOCs with ANZA privileges
     
 *   (1) Every person commits an offence who conducts an air operation in New Zealand while in breach of [section 11B(1) or (2)][18].
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $25,000\.
     
-    Section 46D: inserted, on 30 March 2007, by [section 20][472] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 46D: inserted, on 30 March 2007, by [section 20][476] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 46D(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46E Failure to cease conducting air operations in New Zealand
     
 *   (1) Every person commits an offence who fails to comply with [section 11C(3)][19].
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $100,000\.
     
-    Section 46E: inserted, on 30 March 2007, by [section 20][472] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 46E: inserted, on 30 March 2007, by [section 20][476] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 46E(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Additional penalty for offences involving commercial gain
     
@@ -3859,7 +3889,7 @@ Offences and penalties
     
     (2) For the purpose of subsection (1), the value of any gain shall be assessed by the court, and shall be recoverable in the same manner as a fine.
     
-    Section 47(1): amended, on 10 August 1992, by [section 25][473] of the Civil Aviation Amendment 1992 (1992 No 75).
+    Section 47(1): amended, on 10 August 1992, by [section 25][477] of the Civil Aviation Amendment 1992 (1992 No 75).
 
 #### General offences
 
@@ -3867,7 +3897,7 @@ Offences and penalties
     
 *   (1) Every person commits an offence who applies for or obtains an aviation document while disqualified by an order of the court from obtaining such a document and any such document so obtained shall be of no effect.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or a fine not exceeding $2,000; or
     
@@ -3875,7 +3905,9 @@ Offences and penalties
     
     and the court may order the person to be disqualified from holding or obtaining an aviation document for such period not exceeding 12 months as the court thinks fit.
     
-    Section 48(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 48(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 48(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 49 Communicating false information or failing to disclose information relevant to granting or holding of aviation document
     
@@ -3887,29 +3919,31 @@ Offences and penalties
     
     *   (c) being the holder of an aviation document, fails, without reasonable excuse, to provide to the Authority or the Director information known to that person which is relevant to the condition specified in [section 9(3)][11].
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 49(1): substituted, on 10 August 1992, by [section 26][474] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 49(1): substituted, on 10 August 1992, by [section 26][478] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 49(2)(a): amended, on 1 June 2004, by [section 21(a)][475] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 49(2)(b): amended, on 1 June 2004, by [section 21(b)][475] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49(2)(a): amended, on 1 June 2004, by [section 21(a)][479] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 49(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 49(2)(b): amended, on 1 June 2004, by [section 21(b)][479] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 49(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 49A Carrying on scheduled international air service without licence or contrary to licence
     
 *   (1) Every person commits an offence who---
         
-    *   (a) carries on a scheduled international air service in New Zealand without a licence granted under [Part 8A][227]; or
+    *   (a) carries on a scheduled international air service in New Zealand without a licence granted under [Part 8A][228]; or
     
-    *   (b) being the holder of a licence granted under [Part 8A][227], carries on a scheduled international air service in New Zealand in a manner contrary to the terms and conditions of the licence.
+    *   (b) being the holder of a licence granted under [Part 8A][228], carries on a scheduled international air service in New Zealand in a manner contrary to the terms and conditions of the licence.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000; or
     
@@ -3917,19 +3951,21 @@ Offences and penalties
     
     Section 49A: inserted, on 13 August 1996, by section 19 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 49A(2)(a): amended, on 1 June 2004, by [section 22(a)][476] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 49A(2)(b): amended, on 1 June 2004, by [section 22(b)][476] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49A(2)(a): amended, on 1 June 2004, by [section 22(a)][480] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 49A(2)(b): amended, on 1 June 2004, by [section 22(b)][480] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 49B Operating unauthorised non-scheduled international flight or carrying on non-scheduled international flight contrary to licence
     
 *   (1) Every person commits an offence who---
         
-    *   (a) operates a non-scheduled international flight to which [section 87ZE][264] applies contrary to the provisions of that section; or
+    *   (a) operates a non-scheduled international flight to which [section 87ZE][265] applies contrary to the provisions of that section; or
     
     *   (b) being the holder of an open aviation market licence, carries on a non-scheduled international flight in a manner contrary to the terms and conditions of the licence.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $6,000; or
     
@@ -3937,13 +3973,15 @@ Offences and penalties
     
     Section 49B: inserted, on 13 August 1996, by section 19 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 49B(2)(a): amended, on 1 June 2004, by [section 23(a)][477] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49B(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 49B(2)(b): amended, on 1 June 2004, by [section 23(b)][477] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 49B(2)(a): amended, on 1 June 2004, by [section 23(a)][481] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 49B(2)(b): amended, on 1 June 2004, by [section 23(b)][481] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 50 Obstruction of persons duly authorised by Director
     
-*   (1) Every person commits an offence who obstructs or impedes any person who is duly authorised by the Director and acting in the performance or exercise of any functions, duties, or powers conferred on him or her by this Act, or by any rules made under this Act, and is liable,---
+*   (1) Every person commits an offence who obstructs or impedes any person who is duly authorised by the Director and acting in the performance or exercise of any functions, duties, or powers conferred on him or her by this Act, or by any rules made under this Act, and is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000; or
     
@@ -3951,27 +3989,33 @@ Offences and penalties
     
     (2) Subsection (1) shall apply only where the person obstructed or impeded is in uniform or produces evidence of his or her authority.
     
-    Section 50 heading: amended, on 10 August 1992, pursuant to [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 50 heading: amended, on 10 August 1992, pursuant to [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 50(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 50(1): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 50(1)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 50(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    
+    Section 50(1)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 50A Failure or refusal to produce or surrender documents
     
 *   (1) Every person commits an offence who, without reasonable excuse, fails or refuses to comply with a requirement made in accordance with [section 24(3)][49].
     
-    (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $1,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000\.
     
     Section 50A: inserted, on 13 August 1996, by section 20 of the Civil Aviation Amendment Act 1996 (1996 No 91).
+    
+    Section 50A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 51 Trespass
     
-*   Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, enters or remains within any aerodrome or any building or area in which are operated technical facilities or services for civil aviation, when directed not to enter or not to remain by a person duly authorised by the Director in writing for that purpose, a constable, or an aviation security officer, or by notice posted by one of those persons.
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, enters or remains within any aerodrome or any building or area in which are operated technical facilities or services for civil aviation, when directed not to enter or not to remain by a person duly authorised by the Director in writing for that purpose, a constable, or an aviation security officer, or by notice posted by one of those persons.
     
-    Section 51: amended, on 1 October 2008, pursuant to [section 116(a)(iii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 51: amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 51: amended, on 20 August 1993, by [section 17][478] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 51: amended, on 1 October 2008, pursuant to [section 116(a)(iii)][373] of the Policing Act 2008 (2008 No 72).
+    
+    Section 51: amended, on 20 August 1993, by [section 17][482] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 52 Failure to maintain accurate records
     
@@ -3983,63 +4027,73 @@ Offences and penalties
     
     *   (c) to produce to the Authority or the Director an accurate record.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $30,000\.
     
-    Section 52(1)(c): amended, on 10 August 1992, by [section 40(3)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 52(1)(c): amended, on 10 August 1992, by [section 40(3)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 52(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 52(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 52(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 52A Failure to notify emergency breach of Act or regulations or rules
     
-*   Every pilot-in-command commits an offence and is liable to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with [section 13A(6)][31] (which relates to the notification of breaches of this Act or regulations or rules made under this Act that are committed during an emergency).
+*   Every pilot-in-command commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without reasonable excuse, fails to comply with [section 13A(6)][31] (which relates to the notification of breaches of this Act or regulations or rules made under this Act that are committed during an emergency).
     
-    Section 52A: inserted, on 10 August 1992, by [section 27][479] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 52A: inserted, on 10 August 1992, by [section 27][483] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 52A: amended, on 1 June 2002, by [section 12][480] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 52A: amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 52A: amended, on 1 June 2002, by [section 12][484] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 52B Failure to notify accident or incident
     
 *   (1) Every pilot-in-command or operator commits an offence who, without reasonable excuse, fails to comply with subsection (1) or subsection (1A) or subsection (2) of [section 26][51] (which subsections relate to the notification of an accident or incident).
     
-    (2) Every pilot-in-command or operator who commits an offence against subsection (1) is liable,---
+    (2) Every pilot-in-command or operator who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000 and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence is continued; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    Section 52B: inserted, on 10 August 1992, by [section 27][479] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 52B: inserted, on 10 August 1992, by [section 27][483] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 52B(2): substituted, on 1 June 2004, by [section 24][481] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 52B(2): substituted, on 1 June 2004, by [section 24][485] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 52B(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 52C Failure to provide identifying information
     
 *   (1) Every operator of an aircraft or holder of a certificate of registration commits an offence who, without reasonable excuse, fails to comply with [section 26A(1)][52] (which relates to the identification of the pilot-in-command of an aircraft).
     
-    (2) Every operator or holder of a certificate of registration who commits an offence against subsection (1) is liable,---
+    (2) Every operator or holder of a certificate of registration who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $10,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $50,000\.
     
-    Section 52C: inserted, on 1 June 2002, by [section 13][482] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 52C: inserted, on 1 June 2002, by [section 13][486] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 52C(2)(a): amended, on 1 June 2004, by [section 25(a)][483] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 52C(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 52C(2)(b): amended, on 1 June 2004, by [section 25(b)][483] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 52C(2)(a): amended, on 1 June 2004, by [section 25(a)][487] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 52C(2)(b): amended, on 1 June 2004, by [section 25(b)][487] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 53 Contravention of emergency rule, prohibition, or condition
     
-*   Every person who, without reasonable excuse, acts in contravention of or fails to comply with any emergency rule made under [section 31][79] or any prohibition or condition notified under [section 21][43] commits an offence and is liable,---
+*   Every person who, without reasonable excuse, acts in contravention of or fails to comply with any emergency rule made under [section 31][79] or any prohibition or condition notified under [section 21][43] commits an offence and is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $5,000; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $30,000\.
     
-    Section 53(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 53: amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 53(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 53A Flight over foreign country without authority or for improper purpose
     
@@ -4075,7 +4129,7 @@ Offences and penalties
     
     Section 53A: inserted, on 13 August 1996, by section 21 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 53A(1)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][484] of the Immigration Act 2009 (2009 No 51).
+    Section 53A(1)(b): amended, at 2 am on 29 November 2010, by [section 406(1)][488] of the Immigration Act 2009 (2009 No 51).
 
 #### Security offences
 
@@ -4095,23 +4149,27 @@ Offences and penalties
     
     (2) Every person who commits an offence under subsection (1) in relation to a---
         
-    *   (a) security area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000:
+    *   (a) security area is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000:
     
-    *   (b) security enhanced area is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000\.
+    *   (b) security enhanced area is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $5,000\.
     
     Compare: 1964 No 68 s 21E(3), (6); 1976 No 153 s 4
     
-    Section 54 heading: amended, on 18 January 2008, by [section 7(1)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54 heading: amended, on 18 January 2008, by [section 7(1)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 54(1): amended, on 18 January 2008, by [section 7(2)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54(1): amended, on 18 January 2008, by [section 7(2)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 54(1)(a): amended, on 18 January 2008, by [section 7(2)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54(1)(a): amended, on 18 January 2008, by [section 7(2)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 54(1)(a)(i): amended, on 18 January 2008, by [section 7(2)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54(1)(a)(i): amended, on 18 January 2008, by [section 7(2)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 54(1)(b): amended, on 18 January 2008, by [section 7(2)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54(1)(b): amended, on 18 January 2008, by [section 7(2)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 54(2): substituted, on 18 January 2008, by [section 7(3)][485] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 54(2): substituted, on 18 January 2008, by [section 7(3)][489] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    
+    Section 54(2)(a): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 54(2)(b): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Personation or obstruction of aviation security officer
     
@@ -4121,15 +4179,17 @@ Offences and penalties
     
     *   (b) wilfully obstructs, or incites or encourages any person to obstruct an aviation security officer in the execution of his or her duty.
     
-    (2) Every person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000\.
     
     Compare: 1964 No 68 s 21I; 1976 No 153 s 4
+    
+    Section 55(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Communicating false information affecting safety
     
 *   (1) Every person commits an offence who by any means provides to another person information relating to the safety of an aircraft, aerodrome, aeronautical product, aviation related service, or any other facility or product used in or connected with aviation, or any person associated therewith, knowing the information to be false or in a manner reckless as to whether it is false.
     
-    (2) Every person who commits an offence against subsection (1) is liable,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000; or
     
@@ -4137,7 +4197,9 @@ Offences and penalties
     
     (3) Where the commission of an offence against subsection (1) causes financial loss to any person and where the court imposes a fine under subsection (2) in respect of that offence, the court may order that such part of the fine as it thinks fit, but in any event not more than one-half of the fine, be awarded to that person.
     
-    Section 56(2)(b): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 56(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 56(2)(b): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 56A Security check offences
     
@@ -4147,25 +4209,29 @@ Offences and penalties
     
     *   (b) fails to disclose, without reasonable excuse, information that the person knows to be materially relevant.
     
-    (2) Every person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000\.
+    (2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000\.
     
-    Section 56A: inserted, on 26 September 2007, by [section 8][486] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 56A: inserted, on 26 September 2007, by [section 8][490] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    
+    Section 56A(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Infringement offences
 
 ##### 57 Infringement offences
     
-*   (1) In this Act _infringement offence_ means an offence specified as such in regulations made under this Act or an offence against a provision specified in [section 65Q(2)][162].
+*   (1) In this Act _infringement offence_ means an offence specified as such in regulations made under this Act or an offence against a provision specified in [section 65Q(2)][163].
     
-    (2) Subject to [section 65P][161], if any person is alleged to have committed an infringement offence that person may either---
+    (2) Subject to [section 65P][162], if any person is alleged to have committed an infringement offence that person may either---
         
-    *   (a) be proceeded against summarily for the alleged offence; or
+    *   (a) be proceeded against by filing a charging document under [section 14][491] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 58][133].
     
-    Section 57(1): amended, on 1 June 2004, by [section 26(1)][487] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 57(1): amended, on 1 June 2004, by [section 26(1)][492] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 57(2): amended, on 1 June 2004, by [section 26(2)][487] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 57(2): amended, on 1 June 2004, by [section 26(2)][492] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 57(2)(a): replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Infringement notices
     
@@ -4179,7 +4245,7 @@ Offences and penalties
     
     *   (c) where the person is a holder of an aviation document, by serving it by post on that person at his or her last address for service provided under [section 8][10].
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][488], an infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
+    (3) An infringement notice sent to a person by post under paragraph (b) or paragraph (c) of subsection (2) shall be deemed to have been served on the person when it would have been delivered in the ordinary course of post.
     
     (4) Every infringement notice shall be in the prescribed form and shall contain the following particulars:
         
@@ -4191,7 +4257,7 @@ Offences and penalties
     
     *   (d) the time within which the infringement fee shall be paid:
     
-    *   (e) a summary of the provisions of [section 21(10)][489] of the Summary Proceedings Act 1957:
+    *   (e) a summary of the provisions of [section 21(10)][493] of the Summary Proceedings Act 1957:
     
     *   (f) a statement of the right of the person served with the notice to request a hearing:
     
@@ -4201,9 +4267,11 @@ Offences and penalties
     
     (5) Different forms of infringement notices may be prescribed in regulations made under this Act in respect of different kinds of infringement offences.
     
-    (6) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][489] of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
+    (6) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with [section 21][493] of the Summary Proceedings Act 1957, and in that case the provisions of that section shall, with the necessary modifications, apply.
     
-    Section 58(1): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 58(1): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    
+    Section 58(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Disqualification
 
@@ -4215,7 +4283,7 @@ Offences and penalties
     
     Compare: 1964 No 68 s 24A; 1975 No 34 s 6
     
-    Section 59(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 59(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 60 Commencement of period of disqualification
     
@@ -4237,9 +4305,9 @@ Offences and penalties
     
     Compare: 1964 No 68 s 24D; 1975 No 34 s 6
     
-    Section 61(1)(b): substituted, on 10 August 1992, by [section 28][490] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 61(1)(b): substituted, on 10 August 1992, by [section 28][494] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 61(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 61(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 62 Removal of disqualification
     
@@ -4253,7 +4321,7 @@ Offences and penalties
     
     Compare: 1964 No 68 s 24E; 1975 No 34 s 6
     
-    Section 62(4): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 62(4): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 63 Particulars of disqualification orders, etc, to be sent to Director
     
@@ -4261,17 +4329,17 @@ Offences and penalties
     
     Compare: 1964 No 68 s 24F; 1975 No 34 s 6
     
-    Section 63 heading: amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 63 heading: amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 63: amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 63: amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 64 Appeals against disqualification
     
-*   (1) For the purposes of [Part 4][491] of the Summary Proceedings Act 1957, an order of a District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
+*   (1) For the purposes of [Part 6][495] of the Criminal Procedure Act 2011, an order of a District Court by which any person is disqualified from holding or obtaining an aviation document shall be deemed to be a sentence or part of a sentence, as the case may be. If a notice of appeal against any such order is filed, the court may, if it thinks fit, defer the operation of the order pending the appeal, but otherwise the order shall have immediate effect.
     
-    (2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court, and in any such case the provisions of [Part 4][491] of the Summary Proceedings Act 1957 shall, with the necessary modifications, apply.
+    (2) Any person who is disqualified by an order of a District Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal against the refusal to the High Court in accordance with [Part 6][495] of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
     
-    (3) Any person who is disqualified by an order of the High Court from holding or obtaining an aviation document and who applies for a removal of that disqualification and whose application is refused, may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the refusal, and in any such case the provisions of subsections (3) to (5) of [section 379A][492] of the Crimes Act 1961 shall, with the necessary modifications, apply as if it were an appeal under that section.
+    (3) Any person who is disqualified by an order of the High Court from holding or obtaining an aviation document, and who applies for a removal of that disqualification and whose application is refused, may appeal to the Court of Appeal against the refusal in accordance with [Part 6][495] of the Criminal Procedure Act 2011 and that Part applies with the necessary modifications as if the refusal were a sentence.
     
     (4) Where application is made to the Court of Appeal for leave to appeal to that court against a sentence of the High Court that is or includes an order of disqualification, the High Court may, if it thinks fit, defer the operation of the order pending the application for leave to appeal and, if leave is granted, pending the appeal.
     
@@ -4281,28 +4349,42 @@ Offences and penalties
     
     Compare: 1964 No 68 s 24G; 1975 No 34 s 6
     
-    Section 64(5): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 64(1): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(2): replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(3): replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(5): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
-#### Offences punishable on summary conviction
+#### Charging documents and burden of proof
+    
+*   Heading: replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 65 Offences to be punishable on summary conviction
+##### 65 Time for filing charging document
     
-*   (1) Subject to [section 57(2)][132] and [Part 5A][143], every offence against this Act shall be punishable on summary conviction.
+*   Despite anything to the contrary in [section 25][496] of the Criminal Procedure Act 2011 the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
-    (2) Notwithstanding anything in the [Summary Proceedings Act 1957][488], any information for an offence against this Act may be laid at any time within 12 months after the date of the offence.
+    Section 65: replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+
+##### 65AA Burden of proof of reasonable excuse
     
-    Section 65(1): amended, on 1 June 2004, by [section 27][493] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   In proceedings for an offence against any of [sections 44A(1)][103], [46C(1)][108], [49(1)(b) and (c)][114], [50A(1)][118], [51][119], [52A][121], [52B(1)][122], [52C(1)][123], [53][124], [56A(1)(b)][130], [65P(6)][162], [77I(1)][207], [96B(1) and (2)][326], and [99C(1)(a) and (b)][327],---
+        
+    *   (a) the prosecutor need not assert absence of reasonable excuse in the charging document; and
     
-    Section 65(2): added, on 13 August 1996, by section 22 of the Civil Aviation Amendment Act 1996 (1996 No 91).
+    *   (b) the burden of proving that the defendant had a reasonable excuse lies on the defendant.
+    
+    Section 65AA: inserted, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5A  
 Unruly passenger offences
     
-*   Part 5A: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Part 5A: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Heading: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 65A Application of this Part
     
@@ -4326,23 +4408,23 @@ Unruly passenger offences
     
     (6) For the purposes of this Part, _person authorised by the Director_ includes (but is not limited to) an aviation security officer authorised by the Director.
     
-    Section 65A: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65A: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65A(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 65A(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 65B Liability for offences against this Part despite extraterritoriality
     
 *   Any person who commits an act or omission on an aircraft in flight outside New Zealand that would be an offence against this Part if it occurred within New Zealand is, subject to this Act, liable as if the act or omission had occurred in New Zealand.
     
-    Section 65B: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65B: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 65C Liability for offences under Summary Offences Act 1981 despite extraterritoriality
     
-*   (1) Any person who commits an act or omission on an aircraft in flight outside New Zealand that would, if it occurred in New Zealand, be an offence against [sections 3][495] (disorderly behaviour), [7][496] (fighting in public place), [9][497] (common assault), [11][498] (wilful damage), or [27][499] (indecent exposure) of the Summary Offences Act 1981, is liable under that Act as if the act or omission had occurred in New Zealand.
+*   (1) Any person who commits an act or omission on an aircraft in flight outside New Zealand that would, if it occurred in New Zealand, be an offence against [sections 3][498] (disorderly behaviour), [7][499] (fighting in public place), [9][500] (common assault), [11][501] (wilful damage), or [27][502] (indecent exposure) of the Summary Offences Act 1981, is liable under that Act as if the act or omission had occurred in New Zealand.
     
-    (2) To avoid doubt, any person who commits an act or omission on an aircraft that would be an offence against [sections 3][495] (disorderly behaviour), [7][496] (fighting in public place), or [27][499] (indecent exposure) of the Summary Offences Act 1981 is liable under that Act as if the reference to public place in any of those provisions includes an aircraft.
+    (2) To avoid doubt, any person who commits an act or omission on an aircraft that would be an offence against [sections 3][498] (disorderly behaviour), [7][499] (fighting in public place), or [27][502] (indecent exposure) of the Summary Offences Act 1981 is liable under that Act as if the reference to public place in any of those provisions includes an aircraft.
     
-    Section 65C: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65C: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 65D Foreign aircraft outside New Zealand
     
@@ -4362,7 +4444,7 @@ Unruly passenger offences
     
     (3) Despite subsection (1)(b), proceedings for an unruly passenger offence committed on a foreign aircraft outside of New Zealand may be commenced without the Attorney-General's consent if---
         
-    *   (a) a copy of the infringement notice is filed or particulars of the infringement notice are provided under [section 65S(1)][164]; or
+    *   (a) a copy of the infringement notice is filed or particulars of the infringement notice are provided under [section 65S(1)][165]; or
     
     *   (b) the defendant requests a hearing in respect of the infringement offence to which the infringement notice relates.
     
@@ -4372,33 +4454,41 @@ Unruly passenger offences
     
     *   (b) in the absence of proof to the contrary, sufficient evidence of the matters stated in the form or forms.
     
-    Section 65D: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65D: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65D(3)(a): substituted, on 1 March 2007, by [section 32(1)][500] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 65D(3)(a): substituted, on 1 March 2007, by [section 32(1)][503] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 65E Proceedings for offences
     
-*   (1) Subject to [section 65Q(2)][162], the offences specified in this Part (except [sections 65F][151] and [65G(1)(d)][152]) are triable summarily.
+*   (1) \[Repealed\]
     
-    (2) The offences specified in [sections 65F][151] and [65G(1)(d)][152] are triable on indictment.
+    (2) \[Repealed\]
     
-    (3) Despite anything to the contrary in the [Summary Proceedings Act 1957][488], any information for an offence referred to in subsection (1) may be laid at any time within 12 months after the date of the offence.
+    (3) Despite anything to the contrary in [section 25][496] of the Criminal Procedure Act 2011 the limitation period in respect of the offences specified in this Part (except [sections 65F][152] and [65G(1)(d)][153]) ends on the date that is 12 months after the date on which the offence was committed.
     
-    (4) Subject to [section 65C][147], nothing in this Part affects the liability of any person under any other enactment.
+    (4) Subject to [section 65C][148], nothing in this Part affects the liability of any person under any other enactment.
     
-    Section 65E: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65E: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65E(1): repealed, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65E(2): repealed, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65E(3): replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Unruly passenger offences
     
-*   Heading: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Heading: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 65F Strict liability for acts endangering safety
     
 *   (1) A person commits an offence who acts in a manner that endangers an aircraft or any person in an aircraft.
     
-    (2) Every person who commits an offence against subsection (1) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000\.
     
-    Section 65F: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65F: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65F(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65G Disruptive conduct towards crew member
     
@@ -4412,21 +4502,27 @@ Unruly passenger offences
     
     *   (d) intentionally interferes with the performance by a crew member of his or her duties.
     
-    (2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against subsection (1)(a) or (b) or (c) is liable on conviction to a fine not exceeding $5,000\.
     
-    (3) Every person who commits an offence against subsection (1)(d) is liable to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000\.
+    (3) Every person who commits an offence against subsection (1)(d) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $10,000\.
     
     (4) It is a defence in a prosecution under subsection (1)(a) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard by a crew member.
     
-    Section 65G: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65G: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65G(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65G(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65H Interference with aircraft
     
 *   (1) Every person commits an offence who tampers or interferes with any aircraft, any component of an aircraft, or its equipment, including, but not limited to, smoke detectors.
     
-    (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $10,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 65H: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65H: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65H(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65I Intoxicated persons on aircraft
     
@@ -4436,11 +4532,17 @@ Unruly passenger offences
     
     *   (b) becomes intoxicated on an aircraft.
     
+    (1A) In proceedings for an offence against subsection (1),---
+        
+    *   (a) the prosecutor need not assert, in the charging document, that the defendant was not a person under medical care; and
+    
+    *   (b) the burden of proving that the defendant was under medical care lies on the defendant.
+    
     (2) Every person who commits an offence against---
         
-    *   (a) subsection (1)(a) is liable to a fine not exceeding $5,000:
+    *   (a) subsection (1)(a) is liable on conviction to a fine not exceeding $5,000:
     
-    *   (b) subsection (1)(b) is liable to a fine not exceeding $3,000\.
+    *   (b) subsection (1)(b) is liable on conviction to a fine not exceeding $3,000\.
     
     (3) For the purposes of this section, a person is _intoxicated_ if the pilot-in-command (or senior flight attendant authorised by the pilot-in-command for this purpose) has reasonable grounds to believe that the person is under the influence of an intoxicating liquor, or substance to such an extent as to---
         
@@ -4456,15 +4558,23 @@ Unruly passenger offences
     
     *   (b) has become intoxicated as a result of taking prescription medication in accordance with a medical authorisation.
     
-    Section 65I: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65I: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65I(1A): inserted, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65I(2)(a): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65I(2)(b): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65J Non-compliance with commands given by pilot-in-command
     
 *   (1) Every person commits an offence who fails to comply with any commands given to the person directly by the pilot-in-command, or indirectly by the pilot-in-command through a crew member, in accordance with his or her duties under [section 13][30] or the rules.
     
-    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable to a fine not exceeding $5,000\.
+    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 65J: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65J: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65J(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65K Offensive behaviour or words
     
@@ -4474,19 +4584,23 @@ Unruly passenger offences
     
     *   (b) uses threatening, offensive, or insulting words.
     
-    (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500\.
     
     (3) It is a defence in a prosecution under subsection (1)(b) for using offensive or insulting words if the defendant proves that he or she had reasonable grounds to believe that his or her words would not be overheard.
     
-    Section 65K: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65K: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65K(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65L Portable electronic devices not to be operated
     
 *   (1) Every person commits an offence who operates a portable electronic device on board an aircraft in breach of the rules.
     
-    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500\.
+    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500\.
     
-    Section 65L: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65L: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65L(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65M Non-compliance with seating and seatbelt instructions
     
@@ -4496,9 +4610,11 @@ Unruly passenger offences
     
     *   (b) fasten and keep fastened about the person any installed safety belt or safety harness.
     
-    (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500\.
     
-    Section 65M: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65M: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65M(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65N No smoking
     
@@ -4508,43 +4624,47 @@ Unruly passenger offences
     
     *   (b) while on any aircraft that is carrying passengers for hire or reward on any internal flight; or
     
-    *   (c) in contravention of [section 96A(6)][324].
+    *   (c) in contravention of [section 96A(6)][325].
     
-    (2) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500\.
     
-    (3) In subsection (1), _to smoke_ has the meaning set out in [section 96A(1)][324].
+    (3) In subsection (1), _to smoke_ has the meaning set out in [section 96A(1)][325].
     
-    Section 65N: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65N: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65N(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65O Dangerous goods
     
 *   (1) Every person commits an offence who, in breach of the rules, carries or causes to be carried on an aircraft any dangerous goods.
     
-    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable to a fine not exceeding $2,500\.
+    (2) Despite [section 28(6)][74], every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $2,500\.
     
-    Section 65O: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65O: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    
+    Section 65O(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65P Procedure for certain unruly passenger offences
     
-*   (1) If any offence specified in [section 65Q(2)][162] is alleged to have been committed by any person (in this section, the defendant), the pilot-in-command of the aircraft at the time of the alleged offence may, by any available means, notify, or cause to be notified,---
+*   (1) If any offence specified in [section 65Q(2)][163] is alleged to have been committed by any person (in this section, the defendant), the pilot-in-command of the aircraft at the time of the alleged offence may, by any available means, notify, or cause to be notified,---
         
     *   (a) the Director; or
     
     *   (b) a person authorised by the Director.
     
-    (2) If the Director or a person authorised by the Director has reason to believe that a defendant has committed any offence specified in [section 65Q(2)][162],---
+    (2) If the Director or a person authorised by the Director has reason to believe that a defendant has committed any offence specified in [section 65Q(2)][163],---
         
-    *   (a) the defendant may be proceeded against for the alleged offence under the [Summary Proceedings Act 1957][488]; or
+    *   (a) the defendant may be proceeded against by filing a charging document under [section 14][491] of the Criminal Procedure Act 2011; or
     
     *   (b) the Director or the person authorised by the Director may issue an infringement notice in respect of the alleged offence.
     
-    (3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in [section 65G(1)(a) to (c)][152] or [section 65H][153] or [section 65J][155] or [section 65K][156] or [section 65Q(2)][162], he or she may require the person to give his or her full name, address, and date of birth.
+    (3) If the Director or a person authorised by the Director has reasonable cause to suspect that a person has committed any offence specified in [section 65G(1)(a) to (c)][153] or [section 65H][154] or [section 65J][156] or [section 65K][157] or [section 65Q(2)][163], he or she may require the person to give his or her full name, address, and date of birth.
     
     (4) If the Director or the person authorised by the Director has reasonable grounds to suppose that any details provided under subsection (3) are false or misleading, he or she may require the person to give such verification of those details as it is reasonable in the circumstances to require that person to provide.
     
     (5) If the person, without reasonable excuse, refuses or fails to comply with a request under subsection (3) or subsection (4), and persists in that refusal or failure after being warned by the Director or a person authorised by the Director that he or she may be arrested for committing an offence by that refusal or failure, a constable may arrest that person without warrant.
     
-    (6) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,---
+    (6) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse,---
         
     *   (a) refuses or fails to comply with a request under subsection (3) or subsection (4); or
     
@@ -4558,13 +4678,17 @@ Unruly passenger offences
     
     *   (b) may send it (or a copy of it) to the defendant by post addressed to the defendant's last known place of residence or business.
     
-    Section 65P: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65P: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65P(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 65P(2)(a): replaced, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 65P(5): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
+    
+    Section 65P(6): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 65Q Form of infringement notice
     
-*   (1) An infringement notice under [section 65P][161] must be in the prescribed form, and must specify---
+*   (1) An infringement notice under [section 65P][162] must be in the prescribed form, and must specify---
         
     *   (a) enough details to inform the defendant fairly of the time, place, and nature of the offence alleged; and
     
@@ -4574,9 +4698,9 @@ Unruly passenger offences
     
     *   (d) the time within which the fee may be paid; and
     
-    *   (e) how and where payment may be made under [section 65R][163]; and
+    *   (e) how and where payment may be made under [section 65R][164]; and
     
-    *   (f) a summary of how the provisions of [section 21(10)][489] of the Summary Proceedings Act 1957 apply to the offence alleged; and
+    *   (f) a summary of how the provisions of [section 21(10)][493] of the Summary Proceedings Act 1957 apply to the offence alleged; and
     
     *   (g) that the defendant has a right to request a hearing; and
     
@@ -4586,75 +4710,75 @@ Unruly passenger offences
     
     (2) The infringement fee is,---
         
-    *   (a) in the case of an offence against [section 65I(1)(a)][154], $1,000:
+    *   (a) in the case of an offence against [section 65I(1)(a)][155], $1,000:
     
-    *   (b) in the case of an offence against [section 65I(1)(b)][154], $600:
+    *   (b) in the case of an offence against [section 65I(1)(b)][155], $600:
     
-    *   (c) in the case of an offence against [section 65L][157], $500:
+    *   (c) in the case of an offence against [section 65L][158], $500:
     
-    *   (d) in the case of an offence against [section 65M][158], $500:
+    *   (d) in the case of an offence against [section 65M][159], $500:
     
-    *   (e) in the case of an offence against [section 65N][159], $500:
+    *   (e) in the case of an offence against [section 65N][160], $500:
     
-    *   (f) in the case of an offence against [section 65O][160], $500\.
+    *   (f) in the case of an offence against [section 65O][161], $500\.
     
-    Section 65Q: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65Q: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 65R Payment of fees
     
-*   (1) If an infringement notice under [section 65P][161] (or a copy of it) is served by delivering it to the defendant on arrival at an international airport for an offence on an international flight, the defendant may choose to pay immediately the infringement fee in the manner specified in the notice.
+*   (1) If an infringement notice under [section 65P][162] (or a copy of it) is served by delivering it to the defendant on arrival at an international airport for an offence on an international flight, the defendant may choose to pay immediately the infringement fee in the manner specified in the notice.
     
-    (2) All infringement fees received in respect of an infringement notice under [section 65P][161], whether immediately after service or later, must be paid into a Crown Bank Account.
+    (2) All infringement fees received in respect of an infringement notice under [section 65P][162], whether immediately after service or later, must be paid into a Crown Bank Account.
     
-    Section 65R: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65R: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65R(2): amended, on 25 January 2005, pursuant to [section 65R(3)][501] of the Public Finance Act 1989 (1989 No 44).
+    Section 65R(2): amended, on 25 January 2005, pursuant to [section 65R(3)][504] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 65S Filing of notices
     
-*   (1) The Director, or a person authorised by the Director, may provide particulars of an infringement notice issued under [section 65P][161], in accordance with [section 21(4) and (4A)][489] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
+*   (1) The Director, or a person authorised by the Director, may provide particulars of an infringement notice issued under [section 65P][162], in accordance with [section 21(4) and (4A)][493] of the Summary Proceedings Act 1957, after a period of 14 days from the date of service of the infringement notice, or a copy of the infringement notice, if---
         
     *   (a) the infringement fee for the offence has not by then been paid to the Director as specified in the notice; and
     
     *   (b) the Director has not by then received at the address specified in the notice a notice requesting a hearing in respect of that offence.
     
-    (2) If an infringement notice under [section 65P][161] has been issued and served under this section, the [Summary Proceedings Act 1957][488] applies as if that notice were a reminder notice served under [section 21(2)][489] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
+    (2) If an infringement notice under [section 65P][162] has been issued and served under this section, the [Summary Proceedings Act 1957][505] applies as if that notice were a reminder notice served under [section 21(2)][493] of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if---
         
-    *   (a) the reference in [section 21(1)(b)][489] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (1) of this section; and
+    *   (a) the reference in [section 21(1)(b)][493] to providing particulars of a reminder notice under that section were a reference to providing particulars of the infringement notice under subsection (1) of this section; and
     
-    *   (b) subsection (1) of this section were in the place of [section 21(3)][489]; and
+    *   (b) subsection (1) of this section were in the place of [section 21(3)][493]; and
     
-    *   (c) the reference in [section 21(3A)][489] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (1) of this section; and
+    *   (c) the reference in [section 21(3A)][493] to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (1) of this section; and
     
-    *   (d) every reference in [section 21(4), (4A), and (4B)][489] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
+    *   (d) every reference in [section 21(4), (4A), and (4B)][493] to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
     
-    *   (e) the reference in [section 21(4)(a)][489] to parts of the reminder notice were a reference to parts of the infringement notice; and
+    *   (e) the reference in [section 21(4)(a)][493] to parts of the reminder notice were a reference to parts of the infringement notice; and
     
-    *   (f) the reference in [section 21(4C)][489] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
+    *   (f) the reference in [section 21(4C)][493] to particulars of a reminder notice were a reference to particulars of an infringement notice; and
     
-    *   (g) the reference in [section 21(4C)][489] to the reminder notice were a reference to the infringement notice; and
+    *   (g) the reference in [section 21(4C)][493] to the reminder notice were a reference to the infringement notice; and
     
-    *   (h) the reference in [section 21(5)][489] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (1) of this section; and
+    *   (h) the reference in [section 21(5)][493] to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (1) of this section; and
     
-    *   (i) the reference in [section 21(6)(b)][489] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
+    *   (i) the reference in [section 21(6)(b)][493] and in section 21(10)(a) to a period of 28 days after the service of a reminder notice were a reference to the period of 14 days after the service of the infringement notice; and
     
-    *   (j) each reference in [section 21A][502] and [section 78B][503] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
+    *   (j) each reference in [section 21A][506] and [section 78B][507] to a reminder notice were a reference to an infringement notice and each reference in section 21A and section 78B to the reminder notice were a reference to the infringement notice; and
     
-    *   (k) the references to reminder notices in the definition of defendant in [section 2][504], and in [section 212][505], and in any other relevant provisions of that Act or in any regulations made under that Act, were references to the infringement notice.
+    *   (k) the references to reminder notices in the definition of defendant in [section 2][508], and in [section 212][509], and in any other relevant provisions of that Act or in any regulations made under that Act, were references to the infringement notice.
     
     (3) \[Repealed\]
     
-    (4) Despite [section 203(1)][506] of the Summary Proceedings Act 1957, an infringement notice under [section 65P][161] may be issued and served on a Sunday.
+    (4) Despite [section 203(1)][510] of the Summary Proceedings Act 1957, an infringement notice under [section 65P][162] may be issued and served on a Sunday.
     
     (5) For the purpose of subsection (1), an infringement notice sent by post is deemed to have been served on the defendant when it was posted.
     
-    Section 65S: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65S: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 65S(1): substituted, on 1 March 2007, by [section 32(2)][500] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 65S(1): substituted, on 1 March 2007, by [section 32(2)][503] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 65S(2): substituted, on 1 March 2007, by [section 32(2)][500] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 65S(2): substituted, on 1 March 2007, by [section 32(2)][503] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
     
-    Section 65S(3): repealed, on 1 March 2007, by [section 32(2)][500] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
+    Section 65S(3): repealed, on 1 March 2007, by [section 32(2)][503] of the Summary Proceedings Amendment Act 2006 (2006 No 13).
 
 ##### 65T Savings
     
@@ -4668,7 +4792,7 @@ Unruly passenger offences
     
     (2) All proceedings commenced under any other enactment for an offence committed before the commencement of this Part may be continued and completed under that other enactment as if this Part had not come into force.
     
-    Section 65T: inserted, on 1 June 2004, by [section 28][494] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 65T: inserted, on 1 June 2004, by [section 28][497] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ## Part 6  
 Rights of appeal
@@ -4715,43 +4839,43 @@ Rights of appeal
     
     *   (j) to amend an AOC with ANZA privileges or withdraw those privileges under [section 11I(3)][26].
     
-    Section 66: substituted, on 1 June 2002, by [section 14][507] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 66: substituted, on 1 June 2002, by [section 14][511] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 66(5)(e): added, on 24 February 2006, by [section 29(1)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(e): added, on 24 February 2006, by [section 29(1)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(f): added, on 24 February 2006, by [section 29(1)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(f): added, on 24 February 2006, by [section 29(1)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(g): added, on 24 February 2006, by [section 29(1)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(g): added, on 24 February 2006, by [section 29(1)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(h): added, on 24 February 2006, by [section 29(1)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(h): added, on 24 February 2006, by [section 29(1)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(i): added, on 24 February 2006, by [section 29(1)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(i): added, on 24 February 2006, by [section 29(1)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 66(5)(j): added, on 30 March 2007, by [section 29(2)][508] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 66(5)(j): added, on 30 March 2007, by [section 29(2)][512] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 67 Procedure
     
 *   \[Repealed\]
     
-    Section 67: repealed, on 1 June 2002, by [section 14][507] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 67: repealed, on 1 June 2002, by [section 14][511] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 68 Decision of Director to continue in force pending appeal, etc
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 1 June 2002, by [section 15][509] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 68: repealed, on 1 June 2002, by [section 15][513] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 69 Appeal to High Court on question of law
     
-*   (1) Every party to an appeal under [section 66][167] may appeal to the High Court on a question of law.
+*   (1) Every party to an appeal under [section 66][168] may appeal to the High Court on a question of law.
     
-    (2) The [High Court Rules][510] and [sections 74 to 78][511] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][512] of that Act.
+    (2) The [High Court Rules][514] and [sections 74 to 78][515] of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under [section 72][516] of that Act.
     
-    Section 69(2): substituted, on 24 November 2003, by [section 4][513] of the District Courts Amendment Act 2002 (2002 No 63).
+    Section 69(2): substituted, on 24 November 2003, by [section 4][517] of the District Courts Amendment Act 2002 (2002 No 63).
 
 ##### 70 Further appeal to Court of Appeal
     
-*   (1) Every party to an appeal under [section 69][170] may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
+*   (1) Every party to an appeal under [section 69][171] may, with the leave of the High Court or (if that leave is declined) with special leave of the Court of Appeal, appeal to the Court of Appeal on that question of law.
     
     (2) On any appeal under subsection (1), the Court of Appeal may make such order or determination as it thinks fit.
     
@@ -4765,17 +4889,17 @@ Rights of appeal
         
     *   (a) a copy of any aviation document which is certified correct by the Director or any other employee of the Authority authorised in that behalf by the Director shall be sufficient, in the absence of proof to the contrary, to prove that document:
     
-    *   (b) evidence of the contents of the New Zealand Register of Aircraft maintained under [section 72B(f)][177] may be given by a certificate signed by the Director or any other employee of the Authority authorised in that behalf by the Director; and every such certificate shall be sufficient evidence of the matters stated in it, until the contrary is proved:
+    *   (b) evidence of the contents of the New Zealand Register of Aircraft maintained under [section 72B(f)][178] may be given by a certificate signed by the Director or any other employee of the Authority authorised in that behalf by the Director; and every such certificate shall be sufficient evidence of the matters stated in it, until the contrary is proved:
     
     *   (c) the production of a certificate signed by the Director or any other employee of the Authority authorised in that behalf by the Director to the effect that on a specified date a person or organisation was or was not the holder of any aviation document or any specified type of aviation document shall be sufficient evidence of the matter certified, until the contrary is proved:
     
-    *   (ca) the production of a written statement signed by the Director to the effect that on a specified date a person was or was not the holder of a medical certificate issued under [Part 2A][54], or the rules before the commencement of the [Civil Aviation (Medical Certification) Amendment Act 2001][514], is sufficient evidence of the matter stated, until the contrary is proved:
+    *   (ca) the production of a written statement signed by the Director to the effect that on a specified date a person was or was not the holder of a medical certificate issued under [Part 2A][54], or the rules before the commencement of the [Civil Aviation (Medical Certification) Amendment Act 2001][518], is sufficient evidence of the matter stated, until the contrary is proved:
     
     *   (cb) the production of a certified copy of material incorporated by reference is, in the absence of evidence to the contrary, sufficient evidence that the material produced is the material incorporated by reference in a rule:
     
     *   (d) until the contrary is proved, it shall be presumed that every certificate purporting to have been certified or given under this section has been certified or given by the Director or by any other employee of the Authority authorised by the Director to certify documents or give certificates under this section.
     
-    *   (e) any licence granted under [Part 8A][227] may be proved by the production of a copy of that licence certified to be correct by the Secretary.
+    *   (e) any licence granted under [Part 8A][228] may be proved by the production of a copy of that licence certified to be correct by the Secretary.
     
     (2) Without limiting any other method of proof, the production in any proceedings of a copy of---
         
@@ -4785,23 +4909,23 @@ Rights of appeal
     
     shall, in the absence of proof to the contrary, be sufficient evidence of the rule and of the fact that it has been made in accordance with the provisions of that Part.
     
-    Section 71(1)(a): amended, on 10 August 1992, by [section 30(a)][515] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(a): amended, on 10 August 1992, by [section 30(a)][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 71(1)(b): amended, on 13 August 1996, by section 23(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 71(1)(b): amended, on 10 August 1992, by [section 30(b)][515] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(b): amended, on 10 August 1992, by [section 30(b)][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 71(1)(c): amended, on 10 August 1992, by [section 30(c)][515] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(c): amended, on 10 August 1992, by [section 30(c)][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 71(1)(ca): inserted, on 1 April 2002, by [section 10(1)][516] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 71(1)(ca): inserted, on 1 April 2002, by [section 10(1)][520] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
     
-    Section 71(1)(cb): inserted, on 1 August 2010, by [section 11][517] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 71(1)(cb): inserted, on 1 August 2010, by [section 11][521] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
     
-    Section 71(1)(d): amended, on 10 August 1992, by [section 30(d)][515] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 71(1)(d): amended, on 10 August 1992, by [section 30(d)][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 71(1)(e): added, on 13 August 1996, by section 23(2) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 71(2): added, on 20 August 1993, by [section 6][518] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 71(2): added, on 20 August 1993, by [section 6][522] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72 Evidence of air traffic services provider
     
@@ -4816,75 +4940,75 @@ Rights of appeal
 ## Part 6A  
 Civil Aviation Authority of New Zealand
     
-*   Part 6A: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+*   Part 6A: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72A Civil Aviation Authority of New Zealand established
     
 *   (1) There is hereby established an authority to be known as the Civil Aviation Authority of New Zealand.
     
-    (1A) The Authority is a Crown entity for the purposes of [section 7][520] of the Crown Entities Act 2004\.
+    (1A) The Authority is a Crown entity for the purposes of [section 7][524] of the Crown Entities Act 2004\.
     
-    (1B) The [Crown Entities Act 2004][521] applies to the Authority except to the extent that this Act expressly provides otherwise.
+    (1B) The [Crown Entities Act 2004][525] applies to the Authority except to the extent that this Act expressly provides otherwise.
     
-    (2) The Authority shall consist of 5 members appointed in accordance with [section 28(1)(a)][522] of the Crown Entities Act 2004\.
+    (2) The Authority shall consist of 5 members appointed in accordance with [section 28(1)(a)][526] of the Crown Entities Act 2004\.
     
-    (2A) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][521].
+    (2A) Members of the Authority are the board for the purposes of the [Crown Entities Act 2004][525].
     
     (3) \[Repealed\]
     
     (4) The Minister shall appoint as members persons who the Minister considers will represent the public interest in civil aviation.
     
-    (4A) Subsection (4) does not limit [section 29][523] of the Crown Entities Act 2004\.
+    (4A) Subsection (4) does not limit [section 29][527] of the Crown Entities Act 2004\.
     
     (5) Before appointing 2 of the members, the Minister shall request, from such organisation or organisations as the Minister considers represent those who have a substantial interest in the civil aviation industry in New Zealand, the names of persons such organisation or organisations consider proper candidates for appointment to the Authority.
     
     (6) \[Repealed\]
     
-    (7) A person may hold office as a member concurrently with any other office, except any office or appointment under the [Transport Accident Investigation Commission Act 1990][360].
+    (7) A person may hold office as a member concurrently with any other office, except any office or appointment under the [Transport Accident Investigation Commission Act 1990][362].
     
     (8) Neither the Director nor any other employee of the Authority may be a member of the Authority.
     
     (9) The Authority is owned by the Crown.
     
-    (10) The Authority is hereby deemed to be a Crown entity for the purposes of the [Public Finance Act 1989][524].
+    (10) The Authority is hereby deemed to be a Crown entity for the purposes of the [Public Finance Act 1989][528].
     
     (11) \[Repealed\]
     
-    (12) The provisions of [Schedule 3][354] shall apply in relation to the Authority.
+    (12) The provisions of [Schedule 3][356] shall apply in relation to the Authority.
     
-    Section 72A: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72A: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72A(1A): inserted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(1A): inserted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(1B): inserted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(1B): inserted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(2): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(2): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(2): amended, on 1 June 2004, by [section 30][525] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72A(2): amended, on 1 June 2004, by [section 30][529] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72A(2A): inserted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(2A): inserted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(3): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(3): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(4): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(4): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(4A): inserted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(4A): inserted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(5): amended, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(5): amended, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(6): repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(6): repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(9): substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72A(9): substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72A(10): amended, on 21 December 1992, by [section 42][526] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 72A(10): amended, on 21 December 1992, by [section 42][530] of the Public Finance Amendment Act 1992 (1992 No 142).
     
-    Section 72A(11): repealed, on 20 August 1993, by [section 7(b)][527] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72A(11): repealed, on 20 August 1993, by [section 7(b)][531] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72AA Objective of Authority
     
 *   The objective of the Authority is to undertake its safety, security, and other functions in a way that contributes to the aim of achieving an integrated, safe, responsive, and sustainable transport system.
     
-    Section 72AA: inserted, on 1 December 2004, by [section 7][528] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72AA: inserted, on 1 December 2004, by [section 7][532] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 72B Functions of Authority
     
@@ -4900,7 +5024,7 @@ Civil Aviation Authority of New Zealand
     
     *   (ca) to establish and continue a service to be called the Aviation Security Service:
     
-    *   (d) to investigate and review civil aviation accidents and incidents in its capacity as the responsible safety and security authority, subject to the limitations set out in [section 14(3)][529] of the Transport Accident Investigation Commission Act 1990:
+    *   (d) to investigate and review civil aviation accidents and incidents in its capacity as the responsible safety and security authority, subject to the limitations set out in [section 14(3)][533] of the Transport Accident Investigation Commission Act 1990:
     
     *   (e) to notify the Transport Accident Investigation Commission in accordance with [section 27][53] of accidents and incidents notified to the Authority:
     
@@ -4930,7 +5054,7 @@ Civil Aviation Authority of New Zealand
         
     *   (a) are conferred on it by this Act or any other Act; and
     
-    *   (b) the Minister may direct in accordance with [section 112][530] of the Crown Entities Act 2004\.
+    *   (b) the Minister may direct in accordance with [section 112][534] of the Crown Entities Act 2004\.
     
     (3A) The Authority may provide such administrative support services for the Aviation Security Service, and on such terms and conditions, as are agreed between the Director and the General Manager.
     
@@ -4938,65 +5062,65 @@ Civil Aviation Authority of New Zealand
     
     (4) \[Repealed\]
     
-    Section 72B: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72B: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72B(1): repealed, on 1 December 2004, by [section 8(1)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(1): repealed, on 1 December 2004, by [section 8(1)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2): amended, on 1 December 2004, by [section 8(2)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2): amended, on 1 December 2004, by [section 8(2)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(a): substituted, on 1 December 2004, by [section 8(3)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(a): substituted, on 1 December 2004, by [section 8(3)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(b): substituted, on 1 December 2004, by [section 8(3)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(b): substituted, on 1 December 2004, by [section 8(3)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(c): repealed, on 1 December 2004, by [section 8(3)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(c): repealed, on 1 December 2004, by [section 8(3)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(ca): inserted, on 20 August 1993, by [section 8(1)][532] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(2)(ca): inserted, on 20 August 1993, by [section 8(1)][536] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(2)(i): substituted, on 1 December 2004, by [section 8(4)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(i): substituted, on 1 December 2004, by [section 8(4)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(ia): inserted, on 1 December 2004, by [section 8(4)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2)(ia): inserted, on 1 December 2004, by [section 8(4)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(2)(j): added, on 24 February 2006, by [section 31][533] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72B(2)(j): added, on 24 February 2006, by [section 31][537] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72B(2A): substituted, on 1 December 2004, by [section 8(5)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(2A): substituted, on 1 December 2004, by [section 8(5)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(3): substituted, on 1 December 2004, by [section 8(6)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(3): substituted, on 1 December 2004, by [section 8(6)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72B(3)(b): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72B(3)(b): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72B(3A): inserted, on 20 August 1993, by [section 8(2)][532] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(3A): inserted, on 20 August 1993, by [section 8(2)][536] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(3B): inserted, on 20 August 1993, by [section 8(2)][532] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72B(3B): inserted, on 20 August 1993, by [section 8(2)][536] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72B(4): repealed, on 1 December 2004, by [section 8(1)][531] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72B(4): repealed, on 1 December 2004, by [section 8(1)][535] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 72C Authority to comply with policy directions
     
 *   \[Repealed\]
     
-    Section 72C: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72C: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 72CA Surplus of Aviation Security Service funds payable to the Crown
     
 *   If the Minister of Finance is satisfied at any time that in any financial year the Aviation Security Service has a surplus of funds, he or she may, after consultation with the Minister, direct the Authority to pay to the Crown a sum equal to the whole or any part of that surplus, as the Minister of Finance thinks fit.
     
-    Section 72CA: inserted, on 20 August 1993, by [section 9][534] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72CA: inserted, on 20 August 1993, by [section 9][538] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72D Authority to have powers of natural person
     
 *   \[Repealed\]
     
-    Section 72D: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72D: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 72E Authority to consider delegating or contracting out of functions and powers
     
 *   Subject to this Act, the Authority shall, in the course of performing its functions and powers, consider whether it could most efficiently and effectively perform those functions and powers by means of its own operations or by delegating or contracting out those operations to appropriate persons selected after an appropriate competitive process.
     
-    Section 72E: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72E: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72F Extra information to be included in statement of intent
     
-*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][535] of the Crown Entities Act 2004:
+*   (1) The Authority must include the following information in its statement of intent prepared under [section 139][539] of the Crown Entities Act 2004:
         
     *   (a) a statement of any new borrowings or financial leases, or similar liabilities the Authority intends to incur during that year; and
     
@@ -5008,11 +5132,11 @@ Civil Aviation Authority of New Zealand
         
         
     
-    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][536] of the Crown Entities Act 2004 applies accordingly.
+    (2) The Minister may direct the Authority to amend any provision that is included in the statement of intent under this section, and [section 147][540] of the Crown Entities Act 2004 applies accordingly.
     
     (3) No provision specifying any liabilities the Authority intends to incur may be included in a statement of intent without the concurrence of the Minister of Finance.
     
-    Section 72F: substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72F: substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 72G Service charter
     
@@ -5038,23 +5162,23 @@ Civil Aviation Authority of New Zealand
     
     (7) Nothing in the service charter shall limit or restrict any right to make any complaint or to bring any proceedings under any Act or rule of law.
     
-    Section 72G: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72G: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72G(5): amended, on 20 August 1993, by [section 11][537] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72G(5): amended, on 20 August 1993, by [section 11][541] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72H Use of words Civil Aviation Authority
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][538] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Civil Aviation Authority"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][542] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Authority or to any person who is appropriately authorised by the Authority.
     
-    Section 72H: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72H: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 72I Director of Civil Aviation
     
 *   (1) The Authority shall from time to time appoint a chief executive of the Authority, who shall be known as the Director of Civil Aviation.
     
-    (2) The Director shall have and may exercise such functions and powers as may be conferred or imposed on the Director by this Act, or regulations or rules made under this Act, and such functions and powers as may be delegated to the Director by the Authority under [section 73][413] of the Crown Entities Act 2004\.
+    (2) The Director shall have and may exercise such functions and powers as may be conferred or imposed on the Director by this Act, or regulations or rules made under this Act, and such functions and powers as may be delegated to the Director by the Authority under [section 73][415] of the Crown Entities Act 2004\.
     
     (3) Without limiting subsection (2), the Director shall---
         
@@ -5114,31 +5238,31 @@ Civil Aviation Authority of New Zealand
     
     in respect of any particular case, the Director shall act independently and shall not be responsible to the Minister or the Authority for the performance or exercise of such functions or powers.
     
-    Section 72I: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72I: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72I(2): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72I(2): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][539] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(b): amended, on 1 December 2004, by [section 9][543] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][540] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3)(b): amended, on 1 June 2002, by [section 16(1)][544] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3)(c): added, on 1 December 2004, by [section 9][539] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(c): added, on 1 December 2004, by [section 9][543] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 72I(3)(d): added, on 1 December 2004, by [section 9][539] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 72I(3)(d): added, on 1 December 2004, by [section 9][543] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
     Section 72I(3A): inserted, on 13 August 1996, by section 26 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][540] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3A): amended, on 1 June 2002, by [section 16(2)][544] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][540] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3B): substituted, on 1 June 2002, by [section 16(3)][544] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][540] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72I(3C): inserted, on 1 June 2002, by [section 16(3)][544] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 72I(3D): inserted, on 30 March 2007, by [section 32][541] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 72I(3D): inserted, on 30 March 2007, by [section 32][545] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 72I(4): substituted, on 20 August 1993, by [section 12][542] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72I(4): substituted, on 20 August 1993, by [section 12][546] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72I(4)(aa): inserted, on 1 April 2002, by [section 10(2)][516] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
+    Section 72I(4)(aa): inserted, on 1 April 2002, by [section 10(2)][520] of the Civil Aviation (Medical Certification) Amendment Act 2001 (2001 No 87).
 
 ##### 72J Acting Director of Civil Aviation
     
@@ -5154,29 +5278,29 @@ Civil Aviation Authority of New Zealand
     
     (3) No person employed within the Aviation Security Service shall be given any direction or appointment by the Authority under this section without the prior written approval of the Minister.
     
-    Section 72J: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72J: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72J(3): added, on 20 August 1993, by [section 13][543] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72J(3): added, on 20 August 1993, by [section 13][547] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72K Powers of Director in relation to examinations, etc
     
 *   For the purposes of granting or renewing aviation documents under this Act, the Director may set, conduct, and administer examinations and tests, conduct flight testing, and carry out such other functions in relation to such examinations, tests, and flight testing as may be necessary.
     
-    Section 72K: inserted, on 10 August 1992, by [section 31][519] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 72K: inserted, on 10 August 1992, by [section 31][523] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 72K: amended, on 1 June 2002, by [section 17][544] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 72K: amended, on 1 June 2002, by [section 17][548] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 72L General Manager of Aviation Security Service
     
 *   (1) The Authority shall from time to time appoint a General Manager of the Aviation Security Service who, by virtue of his or her office, shall be an aviation security officer.
     
-    (2) The General Manager shall have and may exercise such functions and powers in relation to the Aviation Security Service as may be conferred or imposed on the General Manager by this Act, or regulations or rules made under this Act, and such functions and powers in relation to aviation security services as may be delegated to the General Manager by the Authority under [section 73][413] of the Crown Entities Act 2004 or by the Director under [section 23A][46] of this Act.
+    (2) The General Manager shall have and may exercise such functions and powers in relation to the Aviation Security Service as may be conferred or imposed on the General Manager by this Act, or regulations or rules made under this Act, and such functions and powers in relation to aviation security services as may be delegated to the General Manager by the Authority under [section 73][415] of the Crown Entities Act 2004 or by the Director under [section 23A][46] of this Act.
     
     (3) The General Manager shall, in performing any functions or exercising any powers conferred or imposed on the General Manager by this Act or any other Act, or by regulations or rules made under this Act or any other Act, (including any functions or powers relating to enforcement of the aviation security provisions of this Act or any other Act, or regulations or rules made under this Act or any other Act), in respect of any particular case, act independently and shall not be responsible to the Minister, the Authority, or the Director for the performance of such functions or the exercise of such powers.
     
-    Section 72L: inserted, on 20 August 1993, by [section 14][545] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72L: inserted, on 20 August 1993, by [section 14][549] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 72L(2): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 72L(2): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 72M Acting General Manager of Aviation Security Service
     
@@ -5192,15 +5316,15 @@ Civil Aviation Authority of New Zealand
     
     (2) No such direction or appointment, and no acts done by any employee or other person acting pursuant to any such direction or appointment, shall in any proceedings be questioned on the ground that the occasion for the direction or appointment had not arisen or had ceased, or on the ground that the employee or other person has not been appointed to any position to which the direction or appointment relates.
     
-    Section 72M: inserted, on 20 August 1993, by [section 14][545] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72M: inserted, on 20 August 1993, by [section 14][549] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72N Use of words Aviation Security Service
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][538] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""Aviation Security Service"" or under any name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][542] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in subsection (1) shall apply to the Aviation Security Service or the Authority or to any person who is appropriately authorised by the Authority.
     
-    Section 72N: inserted, on 20 August 1993, by [section 14][545] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72N: inserted, on 20 August 1993, by [section 14][549] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 72O References to Director to be read as General Manager of Aviation Security Service in certain circumstances
     
@@ -5210,7 +5334,7 @@ Civil Aviation Authority of New Zealand
     
     (3) No act, omission, or proceeding shall be called into question or declared invalid on the ground that the Director or the General Manager was not the appropriate person to be involved in the act, omission, or proceeding if it is clear that either the Director or the General Manager was the appropriate person to be so involved.
     
-    Section 72O: inserted, on 20 August 1993, by [section 14][545] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 72O: inserted, on 20 August 1993, by [section 14][549] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ## Part 7  
 Registries and information services
@@ -5223,9 +5347,9 @@ Registries and information services
     
     Compare: 1964 No 68 s 29(2)(h)
     
-    Section 73(1): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 73(1): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 73(2): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 73(2): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 74 Civil Aviation Registry
     
@@ -5245,39 +5369,39 @@ Registries and information services
     
     *   (d) every accident and incident notification given under [section 26][51]:
     
-    *   (da) every airworthiness directive issued by the Director under [section 72I(3A)][185]:
+    *   (da) every airworthiness directive issued by the Director under [section 72I(3A)][186]:
     
     *   (e) every delegation, authorisation, and exemption granted in writing under this Act:
     
     *   (f) the address for service of every current applicant for an aviation document and of every current aviation document holder:
     
-    *   (g) all information published under [section 75][195]:
+    *   (g) all information published under [section 75][196]:
     
     *   (h) the current service charter:
     
-    *   (i) the current statement of intent under [section 139][535] of the Crown Entities Act 2004\.
+    *   (i) the current statement of intent under [section 139][539] of the Crown Entities Act 2004\.
     
-    (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the [Official Information Act 1982][388], for inspection by the public free of charge.
+    (3) Documents kept at the Registry shall be made available by the Authority, in accordance with the provisions of the [Official Information Act 1982][390], for inspection by the public free of charge.
     
-    (4) Subsection (3) is subject to the [Privacy Act 1993][386].
+    (4) Subsection (3) is subject to the [Privacy Act 1993][388].
     
-    Section 74(1): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 74(1): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 74(2)(a): substituted, on 13 August 1996, by section 27(1) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 74(2)(ab): inserted, on 30 March 2007, by [section 33(1)][546] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 74(2)(ab): inserted, on 30 March 2007, by [section 33(1)][550] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
     Section 74(2)(ca): inserted, on 13 August 1996, by section 27(2) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
     Section 74(2)(da): inserted, on 13 August 1996, by section 27(3) of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 74(2)(h): added, on 10 August 1992, by [section 32][547] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 74(2)(h): added, on 10 August 1992, by [section 32][551] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 74(2)(i): substituted, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Section 74(2)(i): substituted, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Section 74(3): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 74(3): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 74(4): added, on 1 June 2004, by [section 33(2)][546] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 74(4): added, on 1 June 2004, by [section 33(2)][550] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 75 Information services
     
@@ -5285,16 +5409,16 @@ Registries and information services
     
     (2) The Authority shall ensure that such information and instructions are readily available to any person upon payment of a reasonable charge fixed by the Authority.
     
-    Section 75(1): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 75(1): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 75(2): amended, on 10 August 1992, by [section 40(1)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 75(2): amended, on 10 August 1992, by [section 40(1)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ## Part 8  
 Aviation security
 
 ##### 76 Aviation security
     
-*   The prevention of the commission of crimes against the [Aviation Crimes Act 1972][548] at any security designated aerodrome or security designated navigation installation, and the protection of persons and property from dangers arising from the commission or attempted commission of such crimes, shall be the joint responsibility of the New Zealand Police and any authorised provider of aviation security services at that aerodrome or installation.
+*   The prevention of the commission of crimes against the [Aviation Crimes Act 1972][552] at any security designated aerodrome or security designated navigation installation, and the protection of persons and property from dangers arising from the commission or attempted commission of such crimes, shall be the joint responsibility of the New Zealand Police and any authorised provider of aviation security services at that aerodrome or installation.
     
     Compare: 1964 No 68 s 21A; 1976 No 153 s 4
 
@@ -5392,29 +5516,31 @@ Aviation security
     
     *   (b) if the notice is published in the _Gazette_ within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Minister, after complying with subsection (3)(b) and (c), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
     
-    (5) If a direction takes effect on a date on or after the notice is published in the _Gazette_, the notice is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][438].
+    (5) A direction that takes effect on a date on or after the notice is published in the _Gazette_ is a disallowable instrument for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
-    (5A) A direction is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][439].
+    (5A) No direction made under subsection (1) is a legislative instrument for the purposes of the [Legislation Act 2012][440].
     
     (6) The Minister may rescind a direction made under subsection (1).
     
     (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
     
-    (8) Nothing in this section empowers the Minister to exercise the Director's powers under [section 77B][200].
+    (8) Nothing in this section empowers the Minister to exercise the Director's powers under [section 77B][201].
     
-    Section 77A: inserted, on 1 June 2002, by [section 18][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77A: inserted, on 1 June 2002, by [section 18][553] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 77A heading: amended, on 18 January 2008, by [section 9(1)][550] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A heading: amended, on 18 January 2008, by [section 9(1)][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(1): substituted, on 18 January 2008, by [section 9(2)][550] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(1): substituted, on 18 January 2008, by [section 9(2)][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(1A): inserted, on 18 January 2008, by [section 9(2)][550] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(1A): inserted, on 18 January 2008, by [section 9(2)][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(2): amended, on 18 January 2008, by [section 9(3)][550] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(2): amended, on 18 January 2008, by [section 9(3)][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(2)(b): amended, on 18 January 2008, by [section 9(4)][550] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77A(2)(b): amended, on 18 January 2008, by [section 9(4)][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77A(5A): inserted, on 1 June 2004, by [section 34][551] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 77A(5): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 77A(5A): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 77B Powers and duties of Director to require screening, searching, and seizing
     
@@ -5500,33 +5626,35 @@ Aviation security
     
     *   (b) if the notice is published in the _Gazette_ within 28 days of that date, the direction expires 90 days after that date unless, before the expiry of the 90-day period, the Director, after complying with subsection (3)(b), extends the period for a further specified period not exceeding 90 days (the aggregate period may not exceed 180 days).
     
-    (5) If a direction takes effect on a date on or after the notice is published in the _Gazette_, the notice is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][438].
+    (5) A direction that takes effect on a date on or after the notice is published in the _Gazette_ is a disallowable instrument for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
-    (5A) A direction is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][439].
+    (5A) No direction made under subsection (1) is a legislative instrument for the purposes of the [Legislation Act 2012][440].
     
     (6) The Director may rescind a direction made under subsection (1).
     
     (7) Subject to subsection (4), a direction remains in effect until it is rescinded.
     
-    Section 77B: inserted, on 1 June 2002, by [section 18][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77B: inserted, on 1 June 2002, by [section 18][553] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 77B heading: amended, on 18 January 2008, by [section 10(1)][552] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B heading: amended, on 18 January 2008, by [section 10(1)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(1): substituted, on 18 January 2008, by [section 10(2)][552] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(1): substituted, on 18 January 2008, by [section 10(2)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(1A): inserted, on 18 January 2008, by [section 10(2)][552] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(1A): inserted, on 18 January 2008, by [section 10(2)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(2): amended, on 18 January 2008, by [section 10(3)][552] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77B(2): amended, on 18 January 2008, by [section 10(3)][555] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 77B(5A): inserted, on 1 June 2004, by [section 35][553] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 77B(5): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 77B(5A): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 77BA Certain _Gazette_ notices may not include security sensitive information
     
-*   (1) A notice to be published in the _Gazette_ under [section 77A(1)][199] or [77B(1)][200] in relation to security enhanced areas may not include security sensitive information.
+*   (1) A notice to be published in the _Gazette_ under [section 77A(1)][200] or [77B(1)][201] in relation to security enhanced areas may not include security sensitive information.
     
     (2) For the purposes of this section, _security sensitive information_ means information that would prejudice the national security interests of New Zealand if disclosed.
     
-    Section 77BA: inserted, on 18 January 2008, by [section 11][554] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77BA: inserted, on 18 January 2008, by [section 11][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77C Transitional provisions for screening
     
@@ -5534,7 +5662,7 @@ Aviation security
     
     (2) A person carrying out the screening of domestic aircraft passenger services under a direction to do so made before 1 June 2002 (or a search in accordance with such a direction) is entitled to continue to carry out that screening (or search) until 1 September 2002, on which date the entitlement expires.
     
-    Section 77C: inserted, on 1 June 2002, by [section 18][549] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 77C: inserted, on 1 June 2002, by [section 18][553] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 77F Powers and duties of Director relating to security checks
     
@@ -5550,7 +5678,7 @@ Aviation security
     
     (4) For the purpose of determining whether a person poses a threat to aviation security, the Director may---
         
-    *   (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][555] of the New Zealand Security Intelligence Service Act 1969; and
+    *   (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][557] of the New Zealand Security Intelligence Service Act 1969; and
     
     *   (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
     
@@ -5568,13 +5696,13 @@ Aviation security
     
     *   (b) complete the reconsideration of that determination within 20 working days of advising the person under paragraph (a); and
     
-    *   (c) if the reconsideration results in an adverse security check determination or a proposed adverse security check determination, initiate the review process set out in [section 77G][204]; and
+    *   (c) if the reconsideration results in an adverse security check determination or a proposed adverse security check determination, initiate the review process set out in [section 77G][205]; and
     
     *   (d) if a favourable security check determination is required for any previous authorisation granted to the person under the rules, withdraw that authorisation for---
             
         *   (i) the period of the reconsideration; and
         
-        *   (ii) any subsequent review period under [section 77G][204]; and
+        *   (ii) any subsequent review period under [section 77G][205]; and
         
         
     
@@ -5582,17 +5710,17 @@ Aviation security
             
         *   (i) the period of the reconsideration; and
         
-        *   (ii) any subsequent review period under [section 77G][204].
+        *   (ii) any subsequent review period under [section 77G][205].
         
         
     
     (8) Nothing in this section limits the power of the Director to grant an exemption under [section 37][86].
     
-    Section 77F: inserted, on 26 September 2007, by [section 12(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77F: inserted, on 26 September 2007, by [section 12(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77G Review procedures for security check determinations
     
-*   (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][555] of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with [sections 11][557] and [16][558] of the Inspector-General of Intelligence and Security Act 1996\.
+*   (1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under [section 4(1)(bb)][557] of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with [sections 11][559] and [16][560] of the Inspector-General of Intelligence and Security Act 1996\.
     
     (2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must---
         
@@ -5646,41 +5774,45 @@ Aviation security
     
     (5) For the purposes of this section,---
     
-    _Inspector-General of Intelligence and Security_ means the person holding office under [section 5][559] of the Inspector-General of Intelligence and Security Act 1996
+    _Inspector-General of Intelligence and Security_ means the person holding office under [section 5][561] of the Inspector-General of Intelligence and Security Act 1996
     
-    _New Zealand person_ has the same meaning as in [section 2(1)][560] of the Inspector-General of Intelligence and Security Act 1996\.
+    _New Zealand person_ has the same meaning as in [section 2(1)][562] of the Inspector-General of Intelligence and Security Act 1996\.
     
-    Section 77G: inserted, on 26 September 2007, by [section 12(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77G: inserted, on 26 September 2007, by [section 12(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 77H Offence to carry out activity while authorisation withdrawn or after authorisation revoked
     
 *   (1) Every person commits an offence who carries out an activity that requires an authorisation---
         
-    *   (a) during a period when that authorisation has been withdrawn under [section 77F(7)(d) or (e)][203]; or
+    *   (a) during a period when that authorisation has been withdrawn under [section 77F(7)(d) or (e)][204]; or
     
-    *   (b) if that authorisation has been revoked under [section 77G(4)][204].
+    *   (b) if that authorisation has been revoked under [section 77G(4)][205].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
-    Section 77H: inserted, on 26 September 2007, by [section 12(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77H: inserted, on 26 September 2007, by [section 12(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    
+    Section 77H(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77I Offence to fail to comply with Director's requirement to withdraw or revoke authorisation
     
 *   (1) Every person commits an offence who fails, without reasonable excuse, to comply with the Director's requirement to---
         
-    *   (a) withdraw an authorisation under [section 77F(7)(e)][203]; or
+    *   (a) withdraw an authorisation under [section 77F(7)(e)][204]; or
     
-    *   (b) revoke an authorisation under [section 77G(4)(b)][204].
+    *   (b) revoke an authorisation under [section 77G(4)(b)][205].
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
     
-    Section 77I: inserted, on 26 September 2007, by [section 12(2)][556] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 77I: inserted, on 26 September 2007, by [section 12(2)][558] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    
+    Section 77I(2): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Aviation Security Service
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 20 August 1993, by [section 8(3)(a)][532] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 78: repealed, on 20 August 1993, by [section 8(3)(a)][536] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 79 Authorised aviation security service providers
     
@@ -5694,29 +5826,29 @@ Aviation security
     
     (3) The holder of every such document shall comply with the relevant prescribed requirements and standards.
     
-    Section 79(2): amended, on 10 August 1992, by [section 40(2)][381] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 79(2): amended, on 10 August 1992, by [section 40(2)][383] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 79A Further provisions relating to Aviation Security Service
     
-*   (1) Notwithstanding [sections 9][11] and [79][208], but subject to subsection (2), the Minister may from time to time by notice in the _Gazette_ specify that only the Aviation Security Service may be granted an aviation document to provide aviation security services at any security designated aerodrome or security designated navigation installation. Any such notice may be amended or revoked by the Minister by notice in the _Gazette_.
+*   (1) Notwithstanding [sections 9][11] and [79][209], but subject to subsection (2), the Minister may from time to time by notice in the _Gazette_ specify that only the Aviation Security Service may be granted an aviation document to provide aviation security services at any security designated aerodrome or security designated navigation installation. Any such notice may be amended or revoked by the Minister by notice in the _Gazette_.
     
     (2) Where any person already holds an aviation document entitling that person to provide aviation security services at a security designated aerodrome or security designated navigation installation, the Minister shall not give a notice under subsection (1) in respect of that aerodrome or navigation installation without the consent of that person.
     
-    (3) Notwithstanding anything in [section 79][208], the Minister may at any time, in the event of an emergency or other crisis, appoint the Aviation Security Service to provide aviation security services at any designated aerodrome or security designated navigation installation, notwithstanding that the operator of that aerodrome or navigation installation is providing aviation security services.
+    (3) Notwithstanding anything in [section 79][209], the Minister may at any time, in the event of an emergency or other crisis, appoint the Aviation Security Service to provide aviation security services at any designated aerodrome or security designated navigation installation, notwithstanding that the operator of that aerodrome or navigation installation is providing aviation security services.
     
     (4) Any appointment made by the Minister under subsection (3) shall have effect for a period specified by the Minister, being not more than 10 days.
     
-    Section 79A: inserted, on 20 August 1993, by [section 15][561] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 79A: inserted, on 20 August 1993, by [section 15][563] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 80 Powers, functions, and duties of Aviation Security Service
     
-*   Without limiting the powers, functions, duties, or responsibilities of the Police under this Act or any other enactment, and without limiting the generality of [section 77][198], the Aviation Security Service shall have the following powers, functions, and duties:
+*   Without limiting the powers, functions, duties, or responsibilities of the Police under this Act or any other enactment, and without limiting the generality of [section 77][199], the Aviation Security Service shall have the following powers, functions, and duties:
         
     *   (a) to carry out---
             
         *   (i) crew, passenger, and baggage screening of all international aircraft passenger services; and
         
-        *   (ii) the screening, reasonable searches, or seizures specified in [section 77A(1)][199] or [section 77B(1)][200]:
+        *   (ii) the screening, reasonable searches, or seizures specified in [section 77A(1)][200] or [section 77B(1)][201]:
         
         
     
@@ -5744,25 +5876,25 @@ Aviation security
     
     Compare: 1964 No 68 s 21B; 1976 No 153 s 4
     
-    Section 80 heading: amended, on 26 September 2007, by [section 13(1)][562] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80 heading: amended, on 26 September 2007, by [section 13(1)][564] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80: amended, on 26 September 2007, by [section 13(2)][562] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80: amended, on 26 September 2007, by [section 13(2)][564] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80(a): substituted, on 1 June 2002, by [section 19][563] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80(a): substituted, on 1 June 2002, by [section 19][565] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 80(a)(ii): amended, on 26 September 2007, by [section 13(3)][562] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80(a)(ii): amended, on 26 September 2007, by [section 13(3)][564] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80(ab): inserted, on 1 June 2002, by [section 19][563] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80(ab): inserted, on 1 June 2002, by [section 19][565] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 80(d): amended, on 20 August 1993, by [section 17][478] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Section 80(d): amended, on 20 August 1993, by [section 17][482] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Section 80(ea): inserted, on 24 March 2004, by [section 36][564] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 80(ea): inserted, on 24 March 2004, by [section 36][566] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 80(eb): inserted, on 1 December 2004, by [section 10][565] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 80(eb): inserted, on 1 December 2004, by [section 10][567] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
 
 ##### 80A Powers and duties of aviation security officer relating to dangerous goods
     
-*   (1) Without limiting [section 80(a) and (ab)][210], an aviation security officer may screen any person boarding an aircraft or any thing to be carried by an aircraft for the purpose of detecting dangerous goods.
+*   (1) Without limiting [section 80(a) and (ab)][211], an aviation security officer may screen any person boarding an aircraft or any thing to be carried by an aircraft for the purpose of detecting dangerous goods.
     
     (2) If dangerous goods are detected and the aviation security officer has reasonable grounds to believe that they may not be lawfully carried on an aircraft, the aviation security officer may seize and detain the dangerous goods for the purpose of determining whether or not they may be lawfully carried on an aircraft.
     
@@ -5780,19 +5912,19 @@ Aviation security
     
     (6) The aviation security officer must report the detection of dangerous goods in accordance with the rules or, in the absence of rules, as the Director may direct.
     
-    Section 80A: inserted, on 1 June 2002, by [section 20][566] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 80A: inserted, on 1 June 2002, by [section 20][568] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 80B Power of aviation security officers to search for and seize certain items or substances to be carried on aircraft or into sterile areas
     
-*   (1) Without limiting [section 80][210] of this Act or [section 12(1)][567] of the Aviation Crimes Act 1972, an aviation security officer may, for the purpose of detecting any item or substance specified in a direction given under [section 77A(1)][199] or [77B(1)][200], screen or search any person, item, substance, or vehicle---
+*   (1) Without limiting [section 80][211] of this Act or [section 12(1)][569] of the Aviation Crimes Act 1972, an aviation security officer may, for the purpose of detecting any item or substance specified in a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
         
     *   (a) before the person, item, substance, or vehicle enters a sterile area:
     
     *   (b) present in a sterile area.
     
-    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][567] of the Aviation Crimes Act 1972\.
+    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][569] of the Aviation Crimes Act 1972\.
     
-    (3) If an item or substance specified in [section 11(1)][568] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][199] or [77B(1)][200] is detected in a search undertaken under subsection (1) or [section 80][210] of this Act or [section 12][567] of the Aviation Crimes Act 1972, and an aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area.
+    (3) If an item or substance specified in [section 11(1)][570] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][569] of the Aviation Crimes Act 1972, and an aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried on an aircraft or into a sterile area.
     
     (4) If the aviation security officer determines that the item or substance may be lawfully carried into, or remain in, an aircraft or a sterile area, the aviation security officer must,---
         
@@ -5812,23 +5944,23 @@ Aviation security
     
     (7) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that an item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
     
-    Section 80B: inserted, on 26 September 2007, by [section 14(1)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80B: inserted, on 26 September 2007, by [section 14(1)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80B(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][371]of the Policing Act 2008 (2008 No 72).
+    Section 80B(5)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][373]of the Policing Act 2008 (2008 No 72).
     
-    Section 80B(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][371]of the Policing Act 2008 (2008 No 72).
+    Section 80B(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii) ][373]of the Policing Act 2008 (2008 No 72).
 
 ##### 80C Powers and duties of aviation security officers relating to security enhanced areas
     
-*   (1) Without limiting [section 80][210], an aviation security officer may, for the purpose of detecting any item or substance specified in [section 11(1)][568] of the Aviation Crimes Act 1972 or a direction given under [section 77A(1)][199] or [77B(1)][200], screen or search any person, item, substance, or vehicle---
+*   (1) Without limiting [section 80][211], an aviation security officer may, for the purpose of detecting any item or substance specified in [section 11(1)][570] of the Aviation Crimes Act 1972 or a direction given under [section 77A(1)][200] or [77B(1)][201], screen or search any person, item, substance, or vehicle---
         
     *   (a) before the person, item, substance, or vehicle enters a security enhanced area:
     
     *   (b) present in a security enhanced area.
     
-    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][567] of the Aviation Crimes Act 1972\.
+    (2) A search undertaken under subsection (1) must be carried out in accordance with the requirements for searches specified in [section 12(2) to (8)][569] of the Aviation Crimes Act 1972\.
     
-    (3) If an item or substance specified in [section 11(1)][568] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][199] or [77B(1)][200] is detected in a search undertaken under subsection (1) or [section 80][210] of this Act or [section 12][567] of the Aviation Crimes Act 1972, and the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area.
+    (3) If an item or substance specified in [section 11(1)][570] of the Aviation Crimes Act 1972 or a direction under [section 77A(1)][200] or [77B(1)][201] is detected in a search undertaken under subsection (1) or [section 80][211] of this Act or [section 12][569] of the Aviation Crimes Act 1972, and the aviation security officer has reasonable grounds to believe that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer may seize and detain the item or substance for the purpose of determining whether there is lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area.
     
     (4) If the aviation security officer determines that there is no lawful authority or reasonable excuse for the item or substance to be carried into or remain in the security enhanced area, the aviation security officer---
         
@@ -5854,13 +5986,13 @@ Aviation security
     
     (6) Despite anything in this section, if the aviation security officer has reasonable grounds to believe that the item or substance poses an imminent risk to safety, the aviation security officer may destroy or otherwise dispose of the item or substance.
     
-    Section 80C: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80C: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80C(4)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80C(4)(a)(i): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 80D Consent to be screened or searched
     
-*   (1) The powers specified in [section 80C(1)][213] may only be exercised with respect to---
+*   (1) The powers specified in [section 80C(1)][214] may only be exercised with respect to---
         
     *   (i) a person to be screened or searched with the consent of the person:
     
@@ -5868,11 +6000,11 @@ Aviation security
     
     (2) To avoid doubt, an item, substance, or vehicle may be screened or searched without consent if it is unattended.
     
-    Section 80D: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80D: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 80E Persons who refuse to consent to be screened or searched
     
-*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][213], an aviation security officer may---
+*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][214], an aviation security officer may---
         
     *   (a) deny that person entry into the security enhanced area:
     
@@ -5912,15 +6044,15 @@ Aviation security
     
     *   (c) detain a person under subsection (3).
     
-    Compare: 2004 No 16 [s 54][570]
+    Compare: 2004 No 16 [s 54][572]
     
-    Section 80E: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80E: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80E(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80E(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 80F Searches of persons refusing consent to be searched
     
-*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][213], a constable may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in [section 11(1)][568] of the Aviation Crimes Act 1972, if the constable has reasonable grounds to suspect that---
+*   (1) If a person refuses to consent to the screening or searching under [section 80C(1)][214], a constable may, without a warrant, search the person and any item, substance, or vehicle in the person's possession, and may detain the person for the purposes of the search, and may take possession of any item or substance found in the course of the search that is specified in [section 11(1)][570] of the Aviation Crimes Act 1972, if the constable has reasonable grounds to suspect that---
         
     *   (a) an offence against the Aviation Crimes Act 1972 has been, is being, or is likely to be committed, whether by that person or by any other person; and
     
@@ -5938,21 +6070,21 @@ Aviation security
     
     (4) If a constable exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
     
-    Compare: 2004 No 16 [s 55][571]
+    Compare: 2004 No 16 [s 55][573]
     
-    Section 80F: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80F: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 80F(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80F(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 80F(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80F(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 80F(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80F(3)(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 80F(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 80F(4): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 80G Searches of persons
     
-*   (1) With respect to a search made under [section 80C(1)][213],---
+*   (1) With respect to a search made under [section 80C(1)][214],---
         
     *   (a) a person must, if directed to do so by an aviation security officer,---
             
@@ -5998,7 +6130,7 @@ Aviation security
         
         
     
-    Section 80G: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80G: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 80H Power to require drivers to stop vehicles in security enhanced areas for screening or searching
     
@@ -6006,27 +6138,37 @@ Aviation security
     
     (2) The driver of a vehicle that is stopped by an aviation security officer must remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000, who, without lawful authority or reasonable excuse, fails to---
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000, who, without lawful authority or reasonable excuse, fails to---
         
     *   (a) stop a vehicle in a security enhanced area as soon as is practicable when required to do so by an aviation security officer; or
     
     *   (b) remain stopped for as long as is reasonably necessary for the aviation security officer to screen or search the vehicle, and any item, substance, or person in the vehicle.
     
-    Compare: 1998 No 110 [s 114][572]
+    (4) In proceedings for an offence against subsection (3),---
+        
+    *   (a) the prosecutor need not assert absence of lawful authority or reasonable excuse in the charging document; and
     
-    Section 80H: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    *   (b) the burden of proving that the defendant had lawful authority or a reasonable excuse lies on the defendant.
+    
+    Compare: 1998 No 110 [s 114][574]
+    
+    Section 80H: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    
+    Section 80H(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 80H(4): inserted, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80I Protection of aviation security officers
     
-*   Nothing done by an aviation security officer under [sections 80B(3) to (7)][212] and [80C(3) to (6)][213] may subject the aviation security officer to personal liability if done in---
+*   Nothing done by an aviation security officer under [sections 80B(3) to (7)][213] and [80C(3) to (6)][214] may subject the aviation security officer to personal liability if done in---
         
     *   (a) good faith; and
     
     *   (b) the exercise of powers or the performance of duties under this Act.
     
-    Compare: 1949 No 19 [s 13][573]
+    Compare: 1949 No 19 [s 13][575]
     
-    Section 80I: inserted, on 18 January 2008, by [section 14(2)][569] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 80I: inserted, on 18 January 2008, by [section 14(2)][571] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 81 Functions and duties of other aviation security service providers
     
@@ -6054,9 +6196,9 @@ Aviation security
     
     Compare: 1964 No 68 s 21D; 1976 No 153 s 4
     
-    Section 83(2): amended, on 1 October 2008, pursuant to [section 116(a)(v)][371] of the Policing Act 2008 (2008 No 72).
+    Section 83(2): amended, on 1 October 2008, pursuant to [section 116(a)(v)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 83(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 83(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 84 Security areas and security enhanced areas
     
@@ -6084,37 +6226,37 @@ Aviation security
     
     Compare: 1964 No 68 s 21E; 1976 No 153 s 4
     
-    Section 84 heading: amended, on 18 January 2008, by [section 15(1)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84 heading: amended, on 18 January 2008, by [section 15(1)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(1): amended, on 18 January 2008, by [section 15(2)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(1): amended, on 18 January 2008, by [section 15(2)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(1): amended, on 10 August 1992, by [section 33][575] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 84(1): amended, on 10 August 1992, by [section 33][577] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 84(1A): inserted, on 18 January 2008, by [section 15(3)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(1A): inserted, on 18 January 2008, by [section 15(3)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(2): substituted, on 18 January 2008, by [section 15(4)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(2): substituted, on 18 January 2008, by [section 15(4)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 84(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 84(3): amended, on 18 January 2008, by [section 15(5)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(3): amended, on 18 January 2008, by [section 15(5)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(4): amended, on 18 January 2008, by [section 15(6)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(4): amended, on 18 January 2008, by [section 15(6)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(5): amended, on 18 January 2008, by [section 15(7)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(5): amended, on 18 January 2008, by [section 15(7)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 84(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 84(7): substituted, on 18 January 2008, by [section 15(8)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(7): substituted, on 18 January 2008, by [section 15(8)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 84(8): added, on 18 January 2008, by [section 15(8)][574] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 84(8): added, on 18 January 2008, by [section 15(8)][576] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 85 Powers of arrest and seizure of items or substances
     
 *   (1) Every aviation security officer is justified in arresting without warrant any person on or in the vicinity of any security designated aerodrome or security designated navigation installation if he or she has reasonable grounds to believe that an offence has been or is being committed by that person against any of the following enactments:
         
-    *   (a) [sections 3][576], [4][577], [5][578], [5A][579], and [11][568] of the Aviation Crimes Act 1972:
+    *   (a) [sections 3][578], [4][579], [5][580], [5A][581], and [11][570] of the Aviation Crimes Act 1972:
     
-    *   (b) [section 45][580] of the Arms Act 1983 (which relates to unlawful carriage of firearms, ammunition, or explosives).
+    *   (b) [section 45][582] of the Arms Act 1983 (which relates to unlawful carriage of firearms, ammunition, or explosives).
     
     (1A) An aviation security officer may---
         
@@ -6150,39 +6292,39 @@ Aviation security
     
     Compare: 1964 No 68 s 21F; 1976 No 153 s 4
     
-    Section 85 heading: amended, on 26 September 2007, by [section 16(1)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85 heading: amended, on 26 September 2007, by [section 16(1)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1)(a): amended, on 26 September 2007, by [section 16(2)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1)(a): amended, on 26 September 2007, by [section 16(2)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1A): inserted, on 26 September 2007, by [section 16(3)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1A): inserted, on 26 September 2007, by [section 16(3)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1B): inserted, on 26 September 2007, by [section 16(3)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1B): inserted, on 26 September 2007, by [section 16(3)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1C): inserted, on 26 September 2007, by [section 16(3)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1C): inserted, on 26 September 2007, by [section 16(3)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(1D): inserted, on 26 September 2007, by [section 16(3)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(1D): inserted, on 26 September 2007, by [section 16(3)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 85(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 85(3): amended, on 26 September 2007, by [section 16(4)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(3): amended, on 26 September 2007, by [section 16(4)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 85(4): added, on 26 September 2007, by [section 16(5)][581] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 85(4): added, on 26 September 2007, by [section 16(5)][583] of the Civil Aviation Amendment Act 2007 (2007 No 89).
 
 ##### 86 Arrest of persons delivered to Police
     
-*   (1) A constable shall accept delivery of a person whom an aviation security officer seeks to deliver to him or her under this Part if he or she has reasonable grounds to suspect that person of having done or omitted to do anything if that act or omission is an offence against [section 54][127] or any enactment specified in [section 85(1)][224].
+*   (1) A constable shall accept delivery of a person whom an aviation security officer seeks to deliver to him or her under this Part if he or she has reasonable grounds to suspect that person of having done or omitted to do anything if that act or omission is an offence against [section 54][127] or any enactment specified in [section 85(1)][225].
     
     (2) A constable who accepts delivery of a person under subsection (1) may forthwith arrest that person.
     
-    (3) An aviation security officer who detains any person in accordance with the provisions of [section 84(6)][223] and delivers him or her to a constable, and any person who at his or her request and in good faith assists an aviation security officer in doing so, is justified in so detaining and delivering that person and in using such force as may be reasonably necessary in doing so.
+    (3) An aviation security officer who detains any person in accordance with the provisions of [section 84(6)][224] and delivers him or her to a constable, and any person who at his or her request and in good faith assists an aviation security officer in doing so, is justified in so detaining and delivering that person and in using such force as may be reasonably necessary in doing so.
     
     Compare: 1964 No 68 s 21G; 1976 No 153 s 4
     
-    Section 86(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 86(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 86(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 86(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
     
-    Section 86(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 86(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][373] of the Policing Act 2008 (2008 No 72).
 
 ##### 87 Powers of Police
     
@@ -6190,7 +6332,7 @@ Aviation security
     
     Compare: 1964 No 68 s 21H; 1976 No 153 s 4
     
-    Section 87: amended, on 1 October 2008, pursuant to [section 116(a)(vii)][371] of the Policing Act 2008 (2008 No 72).
+    Section 87: amended, on 1 October 2008, pursuant to [section 116(a)(vii)][373] of the Policing Act 2008 (2008 No 72).
 
 ## Part 8A  
 International air services licensing
@@ -6225,9 +6367,9 @@ International air services licensing
     
     Section 87A: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87A **scheduled international air service**: amended, on 1 June 2002, by [section 22(1)][582] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87A **scheduled international air service**: amended, on 1 June 2002, by [section 22(1)][584] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 87A **seventh freedom service**: added, on 1 June 2002, by [section 22(2)][582] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87A **seventh freedom service**: added, on 1 June 2002, by [section 22(2)][584] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87B Scheduled international air service not to be carried on except pursuant to licence
     
@@ -6235,7 +6377,7 @@ International air services licensing
     
     Section 87B: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87B heading: amended, on 1 June 2002, by [section 23][583] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87B heading: amended, on 1 June 2002, by [section 23][585] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87C Application for licence
     
@@ -6261,7 +6403,7 @@ International air services licensing
 
 ##### 87E Notice of application
     
-*   (1) Where an application for a scheduled international air service licence is lodged by a New Zealand international airline in accordance with [section 87C][230], the Secretary shall give notice in the _Gazette_ that the application has been received.
+*   (1) Where an application for a scheduled international air service licence is lodged by a New Zealand international airline in accordance with [section 87C][231], the Secretary shall give notice in the _Gazette_ that the application has been received.
     
     (2) Every notice under this section shall specify a time, being not less than 21 clear days from the date of the notice, within which the Minister will receive written representations from any person relating to the application.
     
@@ -6289,7 +6431,7 @@ International air services licensing
 
 ##### 87G Scheduled international air service licence may be granted subject to conditions
     
-*   (1) The Minister, after giving consideration to the application in accordance with [section 87F][234], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Minister thinks fit.
+*   (1) The Minister, after giving consideration to the application in accordance with [section 87F][235], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Minister thinks fit.
     
     (2) The scheduled international air service licence shall be in such form as the Minister thinks fit.
     
@@ -6305,25 +6447,25 @@ International air services licensing
 
 ##### 87H Duration of scheduled international air service licence
     
-*   (1) Every scheduled international air service licence granted under [section 87G][235] shall take effect from the date stated in the licence, and may be granted for such term as the Minister considers appropriate in the particular case.
+*   (1) Every scheduled international air service licence granted under [section 87G][236] shall take effect from the date stated in the licence, and may be granted for such term as the Minister considers appropriate in the particular case.
     
-    (2) Where an application is made under [section 87I][237] for the renewal of a scheduled international air service licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Minister otherwise directs.
+    (2) Where an application is made under [section 87I][238] for the renewal of a scheduled international air service licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Minister otherwise directs.
     
     Section 87H: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
 ##### 87I Renewal of scheduled international air service licence
     
-*   (1) The Minister may, from time to time, renew a scheduled international air service licence granted under [section 87G][235].
+*   (1) The Minister may, from time to time, renew a scheduled international air service licence granted under [section 87G][236].
     
-    (2) Every application for the renewal of a scheduled international air service licence granted under [section 87G][235] shall be lodged with the Secretary not less than 3 months before the date on which the licence expires.
+    (2) Every application for the renewal of a scheduled international air service licence granted under [section 87G][236] shall be lodged with the Secretary not less than 3 months before the date on which the licence expires.
     
-    (3) [Section 87C(2)][230] shall apply to every application for the renewal of the licence as if it were an application for a new licence.
+    (3) [Section 87C(2)][231] shall apply to every application for the renewal of the licence as if it were an application for a new licence.
     
     (4) The Secretary shall give notice in the _Gazette_ of the Minister's intention to consider exercising the power conferred on the Minister by subsection (1).
     
     (5) The notice given under subsection (4) shall specify a time, being not less than 21 clear days from the date of the notice, within which the Minister will receive written representations from any person relating to the application.
     
-    (6) No person shall be entitled as of right to a renewal of a scheduled international air service licence, and in considering any application for a renewal the Minister shall take into account all the matters referred to in [section 87F][234] as if the application were an application for a new licence.
+    (6) No person shall be entitled as of right to a renewal of a scheduled international air service licence, and in considering any application for a renewal the Minister shall take into account all the matters referred to in [section 87F][235] as if the application were an application for a new licence.
     
     (7) The renewal of the licence shall take effect from the date of the expiry of the licence for which the renewal is granted, and may be for such term as the Minister considers appropriate in the particular case.
     
@@ -6331,7 +6473,7 @@ International air services licensing
 
 ##### 87J Variation of terms and conditions of scheduled international air service licence
     
-*   (1) The Minister, while a scheduled international air service licence granted under [section 87G][235] is in force, may, of the Minister's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Minister's opinion are necessary or desirable in the public interest.
+*   (1) The Minister, while a scheduled international air service licence granted under [section 87G][236] is in force, may, of the Minister's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Minister's opinion are necessary or desirable in the public interest.
     
     (2) Where the Minister, on the Minister's own motion, proposes to exercise the power conferred on the Minister by subsection (1), the Minister shall give the licensee not less than 21 clear days' notice in writing of the Minister's intention to exercise that power.
     
@@ -6345,7 +6487,7 @@ International air services licensing
     
     (4) The notice given under subsection (3) shall specify a time, being not less than 21 clear days from the date of the notice, within which the Minister will receive written representations regarding the proposed variation.
     
-    (5) In considering any application referred to in subsection (3), the Minister shall take into account all the matters referred to in [section 87F][234] as if the application were an application for a new licence.
+    (5) In considering any application referred to in subsection (3), the Minister shall take into account all the matters referred to in [section 87F][235] as if the application were an application for a new licence.
     
     (6) Where the Minister has varied the terms or conditions of any scheduled international air service licence under this section, the Minister shall give notice in the _Gazette_ of the fact of, and the terms of, that variation.
     
@@ -6353,7 +6495,7 @@ International air services licensing
 
 ##### 87K Transfer of scheduled international air service licence
     
-*   (1) Any scheduled international air service licence granted under [section 87G][235] may, subject to the provisions of this section, be transferred to any person.
+*   (1) Any scheduled international air service licence granted under [section 87G][236] may, subject to the provisions of this section, be transferred to any person.
     
     (2) Every application for the transfer of a scheduled international air service licence shall be lodged with the Secretary not less than 3 months before the date of the proposed transfer.
     
@@ -6361,7 +6503,7 @@ International air services licensing
     
     (4) The notice given under subsection (3) shall specify a time, being not less than 21 clear days from the date of the notice, within which the Minister will receive written representations from any person relating to the application.
     
-    (5) In considering the application for the transfer of the licence the Minister shall take into account all the matters referred to in [section 87F][234] as if the application were an application for a new licence.
+    (5) In considering the application for the transfer of the licence the Minister shall take into account all the matters referred to in [section 87F][235] as if the application were an application for a new licence.
     
     Section 87K: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -6373,7 +6515,7 @@ International air services licensing
     
 *   (1) Subject to subsection (2), the Secretary shall be the licensing authority to grant scheduled international air service licences to foreign international airlines and to exercise jurisdiction in respect of those licences in accordance with this Part.
     
-    (2) Where the applicant for a scheduled international air service licence is a foreign international airline of a country or territory with which New Zealand does not have an air service agreement or similar arrangement, the application shall be referred to the Minister for determination in accordance with [sections 87M to 87O][242] as if the references in those sections to the Secretary were references to the Minister.
+    (2) Where the applicant for a scheduled international air service licence is a foreign international airline of a country or territory with which New Zealand does not have an air service agreement or similar arrangement, the application shall be referred to the Minister for determination in accordance with [sections 87M to 87O][243] as if the references in those sections to the Secretary were references to the Minister.
     
     Section 87L: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -6393,7 +6535,7 @@ International air services licensing
 
 ##### 87N Scheduled international air service licence may be granted subject to conditions
     
-*   (1) The Secretary, after giving consideration to the application in accordance with [section 87M][242], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
+*   (1) The Secretary, after giving consideration to the application in accordance with [section 87M][243], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
     
     (2) The scheduled international air service licence shall be in such form as the Secretary thinks fit.
     
@@ -6411,31 +6553,31 @@ International air services licensing
 
 ##### 87O Duration of scheduled international air service licence
     
-*   (1) Every scheduled international air service licence granted under [section 87N][243] shall take effect from the date stated in the licence, and may be granted for such term as the Secretary considers appropriate in the particular case or, if the Secretary thinks fit, for an indefinite term.
+*   (1) Every scheduled international air service licence granted under [section 87N][244] shall take effect from the date stated in the licence, and may be granted for such term as the Secretary considers appropriate in the particular case or, if the Secretary thinks fit, for an indefinite term.
     
-    (2) Where an application is made under [section 87P][245] for the renewal of a scheduled international air service licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Secretary otherwise directs.
+    (2) Where an application is made under [section 87P][246] for the renewal of a scheduled international air service licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Secretary otherwise directs.
     
     Section 87O: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
 ##### 87P Renewal of scheduled international air service licence
     
-*   (1) The Secretary may, from time to time, renew a scheduled international air service licence granted under [section 87N][243].
+*   (1) The Secretary may, from time to time, renew a scheduled international air service licence granted under [section 87N][244].
     
-    (2) Every application for the renewal of a scheduled international air service licence granted under [section 87N][243] shall be lodged with the Secretary not less than 1 month before the date on which the licence expires.
+    (2) Every application for the renewal of a scheduled international air service licence granted under [section 87N][244] shall be lodged with the Secretary not less than 1 month before the date on which the licence expires.
     
-    (3) [Section 87C(2)][230] shall apply to every application for the renewal of the licence as if it were an application for a new licence.
+    (3) [Section 87C(2)][231] shall apply to every application for the renewal of the licence as if it were an application for a new licence.
     
-    (4) No person shall be entitled as of right to a renewal of a scheduled international air service licence, and in considering any application for a renewal the Secretary shall take into account all the matters referred to in [section 87M][242] as if the application were an application for a new licence.
+    (4) No person shall be entitled as of right to a renewal of a scheduled international air service licence, and in considering any application for a renewal the Secretary shall take into account all the matters referred to in [section 87M][243] as if the application were an application for a new licence.
     
     (5) The renewal of the licence shall take effect from the date of the expiry of the licence for which the renewal is granted and may be for such term as the Secretary considers appropriate in the particular case or, if the Secretary thinks fit, for an indefinite term.
     
     Section 87P: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 87P(2): amended, on 1 June 2002, by [section 24][584] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 87P(2): amended, on 1 June 2002, by [section 24][586] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 87Q Variation of terms and conditions of scheduled international air service licence
     
-*   (1) The Secretary, while a scheduled international air service licence granted under [section 87N][243] is in force, may, of the Secretary's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Secretary's opinion are necessary or desirable in the public interest.
+*   (1) The Secretary, while a scheduled international air service licence granted under [section 87N][244] is in force, may, of the Secretary's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Secretary's opinion are necessary or desirable in the public interest.
     
     (2) Where the Secretary, on the Secretary's own motion, proposes to exercise the power conferred on the Secretary by subsection (1), the Secretary shall give the licensee not less than 21 clear days' notice in writing of the Secretary's intention to exercise that power.
     
@@ -6445,7 +6587,7 @@ International air services licensing
     
     *   (b) an increase in the capacity of the service to be provided---
     
-    pursuant to the licence, the Secretary shall take into account all the matters referred to in [section 87M][242] as if the application were an application for a new licence.
+    pursuant to the licence, the Secretary shall take into account all the matters referred to in [section 87M][243] as if the application were an application for a new licence.
     
     (4) Where the Secretary has varied the terms or conditions of any licence under this section, the Secretary shall give notice in the _Gazette_ of the fact of, and the terms of, that variation.
     
@@ -6489,7 +6631,7 @@ International air services licensing
 
 ##### 87U Open aviation market licence may be granted subject to conditions
     
-*   (1) The Secretary, after giving consideration to the application in accordance with [section 87T][250], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
+*   (1) The Secretary, after giving consideration to the application in accordance with [section 87T][251], may refuse it, or may grant it wholly or partly, and subject to such conditions as the Secretary thinks fit.
     
     (2) Without prejudice to the generality of subsection (1), the Secretary, in granting any open aviation market licence, shall prescribe, in respect of any scheduled international air service and non-scheduled international flight carried on pursuant to the licence, the countries or territories that may be served.
     
@@ -6501,21 +6643,21 @@ International air services licensing
 
 ##### 87V Duration of open aviation market licence
     
-*   (1) Every open aviation market licence granted under [section 87U][251] shall take effect from the date stated in the licence, and may be granted for such term as the Secretary considers appropriate in the particular case or, in respect of a foreign international airline, if the Secretary thinks fit, for an indefinite term.
+*   (1) Every open aviation market licence granted under [section 87U][252] shall take effect from the date stated in the licence, and may be granted for such term as the Secretary considers appropriate in the particular case or, in respect of a foreign international airline, if the Secretary thinks fit, for an indefinite term.
     
-    (2) Where an application is made under [section 87W][253] for the renewal of an open aviation market licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Secretary otherwise directs.
+    (2) Where an application is made under [section 87W][254] for the renewal of an open aviation market licence, the licence shall, where the application is not disposed of before the date of expiry of the licence, continue in force until the application is disposed of, unless the Secretary otherwise directs.
     
     Section 87V: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
 ##### 87W Renewal of open aviation market licence
     
-*   (1) The Secretary may, from time to time, renew an open aviation market licence granted under [section 87U][251].
+*   (1) The Secretary may, from time to time, renew an open aviation market licence granted under [section 87U][252].
     
-    (2) Every application for the renewal of an open aviation market licence granted under [section 87U][251] shall be lodged with the Secretary not less than 3 months before the date on which the licence expires.
+    (2) Every application for the renewal of an open aviation market licence granted under [section 87U][252] shall be lodged with the Secretary not less than 3 months before the date on which the licence expires.
     
-    (3) [Section 87C(2)][230] shall apply to every application for the renewal of an open aviation market licence as if it were an application for a new licence.
+    (3) [Section 87C(2)][231] shall apply to every application for the renewal of an open aviation market licence as if it were an application for a new licence.
     
-    (4) No person shall be entitled as of right to a renewal of an open aviation market licence, and in considering any application for a renewal the Secretary shall take into account all the matters referred to in [section 87T][250] as if the application were an application for a new licence.
+    (4) No person shall be entitled as of right to a renewal of an open aviation market licence, and in considering any application for a renewal the Secretary shall take into account all the matters referred to in [section 87T][251] as if the application were an application for a new licence.
     
     (5) The renewal of the open aviation market licence shall take effect from the date of expiry of the licence for which the renewal is granted and may be for such term as the Secretary considers appropriate in the particular case or, in respect of a foreign international airline, if the Secretary thinks fit, for an indefinite term.
     
@@ -6523,11 +6665,11 @@ International air services licensing
 
 ##### 87X Variation of terms and conditions of open aviation market licence
     
-*   (1) The Secretary, while an open aviation market licence granted under [section 87U][251] is in force, may, of the Secretary's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Secretary's opinion are necessary or desirable in the public interest.
+*   (1) The Secretary, while an open aviation market licence granted under [section 87U][252] is in force, may, of the Secretary's own motion or on the application of the licensee, amend or revoke any of the terms and conditions of the licence or add any new terms or conditions that in the Secretary's opinion are necessary or desirable in the public interest.
     
     (2) Where the Secretary, on the Secretary's own motion, proposes to exercise the power conferred on the Secretary by subsection (1), the Secretary shall give the licensee not less than 21 clear days' notice in writing of the Secretary's intention to exercise that power.
     
-    (3) Where any application under subsection (1) seeks approval for a change or addition to the country or countries, or territory or territories, to be served pursuant to the open market aviation licence, the Secretary shall take into account all the matters referred to in [section 87T][250] as if the application were an application for a new licence.
+    (3) Where any application under subsection (1) seeks approval for a change or addition to the country or countries, or territory or territories, to be served pursuant to the open market aviation licence, the Secretary shall take into account all the matters referred to in [section 87T][251] as if the application were an application for a new licence.
     
     (4) Where the Secretary has varied the terms or conditions of an open aviation market licence under this section, the Secretary shall give notice in the _Gazette_ of the fact of, and the terms of, that variation.
     
@@ -6535,11 +6677,11 @@ International air services licensing
 
 ##### 87Y Transfer of open aviation market licence
     
-*   (1) Any open aviation market licence granted to a New Zealand international airline under [section 87U][251] may, subject to the provisions of this section, be transferred to any other New Zealand international airline.
+*   (1) Any open aviation market licence granted to a New Zealand international airline under [section 87U][252] may, subject to the provisions of this section, be transferred to any other New Zealand international airline.
     
     (2) Every application for the transfer of an open aviation market licence shall be lodged with the Secretary not less than 3 months before the date of the proposed transfer.
     
-    (3) In considering the application for the transfer of the licence the Secretary shall take into account all the matters referred to in [section 87T][250] as if the application were an application for a new licence.
+    (3) In considering the application for the transfer of the licence the Secretary shall take into account all the matters referred to in [section 87T][251] as if the application were an application for a new licence.
     
     (4) Where the Secretary transfers any open aviation market licence under this section, the Secretary shall give notice in the _Gazette_ that the licence has been transferred.
     
@@ -6547,7 +6689,7 @@ International air services licensing
 
 ##### 87Z Holder of open aviation market licence may operate non-scheduled international flights without authorisation under section 87ZE
     
-*   The holder of an open aviation market licence under this Part shall be entitled to carry on, to or from the countries or territories that may be served pursuant to the licence as prescribed under [section 87U(2)][251], non-scheduled international flights engaged in the carriage of passengers, cargo, or mail for remuneration or hire without authorisation under [section 87ZE][264].
+*   The holder of an open aviation market licence under this Part shall be entitled to carry on, to or from the countries or territories that may be served pursuant to the licence as prescribed under [section 87U(2)][252], non-scheduled international flights engaged in the carriage of passengers, cargo, or mail for remuneration or hire without authorisation under [section 87ZE][265].
     
     Section 87Z: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -6599,7 +6741,7 @@ International air services licensing
 
 ##### 87ZE Commercial non-scheduled international flights not to be operated except as authorised by Secretary
     
-*   (1) Subject to [section 87Z][256], no person shall operate a non-scheduled international flight engaged in the carriage of passengers, cargo, or mail for remuneration or hire between New Zealand and 1 or more points in any other country or territory, except as authorised by the Secretary and in accordance with such conditions as the Secretary may impose in accordance with guidelines specified by the Minister in accordance with subsection (2).
+*   (1) Subject to [section 87Z][257], no person shall operate a non-scheduled international flight engaged in the carriage of passengers, cargo, or mail for remuneration or hire between New Zealand and 1 or more points in any other country or territory, except as authorised by the Secretary and in accordance with such conditions as the Secretary may impose in accordance with guidelines specified by the Minister in accordance with subsection (2).
     
     (2) For the purposes of this section, the Minister may issue guidelines to the Secretary for the regulation of flights described in subsection (1).
     
@@ -6621,7 +6763,7 @@ International air services licensing
 
 ##### 87ZG This Part not in force in Tokelau
     
-*   Except as may be provided in regulations made under [section 4][585] of the Tokelau Act 1948, this Part shall not be in force in Tokelau.
+*   Except as may be provided in regulations made under [section 4][587] of the Tokelau Act 1948, this Part shall not be in force in Tokelau.
     
     Section 87ZG: inserted, on 13 August 1996, by section 28 of the Civil Aviation Amendment Act 1996 (1996 No 91).
 
@@ -6630,7 +6772,7 @@ International air carriage competition
 
 ##### 88 Authorisation of contracts, arrangements, and understandings relating to international carriage by air
     
-*   (1) In this section and in [sections 89 to 91][270], unless the context otherwise requires,---
+*   (1) In this section and in [sections 89 to 91][271], unless the context otherwise requires,---
     
     _capacity_ means a statement, expressed to apply to 1 or more specified airlines, or to all airlines other than 1 or more specified airlines, or to all airlines, specifying the number of flights to be undertaken between specified points in a period or successive periods by the airline or airlines, whether or not by reference to specified classes of aircraft or the number of seats or volume of cargo space to be provided
     
@@ -6664,13 +6806,13 @@ International air carriage competition
         
     *   (a) provides that any party to it may directly or indirectly enforce it through any form of action by way of fines or market pressures against any person, whether or not that person is a party to the contract, arrangement, or understanding; or
     
-    *   (b) has the purpose or effect of breaching the terms of a commission regime issued under [section 89][270]; or
+    *   (b) has the purpose or effect of breaching the terms of a commission regime issued under [section 89][271]; or
     
     *   (c) unjustifiably discriminates between consumers of international air services in the access they have to competitive tariffs; or
     
     *   (d) so far as it relates to tariffs, has the effect of excluding any supplier of international carriage by air from participating in the market to which it relates; or
     
-    *   (e) has the purpose or effect of preventing any party from seeking approval, in terms of [section 90][271], for the purpose of selling international carriage by air at any other tariff so approved; or
+    *   (e) has the purpose or effect of preventing any party from seeking approval, in terms of [section 90][272], for the purpose of selling international carriage by air at any other tariff so approved; or
     
     *   (f) prevents any party from withdrawing without penalty on reasonable notice from the contract, arrangement, or understanding.
     
@@ -6708,20 +6850,20 @@ International air carriage competition
 
 ##### 91 Application of Commerce Act 1986
     
-*   (1) Nothing in [sections 27 to 29][586] of the Commerce Act 1986 shall apply to or in respect of---
+*   (1) Nothing in [sections 27 to 29][588] of the Commerce Act 1986 shall apply to or in respect of---
         
-    *   (a) the negotiation or conclusion of any contract, arrangement, or understanding so far as it contains a provision relating to international carriage by air, so long as that provision is not given effect to before its authorisation under [section 88][269]; or
+    *   (a) the negotiation or conclusion of any contract, arrangement, or understanding so far as it contains a provision relating to international carriage by air, so long as that provision is not given effect to before its authorisation under [section 88][270]; or
     
-    *   (b) any provision of a contract, arrangement, or understanding relating to international carriage by air so long as it is not given effect to before its authorisation under [section 88][269].
+    *   (b) any provision of a contract, arrangement, or understanding relating to international carriage by air so long as it is not given effect to before its authorisation under [section 88][270].
     
-    (2) Every authorisation by the Minister under [section 88][269] or [section 90][271] and every issue or amendment of a commission regime under [section 89][270] is hereby declared to be a specific authorisation by an enactment for the purposes of [section 43][466] of the Commerce Act 1986\.
+    (2) Every authorisation by the Minister under [section 88][270] or [section 90][272] and every issue or amendment of a commission regime under [section 89][271] is hereby declared to be a specific authorisation by an enactment for the purposes of [section 43][469] of the Commerce Act 1986\.
     
     Compare: 1964 No 68 s 29D; 1987 No 12 s 2(1)
 
 ## Part 9A  
 International carriage by air
     
-*   Part 9A: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Part 9A: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91A Interpretation
     
@@ -6731,7 +6873,7 @@ International carriage by air
     
     _Additional Protocol No 2_ means Additional Protocol No 2 to amend the Warsaw Convention and the Hague Protocol which was opened for signature at Montreal on 25 September 1975
     
-    _the amended Convention_ means the Convention, the English text of which is set out in [Schedule 4][355], being the Warsaw Convention as amended by the following protocols:
+    _the amended Convention_ means the Convention, the English text of which is set out in [Schedule 4][357], being the Warsaw Convention as amended by the following protocols:
         
     *   (a) the Hague Protocol:
     
@@ -6739,13 +6881,13 @@ International carriage by air
     
     _court_, in relation to an arbitration allowed by the Montreal Convention, the amended Convention, or the Guadalajara Convention, includes an arbitrator
     
-    _the Guadalajara Convention_ means the Convention, the English text of which is set out in [Schedule 5][356], being a Convention, supplementary to the Warsaw Convention, for the unification of certain rules relating to international carriage by air performed by a person other than the contracting carrier, which opened for signature at Guadalajara on 18 September 1961
+    _the Guadalajara Convention_ means the Convention, the English text of which is set out in [Schedule 5][358], being a Convention, supplementary to the Warsaw Convention, for the unification of certain rules relating to international carriage by air performed by a person other than the contracting carrier, which opened for signature at Guadalajara on 18 September 1961
     
     _the Hague Protocol_ means the Protocol opened for signature at the Hague on 28 September 1955
     
     _High Contracting Party_ has the same meaning as in Article 40A of the amended Convention
     
-    _Montreal Convention_ means the Convention, the English text of which is set out in [Schedule 6][357], for the unification of certain rules for international carriage by air done at Montreal on 28 May 1999
+    _Montreal Convention_ means the Convention, the English text of which is set out in [Schedule 6][359], for the unification of certain rules for international carriage by air done at Montreal on 28 May 1999
     
     _Protocol No 4_ means Protocol No 4 to amend the Warsaw Convention and the Hague Protocol which was opened for signature at Montreal on 25 September 1975
     
@@ -6753,11 +6895,11 @@ International carriage by air
     
     Compare: 1967 No 151 s 5; 1990 No 102 s 2
     
-    Section 91A: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91A: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91A **court**: substituted, on 4 November 2003, by [section 25(1)][588] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91A **court**: substituted, on 4 November 2003, by [section 25(1)][590] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91A **Montreal Convention**: inserted, on 4 November 2003, by [section 25(2)][588] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91A **Montreal Convention**: inserted, on 4 November 2003, by [section 25(2)][590] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91B Application of Guadalajara Convention
     
@@ -6765,7 +6907,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 6
     
-    Section 91B: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91B: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91C Conventions to have force of law
     
@@ -6781,25 +6923,25 @@ International carriage by air
     
     Compare: 1967 No 151 s 7(1)
     
-    Section 91C: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91C: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(a)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(a)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(b)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(1): amended, on 4 November 2003, by [section 26(1)(b)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(2): amended, on 4 November 2003, by [section 26(2)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(2): amended, on 4 November 2003, by [section 26(2)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(3): amended, on 4 November 2003, by [section 26(3)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(3): amended, on 4 November 2003, by [section 26(3)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(4): amended, on 4 November 2003, by [section 26(4)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(4): amended, on 4 November 2003, by [section 26(4)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91C(5): amended, on 4 November 2003, by [section 26(5)][589] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91C(5): amended, on 4 November 2003, by [section 26(5)][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91D Inconsistency between French and English texts
     
-*   (1) If there is any inconsistency between the English text of the amended Convention which is set out in [Schedule 4][355] and the corresponding text in French, the text in French prevails.
+*   (1) If there is any inconsistency between the English text of the amended Convention which is set out in [Schedule 4][357] and the corresponding text in French, the text in French prevails.
     
-    (2) If there is any inconsistency between the English text of the Guadalajara Convention which is set out in [Schedule 5][356] and the corresponding text in French, the text in French prevails.
+    (2) If there is any inconsistency between the English text of the Guadalajara Convention which is set out in [Schedule 5][358] and the corresponding text in French, the text in French prevails.
     
     (3) A certificate may be given by or on behalf of the Secretary of Foreign Affairs and Trade stating that a document to which the certificate is annexed is a true copy of the authentic text in the French language of 1 or more of the following:
         
@@ -6819,17 +6961,17 @@ International carriage by air
     
     Compare: 1967 No 151 s 7(2)
     
-    Section 91D: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91D: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91E Fatal accidents
     
-*   References in [section 4][590] of the Deaths by Accidents Compensation Act 1952 to a wrongful act, neglect, or default, include references to any occurrence which gives rise to a liability under Article 17(1) of the Montreal Convention or Article 17 of the amended Convention.
+*   References in [section 4][592] of the Deaths by Accidents Compensation Act 1952 to a wrongful act, neglect, or default, include references to any occurrence which gives rise to a liability under Article 17(1) of the Montreal Convention or Article 17 of the amended Convention.
     
     Compare: 1967 No 151 s 9
     
-    Section 91E: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91E: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91E: amended, on 4 November 2003, by [section 27][591] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91E: amended, on 4 November 2003, by [section 27][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91F Contributory negligence
     
@@ -6837,9 +6979,9 @@ International carriage by air
     
     Compare: 1967 No 151 s 12
     
-    Section 91F: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91F: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91F: amended, on 4 November 2003, by [section 28][592] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91F: amended, on 4 November 2003, by [section 28][594] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91G Limitation of liability
     
@@ -6867,27 +7009,27 @@ International carriage by air
     
     Compare: 1967 No 151 s 10(1), (2), (3), (5)
     
-    Section 91G: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91G: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91G(1): amended, on 4 November 2003, by [section 29(1)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1): amended, on 4 November 2003, by [section 29(1)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(a)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(a)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(b)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(1)(b): amended, on 4 November 2003, by [section 29(2)(b)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2): amended, on 1 December 2004, by [section 11(1)][594] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(2): amended, on 1 December 2004, by [section 11(1)][596] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(2): amended, on 4 November 2003, by [section 29(3)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2): amended, on 4 November 2003, by [section 29(3)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2)(a): amended, on 1 December 2004, by [section 11(1)][594] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(2)(a): amended, on 1 December 2004, by [section 11(1)][596] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(a)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(a)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(b)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(2)(a): amended, on 4 November 2003, by [section 29(4)(b)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91G(3): substituted, on 1 December 2004, by [section 11(2)][594] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
+    Section 91G(3): substituted, on 1 December 2004, by [section 11(2)][596] of the Civil Aviation Amendment Act (No 2) 2004 (2004 No 95).
     
-    Section 91G(5): amended, on 4 November 2003, by [section 29(6)][593] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91G(5): amended, on 4 November 2003, by [section 29(6)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91H Value of special drawing right
     
@@ -6911,11 +7053,11 @@ International carriage by air
     
     Compare: 1967 No 151 s 10(4), (4A), (5); 1990 No 102 s 4
     
-    Section 91H: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91H: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91H(1): amended, on 4 November 2003, by [section 30(1)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91H(1): amended, on 4 November 2003, by [section 30(1)][597] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91H(4): amended, on 4 November 2003, by [section 30(2)][595] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91H(4): amended, on 4 November 2003, by [section 30(2)][597] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91I Time for bringing proceedings
     
@@ -6937,29 +7079,29 @@ International carriage by air
     
     (6) Subsections (7) and (8) (which determine the time at which an arbitration is deemed to have commenced) apply for the purposes of subsection (5).
     
-    (7) An arbitration (whether under an enactment or under an arbitration agreement) must be treated as being commenced in the same manner as provided in Article 21 of [Schedule 1][596] of the Arbitration Act 1996\.
+    (7) An arbitration (whether under an enactment or under an arbitration agreement) must be treated as being commenced in the same manner as provided in Article 21 of [Schedule 1][598] of the Arbitration Act 1996\.
     
     (8) If the High Court orders that an award be set aside, it may also order that the period between the commencement of the arbitration and the date of the setting aside order must be excluded in computing the time prescribed by this section for the commencement of civil proceedings (including arbitration) with respect to the dispute referred.
     
-    (9) Subsections (6) to (8) do not limit or affect [section 39][597] of the Limitation Act 2010\.
+    (9) Subsections (6) to (8) do not limit or affect [section 39][599] of the Limitation Act 2010\.
     
     Compare: 1967 No 151 s 11
     
-    Section 91I: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91I: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91I(3): substituted, on 4 November 2003, by [section 31(1)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91I(3): substituted, on 4 November 2003, by [section 31(1)][600] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91I(4): amended, on 4 November 2003, by [section 31(2)][598] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91I(4): amended, on 4 November 2003, by [section 31(2)][600] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91I(5): substituted, on 1 January 2011, by [section 58][599] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(5): substituted, on 1 January 2011, by [section 58][601] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(6): added, on 1 January 2011, by [section 58][599] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(6): added, on 1 January 2011, by [section 58][601] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(7): added, on 1 January 2011, by [section 58][599] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(7): added, on 1 January 2011, by [section 58][601] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(8): added, on 1 January 2011, by [section 58][599] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(8): added, on 1 January 2011, by [section 58][601] of the Limitation Act 2010 (2010 No 110).
     
-    Section 91I(9): added, on 1 January 2011, by [section 58][599] of the Limitation Act 2010 (2010 No 110).
+    Section 91I(9): added, on 1 January 2011, by [section 58][601] of the Limitation Act 2010 (2010 No 110).
 
 ##### 91J Actions against High Contracting Parties
     
@@ -6971,11 +7113,11 @@ International carriage by air
     
     (4) Nothing in this section authorises the issue of execution against the property of any High Contracting Party.
     
-    (5) Subsection (1) does not apply to any High Contracting Party to the amended Convention which has availed itself of the provisions of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in [Schedule 4][355].
+    (5) Subsection (1) does not apply to any High Contracting Party to the amended Convention which has availed itself of the provisions of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in [Schedule 4][357].
     
     Compare: 1967 No 151 s 14
     
-    Section 91J: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91J: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91JA Actions against Parties to Montreal Convention
     
@@ -6987,7 +7129,7 @@ International carriage by air
     
     (4) Nothing in this section authorises the issue of execution against the property of any Party to the Montreal Convention.
     
-    Section 91JA: inserted, on 4 November 2003, by [section 32][600] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91JA: inserted, on 4 November 2003, by [section 32][602] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91K Designation of Parties
     
@@ -7015,7 +7157,7 @@ International carriage by air
     
     *   (b) the territories in respect of which the parties referred to in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), (vii), or (viii) are respectively parties; or
     
-    *   (c) to what extent the parties referred to in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), or (vii) have availed themselves of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in [Schedule 4][355].
+    *   (c) to what extent the parties referred to in paragraph (a)(i), (ii), (iii), (iv), (v), (vi), or (vii) have availed themselves of the Additional Protocol, which appears before the Additional Provisions of the Hague Protocol affecting the Warsaw Convention in the amended Convention, as set out in [Schedule 4][357].
     
     (2) An Order in Council under this section is, except in so far as it has been superseded by a subsequent order, sufficient evidence of the matters so certified.
     
@@ -7025,13 +7167,13 @@ International carriage by air
     
     Compare: 1967 No 151 s 8(1), (3), (4), (5)
     
-    Section 91K: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91K: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91K(1)(a)(viii): added, on 4 November 2003, by [section 33(1)][601] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(1)(a)(viii): added, on 4 November 2003, by [section 33(1)][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91K(1)(b): amended, on 4 November 2003, by [section 33(2)][601] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(1)(b): amended, on 4 November 2003, by [section 33(2)][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91K(4): amended, on 4 November 2003, by [section 33(3)][601] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91K(4): amended, on 4 November 2003, by [section 33(3)][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91L Article 40A of amended Convention
     
@@ -7041,7 +7183,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 8(2)
     
-    Section 91L: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91L: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91M Power to exclude aircraft in use for military purposes
     
@@ -7051,13 +7193,13 @@ International carriage by air
     
     Compare: 1967 No 151 s 13
     
-    Section 91M: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91M: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91M(2): amended, on 4 November 2003, by [section 34][602] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91M(2): amended, on 4 November 2003, by [section 34][604] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 #### Transitional provisions
     
-*   Heading: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Heading: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91N Occurrences before commencement of this Part
     
@@ -7065,7 +7207,7 @@ International carriage by air
     
     Compare: 1967 No 151 s 15(1)
     
-    Section 91N: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91N: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91O High Contracting Parties not Party to Hague Protocol
     
@@ -7073,7 +7215,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if the Carriage by Air Act 1940 (as it read immediately before its repeal) had continued in force.
     
-    (3) Despite subsection (2), if the Guadalajara Convention applies to carriage by air where that subsection applies, the applicable law includes the provisions of that Convention which have the force of law in New Zealand under [section 91C][276].
+    (3) Despite subsection (2), if the Guadalajara Convention applies to carriage by air where that subsection applies, the applicable law includes the provisions of that Convention which have the force of law in New Zealand under [section 91C][277].
     
     (4) For the purposes of subsections (2) and (3), section 3 of the Carriage by Air Act 1940 applies as if the reference to the provisions of Article 28 of the Warsaw Convention included a reference to Article VIII of the Guadalajara Convention.
     
@@ -7081,11 +7223,11 @@ International carriage by air
         
     *   (a) the provisions of Article 22 of the Warsaw Convention as substituted by Additional Protocol No 1; and
     
-    *   (b) the provisions of [section 91H][281].
+    *   (b) the provisions of [section 91H][282].
     
     Compare: 1967 No 151 s 15(2), (3)
     
-    Section 91O: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91O: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91P High Contracting Parties not Party to Montreal Protocols
     
@@ -7093,7 +7235,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if Part 1 and Schedules 1 and 2 of the Carriage by Air Act 1967 (as they read immediately before their repeal) had continued in force.
     
-    Section 91P: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91P: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91Q High Contracting Parties not Party to Protocol No 4
     
@@ -7101,7 +7243,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if the amended Convention had not included the amendments inserted by Protocol No 4\.
     
-    Section 91Q: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91Q: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91R High Contracting Parties not Party to Protocol No 2
     
@@ -7109,7 +7251,7 @@ International carriage by air
     
     (2) If this subsection applies, the law applicable to any carriage by air is the law which would have been applicable if the amended Convention had not included the amendments inserted by Protocol No 2\.
     
-    Section 91R: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91R: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91RA High Contracting Party or Party not Party to Montreal Convention
     
@@ -7117,15 +7259,15 @@ International carriage by air
     
     (2) If this subsection applies and the High Contracting Party or Party referred to in subsection (1) is a party to the Warsaw Convention or to the Hague Protocol or to Additional Protocol No 1 or Additional Protocol No 2 or to Protocol 4, the law applicable to any carriage by air is the law referred to in whichever of the following sections that is applicable to that High Contracting Party or Party:
         
-    *   (a) [sections 91A to 91M][274] (as they read immediately before the commencement of [sections 25 to 37][588] of the Civil Aviation Amendment Act 2002); or
+    *   (a) [sections 91A to 91M][275] (as they read immediately before the commencement of [sections 25 to 37][590] of the Civil Aviation Amendment Act 2002); or
     
-    *   (b) [section 91O][290]; or
+    *   (b) [section 91O][291]; or
     
-    *   (c) [section 91P][291]; or
+    *   (c) [section 91P][292]; or
     
-    *   (d) [section 91Q][292]; or
+    *   (d) [section 91Q][293]; or
     
-    *   (e) [section 91R][293].
+    *   (e) [section 91R][294].
     
     (3) Subsection (4) applies if a High Contracting Party to the amended Convention is not a party to the Montreal Convention.
     
@@ -7133,19 +7275,19 @@ International carriage by air
         
     *   (a) the law applicable to any carriage by air is the law set out in the amended Convention; and
     
-    *   (b) each version of Article 22 of the amended Convention set out in [Schedule 4][355] applies in the circumstances outlined in the heading of that version.
+    *   (b) each version of Article 22 of the amended Convention set out in [Schedule 4][357] applies in the circumstances outlined in the heading of that version.
     
-    Section 91RA: inserted, on 4 November 2003, by [section 35][603] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91RA: inserted, on 4 November 2003, by [section 35][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 91S Currency equivalent notices
     
 *   (1) The Minister of Finance may from time to time, by notice in the _Gazette_, specify the respective amounts which for the purpose of Article 22 of the Warsaw Convention (as amended by the Hague Protocol and as set out in Schedule 1 of the Carriage by Air Act 1967), and in particular of paragraph 5 of that Article, are to be taken as equivalent to the sums expressed in francs which are mentioned in that Article.
     
-    (2) The [Carriage by Air (New Zealand Currency Equivalents) Notice (No 2) 1998][604] (SR 1998/347) continues in force as if it had been made under subsection (1) until replaced under that subsection.
+    (2) The [Carriage by Air (New Zealand Currency Equivalents) Notice (No 2) 1998][606] (SR 1998/347) continues in force as if it had been made under subsection (1) until replaced under that subsection.
     
     Compare: 1967 No 151 s 10(4)
     
-    Section 91S: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91S: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ##### 91T Regulations
     
@@ -7155,28 +7297,30 @@ International carriage by air
     
     *   (b) prescribe any arrangements for making advance payments for compensation that carriers must make to natural persons under Article 28 of the Montreal Convention:
     
-    *   (c) amend [Schedule 6][357] by making such amendments to the text of the Montreal Convention set out in that schedule as are required to bring that text up to date:
+    *   (c) amend [Schedule 6][359] by making such amendments to the text of the Montreal Convention set out in that schedule as are required to bring that text up to date:
     
-    *   (d) revoke [Schedule 6][357], and substitute a new schedule setting out, in an up-to-date form, the text of the Montreal Convention.
+    *   (d) revoke [Schedule 6][359], and substitute a new schedule setting out, in an up-to-date form, the text of the Montreal Convention.
     
-    (2) Any order made under subsection (1) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][439] and the [Regulations (Disallowance) Act 1989][438].
+    (2) An order made under subsection (1) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
     (3) The Governor-General may from time to time, by Order in Council, make regulations providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
     
-    Section 91T: inserted, on 1 December 1999, by [section 3][587] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+    Section 91T: inserted, on 1 December 1999, by [section 3][589] of the Civil Aviation Amendment Act 1999 (1999 No 70).
     
-    Section 91T(1)(a): substituted, on 4 November 2003, by [section 36][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(a): substituted, on 4 November 2003, by [section 36][607] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(b): substituted, on 4 November 2003, by [section 36][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(b): substituted, on 4 November 2003, by [section 36][607] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(c): substituted, on 4 November 2003, by [section 36][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(c): substituted, on 4 November 2003, by [section 36][607] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 91T(1)(d): substituted, on 4 November 2003, by [section 36][605] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 91T(1)(d): substituted, on 4 November 2003, by [section 36][607] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    
+    Section 91T(2): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 9B  
 Domestic carriage by air
     
-*   Part 9B: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+*   Part 9B: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91U Interpretation
     
@@ -7222,7 +7366,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 18
     
-    Section 91U: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91U: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91V Application of this Part
     
@@ -7238,11 +7382,11 @@ Domestic carriage by air
     
     *   (b) the contract for the carriage of any passenger is made without consideration.
     
-    (3) This section applies subject to [section 91W][300].
+    (3) This section applies subject to [section 91W][301].
     
     Compare: 1967 No 151 s 19(1)
     
-    Section 91V: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91V: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91W Exclusions
     
@@ -7252,7 +7396,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 19(3), (4)
     
-    Section 91W: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91W: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91X Provisions if carriage performed by actual carrier
     
@@ -7272,11 +7416,11 @@ Domestic carriage by air
     
     *   (d) any special agreement under which the contracting carrier assumes obligations not imposed by this Part, or any waiver of rights conferred by this Part, does not affect the actual carrier unless agreed to by the actual carrier.
     
-    (2) An act or omission specified in subsection (1)(c) does not subject the actual carrier to liability exceeding the limits specified in [section 91ZC][306].
+    (2) An act or omission specified in subsection (1)(c) does not subject the actual carrier to liability exceeding the limits specified in [section 91ZC][307].
     
     Compare: 1967 No 151 s 20
     
-    Section 91X: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91X: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91Y Provisions if carriage performed by successive carriers
     
@@ -7284,7 +7428,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 21
     
-    Section 91Y: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91Y: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91Z Liability of carrier in respect of delay
     
@@ -7308,7 +7452,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 25
     
-    Section 91Z: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91Z: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZA Avoidance of liability
     
@@ -7320,15 +7464,15 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 26
     
-    Section 91ZA: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZA: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZB Contributory negligence
     
-*   If the carrier proves that the damage was caused, or contributed to, by the negligence of the passenger, the court may, in accordance with the [Contributory Negligence Act 1947][607], exonerate the carrier wholly or partly from liability.
+*   If the carrier proves that the damage was caused, or contributed to, by the negligence of the passenger, the court may, in accordance with the [Contributory Negligence Act 1947][609], exonerate the carrier wholly or partly from liability.
     
     Compare: 1967 No 151 s 27
     
-    Section 91ZB: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZB: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZC Limitation of liability
     
@@ -7344,27 +7488,27 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 28
     
-    Section 91ZC: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZC: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZD Contracting out
     
-*   (1) A provision in a contract of carriage or in any bylaws made by a carrier purporting to relieve the carrier of liability, or to fix a lower limit than the appropriate limit of liability referred to in [section 91ZC][306], has no effect.
+*   (1) A provision in a contract of carriage or in any bylaws made by a carrier purporting to relieve the carrier of liability, or to fix a lower limit than the appropriate limit of liability referred to in [section 91ZC][307], has no effect.
     
     (2) The invalidity under subsection (1) of a provision in a contract of carriage or in any bylaws does not, by itself, make any other provision of that contract or those bylaws invalid.
     
     Compare: 1967 No 151 s 30
     
-    Section 91ZD: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZD: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZE Wilful or reckless misconduct
     
-*   (1) The limits of liability referred to in [section 91ZC][306] do not apply if it is proved that the damage resulted from an act or omission of the carrier done---
+*   (1) The limits of liability referred to in [section 91ZC][307] do not apply if it is proved that the damage resulted from an act or omission of the carrier done---
         
     *   (a) with intent to cause damage; or
     
     *   (b) recklessly and with knowledge that damage would probably result.
     
-    (2) The limits of liability referred to in [section 91ZC][306] do not apply if it is proved that the damage resulted from an act or omission of the carrier's servants or agents done---
+    (2) The limits of liability referred to in [section 91ZC][307] do not apply if it is proved that the damage resulted from an act or omission of the carrier's servants or agents done---
         
     *   (a) with intent to cause damage; or
     
@@ -7374,11 +7518,11 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 31
     
-    Section 91ZE: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZE: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZF Servants or agents of carrier
     
-*   (1) If an action in respect of any damage is brought against a servant or agent of a carrier, and the servant or agent proves that the servant or agent acted within the scope of the servant's or agent's employment or authority, the servant or agent is entitled to rely on the limits of liability, if any, that the carrier would be entitled to invoke under [section 91ZC][306] in an action against the carrier in respect of that damage.
+*   (1) If an action in respect of any damage is brought against a servant or agent of a carrier, and the servant or agent proves that the servant or agent acted within the scope of the servant's or agent's employment or authority, the servant or agent is entitled to rely on the limits of liability, if any, that the carrier would be entitled to invoke under [section 91ZC][307] in an action against the carrier in respect of that damage.
     
     (2) Subsection (1) does not apply if it is proved that the damage resulted from an act or omission of the servant or agent done---
         
@@ -7388,23 +7532,23 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 32
     
-    Section 91ZF: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZF: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZG Aggregation of damages
     
-*   The aggregate of the amounts recoverable from the carriers, and from their servants or agents acting within the scope of their employment who are jointly and severally subject to liability under this Part, must not exceed the limits referred to in [section 91ZC][306].
+*   The aggregate of the amounts recoverable from the carriers, and from their servants or agents acting within the scope of their employment who are jointly and severally subject to liability under this Part, must not exceed the limits referred to in [section 91ZC][307].
     
     Compare: 1967 No 151 s 33
     
-    Section 91ZG: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZG: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZH Aggregate liability
     
-*   The limitations referred to in [section 91ZC][306] apply to the aggregate liability of a carrier, or a servant or agent of a carrier acting within the scope of the servant's or agent's employment, in all proceedings that are brought against the carrier or servant or agent under the law of New Zealand, together with any proceedings brought against the carrier or servant or agent outside New Zealand.
+*   The limitations referred to in [section 91ZC][307] apply to the aggregate liability of a carrier, or a servant or agent of a carrier acting within the scope of the servant's or agent's employment, in all proceedings that are brought against the carrier or servant or agent under the law of New Zealand, together with any proceedings brought against the carrier or servant or agent outside New Zealand.
     
     Compare: 1967 No 151 s 34
     
-    Section 91ZH: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZH: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZI Just and equitable orders and awards
     
@@ -7422,11 +7566,11 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 35
     
-    Section 91ZI: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZI: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZJ Tortfeasors
     
-*   (1) The limitations on liability referred to in [section 91ZC][306] apply if---
+*   (1) The limitations on liability referred to in [section 91ZC][307] apply if---
         
     *   (a) proceedings are brought by a tortfeasor to obtain a contribution from another tortfeasor; and
     
@@ -7438,7 +7582,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 36
     
-    Section 91ZJ: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZJ: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZK Relationship between carriers
     
@@ -7450,7 +7594,7 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 37
     
-    Section 91ZK: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZK: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZL Limitation of actions
     
@@ -7484,11 +7628,11 @@ Domestic carriage by air
     
     (4) If the court grants leave under subsection (3), that leave may be subject to such conditions (if any) that the court thinks just to impose.
     
-    (5) This section applies subject to the special provisions relating to tortfeasors in [section 91ZJ][313].
+    (5) This section applies subject to the special provisions relating to tortfeasors in [section 91ZJ][314].
     
     Compare: 1967 No 151 s 39
     
-    Section 91ZL: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZL: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 91ZM Combined carriage
     
@@ -7496,14 +7640,14 @@ Domestic carriage by air
     
     Compare: 1967 No 151 s 40
     
-    Section 91ZM: inserted, on 1 June 2004, by [section 37][606] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 91ZM: inserted, on 1 June 2004, by [section 37][608] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ## Part 10  
 Aerodromes, facilities, and joint venture airports
 
 ##### 92 Definition of joint venture airport
     
-*   In this Part, the expression _joint venture airport_ means an aerodrome or airport that is established, maintained, operated, or managed as a joint venture by and between the Crown and an Airport Authority under this Act and the [Airport Authorities Act 1966][461].
+*   In this Part, the expression _joint venture airport_ means an aerodrome or airport that is established, maintained, operated, or managed as a joint venture by and between the Crown and an Airport Authority under this Act and the [Airport Authorities Act 1966][464].
     
     Compare: 1964 No 68 s 13B(1); 1971 No 22 s 3
 
@@ -7511,9 +7655,9 @@ Aerodromes, facilities, and joint venture airports
     
 *   (1) The Minister may for the purposes of civil aviation establish, maintain, and operate aerodromes and services and facilities in connection with the operation of any aerodrome or with the operation of aircraft engaged in civil aviation.
     
-    (2) All works undertaken under the authority of this section shall be public works within the meaning of the [Public Works Act 1981][608].
+    (2) All works undertaken under the authority of this section shall be public works within the meaning of the [Public Works Act 1981][610].
     
-    (3) Subject to the provisions of this Act, the Minister may do all that is necessary, convenient, or incidental to the establishment, maintenance, and operation of any aerodrome under his or her complete or partial control or of any services or facilities in connection with the operation of any such aerodrome in all respects as if the operation of the aerodrome or of the services or facilities were a commercial undertaking, and, in particular, may himself or herself carry out any work or undertaking in respect of which he or she is authorised to enter into any agreement under [section 94][320].
+    (3) Subject to the provisions of this Act, the Minister may do all that is necessary, convenient, or incidental to the establishment, maintenance, and operation of any aerodrome under his or her complete or partial control or of any services or facilities in connection with the operation of any such aerodrome in all respects as if the operation of the aerodrome or of the services or facilities were a commercial undertaking, and, in particular, may himself or herself carry out any work or undertaking in respect of which he or she is authorised to enter into any agreement under [section 94][321].
     
     (4) Any power given to the Minister under this Act in respect of any aerodrome or any facilities in connection with any aerodrome may be exercised by him or her whether or not the aerodrome or the facilities had been established by him or her under this Act.
     
@@ -7553,7 +7697,7 @@ Aerodromes, facilities, and joint venture airports
     
     (3) Any agreement entered into under subsection (1) may from time to time be varied by the parties to the agreement or may be terminated in accordance with the terms of the agreement.
     
-    (4) Any agreement relating to the development or reconstruction of an aerodrome entered into by the Crown under [section 224][609] of the Public Works Act 1981 may include any provision referred to in subsection (2).
+    (4) Any agreement relating to the development or reconstruction of an aerodrome entered into by the Crown under [section 224][611] of the Public Works Act 1981 may include any provision referred to in subsection (2).
     
     Compare: 1964 No 68 s 12(3)--(6)
 
@@ -7569,38 +7713,42 @@ Aerodromes, facilities, and joint venture airports
     
     (5) If any money withdrawn under subsection (4) is paid by an airport authority, pursuant to the liability of the airport authority under any enactment, deed, or agreement, to any other body or person, it may be used for such purposes (whether or not related to the airport) as the body or person receiving it thinks fit.
     
-    Compare: 1964 No 68 s 13B; 1986 No 128 s 8(4); 1987 No 195 [s 15][610]
+    Compare: 1964 No 68 s 13B; 1986 No 128 s 8(4); 1987 No 195 [s 15][612]
     
-    Section 95(1): amended, on 25 January 2005, pursuant to [section 65R(3)][501] of the Public Finance Act 1989 (1989 No 44).
+    Section 95(1): amended, on 25 January 2005, pursuant to [section 65R(3)][504] of the Public Finance Act 1989 (1989 No 44).
 
 ## Part 11  
 Miscellaneous provisions
 
 ##### 96 Sale of liquor at international airports
     
-*   (1) Liquor may be sold at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years, but any liquor so sold shall not be delivered by or on behalf of the purchaser to any other person within New Zealand or consumed within New Zealand unless it has been entered by the passenger for home consumption in accordance with the [Customs and Excise Act 1996][611].
+*   (1) Liquor may be sold at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years, but any liquor so sold shall not be delivered by or on behalf of the purchaser to any other person within New Zealand or consumed within New Zealand unless it has been entered by the passenger for home consumption in accordance with the [Customs and Excise Act 1996][613].
     
     (2) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
         
     *   (a) prescribing the circumstances and conditions relating to the control of the sale of liquor at international airports to passengers on aircraft departing from or arriving in New Zealand, being passengers who have attained the age of 18 years:
     
-    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on summary conviction, be imposed in respect of any such offence.
+    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
     
-    (3) Every person who does any act in contravention of this section commits an offence and is liable to a fine not exceeding $1,000\.
+    (3) Every person who does any act in contravention of this section commits an offence and is liable on conviction to a fine not exceeding $1,000\.
     
-    (4) Nothing in the [Sale of Liquor Act Act 1989][612] shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
+    (4) Nothing in the [Sale of Liquor Act 1989][614] shall apply to the sale of liquor pursuant to the authority of this section or of any regulations made under this section.
     
     Compare: 1964 No 68 s 25; 1989 No 146 s 2
     
-    Section 96(1): amended, on 1 April 2000, by [section 119][613] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 96(1): amended, on 1 April 2000, by [section 119][615] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
     
-    Section 96(1): amended, on 1 October 1996, by [section 289(1)][614] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 96(1): amended, on 1 October 1996, by [section 289(1)][616] of the Customs and Excise Act 1996 (1996 No 27).
     
-    Section 96(2)(a): amended, on 1 April 2000, by [section 119][613] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    Section 96(2)(a): amended, on 1 April 2000, by [section 119][615] of the Sale of Liquor Amendment Act 1999 (1999 No 92).
+    
+    Section 96(2)(b): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 96(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 96A Minister may prohibit smoking on international air routes
     
-*   (1) For the purposes of this section and [sections 96B][325] and [96C][326],---
+*   (1) For the purposes of this section and [sections 96B][326] and [96C][327],---
     
     _New Zealand international airline_ means a New Zealand air transport enterprise that is offering or operating a scheduled international air service or a non-scheduled international flight
     
@@ -7626,49 +7774,51 @@ Miscellaneous provisions
     
     Section 96A: inserted, on 13 August 1996, by section 31 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 96A(1) **to smoke**: amended, on 1 June 2004, by [section 38][615] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96A(1) **to smoke**: amended, on 1 June 2004, by [section 38][617] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 96B Offences in respect of smoking on international flights
     
-*   (1) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse, fails to comply with the requirements of [section 96A(4)][324].
+*   (1) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse, fails to comply with the requirements of [section 96A(4)][325].
     
-    (2) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse permits any person to smoke in contravention of [section 96A(5)][324].
+    (2) Every person commits an offence who, being a New Zealand international airline, without reasonable excuse permits any person to smoke in contravention of [section 96A(5)][325].
     
     (3) \[Repealed\]
     
-    (4) Every person who commits an offence against subsection (1) or subsection (2) is liable to a fine not exceeding $4,000\.
+    (4) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction to a fine not exceeding $4,000\.
     
     (5) \[Repealed\]
     
     Section 96B: inserted, on 13 August 1996, by section 31 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 96B(3): repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96B(3): repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 96B(5): repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96B(4): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 96B(5): repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 96C Procedure for offence of smoking on international flight
     
 *   \[Repealed\]
     
-    Section 96C: repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96C: repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 96D Form of infringement notice
     
 *   \[Repealed\]
     
-    Section 96D: repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96D: repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 96E Payment of fees
     
 *   \[Repealed\]
     
-    Section 96E: repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96E: repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 96F Filing of notices
     
 *   \[Repealed\]
     
-    Section 96F: repealed, on 1 June 2004, by [section 40(1)][616] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 96F: repealed, on 1 June 2004, by [section 40(1)][618] of the Civil Aviation Amendment Act 2004 (2004 No 8).
 
 ##### 97 Nuisance, trespass, and responsibility for damage
     
@@ -7686,13 +7836,13 @@ Miscellaneous provisions
     
     the owner shall be entitled to be indemnified by that other person against any claim in respect of the damage or loss.
     
-    (5) Where damage or loss is contributed to by the fault of the person by whom the same was suffered, the provisions of the [Contributory Negligence Act 1947][607] as to apportionment shall apply.
+    (5) Where damage or loss is contributed to by the fault of the person by whom the same was suffered, the provisions of the [Contributory Negligence Act 1947][609] as to apportionment shall apply.
     
     (6) Damages shall not be recoverable under subsection (4) from the owner of an aircraft in respect of damage or loss caused by a person descending from the aircraft by parachute. Damages shall be recoverable from the person descending and the provisions of subsection (4) shall, with the necessary modifications, apply as if the person descending were the owner of the aircraft. This subsection shall not apply in respect of damage or loss caused by a person descending from an aircraft by parachute where the descent is required to avoid injury or death.
     
     (7) Where an aircraft has been hired out to any other person by the owner thereof, for a period greater than 28 days and no pilot, commander, navigator, or operative member of the crew of the aircraft is in the employment of the owner, this section shall apply as though every reference to the owner were a reference to the person to whom the aircraft has been so hired out.
     
-    (8) For the purposes of this section, the term _fault_ means negligence, breach of statutory duty, or other act or omission which gives rise to a liability in tort or would, apart from the [Contributory Negligence Act 1947][607], give rise to the defence of contributory negligence.
+    (8) For the purposes of this section, the term _fault_ means negligence, breach of statutory duty, or other act or omission which gives rise to a liability in tort or would, apart from the [Contributory Negligence Act 1947][609], give rise to the defence of contributory negligence.
     
     Compare: 1964 No 68 s 23
 
@@ -7700,11 +7850,11 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 98: repealed, on 10 August 1992, by [section 34][617] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 98: repealed, on 10 August 1992, by [section 34][619] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 99 Airways Corporation to be sole provider of certain airways services
     
-*   (1) Subject to the [Civil Defence Emergency Management Act 2002][618], Airways Corporation of New Zealand Limited shall be the only person entitled to provide the following aviation services in New Zealand:
+*   (1) Subject to the [Civil Defence Emergency Management Act 2002][620], Airways Corporation of New Zealand Limited shall be the only person entitled to provide the following aviation services in New Zealand:
         
     *   (a) area control services:
     
@@ -7714,11 +7864,11 @@ Miscellaneous provisions
     
     (2) Nothing in this section shall apply to aerodrome control services or aerodrome flight information services.
     
-    Section 99(1): amended, on 1 December 2002, by [section 117][619] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 99(1): amended, on 1 December 2002, by [section 117][621] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ##### 99A Regulations relating to information disclosure
     
-*   Without limiting [section 100][337], the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+*   Without limiting [section 100][338], the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
         
     *   (a) requiring every holder of an aviation document relating to an air traffic service to publish in the prescribed manner information in relation to the provision of that service by that holder; and prescribing the information, including prices, terms, and conditions, that the holder shall make available, which information shall include---
             
@@ -7736,57 +7886,61 @@ Miscellaneous provisions
     
     *   (c) prescribing the form and manner in which the financial statements required by any regulations made under paragraph (b) shall be made available:
     
-    *   (d) prescribing the form of statutory declaration and by whom it shall be made for the purpose of [section 99B][334]:
+    *   (d) prescribing the form of statutory declaration and by whom it shall be made for the purpose of [section 99B][335]:
     
     *   (e) prescribing the time limits within which the information disclosure required by any regulations made under this section shall be made to the public.
     
-    Section 99A: inserted, on 10 August 1992, by [section 36][620] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 99A: inserted, on 10 August 1992, by [section 36][622] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 99A(b): amended, on 1 October 1997, pursuant to [section 6(1)][621] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 99A(b): amended, on 1 October 1997, pursuant to [section 6(1)][623] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 99A(b): amended, on 1 October 1997, pursuant to [section 6(2)][621] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 99A(b): amended, on 1 October 1997, pursuant to [section 6(2)][623] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 99B Information to be supplied to Secretary
     
-*   (1) Every person who is required by regulations made under [section 99A][333] to make available statements and information shall supply to the Secretary---
+*   (1) Every person who is required by regulations made under [section 99A][334] to make available statements and information shall supply to the Secretary---
         
     *   (a) a copy of all statements and information, made available to the public pursuant to regulations made under that section:
     
     *   (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Secretary for the purpose of monitoring the person's compliance with those regulations within 30 days of receipt of such request.
     
-    (2) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under [section 99A(d)][333].
+    (2) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under [section 99A(d)][334].
     
-    Section 99B: inserted, on 10 August 1992, by [section 36][620] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 99B: inserted, on 10 August 1992, by [section 36][622] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 99B heading: amended, on 1 June 2002, by [section 40][622] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 99B heading: amended, on 1 June 2002, by [section 40][624] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 99B(1): amended, on 1 June 2002, by [section 40][622] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 99B(1): amended, on 1 June 2002, by [section 40][624] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 99B(1)(b): amended, on 1 June 2002, by [section 40][622] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 99B(1)(b): amended, on 1 June 2002, by [section 40][624] of the Civil Aviation Amendment Act 2002 (2002 No 15).
     
-    Section 99B(2): amended, on 1 June 2002, by [section 40][622] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 99B(2): amended, on 1 June 2002, by [section 40][624] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 99C Offences
     
 *   (1) Every person commits an offence against this section who---
         
-    *   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under [section 99A][333]; or
+    *   (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under [section 99A][334]; or
     
-    *   (b) fails, without reasonable excuse, to comply with the requirements of paragraph (a) or paragraph (b) of [section 99B(1)][334].
+    *   (b) fails, without reasonable excuse, to comply with the requirements of paragraph (a) or paragraph (b) of [section 99B(1)][335].
     
-    (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to [section 99B][334].
+    (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to [section 99B][335].
     
-    (3) Every person who commits an offence against subsection (1) is liable to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
     
-    (4) Every person who commits an offence against subsection (2) is liable to a fine not exceeding $20,000\.
+    (4) Every person who commits an offence against subsection (2) is liable on conviction to a fine not exceeding $20,000\.
     
-    Section 99C: inserted, on 10 August 1992, by [section 36][620] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 99C: inserted, on 10 August 1992, by [section 36][622] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    
+    Section 99C(3): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 99C(4): amended, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99D Administration of sections 99A to 99C
     
 *   \[Repealed\]
     
-    Section 99D: repealed, on 1 June 2002, by [section 41][623] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+    Section 99D: repealed, on 1 June 2002, by [section 41][625] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 ##### 100 Regulations
     
@@ -7818,11 +7972,11 @@ Miscellaneous provisions
         
         
     
-    *   (ea) prescribing the matters in respect of which fees or charges are to be payable under [Part 8A][227], the amount of the fees or charges, and the persons liable to pay them:
+    *   (ea) prescribing the matters in respect of which fees or charges are to be payable under [Part 8A][228], the amount of the fees or charges, and the persons liable to pay them:
     
-    *   (eb) providing for the refund or waiver of any fee or charge payable under [Part 8A][227], in whole or in part, in any specified case or class of cases:
+    *   (eb) providing for the refund or waiver of any fee or charge payable under [Part 8A][228], in whole or in part, in any specified case or class of cases:
     
-    *   (ec) prescribing the information and documents that may be required to be supplied by applicants for scheduled international air services licences under [Part 8A][227], and the time within which such information or documents must be supplied:
+    *   (ec) prescribing the information and documents that may be required to be supplied by applicants for scheduled international air services licences under [Part 8A][228], and the time within which such information or documents must be supplied:
     
     *   (ed) specifying, for the purposes of [Part 1A][14], the agreements or arrangements between the Governments of Australia and New Zealand regarding mutual recognition of aviation-related certification:
     
@@ -7842,7 +7996,7 @@ Miscellaneous provisions
                 
             *   (A) rules may be made under [section 28][74], [29][75], [29A][76], or [30][78]:
             
-            *   (B) directions may be made under [section 77A][199]:
+            *   (B) directions may be made under [section 77A][200]:
             
             
         
@@ -7850,7 +8004,7 @@ Miscellaneous provisions
                 
             *   (A) rule made under [section 28][74], [29][75], [29A][76], or [30][78]; or
             
-            *   (B) direction made under [section 77A][199]:
+            *   (B) direction made under [section 77A][200]:
             
             
         
@@ -7860,7 +8014,7 @@ Miscellaneous provisions
     
     (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, aerodromes, aircraft, aeronautical products, aviation related services, or aeronautical procedures, or with respect to the same class of person, aerodrome, aircraft, aeronautical product, aviation related service, or aeronautical procedure in different circumstances.
     
-    (3) To the extent that a rule made under [section 28][74], [29][75], [29A][76], or [30][78] or a direction made under [section 77A][199] is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
+    (3) To the extent that a rule made under [section 28][74], [29][75], [29A][76], or [30][78] or a direction made under [section 77A][200] is inconsistent with a regulation made under subsection (1)(ee), the rule or direction is subject to the regulation.
     
     (4) No regulation made under subsection (1)(ee) may be considered invalid because it confers any discretion upon or allows any matter to be determined or approved by the Authority or the Director or any other person, or allows the Authority or the Director or any other person to impose requirements as to the performance of any activities.
     
@@ -7868,21 +8022,21 @@ Miscellaneous provisions
     
     Compare: 1964 No 68 s 29(2)
     
-    Section 100(1)(ba): inserted, on 26 September 2007, by [section 17(1)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(1)(ba): inserted, on 26 September 2007, by [section 17(1)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 100(1)(ca): inserted, on 26 September 2007, by [section 17(2)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(1)(ca): inserted, on 26 September 2007, by [section 17(2)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 100(1)(d): amended, on 28 November 1991, by [section 6(a)][625] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 100(1)(d): amended, on 28 November 1991, by [section 6(a)][627] of the Civil Aviation Amendment Act 1991 (1991 No 116).
     
-    Section 100(1)(d)(i): amended, on 1 June 2004, by [section 39(1)(a)][626] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 100(1)(d)(i): amended, on 1 June 2004, by [section 39(1)(a)][628] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 100(1)(d)(ii): amended, on 1 June 2004, by [section 39(1)(b)][626] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 100(1)(d)(ii): amended, on 1 June 2004, by [section 39(1)(b)][628] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 100(1)(d)(ii): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 100(1)(d)(ii): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 100(1)(e): amended, on 28 November 1991, by [section 6(b)][625] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 100(1)(e): amended, on 28 November 1991, by [section 6(b)][627] of the Civil Aviation Amendment Act 1991 (1991 No 116).
     
-    Section 100(1)(e)(ii): amended, on 10 August 1992, by [section 41][467] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 100(1)(e)(ii): amended, on 10 August 1992, by [section 41][471] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
     Section 100(1)(ea): inserted, on 13 August 1996, by section 32 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
@@ -7890,23 +8044,37 @@ Miscellaneous provisions
     
     Section 100(1)(ec): inserted, on 13 August 1996, by section 32 of the Civil Aviation Amendment Act 1996 (1996 No 91).
     
-    Section 100(1)(ed): inserted, on 1 June 2004, by [section 39(2)][626] of the Civil Aviation Amendment Act 2004 (2004 No 8).
+    Section 100(1)(ed): inserted, on 1 June 2004, by [section 39(2)][628] of the Civil Aviation Amendment Act 2004 (2004 No 8).
     
-    Section 100(1)(ee): inserted, on 26 September 2007, by [section 17(3)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(1)(ee): inserted, on 26 September 2007, by [section 17(3)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 100(3): added, on 26 September 2007, by [section 17(4)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(3): added, on 26 September 2007, by [section 17(4)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 100(4): added, on 26 September 2007, by [section 17(4)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(4): added, on 26 September 2007, by [section 17(4)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
     
-    Section 100(5): added, on 26 September 2007, by [section 17(4)][624] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+    Section 100(5): added, on 26 September 2007, by [section 17(4)][626] of the Civil Aviation Amendment Act 2007 (2007 No 89).
+
+##### 100A Burden of proof of exceptions, etc, for offences in rules and regulations
+    
+*   (1) This section applies to any offence contained in rules or regulations made pursuant to this Act.
+    
+    (2) Any exception, exemption, proviso, excuse, or qualification, whether it does or does not accompany the description of the offence,---
+        
+    *   (a) may be proved by the defendant; but
+    
+    *   (b) need not be negatived in the charging document, and, whether or not it is so negatived, no proof in relation to the matter is required on the part of the prosecutor.
+    
+    (3) Subsection (2)(b) is subject to [section 17(4)][629] of the Criminal Procedure Act 2011\.
+    
+    Section 100A: inserted, on 1 July 2013, by [section 413][470] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 101 Repeals, revocation, amendments, and savings
     
-*   (1) The enactments specified in [Schedule 1][352] are hereby repealed.
+*   (1) The enactments specified in [Schedule 1][354] are hereby repealed.
     
     (2) The Civil Aviation (Accident Investigation) Regulations 1978 (SR 1978/112) are hereby revoked.
     
-    (3) The enactments specified in [Schedule 2][353] are hereby amended in the manner indicated in that schedule.
+    (3) The enactments specified in [Schedule 2][355] are hereby amended in the manner indicated in that schedule.
     
     (4) Nothing in subsection (1) shall affect any amendment made by section 6 of the Civil Aviation Amendment Act 1976\.
 
@@ -7920,40 +8088,40 @@ Miscellaneous provisions
         
     *   (a) every reference to the Office of Air Accidents Investigation shall be read as a reference to the Transport Accident Investigation Commission:
     
-    *   (b) every reference to the Chief Inspector of Air Accidents or an Inspector of Air Accidents shall be read as a reference to a person appointed by the Transport Accident Investigation Commission to investigate any matter under the [Transport Accident Investigation Commission Act 1990][360].
+    *   (b) every reference to the Chief Inspector of Air Accidents or an Inspector of Air Accidents shall be read as a reference to a person appointed by the Transport Accident Investigation Commission to investigate any matter under the [Transport Accident Investigation Commission Act 1990][362].
     
     (4) \[Repealed\]
     
     (5) Every licence, rating, certificate, permit, authorisation, approval, or other document issued under the Civil Aviation Regulations 1953, that is in force immediately before the commencement of this Act, shall be deemed to be an aviation document issued under this Act, and shall have effect and be subject to the provisions of this Act accordingly.
     
-    (6) Every authorisation given under section 29A or section 29C of the Civil Aviation Act 1964, and every commission regime issued under section 29C of that Act, that is in force immediately before the commencement of this Act, shall be deemed to have been given or issued, as the case may be, under [Part 9][268], and shall have effect and be subject to the provisions of that Part accordingly.
+    (6) Every authorisation given under section 29A or section 29C of the Civil Aviation Act 1964, and every commission regime issued under section 29C of that Act, that is in force immediately before the commencement of this Act, shall be deemed to have been given or issued, as the case may be, under [Part 9][269], and shall have effect and be subject to the provisions of that Part accordingly.
     
     (7) \[Repealed\]
     
-    Section 102(2): repealed, on 10 August 1992, by [section 37][627] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 102(2): repealed, on 10 August 1992, by [section 37][630] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 102(4): repealed, on 10 August 1992, by [section 37][627] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 102(4): repealed, on 10 August 1992, by [section 37][630] of the Civil Aviation Amendment Act 1992 (1992 No 75).
     
-    Section 102(7): repealed, on 10 August 1992, by [section 37][627] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+    Section 102(7): repealed, on 10 August 1992, by [section 37][630] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 103 Effect of Act on Civil Aviation Regulations
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 28 November 1991, by [section 7][628] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 103: repealed, on 28 November 1991, by [section 7][631] of the Civil Aviation Amendment Act 1991 (1991 No 116).
 
 ## Part 12  
 Cape Town Convention and Aircraft Protocol
     
-*   Part 12: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+*   Part 12: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 104 Interpretation
     
 *   (1) In this Part, unless the context otherwise requires,---
     
-    _Aircraft Protocol_ means the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment done at Cape Town on 16 November 2001 (a copy of the English text of which is set out in [Schedule 8][359])
+    _Aircraft Protocol_ means the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment done at Cape Town on 16 November 2001 (a copy of the English text of which is set out in [Schedule 8][361])
     
-    _Cape Town Convention_ means the Convention on International Interests in Mobile Equipment done at Cape Town on 16 November 2001 (a copy of the English text of which is set out in [Schedule 7][358])
+    _Cape Town Convention_ means the Convention on International Interests in Mobile Equipment done at Cape Town on 16 November 2001 (a copy of the English text of which is set out in [Schedule 7][360])
     
     _Contracting State_ means a State that is a party to the Cape Town Convention and the Aircraft Protocol
     
@@ -7965,23 +8133,23 @@ Cape Town Convention and Aircraft Protocol
     
     (2) In this Part, any term defined in the Cape Town Convention or the Aircraft Protocol and used in this Part has the same meaning as in the Cape Town Convention or the Aircraft Protocol.
     
-    Compare: 1996 No 40[s 2][630]
+    Compare: 1996 No 40[s 2][633]
     
-    Section 104: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 104: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 105 Cape Town Convention and Aircraft Protocol to have force of law
     
 *   The provisions of the Cape Town Convention and the Aircraft Protocol, subject to any declaration that New Zealand has made under the Convention or the Protocol, have the force of law in New Zealand.
     
-    Compare: 1994 No 60 [s 4][631]; 1990 No 98 [s 91C][632]
+    Compare: 1994 No 60 [s 4][634]; 1990 No 98 [s 91C][635]
     
-    Section 105: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 105: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 106 Cape Town Convention and Aircraft Protocol to have effect in place of New Zealand law in certain circumstances
     
 *   The provisions of the Cape Town Convention and the Aircraft Protocol, subject to any declaration that New Zealand has made under the Convention or the Protocol, have effect in place of any other New Zealand law to the extent that the Convention or the Protocol applies to a matter to which the other law applies.
     
-    Section 106: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 106: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 107 Governor-General may issue copies of declarations
     
@@ -7993,9 +8161,11 @@ Cape Town Convention and Aircraft Protocol
     
     *   (b) the declaration takes or took effect.
     
-    (3) An Order in Council made, or a declaration issued, under subsection (1) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][439], but is not a regulation for the purposes of the [Regulations (Disallowance) Act 1989][438].
+    (3) An Order in Council made, or a declaration issued, under subsection (1) is a legislative instrument, but not a disallowable instrument, for the purposes of the [Legislation Act 2012][440] and must be presented to the House of Representatives under [section 41][441] of that Act.
     
-    Section 107: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 107: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    
+    Section 107(3): replaced, on 5 August 2013, by [section 77(3)][446] of the Legislation Act 2012 (2012 No 119).
 
 ##### 108 Certificates about Contracting States
     
@@ -8007,9 +8177,9 @@ Cape Town Convention and Aircraft Protocol
     
     (2) A certificate signed under subsection (1) is conclusive evidence for all purposes of the matters stated in the certificate.
     
-    Compare: 1994 No 60 [s 6][633]
+    Compare: 1994 No 60 [s 6][636]
     
-    Section 108: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 108: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 109 Irrevocable de-registration and export request authorisations
     
@@ -8023,11 +8193,11 @@ Cape Town Convention and Aircraft Protocol
     
     (3) If the Director receives a submission under subsection (1), the Authority must record the irrevocable de-registration and export request authorisation on the New Zealand Register of Aircraft.
     
-    Section 109: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 109: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 110 De-registration requests
     
-*   (1) An authorised party (or the authorised party's certified designee) may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][347], submit a de-registration request in the prescribed form to the Director.
+*   (1) An authorised party (or the authorised party's certified designee) may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][349], submit a de-registration request in the prescribed form to the Director.
     
     (2) In a request submitted under subsection (1), the authorised party must certify in writing that---
         
@@ -8041,13 +8211,13 @@ Cape Town Convention and Aircraft Protocol
     
     (5) If the Director revokes a certificate of registration under subsection (4), the Authority must remove the registration from the New Zealand Register of Aircraft.
     
-    Section 110: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 110: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 111 Removal requests
     
-*   (1) An authorised party (or the authorised party's certified designee) may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][347], submit a removal request in writing to the Director.
+*   (1) An authorised party (or the authorised party's certified designee) may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][349], submit a removal request in writing to the Director.
     
-    (2) A debtor may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][347], submit a removal request in writing to the Director if the debtor---
+    (2) A debtor may, in accordance with the relevant irrevocable de-registration and export request authorisation recorded under [section 109(3)][349], submit a removal request in writing to the Director if the debtor---
         
     *   (a) has obtained the written consent of the authorised party to do so; and
     
@@ -8059,26 +8229,26 @@ Cape Town Convention and Aircraft Protocol
     
     (5) If the Director revokes an irrevocable de-registration and export request authorisation under subsection (4), the Authority must remove the authorisation from the New Zealand Register of Aircraft.
     
-    Section 111: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 111: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 112 Director must prescribe and publish forms for de-registration requests
     
-*   The Director must prescribe and publish the forms that an authorised party (or the authorised party's certified designee) must use to make a request for the de-registration of an aircraft under [section 110][348].
+*   The Director must prescribe and publish the forms that an authorised party (or the authorised party's certified designee) must use to make a request for the de-registration of an aircraft under [section 110][350].
     
-    Section 112: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 112: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ##### 113 Director may not exercise certain powers
     
 *   The Director may not exercise any power that the Director may exercise under this Act in relation to a certificate of registration if the exercise of that power would interfere with, or be contrary to, any right or obligation arising under this Part.
     
-    Section 113: added, on 1 November 2010, by [section 12][629] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+    Section 113: added, on 1 November 2010, by [section 12][632] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 ---
 
 ## Schedule 1  
 Enactments repealed
 
-[s 101(1)][338]
+[s 101(1)][340]
 
 ##### Air Services Licensing Act 1983 (1983 No 36)
 
@@ -8115,15 +8285,15 @@ Enactments repealed
 ## Schedule 2  
 Enactments amended
 
-[s 101(3)][338]
+[s 101(3)][340]
 
 ##### Airport Authorities Act 1966 (1966 No 51) (RS Vol 71, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][461]_.
+_Amendment(s) incorporated in the [Act(s)][464]_.
 
 ##### Crown Proceedings Act 1950 (1950 No 54)
 
-_Amendment(s) incorporated in the [Act(s)][634]._
+_Amendment(s) incorporated in the [Act(s)][637]._
 
 ##### International Air Services Licensing Act 1947 (1947 No 17) (RS Vol 7, p 501)
 
@@ -8134,253 +8304,253 @@ _Amendment(s) incorporated in the Act(s)_.
 ## Schedule 3  
 Provisions relating to Civil Aviation Authority of New Zealand
 
-[s 72A(12)][175]
+[s 72A(12)][176]
 
-*   Schedule 3: added, on 10 August 1992, by [section 38][635] of the Civil Aviation Amendment Act 1992 (1992 No 75).
+*   Schedule 3: added, on 10 August 1992, by [section 38][638] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 #### Membership
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 1 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 1: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 1: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 2 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 2: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 2: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 3 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 3: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 3: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 4 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 4: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 4: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 5 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 5: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 5: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 6 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 6: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 6: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 7 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 7: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 7: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 8 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 8: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 8: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Remuneration and expenses of Authority members
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 9 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 9: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 9: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Meetings
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 10 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 10: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 10: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 11 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 11: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 11: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 12 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 12: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 12: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 13: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 13: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13A 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 13A: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 13A: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 13B 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 13B: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 13B: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 14 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 14: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 14: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Disclosure of interest
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 15 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 15: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 15: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 16 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 16: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 16: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 17 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 17: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 17: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 18 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 18: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 18: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 19: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 19: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19A 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 19A: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 19A: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 19B 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 19B: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 19B: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Committees
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 20: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 20: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Execution of documents
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20A 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 20A: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 20A: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20B 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 20B: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 20B: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 20C 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 20C: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 20C: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Powers to borrow, etc
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 21 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 21: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 21: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Director
 
 \[Repealed\]
     
-*   Heading: repealed, on 25 January 2005, pursuant to [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+*   Heading: repealed, on 25 January 2005, pursuant to [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 22 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 22: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 22: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 23 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 23: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 23: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### General Manager
     
-*   Heading: inserted, on 20 August 1993, by [section 16(4)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+*   Heading: inserted, on 20 August 1993, by [section 16(4)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 23A 
     
-*   The terms and conditions of employment of the General Manager appointed under [section 72L][188] shall be determined from time to time by the Authority.
+*   The terms and conditions of employment of the General Manager appointed under [section 72L][189] shall be determined from time to time by the Authority.
     
-    Schedule 3 clause 23A: inserted, on 20 August 1993, by [section 16(4)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 23A: inserted, on 20 August 1993, by [section 16(4)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 23B 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 23B: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 23B: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Appointment of staff
 
@@ -8394,45 +8564,45 @@ Provisions relating to Civil Aviation Authority of New Zealand
 
 ##### 25A 
     
-*   In respect of the functions of the Authority in relation to employees in the Aviation Security Service, the references in [clauses 24][637] and [25][638] to the Director shall be read as references to the General Manager.
+*   In respect of the functions of the Authority in relation to employees in the Aviation Security Service, the references in [clauses 24][640] and [25][641] to the Director shall be read as references to the General Manager.
     
-    Schedule 3 clause 25A: inserted, on 20 August 1993, by [section 16(5)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 25A: inserted, on 20 August 1993, by [section 16(5)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 25B 
     
 *   No person employed in the Aviation Security Service may hold any other office with the Authority whether as an employee, consultant, agent, or otherwise without the written approval of the Minister.
     
-    Schedule 3 clause 25B: inserted, on 20 August 1993, by [section 16(5)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 25B: inserted, on 20 August 1993, by [section 16(5)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 26 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 26: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 26: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 27 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 27: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 27: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 28 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 28: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 28: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 29 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 29: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 29: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 30 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 30: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 30: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Superannuation or retiring allowances
 
@@ -8440,25 +8610,25 @@ Provisions relating to Civil Aviation Authority of New Zealand
     
 *   \[Repealed\]
     
-    Schedule 3 clause 31: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 31: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 32 
     
-*   Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Authority, is a contributor to the Government Superannuation Fund under [Part 2][639] or [Part 2A][640] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Authority; and that Act shall apply to that person in all respects as if that person's service as an employee of the Authority is Government service.
+*   Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Authority, is a contributor to the Government Superannuation Fund under [Part 2][642] or [Part 2A][643] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Authority; and that Act shall apply to that person in all respects as if that person's service as an employee of the Authority is Government service.
 
 ##### 33 
     
-*   Nothing in [clause 32][641] entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+*   Nothing in [clause 32][644] entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 
 ##### 34 
     
-*   For the purposes of applying the [Government Superannuation Fund Act 1956][642], in accordance with [clause 32][641], to an employee of the Authority who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that employee, means the Authority.
+*   For the purposes of applying the [Government Superannuation Fund Act 1956][645], in accordance with [clause 32][644], to an employee of the Authority who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that employee, means the Authority.
 
 ##### 35 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 35: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 35: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Consultants, agents, etc
 
@@ -8466,9 +8636,9 @@ Provisions relating to Civil Aviation Authority of New Zealand
     
 *   The Director or the General Manager may from time to time appoint consultants, agents, specialists, and advisory committees to advise it or him or her in relation to the exercise of its or his or her functions and powers, and to exercise such functions and powers as may be delegated under this Act to such persons or committees.
     
-    Schedule 3 clause 36: substituted, on 20 August 1993, by [section 16(6)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 36: substituted, on 20 August 1993, by [section 16(6)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Schedule 3 clause 36: amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 36: amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 37 
     
@@ -8478,13 +8648,13 @@ Provisions relating to Civil Aviation Authority of New Zealand
     
     *   (b) contribute towards the remuneration, travelling allowances, and expenses of any such persons or members of committees, whose employers provide services for the Director or the General Manager.
     
-    Schedule 3 clause 37: substituted, on 20 August 1993, by [section 16(6)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 37: substituted, on 20 August 1993, by [section 16(6)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
     
-    Schedule 3 clause 37: amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 37: amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 3 clause 37(a): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 37(a): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
     
-    Schedule 3 clause 37(b): amended, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 37(b): amended, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 #### Annual report
 
@@ -8492,28 +8662,28 @@ Provisions relating to Civil Aviation Authority of New Zealand
     
 *   \[Repealed\]
     
-    Schedule 3 clause 38: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 38: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ##### 38A 
     
-*   The annual report shall separately identify all financial and performance matters that relate to the Aviation Security Service (including any direction given under [section 72CA][179]) and shall include a statement by the General Manager in relation to those matters.
+*   The annual report shall separately identify all financial and performance matters that relate to the Aviation Security Service (including any direction given under [section 72CA][180]) and shall include a statement by the General Manager in relation to those matters.
     
-    Schedule 3 clause 38A: inserted, on 20 August 1993, by [section 16(7)][636] of the Civil Aviation Amendment Act 1993 (1993 No 90).
+    Schedule 3 clause 38A: inserted, on 20 August 1993, by [section 16(7)][639] of the Civil Aviation Amendment Act 1993 (1993 No 90).
 
 ##### 39 
     
 *   \[Repealed\]
     
-    Schedule 3 clause 39: repealed, on 25 January 2005, by [section 200][373] of the Crown Entities Act 2004 (2004 No 115).
+    Schedule 3 clause 39: repealed, on 25 January 2005, by [section 200][375] of the Crown Entities Act 2004 (2004 No 115).
 
 ---
 
 ## Schedule 4  
 The Warsaw Convention as amended by the Hague Protocol of 1955 and the Montreal Additional Protocols Nos 1 and 2 and Protocol No 4 of 1975
 
-[s 91A][274]
+[s 91A][275]
 
-*   Schedule 4: added, on 1 December 1999, by [section 4][643] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Schedule 4: added, on 1 December 1999, by [section 4][646] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ### Convention for the Unification of Certain Rules Relating to International Carriage by Air
 
@@ -8539,7 +8709,7 @@ Scope---Definitions
 ## Chapter II  
 Documents of carriage
 
-### Section 1 Passenger ticket
+### Section 1---Passenger ticket
 
 #### Article 3
     
@@ -8555,7 +8725,7 @@ Documents of carriage
 
 *   (2) The passenger ticket shall constitute _prima facie_ evidence of the conclusion and conditions of the contract of carriage. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1)(c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22\.
 
-### Section 2 Baggage check
+### Section 2---Baggage check
 
 #### Article 4
     
@@ -8571,7 +8741,7 @@ Documents of carriage
 
 *   (2) The baggage check shall constitute _prima facie_ evidence of the registration of the baggage and of the conditions of the contract of carriage. The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage which shall, none the less, be subject to the rules of this Convention. Nevertheless, if the carrier takes charge of the baggage without a baggage check having been delivered or if the baggage check (unless combined with or incorporated in the passenger ticket which complies with the provisions of Article 3, paragraph (1)(c)) does not include the notice required by paragraph (1)(c) of this Article, he shall not be entitled to avail himself of the provisions of Article 22, paragraph (2).
 
-### Section III Documentation relating to cargo
+### Section III---Documentation relating to cargo
 
 #### Article 5
     
@@ -8984,8 +9154,6 @@ This Protocol shall be deposited with the Government of the People's Republic of
 
 _(Here follow the signatures of the Plenipotentiaries of the States on behalf of which the Protocol was signed.)_
 
----
-
 ### Additional Provisions of Additional Protocol No. 1 Affecting the Warsaw Convention
 
 ## Chapter II  
@@ -9056,8 +9224,6 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorize
 
 DONE at Montreal on the twenty-fifth day of the month of September of the year One Thousand Nine Hundred and Seventy-five in four authentic texts in the English, French, Russian and Spanish languages. In the case of any inconsistency, the text in the French language, in which language the Warsaw Convention of 12 October 1929 was drawn up, shall prevail.
 
----
-
 ### Additional Provisions of Additional Protocol No. 2 Affecting the Warsaw Convention
 
 ## Chapter II  
@@ -9127,8 +9293,6 @@ This Protocol shall remain open for signature until 1 January 1976 at the Headqu
 IN WITNESS WHEREOF the undersigned Plenipotentiaries, having been duly authorized, have signed this Protocol.
 
 DONE at Montreal on the twenty-fifth day of the month of September of the year One Thousand Nine Hundred and Seventy-five in four authentic texts in the English, French, Russian and Spanish languages. In the case of any inconsistency, the text in the French language, in which language the Warsaw Convention of 12 October 1929 was drawn up, shall prevail.
-
----
 
 ### Additional Provisions of Protocol No. 4 Affecting the Warsaw Convention
 
@@ -9221,9 +9385,9 @@ DONE AT MONTREAL on the twenty-fifth day of September of the year One Thousand N
 ## Schedule 5  
 The Guadalajara Convention
 
-[s 91A][274]
+[s 91A][275]
 
-*   Schedule 5: added, on 1 December 1999, by [section 4][643] of the Civil Aviation Amendment Act 1999 (1999 No 70).
+*   Schedule 5: added, on 1 December 1999, by [section 4][646] of the Civil Aviation Amendment Act 1999 (1999 No 70).
 
 ## Part 1
 
@@ -9360,9 +9524,9 @@ _(Here follow signatures.)_
 ## Schedule 6  
 The Montreal Convention
 
-[s 91A(2)][274]
+[s 91A(2)][275]
 
-*   Schedule 6: added, on 4 November 2003, by [section 37][644] of the Civil Aviation Amendment Act 2002 (2002 No 15).
+*   Schedule 6: added, on 4 November 2003, by [section 37][647] of the Civil Aviation Amendment Act 2002 (2002 No 15).
 
 #### The English Text
 
@@ -9385,7 +9549,7 @@ HAVE AGREED AS FOLLOWS:
 ## Chapter I  
 General provisions
 
-### Article 1 Scope of application
+### Article 1---Scope of application
     
 *   1\. This Convention applies to all international carriage of persons, baggage or cargo performed by aircraft for reward. It applies equally to gratuitous carriage by aircraft performed by an air transport undertaking.
 
@@ -9395,7 +9559,7 @@ General provisions
 
 *   4\. This Convention applies also to carriage as set out in Chapter V, subject to the terms contained therein.
 
-### Article 2 Carriage performed by State and carriage of postal items
+### Article 2---Carriage performed by State and carriage of postal items
     
 *   1\. This Convention applies to carriage performed by the State or by legally constituted public bodies provided it falls within the conditions laid down in Article 1\.
 
@@ -9406,7 +9570,7 @@ General provisions
 ## Chapter II  
 Documentation and duties of the parties relating to the carriage of passengers, baggage and cargo
 
-### Article 3 Passengers and baggage
+### Article 3---Passengers and baggage
     
 *   1\. In respect of carriage of passengers, an individual or collective document of carriage shall be delivered containing:
         
@@ -9424,13 +9588,13 @@ Documentation and duties of the parties relating to the carriage of passengers, 
 
 *   5\. Non-compliance with the provisions of the foregoing paragraphs shall not affect the existence or the validity of the contract of carriage, which shall, nonetheless, be subject to the rules of this Convention including those relating to limitation of liability.
 
-### Article 4 Cargo
+### Article 4---Cargo
     
 *   1\. In respect of the carriage of cargo, an air waybill shall be delivered.
 
 *   2\. Any other means which preserves a record of the carriage to be performed may be substituted for the delivery of an air waybill. If such other means are used, the carrier shall, if so requested by the consignor, deliver to the consignor a cargo receipt permitting identification of the consignment and access to the information contained in the record preserved by such other means.
 
-### Article 5 Contents of air waybill or cargo receipt
+### Article 5---Contents of air waybill or cargo receipt
 
 The air waybill or the cargo receipt shall include:
     
@@ -9440,11 +9604,11 @@ The air waybill or the cargo receipt shall include:
 
 *   (c) an indication of the weight of the consignment.
 
-### Article 6 Document relating to the nature of the cargo
+### Article 6---Document relating to the nature of the cargo
 
 The consignor may be required, if necessary, to meet the formalities of customs, police and similar public authorities to deliver a document indicating the nature of the cargo. This provision creates for the carrier no duty, obligation or liability resulting therefrom.
 
-### Article 7 Description of air waybill
+### Article 7---Description of air waybill
     
 *   1\. The air waybill shall be made out by the consignor in three original parts.
 
@@ -9454,7 +9618,7 @@ The consignor may be required, if necessary, to meet the formalities of customs,
 
 *   4\. If, at the request of the consignor, the carrier makes out the air waybill, the carrier shall be deemed, subject to proof to the contrary, to have done so on behalf of the consignor.
 
-### Article 8 Documentation for multiple packages
+### Article 8---Documentation for multiple packages
 
 When there is more than one package:
     
@@ -9462,11 +9626,11 @@ When there is more than one package:
 
 *   (b) the consignor has the right to require the carrier to deliver separate cargo receipts when the other means referred to in paragraph 2 of Article 4 are used.
 
-### Article 9 Non-compliance with documentary requirements
+### Article 9---Non-compliance with documentary requirements
 
 Non-compliance with the provisions of Articles 4 to 8 shall not affect the existence or the validity of the contract of carriage, which shall, nonetheless, be subject to the rules of this Convention including those relating to limitation of liability.
 
-### Article 10 Responsibility for particulars of documentation
+### Article 10---Responsibility for particulars of documentation
     
 *   1\. The consignor is responsible for the correctness of the particulars and statements relating to the cargo inserted by it or on its behalf in the air waybill or furnished by it or on its behalf to the carrier for insertion in the cargo receipt or for insertion in the record preserved by the other means referred to in paragraph 2 of Article 4\. The foregoing shall also apply where the person acting on behalf of the consignor is also the agent of the carrier.
 
@@ -9474,13 +9638,13 @@ Non-compliance with the provisions of Articles 4 to 8 shall not affect the exist
 
 *   3\. Subject to the provisions of paragraphs 1 and 2 of this Article, the carrier shall indemnify the consignor against all damage suffered by it, or by any other person to whom the consignor is liable, by reason of the irregularity, incorrectness or incompleteness of the particulars and statements inserted by the carrier or on its behalf in the cargo receipt or in the record preserved by the other means referred to in paragraph 2 of Article 4\.
 
-### Article 11 Evidentiary value of documentation
+### Article 11---Evidentiary value of documentation
     
 *   1\. The air waybill or the cargo receipt is _prima facie_ evidence of the conclusion of the contract, of the acceptance of the cargo and of the conditions of carriage mentioned therein.
 
 *   2\. Any statements in the air waybill or the cargo receipt relating to the weight, dimensions and packing of the cargo, as well as those relating to the number of packages, are _prima facie_ evidence of the facts stated; those relating to the quantity, volume and condition of the cargo do not constitute evidence against the carrier except so far as they both have been, and are stated in the air waybill or the cargo receipt to have been, checked by it in the presence of the consignor, or relate to the apparent condition of the cargo.
 
-### Article 12 Right of disposition of cargo
+### Article 12---Right of disposition of cargo
     
 *   1\. Subject to its liability to carry out all its obligations under the contract of carriage, the consignor has the right to dispose of the cargo by withdrawing it at the airport of departure or destination, or by stopping it in the course of the journey on any landing, or by calling for it to be delivered at the place of destination or in the course of the journey to a person other than the consignee originally designated, or by requiring it to be returned to the airport of departure. The consignor must not exercise this right of disposition in such a way as to prejudice the carrier or other consignors and must reimburse any expenses occasioned by the exercise of this right.
 
@@ -9490,7 +9654,7 @@ Non-compliance with the provisions of Articles 4 to 8 shall not affect the exist
 
 *   4\. The right conferred on the consignor ceases at the moment when that of the consignee begins in accordance with Article 13\. Nevertheless, if the consignee declines to accept the cargo, or cannot be communicated with, the consignor resumes its right of disposition.
 
-### Article 13 Delivery of the cargo
+### Article 13---Delivery of the cargo
     
 *   1\. Except when the consignor has exercised its right under Article 12, the consignee is entitled, on arrival of the cargo at the place of destination, to require the carrier to deliver the cargo to it, on payment of the charges due and on complying with the conditions of carriage.
 
@@ -9498,17 +9662,17 @@ Non-compliance with the provisions of Articles 4 to 8 shall not affect the exist
 
 *   3\. If the carrier admits the loss of the cargo, or if the cargo has not arrived at the expiration of seven days after the date on which it ought to have arrived, the consignee is entitled to enforce against the carrier the rights which flow from the contract of carriage.
 
-### Article 14 Enforcement of the rights of consignor and consignee
+### Article 14---Enforcement of the rights of consignor and consignee
 
 The consignor and the consignee can respectively enforce all the rights given to them by Articles 12 and 13, each in its own name, whether it is acting in its own interest or in the interest of another, provided that it carries out the obligations imposed by the contract of carriage.
 
-### Article 15 Relations of consignor and consignee or mutual relations of third parties
+### Article 15---Relations of consignor and consignee or mutual relations of third parties
     
 *   1\. Articles 12, 13 and 14 do not affect either the relations of the consignor and the consignee with each other or the mutual relations of third parties whose rights are derived either from the consignor or from the consignee.
 
 *   2\. The provisions of Articles 12, 13 and 14 can only be varied by express provision in the air waybill or the cargo receipt.
 
-### Article 16 Formalities of Customs, Police or other public authorities
+### Article 16---Formalities of Customs, Police or other public authorities
     
 *   1\. The consignor must furnish such information and such documents as are necessary to meet the formalities of customs, police and any other public authorities before the cargo can be delivered to the consignee. The consignor is liable to the carrier for any damage occasioned by the absence, insufficiency or irregularity of any such information or documents, unless the damage is due to the fault of the carrier, its servants or agents.
 
@@ -9517,7 +9681,7 @@ The consignor and the consignee can respectively enforce all the rights given to
 ## Chapter III  
 Liability of the carrier and extent of compensation for damage
 
-### Article 17 Death and injury of passengers---Damage to baggage
+### Article 17---Death and injury of passengers---Damage to baggage
     
 *   1\. The carrier is liable for damage sustained in case of death or bodily injury of a passenger upon condition only that the accident which caused the death or injury took place on board the aircraft or in the course of any of the operations of embarking or disembarking.
 
@@ -9527,7 +9691,7 @@ Liability of the carrier and extent of compensation for damage
 
 *   4\. Unless otherwise specified, in this Convention the term ""baggage"" means both checked baggage and unchecked baggage.
 
-### Article 18 Damage to cargo
+### Article 18---Damage to cargo
     
 *   1\. The carrier is liable for damage sustained in the event of the destruction or loss of, or damage to, cargo upon condition only that the event which caused the damage so sustained took place during the carriage by air.
 
@@ -9547,15 +9711,15 @@ Liability of the carrier and extent of compensation for damage
 
 *   4\. The period of the carriage by air does not extend to any carriage by land, by sea or by inland waterway performed outside an airport. If, however, such carriage takes place in the performance of a contract for carriage by air, for the purpose of loading, delivery or transhipment, any damage is presumed, subject to proof to the contrary, to have been the result of an event which took place during the carriage by air. If a carrier, without the consent of the consignor, substitutes carriage by another mode of transport for the whole or part of a carriage intended by the agreement between the parties to be carriage by air, such carriage by another mode of transport is deemed to be within the period of carriage by air.
 
-### Article 19 Delay
+### Article 19---Delay
 
 The carrier is liable for damage occasioned by delay in the carriage by air of passengers, baggage or cargo. Nevertheless, the carrier shall not be liable for damage occasioned by delay if it proves that it and its servants and agents took all measures that could reasonably be required to avoid the damage or that it was impossible for it or them to take such measures.
 
-### Article 20 Exoneration
+### Article 20---Exoneration
 
 If the carrier proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of the person claiming compensation, or the person from whom he or she derives his or her rights, the carrier shall be wholly or partly exonerated from its liability to the claimant to the extent that such negligence or wrongful act or omission caused or contributed to the damage. When by reason of death or injury of a passenger compensation is claimed by a person other than the passenger, the carrier shall likewise be wholly or partly exonerated from its liability to the extent that it proves that the damage was caused or contributed to by the negligence or other wrongful act or omission of that passenger. This Article applies to all the liability provisions in the Convention, including paragraph 1 of Article 21\.
 
-### Article 21 Compensation in case of death or injury of passengers
+### Article 21---Compensation in case of death or injury of passengers
     
 *   1\. For damages arising under paragraph 1 of Article 17 not exceeding 113 000 Special Drawing Rights for each passenger, the carrier shall not be able to exclude or limit its liability.
 
@@ -9567,10 +9731,10 @@ If the carrier proves that the damage was caused or contributed to by the neglig
     
     
 
-*   Schedule 6 Article 21(1): amended, on 1 December 2010, by [clause 4(1)][645] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
-*   Schedule 6 Article 21(2): amended, on 1 December 2010, by [clause 4(2)][645] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
+*   Schedule 6 Article 21(1): amended, on 1 December 2010, by [clause 4(1)][648] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
+*   Schedule 6 Article 21(2): amended, on 1 December 2010, by [clause 4(2)][648] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
 
-### Article 22 Limits of liability in relation to delay, baggage and cargo
+### Article 22---Limits of liability in relation to delay, baggage and cargo
     
 *   1\. In the case of damage caused by delay as specified in Article 19 in the carriage of persons, the liability of the carrier for each passenger is limited to 4 694 Special Drawing Rights.
 
@@ -9584,11 +9748,11 @@ If the carrier proves that the damage was caused or contributed to by the neglig
 
 *   6\. The limits prescribed in Article 21 and in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff, including interest. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of six months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
 
-*   Schedule 6 Article 22(1): amended, on 1 December 2010, by [clause 4(3)][645] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
-*   Schedule 6 Article 22(2): amended, on 1 December 2010, by [clause 4(4)][645] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
-*   Schedule 6 Article 22(3): amended, on 1 December 2010, by [clause 4(5)][645] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
+*   Schedule 6 Article 22(1): amended, on 1 December 2010, by [clause 4(3)][648] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
+*   Schedule 6 Article 22(2): amended, on 1 December 2010, by [clause 4(4)][648] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
+*   Schedule 6 Article 22(3): amended, on 1 December 2010, by [clause 4(5)][648] of the Civil Aviation (Montreal Convention) Order 2010 (SR 2010/367).
 
-### Article 23 Conversion of Monetary Units
+### Article 23---Conversion of Monetary Units
     
 *   1\. The sums mentioned in terms of Special Drawing Right in this Convention shall be deemed to refer to the Special Drawing Right as defined by the International Monetary Fund. Conversion of the sums into national currencies shall, in case of judicial proceedings, be made according to the value of such currencies in terms of the Special Drawing Right at the date of the judgement. The value of a national currency, in terms of the Special Drawing Right, of a State Party which is a Member of the International Monetary Fund, shall be calculated in accordance with the method of valuation applied by the International Monetary Fund, in effect at the date of the judgement, for its operations and transactions. The value of a national currency, in terms of the Special Drawing Right, of a State Party which is not a Member of the International Monetary Fund, shall be calculated in a manner determined by that State.
 
@@ -9596,7 +9760,7 @@ If the carrier proves that the damage was caused or contributed to by the neglig
 
 *   3\. The calculation mentioned in the last sentence of paragraph 1 of this Article and the conversion method mentioned in paragraph 2 of this Article shall be made in such manner as to express in the national currency of the State Party as far as possible the same real value for the amounts in Articles 21 and 22 as would result from the application of the first three sentences of paragraph 1 of this Article. States Parties shall communicate to the depositary the manner of calculation pursuant to paragraph 1 of this Article, or the result of the conversion in paragraph 2 of this Article as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.
 
-### Article 24 Review of Limits
+### Article 24---Review of Limits
     
 *   1\. Without prejudice to the provisions of Article 25 of this Convention and subject to paragraph 2 below, the limits of liability prescribed in Articles 21, 22 and 23 shall be reviewed by the Depositary at five-year intervals, the first such review to take place at the end of the fifth year following the date of entry into force of this Convention, or if the Convention does not enter into force within five years of the date it is first open for signature, within the first year of its entry into force, by reference to an inflation factor which corresponds to the accumulated rate of inflation since the previous revision or in the first instance since the date of entry into force of the Convention. The measure of the rate of inflation to be used in determining the inflation factor shall be the weighted average of the annual rates of increase or decrease in the Consumer Price Indices of the States whose currencies comprise the Special Drawing Right mentioned in paragraph 1 of Article 23\.
 
@@ -9604,27 +9768,27 @@ If the carrier proves that the damage was caused or contributed to by the neglig
 
 *   3\. Notwithstanding paragraph 1 of this Article, the procedure referred to in paragraph 2 of this Article shall be applied at any time provided that one-third of the States Parties express a desire to that effect and upon condition that the inflation factor referred to in paragraph 1 has exceeded 30 per cent since the previous revision or since the date of entry into force of this Convention if there has been no previous revision. Subsequent reviews using the procedure described in paragraph 1 of this Article will take place at five-year intervals starting at the end of the fifth year following the date of the reviews under the present paragraph.
 
-### Article 25 Stipulation on limits
+### Article 25---Stipulation on limits
 
 A carrier may stipulate that the contract of carriage shall be subject to higher limits of liability than those provided for in this Convention or to no limits of liability whatsoever.
 
-### Article 26 Invalidity of contractual provisions
+### Article 26---Invalidity of contractual provisions
 
 Any provision tending to relieve the carrier of liability or to fix a lower limit than that which is laid down in this Convention shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Convention.
 
-### Article 27 Freedom to contract
+### Article 27---Freedom to contract
 
 Nothing contained in this Convention shall prevent the carrier from refusing to enter into any contract of carriage, from waiving any defences available under the Convention, or from laying down conditions which do not conflict with the provisions of this Convention.
 
-### Article 28 Advance payments
+### Article 28---Advance payments
 
 In the case of aircraft accidents resulting in death or injury of passengers, the carrier shall, if required by its national law, make advance payments without delay to a natural person or persons who are entitled to claim compensation in order to meet the immediate economic needs of such persons. Such advance payments shall not constitute a recognition of liability and may be offset against any amounts subsequently paid as damages by the carrier.
 
-### Article 29 Basis of claims
+### Article 29---Basis of claims
 
 In the carriage of passengers, baggage and cargo, any action for damages, however founded, whether under this Convention or in contract or in tort or otherwise, can only be brought subject to the conditions and such limits of liability as are set out in this Convention without prejudice to the question as to who are the persons who have the right to bring suit and what are their respective rights. In any such action, punitive, exemplary or any other non-compensatory damages shall not be recoverable.
 
-### Article 30 Servants, agents---Aggregation of claims
+### Article 30---Servants, agents---Aggregation of claims
     
 *   1\. If an action is brought against a servant or agent of the carrier arising out of damage to which the Convention relates, such servant or agent, if they prove that they acted within the scope of their employment, shall be entitled to avail themselves of the conditions and limits of liability which the carrier itself is entitled to invoke under this Convention.
 
@@ -9632,7 +9796,7 @@ In the carriage of passengers, baggage and cargo, any action for damages, howeve
 
 *   3\. Save in respect of the carriage of cargo, the provisions of paragraphs 1 and 2 of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result.
 
-### Article 31 Timely notice of complaints
+### Article 31---Timely notice of complaints
     
 *   1\. Receipt by the person entitled to delivery of checked baggage or cargo without complaint is _prima facie_ evidence that the same has been delivered in good condition and in accordance with the document of carriage or with the record preserved by the other means referred to in paragraph 2 of Article 3 and paragraph 2 of Article 4\.
 
@@ -9642,11 +9806,11 @@ In the carriage of passengers, baggage and cargo, any action for damages, howeve
 
 *   4\. If no complaint is made within the times aforesaid, no action shall lie against the carrier, save in the case of fraud on its part.
 
-### Article 32 Death of person liable
+### Article 32---Death of person liable
 
 In the case of the death of the person liable, an action for damages lies in accordance with the terms of this Convention against those legally representing his or her estate.
 
-### Article 33 Jurisdiction
+### Article 33---Jurisdiction
     
 *   1\. An action for damages must be brought, at the option of the plaintiff, in the territory of one of the States Parties, either before the court of the domicile of the carrier or of its principal place of business, or where it has a place of business through which the contract has been made or before the court at the place of destination.
 
@@ -9662,7 +9826,7 @@ In the case of the death of the person liable, an action for damages lies in acc
 
 *   4\. Questions of procedure shall be governed by the law of the court seised of the case.
 
-### Article 34 Arbitration
+### Article 34---Arbitration
     
 *   1\. Subject to the provisions of this Article, the parties to the contract of carriage for cargo may stipulate that any dispute relating to the liability of the carrier under this Convention shall be settled by arbitration. Such agreement shall be in writing.
 
@@ -9672,13 +9836,13 @@ In the case of the death of the person liable, an action for damages lies in acc
 
 *   4\. The provisions of paragraphs 2 and 3 of this Article shall be deemed to be part of every arbitration clause or agreement, and any term of such clause or agreement which is inconsistent therewith shall be null and void.
 
-### Article 35 Limitation of actions
+### Article 35---Limitation of actions
     
 *   1\. The right to damages shall be extinguished if an action is not brought within a period of two years, reckoned from the date of arrival at the destination, or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
 
 *   2\. The method of calculating that period shall be determined by the law of the court seised of the case.
 
-### Article 36 Successive carriage
+### Article 36---Successive carriage
     
 *   1\. In the case of carriage to be performed by various successive carriers and falling within the definition set out in paragraph 3 of Article 1, each carrier which accepts passengers, baggage or cargo is subject to the rules set out in this Convention and is deemed to be one of the parties to the contract of carriage in so far as the contract deals with that part of the carriage which is performed under its supervision.
 
@@ -9686,14 +9850,14 @@ In the case of the death of the person liable, an action for damages lies in acc
 
 *   3\. As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier which performed the carriage during which the destruction, loss, damage or delay took place. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee.
 
-### Article 37 Right of recourse against third parties
+### Article 37---Right of recourse against third parties
 
 Nothing in this Convention shall prejudice the question whether a person liable for damage in accordance with its provisions has a right of recourse against any other person.
 
 ## Chapter IV  
 Combined carriage
 
-### Article 38 Combined carriage
+### Article 38---Combined carriage
     
 *   1\. In the case of combined carriage performed partly by air and partly by any other mode of carriage, the provisions of this Convention shall, subject to paragraph 4 of Article 18, apply only to the carriage by air, provided that the carriage by air falls within the terms of Article 1\.
 
@@ -9702,71 +9866,71 @@ Combined carriage
 ## Chapter V  
 Carriage by air performed by a person other than the contracting carrier
 
-### Article 39 Contracting carrier---Actual carrier
+### Article 39---Contracting carrier---Actual carrier
 
 The provisions of this Chapter apply when a person (hereinafter referred to as ""the contracting carrier"") as a principal makes a contract of carriage governed by this Convention with a passenger or consignor or with a person acting on behalf of the passenger or consignor, and another person (hereinafter referred to as ""the actual carrier"") performs, by virtue of authority from the contracting carrier, the whole or part of the carriage, but is not with respect to such part a successive carrier within the meaning of this Convention. Such authority shall be presumed in the absence of proof to the contrary.
 
-### Article 40 Respective liability of contracting and actual carriers
+### Article 40---Respective liability of contracting and actual carriers
 
 If an actual carrier performs the whole or part of carriage which, according to the contract referred to in Article 39, is governed by this Convention, both the contracting carrier and the actual carrier shall, except as otherwise provided in this Chapter, be subject to the rules of this Convention, the former for the whole of the carriage contemplated in the contract, the latter solely for the carriage which it performs.
 
-### Article 41 Mutual liability
+### Article 41---Mutual liability
     
 *   1\. The acts and omissions of the actual carrier and of its servants and agents acting within the scope of their employment shall, in relation to the carriage performed by the actual carrier, be deemed to be also those of the contracting carrier.
 
 *   2\. The acts and omissions of the contracting carrier and of its servants and agents acting within the scope of their employment shall, in relation to the carriage performed by the actual carrier, be deemed to be also those of the actual carrier. Nevertheless, no such act or omission shall subject the actual carrier to liability exceeding the amounts referred to in Articles 21, 22, 23 and 24\. Any special agreement under which the contracting carrier assumes obligations not imposed by this Convention or any waiver of rights or defences conferred by this Convention or any special declaration of interest in delivery at destination contemplated in Article 22 shall not affect the actual carrier unless agreed to by it.
 
-### Article 42 Addressee of complaints and instructions
+### Article 42---Addressee of complaints and instructions
 
 Any complaint to be made or instruction to be given under this Convention to the carrier shall have the same effect whether addressed to the contracting carrier or to the actual carrier. Nevertheless, instructions referred to in Article 12 shall only be effective if addressed to the contracting carrier.
 
-### Article 43 Servants and agents
+### Article 43---Servants and agents
 
 In relation to the carriage performed by the actual carrier, any servant or agent of that carrier or of the contracting carrier shall, if they prove that they acted within the scope of their employment, be entitled to avail themselves of the conditions and limits of liability which are applicable under this Convention to the carrier whose servant or agent they are, unless it is proved that they acted in a manner that prevents the limits of liability from being invoked in accordance with this Convention.
 
-### Article 44 Aggregation of damages
+### Article 44---Aggregation of damages
 
 In relation to the carriage performed by the actual carrier, the aggregate of the amounts recoverable from that carrier and the contracting carrier, and from their servants and agents acting within the scope of their employment, shall not exceed the highest amount which could be awarded against either the contracting carrier or the actual carrier under this Convention, but none of the persons mentioned shall be liable for a sum in excess of the limit applicable to that person.
 
-### Article 45 Addressee of claims
+### Article 45---Addressee of claims
 
 In relation to the carriage performed by the actual carrier, an action for damages may be brought, at the option of the plaintiff, against that carrier or the contracting carrier, or against both together or separately. If the action is brought against only one of those carriers, that carrier shall have the right to require the other carrier to be joined in the proceedings, the procedure and effects being governed by the law of the court seised of the case.
 
-### Article 46 Additional jurisdiction
+### Article 46---Additional jurisdiction
 
 Any action for damages contemplated in Article 45 must be brought, at the option of the plaintiff, in the territory of one of the States Parties, either before a court in which an action may be brought against the contracting carrier, as provided in Article 33, or before the court having jurisdiction at the place where the actual carrier has its domicile or its principal place of business.
 
-### Article 47 Invalidity of contractual provisions
+### Article 47---Invalidity of contractual provisions
 
 Any contractual provision tending to relieve the contracting carrier or the actual carrier of liability under this Chapter or to fix a lower limit than that which is applicable according to this Chapter shall be null and void, but the nullity of any such provision does not involve the nullity of the whole contract, which shall remain subject to the provisions of this Chapter.
 
-### Article 48 Mutual relations of contracting and actual carriers
+### Article 48---Mutual relations of contracting and actual carriers
 
 Except as provided in Article 45, nothing in this Chapter shall affect the rights and obligations of the carriers between themselves, including any right of recourse or indemnification.
 
 ## Chapter VI  
 Other provisions
 
-### Article 49 Mandatory application
+### Article 49---Mandatory application
 
 Any clause contained in the contract of carriage and all special agreements entered into before the damage occurred by which the parties purport to infringe the rules laid down by this Convention, whether by deciding the law to be applied, or by altering the rules as to jurisdiction, shall be null and void.
 
-### Article 50 Insurance
+### Article 50---Insurance
 
 States Parties shall require their carriers to maintain adequate insurance covering their liability under this Convention. A carrier may be required by the State Party into which it operates to furnish evidence that it maintains adequate insurance covering its liability under this Convention.
 
-### Article 51 Carriage performed in extraordinary circumstances
+### Article 51---Carriage performed in extraordinary circumstances
 
 The provisions of Articles 3 to 5, 7 and 8 relating to the documentation of carriage shall not apply in the case of carriage performed in extraordinary circumstances outside the normal scope of a carrier's business.
 
-### Article 52 Definition of days
+### Article 52---Definition of days
 
 The expression ""days"" when used in this Convention means calendar days, not working days.
 
 ## Chapter VII  
 Final clauses
 
-### Article 53 Signature, ratification and entry into force
+### Article 53---Signature, ratification and entry into force
     
 *   1\. This Convention shall be open for signature in Montreal on 28 May 1999 by States participating in the International Conference on Air Law held at Montreal from 10 to 28 May 1999\. After 28 May 1999, the Convention shall be open to all States for signature at the Headquarters of the International Civil Aviation Organization in Montreal until it enters into force in accordance with paragraph 6 of this Article.
 
@@ -9796,13 +9960,13 @@ Final clauses
     
     
 
-### Article 54 Denunciation
+### Article 54---Denunciation
     
 *   1\. Any State Party may denounce this Convention by written notification to the Depositary.
 
 *   2\. Denunciation shall take effect one hundred and eighty days following the date on which notification is received by the Depositary.
 
-### Article 55 Relationship with other Warsaw Convention Instruments
+### Article 55---Relationship with other Warsaw Convention Instruments
 
 This Convention shall prevail over any rules which apply to international carriage by air:
     
@@ -9822,7 +9986,7 @@ This Convention shall prevail over any rules which apply to international carria
 
 *   2\. within the territory of any single State Party to this Convention by virtue of that State being Party to one or more of the instruments referred to in sub-paragraphs (a) to (e) above.
 
-### Article 56 States with more than one System of Law
+### Article 56---States with more than one System of Law
     
 *   1\. If a State has two or more territorial units in which different systems of law are applicable in relation to matters dealt with in this Convention, it may at the time of signature, ratification, acceptance, approval or accession declare that this Convention shall extend to all its territorial units or only to one or more of them and may modify this declaration by submitting another declaration at any time.
 
@@ -9836,7 +10000,7 @@ This Convention shall prevail over any rules which apply to international carria
     
     
 
-### Article 57 Reservations
+### Article 57---Reservations
 
 No reservation may be made to this Convention except that a State Party may at any time declare by a notification addressed to the Depositary that this Convention shall not apply to:
     
@@ -9853,9 +10017,9 @@ DONE at Montreal on the 28th day of May of the year one thousand nine hundred an
 ## Schedule 7  
 Convention on International Interests in Mobile Equipment
 
-[s 104][342]
+[s 104][344]
 
-*   Schedule 7: added, on 1 November 2010, by [section 13][646] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+*   Schedule 7: added, on 1 November 2010, by [section 13][649] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 THE STATES PARTIES TO THIS CONVENTION,
 
@@ -9878,7 +10042,7 @@ HAVE AGREED upon the following provisions:
 ## Chapter I  
 Sphere of application and general provisions
 
-### Article 1 Definitions
+### Article 1---Definitions
 
 In this Convention, except where the context otherwise requires, the following terms are employed with the meanings set out below:
     
@@ -9970,15 +10134,11 @@ In this Convention, except where the context otherwise requires, the following t
 
 *   (nn) ""writing"" means a record of information (including information communicated by teletransmission) which is in tangible or other form and is capable of being reproduced in tangible form on a subsequent occasion and which indicates by reasonable means a person's approval of the record.
 
-### Article 2 The international interest
+### Article 2---The international interest
 
-##### 1\.
-    
-*   This Convention provides for the constitution and effects of an international interest in certain categories of mobile equipment and associated rights.
+*   1\. This Convention provides for the constitution and effects of an international interest in certain categories of mobile equipment and associated rights.
 
-##### 2\.
-    
-*   For the purposes of this Convention, an international interest in mobile equipment is an interest, constituted under Article 7, in a uniquely identifiable object of a category of such objects listed in paragraph 3 and designated in the Protocol:
+*   2\. For the purposes of this Convention, an international interest in mobile equipment is an interest, constituted under Article 7, in a uniquely identifiable object of a category of such objects listed in paragraph 3 and designated in the Protocol:
         
     *   (a) granted by the chargor under a security agreement;
     
@@ -9988,9 +10148,7 @@ In this Convention, except where the context otherwise requires, the following t
     
     An interest falling within sub-paragraph (a) does not also fall within sub-paragraph (b) or (c).
 
-##### 3\.
-    
-*   The categories referred to in the preceding paragraphs are:
+*   3\. The categories referred to in the preceding paragraphs are:
         
     *   (a) airframes, aircraft engines and helicopters;
     
@@ -10000,29 +10158,19 @@ In this Convention, except where the context otherwise requires, the following t
     
     
 
-##### 4\.
-    
-*   The applicable law determines whether an interest to which paragraph 2 applies falls within sub-paragraph (a), (b) or (c) of that paragraph.
+*   4\. The applicable law determines whether an interest to which paragraph 2 applies falls within sub-paragraph (a), (b) or (c) of that paragraph.
 
-##### 5\.
-    
-*   An international interest in an object extends to proceeds of that object.
+*   5\. An international interest in an object extends to proceeds of that object.
 
-### Article 3 Sphere of application
+### Article 3---Sphere of application
 
-##### 1\.
-    
-*   This Convention applies when, at the time of the conclusion of the agreement creating or providing for the international interest, the debtor is situated in a Contracting State.
+*   1\. This Convention applies when, at the time of the conclusion of the agreement creating or providing for the international interest, the debtor is situated in a Contracting State.
 
-##### 2\.
-    
-*   The fact that the creditor is situated in a non-Contracting State does not affect the applicability of this Convention.
+*   2\. The fact that the creditor is situated in a non-Contracting State does not affect the applicability of this Convention.
 
-### Article 4 Where debtor is situated
+### Article 4---Where debtor is situated
 
-##### 1\.
-    
-*   For the purposes of Article 3(1), the debtor is situated in any Contracting State:
+*   1\. For the purposes of Article 3(1), the debtor is situated in any Contracting State:
         
     *   (a) under the law of which it is incorporated or formed;
     
@@ -10034,42 +10182,28 @@ In this Convention, except where the context otherwise requires, the following t
     
     
 
-##### 2\.
-    
-*   A reference in sub-paragraph (d) of the preceding paragraph to the debtor's place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
+*   2\. A reference in sub-paragraph (d) of the preceding paragraph to the debtor's place of business shall, if it has more than one place of business, mean its principal place of business or, if it has no place of business, its habitual residence.
 
-### Article 5 Interpretation and applicable law
+### Article 5---Interpretation and applicable law
 
-##### 1\.
-    
-*   In the interpretation of this Convention, regard is to be had to its purposes as set forth in the preamble, to its international character and to the need to promote uniformity and predictability in its application.
+*   1\. In the interpretation of this Convention, regard is to be had to its purposes as set forth in the preamble, to its international character and to the need to promote uniformity and predictability in its application.
 
-##### 2\.
-    
-*   Questions concerning matters governed by this Convention which are not expressly settled in it are to be settled in conformity with the general principles on which it is based or, in the absence of such principles, in conformity with the applicable law.
+*   2\. Questions concerning matters governed by this Convention which are not expressly settled in it are to be settled in conformity with the general principles on which it is based or, in the absence of such principles, in conformity with the applicable law.
 
-##### 3\.
-    
-*   References to the applicable law are to the domestic rules of the law applicable by virtue of the rules of private international law of the forum State.
+*   3\. References to the applicable law are to the domestic rules of the law applicable by virtue of the rules of private international law of the forum State.
 
-##### 4\.
-    
-*   Where a State comprises several territorial units, each of which has its own rules of law in respect of the matter to be decided, and where there is no indication of the relevant territorial unit, the law of that State decides which is the territorial unit whose rules shall govern. In the absence of any such rule, the law of the territorial unit with which the case is most closely connected shall apply.
+*   4\. Where a State comprises several territorial units, each of which has its own rules of law in respect of the matter to be decided, and where there is no indication of the relevant territorial unit, the law of that State decides which is the territorial unit whose rules shall govern. In the absence of any such rule, the law of the territorial unit with which the case is most closely connected shall apply.
 
-### Article 6 Relationship between the Convention and the Protocol
+### Article 6---Relationship between the Convention and the Protocol
 
-##### 1\.
-    
-*   This Convention and the Protocol shall be read and interpreted together as a single instrument.
+*   1\. This Convention and the Protocol shall be read and interpreted together as a single instrument.
 
-##### 2\.
-    
-*   To the extent of any inconsistency between this Convention and the Protocol, the Protocol shall prevail.
+*   2\. To the extent of any inconsistency between this Convention and the Protocol, the Protocol shall prevail.
 
 ## Chapter II  
 Constitution of an international interest
 
-### Article 7 Formal requirements
+### Article 7---Formal requirements
 
 An interest is constituted as an international interest under this Convention where the agreement creating or providing for the interest:
     
@@ -10084,11 +10218,9 @@ An interest is constituted as an international interest under this Convention wh
 ## Chapter III  
 Default remedies
 
-### Article 8 Remedies of chargee
+### Article 8---Remedies of chargee
 
-##### 1\.
-    
-*   In the event of default as provided in Article 11, the chargee may, to the extent that the chargor has at any time so agreed and subject to any declaration that may be made by a Contracting State under Article 54, exercise any one or more of the following remedies:
+*   1\. In the event of default as provided in Article 11, the chargee may, to the extent that the chargor has at any time so agreed and subject to any declaration that may be made by a Contracting State under Article 54, exercise any one or more of the following remedies:
         
     *   (a) take possession or control of any object charged to it;
     
@@ -10098,17 +10230,11 @@ Default remedies
     
     
 
-##### 2\.
-    
-*   The chargee may alternatively apply for a court order authorising or directing any of the acts referred to in the preceding paragraph.
+*   2\. The chargee may alternatively apply for a court order authorising or directing any of the acts referred to in the preceding paragraph.
 
-##### 3\.
-    
-*   Any remedy set out in sub-paragraph (a), (b) or (c) of paragraph 1 or by Article 13 shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the security agreement except where such a provision is manifestly unreasonable.
+*   3\. Any remedy set out in sub-paragraph (a), (b) or (c) of paragraph 1 or by Article 13 shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the security agreement except where such a provision is manifestly unreasonable.
 
-##### 4\.
-    
-*   A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:
+*   4\. A chargee proposing to sell or grant a lease of an object under paragraph 1 shall give reasonable prior notice in writing of the proposed sale or lease to:
         
     *   (a) interested persons specified in Article 1(m)(i) and (ii); and
     
@@ -10116,37 +10242,23 @@ Default remedies
     
     
 
-##### 5\.
-    
-*   Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
+*   5\. Any sum collected or received by the chargee as a result of exercise of any of the remedies set out in paragraph 1 or 2 shall be applied towards discharge of the amount of the secured obligations.
 
-##### 6\.
-    
-*   Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
+*   6\. Where the sums collected or received by the chargee as a result of the exercise of any remedy set out in paragraph 1 or 2 exceed the amount secured by the security interest and any reasonable costs incurred in the exercise of any such remedy, then unless otherwise ordered by the court the chargee shall distribute the surplus among holders of subsequently ranking interests which have been registered or of which the chargee has been given notice, in order of priority, and pay any remaining balance to the chargor.
 
-### Article 9 Vesting of object in satisfaction; redemption
+### Article 9---Vesting of object in satisfaction; redemption
 
-##### 1\.
-    
-*   At any time after default as provided in Article 11, the chargee and all the interested persons may agree that ownership of (or any other interest of the chargor in) any object covered by the security interest shall vest in the chargee in or towards satisfaction of the secured obligations.
+*   1\. At any time after default as provided in Article 11, the chargee and all the interested persons may agree that ownership of (or any other interest of the chargor in) any object covered by the security interest shall vest in the chargee in or towards satisfaction of the secured obligations.
 
-##### 2\.
-    
-*   The court may on the application of the chargee order that ownership of (or any other interest of the chargor in) any object covered by the security interest shall vest in the chargee in or towards satisfaction of the secured obligations.
+*   2\. The court may on the application of the chargee order that ownership of (or any other interest of the chargor in) any object covered by the security interest shall vest in the chargee in or towards satisfaction of the secured obligations.
 
-##### 3\.
-    
-*   The court shall grant an application under the preceding paragraph only if the amount of the secured obligations to be satisfied by such vesting is commensurate with the value of the object after taking account of any payment to be made by the chargee to any of the interested persons.
+*   3\. The court shall grant an application under the preceding paragraph only if the amount of the secured obligations to be satisfied by such vesting is commensurate with the value of the object after taking account of any payment to be made by the chargee to any of the interested persons.
 
-##### 4\.
-    
-*   At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
+*   4\. At any time after default as provided in Article 11 and before sale of the charged object or the making of an order under paragraph 2, the chargor or any interested person may discharge the security interest by paying in full the amount secured, subject to any lease granted by the chargee under Article 8(1)(b) or ordered under Article 8(2). Where, after such default, the payment of the amount secured is made in full by an interested person other than the debtor, that person is subrogated to the rights of the chargee.
 
-##### 5\.
-    
-*   Ownership or any other interest of the chargor passing on a sale under Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee's security interest has priority under the provisions of Article 29\.
+*   5\. Ownership or any other interest of the chargor passing on a sale under Article 8(1)(b) or passing under paragraph 1 or 2 of this Article is free from any other interest over which the chargee's security interest has priority under the provisions of Article 29\.
 
-### Article 10 Remedies of conditional seller or lessor
+### Article 10---Remedies of conditional seller or lessor
 
 In the event of default under a title reservation agreement or under a leasing agreement as provided in Article 11, the conditional seller or the lessor, as the case may be, may:
     
@@ -10154,25 +10266,19 @@ In the event of default under a title reservation agreement or under a leasing a
 
 *   (b) apply for a court order authorising or directing either of these acts.
 
-### Article 11 Meaning of default
+### Article 11---Meaning of default
 
-##### 1\.
-    
-*   The debtor and the creditor may at any time agree in writing as to the events that constitute a default or otherwise give rise to the rights and remedies specified in Articles 8 to 10 and 13\.
+*   1\. The debtor and the creditor may at any time agree in writing as to the events that constitute a default or otherwise give rise to the rights and remedies specified in Articles 8 to 10 and 13\.
 
-##### 2\.
-    
-*   Where the debtor and the creditor have not so agreed, ""default"" for the purposes of Articles 8 to 10 and 13 means a default which substantially deprives the creditor of what it is entitled to expect under the agreement.
+*   2\. Where the debtor and the creditor have not so agreed, default for the purposes of Articles 8 to 10 and 13 means a default which substantially deprives the creditor of what it is entitled to expect under the agreement.
 
-### Article 12 Additional remedies
+### Article 12---Additional remedies
 
 Any additional remedies permitted by the applicable law, including any remedies agreed upon by the parties, may be exercised to the extent that they are not inconsistent with the mandatory provisions of this Chapter as set out in Article 15\.
 
-### Article 13 Relief pending final determination
+### Article 13---Relief pending final determination
 
-##### 1\.
-    
-*   Subject to any declaration that it may make under Article 55, a Contracting State shall ensure that a creditor who adduces evidence of default by the debtor may, pending final determination of its claim and to the extent that the debtor has at any time so agreed, obtain from a court speedy relief in the form of such one or more of the following orders as the creditor requests:
+*   1\. Subject to any declaration that it may make under Article 55, a Contracting State shall ensure that a creditor who adduces evidence of default by the debtor may, pending final determination of its claim and to the extent that the debtor has at any time so agreed, obtain from a court speedy relief in the form of such one or more of the following orders as the creditor requests:
         
     *   (a) preservation of the object and its value;
     
@@ -10184,9 +10290,7 @@ Any additional remedies permitted by the applicable law, including any remedies 
     
     
 
-##### 2\.
-    
-*   In making any order under the preceding paragraph, the court may impose such terms as it considers necessary to protect the interested persons in the event that the creditor:
+*   2\. In making any order under the preceding paragraph, the court may impose such terms as it considers necessary to protect the interested persons in the event that the creditor:
         
     *   (a) in implementing any order granting such relief, fails to perform any of its obligations to the debtor under this Convention or the Protocol; or
     
@@ -10194,30 +10298,24 @@ Any additional remedies permitted by the applicable law, including any remedies 
     
     
 
-##### 3\.
-    
-*   Before making any order under paragraph 1, the court may require notice of the request to be given to any of the interested persons.
+*   3\. Before making any order under paragraph 1, the court may require notice of the request to be given to any of the interested persons.
 
-##### 4\.
-    
-*   Nothing in this Article affects the application of Article 8(3) or limits the availability of forms of interim relief other than those set out in paragraph 1\.
+*   4\. Nothing in this Article affects the application of Article 8(3) or limits the availability of forms of interim relief other than those set out in paragraph 1\.
 
-### Article 14 Procedural requirements
+### Article 14---Procedural requirements
 
 Subject to Article 54(2), any remedy provided by this Chapter shall be exercised in conformity with the procedure prescribed by the law of the place where the remedy is to be exercised.
 
-### Article 15 Derogation
+### Article 15---Derogation
 
 In their relations with each other, any two or more of the parties referred to in this Chapter may at any time, by agreement in writing, derogate from or vary the effect of any of the preceding provisions of this Chapter except Articles 8(3) to (6), 9(3) and (4), 13(2) and 14\.
 
 ## Chapter IV  
 The international registration system
 
-### Article 16 The International Registry
+### Article 16---The International Registry
 
-##### 1\.
-    
-*   An International Registry shall be established for registrations of:
+*   1\. An International Registry shall be established for registrations of:
         
     *   (a) international interests, prospective international interests and registrable non-consensual rights and interests;
     
@@ -10231,23 +10329,15 @@ The international registration system
     
     
 
-##### 2\.
-    
-*   Different international registries may be established for different categories of object and associated rights.
+*   2\. Different international registries may be established for different categories of object and associated rights.
 
-##### 3\.
-    
-*   For the purposes of this Chapter and Chapter V, the term ""registration"" includes, where appropriate, an amendment, extension or discharge of a registration.
+*   3\. For the purposes of this Chapter and Chapter V, the term registration includes, where appropriate, an amendment, extension or discharge of a registration.
 
-### Article 17 The Supervisory Authority and the Registrar
+### Article 17---The Supervisory Authority and the Registrar
 
-##### 1\.
-    
-*   There shall be a Supervisory Authority as provided by the Protocol.
+*   1\. There shall be a Supervisory Authority as provided by the Protocol.
 
-##### 2\.
-    
-*   The Supervisory Authority shall:
+*   2\. The Supervisory Authority shall:
         
     *   (a) establish or provide for the establishment of the International Registry;
     
@@ -10271,26 +10361,18 @@ The international registration system
     
     
 
-##### 3\.
-    
-*   The Supervisory Authority may enter into any agreement requisite for the performance of its functions, including any agreement referred to in Article 27(3).
+*   3\. The Supervisory Authority may enter into any agreement requisite for the performance of its functions, including any agreement referred to in Article 27(3).
 
-##### 4\.
-    
-*   The Supervisory Authority shall own all proprietary rights in the data bases and archives of the International Registry.
+*   4\. The Supervisory Authority shall own all proprietary rights in the data bases and archives of the International Registry.
 
-##### 5\.
-    
-*   The Registrar shall ensure the efficient operation of the International Registry and perform the functions assigned to it by this Convention, the Protocol and the regulations.
+*   5\. The Registrar shall ensure the efficient operation of the International Registry and perform the functions assigned to it by this Convention, the Protocol and the regulations.
 
 ## Chapter V  
 Other matters relating to registration
 
-### Article 18 Registration requirements
+### Article 18---Registration requirements
 
-##### 1\.
-    
-*   The Protocol and regulations shall specify the requirements, including the criteria for the identification of the object:
+*   1\. The Protocol and regulations shall specify the requirements, including the criteria for the identification of the object:
         
     *   (a) for effecting a registration (which shall include provision for prior electronic transmission of any consent from any person whose consent is required under Article 20);
     
@@ -10300,35 +10382,21 @@ Other matters relating to registration
     
     
 
-##### 2\.
-    
-*   The Registrar shall not be under a duty to enquire whether a consent to registration under Article 20 has in fact been given or is valid.
+*   2\. The Registrar shall not be under a duty to enquire whether a consent to registration under Article 20 has in fact been given or is valid.
 
-##### 3\.
-    
-*   Where an interest registered as a prospective international interest becomes an international interest, no further registration shall be required provided that the registration information is sufficient for a registration of an international interest.
+*   3\. Where an interest registered as a prospective international interest becomes an international interest, no further registration shall be required provided that the registration information is sufficient for a registration of an international interest.
 
-##### 4\.
-    
-*   The Registrar shall arrange for registrations to be entered into the International Registry data base and made searchable in chronological order of receipt, and the file shall record the date and time of receipt.
+*   4\. The Registrar shall arrange for registrations to be entered into the International Registry data base and made searchable in chronological order of receipt, and the file shall record the date and time of receipt.
 
-##### 5\.
-    
-*   The Protocol may provide that a Contracting State may designate an entity or entities in its territory as the entry point or entry points through which the information required for registration shall or may be transmitted to the International Registry. A Contracting State making such a designation may specify the requirements, if any, to be satisfied before such information is transmitted to the International Registry.
+*   5\. The Protocol may provide that a Contracting State may designate an entity or entities in its territory as the entry point or entry points through which the information required for registration shall or may be transmitted to the International Registry. A Contracting State making such a designation may specify the requirements, if any, to be satisfied before such information is transmitted to the International Registry.
 
-### Article 19 Validity and time of registration
+### Article 19---Validity and time of registration
 
-##### 1\.
-    
-*   A registration shall be valid only if made in conformity with Article 20\.
+*   1\. A registration shall be valid only if made in conformity with Article 20\.
 
-##### 2\.
-    
-*   A registration, if valid, shall be complete upon entry of the required information into the International Registry data base so as to be searchable.
+*   2\. A registration, if valid, shall be complete upon entry of the required information into the International Registry data base so as to be searchable.
 
-##### 3\.
-    
-*   A registration shall be searchable for the purposes of the preceding paragraph at the time when:
+*   3\. A registration shall be searchable for the purposes of the preceding paragraph at the time when:
         
     *   (a) the International Registry has assigned to it a sequentially ordered file number; and
     
@@ -10336,57 +10404,35 @@ Other matters relating to registration
     
     
 
-##### 4\.
-    
-*   If an interest first registered as a prospective international interest becomes an international interest, that international interest shall be treated as registered from the time of registration of the prospective international interest provided that the registration was still current immediately before the international interest was constituted as provided by Article 7\.
+*   4\. If an interest first registered as a prospective international interest becomes an international interest, that international interest shall be treated as registered from the time of registration of the prospective international interest provided that the registration was still current immediately before the international interest was constituted as provided by Article 7\.
 
-##### 5\.
-    
-*   The preceding paragraph applies with necessary modifications to the registration of a prospective assignment of an international interest.
+*   5\. The preceding paragraph applies with necessary modifications to the registration of a prospective assignment of an international interest.
 
-##### 6\.
-    
-*   A registration shall be searchable in the International Registry data base according to the criteria prescribed by the Protocol.
+*   6\. A registration shall be searchable in the International Registry data base according to the criteria prescribed by the Protocol.
 
-### Article 20 Consent to registration
+### Article 20---Consent to registration
 
-##### 1\.
-    
-*   An international interest, a prospective international interest or an assignment or prospective assignment of an international interest may be registered, and any such registration amended or extended prior to its expiry, by either party with the consent in writing of the other.
+*   1\. An international interest, a prospective international interest or an assignment or prospective assignment of an international interest may be registered, and any such registration amended or extended prior to its expiry, by either party with the consent in writing of the other.
 
-##### 2\.
-    
-*   The subordination of an international interest to another international interest may be registered by or with the consent in writing at any time of the person whose interest has been subordinated.
+*   2\. The subordination of an international interest to another international interest may be registered by or with the consent in writing at any time of the person whose interest has been subordinated.
 
-##### 3\.
-    
-*   A registration may be discharged by or with the consent in writing of the party in whose favour it was made.
+*   3\. A registration may be discharged by or with the consent in writing of the party in whose favour it was made.
 
-##### 4\.
-    
-*   The acquisition of an international interest by legal or contractual subrogation may be registered by the subrogee.
+*   4\. The acquisition of an international interest by legal or contractual subrogation may be registered by the subrogee.
 
-##### 5\.
-    
-*   A registrable non-consensual right or interest may be registered by the holder thereof.
+*   5\. A registrable non-consensual right or interest may be registered by the holder thereof.
 
-##### 6\.
-    
-*   A notice of a national interest may be registered by the holder thereof.
+*   6\. A notice of a national interest may be registered by the holder thereof.
 
-### Article 21 Duration of registration
+### Article 21---Duration of registration
 
 Registration of an international interest remains effective until discharged or until expiry of the period specified in the registration.
 
-### Article 22 Searches
+### Article 22---Searches
 
-##### 1\.
-    
-*   Any person may, in the manner prescribed by the Protocol and regulations, make or request a search of the International Registry by electronic means concerning interests or prospective international interests registered therein.
+*   1\. Any person may, in the manner prescribed by the Protocol and regulations, make or request a search of the International Registry by electronic means concerning interests or prospective international interests registered therein.
 
-##### 2\.
-    
-*   Upon receipt of a request therefor, the Registrar, in the manner prescribed by the Protocol and regulations, shall issue a registry search certificate by electronic means with respect to any object:
+*   2\. Upon receipt of a request therefor, the Registrar, in the manner prescribed by the Protocol and regulations, shall issue a registry search certificate by electronic means with respect to any object:
         
     *   (a) stating all registered information relating thereto, together with a statement indicating the date and time of registration of such information; or
     
@@ -10394,19 +10440,15 @@ Registration of an international interest remains effective until discharged or 
     
     
 
-##### 3\.
-    
-*   A search certificate issued under the preceding paragraph shall indicate that the creditor named in the registration information has acquired or intends to acquire an international interest in the object but shall not indicate whether what is registered is an international interest or a prospective international interest, even if this is ascertainable from the relevant registration information.
+*   3\. A search certificate issued under the preceding paragraph shall indicate that the creditor named in the registration information has acquired or intends to acquire an international interest in the object but shall not indicate whether what is registered is an international interest or a prospective international interest, even if this is ascertainable from the relevant registration information.
 
-### Article 23 List of declarations and declared non-consensual rights or interests
+### Article 23---List of declarations and declared non-consensual rights or interests
 
 The Registrar shall maintain a list of declarations, withdrawals of declaration and of the categories of nonconsensual right or interest communicated to the Registrar by the Depositary as having been declared by Contracting States in conformity with Articles 39 and 40 and the date of each such declaration or withdrawal of declaration. Such list shall be recorded and searchable in the name of the declaring State and shall be made available as provided in the Protocol and regulations to any person requesting it.
 
-### Article 24 Evidentiary value of certificates
+### Article 24---Evidentiary value of certificates
 
-##### 1\.
-    
-*   A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
+*   1\. A document in the form prescribed by the regulations which purports to be a certificate issued by the International Registry is prima facie proof:
         
     *   (a) that it has been so issued; and
     
@@ -10414,40 +10456,28 @@ The Registrar shall maintain a list of declarations, withdrawals of declaration 
     
     
 
-### Article 25 Discharge of registration
+### Article 25---Discharge of registration
 
-##### 1\.
-    
-*   Where the obligations secured by a registered security interest or the obligations giving rise to a registered non-consensual right or interest have been discharged, or where the conditions of transfer of title under a registered title reservation agreement have been fulfilled, the holder of such interest shall, without undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration.
+*   1\. Where the obligations secured by a registered security interest or the obligations giving rise to a registered non-consensual right or interest have been discharged, or where the conditions of transfer of title under a registered title reservation agreement have been fulfilled, the holder of such interest shall, without undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration.
 
-##### 2\.
-    
-*   Where a prospective international interest or a prospective assignment of an international interest has been registered, the intending creditor or intending assignee shall, without undue delay, procure the discharge of the registration after written demand by the intending debtor or assignor which is delivered to or received at its address stated in the registration before the intending creditor or assignee has given value or incurred a commitment to give value.
+*   2\. Where a prospective international interest or a prospective assignment of an international interest has been registered, the intending creditor or intending assignee shall, without undue delay, procure the discharge of the registration after written demand by the intending debtor or assignor which is delivered to or received at its address stated in the registration before the intending creditor or assignee has given value or incurred a commitment to give value.
 
-##### 3\.
-    
-*   Where the obligations secured by a national interest specified in a registered notice of a national interest have been discharged, the holder of such interest shall, without undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration. 
+*   3\. Where the obligations secured by a national interest specified in a registered notice of a national interest have been discharged, the holder of such interest shall, without undue delay, procure the discharge of the registration after written demand by the debtor delivered to or received at its address stated in the registration. 
 
-##### 4\.
-    
-*   Where a registration ought not to have been made or is incorrect, the person in whose favour the registration was made shall, without undue delay, procure its discharge or amendment after written demand by the debtor delivered to or received at its address stated in the registration.
+*   4\. Where a registration ought not to have been made or is incorrect, the person in whose favour the registration was made shall, without undue delay, procure its discharge or amendment after written demand by the debtor delivered to or received at its address stated in the registration.
 
-### Article 26 Access to the international registration facilities
+### Article 26---Access to the international registration facilities
 
 No person shall be denied access to the registration and search facilities of the International Registry on any ground other than its failure to comply with the procedures prescribed by this Chapter.
 
 ## Chapter VI  
 Privileges and immunities of the Supervisory Authority and the Registrar
 
-### Article 27 Legal personality; immunity
+### Article 27---Legal personality; immunity
 
-##### 1\.
-    
-*   The Supervisory Authority shall have international legal personality where not already possessing such personality.
+*   1\. The Supervisory Authority shall have international legal personality where not already possessing such personality.
 
-##### 2\.
-    
-*   The Supervisory Authority and its officers and employees shall enjoy such immunity from legal or administrative process as is specified in the Protocol.
+*   2\. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal or administrative process as is specified in the Protocol.
 
 3\.
     
@@ -10455,51 +10485,33 @@ Privileges and immunities of the Supervisory Authority and the Registrar
 
 *   (b) For the purposes of this paragraph, ""host State"" means the State in which the Supervisory Authority is situated.
 
-##### 4\.
-    
-*   The assets, documents, data bases and archives of the International Registry shall be inviolable and immune from seizure or other legal or administrative process.
+*   4\. The assets, documents, data bases and archives of the International Registry shall be inviolable and immune from seizure or other legal or administrative process.
 
-##### 5\.
-    
-*   For the purposes of any claim against the Registrar under Article 28(1) or Article 44, the claimant shall be entitled to access to such information and documents as are necessary to enable the claimant to pursue its claim.
+*   5\. For the purposes of any claim against the Registrar under Article 28(1) or Article 44, the claimant shall be entitled to access to such information and documents as are necessary to enable the claimant to pursue its claim.
 
-##### 6\.
-    
-*   The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4\.
+*   6\. The Supervisory Authority may waive the inviolability and immunity conferred by paragraph 4\.
 
 ## Chapter VII  
 Liability of the Registrar
 
-### Article 28 Liability and financial assurances
+### Article 28---Liability and financial assurances
 
-##### 1\.
-    
-*   The Registrar shall be liable for compensatory damages for loss suffered by a person directly resulting from an error or omission of the Registrar and its officers and employees or from a malfunction of the international registration system except where the malfunction is caused by an event of an inevitable and irresistible nature, which could not be prevented by using the best practices in current use in the field of electronic registry design and operation, including those related to back-up and systems security and networking.
+*   1\. The Registrar shall be liable for compensatory damages for loss suffered by a person directly resulting from an error or omission of the Registrar and its officers and employees or from a malfunction of the international registration system except where the malfunction is caused by an event of an inevitable and irresistible nature, which could not be prevented by using the best practices in current use in the field of electronic registry design and operation, including those related to back-up and systems security and networking.
 
-##### 2\.
-    
-*   The Registrar shall not be liable under the preceding paragraph for factual inaccuracy of registration information received by the Registrar or transmitted by the Registrar in the form in which it received that information nor for acts or circumstances for which the Registrar and its officers and employees are not responsible and arising prior to receipt of registration information at the International Registry.
+*   2\. The Registrar shall not be liable under the preceding paragraph for factual inaccuracy of registration information received by the Registrar or transmitted by the Registrar in the form in which it received that information nor for acts or circumstances for which the Registrar and its officers and employees are not responsible and arising prior to receipt of registration information at the International Registry.
 
-##### 3\.
-    
-*   Compensation under paragraph 1 may be reduced to the extent that the person who suffered the damage caused or contributed to that damage.
+*   3\. Compensation under paragraph 1 may be reduced to the extent that the person who suffered the damage caused or contributed to that damage.
 
-##### 4\.
-    
-*   The Registrar shall procure insurance or a financial guarantee covering the liability referred to in this Article to the extent determined by the Supervisory Authority, in accordance with the Protocol.
+*   4\. The Registrar shall procure insurance or a financial guarantee covering the liability referred to in this Article to the extent determined by the Supervisory Authority, in accordance with the Protocol.
 
 ## Chapter VIII  
 Effects of an international interest as against third parties
 
-### Article 29 Priority of competing interests
+### Article 29---Priority of competing interests
 
-##### 1\.
-    
-*   A registered interest has priority over any other interest subsequently registered and over an unregistered interest. 
+*   1\. A registered interest has priority over any other interest subsequently registered and over an unregistered interest. 
 
-##### 2\.
-    
-*   The priority of the first-mentioned interest under the preceding paragraph applies:
+*   2\. The priority of the first-mentioned interest under the preceding paragraph applies:
         
     *   (a) even if the first-mentioned interest was acquired or registered with actual knowledge of the other interest; and
     
@@ -10507,9 +10519,7 @@ Effects of an international interest as against third parties
     
     
 
-##### 3\.
-    
-*   The buyer of an object acquires its interest in it:
+*   3\. The buyer of an object acquires its interest in it:
         
     *   (a) subject to an interest registered at the time of its acquisition of that interest; and
     
@@ -10517,9 +10527,7 @@ Effects of an international interest as against third parties
     
     
 
-##### 4\.
-    
-*   The conditional buyer or lessee acquires its interest in or right over that object:
+*   4\. The conditional buyer or lessee acquires its interest in or right over that object:
         
     *   (a) subject to an interest registered prior to the registration of the international interest held by its conditional seller or lessor; and
     
@@ -10527,17 +10535,11 @@ Effects of an international interest as against third parties
     
     
 
-##### 5\.
-    
-*   The priority of competing interests or rights under this Article may be varied by agreement between the holders of those interests, but an assignee of a subordinated interest is not bound by an agreement to subordinate that interest unless at the time of the assignment a subordination had been registered relating to that agreement.
+*   5\. The priority of competing interests or rights under this Article may be varied by agreement between the holders of those interests, but an assignee of a subordinated interest is not bound by an agreement to subordinate that interest unless at the time of the assignment a subordination had been registered relating to that agreement.
 
-##### 6\.
-    
-*   Any priority given by this Article to an interest in an object extends to proceeds.
+*   6\. Any priority given by this Article to an interest in an object extends to proceeds.
 
-##### 7\.
-    
-*   This Convention:
+*   7\. This Convention:
         
     *   (a) does not affect the rights of a person in an item, other than an object, held prior to its installation on an object if under the applicable law those rights continue to exist after the installation; and
     
@@ -10545,19 +10547,13 @@ Effects of an international interest as against third parties
     
     
 
-### Article 30 Effects of insolvency
+### Article 30---Effects of insolvency
 
-##### 1\.
-    
-*   In insolvency proceedings against the debtor an international interest is effective if prior to the commencement of the insolvency proceedings that interest was registered in conformity with this Convention.
+*   1\. In insolvency proceedings against the debtor an international interest is effective if prior to the commencement of the insolvency proceedings that interest was registered in conformity with this Convention.
 
-##### 2\.
-    
-*   Nothing in this Article impairs the effectiveness of an international interest in the insolvency proceedings where that interest is effective under the applicable law.
+*   2\. Nothing in this Article impairs the effectiveness of an international interest in the insolvency proceedings where that interest is effective under the applicable law.
 
-##### 3\.
-    
-*   Nothing in this Article affects:
+*   3\. Nothing in this Article affects:
         
     *   (a) any rules of law applicable in insolvency proceedings relating to the avoidance of a transaction as a preference or a transfer in fraud of creditors; or
     
@@ -10568,11 +10564,9 @@ Effects of an international interest as against third parties
 ## Chapter IX  
 Assignments of associated rights and international interests; rights of subrogation
 
-### Article 31 Effects of assignment
+### Article 31---Effects of assignment
 
-##### 1\.
-    
-*   Except as otherwise agreed by the parties, an assignment of associated rights made in conformity with Article 32 also transfers to the assignee:
+*   1\. Except as otherwise agreed by the parties, an assignment of associated rights made in conformity with Article 32 also transfers to the assignee:
         
     *   (a) the related international interest; and
     
@@ -10580,27 +10574,17 @@ Assignments of associated rights and international interests; rights of subrogat
     
     
 
-##### 2\.
-    
-*   Nothing in this Convention prevents a partial assignment of the assignor's associated rights. In the case of such a partial assignment the assignor and assignee may agree as to their respective rights concerning the related international interest assigned under the preceding paragraph but not so as adversely to affect the debtor without its consent.
+*   2\. Nothing in this Convention prevents a partial assignment of the assignor's associated rights. In the case of such a partial assignment the assignor and assignee may agree as to their respective rights concerning the related international interest assigned under the preceding paragraph but not so as adversely to affect the debtor without its consent.
 
-##### 3\.
-    
-*   Subject to paragraph 4, the applicable law shall determine the defences and rights of set-off available to the debtor against the assignee.
+*   3\. Subject to paragraph 4, the applicable law shall determine the defences and rights of set-off available to the debtor against the assignee.
 
-##### 4\.
-    
-*   The debtor may at any time by agreement in writing waive all or any of the defences and rights of set-off referred to in the preceding paragraph other than defences arising from fraudulent acts on the part of the assignee.
+*   4\. The debtor may at any time by agreement in writing waive all or any of the defences and rights of set-off referred to in the preceding paragraph other than defences arising from fraudulent acts on the part of the assignee.
 
-##### 5\.
-    
-*   In the case of an assignment by way of security, the assigned associated rights revest in the assignor, to the extent that they are still subsisting, when the obligations secured by the assignment have been discharged.
+*   5\. In the case of an assignment by way of security, the assigned associated rights revest in the assignor, to the extent that they are still subsisting, when the obligations secured by the assignment have been discharged.
 
-### Article 32 Formal requirements of assignment
+### Article 32---Formal requirements of assignment
 
-##### 1\.
-    
-*   An assignment of associated rights transfers the related international interest only if it:
+*   1\. An assignment of associated rights transfers the related international interest only if it:
         
     *   (a) is in writing;
     
@@ -10610,19 +10594,13 @@ Assignments of associated rights and international interests; rights of subrogat
     
     
 
-##### 2\.
-    
-*   An assignment of an international interest created or provided for by a security agreement is not valid unless some or all related associated rights also are assigned.
+*   2\. An assignment of an international interest created or provided for by a security agreement is not valid unless some or all related associated rights also are assigned.
 
-##### 3\.
-    
-*   This Convention does not apply to an assignment of associated rights which is not effective to transfer the related international interest.
+*   3\. This Convention does not apply to an assignment of associated rights which is not effective to transfer the related international interest.
 
-### Article 33 Debtor's duty to assignee
+### Article 33---Debtor's duty to assignee
 
-##### 1\.
-    
-*   To the extent that associated rights and the related international interest have been transferred in accordance with Articles 31 and 32, the debtor in relation to those rights and that interest is bound by the assignment and has a duty to make payment or give other performance to the assignee, if but only if:
+*   1\. To the extent that associated rights and the related international interest have been transferred in accordance with Articles 31 and 32, the debtor in relation to those rights and that interest is bound by the assignment and has a duty to make payment or give other performance to the assignee, if but only if:
         
     *   (a) the debtor has been given notice of the assignment in writing by or with the authority of the assignor; and
     
@@ -10630,15 +10608,11 @@ Assignments of associated rights and international interests; rights of subrogat
     
     
 
-##### 2\.
-    
-*   Irrespective of any other ground on which payment or performance by the debtor discharges the latter from liability, payment or performance shall be effective for this purpose if made in accordance with the preceding paragraph.
+*   2\. Irrespective of any other ground on which payment or performance by the debtor discharges the latter from liability, payment or performance shall be effective for this purpose if made in accordance with the preceding paragraph.
 
-##### 3\.
-    
-*   Nothing in this Article shall affect the priority of competing assignments.
+*   3\. Nothing in this Article shall affect the priority of competing assignments.
 
-### Article 34 Default remedies in respect of assignment by way of security
+### Article 34---Default remedies in respect of assignment by way of security
 
 In the event of default by the assignor under the assignment of associated rights and the related international interest made by way of security, Articles 8, 9 and 11 to 14 apply in the relations between the assignor and the assignee (and, in relation to associated rights, apply in so far as those provisions are capable of application to intangible property) as if references:
     
@@ -10650,21 +10624,15 @@ In the event of default by the assignor under the assignment of associated right
 
 *   (d) to the object were references to the assigned associated rights and the related international interest.
 
-### Article 35 Priority of competing assignments
+### Article 35---Priority of competing assignments
 
-##### 1\.
-    
-*   Where there are competing assignments of associated rights and at least one of the assignments includes the related international interest and is registered, the provisions of Article 29 apply as if the references to a registered interest were references to an assignment of the associated rights and the related registered interest and as if references to a registered or unregistered interest were references to a registered or unregistered assignment.
+*   1\. Where there are competing assignments of associated rights and at least one of the assignments includes the related international interest and is registered, the provisions of Article 29 apply as if the references to a registered interest were references to an assignment of the associated rights and the related registered interest and as if references to a registered or unregistered interest were references to a registered or unregistered assignment.
 
-##### 2\.
-    
-*   Article 30 applies to an assignment of associated rights as if the references to an international interest were references to an assignment of the associated rights and the related international interest.
+*   2\. Article 30 applies to an assignment of associated rights as if the references to an international interest were references to an assignment of the associated rights and the related international interest.
 
-### Article 36 Assignee's priority with respect to associated rights
+### Article 36---Assignee's priority with respect to associated rights
 
-##### 1\.
-    
-*   The assignee of associated rights and the related international interest whose assignment has been registered only has priority under Article 35(1) over another assignee of the associated rights:
+*   1\. The assignee of associated rights and the related international interest whose assignment has been registered only has priority under Article 35(1) over another assignee of the associated rights:
         
     *   (a) if the contract under which the associated rights arise states that they are secured by or associated with the object; and
     
@@ -10672,9 +10640,7 @@ In the event of default by the assignor under the assignment of associated right
     
     
 
-##### 2\.
-    
-*   For the purposes of sub-paragraph (b) of the preceding paragraph, associated rights are related to an object only to the extent that they consist of rights to payment or performance that relate to:
+*   2\. For the purposes of sub-paragraph (b) of the preceding paragraph, associated rights are related to an object only to the extent that they consist of rights to payment or performance that relate to:
         
     *   (a) a sum advanced and utilised for the purchase of the object;
     
@@ -10688,32 +10654,24 @@ In the event of default by the assignor under the assignment of associated right
     
     
 
-##### 3\.
-    
-*   In all other cases, the priority of the competing assignments of the associated rights shall be determined by the applicable law.
+*   3\. In all other cases, the priority of the competing assignments of the associated rights shall be determined by the applicable law.
 
-### Article 37 Effects of assignor's insolvency
+### Article 37---Effects of assignor's insolvency
 
 The provisions of Article 30 apply to insolvency proceedings against the assignor as if references to the debtor were references to the assignor.
 
-### Article 38 Subrogation
+### Article 38---Subrogation
 
-##### 1\.
-    
-*   Subject to paragraph 2, nothing in this Convention affects the acquisition of associated rights and the related international interest by legal or contractual subrogation under the applicable law.
+*   1\. Subject to paragraph 2, nothing in this Convention affects the acquisition of associated rights and the related international interest by legal or contractual subrogation under the applicable law.
 
-##### 2\.
-    
-*   The priority between any interest within the preceding paragraph and a competing interest may be varied by agreement in writing between the holders of the respective interests but an assignee of a subordinated interest is not bound by an agreement to subordinate that interest unless at the time of the assignment a subordination had been registered relating to that agreement.
+*   2\. The priority between any interest within the preceding paragraph and a competing interest may be varied by agreement in writing between the holders of the respective interests but an assignee of a subordinated interest is not bound by an agreement to subordinate that interest unless at the time of the assignment a subordination had been registered relating to that agreement.
 
 ## Chapter X  
 Rights or interests subject to declarations by Contracting States
 
-### Article 39 Rights having priority without registration
+### Article 39---Rights having priority without registration
 
-##### 1\.
-    
-*   A Contracting State may at any time, in a declaration deposited with the Depositary of the Protocol declare, generally or specifically:
+*   1\. A Contracting State may at any time, in a declaration deposited with the Depositary of the Protocol declare, generally or specifically:
         
     *   (a) those categories of non-consensual right or interest (other than a right or interest to which Article 40 applies) which under that State's law have priority over an interest in an object equivalent to that of the holder of a registered international interest and which shall have priority over a registered international interest, whether in or outside insolvency proceedings; and
     
@@ -10721,51 +10679,37 @@ Rights or interests subject to declarations by Contracting States
     
     
 
-##### 2\.
-    
-*   A declaration made under the preceding paragraph may be expressed to cover categories that are created after the deposit of that declaration.
+*   2\. A declaration made under the preceding paragraph may be expressed to cover categories that are created after the deposit of that declaration.
 
-##### 3\.
-    
-*   A non-consensual right or interest has priority over an international interest if and only if the former is of a category covered by a declaration deposited prior to the registration of the international interest.
+*   3\. A non-consensual right or interest has priority over an international interest if and only if the former is of a category covered by a declaration deposited prior to the registration of the international interest.
 
-##### 4\.
-    
-*   Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub-paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.
+*   4\. Notwithstanding the preceding paragraph, a Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that a right or interest of a category covered by a declaration made under sub-paragraph (a) of paragraph 1 shall have priority over an international interest registered prior to the date of such ratification, acceptance, approval or accession.
 
-### Article 40 Registrable non-consensual rights or interests
+### Article 40---Registrable non-consensual rights or interests
 
 A Contracting State may at any time in a declaration deposited with the Depositary of the Protocol list the categories of non-consensual right or interest which shall be registrable under this Convention as regards any category of object as if the right or interest were an international interest and shall be regulated accordingly. Such a declaration may be modified from time to time.
 
 ## Chapter XI  
 Application of the Convention to sales
 
-### Article 41 Sale and prospective sale
+### Article 41---Sale and prospective sale
 
 This Convention shall apply to the sale or prospective sale of an object as provided for in the Protocol with any modifications therein.
 
 ## Chapter XII  
 Jurisdiction
 
-### Article 42 Choice of forum
+### Article 42---Choice of forum
 
-##### 1\.
-    
-*   Subject to Articles 43 and 44, the courts of a Contracting State chosen by the parties to a transaction have jurisdiction in respect of any claim brought under this Convention, whether or not the chosen forum has a connection with the parties or the transaction. Such jurisdiction shall be exclusive unless otherwise agreed between the parties.
+*   1\. Subject to Articles 43 and 44, the courts of a Contracting State chosen by the parties to a transaction have jurisdiction in respect of any claim brought under this Convention, whether or not the chosen forum has a connection with the parties or the transaction. Such jurisdiction shall be exclusive unless otherwise agreed between the parties.
 
-##### 2\.
-    
-*   Any such agreement shall be in writing or otherwise concluded in accordance with the formal requirements of the law of the chosen forum.
+*   2\. Any such agreement shall be in writing or otherwise concluded in accordance with the formal requirements of the law of the chosen forum.
 
-### Article 43 Jurisdiction under Article 13
+### Article 43---Jurisdiction under Article 13
 
-##### 1\.
-    
-*   The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
+*   1\. The courts of a Contracting State chosen by the parties and the courts of the Contracting State on the territory of which the object is situated have jurisdiction to grant relief under Article 13(1)(a), (b), (c) and Article 13(4) in respect of that object.
 
-##### 2\.
-    
-*   Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:
+*   2\. Jurisdiction to grant relief under Article 13(1)(d) or other interim relief by virtue of Article 13(4) may be exercised either:
         
     *   (a) by the courts chosen by the parties; or
     
@@ -10773,83 +10717,57 @@ Jurisdiction
     
     
 
-##### 3\.
-    
-*   A court has jurisdiction under the preceding paragraphs even if the final determination of the claim referred to in Article 13(1) will or may take place in a court of another Contracting State or by arbitration.
+*   3\. A court has jurisdiction under the preceding paragraphs even if the final determination of the claim referred to in Article 13(1) will or may take place in a court of another Contracting State or by arbitration.
 
-### Article 44 Jurisdiction to make orders against the Registrar
+### Article 44---Jurisdiction to make orders against the Registrar
 
-##### 1\.
-    
-*   The courts of the place in which the Registrar has its centre of administration shall have exclusive jurisdiction to award damages or make orders against the Registrar.
+*   1\. The courts of the place in which the Registrar has its centre of administration shall have exclusive jurisdiction to award damages or make orders against the Registrar.
 
-##### 2\.
-    
-*   Where a person fails to respond to a demand made under Article 25 and that person has ceased to exist or cannot be found for the purpose of enabling an order to be made against it requiring it to procure discharge of the registration, the courts referred to in the preceding paragraph shall have exclusive jurisdiction, on the application of the debtor or intending debtor, to make an order directed to the Registrar requiring the Registrar to discharge the registration.
+*   2\. Where a person fails to respond to a demand made under Article 25 and that person has ceased to exist or cannot be found for the purpose of enabling an order to be made against it requiring it to procure discharge of the registration, the courts referred to in the preceding paragraph shall have exclusive jurisdiction, on the application of the debtor or intending debtor, to make an order directed to the Registrar requiring the Registrar to discharge the registration.
 
-##### 3\.
-    
-*   Where a person fails to comply with an order of a court having jurisdiction under this Convention or, in the case of a national interest, an order of a court of competent jurisdiction requiring that person to procure the amendment or discharge of a registration, the courts referred to in paragraph 1 may direct the Registrar to take such steps as will give effect to that order.
+*   3\. Where a person fails to comply with an order of a court having jurisdiction under this Convention or, in the case of a national interest, an order of a court of competent jurisdiction requiring that person to procure the amendment or discharge of a registration, the courts referred to in paragraph 1 may direct the Registrar to take such steps as will give effect to that order.
 
-##### 4\.
-    
-*   Except as otherwise provided by the preceding paragraphs, no court may make orders or give judgments or rulings against or purporting to bind the Registrar.
+*   4\. Except as otherwise provided by the preceding paragraphs, no court may make orders or give judgments or rulings against or purporting to bind the Registrar.
 
-### Article 45 Jurisdiction in respect of insolvency proceedings
+### Article 45---Jurisdiction in respect of insolvency proceedings
 
 The provisions of this Chapter are not applicable to insolvency proceedings.
 
 ## Chapter XIII  
 Relationship with other Conventions
 
-### Article 45 bis Relationship with the United Nations Convention on the Assignment of Receivables in International Trade
+### Article 45 bis---Relationship with the United Nations Convention on the Assignment of Receivables in International Trade
 
 This Convention shall prevail over the _United Nations Convention on the Assignment of Receivables in International Trade_, opened for signature in New York on 12 December 2001, as it relates to the assignment of receivables which are associated rights related to international interests in aircraft objects, railway rolling stock and space assets.
 
-### Article 46 Relationship with the UNIDROIT Convention on International Financial Leasing
+### Article 46---Relationship with the UNIDROIT Convention on International Financial Leasing
 
 The Protocol may determine the relationship between this Convention and the _UNIDROIT Convention on International Financial Leasing_, signed at Ottawa on 28 May 1988\.
 
 ## Chapter XIV  
 Final provisions
 
-### Article 47 Signature, ratification, acceptance, approval or accession
+### Article 47---Signature, ratification, acceptance, approval or accession
 
-##### 1\.
-    
-*   This Convention shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001\. After 16 November 2001, the Convention shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article 49\.
+*   1\. This Convention shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001\. After 16 November 2001, the Convention shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article 49\.
 
-##### 2\.
-    
-*   This Convention shall be subject to ratification, acceptance or approval by States which have signed it.
+*   2\. This Convention shall be subject to ratification, acceptance or approval by States which have signed it.
 
-##### 3\.
-    
-*   Any State which does not sign this Convention may accede to it at any time.
+*   3\. Any State which does not sign this Convention may accede to it at any time.
 
-##### 4\.
-    
-*   Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
+*   4\. Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
 
-### Article 48 Regional Economic Integration Organisations
+### Article 48---Regional Economic Integration Organisations
 
-##### 1\.
-    
-*   A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Convention. Where the number of Contracting States is relevant in this Convention, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
+*   1\. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Convention may similarly sign, accept, approve or accede to this Convention. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Convention. Where the number of Contracting States is relevant in this Convention, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
-##### 2\.
-    
-*   The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Convention in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
+*   2\. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Convention in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
 
-##### 3\.
-    
-*   Any reference to a ""Contracting State"" or ""Contracting States"" or ""State Party"" or ""States Parties"" in this Convention applies equally to a Regional Economic Integration Organisation where the context so requires.
+*   3\. Any reference to a Contracting State or Contracting States or State Party or States Parties in this Convention applies equally to a Regional Economic Integration Organisation where the context so requires.
 
-### Article 49 Entry into force
+### Article 49---Entry into force
 
-##### 1\.
-    
-*   This Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies:
+*   1\. This Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of the third instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies:
         
     *   (a) as from the time of entry into force of that Protocol;
     
@@ -10859,71 +10777,41 @@ Final provisions
     
     
 
-##### 2\.
-    
-*   For other States this Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of their instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies and subject, in relation to such Protocol, to the requirements of sub-paragraphs (a), (b) and (c) of the preceding paragraph.
+*   2\. For other States this Convention enters into force on the first day of the month following the expiration of three months after the date of the deposit of their instrument of ratification, acceptance, approval or accession but only as regards a category of objects to which a Protocol applies and subject, in relation to such Protocol, to the requirements of sub-paragraphs (a), (b) and (c) of the preceding paragraph.
 
-### Article 50 Internal transactions
+### Article 50---Internal transactions
 
-##### 1\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that this Convention shall not apply to a transaction which is an internal transaction in relation to that State with regard to all types of objects or some of them.
+*   1\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that this Convention shall not apply to a transaction which is an internal transaction in relation to that State with regard to all types of objects or some of them.
 
-##### 2\.
-    
-*   Notwithstanding the preceding paragraph, the provisions of Articles 8(4), 9(1), 16, Chapter V, Article 29, and any provisions of this Convention relating to registered interests shall apply to an internal transaction.
+*   2\. Notwithstanding the preceding paragraph, the provisions of Articles 8(4), 9(1), 16, Chapter V, Article 29, and any provisions of this Convention relating to registered interests shall apply to an internal transaction.
 
-##### 3\.
-    
-*   Where notice of a national interest has been registered in the International Registry, the priority of the holder of that interest under Article 29 shall not be affected by the fact that such interest has become vested in another person by assignment or subrogation under the applicable law.
+*   3\. Where notice of a national interest has been registered in the International Registry, the priority of the holder of that interest under Article 29 shall not be affected by the fact that such interest has become vested in another person by assignment or subrogation under the applicable law.
 
-### Article 51 Future Protocols
+### Article 51---Future Protocols
 
-##### 1\.
-    
-*   The Depositary may create working groups, in co-operation with such relevant non-governmental organisations as the Depositary considers appropriate, to assess the feasibility of extending the application of this Convention, through one or more Protocols, to objects of any category of high-value mobile equipment, other than a category referred to in Article 2(3), each member of which is uniquely identifiable, and associated rights relating to such objects.
+*   1\. The Depositary may create working groups, in co-operation with such relevant non-governmental organisations as the Depositary considers appropriate, to assess the feasibility of extending the application of this Convention, through one or more Protocols, to objects of any category of high-value mobile equipment, other than a category referred to in Article 2(3), each member of which is uniquely identifiable, and associated rights relating to such objects.
 
-##### 2\.
-    
-*   The Depositary shall communicate the text of any preliminary draft Protocol relating to a category of objects prepared by such a working group to all States Parties to this Convention, all member States of the Depositary, member States of the United Nations which are not members of the Depositary and the relevant intergovernmental organisations, and shall invite such States and organisations to participate in intergovernmental negotiations for the completion of a draft Protocol on the basis of such a preliminary draft Protocol.
+*   2\. The Depositary shall communicate the text of any preliminary draft Protocol relating to a category of objects prepared by such a working group to all States Parties to this Convention, all member States of the Depositary, member States of the United Nations which are not members of the Depositary and the relevant intergovernmental organisations, and shall invite such States and organisations to participate in intergovernmental negotiations for the completion of a draft Protocol on the basis of such a preliminary draft Protocol.
 
-##### 3\.
-    
-*   The Depositary shall also communicate the text of any preliminary draft Protocol prepared by such a working group to such relevant non-governmental organisations as the Depositary considers appropriate. Such non-governmental organisations shall be invited promptly to submit comments on the text of the preliminary draft Protocol to the Depositary and to participate as observers in the preparation of a draft Protocol.
+*   3\. The Depositary shall also communicate the text of any preliminary draft Protocol prepared by such a working group to such relevant non-governmental organisations as the Depositary considers appropriate. Such non-governmental organisations shall be invited promptly to submit comments on the text of the preliminary draft Protocol to the Depositary and to participate as observers in the preparation of a draft Protocol.
 
-##### 4\.
-    
-*   When the competent bodies of the Depositary adjudge such a draft Protocol ripe for adoption, the Depositary shall convene a diplomatic conference for its adoption.
+*   4\. When the competent bodies of the Depositary adjudge such a draft Protocol ripe for adoption, the Depositary shall convene a diplomatic conference for its adoption.
 
-##### 5\.
-    
-*   Once such a Protocol has been adopted, subject to paragraph 6, this Convention shall apply to the category of objects covered thereby.
+*   5\. Once such a Protocol has been adopted, subject to paragraph 6, this Convention shall apply to the category of objects covered thereby.
 
-##### 6\.
-    
-*   Article 45 _bis_ of this Convention applies to such a Protocol only if specifically provided for in that Protocol.
+*   6\. Article 45 bis of this Convention applies to such a Protocol only if specifically provided for in that Protocol.
 
-### Article 52 Territorial units
+### Article 52---Territorial units
 
-##### 1\.
-    
-*   If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Convention, it may, at the time of ratification, acceptance, approval or accession, declare that this Convention is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
+*   1\. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Convention, it may, at the time of ratification, acceptance, approval or accession, declare that this Convention is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
-##### 2\.
-    
-*   Any such declaration shall state expressly the territorial units to which this Convention applies.
+*   2\. Any such declaration shall state expressly the territorial units to which this Convention applies.
 
-##### 3\.
-    
-*   If a Contracting State has not made any declaration under paragraph 1, this Convention shall apply to all territorial units of that State.
+*   3\. If a Contracting State has not made any declaration under paragraph 1, this Convention shall apply to all territorial units of that State.
 
-##### 4\.
-    
-*   Where a Contracting State extends this Convention to one or more of its territorial units, declarations permitted under this Convention may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
+*   4\. Where a Contracting State extends this Convention to one or more of its territorial units, declarations permitted under this Convention may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
 
-##### 5\.
-    
-*   If by virtue of a declaration under paragraph 1, this Convention extends to one or more territorial units of a Contracting State:
+*   5\. If by virtue of a declaration under paragraph 1, this Convention extends to one or more territorial units of a Contracting State:
         
     *   (a) the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which this Convention applies or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which this Convention applies;
     
@@ -10933,81 +10821,53 @@ Final provisions
     
     
 
-### Article 53 Determination of courts
+### Article 53---Determination of courts
 
 A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare the relevant ""court"" or ""courts"" for the purposes of Article 1 and Chapter XII of this Convention.
 
-### Article 54 Declarations regarding remedies
+### Article 54---Declarations regarding remedies
 
-##### 1\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that while the charged object is situated within, or controlled from its territory the chargee shall not grant a lease of the object in that territory.
+*   1\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that while the charged object is situated within, or controlled from its territory the chargee shall not grant a lease of the object in that territory.
 
-##### 2\.
-    
-*   A Contracting State shall, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare whether or not any remedy available to the creditor under any provision of this Convention which is not there expressed to require application to the court may be exercised only with leave of the court.
+*   2\. A Contracting State shall, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare whether or not any remedy available to the creditor under any provision of this Convention which is not there expressed to require application to the court may be exercised only with leave of the court.
 
-### Article 55 Declarations regarding relief pending final determination
+### Article 55---Declarations regarding relief pending final determination
 
 A Contracting State may, at the time of ratification, acceptance, approval of, or accession to the Protocol, declare that it will not apply the provisions of Article 13 or Article 43, or both, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
 
-### Article 56 Reservations and declarations
+### Article 56---Reservations and declarations
 
-##### 1\.
-    
-*   No reservations may be made to this Convention but declarations authorised by Articles 39, 40, 50, 52, 53, 54, 55, 57, 58 and 60 may be made in accordance with these provisions.
+*   1\. No reservations may be made to this Convention but declarations authorised by Articles 39, 40, 50, 52, 53, 54, 55, 57, 58 and 60 may be made in accordance with these provisions.
 
-##### 2\.
-    
-*   Any declaration or subsequent declaration or any withdrawal of a declaration made under this Convention shall be notified in writing to the Depositary.
+*   2\. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Convention shall be notified in writing to the Depositary.
 
-### Article 57 Subsequent declarations
+### Article 57---Subsequent declarations
 
-##### 1\.
-    
-*   A State Party may make a subsequent declaration, other than a declaration authorised under Article 60, at any time after the date on which this Convention has entered into force for it, by notifying the Depositary to that effect.
+*   1\. A State Party may make a subsequent declaration, other than a declaration authorised under Article 60, at any time after the date on which this Convention has entered into force for it, by notifying the Depositary to that effect.
 
-##### 2\.
-    
-*   Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
+*   2\. Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
 
-##### 3\.
-    
-*   Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
+*   3\. Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-### Article 58 Withdrawal of declarations
+### Article 58---Withdrawal of declarations
 
-##### 1\.
-    
-*   Any State Party having made a declaration under this Convention, other than a declaration authorised under Article 60, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
+*   1\. Any State Party having made a declaration under this Convention, other than a declaration authorised under Article 60, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
-##### 2\.
-    
-*   Notwithstanding the previous paragraph, this Convention shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
+*   2\. Notwithstanding the previous paragraph, this Convention shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-### Article 59 Denunciations
+### Article 59---Denunciations
 
-##### 1\.
-    
-*   Any State Party may denounce this Convention by notification in writing to the Depositary.
+*   1\. Any State Party may denounce this Convention by notification in writing to the Depositary.
 
-##### 2\.
-    
-*   Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date on which notification is received by the Depositary.
+*   2\. Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date on which notification is received by the Depositary.
 
-##### 3\.
-    
-*   Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
+*   3\. Notwithstanding the previous paragraphs, this Convention shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
-### Article 60 Transitional provisions
+### Article 60---Transitional provisions
 
-##### 1\.
-    
-*   Unless otherwise declared by a Contracting State at any time, the Convention does not apply to a pre-existing right or interest, which retains the priority it enjoyed under the applicable law before the effective date of this Convention.
+*   1\. Unless otherwise declared by a Contracting State at any time, the Convention does not apply to a pre-existing right or interest, which retains the priority it enjoyed under the applicable law before the effective date of this Convention.
 
-##### 2\.
-    
-*   For the purposes of Article 1(v) and of determining priority under this Convention:
+*   2\. For the purposes of Article 1(v) and of determining priority under this Convention:
         
     *   (a) ""effective date of this Convention"" means in relation to a debtor the time when this Convention enters into force or the time when the State in which the debtor is situated becomes a Contracting State, whichever is the later; and
     
@@ -11015,19 +10875,13 @@ A Contracting State may, at the time of ratification, acceptance, approval of, o
     
     
 
-##### 3\.
-    
-*   A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when this Convention and the Protocol will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub-paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
+*   3\. A Contracting State may in its declaration under paragraph 1 specify a date, not earlier than three years after the date on which the declaration becomes effective, when this Convention and the Protocol will become applicable, for the purpose of determining priority, including the protection of any existing priority, to pre-existing rights or interests arising under an agreement made at a time when the debtor was situated in a State referred to in sub-paragraph (b) of the preceding paragraph but only to the extent and in the manner specified in its declaration.
 
-### Article 61 Review Conferences, amendments and related matters
+### Article 61---Review Conferences, amendments and related matters
 
-##### 1\.
-    
-*   The Depositary shall prepare reports yearly or at such other time as the circumstances may require for the States Parties as to the manner in which the international regimen established in this Convention has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
+*   1\. The Depositary shall prepare reports yearly or at such other time as the circumstances may require for the States Parties as to the manner in which the international regimen established in this Convention has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
-##### 2\.
-    
-*   At the request of not less than twenty-five per cent of the States Parties, Review Conferences of States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
+*   2\. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
         
     *   (a) the practical operation of this Convention and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
     
@@ -11039,23 +10893,15 @@ A Contracting State may, at the time of ratification, acceptance, approval of, o
     
     
 
-##### 3\.
-    
-*   Subject to paragraph 4, any amendment to this Convention shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when ratified, accepted, or approved by three States in accordance with the provisions of Article 49 relating to its entry into force.
+*   3\. Subject to paragraph 4, any amendment to this Convention shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when ratified, accepted, or approved by three States in accordance with the provisions of Article 49 relating to its entry into force.
 
-##### 4\.
-    
-*   Where the proposed amendment to this Convention is intended to apply to more than one category of equipment, such amendment shall also be approved by at least a two-thirds majority of States Parties to each Protocol that are participating in the Conference referred to in paragraph 2\.
+*   4\. Where the proposed amendment to this Convention is intended to apply to more than one category of equipment, such amendment shall also be approved by at least a two-thirds majority of States Parties to each Protocol that are participating in the Conference referred to in paragraph 2\.
 
-### Article 62 Depositary and its functions
+### Article 62---Depositary and its functions
 
-##### 1\.
-    
-*   Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
+*   1\. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 
-##### 2\.
-    
-*   The Depositary shall:
+*   2\. The Depositary shall:
         
     *   (a) inform all Contracting States of:
             
@@ -11088,9 +10934,9 @@ DONE at Cape Town, this sixteenth day of November, two thousand and one, in a si
 ## Schedule 8  
 Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment
 
-[s 104][342]
+[s 104][344]
 
-*   Schedule 8: added, on 1 November 2010, by [section 13][646] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
+*   Schedule 8: added, on 1 November 2010, by [section 13][649] of the Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010 (2010 No 42).
 
 THE STATES PARTIES TO THIS PROTOCOL,
 
@@ -11105,15 +10951,11 @@ HAVE AGREED upon the following provisions relating to aircraft equipment:
 ## Chapter I  
 Sphere of application and general provisions
 
-### Article I Defined terms
+### Article I---Defined terms
 
-##### 1\.
-    
-*   In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the Convention.
+*   1\. In this Protocol, except where the context otherwise requires, terms used in it have the meanings set out in the Convention.
 
-##### 2\.
-    
-*   In this Protocol the following terms are employed with the meanings set out below:
+*   2\. In this Protocol the following terms are employed with the meanings set out below:
         
     *   (a) ""aircraft"" means aircraft as defined for the purposes of the Chicago Convention which are either airframes with aircraft engines installed thereon or helicopters;
     
@@ -11173,17 +11015,13 @@ Sphere of application and general provisions
     
     
 
-### Article II Application of Convention as regards aircraft objects
+### Article II---Application of Convention as regards aircraft objects
 
-##### 1\.
-    
-*   The Convention shall apply in relation to aircraft objects as provided by the terms of this Protocol.
+*   1\. The Convention shall apply in relation to aircraft objects as provided by the terms of this Protocol.
 
-##### 2\.
-    
-*   The Convention and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.
+*   2\. The Convention and this Protocol shall be known as the Convention on International Interests in Mobile Equipment as applied to aircraft objects.
 
-### Article III Application of Convention to sales
+### Article III---Application of Convention to sales
 
 The following provisions of the Convention apply as if references to an agreement creating or providing for an international interest were references to a contract of sale and as if references to an international interest, a prospective international interest, the debtor and the creditor were references to a sale, a prospective sale, the seller and the buyer respectively:
 
@@ -11201,15 +11039,11 @@ Article 30\.
 
 In addition, the general provisions of Article 1, Article 5, Chapters IV to VII, Article 29 (other than Article 29(3) which is replaced by Article XIV(1) and (2)), Chapter X, Chapter XII (other than Article 43), Chapter XIII and Chapter XIV (other than Article 60) shall apply to contracts of sale and prospective sales.
 
-### Article IV Sphere of application
+### Article IV---Sphere of application
 
-##### 1\.
-    
-*   Without prejudice to Article 3(1) of the Convention, the Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
+*   1\. Without prejudice to Article 3(1) of the Convention, the Convention shall also apply in relation to a helicopter, or to an airframe pertaining to an aircraft, registered in an aircraft register of a Contracting State which is the State of registry, and where such registration is made pursuant to an agreement for registration of the aircraft it is deemed to have been effected at the time of the agreement.
 
-##### 2\.
-    
-*   For the purposes of the definition of ""internal transaction"" in Article 1 of the Convention:
+*   2\. For the purposes of the definition of internal transaction in Article 1 of the Convention:
         
     *   (a) an airframe is located in the State of registry of the aircraft of which it is a part;
     
@@ -11219,15 +11053,11 @@ In addition, the general provisions of Article 1, Article 5, Chapters IV to VII,
     
     at the time of the conclusion of the agreement creating or providing for the interest.
 
-##### 3\.
-    
-*   The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).
+*   3\. The parties may, by agreement in writing, exclude the application of Article XI and, in their relations with each other, derogate from or vary the effect of any of the provisions of this Protocol except Article IX (2)-(4).
 
-### Article V Formalities, effects and registration of contracts of sale
+### Article V---Formalities, effects and registration of contracts of sale
 
-##### 1\.
-    
-*   For the purposes of this Protocol, a contract of sale is one which:
+*   1\. For the purposes of this Protocol, a contract of sale is one which:
         
     *   (a) is in writing;
     
@@ -11237,44 +11067,32 @@ In addition, the general provisions of Article 1, Article 5, Chapters IV to VII,
     
     
 
-##### 2\.
-    
-*   A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.
+*   2\. A contract of sale transfers the interest of the seller in the aircraft object to the buyer according to its terms.
 
-##### 3\.
-    
-*   Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
+*   3\. Registration of a contract of sale remains effective indefinitely. Registration of a prospective sale remains effective unless discharged or until expiry of the period, if any, specified in the registration.
 
-### Article VI Representative capacities
+### Article VI---Representative capacities
 
 A person may enter into an agreement or a sale, and register an international interest in, or a sale of, an aircraft object, in an agency, trust or other representative capacity. In such case, that person is entitled to assert rights and interests under the Convention.
 
-### Article VII Description of aircraft objects
+### Article VII---Description of aircraft objects
 
 A description of an aircraft object that contains its manufacturer's serial number, the name of the manufacturer and its model designation is necessary and sufficient to identify the object for the purposes of Article 7(c) of the Convention and Article V(1)(c) of this Protocol.
 
-### Article VIII Choice of law
+### Article VIII---Choice of law
 
-##### 1\.
-    
-*   This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
+*   1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
-##### 2\.
-    
-*   The parties to an agreement, or a contract of sale, or a related guarantee contract or subordination agreement may agree on the law which is to govern their contractual rights and obligations, wholly or in part.
+*   2\. The parties to an agreement, or a contract of sale, or a related guarantee contract or subordination agreement may agree on the law which is to govern their contractual rights and obligations, wholly or in part.
 
-##### 3\.
-    
-*   Unless otherwise agreed, the reference in the preceding paragraph to the law chosen by the parties is to the domestic rules of law of the designated State or, where that State comprises several territorial units, to the domestic law of the designated territorial unit.
+*   3\. Unless otherwise agreed, the reference in the preceding paragraph to the law chosen by the parties is to the domestic rules of law of the designated State or, where that State comprises several territorial units, to the domestic law of the designated territorial unit.
 
 ## Chapter II  
 Default remedies, priorities and assignments
 
-### Article IX Modification of default remedies provisions
+### Article IX---Modification of default remedies provisions
 
-##### 1\.
-    
-*   In addition to the remedies specified in Chapter III of the Convention, the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in that Chapter:
+*   1\. In addition to the remedies specified in Chapter III of the Convention, the creditor may, to the extent that the debtor has at any time so agreed and in the circumstances specified in that Chapter:
         
     *   (a) procure the de-registration of the aircraft; and
     
@@ -11282,21 +11100,13 @@ Default remedies, priorities and assignments
     
     
 
-##### 2\.
-    
-*   The creditor shall not exercise the remedies specified in the preceding paragraph without the prior consent in writing of the holder of any registered interest ranking in priority to that of the creditor.
+*   2\. The creditor shall not exercise the remedies specified in the preceding paragraph without the prior consent in writing of the holder of any registered interest ranking in priority to that of the creditor.
 
-##### 3\.
-    
-*   Article 8(3) of the Convention shall not apply to aircraft objects. Any remedy given by the Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.
+*   3\. Article 8(3) of the Convention shall not apply to aircraft objects. Any remedy given by the Convention in relation to an aircraft object shall be exercised in a commercially reasonable manner. A remedy shall be deemed to be exercised in a commercially reasonable manner where it is exercised in conformity with a provision of the agreement except where such a provision is manifestly unreasonable.
 
-##### 4\.
-    
-*   A chargee giving ten or more working days' prior written notice of a proposed sale or lease to interested persons shall be deemed to satisfy the requirement of providing ""reasonable prior notice"" specified in Article 8(4) of the Convention. The foregoing shall not prevent a chargee and a chargor or a guarantor from agreeing to a longer period of prior notice.
+*   4\. A chargee giving ten or more working days' prior written notice of a proposed sale or lease to interested persons shall be deemed to satisfy the requirement of providing reasonable prior notice specified in Article 8(4) of the Convention. The foregoing shall not prevent a chargee and a chargor or a guarantor from agreeing to a longer period of prior notice.
 
-##### 5\.
-    
-*   The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:
+*   5\. The registry authority in a Contracting State shall, subject to any applicable safety laws and regulations, honour a request for de-registration and export if:
         
     *   (a) the request is properly submitted by the authorised party under a recorded irrevocable de-registration and export request authorisation; and
     
@@ -11304,9 +11114,7 @@ Default remedies, priorities and assignments
     
     
 
-##### 6\.
-    
-*   A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed de-registration and export to:
+*   6\. A chargee proposing to procure the de-registration and export of an aircraft under paragraph 1 otherwise than pursuant to a court order shall give reasonable prior notice in writing of the proposed de-registration and export to:
         
     *   (a) interested persons specified in Article 1(m)(i) and (ii) of the Convention; and
     
@@ -11314,35 +11122,23 @@ Default remedies, priorities and assignments
     
     
 
-### Article X Modification of provisions regarding relief pending final determination
+### Article X---Modification of provisions regarding relief pending final determination
 
-##### 1\.
-    
-*   This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
+*   1\. This Article applies only where a Contracting State has made a declaration under Article XXX(2) and to the extent stated in such declaration.
 
-##### 2\.
-    
-*   For the purposes of Article 13(1) of the Convention, ""speedy"" in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
+*   2\. For the purposes of Article 13(1) of the Convention, speedy in the context of obtaining relief means within such number of working days from the date of filing of the application for relief as is specified in a declaration made by the Contracting State in which the application is made.
 
-##### 3\.
-    
-*   Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):
+*   3\. Article 13(1) of the Convention applies with the following being added immediately after sub-paragraph (d):
         
     *   "(e) if at any time the debtor and the creditor specifically agree, sale and application of proceeds therefrom",
     
     and Article 43(2) applies with the insertion after the words ""Article 13(1)(d)"" of the words ""and (e)"".
 
-##### 4\.
-    
-*   Ownership or any other interest of the debtor passing on a sale under the preceding paragraph is free from any other interest over which the creditor's international interest has priority under the provisions of Article 29 of the Convention.
+*   4\. Ownership or any other interest of the debtor passing on a sale under the preceding paragraph is free from any other interest over which the creditor's international interest has priority under the provisions of Article 29 of the Convention.
 
-##### 5\.
-    
-*   The creditor and the debtor or any other interested person may agree in writing to exclude the application of Article 13(2) of the Convention.
+*   5\. The creditor and the debtor or any other interested person may agree in writing to exclude the application of Article 13(2) of the Convention.
 
-##### 6\.
-    
-*   With regard to the remedies in Article IX(1):
+*   6\. With regard to the remedies in Article IX(1):
         
     *   (a) they shall be made available by the registry authority and other administrative authorities, as applicable, in a Contracting State no later than five working days after the creditor notifies such authorities that the relief specified in Article IX(1) is granted or, in the case of relief granted by a foreign court, recognised by a court of that Contracting State, and that the creditor is entitled to procure those remedies in accordance with the Convention; and
     
@@ -11350,21 +11146,15 @@ Default remedies, priorities and assignments
     
     
 
-##### 7\.
-    
-*   Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.
+*   7\. Paragraphs 2 and 6 shall not affect any applicable aviation safety laws and regulations.
 
-### Article XI Remedies on insolvency
+### Article XI---Remedies on insolvency
 
-##### 1\.
-    
-*   This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to Article XXX(3).
+*   1\. This Article applies only where a Contracting State that is the primary insolvency jurisdiction has made a declaration pursuant to Article XXX(3).
 
 ##### Alternative A
 
-##### 2\.
-    
-*   Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
+*   2\. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, shall, subject to paragraph 7, give possession of the aircraft object to the creditor no later than the earlier of:
         
     *   (a) the end of the waiting period; and
     
@@ -11372,17 +11162,11 @@ Default remedies, priorities and assignments
     
     
 
-##### 3\.
-    
-*   For the purposes of this Article, the ""waiting period"" shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
+*   3\. For the purposes of this Article, the waiting period shall be the period specified in a declaration of the Contracting State which is the primary insolvency jurisdiction.
 
-##### 4\.
-    
-*   References in this Article to the ""insolvency administrator"" shall be to that person in its official, not in its personal, capacity.
+*   4\. References in this Article to the insolvency administrator shall be to that person in its official, not in its personal, capacity.
 
-##### 5\.
-    
-*   Unless and until the creditor is given the opportunity to take possession under paragraph 2:
+*   5\. Unless and until the creditor is given the opportunity to take possession under paragraph 2:
         
     *   (a) the insolvency administrator or the debtor, as applicable, shall preserve the aircraft object and maintain it and its value in accordance with the agreement; and
     
@@ -11390,17 +11174,11 @@ Default remedies, priorities and assignments
     
     
 
-##### 6\.
-    
-*   Sub-paragraph (a) of the preceding paragraph shall not preclude the use of the aircraft object under arrangements designed to preserve the aircraft object and maintain it and its value.
+*   6\. Sub-paragraph (a) of the preceding paragraph shall not preclude the use of the aircraft object under arrangements designed to preserve the aircraft object and maintain it and its value.
 
-##### 7\.
-    
-*   The insolvency administrator or the debtor, as applicable, may retain possession of the aircraft object where, by the time specified in paragraph 2, it has cured all defaults other than a default constituted by the opening of insolvency proceedings and has agreed to perform all future obligations under the agreement. A second waiting period shall not apply in respect of a default in the performance of such future obligations.
+*   7\. The insolvency administrator or the debtor, as applicable, may retain possession of the aircraft object where, by the time specified in paragraph 2, it has cured all defaults other than a default constituted by the opening of insolvency proceedings and has agreed to perform all future obligations under the agreement. A second waiting period shall not apply in respect of a default in the performance of such future obligations.
 
-##### 8\.
-    
-*   With regard to the remedies in Article IX(1):
+*   8\. With regard to the remedies in Article IX(1):
         
     *   (a) they shall be made available by the registry authority and the administrative authorities in a Contracting State, as applicable, no later than five working days after the date on which the creditor notifies such authorities that it is entitled to procure those remedies in accordance with the Convention; and
     
@@ -11408,31 +11186,19 @@ Default remedies, priorities and assignments
     
     
 
-##### 9\.
-    
-*   No exercise of remedies permitted by the Convention or this Protocol may be prevented or delayed after the date specified in paragraph 2\.
+*   9\. No exercise of remedies permitted by the Convention or this Protocol may be prevented or delayed after the date specified in paragraph 2\.
 
-##### 10\.
-    
-*   No obligations of the debtor under the agreement may be modified without the consent of the creditor.
+*   10\. No obligations of the debtor under the agreement may be modified without the consent of the creditor.
 
-##### 11\.
-    
-*   Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
+*   11\. Nothing in the preceding paragraph shall be construed to affect the authority, if any, of the insolvency administrator under the applicable law to terminate the agreement.
 
-##### 12\.
-    
-*   No rights or interests, except for non-consensual rights or interests of a category covered by a declaration pursuant to Article 39(1), shall have priority in insolvency proceedings over registered interests.
+*   12\. No rights or interests, except for non-consensual rights or interests of a category covered by a declaration pursuant to Article 39(1), shall have priority in insolvency proceedings over registered interests.
 
-##### 13\.
-    
-*   The Convention as modified by Article IX of this Protocol shall apply to the exercise of any remedies under this Article.
+*   13\. The Convention as modified by Article IX of this Protocol shall apply to the exercise of any remedies under this Article.
 
 ##### Alternative B
 
-##### 2\.
-    
-*   Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to Article XXX(3) whether it will:
+*   2\. Upon the occurrence of an insolvency-related event, the insolvency administrator or the debtor, as applicable, upon the request of the creditor, shall give notice to the creditor within the time specified in a declaration of a Contracting State pursuant to Article XXX(3) whether it will:
         
     *   (a) cure all defaults other than a default constituted by the opening of insolvency proceedings and agree to perform all future obligations, under the agreement and related transaction documents; or
     
@@ -11440,69 +11206,41 @@ Default remedies, priorities and assignments
     
     
 
-##### 3\.
-    
-*   The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
+*   3\. The applicable law referred to in sub-paragraph (b) of the preceding paragraph may permit the court to require the taking of any additional step or the provision of any additional guarantee.
 
-##### 4\.
-    
-*   The creditor shall provide evidence of its claims and proof that its international interest has been registered.
+*   4\. The creditor shall provide evidence of its claims and proof that its international interest has been registered.
 
-##### 5\.
-    
-*   If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.
+*   5\. If the insolvency administrator or the debtor, as applicable, does not give notice in conformity with paragraph 2, or when the insolvency administrator or the debtor has declared that it will give the creditor the opportunity to take possession of the aircraft object but fails to do so, the court may permit the creditor to take possession of the aircraft object upon such terms as the court may order and may require the taking of any additional step or the provision of any additional guarantee.
 
-##### 6\.
-    
-*   The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
+*   6\. The aircraft object shall not be sold pending a decision by a court regarding the claim and the international interest.
 
-### Article XII Insolvency assistance
+### Article XII---Insolvency assistance
 
-##### 1\.
-    
-*   This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
+*   1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
-##### 2\.
-    
-*   The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article XI.
+*   2\. The courts of a Contracting State in which an aircraft object is situated shall, in accordance with the law of the Contracting State, co-operate to the maximum extent possible with foreign courts and foreign insolvency administrators in carrying out the provisions of Article XI.
 
-### Article XIII De-registration and export request authorisation
+### Article XIII---De-registration and export request authorisation
 
-##### 1\.
-    
-*   This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
+*   1\. This Article applies only where a Contracting State has made a declaration pursuant to Article XXX(1).
 
-##### 2\.
-    
-*   Where the debtor has issued an irrevocable de-registration and export request authorisation substantially in the form annexed to this Protocol and has submitted such authorisation for recordation to the registry authority, that authorisation shall be so recorded.
+*   2\. Where the debtor has issued an irrevocable de-registration and export request authorisation substantially in the form annexed to this Protocol and has submitted such authorisation for recordation to the registry authority, that authorisation shall be so recorded.
 
-##### 3\.
-    
-*   The person in whose favour the authorisation has been issued (the ""authorised party"") or its certified designee shall be the sole person entitled to exercise the remedies specified in Article IX(1) and may do so only in accordance with the authorisation and applicable aviation safety laws and regulations. Such authorisation may not be revoked by the debtor without the consent in writing of the authorised party. The registry authority shall remove an authorisation from the registry at the request of the authorised party.
+*   3\. The person in whose favour the authorisation has been issued (the authorised party) or its certified designee shall be the sole person entitled to exercise the remedies specified in Article IX(1) and may do so only in accordance with the authorisation and applicable aviation safety laws and regulations. Such authorisation may not be revoked by the debtor without the consent in writing of the authorised party. The registry authority shall remove an authorisation from the registry at the request of the authorised party.
 
-##### 4\.
-    
-*   The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.
+*   4\. The registry authority and other administrative authorities in Contracting States shall expeditiously co-operate with and assist the authorised party in the exercise of the remedies specified in Article IX.
 
-### Article XIV Modification of priority provisions
+### Article XIV---Modification of priority provisions
 
-##### 1\.
-    
-*   A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.
+*   1\. A buyer of an aircraft object under a registered sale acquires its interest in that object free from an interest subsequently registered and from an unregistered interest, even if the buyer has actual knowledge of the unregistered interest.
 
-##### 2\.
-    
-*   A buyer of an aircraft object acquires its interest in that object subject to an interest registered at the time of its acquisition.
+*   2\. A buyer of an aircraft object acquires its interest in that object subject to an interest registered at the time of its acquisition.
 
-##### 3\.
-    
-*   Ownership of or another right or interest in an aircraft engine shall not be affected by its installation on or removal from an aircraft.
+*   3\. Ownership of or another right or interest in an aircraft engine shall not be affected by its installation on or removal from an aircraft.
 
-##### 4\.
-    
-*   Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
+*   4\. Article 29(7) of the Convention applies to an item, other than an object, installed on an airframe, aircraft engine or helicopter.
 
-### Article XV Modification of assignment provisions
+### Article XV---Modification of assignment provisions
 
 Article 33(1) of the Convention applies as if the following were added immediately after sub-paragraph (b):
 
@@ -11510,11 +11248,9 @@ Article 33(1) of the Convention applies as if the following were added immediate
 > 
 > 
 
-### Article XVI Debtor provisions
+### Article XVI---Debtor provisions
 
-##### 1\.
-    
-*   In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
+*   1\. In the absence of a default within the meaning of Article 11 of the Convention, the debtor shall be entitled to the quiet possession and use of the object in accordance with the agreement as against:
         
     *   (a) its creditor and the holder of any interest from which the debtor takes free pursuant to Article 29(4) of the Convention or, in the capacity of buyer, Article XIV(1) of this Protocol, unless and to the extent that the debtor has otherwise agreed; and
     
@@ -11522,183 +11258,117 @@ Article 33(1) of the Convention applies as if the following were added immediate
     
     
 
-##### 2\.
-    
-*   Nothing in the Convention or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.
+*   2\. Nothing in the Convention or this Protocol affects the liability of a creditor for any breach of the agreement under the applicable law in so far as that agreement relates to an aircraft object.
 
 ## Chapter III  
 Registry provisions relating to international interests in aircraft objects
 
-### Article XVII The Supervisory Authority and the Registrar
+### Article XVII---The Supervisory Authority and the Registrar
 
-##### 1\.
-    
-*   The Supervisory Authority shall be the international entity designated by a Resolution adopted by the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol.
+*   1\. The Supervisory Authority shall be the international entity designated by a Resolution adopted by the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol.
 
-##### 2\.
-    
-*   Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.
+*   2\. Where the international entity referred to in the preceding paragraph is not able and willing to act as Supervisory Authority, a Conference of Signatory and Contracting States shall be convened to designate another Supervisory Authority.
 
-##### 3\.
-    
-*   The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
+*   3\. The Supervisory Authority and its officers and employees shall enjoy such immunity from legal and administrative process as is provided under the rules applicable to them as an international entity or otherwise.
 
-##### 4\.
-    
-*   The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
+*   4\. The Supervisory Authority may establish a commission of experts, from among persons nominated by Signatory and Contracting States and having the necessary qualifications and experience, and entrust it with the task of assisting the Supervisory Authority in the discharge of its functions.
 
-##### 5\.
-    
-*   The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.
+*   5\. The first Registrar shall operate the International Registry for a period of five years from the date of entry into force of this Protocol. Thereafter, the Registrar shall be appointed or reappointed at regular five-yearly intervals by the Supervisory Authority.
 
-### Article XVIII First regulations
+### Article XVIII---First regulations
 
 The first regulations shall be made by the Supervisory Authority so as to take effect upon the entry into force of this Protocol.
 
-### Article XIX Designated entry points
+### Article XIX---Designated entry points
 
-##### 1\.
-    
-*   Subject to paragraph 2, a Contracting State may at any time designate an entity or entities in its territory as the entry point or entry points through which there shall or may be transmitted to the International Registry information required for registration other than registration of a notice of a national interest or a right or interest under Article 40 in either case arising under the laws of another State.
+*   1\. Subject to paragraph 2, a Contracting State may at any time designate an entity or entities in its territory as the entry point or entry points through which there shall or may be transmitted to the International Registry information required for registration other than registration of a notice of a national interest or a right or interest under Article 40 in either case arising under the laws of another State.
 
-##### 2\.
-    
-*   A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.
+*   2\. A designation made under the preceding paragraph may permit, but not compel, use of a designated entry point or entry points for information required for registrations in respect of aircraft engines.
 
-### Article XX Additional modifications to Registry provisions
+### Article XX---Additional modifications to Registry provisions
 
-##### 1\.
-    
-*   For the purposes of Article 19(6) of the Convention, the search criteria for an aircraft object shall be the name of its manufacturer, its manufacturer's serial number and its model designation, supplemented as necessary to ensure uniqueness. Such supplementary information shall be specified in the regulations.
+*   1\. For the purposes of Article 19(6) of the Convention, the search criteria for an aircraft object shall be the name of its manufacturer, its manufacturer's serial number and its model designation, supplemented as necessary to ensure uniqueness. Such supplementary information shall be specified in the regulations.
 
-##### 2\.
-    
-*   For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
+*   2\. For the purposes of Article 25(2) of the Convention and in the circumstances there described, the holder of a registered prospective international interest or a registered prospective assignment of an international interest or the person in whose favour a prospective sale has been registered shall take such steps as are within its power to procure the discharge of the registration no later than five working days after the receipt of the demand described in such paragraph.
 
-##### 3\.
-    
-*   The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
+*   3\. The fees referred to in Article 17(2)(h) of the Convention shall be determined so as to recover the reasonable costs of establishing, operating and regulating the International Registry and the reasonable costs of the Supervisory Authority associated with the performance of the functions, exercise of the powers, and discharge of the duties contemplated by Article 17(2) of the Convention.
 
-##### 4\.
-    
-*   The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
+*   4\. The centralised functions of the International Registry shall be operated and administered by the Registrar on a twenty-four hour basis. The various entry points shall be operated at least during working hours in their respective territories.
 
-##### 5\.
-    
-*   The amount of the insurance or financial guarantee referred to in Article 28(4) of the Convention shall, in respect of each event, not be less than the maximum value of an aircraft object as determined by the Supervisory Authority.
+*   5\. The amount of the insurance or financial guarantee referred to in Article 28(4) of the Convention shall, in respect of each event, not be less than the maximum value of an aircraft object as determined by the Supervisory Authority.
 
-##### 6\.
-    
-*   Nothing in the Convention shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under Article 28 of the Convention.
+*   6\. Nothing in the Convention shall preclude the Registrar from procuring insurance or a financial guarantee covering events for which the Registrar is not liable under Article 28 of the Convention.
 
 ## Chapter IV  
 Jurisdiction
 
-### Article XXI Modification of jurisdiction provisions
+### Article XXI---Modification of jurisdiction provisions
 
 For the purposes of Article 43 of the Convention and subject to Article 42 of the Convention, a court of a Contracting State also has jurisdiction where the object is a helicopter, or an airframe pertaining to an aircraft, for which that State is the State of registry.
 
-### Article XXII Waivers of sovereign immunity
+### Article XXII---Waivers of sovereign immunity
 
-##### 1\.
-    
-*   Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in Article 42 or Article 43 of the Convention or relating to enforcement of rights and interests relating to an aircraft object under the Convention shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.
+*   1\. Subject to paragraph 2, a waiver of sovereign immunity from jurisdiction of the courts specified in Article 42 or Article 43 of the Convention or relating to enforcement of rights and interests relating to an aircraft object under the Convention shall be binding and, if the other conditions to such jurisdiction or enforcement have been satisfied, shall be effective to confer jurisdiction and permit enforcement, as the case may be.
 
-##### 2\.
-    
-*   A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.
+*   2\. A waiver under the preceding paragraph must be in writing and contain a description of the aircraft object.
 
 ## Chapter V  
 Relationship with other conventions
 
-### Article XXIII Relationship with the Convention on the International Recognition of Rights in Aircraft
+### Article XXIII---Relationship with the Convention on the International Recognition of Rights in Aircraft
 
 The Convention shall, for a Contracting State that is a party to the _Convention on the International Recognition of Rights in Aircraft_, signed at Geneva on 19 June 1948, supersede that Convention as it relates to aircraft, as defined in this Protocol, and to aircraft objects. However, with respect to rights or interests not covered or affected by the present Convention, the Geneva Convention shall not be superseded.
 
-### Article XXIV Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
+### Article XXIV---Relationship with the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft
 
-##### 1\.
-    
-*   The Convention shall, for a Contracting State that is a Party to the _Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft_, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
+*   1\. The Convention shall, for a Contracting State that is a Party to the Convention for the Unification of Certain Rules Relating to the Precautionary Attachment of Aircraft, signed at Rome on 29 May 1933, supersede that Convention as it relates to aircraft, as defined in this Protocol.
 
-##### 2\.
-    
-*   A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.
+*   2\. A Contracting State Party to the above Convention may declare, at the time of ratification, acceptance, approval of, or accession to this Protocol, that it will not apply this Article.
 
-### Article XXV Relationship with the UNIDROIT Convention on International Financial Leasing
+### Article XXV---Relationship with the UNIDROIT Convention on International Financial Leasing
 
 The Convention shall supersede the _UNIDROIT Convention on International Financial Leasing_, signed at Ottawa on 28 May 1988, as it relates to aircraft objects.
 
 ## Chapter VI  
 Final provisions
 
-### Article XXVI Signature, ratification, acceptance, approval or accession
+### Article XXVI---Signature, ratification, acceptance, approval or accession
 
-##### 1\.
-    
-*   This Protocol shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001\. After 16 November 2001, this Protocol shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article XXVIII.
+*   1\. This Protocol shall be open for signature in Cape Town on 16 November 2001 by States participating in the Diplomatic Conference to Adopt a Mobile Equipment Convention and an Aircraft Protocol held at Cape Town from 29 October to 16 November 2001\. After 16 November 2001, this Protocol shall be open to all States for signature at the Headquarters of the International Institute for the Unification of Private Law (UNIDROIT) in Rome until it enters into force in accordance with Article XXVIII.
 
-##### 2\.
-    
-*   This Protocol shall be subject to ratification, acceptance or approval by States which have signed it.
+*   2\. This Protocol shall be subject to ratification, acceptance or approval by States which have signed it.
 
-##### 3\.
-    
-*   Any State which does not sign this Protocol may accede to it at any time. 
+*   3\. Any State which does not sign this Protocol may accede to it at any time. 
 
-##### 4\.
-    
-*   Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
+*   4\. Ratification, acceptance, approval or accession is effected by the deposit of a formal instrument to that effect with the Depositary.
 
-##### 5\.
-    
-*   A State may not become a Party to this Protocol unless it is or becomes also a Party to the Convention.
+*   5\. A State may not become a Party to this Protocol unless it is or becomes also a Party to the Convention.
 
-### Article XXVII Regional Economic Integration Organisations
+### Article XXVII---Regional Economic Integration Organisations
 
-##### 1\.
-    
-*   A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
+*   1\. A Regional Economic Integration Organisation which is constituted by sovereign States and has competence over certain matters governed by this Protocol may similarly sign, accept, approve or accede to this Protocol. The Regional Economic Integration Organisation shall in that case have the rights and obligations of a Contracting State, to the extent that that Organisation has competence over matters governed by this Protocol. Where the number of Contracting States is relevant in this Protocol, the Regional Economic Integration Organisation shall not count as a Contracting State in addition to its Member States which are Contracting States.
 
-##### 2\.
-    
-*   The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
+*   2\. The Regional Economic Integration Organisation shall, at the time of signature, acceptance, approval or accession, make a declaration to the Depositary specifying the matters governed by this Protocol in respect of which competence has been transferred to that Organisation by its Member States. The Regional Economic Integration Organisation shall promptly notify the Depositary of any changes to the distribution of competence, including new transfers of competence, specified in the declaration under this paragraph.
 
-##### 3\.
-    
-*   Any reference to a ""Contracting State"" or ""Contracting States"" or ""State Party"" or ""States Parties"" in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.
+*   3\. Any reference to a Contracting State or Contracting States or State Party or States Parties in this Protocol applies equally to a Regional Economic Integration Organisation where the context so requires.
 
-### Article XXVIII Entry into force
+### Article XXVIII---Entry into force
 
-##### 1\.
-    
-*   This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.
+*   1\. This Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of the eighth instrument of ratification, acceptance, approval or accession, between the States which have deposited such instruments.
 
-##### 2\.
-    
-*   For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
+*   2\. For other States this Protocol enters into force on the first day of the month following the expiration of three months after the date of the deposit of its instrument of ratification, acceptance, approval or accession.
 
-### Article XXIX Territorial units
+### Article XXIX---Territorial units
 
-##### 1\.
-    
-*   If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
+*   1\. If a Contracting State has territorial units in which different systems of law are applicable in relation to the matters dealt with in this Protocol, it may, at the time of ratification, acceptance, approval or accession, declare that this Protocol is to extend to all its territorial units or only to one or more of them and may modify its declaration by submitting another declaration at any time.
 
-##### 2\.
-    
-*   Any such declaration shall state expressly the territorial units to which this Protocol applies.
+*   2\. Any such declaration shall state expressly the territorial units to which this Protocol applies.
 
-##### 3\.
-    
-*   If a Contracting State has not made any declaration under paragraph 1, this Protocol shall apply to all territorial units of that State.
+*   3\. If a Contracting State has not made any declaration under paragraph 1, this Protocol shall apply to all territorial units of that State.
 
-##### 4\.
-    
-*   Where a Contracting State extends this Protocol to one or more of its territorial units, declarations permitted under this Protocol may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
+*   4\. Where a Contracting State extends this Protocol to one or more of its territorial units, declarations permitted under this Protocol may be made in respect of each such territorial unit, and the declarations made in respect of one territorial unit may be different from those made in respect of another territorial unit.
 
-##### 5\.
-    
-*   If by virtue of a declaration under paragraph 1, this Protocol extends to one or more territorial units of a Contracting State:
+*   5\. If by virtue of a declaration under paragraph 1, this Protocol extends to one or more territorial units of a Contracting State:
         
     *   (a) the debtor is considered to be situated in a Contracting State only if it is incorporated or formed under a law in force in a territorial unit to which the Convention and this Protocol apply or if it has its registered office or statutory seat, centre of administration, place of business or habitual residence in a territorial unit to which the Convention and this Protocol apply;
     
@@ -11708,89 +11378,55 @@ Final provisions
     
     
 
-### Article XXX Declarations relating to certain provisions
+### Article XXX---Declarations relating to certain provisions
 
-##### 1\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of Articles VIII, XII and XIII of this Protocol.
+*   1\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply any one or more of Articles VIII, XII and XIII of this Protocol.
 
-##### 2\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply Article X of this Protocol, wholly or in part. If it so declares with respect to Article X(2), it shall specify the time-period required thereby.
+*   2\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply Article X of this Protocol, wholly or in part. If it so declares with respect to Article X(2), it shall specify the time-period required thereby.
 
-##### 3\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.
+*   3\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will apply the entirety of Alternative A, or the entirety of Alternative B of Article XI and, if so, shall specify the types of insolvency proceeding, if any, to which it will apply Alternative A and the types of insolvency proceeding, if any, to which it will apply Alternative B. A Contracting State making a declaration pursuant to this paragraph shall specify the time-period required by Article XI.
 
-##### 4\.
-    
-*   The courts of Contracting States shall apply Article XI in conformity with the declaration made by the Contracting State which is the primary insolvency jurisdiction.
+*   4\. The courts of Contracting States shall apply Article XI in conformity with the declaration made by the Contracting State which is the primary insolvency jurisdiction.
 
-##### 5\.
-    
-*   A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
+*   5\. A Contracting State may, at the time of ratification, acceptance, approval of, or accession to this Protocol, declare that it will not apply the provisions of Article XXI, wholly or in part. The declaration shall specify under which conditions the relevant Article will be applied, in case it will be applied partly, or otherwise which other forms of interim relief will be applied.
 
-### Article XXXI Declarations under the Convention
+### Article XXXI---Declarations under the Convention
 
 Declarations made under the Convention, including those made under Articles 39, 40, 50, 53, 54, 55, 57, 58 and 60 of the Convention, shall be deemed to have also been made under this Protocol unless stated otherwise.
 
-### Article XXXII Reservations and declarations
+### Article XXXII---Reservations and declarations
 
-##### 1\.
-    
-*   No reservations may be made to this Protocol but declarations authorised by Articles XXIV, XXIX, XXX, XXXI, XXXIII and XXXIV may be made in accordance with these provisions.
+*   1\. No reservations may be made to this Protocol but declarations authorised by Articles XXIV, XXIX, XXX, XXXI, XXXIII and XXXIV may be made in accordance with these provisions.
 
-##### 2\.
-    
-*   Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.
+*   2\. Any declaration or subsequent declaration or any withdrawal of a declaration made under this Protocol shall be notified in writing to the Depositary.
 
-### Article XXXIII Subsequent declarations
+### Article XXXIII---Subsequent declarations
 
-##### 1\.
-    
-*   A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
+*   1\. A State Party may make a subsequent declaration, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, at any time after the date on which this Protocol has entered into force for it, by notifying the Depositary to that effect.
 
-##### 2\.
-    
-*   Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
+*   2\. Any such subsequent declaration shall take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary. Where a longer period for that declaration to take effect is specified in the notification, it shall take effect upon the expiration of such longer period after receipt of the notification by the Depositary.
 
-##### 3\.
-    
-*   Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
+*   3\. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such subsequent declarations had been made, in respect of all rights and interests arising prior to the effective date of any such subsequent declaration.
 
-### Article XXXIV Withdrawal of declarations
+### Article XXXIV---Withdrawal of declarations
 
-##### 1\.
-    
-*   Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
+*   1\. Any State Party having made a declaration under this Protocol, other than a declaration made in accordance with Article XXXI under Article 60 of the Convention, may withdraw it at any time by notifying the Depositary. Such withdrawal is to take effect on the first day of the month following the expiration of six months after the date of receipt of the notification by the Depositary.
 
-##### 2\.
-    
-*   Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
+*   2\. Notwithstanding the previous paragraph, this Protocol shall continue to apply, as if no such withdrawal of declaration had been made, in respect of all rights and interests arising prior to the effective date of any such withdrawal.
 
-### Article XXXV Denunciations
+### Article XXXV---Denunciations
 
-##### 1\.
-    
-*   Any State Party may denounce this Protocol by notification in writing to the Depositary.
+*   1\. Any State Party may denounce this Protocol by notification in writing to the Depositary.
 
-##### 2\.
-    
-*   Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date of receipt of the notification by the Depositary.
+*   2\. Any such denunciation shall take effect on the first day of the month following the expiration of twelve months after the date of receipt of the notification by the Depositary.
 
-##### 3\.
-    
-*   Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
+*   3\. Notwithstanding the previous paragraphs, this Protocol shall continue to apply, as if no such denunciation had been made, in respect of all rights and interests arising prior to the effective date of any such denunciation.
 
-### Article XXXVI Review Conferences, amendments and related matters
+### Article XXXVI---Review Conferences, amendments and related matters
 
-##### 1\.
-    
-*   The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
+*   1\. The Depositary, in consultation with the Supervisory Authority, shall prepare reports yearly, or at such other time as the circumstances may require, for the States Parties as to the manner in which the international regime established in the Convention as amended by this Protocol has operated in practice. In preparing such reports, the Depositary shall take into account the reports of the Supervisory Authority concerning the functioning of the international registration system.
 
-##### 2\.
-    
-*   At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
+*   2\. At the request of not less than twenty-five per cent of the States Parties, Review Conferences of the States Parties shall be convened from time to time by the Depositary, in consultation with the Supervisory Authority, to consider:
         
     *   (a) the practical operation of the Convention as amended by this Protocol and its effectiveness in facilitating the asset-based financing and leasing of the objects covered by its terms;
     
@@ -11802,19 +11438,13 @@ Declarations made under the Convention, including those made under Articles 39, 
     
     
 
-##### 3\.
-    
-*   Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.
+*   3\. Any amendment to this Protocol shall be approved by at least a two-thirds majority of States Parties participating in the Conference referred to in the preceding paragraph and shall then enter into force in respect of States which have ratified, accepted or approved such amendment when it has been ratified, accepted or approved by eight States in accordance with the provisions of Article XXVIII relating to its entry into force.
 
-### Article XXXVII Depositary and its functions
+### Article XXXVII---Depositary and its functions
 
-##### 1\.
-    
-*   Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
+*   1\. Instruments of ratification, acceptance, approval or accession shall be deposited with the International Institute for the Unification of Private Law (UNIDROIT), which is hereby designated the Depositary.
 
-##### 2\.
-    
-*   The Depositary shall:
+*   2\. The Depositary shall:
         
     *   (a) inform all Contracting States of:
             
@@ -11891,7 +11521,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010][647].
+*   This Act is the [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010][650].
 
 ##### 2 Commencement
     
@@ -11899,7 +11529,7 @@ Commencementsee section 2
     
     (2) The rest of this Act comes into force on 1 August 2010\.
     
-    Section 2(1): sections 12--14 brought into force, on 1 November 2010, by the [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act Commencement Order 2010][648] (SR 2010/365).
+    Section 2(1): sections 12--14 brought into force, on 1 November 2010, by the [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act Commencement Order 2010][651] (SR 2010/365).
 
 ##### 3 Principal Act amended
     
@@ -11912,204 +11542,95 @@ Miscellaneous provisions
     
 *   Despite section 9 of this Act, which substitutes a new incorporation by reference provision, section 36 of the Civil Aviation Act 1990, as in force immediately before the commencement of this section, continues to apply to any material incorporated by reference under that section.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][649].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][650] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Civil Aviation Act 1990\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][651] ![](/images/external_link.gif).
+*   This is a reprint of the Civil Aviation Act 1990 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][652] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][652] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][653] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][653] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][654] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][655] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][654] and [17E][655] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][446]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 210][433]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][470]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 210][431]
-    
-    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][454]
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][457]
     
     [Civil Aviation (Montreal Convention) Order 2010][656] (SR 2010/367)
     
-    Limitation Act 2010 (2010 No 110): [section 58][599]
+    Limitation Act 2010 (2010 No 110): [section 58][601]
     
-    [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010][647] (2010 No 42)
+    [Civil Aviation (Cape Town Convention and Other Matters) Amendment Act 2010][650] (2010 No 42)
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][484]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][488]
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iii), (v), (vii)][371]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii), (iii), (v), (vii)][373]
     
     [Civil Aviation Amendment Act 2007][657] (2007 No 89)
     
-    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 32][500]
+    Summary Proceedings Amendment Act 2006 (2006 No 13): [section 32][503]
     
-    Crown Entities Act 2004 (2004 No 115): [section 200][373]
+    Crown Entities Act 2004 (2004 No 115): [section 200][375]
     
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][398]
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][400]
     
     [Civil Aviation Amendment Act (No 2) 2004][658] (2004 No 95)
     
     [Civil Aviation Amendment Act 2004][659] (2004 No 8)
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][369]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][371]
     
-    District Courts Amendment Act 2002 (2002 No 63): [section 4][513]
+    District Courts Amendment Act 2002 (2002 No 63): [section 4][517]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][619]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][621]
     
     [Civil Aviation Amendment Act 2002][660] (2002 No 15)
     
-    [Civil Aviation (Medical Certification) Amendment Act 2001][514] (2001 No 87)
+    [Civil Aviation (Medical Certification) Amendment Act 2001][518] (2001 No 87)
     
-    Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113): [section 10][430]
+    Transport Accident Investigation Commission Amendment Act 1999 (1999 No 113): [section 10][432]
     
-    Sale of Liquor Amendment Act 1999 (1999 No 92): [section 119][613]
+    Sale of Liquor Amendment Act 1999 (1999 No 92): [section 119][615]
     
     [Civil Aviation Amendment Act 1999][661] (1999 No 70)
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][372]
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][374]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][621]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6][623]
     
     Civil Aviation Amendment Act 1996 (1996 No 91)
     
-    Customs and Excise Act 1996 (1996 No 27) [section 289(1)][614]
+    Customs and Excise Act 1996 (1996 No 27) [section 289(1)][616]
     
     [Civil Aviation Amendment Act 1993][662] (1993 No 90)
     
-    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][433]
+    Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][435]
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][526]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][530]
     
     [Civil Aviation Amendment Act 1992][663] (1992 No 75)
     
     [Civil Aviation Amendment Act 1991][664] (1991 No 116)
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][501]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][504]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM214689
 [2]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM214691
 [3]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM214692
@@ -12252,519 +11773,519 @@ Amendments, repeals, and miscellaneous provisions
 [140]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM216995
 [141]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM216997
 [142]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM216998
-[143]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217101
-[144]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217102
-[145]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217104
-[146]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217107
-[147]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217109
-[148]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217111
-[149]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217114
-[150]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217116
-[151]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217117
-[152]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217119
-[153]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217121
-[154]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217123
-[155]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217126
-[156]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217128
-[157]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217130
-[158]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217132
-[159]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217134
-[160]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217137
-[161]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217139
-[162]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217142
-[163]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217144
-[164]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217146
-[165]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217150
-[166]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217152
-[167]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217153
-[168]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217160
-[169]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217163
-[170]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217166
-[171]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217168
-[172]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217169
-[173]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217176
-[174]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217178
-[175]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217180
-[176]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217195
-[177]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217197
-[178]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217413
-[179]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217416
-[180]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217418
-[181]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217421
-[182]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217423
-[183]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217428
-[184]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217431
-[185]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217433
-[186]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217447
-[187]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217450
-[188]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217453
-[189]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217456
-[190]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217458
-[191]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217460
-[192]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217462
-[193]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217463
-[194]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217465
-[195]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217475
-[196]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217477
-[197]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217478
-[198]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217479
-[199]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217480
-[200]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217483
-[201]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136011
-[202]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217486
-[203]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031110
-[204]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031108
-[205]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031183
-[206]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031185
-[207]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217488
-[208]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217490
-[209]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217492
-[210]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217494
-[211]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217800
-[212]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031190
-[213]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136016
-[214]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136017
-[215]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136018
-[216]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136019
-[217]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136020
-[218]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136022
-[219]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136023
-[220]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217802
-[221]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217803
-[222]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217804
-[223]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217805
-[224]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217807
-[225]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217808
-[226]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217809
-[227]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217810
-[228]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217812
-[229]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217828
-[230]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217831
-[231]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217833
-[232]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217834
-[233]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217836
-[234]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217838
-[235]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217840
-[236]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217842
-[237]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217844
-[238]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217846
-[239]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217848
-[240]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217850
-[241]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217851
-[242]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217853
-[243]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217855
-[244]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217857
-[245]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217859
-[246]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217862
-[247]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217864
-[248]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217865
-[249]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217867
-[250]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217869
-[251]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217871
-[252]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217873
-[253]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217875
-[254]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217877
-[255]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217879
-[256]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217881
-[257]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217883
-[258]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217884
-[259]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217886
-[260]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217888
-[261]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217889
-[262]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217891
-[263]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217893
-[264]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217894
-[265]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217896
-[266]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217897
-[267]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217899
-[268]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218001
-[269]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218002
-[270]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218011
-[271]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218012
-[272]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218013
-[273]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218014
-[274]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218016
-[275]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218040
-[276]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218042
-[277]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218050
-[278]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218052
-[279]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218055
-[280]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218058
-[281]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218070
-[282]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218074
-[283]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218079
-[284]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218081
-[285]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218083
-[286]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218088
-[287]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218090
-[288]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218093
-[289]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218094
-[290]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218096
-[291]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218098
-[292]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218500
-[293]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218502
-[294]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218504
-[295]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218506
-[296]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218508
-[297]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218511
-[298]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218513
-[299]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218531
-[300]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218533
-[301]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218535
-[302]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218537
-[303]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218539
-[304]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218541
-[305]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218543
-[306]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218545
-[307]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218547
-[308]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218549
-[309]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218551
-[310]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218553
-[311]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218555
-[312]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218557
-[313]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218559
-[314]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218561
-[315]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218563
-[316]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218565
-[317]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218567
-[318]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218568
-[319]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218570
-[320]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218571
-[321]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218572
-[322]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218573
-[323]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218574
-[324]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218577
-[325]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218586
-[326]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218589
-[327]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218593
-[328]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218596
-[329]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218599
-[330]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218702
-[331]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218704
-[332]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218706
-[333]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218708
-[334]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218710
-[335]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218714
-[336]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218716
-[337]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218720
-[338]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218728
-[339]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218729
-[340]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218733
-[341]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378654
-[342]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378200
-[343]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378213
-[344]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378214
-[345]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378215
-[346]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378216
-[347]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378217
-[348]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378218
-[349]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378219
-[350]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378220
-[351]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378221
-[352]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218735
-[353]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218736
-[354]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218743
-[355]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219171
-[356]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219602
-[357]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219632
-[358]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378223
-[359]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378463
-[360]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM219710
-[361]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM97376
-[362]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM204329
-[363]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM217805
-[364]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM439964
-[365]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143141
-[366]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268573
-[367]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239452
-[368]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117800
-[369]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM205009
-[370]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311029
-[371]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM1102349
-[372]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM427920
-[373]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM331111
-[374]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321229
-[375]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005719
-[376]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968801
-[377]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM98437
-[378]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239473
-[379]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268574
-[380]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268575
-[381]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269411
-[382]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117846
-[383]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268576
-[384]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268577
-[385]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239474
-[386]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM296638
-[387]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM297081
-[388]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM64784
-[389]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM65366
-[390]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268578
-[391]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239475
-[392]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250162
-[393]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268579
-[394]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239476
-[395]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968810
-[396]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250163
-[397]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321236
-[398]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM322600
-[399]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239492
-[400]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117854
-[401]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143146
-[402]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268581
-[403]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268582
-[404]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239493
-[405]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143148
-[406]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143149
-[407]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239494
-[408]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143151
-[409]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268584
-[410]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239495
-[411]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268585
-[412]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268586
-[413]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330308
-[414]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330309
-[415]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239496
-[416]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311030
-[417]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221861
-[418]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136781
-[419]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136633
-[420]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136642
-[421]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136646
-[422]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136648
-[423]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136654
-[424]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136660
-[425]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136667
-[426]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136813
-[427]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136815
-[428]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239497
-[429]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143152
-[430]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM43062
-[431]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136940
-[432]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM291803
-[433]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM293026
-[434]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268587
-[435]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143153
-[436]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117813
-[437]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239498
-[438]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195534
-[439]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195097
-[440]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM129507
-[441]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240001
-[442]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321241
-[443]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005721
-[444]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117847
-[445]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268590
-[446]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240002
-[447]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240003
-[448]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005722
-[449]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321242
-[450]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240004
-[451]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3366850
-[452]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM381228
-[453]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005723
-[454]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3366997
-[455]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005724
-[456]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311032
-[457]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195549
-[458]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM128740
-[459]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005726
-[460]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005728
-[461]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM379823
-[462]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268591
-[463]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117848
-[464]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268592
-[465]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268593
-[466]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88405
-[467]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269412
-[468]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268594
-[469]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143155
-[470]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268595
-[471]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117849
-[472]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240005
-[473]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268596
-[474]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268597
-[475]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240008
-[476]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240009
-[477]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240010
-[478]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311044
-[479]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268598
-[480]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143156
-[481]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240011
-[482]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143157
-[483]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240012
-[484]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM1441347
-[485]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968812
-[486]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968813
-[487]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240013
-[488]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310742
-[489]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311346
-[490]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268599
-[491]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM312656
-[492]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM331903
-[493]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240014
-[494]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240015
-[495]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53398
-[496]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53522
-[497]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53528
-[498]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53538
-[499]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53587
-[500]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM372295
-[501]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM162942
-[502]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311371
-[503]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311858
-[504]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310749
-[505]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314098
-[506]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314068
-[507]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143159
-[508]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240043
-[509]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143162
-[510]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM147653
-[511]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243909
-[512]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243795
-[513]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM168713
-[514]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM116891
-[515]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269401
-[516]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117853
-[517]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005729
-[518]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311033
-[519]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269402
-[520]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329641
-[521]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329630
-[522]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329954
-[523]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329955
-[524]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM160808
-[525]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240045
-[526]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM289849
-[527]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311034
-[528]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321243
-[529]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221842
-[530]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330360
-[531]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321245
-[532]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311035
-[533]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240046
-[534]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311036
-[535]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
-[536]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330548
-[537]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
-[538]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
-[539]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
-[540]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
-[541]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
-[542]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
-[543]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
-[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
-[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
-[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240048
-[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269403
-[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409116
-[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143165
-[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968815
-[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240049
-[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968816
-[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240050
-[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968817
-[555]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391804
-[556]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968819
-[557]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392526
-[558]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392534
-[559]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392519
-[560]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392290
-[561]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311042
-[562]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968830
-[563]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143169
-[564]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240051
-[565]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321247
-[566]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143170
-[567]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409204
-[568]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409201
-[569]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968831
-[570]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241850
-[571]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241851
-[572]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM435105
-[573]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM256236
-[574]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968841
-[575]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269404
-[576]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409172
-[577]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409173
-[578]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409174
-[579]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409176
-[580]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM72984
-[581]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968842
-[582]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143173
-[583]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143176
-[584]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143177
-[585]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM248025
-[586]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88263
-[587]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30801
-[588]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143178
-[589]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143183
-[590]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM265858
-[591]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143184
-[592]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143185
-[593]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143186
-[594]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321248
-[595]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143189
-[596]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM405711
-[597]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033251
-[598]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143190
-[599]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033287
-[600]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143191
-[601]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143193
-[602]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143194
-[603]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143195
-[604]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM264488
-[605]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143197
-[606]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240052
-[607]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM242491
-[608]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM45426
-[609]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM48325
-[610]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM125644
-[611]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM377336
-[612]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM165115
-[613]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM33168
-[614]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM380185
-[615]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240089
-[616]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240091
-[617]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269405
-[618]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM149788
-[619]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM151437
-[620]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269407
-[621]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM408960
-[622]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143607
-[623]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143608
-[624]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968843
-[625]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250166
-[626]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240090
-[627]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269408
-[628]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250167
-[629]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005730
-[630]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391475
-[631]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM189038
-[632]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM218042
-[633]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM332332
-[634]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM261466
-[635]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269409
-[636]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311043
-[637]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219130
-[638]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219131
-[639]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446395
-[640]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446842
-[641]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219150
-[642]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446000
-[643]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30802
-[644]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143198
-[645]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3303016
-[646]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005754
-[647]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005705
-[648]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3303904
-[649]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136500
-[650]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM4686448
-[651]: http://www.pco.parliament.govt.nz/reprints/
-[652]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195439
-[653]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[654]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195468
-[655]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM195470
+[143]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM5366600
+[144]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217101
+[145]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217102
+[146]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217104
+[147]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217107
+[148]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217109
+[149]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217111
+[150]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217114
+[151]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217116
+[152]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217117
+[153]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217119
+[154]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217121
+[155]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217123
+[156]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217126
+[157]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217128
+[158]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217130
+[159]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217132
+[160]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217134
+[161]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217137
+[162]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217139
+[163]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217142
+[164]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217144
+[165]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217146
+[166]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217150
+[167]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217152
+[168]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217153
+[169]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217160
+[170]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217163
+[171]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217166
+[172]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217168
+[173]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217169
+[174]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217176
+[175]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217178
+[176]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217180
+[177]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217195
+[178]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217197
+[179]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217413
+[180]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217416
+[181]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217418
+[182]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217421
+[183]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217423
+[184]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217428
+[185]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217431
+[186]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217433
+[187]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217447
+[188]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217450
+[189]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217453
+[190]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217456
+[191]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217458
+[192]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217460
+[193]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217462
+[194]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217463
+[195]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217465
+[196]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217475
+[197]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217477
+[198]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217478
+[199]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217479
+[200]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217480
+[201]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217483
+[202]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136011
+[203]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217486
+[204]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031110
+[205]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031108
+[206]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031183
+[207]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031185
+[208]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217488
+[209]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217490
+[210]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217492
+[211]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217494
+[212]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217800
+[213]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1031190
+[214]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136016
+[215]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136017
+[216]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136018
+[217]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136019
+[218]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136020
+[219]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136022
+[220]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM1136023
+[221]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217802
+[222]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217803
+[223]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217804
+[224]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217805
+[225]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217807
+[226]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217808
+[227]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217809
+[228]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217810
+[229]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217812
+[230]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217828
+[231]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217831
+[232]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217833
+[233]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217834
+[234]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217836
+[235]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217838
+[236]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217840
+[237]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217842
+[238]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217844
+[239]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217846
+[240]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217848
+[241]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217850
+[242]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217851
+[243]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217853
+[244]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217855
+[245]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217857
+[246]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217859
+[247]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217862
+[248]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217864
+[249]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217865
+[250]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217867
+[251]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217869
+[252]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217871
+[253]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217873
+[254]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217875
+[255]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217877
+[256]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217879
+[257]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217881
+[258]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217883
+[259]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217884
+[260]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217886
+[261]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217888
+[262]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217889
+[263]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217891
+[264]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217893
+[265]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217894
+[266]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217896
+[267]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217897
+[268]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM217899
+[269]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218001
+[270]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218002
+[271]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218011
+[272]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218012
+[273]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218013
+[274]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218014
+[275]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218016
+[276]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218040
+[277]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218042
+[278]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218050
+[279]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218052
+[280]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218055
+[281]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218058
+[282]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218070
+[283]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218074
+[284]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218079
+[285]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218081
+[286]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218083
+[287]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218088
+[288]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218090
+[289]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218093
+[290]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218094
+[291]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218096
+[292]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218098
+[293]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218500
+[294]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218502
+[295]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218504
+[296]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218506
+[297]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218508
+[298]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218511
+[299]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218513
+[300]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218531
+[301]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218533
+[302]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218535
+[303]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218537
+[304]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218539
+[305]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218541
+[306]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218543
+[307]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218545
+[308]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218547
+[309]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218549
+[310]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218551
+[311]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218553
+[312]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218555
+[313]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218557
+[314]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218559
+[315]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218561
+[316]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218563
+[317]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218565
+[318]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218567
+[319]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218568
+[320]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218570
+[321]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218571
+[322]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218572
+[323]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218573
+[324]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218574
+[325]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218577
+[326]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218586
+[327]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218589
+[328]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218593
+[329]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218596
+[330]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218599
+[331]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218702
+[332]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218704
+[333]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218706
+[334]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218708
+[335]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218710
+[336]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218714
+[337]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218716
+[338]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218720
+[339]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM5367049
+[340]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218728
+[341]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218729
+[342]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218733
+[343]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378654
+[344]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378200
+[345]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378213
+[346]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378214
+[347]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378215
+[348]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378216
+[349]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378217
+[350]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378218
+[351]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378219
+[352]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378220
+[353]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378221
+[354]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218735
+[355]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218736
+[356]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM218743
+[357]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219171
+[358]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219602
+[359]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219632
+[360]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378223
+[361]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM3378463
+[362]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM219710
+[363]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM97376
+[364]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM204329
+[365]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM217805
+[366]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM439964
+[367]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143141
+[368]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268573
+[369]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239452
+[370]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117800
+[371]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM205009
+[372]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311029
+[373]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM1102349
+[374]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM427920
+[375]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM331111
+[376]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321229
+[377]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005719
+[378]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968801
+[379]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM98437
+[380]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239473
+[381]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268574
+[382]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268575
+[383]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269411
+[384]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117846
+[385]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268576
+[386]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268577
+[387]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239474
+[388]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM296638
+[389]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM297081
+[390]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM64784
+[391]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM65366
+[392]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268578
+[393]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239475
+[394]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250162
+[395]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268579
+[396]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239476
+[397]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968810
+[398]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250163
+[399]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321236
+[400]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM322600
+[401]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239492
+[402]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117854
+[403]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143146
+[404]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268581
+[405]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268582
+[406]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239493
+[407]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143148
+[408]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143149
+[409]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239494
+[410]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143151
+[411]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268584
+[412]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239495
+[413]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268585
+[414]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268586
+[415]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330308
+[416]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330309
+[417]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239496
+[418]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311030
+[419]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221861
+[420]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136781
+[421]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136633
+[422]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136642
+[423]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136646
+[424]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136648
+[425]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136654
+[426]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136660
+[427]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136667
+[428]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136813
+[429]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136815
+[430]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239497
+[431]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143152
+[432]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM43062
+[433]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2136940
+[434]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM291803
+[435]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM293026
+[436]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268587
+[437]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143153
+[438]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117813
+[439]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM239498
+[440]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2997643
+[441]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998573
+[442]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM129507
+[443]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240001
+[444]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321241
+[445]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005721
+[446]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998633
+[447]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117847
+[448]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268590
+[449]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240002
+[450]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240003
+[451]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005722
+[452]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321242
+[453]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240004
+[454]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3366850
+[455]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM381228
+[456]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005723
+[457]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3366997
+[458]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005724
+[459]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311032
+[460]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2997693
+[461]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM128740
+[462]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005726
+[463]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005728
+[464]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM379823
+[465]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268591
+[466]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117848
+[467]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268592
+[468]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268593
+[469]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88405
+[470]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3360714
+[471]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269412
+[472]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268594
+[473]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143155
+[474]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268595
+[475]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117849
+[476]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240005
+[477]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268596
+[478]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268597
+[479]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240008
+[480]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240009
+[481]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240010
+[482]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311044
+[483]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268598
+[484]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143156
+[485]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240011
+[486]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143157
+[487]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240012
+[488]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM1441347
+[489]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968812
+[490]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968813
+[491]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3360057
+[492]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240013
+[493]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311346
+[494]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM268599
+[495]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3360366
+[496]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3360067
+[497]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240015
+[498]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53398
+[499]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53522
+[500]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53528
+[501]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53538
+[502]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM53587
+[503]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM372295
+[504]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM162942
+[505]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310742
+[506]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311371
+[507]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311858
+[508]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM310749
+[509]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314098
+[510]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM314068
+[511]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143159
+[512]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240043
+[513]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143162
+[514]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM147653
+[515]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243909
+[516]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM243795
+[517]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM168713
+[518]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM116891
+[519]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269401
+[520]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM117853
+[521]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005729
+[522]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311033
+[523]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269402
+[524]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329641
+[525]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329630
+[526]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329954
+[527]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM329955
+[528]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM160808
+[529]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240045
+[530]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM289849
+[531]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311034
+[532]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321243
+[533]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM221842
+[534]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330360
+[535]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321245
+[536]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311035
+[537]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240046
+[538]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311036
+[539]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330540
+[540]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM330548
+[541]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311038
+[542]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM51363
+[543]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321246
+[544]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143163
+[545]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240047
+[546]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311039
+[547]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311040
+[548]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143164
+[549]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311041
+[550]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240048
+[551]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269403
+[552]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409116
+[553]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143165
+[554]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968815
+[555]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968816
+[556]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968817
+[557]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391804
+[558]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968819
+[559]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392526
+[560]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392534
+[561]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392519
+[562]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM392290
+[563]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311042
+[564]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968830
+[565]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143169
+[566]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240051
+[567]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321247
+[568]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143170
+[569]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409204
+[570]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409201
+[571]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968831
+[572]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241850
+[573]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM241851
+[574]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM435105
+[575]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM256236
+[576]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968841
+[577]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269404
+[578]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409172
+[579]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409173
+[580]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409174
+[581]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM409176
+[582]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM72984
+[583]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968842
+[584]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143173
+[585]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143176
+[586]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143177
+[587]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM248025
+[588]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM88263
+[589]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30801
+[590]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143178
+[591]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143183
+[592]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM265858
+[593]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143184
+[594]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143185
+[595]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143186
+[596]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321248
+[597]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143189
+[598]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM405711
+[599]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033251
+[600]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143190
+[601]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2033287
+[602]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143191
+[603]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143193
+[604]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143194
+[605]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143195
+[606]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM264488
+[607]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143197
+[608]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240052
+[609]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM242491
+[610]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM45426
+[611]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM48325
+[612]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM125644
+[613]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM377336
+[614]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM165115
+[615]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM33168
+[616]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM380185
+[617]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240089
+[618]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240091
+[619]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269405
+[620]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM149788
+[621]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM151437
+[622]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269407
+[623]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM408960
+[624]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143607
+[625]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143608
+[626]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968843
+[627]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250166
+[628]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM240090
+[629]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3360059
+[630]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269408
+[631]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM250167
+[632]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005730
+[633]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM391475
+[634]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM189038
+[635]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM218042
+[636]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM332332
+[637]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM261466
+[638]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM269409
+[639]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM311043
+[640]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219130
+[641]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219131
+[642]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446395
+[643]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446842
+[644]: http://www.legislation.govt.nz/act/public/1990/0098/latest/whole.html#DLM219150
+[645]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM446000
+[646]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM30802
+[647]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM143198
+[648]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3303016
+[649]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005754
+[650]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3005705
+[651]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3303904
+[652]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998516
+[653]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998515
+[654]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM2998532
+[655]: http://www.pco.parliament.govt.nz/editorial-conventions/
 [656]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM3303008
 [657]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM968794
 [658]: http://www.legislation.govt.nz/act/public/1990/0098/latest/link.aspx?id=DLM321223
