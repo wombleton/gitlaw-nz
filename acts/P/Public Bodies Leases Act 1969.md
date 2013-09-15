@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2004
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,76 +25,76 @@ This Act is administered by the Department of Internal Affairs.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Leasing authorities][4]
+[3][4][][4][Leasing authorities][4]
 
-[4][5] [Leasing powers conferred on leasing authorities by other Acts or by trusts][5]
+[4][5][][5][Leasing powers conferred on leasing authorities by other Acts or by trusts][5]
 
-[5][6] [Leasing of land to Crown][6]
+[5][6][][6][Leasing of land to Crown][6]
 
 [Part 1][7]  
 [Leases of land other than farm land][7]
 
-[6][8] [Application][8]
+[6][8][][8][Application][8]
 
-[7][9] [Powers of leasing authority to grant leases][9]
+[7][9][][9][Powers of leasing authority to grant leases][9]
 
-[8][10] [Leases may be sold by public auction or public tender][10]
+[8][10][][10][Leases may be sold by public auction or public tender][10]
 
-[9][11] [Leasing authority may offer land for lease at a rent determined by leasing authority][11]
+[9][11][][11][Leasing authority may offer land for lease at a rent determined by leasing authority][11]
 
-[10][12] [Payment by incoming lessee of value of improvements][12]
+[10][12][][12][Payment by incoming lessee of value of improvements][12]
 
 [Part 2][13]  
 [Leases of farm land][13]
 
-[11][14] [Powers of leasing authority to grant leases][14]
+[11][14][][14][Powers of leasing authority to grant leases][14]
 
-[12][15] [Short tenancies for farming purposes][15]
+[12][15][][15][Short tenancies for farming purposes][15]
 
-[13][16] [Renewable leases][16]
+[13][16][][16][Renewable leases][16]
 
-[14][17] [Compensation for improvements][17]
+[14][17][][17][Compensation for improvements][17]
 
-[15][18] [Land to be properly farmed][18]
+[15][18][][18][Land to be properly farmed][18]
 
-[16][19] [Inspection of leased land][19]
+[16][19][][19][Inspection of leased land][19]
 
 [Part 3][20]  
 [General provisions][20]
 
-[17][21] [Public applications for lease][21]
+[17][21][][21][Public applications for lease][21]
 
-[18][22] [Commencement of lease][22]
+[18][22][][22][Commencement of lease][22]
 
-[19][23] [Reservation of rack rent][23]
+[19][23][][23][Reservation of rack rent][23]
 
-[20][24] [Covenants and conditions in leases][24]
+[20][24][][24][Covenants and conditions in leases][24]
 
-[21][25] [Lease may authorise waste][25] \[Repealed\]
+[21][25][][25][Lease may authorise waste][25] \[Repealed\]
 
-[22][26] [Periodic review of rents][26]
+[22][26][][26][Periodic review of rents][26]
 
-[23][27] [Powers of leasing authority as to surrender of lease, reduction of rent, etc][27]
+[23][27][][27][Powers of leasing authority as to surrender of lease, reduction of rent, etc][27]
 
-[23A][28] [Leases may be granted to subtenants][28]
+[23A][28][][28][Leases may be granted to subtenants][28]
 
-[23B][29] [Power to lease reserves exercisable only by special order, unless otherwise provided][29] \[Repealed\]
+[23B][29][][29][Power to lease reserves exercisable only by special order, unless otherwise provided][29] \[Repealed\]
 
-[23C][30] [Leasing of adjoining land when leased land taken or acquired for public work][30]
+[23C][30][][30][Leasing of adjoining land when leased land taken or acquired for public work][30]
 
-[24][31] [Lease not invalidated by failure of leasing authority to observe provisions of Act][31]
+[24][31][][31][Lease not invalidated by failure of leasing authority to observe provisions of Act][31]
 
-[25][32] [Service of notices][32]
+[25][32][][32][Service of notices][32]
 
-[26][33] [Application of Act to renewals of existing leases][33]
+[26][33][][33][Application of Act to renewals of existing leases][33]
 
-[27][34] [Grant of renewable leases of farm land to existing lessees without competition][34]
+[27][34][][34][Grant of renewable leases of farm land to existing lessees without competition][34]
 
-[28][35] [Repeals and consequential amendments][35]
+[28][35][][35][Repeals and consequential amendments][35]
 
 [Schedule 1][36]  
 [Provisions of renewable lease granted under section 7(1)(e) or section 11(b)][36]
@@ -351,7 +351,9 @@ Leases of farm land
     
 *   (1) Any person authorised by the lessor in writing shall, on giving not less than 48 hours' notice in writing to the lessee or his agent, be entitled, at all reasonable times, to enter any farm land held on lease granted or renewed after the commencement of this Act by any lessor that is a leasing authority or a public body, whether the lease is granted or renewed under this Act or any other enactment, for the purpose of inspecting the land in order to ascertain whether the covenants implied on the part of the lessee by [section 15][18] have been observed and performed by the lessee.
     
-    (2) Every person who obstructs any person authorised as aforesaid in the making of an inspection, or who refuses to answer any reasonable question put to him in writing by any person so authorised, or who makes to him any wilful mis-statement, commits an offence, and is liable on summary conviction to a fine not exceeding $100\.
+    (2) Every person who obstructs any person authorised as aforesaid in the making of an inspection, or who refuses to answer any reasonable question put to him in writing by any person so authorised, or who makes to him any wilful mis-statement, commits an offence, and is liable on conviction to a fine not exceeding $100\.
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 General provisions
@@ -424,7 +426,7 @@ General provisions
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 October 1991, by [section 362][48] of the Resource Management Act 1991 (1991 No 69).
+    Section 21: repealed, on 1 October 1991, by [section 362][49] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 22 Periodic review of rents
     
@@ -462,7 +464,7 @@ General provisions
     
     *   (b) without offering the same for public application and ballot or, as the case may be, for sale by public auction or public tender, grant to the former lessee a new lease of all the land comprised in the surrendered leases for the remainder of the term of the surrendered leases where they all have the same expiry date, or, where they do not all have the same expiry date, for a term expiring on a date fixed by the leasing authority, being not later than the latest expiry date under the surrendered leases, at a rent to be fixed by the leasing authority either before or after the surrender, and on any terms and conditions authorised by this Act.
     
-    (1B) For the purposes of [section 117][49] of the Land Transfer Act 1952, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
+    (1B) For the purposes of [section 117][50] of the Land Transfer Act 1952, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
     
     (2) In this section the term _lease_ includes an agreement for a lease, and the term _lessee_ has a corresponding meaning.
     
@@ -508,7 +510,7 @@ General provisions
     
     Section 23C: inserted, on 1 April 1978, by [section 7(3)][42] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
     
-    Section 23C(1): amended, on 7 July 2004, by [section 22(1)][50] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
+    Section 23C(1): amended, on 7 July 2004, by [section 22(1)][51] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
 
 ##### 24 Lease not invalidated by failure of leasing authority to observe provisions of Act
     
@@ -518,7 +520,7 @@ General provisions
     
     Compare: 1908 No 240 s 13
     
-    Section 24(1): amended, on 7 July 2004, by [section 22(2)][50] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
+    Section 24(1): amended, on 7 July 2004, by [section 22(2)][51] of the Local Government Act 1974 Amendment Act 2004 (2004 No 64).
     
     Section 24(1): amended, on 1 April 1978, by [section 7(3)][42] of the Local Government Amendment Act (No 3) 1977 (1977 No 122).
 
@@ -571,25 +573,15 @@ Provisions of renewable lease granted under section 7(1)(e) or section 11(b)
 
 A renewable lease granted under [section 7(1)(e)][9] may contain the following provisions, or any provisions substantially to the same effect, and a renewable lease of farm land granted under [section 11(b)][14] shall contain the following provisions as far as they are applicable, namely:
 
-##### 1
-    
-*   On the expiry by effluxion of time of the term hereby granted, the lessee shall have a right to obtain, in accordance with the provisions hereinafter contained, a renewal lease of the land hereby demised, at a rent \[_where the rent is to be reviewed at periodic intervals, insert_ for the first \[_number_\] years of the term of the renewal lease\] to be determined in accordance with the said provisions, for the term of \[_the same period of years for which the original lease is granted or any shorter period, or, in the case of a lease of farm land, 21 years or 33 years, as the case requires_\] computed from the expiration of the lease hereby granted, and subject to the same covenants and provisions as this lease, including this present provision for the renewal thereof, and all provisions ancillary or in relation thereto. \[_Where the rent is to be reviewed at periodic intervals, add_ The rent for subsequent periods of \[_number_\] years of the term of the lease shall be determined in accordance with [section 22][26] of the Public Bodies Leases Act 1969.\]
+*   1 On the expiry by effluxion of time of the term hereby granted, the lessee shall have a right to obtain, in accordance with the provisions hereinafter contained, a renewal lease of the land hereby demised, at a rent \[where the rent is to be reviewed at periodic intervals, insert for the first \[number\] years of the term of the renewal lease\] to be determined in accordance with the said provisions, for the term of \[the same period of years for which the original lease is granted or any shorter period, or, in the case of a lease of farm land, 21 years or 33 years, as the case requires\] computed from the expiration of the lease hereby granted, and subject to the same covenants and provisions as this lease, including this present provision for the renewal thereof, and all provisions ancillary or in relation thereto. \[Where the rent is to be reviewed at periodic intervals, add The rent for subsequent periods of \[number\] years of the term of the lease shall be determined in accordance with section 22 of the Public Bodies Leases Act 1969.\]
 
-##### 2
-    
-*   Not earlier than 9 calendar months and not later than 3 calendar months before the expiry by effluxion of time of the term of the lease hereby granted, or as soon thereafter as may be, the lessor shall cause a valuation to be made by a person whom the lessor reasonably believes to be competent to make the valuation of the fair annual rent of the land hereby demised, so that the rent so valued shall be uniform throughout (the whole term of the renewal lease) (_or_ the whole of the first \[_number_\] years of the term of the renewal lease).
+*   2 Not earlier than 9 calendar months and not later than 3 calendar months before the expiry by effluxion of time of the term of the lease hereby granted, or as soon thereafter as may be, the lessor shall cause a valuation to be made by a person whom the lessor reasonably believes to be competent to make the valuation of the fair annual rent of the land hereby demised, so that the rent so valued shall be uniform throughout (the whole term of the renewal lease) (or the whole of the first \[number\] years of the term of the renewal lease).
 
-##### 3
-    
-*   In making the said valuation no account shall be taken of the value of the following improvements on the said land: \[_Specifying, as the lessor thinks fit, the kinds of improvements, whether made during the term or at any other time, which are not to be taken into account in the valuation of the rent._\]
+*   3 In making the said valuation no account shall be taken of the value of the following improvements on the said land: \[Specifying, as the lessor thinks fit, the kinds of improvements, whether made during the term or at any other time, which are not to be taken into account in the valuation of the rent.\]
 
-##### 4
-    
-*   As soon as possible after the said valuation has been made, the lessor shall give to the lessee notice in writing informing him of the amount of that valuation and requiring him to notify the lessor in writing within 2 calendar months whether he will accept a renewal lease at the rent specified in the notice.
+*   4 As soon as possible after the said valuation has been made, the lessor shall give to the lessee notice in writing informing him of the amount of that valuation and requiring him to notify the lessor in writing within 2 calendar months whether he will accept a renewal lease at the rent specified in the notice.
 
-##### 5
-    
-*   Within 2 calendar months after the giving of that notice to the lessee, he shall give notice in writing to the lessor stating---
+*   5 Within 2 calendar months after the giving of that notice to the lessee, he shall give notice in writing to the lessor stating---
         
     *   (a) that he desires to accept a renewal lease at the rent stated in the notice given to him by the lessor; or
     
@@ -599,9 +591,7 @@ A renewable lease granted under [section 7(1)(e)][9] may contain the following p
     
     
 
-##### 6
-    
-*   If the lessee fails to give to the lessor within the time specified in [clause 5][51] the notice referred to in that clause, he shall be deemed to have agreed to accept a renewal lease at the rent specified in the notice given to him by the lessor.
+*   6 If the lessee fails to give to the lessor within the time specified in clause 5 the notice referred to in that clause, he shall be deemed to have agreed to accept a renewal lease at the rent specified in the notice given to him by the lessor.
 
 7Where the valuation of the rent payable under a renewal lease is to be determined by arbitration, that valuation shall be made by 2 persons as arbitrators, each such person being reasonably believed by the party appointing him to be competent to make the valuation, one of whom shall be appointed by the lessor and the other by the lessee:
 
@@ -609,37 +599,21 @@ provided that where, in the opinion of the lessor, the annual rent payable under
 
 *   Schedule 1 clause 7 proviso: inserted, on 13 January 1981, by section 2(1) of the Public Bodies Leases Amendment Act 1980 (1980 No 132).
 
-##### 8
-    
-*   The arbitrators, before commencing to make the said valuation, shall together appoint a third person, who shall be an umpire as between them.
+*   8 The arbitrators, before commencing to make the said valuation, shall together appoint a third person, who shall be an umpire as between them.
 
-##### 9
-    
-*   The decision of the 2 arbitrators if they agree or in such respects as they agree, or of the umpire if the arbitrators do not agree or in such respects as they do not agree, shall be binding on all parties.
+*   9 The decision of the 2 arbitrators if they agree or in such respects as they agree, or of the umpire if the arbitrators do not agree or in such respects as they do not agree, shall be binding on all parties.
 
-##### 10
-    
-*   The duty of the umpire, on reference to him of any question, shall be to consider the respective valuations of the 2 arbitrators in the matters in which their valuations do not agree, and then to make an independent and substantive valuation, and the last-mentioned valuation shall be the decision of the umpire; but in giving his decision on any question so referred to him the umpire shall in every case be bound to make a valuation not exceeding the higher and not less than the lower of the valuations made by the arbitrators respectively.
+*   10 The duty of the umpire, on reference to him of any question, shall be to consider the respective valuations of the 2 arbitrators in the matters in which their valuations do not agree, and then to make an independent and substantive valuation, and the last-mentioned valuation shall be the decision of the umpire; but in giving his decision on any question so referred to him the umpire shall in every case be bound to make a valuation not exceeding the higher and not less than the lower of the valuations made by the arbitrators respectively.
 
-##### 11
-    
-*   The provisions herein contained for the making of the said valuation shall be deemed to be a submission to arbitration under and within the meaning of the Arbitration Act 1908, or any enactment for the time being in force in substitution therefor or amendment thereof, and all the provisions of any such enactment shall, so far as applicable, apply accordingly.
+*   11 The provisions herein contained for the making of the said valuation shall be deemed to be a submission to arbitration under and within the meaning of the Arbitration Act 1908, or any enactment for the time being in force in substitution therefor or amendment thereof, and all the provisions of any such enactment shall, so far as applicable, apply accordingly.
 
-##### 12
-    
-*   Within 2 calendar months after the making of the said valuation and the giving of notice thereof to the lessee, the lessee shall give notice in writing signed by him or by his agent duly authorised in that behalf and delivered to the lessor stating whether the lessee desires to accept a renewal lease of the land.
+*   12 Within 2 calendar months after the making of the said valuation and the giving of notice thereof to the lessee, the lessee shall give notice in writing signed by him or by his agent duly authorised in that behalf and delivered to the lessor stating whether the lessee desires to accept a renewal lease of the land.
 
-##### 13
-    
-*   Any such notice may be given by the lessee within the time aforesaid, although the term hereby granted has already expired by effluxion of time, or although the said valuation has not been made or notice thereof has not been given to the lessee until after the expiry of the said term by effluxion of time, unless before the giving of such notice by the lessee he has given up to the lessor the possession of the land hereby demised or has been duly ejected therefrom in pursuance of the judgment or order of any court of competent jurisdiction.
+*   13 Any such notice may be given by the lessee within the time aforesaid, although the term hereby granted has already expired by effluxion of time, or although the said valuation has not been made or notice thereof has not been given to the lessee until after the expiry of the said term by effluxion of time, unless before the giving of such notice by the lessee he has given up to the lessor the possession of the land hereby demised or has been duly ejected therefrom in pursuance of the judgment or order of any court of competent jurisdiction.
 
-##### 14
-    
-*   If the lessee fails within the time aforesaid to give any notice under [clause 12][52] as to whether he desires a renewal lease or not, or if he gives notice in writing signed by himself or by his agent duly authorised in that behalf that he does not desire a renewal lease, his right to a renewal lease shall cease on the expiry of the time aforesaid, or on the date at which the notice is received by the lessor, as the case may be.
+*   14 If the lessee fails within the time aforesaid to give any notice under clause 12 as to whether he desires a renewal lease or not, or if he gives notice in writing signed by himself or by his agent duly authorised in that behalf that he does not desire a renewal lease, his right to a renewal lease shall cease on the expiry of the time aforesaid, or on the date at which the notice is received by the lessor, as the case may be.
 
-##### 15
-    
-*   Any notice by the lessee under [clause 5][51] or [clause 12][52] of his desire to accept a renewal lease shall be deemed to constitute a contract between the lessor and lessee for the granting and acceptance of a renewal lease at the rent accepted by the lessee or determined by arbitration, as the case may be \[_where the rent is to be reviewed at periodic intervals, insert_ for the first \[_number_\] years of the term thereof\], and for the term and subject to the covenants and provisions referred to in [clause 1][53] of these presents.
+*   15 Any notice by the lessee under clause 5 or clause 12 of his desire to accept a renewal lease shall be deemed to constitute a contract between the lessor and lessee for the granting and acceptance of a renewal lease at the rent accepted by the lessee or determined by arbitration, as the case may be \[where the rent is to be reviewed at periodic intervals, insert for the first \[number\] years of the term thereof\], and for the term and subject to the covenants and provisions referred to in clause 1 of these presents.
 
 ##### 15A 
     
@@ -647,31 +621,19 @@ provided that where, in the opinion of the lessor, the annual rent payable under
     
     Schedule 1 clause 15A: repealed, on 13 January 1981, by section 2(2) of the Public Bodies Leases Amendment Act 1980 (1980 No 132).
 
-##### 16
-    
-*   The term of any renewal lease shall run from the date of the expiry of the prior lease, and the rent thereunder shall accrue as from the said date instead of the rent reserved in the prior lease, notwithstanding the fact that the renewal lease may not be executed until after that date.
+*   16 The term of any renewal lease shall run from the date of the expiry of the prior lease, and the rent thereunder shall accrue as from the said date instead of the rent reserved in the prior lease, notwithstanding the fact that the renewal lease may not be executed until after that date.
 
-##### 17
-    
-*   \[_In the case of a lease under [section 7(1)(e)][9]_\] If the lease hereby granted is not renewed in accordance with the foregoing provisions, or if it is determined by forfeiture, re-entry, or otherwise, all buildings, and improvements on the land demised shall absolutely revert to the lessor free from any payment or compensation whatever.
+*   17 \[In the case of a lease under section 7(1)(e)\] If the lease hereby granted is not renewed in accordance with the foregoing provisions, or if it is determined by forfeiture, re-entry, or otherwise, all buildings, and improvements on the land demised shall absolutely revert to the lessor free from any payment or compensation whatever.
 
 _**or**_
 
-##### 17
-    
-*   \[_In the case of a lease of farm land under [section 11(b)][14]_\] If the lease hereby granted is not renewed in accordance with the foregoing provisions or is surrendered or is determined by re-entry or forfeiture, the lessee shall be entitled to compensation for improvements in accordance with the provisions of [section 14][17] of the Public Bodies Leases Act 1969\.
+*   17 \[In the case of a lease of farm land under section 11(b)\] If the lease hereby granted is not renewed in accordance with the foregoing provisions or is surrendered or is determined by re-entry or forfeiture, the lessee shall be entitled to compensation for improvements in accordance with the provisions of section 14 of the Public Bodies Leases Act 1969\.
 
-##### 18
-    
-*   Any notice required to be given to the lessee in accordance with the foregoing provisions shall be given in the manner prescribed by [section 25][32] of the Public Bodies Leases Act 1969\.
+*   18 Any notice required to be given to the lessee in accordance with the foregoing provisions shall be given in the manner prescribed by section 25 of the Public Bodies Leases Act 1969\.
 
-##### 19
-    
-*   Nothing in the foregoing provisions shall exclude or restrict the right of the lessee to obtain relief against any forfeiture or determination of the lease or of his right to a renewal thereof in the same cases and on the same conditions as if the lease had been granted otherwise than in the execution of statutory powers in that behalf.
+*   19 Nothing in the foregoing provisions shall exclude or restrict the right of the lessee to obtain relief against any forfeiture or determination of the lease or of his right to a renewal thereof in the same cases and on the same conditions as if the lease had been granted otherwise than in the execution of statutory powers in that behalf.
 
-##### 20
-    
-*   The expression _lessor_ as herein used includes the successors and assigns of the lessor, and the expression _lessee_ as herein used includes the successors, executors, administrators, and assigns of the lessee.
+*   20 The expression lessor as herein used includes the successors and assigns of the lessor, and the expression lessee as herein used includes the successors, executors, administrators, and assigns of the lessee.
 
 ---
 
@@ -682,105 +644,55 @@ Provisions of lease granted under section 7(1)(f)
 
 A lease granted under [section 7(1)(f)][9] may contain the following provisions, or any provisions substantially to the same effect:
 
-##### 1
-    
-*   Not earlier than 9 calendar months and not later than 3 calendar months before the expiry by effluxion of time of the term hereby granted, the lessor shall cause 2 separate valuations to be made by a person whom the lessor reasonably believes to be competent to make the valuation---namely, a valuation of all the buildings and improvements then on the land hereby demised, whether erected or made during or before the commencement of the term hereby granted \[_or a valuation of any specified descriptions of buildings or improvements, as the leasing authority thinks fit_\], and another valuation of the fair annual ground rent of the said land, without the buildings or improvements so to be valued, for a further term of \[_the same period of years for which the lease is granted or any shorter period_\] from the expiration of the term hereby granted, so that the rent shall be an even annual sum payable (throughout the term without increase or diminution during the term) (_or, where the rent is to be reviewed at periodic intervals_ for the first \[_number_\] years of the term of the lease. The rent for subsequent periods of \[_number_\] years of the term of the lease shall be determined in accordance with [section 22][26] of the Public Bodies Leases Act 1969).
+*   1 Not earlier than 9 calendar months and not later than 3 calendar months before the expiry by effluxion of time of the term hereby granted, the lessor shall cause 2 separate valuations to be made by a person whom the lessor reasonably believes to be competent to make the valuation---namely, a valuation of all the buildings and improvements then on the land hereby demised, whether erected or made during or before the commencement of the term hereby granted \[or a valuation of any specified descriptions of buildings or improvements, as the leasing authority thinks fit\], and another valuation of the fair annual ground rent of the said land, without the buildings or improvements so to be valued, for a further term of \[the same period of years for which the lease is granted or any shorter period\] from the expiration of the term hereby granted, so that the rent shall be an even annual sum payable (throughout the term without increase or diminution during the term) (or, where the rent is to be reviewed at periodic intervals for the first \[number\] years of the term of the lease. The rent for subsequent periods of \[number\] years of the term of the lease shall be determined in accordance with section 22 of the Public Bodies Leases Act 1969).
 
-##### 2
-    
-*   As soon as possible after the said valuations have been made, the lessor shall give to the lessee notice in writing informing him of the amount of those valuations and requiring him to notify the lessor in writing within 2 calendar months whether he agrees to the amount of those valuations or requires those valuations or either of them to be determined by arbitration in accordance with [clause 3][54].
+*   2 As soon as possible after the said valuations have been made, the lessor shall give to the lessee notice in writing informing him of the amount of those valuations and requiring him to notify the lessor in writing within 2 calendar months whether he agrees to the amount of those valuations or requires those valuations or either of them to be determined by arbitration in accordance with clause 3\.
 
-##### 3
-    
-*   Within 2 calendar months after the giving of that notice to the lessee, he shall give notice in writing to the lessor stating whether he agrees to the valuations specified in the notice given to him or requires those valuations or either of them to be determined by arbitration. If he so requires, those valuations or that valuation, as the case may be, shall be determined accordingly in accordance with the provisions of [clauses 5 to 9][55].
+*   3 Within 2 calendar months after the giving of that notice to the lessee, he shall give notice in writing to the lessor stating whether he agrees to the valuations specified in the notice given to him or requires those valuations or either of them to be determined by arbitration. If he so requires, those valuations or that valuation, as the case may be, shall be determined accordingly in accordance with the provisions of clauses 5 to 9\.
 
-##### 4
-    
-*   If the lessee fails to give to the lessor within the time specified in [clause 3][54] the notice referred in that clause, he shall be deemed to have agreed to the valuations set out in the notice given to him under [clause 2][56].
+*   4 If the lessee fails to give to the lessor within the time specified in clause 3 the notice referred in that clause, he shall be deemed to have agreed to the valuations set out in the notice given to him under clause 2\.
 
-##### 5
-    
-*   Where either or both of the said valuations are to be determined by arbitration, the valuation or valuations shall be made by 2 persons as arbitrators, each such person being reasonably believed by the party appointing him to be competent to make the valuation, one of whom shall be appointed by the lessor and the other by the lessee.
+*   5 Where either or both of the said valuations are to be determined by arbitration, the valuation or valuations shall be made by 2 persons as arbitrators, each such person being reasonably believed by the party appointing him to be competent to make the valuation, one of whom shall be appointed by the lessor and the other by the lessee.
 
-##### 6
-    
-*   The arbitrators shall, before commencing to make the valuation or valuations, together appoint a third person, who shall be an umpire as between them.
+*   6 The arbitrators shall, before commencing to make the valuation or valuations, together appoint a third person, who shall be an umpire as between them.
 
-##### 7
-    
-*   The decision of the 2 arbitrators if they agree or in such respects as they agree, or of the umpire if the arbitrators do not agree or in such respects as they do not agree, shall be binding on all parties.
+*   7 The decision of the 2 arbitrators if they agree or in such respects as they agree, or of the umpire if the arbitrators do not agree or in such respects as they do not agree, shall be binding on all parties.
 
-##### 8
-    
-*   The duty of the umpire, on reference to him of any question, shall be to consider the respective valuations of the 2 arbitrators in the matters in which their valuations do not agree, and then to make an independent and substantive valuation, and the last-mentioned valuation shall be the decision of the umpire; but in giving his decision on any question so referred to him the umpire shall in every case be bound to make a valuation not exceeding the higher and not less than the lower of the valuations made by the arbitrators respectively.
+*   8 The duty of the umpire, on reference to him of any question, shall be to consider the respective valuations of the 2 arbitrators in the matters in which their valuations do not agree, and then to make an independent and substantive valuation, and the last-mentioned valuation shall be the decision of the umpire; but in giving his decision on any question so referred to him the umpire shall in every case be bound to make a valuation not exceeding the higher and not less than the lower of the valuations made by the arbitrators respectively.
 
-##### 9
-    
-*   The provisions herein contained for the making of a valuation or valuations shall be deemed to be a submission to arbitration under and within the meaning of the Arbitration Act 1908, or any enactment for the time being in force in substitution therefor or amendment thereof, and all the provisions of any such enactment shall, so far as applicable, apply accordingly.
+*   9 The provisions herein contained for the making of a valuation or valuations shall be deemed to be a submission to arbitration under and within the meaning of the Arbitration Act 1908, or any enactment for the time being in force in substitution therefor or amendment thereof, and all the provisions of any such enactment shall, so far as applicable, apply accordingly.
 
-##### 10
-    
-*   Before the expiry by effluxion of time of the term hereby granted, the right to a lease of the land hereby demised for a further term of \[_the period specified in [clause 1][57] of these presents_\], containing the same covenants and provisions as are contained in this lease (including the provisions herein contained for valuations and for the offer of a new lease for sale by auction, and all clauses auxiliary or in relation thereto), shall be offered by the lessor by public auction at the upset annual rent of the said land \[_where the rent is to be reviewed at periodic intervals, insert_ for the first \[_number_\] years of the term of the lease\] as determined as aforesaid, without the buildings and improvements so valued as aforesaid, subject to the payment by the purchaser of the value of the said buildings and improvements as determined as aforesaid. \[_Where the rent is to be reviewed at periodic intervals, add_ The rent for subsequent periods of \[_number_\] years of the term of the lease shall be determined in accordance with [section 22][26] of the Public Bodies Leases Act 1969.\]
+*   10 Before the expiry by effluxion of time of the term hereby granted, the right to a lease of the land hereby demised for a further term of \[the period specified in clause 1 of these presents\], containing the same covenants and provisions as are contained in this lease (including the provisions herein contained for valuations and for the offer of a new lease for sale by auction, and all clauses auxiliary or in relation thereto), shall be offered by the lessor by public auction at the upset annual rent of the said land \[where the rent is to be reviewed at periodic intervals, insert for the first \[number\] years of the term of the lease\] as determined as aforesaid, without the buildings and improvements so valued as aforesaid, subject to the payment by the purchaser of the value of the said buildings and improvements as determined as aforesaid. \[Where the rent is to be reviewed at periodic intervals, add The rent for subsequent periods of \[number\] years of the term of the lease shall be determined in accordance with section 22 of the Public Bodies Leases Act 1969.\]
 
-##### 11
-    
-*   If any person other than the lessee becomes the purchaser at the said auction of the said right to a lease, that person shall within 2 calendar months from the date of the auction pay in cash to the lessor, in trust for the lessee, the amount of the value of the buildings and improvements so determined as aforesaid, and accept and execute a lease of the said land for the said further term at the annual ground rent \[_where the rent is to be reviewed at periodic intervals, insert_ for the first \[_number_\] years of the term of the lease\] at which the right to the said lease has been so purchased by him.
+*   11 If any person other than the lessee becomes the purchaser at the said auction of the said right to a lease, that person shall within 2 calendar months from the date of the auction pay in cash to the lessor, in trust for the lessee, the amount of the value of the buildings and improvements so determined as aforesaid, and accept and execute a lease of the said land for the said further term at the annual ground rent \[where the rent is to be reviewed at periodic intervals, insert for the first \[number\] years of the term of the lease\] at which the right to the said lease has been so purchased by him.
 
-##### 12
-    
-*   The lessor shall on demand (all rent and outgoings payable by the lessee having previously been paid) pay over to the outgoing lessee the amount of the value of the said buildings and improvements paid to the lessor by the said purchaser without any deduction whatever.
+*   12 The lessor shall on demand (all rent and outgoings payable by the lessee having previously been paid) pay over to the outgoing lessee the amount of the value of the said buildings and improvements paid to the lessor by the said purchaser without any deduction whatever.
 
-##### 13
-    
-*   Nothing in these presents contained shall be deemed to render the lessor liable to pay to the lessee any part of the value of any buildings or improvements save after having received the amount thereof as aforesaid.
+*   13 Nothing in these presents contained shall be deemed to render the lessor liable to pay to the lessee any part of the value of any buildings or improvements save after having received the amount thereof as aforesaid.
 
-##### 14
-    
-*   Upon any sale by auction as aforesaid of the right to a lease, the lessor may make usual and any other fair and reasonable conditions of sale to carry out the intention of these presents, and in particular shall provide for the payment by the purchaser at the auction (if a person other than the outgoing lessee) of a deposit of one-fifth of the amount of the valuation of the buildings and improvements, or of such smaller deposit as is agreed upon between the lessor and the outgoing lessee, and that in the event of the purchaser refusing or neglecting to complete his purchase according to the conditions of sale he shall forfeit his deposit to the lessor for the benefit of the outgoing lessee.
+*   14 Upon any sale by auction as aforesaid of the right to a lease, the lessor may make usual and any other fair and reasonable conditions of sale to carry out the intention of these presents, and in particular shall provide for the payment by the purchaser at the auction (if a person other than the outgoing lessee) of a deposit of one-fifth of the amount of the valuation of the buildings and improvements, or of such smaller deposit as is agreed upon between the lessor and the outgoing lessee, and that in the event of the purchaser refusing or neglecting to complete his purchase according to the conditions of sale he shall forfeit his deposit to the lessor for the benefit of the outgoing lessee.
 
-##### 15
-    
-*   In any such conditions of sale the lessor may in addition provide that, if the purchaser refuses or neglects to complete the purchase according to the conditions of sale, he shall pay to and for the benefit of the lessor as liquidated damages a sum not exceeding one-half of the total deficiency (if any) during the term of years of the rent agreed to be paid by the new purchaser at a subsequent sale by auction held in consequence of the default of the original purchaser, as compared with the rent that would have been reserved had such original purchaser not made default, together with all expenses attending the first sale. \[_Where the rent is to be reviewed at periodic intervals, add_ For the purposes of this clause, the annual rent payable during the first \[_number_\] years of any such lease shall be deemed to be payable throughout the whole term of the lease.\]
+*   15 In any such conditions of sale the lessor may in addition provide that, if the purchaser refuses or neglects to complete the purchase according to the conditions of sale, he shall pay to and for the benefit of the lessor as liquidated damages a sum not exceeding one-half of the total deficiency (if any) during the term of years of the rent agreed to be paid by the new purchaser at a subsequent sale by auction held in consequence of the default of the original purchaser, as compared with the rent that would have been reserved had such original purchaser not made default, together with all expenses attending the first sale. \[Where the rent is to be reviewed at periodic intervals, add For the purposes of this clause, the annual rent payable during the first \[number\] years of any such lease shall be deemed to be payable throughout the whole term of the lease.\]
 
-##### 16
-    
-*   If, for any reason whatsoever, the right to a new lease is not offered at auction before the expiry of the term hereby granted, or if, owing to the purchaser, other than the outgoing lessee, at any auction (whether the original auction or a subsequent one held on account of the default of the purchaser to complete) refusing or neglecting to complete his purchase according to the terms and conditions thereof, the purchase is not completed, then and in any such case the right to the new lease shall be offered at auction as soon as conveniently can be after the expiry of the term hereby granted or (as the case may be) after such refusal or neglect as aforesaid, notwithstanding that the term hereby granted has expired.
+*   16 If, for any reason whatsoever, the right to a new lease is not offered at auction before the expiry of the term hereby granted, or if, owing to the purchaser, other than the outgoing lessee, at any auction (whether the original auction or a subsequent one held on account of the default of the purchaser to complete) refusing or neglecting to complete his purchase according to the terms and conditions thereof, the purchase is not completed, then and in any such case the right to the new lease shall be offered at auction as soon as conveniently can be after the expiry of the term hereby granted or (as the case may be) after such refusal or neglect as aforesaid, notwithstanding that the term hereby granted has expired.
 
-##### 17
-    
-*   If the purchaser at the last-mentioned auction, being any person other than the outgoing lessee, makes default as aforesaid, the right to the new lease shall again be offered at auction as soon as conveniently can be after such default, and so on from time to time.
+*   17 If the purchaser at the last-mentioned auction, being any person other than the outgoing lessee, makes default as aforesaid, the right to the new lease shall again be offered at auction as soon as conveniently can be after such default, and so on from time to time.
 
-##### 18
-    
-*   In every case in which the right to a new lease is sold by auction the new term shall run from the date of the expiration of the term hereby granted, but the rent shall not begin to run until the purchaser obtains possession.
+*   18 In every case in which the right to a new lease is sold by auction the new term shall run from the date of the expiration of the term hereby granted, but the rent shall not begin to run until the purchaser obtains possession.
 
-##### 19
-    
-*   The outgoing lessee shall have a right to bid for and to become the purchaser of the right to a new lease at any such auction.
+*   19 The outgoing lessee shall have a right to bid for and to become the purchaser of the right to a new lease at any such auction.
 
-##### 20
-    
-*   The lessor shall be bound in all cases to accept at any such auction the highest bid made thereat for the new lease, if that bid is not less than the upset annual ground rent as determined in manner aforesaid.
+*   20 The lessor shall be bound in all cases to accept at any such auction the highest bid made thereat for the new lease, if that bid is not less than the upset annual ground rent as determined in manner aforesaid.
 
-##### 21
-    
-*   If at any auction there is no bid equal to or greater than the upset annual ground rent as determined in manner aforesaid, then, at or (as the case may be) as from the expiry of the term hereby granted, the land hereby leased, with all buildings and improvements thereon (other than fixtures removable by the outgoing lessee before the expiration of the term), shall absolutely revert to the lessor free from any payment or compensation whatever.
+*   21 If at any auction there is no bid equal to or greater than the upset annual ground rent as determined in manner aforesaid, then, at or (as the case may be) as from the expiry of the term hereby granted, the land hereby leased, with all buildings and improvements thereon (other than fixtures removable by the outgoing lessee before the expiration of the term), shall absolutely revert to the lessor free from any payment or compensation whatever.
 
-##### 22
-    
-*   At every auction held under the foregoing provisions the conditions of sale shall be the same (so nearly as may be) as those in respect of the first auction hereinbefore provided for.
+*   22 At every auction held under the foregoing provisions the conditions of sale shall be the same (so nearly as may be) as those in respect of the first auction hereinbefore provided for.
 
-##### 23
-    
-*   In the event of the term hereby created being determined by forfeiture or otherwise than by effluxion of time, the lessee shall not be entitled to any compensation for buildings or improvements.
+*   23 In the event of the term hereby created being determined by forfeiture or otherwise than by effluxion of time, the lessee shall not be entitled to any compensation for buildings or improvements.
 
-##### 24
-    
-*   Nothing in the foregoing provisions shall exclude or restrict the right of the lessee to obtain relief against any forfeiture or determination of the lease or of any right in respect thereof in the same cases and on the same conditions as if the lease had been granted otherwise than in the execution of statutory powers in that behalf.
+*   24 Nothing in the foregoing provisions shall exclude or restrict the right of the lessee to obtain relief against any forfeiture or determination of the lease or of any right in respect thereof in the same cases and on the same conditions as if the lease had been granted otherwise than in the execution of statutory powers in that behalf.
 
-##### 25
-    
-*   The expression _lessor_ as herein used includes the successors and assigns of the lessor, and the term _lessee_ as herein used includes the successors, executors, administrators, and assigns of the lessee.
+*   25 The expression lessor as herein used includes the successors and assigns of the lessor, and the term lessee as herein used includes the successors, executors, administrators, and assigns of the lessee.
 
 ---
 
@@ -795,11 +707,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Lincoln College Act 1961 (1961 No 52)
 
-_Amendment(s) incorporated in the [Act(s)][58]._
+_Amendment(s) incorporated in the [Act(s)][52]._
 
 ##### Massey University Act 1963 (1963 No 7)
 
-_Amendment(s) incorporated in the [Act(s)][59]._
+_Amendment(s) incorporated in the [Act(s)][53]._
 
 ##### Municipal Corporations Act 1954 (1954 No 76) (1957 Reprint, Vol 10, p 377)
 
@@ -811,23 +723,23 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### University of Auckland Act 1961 (1961 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][60]._
+_Amendment(s) incorporated in the [Act(s)][54]._
 
 ##### University of Canterbury Act 1961 (1961 No 49)
 
-_Amendment(s) incorporated in the [Act(s)][61]._
+_Amendment(s) incorporated in the [Act(s)][55]._
 
 ##### University of Otago Amendment Act 1961 (1961 No 48)
 
-_Amendment(s) incorporated in the [Act(s)][62]._
+_Amendment(s) incorporated in the [Act(s)][56]._
 
 ##### University of Waikato Act 1963 (1963 No 8)
 
-_Amendment(s) incorporated in the [Act(s)][63]._
+_Amendment(s) incorporated in the [Act(s)][57]._
 
 ##### Victoria University of Wellington Act 1961 (1961 No 51)
 
-_Amendment(s) incorporated in the [Act(s)][64]._
+_Amendment(s) incorporated in the [Act(s)][58]._
 
 ---
 
@@ -845,23 +757,23 @@ _Amendment(s) incorporated in the [Act(s)][64]._
 
 ###### 1 General
     
-*   This is a reprint of the Public Bodies Leases Act 1969\. The reprint incorporates all the amendments to the Act as at 7 July 2004, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Public Bodies Leases Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][65] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][66] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][67] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][68] and [17E][69] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -892,13 +804,15 @@ _Amendment(s) incorporated in the [Act(s)][64]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 22][50]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
+    
+    Local Government Act 1974 Amendment Act 2004 (2004 No 64): [section 22][51]
     
     Local Government Act 2002 (2002 No 84): [section 262][40]
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][43]
     
-    Resource Management Act 1991 (1991 No 69): [section 362][48]
+    Resource Management Act 1991 (1991 No 69): [section 362][49]
     
     Public Bodies Leases Amendment Act 1980 (1980 No 132)
     
@@ -960,25 +874,19 @@ _Amendment(s) incorporated in the [Act(s)][64]._
 [45]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM395430
 [46]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM395438
 [47]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM395432
-[48]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM239393
-[49]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM271033
-[50]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM304013
-[51]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340904
-[52]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340911
-[53]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340900
-[54]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340927
-[55]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340929
-[56]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340932
-[57]: http://www.legislation.govt.nz/act/public/1969/0141/latest/whole.html#DLM4340934
-[58]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM336193
-[59]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM345360
-[60]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334955
-[61]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334447
-[62]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM332449
-[63]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM347774
-[64]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM335469
-[65]: http://www.pco.parliament.govt.nz/reprints/
-[66]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195439
-[67]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[68]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195468
-[69]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195470
+[48]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM3360714
+[49]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM239393
+[50]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM271033
+[51]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM304013
+[52]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM336193
+[53]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM345360
+[54]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334955
+[55]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM334447
+[56]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM332449
+[57]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM347774
+[58]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM335469
+[59]: http://www.pco.parliament.govt.nz/reprints/
+[60]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195439
+[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[62]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195468
+[63]: http://www.legislation.govt.nz/act/public/1969/0141/latest/link.aspx?id=DLM195470
