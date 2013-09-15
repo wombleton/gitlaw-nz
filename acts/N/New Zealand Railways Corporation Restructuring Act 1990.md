@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,107 +25,107 @@ This Act is administered by the Treasury.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Formation of transferee companies and vesting of railways assets and liabilities][5]
 
-[4][6] [Formation of transferee companies][6]
+[4][6][][6][Formation of transferee companies][6]
 
-[5][7] [Crown shareholding][7]
+[5][7][][7][Crown shareholding][7]
 
-[6][8] [Vesting of railways assets and liabilities][8]
+[6][8][][8][Vesting of railways assets and liabilities][8]
 
-[7][9] [Additional provisions relating to vesting of railways assets and railways liabilities][9]
+[7][9][][9][Additional provisions relating to vesting of railways assets and railways liabilities][9]
 
-[8][10] [Provisions relating to vesting of land][10]
+[8][10][][10][Provisions relating to vesting of land][10]
 
-[9][11] [Title to land][11]
+[9][11][][11][Title to land][11]
 
-[10][12] [Land certification][12]
+[10][12][][12][Land certification][12]
 
-[11][13] [Designations][13] \[Repealed\]
+[11][13][][13][Designations][13] \[Repealed\]
 
-[12][14] [Ancillary powers to grant leases and other rights to use railways assets][14]
+[12][14][][14][Ancillary powers to grant leases and other rights to use railways assets][14]
 
-[13][15] [Continuity of employment][15]
+[13][15][][15][Continuity of employment][15]
 
-[14][16] [Union coverage][16] \[Repealed\]
+[14][16][][16][Union coverage][16] \[Repealed\]
 
-[15][17] [Collective employment contracts][17]
+[15][17][][17][Collective employment contracts][17]
 
-[16][18] [Contributors to Government Superannuation Fund][18]
+[16][18][][18][Contributors to Government Superannuation Fund][18]
 
-[17][19] [Application of Income Tax Act 1976][19] \[Repealed\]
+[17][19][][19][Application of Income Tax Act 1976][19] \[Repealed\]
 
-[18][20] [Application of Public Finance Act 1989][20]
+[18][20][][20][Application of Public Finance Act 1989][20] \[Repealed\]
 
-[18A][21] [Half-yearly reports][21]
+[18A][21][][21][Half-yearly reports][21]
 
-[19][22] [Application of Ombudsmen Act 1975 and Official Information Act 1982][22]
+[19][22][][22][Application of Ombudsmen Act 1975 and Official Information Act 1982][22]
 
-[20][23] [Corporation not to acquire Crown land without consent][23]
+[20][23][][23][Corporation not to acquire Crown land without consent][23]
 
-[21][24] [Application of Public Works Act 1981][24]
+[21][24][][24][Application of Public Works Act 1981][24]
 
-[22][25] [Interpretation][25]
+[22][25][][25][Interpretation][25]
 
-[23][26] [Disposal of affected land by Corporation][26]
+[23][26][][26][Disposal of affected land by Corporation][26]
 
-[24][27] [Disposal of affected land by transferee company or railway operator][27]
+[24][27][][27][Disposal of affected land by transferee company or railway operator][27]
 
-[25][28] [Disposal of land][28]
+[25][28][][28][Disposal of land][28]
 
-[25A][29] [Subdivision][29]
+[25A][29][][29][Subdivision][29]
 
-[26][30] [Disposal of former Maori land][30]
+[26][30][][30][Disposal of former Maori land][30]
 
-[27][31] [Sections 21 to 26 not to affect existing rights][31]
+[27][31][][31][Sections 21 to 26 not to affect existing rights][31]
 
-[28][32] [Exercise of powers under Public Works Act 1981 by Corporation][32]
+[28][32][][32][Exercise of powers under Public Works Act 1981 by Corporation][32]
 
 [Part 2][33]  
 [General][33]
 
-[29][34] [Authority for railway operators][34]
+[29][34][][34][Authority for railway operators][34]
 
-[30][35] [Conflict with New Zealand Railways Corporation Act 1981][35]
+[30][35][][35][Conflict with New Zealand Railways Corporation Act 1981][35]
 
-[31][36] [Application of New Zealand Railways Corporation Act 1981][36]
+[31][36][][36][Application of New Zealand Railways Corporation Act 1981][36]
 
-[32][37] [Regulations relating to railway operators][37]
+[32][37][][37][Regulations relating to railway operators][37]
 
-[33][38] [Amendment to Land Tax Act 1976][38]
+[33][38][][38][Amendment to Land Tax Act 1976][38]
 
-[34][39] [Amendments to New Zealand Railways Corporation Act 1981][39]
+[34][39][][39][Amendments to New Zealand Railways Corporation Act 1981][39]
 
-[35][40] [Amendments to other Acts][40]
+[35][40][][40][Amendments to other Acts][40]
 
-[36][41] [Repeals][41]
+[36][41][][41][Repeals][41]
 
-[37][42] [Savings][42]
+[37][42][][42][Savings][42]
 
 [Part 3][43]  
 [Maori land claims][43]
 
-[38][44] [District Land Registrar to register necessary memorial][44]
+[38][44][][44][District Land Registrar to register necessary memorial][44]
 
-[39][45] [Resumption of land on recommendation of Waitangi Tribunal][45]
+[39][45][][45][Resumption of land on recommendation of Waitangi Tribunal][45]
 
-[40][46] [Resumption of land to be effected under Public Works Act 1981][46]
+[40][46][][46][Resumption of land to be effected under Public Works Act 1981][46]
 
 [Part 4][47]  
 [Amendments to Treaty of Waitangi Act 1975][47]
 
-[41][48] [This Part to be read with Treaty of Waitangi Act 1975][48]
+[41][48][][48][This Part to be read with Treaty of Waitangi Act 1975][48]
 
-[42][49] [Functions of Tribunal][49]
+[42][49][][49][Functions of Tribunal][49]
 
-[43][50] [Claims relating to land vested under New Zealand Railways Corporation Restructuring Act 1990][50]
+[43][50][][50][Claims relating to land vested under New Zealand Railways Corporation Restructuring Act 1990][50]
 
 [Schedule 1][51]  
 [Application of New Zealand Railways Corporation Act 1981 to railway operators][51]
@@ -430,6 +430,8 @@ Formation of transferee companies and vesting of railways assets and liabilities
     Section 13(a): amended, on 15 May 1991, by section 166 of the Employment Contracts Act 1991 (1991 No 22).
 
 ##### 14 Union coverage
+
+\[Repealed\]
     
 *   \[Repealed\]
     
@@ -459,33 +461,9 @@ Formation of transferee companies and vesting of railways assets and liabilities
 
 ##### 18 Application of Public Finance Act 1989
     
-*   (1) Every transferee company in which the Crown holds 50% or more of the issued ordinary shares is, for the purposes of [subpart 2][81] of Part 5 of the Public Finance Act 1989, an organisation named or described in [Schedule 4][82] of that Act.
+*   \[Repealed\]
     
-    (2) Notwithstanding sections 163 to 165 of the Companies Act 1955 or [sections 196 to 203][83] of the Companies Act 1993, as the case may be, the Auditor-General shall be the auditor of every transferee company to which subsection (1) relates, and of every subsidiary of any such transferee company, and, for the purposes of the Companies Act 1955 or the [Companies Act 1993][59], as the case may be, shall have and may exercise the functions, duties, and powers of an auditor appointed under the Companies Act 1955 or the Companies Act 1993 and all such powers as it has under the Public Finance Act 1977 in respect of public money and public stores.
-    
-    (3) Without limiting the provisions of subsection (2), the board of a transferee company may, after consultation with the Auditor-General and if the Ministers so approve, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the transferee company or any subsidiary thereof.
-    
-    (4) On the date specified in any Order in Council made under [section 19(2)][22],---
-        
-    *   (a) the Auditor-General shall cease to be the auditor of the transferee company and every subsidiary of the transferee company:
-    
-    *   (b) any person or firm holding office as an additional auditor of the transferee company or any subsidiary of the transferee company under subsection (3) shall cease to hold that office:
-    
-    *   (c) the directors of the transferee company and of every subsidiary of the transferee company shall appoint an auditor or auditors of the transferee company and every subsidiary of the transferee company, and every such appointment shall be deemed to have been made by the directors to fill a casual vacancy in the office of auditor under section 163(5) of the Companies Act 1955 or [section 196(4)][83] of the Companies Act 1993, as the case may be.
-    
-    Section 18: substituted, on 21 December 1992, by [section 42][84] of the Public Finance Amendment Act 1992 (1992 No 142).
-    
-    Section 18(1): amended, on 25 January 2005, by [section 37(1)][85] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 18(2): substituted, on 1 July 1994, by [section 2][62] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
-    
-    Section 18(2): amended, on 1 July 2001, pursuant to [section 52][86] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 18(3): amended, on 1 July 2001, pursuant to [section 52][86] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 18(4)(a): amended, on 1 July 2001, pursuant to [section 52][86] of the Public Audit Act 2001 (2001 No 10).
-    
-    Section 18(4)(c): amended, on 1 July 1994, by [section 2][62] of the Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16).
+    Section 18: repealed, on 18 July 2013, by [section 57][81] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 18A Half-yearly reports
     
@@ -493,39 +471,39 @@ Formation of transferee companies and vesting of railways assets and liabilities
     
     (2) Each report required by this section shall include the information required by the statement of intent to be included therein.
     
-    Section 18A: inserted, on 21 December 1992, by [section 42][84] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 18A: inserted, on 21 December 1992, by [section 42][82] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 19 Application of Ombudsmen Act 1975 and Official Information Act 1982
     
 *   (1) Every transferee company in which the Crown holds 50% or more of the ordinary shares shall be deemed to be---
         
-    *   (a) a person named in [Part 2][87] of Schedule 1 of the Ombudsmen Act 1975; and
+    *   (a) a person named in [Part 2][83] of Schedule 1 of the Ombudsmen Act 1975; and
     
-    *   (b) a person named in [Schedule 1][88] of the Official Information Act 1982; and
+    *   (b) a person named in [Schedule 1][84] of the Official Information Act 1982; and
     
     *   (c) \[Repealed\]
     
     (2) For the purposes of this section, a date specified by the Governor-General, by Order in Council, as the date on which the Crown ceased to hold 50% or more of the ordinary shares in a transferee company shall be taken to be the date on which the Crown ceased to hold those shares.
     
-    Section 19(1)(b): amended, on 21 December 1992, by [section 42][84] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 19(1)(b): amended, on 21 December 1992, by [section 42][82] of the Public Finance Amendment Act 1992 (1992 No 142).
     
     Section 19(1)(c): repealed, on 25 January 2005, by [section 37(1)][85] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 19(2): 1 October 1993 specified as the date on which the Crown ceased to hold 50% or more of the ordinary shares in New Zealand Rail Limited, on 20 October 1993, by the [New Zealand Railways Corporation Restructuring Order 1993][89] (SR 1993/350).
+    Section 19(2): 1 October 1993 specified as the date on which the Crown ceased to hold 50% or more of the ordinary shares in New Zealand Rail Limited, on 20 October 1993, by the [New Zealand Railways Corporation Restructuring Order 1993][86] (SR 1993/350).
 
 ##### 20 Corporation not to acquire Crown land without consent
     
 *   The Corporation shall not, without the prior consent of the Ministers, exercise the powers conferred on it---
         
-    *   (a) by [section 24(b)][90] of the New Zealand Railways Corporation Act 1981, to acquire in its own name without further payment any property vested in or held or occupied by the Crown for railways purposes; or
+    *   (a) by [section 24(b)][87] of the New Zealand Railways Corporation Act 1981, to acquire in its own name without further payment any property vested in or held or occupied by the Crown for railways purposes; or
     
-    *   (b) by [section 32(1)][91] of the New Zealand Railways Corporation Act 1981, to request a District Land Registrar to issue a certificate of title in the name of the Corporation for land vested in the Crown for railways purposes.
+    *   (b) by [section 32(1)][88] of the New Zealand Railways Corporation Act 1981, to request a District Land Registrar to issue a certificate of title in the name of the Corporation for land vested in the Crown for railways purposes.
     
     
 
 ##### 21 Application of Public Works Act 1981
     
-*   Notwithstanding [section 30][92] of the New Zealand Railways Corporation Act 1981, nothing in [sections 40 to 42][93] of the Public Works Act 1981 applies to---
+*   Notwithstanding [section 30][89] of the New Zealand Railways Corporation Act 1981, nothing in [sections 40 to 42][90] of the Public Works Act 1981 applies to---
         
     *   (a) land that is held or occupied by the Crown for railway purposes:
     
@@ -549,9 +527,9 @@ Formation of transferee companies and vesting of railways assets and liabilities
         
         
     
-    _local authority_ has the same meaning as in [section 2][94] of the Public Works Act 1981
+    _local authority_ has the same meaning as in [section 2][91] of the Public Works Act 1981
     
-    _public work_ has the same meaning as in [section 2][94] of the Public Works Act 1981
+    _public work_ has the same meaning as in [section 2][91] of the Public Works Act 1981
     
     _successor_, in relation to any person, means the person who would have been entitled to the land under the will or intestacy of that person had he or she owned the land at the date of his or her death; and, in any case where part of a person's land was acquired or taken, includes the successor in title of that person.
 
@@ -633,13 +611,13 @@ Formation of transferee companies and vesting of railways assets and liabilities
 
 ##### 25A Subdivision
     
-*   (1) Subject to the provisions of this section, [section 11][13] and [Part 10][95] of the Resource Management Act 1991 shall not apply to any subdivision undertaken by the Corporation, transferee company, or a railway operator to give effect to a transfer or disposal of land pursuant to [section 23][26] or [section 24][27] or [section 26][30], if that transfer or disposal (of all or part of an allotment) is to an owner of adjoining land.
+*   (1) Subject to the provisions of this section, [section 11][13] and [Part 10][92] of the Resource Management Act 1991 shall not apply to any subdivision undertaken by the Corporation, transferee company, or a railway operator to give effect to a transfer or disposal of land pursuant to [section 23][26] or [section 24][27] or [section 26][30], if that transfer or disposal (of all or part of an allotment) is to an owner of adjoining land.
     
     (2) Every transfer or other disposition to which subsection (1) applies, shall be deemed to be subject to a condition that---
         
     *   (a) the land being transferred or disposed of shall be held in one certificate of title with the owner's adjoining land; or
     
-    *   (b) where subsection (4) applies, a covenant shall be entered into between the owner of the adjoining land and the territorial authority that the land being transferred or disposed of shall not, otherwise than in accordance with a subdivision consent under the [Resource Management Act 1991][96], be transferred, leased, or otherwise disposed of except in conjunction with the owner's adjoining land.
+    *   (b) where subsection (4) applies, a covenant shall be entered into between the owner of the adjoining land and the territorial authority that the land being transferred or disposed of shall not, otherwise than in accordance with a subdivision consent under the [Resource Management Act 1991][93], be transferred, leased, or otherwise disposed of except in conjunction with the owner's adjoining land.
     
     (3) The Corporation, transferee company, or the railway operator (as the case may be) shall consult with the District Land Registrar as to the practicality of a condition of a kind referred to in subsection (2)(a).
     
@@ -653,13 +631,13 @@ Formation of transferee companies and vesting of railways assets and liabilities
     
     (6) Where a condition of a kind referred to in subsection (2)(a) has been complied with---
         
-    *   (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually or being held under separate certificates of title, otherwise than in accordance with a subdivision consent under the [Resource Management Act 1991][96]; and
+    *   (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually or being held under separate certificates of title, otherwise than in accordance with a subdivision consent under the [Resource Management Act 1991][93]; and
     
     *   (b) on the issue of a certificate of title, the District Land Registrar shall enter on the certificate of title a memorandum that the land is subject to this subsection.
     
     (7) Every covenant of a kind referred to in subsection (2)(b) shall be in writing, be signed by the owner of the adjoining land, have affixed to it the common seal of the territorial authority, and be deemed---
         
-    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][71], and, when so registered, to create in favour of the territorial authority an interest in the land, in respect of which it is registered, within the meaning of [section 62][97] of that Act; and
+    *   (a) to be an instrument capable of registration under the [Land Transfer Act 1952][71], and, when so registered, to create in favour of the territorial authority an interest in the land, in respect of which it is registered, within the meaning of [section 62][94] of that Act; and
     
     *   (b) to run with the land and bind subsequent owners.
     
@@ -691,11 +669,11 @@ Formation of transferee companies and vesting of railways assets and liabilities
     
     (12) For the purposes of this section---
     
-    _allotment_ has the same meaning as in [section 218][98] of the Resource Management Act 1991
+    _allotment_ has the same meaning as in [section 218][95] of the Resource Management Act 1991
     
     _amalgamated_ means amalgamated pursuant to a condition under subsection (3)
     
-    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][99].
+    _territorial authority_ means a territorial authority within the meaning of the [Local Government Act 2002][96].
     
     Section 25A: inserted, on 23 July 1993, by section 3 of the New Zealand Railways Corporation Restructuring Amendment Act 1993 (1993 No 79).
     
@@ -717,17 +695,17 @@ Formation of transferee companies and vesting of railways assets and liabilities
     
 *   Nothing in [sections 21 to 26][24] affects---
         
-    *   (a) the application of [sections 40 to 42][93] of the Public Works Act 1981 to any land which has been the subject of an offer under section 40(2) or section 40(4) of the Public Works Act 1981, or of an application under [section 41(e)][100] of that Act, prior to the commencement of this Act; or
+    *   (a) the application of [sections 40 to 42][90] of the Public Works Act 1981 to any land which has been the subject of an offer under section 40(2) or section 40(4) of the Public Works Act 1981, or of an application under [section 41(e)][97] of that Act, prior to the commencement of this Act; or
     
-    *   (b) the determination of any issue relating to the existence of an obligation or entitlement under [sections 40 to 42][93] of the Public Works Act 1981 arising in proceedings commenced before 22 March 1990; or
+    *   (b) the determination of any issue relating to the existence of an obligation or entitlement under [sections 40 to 42][90] of the Public Works Act 1981 arising in proceedings commenced before 22 March 1990; or
     
-    *   (c) the application of [sections 40 to 42][93] of the Public Works Act 1981 in any case where it has been determined in proceedings commenced before 22 March 1990 that section 40(1) of that Act applied to any land before that date.
+    *   (c) the application of [sections 40 to 42][90] of the Public Works Act 1981 in any case where it has been determined in proceedings commenced before 22 March 1990 that section 40(1) of that Act applied to any land before that date.
     
     
 
 ##### 28 Exercise of powers under Public Works Act 1981 by Corporation
     
-*   Without limiting [section 30][92] of the New Zealand Railways Corporation Act 1981 (as enacted by section 2 of the New Zealand Railways Corporation Amendment Act 1988) the discharge of a duty or the exercise of a power, whether before or after the commencement of this Act, imposed or conferred by the [Public Works Act 1981][68] shall not be treated as invalid by reason only that the duty was discharged or the power was exercised by the Corporation.
+*   Without limiting [section 30][89] of the New Zealand Railways Corporation Act 1981 (as enacted by section 2 of the New Zealand Railways Corporation Amendment Act 1988) the discharge of a duty or the exercise of a power, whether before or after the commencement of this Act, imposed or conferred by the [Public Works Act 1981][68] shall not be treated as invalid by reason only that the duty was discharged or the power was exercised by the Corporation.
 
 ## Part 2  
 General
@@ -740,7 +718,7 @@ General
     
 *   (1) Nothing in the [New Zealand Railways Corporation Act 1981][61] shall be construed as limiting or derogating from any provision contained in this Act and the powers conferred by this Act, and in particular the power to vest railways assets and railways liabilities conferred by [section 6][8] of this Act, may be exercised notwithstanding anything contained in that Act.
     
-    (2) Without limiting subsection (1), nothing in [section 12][101] of the New Zealand Railways Corporation Act 1981 shall be construed as imposing an obligation on the Corporation to perform the functions specified in that section.
+    (2) Without limiting subsection (1), nothing in [section 12][98] of the New Zealand Railways Corporation Act 1981 shall be construed as imposing an obligation on the Corporation to perform the functions specified in that section.
 
 ##### 31 Application of New Zealand Railways Corporation Act 1981
     
@@ -748,11 +726,11 @@ General
 
 ##### 32 Regulations relating to railway operators
     
-*   (1) Regulations may, on the recommendation of the Minister, be made under [section 110][102] of the New Zealand Railways Corporation Act 1981 applying to railway operators and to railways and other services operated by railway operators.
+*   (1) Regulations may, on the recommendation of the Minister, be made under [section 110][99] of the New Zealand Railways Corporation Act 1981 applying to railway operators and to railways and other services operated by railway operators.
     
-    (2) The Governor-General may, by Order in Council, on the recommendation of the Minister, declare that regulations made pursuant to [section 110][102] of the New Zealand Railways Corporation Act 1981 that do not apply to railway operators shall apply, subject to such modifications as may be specified in the order, to railway operators or any class of railway operator and the regulations shall apply accordingly as if the making of the regulations applying to railway operators or that class of railway operator was authorised by that section.
+    (2) The Governor-General may, by Order in Council, on the recommendation of the Minister, declare that regulations made pursuant to [section 110][99] of the New Zealand Railways Corporation Act 1981 that do not apply to railway operators shall apply, subject to such modifications as may be specified in the order, to railway operators or any class of railway operator and the regulations shall apply accordingly as if the making of the regulations applying to railway operators or that class of railway operator was authorised by that section.
     
-    (3) The Minister shall not make a recommendation under subsection (1) or subsection (2) unless the Minister has consulted with all railway operators who, in the Minister's opinion, are likely to be affected by the proposed regulations or by regulations made under [section 110][102] of the New Zealand Railways Corporation Act 1981 applying to them, as the case may be, and those persons have a reasonable opportunity to make submissions to the Minister.
+    (3) The Minister shall not make a recommendation under subsection (1) or subsection (2) unless the Minister has consulted with all railway operators who, in the Minister's opinion, are likely to be affected by the proposed regulations or by regulations made under [section 110][99] of the New Zealand Railways Corporation Act 1981 applying to them, as the case may be, and those persons have a reasonable opportunity to make submissions to the Minister.
     
     (4) The failure to comply with the requirements of subsection (3) shall not invalidate any regulations or Order in Council made under this section.
 
@@ -776,7 +754,7 @@ General
 
 ##### 37 Savings
     
-*   (1) The repeal by [section 36][41] of this Act of the New Zealand Railways Corporation Amendment Act 1987 does not affect the amendments to the [New Zealand Railways Corporation Act 1981][61] made by [section 3][103] of that Act.
+*   (1) The repeal by [section 36][41] of this Act of the New Zealand Railways Corporation Amendment Act 1987 does not affect the amendments to the [New Zealand Railways Corporation Act 1981][61] made by [section 3][100] of that Act.
     
     (2) The repeal by [section 36][41] of this Act of the New Zealand Railways Corporation Amendment Act (No 2) 1987 does not affect the provisions of section 10 of that Act.
 
@@ -789,11 +767,11 @@ Maori land claims
     
     (2) Subsection (1) shall not apply in relation to any piece of land or interest in land that is excluded from [section 39][45] by subsection (2) or subsection (3) of that section.
     
-    Compare: [1986 No 124][72] [s 27A][104]; [1988 No 105][105] [s 10][106]
+    Compare: [1986 No 124][72] [s 27A][101]; [1988 No 105][102] [s 10][103]
 
 ##### 39 Resumption of land on recommendation of Waitangi Tribunal
     
-*   (1) Where the Waitangi Tribunal has, under [section 8A(2)(a)][107] of the Treaty of Waitangi Act 1975 (as applied by [section 8HJ][108] of that Act), recommended the return to Maori ownership of any land or interest in land that, immediately before being vested in a Crown transferee company pursuant to [section 6][8] of this Act, was, land owned by the Crown or an interest owned by the Crown in land, as the case may be, that land or interest in land shall, if the recommendation has been confirmed with or without modifications under [section 8B][109] of that Act (as so applied) be resumed by the Crown in accordance with [section 40][46] of this Act and returned to Maori ownership.
+*   (1) Where the Waitangi Tribunal has, under [section 8A(2)(a)][104] of the Treaty of Waitangi Act 1975 (as applied by [section 8HJ][105] of that Act), recommended the return to Maori ownership of any land or interest in land that, immediately before being vested in a Crown transferee company pursuant to [section 6][8] of this Act, was, land owned by the Crown or an interest owned by the Crown in land, as the case may be, that land or interest in land shall, if the recommendation has been confirmed with or without modifications under [section 8B][106] of that Act (as so applied) be resumed by the Crown in accordance with [section 40][46] of this Act and returned to Maori ownership.
     
     (2) This section shall not apply in relation to any piece of land that, at the date of its vesting in a Crown transferee company under [section 6][8], was subject to---
         
@@ -801,7 +779,7 @@ Maori land claims
     
     *   (b) a lease under which the lessee had the right of acquiring the fee simple.
     
-    (3) This section shall not apply in relation to any piece of land or interest in land in respect of which a certificate issued under [section 8E(1)][110] of the Treaty of Waitangi Act 1975 (as so applied) has been registered.
+    (3) This section shall not apply in relation to any piece of land or interest in land in respect of which a certificate issued under [section 8E(1)][107] of the Treaty of Waitangi Act 1975 (as so applied) has been registered.
     
     (4) Subject to subsection (5), this section shall not apply in relation to land or an interest in land that is for the time being held by a railway operator and used for the purposes of a railway.
     
@@ -815,26 +793,26 @@ Maori land claims
 
 ##### 40 Resumption of land to be effected under Public Works Act 1981
     
-*   (1) Where [section 39][45] requires any land or interest in land to be resumed by the Crown, the Minister of Lands shall acquire that land or interest in land under [Part 2][111] of the Public Works Act 1981 as if it were land or an interest in land required for both a Government work and a public work and [Parts 2][111], [4][112], [5][113], [6][114], and [7][115] of that Act and [Schedules 1][116], [3][117], [4][118], and [5][119] of that Act shall, subject to the modifications set out in [Schedule 5][55] of this Act and to all other necessary modifications, apply accordingly.
+*   (1) Where [section 39][45] requires any land or interest in land to be resumed by the Crown, the Minister of Lands shall acquire that land or interest in land under [Part 2][108] of the Public Works Act 1981 as if it were land or an interest in land required for both a Government work and a public work and [Parts 2][108], [4][109], [5][110], [6][111], and [7][112] of that Act and [Schedules 1][113], [3][114], [4][115], and [5][116] of that Act shall, subject to the modifications set out in [Schedule 5][55] of this Act and to all other necessary modifications, apply accordingly.
     
     (2) The existence on the certificate of title to any land or interest in land acquired pursuant to subsection (1) of a memorial under [section 38][44] shall not be taken into account in any assessment of compensation made under the [Public Works Act 1981][68] in relation to the acquisition of that land or interest in land.
     
-    (3) The power conferred by this section does not include the power to acquire or take and to hold under [section 28][120] of the Public Works Act 1981 any interest in land described in [section 8A(6)][107] of the Treaty of Waitangi Act 1975 (as applied by [section 8HJ][108] of that Act).
+    (3) The power conferred by this section does not include the power to acquire or take and to hold under [section 28][117] of the Public Works Act 1981 any interest in land described in [section 8A(6)][104] of the Treaty of Waitangi Act 1975 (as applied by [section 8HJ][105] of that Act).
 
 ## Part 4  
 Amendments to Treaty of Waitangi Act 1975
 
 ##### 41 This Part to be read with Treaty of Waitangi Act 1975
     
-*   This Part shall be read together with and deemed part of the [Treaty of Waitangi Act 1975][121] (in this Part referred to as the principal Act).
+*   This Part shall be read together with and deemed part of the [Treaty of Waitangi Act 1975][118] (in this Part referred to as the principal Act).
 
 ##### 42 Functions of Tribunal
     
-*   _Amendment(s) incorporated in the [Act(s)][122]_.
+*   _Amendment(s) incorporated in the [Act(s)][119]_.
 
 ##### 43 Claims relating to land vested under New Zealand Railways Corporation Restructuring Act 1990
     
-*   _Amendment(s) incorporated in the [Act(s)][123]_.
+*   _Amendment(s) incorporated in the [Act(s)][120]_.
 
 ---
 
@@ -843,31 +821,21 @@ Application of New Zealand Railways Corporation Act 1981 to railway operators
 
 [s 31][36]
 
-##### **1**
-    
-*   [Sections 115][124], and [116][125] of the New Zealand Railways Corporation Act 1981 shall apply to a railway operator and to every railway or service operated by a railway operator in the same way as they apply in relation to the Corporation and to the Corporation railway. Notwithstanding the foregoing provisions of this clause, nothing in paragraphs (f) to (l) of subsection (1) of [section 115][124] of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operator that is not a Crown transferee company.
+*   **1** Sections 115, and 116 of the New Zealand Railways Corporation Act 1981 shall apply to a railway operator and to every railway or service operated by a railway operator in the same way as they apply in relation to the Corporation and to the Corporation railway. Notwithstanding the foregoing provisions of this clause, nothing in paragraphs (f) to (l) of subsection (1) of section 115 of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operator that is not a Crown transferee company.
     
     Schedule 1 clause 1: amended, on 1 April 1993, by section 28(1) of the Railway Safety and Corridor Management Act 1992 (1992 No 111).
 
-##### **2**
-    
-*   [Section 35(4)][126] of the New Zealand Railways Corporation Act 1981 shall apply in relation to every railway operator in the same way as it applies in relation to the Corporation but as if the words ""as provided in this section"" were omitted.
+*   **2** Section 35(4) of the New Zealand Railways Corporation Act 1981 shall apply in relation to every railway operator in the same way as it applies in relation to the Corporation but as if the words as provided in this section were omitted.
 
-##### **3**
-    
-*   The powers conferred on the Minister or the Corporation in relation to the Corporation or the Corporation railway or a proposed railway under [sections 30(1) and (2)][92], [44][127], and [119][128] of the New Zealand Railways Corporation Act 1981 may be exercised by the Minister or the Corporation, as the case may be, in relation to, or for the purposes of, any railway operator or railway operated, or proposed railway to be operated, by a railway operator.
+*   **3** The powers conferred on the Minister or the Corporation in relation to the Corporation or the Corporation railway or a proposed railway under sections 30(1) and (2), 44, and 119 of the New Zealand Railways Corporation Act 1981 may be exercised by the Minister or the Corporation, as the case may be, in relation to, or for the purposes of, any railway operator or railway operated, or proposed railway to be operated, by a railway operator.
 
-**4**(a)The powers conferred on the Corporation by [sections 31][129], [52][130], and [58][131] of the New Zealand Railways Corporation Act 1981 may, with the prior written consent of the Minister of Railways, which may be given either generally or in specific cases, be exercised by a railway operator in relation to any railway operated, or proposed railway to be operated, by that railway operator. The provisions of [section 52(3)][130] of that Act, in particular, shall apply in relation to that railway.
+**4**(a)The powers conferred on the Corporation by [sections 31][121], [52][122], and [58][123] of the New Zealand Railways Corporation Act 1981 may, with the prior written consent of the Minister of Railways, which may be given either generally or in specific cases, be exercised by a railway operator in relation to any railway operated, or proposed railway to be operated, by that railway operator. The provisions of [section 52(3)][122] of that Act, in particular, shall apply in relation to that railway.
 
-(b)Without limiting paragraph (a), [section 58][131] of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operated, or proposed railway to be operated, by a railway operator in the same way as it applies to the Corporation railway.
+(b)Without limiting paragraph (a), [section 58][123] of the New Zealand Railways Corporation Act 1981 shall apply in relation to a railway operated, or proposed railway to be operated, by a railway operator in the same way as it applies to the Corporation railway.
 
-##### **5**
-    
-*   [Section 56][132] of the New Zealand Railways Corporation Act 1981 shall not apply to a railway operated by a railway operator.
+*   **5** Section 56 of the New Zealand Railways Corporation Act 1981 shall not apply to a railway operated by a railway operator.
 
-##### **6**
-    
-*   The Corporation and officers of the Corporation shall have the same responsibilities under [sections 46][133] and [47][134] in relation to railways operated by a railway operator as they have in relation to Corporation railways.
+*   **6** The Corporation and officers of the Corporation shall have the same responsibilities under sections 46 and 47 in relation to railways operated by a railway operator as they have in relation to Corporation railways.
 
 ---
 
@@ -893,11 +861,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Fencing Act 1978 (1978 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][135]._
+_Amendment(s) incorporated in the [Act(s)][124]._
 
 ##### Local Government Act 1974 (1974 No 66) (RS Vol 20, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][136]._
+_Amendment(s) incorporated in the [Act(s)][125]._
 
 ##### Public Works Act 1981 (1981 No 35)
 
@@ -909,7 +877,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][137]._
+_Amendment(s) incorporated in the [Act(s)][126]._
 
 ---
 
@@ -935,20 +903,20 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 [s 40][46]
 
-*   For the purposes of [section 40][46] of this Act, the following provisions of [Part 2][111] of the Public Works Act 1981 and of [Schedule 3][117] of that Act shall not apply, namely,---
+*   For the purposes of [section 40][46] of this Act, the following provisions of [Part 2][108] of the Public Works Act 1981 and of [Schedule 3][114] of that Act shall not apply, namely,---
         
-    *   (a)[section 23(1)(b)(iv)][138]:
-    *   (b)[section 23(3)][138]:
-    *   (c)[sections 24][139] and [25][140]:
-    *   (d)[form B][117] of Schedule 3\.
+    *   (a)[section 23(1)(b)(iv)][127]:
+    *   (b)[section 23(3)][127]:
+    *   (c)[sections 24][128] and [25][129]:
+    *   (d)[form B][114] of Schedule 3\.
     
     
 
-*   For the purposes of [section 40][46] of this Act, [section 23(1)(b)][138] of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:
+*   For the purposes of [section 40][46] of this Act, [section 23(1)(b)][127] of the Public Works Act 1981 shall have effect as if, for subparagraphs (ii) and (iii), there were substituted the following subparagraph:
 
 "(ii)a statement that the land is to be resumed under section 40 of the New Zealand Railways Corporation Restructuring Act 1990 pursuant to a recommendation of the Waitangi Tribunal; and".
 
-*   For the purposes of [section 40][46] of this Act, [section 26][141] of the Public Works Act 1981 shall have effect as if, for subsection (1), there was substituted the following subsection:
+*   For the purposes of [section 40][46] of this Act, [section 26][130] of the Public Works Act 1981 shall have effect as if, for subsection (1), there was substituted the following subsection:
 
 "(1)After the expiration of the period of 20 working days specified in the notice served under section 23(1)(c) of this Act, the land intended to be taken shall be taken in the following manner:
 
@@ -962,7 +930,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 "(b)the Minister shall recommend the Governor-General to issue a Proclamation taking the land."
 
-*   For the purposes of [section 40][46] of this Act, [Schedule 1][116] of the Public Works Act 1981 shall have effect as if, for the form set out in that schedule, there were substituted the following form:
+*   For the purposes of [section 40][46] of this Act, [Schedule 1][113] of the Public Works Act 1981 shall have effect as if, for the form set out in that schedule, there were substituted the following form:
 
 "NOTICE OF INTENTION TO TAKE LAND IN \[_name of territorial authority district_\] FOR THE PURPOSE OF GIVING EFFECT TO A RECOMMENDATION OF THE WAITANGI TRIBUNAL
 
@@ -1001,7 +969,7 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 "(for Minister of Lands)."
 
-*   For the purposes of [section 40][46] of this Act, [form A][117] of Schedule 3 of the Public Works Act 1981 shall have effect as if---
+*   For the purposes of [section 40][46] of this Act, [form A][114] of Schedule 3 of the Public Works Act 1981 shall have effect as if---
         
     *   (a)for the words ""_or_ \[_name of local authority_\] for the purpose of \[_insert name of public work mentioned in Proclamation or declaration_\]"", there were substituted the words ""so that it can be returned to Maori ownership pursuant to a recommendation of the Waitangi Tribunal"":
     *   (b)for the words ""said work"", there were substituted the words ""taking of the land mentioned in table A below"":
@@ -1025,23 +993,23 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Railways Corporation Restructuring Act 1990\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Railways Corporation Restructuring Act 1990\. The reprint incorporates all the amendments to the Act as at 18 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][142] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][131] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][143] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][132] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][144] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][133] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][145] and [17E][146] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][134] and [17E][135] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1072,13 +1040,15 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][85]
+*   Public Finance Amendment Act 2013 (2013 No 50): [section 57][81]
+    
+    Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][85]
     
     Local Government Act 2002 (2002 No 84): [section 262][78]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][147]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 138(1)][136]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][86]
+    Public Audit Act 2001 (2001 No 10): [section 52][137]
     
     Survey Amendment Act 1996 (1996 No 55): sections 4(a), 5
     
@@ -1086,11 +1056,11 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][62]
     
-    [New Zealand Railways Corporation Restructuring Order 1993][89] (SR 1993/350)
+    [New Zealand Railways Corporation Restructuring Order 1993][86] (SR 1993/350)
     
     New Zealand Railways Corporation Restructuring Amendment Act 1993 (1993 No 79)
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][84]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][82]
     
     Railway Safety and Corridor Management Act 1992 (1992 No 111): section 28(1)
     
@@ -1183,70 +1153,60 @@ Modifications of provisions of Public Works Act 1981 applicable to acquisition o
 [78]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM174088
 [79]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM239393
 [80]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM446000
-[81]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM162719
-[82]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM163544
-[83]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM320877
-[84]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM289849
+[81]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM5326333
+[82]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM289849
+[83]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM431296
+[84]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM65921
 [85]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM328867
-[86]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM88956
-[87]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM431296
-[88]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM65921
-[89]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM183819
-[90]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57642
-[91]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57663
-[92]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57654
-[93]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46055
-[94]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45433
-[95]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM236786
-[96]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM230264
-[97]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM270468
-[98]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM236787
-[99]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM170872
-[100]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46068
-[101]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57621
-[102]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM58256
-[103]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57602
-[104]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM98097
-[105]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM132560
-[106]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM132592
-[107]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435544
-[108]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435827
-[109]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435560
-[110]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435569
-[111]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45772
-[112]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46319
-[113]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46329
-[114]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46963
-[115]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46992
-[116]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48607
-[117]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48622
-[118]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48630
-[119]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48634
-[120]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46029
-[121]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435367
-[122]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435510
-[123]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435822
-[124]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM58265
-[125]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM58267
-[126]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57674
-[127]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57693
-[128]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM58270
-[129]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57656
-[130]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57911
-[131]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57923
-[132]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57920
-[133]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57901
-[134]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57903
-[135]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM21806
-[136]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM415531
-[137]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM399728
-[138]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45793
-[139]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45797
-[140]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46009
-[141]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46014
-[142]: http://www.pco.parliament.govt.nz/reprints/
-[143]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195439
-[144]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[145]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195468
-[146]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195470
-[147]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM133501
+[86]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM183819
+[87]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57642
+[88]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57663
+[89]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57654
+[90]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46055
+[91]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45433
+[92]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM236786
+[93]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM230264
+[94]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM270468
+[95]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM236787
+[96]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM170872
+[97]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46068
+[98]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57621
+[99]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM58256
+[100]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57602
+[101]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM98097
+[102]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM132560
+[103]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM132592
+[104]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435544
+[105]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435827
+[106]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435560
+[107]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435569
+[108]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45772
+[109]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46319
+[110]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46329
+[111]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46963
+[112]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46992
+[113]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48607
+[114]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48622
+[115]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48630
+[116]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM48634
+[117]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46029
+[118]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435367
+[119]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435510
+[120]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM435822
+[121]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57656
+[122]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57911
+[123]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM57923
+[124]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM21806
+[125]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM415531
+[126]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM399728
+[127]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45793
+[128]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM45797
+[129]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46009
+[130]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM46014
+[131]: http://www.pco.parliament.govt.nz/reprints/
+[132]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195439
+[133]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[134]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195468
+[135]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM195470
+[136]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM133501
+[137]: http://www.legislation.govt.nz/act/public/1990/0105/latest/link.aspx?id=DLM88956
