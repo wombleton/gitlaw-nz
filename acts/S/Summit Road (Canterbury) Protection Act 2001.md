@@ -1,7 +1,7 @@
 Reprint  
-as at 30 September 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Summit Road (Canterbury) Protection Act 2001Local Act2001 No 3
 
@@ -21,77 +21,77 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
-[3][3] [Purpose][3]
+[3][3][][3][Purpose][3]
 
-[4][4] [Interpretation][4]
+[4][4][][4][Interpretation][4]
 
-[5][5] [Obligations of persons exercising functions and powers under this Act][5]
+[5][5][][5][Obligations of persons exercising functions and powers under this Act][5]
 
-[6][6] [Act to bind the Crown][6]
+[6][6][][6][Act to bind the Crown][6]
 
-[7][7] [Summit Road Protection Authority][7]
+[7][7][][7][Summit Road Protection Authority][7]
 
-[8][8] [Authority deemed to be affected local authority][8]
+[8][8][][8][Authority deemed to be affected local authority][8]
 
-[9][9] [Advisory Committee][9]
+[9][9][][9][Advisory Committee][9]
 
-[10][10] [Amendment to protected land][10]
+[10][10][][10][Amendment to protected land][10]
 
-[11][11] [Application for removal of land from protected land][11]
+[11][11][][11][Application for removal of land from protected land][11]
 
-[12][12] [Actions on protected land requiring approval][12]
+[12][12][][12][Actions on protected land requiring approval][12]
 
-[13][13] [Applications to be made to Authority][13]
+[13][13][][13][Applications to be made to Authority][13]
 
-[14][14] [Procedures for hearing of submissions][14]
+[14][14][][14][Procedures for hearing of submissions][14]
 
-[15][15] [Joint hearings with consent authorities under Resource Management Act 1991][15]
+[15][15][][15][Joint hearings with consent authorities under Resource Management Act 1991][15]
 
-[16][16] [Copy of public notice to be deposited][16]
+[16][16][][16][Copy of public notice to be deposited][16]
 
-[17][17] [Applications not requiring notification][17]
+[17][17][][17][Applications not requiring notification][17]
 
-[18][18] [Declaration by Environment Court][18]
+[18][18][][18][Declaration by Environment Court][18]
 
-[19][19] [Acquisition of land][19]
+[19][19][][19][Acquisition of land][19]
 
-[20][20] [Disposal of land][20]
+[20][20][][20][Disposal of land][20]
 
-[21][21] [Compensation][21]
+[21][21][][21][Compensation][21]
 
-[22][22] [Withdrawal of restrictions][22]
+[22][22][][22][Withdrawal of restrictions][22]
 
-[23][23] [Registration of compensation certificate][23]
+[23][23][][23][Registration of compensation certificate][23]
 
-[24][24] [Rights of appeal][24]
+[24][24][][24][Rights of appeal][24]
 
-[25][25] [Expenses and funding of Authority][25]
+[25][25][][25][Expenses and funding of Authority][25]
 
-[26][26] [Estimates and reports][26]
+[26][26][][26][Estimates and reports][26]
 
-[27][27] [Service of notices][27]
+[27][27][][27][Service of notices][27]
 
-[28][28] [Restoration of land or structure][28]
+[28][28][][28][Restoration of land or structure][28]
 
-[29][29] [Enforcement orders][29]
+[29][29][][29][Enforcement orders][29]
 
-[30][30] [Offences][30]
+[30][30][][30][Offences][30]
 
-[31][31] [Proof of intention and defences][31]
+[31][31][][31][Proof of intention and defences][31]
 
-[32][32] [Time within which information may be laid][32]
+[32][32][][32][Time for filing charging document][32]
 
-[33][33] [Penalty for offences][33]
+[33][33][][33][Penalty for offences][33]
 
-[34][34] [Proceedings in respect of offences][34]
+[34][34][][34][Proceedings in respect of offences][34]
 
-[35][35] [Relationship with other enactments][35]
+[35][35][][35][Relationship with other enactments][35]
 
-[36][36] [Repeals][36]
+[36][36][][36][Repeals][36]
 
 [Schedule 1][37]  
 [Contributory local bodies][37]
@@ -740,9 +740,11 @@ A general outline of these changes is set out in the notes at the end of this re
     
     
 
-##### 32 Time within which information may be laid
+##### 32 Time for filing charging document
     
-*   Despite [section 14][62] of the Summary Proceedings Act 1957, an information in respect of any offence against this Act may be laid at any time within 6 months from the date of the offence first coming to the notice of the Authority.
+*   Despite anything to the contrary in [section 25][62] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 6 months after the date on which the offence first came to the notice of the Authority.
+    
+    Section 32: replaced, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Penalty for offences
     
@@ -750,21 +752,27 @@ A general outline of these changes is set out in the notes at the end of this re
 
 ##### 34 Proceedings in respect of offences
     
-*   (1) An offence against this Act is punishable on summary conviction on the information of---
+*   (1) A charging document for an offence against this Act may be filed in the name of---
         
     *   (a) the principal administrative officer of the Authority; or
     
     *   (b) a person appointed in writing by the Authority.
     
-    (2) An appointment under subsection (1) may be for the purpose of laying an information in respect of a particular offence or may be a general appointment authorising the person to lay informations in respect of all offences against this Act.
+    (2) An appointment under subsection (1) may be for the purpose of filing a charging document in respect of a particular offence or may be a general appointment authorising the person to file charging documents in respect of all offences against this Act.
     
-    (3) An officer or servant of the Authority (whether or not an informant) may appear and conduct the prosecution in all proceedings for offences against this Act.
+    (3) An officer or servant of the Authority may appear and conduct the prosecution in all proceedings for offences against this Act.
+    
+    Section 34(1): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 34(2): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 34(3): amended, on 1 July 2013, by [section 413][63] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Relationship with other enactments
     
-*   Nothing in this Act affects the [Building Act 2004][63], [Te Runanga o Ngai Tahu Act 1996][64], the [Ngai Tahu Claims Settlement Act 1998][65], [Te Ture Whenua Maori Act 1993][66], or any regulations made under those Acts.
+*   Nothing in this Act affects the [Building Act 2004][64], [Te Runanga o Ngai Tahu Act 1996][65], the [Ngai Tahu Claims Settlement Act 1998][66], [Te Ture Whenua Maori Act 1993][67], or any regulations made under those Acts.
     
-    Section 35: amended, on 31 March 2005, by [section 414][67] of the Building Act 2004 (2004 No 72).
+    Section 35: amended, on 31 March 2005, by [section 414][68] of the Building Act 2004 (2004 No 72).
 
 ##### 36 Repeals
     
@@ -1211,37 +1219,6 @@ Enactment repealed
 
 ---
 
-# Local Government (Banks Peninsula District) Reorganisation Order 2005 ActNo New Zealand Gazette No 204 pg 5179
-
-##### 1 Title
-    
-*   This order may be cited as the Local Government (Banks Peninsula District) Reorganisation Order 2005\.
-
-##### 2 Commencement
-    
-*   (1) Except as provided in subclause (2) and clause 14(2), this order comes into force on the day after the day on which the electoral officer, pursuant to the Local Electoral Act 2001, declares the results of the first election of the members for the Banks Peninsula Ward, Lyttelton-Mount Herbert Community Board and Akaroa-Wairewa Community Board constituted by this order. 
-    
-    (2) The provisions of this order necessary to provide for the first election of the members for the Banks Peninsula Ward, Lyttelton-Mount Herbert Community Board and Akaroa-Wairewa Community Board constituted by this order come into force on the day after the date on which this order is made.
-    
-    Clause 2(1): Local Government (Banks Peninsula District) Reorganisation Order 2005 (except clauses 2(2) and 14(2)) brought into force, on 5 March 2006, pursuant to the declaration of the results of the first election of the members for the Banks Peninsula Ward (_The Press_, 4 March 2006, p J4).
-
-##### 17 Summit Road Protection Authority
-    
-*   The functions exercised by local authorities, under paragraphs (a) to (c) of section 7(1) of the Summit Road (Canterbury) Protection Act 2001, are to be exercised as if, for those paragraphs were substituted the following paragraphs:
-    
-    > *   "(a) 2 members appointed by the Christchurch City Council; and
-    > 
-    > *   "(b) 1 member appointed by the Selwyn District Council."
-    > 
-    > 
-    
-    Diane Morcom,  
-    Clerk of the Executive Council.
-    
-    
-
----
-
 #### Contents
     
 *   1General
@@ -1256,13 +1233,13 @@ Enactment repealed
 
 ###### 1 General
     
-*   This is a reprint of the Summit Road (Canterbury) Protection Act 2001\. The reprint incorporates all the amendments to the Act as at 30 September 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Summit Road (Canterbury) Protection Act 2001\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][68] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][69] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -1272,7 +1249,7 @@ Enactment repealed
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][69] and [17E][70] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][70] and [17E][71] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1303,9 +1280,11 @@ Enactment repealed
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Walking Access Act 2008 (2008 No 101): [section 82][47]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][63]
     
-    Building Act 2004 (2004 No 72): [section 414][67]
+    Walking Access Act 2008 (2008 No 101): [section 82][47]
+    
+    Building Act 2004 (2004 No 72): [section 414][68]
 
 
 
@@ -1371,12 +1350,13 @@ Enactment repealed
 [59]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238530
 [60]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238562
 [61]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM238540
-[62]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM311191
-[63]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM306035
-[64]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM117217
-[65]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM429089
-[66]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM289881
-[67]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM309090
-[68]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195439
-[69]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195468
-[70]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195470
+[62]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360067
+[63]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM3360714
+[64]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM306035
+[65]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM117217
+[66]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM429089
+[67]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM289881
+[68]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM309090
+[69]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195439
+[70]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195468
+[71]: http://www.legislation.govt.nz/act/local/2001/0003/latest/link.aspx?id=DLM195470
