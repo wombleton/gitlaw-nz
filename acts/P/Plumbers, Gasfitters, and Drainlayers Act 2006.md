@@ -1,5 +1,5 @@
 Reprint  
-as at 5 December 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 The Act is administered by the Ministry of Business, Innovation, and Employment.
 
@@ -340,7 +340,7 @@ The Act is administered by the Ministry of Business, Innovation, and Employment.
 
 [126][157][][157][Certificate by Registrar to be evidence of various matters][157]
 
-[127][158][][158][Time for laying information][158]
+[127][158][][158][Time for filing charging document][158]
 
 [128][159][][159][Infringement offences][159]
 
@@ -824,7 +824,9 @@ Preliminary and key provisions
     
     *   (d) the work is carried out in a competent and safe manner.
     
-    (4) A notice published under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][245] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][246].
+    (4) A notice published under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][245] and must be presented to the House of Representatives under [section 41][246] of that Act.
+    
+    Section 12(4): replaced, on 5 August 2013, by [section 77(3)][247] of the Legislation Act 2012 (2012 No 119).
 
 ##### 13 Exemption for trainees
     
@@ -890,7 +892,7 @@ Preliminary and key provisions
     
     (6) Neither subsection (1) nor [section 17][23] prohibits any person from completing any sanitary plumbing that the person has lawfully commenced.
     
-    Compare: 1976 No 69 [s 54][247]
+    Compare: 1976 No 69 [s 54][248]
 
 ##### 16 Exemption for sanitary plumbing in areas in rural districts
     
@@ -910,7 +912,7 @@ Preliminary and key provisions
     
     *   (b) [section 17][23].
     
-    Compare: 1976 No 69 [s 55][248]
+    Compare: 1976 No 69 [s 55][249]
 
 ##### 17 Provisions relating to alteration of boundaries of local authority districts
     
@@ -918,15 +920,15 @@ Preliminary and key provisions
         
     *   (a) that subsection, or those subsections, is or are in force in the district of the last-mentioned local authority; or
     
-    *   (b) the Order in Council under [section 25][249] of the Local Government Act 2002 specifies that the subsection, or those subsections, is or are to continue in force in the first-mentioned district or part of the district.
+    *   (b) the Order in Council under [section 25][250] of the Local Government Act 2002 specifies that the subsection, or those subsections, is or are to continue in force in the first-mentioned district or part of the district.
     
-    (2) If the whole or any part of the district of a local authority is included within the district of any other local authority to which [section 15(1)][21] or [16(1)][22] is in force then, unless the Order in Council under [section 25][249] of the Local Government Act 2002 otherwise provides, that subsection, or those subsections, comes or come into force in the district or part of the district so included on the date on which the relevant reorganisation scheme becomes operative.
+    (2) If the whole or any part of the district of a local authority is included within the district of any other local authority to which [section 15(1)][21] or [16(1)][22] is in force then, unless the Order in Council under [section 25][250] of the Local Government Act 2002 otherwise provides, that subsection, or those subsections, comes or come into force in the district or part of the district so included on the date on which the relevant reorganisation scheme becomes operative.
     
-    Compare: 1976 No 69 [s 56][250]
+    Compare: 1976 No 69 [s 56][251]
     
-    Section 17(1)(b): amended, on 5 December 2012, by [section 43][251] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 17(1)(b): amended, on 5 December 2012, by [section 43][252] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
     
-    Section 17(2): amended, on 5 December 2012, by [section 43][251] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
+    Section 17(2): amended, on 5 December 2012, by [section 43][252] of the Local Government Act 2002 Amendment Act 2012 (2012 No 93).
 
 ##### 18 Exemption for installing and maintaining particular sanitary plumbing equipment
     
@@ -936,7 +938,7 @@ Preliminary and key provisions
     
     *   (b) fix or unfix pipes for the purposes of that installation and maintenance.
     
-    Compare: 1976 No 69 [s 56A][252]
+    Compare: 1976 No 69 [s 56A][253]
 
 ##### 19 Exemption for sanitary plumbing under supervision
     
@@ -980,7 +982,7 @@ Preliminary and key provisions
     
     (3) The Board may place time limits on the authorisation, impose any other reasonable conditions on the authorisation, and revoke the authorisation if those conditions are not complied with.
     
-    Compare: 1976 No 69 [s 57(1)][253]
+    Compare: 1976 No 69 [s 57(1)][254]
 
 ##### 21 Exemption for gasfitting under supervision
     
@@ -998,13 +1000,13 @@ Preliminary and key provisions
     
     *   (c) the work is---
             
-        *   (i) tested and certified in accordance with regulations made under [section 54][254] of the Gas Act 1992; and
+        *   (i) tested and certified in accordance with regulations made under [section 54][255] of the Gas Act 1992; and
         
         *   (ii) connected to a supply of gas by the person who supervises the work.
         
         
     
-    Compare: 1976 No 69 [s 57(5)][253]
+    Compare: 1976 No 69 [s 57(5)][254]
 
 ##### 22 Exemption for work on certain gas installations
     
@@ -1024,7 +1026,7 @@ Preliminary and key provisions
     
     *   (b) the person has obtained the prior approval of any gas operator (within the meaning of the [Gas Act 1992][238]) supplying that gas to those premises.
     
-    Compare: 1976 No 69 [s 57(4)][253]
+    Compare: 1976 No 69 [s 57(4)][254]
 
 ##### 24 Exemption for fixing of water heaters by gasfitters
     
@@ -1042,7 +1044,7 @@ Preliminary and key provisions
     
     *   (b) any pipe that supplies, or is intended to supply, water to a gas water heater or hot water from a gas water heater to any fitting or appliance, whether or not any fitting or appliance is there when the work is done.
     
-    Compare: 1976 No 69 [s 53][255]
+    Compare: 1976 No 69 [s 53][256]
 
 #### Specific drainlaying exemption
 
@@ -1269,7 +1271,9 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
         
         
     
-    (2) Each notice published under [section 28][40] or [30][42] is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][245] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][246].
+    (2) A notice published under [section 28][40] or [30][42] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][245] and must be presented to the House of Representatives under [section 41][246] of that Act.
+    
+    Section 35(2): replaced, on 5 August 2013, by [section 77(3)][247] of the Legislation Act 2012 (2012 No 119).
 
 #### How to become registered
 
@@ -1585,7 +1589,9 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (2) The Board may grant an exemption subject to any terms and conditions that it thinks fit.
     
-    (3) Each notice published in the _Gazette_ under this section is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][245] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][246].
+    (3) A notice published in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][245] and must be presented to the House of Representatives under [section 41][246] of that Act.
+    
+    Section 52(3): replaced, on 5 August 2013, by [section 77(3)][247] of the Legislation Act 2012 (2012 No 119).
 
 #### Competence
 
@@ -1853,7 +1859,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
                 
             *   (A) is carried out safely and competently; and
             
-            *   (B) complies with the requirements of the [Gas Act 1992][238] and any regulations made under [section 54][254] of that Act.
+            *   (B) complies with the requirements of the [Gas Act 1992][238] and any regulations made under [section 54][255] of that Act.
             
             
         
@@ -1877,7 +1883,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     *   (b) a member of a class of persons designated by regulations as a class of approved persons.
     
-    Compare: 1976 No 69 [s 39A(1), (2)][256]
+    Compare: 1976 No 69 [s 39A(1), (2)][257]
 
 ##### 63 Gasfitting may be done under employer licence
     
@@ -1887,13 +1893,13 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (3) This section is subject to the terms and conditions imposed under [section 62][82] and to any regulations.
     
-    Compare: 1976 No 69 [s 39A(3)][256]
+    Compare: 1976 No 69 [s 39A(3)][257]
 
 ##### 64 Duration of employer licence
     
 *   An employer licence, unless it is sooner cancelled or suspended, is in force for the period (not exceeding 5 years) that is specified in the licence, and comes into force on the date of its issue.
     
-    Compare: 1976 No 69 [s 39B(1)][257]
+    Compare: 1976 No 69 [s 39B(1)][258]
 
 ##### 65 Renewal of employer licence
     
@@ -1917,7 +1923,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (6) If an application for the renewal of an employer licence has been made but not dealt with before the licence expires, the licence continues in force until the application is dealt with by the Board, and any renewal in that case must take effect from the date on which the licence would (but for the renewal) have expired.
     
-    Compare: 1976 No 69 [s 39B(2)--(6)][257]
+    Compare: 1976 No 69 [s 39B(2)--(6)][258]
 
 ##### 66 Cancellation, suspension, and other actions in relation to employer licences
     
@@ -1975,7 +1981,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (5) The Board may take an action under this section whether or not the person is still an employer licence holder.
     
-    Compare: 1976 No 69 [s 39C][258]
+    Compare: 1976 No 69 [s 39C][259]
 
 ##### 67 Board must give employer licence holder reasonable opportunity to be heard
     
@@ -2029,13 +2035,13 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
             
         *   (i) is at all times carried out safely and competently; and
         
-        *   (ii) complies with the requirements of the [Gas Act 1992][238] and any regulations made under [section 54][254] of that Act.
+        *   (ii) complies with the requirements of the [Gas Act 1992][238] and any regulations made under [section 54][255] of that Act.
         
         
     
-    (6) Nothing in this section authorises any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][259]) unless the person entering that area has a security clearance approved by the person in charge of the area.
+    (6) Nothing in this section authorises any person to enter or search any restricted area within a defence area (within the meaning of the [Defence Act 1990][260]) unless the person entering that area has a security clearance approved by the person in charge of the area.
     
-    Compare: 1976 No 69 [s 39E][260]
+    Compare: 1976 No 69 [s 39E][261]
 
 ### Subpart 3---Register of plumbers, gasfitters, and drainlayers
 
@@ -2119,7 +2125,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
         
         *   (vii) any conditions placed on the registration or practising licence of the person; and
         
-        *   (viii) any action taken under [section 42][261] of the former Act (as in force immediately before the commencement of this section) or [section 106][135] on a disciplinary matter in respect of the person in the last 3 years; and
+        *   (viii) any action taken under [section 42][262] of the former Act (as in force immediately before the commencement of this section) or [section 106][135] on a disciplinary matter in respect of the person in the last 3 years; and
         
         *   (ix) any current suspension, the ground under this Act for the suspension, its period, and any conditions for its termination; and
         
@@ -2145,7 +2151,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
         
         *   (v) any conditions placed on the licence; and
         
-        *   (vi) any action taken under [section 42][261] of the former Act (as in force immediately before the commencement of this section) or [section 66][86] or [106][135] on a disciplinary matter against the person in the last 3 years; and
+        *   (vi) any action taken under [section 42][262] of the former Act (as in force immediately before the commencement of this section) or [section 66][86] or [106][135] on a disciplinary matter against the person in the last 3 years; and
         
         *   (vii) any current suspension, the ground under this Act for the suspension, its period, and any conditions for its termination; and
         
@@ -2175,7 +2181,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
 
 ##### 75 Historical registration and licence information and documentation to be included in register
     
-*   (1) This section applies to all of the information and documentation contained in the registers that were kept under [section 20][262] of the former Act (as in force immediately before its repeal).
+*   (1) This section applies to all of the information and documentation contained in the registers that were kept under [section 20][263] of the former Act (as in force immediately before its repeal).
     
     (2) The information and documentation that this section applies to must be maintained as part of the register.
     
@@ -2193,7 +2199,9 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (2) The Registrar must enter the new address in the register.
     
-    (3) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    (3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500\.
+    
+    Section 76(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 77 Duty to notify change of name
     
@@ -2201,7 +2209,9 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
     
     (2) If the Registrar is satisfied that a registered person, a provisional licence holder, or an employer licence holder has changed that person's name, or that it is wrongly entered in the register, the Registrar must correct the entry in the register relating to that person.
     
-    (3) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    (3) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $500\.
+    
+    Section 77(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Revision of register
     
@@ -2307,7 +2317,7 @@ Registration and licensing of plumbers, gasfitters, and drainlayers
 
 ##### 87 When search constitutes interference with privacy of individual
     
-*   A search of the register for personal information that has not been carried out in accordance with [sections 84 to 86][105] constitutes an action that is an interference with the privacy of an individual under [section 66][263] of the Privacy Act 1993\.
+*   A search of the register for personal information that has not been carried out in accordance with [sections 84 to 86][105] constitutes an action that is an interference with the privacy of an individual under [section 66][265] of the Privacy Act 1993\.
 
 ## Part 3  
 Discipline and offences
@@ -2368,7 +2378,7 @@ Discipline and offences
     
     *   (g) to have employed, directed, or permitted any unauthorised person to do any sanitary plumbing, gasfitting, or drainlaying work; or
     
-    *   (h) to have been convicted of an offence relating to sanitary plumbing, gasfitting, or drainlaying against this Act or the former Act or the [Health Act 1956][264], or against any regulations made under this Act or either of those Acts or under the [Gas Act 1992][238]; or
+    *   (h) to have been convicted of an offence relating to sanitary plumbing, gasfitting, or drainlaying against this Act or the former Act or the [Health Act 1956][266], or against any regulations made under this Act or either of those Acts or under the [Gas Act 1992][238]; or
     
     *   (i) to be guilty of improper or incompetent conduct in performing that person's work, or in charging for it, that renders that person unfit to be registered or licensed under [Part 2][37].
     
@@ -2468,13 +2478,13 @@ Discipline and offences
     
     (2) A person who does not have a warrant supplied under this section must not represent himself or herself to be the holder of a warrant supplied under this section.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who---
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who---
         
     *   (a) fails to comply with subsection (2); or
     
     *   (b) impersonates or falsely pretends to be a person named in a warrant supplied under this section.
     
-    
+    Section 94(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 95 Duties of investigator supplied with warrant of authority
     
@@ -2542,7 +2552,9 @@ Discipline and offences
     
     *   (b) in purported compliance with the notice, supply information, or supply a document, knowing it to be false or misleading.
     
-    (2) Every person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
+    (2) Every person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $50,000 in the case of a body corporate.
+    
+    Section 99(2): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Consideration of complaint by Board
 
@@ -2780,7 +2792,9 @@ Discipline and offences
     
     (6) Unless reversed or modified in respect of its currency by a court on an appeal, an order made under subsection (3)(b) to (d) continues in force until the time that is specified in the order, or, if no time is specified, until the Board, in its discretion, revokes it on the application of any party to the proceedings in which the order was made.
     
-    (7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who, without lawful excuse, breaches any order made by the Board under subsection (3)(b) to (d).
+    (7) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who, without lawful excuse, breaches any order made by the Board under subsection (3)(b) to (d).
+    
+    Section 113(7): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114 Investigator to prosecute matter
     
@@ -2824,9 +2838,9 @@ Discipline and offences
 
 ##### 118 Board to have powers of commission of inquiry
     
-*   (1) The Board has, for the purposes of any hearing under this subpart, the same powers as are conferred on commissions of inquiry by [sections 4][265] and [4B to 9][266] of the Commissions of Inquiry Act 1908\.
+*   (1) The Board has, for the purposes of any hearing under this subpart, the same powers as are conferred on commissions of inquiry by [sections 4][267] and [4B to 9][268] of the Commissions of Inquiry Act 1908\.
     
-    (2) [Sections 4][265] and [4B to 9][266] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing held by the Board under this subpart as if it were an inquiry conducted by a commission of inquiry under that Act.
+    (2) [Sections 4][267] and [4B to 9][268] of the Commissions of Inquiry Act 1908 apply to all persons involved in any capacity in any hearing held by the Board under this subpart as if it were an inquiry conducted by a commission of inquiry under that Act.
 
 ##### 119 Orders to be in writing
     
@@ -2870,7 +2884,7 @@ Discipline and offences
 
 ##### 121 False declarations and representations
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, for the purpose of obtaining any registration, licence, renewal of a licence, or certificate under this Act, either on the person's own behalf or on behalf of any other person,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, for the purpose of obtaining any registration, licence, renewal of a licence, or certificate under this Act, either on the person's own behalf or on behalf of any other person,---
         
     *   (a) either orally or in writing, makes any declaration or representation that, to the person's knowledge, is false or misleading in any material particular; or
     
@@ -2890,11 +2904,11 @@ Discipline and offences
         
         
     
-    
+    Section 121: amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 122 Unlicensed or unregistered person must not claim to be licensed or registered
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who,---
         
     *   (a) not being registered or licensed under [Part 2][37] in respect of a particular class of sanitary plumbing, gasfitting, or drainlaying work,---
             
@@ -2912,29 +2926,39 @@ Discipline and offences
     
     *   (d) allows a certificate of registration or a licence to be used by any other person for the purpose of enabling that other person to do any sanitary plumbing, gasfitting, or drainlaying in breach of [Part 1][3].
     
-    
+    Section 122: amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 123 Offences to engage in work in breach of sections 8 to 10 and to employ person to do work in breach of those sections
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who does, or assists in doing, any---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who does, or assists in doing, any---
         
     *   (a) sanitary plumbing in breach of [section 8][12]; or
     
     *   (b) drainlaying in breach of [section 10][14].
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who does, or assists in doing, any gasfitting in breach of [section 9][13].
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who does, or assists in doing, any gasfitting in breach of [section 9][13].
     
-    (3) Every person who employs any person under a contract of service to do, or assist in doing, any sanitary plumbing or drainlaying in breach of [section 8][12] or [10][14] commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (3) Every person who employs any person under a contract of service to do, or assist in doing, any sanitary plumbing or drainlaying in breach of [section 8][12] or [10][14] commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    (4) Every person who employs any person under a contract of service to do, or assist in doing, any gasfitting in breach of [section 9][13] commits an offence and is liable on summary conviction to a fine not exceeding $10,000 in the case of an individual, or $25,000 in the case of a body corporate.
+    (4) Every person who employs any person under a contract of service to do, or assist in doing, any gasfitting in breach of [section 9][13] commits an offence and is liable on conviction to a fine not exceeding $10,000 in the case of an individual, or $25,000 in the case of a body corporate.
+    
+    Section 123(1): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 123(2): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 123(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 123(4): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 124 Offence to fail to comply with condition of employer licence
     
-*   Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
+*   Every person who, being the holder of an employer licence, fails to comply with any condition of that licence commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate.
+    
+    Section 124: amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 125 Other offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who---
         
     *   (a) intentionally or negligently does or causes or permits to be done any sanitary plumbing or drainlaying in a manner that is dangerous to life; or
     
@@ -2944,7 +2968,7 @@ Discipline and offences
     
     *   (d) intentionally hinders or obstructs any authorised person in the exercise of any powers conferred by or under [section 93][119] or any regulations in relation to any sanitary plumbing or drainlaying.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $50,000 in the case of an individual, or $250,000 in the case of a body corporate, who---
         
     *   (a) intentionally or negligently does or causes or permits to be done any gasfitting in a manner that is dangerous to life; or
     
@@ -2954,9 +2978,17 @@ Discipline and offences
     
     *   (d) intentionally hinders or obstructs any authorised person in the exercise of any powers conferred by or under [section 69][89] or [93][119] or any regulations in relation to any gasfitting.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under [Part 1][3] or any certificate of registration or licence issued under [Part 2][37], fails or refuses to surrender it to the Board within 10 working days of a written demand to do so by the Registrar.
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, being in possession of any limited certificate issued under [Part 1][3] or any certificate of registration or licence issued under [Part 2][37], fails or refuses to surrender it to the Board within 10 working days of a written demand to do so by the Registrar.
     
-    (4) An information must not be laid under subsection (1)(b) or (2)(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
+    (4) A charging document must not be filed under subsection (1)(b) or (2)(b) by any person other than the Registrar or a person authorised in writing in that behalf by the Board.
+    
+    Section 125(1): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 125(2): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 125(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 125(4): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 126 Certificate by Registrar to be evidence of various matters
     
@@ -2974,19 +3006,25 @@ Discipline and offences
     
     
 
-##### 127 Time for laying information
+##### 127 Time for filing charging document
     
-*   Despite [section 14][267] of the Summary Proceedings Act 1957, an information in respect of an offence under this Part may be laid at any time within 5 years after the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][269] of the Criminal Procedure Act 2011, the limitation period in respect of an offence under this Part ends on the date that is 5 years after the date on which the offence was committed.
+    
+    Section 127: replaced, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 128 Infringement offences
     
 *   (1) If a person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against summarily for the alleged offence under the [Summary Proceedings Act 1957][268]; or
+    *   (a) be proceeded against by filing a charging document under [section 14][270] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 129][160].
     
-    (2) Despite [section 21][269] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary where the Board or the Registrar proceeds with an infringement offence summarily.
+    (2) Despite [section 21][271] of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to file a charging document is not necessary if the Board or the Registrar commences proceedings for an infringement offence by filing a charging document under the [Criminal Procedure Act 2011][272].
+    
+    Section 128(1)(a): replaced, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 128(2): replaced, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 129 Infringement notices
     
@@ -2996,7 +3034,7 @@ Discipline and offences
     
     *   (b) the Registrar or another person has not taken enforcement action against the same defendant in respect of the same matter.
     
-    (2) The Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][269] of the Summary Proceedings Act 1957\.
+    (2) The Registrar may revoke an infringement notice before the infringement fee is paid, or before an order for payment of a fine is made or deemed to be made by a court under [section 21][271] of the Summary Proceedings Act 1957\.
     
     (3) An infringement notice is revoked by giving written notice to the person to whom it was issued that the notice is revoked.
     
@@ -3004,15 +3042,17 @@ Discipline and offences
         
     *   (a) in relation to the Registrar,---
             
-        *   (i) the laying of an information under this Part; or
+        *   (i) the filing of a charging document under this Part; or
         
         *   (ii) the issuing of an infringement notice under this Part; and
         
         
     
-    *   (b) in relation to a person other than the Registrar, the laying of an information under this Part.
+    *   (b) in relation to a person other than the Registrar, the filing of a charging document under this Part.
     
+    Section 129(4)(a)(i): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
     
+    Section 129(4)(b): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 130 Procedural requirements for infringement notices
     
@@ -3024,7 +3064,7 @@ Discipline and offences
     
     *   (b) by sending it, or a copy of it, by post, addressed to the person at the person's last known place of residence or business.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][268], an infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
+    (3) An infringement notice sent under subsection (2)(b) must be treated as having been served on the person on the date it was posted.
     
     (4) An infringement notice must be in the prescribed form and must contain---
         
@@ -3036,7 +3076,7 @@ Discipline and offences
     
     *   (d) the time within which the infringement fee must be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][269] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][271] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement that the person served with the notice has a right to request a hearing; and
     
@@ -3044,13 +3084,15 @@ Discipline and offences
     
     *   (h) any other prescribed matters.
     
-    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][269] of the Summary Proceedings Act 1957 and, in that case,---
+    (5) If an infringement notice has been issued, proceedings in respect of the infringement offence to which the notice relates may be commenced in accordance with [section 21][271] of the Summary Proceedings Act 1957 and, in that case,---
         
     *   (a) reminder notices may be prescribed under regulations; and
     
-    *   (b) in all other respects, [section 21][269] of the Summary Proceedings Act 1957 applies with all necessary modifications.
+    *   (b) in all other respects, [section 21][271] of the Summary Proceedings Act 1957 applies with all necessary modifications.
     
     (6) Reminder notices must contain the prescribed information.
+    
+    Section 130(3): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 131 Payment of infringement fee
     
@@ -3075,7 +3117,7 @@ Administration, appeals, and miscellaneous provisions
     
     (3) The Board is the same body as the Plumbers, Gasfitters, and Drainlayers Board constituted under the former Act.
     
-    Compare: 1976 No 69 [s 5][270]
+    Compare: 1976 No 69 [s 5][273]
 
 ##### 134 Membership of Board
     
@@ -3103,7 +3145,7 @@ Administration, appeals, and miscellaneous provisions
     
     (4) The term of office of every person deemed to be appointed as a member of the Board under subsection (3) expires on the date on which, but for the passing of this Act, that term would have expired under the former Act.
     
-    Compare: 1976 No 69 [s 6][271]
+    Compare: 1976 No 69 [s 6][274]
 
 ##### 135 Term of office
     
@@ -3111,7 +3153,7 @@ Administration, appeals, and miscellaneous provisions
     
     (2) Each member is appointed for a term of 3 years or any shorter term as is specified in the notice of appointment, and may be reappointed from time to time, but no person is eligible to be a member for more than 9 consecutive years.
     
-    Compare: 1976 No 69 [s 6A][272]
+    Compare: 1976 No 69 [s 6A][275]
 
 ##### 136 Vacation of office
     
@@ -3131,7 +3173,7 @@ Administration, appeals, and miscellaneous provisions
     
     (6) The powers of the Board are not affected by any vacancy in its membership.
     
-    Compare: 1976 No 69 [s 6B][273]
+    Compare: 1976 No 69 [s 6B][276]
 
 ##### 137 Functions of Board
     
@@ -3169,7 +3211,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (p) to institute prosecutions against persons for the breach of any Act or regulation relating to sanitary plumbing, gasfitting, or drainlaying:
     
-    *   (q) to make recommendations to the Minister with respect to the making of regulations, or the making of regulations controlling sanitary plumbing or drainlaying under the [Health Act 1956][264]:
+    *   (q) to make recommendations to the Minister with respect to the making of regulations, or the making of regulations controlling sanitary plumbing or drainlaying under the [Health Act 1956][266]:
     
     *   (r) to exercise and perform any other functions, duties, and powers as are conferred or imposed on the Board by or under this Act or by or under any other enactment:
     
@@ -3177,13 +3219,13 @@ Administration, appeals, and miscellaneous provisions
     
     *   (t) to carry out any functions that are incidental and related to, or consequential on, its functions stated in this section.
     
-    Compare: 1976 No 69 [s 11(1)][274]
+    Compare: 1976 No 69 [s 11(1)][277]
 
 ##### 138 Powers of Board
     
 *   The Board has all of the powers that are reasonably necessary or expedient to enable the Board to carry out its functions.
     
-    Compare: 1976 No 69 [s 11(2)][274]
+    Compare: 1976 No 69 [s 11(2)][277]
 
 ##### 139 Power to amend or revoke
     
@@ -3199,7 +3241,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (b) revoke those terms or conditions and replace them with other terms or conditions.
     
-    (3) This section does not limit [section 15][275] of the Interpretation Act 1999\.
+    (3) This section does not limit [section 15][278] of the Interpretation Act 1999\.
 
 ##### 140 Registrar of Plumbers, Gasfitters, and Drainlayers
     
@@ -3227,7 +3269,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (c) is affected by any change in the person holding the office of Registrar.
     
-    Compare: 1976 No 69 [s 13(1)][276]
+    Compare: 1976 No 69 [s 13(1)][279]
 
 ##### 141 Other officers
     
@@ -3253,7 +3295,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (c) is affected by any change in the person holding the office of Registrar.
     
-    Compare: 1976 No 69 [s 13(1)][276]
+    Compare: 1976 No 69 [s 13(1)][279]
 
 ##### 142 Board may prescribe fees
     
@@ -3285,7 +3327,7 @@ Administration, appeals, and miscellaneous provisions
     
     (5) Until the prescribed fee has been paid, the Registrar or any other officer or employee of the Board may decline to do any act, or permit any act to be done, or to receive any document, in respect of which that fee is payable.
     
-    Compare: 1976 No 69 [ss 14A][277], [15(1), (2)][278]
+    Compare: 1976 No 69 [ss 14A][280], [15(1), (2)][281]
 
 ##### 143 Disciplinary levy
     
@@ -3297,7 +3339,7 @@ Administration, appeals, and miscellaneous provisions
     
     (2) Any notice imposing any levy under this section may exempt from liability to pay the levy any class or classes of registered person, and may provide for the waiver or refund of any levy.
     
-    Compare: 1976 No 69 [s 14B][279]
+    Compare: 1976 No 69 [s 14B][282]
 
 ##### 144 Board may prescribe forms
     
@@ -3313,17 +3355,19 @@ Administration, appeals, and miscellaneous provisions
     
 *   (1) Every notice under [sections 142 to 144][175] comes into force on a date specified in the notice, being not less than 28 days after the date of publication of the notice in the _Gazette_.
     
-    (2) Every notice under [sections 142 to 144][175] is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][245] but is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][246].
+    (2) A notice under [sections 142 to 144][175] is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][245] and must be presented to the House of Representatives under [section 41][246] of that Act.
     
     (3) Every fee prescribed under [section 142][175], and every levy imposed under [section 143][176], is payable, and recoverable as a debt due, to the Board.
     
-    (4) All levies collected under [section 14B][279] of the former Act may---
+    (4) All levies collected under [section 14B][282] of the former Act may---
         
-    *   (a) continue to be used for the purposes referred to in [section 14B][279] of the former Act; or
+    *   (a) continue to be used for the purposes referred to in [section 14B][282] of the former Act; or
     
     *   (b) be used for the purposes referred to in [section 143][176].
     
-    Compare: 1976 No 69 [s 14C][280]
+    Compare: 1976 No 69 [s 14C][283]
+    
+    Section 145(2): replaced, on 5 August 2013, by [section 77(3)][247] of the Legislation Act 2012 (2012 No 119).
 
 ##### 146 Application of money received by Board
     
@@ -3333,11 +3377,11 @@ Administration, appeals, and miscellaneous provisions
         
     *   (a) the payment of remuneration and travelling allowances and expenses to its members, officers, employees, and agents (including any person referred to in [section 147][180]):
     
-    *   (b) the payment of contributions to the global asset trust under the [National Provident Fund Restructuring Act 1990][281], or to any other superannuation fund or scheme established, with the approval of the Minister of Finance, for the purpose of providing superannuation or retiring allowances for the Board's employees:
+    *   (b) the payment of contributions to the global asset trust under the [National Provident Fund Restructuring Act 1990][284], or to any other superannuation fund or scheme established, with the approval of the Minister of Finance, for the purpose of providing superannuation or retiring allowances for the Board's employees:
     
     *   (c) contributing towards the cost of educating or training any person wishing to enter the sanitary plumbing, gasfitting, or drainlaying trades, and providing scholarships or bursaries and making donations for that purpose.
     
-    (3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the provisions of the [Trustee Act 1956][282] as to the investment of trust funds.
+    (3) The Board may invest any money for the time being not required for any of the purposes referred to in subsection (2) in accordance with the provisions of the [Trustee Act 1956][285] as to the investment of trust funds.
     
     (4) The Board must keep full and true accounts of all money received and expended by it.
     
@@ -3345,25 +3389,25 @@ Administration, appeals, and miscellaneous provisions
     
     (6) This section is subject to [section 131][162].
     
-    Compare: 1976 No 69 [s 15(3)--(7)][278]
+    Compare: 1976 No 69 [s 15(3)--(7)][281]
 
 ##### 147 Fees and allowances
     
 *   The Board may pay to members of the Board, to members of any committee appointed by the Board, and to investigators, out of the funds of the Board, the remuneration (by way of fees, salary, or otherwise) and allowances and expenses as the Board from time to time determines.
     
-    Compare: 1976 No 69 [s 14][283]
+    Compare: 1976 No 69 [s 14][286]
 
 ##### 148 Unauthorised expenditure
     
 *   The Board may, in any financial year, expend for purposes not authorised by any Act or law any sum or sums not amounting in total to more than $500\.
     
-    Compare: 1976 No 69 [s 17][284]
+    Compare: 1976 No 69 [s 17][287]
 
 ##### 149 Auditor-General to be auditor of Board
     
-*   The Board is a public entity as defined in [section 4][285] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Board is a public entity as defined in [section 4][288] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Compare: 1976 No 69 [s 15(9)][278]
+    Compare: 1976 No 69 [s 15(9)][281]
 
 ##### 150 Obligation to prepare annual report
     
@@ -3403,7 +3447,7 @@ Administration, appeals, and miscellaneous provisions
         
         *   (xiii) a brief description of the type of breaches referred to in subparagraph (xii):
         
-        *   (xiv) the number of persons registered or issued with a licence by the Board under the [Electricity Act 1992][286]:
+        *   (xiv) the number of persons registered or issued with a licence by the Board under the [Electricity Act 1992][289]:
         
         *   (xv) any other information that the Minister reasonably requires:
         
@@ -3453,7 +3497,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (b) there would, under the [Official Information Act 1982][232], be good reason for withholding the information if---
             
-        *   (i) the request had been made under [section 12][287] of that Act and [section 9(2)(a)][288] of that Act applied; and
+        *   (i) the request had been made under [section 12][290] of that Act and [section 9(2)(a)][291] of that Act applied; and
         
         *   (ii) the need to protect the privacy of any person were not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; and
         
@@ -3475,7 +3519,7 @@ Administration, appeals, and miscellaneous provisions
     
     (5) An output agreement must be in writing, be dated, and be signed by, or on behalf of, the Minister and the Board.
     
-    Compare: 2004 No 115 [s 170][289]
+    Compare: 2004 No 115 [s 170][292]
 
 ##### 157 Minister may require output agreement to include matters relating to Board's relationship with industry training organisation
     
@@ -3483,11 +3527,11 @@ Administration, appeals, and miscellaneous provisions
     
     (2) The purpose of the matters referred to in subsection (1) is to assist the Board and the industry training organisation to clarify, align, and manage their respective expectations and responsibilities in relation to their respective functions and powers.
     
-    (3) In this section, _industry training organisation_ has the same meaning as in [section 2][290] of the Industry Training Act 1992\.
+    (3) In this section, _industry training organisation_ has the same meaning as in [section 2][293] of the Industry Training Act 1992\.
 
 ##### 158 Annual financial statements and statement of responsibility
     
-*   (1) The Board must prepare annual financial statements with respect to the affairs of the Board for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][291] of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
+*   (1) The Board must prepare annual financial statements with respect to the affairs of the Board for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][294] of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
     
     (2) The annual financial statements must contain---
         
@@ -3531,7 +3575,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (b) for the purpose of securing any money borrowed, mortgage, charge, or pledge any right, title, estate, or interest in any real or personal property vested in the Board.
     
-    Compare: 1976 No 69 [s 18][292]
+    Compare: 1976 No 69 [s 18][295]
 
 ##### 161 Further provisions relating to Board and members in Schedule 1
     
@@ -3603,7 +3647,9 @@ Administration, appeals, and miscellaneous provisions
     
 *   (1) On any appeal under [section 162][196], a District Court may, if in the court's opinion it is proper to do so having regard to the interests of any person and to the public interest, make an order prohibiting the publication of the name or particulars of the affairs of any person.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who commits a breach of any order made under subsection (1) or evades or attempts to evade the order.
+    
+    Section 167(2): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 168 Decision to continue in force pending appeal
     
@@ -3611,11 +3657,15 @@ Administration, appeals, and miscellaneous provisions
 
 ##### 169 Appeal on question of law
     
-*   (1) If, in respect of any appeal under [section 162][196], the Board or the Registrar or the appellant is dissatisfied with any decision of the District Court as being erroneous in point of law, the Board or the Registrar or the appellant may appeal to the High Court by way of case stated for the opinion of that court on the question of law only.
+*   (1) If, in respect of any appeal under [section 162][196], the Board or the Registrar or the appellant is dissatisfied with any decision of the District Court as being erroneous in point of law, the Board or the Registrar or the appellant may appeal to the High Court on the question of law only.
     
     (2) Every appeal under this section must be heard and determined in accordance with rules of court.
     
-    (3) However, [Part 4][293] of the Summary Proceedings Act 1957 (including the other provisions of that Act which are applied in that Part), so far as it relates to appeals by way of case stated on questions of law only, applies, so far as it is applicable and with all necessary modifications, to every appeal under this section.
+    (3) [Subpart 8][296] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this section.
+    
+    Section 169(1): amended, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 169(3): replaced, on 1 July 2013, by [section 413][264] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Miscellaneous provisions, consequential amendments, and repeals
 
@@ -3651,7 +3701,7 @@ Administration, appeals, and miscellaneous provisions
     
     (2) Subsection (1) does not exclude the liability of any body or person for anything done or omitted in bad faith or without reasonable care.
     
-    Compare: 1976 No 69 [s 62][294]
+    Compare: 1976 No 69 [s 62][297]
 
 #### Regulations
 
@@ -3711,7 +3761,7 @@ Administration, appeals, and miscellaneous provisions
     
     (4) All regulations made under subsection (1)(l) that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
     
-    Compare: 1976 No 69 [s 66][295]
+    Compare: 1976 No 69 [s 66][298]
 
 #### Transitional provisions
 
@@ -3743,7 +3793,7 @@ Administration, appeals, and miscellaneous provisions
 
 ##### 174 Registered persons who hold licences under former Act continue to hold licences
     
-*   (1) Every person who, immediately before the commencement of this section, was a registered person under the former Act who held a licence under [sections 36 to 36E][296] of the former Act (as in force immediately before the commencement of this section) is, on and from the commencement of this section, deemed to be a registered person who holds a current practising licence issued under [subpart 1][38] of Part 2\.
+*   (1) Every person who, immediately before the commencement of this section, was a registered person under the former Act who held a licence under [sections 36 to 36E][299] of the former Act (as in force immediately before the commencement of this section) is, on and from the commencement of this section, deemed to be a registered person who holds a current practising licence issued under [subpart 1][38] of Part 2\.
     
     (2) However, the practising licence that a person is deemed to hold under subsection (1) is deemed to expire on the date on which the licence held under the former Act would have expired if this Act had not been enacted (but may be renewed in accordance with subsection (5)).
     
@@ -3855,7 +3905,7 @@ Administration, appeals, and miscellaneous provisions
     
     *   (c) be subject to any conditions, limitations, or restrictions that, immediately before the commencement of this section, were imposed by or under the former Act on the person's limited certificate.
     
-    (3) The conditions, limitations, or restrictions imposed by [section 38][297] of the former Act continue to apply, with all necessary modifications, in relation to a limited certificate that is deemed to be held under this section as if the references in that provision to---
+    (3) The conditions, limitations, or restrictions imposed by [section 38][300] of the former Act continue to apply, with all necessary modifications, in relation to a limited certificate that is deemed to be held under this section as if the references in that provision to---
         
     *   (a) a craftsman plumber or a registered plumber were references to a registered person who holds a current practising licence that authorises the person to do the relevant work; and
     
@@ -3955,11 +4005,11 @@ Administration, appeals, and miscellaneous provisions
 
 ##### 184 Notices made under repealed provisions to have continuing effect
     
-*   (1) A notice made under [section 54][247] of the former Act that is in force immediately before the repeal of that section continues in force as if it had been made under [section 15][21] until it is revoked.
+*   (1) A notice made under [section 54][248] of the former Act that is in force immediately before the repeal of that section continues in force as if it had been made under [section 15][21] until it is revoked.
     
-    (2) For the purposes of subsection (1), a reference in a notice continued under that subsection to [section 54(1)][247] of the former Act must be treated as a reference to [section 15(1)][21].
+    (2) For the purposes of subsection (1), a reference in a notice continued under that subsection to [section 54(1)][248] of the former Act must be treated as a reference to [section 15(1)][21].
     
-    (3) A notice made under [section 55][248] of the former Act that is in force immediately before the repeal of that section continues in force as if it had been made under [section 16][22] until it is revoked.
+    (3) A notice made under [section 55][249] of the former Act that is in force immediately before the repeal of that section continues in force as if it had been made under [section 16][22] until it is revoked.
     
     (4) An enactment that continues in force---
         
@@ -3979,7 +4029,7 @@ Administration, appeals, and miscellaneous provisions
     
 *   (1) The [Plumbers, Gasfitters, and Drainlayers Act 1976][234] is repealed.
     
-    (2) The [Plumbers, Gasfitters, and Drainlayers Regulations 1977][298] are revoked.
+    (2) The [Plumbers, Gasfitters, and Drainlayers Regulations 1977][301] are revoked.
 
 #### Review of Act
 
@@ -4034,13 +4084,13 @@ Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its membe
         
     *   (a) times appointed by the Board; and
     
-    *   (b) subject to [clause 13][299], places appointed by the Board.
+    *   (b) subject to [clause 13][302], places appointed by the Board.
     
     (2) The Registrar must give each member of the Board notice of a meeting of the Board, but the Registrar is not required to give notice to a member who is absent from New Zealand.
     
     (3) At any meeting of the Board, the quorum necessary for the transaction of business is 5 members.
     
-    (4) For the purposes of determining the quorum, a member who is a representative under [clause 4][300] may be counted only once.
+    (4) For the purposes of determining the quorum, a member who is a representative under [clause 4][303] may be counted only once.
     
     (5) A meeting of the Board at which the quorum is present is competent to perform or exercise any of the functions, duties, and powers exercisable by the Board.
 
@@ -4092,7 +4142,7 @@ Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its membe
 
 ##### 8 Meaning of interested
     
-*   (1) For the purposes of [clauses 9 to 11][301], a member of the Board is interested in a transaction of, or other matter relating to, the Board only if the member---
+*   (1) For the purposes of [clauses 9 to 11][304], a member of the Board is interested in a transaction of, or other matter relating to, the Board only if the member---
         
     *   (a) is a party to, or will or may derive a material financial benefit from, the transaction or matter; or
     
@@ -4108,11 +4158,11 @@ Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its membe
 
 ##### 9 Obligation to disclose interest
     
-*   A member of the Board who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 10][302] as soon as practicable after the member becomes aware that he or she is interested.
+*   A member of the Board who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 10][305] as soon as practicable after the member becomes aware that he or she is interested.
 
 ##### 10 Method of disclosure of interest
     
-*   (1) If [clause 9][301] applies, the member must ensure that the details listed in subclause (2) are entered in an interests register and disclosed to---
+*   (1) If [clause 9][304] applies, the member must ensure that the details listed in subclause (2) are entered in an interests register and disclosed to---
         
     *   (a) the chairperson; or
     
@@ -4148,7 +4198,7 @@ Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its membe
 
 ##### 13 Teleconference meetings
     
-*   (1) The contemporaneous linking together by telephone or videolink or other means of communication of a number of members, being not less than the quorum stated in [clause 3][303], whether or not 1 or more of those members are out of New Zealand, is to be taken as constituting a meeting of the Board to which the provisions of this Act apply, if the following conditions are met:
+*   (1) The contemporaneous linking together by telephone or videolink or other means of communication of a number of members, being not less than the quorum stated in [clause 3][306], whether or not 1 or more of those members are out of New Zealand, is to be taken as constituting a meeting of the Board to which the provisions of this Act apply, if the following conditions are met:
         
     *   (a) notice must have been given, by letter or telephone or electronic transmission, to every member of the Board entitled to receive notice of a meeting of the Board; and
     
@@ -4188,7 +4238,7 @@ Provisions applying to Plumbers, Gasfitters, and Drainlayers Board and its membe
 
 ##### 16 Delegation
     
-*   (1) The Board may, by written notice, delegate any of its functions, duties, or powers (other than powers of decision concerning discipline under [Part 3][109]) to any committee appointed under [clause 15][304].
+*   (1) The Board may, by written notice, delegate any of its functions, duties, or powers (other than powers of decision concerning discipline under [Part 3][109]) to any committee appointed under [clause 15][307].
     
     (2) Unless otherwise provided in the delegation, a delegate may exercise a function, duty, or power of the Board delegated to it under this clause in the same manner and with the same effect as if the delegate were the Board, but may not further delegate the function, duty, or power.
     
@@ -4221,13 +4271,13 @@ Consequential amendments
 
 ##### Building Act 2004 (2004 No 72)
 
-Definition of **gasfitting** in [section 7][305]: omit ""section 2 of the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006"".
+Definition of **gasfitting** in [section 7][308]: omit ""section 2 of the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006"".
 
-[Schedule 1][306]: omit ""the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""the Plumbers, Gasfitters, and Drainlayers Act 2006"".
+[Schedule 1][309]: omit ""the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""the Plumbers, Gasfitters, and Drainlayers Act 2006"".
 
 ##### Electronic Transactions Act 2002 (2002 No 35)
 
-Paragraph (29) of [Part 4][307] of the Schedule: omit ""constituted under the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""continued under the Plumbers, Gasfitters, and Drainlayers Act 2006"".
+Paragraph (29) of [Part 4][310] of the Schedule: omit ""constituted under the Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""continued under the Plumbers, Gasfitters, and Drainlayers Act 2006"".
 
 ##### Gas Act 1992 (1992 No 124)
 
@@ -4237,21 +4287,21 @@ Definition of **gasfitting** in [section 2(1)][231]: repeal and substitute:
 
 > "_gasfitting_ has the same meaning as in section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006".
 
-[Section 17(4)(b)][308]: repeal and substitute:
+[Section 17(4)(b)][311]: repeal and substitute:
 
 > *   "(b) if the accident is discovered by any person who is authorised to do gasfitting under Part 2 of the Plumbers, Gasfitters, and Drainlayers Act 2006, that person:".
 > 
 > 
 
-[Section 54(1)(e)][254]: omit ""provided that nothing in this paragraph shall authorise the making of any regulation in contradiction to the provisions of the Plumbers, Gasfitters, and Drainlayers Act 1976 or any regulations made under that Act:"".
+[Section 54(1)(e)][255]: omit ""provided that nothing in this paragraph shall authorise the making of any regulation in contradiction to the provisions of the Plumbers, Gasfitters, and Drainlayers Act 1976 or any regulations made under that Act:"".
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147)
 
-[Part 2][309] of Schedule 1: omit ""1976 No 69---The Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74)"".
+[Part 2][312] of Schedule 1: omit ""1976 No 69---The Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74)"".
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 2][310] of Schedule 1: insert the following item in its appropriate alphabetical order:
+[Part 2][313] of Schedule 1: insert the following item in its appropriate alphabetical order:
 
 > Plumbers, Gasfitters, and Drainlayers Board
 > 
@@ -4259,7 +4309,7 @@ Definition of **gasfitting** in [section 2(1)][231]: repeal and substitute:
 
 ##### Privacy Act 1993 (1993 No 28)
 
-[Part 1][311] of Schedule 2: omit the item relating to the Plumbers, Gasfitters, and Drainlayers Act 1976 and substitute:
+[Part 1][314] of Schedule 2: omit the item relating to the Plumbers, Gasfitters, and Drainlayers Act 1976 and substitute:
 
 > Plumbers, Gasfitters, and Drainlayers Act 2006section 70
 > 
@@ -4267,86 +4317,47 @@ Definition of **gasfitting** in [section 2(1)][231]: repeal and substitute:
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-[Part 2][312] of Schedule 1: omit ""1976 No 69---The Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74)"".
+[Part 2][315] of Schedule 1: omit ""1976 No 69---The Plumbers, Gasfitters, and Drainlayers Act 1976"" and substitute ""Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74)"".
 
 ##### Summary Proceedings Act 1957 (1957 No 87)
 
-Definition of **infringement notice** in [section 2(1)][313]: insert after paragraph (d):
+Definition of **infringement notice** in [section 2(1)][316]: insert after paragraph (d):
 
 > *   "(da) section 129 of the Plumbers, Gasfitters, and Drainlayers Act 2006; or".
 > 
 > 
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Plumbers, Gasfitters, and Drainlayers Act 2006\. The reprint incorporates all the amendments to the Act as at 5 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][314] ![](/images/external_link.gif).
+*   This is a reprint of the Plumbers, Gasfitters, and Drainlayers Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][315] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][317] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][318] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][316] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][319] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][320] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][317] and [17E][318] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][247]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 Amendment Act 2012 (SR 2012 No 93): [section 43][252]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government Act 2002 Amendment Act 2012 (SR 2012 No 93): [section 43][251]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][264]
     
     [Plumbers, Gasfitters, and Drainlayers Act Commencement Order 2010][229] (SR 2010/46)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM396781
 [2]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM396782
 [3]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM396783
@@ -4591,77 +4602,79 @@ Definition of **infringement notice** in [section 2(1)][313]: insert after parag
 [242]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM252785
 [243]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM444304
 [244]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439357
-[245]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195534
-[246]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195097
-[247]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439626
-[248]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439631
-[249]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM171834
-[250]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439633
-[251]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM4499305
-[252]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439636
-[253]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439638
-[254]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM286529
-[255]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439625
-[256]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439469
-[257]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439471
-[258]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439473
-[259]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM204972
-[260]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439477
-[261]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439485
-[262]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439418
-[263]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM297441
-[264]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM305839
-[265]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM139145
-[266]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM139153
-[267]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM311191
-[268]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM310742
-[269]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM311346
-[270]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439364
-[271]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439367
-[272]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439375
-[273]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439377
-[274]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439387
-[275]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM31483
-[276]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439391
-[277]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439395
-[278]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439401
-[279]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439397
-[280]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439399
-[281]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM225563
-[282]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM304703
-[283]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439393
-[284]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439409
-[285]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM88548
-[286]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM281857
-[287]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM65382
-[288]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM65371
-[289]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM330577
-[290]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM266252
-[291]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM324886
-[292]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439411
-[293]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM312656
-[294]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439663
-[295]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439672
-[296]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439441
-[297]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439459
-[298]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM56120
-[299]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398216
-[300]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398206
-[301]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398212
-[302]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398213
-[303]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398205
-[304]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398218
-[305]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM306054
-[306]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM309339
-[307]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM154875
-[308]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM285763
-[309]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM390522
-[310]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM431296
-[311]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM298477
-[312]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM324284
-[313]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM310749
-[314]: http://www.pco.parliament.govt.nz/reprints/
-[315]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195439
-[316]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[317]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195468
-[318]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM195470
+[245]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2997643
+[246]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998573
+[247]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998633
+[248]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439626
+[249]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439631
+[250]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM171834
+[251]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439633
+[252]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM4499305
+[253]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439636
+[254]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439638
+[255]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM286529
+[256]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439625
+[257]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439469
+[258]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439471
+[259]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439473
+[260]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM204972
+[261]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439477
+[262]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439485
+[263]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439418
+[264]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM3360714
+[265]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM297441
+[266]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM305839
+[267]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM139145
+[268]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM139153
+[269]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM3360067
+[270]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM3360057
+[271]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM311346
+[272]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM3359902
+[273]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439364
+[274]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439367
+[275]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439375
+[276]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439377
+[277]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439387
+[278]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM31483
+[279]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439391
+[280]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439395
+[281]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439401
+[282]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439397
+[283]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439399
+[284]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM225563
+[285]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM304703
+[286]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439393
+[287]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439409
+[288]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM88548
+[289]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM281857
+[290]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM65382
+[291]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM65371
+[292]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM330577
+[293]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM266252
+[294]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM324886
+[295]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439411
+[296]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM3360482
+[297]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439663
+[298]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439672
+[299]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439441
+[300]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM439459
+[301]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM56120
+[302]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398216
+[303]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398206
+[304]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398212
+[305]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398213
+[306]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398205
+[307]: http://www.legislation.govt.nz/act/public/2006/0074/latest/whole.html#DLM398218
+[308]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM306054
+[309]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM309339
+[310]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM154875
+[311]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM285763
+[312]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM390522
+[313]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM431296
+[314]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM298477
+[315]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM324284
+[316]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM310749
+[317]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998516
+[318]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998515
+[319]: http://www.legislation.govt.nz/act/public/2006/0074/latest/link.aspx?id=DLM2998532
+[320]: http://www.pco.parliament.govt.nz/editorial-conventions/
