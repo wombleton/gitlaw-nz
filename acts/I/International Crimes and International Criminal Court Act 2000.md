@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -201,9 +201,9 @@ This Act is administered by the Ministry of Foreign Affairs and Trade and the Mi
 
 [Appeals against determinations of eligibility for surrender][87]
 
-[67][88][][88][Appeal on question of law only by way of case stated][88]
+[67][88][][88][Appeal on question of law only][88]
 
-[68][89][][89][Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000][89]
+[68][89][][89][Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011][89]
 
 [69][90][][90][Custody pending determination of appeal][90]
 
@@ -611,15 +611,15 @@ Preliminary provisions
     
     (2) For the purposes of this Act, a person is not liable to be detained in a New Zealand prison if the person is---
         
-    *   (a) subject to a suspended sentence of imprisonment imposed under the [Criminal Justice Act 1985][252] that has not been activated; or
+    *   (a) \[Repealed\]
     
-    *   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under [Part 1][253] of the Parole Act 2002; or
+    *   (b) on parole, home detention, or compassionate release, or is subject to release conditions, under [Part 1][252] of the Parole Act 2002; or
     
-    *   (ba) subject to a sentence of home detention imposed under [section 80A][254] of the Sentencing Act 2002; or
+    *   (ba) subject to a sentence of home detention imposed under [section 80A][253] of the Sentencing Act 2002; or
     
     *   (c) \[Repealed\]
     
-    *   (d) subject to a community-based sentence (within the meaning of [section 4(1)][255] of the Sentencing Act 2002).
+    *   (d) subject to a community-based sentence (within the meaning of [section 4(1)][254] of the Sentencing Act 2002).
     
     (3) For the purposes of Parts 1 to 11,---
         
@@ -633,15 +633,17 @@ Preliminary provisions
     
     *   (e) a reference to a sentence of imprisonment imposed by the ICC for an international crime or an offence against the administration of justice includes a reference to a sentence of imprisonment imposed by the ICC for non-payment of a fine that was a penalty for that crime or offence, as the case may be.
     
-    Section 4(1) **forfeiture order** paragraph (b): amended, on 1 December 2009, by [section 197(1)][256] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 4(1) **forfeiture order** paragraph (b): amended, on 1 December 2009, by [section 197(1)][255] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 4(1) **New Zealand prison** or **prison**: amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **New Zealand prison** or **prison**: amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **New Zealand prisoner** or **prisoner**: amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **New Zealand prisoner** or **prisoner**: amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **prison officer**: amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 4(1) **prison officer**: amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4(1) **tainted property**: substituted, on 1 December 2009, by [section 197(2)][256] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 4(1) **tainted property**: substituted, on 1 December 2009, by [section 197(2)][255] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    
+    Section 4(2)(a): repealed, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 4(2)(b): substituted, on 30 June 2002, by [section 125][258] of the Parole Act 2002 (2002 No 10).
     
@@ -744,7 +746,7 @@ International crimes and offences against administration of justice
 
 ##### 9 Genocide
     
-*   (1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere,---
+*   (1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere,---
         
     *   (a) commits genocide; or
     
@@ -759,10 +761,12 @@ International crimes and offences against administration of justice
     *   (b) in any other case, imprisonment for life or a lesser term.
     
     Compare: Statute art 6
+    
+    Section 9(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Crimes against humanity
     
-*   (1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a crime against humanity.
+*   (1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a crime against humanity.
     
     (2) For the purposes of this section, a _crime against humanity_ is an act specified in Article 7 of the Statute.
     
@@ -773,10 +777,12 @@ International crimes and offences against administration of justice
     *   (b) in any other case, imprisonment for life or a lesser term.
     
     Compare: Statute art 7
+    
+    Section 10(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 War crimes
     
-*   (1) Every person is liable on conviction on indictment to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a war crime.
+*   (1) Every person commits an offence and is liable on conviction to the penalty specified in subsection (3) who, in New Zealand or elsewhere, commits a war crime.
     
     (2) For the purposes of this section, a _war crime_ is an act specified in---
         
@@ -797,6 +803,8 @@ International crimes and offences against administration of justice
     (4) Nothing in this section affects or limits the operation of [section 3][261] of the Geneva Conventions Act 1958 (which makes a grave breach of the Geneva Conventions an offence under New Zealand law).
     
     Compare: Statute art 8
+    
+    Section 11(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### General principles of criminal law
 
@@ -878,13 +886,13 @@ International crimes and offences against administration of justice
 
 ##### 15 Corruption of Judge
     
-*   (1) Every Judge is liable on conviction on indictment to imprisonment for a term not exceeding 14 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
+*   (1) Every Judge commits an offence and is liable on conviction to imprisonment for a term not exceeding 14 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
         
     *   (a) done or omitted by that Judge in his or her judicial capacity; or
     
     *   (b) to be done or to be omitted by that Judge in his or her judicial capacity.
     
-    (2) Every Judge, the Registrar, and the Deputy Registrar is liable on conviction on indictment to imprisonment for a term not exceeding 7 years if, in New Zealand or elsewhere, that Judge, Registrar, or Deputy Registrar corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
+    (2) Every Judge, the Registrar, and the Deputy Registrar commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years if, in New Zealand or elsewhere, that Judge, Registrar, or Deputy Registrar corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
         
     *   (a) done or omitted by that Judge, Registrar, or Deputy Registrar, in his or her official capacity (other than an act or omission to which subsection (1) applies); or
     
@@ -901,54 +909,72 @@ International crimes and offences against administration of justice
     (4) In this section and in [sections 16][24] and [17][25], _bribe_ has the same meaning as it has in [section 99][265] of the Crimes Act 1961\.
     
     Compare: 1961 No 43 [s 100][266]
+    
+    Section 15(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Bribery of Judge, etc
     
-*   (1) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge in respect of any act or omission by that Judge in his or her judicial capacity.
+*   (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge in respect of any act or omission by that Judge in his or her judicial capacity.
     
-    (2) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge or the Registrar or the Deputy Registrar in respect of an act or omission by that Judge, Registrar, or Deputy Registrar in his or her official capacity (other than an act or omission to which subsection (1) applies).
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence a Judge or the Registrar or the Deputy Registrar in respect of an act or omission by that Judge, Registrar, or Deputy Registrar in his or her official capacity (other than an act or omission to which subsection (1) applies).
     
     Compare: 1961 No 43 [s 101][267]
+    
+    Section 16(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 16(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 17 Corruption and bribery of official of ICC
     
-*   (1) Every official of the ICC is liable to imprisonment on conviction on indictment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
+*   (1) Every official of the ICC commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for himself or herself or any other person in respect of an act---
         
     *   (a) done or omitted by that officer in his or her official capacity; or
     
     *   (b) to be done or omitted by that officer in his or her official capacity.
     
-    (2) Every person is liable on conviction on indictment to imprisonment for a term not exceeding 3 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence an official of the ICC in respect of an act or omission by that officer in his or her official capacity.
+    (2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who, in New Zealand or elsewhere, corruptly gives or offers, or agrees to give, a bribe to any person with intent to influence an official of the ICC in respect of an act or omission by that officer in his or her official capacity.
     
     (3) In this section and in [section 21][29], an _official of the ICC_ means a person employed under Article 44 of the Statute.
     
     Compare: 1961 No 43 [s 105][268]
+    
+    Section 17(1): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 17(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 False evidence
     
 *   (1) Every person who gives evidence for the purposes of a proceeding before the ICC or in connection with a request made by the ICC that contains an assertion that, if made in a judicial proceeding in New Zealand as evidence on oath, would be perjury, gives false evidence.
     
-    (2) A person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, gives false evidence.
+    (2) A person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, gives false evidence.
     
     (3) Despite subsection (2), if the false evidence is given in order to obtain the conviction of a person for an offence for which the maximum punishment is not less than 3 years' imprisonment, the punishment may be imprisonment for a term not exceeding 14 years.
     
     Compare: 1961 No 43 [s 109][269]
+    
+    Section 18(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Fabricating evidence before ICC
     
-*   Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, with intent to mislead the ICC, fabricates evidence by any means other than the giving of false evidence.
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, with intent to mislead the ICC, fabricates evidence by any means other than the giving of false evidence.
     
     Compare: 1961 No 43 [s 113][270]
+    
+    Section 19: amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 20 Conspiracy to defeat justice in ICC
     
-*   Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, in relation to any proceedings, request, or other matter referred to in the Statute, conspires to obstruct, prevent, pervert, or defeat the course of justice.
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere, in relation to any proceedings, request, or other matter referred to in the Statute, conspires to obstruct, prevent, pervert, or defeat the course of justice.
     
     Compare: 1961 No 43 [s 116][271]
+    
+    Section 20: amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 21 Interference with witnesses or officials
     
-*   Every person is liable on conviction on indictment to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere,---
+*   Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, in New Zealand or elsewhere,---
         
     *   (a) dissuades or attempts to dissuade any person, by threats, force, bribery or other means, from giving evidence for the purposes of a proceeding before the ICC or in connection with a request made by the ICC; or
     
@@ -963,6 +989,8 @@ International crimes and offences against administration of justice
     *   (c) intentionally attempts in any other way to obstruct, prevent, pervert, or defeat the course of justice, in relation to any proceedings, request, or other matter referred to in the Statute.
     
     Compare: 1961 No 43 [s 117][272]
+    
+    Section 21: amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Consent to prosecutions for offences against administration of justice
 
@@ -1300,7 +1328,7 @@ Arrest and surrender of person to ICC
     
     *   (b) may not go at large without bail.
     
-    (3) If the District Court remands the person on bail, the District Court may impose any conditions of bail that the District Court thinks fit in addition to any conditions that the District Court may impose under [section 31(1) to (3)][287] of the Bail Act 2000 (as applied by [section 49][288] of that Act).
+    (3) If the District Court remands the person on bail, the District Court may impose any conditions of bail that the District Court thinks fit in addition to any conditions that the District Court may impose under [section 30(1), (2), and (4)][287] of the Bail Act 2000\.
     
     (4) Without limiting the other factors that may be taken into account in making a decision to grant bail, the District Court must have regard to the following:
         
@@ -1314,7 +1342,9 @@ Arrest and surrender of person to ICC
     
     Compare: 1999 No 55 [s 23(1)--(3)][286]; Statute art 59(2)--(4)
     
-    Section 39(3): substituted, on 19 December 2002, by [section 3][289] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 39(3): substituted, on 19 December 2002, by [section 3][288] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    
+    Section 39(3): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Procedure for bail
     
@@ -1326,17 +1356,17 @@ Arrest and surrender of person to ICC
     
     (4) This section applies with any necessary modifications to any bail application made during the period until the person is surrendered to the ICC or discharged according to law.
     
-    Compare: 1999 No 55 [s 44(1)--(3)][290]; Statute art 59(2)--(6)
+    Compare: 1999 No 55 [s 44(1)--(3)][289]; Statute art 59(2)--(6)
 
 ##### 41 Powers of District Court
     
 *   (1) In proceedings under this Part, except as expressly provided in this Act or in regulations made under [section 179][232] or [section 180][233],---
         
-    *   (a) a District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a summary offence alleged to have been committed within the jurisdiction of New Zealand; and
+    *   (a) a District Court has the same jurisdiction and powers, and must conduct the proceedings in the same manner, as if the person were charged with a category 1 or 2 offence alleged to have been committed within the jurisdiction of New Zealand; and
     
     *   (b) the following provisions apply to the proceedings, so far as applicable and with the necessary modifications:
             
-        *   (i) [Part 2][291] and [sections 203][292], [204][293], and [206][294] of the Summary Proceedings Act 1957:
+        *   (i) [subparts 1][290] and [3][291] of Part 4, [Part 5][292], and [sections 365][293] and [379][294] of the Criminal Procedure Act 2011:
         
         *   (ii) [Parts 1][295] (except [sections 9 to 12][296]), [2][297], and [3][298] of the Bail Act 2000:
         
@@ -1344,31 +1374,37 @@ Arrest and surrender of person to ICC
         
         
     
-    (2) Despite [section 4][300] of the Summary Proceedings Act 1957, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
+    (2) In accordance with [section 355][300] of the Criminal Procedure Act 2011, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
     
-    (3) Despite subsections (1) and (2) of [section 46][301] of the Summary Proceedings Act 1957, a decision to remand a person in custody or on bail may be made only by a Judge.
+    (3) Despite [section 168(1) and (2)][301] of the Criminal Procedure Act 2011, a decision to remand a person in custody or on bail may be made only by a Judge.
     
     (4) \[Repealed\]
     
-    (5) [Section 184T][302] of the Summary Proceedings Act 1957 and [sections 52][303] and [54][304] of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under [section 46][64] or [section 49][68].
+    (5) [Section 169][302] of the Criminal Procedure Act 2011 and [sections 27][303], [30 to 33][287], [35][304], [37 to 39][305], [44][306], [45][307], and [52][308] of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under [section 46][64] or [section 49][68].
     
     (6) To avoid doubt, if an application is made for the variation of conditions of bail of a person who is detained under [section 46][64] or [section 49][68], the procedure in [section 40(1) and (2)][57] applies.
     
-    Compare: 1999 No 55 [s 43][305]
+    Compare: 1999 No 55 [s 43][309]
     
-    Section 41(1)(b): substituted, on 19 December 2002, by [section 4(1)][306] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 41(1)(a): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41(1)(b)(iii): substituted, on 1 September 2004, by [section 51][307] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
+    Section 41(1)(b): substituted, on 19 December 2002, by [section 4(1)][310] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
     
-    Section 41(3): amended, on 19 December 2002, by [section 4(2)][306] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 41(1)(b)(i): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41(4): repealed, on 19 December 2002, by [section 4(3)][306] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 41(1)(b)(iii): substituted, on 1 September 2004, by [section 51][311] of the Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115).
     
-    Section 41(5): substituted, on 19 December 2002, by [section 4(4)][306] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 41(2): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41(5): amended, on 29 June 2009, by [section 18][308] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 41(3): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 41(6): added, on 19 December 2002, by [section 4(4)][306] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 41(4): repealed, on 19 December 2002, by [section 4(3)][310] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    
+    Section 41(5): substituted, on 19 December 2002, by [section 4(4)][310] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    
+    Section 41(5): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 41(6): added, on 19 December 2002, by [section 4(4)][310] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
 
 ##### 42 Detention in place other than prison
     
@@ -1390,7 +1426,7 @@ Arrest and surrender of person to ICC
     
     (4) In making the order specified in subsection (2), the District Court must have regard to any recommendations that the ICC may make regarding the place of the person's detention.
     
-    Compare: 1999 No 55 [s 52][309]; Statute art 59(5)
+    Compare: 1999 No 55 [s 52][312]; Statute art 59(5)
 
 #### Eligibility for surrender
 
@@ -1420,7 +1456,7 @@ Arrest and surrender of person to ICC
     
     *   (b) in the case of a person accused of an offence, nothing in this section requires evidence to be produced or given at the hearing to establish, according to the law of New Zealand, that the trial of the person would be justified if the conduct constituting the offence had occurred within the jurisdiction of New Zealand.
     
-    Compare: 1999 No 55 [s 45][310]; Statute art 59(2)
+    Compare: 1999 No 55 [s 45][313]; Statute art 59(2)
 
 ##### 44 Adjournment of hearing
     
@@ -1452,7 +1488,7 @@ Arrest and surrender of person to ICC
     
     *   (b) if paragraph (a) applies, [section 38(1)(a)][54] does not apply.
     
-    Compare: 1999 No 55 [s 28][311]; Statute art 92(3)
+    Compare: 1999 No 55 [s 28][314]; Statute art 92(3)
 
 ##### 46 Procedure following determination on eligibility or consent to surrender
     
@@ -1464,7 +1500,7 @@ Arrest and surrender of person to ICC
     
     (2) If this section applies, the District Court must---
         
-    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 42][59] of this Act or [section 184T(3)][302] of the Summary Proceedings Act 1957 pending the surrender of the person to the ICC or the person's discharge according to law; and
+    *   (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with [section 42][59] of this Act or [section 169][302] of the Criminal Procedure Act 2011 pending the surrender of the person to the ICC or the person's discharge according to law; and
     
     *   (b) send to the Minister a copy of the warrant of detention and such report on the case as the court thinks fit; and
     
@@ -1486,9 +1522,9 @@ Arrest and surrender of person to ICC
     
     (4) If the District Court is not satisfied that the person is eligible for surrender, it must discharge the person, unless under [section 69][90] it orders that the person continue to be detained or issues a warrant for the arrest and detention of the person, pending the determination of an appeal under [section 67][88].
     
-    Compare: 1999 No 55 [s 46][312]
+    Compare: 1999 No 55 [s 46][315]
     
-    Section 46(2)(a): amended, on 29 June 2009, by [section 18][308] of the Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41).
+    Section 46(2)(a): amended, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Surrender and temporary surrender
 
@@ -1538,7 +1574,7 @@ Arrest and surrender of person to ICC
     
     (6) Subject to [section 48][67], once the Minister has made a surrender order, the Minister must use his or her best endeavours to ensure that the person is delivered up to the ICC without delay in accordance with this Act and any applicable Rules.
     
-    Compare: 1999 No 55 [s 50][313]; Statute art 59(1), (7)
+    Compare: 1999 No 55 [s 50][316]; Statute art 59(1), (7)
 
 ##### 48 Surrender order may take effect at later date
     
@@ -1546,7 +1582,7 @@ Arrest and surrender of person to ICC
     
     (2) If this section applies, the Minister may, after consultation with the ICC, instead of making a surrender order that has immediate effect, or a temporary surrender order under [section 49][68], make an order for the surrender of the person that is to come into effect when the person ceases to be liable to be detained.
     
-    Compare: 1999 No 55 [s 32][314]; Statute art 89(4)
+    Compare: 1999 No 55 [s 32][317]; Statute art 89(4)
 
 ##### 49 Temporary surrender to ICC
     
@@ -1574,7 +1610,7 @@ Arrest and surrender of person to ICC
     
     *   (c) such other matters, if any, that the Minister thinks appropriate.
     
-    Compare: 1999 No 55 [s 33(1), (2)][315]; Statute art 89(4)
+    Compare: 1999 No 55 [s 33(1), (2)][318]; Statute art 89(4)
 
 ##### 50 Decision on return to New Zealand after trial
     
@@ -1596,7 +1632,7 @@ Arrest and surrender of person to ICC
     
     (3) If a surrender order is made under this section, the order takes effect on the same day that the person ceases to be subject to the New Zealand proceedings or ceases to be liable to be detained in a New Zealand prison.
     
-    Compare: 1999 No 55 [s 34][316]
+    Compare: 1999 No 55 [s 34][319]
 
 ##### 52 New Zealand sentence continues to run
     
@@ -1606,7 +1642,7 @@ Arrest and surrender of person to ICC
     
     (3) Nothing in this section affects the ICC's power to direct that any sentence of imprisonment that it imposes is to be cumulative on a sentence imposed under New Zealand law.
     
-    Compare: 1999 No 55 [s 33(3), (4)][315]
+    Compare: 1999 No 55 [s 33(3), (4)][318]
 
 ##### 53 Form and execution of surrender order or temporary surrender order
     
@@ -1626,7 +1662,7 @@ Arrest and surrender of person to ICC
     
     *   (d) authorise the duly authorised person referred to in paragraph (c) to take the person to be surrendered into custody and transport the person out of New Zealand as soon as practicable to the ICC to be dealt with there according to law.
     
-    Compare: 1999 No 55 [s 67][317]
+    Compare: 1999 No 55 [s 67][320]
     
     Section 53(b)(i): amended, on 1 October 2008, by [section 130(1)][276] of the Policing Act 2008 (2008 No 72).
     
@@ -1664,7 +1700,7 @@ Arrest and surrender of person to ICC
         
     *   (a) the only grounds on which surrender to the ICC may be refused are those specified in this section and, if applicable, [section 23(2)][33] (which relates to offences involving the administration of justice); and
     
-    *   (b) the restrictions on surrender specified in the [Extradition Act 1999][318] do not apply in relation to a request for surrender from the ICC.
+    *   (b) the restrictions on surrender specified in the [Extradition Act 1999][321] do not apply in relation to a request for surrender from the ICC.
     
     
 
@@ -1778,7 +1814,7 @@ Arrest and surrender of person to ICC
         
     *   (a) must notify the ICC and the requesting State of that fact:
     
-    *   (b) must determine, in accordance with [section 62][82] or [section 63][83], but despite [section 99][319] of the Extradition Act 1999, whether the person is to be surrendered to the ICC or to the requesting State.
+    *   (b) must determine, in accordance with [section 62][82] or [section 63][83], but despite [section 99][322] of the Extradition Act 1999, whether the person is to be surrendered to the ICC or to the requesting State.
     
     Compare: Statute art 90(1)
 
@@ -1792,7 +1828,7 @@ Arrest and surrender of person to ICC
     
     (2) If the request is one to which subsection (1)(b) relates, then, pending the ICC's determination,---
         
-    *   (a) the steps required to be taken under the [Extradition Act 1999][318] in relation to a request for extradition may continue to be taken; but
+    *   (a) the steps required to be taken under the [Extradition Act 1999][321] in relation to a request for extradition may continue to be taken; but
     
     *   (b) no person may be surrendered under that Act unless and until the ICC makes its decision on admissibility and determines that the case is inadmissible.
     
@@ -1812,11 +1848,11 @@ Arrest and surrender of person to ICC
     
     *   (b) the ICC has not yet determined under Article 18 and Article 19 of the Statute that the case is admissible.
     
-    (3) Despite subsection (2), no person may be surrendered under the [Extradition Act 1999][318] unless and until the ICC makes its decision on admissibility and determines that the case is inadmissible.
+    (3) Despite subsection (2), no person may be surrendered under the [Extradition Act 1999][321] unless and until the ICC makes its decision on admissibility and determines that the case is inadmissible.
     
     (4) If [section 61][81] applies, the requesting State is not a party to the Statute, and New Zealand is under an international obligation to extradite the person to the requesting State, the Minister must determine whether to surrender the person to the ICC or extradite the person to the requesting State.
     
-    (5) [Section 99(1)][319] of the Extradition Act 1999 does not apply to a determination made under subsection (4).
+    (5) [Section 99(1)][322] of the Extradition Act 1999 does not apply to a determination made under subsection (4).
     
     (6) In making the determination under subsection (4), the Minister must consider all the relevant factors including, without limitation,---
         
@@ -1836,13 +1872,13 @@ Arrest and surrender of person to ICC
     
     (3) If New Zealand is under an existing international obligation to extradite the person to the requesting State, the Minister must determine whether to surrender the person to the ICC or to extradite the person to the requesting State.
     
-    (4) In making the determination under subsection (3), the Minister must consider all the relevant factors, including, without limitation, those matters specified in [section 63][83] of this Act and [section 99][319] of the Extradition Act 1999, but must give special consideration to the relative seriousness of the offences for which surrender is sought.
+    (4) In making the determination under subsection (3), the Minister must consider all the relevant factors, including, without limitation, those matters specified in [section 63][83] of this Act and [section 99][322] of the Extradition Act 1999, but must give special consideration to the relative seriousness of the offences for which surrender is sought.
     
     Compare: Statute art 90(7)
 
 ##### 65 Notification of decision on extradition to requesting State
     
-*   (1) If, following notification under Article 90 of the Statute, the ICC has determined that a case is inadmissible and the Minister subsequently refuses extradition of the person to the requesting State under the [Extradition Act 1999][318], the Minister must notify the ICC of this decision.
+*   (1) If, following notification under Article 90 of the Statute, the ICC has determined that a case is inadmissible and the Minister subsequently refuses extradition of the person to the requesting State under the [Extradition Act 1999][321], the Minister must notify the ICC of this decision.
     
     (2) The obligation in this section is in addition to the requirement in [section 30][41] for the Minister to respond formally to the request from the ICC.
     
@@ -1868,61 +1904,23 @@ Arrest and surrender of person to ICC
 
 #### Appeals against determinations of eligibility for surrender
 
-##### 67 Appeal on question of law only by way of case stated
+##### 67 Appeal on question of law only
     
 *   (1) This section applies if a District Court determines under [section 43][61] that a person is or is not eligible for surrender in relation to any crime for which surrender is sought, and either party considers the determination erroneous in point of law.
     
-    (2) If this section applies, the party may appeal against the determination to the High Court by way of case stated for the opinion of the High Court on a question of law only.
+    (2) If this section applies, the party may appeal against the determination to the High Court on a question of law only.
     
     (3) To lodge an appeal the party must, within 15 days after the determination, file in the office of the court that made the determination a notice of appeal in the prescribed form.
     
-    Compare: 1999 No 55 [s 68][320]
+    Section 67: replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 68 Application to appeal of certain provisions of Summary Proceedings Act 1957 and Bail Act 2000
+##### 68 Application to appeal of Bail Act 2000 and Criminal Procedure Act 2011
     
-*   (1) The following provisions of the Summary Proceedings Act 1957 apply with any necessary modifications to an appeal under this Part as if it were an appeal under [Part 4][321] of that Act against the determination by a District Court of an information or complaint:
-        
-    *   (a) [section 107(3) to (8)][322] (appeal on question of law only by way of case stated):
+*   (1) [Section 59][323] of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under [subpart 8][324] of Part 6 of the Criminal Procedure Act 2011 against the determination by a District Court of a charge for an offence.
     
-    *   (b) [section 108][323] (no appeal on ground of improper admission or rejection of evidence):
+    (2) [Subpart 8][324] of Part 6 of the Criminal Procedure Act 2011 applies as far as applicable with the necessary modifications to every appeal under this Part.
     
-    *   (c) [section 109][324] (District Court Judge or Justice may refuse a case if appeal frivolous):
-    
-    *   (d) [section 110][325] (certiorari not to be required when appeal upon case stated):
-    
-    *   (e) [section 111][326] (case may be sent back for amendment):
-    
-    *   (f) [section 113][327] (appeal on point of law may be removed into Court of Appeal):
-    
-    *   (g) [section 123][328] (powers of Judge of High Court as to extension of time):
-    
-    *   (h) \[Repealed\]
-    
-    *   (i) [section 129][329] (abandonment of appeal):
-    
-    *   (j) [section 130][330] (presentation of case by party in custody):
-    
-    *   (k) [section 131][331] (power of High Court to direct rehearing of information or complaint):
-    
-    *   (l) [section 133][332] (dismissal of appeal for non-prosecution):
-    
-    *   (m) [section 134][333] (registrar to certify decision on appeal):
-    
-    *   (n) [section 136][334] (custody of person after determination of appeal):
-    
-    *   (o) [section 143][335] (no court fees payable on appeal by person sentenced to detention):
-    
-    *   (p) [section 144][336] (appeal to Court of Appeal).
-    
-    (2) [Section 47][337] of the Bail Act 2000 (which relates to the surrender of an appellant released on bail) applies with any necessary modifications to an appeal under this Part as if it were an appeal under [Part 4][321] of the Summary Proceedings Act 1957 against the determination by a District Court of an information or complaint.
-    
-    Compare: 1999 No 55 [s 69][338]
-    
-    Section 68 heading: amended, on 19 December 2002, by [section 6(1)][339] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
-    
-    Section 68(1)(h): repealed, on 19 December 2002, by [section 6(2)][339] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
-    
-    Section 68(2): added, on 19 December 2002, by [section 6(3)][339] of the International Crimes and International Criminal Court Amendment Act 2002 (2002 No 67).
+    Section 68: replaced, on 1 July 2013, by [section 413][257] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 69 Custody pending determination of appeal
     
@@ -1940,7 +1938,7 @@ Arrest and surrender of person to ICC
     
     (3) If a person is detained under an order made under this section or is arrested and detained under a warrant issued under this section, [sections 39 to 42][56] apply to the detention of the person with any necessary modifications as if the appeal proceedings were proceedings under [section 43][61] to determine whether or not the person is eligible for surrender.
     
-    Compare: 1999 No 55 [s 70][340]
+    Compare: 1999 No 55 [s 70][325]
 
 ##### 70 Waiver of rights to apply for habeas corpus or to lodge appeal
     
@@ -1950,7 +1948,7 @@ Arrest and surrender of person to ICC
     
     *   (b) the right, in relation to any international crime or crimes for which the District Court has determined that the person is eligible for surrender, to lodge an appeal under this Part.
     
-    Compare: 1999 No 55 [s 71][341]
+    Compare: 1999 No 55 [s 71][326]
 
 ##### 71 Powers of court on appeal
     
@@ -1970,7 +1968,7 @@ Arrest and surrender of person to ICC
     
     *   (b) may in the same proceeding hear and determine any application for a writ of habeas corpus made in respect of the detention of the person whose surrender is sought.
     
-    Compare: 1999 No 55 [s 72][342]
+    Compare: 1999 No 55 [s 72][327]
 
 ##### 72 Further provisions relating to powers of court on appeal
     
@@ -1996,7 +1994,7 @@ Arrest and surrender of person to ICC
     
     (5) Subsections (1), (2), and (4) do not limit [section 71][92].
     
-    Compare: 1999 No 55 [s 73][343]
+    Compare: 1999 No 55 [s 73][328]
 
 #### Discharge of person
 
@@ -2004,7 +2002,7 @@ Arrest and surrender of person to ICC
     
 *   If the Minister determines under [section 47][66] that the person is not to be surrendered, the person must be discharged from custody immediately unless the person is subject to any other order for detention.
     
-    Compare: 1999 No 55 [s 35][344]
+    Compare: 1999 No 55 [s 35][329]
 
 ##### 74 Discharge of person if not surrendered within 2 months
     
@@ -2024,7 +2022,7 @@ Arrest and surrender of person to ICC
     
     *   (b) order the discharge of the person from the place where the person is detained, if the person is not liable to be detained under any other order for detention.
     
-    Compare: 1999 No 55 [s 36][345]
+    Compare: 1999 No 55 [s 36][330]
 
 ##### 75 Discharge of person if not resurrendered
     
@@ -2040,13 +2038,13 @@ Arrest and surrender of person to ICC
     
     *   (b) order the discharge of the person from the place where the person is detained, if the person is not liable to be detained under any other order for detention.
     
-    Compare: 1999 No 55 [s 37][346]
+    Compare: 1999 No 55 [s 37][331]
 
 ##### 76 Discharge of person under this Part does not preclude further proceedings
     
 *   To avoid doubt, the discharge of a person under any provision of this Part does not preclude further proceedings under this Act, whether or not they are based on the same conduct, to surrender the person to the ICC.
     
-    Compare: 1999 No 55 [s 38][347]; Statute art 92(4)
+    Compare: 1999 No 55 [s 38][332]; Statute art 92(4)
 
 #### Miscellaneous provisions relating to arrest and surrender
 
@@ -2056,7 +2054,7 @@ Arrest and surrender of person to ICC
     
     (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
     
-    (3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under [section 11][348] of the Search and Surveillance Act 2012\.
+    (3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under [section 11][333] of the Search and Surveillance Act 2012\.
     
     (4) If any thing is seized under subsection (1) from the person arrested,---
         
@@ -2064,13 +2062,13 @@ Arrest and surrender of person to ICC
     
     *   (b) the Minister must, on receipt of the report referred to in paragraph (a), provide the ICC with a report on the seizure.
     
-    Compare: 1999 No 55 [s 82][349]
+    Compare: 1999 No 55 [s 82][334]
     
-    Section 77(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 77(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 77(3): amended, on 1 October 2012, by [section 266(2)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 77(3): amended, on 1 October 2012, by [section 266(2)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 77(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 77(4)(a): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
 
 ##### 78 Disposal of property seized
     
@@ -2090,7 +2088,7 @@ Arrest and surrender of person to ICC
     
     *   (c) possession of the thing by the person would be unlawful in New Zealand.
     
-    Compare: 1999 No 55 [s 89][352]
+    Compare: 1999 No 55 [s 89][337]
 
 ##### 79 Information about time spent in custody in New Zealand
     
@@ -2106,13 +2104,13 @@ Arrest and surrender of person to ICC
     
     (3) The Minister must provide to the ICC at the time of the surrender of the person, or as soon as possible after that, a certificate recording the information specified in subsection (2) and such other information relating to any period spent in custody in relation to the surrender as the ICC may request.
     
-    Compare: 1999 No 55 [s 62(1)][353]; Statute art 78(2)
+    Compare: 1999 No 55 [s 62(1)][338]; Statute art 78(2)
     
-    Section 79(1): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 79(1): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
     Section 79(1): amended, on 30 June 2002, by [section 125][258] of the Parole Act 2002 (2002 No 10).
     
-    Section 79(2): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 79(2): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
 
 ##### 80 Consent to trial of surrendered person for previous offences
     
@@ -2132,7 +2130,7 @@ Arrest and surrender of person to ICC
     
     *   (b) may seek any assurances from the ICC that the Minister thinks fit.
     
-    Compare: 1999 No 55 [s 30(5)][354]; Statute arts 91, 101
+    Compare: 1999 No 55 [s 30(5)][339]; Statute arts 91, 101
 
 ## Part 5  
 Domestic procedures for other types of co-operation
@@ -2181,7 +2179,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) there are reasonable grounds for believing that the evidence can be taken or, as the case may be, the documents or other articles can be produced in New Zealand.
     
-    Compare: 1995 No 27 [s 21][355]; Statute arts 19(8), 56, 64, 93(1)(b)
+    Compare: 1995 No 27 [s 21][340]; Statute arts 19(8), 56, 64, 93(1)(b)
 
 ##### 83 Taking evidence
     
@@ -2193,7 +2191,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) ensure that the evidence, as certified, is sent to the Attorney-General.
     
-    Compare: 1995 No 27 [s 22][356]
+    Compare: 1995 No 27 [s 22][341]
 
 ##### 84 Producing documents or other articles
     
@@ -2205,7 +2203,7 @@ Domestic procedures for other types of co-operation
     
     (4) Subsections (2) and (3) apply subject to any contrary order by the Judge.
     
-    Compare: 1995 No 27 [s 23][357]
+    Compare: 1995 No 27 [s 23][342]
 
 ##### 85 Protection of witnesses
     
@@ -2225,7 +2223,7 @@ Domestic procedures for other types of co-operation
     
     (6) Subsections (4) and (5) apply subject to [section 31][43] and any contrary provision in the Statute or the Rules.
     
-    Compare: 1995 No 27 [s 26][358]
+    Compare: 1995 No 27 [s 26][343]
 
 ##### 86 ICC may give evidence certificate
     
@@ -2251,7 +2249,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) authenticated in any other manner authorised by the Statute or the Rules.
     
-    Compare: 1995 No 27 [s 27][359]
+    Compare: 1995 No 27 [s 27][344]
 
 ##### 87 Certain persons may appear
     
@@ -2267,7 +2265,7 @@ Domestic procedures for other types of co-operation
     
     (3) A certificate by a Judge under [section 83(2)][109] or [section 84(2)][110] must state whether any of the persons specified in subsection (1) were present when the evidence was taken or the documents or other articles were produced.
     
-    Compare: 1992 No 86 [s 34][360]
+    Compare: 1992 No 86 [s 34][345]
 
 ##### 88 Powers of Judge may be exercised by Registrar
     
@@ -2283,7 +2281,7 @@ Domestic procedures for other types of co-operation
     
     (4) Nothing in this section prevents the exercise by any Judge of any jurisdiction or powers conferred on any Registrar under this section.
     
-    Compare: 1995 No 27 [s 28][361]
+    Compare: 1995 No 27 [s 28][346]
 
 #### Questioning persons
 
@@ -2327,13 +2325,13 @@ Domestic procedures for other types of co-operation
     
     (3) If there is any inconsistency between subsection (2) and any other enactment, subsection (2) prevails.
     
-    (4) If the person seeks to have legal assistance assigned under subsection (2)(b), that assistance may be provided under the [Legal Services Act 2000][362].
+    (4) If the person seeks to have legal assistance assigned under subsection (2)(b), that assistance may be provided under the [Legal Services Act 2000][347].
     
     (5) This section does not give any person a power to require another person to answer questions.
     
     Compare: Statute art 55(2)
     
-    Section 90(4): amended, on 1 February 2001, pursuant to [section 126(1)][363] of the Legal Services Act 2000 (2000 No 42).
+    Section 90(4): amended, on 1 February 2001, pursuant to [section 126(1)][348] of the Legal Services Act 2000 (2000 No 42).
 
 #### Assistance in arranging service
 
@@ -2371,7 +2369,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) a summons to an accused that has been issued under Article 58(7) of the Statute.
     
-    Compare: 1995 No 27 [s 35][364]; Statute arts 19(8), 56, 58(7), 59(7), 64, 93(1)(d)
+    Compare: 1995 No 27 [s 35][349]; Statute arts 19(8), 56, 58(7), 59(7), 64, 93(1)(d)
 
 #### Facilitating appearance of witnesses
 
@@ -2393,7 +2391,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) a prisoner who is detained in relation to an offence against New Zealand law.
     
-    Compare: 1995 No 27 [s 30(1)][365]; Statute arts 19(8), 56, 64, 93(1)(e)
+    Compare: 1995 No 27 [s 30(1)][350]; Statute arts 19(8), 56, 64, 93(1)(e)
 
 ##### 93 Consent required and assurances may be sought
     
@@ -2433,7 +2431,7 @@ Domestic procedures for other types of co-operation
     
     *   (c) take such other action for the purposes of subsection (1) as the Attorney-General thinks appropriate.
     
-    Compare: 1995 No 27 [ss 30(2)][365], [31(3)][366]
+    Compare: 1995 No 27 [ss 30(2)][350], [31(3)][351]
 
 #### Temporary transfer of prisoners
 
@@ -2489,21 +2487,21 @@ Domestic procedures for other types of co-operation
     
     (3) A direction given by the Attorney-General under subsection (2) in respect of a prisoner is sufficient authority for the release of the prisoner from the prison in which the prisoner is detained, for the purposes of the direction.
     
-    (4) Every person released under a direction given under subsection (2) is to be treated, for the purposes of [section 120][367] of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, as continuing to be in legal custody for the time being under the [Corrections Act 2004][368], while in New Zealand during the period of that release.
+    (4) Every person released under a direction given under subsection (2) is to be treated, for the purposes of [section 120][352] of the Crimes Act 1961 (which relates to escaping from lawful custody) and for that purpose only, as continuing to be in legal custody for the time being under the [Corrections Act 2004][353], while in New Zealand during the period of that release.
     
-    (5) If there is any inconsistency between subsection (4) and the [Corrections Act 2004][368], subsection (4) prevails.
+    (5) If there is any inconsistency between subsection (4) and the [Corrections Act 2004][353], subsection (4) prevails.
     
-    Compare: 1995 No 27 [s 31][366]
+    Compare: 1995 No 27 [s 31][351]
     
     Section 97(2)(b)(i): amended, on 1 October 2008, by [section 130(1)][276] of the Policing Act 2008 (2008 No 72).
     
-    Section 97(4): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 97(4): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 97(5): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 97(5): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
 
 ##### 98 Effect of transfer on prisoner's sentence
     
-*   (1) If a prisoner who is charged with or convicted of an offence against the law of New Zealand is transferred to the ICC under [section 97][127], the provisions of [section 99][129] of this Act and [section 90][369] of the Parole Act 2002 apply to any period that the person spends in custody outside New Zealand in connection with the request before sentence is imposed for the New Zealand offence.
+*   (1) If a prisoner who is charged with or convicted of an offence against the law of New Zealand is transferred to the ICC under [section 97][127], the provisions of [section 99][129] of this Act and [section 90][354] of the Parole Act 2002 apply to any period that the person spends in custody outside New Zealand in connection with the request before sentence is imposed for the New Zealand offence.
     
     (2) If a prisoner who is serving a sentence for a New Zealand offence is transferred to the ICC under [section 97][127],---
         
@@ -2517,7 +2515,7 @@ Domestic procedures for other types of co-operation
         
         
     
-    Compare: 1995 No 27 [s 32][370]
+    Compare: 1995 No 27 [s 32][355]
     
     Section 98(1): amended, on 30 June 2002, by [section 125][258] of the Parole Act 2002 (2002 No 10).
 
@@ -2537,7 +2535,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) the Attorney-General is satisfied from the information that the Attorney-General has that an accurate calculation can be made of the period referred to in paragraph (b) of subsection (1).
     
-    (4) For the purposes of [section 91(4)][371] of the Parole Act 2002, a certificate given by the Attorney-General under subsection (3) has the same effect as a certificate under subsection (1).
+    (4) For the purposes of [section 91(4)][356] of the Parole Act 2002, a certificate given by the Attorney-General under subsection (3) has the same effect as a certificate under subsection (1).
     
     (5) Subsection (6) applies if, after the Attorney-General has given a certificate under subsection (3),---
         
@@ -2545,7 +2543,7 @@ Domestic procedures for other types of co-operation
     
     *   (b) the time period specified in that certificate is different from that specified in the Attorney-General's certificate.
     
-    (6) If this subsection applies, the new certificate is a substitute certificate for the purposes of [section 91(4)][371] of the Parole Act 2002\.
+    (6) If this subsection applies, the new certificate is a substitute certificate for the purposes of [section 91(4)][356] of the Parole Act 2002\.
     
     Section 99(4): amended, on 30 June 2002, by [section 125][258] of the Parole Act 2002 (2002 No 10).
     
@@ -2591,79 +2589,79 @@ Domestic procedures for other types of co-operation
     
     (3) If the Attorney-General gives authority for the request to proceed, he or she may authorise a constable, in writing, to apply to a District Court Judge for a search warrant under [section 102][134].
     
-    Compare: 1992 No 86 [s 43][372]; Statute arts 19(8), 56, 64, 93(1)(h)
+    Compare: 1992 No 86 [s 43][357]; Statute arts 19(8), 56, 64, 93(1)(h)
     
-    Section 101(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 101(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
 
 ##### 102 Issue of search warrant
     
-*   (1) This section applies if an issuing officer (within the meaning of [section 3][373] of the Search and Surveillance Act 2012), on an application made in the manner provided in [subpart 3][374] of Part 4 of that Act by a constable, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
+*   (1) This section applies if an issuing officer (within the meaning of [section 3][358] of the Search and Surveillance Act 2012), on an application made in the manner provided in [subpart 3][359] of Part 4 of that Act by a constable, is satisfied that there are reasonable grounds for believing that there is in or on any place or thing---
         
     *   (a) any thing on or in respect of which an international crime has been, or is suspected of having been, committed; or
     
     *   (b) any thing that may be evidence as to the commission of any such crime.
     
-    (2) The provisions of [subparts 1 to 5][375] and [7][376], [9][377], and [10][378] of Part 4, and [sections 161][379] and [162][380] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [subparts 1 to 5][360] and [7][361], [9][362], and [10][363] of Part 4, and [sections 161][364] and [162][365] of the Search and Surveillance Act 2012 apply.
     
     (3) \[Repealed\]
     
     (4) \[Repealed\]
     
-    Compare: 1995 No 27 [s 48][381]
+    Compare: 1995 No 27 [s 48][366]
     
-    Section 102(1): amended, on 1 October 2012, by [section 266(3)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 102(1): amended, on 1 October 2012, by [section 266(3)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 102(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 102(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 102(2): replaced, on 1 October 2012, by [section 266(4)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 102(2): replaced, on 1 October 2012, by [section 266(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 102(3): repealed, on 1 October 2012, by [section 266(4)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 102(3): repealed, on 1 October 2012, by [section 266(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 102(4): repealed, on 1 October 2012, by [section 266(4)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 102(4): repealed, on 1 October 2012, by [section 266(4)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 103 Form and content of search warrant
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 1 October 2012, by [section 266(5)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 103: repealed, on 1 October 2012, by [section 266(5)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 104 Powers conferred by warrant
     
 *   \[Repealed\]
     
-    Section 104: repealed, on 1 October 2012, by [section 266(5)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 104: repealed, on 1 October 2012, by [section 266(5)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 105 Power to stop vehicles
     
 *   \[Repealed\]
     
-    Section 105: repealed, on 1 October 2012, by [section 266(5)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 105: repealed, on 1 October 2012, by [section 266(5)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 106 Person executing warrant to produce evidence of authority
     
 *   \[Repealed\]
     
-    Section 106: repealed, on 1 October 2012, by [section 266(5)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 106: repealed, on 1 October 2012, by [section 266(5)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 107 Report to Attorney-General on execution of warrant
     
 *   (1) \[Repealed\]
     
-    (2) If a warrant issued under [section 102][134] is executed, a report on the execution of the warrant, together with a copy of any notice given under [section 133][382] of the Search and Surveillance Act 2012 must be sent to the Attorney-General, without delay.
+    (2) If a warrant issued under [section 102][134] is executed, a report on the execution of the warrant, together with a copy of any notice given under [section 133][367] of the Search and Surveillance Act 2012 must be sent to the Attorney-General, without delay.
     
     (3) If a warrant issued under [section 102][134] is not able to be executed, a report explaining the reasons for this must be sent to the Attorney-General, without delay.
     
-    Compare: 1999 No 55 [s 88][383]
+    Compare: 1999 No 55 [s 88][368]
     
-    Section 107 heading: amended, on 1 October 2012, by [section 266(6)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 107 heading: amended, on 1 October 2012, by [section 266(6)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 107(1): repealed, on 1 October 2012, by [section 266(7)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 107(1): repealed, on 1 October 2012, by [section 266(7)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 107(2): amended, on 1 October 2012, by [section 266(8)(a)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 107(2): amended, on 1 October 2012, by [section 266(8)(a)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 107(2): amended, on 1 October 2012, by [section 266(8)(b)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 107(2): amended, on 1 October 2012, by [section 266(8)(b)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 107(3): amended, on 1 October 2012, by [section 266(9)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 107(3): amended, on 1 October 2012, by [section 266(9)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 108 Disposal of things seized
     
@@ -2687,13 +2685,13 @@ Domestic procedures for other types of co-operation
     
     *   (b) requiring the Commissioner of Police or designated constable to deal with the thing in some other way.
     
-    (4) Subject to [section 155][384] of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the Attorney-General must direct the Commissioner of Police or designated constable to return the thing seized to the person from whose possession it was seized as soon as practicable, if---
+    (4) Subject to [section 155][369] of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the Attorney-General must direct the Commissioner of Police or designated constable to return the thing seized to the person from whose possession it was seized as soon as practicable, if---
         
     *   (a) the ICC advises that the thing is not required for the Prosecutor's investigation or its proceeding; or
     
     *   (b) no other direction is given by the Attorney-General before the expiry of 3 months from the day on which the thing was seized.
     
-    (5) Despite subsection (4), but subject to [section 154][385] of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the Attorney-General may refuse to return the thing to the person from whom it was seized if---
+    (5) Despite subsection (4), but subject to [section 154][370] of the Search and Surveillance Act 2012 (which applies with any necessary modifications), the Attorney-General may refuse to return the thing to the person from whom it was seized if---
         
     *   (a) the thing is the subject of a dispute as to who is entitled to it; or
     
@@ -2701,25 +2699,25 @@ Domestic procedures for other types of co-operation
     
     *   (c) possession of the thing by the person would be unlawful in New Zealand.
     
-    Compare: 1995 No 27 [s 55][386]; 1999 No 55 [s 89(3)][352]
+    Compare: 1995 No 27 [s 55][371]; 1999 No 55 [s 89(3)][337]
     
-    Section 108(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(1)(b): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(1)(b): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(2): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(2): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(3): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(3): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(3)(a): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(3)(a): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(3)(b): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(3)(b): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(4): amended, on 1 October 2012, by [section 266(10)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 108(4): amended, on 1 October 2012, by [section 266(10)][336] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 108(4): amended, on 1 October 2008, pursuant to [section 116(b)][350] of the Policing Act 2008 (2008 No 72).
+    Section 108(4): amended, on 1 October 2008, pursuant to [section 116(b)][335] of the Policing Act 2008 (2008 No 72).
     
-    Section 108(5): amended, on 1 October 2012, by [section 266(11)][351] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 108(5): amended, on 1 October 2012, by [section 266(11)][336] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Provision of records and documents
 
@@ -2749,7 +2747,7 @@ Domestic procedures for other types of co-operation
     
     (4) This section does not give any person power to require the production of a document or record.
     
-    Compare: 1992 No 86 [s 32(2)][387]; Statute art 93(1)(i)
+    Compare: 1992 No 86 [s 32(2)][372]; Statute art 93(1)(i)
 
 #### Protecting victims and witnesses and preserving evidence
 
@@ -2807,17 +2805,17 @@ Domestic procedures for other types of co-operation
     
 *   (1) If the Attorney-General gives authority for the request for assistance in identifying, tracing and freezing, or seizing tainted property to proceed, the Attorney-General may authorise the appropriate New Zealand authority to apply for 1 or more of the following orders or warrants:
         
-    *   (a) a search warrant under [section 101][388] or [102][389] of the Criminal Proceeds (Recovery) Act 2009:
+    *   (a) a search warrant under [section 101][373] or [102][374] of the Criminal Proceeds (Recovery) Act 2009:
     
-    *   (b) any restraining order made under the [Criminal Proceeds (Recovery) Act 2009][390]:
+    *   (b) any restraining order made under the [Criminal Proceeds (Recovery) Act 2009][375]:
     
-    *   (c) a production order under [section 104][391] of the Criminal Proceeds (Recovery) Act 2009\.
+    *   (c) a production order under [section 104][376] of the Criminal Proceeds (Recovery) Act 2009\.
     
     (2) If the ICC's request relates to the freezing of tainted property, and the ICC has made an order in the nature of a restraining order, the Attorney-General may authorise the appropriate authority to register that order, and [section 130][171] applies accordingly, with the necessary modifications.
     
-    Compare: 1992 No 86 [ss 59--62][392]
+    Compare: 1992 No 86 [ss 59--62][377]
     
-    Section 112(1): substituted, on 1 December 2009, by [section 198][393] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 112(1): substituted, on 1 December 2009, by [section 198][378] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 #### Other types of assistance
 
@@ -2883,7 +2881,7 @@ Domestic procedures for other types of co-operation
         
     *   (a) the only grounds on which assistance to the ICC may be refused are those specified in this section and, if applicable, [section 23(2)][33] (which relates to offences involving the administration of justice); and
     
-    *   (b) the restrictions on assistance specified in the [Mutual Assistance in Criminal Matters Act 1992][394] do not apply in relation to a request by the ICC for assistance to which this Part applies.
+    *   (b) the restrictions on assistance specified in the [Mutual Assistance in Criminal Matters Act 1992][379] do not apply in relation to a request by the ICC for assistance to which this Part applies.
     
     
 
@@ -3030,11 +3028,11 @@ Enforcement of penalties
     
     *   (b) that agency must, without delay,---
             
-        *   (i) in a case where the order requires a monetary payment, take such steps as are necessary to enforce the order as if it were a sentence of reparation imposed under [section 32][395] of the Sentencing Act 2002; or
+        *   (i) in a case where the order requires a monetary payment, take such steps as are necessary to enforce the order as if it were a sentence of reparation imposed under [section 32][380] of the Sentencing Act 2002; or
         
-        *   (ii) in a case where the order requires the restitution of assets, property or other tangible items, take such steps as are necessary to enforce the order as if it were an order for the restitution of property made under [section 404(1)][396] of the Crimes Act 1961; or
+        *   (ii) in a case where the order requires the restitution of assets, property or other tangible items, take such steps as are necessary to enforce the order as if it were an order for the restitution of property made under [section 404(1)][381] of the Crimes Act 1961; or
         
-        *   (iii) in a case where the order requires another remedy, take such steps as are necessary to enforce the order as if it were enforceable under [Part 6][397] of the High Court Rules; and
+        *   (iii) in a case where the order requires another remedy, take such steps as are necessary to enforce the order as if it were enforceable under [Part 6][382] of the High Court Rules; and
         
         
     
@@ -3042,11 +3040,11 @@ Enforcement of penalties
     
     (4) For the purposes of this section,---
         
-    *   (a) [section 145][398] of the Sentencing Act 2002 and [Part 3][399] of the Summary Proceedings Act 1957 (which relate, respectively, to the enforcement of a sentence of reparation and the enforcement of fines) apply with any necessary modifications to an order of the ICC for monetary payment as if it were an order of the District Court made in summary proceedings; and
+    *   (a) [section 145][383] of the Sentencing Act 2002 and [Part 3][384] of the Summary Proceedings Act 1957 (which relate, respectively, to the enforcement of a sentence of reparation and the enforcement of fines) apply with any necessary modifications to an order of the ICC for monetary payment as if it were an order of the District Court made in summary proceedings; and
     
-    *   (b) [Part 6][397] of the High Court Rules apply, with any necessary modifications, to an order referred to in subsection (3)(b)(iii).
+    *   (b) [Part 6][382] of the High Court Rules apply, with any necessary modifications, to an order referred to in subsection (3)(b)(iii).
     
-    (5) Despite subsection (4), an order may not be made under [Part 3][399] of the Summary Proceedings Act 1957---
+    (5) Despite subsection (4), an order may not be made under [Part 3][384] of the Summary Proceedings Act 1957---
         
     *   (a) imposing a sentence for non-payment of an order of the ICC requiring monetary payment; or
     
@@ -3094,9 +3092,9 @@ Enforcement of penalties
         
         
     
-    (4) For the purposes of this section, [Part 3][399] of the Summary Proceedings Act 1957 (which relates to the enforcement of fines) applies, with any necessary modifications, to a fine imposed by the ICC.
+    (4) For the purposes of this section, [Part 3][384] of the Summary Proceedings Act 1957 (which relates to the enforcement of fines) applies, with any necessary modifications, to a fine imposed by the ICC.
     
-    (5) Despite subsection (4), an order may not be made under [Part 3][399] of the Summary Proceedings Act 1957---
+    (5) Despite subsection (4), an order may not be made under [Part 3][384] of the Summary Proceedings Act 1957---
         
     *   (a) imposing a sentence for non-payment of a fine imposed by the ICC; or
     
@@ -3130,7 +3128,7 @@ Enforcement of penalties
     
     (3) If the Attorney-General gives authority for the request to proceed, the Attorney-General must refer the request to the Solicitor-General for registration of the forfeiture order in the manner provided in [sections 127 to 129][168].
     
-    Compare: 1992 No 86 [s 54][400]; Statute arts 77(2)(b), 109(1)
+    Compare: 1992 No 86 [s 54][385]; Statute arts 77(2)(b), 109(1)
 
 ##### 127 Solicitor-General may apply for registration
     
@@ -3152,15 +3150,15 @@ Enforcement of penalties
     
     *   (b) authenticated in any other manner authorised by the Statute or the Rules.
     
-    (3) An amendment to a forfeiture order does not, for the purposes of this Act and of the [Criminal Proceeds (Recovery) Act 2009][390], have any effect until it is registered.
+    (3) An amendment to a forfeiture order does not, for the purposes of this Act and of the [Criminal Proceeds (Recovery) Act 2009][375], have any effect until it is registered.
     
-    (4) A facsimile copy of a sealed or authenticated copy of an order or an amendment of an order has the same effect, for the purposes of this Act and of the [Criminal Proceeds (Recovery) Act 2009][390], as the sealed or authenticated copy that is not a facsimile.
+    (4) A facsimile copy of a sealed or authenticated copy of an order or an amendment of an order has the same effect, for the purposes of this Act and of the [Criminal Proceeds (Recovery) Act 2009][375], as the sealed or authenticated copy that is not a facsimile.
     
     (5) Despite subsection (4), registration effected by means of a facsimile copy ceases to have effect on the expiry of the period of 21 days commencing on the date of registration unless, before the expiry of that period, the sealed or authenticated copy is registered.
     
-    Section 128(3): amended, on 1 December 2009, by [section 199][401] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 128(3): amended, on 1 December 2009, by [section 199][386] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 128(4): amended, on 1 December 2009, by [section 199][401] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 128(4): amended, on 1 December 2009, by [section 199][386] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 129 Notice of registration of order
     
@@ -3170,13 +3168,13 @@ Enforcement of penalties
     
     *   (b) publish notice of the registration in the manner and within the time the court considers appropriate.
     
-    Compare: 1995 No 27 [s 42(4)][402]
+    Compare: 1995 No 27 [s 42(4)][387]
 
 ##### 130 Effect of registration of order
     
 *   (1) A forfeiture order registered under [section 128][169] has effect and may be enforced as if it were a profit forfeiture order---
         
-    *   (a) made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][390]; and
+    *   (a) made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][375]; and
     
     *   (b) entered on the date of registration.
     
@@ -3184,7 +3182,7 @@ Enforcement of penalties
     
     (3) If a forfeiture order is registered under [section 128][169],---
         
-    *   (a) [subpart 3][403] of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
+    *   (a) [subpart 3][388] of Part 2 of the Criminal Proceeds (Recovery) Act 2009 so far as is applicable and with any necessary modifications, and except to the extent that this Act provides otherwise, applies in relation to the order; and
     
     *   (b) the property must be disposed of, or otherwise dealt with, in accordance with the order of, or directions given by, the ICC and the Attorney-General may give such directions as may be necessary to give effect to that order or those directions; and
     
@@ -3192,11 +3190,11 @@ Enforcement of penalties
     
     (4) A restraining order registered in accordance with [section 112(2)][147] has effect, and may be enforced, as if it were a restraining order---
         
-    *   (a) made under the [Criminal Proceeds (Recovery) Act 2009][390]; and
+    *   (a) made under the [Criminal Proceeds (Recovery) Act 2009][375]; and
     
     *   (b) entered on the date of registration.
     
-    Section 130: substituted, on 1 December 2009, by [section 200][404] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 130: substituted, on 1 December 2009, by [section 200][389] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 131 Forfeiture order may be treated as profit forfeiture order
     
@@ -3208,11 +3206,11 @@ Enforcement of penalties
     
     (2) In a case to which subsection (1) applies, the forfeiture order is to be treated as a profit forfeiture order for the equivalent amount and may be enforced accordingly as if it were a profit forfeiture order---
         
-    *   (a) made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][390]; and
+    *   (a) made by the High Court under the [Criminal Proceeds (Recovery) Act 2009][375]; and
     
     *   (b) entered on the date of registration.
     
-    Section 131: substituted, on 1 December 2009, by [section 200][404] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 131: substituted, on 1 December 2009, by [section 200][389] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 132 Third parties may apply for relief
     
@@ -3236,7 +3234,7 @@ Enforcement of penalties
     
     (7) This section and [section 133][174] apply subject to any contrary provision in the Statute or the Rules.
     
-    Compare: 1991 No 120 [s 23C][405]; 1992 No 86 [s 57(1), (3)][406]; Statute arts 77(2)(b), 109(1)
+    Compare: 1991 No 120 [s 23C][390]; 1992 No 86 [s 57(1), (3)][391]; Statute arts 77(2)(b), 109(1)
 
 ##### 133 Court may grant relief to third party
     
@@ -3264,7 +3262,7 @@ Enforcement of penalties
     
     *   (b) although the applicant acquired the interest at the time of or after the commission of the offence, it was not acquired in good faith and for value.
     
-    Compare: 1995 No 27 [s 46][407]
+    Compare: 1995 No 27 [s 46][392]
 
 ##### 134 Cancellation of registration of order
     
@@ -3282,11 +3280,11 @@ Enforcement of penalties
     
     (3) If, in accordance with a direction given under subsection (1), the Solicitor-General applies to the High Court for cancellation of the registration of a forfeiture order, the court must cancel the registration accordingly.
     
-    (4) If, under the [Criminal Proceeds (Recovery) Act 2009][390], a forfeiture order registered under [section 128][169] of this Act is discharged (in whole or in part) or is revoked, that discharge or revocation constitutes a ground for an application for cancellation of the order under this section.
+    (4) If, under the [Criminal Proceeds (Recovery) Act 2009][375], a forfeiture order registered under [section 128][169] of this Act is discharged (in whole or in part) or is revoked, that discharge or revocation constitutes a ground for an application for cancellation of the order under this section.
     
-    Compare: 1995 No 27 [s 47][408]
+    Compare: 1995 No 27 [s 47][393]
     
-    Section 134(4): amended, on 1 December 2009, by [section 201][409] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 134(4): amended, on 1 December 2009, by [section 201][394] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 #### Transfer of money or property recovered under this Part
 
@@ -3339,7 +3337,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (6) If an unscheduled landing occurs on New Zealand territory, the Minister may require the ICC to submit a request for transit of the transferee under subsection (3) as soon as is reasonably practicable.
     
-    Compare: 1992 No 86 [s 42][410]; 1999 No 55 [s 90(1), (2)][411]; Statute arts 89(3), 93(1)(f), (7)
+    Compare: 1992 No 86 [s 42][395]; 1999 No 55 [s 90(1), (2)][396]; Statute arts 89(3), 93(1)(f), (7)
 
 ##### 137 Transferee to be held in custody
     
@@ -3357,9 +3355,9 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (5) If a District Court orders, under subsection (2)(b), that a transferee be held in custody, the transferee may be detained in a prison or any other place in which a person could be detained under [section 42][59].
     
-    Compare: 1999 No 55 [s 90(4)][411]; Statute art 89(3)
+    Compare: 1999 No 55 [s 90(4)][396]; Statute art 89(3)
     
-    Section 137(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 137(2)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
 
 ##### 138 Minister must make removal order or issue certificate
     
@@ -3377,7 +3375,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (3) The Minister may not issue the certificate referred to in subsection (1)(b) unless the Minister is satisfied that, because of the special circumstances of the transferee, it would be inappropriate to make a removal order.
     
-    Compare: 1999 No 55 [s 93(1)][412]
+    Compare: 1999 No 55 [s 93(1)][397]
 
 #### Enforcement of sentences in New Zealand
 
@@ -3455,7 +3453,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     *   (c) a person authorised for the purpose by the ICC.
     
-    (2) On arrival in New Zealand or, if the person is already in New Zealand when the sentence is imposed, on the imposition of the sentence, the ICC prisoner must be detained in accordance with the [Corrections Act 2004][368] as if the prisoner had been sentenced to imprisonment under New Zealand law.
+    (2) On arrival in New Zealand or, if the person is already in New Zealand when the sentence is imposed, on the imposition of the sentence, the ICC prisoner must be detained in accordance with the [Corrections Act 2004][353] as if the prisoner had been sentenced to imprisonment under New Zealand law.
     
     (3) Despite subsection (2) and any other enactment,---
         
@@ -3465,41 +3463,41 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     *   (c) the ICC prisoner must not, without the prior agreement of the ICC, be---
             
-        *   (i) temporarily released from custody under [section 62][413] of the Corrections Act 2004; or
+        *   (i) temporarily released from custody under [section 62][398] of the Corrections Act 2004; or
         
-        *   (ii) temporarily removed from prison under [section 62][413] of the Corrections Act 2004 unless that removal is to a hospital:
+        *   (ii) temporarily removed from prison under [section 62][398] of the Corrections Act 2004 unless that removal is to a hospital:
         
         
     
-    *   (d) the Minister must advise the ICC if the ICC prisoner is transferred to a hospital under [section 62][413] of the Corrections Act 2004\.
+    *   (d) the Minister must advise the ICC if the ICC prisoner is transferred to a hospital under [section 62][398] of the Corrections Act 2004\.
     
     Compare: Statute arts 106, 110(1)
     
     Section 141(1)(a): amended, on 1 October 2008, by [section 130(1)][276] of the Policing Act 2008 (2008 No 72).
     
-    Section 141(2): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 141(2): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 141(3)(c): substituted, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 141(3)(c): substituted, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
     
-    Section 141(3)(d): substituted, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 141(3)(d): substituted, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
 
 ##### 142 Order for detention to act as authority for detention
     
-*   The order for detention issued by the Minister under [section 140(2)][185] is sufficient authority for the detention of the prisoner to which the notice relates for the purposes of this Part and the [Corrections Act 2004][368]---
+*   The order for detention issued by the Minister under [section 140(2)][185] is sufficient authority for the detention of the prisoner to which the notice relates for the purposes of this Part and the [Corrections Act 2004][353]---
         
     *   (a) until the ICC prisoner completes, or is released from, the sentence or is transferred to another country; and
     
     *   (b) during any further period that the ICC prisoner is required to serve the sentence if the ICC makes an order for recall of the prisoner.
     
-    Section 142: amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 142: amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
 
 ##### 143 Parole Act 2002 does not apply in certain cases
     
 *   (1) The administration of a sentence of imprisonment imposed by the ICC that is served in New Zealand, including any decision to release or transfer the ICC prisoner, must be undertaken in accordance with Part 10 of the Statute and the Rules.
     
-    (2) The [Parole Act 2002][414] does not apply to a sentence of imprisonment imposed by the ICC that is served in New Zealand unless the sentence has been imposed for an offence against the administration of justice.
+    (2) The [Parole Act 2002][399] does not apply to a sentence of imprisonment imposed by the ICC that is served in New Zealand unless the sentence has been imposed for an offence against the administration of justice.
     
-    (3) If, in relation to the administration of a sentence of imprisonment imposed for an offence against the administration of justice that is served in New Zealand by an ICC prisoner, there is any inconsistency between the provisions of the [Parole Act 2002][414] and the provisions of the Statute and the Rules, the provisions of the Statute and the Rules prevail.
+    (3) If, in relation to the administration of a sentence of imprisonment imposed for an offence against the administration of justice that is served in New Zealand by an ICC prisoner, there is any inconsistency between the provisions of the [Parole Act 2002][399] and the provisions of the Statute and the Rules, the provisions of the Statute and the Rules prevail.
     
     Compare: Statute arts 106(1), 110(1), (2)
     
@@ -3595,7 +3593,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
 *   (1) An ICC prisoner serving a sentence in New Zealand may---
         
-    *   (a) be extradited to another country in accordance with the [Extradition Act 1999][318] either---
+    *   (a) be extradited to another country in accordance with the [Extradition Act 1999][321] either---
             
         *   (i) at the completion of the sentence; or
         
@@ -3629,11 +3627,11 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     *   (b) the State designated by the ICC as the State of enforcement of the sentence makes a request to New Zealand for extradition in accordance with Article 111 of the Statute.
     
-    (2) If this subsection applies, the [Extradition Act 1999][318] applies to a request for extradition---
+    (2) If this subsection applies, the [Extradition Act 1999][321] applies to a request for extradition---
         
     *   (a) with any necessary modifications; and
     
-    *   (b) as if the request related to a person who had been convicted of an extradition offence, within the meaning of [section 2][415] of that Act.
+    *   (b) as if the request related to a person who had been convicted of an extradition offence, within the meaning of [section 2][400] of that Act.
     
     (3) Subsection (4) applies if---
         
@@ -3641,11 +3639,11 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     *   (b) the Minister wishes to make a request to that State for the person's extradition in accordance with Article 111\.
     
-    (4) If this subsection applies, the Minister may make a request for the prisoner's extradition under [Part 6][416] of the Extradition Act 1999 and that Part applies---
+    (4) If this subsection applies, the Minister may make a request for the prisoner's extradition under [Part 6][401] of the Extradition Act 1999 and that Part applies---
         
     *   (a) with any necessary modifications; and
     
-    *   (b) as if the request related to a person who had been convicted of an extradition offence, within the meaning of [section 2][415] of that Act.
+    *   (b) as if the request related to a person who had been convicted of an extradition offence, within the meaning of [section 2][400] of that Act.
     
     Compare: Statute art 111
 
@@ -3663,15 +3661,15 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (2) The certificate is, while it remains in force, sufficient authority for the person named in the certificate to remain in New Zealand.
     
-    (3) If the Minister issues a certificate, the Minister may refer the person's case to the Minister of Immigration for consideration under [section 61][417] of the Immigration Act 2009, and, in that case, that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
+    (3) If the Minister issues a certificate, the Minister may refer the person's case to the Minister of Immigration for consideration under [section 61][402] of the Immigration Act 2009, and, in that case, that section applies for the purposes of this section as if the person were a person required to hold a visa under that Act to be in New Zealand.
     
-    (4) Except as provided in subsection (3), nothing in the [Immigration Act 2009][418] applies to the person named in the certificate while the certificate is in force.
+    (4) Except as provided in subsection (3), nothing in the [Immigration Act 2009][403] applies to the person named in the certificate while the certificate is in force.
     
-    Compare: 1999 No 55 [s 94(1)--(4)][419]
+    Compare: 1999 No 55 [s 94(1)--(4)][404]
     
-    Section 150(3): substituted, at 2 am on 29 November 2010, by [section 406(1)][420] of the Immigration Act 2009 (2009 No 51).
+    Section 150(3): substituted, at 2 am on 29 November 2010, by [section 406(1)][405] of the Immigration Act 2009 (2009 No 51).
     
-    Section 150(4): amended, at 2 am on 29 November 2010, by [section 406(1)][420] of the Immigration Act 2009 (2009 No 51).
+    Section 150(4): amended, at 2 am on 29 November 2010, by [section 406(1)][405] of the Immigration Act 2009 (2009 No 51).
 
 ##### 151 Cancellation of certificate
     
@@ -3679,7 +3677,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
         
     *   (a) where the Minister referred the person's case to the Minister of Immigration under [section 150(3)][196],---
             
-        *   (i) the Minister of Immigration declines to grant a visa under the [Immigration Act 2009][418]; and
+        *   (i) the Minister of Immigration declines to grant a visa under the [Immigration Act 2009][403]; and
         
         *   (ii) there do not appear to the Minister to be any other grounds on which the person should be permitted to remain in New Zealand:
         
@@ -3687,9 +3685,9 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     *   (b) in any other case, there do not appear to the Minister to be any other grounds on which the person should be permitted to remain in New Zealand.
     
-    Compare: 1999 No 55 [s 94(5)][419]
+    Compare: 1999 No 55 [s 94(5)][404]
     
-    Section 151(a)(i): substituted, at 2 am on 29 November 2010, by [section 406(1)][420] of the Immigration Act 2009 (2009 No 51).
+    Section 151(a)(i): substituted, at 2 am on 29 November 2010, by [section 406(1)][405] of the Immigration Act 2009 (2009 No 51).
 
 ##### 152 Further provisions relating to certificate
     
@@ -3705,9 +3703,9 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (4) A warrant for the detention of the person issued under subsection (3)(a) may authorise the detention of the person in a prison or any other place in which a person could be detained under [section 42][59].
     
-    Compare: 1999 No 55 [s 95][421]
+    Compare: 1999 No 55 [s 95][406]
     
-    Section 152(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][350] of the Policing Act 2008 (2008 No 72).
+    Section 152(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][335] of the Policing Act 2008 (2008 No 72).
 
 ##### 153 Removal order
     
@@ -3737,7 +3735,7 @@ Persons in transit to ICC or serving sentences imposed by ICC
     
     (5) In this section, _personal service_, in relation to a removal order, means personal delivery of the order to the person to whom it relates or, if the person refuses to accept the order, bringing the order to the person's attention.
     
-    Compare: 1999 No 55 [s 96][422]
+    Compare: 1999 No 55 [s 96][407]
     
     Section 153(1)(a)(i): amended, on 1 October 2008, by [section 130(1)][276] of the Policing Act 2008 (2008 No 72).
     
@@ -3759,17 +3757,17 @@ Persons in transit to ICC or serving sentences imposed by ICC
 
 ##### 155 Immigration visa not required
     
-*   A person to whom this Part applies is not required to hold a visa under the [Immigration Act 2009][418] if, and for so long as, he or she is in New Zealand in accordance with this Part (whether or not he or she is in custody).
+*   A person to whom this Part applies is not required to hold a visa under the [Immigration Act 2009][403] if, and for so long as, he or she is in New Zealand in accordance with this Part (whether or not he or she is in custody).
     
-    Section 155 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][420] of the Immigration Act 2009 (2009 No 51).
+    Section 155 heading: amended, at 2 am on 29 November 2010, by [section 406(1)][405] of the Immigration Act 2009 (2009 No 51).
     
-    Section 155: amended, at 2 am on 29 November 2010, by [section 406(1)][420] of the Immigration Act 2009 (2009 No 51).
+    Section 155: amended, at 2 am on 29 November 2010, by [section 406(1)][405] of the Immigration Act 2009 (2009 No 51).
 
 ##### 156 New Zealand citizens
     
 *   Nothing in this Part authorises the making of a removal order under [section 153][199] in respect of a New Zealand citizen.
     
-    Compare: 1999 No 55 [s 97][423]
+    Compare: 1999 No 55 [s 97][408]
 
 ## Part 8  
 Protection of national security or third party information
@@ -3901,25 +3899,25 @@ Investigations or sittings of ICC in New Zealand
     
     *   (d) reviewing a sentence.
     
-    Compare: 1995 No 27 [s 36][424]; Statute arts 3(3), 62
+    Compare: 1995 No 27 [s 36][409]; Statute arts 3(3), 62
 
 ##### 168 ICC's powers while sitting in New Zealand
     
 *   While the ICC is sitting in New Zealand, it may exercise its functions and powers as provided under the Statute and under the Rules.
     
-    Compare: 1995 No 27 [s 37][425]; Statute arts 4(2), 64
+    Compare: 1995 No 27 [s 37][410]; Statute arts 4(2), 64
 
 ##### 169 ICC may administer oaths in New Zealand
     
 *   The ICC may, at any sitting of the ICC in New Zealand, administer an oath or affirmation giving an undertaking as to truthfulness in accordance with the practice and procedure of the ICC.
     
-    Compare: 1995 No 27 [s 38(1)][426]; Statute art 69(1)
+    Compare: 1995 No 27 [s 38(1)][411]; Statute art 69(1)
 
 ##### 170 Orders made by ICC not subject to review
     
-*   No application for review under [Part 1][427] of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the ICC that is made or given at a sitting of the ICC in New Zealand.
+*   No application for review under [Part 1][412] of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the ICC that is made or given at a sitting of the ICC in New Zealand.
     
-    Compare: 1995 No 27 [s 39][428]
+    Compare: 1995 No 27 [s 39][413]
 
 ##### 171 Power to detain ICC prisoners in New Zealand prisons if ICC holds sitting in New Zealand
     
@@ -3931,13 +3929,13 @@ Investigations or sittings of ICC in New Zealand
     
     (2) A direction given under subsection (1) in respect of an ICC prisoner is sufficient authority for the detention of that prisoner in accordance with the terms of the direction.
     
-    (3) If an ICC prisoner is directed to be detained in a prison under subsection (1), the [Corrections Act 2004][368], so far as applicable and with all necessary modifications, applies with respect to that prisoner as if the prisoner had been remanded in custody or sentenced to imprisonment for an offence against the law of New Zealand, as the case may require, and is liable to be detained in a prison under such an order or sentence.
+    (3) If an ICC prisoner is directed to be detained in a prison under subsection (1), the [Corrections Act 2004][353], so far as applicable and with all necessary modifications, applies with respect to that prisoner as if the prisoner had been remanded in custody or sentenced to imprisonment for an offence against the law of New Zealand, as the case may require, and is liable to be detained in a prison under such an order or sentence.
     
-    (4) For the purposes of [section 120][367] of the Crimes Act 1961 (which relates to escape from lawful custody) and [section 121][429] (which relates to assisting escape), an ICC prisoner who is in custody in a New Zealand prison or other detention facility is deemed to be in lawful custody while in New Zealand.
+    (4) For the purposes of [section 120][352] of the Crimes Act 1961 (which relates to escape from lawful custody) and [section 121][414] (which relates to assisting escape), an ICC prisoner who is in custody in a New Zealand prison or other detention facility is deemed to be in lawful custody while in New Zealand.
     
-    Compare: 1957 No 87 [s 20(4)][430]; 1992 No 86 [s 15(1)--(3)][431]; Statute art 63
+    Compare: 1957 No 87 [s 20(4)][415]; 1992 No 86 [s 15(1)--(3)][416]; Statute art 63
     
-    Section 171(3): amended, on 1 June 2005, by [section 206][257] of the Corrections Act 2004 (2004 No 50).
+    Section 171(3): amended, on 1 June 2005, by [section 206][256] of the Corrections Act 2004 (2004 No 50).
 
 ##### 172 Removal of ICC prisoner
     
@@ -3950,7 +3948,7 @@ Requests to ICC for assistance
     
 *   The Attorney-General or the Minister, as the case may be, may make a request to the ICC for assistance in accordance with this Part in an investigation into, or trial in respect of, conduct that may constitute a crime within the jurisdiction of the ICC or that constitutes a crime for which the maximum penalty under New Zealand law is a term of imprisonment of not less than 5 years.
     
-    Compare: 1992 No 86 [ss 7][432], [8][433]; Statute art 93(10)
+    Compare: 1992 No 86 [ss 7][417], [8][418]; Statute art 93(10)
 
 ##### 174 Making of request
     
@@ -3970,11 +3968,11 @@ Requests to ICC for assistance
 
 ##### 176 Mutual Assistance in Criminal Matters Act 1992 applies to requests
     
-*   [Part 2][434] of the Mutual Assistance in Criminal Matters Act 1992 applies, with any necessary modifications, in relation to the request for assistance of the kind specified in that Act, and any assistance provided as a result, as if the ICC were a foreign country within the meaning of that Act, subject to any contrary provision in the Statute or the Rules.
+*   [Part 2][419] of the Mutual Assistance in Criminal Matters Act 1992 applies, with any necessary modifications, in relation to the request for assistance of the kind specified in that Act, and any assistance provided as a result, as if the ICC were a foreign country within the meaning of that Act, subject to any contrary provision in the Statute or the Rules.
 
 ##### 177 Extradition Act 1999 applies to requests for surrender
     
-*   [Part 6][416] of the Extradition Act 1999 applies, with any necessary modifications, in relation to the surrender or temporary surrender of a person by the ICC to New Zealand, as if the ICC were an extradition country within the meaning of that Act, subject to any contrary provision in the Statute or the Rules.
+*   [Part 6][401] of the Extradition Act 1999 applies, with any necessary modifications, in relation to the surrender or temporary surrender of a person by the ICC to New Zealand, as if the ICC were an extradition country within the meaning of that Act, subject to any contrary provision in the Statute or the Rules.
 
 ## Part 11  
 Miscellaneous provisions and consequential amendments
@@ -3993,7 +3991,7 @@ Miscellaneous provisions and consequential amendments
     
     (2) In any proceeding under this Act, a certificate purporting to have been given under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the matters certified by the certificate.
     
-    Compare: 1995 No 27 [s 58][435]
+    Compare: 1995 No 27 [s 58][420]
 
 ##### 179 Regulations
     
@@ -4011,7 +4009,7 @@ Miscellaneous provisions and consequential amendments
     
     *   (f) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
     
-    Compare: 1995 No 27 [s 60][436]
+    Compare: 1995 No 27 [s 60][421]
 
 ##### 180 Regulations to implement Rules of Evidence and Procedure
     
@@ -4021,7 +4019,7 @@ Miscellaneous provisions and consequential amendments
 
 ##### 181 Amendments to Crimes Act 1961
     
-*   _Amendment(s) incorporated in the [Act(s)][437]._
+*   _Amendment(s) incorporated in the [Act(s)][422]._
 
 #### Consequential amendment to Criminal Justice Act 1985
 
@@ -4039,13 +4037,13 @@ Miscellaneous provisions and consequential amendments
 
 ##### 183 Amendment to Diplomatic Privileges and Immunities Act 1968
     
-*   _Amendment(s) incorporated in the [Act(s)][438]._
+*   _Amendment(s) incorporated in the [Act(s)][423]._
 
 #### Consequential amendment to Extradition Act 1999
 
 ##### 184 Amendment to Extradition Act 1999
     
-*   _Amendment(s) incorporated in the [Act(s)][319]._
+*   _Amendment(s) incorporated in the [Act(s)][322]._
 
 #### Consequential amendment to Geneva Conventions Act 1958
 
@@ -4057,19 +4055,19 @@ Miscellaneous provisions and consequential amendments
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 June 2005, by [section 208(1)][439] of the Corrections Act 2004 (2004 No 50).
+*   Heading: repealed, on 1 June 2005, by [section 208(1)][424] of the Corrections Act 2004 (2004 No 50).
 
 ##### 186 Amendment to Penal Institutions Act 1954
     
 *   \[Repealed\]
     
-    Section 186: repealed, on 1 June 2005, by [section 208(1)][439] of the Corrections Act 2004 (2004 No 50).
+    Section 186: repealed, on 1 June 2005, by [section 208(1)][424] of the Corrections Act 2004 (2004 No 50).
 
 #### Consequential amendments to Proceeds of Crime Act 1991
 
 ##### 187 Amendments to Proceeds of Crime Act 1991
     
-*   _Amendment(s) incorporated in the [Act(s)][440]._
+*   _Amendment(s) incorporated in the [Act(s)][425]._
 
 ---
 
@@ -4085,300 +4083,300 @@ Miscellaneous provisions and consequential amendments
 
 \[This table is not part of the Statute and is included for convenience\]
 
-[Part 1][441]  
-[Establishment of the Court][441]
+[Part 1][426]  
+[Establishment of the Court][426]
 
-[Article 1][442][][442][The Court][442]
+[Article 1][427][---][427][The Court][427]
 
-[Article 2][443][][443][Relationship of the Court with the United Nations][443]
+[Article 2][428][---][428][Relationship of the Court with the United Nations][428]
 
-[Article 3][444][][444][Seat of the Court][444]
+[Article 3][429][---][429][Seat of the Court][429]
 
-[Article 4][445][][445][Legal status and powers of the Court][445]
+[Article 4][430][---][430][Legal status and powers of the Court][430]
 
-[Part 2][446]  
-[Jurisdiction, admissibility and applicable law][446]
+[Part 2][431]  
+[Jurisdiction, admissibility and applicable law][431]
 
-[Article 5][447][][447][Crimes within the jurisdiction of the Court][447]
+[Article 5][432][---][432][Crimes within the jurisdiction of the Court][432]
 
-[Article 6][448][][448][Genocide][448]
+[Article 6][433][---][433][Genocide][433]
 
-[Article 7][449][][449][Crimes against humanity][449]
+[Article 7][434][---][434][Crimes against humanity][434]
 
-[Article 8][450][][450][War crimes][450]
+[Article 8][435][---][435][War crimes][435]
 
-[Article 9][451][][451][Elements of Crimes][451]
+[Article 9][436][---][436][Elements of Crimes][436]
 
-[Article 10][452][][452]
+[Article 10][437][][437]
 
-[Article 11][453][][453][Jurisdiction ratione temporis][453]
+[Article 11][438][---][438][Jurisdiction ratione temporis][438]
 
-[Article 12][454][][454][Preconditions to the exercise of jurisdiction][454]
+[Article 12][439][---][439][Preconditions to the exercise of jurisdiction][439]
 
-[Article 13][455][][455][Exercise of jurisdiction][455]
+[Article 13][440][---][440][Exercise of jurisdiction][440]
 
-[Article 14][456][][456][Referral of a situation by a State Party][456]
+[Article 14][441][---][441][Referral of a situation by a State Party][441]
 
-[Article 15][457][][457][Prosecutor][457]
+[Article 15][442][---][442][Prosecutor][442]
 
-[Article 16][458][][458][Deferral of investigation or prosecution][458]
+[Article 16][443][---][443][Deferral of investigation or prosecution][443]
 
-[Article 17][459][][459][Issues of admissibility][459]
+[Article 17][444][---][444][Issues of admissibility][444]
 
-[Article 18][460][][460][Preliminary rulings regarding admissibility][460]
+[Article 18][445][---][445][Preliminary rulings regarding admissibility][445]
 
-[Article 19][461][][461][Challenges to the jurisdiction of the Court or the admissibility of a case][461]
+[Article 19][446][---][446][Challenges to the jurisdiction of the Court or the admissibility of a case][446]
 
-[Article 20][462][][462][Ne bis in idem][462]
+[Article 20][447][---][447][Ne bis in idem][447]
 
-[Article 21][463][][463][Applicable law][463]
+[Article 21][448][---][448][Applicable law][448]
 
-[Part 3][464]  
-[General principles of criminal law][464]
+[Part 3][449]  
+[General principles of criminal law][449]
 
-[Article 22][465][][465][Nullum crimen sine lege][465]
+[Article 22][450][---][450][Nullum crimen sine lege][450]
 
-[Article 23][466][][466][Nulla poena sine lege][466]
+[Article 23][451][---][451][Nulla poena sine lege][451]
 
-[Article 24][467][][467][Non-retroactivity ratione personae][467]
+[Article 24][452][---][452][Non-retroactivity ratione personae][452]
 
-[Article 25][468][][468][Individual criminal responsibility][468]
+[Article 25][453][---][453][Individual criminal responsibility][453]
 
-[Article 26][469][][469][Exclusion of jurisdiction over persons under eighteen][469]
+[Article 26][454][---][454][Exclusion of jurisdiction over persons under eighteen][454]
 
-[Article 27][470][][470][Irrelevance of official capacity][470]
+[Article 27][455][---][455][Irrelevance of official capacity][455]
 
-[Article 28][471][][471][Responsibility of commanders and other superiors][471]
+[Article 28][456][---][456][Responsibility of commanders and other superiors][456]
 
-[Article 29][472][][472][Non-applicability of statute of limitations][472]
+[Article 29][457][---][457][Non-applicability of statute of limitations][457]
 
-[Article 30][473][][473][Mental element][473]
+[Article 30][458][---][458][Mental element][458]
 
-[Article 31][474][][474][Grounds for excluding criminal responsibility][474]
+[Article 31][459][---][459][Grounds for excluding criminal responsibility][459]
 
-[Article 32][475][][475][Mistake of fact or mistake of law][475]
+[Article 32][460][---][460][Mistake of fact or mistake of law][460]
 
-[Article 33][476][][476][Superior orders and prescription of law][476]
+[Article 33][461][---][461][Superior orders and prescription of law][461]
 
-[Part 4][477]  
-[Composition and administration of the Court][477]
+[Part 4][462]  
+[Composition and administration of the Court][462]
 
-[Article 34][478][][478][Organs of the Court][478]
+[Article 34][463][---][463][Organs of the Court][463]
 
-[Article 35][479][][479][Services of judges][479]
+[Article 35][464][---][464][Services of judges][464]
 
-[Article 36][480][][480][Qualifications, nomination and election of judges][480]
+[Article 36][465][---][465][Qualifications, nomination and election of judges][465]
 
-[Article 37][481][][481][Judicial vacancies][481]
+[Article 37][466][---][466][Judicial vacancies][466]
 
-[Article 38][482][][482][_The Presidency_][482]
+[Article 38][467][---][467][_The Presidency_][467]
 
-[Article 39][483][][483][Chambers][483]
+[Article 39][468][---][468][Chambers][468]
 
-[Article 40][484][][484][Independence of the judges][484]
+[Article 40][469][---][469][Independence of the judges][469]
 
-[Article 41][485][][485][Excusing and disqualification of judges][485]
+[Article 41][470][---][470][Excusing and disqualification of judges][470]
 
-[Article 42][486][][486][The Office of the Prosecutor][486]
+[Article 42][471][---][471][The Office of the Prosecutor][471]
 
-[Article 43][487][][487][The Registry][487]
+[Article 43][472][---][472][The Registry][472]
 
-[Article 44][488][][488][Staff][488]
+[Article 44][473][---][473][Staff][473]
 
-[Article 45][489][][489][Solemn undertaking][489]
+[Article 45][474][---][474][Solemn undertaking][474]
 
-[Article 46][490][][490][Removal from office][490]
+[Article 46][475][---][475][Removal from office][475]
 
-[Article 47][491][][491][Disciplinary measures][491]
+[Article 47][476][---][476][Disciplinary measures][476]
 
-[Article 48][492][][492][Privileges and immunities][492]
+[Article 48][477][---][477][Privileges and immunities][477]
 
-[Article 49][493][][493][Salaries, allowances and expenses][493]
+[Article 49][478][---][478][Salaries, allowances and expenses][478]
 
-[Article 50][494][][494][Official and working languages][494]
+[Article 50][479][---][479][Official and working languages][479]
 
-[Article 51][495][][495][Rules of Procedure and Evidence][495]
+[Article 51][480][---][480][Rules of Procedure and Evidence][480]
 
-[Article 52][496][][496][Regulations of the Court][496]
+[Article 52][481][---][481][Regulations of the Court][481]
 
-[Part 5][497]  
-[Investigation and prosecution][497]
+[Part 5][482]  
+[Investigation and prosecution][482]
 
-[Article 53][498][][498][Initiation of an investigation][498]
+[Article 53][483][---][483][Initiation of an investigation][483]
 
-[Article 54][499][][499][Duties and powers of the Prosecutor with respect to investigations][499]
+[Article 54][484][---][484][Duties and powers of the Prosecutor with respect to investigations][484]
 
-[Article 55][500][][500][Rights of persons during an investigation][500]
+[Article 55][485][---][485][Rights of persons during an investigation][485]
 
-[Article 56][501][][501][Role of the Pre-Trial Chamber in relation to a unique investigative opportunity][501]
+[Article 56][486][---][486][Role of the Pre-Trial Chamber in relation to a unique investigative opportunity][486]
 
-[Article 57][502][][502][Functions and powers of the Pre-Trial Chamber][502]
+[Article 57][487][---][487][Functions and powers of the Pre-Trial Chamber][487]
 
-[Article 58][503][][503][Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear][503]
+[Article 58][488][---][488][Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear][488]
 
-[Article 59][504][][504][Arrest proceedings in the custodial State][504]
+[Article 59][489][---][489][Arrest proceedings in the custodial State][489]
 
-[Article 60][505][][505][Initial proceedings before the Court][505]
+[Article 60][490][---][490][Initial proceedings before the Court][490]
 
-[Article 61][506][][506][Confirmation of the charges before trial][506]
+[Article 61][491][---][491][Confirmation of the charges before trial][491]
 
-[Part 6][507]  
-[The trial][507]
+[Part 6][492]  
+[The trial][492]
 
-[Article 62][508][][508][Place of trial][508]
+[Article 62][493][---][493][Place of trial][493]
 
-[Article 63][509][][509][Trial in the presence of the accused][509]
+[Article 63][494][---][494][Trial in the presence of the accused][494]
 
-[Article 64][510][][510][Functions and powers of the Trial Chamber][510]
+[Article 64][495][---][495][Functions and powers of the Trial Chamber][495]
 
-[Article 65][511][][511][Proceedings on an admission of guilt][511]
+[Article 65][496][---][496][Proceedings on an admission of guilt][496]
 
-[Article 66][512][][512][Presumption of innocence][512]
+[Article 66][497][---][497][Presumption of innocence][497]
 
-[Article 67][513][][513][Rights of the accused][513]
+[Article 67][498][---][498][Rights of the accused][498]
 
-[Article 68][514][][514][Protection of the victims and witnesses and their participation in the proceedings][514]
+[Article 68][499][---][499][Protection of the victims and witnesses and their participation in the proceedings][499]
 
-[Article 69][515][][515][Evidence][515]
+[Article 69][500][---][500][Evidence][500]
 
-[Article 70][516][][516][Offences against the administration of justice][516]
+[Article 70][501][---][501][Offences against the administration of justice][501]
 
-[Article 71][517][][517][Sanctions for misconduct before the Court][517]
+[Article 71][502][---][502][Sanctions for misconduct before the Court][502]
 
-[Article 72][518][][518][Protection of national security information][518]
+[Article 72][503][---][503][Protection of national security information][503]
 
-[Article 73][519][][519][Third-party information or documents][519]
+[Article 73][504][---][504][Third-party information or documents][504]
 
-[Article 74][520][][520][Requirements for the decision][520]
+[Article 74][505][---][505][Requirements for the decision][505]
 
-[Article 75][521][][521][Reparations to victims][521]
+[Article 75][506][---][506][Reparations to victims][506]
 
-[Article 76][522][][522][Sentencing][522]
+[Article 76][507][---][507][Sentencing][507]
 
-[Part 7][523]  
-[Penalties][523]
+[Part 7][508]  
+[Penalties][508]
 
-[Article 77][524][][524][Applicable penalties][524]
+[Article 77][509][---][509][Applicable penalties][509]
 
-[Article 78][525][][525][Determination of the sentence][525]
+[Article 78][510][---][510][Determination of the sentence][510]
 
-[Article 79][526][][526][Trust Fund][526]
+[Article 79][511][---][511][Trust Fund][511]
 
-[Article 80][527][][527][Non-prejudice to national application of penalties and national laws][527]
+[Article 80][512][---][512][Non-prejudice to national application of penalties and national laws][512]
 
-[Part 8][528]  
-[Appeal and revision][528]
+[Part 8][513]  
+[Appeal and revision][513]
 
-[Article 81][529][][529][Appeal against decision of acquittal or conviction or against sentence][529]
+[Article 81][514][---][514][Appeal against decision of acquittal or conviction or against sentence][514]
 
-[Article 82][530][][530][Appeal against other decisions][530]
+[Article 82][515][---][515][Appeal against other decisions][515]
 
-[Article 83][531][][531][Proceedings on appeal][531]
+[Article 83][516][---][516][Proceedings on appeal][516]
 
-[Article 84][532][][532][Revision of conviction or sentence][532]
+[Article 84][517][---][517][Revision of conviction or sentence][517]
 
-[Article 85][533][][533][Compensation to an arrested or convicted person][533]
+[Article 85][518][---][518][Compensation to an arrested or convicted person][518]
 
-[Part 9][534]  
-[International cooperation and judicial assistance][534]
+[Part 9][519]  
+[International cooperation and judicial assistance][519]
 
-[Article 86][535][][535][General obligation to cooperate][535]
+[Article 86][520][---][520][General obligation to cooperate][520]
 
-[Article 87][536][][536][Requests for cooperation: general provisions][536]
+[Article 87][521][---][521][Requests for cooperation: general provisions][521]
 
-[Article 88][537][][537][Availability of procedures under national law][537]
+[Article 88][522][---][522][Availability of procedures under national law][522]
 
-[Article 89][538][][538][Surrender of persons to the Court][538]
+[Article 89][523][---][523][Surrender of persons to the Court][523]
 
-[Article 90][539][][539][Competing requests][539]
+[Article 90][524][---][524][Competing requests][524]
 
-[Article 91][540][][540][Contents of request for arrest and surrender][540]
+[Article 91][525][---][525][Contents of request for arrest and surrender][525]
 
-[Article 92][541][][541][Provisional arrest][541]
+[Article 92][526][---][526][Provisional arrest][526]
 
-[Article 93][542][][542][Other forms of cooperation][542]
+[Article 93][527][---][527][Other forms of cooperation][527]
 
-[Article 94][543][][543][Postponement of execution of a request in respect of ongoing investigation or prosecution][543]
+[Article 94][528][---][528][Postponement of execution of a request in respect of ongoing investigation or prosecution][528]
 
-[Article 95][544][][544][Postponement of execution of a request in respect of an admissibility challenge][544]
+[Article 95][529][---][529][Postponement of execution of a request in respect of an admissibility challenge][529]
 
-[Article 96][545][][545][Contents of request for other forms of assistance under article 93][545]
+[Article 96][530][---][530][Contents of request for other forms of assistance under article 93][530]
 
-[Article 97][546][][546][Consultations][546]
+[Article 97][531][---][531][Consultations][531]
 
-[Article 98][547][][547][Cooperation with respect to waiver of immunity and consent to surrender][547]
+[Article 98][532][---][532][Cooperation with respect to waiver of immunity and consent to surrender][532]
 
-[Article 99][548][][548][Execution of requests under articles 93 and 96][548]
+[Article 99][533][---][533][Execution of requests under articles 93 and 96][533]
 
-[Article 100][549][][549][Costs][549]
+[Article 100][534][---][534][Costs][534]
 
-[Article 101][550][][550][Rule of speciality][550]
+[Article 101][535][---][535][Rule of speciality][535]
 
-[Article 102][551][][551][Use of terms][551]
+[Article 102][536][---][536][Use of terms][536]
 
-[Part 10][552]  
-[Enforcement][552]
+[Part 10][537]  
+[Enforcement][537]
 
-[Article 103][553][][553][Role of States in enforcement of sentences of imprisonment][553]
+[Article 103][538][---][538][Role of States in enforcement of sentences of imprisonment][538]
 
-[Article 104][554][][554][Change in designation of State of enforcement][554]
+[Article 104][539][---][539][Change in designation of State of enforcement][539]
 
-[Article 105][555][][555][Enforcement of the sentence][555]
+[Article 105][540][---][540][Enforcement of the sentence][540]
 
-[Article 106][556][][556][Supervision of enforcement of sentences and conditions of imprisonment][556]
+[Article 106][541][---][541][Supervision of enforcement of sentences and conditions of imprisonment][541]
 
-[Article 107][557][][557][Transfer of the person upon completion of sentence][557]
+[Article 107][542][---][542][Transfer of the person upon completion of sentence][542]
 
-[Article 108][558][][558][Limitation on the prosecution or punishment of other offences][558]
+[Article 108][543][---][543][Limitation on the prosecution or punishment of other offences][543]
 
-[Article 109][559][][559][Enforcement of fines and forfeiture measures][559]
+[Article 109][544][---][544][Enforcement of fines and forfeiture measures][544]
 
-[Article 110][560][][560][Review by the Court concerning reduction of sentence][560]
+[Article 110][545][---][545][Review by the Court concerning reduction of sentence][545]
 
-[Article 111][561][][561][Escape][561]
+[Article 111][546][---][546][Escape][546]
 
-[Part 11][562]  
-[Assembly of States Parties][562]
+[Part 11][547]  
+[Assembly of States Parties][547]
 
-[Article 112][563][][563][Assembly of States Parties][563]
+[Article 112][548][---][548][Assembly of States Parties][548]
 
-[Part 12][564]  
-[Financing][564]
+[Part 12][549]  
+[Financing][549]
 
-[Article 113][565][][565][Financial Regulations][565]
+[Article 113][550][---][550][Financial Regulations][550]
 
-[Article 114][566][][566][Payment of expenses][566]
+[Article 114][551][---][551][Payment of expenses][551]
 
-[Article 115][567][][567][Funds of the Court and of the Assembly of States Parties][567]
+[Article 115][552][---][552][Funds of the Court and of the Assembly of States Parties][552]
 
-[Article 116][568][][568][Voluntary contributions][568]
+[Article 116][553][---][553][Voluntary contributions][553]
 
-[Article 117][569][][569][Assessment of contributions][569]
+[Article 117][554][---][554][Assessment of contributions][554]
 
-[Article 118][570][][570][Annual audit][570]
+[Article 118][555][---][555][Annual audit][555]
 
-[Part 13][571]  
-[Final clauses][571]
+[Part 13][556]  
+[Final clauses][556]
 
-[Article 119][572][][572][Settlement of disputes][572]
+[Article 119][557][---][557][Settlement of disputes][557]
 
-[Article 120][573][][573][Reservations][573]
+[Article 120][558][---][558][Reservations][558]
 
-[Article 121][574][][574][Amendments][574]
+[Article 121][559][---][559][Amendments][559]
 
-[Article 122][575][][575][Amendments to provisions of an institutional nature][575]
+[Article 122][560][---][560][Amendments to provisions of an institutional nature][560]
 
-[Article 123][576][][576][Review of the Statute][576]
+[Article 123][561][---][561][Review of the Statute][561]
 
-[Article 124][577][][577][Transitional Provision][577]
+[Article 124][562][---][562][Transitional Provision][562]
 
-[Article 125][578][][578][Signature, ratification, acceptance, approval or accession][578]
+[Article 125][563][---][563][Signature, ratification, acceptance, approval or accession][563]
 
-[Article 126][579][][579][Entry into force][579]
+[Article 126][564][---][564][Entry into force][564]
 
-[Article 127][580][][580][Withdrawal][580]
+[Article 127][565][---][565][Withdrawal][565]
 
-[Article 128][581][][581][Authentic texts][581]
+[Article 128][566][---][566][Authentic texts][566]
 
 ---
 
@@ -4413,15 +4411,15 @@ Miscellaneous provisions and consequential amendments
 ## Part 1  
 Establishment of the Court
 
-### Article 1 The Court
+### Article 1---The Court
 
 An International Criminal Court (""the Court"") is hereby established. It shall be a permanent institution and shall have the power to exercise its jurisdiction over persons for the most serious crimes of international concern, as referred to in this Statute, and shall be complementary to national criminal jurisdictions. The jurisdiction and functioning of the Court shall be governed by the provisions of this Statute.
 
-### Article 2 Relationship of the Court with the United Nations
+### Article 2---Relationship of the Court with the United Nations
 
 The Court shall be brought into relationship with the United Nations through an agreement to be approved by the Assembly of States Parties to this Statute and thereafter concluded by the President of the Court on its behalf.
 
-### Article 3 Seat of the Court
+### Article 3---Seat of the Court
     
 *   1\. The seat of the Court shall be established at The Hague in the Netherlands ( ""the host State"").
 
@@ -4429,7 +4427,7 @@ The Court shall be brought into relationship with the United Nations through an 
 
 *   3\. The Court may sit elsewhere, whenever it considers it desirable, as provided in this Statute.
 
-### Article 4 Legal status and powers of the Court
+### Article 4---Legal status and powers of the Court
     
 *   1\. The Court shall have international legal personality. It shall also have such legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes.
 
@@ -4438,7 +4436,7 @@ The Court shall be brought into relationship with the United Nations through an 
 ## Part 2  
 Jurisdiction, admissibility and applicable law
 
-### Article 5 Crimes within the jurisdiction of the Court
+### Article 5---Crimes within the jurisdiction of the Court
     
 *   1\. The jurisdiction of the Court shall be limited to the most serious crimes of concern to the international community as a whole. The Court has jurisdiction in accordance with this Statute with respect to the following crimes:
         
@@ -4454,7 +4452,7 @@ Jurisdiction, admissibility and applicable law
 
 *   2\. The Court shall exercise jurisdiction over the crime of aggression once a provision is adopted in accordance with articles 121 and 123 defining the crime and setting out the conditions under which the Court shall exercise jurisdiction with respect to this crime. Such a provision shall be consistent with the relevant provisions of the Charter of the United Nations.
 
-### Article 6 Genocide
+### Article 6---Genocide
 
 For the purpose of this Statute, ""genocide"" means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such:
     
@@ -4468,7 +4466,7 @@ For the purpose of this Statute, ""genocide"" means any of the following acts co
 
 *   (e) Forcibly transferring children of the group to another group.
 
-### Article 7 Crimes against humanity
+### Article 7---Crimes against humanity
     
 *   1\. For the purpose of this Statute, ""crime against humanity"" means any of the following acts when committed as part of a widespread or systematic attack directed against any civilian population, with knowledge of the attack:
         
@@ -4520,7 +4518,7 @@ For the purpose of this Statute, ""genocide"" means any of the following acts co
 
 *   3\. For the purpose of this Statute, it is understood that the term ""gender"" refers to the two sexes, male and female, within the context of society. The term ""gender"" does not indicate any meaning different from the above.
 
-### Article 8 War crimes
+### Article 8---War crimes
     
 *   1\. The Court shall have jurisdiction in respect of war crimes in particular when committed as part of a plan or policy or as part of a large-scale commission of such crimes.
 
@@ -4650,7 +4648,7 @@ For the purpose of this Statute, ""genocide"" means any of the following acts co
 
 *   3\. Nothing in paragraph 2 (c) and (e) shall affect the responsibility of a Government to maintain or re-establish law and order in the State or to defend the unity and territorial integrity of the State, by all legitimate means.
 
-### Article 9 Elements of Crimes
+### Article 9---Elements of Crimes
     
 *   1\. Elements of Crimes shall assist the Court in the interpretation and application of articles 6, 7 and 8\. They shall be adopted by a two-thirds majority of the members of the Assembly of States Parties.
 
@@ -4670,13 +4668,13 @@ For the purpose of this Statute, ""genocide"" means any of the following acts co
 
 Nothing in this Part shall be interpreted as limiting or prejudicing in any way existing or developing rules of international law for purposes other than this Statute.
 
-### Article 11 Jurisdiction ratione temporis
+### Article 11---Jurisdiction ratione temporis
     
 *   1\. The Court has jurisdiction only with respect to crimes committed after the entry into force of this Statute.
 
 *   2\. If a State becomes a Party to this Statute after its entry into force, the Court may exercise its jurisdiction only with respect to crimes committed after the entry into force of this Statute for that State, unless that State has made a declaration under article 12, paragraph 3\.
 
-### Article 12 Preconditions to the exercise of jurisdiction
+### Article 12---Preconditions to the exercise of jurisdiction
     
 *   1\. A State which becomes a Party to this Statute thereby accepts the jurisdiction of the Court with respect to the crimes referred to in article 5\.
 
@@ -4690,7 +4688,7 @@ Nothing in this Part shall be interpreted as limiting or prejudicing in any way 
 
 *   3\. If the acceptance of a State which is not a Party to this Statute is required under paragraph 2, that State may, by declaration lodged with the Registrar, accept the exercise of jurisdiction by the Court with respect to the crime in question. The accepting State shall cooperate with the Court without any delay or exception in accordance with Part 9\.
 
-### Article 13 Exercise of jurisdiction
+### Article 13---Exercise of jurisdiction
 
 The Court may exercise its jurisdiction with respect to a crime referred to in article 5 in accordance with the provisions of this Statute if:
     
@@ -4700,13 +4698,13 @@ The Court may exercise its jurisdiction with respect to a crime referred to in a
 
 *   (c) The Prosecutor has initiated an investigation in respect of such a crime in accordance with article 15\.
 
-### Article 14 Referral of a situation by a State Party
+### Article 14---Referral of a situation by a State Party
     
 *   1\. A State Party may refer to the Prosecutor a situation in which one or more crimes within the jurisdiction of the Court appear to have been committed requesting the Prosecutor to investigate the situation for the purpose of determining whether one or more specific persons should be charged with the commission of such crimes.
 
 *   2\. As far as possible, a referral shall specify the relevant circumstances and be accompanied by such supporting documentation as is available to the State referring the situation.
 
-### Article 15 Prosecutor
+### Article 15---Prosecutor
     
 *   1\. The Prosecutor may initiate investigations _proprio motu_ on the basis of information on crimes within the jurisdiction of the Court.
 
@@ -4720,11 +4718,11 @@ The Court may exercise its jurisdiction with respect to a crime referred to in a
 
 *   6\. If, after the preliminary examination referred to in paragraphs 1 and 2, the Prosecutor concludes that the information provided does not constitute a reasonable basis for an investigation, he or she shall inform those who provided the information. This shall not preclude the Prosecutor from considering further information submitted to him or her regarding the same situation in the light of new facts or evidence.
 
-### Article 16 Deferral of investigation or prosecution
+### Article 16---Deferral of investigation or prosecution
 
 No investigation or prosecution may be commenced or proceeded with under this Statute for a period of 12 months after the Security Council, in a resolution adopted under Chapter VII of the Charter of the United Nations, has requested the Court to that effect; that request may be renewed by the Council under the same conditions.
 
-### Article 17 Issues of admissibility
+### Article 17---Issues of admissibility
     
 *   1\. Having regard to paragraph 10 of the Preamble and article 1, the Court shall determine that a case is inadmissible where:
         
@@ -4750,7 +4748,7 @@ No investigation or prosecution may be commenced or proceeded with under this St
 
 *   3\. In order to determine inability in a particular case, the Court shall consider whether, due to a total or substantial collapse or unavailability of its national judicial system, the State is unable to obtain the accused or the necessary evidence and testimony or otherwise unable to carry out its proceedings.
 
-### Article 18 Preliminary rulings regarding admissibility
+### Article 18---Preliminary rulings regarding admissibility
     
 *   1\. When a situation has been referred to the Court pursuant to article 13 (a) and the Prosecutor has determined that there would be a reasonable basis to commence an investigation, or the Prosecutor initiates an investigation pursuant to articles 13 (c) and 15, the Prosecutor shall notify all States Parties and those States which, taking into account the information available, would normally exercise jurisdiction over the crimes concerned. The Prosecutor may notify such States on a confidential basis and, where the Prosecutor believes it necessary to protect persons, prevent destruction of evidence or prevent the absconding of persons, may limit the scope of the information provided to States.
 
@@ -4766,7 +4764,7 @@ No investigation or prosecution may be commenced or proceeded with under this St
 
 *   7\. A State which has challenged a ruling of the Pre-Trial Chamber under this article may challenge the admissibility of a case under article 19 on the grounds of additional significant facts or significant change of circumstances.
 
-### Article 19 Challenges to the jurisdiction of the Court or the admissibility of a case
+### Article 19---Challenges to the jurisdiction of the Court or the admissibility of a case
     
 *   1\. The Court shall satisfy itself that it has jurisdiction in any case brought before it. The Court may, on its own motion, determine the admissibility of a case in accordance with article 17\.
 
@@ -4806,7 +4804,7 @@ No investigation or prosecution may be commenced or proceeded with under this St
 
 *   11\. If the Prosecutor, having regard to the matters referred to in article 17, defers an investigation, the Prosecutor may request that the relevant State make available to the Prosecutor information on the proceedings. That information shall, at the request of the State concerned, be confidential. If the Prosecutor thereafter decides to proceed with an investigation, he or she shall notify the State to which deferral of the proceedings has taken place.
 
-### Article 20 Ne bis in idem
+### Article 20---Ne bis in idem
     
 *   1\. Except as provided in this Statute, no person shall be tried before the Court with respect to conduct which formed the basis of crimes for which the person has been convicted or acquitted by the Court.
 
@@ -4820,7 +4818,7 @@ No investigation or prosecution may be commenced or proceeded with under this St
     
     
 
-### Article 21 Applicable law
+### Article 21---Applicable law
     
 *   1\. The Court shall apply:
         
@@ -4839,7 +4837,7 @@ No investigation or prosecution may be commenced or proceeded with under this St
 ## Part 3  
 General principles of criminal law
 
-### Article 22 Nullum crimen sine lege
+### Article 22---Nullum crimen sine lege
     
 *   1\. A person shall not be criminally responsible under this Statute unless the conduct in question constitutes, at the time it takes place, a crime within the jurisdiction of the Court.
 
@@ -4847,17 +4845,17 @@ General principles of criminal law
 
 *   3\. This article shall not affect the characterization of any conduct as criminal under international law independently of this Statute.
 
-### Article 23 Nulla poena sine lege
+### Article 23---Nulla poena sine lege
 
 A person convicted by the Court may be punished only in accordance with this Statute.
 
-### Article 24 Non-retroactivity ratione personae
+### Article 24---Non-retroactivity ratione personae
     
 *   1\. No person shall be criminally responsible under this Statute for conduct prior to the entry into force of the Statute.
 
 *   2\. In the event of a change in the law applicable to a given case prior to a final judgement, the law more favourable to the person being investigated, prosecuted or convicted shall apply.
 
-### Article 25 Individual criminal responsibility
+### Article 25---Individual criminal responsibility
     
 *   1\. The Court shall have jurisdiction over natural persons pursuant to this Statute.
 
@@ -4887,17 +4885,17 @@ A person convicted by the Court may be punished only in accordance with this Sta
 
 *   4\. No provision in this Statute relating to individual criminal responsibility shall affect the responsibility of States under international law.
 
-### Article 26 Exclusion of jurisdiction over persons under eighteen
+### Article 26---Exclusion of jurisdiction over persons under eighteen
 
 The Court shall have no jurisdiction over any person who was under the age of 18 at the time of the alleged commission of a crime.
 
-### Article 27 Irrelevance of official capacity
+### Article 27---Irrelevance of official capacity
     
 *   1\. This Statute shall apply equally to all persons without any distinction based on official capacity. In particular, official capacity as a Head of State or Government, a member of a Government or parliament, an elected representative or a government official shall in no case exempt a person from criminal responsibility under this Statute, nor shall it, in and of itself, constitute a ground for reduction of sentence.
 
 *   2\. Immunities or special procedural rules which may attach to the official capacity of a person, whether under national or international law, shall not bar the Court from exercising its jurisdiction over such a person.
 
-### Article 28 Responsibility of commanders and other superiors
+### Article 28---Responsibility of commanders and other superiors
 
 In addition to other grounds of criminal responsibility under this Statute for crimes within the jurisdiction of the Court:
     
@@ -4919,11 +4917,11 @@ In addition to other grounds of criminal responsibility under this Statute for c
     
     
 
-### Article 29 Non-applicability of statute of limitations
+### Article 29---Non-applicability of statute of limitations
 
 The crimes within the jurisdiction of the Court shall not be subject to any statute of limitations.
 
-### Article 30 Mental element
+### Article 30---Mental element
     
 *   1\. Unless otherwise provided, a person shall be criminally responsible and liable for punishment for a crime within the jurisdiction of the Court only if the material elements are committed with intent and knowledge.
 
@@ -4937,7 +4935,7 @@ The crimes within the jurisdiction of the Court shall not be subject to any stat
 
 *   3\. For the purposes of this article, ""knowledge"" means awareness that a circumstance exists or a consequence will occur in the ordinary course of events. ""Know"" and ""knowingly"" shall be construed accordingly.
 
-### Article 31 Grounds for excluding criminal responsibility
+### Article 31---Grounds for excluding criminal responsibility
     
 *   1\. In addition to other grounds for excluding criminal responsibility provided for in this Statute, a person shall not be criminally responsible if, at the time of that person's conduct:
         
@@ -4961,13 +4959,13 @@ The crimes within the jurisdiction of the Court shall not be subject to any stat
 
 *   3\. At trial, the Court may consider a ground for excluding criminal responsibility other than those referred to in paragraph 1 where such a ground is derived from applicable law as set forth in article 21\. The procedures relating to the consideration of such a ground shall be provided for in the Rules of Procedure and Evidence.
 
-### Article 32 Mistake of fact or mistake of law
+### Article 32---Mistake of fact or mistake of law
     
 *   1\. A mistake of fact shall be a ground for excluding criminal responsibility only if it negates the mental element required by the crime.
 
 *   2\. A mistake of law as to whether a particular type of conduct is a crime within the jurisdiction of the Court shall not be a ground for excluding criminal responsibility. A mistake of law may, however, be a ground for excluding criminal responsibility if it negates the mental element required by such a crime, or as provided for in article 33\.
 
-### Article 33 Superior orders and prescription of law
+### Article 33---Superior orders and prescription of law
     
 *   1\. The fact that a crime within the jurisdiction of the Court has been committed by a person pursuant to an order of a Government or of a superior, whether military or civilian, shall not relieve that person of criminal responsibility unless:
         
@@ -4984,7 +4982,7 @@ The crimes within the jurisdiction of the Court shall not be subject to any stat
 ## Part 4  
 Composition and administration of the Court
 
-### Article 34 Organs of the Court
+### Article 34---Organs of the Court
 
 The Court shall be composed of the following organs:
     
@@ -4996,7 +4994,7 @@ The Court shall be composed of the following organs:
 
 *   (d) The Registry.
 
-### Article 35 Services of judges
+### Article 35---Services of judges
     
 *   1\. All judges shall be elected as full-time members of the Court and shall be available to serve on that basis from the commencement of their terms of office.
 
@@ -5006,7 +5004,7 @@ The Court shall be composed of the following organs:
 
 *   4\. The financial arrangements for judges not required to serve on a full-time basis shall be made in accordance with article 49\.
 
-### Article 36 Qualifications, nomination and election of judges
+### Article 36---Qualifications, nomination and election of judges
     
 *   1\. Subject to the provisions of paragraph 2, there shall be 18 judges of the Court.
 
@@ -5124,13 +5122,13 @@ A judge who is selected to serve for a term of three years under subparagraph (b
 
 *   10\. Notwithstanding paragraph 9, a judge assigned to a Trial or Appeals Chamber in accordance with article 39 shall continue in office to complete any trial or appeal the hearing of which has already commenced before that Chamber.
 
-### Article 37 Judicial vacancies
+### Article 37---Judicial vacancies
     
 *   1\. In the event of a vacancy, an election shall be held in accordance with article 36 to fill the vacancy.
 
 *   2\. A judge elected to fill a vacancy shall serve for the remainder of the predecessor's term and, if that period is three years or less, shall be eligible for re-election for a full term under article 36\.
 
-### Article 38 _The Presidency_
+### Article 38---_The Presidency_
     
 *   1\. The President and the First and Second Vice-Presidents shall be elected by an absolute majority of the judges. They shall each serve for a term of three years or until the end of their respective terms of office as judges, whichever expires earlier. They shall be eligible for re-election once.
 
@@ -5146,7 +5144,7 @@ A judge who is selected to serve for a term of three years under subparagraph (b
 
 *   4\. In discharging its responsibility under paragraph 3 (a), the Presidency shall coordinate with and seek the concurrence of the Prosecutor on all matters of mutual concern.
 
-### Article 39 Chambers
+### Article 39---Chambers
     
 *   1\. As soon as possible after the election of the judges, the Court shall organize itself into the divisions specified in article 34, paragraph (b). The Appeals Division shall be composed of the President and four other judges, the Trial Division of not less than six judges and the Pre-Trial Division of not less than six judges. The assignment of judges to divisions shall be based on the nature of the functions to be performed by each division and the qualifications and experience of the judges elected to the Court, in such a way that each division shall contain an appropriate combination of expertise in criminal law and procedure and in international law. The Trial and Pre-Trial Divisions shall be composed predominantly of judges with criminal trial experience.
 
@@ -5180,7 +5178,7 @@ Judges assigned to the Appeals Division shall serve in that division for their e
 
 *   4\. Judges assigned to the Appeals Division shall serve only in that division. Nothing in this article shall, however, preclude the temporary attachment of judges from the Trial Division to the Pre-Trial Division or vice versa, if the Presidency considers that the efficient management of the Court's workload so requires, provided that under no circumstances shall a judge who has participated in the pre-trial phase of a case be eligible to sit on the Trial Chamber hearing that case.
 
-### Article 40 Independence of the judges
+### Article 40---Independence of the judges
     
 *   1\. The judges shall be independent in the performance of their functions.
 
@@ -5190,7 +5188,7 @@ Judges assigned to the Appeals Division shall serve in that division for their e
 
 *   4\. Any question regarding the application of paragraphs 2 and 3 shall be decided by an absolute majority of the judges. Where any such question concerns an individual judge, that judge shall not take part in the decision.
 
-### Article 41 Excusing and disqualification of judges
+### Article 41---Excusing and disqualification of judges
     
 *   1\. The Presidency may, at the request of a judge, excuse that judge from the exercise of a function under this Statute, in accordance with the Rules of Procedure and Evidence.
 
@@ -5206,7 +5204,7 @@ The Prosecutor or the person being investigated or prosecuted may request the di
 
 Any question as to the disqualification of a judge shall be decided by an absolute majority of the judges. The challenged judge shall be entitled to present his or her comments on the matter, but shall not take part in the decision.
 
-### Article 42 The Office of the Prosecutor
+### Article 42---The Office of the Prosecutor
     
 *   1\. The Office of the Prosecutor shall act independently as a separate organ of the Court. It shall be responsible for receiving referrals and any substantiated information on crimes within the jurisdiction of the Court, for examining them and for conducting investigations and prosecutions before the Court. A member of the Office shall not seek or act on instructions from any external source.
 
@@ -5232,7 +5230,7 @@ Any question as to the disqualification of a judge shall be decided by an absolu
 
 *   9\. The Prosecutor shall appoint advisers with legal expertise on specific issues, including, but not limited to, sexual and gender violence and violence against children.
 
-### Article 43 The Registry
+### Article 43---The Registry
     
 *   1\. The Registry shall be responsible for the non-judicial aspects of the administration and servicing of the Court, without prejudice to the functions and powers of the Prosecutor in accordance with article 42\.
 
@@ -5246,7 +5244,7 @@ Any question as to the disqualification of a judge shall be decided by an absolu
 
 *   6\. The Registrar shall set up a Victims and Witnesses Unit within the Registry. This Unit shall provide, in consultation with the Office of the Prosecutor, protective measures and security arrangements, counselling and other appropriate assistance for witnesses, victims who appear before the Court, and others who are at risk on account of testimony given by such witnesses. The Unit shall include staff with expertise in trauma, including trauma related to crimes of sexual violence.
 
-### Article 44 Staff
+### Article 44---Staff
     
 *   1\. The Prosecutor and the Registrar shall appoint such qualified staff as may be required to their respective offices. In the case of the Prosecutor, this shall include the appointment of investigators.
 
@@ -5256,11 +5254,11 @@ Any question as to the disqualification of a judge shall be decided by an absolu
 
 *   4\. The Court may, in exceptional circumstances, employ the expertise of gratis personnel offered by States Parties, intergovernmental organizations or non-governmental organizations to assist with the work of any of the organs of the Court. The Prosecutor may accept any such offer on behalf of the Office of the Prosecutor. Such gratis personnel shall be employed in accordance with guidelines to be established by the Assembly of States Parties.
 
-### Article 45 Solemn undertaking
+### Article 45---Solemn undertaking
 
 Before taking up their respective duties under this Statute, the judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy Registrar shall each make a solemn undertaking in open court to exercise his or her respective functions impartially and conscientiously.
 
-### Article 46 Removal from office
+### Article 46---Removal from office
     
 *   1\. A judge, the Prosecutor, a Deputy Prosecutor, the Registrar or the Deputy Registrar shall be removed from office if a decision to this effect is made in accordance with paragraph 2, in cases where that person:
         
@@ -5284,11 +5282,11 @@ Before taking up their respective duties under this Statute, the judges, the Pro
 
 *   4\. A judge, Prosecutor, Deputy Prosecutor, Registrar or Deputy Registrar whose conduct or ability to exercise the functions of the office as required by this Statute is challenged under this article shall have full opportunity to present and receive evidence and to make submissions in accordance with the Rules of Procedure and Evidence. The person in question shall not otherwise participate in the consideration of the matter.
 
-### Article 47 Disciplinary measures
+### Article 47---Disciplinary measures
 
 A judge, Prosecutor, Deputy Prosecutor, Registrar or Deputy Registrar who has committed misconduct of a less serious nature than that set out in article 46, paragraph 1, shall be subject to disciplinary measures, in accordance with the Rules of Procedure and Evidence.
 
-### Article 48 Privileges and immunities
+### Article 48---Privileges and immunities
     
 *   1\. The Court shall enjoy in the territory of each State Party such privileges and immunities as are necessary for the fulfilment of its purposes.
 
@@ -5310,11 +5308,11 @@ A judge, Prosecutor, Deputy Prosecutor, Registrar or Deputy Registrar who has co
     
     
 
-### Article 49 Salaries, allowances and expenses
+### Article 49---Salaries, allowances and expenses
 
 The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy Registrar shall receive such salaries, allowances and expenses as may be decided upon by the Assembly of States Parties. These salaries and allowances shall not be reduced during their terms of office.
 
-### Article 50 Official and working languages
+### Article 50---Official and working languages
     
 *   1\. The official languages of the Court shall be Arabic, Chinese, English, French, Russian and Spanish. The judgements of the Court, as well as other decisions resolving fundamental issues before the Court, shall be published in the official languages. The Presidency shall, in accordance with the criteria established by the Rules of Procedure and Evidence, determine which decisions may be considered as resolving fundamental issues for the purposes of this paragraph.
 
@@ -5322,7 +5320,7 @@ The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy
 
 *   3\. At the request of any party to a proceeding or a State allowed to intervene in a proceeding, the Court shall authorize a language other than English or French to be used by such a party or State, provided that the Court considers such authorization to be adequately justified.
 
-### Article 51 Rules of Procedure and Evidence
+### Article 51---Rules of Procedure and Evidence
     
 *   1\. The Rules of Procedure and Evidence shall enter into force upon adoption by a two-thirds majority of the members of the Assembly of States Parties.
 
@@ -5342,7 +5340,7 @@ The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy
 
 *   5\. In the event of conflict between the Statute and the Rules of Procedure and Evidence, the Statute shall prevail.
 
-### Article 52 Regulations of the Court
+### Article 52---Regulations of the Court
     
 *   1\. The judges shall, in accordance with this Statute and the Rules of Procedure and Evidence, adopt, by an absolute majority, the Regulations of the Court necessary for its routine functioning.
 
@@ -5353,7 +5351,7 @@ The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy
 ## Part 5  
 Investigation and prosecution
 
-### Article 53 Initiation of an investigation
+### Article 53---Initiation of an investigation
     
 *   1\. The Prosecutor shall, having evaluated the information made available to him or her, initiate an investigation unless he or she determines that there is no reasonable basis to proceed under this Statute. In deciding whether to initiate an investigation, the Prosecutor shall consider whether:
         
@@ -5385,7 +5383,7 @@ In addition, the Pre-Trial Chamber may, on its own initiative, review a decision
 
 *   4\. The Prosecutor may, at any time, reconsider a decision whether to initiate an investigation or prosecution based on new facts or information.
 
-### Article 54 Duties and powers of the Prosecutor with respect to investigations
+### Article 54---Duties and powers of the Prosecutor with respect to investigations
     
 *   1\. The Prosecutor shall:
         
@@ -5421,7 +5419,7 @@ In addition, the Pre-Trial Chamber may, on its own initiative, review a decision
     
     
 
-### Article 55 Rights of persons during an investigation
+### Article 55---Rights of persons during an investigation
     
 *   1\. In respect of an investigation under this Statute, a person:
         
@@ -5447,7 +5445,7 @@ In addition, the Pre-Trial Chamber may, on its own initiative, review a decision
     
     
 
-### Article 56 Role of the Pre-Trial Chamber in relation to a unique investigative opportunity
+### Article 56---Role of the Pre-Trial Chamber in relation to a unique investigative opportunity
 
 1\.(a)
 
@@ -5487,7 +5485,7 @@ A decision of the Pre-Trial Chamber to act on its own initiative under this para
 
 *   4\. The admissibility of evidence preserved or collected for trial pursuant to this article, or the record thereof, shall be governed at trial by article 69, and given such weight as determined by the Trial Chamber.
 
-### Article 57 Functions and powers of the Pre-Trial Chamber
+### Article 57---Functions and powers of the Pre-Trial Chamber
     
 *   1\. Unless otherwise provided in this Statute, the Pre-Trial Chamber shall exercise its functions in accordance with the provisions of this article.
 
@@ -5513,7 +5511,7 @@ In all other cases, a single judge of the Pre-Trial Chamber may exercise the fun
     
     
 
-### Article 58 Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear
+### Article 58---Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear
     
 *   1\. At any time after the initiation of an investigation, the Pre-Trial Chamber shall, on the application of the Prosecutor, issue a warrant of arrest of a person if, having examined the application and the evidence or other information submitted by the Prosecutor, it is satisfied that:
         
@@ -5573,7 +5571,7 @@ In all other cases, a single judge of the Pre-Trial Chamber may exercise the fun
     
     The summons shall be served on the person.
 
-### Article 59 Arrest proceedings in the custodial State
+### Article 59---Arrest proceedings in the custodial State
     
 *   1\. A State Party which has received a request for provisional arrest or for arrest and surrender shall immediately take steps to arrest the person in question in accordance with its laws and the provisions of Part 9\.
 
@@ -5597,7 +5595,7 @@ In all other cases, a single judge of the Pre-Trial Chamber may exercise the fun
 
 *   7\. Once ordered to be surrendered by the custodial State, the person shall be delivered to the Court as soon as possible.
 
-### Article 60 Initial proceedings before the Court
+### Article 60---Initial proceedings before the Court
     
 *   1\. Upon the surrender of the person to the Court, or the person's appearance before the Court voluntarily or pursuant to a summons, the Pre-Trial Chamber shall satisfy itself that the person has been informed of the crimes which he or she is alleged to have committed, and of his or her rights under this Statute, including the right to apply for interim release pending trial.
 
@@ -5609,7 +5607,7 @@ In all other cases, a single judge of the Pre-Trial Chamber may exercise the fun
 
 *   5\. If necessary, the Pre-Trial Chamber may issue a warrant of arrest to secure the presence of a person who has been released.
 
-### Article 61 Confirmation of the charges before trial
+### Article 61---Confirmation of the charges before trial
     
 *   1\. Subject to the provisions of paragraph 2, within a reasonable time after the person's surrender or voluntary appearance before the Court, the Pre-Trial Chamber shall hold a hearing to confirm the charges on which the Prosecutor intends to seek trial. The hearing shall be held in the presence of the Prosecutor and the person charged, as well as his or her counsel.
 
@@ -5670,17 +5668,17 @@ In all other cases, a single judge of the Pre-Trial Chamber may exercise the fun
 ## Part 6  
 The trial
 
-### Article 62 Place of trial
+### Article 62---Place of trial
 
 Unless otherwise decided, the place of the trial shall be the seat of the Court.
 
-### Article 63 Trial in the presence of the accused
+### Article 63---Trial in the presence of the accused
     
 *   1\. The accused shall be present during the trial.
 
 *   2\. If the accused, being present before the Court, continues to disrupt the trial, the Trial Chamber may remove the accused and shall make provision for him or her to observe the trial and instruct counsel from outside the courtroom, through the use of communications technology, if required. Such measures shall be taken only in exceptional circumstances after other reasonable alternatives have proved inadequate, and only for such duration as is strictly required.
 
-### Article 64 Functions and powers of the Trial Chamber
+### Article 64---Functions and powers of the Trial Chamber
     
 *   1\. The functions and powers of the Trial Chamber set out in this article shall be exercised in accordance with this Statute and the Rules of Procedure and Evidence.
 
@@ -5736,7 +5734,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   10\. The Trial Chamber shall ensure that a complete record of the trial, which accurately reflects the proceedings, is made and that it is maintained and preserved by the Registrar.
 
-### Article 65 Proceedings on an admission of guilt
+### Article 65---Proceedings on an admission of guilt
     
 *   1\. Where the accused makes an admission of guilt pursuant to article 64, paragraph 8 (a), the Trial Chamber shall determine whether:
         
@@ -5770,7 +5768,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   5\. Any discussions between the Prosecutor and the defence regarding modification of the charges, the admission of guilt or the penalty to be imposed shall not be binding on the Court.
 
-### Article 66 Presumption of innocence
+### Article 66---Presumption of innocence
     
 *   1\. Everyone shall be presumed innocent until proved guilty before the Court in accordance with the applicable law.
 
@@ -5778,7 +5776,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   3\. In order to convict the accused, the Court must be convinced of the guilt of the accused beyond reasonable doubt.
 
-### Article 67 Rights of the accused
+### Article 67---Rights of the accused
     
 *   1\. In the determination of any charge, the accused shall be entitled to a public hearing, having regard to the provisions of this Statute, to a fair hearing conducted impartially, and to the following minimum guarantees, in full equality:
         
@@ -5804,7 +5802,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   2\. In addition to any other disclosure provided for in this Statute, the Prosecutor shall, as soon as practicable, disclose to the defence evidence in the Prosecutor's possession or control which he or she believes shows or tends to show the innocence of the accused, or to mitigate the guilt of the accused, or which may affect the credibility of prosecution evidence. In case of doubt as to the application of this paragraph, the Court shall decide.
 
-### Article 68 Protection of the victims and witnesses and their participation in the proceedings
+### Article 68---Protection of the victims and witnesses and their participation in the proceedings
     
 *   1\. The Court shall take appropriate measures to protect the safety, physical and psychological well-being, dignity and privacy of victims and witnesses. In so doing, the Court shall have regard to all relevant factors, including age, gender as defined in article 7, paragraph 3, and health, and the nature of the crime, in particular, but not limited to, where the crime involves sexual or gender violence or violence against children. The Prosecutor shall take such measures particularly during the investigation and prosecution of such crimes. These measures shall not be prejudicial to or inconsistent with the rights of the accused and a fair and impartial trial.
 
@@ -5818,7 +5816,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   6\. A State may make an application for necessary measures to be taken in respect of the protection of its servants or agents and the protection of confidential or sensitive information.
 
-### Article 69 Evidence
+### Article 69---Evidence
     
 *   1\. Before testifying, each witness shall, in accordance with the Rules of Procedure and Evidence, give an undertaking as to the truthfulness of the evidence to be given by that witness.
 
@@ -5842,7 +5840,7 @@ At the trial, the presiding judge may give directions for the conduct of proceed
 
 *   8\. When deciding on the relevance or admissibility of evidence collected by a State, the Court shall not rule on the application of the State's national law.
 
-### Article 70 Offences against the administration of justice
+### Article 70---Offences against the administration of justice
     
 *   1\. The Court shall have jurisdiction over the following offences against its administration of justice when committed intentionally:
         
@@ -5872,13 +5870,13 @@ Each State Party shall extend its criminal laws penalizing offences against the 
 
 Upon request by the Court, whenever it deems it proper, the State Party shall submit the case to its competent authorities for the purpose of prosecution. Those authorities shall treat such cases with diligence and devote sufficient resources to enable them to be conducted effectively.
 
-### Article 71 Sanctions for misconduct before the Court
+### Article 71---Sanctions for misconduct before the Court
     
 *   1\. The Court may sanction persons present before it who commit misconduct, including disruption of its proceedings or deliberate refusal to comply with its directions, by administrative measures other than imprisonment, such as temporary or permanent removal from the courtroom, a fine or other similar measures provided for in the Rules of Procedure and Evidence.
 
 *   2\. The procedures governing the imposition of the measures set forth in paragraph 1 shall be those provided for in the Rules of Procedure and Evidence.
 
-### Article 72 Protection of national security information
+### Article 72---Protection of national security information
     
 *   1\. This article applies in any case where the disclosure of the information or documents of a State would, in the opinion of that State, prejudice its national security interests. Such cases include those falling within the scope of article 56, paragraphs 2 and 3, article 61, paragraph 3, article 64, paragraph 3, article 67, paragraph 2, article 68, paragraph 6, article 87, paragraph 6 and article 93, as well as cases arising at any other stage of the proceedings where such disclosure may be at issue.
 
@@ -5924,11 +5922,11 @@ Upon request by the Court, whenever it deems it proper, the State Party shall su
     
     
 
-### Article 73 Third-party information or documents
+### Article 73---Third-party information or documents
 
 If a State Party is requested by the Court to provide a document or information in its custody, possession or control, which was disclosed to it in confidence by a State, intergovernmental organization or international organization, it shall seek the consent of the originator to disclose that document or information. If the originator is a State Party, it shall either consent to disclosure of the information or document or undertake to resolve the issue of disclosure with the Court, subject to the provisions of article 72\. If the originator is not a State Party and refuses to consent to disclosure, the requested State shall inform the Court that it is unable to provide the document or information because of a pre-existing obligation of confidentiality to the originator.
 
-### Article 74 Requirements for the decision
+### Article 74---Requirements for the decision
     
 *   1\. All the judges of the Trial Chamber shall be present at each stage of the trial and throughout their deliberations. The Presidency may, on a case-by-case basis, designate, as available, one or more alternate judges to be present at each stage of the trial and to replace a member of the Trial Chamber if that member is unable to continue attending.
 
@@ -5940,7 +5938,7 @@ If a State Party is requested by the Court to provide a document or information 
 
 *   5\. The decision shall be in writing and shall contain a full and reasoned statement of the Trial Chamber's findings on the evidence and conclusions. The Trial Chamber shall issue one decision. When there is no unanimity, the Trial Chamber's decision shall contain the views of the majority and the minority. The decision or a summary thereof shall be delivered in open court.
 
-### Article 75 Reparations to victims
+### Article 75---Reparations to victims
     
 *   1\. The Court shall establish principles relating to reparations to, or in respect of, victims, including restitution, compensation and rehabilitation. On this basis, in its decision the Court may, either upon request or on its own motion in exceptional circumstances, determine the scope and extent of any damage, loss and injury to, or in respect of, victims and will state the principles on which it is acting.
 
@@ -5956,7 +5954,7 @@ If a State Party is requested by the Court to provide a document or information 
 
 *   6\. Nothing in this article shall be interpreted as prejudicing the rights of victims under national or international law.
 
-### Article 76 Sentencing
+### Article 76---Sentencing
     
 *   1\. In the event of a conviction, the Trial Chamber shall consider the appropriate sentence to be imposed and shall take into account the evidence presented and submissions made during the trial that are relevant to the sentence.
 
@@ -5969,7 +5967,7 @@ If a State Party is requested by the Court to provide a document or information 
 ## Part 7  
 Penalties
 
-### Article 77 Applicable penalties
+### Article 77---Applicable penalties
     
 *   1\. Subject to article 110, the Court may impose one of the following penalties on a person convicted of a crime referred to in article 5 of this Statute:
         
@@ -5987,7 +5985,7 @@ Penalties
     
     
 
-### Article 78 Determination of the sentence
+### Article 78---Determination of the sentence
     
 *   1\. In determining the sentence, the Court shall, in accordance with the Rules of Procedure and Evidence, take into account such factors as the gravity of the crime and the individual circumstances of the convicted person.
 
@@ -5995,7 +5993,7 @@ Penalties
 
 *   3\. When a person has been convicted of more than one crime, the Court shall pronounce a sentence for each crime and a joint sentence specifying the total period of imprisonment. This period shall be no less than the highest individual sentence pronounced and shall not exceed 30 years imprisonment or a sentence of life imprisonment in conformity with article 77, paragraph 1 (b).
 
-### Article 79 Trust Fund
+### Article 79---Trust Fund
     
 *   1\. A Trust Fund shall be established by decision of the Assembly of States Parties for the benefit of victims of crimes within the jurisdiction of the Court, and of the families of such victims.
 
@@ -6003,14 +6001,14 @@ Penalties
 
 *   3\. The Trust Fund shall be managed according to criteria to be determined by the Assembly of States Parties.
 
-### Article 80 Non-prejudice to national application of penalties and national laws
+### Article 80---Non-prejudice to national application of penalties and national laws
 
 Nothing in this Part affects the application by States of penalties prescribed by their national law, nor the law of States which do not provide for penalties prescribed in this Part.
 
 ## Part 8  
 Appeal and revision
 
-### Article 81 Appeal against decision of acquittal or conviction or against sentence
+### Article 81---Appeal against decision of acquittal or conviction or against sentence
     
 *   1\. A decision under article 74 may be appealed in accordance with the Rules of Procedure and Evidence as follows:
         
@@ -6072,7 +6070,7 @@ A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in ac
 
 *   4\. Subject to the provisions of paragraph 3 (a) and (b), execution of the decision or sentence shall be suspended during the period allowed for appeal and for the duration of the appeal proceedings.
 
-### Article 82 Appeal against other decisions
+### Article 82---Appeal against other decisions
     
 *   1\. Either party may appeal any of the following decisions in accordance with the Rules of Procedure and Evidence:
         
@@ -6092,7 +6090,7 @@ A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in ac
 
 *   4\. A legal representative of the victims, the convicted person or a bona fide owner of property adversely affected by an order under article 75 may appeal against the order for reparations, as provided in the Rules of Procedure and Evidence.
 
-### Article 83 Proceedings on appeal
+### Article 83---Proceedings on appeal
     
 *   1\. For the purposes of proceedings under article 81 and this article, the Appeals Chamber shall have all the powers of the Trial Chamber.
 
@@ -6110,7 +6108,7 @@ A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in ac
 
 *   5\. The Appeals Chamber may deliver its judgement in the absence of the person acquitted or convicted.
 
-### Article 84 Revision of conviction or sentence
+### Article 84---Revision of conviction or sentence
     
 *   1\. The convicted person or, after death, spouses, children, parents or one person alive at the time of the accused's death who has been given express written instructions from the accused to bring such a claim, or the Prosecutor on the person's behalf, may apply to the Appeals Chamber to revise the final judgement of conviction or sentence on the grounds that:
         
@@ -6138,7 +6136,7 @@ A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in ac
     
     with a view to, after hearing the parties in the manner set forth in the Rules of Procedure and Evidence, arriving at a determination on whether the judgement should be revised.
 
-### Article 85 Compensation to an arrested or convicted person
+### Article 85---Compensation to an arrested or convicted person
     
 *   1\. Anyone who has been the victim of unlawful arrest or detention shall have an enforceable right to compensation.
 
@@ -6149,11 +6147,11 @@ A decision by the Trial Chamber under subparagraph (c) (i) may be appealed in ac
 ## Part 9  
 International cooperation and judicial assistance
 
-### Article 86 General obligation to cooperate
+### Article 86---General obligation to cooperate
 
 States Parties shall, in accordance with the provisions of this Statute, cooperate fully with the Court in its investigation and prosecution of crimes within the jurisdiction of the Court.
 
-### Article 87 Requests for cooperation: general provisions
+### Article 87---Requests for cooperation: general provisions
 
 1\.(a)
 
@@ -6185,11 +6183,11 @@ Where a State not party to this Statute, which has entered into an ad hoc arrang
 
 *   7\. Where a State Party fails to comply with a request to cooperate by the Court contrary to the provisions of this Statute, thereby preventing the Court from exercising its functions and powers under this Statute, the Court may make a finding to that effect and refer the matter to the Assembly of States Parties or, where the Security Council referred the matter to the Court, to the Security Council.
 
-### Article 88 Availability of procedures under national law
+### Article 88---Availability of procedures under national law
 
 States Parties shall ensure that there are procedures available under their national law for all of the forms of cooperation which are specified under this Part.
 
-### Article 89 Surrender of persons to the Court
+### Article 89---Surrender of persons to the Court
     
 *   1\. The Court may transmit a request for the arrest and surrender of a person, together with the material supporting the request outlined in article 91, to any State on the territory of which that person may be found and shall request the cooperation of that State in the arrest and surrender of such a person. States Parties shall, in accordance with the provisions of this Part and the procedure under their national law, comply with requests for arrest and surrender.
 
@@ -6227,7 +6225,7 @@ If an unscheduled landing occurs on the territory of the transit State, that Sta
 
 *   4\. If the person sought is being proceeded against or is serving a sentence in the requested State for a crime different from that for which surrender to the Court is sought, the requested State, after making its decision to grant the request, shall consult with the Court.
 
-### Article 90 Competing requests
+### Article 90---Competing requests
     
 *   1\. A State Party which receives a request from the Court for the surrender of a person under article 89 shall, if it also receives a request from any other State for the extradition of the same person for the same conduct which forms the basis of the crime for which the Court seeks the person's surrender, notify the Court and the requesting State of that fact.
 
@@ -6265,7 +6263,7 @@ If an unscheduled landing occurs on the territory of the transit State, that Sta
 
 *   8\. Where pursuant to a notification under this article, the Court has determined a case to be inadmissible, and subsequently extradition to the requesting State is refused, the requested State shall notify the Court of this decision.
 
-### Article 91 Contents of request for arrest and surrender
+### Article 91---Contents of request for arrest and surrender
     
 *   1\. A request for arrest and surrender shall be made in writing. In urgent cases, a request may be made by any medium capable of delivering a written record, provided that the request shall be confirmed through the channel provided for in article 87, paragraph 1 (a).
 
@@ -6293,7 +6291,7 @@ If an unscheduled landing occurs on the territory of the transit State, that Sta
 
 *   4\. Upon the request of the Court, a State Party shall consult with the Court, either generally or with respect to a specific matter, regarding any requirements under its national law that may apply under paragraph 2 (c). During the consultations, the State Party shall advise the Court of the specific requirements of its national law.
 
-### Article 92 Provisional arrest
+### Article 92---Provisional arrest
     
 *   1\. In urgent cases, the Court may request the provisional arrest of the person sought, pending presentation of the request for surrender and the documents supporting the request as specified in article 91\.
 
@@ -6313,7 +6311,7 @@ If an unscheduled landing occurs on the territory of the transit State, that Sta
 
 *   4\. The fact that the person sought has been released from custody pursuant to paragraph 3 shall not prejudice the subsequent arrest and surrender of that person if the request for surrender and the documents supporting the request are delivered at a later date.
 
-### Article 93 Other forms of cooperation
+### Article 93---Other forms of cooperation
     
 *   1\. States Parties shall, in accordance with the provisions of this Part and under procedures of national law, comply with requests by the Court to provide the following assistance in relation to investigations or prosecutions:
         
@@ -6415,17 +6413,17 @@ In the case of assistance under subparagraph (b) (i) a:
 
 The Court may, under the conditions set out in this paragraph, grant a request for assistance under this paragraph from a State which is not a Party to this Statute.
 
-### Article 94 Postponement of execution of a request in respect of ongoing investigation or prosecution
+### Article 94---Postponement of execution of a request in respect of ongoing investigation or prosecution
     
 *   1\. If the immediate execution of a request would interfere with an ongoing investigation or prosecution of a case different from that to which the request relates, the requested State may postpone the execution of the request for a period of time agreed upon with the Court. However, the postponement shall be no longer than is necessary to complete the relevant investigation or prosecution in the requested State. Before making a decision to postpone, the requested State should consider whether the assistance may be immediately provided subject to certain conditions.
 
 *   2\. If a decision to postpone is taken pursuant to paragraph 1, the Prosecutor may, however, seek measures to preserve evidence, pursuant to article 93, paragraph 1 (j).
 
-### Article 95 Postponement of execution of a request in respect of an admissibility challenge
+### Article 95---Postponement of execution of a request in respect of an admissibility challenge
 
 Where there is an admissibility challenge under consideration by the Court pursuant to article 18 or 19, the requested State may postpone the execution of a request under this Part pending a determination by the Court, unless the Court has specifically ordered that the Prosecutor may pursue the collection of such evidence pursuant to article 18 or 19\.
 
-### Article 96 Contents of request for other forms of assistance under article 93
+### Article 96---Contents of request for other forms of assistance under article 93
     
 *   1\. A request for other forms of assistance referred to in article 93 shall be made in writing. In urgent cases, a request may be made by any medium capable of delivering a written record, provided that the request shall be confirmed through the channel provided for in article 87, paragraph 1 (a).
 
@@ -6449,7 +6447,7 @@ Where there is an admissibility challenge under consideration by the Court pursu
 
 *   4\. The provisions of this article shall, where applicable, also apply in respect of a request for assistance made to the Court.
 
-### Article 97 Consultations
+### Article 97---Consultations
 
 Where a State Party receives a request under this Part in relation to which it identifies problems which may impede or prevent the execution of the request, that State shall consult with the Court without delay in order to resolve the matter. Such problems may include, _inter alia_:
     
@@ -6459,13 +6457,13 @@ Where a State Party receives a request under this Part in relation to which it i
 
 *   (c) The fact that execution of the request in its current form would require the requested State to breach a pre-existing treaty obligation undertaken with respect to another State.
 
-### Article 98 Cooperation with respect to waiver of immunity and consent to surrender
+### Article 98---Cooperation with respect to waiver of immunity and consent to surrender
     
 *   1\. The Court may not proceed with a request for surrender or assistance which would require the requested State to act inconsistently with its obligations under international law with respect to the State or diplomatic immunity of a person or property of a third State, unless the Court can first obtain the cooperation of that third State for the waiver of the immunity.
 
 *   2\. The Court may not proceed with a request for surrender which would require the requested State to act inconsistently with its obligations under international agreements pursuant to which the consent of a sending State is required to surrender a person of that State to the Court, unless the Court can first obtain the cooperation of the sending State for the giving of consent for the surrender.
 
-### Article 99 Execution of requests under articles 93 and 96
+### Article 99---Execution of requests under articles 93 and 96
     
 *   1\. Requests for assistance shall be executed in accordance with the relevant procedure under the law of the requested State and, unless prohibited by such law, in the manner specified in the request, including following any procedure outlined therein or permitting persons specified in the request to be present at and assist in the execution process.
 
@@ -6483,7 +6481,7 @@ Where a State Party receives a request under this Part in relation to which it i
 
 *   5\. Provisions allowing a person heard or examined by the Court under article 72 to invoke restrictions designed to prevent disclosure of confidential information connected with national security shall also apply to the execution of requests for assistance under this article.
 
-### Article 100 Costs
+### Article 100---Costs
     
 *   1\. The ordinary costs for execution of requests in the territory of the requested State shall be borne by that State, except for the following, which shall be borne by the Court:
         
@@ -6503,13 +6501,13 @@ Where a State Party receives a request under this Part in relation to which it i
 
 *   2\. The provisions of paragraph 1 shall, as appropriate, apply to requests from States Parties to the Court. In that case, the Court shall bear the ordinary costs of execution.
 
-### Article 101 Rule of speciality
+### Article 101---Rule of speciality
     
 *   1\. A person surrendered to the Court under this Statute shall not be proceeded against, punished or detained for any conduct committed prior to surrender, other than the conduct or course of conduct which forms the basis of the crimes for which that person has been surrendered.
 
 *   2\. The Court may request a waiver of the requirements of paragraph 1 from the State which surrendered the person to the Court and, if necessary, the Court shall provide additional information in accordance with article 91\. States Parties shall have the authority to provide a waiver to the Court and should endeavour to do so.
 
-### Article 102 Use of terms
+### Article 102---Use of terms
 
 For the purposes of this Statute:
     
@@ -6520,7 +6518,7 @@ For the purposes of this Statute:
 ## Part 10  
 Enforcement
 
-### Article 103 Role of States in enforcement of sentences of imprisonment
+### Article 103---Role of States in enforcement of sentences of imprisonment
 
 1\.(a)
 
@@ -6558,19 +6556,19 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   4\. If no State is designated under paragraph 1, the sentence of imprisonment shall be served in a prison facility made available by the host State, in accordance with the conditions set out in the headquarters agreement referred to in article 3, paragraph 2\. In such a case, the costs arising out of the enforcement of a sentence of imprisonment shall be borne by the Court.
 
-### Article 104 Change in designation of State of enforcement
+### Article 104---Change in designation of State of enforcement
     
 *   1\. The Court may, at any time, decide to transfer a sentenced person to a prison of another State.
 
 *   2\. A sentenced person may, at any time, apply to the Court to be transferred from the State of enforcement.
 
-### Article 105 Enforcement of the sentence
+### Article 105---Enforcement of the sentence
     
 *   1\. Subject to conditions which a State may have specified in accordance with article 103, paragraph 1 (b), the sentence of imprisonment shall be binding on the States Parties, which shall in no case modify it.
 
 *   2\. The Court alone shall have the right to decide any application for appeal and revision. The State of enforcement shall not impede the making of any such application by a sentenced person.
 
-### Article 106 Supervision of enforcement of sentences and conditions of imprisonment
+### Article 106---Supervision of enforcement of sentences and conditions of imprisonment
     
 *   1\. The enforcement of a sentence of imprisonment shall be subject to the supervision of the Court and shall be consistent with widely accepted international treaty standards governing treatment of prisoners.
 
@@ -6578,7 +6576,7 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   3\. Communications between a sentenced person and the Court shall be unimpeded and confidential.
 
-### Article 107 Transfer of the person upon completion of sentence
+### Article 107---Transfer of the person upon completion of sentence
     
 *   1\. Following completion of the sentence, a person who is not a national of the State of enforcement may, in accordance with the law of the State of enforcement, be transferred to a State which is obliged to receive him or her, or to another State which agrees to receive him or her, taking into account any wishes of the person to be transferred to that State, unless the State of enforcement authorizes the person to remain in its territory.
 
@@ -6586,7 +6584,7 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   3\. Subject to the provisions of article 108 the State of enforcement may also, in accordance with its national law, extradite or otherwise surrender the person to a State which has requested the extradition or surrender of the person for purposes of trial or enforcement of a sentence.
 
-### Article 108 Limitation on the prosecution or punishment of other offences
+### Article 108---Limitation on the prosecution or punishment of other offences
     
 *   1\. A sentenced person in the custody of the State of enforcement shall not be subject to prosecution or punishment or to extradition to a third State for any conduct engaged in prior to that person's delivery to the State of enforcement, unless such prosecution, punishment or extradition has been approved by the Court at the request of the State of enforcement.
 
@@ -6594,7 +6592,7 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   3\. Paragraph 1 shall cease to apply if the sentenced person remains voluntarily for more than 30 days in the territory of the State of enforcement after having served the full sentence imposed by the Court, or returns to the territory of that State after having left it.
 
-### Article 109 Enforcement of fines and forfeiture measures
+### Article 109---Enforcement of fines and forfeiture measures
     
 *   1\. States Parties shall give effect to fines or forfeitures ordered by the Court under Part 7, without prejudice to the rights of bona fide third parties, and in accordance with the procedure of their national law.
 
@@ -6602,7 +6600,7 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   3\. Property, or the proceeds of the sale of real property or, where appropriate, the sale of other property, which is obtained by a State Party as a result of its enforcement of a judgement of the Court shall be transferred to the Court.
 
-### Article 110 Review by the Court concerning reduction of sentence
+### Article 110---Review by the Court concerning reduction of sentence
     
 *   1\. The State of enforcement shall not release the person before expiry of the sentence pronounced by the Court.
 
@@ -6622,14 +6620,14 @@ Where the Court cannot agree to the circumstances referred to in subparagraph (a
 
 *   5\. If the Court determines in its initial review under paragraph 3 that it is not appropriate to reduce the sentence, it shall thereafter review the question of reduction of sentence at such intervals and applying such criteria as provided for in the Rules of Procedure and Evidence.
 
-### Article 111 Escape
+### Article 111---Escape
 
 If a convicted person escapes from custody and flees the State of enforcement, that State may, after consultation with the Court, request the person's surrender from the State in which the person is located pursuant to existing bilateral or multilateral arrangements, or may request that the Court seek the person's surrender, in accordance with Part 9\. It may direct that the person be delivered to the State in which he or she was serving the sentence or to another State designated by the Court.
 
 ## Part 11  
 Assembly of States Parties
 
-### Article 112 Assembly of States Parties
+### Article 112---Assembly of States Parties
     
 *   1\. An Assembly of States Parties to this Statute is hereby established. Each State Party shall have one representative in the Assembly who may be accompanied by alternates and advisers. Other States which have signed this Statute or the Final Act may be observers in the Assembly.
 
@@ -6686,15 +6684,15 @@ The Bureau shall meet as often as necessary, but at least once a year. It shall 
 ## Part 12  
 Financing
 
-### Article 113 Financial Regulations
+### Article 113---Financial Regulations
 
 Except as otherwise specifically provided, all financial matters related to the Court and the meetings of the Assembly of States Parties, including its Bureau and subsidiary bodies, shall be governed by this Statute and the Financial Regulations and Rules adopted by the Assembly of States Parties.
 
-### Article 114 Payment of expenses
+### Article 114---Payment of expenses
 
 Expenses of the Court and the Assembly of States Parties, including its Bureau and subsidiary bodies, shall be paid from the funds of the Court.
 
-### Article 115 Funds of the Court and of the Assembly of States Parties
+### Article 115---Funds of the Court and of the Assembly of States Parties
 
 The expenses of the Court and the Assembly of States Parties, including its Bureau and subsidiary bodies, as provided for in the budget decided by the Assembly of States Parties, shall be provided by the following sources:
     
@@ -6702,32 +6700,32 @@ The expenses of the Court and the Assembly of States Parties, including its Bure
 
 *   (b) Funds provided by the United Nations, subject to the approval of the General Assembly, in particular in relation to the expenses incurred due to referrals by the Security Council.
 
-### Article 116 Voluntary contributions
+### Article 116---Voluntary contributions
 
 Without prejudice to article 115, the Court may receive and utilize, as additional funds, voluntary contributions from Governments, international organizations, individuals, corporations and other entities, in accordance with relevant criteria adopted by the Assembly of States Parties.
 
-### Article 117 Assessment of contributions
+### Article 117---Assessment of contributions
 
 The contributions of States Parties shall be assessed in accordance with an agreed scale of assessment, based on the scale adopted by the United Nations for its regular budget and adjusted in accordance with the principles on which that scale is based.
 
-### Article 118 Annual audit
+### Article 118---Annual audit
 
 The records, books and accounts of the Court, including its annual financial statements, shall be audited annually by an independent auditor.
 
 ## Part 13  
 Final clauses
 
-### Article 119 Settlement of disputes
+### Article 119---Settlement of disputes
     
 *   1\. Any dispute concerning the judicial functions of the Court shall be settled by the decision of the Court.
 
 *   2\. Any other dispute between two or more States Parties relating to the interpretation or application of this Statute which is not settled through negotiations within three months of their commencement shall be referred to the Assembly of States Parties. The Assembly may itself seek to settle the dispute or may make recommendations on further means of settlement of the dispute, including referral to the International Court of Justice in conformity with the Statute of that Court.
 
-### Article 120 Reservations
+### Article 120---Reservations
 
 No reservations may be made to this Statute.
 
-### Article 121 Amendments
+### Article 121---Amendments
     
 *   1\. After the expiry of seven years from the entry into force of this Statute, any State Party may propose amendments thereto. The text of any proposed amendment shall be submitted to the Secretary-General of the United Nations, who shall promptly circulate it to all States Parties.
 
@@ -6743,13 +6741,13 @@ No reservations may be made to this Statute.
 
 *   7\. The Secretary-General of the United Nations shall circulate to all States Parties any amendment adopted at a meeting of the Assembly of States Parties or at a Review Conference.
 
-### Article 122 Amendments to provisions of an institutional nature
+### Article 122---Amendments to provisions of an institutional nature
     
 *   1\. Amendments to provisions of this Statute which are of an exclusively institutional nature, namely, article 35, article 36, paragraphs 8 and 9, article 37, article 38, article 39, paragraphs 1 (first two sentences), 2 and 4, article 42, paragraphs 4 to 9, article 43, paragraphs 2 and 3, and articles 44, 46, 47 and 49, may be proposed at any time, notwithstanding article 121, paragraph 1, by any State Party. The text of any proposed amendment shall be submitted to the Secretary-General of the United Nations or such other person designated by the Assembly of States Parties who shall promptly circulate it to all States Parties and to others participating in the Assembly.
 
 *   2\. Amendments under this article on which consensus cannot be reached shall be adopted by the Assembly of States Parties or by a Review Conference, by a two-thirds majority of States Parties. Such amendments shall enter into force for all States Parties six months after their adoption by the Assembly or, as the case may be, by the Conference.
 
-### Article 123 Review of the Statute
+### Article 123---Review of the Statute
     
 *   1\. Seven years after the entry into force of this Statute the Secretary-General of the United Nations shall convene a Review Conference to consider any amendments to this Statute. Such review may include, but is not limited to, the list of crimes contained in article 5\. The Conference shall be open to those participating in the Assembly of States Parties and on the same conditions.
 
@@ -6757,11 +6755,11 @@ No reservations may be made to this Statute.
 
 *   3\. The provisions of article 121, paragraphs 3 to 7, shall apply to the adoption and entry into force of any amendment to the Statute considered at a Review Conference.
 
-### Article 124 Transitional Provision
+### Article 124---Transitional Provision
 
 Notwithstanding article 12, paragraphs 1 and 2, a State, on becoming a party to this Statute, may declare that, for a period of seven years after the entry into force of this Statute for the State concerned, it does not accept the jurisdiction of the Court with respect to the category of crimes referred to in article 8 when a crime is alleged to have been committed by its nationals or on its territory. A declaration under this article may be withdrawn at any time. The provisions of this article shall be reviewed at the Review Conference convened in accordance with article 123, paragraph 1\.
 
-### Article 125 Signature, ratification, acceptance, approval or accession
+### Article 125---Signature, ratification, acceptance, approval or accession
     
 *   1\. This Statute shall be open for signature by all States in Rome, at the headquarters of the Food and Agriculture Organization of the United Nations, on 17 July 1998\. Thereafter, it shall remain open for signature in Rome at the Ministry of Foreign Affairs of Italy until 17 October 1998\. After that date, the Statute shall remain open for signature in New York, at United Nations Headquarters, until 31 December 2000\.
 
@@ -6769,95 +6767,25 @@ Notwithstanding article 12, paragraphs 1 and 2, a State, on becoming a party to 
 
 *   3\. This Statute shall be open to accession by all States. Instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
-### Article 126 Entry into force
+### Article 126---Entry into force
     
 *   1\. This Statute shall enter into force on the first day of the month after the 60th day following the date of the deposit of the 60th instrument of ratification, acceptance, approval or accession with the Secretary-General of the United Nations.
 
 *   2\. For each State ratifying, accepting, approving or acceding to this Statute after the deposit of the 60th instrument of ratification, acceptance, approval or accession, the Statute shall enter into force on the first day of the month after the 60th day following the deposit by such State of its instrument of ratification, acceptance, approval or accession.
 
-### Article 127 Withdrawal
+### Article 127---Withdrawal
     
 *   1\. A State Party may, by written notification addressed to the Secretary-General of the United Nations, withdraw from this Statute. The withdrawal shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
 
 *   2\. A State shall not be discharged, by reason of its withdrawal, from the obligations arising from this Statute while it was a Party to the Statute, including any financial obligations which may have accrued. Its withdrawal shall not affect any cooperation with the Court in connection with criminal investigations and proceedings in relation to which the withdrawing State had a duty to cooperate and which were commenced prior to the date on which the withdrawal became effective, nor shall it prejudice in any way the continued consideration of any matter which was already under consideration by the Court prior to the date on which the withdrawal became effective.
 
-### Article 128 Authentic texts
+### Article 128---Authentic texts
 
 The original of this Statute, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the Secretary-General of the United Nations, who shall send certified copies thereof to all States.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their respective Governments, have signed this Statute.
 
 DONE at Rome, this 17th day of July 1998\.
-
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][582].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][583] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
 
 ---
 
@@ -6875,23 +6803,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the International Crimes and International Criminal Court Act 2000\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the International Crimes and International Criminal Court Act 2000\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][584] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][567] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][585] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][568] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][586] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][569] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][587] and [17E][588] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][570] and [17E][571] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -6922,23 +6850,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 266][351]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 266][336]
     
-    Immigration Act 2009 (2009 No 51): [section 406(1)][420]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][257]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 197--201][256]
+    Immigration Act 2009 (2009 No 51): [section 406(1)][405]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (b)][350], [130(1)][276]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 197--201][255]
     
-    Summary Proceedings Amendment Act (No 2) 2008 (2008 No 41): [section 18][308]
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii), (b)][335], [130(1)][276]
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][259]
     
-    Corrections Act 2004 (2004 No 50): [sections 206][257], [208(1)][439]
+    Corrections Act 2004 (2004 No 50): [sections 206][256], [208(1)][424]
     
-    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][307]
+    Criminal Procedure (Mentally Impaired Persons) Act 2003 (2003 No 115): [section 51][311]
     
-    [International Crimes and International Criminal Court Amendment Act 2002][589] (2002 No 67)
+    [International Crimes and International Criminal Court Amendment Act 2002][572] (2002 No 67)
     
     [International Crimes and International Criminal Court Act Commencement Order 2002][249] (SR 2002/131)
     
@@ -6946,7 +6874,7 @@ Amendments, repeals, and miscellaneous provisions
     
     Sentencing Act 2002 (2002 No 9): [section 186][260]
     
-    Legal Services Act 2000 (2000 No 42): [section 126(1)][363]
+    Legal Services Act 2000 (2000 No 42): [section 126(1)][348]
 
 
 
@@ -7202,12 +7130,12 @@ Amendments, repeals, and miscellaneous provisions
 [249]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM126722
 [250]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM294857
 [251]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451012
-[252]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM76615
-[253]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM137638
-[254]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM136401
-[255]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM135350
-[256]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451438
-[257]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM297136
+[252]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM137638
+[253]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM136401
+[254]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM135350
+[255]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451438
+[256]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM297136
+[257]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360714
 [258]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM140118
 [259]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM411004
 [260]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM137267
@@ -7237,306 +7165,289 @@ Amendments, repeals, and miscellaneous provisions
 [284]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26216
 [285]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26218
 [286]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26225
-[287]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68947
-[288]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68989
-[289]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169017
-[290]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26284
-[291]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311185
-[292]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM314068
-[293]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM314078
-[294]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM314081
+[287]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68944
+[288]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169017
+[289]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26284
+[290]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360170
+[291]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360190
+[292]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360198
+[293]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360580
+[294]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360596
 [295]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68901
 [296]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68906
 [297]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68930
 [298]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68938
 [299]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM224509
-[300]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311140
-[301]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311662
-[302]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2185875
-[303]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68993
-[304]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68995
-[305]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26277
-[306]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169018
-[307]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM224534
-[308]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1380050
-[309]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26702
-[310]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26286
-[311]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26241
-[312]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26287
-[313]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26299
-[314]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26251
-[315]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26253
-[316]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26255
-[317]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26744
-[318]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM25627
-[319]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26795
-[320]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26747
-[321]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312656
-[322]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312658
-[323]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312661
-[324]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312662
-[325]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312663
-[326]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312664
-[327]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312666
-[328]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312919
-[329]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312951
-[330]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312952
-[331]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312959
-[332]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312961
-[333]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312962
-[334]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM312974
-[335]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM313119
-[336]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM313122
-[337]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68983
-[338]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26748
-[339]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169020
-[340]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26755
-[341]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26756
-[342]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26757
-[343]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26758
-[344]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26258
-[345]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26259
-[346]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26262
-[347]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26264
-[348]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM4134133
-[349]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26769
-[350]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1102349
-[351]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2137009
-[352]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26777
-[353]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26733
-[354]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26248
-[355]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365084
-[356]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365085
-[357]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365086
-[358]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365089
-[359]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365090
-[360]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274419
-[361]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365092
-[362]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM71806
-[363]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM73103
-[364]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365912
-[365]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365096
-[366]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365097
-[367]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM329014
-[368]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM294848
-[369]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM139345
-[370]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365906
-[371]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM139346
-[372]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274456
-[373]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136542
-[374]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136781
-[375]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136771
-[376]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136877
-[377]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136888
-[378]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136896
-[379]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136874
-[380]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136875
-[381]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365929
-[382]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136839
-[383]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26775
-[384]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136867
-[385]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136866
-[386]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365942
-[387]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274417
-[388]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451289
-[389]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451292
-[390]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=BILL-SCDRAFT-7242
-[391]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451298
-[392]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274481
-[393]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451443
-[394]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM273056
-[395]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM135596
-[396]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM332179
-[397]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM154780
-[398]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM136879
-[399]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311863
-[400]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274473
-[401]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451444
-[402]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365921
-[403]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451170
-[404]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451445
-[405]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM251079
-[406]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274478
-[407]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365925
-[408]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365926
-[409]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451448
-[410]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274453
-[411]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26779
-[412]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26782
-[413]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM295478
-[414]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM137631
-[415]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM25650
-[416]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26731
-[417]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1440673
-[418]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1440300
-[419]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26783
-[420]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1441347
-[421]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26784
-[422]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26786
-[423]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26788
-[424]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365914
-[425]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365915
-[426]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365916
-[427]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM408335
-[428]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365917
-[429]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM329019
-[430]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311316
-[431]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274059
-[432]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274048
-[433]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274049
-[434]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274046
-[435]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365946
-[436]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365948
-[437]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM328509
-[438]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM388058
-[439]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM297138
-[440]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM250676
-[441]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65555
-[442]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762965
-[443]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762966
-[444]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762967
-[445]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762968
-[446]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65560
-[447]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796200
-[448]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796201
-[449]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796202
-[450]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796203
-[451]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796204
-[452]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796205
-[453]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796206
-[454]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796207
-[455]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796208
-[456]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796209
-[457]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796210
-[458]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796211
-[459]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796212
-[460]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796213
-[461]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796214
-[462]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796215
-[463]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796216
-[464]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65578
-[465]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796217
-[466]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796218
-[467]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796219
-[468]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796220
-[469]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796221
-[470]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796222
-[471]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796223
-[472]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796224
-[473]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796225
-[474]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796226
-[475]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796227
-[476]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796228
-[477]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65591
-[478]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796229
-[479]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796230
-[480]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796231
-[481]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796233
-[482]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796234
-[483]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796235
-[484]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796237
-[485]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796238
-[486]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796240
-[487]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796241
-[488]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796242
-[489]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796243
-[490]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796244
-[491]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796245
-[492]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796246
-[493]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796247
-[494]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796248
-[495]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796249
-[496]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796250
-[497]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66011
-[498]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796251
-[499]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796253
-[500]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796254
-[501]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796255
-[502]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796257
-[503]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796259
-[504]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796260
-[505]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796261
-[506]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796262
-[507]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66021
-[508]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796263
-[509]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796264
-[510]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796265
-[511]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796267
-[512]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796268
-[513]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796269
-[514]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796270
-[515]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796271
-[516]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796272
-[517]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796274
-[518]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796275
-[519]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796276
-[520]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796277
-[521]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796278
-[522]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796279
-[523]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66037
-[524]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796280
-[525]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796281
-[526]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796282
-[527]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796283
-[528]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66042
-[529]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796284
-[530]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796286
-[531]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796287
-[532]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796288
-[533]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796289
-[534]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66048
-[535]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796290
-[536]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796291
-[537]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796293
-[538]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796294
-[539]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796296
-[540]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796297
-[541]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796298
-[542]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796299
-[543]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796301
-[544]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796302
-[545]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796303
-[546]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796304
-[547]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796305
-[548]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796306
-[549]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796307
-[550]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796308
-[551]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796309
-[552]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66066
-[553]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796310
-[554]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796312
-[555]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796313
-[556]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796314
-[557]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796315
-[558]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796316
-[559]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796317
-[560]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796318
-[561]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796319
-[562]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66076
-[563]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796320
-[564]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66078
-[565]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796322
-[566]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796323
-[567]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796324
-[568]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796325
-[569]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796326
-[570]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796327
-[571]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66085
-[572]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796328
-[573]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796329
-[574]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796330
-[575]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796331
-[576]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796332
-[577]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796333
-[578]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796334
-[579]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796335
-[580]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796336
-[581]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796337
-[582]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136500
-[583]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM4686448
-[584]: http://www.pco.parliament.govt.nz/reprints/
-[585]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195439
-[586]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[587]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195468
-[588]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195470
-[589]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169011
+[300]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360560
+[301]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360288
+[302]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360289
+[303]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68940
+[304]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68957
+[305]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68959
+[306]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68977
+[307]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68979
+[308]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM68993
+[309]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26277
+[310]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169018
+[311]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM224534
+[312]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26702
+[313]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26286
+[314]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26241
+[315]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26287
+[316]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26299
+[317]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26251
+[318]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26253
+[319]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26255
+[320]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26744
+[321]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM25627
+[322]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26795
+[323]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM69603
+[324]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM3360482
+[325]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26755
+[326]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26756
+[327]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26757
+[328]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26758
+[329]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26258
+[330]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26259
+[331]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26262
+[332]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26264
+[333]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM4134133
+[334]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26769
+[335]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1102349
+[336]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2137009
+[337]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26777
+[338]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26733
+[339]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26248
+[340]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365084
+[341]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365085
+[342]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365086
+[343]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365089
+[344]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365090
+[345]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274419
+[346]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365092
+[347]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM71806
+[348]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM73103
+[349]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365912
+[350]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365096
+[351]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365097
+[352]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM329014
+[353]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM294848
+[354]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM139345
+[355]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365906
+[356]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM139346
+[357]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274456
+[358]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136542
+[359]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136781
+[360]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136771
+[361]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136877
+[362]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136888
+[363]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136896
+[364]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136874
+[365]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136875
+[366]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365929
+[367]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136839
+[368]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26775
+[369]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136867
+[370]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM2136866
+[371]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365942
+[372]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274417
+[373]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451289
+[374]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451292
+[375]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=BILL-SCDRAFT-7242
+[376]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451298
+[377]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274481
+[378]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451443
+[379]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM273056
+[380]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM135596
+[381]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM332179
+[382]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM154780
+[383]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM136879
+[384]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311863
+[385]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274473
+[386]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451444
+[387]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365921
+[388]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451170
+[389]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451445
+[390]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM251079
+[391]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274478
+[392]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365925
+[393]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365926
+[394]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1451448
+[395]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274453
+[396]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26779
+[397]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26782
+[398]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM295478
+[399]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM137631
+[400]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM25650
+[401]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26731
+[402]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1440673
+[403]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1440300
+[404]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26783
+[405]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM1441347
+[406]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26784
+[407]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26786
+[408]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM26788
+[409]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365914
+[410]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365915
+[411]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365916
+[412]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM408335
+[413]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365917
+[414]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM329019
+[415]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM311316
+[416]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274059
+[417]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274048
+[418]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274049
+[419]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM274046
+[420]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365946
+[421]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM365948
+[422]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM328509
+[423]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM388058
+[424]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM297138
+[425]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM250676
+[426]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65555
+[427]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762965
+[428]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762966
+[429]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762967
+[430]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2762968
+[431]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65560
+[432]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796200
+[433]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796201
+[434]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796202
+[435]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796203
+[436]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796204
+[437]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796205
+[438]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796206
+[439]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796207
+[440]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796208
+[441]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796209
+[442]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796210
+[443]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796211
+[444]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796212
+[445]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796213
+[446]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796214
+[447]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796215
+[448]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796216
+[449]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65578
+[450]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796217
+[451]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796218
+[452]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796219
+[453]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796220
+[454]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796221
+[455]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796222
+[456]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796223
+[457]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796224
+[458]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796225
+[459]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796226
+[460]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796227
+[461]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796228
+[462]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM65591
+[463]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796229
+[464]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796230
+[465]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796231
+[466]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796233
+[467]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796234
+[468]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796235
+[469]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796237
+[470]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796238
+[471]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796240
+[472]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796241
+[473]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796242
+[474]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796243
+[475]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796244
+[476]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796245
+[477]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796246
+[478]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796247
+[479]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796248
+[480]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796249
+[481]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796250
+[482]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66011
+[483]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796251
+[484]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796253
+[485]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796254
+[486]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796255
+[487]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796257
+[488]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796259
+[489]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796260
+[490]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796261
+[491]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796262
+[492]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66021
+[493]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796263
+[494]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796264
+[495]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796265
+[496]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796267
+[497]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796268
+[498]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796269
+[499]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796270
+[500]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796271
+[501]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796272
+[502]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796274
+[503]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796275
+[504]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796276
+[505]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796277
+[506]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796278
+[507]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796279
+[508]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66037
+[509]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796280
+[510]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796281
+[511]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796282
+[512]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796283
+[513]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66042
+[514]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796284
+[515]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796286
+[516]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796287
+[517]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796288
+[518]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796289
+[519]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66048
+[520]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796290
+[521]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796291
+[522]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796293
+[523]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796294
+[524]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796296
+[525]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796297
+[526]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796298
+[527]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796299
+[528]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796301
+[529]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796302
+[530]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796303
+[531]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796304
+[532]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796305
+[533]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796306
+[534]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796307
+[535]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796308
+[536]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796309
+[537]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66066
+[538]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796310
+[539]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796312
+[540]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796313
+[541]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796314
+[542]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796315
+[543]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796316
+[544]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796317
+[545]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796318
+[546]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796319
+[547]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66076
+[548]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796320
+[549]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66078
+[550]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796322
+[551]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796323
+[552]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796324
+[553]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796325
+[554]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796326
+[555]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796327
+[556]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM66085
+[557]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796328
+[558]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796329
+[559]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796330
+[560]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796331
+[561]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796332
+[562]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796333
+[563]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796334
+[564]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796335
+[565]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796336
+[566]: http://www.legislation.govt.nz/act/public/2000/0026/latest/whole.html#DLM2796337
+[567]: http://www.pco.parliament.govt.nz/reprints/
+[568]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195439
+[569]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[570]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195468
+[571]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM195470
+[572]: http://www.legislation.govt.nz/act/public/2000/0026/latest/link.aspx?id=DLM169011
