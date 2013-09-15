@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Social Development and the Department of Internal Affairs.
+This Act is administered by the Department of Internal Affairs.
 
 ---
 
@@ -213,6 +213,8 @@ This Act is administered by the Ministry of Social Development and the Departmen
 [Miscellaneous matters and amendments to other Acts][89]
 
 [Subpart 1][90][---][90][Miscellaneous matters relating to Commission][90]
+
+\[Repealed\]
 
 [Reporting obligations][91]
 
@@ -668,7 +670,7 @@ Charitable entities
     
     (2) For the purposes of subsection (1), the Board may act on the basis of any assumptions concerning the future derivation of income for charitable purposes that, in the opinion of the Board, are reasonable in the circumstances of the case.
     
-    ###### **Example**
+    ###### Example
     
     A charitable trust has recently been created.
     
@@ -1064,7 +1066,7 @@ Charitable entities
     
     *   (b) information or documents that would have been contained in the register but for the exercise of a power under [section 25][37] to omit or remove that information or those documents from the register.
     
-    ###### **Example**
+    ###### Example
     
     A society has become registered as a charitable entity.
     
@@ -1242,9 +1244,13 @@ Charitable entities
 
 ##### 38 Offence to contravene section 37
     
-*   (1) Every person who acts in contravention of [section 37(1)][54] or section 37(3) commits an offence and is liable on summary conviction to a fine not exceeding $30,000\.
+*   (1) Every person who acts in contravention of [section 37(1)][54] or section 37(3) commits an offence and is liable on conviction to a fine not exceeding $30,000\.
     
-    (2) Proceedings for an offence against subsection (1) may be commenced within 2 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+    (2) Despite anything to the contrary in [section 25][155] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 2 years after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+    
+    Section 38(1): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 38(2): replaced, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Duty of telephone and Internet collectors
 
@@ -1294,15 +1300,15 @@ Charitable entities
     
     Section 40(1): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 40(1)(ca): inserted, on 25 February 2012, by [section 9(1)][155] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 40(1)(ca): inserted, on 25 February 2012, by [section 9(1)][157] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 40(2)(a): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 40(2)(a): amended, on 25 February 2012, by [section 9(2)][155] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 40(2)(a): amended, on 25 February 2012, by [section 9(2)][157] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 40(2)(b): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 40(2)(b): amended, on 25 February 2012, by [section 9(3)][155] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 40(2)(b): amended, on 25 February 2012, by [section 9(3)][157] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 40(2)(d): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
 
@@ -1354,7 +1360,7 @@ Charitable entities
     
     Section 41(2): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 41(2): amended, on 25 February 2012, by [section 10][156] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 41(2): amended, on 25 February 2012, by [section 10][158] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 41(5)(a): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
@@ -1378,17 +1384,17 @@ Charitable entities
     
     Section 42 heading: amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 42 heading: amended, on 25 February 2012, by [section 11(1)][157] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 42 heading: amended, on 25 February 2012, by [section 11(1)][159] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 42(1): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 42(1): amended, on 25 February 2012, by [section 11(2)][157] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 42(1): amended, on 25 February 2012, by [section 11(2)][159] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 42(2): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 42(2): amended, on 25 February 2012, by [section 11(3)][157] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 42(2): amended, on 25 February 2012, by [section 11(3)][159] of the Charities Amendment Act 2012 (2012 No 4).
     
-    Section 42(3): inserted, on 25 February 2012, by [section 11(4)][157] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 42(3): inserted, on 25 February 2012, by [section 11(4)][159] of the Charities Amendment Act 2012 (2012 No 4).
 
 #### Exemptions
 
@@ -1408,7 +1414,7 @@ Charitable entities
     
     (4) The chief executive may, by written notice to an entity, revoke an exemption granted under this section.
     
-    (5) An exemption under this section is not a regulation within the meaning of the [Regulations (Disallowance) Act 1989][158].
+    (5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][160] and does not have to be presented to the House of Representatives under [section 41][161] of that Act.
     
     Section 43 heading: amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
@@ -1419,6 +1425,8 @@ Charitable entities
     Section 43(3): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
     Section 43(4): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
+    
+    Section 43(5): replaced, on 5 August 2013, by [section 77(3)][162] of the Legislation Act 2012 (2012 No 119).
 
 #### Board or chief executive may treat entity and affiliated or closely related entities as single entity
     
@@ -1446,7 +1454,7 @@ Charitable entities
     
     Section 44(3): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 44(3): amended, on 25 February 2012, by [section 12][159] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 44(3): amended, on 25 February 2012, by [section 12][163] of the Charities Amendment Act 2012 (2012 No 4).
 
 ##### 45 Parent entity may request means of compliance with duties
     
@@ -1474,7 +1482,7 @@ Charitable entities
     
     Section 45(2): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 45(2): amended, on 25 February 2012, by [section 13][160] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 45(2): amended, on 25 February 2012, by [section 13][164] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 45(3): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
 
@@ -1660,9 +1668,13 @@ Charitable entities
     
     *   (b) in purported compliance with a notice under section 51, supply information, or supply a document, knowing it to be false or misleading.
     
-    (2) Any person who breaches subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Any person who breaches subsection (1) commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    (3) Proceedings for an offence against subsection (2) may be commenced within 6 months after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+    (3) Despite anything to the contrary in [section 25][155] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (2) ends on the date that is 6 months after the date on which the matter giving rise to the contravention was discovered or ought reasonably to have been discovered.
+    
+    Section 52(2): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 52(3): replaced, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 53 Chief executive may supply inquiry information or documents
     
@@ -1956,6 +1968,8 @@ Charitable entities
 Miscellaneous matters and amendments to other Acts
 
 ### Subpart 1---Miscellaneous matters relating to Commission
+
+\[Repealed\]
     
 *   Subpart 1: repealed, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
 
@@ -1987,29 +2001,29 @@ Miscellaneous matters and amendments to other Acts
 
 ##### 64 Income Tax Act 2004 called principal Act in this subpart
     
-*   In this subpart, the [Income Tax Act 2004][161] is called ""the principal Act"".
+*   In this subpart, the [Income Tax Act 2004][165] is called ""the principal Act"".
 
 ##### 65 Charities: non-business income
     
-*   _Amendment(s) incorporated in the [Act(s)][162]_.
+*   _Amendment(s) incorporated in the [Act(s)][166]_.
 
 ##### 66 Charities: business income
     
-*   _Amendment(s) incorporated in the [Act(s)][163]_.
+*   _Amendment(s) incorporated in the [Act(s)][167]_.
 
 ##### 67 Charitable bequests
     
-*   _Amendment(s) incorporated in the [Act(s)][164]_.
+*   _Amendment(s) incorporated in the [Act(s)][168]_.
 
 ##### 68 Definitions
     
-*   _Amendment(s) incorporated in the [Act(s)][165]_.
+*   _Amendment(s) incorporated in the [Act(s)][169]_.
 
 ### Subpart 3---Amendments to Tax Administration Act 1994
 
 ##### 69 Tax Administration Act 1994 called principal Act in this subpart
     
-*   In this subpart, the [Tax Administration Act 1994][166] is called ""the principal Act"".
+*   In this subpart, the [Tax Administration Act 1994][170] is called ""the principal Act"".
 
 ##### 70 Interpretation
     
@@ -2017,7 +2031,7 @@ Miscellaneous matters and amendments to other Acts
 
 ##### 71 Officers to maintain secrecy
     
-*   _Amendment(s) incorporated in the [Act(s)][167]_.
+*   _Amendment(s) incorporated in the [Act(s)][171]_.
 
 ### Subpart 4---Amendment to Estate and Gift Duties Act 1968
 
@@ -2047,7 +2061,7 @@ Miscellaneous matters and amendments to other Acts
     
     (3) However, a form prescribed under this section may require information or documents to be included in or attached to the form for the purpose of assisting any person---
         
-    *   (a) in the exercise of the person's powers in connection with [subpart LD][168] of the Income Tax Act 2007; or
+    *   (a) in the exercise of the person's powers in connection with [subpart LD][172] of the Income Tax Act 2007; or
     
     *   (b) in the performance of the person's functions in connection with that subpart.
     
@@ -2063,7 +2077,7 @@ Miscellaneous matters and amendments to other Acts
     
     (7) A failure to comply with subsection (6) does not affect the validity of the prescribed form or requirement.
     
-    Section 72A: inserted, on 25 February 2012, by [section 14][169] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 72A: inserted, on 25 February 2012, by [section 14][173] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 72A heading: amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
@@ -2109,39 +2123,45 @@ Miscellaneous matters and amendments to other Acts
     
     (5) Any fee or amount payable to the Board or the chief executive is recoverable by the Board or the chief executive in any court of competent jurisdiction as a debt due to the Board or the chief executive.
     
-    Section 73(1)(a): repealed, on 25 February 2012, by [section 15(1)][170] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 73(1)(a): repealed, on 25 February 2012, by [section 15(1)][174] of the Charities Amendment Act 2012 (2012 No 4).
     
-    Section 73(1)(b): repealed, on 25 February 2012, by [section 15(1)][170] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 73(1)(b): repealed, on 25 February 2012, by [section 15(1)][174] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 73(1)(c): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
     Section 73(1)(d): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 73(2): repealed, on 25 February 2012, by [section 15(2)][170] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 73(2): repealed, on 25 February 2012, by [section 15(2)][174] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 73(3): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 73(3): amended, on 25 February 2012, by [section 15(3)][170] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 73(3): amended, on 25 February 2012, by [section 15(3)][174] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 73(4): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
-    Section 73(4): amended, on 25 February 2012, by [section 15(4)][170] of the Charities Amendment Act 2012 (2012 No 4).
+    Section 73(4): amended, on 25 February 2012, by [section 15(4)][174] of the Charities Amendment Act 2012 (2012 No 4).
     
     Section 73(5): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
 
 ##### 74 Prosecution of offences
     
-*   (1) An information in respect of an offence against this Act must be laid by the chief executive or a person authorised by the chief executive (the _authorised person_).
+*   (1) Proceedings in respect of an offence against this Act must be commenced by the chief executive or a person authorised by the chief executive (the _authorised person_).
     
-    (2) Before an information in respect of an offence against this Act is laid against a person, the chief executive or the authorised person must lay the facts of the case, so far as the chief executive or the authorised person is acquainted with them, before a Crown Solicitor.
+    (2) Before a charging document in respect of an offence against this Act is filed against a person, the chief executive or the authorised person must lay the facts of the case, so far as the chief executive or the authorised person is acquainted with them, before a Crown Solicitor.
     
-    (3) The chief executive or the authorised person may lay an information against a person only if a Crown Solicitor certifies that there are reasonable grounds for a prosecution.
+    (3) The chief executive or the authorised person may file a charging document against a person only if a Crown Solicitor certifies that there are reasonable grounds for a prosecution.
     
     (4) No action may be taken against the chief executive or the authorised person for malicious prosecution in relation to a prosecution under this Act if a Crown Solicitor certified that there were reasonable grounds for bringing the prosecution.
     
+    Section 74(1): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 74(1): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
+    Section 74(2): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 74(2): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
+    
+    Section 74(3): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 74(3): amended, on 1 July 2012, by [section 16(1)][136] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
     
@@ -2174,15 +2194,15 @@ Amendments to other Acts
 
 ##### Crown Entities Act 2004 (2004 No 115)
 
-_Amendment(s) incorporated in the [Act(s)][171]_.
+_Amendment(s) incorporated in the [Act(s)][175]_.
 
 ##### Incorporated Societies Act 1908 (1908 No 212)
 
-_Amendment(s) incorporated in the [Act(s)][172]_.
+_Amendment(s) incorporated in the [Act(s)][176]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][173]_.
+_Amendment(s) incorporated in the [Act(s)][177]_.
 
 ---
 
@@ -2191,7 +2211,7 @@ Provisions relating to Board, chairperson, and members
 
 [s 8][11]
 
-*   Schedule 2: inserted, on 1 July 2012, by [section 8][174] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
+*   Schedule 2: inserted, on 1 July 2012, by [section 8][178] of the Charities Amendment Act (No 2) 2012 (2012 No 43).
 
 #### Appointments in general
 
@@ -2199,7 +2219,7 @@ Provisions relating to Board, chairperson, and members
     
 *   (1) The Minister appoints or reappoints a member of the Board, and a chairperson of the Board, by giving written notice to the member concerned.
     
-    (2) A notice under subclause (1) must--- 
+    (2) A notice under subclause (1) must---
         
     *   (a) state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
     
@@ -2215,7 +2235,7 @@ Provisions relating to Board, chairperson, and members
 
 ##### 3 Validity of members' acts
     
-*   The acts of a person as a member or chairperson of the Board are valid even though--- 
+*   The acts of a person as a member or chairperson of the Board are valid even though---
         
     *   (a) a defect existed in the appointment of the person; or
     
@@ -2237,19 +2257,19 @@ Provisions relating to Board, chairperson, and members
     
     (3) A member continues in office despite the expiry of his or her term of office until---
         
-    *   (a) the member is reappointed; or 
+    *   (a) the member is reappointed; or
     
     *   (b) the member's successor is appointed; or
     
-    *   (c) the Minister informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed at that time. 
+    *   (c) the Minister informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed at that time.
     
-    (4) This clause is subject to [clauses 6][175] and [7][176].
+    (4) This clause is subject to [clauses 6][179] and [7][180].
 
 ##### 6 Removal of members
     
 *   (1) The Minister may at any time, after consultation with the person concerned, remove a member of the Board from office.
     
-    (2) The removal must be made by written notice to the member (with a copy to the Board). 
+    (2) The removal must be made by written notice to the member (with a copy to the Board).
     
     (3) The notice must state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received.
     
@@ -2261,7 +2281,7 @@ Provisions relating to Board, chairperson, and members
     
 *   (1) A member of the Board may resign from office by written notice to the Minister (with a copy to the Board) signed by the member.
     
-    (2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice. 
+    (2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
     
     (3) The Minister must notify the resignation in the _Gazette_ as soon as practicable after receiving the notice.
 
@@ -2309,19 +2329,19 @@ Provisions relating to Board, chairperson, and members
     
 *   (1) The Board may regulate its own procedure.
     
-    (2) This clause is subject to [clauses 13 to 15][177].
+    (2) This clause is subject to [clauses 13 to 15][181].
 
 ##### 13 Meetings
     
 *   (1) The Board or its chairperson must appoint the times and places of meetings of the Board, and give notice of those meetings to each member not present when the appointment is made.
     
-    (2) The chairperson must preside at a meeting if the chairperson is present and not interested (as defined in [clause 21(5)][178]) in the matter. 
+    (2) The chairperson must preside at a meeting if the chairperson is present and not interested (as defined in [clause 21(5)][182]) in the matter.
     
     (3) If the chairperson is not present, or is interested in the matter, the Board must appoint one of its members to preside.
     
     (4) No business may be transacted at a meeting of the Board if a quorum is not present.
     
-    (5) For the purposes of subclause (4) and [clause 14][179], _quorum_ means a majority of the members.
+    (5) For the purposes of subclause (4) and [clause 14][183], _quorum_ means a majority of the members.
     
     (6) Each member has 1 vote and, in addition to his or her general vote, the chairperson has a casting vote in the case of an equality of votes.
     
@@ -2335,7 +2355,7 @@ Provisions relating to Board, chairperson, and members
     
     *   (b) by means of audio, audio and visual, or electronic communication provided that---
             
-        *   (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and 
+        *   (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
         
         *   (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
         
@@ -2377,13 +2397,13 @@ Provisions relating to Board, chairperson, and members
 
 ##### 20 Duty not to disclose information
     
-*   (1) A member who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose that information to any person, or make use of, or act on, that information, except--- 
+*   (1) A member who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose that information to any person, or make use of, or act on, that information, except---
         
     *   (a) in the performance of the Board's functions; or
     
     *   (b) as required or permitted by law; or
     
-    *   (c) in accordance with subclause (2); or 
+    *   (c) in accordance with subclause (2); or
     
     *   (d) in complying with the requirement for members to disclose interests.
     
@@ -2397,7 +2417,7 @@ Provisions relating to Board, chairperson, and members
 
 ##### 21 Duty to disclose conflict of interest
     
-*   (1) A member who is interested in a matter relating to the Board must disclose details of the nature and extent of the interest (including any monetary value of the interest)--- 
+*   (1) A member who is interested in a matter relating to the Board must disclose details of the nature and extent of the interest (including any monetary value of the interest)---
         
     *   (a) to the chairperson of the Board; and
     
@@ -2411,7 +2431,7 @@ Provisions relating to Board, chairperson, and members
     
     (5) For the purposes of this clause, a person is _interested_ in a matter if he or she---
         
-    *   (a) may derive a financial benefit from the matter; or 
+    *   (a) may derive a financial benefit from the matter; or
     
     *   (b) is the spouse, civil union partner, de facto partner, child, or parent of a person who may derive a financial benefit from the matter; or
     
@@ -2419,7 +2439,7 @@ Provisions relating to Board, chairperson, and members
     
     *   (d) is a partner, director, officer, Board member, or trustee of a person who may have a financial interest in a person to whom the matter relates; or
     
-    *   (e) is otherwise directly or indirectly interested in the matter. 
+    *   (e) is otherwise directly or indirectly interested in the matter.
     
     (6) However, a person is not interested in a matter---
         
@@ -2435,7 +2455,7 @@ Provisions relating to Board, chairperson, and members
     
     (2) However, this clause does not affect---
         
-    *   (a) anything in [clause 6][175] or [10][180] (removal of member or chairperson); or
+    *   (a) anything in [clause 6][179] or [10][184] (removal of member or chairperson); or
     
     *   (b) anything else for which the member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach.
     
@@ -2447,9 +2467,9 @@ Provisions relating to Board, chairperson, and members
     
 *   (1) A member is not liable, in respect of an excluded act or omission,---
         
-    *   (a) to the Minister, unless it is also a breach of an individual duty under any of clauses 16 to 21: 
+    *   (a) to the Minister, unless it is also a breach of an individual duty under any of [clauses 16 to 21][185]:
     
-    *   (b) to any other person. 
+    *   (b) to any other person.
     
     (2) Nothing in this section affects---
         
@@ -2473,11 +2493,11 @@ Provisions relating to Board, chairperson, and members
     
 *   (1) A member who is insured by the chief executive in breach of this Act must repay to the chief executive the cost of providing or effecting that insurance cover, to the extent that the insurance cover exceeds that which could have been provided or effected under this Act.
     
-    (2) The chief executive may recover the amount as a debt due in a court of competent jurisdiction. 
+    (2) The chief executive may recover the amount as a debt due in a court of competent jurisdiction.
 
 ##### 26 Definitions for protections from liability
     
-*   In [clauses 23 to 25][181],--- 
+*   In [clauses 23 to 25][186],---
     
     _effect insurance_ includes pay, whether directly or indirectly, the costs of the insurance
     
@@ -2509,7 +2529,7 @@ Commencementsee section A 2
     
 *   This Act is the [Income Tax Act 2007][149].
     
-    Compare: 2004 No 35 [s A 1][182]
+    Compare: 2004 No 35 s A 1
 
 ##### A 2 Commencement
     
@@ -2521,9 +2541,9 @@ Commencementsee section A 2
     
     (2) However, except when the context requires otherwise, this Act applies only with respect to the tax on income derived in the 2008--09 income year and later income years.
     
-    Defined in this Act: [income year][183], [tax][183]
+    Defined in this Act: income year, tax
     
-    Compare: 2004 No 35 [s A 2][184]
+    Compare: 2004 No 35 s A 2
 
 ---
 
@@ -2535,7 +2555,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Charities Amendment Act 2012][185].
+*   This Act is the [Charities Amendment Act 2012][187].
 
 ##### 2 Commencement
     
@@ -2597,7 +2617,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Charities Amendment Act (No 2) 2012][186].
+*   This Act is the [Charities Amendment Act (No 2) 2012][188].
 
 ##### 2 Commencement
     
@@ -2675,76 +2695,37 @@ Commencementsee section 2
     
     (3) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the department is the controlling authority.
 
-##### 15 Other savings and transitional matters 
+##### 15 Other savings and transitional matters
     
 *   The Governor-General may, by Order in Council, provide for savings and transitional matters connected with the disestablishment of the Charities Commission, including the transfer of functions formerly carried out by the Commission.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Charities Act 2005\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][187] ![](/images/external_link.gif).
+*   This is a reprint of the Charities Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][188] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][189] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][190] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][189] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][191] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][192] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][190] and [17E][191] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][162]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Charities Amendment Act (No 2) 2012][188] (2012 No 43)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Charities Amendment Act 2012][187] (2012 No 4)
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Charities Amendment Act (No 2) 2012][186] (2012 No 43)
-    
-    [Charities Amendment Act 2012][185] (2012 No 4)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][156]
     
     Terrorism Suppression Amendment Act 2007 (2007 No 102): [section 46][135]
     
@@ -2756,7 +2737,7 @@ Commencementsee section 2
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM344371
 [2]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM344372
 [3]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM344373
@@ -2911,40 +2892,41 @@ Commencementsee section 2
 [152]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM64784
 [153]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013613
 [154]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM297441
-[155]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013614
-[156]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013615
-[157]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013616
-[158]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM195534
-[159]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013617
-[160]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013618
-[161]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM245341
-[162]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248976
-[163]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248979
-[164]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248984
-[165]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=
-[166]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM348342
-[167]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM352409
-[168]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM1518015
-[169]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013619
-[170]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013621
-[171]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM331118
-[172]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM176125
-[173]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM431296
-[174]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4484637
-[175]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572450
-[176]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572451
-[177]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572460
-[178]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572470
-[179]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572462
-[180]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572455
-[181]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572475
-[182]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM245345
-[183]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM1520575
-[184]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM245346
-[185]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013602
-[186]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4484613
-[187]: http://www.pco.parliament.govt.nz/reprints/
-[188]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM195439
-[189]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[190]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM195468
-[191]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM195470
+[155]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM3360067
+[156]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM3360714
+[157]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013614
+[158]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013615
+[159]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013616
+[160]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2997643
+[161]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998573
+[162]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998633
+[163]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013617
+[164]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013618
+[165]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM245341
+[166]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248976
+[167]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248979
+[168]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM248984
+[169]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=
+[170]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM348342
+[171]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM352409
+[172]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM1518015
+[173]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013619
+[174]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013621
+[175]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM331118
+[176]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM176125
+[177]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM431296
+[178]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4484637
+[179]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572450
+[180]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572451
+[181]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572460
+[182]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572470
+[183]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572462
+[184]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572455
+[185]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572465
+[186]: http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html#DLM4572475
+[187]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4013602
+[188]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM4484613
+[189]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998516
+[190]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998515
+[191]: http://www.legislation.govt.nz/act/public/2005/0039/latest/link.aspx?id=DLM2998532
+[192]: http://www.pco.parliament.govt.nz/editorial-conventions/
