@@ -1,5 +1,5 @@
 Reprint  
-as at 2 April 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -363,8 +363,6 @@ Preliminary provisions
     
     _chief executive_ means the chief executive of the department
     
-    _conviction on indictment_ has the same meaning as convicted on indictment in [section 3][104] of the Crimes Act 1961
-    
     _core identity information_ means the information specified in [section 9(1)][13]
     
     _current_, in relation to an electronic identity credential, means that the electronic identity credential has been issued and has not expired and is not cancelled, suspended, or revoked
@@ -381,13 +379,13 @@ Preliminary provisions
         
     *   (a) means any or all of the following:
             
-        *   (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][105]:
+        *   (i) adoption information, birth information, death information, marriage information, civil union information, and name change information under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][104]:
         
-        *   (ii) citizenship information (within the meaning of [section 26A(6)][106] of the Citizenship Act 1977):
+        *   (ii) citizenship information (within the meaning of [section 26A(6)][105] of the Citizenship Act 1977):
         
-        *   (iii) identifying information (within the meaning of [section 303(8)][107] of the Immigration Act 2009, except that it also includes the expiry date of any visa granted to the individual (if applicable)):
+        *   (iii) identifying information (within the meaning of [section 303(8)][106] of the Immigration Act 2009, except that it also includes the expiry date of any visa granted to the individual (if applicable)):
         
-        *   (iv) New Zealand travel document information of a kind referred to in [section 37][108] of the Passports Act 1992:
+        *   (iv) New Zealand travel document information of a kind referred to in [section 37][107] of the Passports Act 1992:
         
         
     
@@ -411,27 +409,27 @@ Preliminary provisions
     
     _organisation_ includes---
         
-    *   (a) a person as defined in [section 29][109] of the Interpretation Act 1999; and
+    *   (a) a person as defined in [section 29][108] of the Interpretation Act 1999; and
     
     *   (b) a partnership; and
     
-    *   (c) a government department named in [Part 1][110] of Schedule 1 of the Ombudsmen Act 1975; and
+    *   (c) a government department named in [Part 1][109] of Schedule 1 of the Ombudsmen Act 1975; and
     
-    *   (d) a Crown entity as defined in [section 10(1)][111] of the Crown Entities Act 2004
+    *   (d) a Crown entity as defined in [section 10(1)][110] of the Crown Entities Act 2004
     
     _participating agency_ means a body, office, or officer declared by the Governor-General, by regulations made under [section 67][90], to be a participating agency for the purposes of this Act
     
-    _personal information_ has the meaning given to it by [section 2][112] of the Privacy Act 1993
+    _personal information_ has the meaning given to it by [section 2][111] of the Privacy Act 1993
     
     _photograph_ includes any electronic record of the photograph
     
     _pre-commencement electronic identity credential_ has the meaning given to it by [section 73][97]
     
-    _Privacy Commissioner_ means the Privacy Commissioner appointed under [section 12][113] of the Privacy Act 1993
+    _Privacy Commissioner_ means the Privacy Commissioner appointed under [section 12][112] of the Privacy Act 1993
     
-    _record of usage history_ means the record that the chief executive is required to keep under [section 44][114] about the usage history of each electronic identity credential
+    _record of usage history_ means the record that the chief executive is required to keep under [section 44][113] about the usage history of each electronic identity credential
     
-    _Registrar-General_ has the meaning given to it by [section 2][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+    _Registrar-General_ has the meaning given to it by [section 2][114] of the Births, Deaths, Marriages, and Relationships Registration Act 1995
     
     _Service_ means the Electronic Identity Verification Service described in [section 55][70]
     
@@ -447,7 +445,7 @@ Preliminary provisions
     
     *   (c) an offence against any other enactment involving a computer system on which the operation of the Service database relies
     
-    _State services_ has the meaning given to it by [section 2][116] of the State Sector Act 1988
+    _State services_ has the meaning given to it by [section 2][115] of the State Sector Act 1988
     
     _status_, in relation to an electronic identity credential, means the currency, expiry, amendment, cancellation, suspension, or revocation of the electronic identity credential
     
@@ -477,7 +475,7 @@ Preliminary provisions
     
     *   (b) in relation to the use of an electronic identity credential by a participating agency, means to use the credential to obtain or verify information about the identity of an individual by electronic means.
     
-    
+    Section 7 **conviction on indictment**: repealed, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Electronic identity verification
@@ -598,7 +596,7 @@ Electronic identity verification
     
     (9) In this section,---
         
-    *   (a) _Director of Security_ has the meaning given to it by [section 2][115] of the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
+    *   (a) _Director of Security_ has the meaning given to it by [section 2][114] of the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
     
     *   (b) **employee**, **officer**, and **undercover Police officer** have the meanings given to them by [section 65(5)][120] of that Act.
     
@@ -1561,7 +1559,7 @@ Miscellaneous provisions
     
     *   (b) the copying of information recorded in the Service database (whether it is achieved directly from the database, by means of another device, by the interception or copying of an electronic message, or from any form of electronic storage).
     
-    (3) A person who commits an offence against this section is liable on conviction on indictment to,---
+    (3) A person who commits an offence against this section is liable on conviction to,---
         
     *   (a) if an individual,---
             
@@ -1575,13 +1573,15 @@ Miscellaneous provisions
     
     *   (b) if an organisation, a fine not exceeding $1,000,000\.
     
-    
+    Section 60(3): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Offence relating to improper issue
     
 *   (1) A person commits an offence who intentionally or recklessly issues an electronic identity credential to an individual to whom it does not relate.
     
-    (2) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or to a fine not exceeding $250,000, or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 10 years, or to a fine not exceeding $250,000, or to both.
+    
+    Section 61(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Offences relating to improper access and use
     
@@ -1603,7 +1603,7 @@ Miscellaneous provisions
     
     (3) A person commits an offence who knowingly uses an electronic identity credential that has not been issued to him or her.
     
-    (4) A person who commits an offence against this section is liable on conviction on indictment to,---
+    (4) A person who commits an offence against this section is liable on conviction to,---
         
     *   (a) if an individual,---
             
@@ -1617,7 +1617,7 @@ Miscellaneous provisions
     
     *   (b) if an organisation, a fine not exceeding $200,000\.
     
-    
+    Section 62(4): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 63 Offences involving statements or documentation
     
@@ -1629,7 +1629,9 @@ Miscellaneous provisions
     
     *   (c) provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
     
-    (2) A person who commits an offence against this section is liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $50,000, or to both.
+    (2) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $50,000, or to both.
+    
+    Section 63(2): amended, on 1 July 2013, by [section 413][116] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Court orders
 
@@ -1705,7 +1707,7 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may, by Order in Council, make regulations declaring any of the following to be a participating agency for the purposes of this Act:
         
-    *   (a) a government department named in [Part 1][110] of Schedule 1 of the Ombudsmen Act 1975:
+    *   (a) a government department named in [Part 1][109] of Schedule 1 of the Ombudsmen Act 1975:
     
     *   (b) an organisation named in [Part 2][141] of Schedule 1 of the Ombudsmen Act 1975:
     
@@ -2253,7 +2255,7 @@ Amendment to regulations
 
 ###### 1 General
     
-*   This is a reprint of the Electronic Identity Verification Act 2012\. The reprint incorporates all the amendments to the Act as at 2 April 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Electronic Identity Verification Act 2012\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][163] ![](/images/external_link.gif).
 
@@ -2301,6 +2303,8 @@ Amendment to regulations
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   [Electronic Identity Verification Act Commencement Order 2013][168] (SR 2013/8)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][116]
 
 
 
@@ -2408,19 +2412,19 @@ Amendment to regulations
 [101]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM1777925
 [102]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967949
 [103]: http://www.legislation.govt.nz/act/public/2012/0123/latest/whole.html#DLM3967954
-[104]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM328016
-[105]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359368
-[106]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM444014
-[107]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2391029
-[108]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM278329
-[109]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM31803
-[110]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431205
-[111]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM329649
-[112]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296645
-[113]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297053
-[114]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1777896
-[115]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359378
-[116]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129117
+[104]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359368
+[105]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM444014
+[106]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM2391029
+[107]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM278329
+[108]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM31803
+[109]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM431205
+[110]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM329649
+[111]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM296645
+[112]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM297053
+[113]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1777896
+[114]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM359378
+[115]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM129117
+[116]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM3360714
 [117]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM1805769
 [118]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364150
 [119]: http://www.legislation.govt.nz/act/public/2012/0123/latest/link.aspx?id=DLM364151
