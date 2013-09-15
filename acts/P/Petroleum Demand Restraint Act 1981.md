@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencement23 July 1981
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Business, Innovation and Employment.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -49,7 +49,7 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [11][13][][13][Certain stabilisation regulations to continue in force as petroleum demand restraint regulations][13] \[Repealed\]
 
-[12][14][][14][Publication or notification in _Gazette_ to be notice to all persons concerned][14]
+[12][14][][14][Publication or notification is sufficient notice][14]
 
 [Miscellaneous provisions][15]
 
@@ -75,11 +75,11 @@ This Act is administered by the Ministry of Business, Innovation and Employment.
 
 [22][26][][26][Infringement offences and owner liability][26]
 
-[23][27][][27][Information may charge several offences][27]
+[23][27][][27][Information may charge several offences][27] \[Repealed\]
 
 [24][28][][28][Liability of principal for acts of agents, etc][28]
 
-[25][29][][29][Offences to be punishable on summary conviction][29]
+[25][29][][29][Offences to be punishable on summary conviction][29] \[Repealed\]
 
 [26][30][][30][Act not to derogate from certain other Acts][30]
 
@@ -374,9 +374,11 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     Section 11: repealed, on 23 October 1981, by [section 5(b)][37] of the Petroleum Demand Restraint (Regulations Validation and Revocation) Act 1981 (1981 No 116).
 
-##### 12 Publication or notification in _Gazette_ to be notice to all persons concerned
+##### 12 Publication or notification is sufficient notice
     
-*   The publication in the _Gazette_ or in accordance with the Regulations Act 1936, whether before or after the commencement of this Act, of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations shall for all purposes be deemed to be notice thereof to all persons concerned, and in any prosecution under this Act the liability of the accused shall be determined accordingly.
+*   The publication in the _Gazette_ or in accordance with the [Legislation Act 2012][45] of any petroleum demand restraint regulations, or of any Order in Council, order, notice, warrant, licence, or other act of authority under this Act or under any petroleum demand restraint regulations must be treated for all purposes as notice of the act of authority to all persons concerned, and in any prosecution under this Act the liability of the accused must be determined accordingly.
+    
+    Section 12: replaced, on 5 August 2013, by [section 77(3)][46] of the Legislation Act 2012 (2012 No 119).
 
 #### Miscellaneous provisions
 
@@ -412,7 +414,7 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     (5) The delegation by the Minister or by any other person of any powers conferred on him by or under this Act or by or under any petroleum demand restraint regulations shall not prevent the personal exercise of those powers by the Minister or by that other person.
     
-    (6) Subject to [section 14][45] of the Interpretation Act 1999 and to [sections 14][46] and [15][47] of the [Civil List Act 1979][48], the Minister shall not delegate the powers conferred on him by [section 7][9] or [section 10][12] of this Act.
+    (6) Subject to [section 14][47] of the Interpretation Act 1999 and to [sections 14][48] and [15][49] of the [Civil List Act 1979][50], the Minister shall not delegate the powers conferred on him by [section 7][9] or [section 10][12] of this Act.
     
     Section 14(1): amended, on 1 July 2003, by [section 262][34] of the Local Government Act 2002 (2002 No 84).
     
@@ -464,17 +466,17 @@ An Act to make provision for the imposition of measures restraining the demand f
         
     *   (a) authorising persons, designated by the Minister in writing for the purpose (_designated persons_), to search places, vehicles, or other things under a warrant in relation to any relevant offence:
     
-    *   (b) providing for the application of provisions of the [Search and Surveillance Act 2012][49] to the powers conferred under paragraph (a) and, in particular and without limitation,---
+    *   (b) providing for the application of provisions of the [Search and Surveillance Act 2012][51] to the powers conferred under paragraph (a) and, in particular and without limitation,---
             
         *   (i) deeming all designated persons, or any designated persons of a specified class, to be enforcement officers for the purposes of that Act:
         
-        *   (ii) authorising all designated persons, or any designated persons of a specified class, to apply for a warrant under [section 6][50] of that Act as if such designated persons were constables.
+        *   (ii) authorising all designated persons, or any designated persons of a specified class, to apply for a warrant under [section 6][52] of that Act as if such designated persons were constables.
         
         
     
     Section 17(1): amended, on 1 October 2008, by [section 17][35] of the Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60).
     
-    Section 17(4): replaced, on 1 October 2012, by [section 291(2)][51] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 17(4): replaced, on 1 October 2012, by [section 291(2)][53] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 18 Self-incrimination
     
@@ -484,7 +486,7 @@ An Act to make provision for the imposition of measures restraining the demand f
 
 ##### 19 Powers of enforcement officers
     
-*   An enforcement officer under the [Land Transport Act 1998][41], if for the time being in uniform or in possession of any warrant or other evidence of his or her authority as an enforcement officer, is authorised to enforce the provisions of this Act or any regulations made under this Act on any road as defined in [section 2][52] of that Act.
+*   An enforcement officer under the [Land Transport Act 1998][41], if for the time being in uniform or in possession of any warrant or other evidence of his or her authority as an enforcement officer, is authorised to enforce the provisions of this Act or any regulations made under this Act on any road as defined in [section 2][54] of that Act.
     
     Section 19: substituted, on 1 March 1999, by [section 215(1)][44] of the Land Transport Act 1998 (1998 No 110).
 
@@ -492,13 +494,13 @@ An Act to make provision for the imposition of measures restraining the demand f
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 April 1987, by [section 25(1)][53] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 20: repealed, on 1 April 1987, by [section 25(1)][55] of the Official Information Amendment Act 1987 (1987 No 8).
 
 #### Legal proceedings
 
 ##### 21 Offences
     
-*   Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who---
+*   Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who---
         
     *   (a) wilfully resists, obstructs, or deceives, or attempts to deceive any court, authority, or person that is exercising or attempting to exercise any power or function under this Act or under any petroleum demand restraint regulations:
     
@@ -506,7 +508,9 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     *   (c) \[Repealed\]
     
-    Section 21(c): repealed, on 1 April 1987, by [section 25(1)][53] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 21: amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(c): repealed, on 1 April 1987, by [section 25(1)][55] of the Official Information Amendment Act 1987 (1987 No 8).
 
 ##### 22 Infringement offences and owner liability
     
@@ -514,13 +518,13 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     _infringement offence_ means an offence against any petroleum demand restraint regulations (being an offence that is punishable by a fine not exceeding $100) which involves the use of a motor vehicle and which is specified in those regulations as an infringement offence
     
-    _proceedings_ means proceedings under the [Summary Proceedings Act 1957][54]; and includes the issue of an infringement notice under [section 139][55] of the Land Transport Act 1998\.
+    _proceedings_ means proceedings under the [Criminal Procedure Act 2011][57] or the [Summary Proceedings Act 1957][58]; and includes the issue of an infringement notice under [section 139][59] of the Land Transport Act 1998\.
     
     (2) Proceedings for an infringement offence may be taken against any 1 or more of the following persons:
         
     *   (a) the person who allegedly committed the offence:
     
-    *   (b) the person who, at the time of the alleged offence, was registered under [Part 17][56] of the Land Transport Act 1998 in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of [section 242][57] of that Act, a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under [section 18][58] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
+    *   (b) the person who, at the time of the alleged offence, was registered under [Part 17][60] of the Land Transport Act 1998 in respect of the vehicle involved in the offence (or, if the offence is alleged to have been committed before the commencement of [section 242][61] of that Act, a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of that vehicle in a register kept under [section 18][62] of the Transport (Vehicle and Driver Registration and Licensing) Act 1986):
     
     *   (c) any person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether jointly with any other person or not)---
     
@@ -532,13 +536,13 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     *   (b) the acts or omissions of the driver, person in charge, or user of the vehicle at that time were the acts or omissions of the first-mentioned person.
     
-    (4) It shall be a defence to proceedings taken under the [Summary Proceedings Act 1957][54] against a person for an infringement offence if the person proves that---
+    (4) It shall be a defence to proceedings taken under the [Criminal Procedure Act 2011][57] or the [Summary Proceedings Act 1957][58] against a person for an infringement offence if the person proves that---
         
     *   (a) an infringement notice has been issued in respect of the offence and the infringement fee specified in the notice has been paid to the enforcement authority before the commencement of the proceedings; or
     
-    *   (b) another person has been ordered to pay an amount in respect of the offence pursuant to [section 78A][59] of the Summary Proceedings Act 1957\.
+    *   (b) another person has been ordered to pay an amount in respect of the offence pursuant to [section 375][63] of the Criminal Procedure Act 2011\.
     
-    (5) It shall be a defence to proceedings taken under the [Summary Proceedings Act 1957][54] against a person pursuant to paragraph (b) or paragraph (c) of subsection (2) if the person proves that---
+    (5) It shall be a defence to proceedings taken under the [Criminal Procedure Act 2011][57] or the [Summary Proceedings Act 1957][58] against a person pursuant to paragraph (b) or paragraph (c) of subsection (2) if the person proves that---
         
     *   (a) at the time the alleged offence was committed---
             
@@ -556,25 +560,35 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     (7) Nothing in this section shall limit any defence that is specifically prescribed by any petroleum demand restraint regulations as being available in respect of an offence against those regulations.
     
-    (8) Every infringement offence shall be an infringement offence for the purposes of [section 139][55] of the Land Transport Act 1998, and a minor traffic offence for the purposes of [sections 21][60] and [78A][59] of the Summary Proceedings Act 1957\.
+    (8) Every infringement offence shall be an infringement offence for the purposes of [section 139][59] of the Land Transport Act 1998, and a minor traffic offence for the purposes of [section 21][64] of the Summary Proceedings Act 1957 and [section 375][63] of the Criminal Procedure Act 2011\.
     
     (9) Where any petroleum demand restraint regulations specify that an offence against those regulations is an infringement offence, those regulations must specify the infringement fee (which fee must not exceed $100) that is payable in respect of that offence and that infringement fee is,---
         
     *   (a) \[Repealed\]
     
-    *   (b) for the purposes of [sections 138][61] to [141][62] of the Land Transport Act 1998, deemed to be specified in respect of that offence by regulations made under that Act.
+    *   (b) for the purposes of [sections 138][65] to [141][66] of the Land Transport Act 1998, deemed to be specified in respect of that offence by regulations made under that Act.
     
     (10) In this section,---
     
-    _motor vehicle_ has the meaning given to it in [section 2(1)][63] of the Land Transport Act 1998
+    _motor vehicle_ has the meaning given to it in [section 2(1)][67] of the Land Transport Act 1998
     
     _use_, in relation to a motor vehicle, includes driving, drawing, or propelling by means of another vehicle, and permitting to be on a road.
+    
+    Section 22(1) **proceedings**: amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 22(1) **proceedings**: amended, on 10 May 2011, by [section 100(3)][43] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 22(1) **proceedings**: amended, on 1 March 1999, by [section 215(1)][44] of the Land Transport Act 1998 (1998 No 110).
     
-    Section 22(2)(b): substituted, on 1 May 2011, by [section 35(4)][64] of the Land Transport Amendment Act 2009 (2009 No 17).
+    Section 22(2)(b): substituted, on 1 May 2011, by [section 35(4)][68] of the Land Transport Amendment Act 2009 (2009 No 17).
+    
+    Section 22(4): amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 22(4)(b): amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 22(5): amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 22(8): amended, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 22(8): amended, on 10 May 2011, by [section 100(3)][43] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
@@ -588,11 +602,9 @@ An Act to make provision for the imposition of measures restraining the demand f
 
 ##### 23 Information may charge several offences
     
-*   (1) Any information may charge the defendant with any number of offences against any petroleum demand restraint regulations, if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or a similar character.
+*   \[Repealed\]
     
-    (2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
-    
-    (3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
+    Section 23: repealed, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Liability of principal for acts of agents, etc
     
@@ -604,7 +616,9 @@ An Act to make provision for the imposition of measures restraining the demand f
 
 ##### 25 Offences to be punishable on summary conviction
     
-*   Subject to [section 22][26], every offence against any petroleum demand restraint regulations shall be punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 25: repealed, on 1 July 2013, by [section 413][56] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 26 Act not to derogate from certain other Acts
     
@@ -614,17 +628,17 @@ An Act to make provision for the imposition of measures restraining the demand f
     
     *   (b) \[Repealed\]
     
-    *   (c) the [Civil Defence Emergency Management Act 2002][65]; or
+    *   (c) the [Civil Defence Emergency Management Act 2002][69]; or
     
-    *   (d) the [International Energy Agreement Act 1976][66].
+    *   (d) the [International Energy Agreement Act 1976][70].
     
     Section 26: amended, on 23 October 1981, by [section 5(c)][37] of the Petroleum Demand Restraint (Regulations Validation and Revocation) Act 1981 (1981 No 116).
     
-    Section 26(a): repealed, on 1 September 1987, by [section 2(c)][67] of the Public Safety Conservation Act Repeal Act 1987 (1987 No 181).
+    Section 26(a): repealed, on 1 September 1987, by [section 2(c)][71] of the Public Safety Conservation Act Repeal Act 1987 (1987 No 181).
     
-    Section 26(b): repealed, on 1 July 1987, by [section 3(2)][68] of the Economic Stabilisation Act Repeal Act 1987 (1987 No 126).
+    Section 26(b): repealed, on 1 July 1987, by [section 3(2)][72] of the Economic Stabilisation Act Repeal Act 1987 (1987 No 126).
     
-    Section 26(c): substituted, on 1 December 2002, by [section 117][69] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
+    Section 26(c): substituted, on 1 December 2002, by [section 117][73] of the Civil Defence Emergency Management Act 2002 (2002 No 33).
 
 ---
 
@@ -637,152 +651,43 @@ Regulations continued in force
     
 *   Schedule: repealed, on 23 October 1981, by [section 5(d)][37] of the Petroleum Demand Restraint (Regulations Validation and Revocation) Act 1981 (1981 No 116).
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][49].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][70] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Petroleum Demand Restraint Act 1981\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][71] ![](/images/external_link.gif).
+*   This is a reprint of the Petroleum Demand Restraint Act 1981 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][72] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][74] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][75] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][73] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][76] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][77] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][74] and [17E][75] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][46]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 291][53]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 291][51]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][56]
     
     Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][43]
     
-    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][64]
+    Land Transport Amendment Act 2009 (2009 No 17): [section 35(4)][68]
     
     Energy (Fuels, Levies, and References) Amendment Act 2008 (2008 No 60): [section 17][35]
     
-    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][76]
+    Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][78]
     
     Local Government Act 2002 (2002 No 84): [section 262][34]
     
-    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][69]
+    Civil Defence Emergency Management Act 2002 (2002 No 33): [section 117][73]
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][44]
     
@@ -790,11 +695,11 @@ Amendments, repeals, and miscellaneous provisions
     
     Petroleum Sector Reform Act 1988 (1988 No 95): [section 5(1)(h)][42]
     
-    Public Safety Conservation Act Repeal Act 1987 (1987 No 181): [section 2(c)][67]
+    Public Safety Conservation Act Repeal Act 1987 (1987 No 181): [section 2(c)][71]
     
-    Economic Stabilisation Act Repeal Act 1987 (1987 No 126): [section 3(2)][68]
+    Economic Stabilisation Act Repeal Act 1987 (1987 No 126): [section 3(2)][72]
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][53]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][55]
     
     Constitution Act 1986 (1986 No 114): [section 27][39]
     
@@ -804,7 +709,7 @@ Amendments, repeals, and miscellaneous provisions
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1981/0012/latest/whole.html#DLM44001
 [2]: http://www.legislation.govt.nz/act/public/1981/0012/latest/whole.html#DLM44003
 [3]: http://www.legislation.govt.nz/act/public/1981/0012/latest/whole.html#DLM44004
@@ -849,35 +754,37 @@ Amendments, repeals, and miscellaneous provisions
 [42]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM132535
 [43]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3231293
 [44]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435656
-[45]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM31482
-[46]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32405
-[47]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32407
-[48]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32049
-[49]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2136500
-[50]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2136635
-[51]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2137053
-[52]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM433619
-[53]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM101353
-[54]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM310742
-[55]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435155
-[56]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2214226
-[57]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3701427
-[58]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM91494
-[59]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM311856
-[60]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM311346
-[61]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435154
-[62]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435158
-[63]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM434101
-[64]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2015063
-[65]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM149788
-[66]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM440509
-[67]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM124877
-[68]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM119799
-[69]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM151437
-[70]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM4686448
-[71]: http://www.pco.parliament.govt.nz/reprints/
-[72]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM195439
-[73]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[74]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM195468
-[75]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM195470
-[76]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM333795
+[45]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2997643
+[46]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2998633
+[47]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM31482
+[48]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32405
+[49]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32407
+[50]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM32049
+[51]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2136500
+[52]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2136635
+[53]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2137053
+[54]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM433619
+[55]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM101353
+[56]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3360714
+[57]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3359902
+[58]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM310742
+[59]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435155
+[60]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2214226
+[61]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3701427
+[62]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM91494
+[63]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM3360592
+[64]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM311346
+[65]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435154
+[66]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM435158
+[67]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM434101
+[68]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2015063
+[69]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM149788
+[70]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM440509
+[71]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM124877
+[72]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM119799
+[73]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM151437
+[74]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2998516
+[75]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2998515
+[76]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM2998532
+[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[78]: http://www.legislation.govt.nz/act/public/1981/0012/latest/link.aspx?id=DLM333795
