@@ -1,5 +1,5 @@
 Reprint  
-as at 17 May 2006
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Education.
 
@@ -359,7 +359,7 @@ Miscellaneous provisions
     
     (4) The Minister may from time to time, by notice in the _Gazette_, grant permission on such terms and for such period as he thinks fit to any university, agricultural college, school of agriculture, board, high school trustees, or body of persons (whether incorporated or not) to use for educational purposes any land vested in Her Majesty for educational purposes.
     
-    (5) The Governor-General may from time to time, by Order in Council gazetted, vary the trusts on which any land is for the time being held by Her Majesty for educational purposes, and may in like manner declare any such land which is not required for the purposes for which it is held to be Crown land subject to the [Land Act 1948][44], freed and discharged from every educational trust affecting the same.
+    (5) The Governor-General may from time to time, by Order in Council published in the _Gazette_, vary the trusts on which any land is for the time being held by Her Majesty for educational purposes, and may in like manner declare any such land which is not required for the purposes for which it is held to be Crown land subject to the [Land Act 1948][44], freed and discharged from every educational trust affecting the same.
     
     (6) The District Land Registrar, on registration of any Order in Council under the last preceding subsection shall make all necessary endorsements on any certificate of title in respect of the land, or, in the case of an order declaring any such land to be Crown land, shall, subject to the provisions of [section 17][30], cancel any certificate of title in respect of the land.
     
@@ -374,22 +374,24 @@ Miscellaneous provisions
     Section 15(4): amended, on 1 October 1989, by [section 142(2)][41] of the Education Act 1989 (1989 No 80).
     
     Section 15(4): amended, on 16 October 1957, pursuant to section 3(2)(b) of the New Zealand University Amendment Act 1957 (1957 No 23).
+    
+    Section 15(5): amended, on 5 August 2013, by [section 77(3)][45] of the Legislation Act 2012 (2012 No 119).
 
 ##### 16 Provisions of Land Act 1948 as to renewals of leases to apply to leases of land transferred to or vested in the Crown
     
 *   (1) Where any land that is transferred to or vested in Her Majesty under this Act is subject to a lease which is current at the date of transfer or vesting, and the lessee thereunder has a perpetual right of renewal,---
         
-    *   (a) the lease shall be deemed to be a lease within the meaning of subsection (1) of [section 122][45] of the Land Act 1948; and
+    *   (a) the lease shall be deemed to be a lease within the meaning of subsection (1) of [section 122][46] of the Land Act 1948; and
     
-    *   (b) notwithstanding anything in any other Act or in any deed or other instrument, the holder of the lease shall be entitled to a renewal lease, which shall be a renewable lease under the [Land Act 1948][44], and the renewal rent shall be determined in accordance with the provisions of [section 125][46] and [Part 8][47] of that Act, and not otherwise; and
+    *   (b) notwithstanding anything in any other Act or in any deed or other instrument, the holder of the lease shall be entitled to a renewal lease, which shall be a renewable lease under the [Land Act 1948][44], and the renewal rent shall be determined in accordance with the provisions of [section 125][47] and [Part 8][48] of that Act, and not otherwise; and
     
-    *   (c) the lessee shall be entitled under [section 126][48] of the Land Act 1948 to exchange the lease for a renewable lease under that Act.
+    *   (c) the lessee shall be entitled under [section 126][49] of the Land Act 1948 to exchange the lease for a renewable lease under that Act.
     
-    (2) For the purposes of subsection (1), a lease granted in accordance with the provisions of paragraph (f) or paragraph (g) of section 5 of the Public Bodies Leases Act 1908 or paragraph (b) of [section 11][49] of the Public Bodies Leases Act 1969 shall be deemed to confer on the lessee a perpetual right of renewal.
+    (2) For the purposes of subsection (1), a lease granted in accordance with the provisions of paragraph (f) or paragraph (g) of section 5 of the Public Bodies Leases Act 1908 or paragraph (b) of [section 11][50] of the Public Bodies Leases Act 1969 shall be deemed to confer on the lessee a perpetual right of renewal.
     
     Section 16: replaced, on 25 October 1960, by section 3(1) of the Education Lands Amendment Act 1960 (1960 No 57).
     
-    Section 16(2): amended, on 1 January 1970, pursuant to [section 28(3)][50] of the Public Bodies Leases Act 1969 (1969 No 141).
+    Section 16(2): amended, on 1 January 1970, pursuant to [section 28(3)][51] of the Public Bodies Leases Act 1969 (1969 No 141).
 
 ##### 17 Cancellation of certificate of title in respect of land transferred to or vested in the Crown
     
@@ -399,13 +401,13 @@ Miscellaneous provisions
 
 ##### 18 Director-General of Lands may certify transfers to Crown
     
-*   Transfers of land to Her Majesty the Queen under any of the provisions of this Act shall be certified as correct for the purposes of the [Land Transfer Act 1952][51] by the Director-General of Lands, and any such transfer so certified may be accepted for registration under that Act.
+*   Transfers of land to Her Majesty the Queen under any of the provisions of this Act shall be certified as correct for the purposes of the [Land Transfer Act 1952][52] by the Director-General of Lands, and any such transfer so certified may be accepted for registration under that Act.
     
     Section 18 heading: amended (with effect on 1 April 1987), on 1 July 1987, pursuant to section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
     Section 18: amended (with effect on 1 April 1987), on 1 July 1987, by section 11(1) of the State-Owned Enterprises Amendment Act 1987 (1987 No 117).
     
-    Section 18: amended, on 1 January 1953, pursuant to [section 245(1)][52] of the Land Transfer Act 1952 (1952 No 52).
+    Section 18: amended, on 1 January 1953, pursuant to [section 245(1)][53] of the Land Transfer Act 1952 (1952 No 52).
 
 ##### 19 Act not to apply to Taranaki Scholarship lands
     
@@ -1141,7 +1143,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Finance Act 1932 (1932 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][53]_.
+_Amendment(s) incorporated in the [Act(s)][54]_.
 
 ##### Greymouth High School Act 1883 (1883 No 21 (L))
 
@@ -1149,80 +1151,39 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Hokitika High School Act 1883 (1883 No 7 (L))
 
-_Amendment(s) incorporated in the [Act(s)][54]_.
+_Amendment(s) incorporated in the [Act(s)][55]_.
 
 ##### Marlborough High School Act 1899 (1899 No 27 (L))
 
-_Amendment(s) incorporated in the [Act(s)][55]_.
+_Amendment(s) incorporated in the [Act(s)][56]_.
 
 ##### Napier High School Act 1882 (1882 No 11 (L))
 
-_Amendment(s) incorporated in the [Act(s)][56]_.
+_Amendment(s) incorporated in the [Act(s)][57]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Education Lands Act 1949\. The reprint incorporates all the amendments to the Act as at 17 May 2006, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][57] ![](/images/external_link.gif).
+*   This is a reprint of the Education Lands Act 1949 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][58] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][58] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][59] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][59] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][60] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][61] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][60] and [17E][61] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][45]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Education Amendment Act 2006 (2006 No 19): [section 61(2)][43]
+    Education Amendment Act 2006 (2006 No 19): [section 61(2)][43]
     
     Education Lands Amendment Act 1991 (1991 No 141)
     
@@ -1236,7 +1197,7 @@ _Amendment(s) incorporated in the [Act(s)][56]_.
     
     Education Lands Amendment Act 1975 (1975 No 12)
     
-    Public Bodies Leases Act 1969 (1969 No 141): [section 28(3)][50]
+    Public Bodies Leases Act 1969 (1969 No 141): [section 28(3)][51]
     
     Education Act 1964 (1964 No 135): [section 204(1)][42]
     
@@ -1246,7 +1207,7 @@ _Amendment(s) incorporated in the [Act(s)][56]_.
     
     Local Authorities Loans Act 1956 (1956 No 63): section 135(1)
     
-    Land Transfer Act 1952 (1952 No 52): [section 245(1)][52]
+    Land Transfer Act 1952 (1952 No 52): [section 245(1)][53]
     
     Education Lands Amendment Act 1950 (1950 No 72)
     
@@ -1254,7 +1215,7 @@ _Amendment(s) incorporated in the [Act(s)][56]_.
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1949/0024/latest/whole.html#DLM257457
 [2]: http://www.legislation.govt.nz/act/public/1949/0024/latest/whole.html#DLM257459
 [3]: http://www.legislation.govt.nz/act/public/1949/0024/latest/whole.html#DLM257460
@@ -1299,20 +1260,20 @@ _Amendment(s) incorporated in the [Act(s)][56]_.
 [42]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM359101
 [43]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM373083
 [44]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM250585
-[45]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252438
-[46]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252462
-[47]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252478
-[48]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252466
-[49]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM394887
-[50]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM395424
-[51]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM269031
-[52]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM272483
-[53]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM212842
-[54]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM16745
-[55]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM26658
-[56]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM15910
-[57]: http://www.pco.parliament.govt.nz/reprints/
-[58]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM195439
-[59]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[60]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM195468
-[61]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM195470
+[45]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM2998633
+[46]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252438
+[47]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252462
+[48]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252478
+[49]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM252466
+[50]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM394887
+[51]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM395424
+[52]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM269031
+[53]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM272483
+[54]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM212842
+[55]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM16745
+[56]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM26658
+[57]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM15910
+[58]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM2998516
+[59]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM2998515
+[60]: http://www.legislation.govt.nz/act/public/1949/0024/latest/link.aspx?id=DLM2998532
+[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
