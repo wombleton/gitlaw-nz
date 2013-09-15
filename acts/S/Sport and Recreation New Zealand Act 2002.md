@@ -1,7 +1,7 @@
 Reprint  
-as at 25 January 2005
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Sport and Recreation New Zealand Act 2002Public Act2002 No 38
 
@@ -23,176 +23,176 @@ This Act is administered by Sport and Recreation New Zealand.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Overview][5]
+[4][5][][5][Overview][5]
 
-[5][6] [Interpretation][6]
+[5][6][][6][Interpretation][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Sport and Recreation New Zealand][8]
 
 [Key provisions about Agency][9]
 
-[7][10] [Agency established][10]
+[7][10][][10][Agency established][10]
 
-[8][11] [Functions][11]
+[8][11][][11][Functions][11]
 
-[9][12] [Powers][12] \[Repealed\]
+[9][12][][12][Powers][12] \[Repealed\]
 
-[10][13] [Restriction on directions][13]
+[10][13][][13][Restriction on directions][13]
 
-[11][14] [Minister to publish notices and Ministerial directions][14] \[Repealed\]
+[11][14][][14][Minister to publish notices and Ministerial directions][14] \[Repealed\]
 
-[12][15] [Protection of name][15]
+[12][15][][15][Protection of name][15]
 
 [Key provisions about board][16]
 
-[13][17] [Membership of board][17]
+[13][17][][17][Membership of board][17]
 
-[14][18] [Appointed members of Hillary Commission deemed to be members of board][18] \[Repealed\]
+[14][18][][18][Appointed members of Hillary Commission deemed to be members of board][18] \[Repealed\]
 
-[15][19] [Chairperson and deputy chairperson][19] \[Repealed\]
+[15][19][][19][Chairperson and deputy chairperson][19] \[Repealed\]
 
-[16][20] [Board's management duty][20] \[Repealed\]
+[16][20][][20][Board's management duty][20] \[Repealed\]
 
-[17][21] [Board's powers][21] \[Repealed\]
+[17][21][][21][Board's powers][21] \[Repealed\]
 
 [Nominations advisory group][22]
 
-[18][23] [Nominations advisory group][23]
+[18][23][][23][Nominations advisory group][23]
 
-[19][24] [Functions of nominations advisory group][24]
+[19][24][][24][Functions of nominations advisory group][24]
 
-[20][25] [Nominations advisory group's recommendations and advice][25]
+[20][25][][25][Nominations advisory group's recommendations and advice][25]
 
-[21][26] [Membership of nominations advisory group][26]
+[21][26][][26][Membership of nominations advisory group][26]
 
-[22][27] [Nominations advisory group to regulate own procedure][27]
+[22][27][][27][Nominations advisory group to regulate own procedure][27]
 
 [Delegation by board][28]
 
-[23][29] [Delegation of functions, duties, and powers by board][29] \[Repealed\]
+[23][29][][29][Delegation of functions, duties, and powers by board][29] \[Repealed\]
 
-[24][30] [Certain powers must not be delegated][30]
+[24][30][][30][Certain powers must not be delegated][30]
 
-[25][31] [Effect of delegation][31] \[Repealed\]
+[25][31][][31][Effect of delegation][31] \[Repealed\]
 
-[26][32] [Presumption of acting in accordance with delegation][32] \[Repealed\]
+[26][32][][32][Presumption of acting in accordance with delegation][32] \[Repealed\]
 
-[27][33] [Other matters relating to delegation][33] \[Repealed\]
+[27][33][][33][Other matters relating to delegation][33] \[Repealed\]
 
 [Committees][34]
 
 \[Repealed\]
 
-[28][35] [Board may appoint committee][35] \[Repealed\]
+[28][35][][35][Board may appoint committee][35] \[Repealed\]
 
-[29][36] [Membership of committee][36] \[Repealed\]
+[29][36][][36][Membership of committee][36] \[Repealed\]
 
-[30][37] [Committee to regulate own procedure][37] \[Repealed\]
+[30][37][][37][Committee to regulate own procedure][37] \[Repealed\]
 
 [Chief executive of Agency][38]
 
-[31][39] [Appointment of chief executive][39]
+[31][39][][39][Appointment of chief executive][39]
 
-[32][40] [Good employer][40]
+[32][40][][40][Good employer][40]
 
-[33][41] [Delegation of functions, duties, or powers by chief executive][41] \[Repealed\]
+[33][41][][41][Delegation of functions, duties, or powers by chief executive][41] \[Repealed\]
 
 [Employees and employment of experts][42]
 
 \[Repealed\]
 
-[34][43] [Employees][43] \[Repealed\]
+[34][43][][43][Employees][43] \[Repealed\]
 
-[35][44] [Appointment of experts][44] \[Repealed\]
+[35][44][][44][Appointment of experts][44] \[Repealed\]
 
-[36][45] [Personnel policy][45] \[Repealed\]
+[36][45][][45][Personnel policy][45] \[Repealed\]
 
-[37][46] [Equal employment opportunities programme][46] \[Repealed\]
+[37][46][][46][Equal employment opportunities programme][46] \[Repealed\]
 
 [Superannuation][47]
 
-[38][48] [Establishment of superannuation schemes][48] \[Repealed\]
+[38][48][][48][Establishment of superannuation schemes][48] \[Repealed\]
 
-[39][49] [Government Superannuation Fund][49]
+[39][49][][49][Government Superannuation Fund][49]
 
-[40][50] [Employees not in service of the Crown][50] \[Repealed\]
+[40][50][][50][Employees not in service of the Crown][50] \[Repealed\]
 
 [Liability of members, committee members, and employees][51]
 
 \[Repealed\]
 
-[41][52] [Liability of members, committee members, and employees][52] \[Repealed\]
+[41][52][][52][Liability of members, committee members, and employees][52] \[Repealed\]
 
 [Execution of documents][53]
 
 \[Repealed\]
 
-[42][54] [Execution of documents][54] \[Repealed\]
+[42][54][][54][Execution of documents][54] \[Repealed\]
 
-[43][55] [Presumption of authority to execute document][55] \[Repealed\]
+[43][55][][55][Presumption of authority to execute document][55] \[Repealed\]
 
 [Financial provisions][56]
 
-[44][57] [Funds of Agency][57] \[Repealed\]
+[44][57][][57][Funds of Agency][57] \[Repealed\]
 
-[45][58] [Gifts][58]
+[45][58][][58][Gifts][58]
 
-[46][59] [Bank accounts][59] \[Repealed\]
+[46][59][][59][Bank accounts][59] \[Repealed\]
 
-[47][60] [Investment of money][60] \[Repealed\]
+[47][60][][60][Investment of money][60] \[Repealed\]
 
-[48][61] [Loans and endowments][61]
+[48][61][][61][Loans and endowments][61]
 
-[49][62] [Agency not to borrow money without consent of Minister of Finance][62] \[Repealed\]
+[49][62][][62][Agency not to borrow money without consent of Minister of Finance][62] \[Repealed\]
 
-[50][63] [Auditor-General to be auditor of Agency][63] \[Repealed\]
+[50][63][][63][Auditor-General to be auditor of Agency][63] \[Repealed\]
 
-[51][64] [Annual report][64] \[Repealed\]
+[51][64][][64][Annual report][64] \[Repealed\]
 
-[52][65] [Agency and trust exempt from tax][65]
+[52][65][][65][Agency and trust exempt from tax][65]
 
 [Part 3][66]  
 [Dissolution of Hillary Commission, consequential amendments, and repeal][66]
 
 [Dissolution of Hillary Commission][67]
 
-[53][68] [Hillary Commission dissolved][68]
+[53][68][][68][Hillary Commission dissolved][68]
 
-[54][69] [Assets and liabilities vest in Agency][69]
+[54][69][][69][Assets and liabilities vest in Agency][69]
 
-[55][70] [Transfer of employees][70]
+[55][70][][70][Transfer of employees][70]
 
-[56][71] [Terms and conditions of employment of transferred employees][71]
+[56][71][][71][Terms and conditions of employment of transferred employees][71]
 
-[57][72] [Continuity of employment][72]
+[57][72][][72][Continuity of employment][72]
 
-[58][73] [Restriction of compensation for technical redundancy][73]
+[58][73][][73][Restriction of compensation for technical redundancy][73]
 
-[59][74] [Final report and accounts][74]
+[59][74][][74][Final report and accounts][74]
 
-[60][75] [References to Hillary Commission][75]
+[60][75][][75][References to Hillary Commission][75]
 
-[61][76] [Proceedings of Hillary Commission][76]
+[61][76][][76][Proceedings of Hillary Commission][76]
 
 [Consequential amendments][77]
 
-[62][78] [Consequential amendments][78]
+[62][78][][78][Consequential amendments][78]
 
 [Repeal][79]
 
-[63][80] [Repeal of Sport, Fitness, and Leisure Act 1987][80]
+[63][80][][80][Repeal of Sport, Fitness, and Leisure Act 1987][80]
 
 [Schedule 1][81]  
 [Board's and members' duties][81]
@@ -386,9 +386,11 @@ Sport and Recreation New Zealand
     
     *   (b) trade or carry on business under any other name, knowing that the name so resembles the name of the Agency as to be likely to mislead any person.
     
-    (3) Every person who contravenes subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+    (3) Every person who contravenes subsection (2) commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
     
     (4) It is a defence in any prosecution for an offence against subsection (3) if the defendant proves that, either alone or with any other person or persons, the defendant has carried on business continuously under the name to which the prosecution relates from any date before the commencement of this Act.
+    
+    Section 12(3): amended, on 1 July 2013, by [section 413][93] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Key provisions about board
 
@@ -486,11 +488,11 @@ Sport and Recreation New Zealand
     
     *   (d) the power to borrow money:
     
-    *   (e) the power to act as a trustee or co-trustee of a fund, except to a committee appointed under [clause 14][93] of Schedule 5 of the Crown Entities Act 2004:
+    *   (e) the power to act as a trustee or co-trustee of a fund, except to a committee appointed under [clause 14][94] of Schedule 5 of the Crown Entities Act 2004:
     
     *   (f) the power to appoint a chief executive.
     
-    (2) In other respects, [section 73][94] of the Crown Entities Act 2004 applies.
+    (2) In other respects, [section 73][95] of the Crown Entities Act 2004 applies.
     
     Section 24(1)(a): repealed, on 25 January 2005, by [section 200][89] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -554,7 +556,7 @@ Sport and Recreation New Zealand
 
 ##### 32 Good employer
     
-*   In addition to the matters in [section 118(2)][95] of the Crown Entities Act 2004, the personnel policy of the Agency must contain provisions requiring recognition of the aims and aspirations, and the cultural differences, of Pacific Island people and ethnic and minority groups.
+*   In addition to the matters in [section 118(2)][96] of the Crown Entities Act 2004, the personnel policy of the Agency must contain provisions requiring recognition of the aims and aspirations, and the cultural differences, of Pacific Island people and ethnic and minority groups.
     
     Section 32: substituted, on 25 January 2005, by [section 200][89] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -604,13 +606,13 @@ Sport and Recreation New Zealand
 
 ##### 39 Government Superannuation Fund
     
-*   (1) A person who, immediately before becoming an employee of the Agency, was a contributor to the Government Superannuation Fund under [Part 2][96] or [Part 2A][97] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service as long as the person continues to be an employee of the Agency.
+*   (1) A person who, immediately before becoming an employee of the Agency, was a contributor to the Government Superannuation Fund under [Part 2][97] or [Part 2A][98] of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, to be treated as if he or she were employed in the Government service as long as the person continues to be an employee of the Agency.
     
-    (2) The [Government Superannuation Fund Act 1956][98] applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
+    (2) The [Government Superannuation Fund Act 1956][99] applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
     
     (3) A person employed by the Agency who ceases to be a contributor to the Government Superannuation Fund is not subsequently entitled to become a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][98] in accordance with subsection (2), _controlling authority_, in relation to that employee, means the Agency.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][99] in accordance with subsection (2), _controlling authority_, in relation to that employee, means the Agency.
 
 ##### 40 Employees not in service of the Crown
     
@@ -690,7 +692,7 @@ Sport and Recreation New Zealand
     
     (2) Trustees appointed in respect of a trust established under subsection (1) must keep accounts in any manner directed by the Agency and approved by the Auditor-General.
     
-    (3) The Agency may guarantee, with or without security, advances made by any person to any other person in the circumstances in [sections 160][99] and [163][100] of the Crown Entities Act 2004\.
+    (3) The Agency may guarantee, with or without security, advances made by any person to any other person in the circumstances in [sections 160][100] and [163][101] of the Crown Entities Act 2004\.
     
     Section 48(1)(b): repealed, on 25 January 2005, by [section 200][89] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -811,13 +813,13 @@ Dissolution of Hillary Commission, consequential amendments, and repeal
     
     *   (b) include---
             
-        *   (i) financial statements of the Hillary Commission prepared, in accordance with [Part 5][101] of the Public Finance Act 1989, for that period; and
+        *   (i) financial statements of the Hillary Commission prepared, in accordance with [Part 5][102] of the Public Finance Act 1989, for that period; and
         
         *   (ii) an audit report prepared by the Auditor-General and a management statement relating to those financial statements.
         
         
     
-    (3) The Minister must present a copy of the report to the House of Representatives under [section 44A][102] of the Public Finance Act 1989\.
+    (3) The Minister must present a copy of the report to the House of Representatives under [section 44A][103] of the Public Finance Act 1989\.
 
 ##### 60 References to Hillary Commission
     
@@ -883,11 +885,11 @@ Enactments amended
 
 ##### Estate and Gift Duties Act 1968 (1968 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][103]_.
+_Amendment(s) incorporated in the [Act(s)][104]_.
 
 ##### Flags, Emblems, and Names Protection Act 1981 (1981 No 47)
 
-_Amendment(s) incorporated in the [Act(s)][104]_.
+_Amendment(s) incorporated in the [Act(s)][105]_.
 
 ##### Gaming and Lotteries Act 1977 (1977 No 84)
 
@@ -899,7 +901,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### New Zealand Sports Drug Agency Act 1994 (1994 No 75)
 
-_Amendment(s) incorporated in the [Act(s)][105]_.
+_Amendment(s) incorporated in the [Act(s)][106]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
@@ -933,23 +935,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the Sport and Recreation New Zealand Act 2002\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Sport and Recreation New Zealand Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][107] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][108] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/editorial-conventions/ or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][109] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][107] and [17E][108] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][110] and [17E][111] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -980,7 +982,9 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Entities Act 2004 (2004 No 115): [section 200][89]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][93]
+    
+    Crown Entities Act 2004 (2004 No 115): [section 200][89]
     
     [Sport and Recreation New Zealand Act Commencement Order 2002][85] (SR 2002/376)
 
@@ -1079,19 +1083,22 @@ _Amendment(s) incorporated in the Act(s)_.
 [90]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM329641
 [91]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM329630
 [92]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330351
-[93]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM331147
-[94]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330308
-[95]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330368
-[96]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446395
-[97]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446842
-[98]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446000
-[99]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330565
-[100]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330568
-[101]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM162706
-[102]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM162472
-[103]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM387126
-[104]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM52294
-[105]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM332934
-[106]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195439
-[107]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195468
-[108]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195470
+[93]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM3360714
+[94]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM331147
+[95]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330308
+[96]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330368
+[97]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446395
+[98]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446842
+[99]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM446000
+[100]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330565
+[101]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM330568
+[102]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM162706
+[103]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM162472
+[104]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM387126
+[105]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM52294
+[106]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM332934
+[107]: http://www.pco.parliament.govt.nz/reprints/
+[108]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195439
+[109]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[110]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195468
+[111]: http://www.legislation.govt.nz/act/public/2002/0038/latest/link.aspx?id=DLM195470
