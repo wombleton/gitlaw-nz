@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Science and Innovation.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,45 +25,45 @@ This Act is administered by the Ministry of Science and Innovation.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Building research levy][5]
 
-[4][6] [Minister may prescribe rates of levy][6]
+[4][6][][6][Minister may prescribe rates of levy][6]
 
-[5][7] [Payment of levies by builders][7]
+[5][7][][7][Payment of levies by builders][7]
 
-[6][8] [Submissions to arbitration][8]
+[6][8][][8][Submissions to arbitration][8]
 
-[7][9] [Power to obtain information in order to assess amount of levy payable][9]
+[7][9][][9][Power to obtain information in order to assess amount of levy payable][9]
 
-[8][10] [Expenditure of levies][10]
+[8][10][][10][Expenditure of levies][10]
 
-[9][11] [Power to appoint agents to collect levies][11]
+[9][11][][11][Power to appoint agents to collect levies][11]
 
 [Association membership][12]
 
-[10][13] [Membership of the association][13]
+[10][13][][13][Membership of the association][13]
 
 [Financial provisions][14]
 
-[11][15] [Annual accounts, etc][15]
+[11][15][][15][Annual accounts, etc][15]
 
-[12][16] [Auditors and auditing of accounts][16]
+[12][16][][16][Auditors and auditing of accounts][16]
 
-[13][17] [Copy of statement of financial position to be sent to Minister and members][17]
+[13][17][][17][Copy of statement of financial position to be sent to Minister and members][17]
 
-[14][18] [Copy of rules to be sent to Minister][18]
+[14][18][][18][Copy of rules to be sent to Minister][18]
 
-[15][19] [Financial provisions to apply notwithstanding anything to the contrary in association's rules][19]
+[15][19][][19][Financial provisions to apply notwithstanding anything to the contrary in association's rules][19]
 
 [Miscellaneous provision][20]
 
-[16][21] [Offences by officers of the association][21]
+[16][21][][21][Offences by officers of the association][21]
 
 ---
 
@@ -225,7 +225,7 @@ An Act to authorise the levying of building contractors to provide money for res
     
     *   (b) to any disclosure of information made for the purpose of any legal proceedings pursuant to this Act or any other Act, or for the purposes of any report of any such proceedings.
     
-    (5) If any person wilfully fails to comply with any requirements made under subsection (1) or subsection (2), he commits an offence and is liable on summary conviction to a fine not exceeding $200, or on a second or subsequent conviction $400\.
+    (5) If any person wilfully fails to comply with any requirements made under subsection (1) or subsection (2), he commits an offence and is liable on conviction to a fine not exceeding $200, or on a second or subsequent conviction $400\.
     
     (6) If any person---
         
@@ -233,11 +233,15 @@ An Act to authorise the levying of building contractors to provide money for res
     
     *   (b) wilfully discloses any information in contravention of subsection (3)---
     
-    he commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
+    he commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
     
     (7) Where an offence under this section committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary, or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
     
     Section 7(2): amended, on 1 July 1992, by section 92(1) of the Building Act 1991 (1991 No 150).
+    
+    Section 7(5): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 7(6): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Expenditure of levies
     
@@ -313,11 +317,11 @@ An Act to authorise the levying of building contractors to provide money for res
     
     (3) At the end of each financial year, the association shall prepare an income and expenditure account showing its financial transactions for that year, together with a statement of financial position as at the last day of that year. Every such statement of financial position shall give a true and fair view of the state of affairs of the association as at the end of its financial year, and every such income and expenditure account shall give a true and fair view of the income and expenditure for that year.
     
-    Section 11(3): amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 11(3): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 12 Auditors and auditing of accounts
     
-*   (1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of [section 19][33] of the New Zealand Institute of Chartered Accountants Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
+*   (1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of [section 19][34] of the New Zealand Institute of Chartered Accountants Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
     
     provided that no person who is an officer, member, or servant of the association shall be capable of being appointed as an auditor under this subsection.
     
@@ -329,13 +333,15 @@ An Act to authorise the levying of building contractors to provide money for res
     
     (5) All the provisions of section 166 of the Companies Act 1955 (which section relates to auditors' reports and auditors' rights of access to books of account and to attend and be heard at general meetings), so far as they are applicable and with the necessary modifications, shall apply to the association as if it were a company registered under the Companies Act 1955\. For the purposes of this subsection the term **profit and loss account** in the said section 166 shall be construed as meaning income and expenditure account.
     
-    (6) Any unqualified person who acts as auditor of the association commits an offence and is liable on summary conviction to a fine not exceeding $200\.
+    (6) Any unqualified person who acts as auditor of the association commits an offence and is liable on conviction to a fine not exceeding $200\.
     
-    Section 12(1): amended, on 7 July 2010, by [section 10][34] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+    Section 12(1): amended, on 7 July 2010, by [section 10][35] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
     
-    Section 12(1): amended, on 1 October 1996, by [section 23][35] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
+    Section 12(1): amended, on 1 October 1996, by [section 23][36] of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
     
-    Section 12(4): amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 12(4): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    
+    Section 12(6): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Copy of statement of financial position to be sent to Minister and members
     
@@ -347,15 +353,15 @@ An Act to authorise the levying of building contractors to provide money for res
     
     (4) Nothing in this section shall be construed so as to limit the application of the provisions of the [Incorporated Societies Act 1908][22] to the association.
     
-    Section 13 heading: amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 13 heading: amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 13(1): amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 13(1): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
     Section 13(1): amended, on 2 August 1990, by [section 14(1)][26] of the Foundation for Research, Science, and Technology Act 1990 (1990 No 72).
     
-    Section 13(2): amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 13(2): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 13(3): amended, on 1 October 1997, pursuant to [section 6(1)][32] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 13(3): amended, on 1 October 1997, pursuant to [section 6(1)][33] of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ##### 14 Copy of rules to be sent to Minister
     
@@ -369,21 +375,25 @@ An Act to authorise the levying of building contractors to provide money for res
 
 ##### 16 Offences by officers of the association
     
-*   (1) Every officer of the association commits an offence, and is liable on summary conviction to a fine not exceeding $200, who---
+*   (1) Every officer of the association commits an offence, and is liable on conviction to a fine not exceeding $200, who---
         
     *   (a) fails, without reasonable excuse, to take all reasonable steps to secure compliance by the association with any requirement imposed on it by this Act; or
     
     *   (b) wilfully does any act in contravention of the provisions of this Act, or, in any case where the association contravenes any such provision, connives at the contravention.
     
     (2) For the purposes of this section, the term _officer_ means any member of the board of the association and any paid secretary thereof.
+    
+    Section 16(1): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
 #### Contents
     
 *   1General
-*   2About this eprint
-*   3List of amendments incorporated in this eprint (most recent first) 
+*   2Status of reprints
+*   3How reprints are prepared
+*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
+*   5List of amendments incorporated in this reprint (most recent first)
 
 ---
 
@@ -391,23 +401,23 @@ An Act to authorise the levying of building contractors to provide money for res
 
 ###### 1 General
     
-*   This is a reprint of the Building Research Levy Act 1969\. The reprint incorporates all the amendments to the Act as at 1 February 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Building Research Levy Act 1969\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][36] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][37] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][37] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][38] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][38] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][39] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][39] and [17E][40] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][40] and [17E][41] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -438,15 +448,17 @@ An Act to authorise the levying of building contractors to provide money for res
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Research, Science, and Technology Act 2010 (2010 No 131): [section 18][27]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][34]
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][27]
+    
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][35]
     
     Building Act 2004 (2004 No 72): [section 414][25]
     
     Local Government Act 2002 (2002 No 84): [section 262][28]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][32]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][33]
     
     Arbitration Act 1996 (1996 No 99): [section 20][31]
     
@@ -494,12 +506,13 @@ An Act to authorise the levying of building contractors to provide money for res
 [29]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM125678
 [30]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM403280
 [31]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM405710
-[32]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM408960
-[33]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391422
-[34]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3043113
-[35]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391427
-[36]: http://www.pco.parliament.govt.nz/reprints/
-[37]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195439
-[38]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[39]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195468
-[40]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195470
+[32]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3360714
+[33]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM408960
+[34]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391422
+[35]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM3043113
+[36]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM391427
+[37]: http://www.pco.parliament.govt.nz/reprints/
+[38]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195439
+[39]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[40]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195468
+[41]: http://www.legislation.govt.nz/act/public/1969/0023/latest/link.aspx?id=DLM195470
