@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement3 July 1990
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -25,35 +25,35 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Incorporation of company to own and operate Wellington International Airport][5]
+[4][5][][5][Incorporation of company to own and operate Wellington International Airport][5]
 
-[4A][6] [Provisions relating to holding of securities by Minister][6]
+[4A][6][][6][Provisions relating to holding of securities by Minister][6]
 
-[4B][7] [Application of Companies Act 1955 to airport company][7]
+[4B][7][][7][Application of Companies Act 1955 to airport company][7]
 
-[5][8] [Restrictions on issue and transfer of shares][8] \[Expired\]
+[5][8][][8][Restrictions on issue and transfer of shares][8] \[Expired\]
 
-[6][9] [Expiry of section 5][9]
+[6][9][][9][Expiry of section 5][9]
 
-[7][10] [Vesting of airport assets and airport liabilities in company][10]
+[7][10][][10][Vesting of airport assets and airport liabilities in company][10]
 
-[8][11] [Additional provisions relating to vesting of airport assets and airport liabilities in company][11]
+[8][11][][11][Additional provisions relating to vesting of airport assets and airport liabilities in company][11]
 
-[9][12] [Local Authorities (Employment Protection) Act 1963 applied][12]
+[9][12][][12][Local Authorities (Employment Protection) Act 1963 applied][12]
 
-[10][13] [Joint venture agreement dissolved][13]
+[10][13][][13][Joint venture agreement dissolved][13]
 
-[11][14] [Airport reserves][14]
+[11][14][][14][Airport reserves][14]
 
-[12][15] [Duty to act in furtherance of objects of Act][15]
+[12][15][][15][Duty to act in furtherance of objects of Act][15]
 
-[13][16] [Supply of information][16]
+[13][16][][16][Supply of information][16]
 
 ---
 
@@ -241,9 +241,13 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (10) Land to which any assets are fixed, and land under or over which are any assets, may vest in the company under this Act notwithstanding that no interest in the assets also vests in the company under this Act and in any such case the asset and the land shall be regarded as separate assets each capable of separate ownership.
     
-    Compare: [1987 No 195][22] [s 7][35]; 1988 No 18 s 3
+    (11) An Order in Council made under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the [Legislation Act 2012][35] and does not have to be presented to the House of Representatives under [section 41][36] of that Act.
     
-    Section 7(2)(d): amended, on 1 February 1998, by [section 3][36] of the Wellington Airport Amendment Act 1996 (1996 No 95).
+    Compare: [1987 No 195][22] [s 7][37]; 1988 No 18 s 3
+    
+    Section 7(2)(d): amended, on 1 February 1998, by [section 3][38] of the Wellington Airport Amendment Act 1996 (1996 No 95).
+    
+    Section 7(11): inserted, on 5 August 2013, by [section 77(3)][39] of the Legislation Act 2012 (2012 No 119).
 
 ##### 8 Additional provisions relating to vesting of airport assets and airport liabilities in company
     
@@ -269,23 +273,23 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (3) District Land Registrars are hereby authorised and directed to make such entries in their respective registers and do everything necessary to give effect to the vesting of any land or any estate or interest in land under this Act.
     
-    (4) The provisions of this Act that provide for the vesting of assets or liabilities in the company shall have effect notwithstanding any enactment, rule of law or agreement and, in particular, but without limitation, the provisions of this Act that provide for the vesting of land in the company shall have effect notwithstanding any provision contained in the [Land Act 1948][37], the [Reserves Act 1977][38], or the [Public Works Act 1981][39] or in any other Act relating to land.
+    (4) The provisions of this Act that provide for the vesting of assets or liabilities in the company shall have effect notwithstanding any enactment, rule of law or agreement and, in particular, but without limitation, the provisions of this Act that provide for the vesting of land in the company shall have effect notwithstanding any provision contained in the [Land Act 1948][40], the [Reserves Act 1977][41], or the [Public Works Act 1981][42] or in any other Act relating to land.
     
-    (4A) Where land has been transferred to the company under this Act, [sections 40][40] and [41][41] of the Public Works Act 1981 shall, after that transfer, apply to the land as if the company were the Crown and the land had not been transferred under this Act.
+    (4A) Where land has been transferred to the company under this Act, [sections 40][43] and [41][44] of the Public Works Act 1981 shall, after that transfer, apply to the land as if the company were the Crown and the land had not been transferred under this Act.
     
     (5) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that any land described in the certificate, or described in any document on which the certificate appears, is land to which subsection (4) applies, shall be sufficient evidence, in the absence of proof to the contrary, that that subsection applies to the land.
     
-    (6) All land that vests in the company and that is subject to the [Land Act 1948][37] or the [Reserves Act 1977][38] shall cease to be subject to the [Land Act 1948][37] or the [Reserves Act 1977][38], as the case may be, from the date on which it vests in the company.
+    (6) All land that vests in the company and that is subject to the [Land Act 1948][40] or the [Reserves Act 1977][41] shall cease to be subject to the [Land Act 1948][40] or the [Reserves Act 1977][41], as the case may be, from the date on which it vests in the company.
     
     (7) Where by virtue of this Act any land vests in the company the land shall vest in the company for an estate in fee simple subject to all leases, agreements to lease, and easements existing in respect of any part of that land immediately before the land vests in the company but otherwise freed and discharged from all trusts and reservations affecting it.
     
-    Compare: [1986 No 124][42] [s 24(3)][43]; [1987 No 195][22] [s 7][35]
+    Compare: [1986 No 124][45] [s 24(3)][46]; [1987 No 195][22] [s 7][37]
     
     Section 8(4A): inserted, on 10 August 1992, by [section 39][32] of the Civil Aviation Amendment Act 1992 (1992 No 75).
 
 ##### 9 Local Authorities (Employment Protection) Act 1963 applied
     
-*   (1) The Local Authorities (Employment Protection) Act 1963 shall, notwithstanding its repeal on 1 November 1990 by [section 55][44] of the Local Government Amendment Act (No 2) 1989, apply, with effect on and from the vesting day, in respect of the employees of the Council as if---
+*   (1) The Local Authorities (Employment Protection) Act 1963 shall, notwithstanding its repeal on 1 November 1990 by [section 55][47] of the Local Government Amendment Act (No 2) 1989, apply, with effect on and from the vesting day, in respect of the employees of the Council as if---
         
     *   (a) the company was a local authority for the purposes of that Act; and
     
@@ -301,7 +305,7 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (3) Nothing in the Local Authorities (Employment Protection) Act 1963 (as applied by subsection (1)) shall affect any rights or liabilities under any provident, benefit, superannuation, or retirement fund or scheme of any person to whom that Act applies.
     
-    Compare: [1987 No 195][22] [s 8][45]
+    Compare: [1987 No 195][22] [s 8][48]
 
 ##### 10 Joint venture agreement dissolved
     
@@ -309,7 +313,7 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (2) Nothing in subsection (1) limits or affects the liability of any person for breach of the joint venture agreement by reason of any act or omission before the vesting day.
     
-    Compare: [1987 No 195][22] [s 9][46]
+    Compare: [1987 No 195][22] [s 9][49]
 
 ##### 11 Airport reserves
     
@@ -345,7 +349,7 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (12) Any amount paid on redemption of such securities or on the sale or other disposition of such securities and any interest received in respect of such securities, may, notwithstanding the Civil Aviation Act 1964, any other enactment, rule of law, deed or agreement, be used for such purposes as the Council thinks fit.
     
-    Compare: [1987 No 195][22] [s 10(1)--(4)][47], [(6)--(13)][47]
+    Compare: [1987 No 195][22] [s 10(1)--(4)][50], [(6)--(13)][50]
     
     Section 11(7): amended, on 25 January 2005, pursuant to [section 65R(3)][31] of the Public Finance Act 1989 (1989 No 44).
     
@@ -373,7 +377,7 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     *   (c) extend the term of any lease, licence, concession or other franchise agreement or arrangement relating to an airport asset for a period exceeding 12 months.
     
-    Compare: [1987 No 195][22] [s 12][48]
+    Compare: [1987 No 195][22] [s 12][51]
 
 ##### 13 Supply of information
     
@@ -381,86 +385,45 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
     
     (2) All information required to be made available under this section shall be made available in a form in which it may be readily understood.
     
-    Compare: [1987 No 195][22] [s 13][49]
+    Compare: [1987 No 195][22] [s 13][52]
     
-    Section 13(1): amended, on 1 February 1998, by [section 4][50] of the Wellington Airport Amendment Act 1996 (1996 No 95).
+    Section 13(1): amended, on 1 February 1998, by [section 4][53] of the Wellington Airport Amendment Act 1996 (1996 No 95).
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Wellington Airport Act 1990\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][51] ![](/images/external_link.gif).
+*   This is a reprint of the Wellington Airport Act 1990 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][52] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][54] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][55] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][53] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][56] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][57] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][54] and [17E][55] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][39]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Local Government Act 2002 (2002 No 84): [section 262][34]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Local Government Act 2002 (2002 No 84): [section 262][34]
-    
-    [Wellington Airport Amendment Act 1996][56] (1996 No 95)
+    [Wellington Airport Amendment Act 1996][58] (1996 No 95)
     
     Civil Aviation Amendment Act 1992 (1992 No 75): [section 39][32]
     
-    [Wellington Airport Act Order 1992][57] (SR 1992/67)
+    [Wellington Airport Act Order 1992][59] (SR 1992/67)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][31]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1990/0056/latest/whole.html#DLM211893
 [2]: http://www.legislation.govt.nz/act/public/1990/0056/latest/whole.html#DLM211895
 [3]: http://www.legislation.govt.nz/act/public/1990/0056/latest/whole.html#DLM211896
@@ -495,26 +458,28 @@ An Act to provide for the incorporation of a company to own and operate Wellingt
 [32]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM269410
 [33]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM170872
 [34]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM174088
-[35]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125631
-[36]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403242
-[37]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM250585
-[38]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM444304
-[39]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM45426
-[40]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM46055
-[41]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM46068
-[42]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM97376
-[43]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM98075
-[44]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM159287
-[45]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125633
-[46]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125634
-[47]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125635
-[48]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125640
-[49]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125641
-[50]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403243
-[51]: http://www.pco.parliament.govt.nz/reprints/
-[52]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM195439
-[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM195468
-[55]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM195470
-[56]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403235
-[57]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM153829
+[35]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2997643
+[36]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998573
+[37]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125631
+[38]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403242
+[39]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998633
+[40]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM250585
+[41]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM444304
+[42]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM45426
+[43]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM46055
+[44]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM46068
+[45]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM97376
+[46]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM98075
+[47]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM159287
+[48]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125633
+[49]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125634
+[50]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125635
+[51]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125640
+[52]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM125641
+[53]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403243
+[54]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998516
+[55]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998515
+[56]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM2998532
+[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[58]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM403235
+[59]: http://www.legislation.govt.nz/act/public/1990/0056/latest/link.aspx?id=DLM153829
