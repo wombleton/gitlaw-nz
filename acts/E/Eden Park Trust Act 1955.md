@@ -1,5 +1,5 @@
 Reprint  
-as at 21 September 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -70,7 +70,11 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [Schedule 2][24]  
 
+\[Repealed\]
+
 [Schedule 3][25]  
+
+\[Repealed\]
 
 ---
 
@@ -248,9 +252,11 @@ An Act to constitute and incorporate the Eden Park Trust Board and to declare th
 
 ##### 19 Penalty for breach of by-law
     
-*   Every person who commits any breach of any by-law under this Act is liable to a fine not exceeding $500, and shall also be liable to pay damages in respect of any injury done by such person. All such fines and damages may be recovered in a summary way, and when so recovered shall be paid without deduction to the Trust Board.
+*   Every person who commits any breach of any by-law under this Act is liable on conviction to a fine not exceeding $500, and shall also be liable to pay damages in respect of any injury done by such person. All such fines and damages may be recovered in accordance with [Part 3][34] of the Summary Proceedings Act 1957, and when so recovered shall be paid without deduction to the Trust Board.
     
-    Section 19: amended, on 21 September 2009, by [section 10][34] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
+    Section 19: amended, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 19: amended, on 21 September 2009, by [section 10][36] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
 
 ##### 20 Private Act
     
@@ -261,9 +267,9 @@ An Act to constitute and incorporate the Eden Park Trust Board and to declare th
 ## Schedule 1  
 Trust deed
 
-[s 2(1)][35]
+[s 2(1)][37]
 
-*   Schedule 1: replaced, on 21 September 2009, by [section 11][36] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
+*   Schedule 1: replaced, on 21 September 2009, by [section 11][38] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
 
 ##### INTRODUCTION
     
@@ -851,13 +857,17 @@ Trust deed
 
 ## Schedule 2  
 
-*   Schedule 2: repealed, on 21 September 2009, by [section 11][36] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
+\[Repealed\]
+    
+*   Schedule 2: repealed, on 21 September 2009, by [section 11][38] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
 
 ---
 
 ## Schedule 3  
 
-*   Schedule 3: repealed, on 21 September 2009, by [section 11][36] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
+\[Repealed\]
+    
+*   Schedule 3: repealed, on 21 September 2009, by [section 11][38] of the Eden Park Trust Amendment Act 2009 (2009 No 1 (P)).
 
 ---
 
@@ -869,7 +879,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Eden Park Trust Amendment Act 2009][37].
+*   This Act is the [Eden Park Trust Amendment Act 2009][39].
 
 ##### 2 Commencement
     
@@ -898,9 +908,11 @@ Consequential matters
     
     _former trustees_ means any person who held office as a trustee under the principal Act before the commencement of this Act
     
-    _offence_ means any act or omission for which anyone can be punished under the Crimes Act 1961 or under any other enactment, whether on conviction on indictment or on summary conviction
+    _offence_ means any act or omission for which anyone can be punished on conviction under the Crimes Act 1961 or any other enactment
     
     _Trust Board_ has the same meaning as in section 2(1) of the principal Act.
+    
+    Section 12(4) **offence**: replaced, on 1 July 2013, by [section 413][35] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Trust terms
     
@@ -928,23 +940,23 @@ Consequential matters
 
 ###### 1 General
     
-*   This is a reprint of the Eden Park Trust Act 1955\. The reprint incorporates all the amendments to the Act as at 21 September 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Eden Park Trust Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][38] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][40] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][39] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][41] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][40] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][42] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][41] and [17E][42] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][43] and [17E][44] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -975,9 +987,11 @@ Consequential matters
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Eden Park Trust Amendment Act 2009][37] (2009 No 1 (P))
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][35]
     
-    [Eden Park Trust Amendment Act 1970][43] (1970 No 7 (P))
+    [Eden Park Trust Amendment Act 2009][39] (2009 No 1 (P))
+    
+    [Eden Park Trust Amendment Act 1970][45] (1970 No 7 (P))
 
 
 
@@ -1015,13 +1029,15 @@ Consequential matters
 [31]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919734
 [32]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919736
 [33]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919738
-[34]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919739
-[35]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919718
-[36]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919740
-[37]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919700
-[38]: http://www.pco.parliament.govt.nz/reprints/
-[39]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195439
-[40]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[41]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195468
-[42]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195470
-[43]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM106895
+[34]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM311863
+[35]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM3360714
+[36]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919739
+[37]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919718
+[38]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919740
+[39]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM1919700
+[40]: http://www.pco.parliament.govt.nz/reprints/
+[41]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195439
+[42]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[43]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195468
+[44]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM195470
+[45]: http://www.legislation.govt.nz/act/private/1955/0003/latest/link.aspx?id=DLM106895
