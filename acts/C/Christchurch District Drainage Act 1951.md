@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -494,11 +494,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
     
-    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on summary conviction to a fine not exceeding $100\.
+    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the person commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     Section 12: replaced, on 17 June 1986, by section 12 of the Local Government Amendment Act 1986 (1986 No 21).
     
     Section 12(1)(c): amended, on 1 November 1992, pursuant to [section 137(1)][135] of the Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46).
+    
+    Section 12(3): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 13 Acting as member without qualification
     
@@ -550,7 +552,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 19: replaced, on 3 August 1979, by section 2(1) of the Christchurch District Drainage Amendment Act 1979 (1979 No 3 (L)).
     
-    Section 19(2): replaced, on 30 March 1985, by [section 39(2)][136] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 19(2): replaced, on 30 March 1985, by [section 39(2)][137] of the Local Government Amendment Act 1985 (1985 No 60).
 
 ##### 19A Allowance to Chairman
     
@@ -566,23 +568,23 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 20 Allowances, expenses, and remuneration of Chairman and members
     
-*   (1) The Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][137].
+*   (1) The Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][138].
     
-    (2) The Board may pay to the Chairman and to the members of the Board or any committee thereof travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][137], and the provisions of that Act shall apply accordingly.
+    (2) The Board may pay to the Chairman and to the members of the Board or any committee thereof travelling allowances and expenses in accordance with the [Fees and Travelling Allowances Act 1951][138], and the provisions of that Act shall apply accordingly.
     
-    (3) Where any maximum annual allowance or remuneration is determined under [section 214B][138] or [section 214C][139] of the Local Government Act 1974 in respect of the Chairman, Deputy Chairman, Chairmen of Standing Committees, or members of the Board, there may, subject to the conditions of that determination and [sections 214K][140] and [214L][141] of that Act and [section 19(2)][22] of this Act, be paid to each of those persons such annual allowance or remuneration, not exceeding that maximum allowance or remuneration, as the Board determines.
+    (3) Where any maximum annual allowance or remuneration is determined under [section 214B][139] or [section 214C][140] of the Local Government Act 1974 in respect of the Chairman, Deputy Chairman, Chairmen of Standing Committees, or members of the Board, there may, subject to the conditions of that determination and [sections 214K][141] and [214L][142] of that Act and [section 19(2)][22] of this Act, be paid to each of those persons such annual allowance or remuneration, not exceeding that maximum allowance or remuneration, as the Board determines.
     
-    (4) Where any actual annual allowance or remuneration is determined under [section 214B][138] or [section 214C][139] of the Local Government Act 1974 in respect of the Chairman, Deputy Chairman, Chairmen of Standing Committees, or members of the Board, there shall, subject to the conditions of that determination, [sections 214K][140] and [214L][141] of that Act, and [section 19(2)][22] of this Act, be paid to each of those persons the annual allowance or remuneration so determined.
+    (4) Where any actual annual allowance or remuneration is determined under [section 214B][139] or [section 214C][140] of the Local Government Act 1974 in respect of the Chairman, Deputy Chairman, Chairmen of Standing Committees, or members of the Board, there shall, subject to the conditions of that determination, [sections 214K][141] and [214L][142] of that Act, and [section 19(2)][22] of this Act, be paid to each of those persons the annual allowance or remuneration so determined.
     
     (5) \[Repealed\]
     
     Section 20: replaced, on 3 August 1979, by section 2(1) of the Christchurch District Drainage Amendment Act 1979 (1979 No 3 (L)).
     
-    Section 20(3): replaced, on 30 March 1985, by [section 39(2)][136] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 20(3): replaced, on 30 March 1985, by [section 39(2)][137] of the Local Government Amendment Act 1985 (1985 No 60).
     
-    Section 20(4): replaced, on 30 March 1985, by [section 39(2)][136] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 20(4): replaced, on 30 March 1985, by [section 39(2)][137] of the Local Government Amendment Act 1985 (1985 No 60).
     
-    Section 20(5): repealed, on 30 March 1985, by [section 39(2)][136] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 20(5): repealed, on 30 March 1985, by [section 39(2)][137] of the Local Government Amendment Act 1985 (1985 No 60).
 
 ##### 21 Deputy Chairman
     
@@ -600,7 +602,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 23 Committees
     
-*   (1) The Board may delegate any of its powers to committees, including Standing Committees, consisting of such members as it thinks fit, whether members of the Board or not, but the Board may not delegate to any such committee power to enter into any contract except in accordance with the provisions of [section 4][142] of the Public Bodies Contracts Act 1959\.
+*   (1) The Board may delegate any of its powers to committees, including Standing Committees, consisting of such members as it thinks fit, whether members of the Board or not, but the Board may not delegate to any such committee power to enter into any contract except in accordance with the provisions of [section 4][143] of the Public Bodies Contracts Act 1959\.
     
     (2) The Board may at any time, and from time to time, discharge, alter, continue, or reconstitute any committee or discharge any member of a committee, and, if it thinks fit, appoint another member in his stead.
     
@@ -710,7 +712,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (d) the Board shall hold a meeting on the day so appointed, and may, after hearing any person making any objection, if present, determine to abandon the work proposed, or to proceed therewith, with or without such alterations as the Board thinks fit:
     
-    *   (e) after notices under the provisions of paragraph (b) have been given and all objections disposed of, the Board may cause a certificate over the signature of its Secretary describing such drains or sewers and with a plan defining the line of the same endorsed thereon to be prepared and deposited in the office of the District Land Registrar or the Registrar of Deeds at Christchurch; and where the land referred to in such certificate is subject to the [Land Transfer Act 1952][143], the District Land Registrar shall register against the title to the land a memorial of such certificate, and in every other case the Registrar of Deeds shall cause an entry thereof to be made under the proper head or title in the index book of the Deeds Register Office:
+    *   (e) after notices under the provisions of paragraph (b) have been given and all objections disposed of, the Board may cause a certificate over the signature of its Secretary describing such drains or sewers and with a plan defining the line of the same endorsed thereon to be prepared and deposited in the office of the District Land Registrar or the Registrar of Deeds at Christchurch; and where the land referred to in such certificate is subject to the [Land Transfer Act 1952][144], the District Land Registrar shall register against the title to the land a memorial of such certificate, and in every other case the Registrar of Deeds shall cause an entry thereof to be made under the proper head or title in the index book of the Deeds Register Office:
         
         provided that, if at any time after the issue of a certificate under the provisions of this paragraph it is found that the line of such drain or sewer will not pass through such land or any part thereof or that an error in form or substance exists in or in relation to such certificate, the Board may revoke the certificate wholly or so far as it thinks necessary by the depositing at the office of the District Land Registrar or the Registrar of Deeds at Christchurch of a subsequent certificate, and the former certificate shall thereupon to the extent to which it has been so revoked be void and of no effect as from the date thereof as if it had not been issued or made; and any registration which has been effected by the District Land Registrar and any entry in the index book which has been made by the Registrar of Deeds shall thereupon be cancelled by the Registrar concerned and be deemed to have been of no effect as from the date of the making of the former certificate to the extent to which the said certificate has been so revoked:
         
@@ -746,7 +748,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) Where the Board incurs any expenditure in enclosing and covering in any watercourse or drain pursuant to subsection (1), each owner of land benefited or likely to be benefited from the enclosing and covering in of the watercourse or drain, shall, if the Board so requires, pay to the Board on account of betterment the amount of the increased value thereby given, or likely to be given, to his land, or such smaller amount as the Board thinks fit.
     
-    (4) Subsections (3) to (10) of [section 326][144] of the Local Government Act 1974, as far as they are applicable and with the necessary modifications, shall apply with respect to every claim for betterment under this section as if it were a claim for betterment under the said section 326 and as if the reference in subsection (4) of the said section 326 to the widening of a road or part of a road was a reference to the enclosing and covering in of a watercourse or drain.
+    (4) Subsections (3) to (10) of [section 326][145] of the Local Government Act 1974, as far as they are applicable and with the necessary modifications, shall apply with respect to every claim for betterment under this section as if it were a claim for betterment under the said section 326 and as if the reference in subsection (4) of the said section 326 to the widening of a road or part of a road was a reference to the enclosing and covering in of a watercourse or drain.
     
     Section 28C: inserted, on 22 November 1985, by section 4 of the Christchurch District Drainage Amendment Act 1985 (1985 No 6 (L)).
 
@@ -816,7 +818,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     provided that in all cases where the Board serves any such second notice, the person or persons interested in the land therein mentioned or affected thereby, and incurring any loss or expense in consequence of the Board having previously required the same, shall be entitled to compensation for such loss and expense; and if the amount thereof cannot be agreed upon, the same shall be ascertained and fixed by any District Court Judge or 2 Justices within the district.
     
-    Section 33 proviso: amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 33 proviso: amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 34 Board may open up drains in streets or roads
     
@@ -876,7 +878,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 38(3): amended, on 1 September 1972, by section 6(1) of the Ministry of Transport Amendment Act 1972 (1972 No 4).
     
-    Section 38(4): amended, on 1 April 1980, pursuant to [section 12][146] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 38(4): amended, on 1 April 1980, pursuant to [section 12][147] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 38(4): amended, on 1 September 1972, by section 6(1) of the Ministry of Transport Amendment Act 1972 (1972 No 4).
 
@@ -890,21 +892,23 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (c) stops or obstructs---
     
-    any watercourse, sewer, drain vested in the Board, or private drain commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    any watercourse, sewer, drain vested in the Board, or private drain commits an offence and is liable on conviction to a fine not exceeding $500\.
     
     (2) The Board may cause any drain, connection, stoppage, or obstruction made or caused in contravention of subsection (1) to be disconnected, remade, or removed in such manner as it thinks fit.
     
     (3) If any person acts in contravention of subsection (1) then, whether or not that person has been convicted of an offence under that subsection, the amount of all expenditure reasonably incurred by the Board under subsection (2) in relation to that contravention shall constitute a debt payable by that person to the Board and shall be recoverable accordingly.
     
     Section 39: replaced, on 22 November 1985, by section 5 of the Christchurch District Drainage Amendment Act 1985 (1985 No 6 (L)).
+    
+    Section 39(1): amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 40 Board not liable for damage from overflow of river, etc
     
 *   Nothing herein shall be construed to render the Board liable for any consequential damage which may happen to any land or other property through or by the accidental or tidal overflowing of any river, stream, estuary, or watercourse, or by the sudden breaking (not being due to any negligent act on the part of the Board in carrying out any work under this Act) of any bank, dam, sluice, or reservoir whatsoever, which under the provisions of this Act the Board may take upon itself the duty of regulating, maintaining, or making:
     
-    provided that if the owner or occupier of such land has given notice in writing to the Board warning it of the probability of such damage, or of the weakness or deficiency of any such dam, reservoir, bank, or sluice, and requiring the Board to strengthen, amend, or repair the same, and the Board has not within a reasonable time after the delivery of the said notice taken proper precautions to prevent such damage, then and in such case the amount of the consequential damage which shall happen through the neglect of the Board to take precautions shall be made good out of the rate revenue of the Board from rates set and assessed under the [Local Government (Rating) Act 2002][147].
+    provided that if the owner or occupier of such land has given notice in writing to the Board warning it of the probability of such damage, or of the weakness or deficiency of any such dam, reservoir, bank, or sluice, and requiring the Board to strengthen, amend, or repair the same, and the Board has not within a reasonable time after the delivery of the said notice taken proper precautions to prevent such damage, then and in such case the amount of the consequential damage which shall happen through the neglect of the Board to take precautions shall be made good out of the rate revenue of the Board from rates set and assessed under the [Local Government (Rating) Act 2002][148].
     
-    Section 40 proviso: amended, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 40 proviso: amended, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 40 proviso: amended, on 29 June 1988, by section 208(1) of the Rating Powers Act 1988 (1988 No 97).
 
@@ -936,23 +940,23 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 41(1)(a): amended, on 30 September 1960, by section 6(b) of the Christchurch District Drainage Amendment Act 1960 (1960 No 4 (L)).
     
-    Section 41(2): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41(2): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 41(3): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41(3): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 41(4): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41(4): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 41(5): amended, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 41(5): amended, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 41(5): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41(5): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 41(5): amended, on 3 May 1975, by section 7(b) of the Christchurch District Drainage Amendment Act 1975 (1975 No 2 (L)).
     
-    Section 41(6): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 41(6): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 42 Additional powers of Board to require owner to carry out works
     
-*   (1) The Board may by notice in writing require the ratepayer for a rating unit under the [Local Government (Rating) Act 2002][147] to do all or any of the following things, namely:
+*   (1) The Board may by notice in writing require the ratepayer for a rating unit under the [Local Government (Rating) Act 2002][148] to do all or any of the following things, namely:
         
     *   (a) provide, construct, and lay any new private drains or sewers from any part or parts of his premises, and connect such new private drains or sewers with such public drain or sewer as the Board shall direct:
     
@@ -1004,7 +1008,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (g) any owner or occupier of any premises who refuses to permit or allow the Board, or any of its officers, agents, servants, or persons authorised by it so to do, to enter thereon as aforesaid, and every person who obstructs the Board or any of its officers, agents, servants, or authorised persons in the exercise of their powers, shall be guilty of an offence and shall be liable to a fine not exceeding $200 for each offence.
     
-    Section 42(1): amended, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 42(1): amended, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 42(1A): inserted, on 30 September 1960, by section 7(1) of the Christchurch District Drainage Amendment Act 1960 (1960 No 4 (L)).
     
@@ -1032,7 +1036,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 43 Removal of obstructions by owners
     
-*   (1) Subject to the provisions of the [Soil Conservation and Rivers Control Act 1941][133] and of the [Resource Management Act 1991][149], the Board may, by order in writing under the hand of the Chairman or Secretary or Engineer, require the carrying out within a time specified in such order (being not less than 24 hours after the service of the order) of all or any of the following works:
+*   (1) Subject to the provisions of the [Soil Conservation and Rivers Control Act 1941][133] and of the [Resource Management Act 1991][150], the Board may, by order in writing under the hand of the Chairman or Secretary or Engineer, require the carrying out within a time specified in such order (being not less than 24 hours after the service of the order) of all or any of the following works:
         
     *   (a) the removal from any watercourse of any obstruction to the free flow of water or sewage in the watercourse:
     
@@ -1050,7 +1054,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 43: replaced, on 3 August 1979, by section 3(1) of the Christchurch District Drainage Amendment Act 1979 (1979 No 3 (L)).
     
-    Section 43(1): amended, on 1 October 1991, pursuant to [section 361(1)][150] of the Resource Management Act 1991 (1991 No 69).
+    Section 43(1): amended, on 1 October 1991, pursuant to [section 361(1)][151] of the Resource Management Act 1991 (1991 No 69).
 
 ##### 43A Tree roots obstructing watercourses
     
@@ -1084,7 +1088,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 43A: inserted, on 26 August 1966, by section 7 of the Christchurch District Drainage Amendment Act 1966 (1966 No 14 (L)).
     
-    Section 43A(5): amended, on 1 April 1980, pursuant to [section 18(2)][145] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 43A(5): amended, on 1 April 1980, pursuant to [section 18(2)][146] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 44 Power to construct cross sewers
     
@@ -1150,17 +1154,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (3) For the purposes of this section the term _tenant_ means---
         
-    *   (a) a purchaser under [section 16][151] of the Housing Act 1955, and a licensee under [section 17][152] of that Act, where the agreement for sale or the licence, as the case may be, has been registered under [section 18][153] of that Act:
+    *   (a) a purchaser under [section 16][152] of the Housing Act 1955, and a licensee under [section 17][153] of that Act, where the agreement for sale or the licence, as the case may be, has been registered under [section 18][154] of that Act:
     
-    *   (b) a lessee under [section 554][154] or [section 572][155] of the Local Government Act 1974:
+    *   (b) a lessee under [section 554][155] or [section 572][156] of the Local Government Act 1974:
     
-    *   (c) a purchaser under [section 554][154] or [section 572][155] of the Local Government Act 1974 where the agreement for sale has been registered under [section 575][156] of that Act:
+    *   (c) a purchaser under [section 554][155] or [section 572][156] of the Local Government Act 1974 where the agreement for sale has been registered under [section 575][157] of that Act:
     
-    *   (d) a lessee under [section 63][157] or [section 65][158] of the Land Act 1948\.
+    *   (d) a lessee under [section 63][158] or [section 65][159] of the Land Act 1948\.
     
     Section 49: replaced, on 22 November 1985, by section 6(1) of the Christchurch District Drainage Amendment Act 1985 (1985 No 6 (L)).
     
-    Section 49(2)(c): amended, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 49(2)(c): amended, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 50 Order or certificate declaring advances due
     
@@ -1178,7 +1182,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   (1) Where an advance is made under the provisions of [section 49][61] to an owner, at the request in writing (containing a reference to this section) of a tenant under him, the owner may recover from the tenant, in like manner as if the same were rent reserved under the tenancy, each and every sum paid by the owner to the Board.
     
-    (2) For the purposes of this section, the term _tenant_ includes a purchaser under [section 16][151] of the Housing Act 1955, and a licensee under [section 17][152] of that Act, where the agreement for sale or licence, as the case may be, has been registered under [section 18][153] of that Act; and also includes a lessee or licensee under [section 63][157] or [section 65][158] of the Land Act 1948\.
+    (2) For the purposes of this section, the term _tenant_ includes a purchaser under [section 16][152] of the Housing Act 1955, and a licensee under [section 17][153] of that Act, where the agreement for sale or licence, as the case may be, has been registered under [section 18][154] of that Act; and also includes a lessee or licensee under [section 63][158] or [section 65][159] of the Land Act 1948\.
     
     Section 51A: inserted, on 13 September 1957, by section 5 of the Christchurch District Drainage Amendment Act 1957 (1957 No 5 (L)).
 
@@ -1212,7 +1216,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     provided that the amount so payable into the separate bank account may be reduced by the amount of any expenditure actually incurred during the period of 15 months ending with that 30 June and properly chargeable against the fund which has not already been withdrawn from the separate bank account.
     
-    (3) The Board may from time to time invest any money so allocated to any such fund in securities referred to in [section 4][159] of the Trustee Act 1956 and pay the proceeds of the investment into the fund.
+    (3) The Board may from time to time invest any money so allocated to any such fund in securities referred to in [section 4][160] of the Trustee Act 1956 and pay the proceeds of the investment into the fund.
     
     (4) The Board may from time to time apply the money in any such fund only to the purposes for which the fund was established.
     
@@ -1236,11 +1240,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 58 Rating powers
     
-*   The Board shall annually make an estimate of the expenditure incurred or to be incurred for the benefit of the several sewerage and drainage areas constituted by the Board; and for that purpose the rates to be set and assessed under the [Local Government (Rating) Act 2002][147] in respect of each such sewerage and drainage area, respectively, shall be in proportion to and sufficient for the purpose of meeting the several estimates of expenditure.
+*   The Board shall annually make an estimate of the expenditure incurred or to be incurred for the benefit of the several sewerage and drainage areas constituted by the Board; and for that purpose the rates to be set and assessed under the [Local Government (Rating) Act 2002][148] in respect of each such sewerage and drainage area, respectively, shall be in proportion to and sufficient for the purpose of meeting the several estimates of expenditure.
     
     Section 58: replaced, on 29 June 1988, by section 208(1) of the Rating Powers Act 1988 (1988 No 97).
     
-    Section 58: amended, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 58: amended, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 59 Board may define boundaries of sewerage and drainage areas
     
@@ -1270,7 +1274,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 1 July 2003, by [section 137(1)][148] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 63: repealed, on 1 July 2003, by [section 137(1)][149] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 #### Sinking funds
 
@@ -1292,9 +1296,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (4) \[Repealed\]
     
-    Section 65(3): repealed, on 23 October 1959, by [section 5(2)][160] of the Public Bodies Contracts Act 1959 (1959 No 98).
+    Section 65(3): repealed, on 23 October 1959, by [section 5(2)][161] of the Public Bodies Contracts Act 1959 (1959 No 98).
     
-    Section 65(4): repealed, on 23 October 1959, by [section 5(2)][160] of the Public Bodies Contracts Act 1959 (1959 No 98).
+    Section 65(4): repealed, on 23 October 1959, by [section 5(2)][161] of the Public Bodies Contracts Act 1959 (1959 No 98).
 
 #### Officers
 
@@ -1308,7 +1312,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 67 Superannuation and other benefits for employees
     
-*   (1) The Board shall be deemed to be a local authority for the purposes of the Local Authorities Superannuation Act 1908, the National Provident Fund Act 1950, and [section 6][161] of the Finance Act (No 2) 1941\.
+*   (1) The Board shall be deemed to be a local authority for the purposes of the Local Authorities Superannuation Act 1908, the National Provident Fund Act 1950, and [section 6][162] of the Finance Act (No 2) 1941\.
     
     (2) The Board may from time to time pay by way of subsidy such sums as it thinks fit to the funds of any sick, death, or funeral benefit society or other like institution established by its employees, or any section of them, the benefits of which are confined to such employees and their dependants.
 
@@ -1540,15 +1544,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
 
 ##### 89 How fines recoverable
     
-*   Every offence hereby made punishable by a fine may be prosecuted, and all fines imposed by this Act shall be recoverable, in a summary way before any 2 Justices in the manner provided by the Justices of the Peace Act 1927\.
+*   Every offence hereby made punishable by a fine may be prosecuted, and all fines imposed by this Act shall be recoverable, in accordance with [Part 3][163] of the Summary Proceedings Act 1957\.
+    
+    Section 89: amended, on 1 July 2013, by [section 413][136] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 90 Provision for disposal of certain lands
     
-*   (1) Such of the lands described in [Schedule 3][125] as have not already been sold under the powers contained in the Christchurch Drainage Board Reserves Sale and Exchange Act 1887 or the Christchurch District Drainage Act 1907 are hereby declared to be vested in His Majesty the King as Crown land subject to the [Land Act 1948][162], together with all rights, interests, and easements appurtenant thereto, but subject to all leases, liens, encumbrances, and easements affecting the same.
+*   (1) Such of the lands described in [Schedule 3][125] as have not already been sold under the powers contained in the Christchurch Drainage Board Reserves Sale and Exchange Act 1887 or the Christchurch District Drainage Act 1907 are hereby declared to be vested in His Majesty the King as Crown land subject to the [Land Act 1948][164], together with all rights, interests, and easements appurtenant thereto, but subject to all leases, liens, encumbrances, and easements affecting the same.
     
     (2) The District Land Registrar for the Land Registration District of Canterbury is hereby authorised and directed to do all such things as may be necessary to give effect to the provisions of this section and to make all necessary endorsements on any certificates of title in respect of lands vested in His Majesty by the last preceding subsection; and any such certificate of title shall enure in the name of His Majesty until the expiration, release, or determination of any lease, easement, or other interest registered against the same, and shall then be cancelled by the said District Land Registrar.
     
-    (3) The Land Settlement Board constituted pursuant to the [Land Act 1948][162] may release to the owner of any of the lands described in [Schedule 3][125] any easement, right, or servitude to which the lands may be subject, at such consideration and on such terms as it thinks fit.
+    (3) The Land Settlement Board constituted pursuant to the [Land Act 1948][164] may release to the owner of any of the lands described in [Schedule 3][125] any easement, right, or servitude to which the lands may be subject, at such consideration and on such terms as it thinks fit.
 
 ##### 91 Government works not to be interfered with
     
@@ -1560,9 +1566,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) In giving any consent or approval under subsection (1), the Minister may impose such conditions as he thinks fit.
     
-    Section 91(1)(a): amended, on 1 April 1988, by [section 8][163] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 91(1)(a): amended, on 1 April 1988, by [section 8][165] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 91(2): amended, on 1 April 1988, by [section 8][163] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 91(2): amended, on 1 April 1988, by [section 8][165] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 92 Certain enactments not affected
     
@@ -1715,7 +1721,7 @@ Enactments repealed
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1916 (1916 No 14)
 
-_Amendment(s) incorporated in the [Act(s)][164]_.
+_Amendment(s) incorporated in the [Act(s)][166]_.
 
 ---
 
@@ -1735,7 +1741,7 @@ Commencement18 July 1969
     
     (2) Without limiting the provisions of section 56 of the principal Act, it is hereby declared that every person having any estate or interest in any land damaged or injuriously affected by the exercise of the powers given by subsection (1) shall be entitled to full compensation from the Board, and sections 56 and 57 of the principal Act shall apply accordingly with all necessary modifications.
     
-    Section 4: amended, on 1 October 1991, pursuant to [section 361(1)][150] of the Resource Management Act 1991 (1991 No 69).
+    Section 4: amended, on 1 October 1991, pursuant to [section 361(1)][151] of the Resource Management Act 1991 (1991 No 69).
 
 ---
 
@@ -1771,23 +1777,23 @@ Commencement3 May 1975
 
 ###### 1 General
     
-*   This is a reprint of the Christchurch District Drainage Act 1951\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Christchurch District Drainage Act 1951\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][165] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][167] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][166] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][168] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][167] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][169] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][168] and [17E][169] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][170] and [17E][171] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1818,7 +1824,9 @@ Commencement3 May 1975
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][148]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][136]
+    
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][149]
     
     Public Trust Act 2001 (2001 No 100): [section 170(2)][129]
     
@@ -1826,25 +1834,25 @@ Commencement3 May 1975
     
     Mental Health (Compulsory Assessment and Treatment) Act 1992 (1992 No 46): [section 137(1)][135]
     
-    Resource Management Act 1991 (1991 No 69): [section 361(1)][149]
+    Resource Management Act 1991 (1991 No 69): [section 361(1)][150]
     
     Rating Powers Act 1988 (1988 No 97): sections 208(1), 209(1)
     
-    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][163]
+    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][165]
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][170]
+    Constitution Act 1986 (1986 No 114): [section 29(2)][172]
     
-    Local Government Amendment Act 1986 (1986 No 21): [section 12][171]
+    Local Government Amendment Act 1986 (1986 No 21): [section 12][173]
     
-    Local Government Amendment Act 1985 (1985 No 60): [section 39(2)][136]
+    Local Government Amendment Act 1985 (1985 No 60): [section 39(2)][137]
     
     Christchurch District Drainage Amendment Act 1985 (1985 No 6 (L))
     
     Local Elections and Polls Amendment Act 1982 (1982 No 33): section 33
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][145]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][146]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][146]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][147]
     
     Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][128]
     
@@ -1866,7 +1874,7 @@ Commencement3 May 1975
     
     Christchurch District Drainage Amendment Act 1960 (1960 No 4 (L))
     
-    Public Bodies Contracts Act 1959 (1959 No 98): [section 5(2)][160]
+    Public Bodies Contracts Act 1959 (1959 No 98): [section 5(2)][161]
     
     Christchurch District Drainage Amendment Act 1957 (1957 No 5 (L))
     
@@ -2012,39 +2020,41 @@ Commencement3 May 1975
 [133]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM230364
 [134]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM88956
 [135]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM264250
-[136]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM75660
-[137]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM264952
-[138]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419520
-[139]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419524
-[140]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419548
-[141]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419551
-[142]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM324231
-[143]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM269031
-[144]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM420421
-[145]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM35085
-[146]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM35049
-[147]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM131393
-[148]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM133500
-[149]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM230264
-[150]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM239392
-[151]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291099
-[152]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291301
-[153]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291302
-[154]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422110
-[155]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422173
-[156]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422186
-[157]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM251754
-[158]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM251760
-[159]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM304793
-[160]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM324234
-[161]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM235134
-[162]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM250585
-[163]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM131615
-[164]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM189165
-[165]: http://www.pco.parliament.govt.nz/reprints/
-[166]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195439
-[167]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[168]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195468
-[169]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195470
-[170]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM94263
-[171]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM92851
+[136]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM3360714
+[137]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM75660
+[138]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM264952
+[139]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419520
+[140]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419524
+[141]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419548
+[142]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM419551
+[143]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM324231
+[144]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM269031
+[145]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM420421
+[146]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM35085
+[147]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM35049
+[148]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM131393
+[149]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM133500
+[150]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM230264
+[151]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM239392
+[152]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291099
+[153]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291301
+[154]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM291302
+[155]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422110
+[156]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422173
+[157]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM422186
+[158]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM251754
+[159]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM251760
+[160]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM304793
+[161]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM324234
+[162]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM235134
+[163]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM311863
+[164]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM250585
+[165]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM131615
+[166]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM189165
+[167]: http://www.pco.parliament.govt.nz/reprints/
+[168]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195439
+[169]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[170]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195468
+[171]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM195470
+[172]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM94263
+[173]: http://www.legislation.govt.nz/act/local/1951/0021/latest/link.aspx?id=DLM92851
