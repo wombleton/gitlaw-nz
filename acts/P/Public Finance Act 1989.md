@@ -1,5 +1,5 @@
 Reprint  
-as at 8 March 2013
+as at 4 September 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Treasury.
 
@@ -31,574 +31,592 @@ This Act is administered by the Treasury.
 
 [2][4][][4][Interpretation][4]
 
-[3][5][][5][Act to bind Crown][5]
+[2A][5][][5][Provisions affecting application of amendments to this Act][5]
 
-[3AA][6][][6][Meaning of generally accepted accounting practice][6] \[Repealed\]
+[3][6][][6][Act to bind Crown][6]
 
-[3A][7][][7][Power to amend Schedule 4][7]
+[3AA][7][][7][Meaning of generally accepted accounting practice][7] \[Repealed\]
 
-[3B][8][][8][Power to amend Schedule 5 to reflect name changes][8]
+[3A][8][][8][Power to amend Schedule 4][8]
 
-[3C][9][][9][Power to amend Schedule 5 to restore company to State-Owned Enterprises Act 1986][9]
+[3AB][9][][9][Power to amend Schedule 4A][9]
 
-[Part 1][10]  
-[Appropriations][10]
+[3B][10][][10][Power to amend Schedule 5 to reflect name changes][10]
 
-[Requirement for appropriations][11]
+[3C][11][][11][Power to amend Schedule 5 to restore company to State-Owned Enterprises Act 1986][11]
 
-[4][12][][12][Expenses or capital expenditure must not be incurred unless in accordance with appropriation or statutory authority][12]
+[Part 1][12]  
+[Appropriations][12]
 
-[5][13][][13][Public money must not be spent unless in accordance with statutory authority][13]
+[Requirement for appropriations][13]
 
-[6][14][][14][Authority to spend public money][14]
+[4][14][][14][Expenses or capital expenditure must not be incurred unless in accordance with appropriation or statutory authority][14]
 
-[7][15][][15][Separate appropriation required for types of expenses and capital expenditure][15]
+[4A][15][][15][Authority to incur expenses or capital expenditure under Imprest Supply Act][15]
 
-[8][16][][16][Appropriation limited by amount][16]
+[5][16][][16][Public money must not be spent unless in accordance with statutory authority][16]
 
-[9][17][][17][Appropriation limited by scope][17]
+[6][17][][17][Authority to spend public money][17]
 
-[9A][18][][18][Supplementary Estimates][18] \[Repealed\]
+[7][18][][18][Separate appropriation required for types of expenses and capital expenditure][18]
 
-[9B][19][][19][Power of Secretary to obtain information][19] \[Repealed\]
+[7C][19][][19][Responsibility for, and administration and use of, appropriations][19]
 
-[10][20][][20][Appropriation limited by period][20]
+[8][20][][20][Appropriation limited by amount][20]
 
-[11][21][][21][Expenses or payments authorised other than by Appropriation Act][21]
+[9][21][][21][Appropriation limited by scope][21]
 
-[12][22][][22][Timing of first Appropriation Bill for financial year][22]
+[9A][22][][22][Supplementary Estimates][22] \[Repealed\]
 
-[Information requirements for appropriations][23]
+[9B][23][][23][Power of Secretary to obtain information][23] \[Repealed\]
 
-[13][24][][24][Estimates and other supporting information must be presented with first Appropriation Bill][24]
+[10][24][][24][Appropriation limited by period][24]
 
-[14][25][][25][Content of Estimates][25]
+[11][25][][25][Expenses or payments authorised other than by Appropriation Act][25]
 
-[15][26][][26][Other supporting information for first Appropriation Bill][26]
+[12][26][][26][Timing of first Appropriation Bill for financial year][26]
 
-[16][27][][27][Supplementary Estimates must be presented with Supplementary Appropriation Bill][27]
+[Information requirements for appropriations][27]
 
-[17][28][][28][Content of Supplementary Estimates][28]
+[13][28][][28][Estimates and other supporting information must be presented with first Appropriation Bill][28]
 
-[18][29][][29][Minister must consult on proposal to change format or content of information presented with Appropriation Bills][29]
+[14][29][][29][Content of Estimates][29]
 
-[19][30][][30][Power of Secretary to obtain information][30]
+[15][30][][30][Other supporting information for first Appropriation Bill][30]
 
-[Other provisions relating to appropriations][31]
+[16][31][][31][Supplementary Estimates must be presented with Supplementary Appropriation Bill][31]
 
-[20][32][][32][Departments may incur output expenses for, or on behalf of, other departments][32]
+[17][32][][32][Content of Supplementary Estimates][32]
 
-[21][33][][33][Expenses restricted by revenue][33]
+[18][33][][33][Minister must consult on proposal to change format or content of information presented with Appropriation Bills][33]
 
-[22][34][][34][Operating surplus of department][34]
+[19][34][][34][Power of Secretary to obtain information][34]
 
-[23][35][][35][Net assets of departments must be confirmed][35]
+[Other provisions relating to appropriations][35]
 
-[24][36][][36][Movements within departmental statement of financial position][36]
+[20][36][][36][Departments may incur output expenses for, or on behalf of, other departments][36] \[Repealed\]
 
-[25][37][][37][Expenses or capital expenditure may be incurred in emergencies][37]
+[21][37][][37][Expenses restricted by revenue][37]
 
-[26][38][][38][Minister may determine terms and conditions of capital injections][38]
+[22][38][][38][Operating surplus of department][38]
 
-[26A][39][][39][Transfer of resources between output expense appropriations][39]
+[23][39][][39][Net assets of departments must be confirmed][39]
 
-[26B][40][][40][Minister may approve expenses or capital expenditure to be incurred in excess of existing appropriation][40]
+[24][40][][40][Movements within departmental statement of financial position][40]
 
-[26C][41][][41][Expenses or capital expenditure incurred without appropriation or other authority requires validation by Parliament][41]
+[25][41][][41][Expenses or capital expenditure may be incurred in emergencies][41]
 
-[26D][42][][42][Reporting requirements in relation to expenses or capital expenditure incurred in excess of, or without, appropriation][42]
+[26][42][][42][Minister may determine terms and conditions of capital injections][42]
 
-[Application of this Part to Offices of Parliament][43]
+[26A][43][][43][Transfer of resources between output expense appropriations][43]
 
-[26E][44][][44][Application of this Part to Offices of Parliament][44]
+[26B][44][][44][Minister may approve expenses or capital expenditure to be incurred in excess of existing appropriation][44]
 
-[Part 2][45]  
-[Fiscal responsibility][45]
+[26C][45][][45][Expenses or capital expenditure incurred without appropriation or other authority requires validation by Parliament][45]
 
-[Preliminary][46]
+[26D][46][][46][Reporting requirements in relation to expenses or capital expenditure incurred in excess of, or without, appropriation][46]
 
-[26F][47][][47][Interpretation][47]
+[Application of this Part to Offices of Parliament][47]
 
-[26G][48][][48][Principles of responsible fiscal management][48]
+[26E][48][][48][Application of this Part to Offices of Parliament][48]
 
-[26H][49][][49][Generally accepted accounting practice][49]
+[Part 2][49]  
+[Fiscal responsibility][49]
 
-[Fiscal strategy report][50]
+[Preliminary][50]
 
-[26I][51][][51][Fiscal strategy report][51]
+[26F][51][][51][Interpretation][51]
 
-[26J][52][][52][Contents of fiscal strategy report: long-term objectives][52]
+[26G][52][][52][Principles of responsible fiscal management][52]
 
-[26K][53][][53][Contents of fiscal strategy report: short-term intentions][53]
+[26H][53][][53][Generally accepted accounting practice][53]
 
-[26L][54][][54][Contents of fiscal strategy report: other matters][54]
+[Fiscal strategy report][54]
 
-[Budget policy statement][55]
+[26I][55][][55][Fiscal strategy report][55]
 
-[26M][56][][56][Budget policy statement][56]
+[26J][56][][56][Contents of fiscal strategy report: long-term objectives][56]
 
-[Statement on long-term fiscal position][57]
+[26K][57][][57][Contents of fiscal strategy report: short-term intentions][57]
 
-[26N][58][][58][Statement on long-term fiscal position][58]
+[26KA][58][][58][Contents of fiscal strategy report: management of the Crown's resources][58]
 
-[Economic and fiscal updates][59]
+[26L][59][][59][Contents of fiscal strategy report: other matters][59]
 
-[26O][60][][60][Economic and fiscal update][60]
+[Budget policy statement][60]
 
-[26P][61][][61][Economic forecasts][61]
+[26M][61][][61][Budget policy statement][61]
 
-[26Q][62][][62][Fiscal forecasts][62]
+[Statement on long-term fiscal position][62]
 
-[26R][63][][63][Annual statement of tax policy changes][63]
+[26N][63][][63][Statement on long-term fiscal position][63]
 
-[26S][64][][64][Half-year economic and fiscal update][64]
+[Investment statement][64]
 
-[26T][65][][65][Pre-election economic and fiscal update][65]
+[26NA][65][][65][Investment statement][65]
 
-[Disclosure requirements for economic and fiscal updates][66]
+[Economic and fiscal updates][66]
 
-[26U][67][][67][Disclosure of policy decisions and other circumstances that may influence future fiscal situation][67]
+[26O][67][][67][Economic and fiscal update][67]
 
-[26V][68][][68][Limits on disclosure requirements][68]
+[26P][68][][68][Economic forecasts][68]
 
-[Statement of responsibility][69]
+[26Q][69][][69][Fiscal forecasts][69]
 
-[26W][70][][70][Requirements for statement of responsibility][70]
+[26R][70][][70][Annual statement of tax policy changes][70]
 
-[Miscellaneous][71]
+[26S][71][][71][Half-year economic and fiscal update][71]
 
-[26X][72][][72][Certain statements and updates may be published in advance of presentation to House of Representatives][72]
+[26T][72][][72][Pre-election economic and fiscal update][72]
 
-[26Y][73][][73][Notification and availability of reports, statements, or updates][73]
+[Disclosure requirements for economic and fiscal updates][73]
 
-[26Z][74][][74][Power of Secretary to obtain information][74]
+[26U][74][][74][Disclosure of policy decisions and other circumstances that may influence future fiscal situation][74]
 
-[Part 3][75]  
-[Reporting by Government reporting entity][75]
+[26V][75][][75][Limits on disclosure requirements][75]
 
-[27][76][][76][Annual financial statements of Government][76]
+[Statement of responsibility][76]
 
-[28][77][][77][Half-year financial statements of the Crown][77] \[Repealed\]
+[26W][77][][77][Requirements for statement of responsibility][77]
 
-[29][78][][78][Responsibility for annual financial statements of Government][78]
+[Miscellaneous][78]
 
-[29A][79][][79][Power of Secretary to obtain information][79]
+[26X][79][][79][Certain statements and updates may be published in advance of presentation to House of Representatives][79]
 
-[29B][80][][80][Auditor-General to be auditor of Government reporting entity][80]
+[26Y][80][][80][Publication and availability of reports, statements, or updates][80]
 
-[30][81][][81][Audit report][81]
+[26Z][81][][81][Power of Secretary to obtain information][81]
 
-[31][82][][82][Annual financial statements must be presented to House of Representatives][82]
+[Part 3][82]  
+[Reporting by Government reporting entity][82]
 
-[31A][83][][83][Monthly financial statements of Government][83]
+[27][83][][83][Annual financial statements of Government][83]
 
-[31B][84][][84][Publication, inspection, and purchase of financial statements of Government reporting entity][84]
+[28][84][][84][Half-year financial statements of the Crown][84] \[Repealed\]
 
-[32][85][][85][Monthly cash flow statements][85] \[Repealed\]
+[29][85][][85][Responsibility for annual financial statements of Government][85]
 
-[32A][86][][86][Additional reports in relation to non-departmental appropriations][86]
+[29A][86][][86][Power of Secretary to obtain information][86]
 
-[Part 4][87]  
-[Reporting by departments][87]
+[29B][87][][87][Auditor-General to be auditor of Government reporting entity][87]
 
-[33][88][][88][Interpretation][88]
+[30][88][][88][Audit report][88]
 
-[Responsibilities of chief executives][89]
+[31][89][][89][Annual financial statements must be presented to House of Representatives and published][89]
 
-[34][90][][90][Responsibilities of departmental chief executives: financial management][90]
+[31A][90][][90][Monthly financial statements of Government][90]
 
-[34A][91][][91][Forecast financial statements of departments][91] \[Repealed\]
+[31B][91][][91][Publication, inspection, and purchase of financial statements of Government reporting entity][91] \[Repealed\]
 
-[35][92][][92][Responsibilities of departmental chief executives: reporting][92]
+[32][92][][92][Monthly cash flow statements][92] \[Repealed\]
 
-[36][93][][93][Departmental chief executives not responsible for financial performance of other entities][93]
+[32A][93][][93][Additional reports in relation to non-departmental appropriations][93]
 
-[Power of chief executives to obtain information][94]
+[Part 4][94]  
+[Reporting by departments and departmental agencies][94]
 
-[37][95][][95][Power of departmental chief executives to obtain information][95]
+[33][95][][95][Extended meaning of department for purpose of Part 4][95]
 
-[Reporting requirements---Information on future operating intentions][96]
+[Responsibilities of chief executives][96]
 
-[38][97][][97][Departments must provide information on future operating intentions][97]
+[34][97][][97][Responsibilities of chief executives: financial management of departmental matters][97]
 
-[39][98][][98][Obligation to present and publish information on future operating intentions][98]
+[35][98][][98][Responsibilities of chief executives: financial management of non-departmental matters][98]
 
-[40][99][][99][Requirements for information on future operating intentions][99]
+[36][99][][99][Responsibilities of chief executives: reporting][99]
 
-[41][100][][100][Extra information required for first financial year][100]
+[Power of chief executives to obtain information][100]
 
-[41A][101][][101][Special provisions in relation to annual financial statements of school Board of Trustees][101] \[Repealed\]
+[37][101][][101][Power of chief executives to obtain information][101]
 
-[41B][102][][102][Special provisions in relation to annual financial statements of Boards under Reserves Act 1977][102] \[Repealed\]
+[Reporting requirements---Information on future operating intentions][102]
 
-[41C][103][][103][Draft statement of intent][103] \[Repealed\]
+[38][103][][103][Departments must provide information on future operating intentions][103]
 
-[41D][104][][104][Contents of statement of intent][104] \[Repealed\]
+[39][104][][104][Obligation to present and publish information on future operating intentions][104]
 
-[41E][105][][105][Completed statement of intent][105] \[Repealed\]
+[40][105][][105][Requirements for information on future operating intentions][105]
 
-[41F][106][][106][Laying of statement of intent before House of Representatives][106] \[Repealed\]
+[41][106][][106][Extra information required for first financial year][106]
 
-[41G][107][][107][Power of responsible Minister to require Crown entity to modify statement of intent][107] \[Repealed\]
+[41A][107][][107][Special provisions in relation to annual financial statements of school Board of Trustees][107] \[Repealed\]
 
-[41H][108][][108][Power of Crown entity to modify statement of intent][108] \[Repealed\]
+[41B][108][][108][Special provisions in relation to annual financial statements of Boards under Reserves Act 1977][108] \[Repealed\]
 
-[41I][109][][109][Annual report of Crown entities named or described in Schedule 6][109] \[Repealed\]
+[41C][109][][109][Draft statement of intent][109] \[Repealed\]
 
-[42][110][][110][Information on future operating intentions must include statement of responsibility][110]
+[41D][110][][110][Contents of statement of intent][110] \[Repealed\]
 
-[Reporting requirements---Annual reports][111]
+[41E][111][][111][Completed statement of intent][111] \[Repealed\]
 
-[43][112][][112][Departments must prepare annual reports][112]
+[41F][112][][112][Laying of statement of intent before House of Representatives][112] \[Repealed\]
 
-[44][113][][113][Obligation to present and publish departmental annual reports][113]
+[41G][113][][113][Power of responsible Minister to require Crown entity to modify statement of intent][113] \[Repealed\]
 
-[44A][114][][114][Laying before House of Representatives of financial statements of Crown entities (other than school Boards of Trustees and Reserves Boards)][114] \[Repealed\]
+[41H][114][][114][Power of Crown entity to modify statement of intent][114] \[Repealed\]
 
-[44B][115][][115][Annual report in relation to schools' sector][115] \[Repealed\]
+[41I][115][][115][Annual report of Crown entities named or described in Schedule 6][115] \[Repealed\]
 
-[44C][116][][116][Annual financial statements of school Boards of Trustees][116] \[Repealed\]
+[42][116][][116][Information on future operating intentions must include statement of responsibility][116]
 
-[44D][117][][117][Annual financial statements of Reserves Boards][117] \[Repealed\]
+[Reporting requirements---Annual reports][117]
 
-[45][118][][118][Contents of departmental annual report][118]
+[43][118][][118][Departments must prepare annual reports][118]
 
-[45A][119][][119][Statement of service performance][119]
+[43A][119][][119][Departmental agencies must prepare annual reports][119]
 
-[45B][120][][120][Annual financial statements][120]
+[44][120][][120][Obligation to present and publish annual reports][120]
 
-[45C][121][][121][Statement of responsibility][121]
+[45][121][][121][Contents of departmental annual report][121]
 
-[45D][122][][122][Audit report][122]
+[45AA][122][][122][Contents of departmental agency annual report][122]
 
-[Miscellaneous][123]
+[45A][123][][123][Statement of service performance][123]
 
-[45E][124][][124][Application of this Part to intelligence and security departments][124]
+[45B][124][][124][Annual financial statements][124]
 
-[45F][125][][125][Application of this Part to Offices of Parliament][125]
+[45C][125][][125][Statement of responsibility][125]
 
-[45G][126][][126][This Part modified for purpose of applying Part to Offices of Parliament][126]
+[45D][126][][126][Audit report][126]
 
-[Part 5][127]  
-[Special reporting requirements][127]
+[Miscellaneous][127]
 
-[Subpart 1][128][---][128][Special annual reporting requirements][128]
+[45E][128][][128][Application of this Part to intelligence and security departments][128]
 
-[45H][129][][129][Application of subpart][129]
+[45F][129][][129][Application of this Part to Offices of Parliament][129]
 
-[45I][130][][130][First annual report for newly established entities][130]
+[45G][130][][130][This Part modified for purpose of applying Part to Offices of Parliament][130]
 
-[45J][131][][131][Final annual report for disestablished entities][131]
+[Part 5][131]  
+[Special reporting requirements][131]
 
-[45K][132][][132][Timing of special annual reports, etc][132]
+[Subpart 1][132][---][132][Special annual reporting requirements][132]
 
-[45L][133][][133][Minister may allow certain information to be included in another entity's annual report if operations transferred][133]
+[45H][133][][133][Application of subpart][133]
 
-[Subpart 2][134][---][134][Application of provisions of Crown Entities Act 2004 to organisations named or described in Schedule 4][134]
+[45I][134][][134][First annual report for newly established entities][134]
 
-[45M][135][][135][Provisions of Crown Entities Act 2004 that apply to all Schedule 4 organisations][135]
+[45J][135][][135][Final annual report for disestablished entities][135]
 
-[45N][136][][136][Some provisions of Crown Entities Act 2004 applied to some Schedule 4 organisations][136]
+[45K][136][][136][Final annual report for entities that cease to be subject to requirement to provide annual report][136]
 
-[45O][137][][137][Special provisions relating to Reserves Boards][137]
+[45L][137][][137][Minister may allow certain information to be included in another entity's annual report if operations transferred][137]
 
-[Part 5A][138]  
-[Mixed ownership model companies][138]
+[Subpart 2][138][---][138][Application of Crown Entities Act 2004 to Schedule 4 organisations][138]
 
-[Preliminary provisions][139]
+[45M][139][][139][Application of Crown Entities Act 2004 to Schedule 4 organisations][139]
 
-[45P][140][][140][Definitions of mixed ownership model company and other terms][140]
+[45N][140][][140][Exemptions from certain sections of Crown Entities Act 2004 for Schedule 4 organisations][140]
 
-[45Q][141][][141][Treaty of Waitangi (Te Tiriti o Waitangi)][141]
+[45O][141][][141][Special provisions relating to Reserves Boards][141]
 
-[51% Crown control][142]
+[Part 5AAA][142]  
+[Non-listed companies in which the Crown is majority or sole shareholder][142]
 
-[45R][143][][143][Restriction on reduction of the Crown's holding below 51% control][143]
+[45OA][143][][143][Application of Crown Entities Act 2004 to non-listed companies in which the Crown is majority or sole shareholder][143]
 
-[10% limit][144]
+[Part 5A][144]  
+[Mixed ownership model companies][144]
 
-[45S][145][][145][10% limit on holdings by persons other than the Crown][145]
+[Preliminary provisions][145]
 
-[45T][146][][146][Effect of exceeding 10% limit][146]
+[45P][146][][146][Definitions of mixed ownership model company and other terms][146]
 
-[45U][147][][147][Exemption from 10% limit for trustee corporations and nominee companies, etc][147]
+[45Q][147][][147][Treaty of Waitangi (Te Tiriti o Waitangi)][147]
 
-[45V][148][][148][Power of FMA to remove exemption from 10% limit for trustee corporations, nominee companies, etc][148]
+[51% Crown control][148]
 
-[Continuing application of certain provisions][149]
+[45R][149][][149][Restriction on reduction of the Crown's holding below 51% control][149]
 
-[45W][150][][150][Certain provisions of State-Owned Enterprises Act 1986 and other enactments continue to apply][150]
+[10% limit][150]
 
-[Part 6][151]  
-[Borrowing, securities, derivative transactions, investment, banking, and guarantees][151]
+[45S][151][][151][10% limit on holdings by persons other than the Crown][151]
 
-[Subpart 1][152][---][152][Borrowing][152]
+[45T][152][][152][Effect of exceeding 10% limit][152]
 
-[Limits on borrowing by the Crown][153]
+[45U][153][][153][Exemption from 10% limit for trustee corporations and nominee companies, etc][153]
 
-[46][154][][154][The Crown must not borrow except under statute][154]
+[45V][154][][154][Power of FMA to remove exemption from 10% limit for trustee corporations, nominee companies, etc][154]
 
-[47][155][][155][Minister may borrow on behalf of the Crown if in public interest][155]
+[Continuing application of certain provisions][155]
 
-[48][156][][156][Power to borrow must not be delegated][156]
+[45W][156][][156][Certain provisions of State-Owned Enterprises Act 1986 and other enactments continue to apply][156]
 
-[49][157][][157][The Crown not liable for debts of Crown entities, etc][157]
+[Part 6][157]  
+[Borrowing, securities, derivative transactions, investment, banking, and guarantees][157]
 
-[Appointment of borrowing agents][158]
+[Subpart 1][158][---][158][Borrowing][158]
 
-[50][159][][159][Minister may appoint agents for purpose of borrowing money][159]
+[Limits on borrowing by the Crown][159]
 
-[51][160][][160][Appointment of borrowing agents does not prevent exercise of power by Minister][160]
+[46][160][][160][The Crown must not borrow except under statute][160]
 
-[52][161][][161][Borrowings must be taken to be lawful][161]
+[47][161][][161][Minister may borrow on behalf of the Crown if in public interest][161]
 
-[52A][162][][162][Crown not to issue securities except under statute][162] \[Repealed\]
+[48][162][][162][Power to borrow must not be delegated][162]
 
-[53][163][][163][Borrowing agents may delegate powers][163]
+[49][163][][163][The Crown not liable for debts of Crown entities, etc][163]
 
-[Terms and conditions of borrowing][164]
+[Appointment of borrowing agents][164]
 
-[54][165][][165][Minister may determine terms and conditions of borrowing][165]
+[50][165][][165][Minister may appoint agents for purpose of borrowing money][165]
 
-[55][166][][166][Charge on public revenues][166]
+[51][166][][166][Appointment of borrowing agents does not prevent exercise of power by Minister][166]
 
-[56][167][][167][Power to borrow by issue of series of similar securities][167]
+[52][167][][167][Borrowings must be taken to be lawful][167]
 
-[57][168][][168][Power to vary borrowings of the Crown][168]
+[52A][168][][168][Crown not to issue securities except under statute][168] \[Repealed\]
 
-[58][169][][169][Conversion of money borrowed by the Crown][169]
+[53][169][][169][Borrowing agents may delegate powers][169]
 
-[58A][170][][170][Authority for the giving by the Crown of guarantees and indemnities][170] \[Repealed\]
+[Terms and conditions of borrowing][170]
 
-[59][171][][171][Minister may appoint underwriters, managers, etc, for borrowings of the Crown][171]
+[54][171][][171][Minister may determine terms and conditions of borrowing][171]
 
-[Payments relating to borrowings][172]
+[55][172][][172][Charge on public revenues][172]
 
-[60][173][][173][Payment of principal and interest on money borrowed by the Crown][173]
+[56][173][][173][Power to borrow by issue of series of similar securities][173]
 
-[61][174][][174][Expenses in respect of money borrowed by the Crown][174]
+[57][174][][174][Power to vary borrowings of the Crown][174]
 
-[Subpart 2][175][---][175][Securities][175]
+[58][175][][175][Conversion of money borrowed by the Crown][175]
 
-[Limits on the Crown issuing securities][176]
+[58A][176][][176][Authority for the giving by the Crown of guarantees and indemnities][176] \[Repealed\]
 
-[62][177][][177][The Crown must not issue securities except under statute][177]
+[59][177][][177][Minister may appoint underwriters, managers, etc, for borrowings of the Crown][177]
 
-[63][178][][178][Minister may issue securities for money borrowed by the Crown][178]
+[Payments relating to borrowings][178]
 
-[64][179][][179][Issue or variation of security taken to be lawful][179]
+[60][179][][179][Payment of principal and interest on money borrowed by the Crown][179]
 
-[Terms and conditions of securities][180]
+[61][180][][180][Expenses in respect of money borrowed by the Crown][180]
 
-[65][181][][181][Securities must be in name of Sovereign][181]
+[Subpart 2][181][---][181][Securities][181]
 
-[65A][182][][182][Power to vary public securities][182]
+[Limits on the Crown issuing securities][182]
 
-[65B][183][][183][Issue of new public security on loss, damage, or destruction of public security][183]
+[62][183][][183][The Crown must not issue securities except under statute][183]
 
-[65C][184][][184][Execution of securities][184]
+[63][184][][184][Minister may issue securities for money borrowed by the Crown][184]
 
-[Payments relating to securities][185]
+[64][185][][185][Issue or variation of security taken to be lawful][185]
 
-[65D][186][][186][Payments under public securities][186]
+[Terms and conditions of securities][186]
 
-[65E][187][][187][Expenses in respect of securities][187]
+[65][187][][187][Securities must be in name of Sovereign][187]
 
-[Subpart 3][188][---][188][Derivative transactions][188]
+[65A][188][][188][Power to vary public securities][188]
 
-[Limits on the Crown entering into derivative transactions][189]
+[65B][189][][189][Issue of new public security on loss, damage, or destruction of public security][189]
 
-[65F][190][][190][The Crown must not enter into derivative transactions][190]
+[65C][190][][190][Execution of securities][190]
 
-[65G][191][][191][Minister may enter into derivative transactions if in public interest][191]
+[Payments relating to securities][191]
 
-[Payments relating to derivative transactions][192]
+[65D][192][][192][Payments under public securities][192]
 
-[65H][193][][193][Payments relating to derivative transactions of the Crown][193]
+[65E][193][][193][Expenses in respect of securities][193]
 
-[Subpart 4][194][---][194][Investment][194]
+[Subpart 3][194][---][194][Derivative transactions][194]
 
-[Investment of public money][195]
+[Limits on the Crown entering into derivative transactions][195]
 
-[65I][196][][196][Investment of public money][196]
+[65F][196][][196][The Crown must not enter into derivative transactions][196]
 
-[65J][197][][197][Payment of expenses relating to investment][197]
+[65G][197][][197][Minister may enter into derivative transactions if in public interest][197]
 
-[Limits on lending by the Crown][198]
+[Payments relating to derivative transactions][198]
 
-[65K][199][][199][The Crown must not lend money except under statute][199]
+[65H][199][][199][Payments relating to derivative transactions of the Crown][199]
 
-[65L][200][][200][Minister may lend money to persons or organisations if in public interest][200]
+[Subpart 4][200][---][200][Investment][200]
 
-[65M][201][][201][Minister may lend money to foreign government][201]
+[Investment of public money][201]
 
-[65N][202][][202][Authority to lend money includes authority to defer payments][202]
+[65I][202][][202][Investment of public money][202]
 
-[65O][203][][203][Repayment of money lent by the Crown][203]
+[65J][203][][203][Payment of expenses relating to investment][203]
 
-[65P][204][][204][Appropriation required for lending][204]
+[Limits on lending by the Crown][204]
 
-[65Q][205][][205][Securities relating to lending must be in name of Sovereign][205]
+[65K][205][][205][The Crown must not lend money except under statute][205]
 
-[Subpart 5][206][---][206][Banking][206]
+[65L][206][][206][Minister may lend money to persons or organisations if in public interest][206]
 
-[Crown Bank Accounts][207]
+[65M][207][][207][Minister may lend money to foreign government][207]
 
-[65R][208][][208][Crown Bank Accounts][208]
+[65N][208][][208][Authority to lend money includes authority to defer payments][208] \[Repealed\]
 
-[Departmental Bank Accounts][209]
+[65O][209][][209][Repayment of money lent by the Crown][209]
 
-[65S][210][][210][Departmental Bank Accounts][210]
+[65P][210][][210][Appropriation required for lending][210]
 
-[65T][211][][211][Directions relating to operation of Departmental Bank Accounts][211]
+[65Q][211][][211][Securities relating to lending must be in name of Sovereign][211]
 
-[General][212]
+[Subpart 5][212][---][212][Banking][212]
 
-[65U][213][][213][Payment into Bank Accounts][213]
+[Crown Bank Accounts][213]
 
-[65V][214][][214][Requirements for payment of money out of Bank Accounts][214]
+[65R][214][][214][Crown Bank Accounts][214]
 
-[65W][215][][215][Powers of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account][215]
+[Departmental Bank Accounts][215]
 
-[65X][216][][216][Statement of accounts must be sent to Treasury or Auditor-General][216]
+[65S][216][][216][Departmental Bank Accounts][216]
 
-[65Y][217][][217][Treasury must report on all expenses and capital expenditure incurred with or without appropriation or other statutory authority][217]
+[65T][217][][217][Directions relating to operation of Departmental Bank Accounts][217]
 
-[65Z][218][][218][Auditor-General may direct Ministers to report to House of Representatives in cases involving unlawful expenses, etc][218]
+[General][218]
 
-[65ZA][219][][219][Auditor-General may stop payments out of Bank Accounts][219]
+[65U][219][][219][Payment into Bank Accounts][219]
 
-[65ZB][220][][220][Application of this subpart to Offices of Parliament][220]
+[65V][220][][220][Requirements for payment of money out of Bank Accounts][220]
 
-[Subpart 6][221][---][221][Guarantees and indemnities][221]
+[65W][221][][221][Powers of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account][221]
 
-[Limits on giving by the Crown of guarantees and indemnities][222]
+[65X][222][][222][Statement of accounts must be sent to Treasury or Auditor-General][222]
 
-[65ZC][223][][223][Guarantee or indemnity by the Crown must not be given except under statute][223]
+[65Y][223][][223][Treasury must report on all expenses and capital expenditure incurred with or without appropriation or other statutory authority][223]
 
-[65ZD][224][][224][Minister may give guarantee or indemnity if in public interest][224]
+[65Z][224][][224][Auditor-General may direct Ministers to report to House of Representatives in cases involving unlawful expenses, etc][224]
 
-[65ZE][225][][225][Departments may give guarantee or indemnity specified in regulations if in public interest][225]
+[65ZA][225][][225][Auditor-General may stop payments out of Bank Accounts][225]
 
-[Other provisions relating to guarantees and indemnities][226]
+[65ZB][226][][226][Application of this subpart to Offices of Parliament][226]
 
-[65ZF][227][][227][Recovery of money paid under guarantee][227]
+[Subpart 6][227][---][227][Guarantees and indemnities][227]
 
-[65ZG][228][][228][Payments in respect of guarantees or indemnities][228]
+[Limits on giving by the Crown of guarantees and indemnities][228]
 
-[Part 7][229]  
-[Trust money][229]
+[65ZC][229][][229][Guarantee or indemnity by the Crown must not be given except under statute][229]
 
-[66][230][][230][Trust money][230]
+[65ZD][230][][230][Minister may give guarantee or indemnity if in public interest][230]
 
-[67][231][][231][Establishment of bank accounts for trust money][231]
+[65ZE][231][][231][Departments may give guarantee or indemnity specified in regulations if in public interest][231]
 
-[68][232][][232][Investment of trust money][232]
+[Other provisions relating to guarantees and indemnities][232]
 
-[69][233][][233][Payment of interest on trust money][233]
+[65ZF][233][][233][Recovery of money paid under guarantee][233]
 
-[70][234][][234][Unclaimed trust money][234]
+[65ZG][234][][234][Payments in respect of guarantees or indemnities][234]
 
-[Part 7A][235]  
-[Security and intelligence departments][235]
+[Part 7][235]  
+[Trust money][235]
+
+[66][236][][236][Trust money][236]
+
+[67][237][][237][Establishment of bank accounts for trust money][237]
+
+[68][238][][238][Investment of trust money][238]
+
+[69][239][][239][Payment of interest on trust money][239]
+
+[70][240][][240][Unclaimed trust money][240]
+
+[Part 7A][241]  
+[Security and intelligence departments][241]
 
 \[Repealed\]
 
-[70A][236][][236][Interpretation][236] \[Repealed\]
+[70A][242][][242][Interpretation][242] \[Repealed\]
 
-[Appropriations][237]
+[Appropriations][243]
 
-[70B][238][][238][Nature of appropriation required][238] \[Repealed\]
+[70B][244][][244][Nature of appropriation required][244] \[Repealed\]
 
-[70C][239][][239][Estimates][239] \[Repealed\]
+[70C][245][][245][Estimates][245] \[Repealed\]
 
-[Banking and investment][240]
+[Banking and investment][246]
 
-[70D][241][][241][Departmental Bank Accounts][241] \[Repealed\]
+[70D][247][][247][Departmental Bank Accounts][247] \[Repealed\]
 
-[70E][242][][242][Payment into Bank Accounts][242] \[Repealed\]
+[70E][248][][248][Payment into Bank Accounts][248] \[Repealed\]
 
-[70F][243][][243][Power of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account][243] \[Repealed\]
+[70F][249][][249][Power of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account][249] \[Repealed\]
 
-[Reporting][244]
+[Reporting][250]
 
-[70G][245][][245][Annual financial statements][245] \[Repealed\]
+[70G][251][][251][Annual financial statements][251] \[Repealed\]
 
-[70H][246][][246][Half-yearly financial statements][246] \[Repealed\]
+[70H][252][][252][Half-yearly financial statements][252] \[Repealed\]
 
-[70I][247][][247][Tabling of financial statements][247] \[Repealed\]
+[70I][253][][253][Tabling of financial statements][253] \[Repealed\]
 
-[70J][248][][248][Information to be provided to Treasury][248] \[Repealed\]
+[70J][254][][254][Information to be provided to Treasury][254] \[Repealed\]
 
-[70K][249][][249][Treasury instructions][249] \[Repealed\]
+[70K][255][][255][Treasury instructions][255] \[Repealed\]
 
-[Part 8][250]  
-[General provisions][250]
+[Part 8][256]  
+[General provisions][256]
 
-[71AA][251][][251][Delegation of Secretary's powers][251]
+[71AA][257][][257][Delegation of Secretary's powers][257]
 
-[71][252][][252][Payments on behalf of governments and international organisations][252]
+[71][258][][258][Payments on behalf of governments and international organisations][258]
 
-[72][253][][253][Payments on behalf of local authorities][253]
+[72][259][][259][Payments on behalf of local authorities][259]
 
-[73][254][][254][Payment of fines to local authorities and other organisations that conduct prosecutions][254]
+[73][260][][260][Payment of fines to local authorities and other organisations that conduct prosecutions][260]
 
-[74][255][][255][Unclaimed money][255]
+[74][261][][261][Unclaimed money][261]
 
-[75][256][][256][Minister may exercise powers relating to _bona vacantia_][256]
+[75][262][][262][Minister may exercise powers relating to _bona vacantia_][262]
 
-[76][257][][257][Offences][257]
+[76][263][][263][Offences][263]
 
-[77][258][][258][Penalties for offences][258]
+[77][264][][264][Penalties for offences][264]
 
-[78][259][][259][Time for commencing proceedings][259]
+[78][265][][265][Time for commencing proceedings][265]
 
-[79][260][][260][Information to be provided to Treasury][260]
+[79][266][][266][Information to be provided to Treasury][266]
 
-[80][261][][261][Treasury instructions][261]
+[80][267][][267][Treasury instructions][267]
 
-[80A][262][][262][Minister of Finance instructions][262]
+[80A][268][][268][Minister of Finance instructions][268]
 
-[81][263][][263][Regulations, Orders in Council, and notices][263]
+[81][269][][269][Regulations, Orders in Council, and notices][269]
 
-[82][264][][264][Consultation and approval requirements for regulations or instructions relating to reporting standards][264]
+[82][270][][270][Consultation and approval requirements for regulations or instructions relating to reporting standards][270]
 
-[83][265][][265][Abolition of certain accounts][265]
+[83][271][][271][Abolition of certain accounts][271] \[Repealed\]
 
-[84][266][][266][Registration of public securities, local authority stock, and other stock][266]
+[84][272][][272][Registration of public securities, local authority stock, and other stock][272]
 
-[85][267][][267][Government stock in United Kingdom][267]
+[85][273][][273][Government stock in United Kingdom][273] \[Repealed\]
 
-[86][268][][268][Consequential amendments][268]
+[86][274][][274][Consequential amendments][274] \[Repealed\]
 
-[87][269][][269][Repeals][269]
+[87][275][][275][Repeals][275] \[Repealed\]
 
-[88][270][][270][Transitional provisions][270]
+[88][276][][276][Application, savings, and transitional provisions relating to amendments to Act][276]
 
-[Schedule 1][271]  
-[Enactments consequentially amended][271]
+[Schedule 1][277]  
+[Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013][277]
 
-[Schedule 2][272]  
-[Enactments repealed][272]
-
-[Schedule 3][273]  
-[Liabilities, and categories of liabilities, not included in definition of contingent liability][273]
+[Schedule 2][278]  
+[Enactments repealed][278]
 
 \[Repealed\]
 
-[Schedule 4][274]  
-[Organisations for the purposes of subpart 2 of Part 5][274]
-
-[Schedule 5][275]  
-[Mixed ownership model companies][275]
-
-[Schedule 6][276]  
-[Crown entities required to prepare statements of intent][276]
+[Schedule 3][279]  
+[Liabilities, and categories of liabilities, not included in definition of contingent liability][279]
 
 \[Repealed\]
 
-[Schedule 7][277]  
-[Crown entities subject to section 16][277]
+[Schedule 4][280]  
+[Organisations for the purposes of subpart 2 of Part 5][280]
+
+[Schedule 4A][281]  
+[Non-listed companies in which Crown is majority or sole shareholder][281]
+
+[Schedule 5][282]  
+[Mixed ownership model companies][282]
+
+[Schedule 6][283]  
+[Crown entities required to prepare statements of intent][283]
+
+\[Repealed\]
+
+[Schedule 7][284]  
+[Crown entities subject to section 16][284]
 
 \[Repealed\]
 
@@ -618,7 +636,7 @@ Title \[Repealed\]
     
     (3A) \[Repealed\]
     
-    (4) The amendment to [section 19][278] of the Goods and Services Tax Act 1985 specified in [Schedule 1][271] shall come into force on the day this Act receives the Royal assent.
+    (4) The amendment to [section 19][285] of the Goods and Services Tax Act 1985 specified in [Schedule 1][277] shall come into force on the day this Act receives the Royal assent.
     
     (5) Where any document is made or thing is done, pursuant to the Public Finance Act 1977, during the period commencing on 1 July 1989 and ending with the day before the day on which this Act receives the Royal assent, such document or thing, if capable of being made or done under the provisions of this Act, shall be deemed to have been made or done pursuant to the provisions of this Act.
     
@@ -646,11 +664,11 @@ Title \[Repealed\]
     
     *   (c) specifies the principles for responsible fiscal management in the conduct of fiscal policy and requires regular reporting on the extent to which the Government's fiscal policy is consistent with those principles; and
     
-    *   (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments, Offices of Parliament, and organisations named or described in [Schedule 4][274]; and
+    *   (d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies; and
     
-    *   (e) provides for the application of financial management incentives and for the accountability of organisations named or described in [Schedule 4][274]; and
+    *   (e) provides for the application of financial management incentives and for the accountability of Schedule 4 organisations and Schedule 4A companies; and
     
-    *   (ea) places limits on the ownership of the companies named in [Schedule 5][13]; and
+    *   (ea) places limits on the ownership of the companies named in [Schedule 5][16]; and
     
     *   (f) safeguards public assets by providing statutory authority and control for the---
             
@@ -668,21 +686,41 @@ Title \[Repealed\]
         
         
     
-    Section 1A: inserted, on 25 January 2005, by [section 4][279] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 1A: inserted, on 25 January 2005, by [section 4][286] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 1A(2)(ea): inserted, on 30 June 2012, by [section 4][280] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 1A(2)(d): amended, on 18 July 2013, by [section 4(1)][287] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 1A(2)(d): amended, on 18 July 2013, by [section 4(2)][287] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 1A(2)(e): amended, on 18 July 2013, by [section 4(3)][287] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 1A(2)(ea): inserted, on 30 June 2012, by [section 4][288] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 2 Interpretation
     
 *   (1) In this Act, unless the context otherwise requires,---
     
-    _annual financial statements of the Government_ means the annual consolidated financial statements for the Government reporting entity prepared under [section 27][76]
+    _annual financial statements of the Government_ means the annual consolidated financial statements for the Government reporting entity prepared under [section 27][83]
+    
+    _appropriation administrator_,---
+        
+    *   (a) in relation to an appropriation made to the Crown, means the department that administers the appropriation on behalf of the appropriation Minister; and
+    
+    *   (b) in relation to an appropriation made to an Office of Parliament, means that Office of Parliament
+    
+    _appropriation Minister_,---
+        
+    *   (a) in relation to an appropriation made to an Office of Parliament, means the Speaker; and
+    
+    *   (b) in relation to an appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service, means the Speaker; and
+    
+    *   (c) in relation to any other appropriation, means the Minister responsible for that appropriation
     
     _asset_ means an asset that is defined, recognised, and measured in accordance with generally accepted accounting practice
     
-    _Auditor-General_ has the meaning given to it by [section 4][281] of the Public Audit Act 2001
+    _Auditor-General_ has the meaning given to it by [section 4][289] of the Public Audit Act 2001
     
-    _bank_, in relation to a bank operating within New Zealand, means the Reserve Bank of New Zealand or a registered bank under the [Reserve Bank of New Zealand Act 1989][282]
+    _bank_, in relation to a bank operating within New Zealand, means the Reserve Bank of New Zealand or a registered bank under the [Reserve Bank of New Zealand Act 1989][290]
     
     _benefit_ means an amount of public money provided by the Crown for the benefit of some person
     
@@ -708,9 +746,17 @@ Title \[Repealed\]
     
     _carrying amount_ has the meaning given to it under generally accepted accounting practice
     
+    _category_,---
+        
+    *   (a) in relation to expenses, means a grouping of similar or related expenses; and
+    
+    *   (b) in relation to capital expenditure, means a grouping of similar or related items of capital expenditure
+    
     _chief executive_ means,---
         
-    *   (a) in the case of a department, the head of the department and includes a chief executive appointed under the [State Sector Act 1988][283]:
+    *   (a) in the case of a department, the head of the department and includes a chief executive appointed under the [State Sector Act 1988][291]:
+    
+    *   (aa) in the case of a departmental agency, the person holding office under [section 31][292] of the State Sector Act 1988 as the chief executive of the departmental agency:
     
     *   (b) in the case of a Crown entity, the chief executive officer of the Crown entity:
     
@@ -720,7 +766,7 @@ Title \[Repealed\]
     
     _commitment_ means future expenses and liabilities to be incurred on contracts that have been entered into at balance date
     
-    _company_ means a company within the meaning of the Companies Act 1955, or the [Companies Act 1993][284], as the case may be
+    _company_ means a company within the meaning of the Companies Act 1955, or the [Companies Act 1993][293], as the case may be
     
     _Crown_ or _the Sovereign_---
         
@@ -734,23 +780,37 @@ Title \[Repealed\]
         
         *   (ii) a Crown entity; or
         
-        *   (iii) a State enterprise named in [Schedule 1][285] of the State-Owned Enterprises Act 1986
+        *   (iii) a State enterprise named in [Schedule 1][294] of the State-Owned Enterprises Act 1986; or
+        
+        *   (iv) a Schedule 4 organisation; or
+        
+        *   (v) a Schedule 4A company; or
+        
+        *   (vi) a mixed ownership model company
         
         
     
-    _Crown Bank Account_ means any of the bank accounts opened and maintained under [section 65R][208]
+    _Crown Bank Account_ means any of the bank accounts opened and maintained under [section 65R][214]
     
-    _Crown entity_ has the meaning given to it by [section 7(1)][286] of the Crown Entities Act 2004
+    _Crown entity_ has the meaning given to it by [section 7(1)][295] of the Crown Entities Act 2004
     
     _department_---
         
     *   (a) means---
             
-        *   (i) a department or instrument of the Government or any branch or division of the Government; or
+        *   (i) a department (as defined in [section 27A(1) and (2)][296] of the State Sector Act 1988); or
         
-        *   (ii) the Office of the Clerk of the House of Representatives; or
+        *   (ii) the New Zealand Defence Force; or
         
-        *   (iii) the Parliamentary Service; but
+        *   (iii) the New Zealand Police; or
+        
+        *   (iv) the New Zealand Security Intelligence Service; or
+        
+        *   (v) the Parliamentary Counsel Office; or
+        
+        *   (vi) the Office of the Clerk of the House of Representatives; or
+        
+        *   (vii) the Parliamentary Service; but
         
         
     
@@ -762,7 +822,15 @@ Title \[Repealed\]
         
         
     
-    _Departmental Bank Account_ means any of the bank accounts opened, maintained, and operated under [section 65S][210]
+    _departmental_,---
+        
+    *   (a) in relation to expenses, means expenses incurred by a department or an Office of Parliament; and
+    
+    *   (b) in relation to capital expenditure, means capital expenditure incurred by a department or an Office of Parliament
+    
+    _departmental agency_ has the meaning given in [section 27A][296] of the State Sector Act 1988 (_see also_ [section 27B][297] of that Act)
+    
+    _Departmental Bank Account_ means any of the bank accounts opened, maintained, and operated under [section 65S][216]
     
     _departmental revenue_ means revenue generated by a department or an Office of Parliament resulting from the supply by the department or Office of goods, services, rights, or money to other parties, including the Crown
     
@@ -782,7 +850,7 @@ Title \[Repealed\]
         
     *   (a) describes and supports the appropriations being sought in the first Appropriation Bill that relates to a financial year; and
     
-    *   (b) contains the information referred to in [section 14][25]
+    *   (b) contains the information referred to in [section 14][29]
     
     _expenses_ means expenses measured in accordance with generally accepted accounting practice; and includes costs
     
@@ -802,9 +870,9 @@ Title \[Repealed\]
     
     _generally accepted accounting practice_ means---
         
-    *   (a) financial reporting standards (within the meaning of [section 2][287] of the Financial Reporting Act 1993) so far as those standards apply to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be:
+    *   (a) financial reporting standards (within the meaning of [section 2][298] of the Financial Reporting Act 1993) so far as those standards apply to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be:
     
-    *   (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of [section 2][288] of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that---
+    *   (b) in relation to matters for which no provision is made in financial reporting standards (within the meaning of [section 2][299] of the Financial Reporting Act 1993) and which are not subject to any applicable rule of law, accounting policies that---
             
         *   (i) are appropriate in relation to the Crown or the department or the Office of Parliament or the Crown entity, as the case may be; and
         
@@ -820,6 +888,8 @@ Title \[Repealed\]
     
     *   (b) the legislative, executive, and judicial branches of the Government of New Zealand
     
+    _host department_, in relation to a departmental agency, has the meaning given in [section 27A(1) and (2)][296] of the State Sector Act 1988
+    
     _impact_ means the contribution made to an outcome by a specified set of outputs, or actions, or both
     
     _intelligence and security department_ means---
@@ -828,15 +898,35 @@ Title \[Repealed\]
     
     *   (b) the Government Communications Security Bureau
     
+    _lend money_---
+        
+    *   (a) includes---
+            
+        *   (i) deferring payment for any goods or services supplied or works constructed for any person, organisation, or government; and
+        
+        *   (ii) entering into hire purchase agreements or agreements that are of the same or a substantially similar nature; and
+        
+        *   (iii) entering into finance lease arrangements or arrangements that are of the same or a substantially similar nature; but
+        
+        
+    
+    *   (b) does not include selling or supplying goods or services on credit for a period of 90 days or less from the date the credit is supplied
+    
     _liability_ means a liability that is defined, recognised, and measured in accordance with generally accepted accounting practice
     
-    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][289]
+    _local authority_ means a local authority within the meaning of the [Local Government Act 2002][300]
     
     _Minister_ means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
     
-    _mixed ownership model company_ has the meaning set out in [section 45P][140]
+    _mixed ownership model company_ has the meaning set out in [section 45P][146]
     
-    _multi-class output expense appropriation_ has the meaning given to it by [section 7(3)(b)][15]
+    _multi-class output expense appropriation_ has the meaning given to it by [section 7(3)(b)][18]
+    
+    _non-departmental_,---
+        
+    *   (a) in relation to expenses, means expenses incurred on behalf of the Crown, other than by a department or an Office of Parliament; and
+    
+    *   (b) in relation to capital expenditure, means capital expenditure incurred on behalf of the Crown, other than by a department or an Office of Parliament
     
     _Office of Parliament_ means the Parliamentary Commissioner for the Environment (and that Commissioner's office), the Office of Ombudsmen, and the Auditor-General
     
@@ -868,11 +958,17 @@ Title \[Repealed\]
     
     *   (b) includes goods or services that a department, Crown entity, Office of Parliament, or other person or body has agreed or contracted to supply on a contingent basis, but that have not been supplied
     
-    _principles of responsible fiscal management_ has the meaning given to it by [section 26G(1)][48]
+    _permanent legislative authority_,---
+        
+    *   (a) in relation to incurring expenses or capital expenditure, means an express authority given by or under an Act other than an Appropriation Act to incur expenses or capital expenditure without further appropriation (_see_, for example, [section 65H(2)][301], which relates to certain finance expenses, and [section 9][302] of the Ombudsmen Act 1975, which relates to salaries and allowances of Ombudsmen); and
     
-    _public money_ means all money received by the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money or money received and held by Crown entities
+    *   (b) in relation to spending public money, means an express authority given by or under an Act to spend public money without further authority (_see_, for example, [section 6][17])
     
-    _public security_ means any security issued under [section 63][178] or any provision of any other Act; and includes any loan or credit agreement, guarantee, indemnity, bond, note, debenture, bill of exchange, Treasury bill, Government stock, and any other security representing part of the public debt of New Zealand
+    _principles of responsible fiscal management_ has the meaning given to it by [section 26G(1)][52]
+    
+    _public money_ means all money received by or on behalf of the Crown, including the proceeds of all loans raised on behalf of the Crown, and any other money that the Minister or the Secretary directs to be paid into a Crown Bank Account or Departmental Bank Account and any money held by an Office of Parliament; but does not include money held in trust as trust money
+    
+    _public security_ means any security issued under [section 63][184] or any provision of any other Act; and includes any loan or credit agreement, guarantee, indemnity, bond, note, debenture, bill of exchange, Treasury bill, Government stock, and any other security representing part of the public debt of New Zealand
     
     _remeasurements_---
         
@@ -892,13 +988,17 @@ Title \[Repealed\]
     
     _responsible Minister_ means,---
         
-    *   (a) in relation to a department, the Minister or Ministers for the time being responsible for the financial performance of the department:
+    *   (a) in relation to an Office of Parliament, to the Office of the Clerk of the House of Representatives, or to the Parliamentary Service, the Speaker:
     
-    *   (b) in relation to an organisation named or described in [Schedule 4][274], the Minister or Ministers for the time being responsible for the financial performance of that organisation:
+    *   (b) in relation to any other department, the Minister for the time being responsible for the financial performance of the department:
     
-    *   (c) in relation to an Office of Parliament, to the Office of the Clerk of the House of Representatives, or to the Parliamentary Service, the Speaker
+    *   (c) in relation to a Schedule 4 organisation, the Minister for the time being responsible for the financial performance of the organisation:
     
-    *   (d) \[Repealed\]
+    *   (d) in relation to a Schedule 4A company, the Minister and the other shareholding Minister or Ministers
+    
+    _Schedule 4 organisation_ means an organisation named or described in [Schedule 4][280]
+    
+    _Schedule 4A company_ means a company named in [Schedule 4A][281]
     
     _Secretary_ means the Secretary to the Treasury, being the chief executive of the Treasury
     
@@ -908,23 +1008,23 @@ Title \[Repealed\]
     
     *   (b) on the dissolution or expiration of Parliament until the first meeting of the new Parliament, the person holding the office of Speaker of the House of Representatives at the time of the dissolution or expiration, or, if there was at that time a vacancy in the office of Speaker of the House of Representatives or if the person holding that office at that time dies, the person holding the office of Deputy Speaker at the time of the dissolution or expiration
     
-    _subsidiary_ has the same meaning as in sections 158 and 158A of the Companies Act 1955 or [sections 5][290] and [6][291] of the Companies Act 1993, as the case may require
+    _subsidiary_ has the same meaning as in sections 158 and 158A of the Companies Act 1955 or [sections 5][303] and [6][304] of the Companies Act 1993, as the case may require
     
     _Supplementary Estimates_ means a statement in any form that---
         
-    *   (a) is presented to the House of Representatives in accordance with [section 16][27]; and
+    *   (a) is presented to the House of Representatives in accordance with [section 16][31]; and
     
-    *   (b) contains the information referred to in [section 17][28]
+    *   (b) contains the information referred to in [section 17][32]
     
     _Treasury_ means the department of that name and, in relation to any particular function, duty, or power, means the Secretary; and includes any person for the time being authorised, by the Secretary or otherwise, to exercise that function, duty, or power
     
-    _Treasury instructions_ means Treasury instructions issued under [section 80][261]
+    _Treasury instructions_ means Treasury instructions issued under [section 80][267]
     
-    _Trust Bank Account_ means a Trust Bank Account established under [Part 7][229]
+    _Trust Bank Account_ means a Trust Bank Account established under [Part 7][235]
     
-    _trust money_ means trust money within the meaning of [section 66(1)][230]
+    _trust money_ means trust money within the meaning of [section 66(1)][236]
     
-    _type_, in relation to an appropriation, means any of the types of appropriations specified in [section 7(1)][15]
+    _type_, in relation to an appropriation, means any of the types of appropriations specified in [section 7(1)][18]
     
     _Vote_ means an appropriation or a grouping of appropriations that is---
         
@@ -958,121 +1058,161 @@ Title \[Repealed\]
     
     Section 2: substituted, on 1 July 1994, by section 3(1) of the Public Finance Amendment Act 1994 (1994 No 18).
     
-    Section 2(1) **annual financial statements of the Crown**: repealed, on 25 January 2005, by [section 5(1)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **annual financial statements of the Crown**: repealed, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **annual financial statements of the Government**: inserted, on 25 January 2005, by [section 5(1)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **annual financial statements of the Government**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **asset**: inserted, on 25 January 2005, by [section 5(1)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **appropriation administrator**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Audit Office**: repealed, on 25 January 2005, by [section 5(1)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **appropriation Minister**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Auditor-General**: inserted, on 25 January 2005, by [section 5(1)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **asset**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **borrow money**: inserted, on 25 January 2005, by [section 5(2)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Audit Office**: repealed, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **borrowing expenses**: amended, on 12 December 2000, by [section 3][293] of the Public Finance Amendment Act 2000 (2000 No 78).
+    Section 2(1) **Auditor-General**: inserted, on 25 January 2005, by [section 5(1)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Budget**: inserted, on 25 January 2005, by [section 5(3)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **borrow money**: inserted, on 25 January 2005, by [section 5(2)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **capital contribution**: repealed, on 25 January 2005, by [section 5(4)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **borrowing expenses**: amended, on 12 December 2000, by [section 3][307] of the Public Finance Amendment Act 2000 (2000 No 78).
     
-    Section 2(1) **capital expenditure**: inserted, on 25 January 2005, by [section 5(4)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Budget**: inserted, on 25 January 2005, by [section 5(3)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **carrying amount**: inserted, on 25 January 2005, by [section 5(4)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **capital contribution**: repealed, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **contingent liability**: repealed, on 25 January 2005, by [section 5(5)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **capital expenditure**: inserted, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **cost**: repealed, on 25 January 2005, by [section 5(5)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **carrying amount**: inserted, on 25 January 2005, by [section 5(4)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown Bank Account**: substituted, on 25 January 2005, by [section 5(7)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **category**: inserted, on 18 July 2013, by [section 5(1)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown entity**: substituted, on 25 January 2005, by [section 5(8)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **chief executive** paragraph (aa): inserted, on 18 July 2013, by [section 5(2)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Crown entity group**: repealed, on 25 January 2005, by [section 5(8)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **contingent liability**: repealed, on 25 January 2005, by [section 5(5)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **Her Majesty**: repealed, on 25 January 2005, by [section 5(6)(a)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **cost**: repealed, on 25 January 2005, by [section 5(5)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign**: inserted, on 25 January 2005, by [section 5(6)(a)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **Her Majesty**: repealed, on 25 January 2005, by [section 5(6)(a)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Crown** or **the Sovereign** paragraph (a): amended, on 25 January 2005, by [section 5(6)(b)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign**: inserted, on 25 January 2005, by [section 5(6)(a)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **department**: substituted, on 25 January 2005, by [section 5(9)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (a): amended, on 25 January 2005, by [section 5(6)(b)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Departmental Bank Account**: substituted, on 25 January 2005, by [section 5(10)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iii): amended, on 18 July 2013, by [section 5(3)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **derivative transaction**: inserted, on 25 January 2005, by [section 5(11)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(iv): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Estimates**: substituted, on 25 January 2005, by [section 5(12)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(v): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **forecast financial statements**: inserted, on 25 January 2005, by [section 5(13)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown** or **the Sovereign** paragraph (c)(vi): inserted, on 18 July 2013, by [section 5(4)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **generally accepted accounting practice** paragraph (a): amended, on 1 July 2011, by [section 12][294] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 2(1) **Crown Bank Account**: substituted, on 25 January 2005, by [section 5(7)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **generally accepted accounting practice** paragraph (b): amended, on 1 July 2011, by [section 12][294] of the Financial Reporting Amendment Act 2011 (2011 No 22).
+    Section 2(1) **Crown entity**: substituted, on 25 January 2005, by [section 5(8)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Government reporting entity**: inserted, on 25 January 2005, by [section 5(14)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Crown entity group**: repealed, on 25 January 2005, by [section 5(8)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **impact**: inserted, on 25 January 2005, by [section 5(14)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **department**: substituted, on 25 January 2005, by [section 5(9)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **intelligence and security department**: inserted, on 25 January 2005, by [section 5(14)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **department** paragraph (a): replaced, on 18 July 2013, by [section 5(5)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **liability**: substituted, on 25 January 2005, by [section 5(15)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **departmental**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][295] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **departmental agency**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Minister**: substituted, on 25 June 1997, by [section 2][296] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
+    Section 2(1) **Departmental Bank Account**: substituted, on 25 January 2005, by [section 5(10)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **mixed ownership model company**: inserted, on 30 June 2012, by [section 5][297] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 2(1) **derivative transaction**: inserted, on 25 January 2005, by [section 5(11)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Mode B**: repealed, on 25 January 2005, by [section 5(16)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Estimates**: substituted, on 25 January 2005, by [section 5(12)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Mode C**: repealed, on 25 January 2005, by [section 5(16)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **forecast financial statements**: inserted, on 25 January 2005, by [section 5(13)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **multi-class output expense appropriation**: inserted, on 25 January 2005, by [section 5(17)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **generally accepted accounting practice** paragraph (a): amended, on 1 July 2011, by [section 12][308] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 2(1) **Office of Parliament**: amended, on 25 January 2005, by [section 5(18)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **generally accepted accounting practice** paragraph (b): amended, on 1 July 2011, by [section 12][308] of the Financial Reporting Amendment Act 2011 (2011 No 22).
     
-    Section 2(1) **Office of Parliament**: amended, on 1 July 2001, by [section 53][298] of the Public Audit Act 2001 (2001 No 10).
+    Section 2(1) **Government reporting entity**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **other expenses**: substituted, on 25 January 2005, by [section 5(19)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **host department**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **outcome**: substituted, on 25 January 2005, by [section 5(20)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **impact**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **output expenses**: inserted, on 25 January 2005, by [section 5(20)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **intelligence and security department**: inserted, on 25 January 2005, by [section 5(14)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **outputs**: substituted, on 25 January 2005, by [section 5(20)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **lend money**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **principles of responsible fiscal management**: inserted, on 25 January 2005, by [section 5(20)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **liability**: substituted, on 25 January 2005, by [section 5(15)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **public security**: amended, on 25 January 2005, by [section 5(21)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **local authority**: substituted, on 1 July 2003, by [section 262][309] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **purchased**: repealed, on 25 January 2005, by [section 5(22)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Minister**: substituted, on 25 June 1997, by [section 2][310] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
     
-    Section 2(1) **raising a loan**: repealed, on 25 January 2005, by [section 5(22)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **mixed ownership model company**: inserted, on 30 June 2012, by [section 5][311] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
     
-    Section 2(1) **remeasurements**: inserted, on 25 January 2005, by [section 5(23)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Mode B**: repealed, on 25 January 2005, by [section 5(16)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **responsible Minister** paragraph (b): substituted, on 25 January 2005, by [section 5(24)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Mode C**: repealed, on 25 January 2005, by [section 5(16)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **responsible Minister** paragraph (c): substituted, on 25 January 2005, by [section 5(24)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **multi-class output expense appropriation**: inserted, on 25 January 2005, by [section 5(17)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **responsible Minister** paragraph (d): repealed, on 25 January 2005, by [section 5(24)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **non-departmental**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(1) **Supplementary Estimates**: substituted, on 25 January 2005, by [section 5(25)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Office of Parliament**: amended, on 25 January 2005, by [section 5(18)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **trading revenue**: repealed, on 25 January 2005, by [section 5(26)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **Office of Parliament**: amended, on 1 July 2001, by [section 53][312] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 2(1) **type**: inserted, on 25 January 2005, by [section 5(27)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **other expenses**: substituted, on 25 January 2005, by [section 5(19)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **Vote**: substituted, on 25 January 2005, by [section 5(28)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **outcome**: substituted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(1) **working day**: added, on 25 January 2005, by [section 5(29)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **output expenses**: inserted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(2): repealed, on 25 January 2005, by [section 5(30)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **outputs**: substituted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 2(3): repealed, on 25 January 2005, by [section 5(30)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **permanent legislative authority**: inserted, on 18 July 2013, by [section 5(6)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 2(4): repealed, on 25 January 2005, by [section 5(30)][292] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 2(1) **principles of responsible fiscal management**: inserted, on 25 January 2005, by [section 5(20)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(a)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 2(1) **public money**: amended, on 18 July 2013, by [section 5(7)(b)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 2(1) **public security**: amended, on 25 January 2005, by [section 5(21)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **purchased**: repealed, on 25 January 2005, by [section 5(22)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **raising a loan**: repealed, on 25 January 2005, by [section 5(22)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **remeasurements**: inserted, on 25 January 2005, by [section 5(23)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **responsible Minister**: replaced, on 18 July 2013, by [section 5(8)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 2(1) **Schedule 4 organisation**: inserted, on 18 July 2013, by [section 5(9)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 2(1) **Schedule 4A company**: inserted, on 18 July 2013, by [section 5(9)][306] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 2(1) **Supplementary Estimates**: substituted, on 25 January 2005, by [section 5(25)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **trading revenue**: repealed, on 25 January 2005, by [section 5(26)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **type**: inserted, on 25 January 2005, by [section 5(27)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **Vote**: substituted, on 25 January 2005, by [section 5(28)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(1) **working day**: added, on 25 January 2005, by [section 5(29)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(2): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(3): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 2(4): repealed, on 25 January 2005, by [section 5(30)][305] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+##### 2A Provisions affecting application of amendments to this Act
+    
+*   [Schedule 1][277] contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013 (_see_ [section 88][276]).
+    
+    Section 2A: inserted, on 18 July 2013, by [section 6][313] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 3 Act to bind Crown
     
@@ -1088,72 +1228,98 @@ Title \[Repealed\]
 
 ##### 3A Power to amend Schedule 4
     
-*   (1) The Governor-General may, by Order in Council, amend [Schedule 4][274]---
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend [Schedule 4][280]---
         
-    *   (a) to add to column 1 any of the following:
+    *   (a) to add the name or description of---
             
-        *   (i) the name of any body established by or under an Act:
+        *   (i) any body, office (except an Office of Parliament), or officer established by or under an Act; or
         
-        *   (ii) the name of any statutory office (except an Office of Parliament) or statutory officer established by or under an Act:
-        
-        *   (iii) the name of any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has power to appoint, a majority of the trustees:
-        
-        *   (iv) subject to subsection (2), the name of any company:
+        *   (ii) any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has the power to appoint, a majority of the trustees:
         
         
     
-    *   (b) to apply to an organisation that is in column 1 any provision of the [Crown Entities Act 2004][299] (other than [section 165][300]) that is listed in column 2:
+    *   (b) to apply to an organisation any provision of the [Crown Entities Act 2004][314] that appears in [Schedule 4][280] (other than [section 165][315] of that Act):
     
-    *   (c) to omit from column 1 any of the following (and to omit from column 2 any provision of the [Crown Entities Act 2004][299] that applies to it):
+    *   (c) to disapply to an organisation any provision of the [Crown Entities Act 2004][314] that appears in [Schedule 4][280]:
+    
+    *   (d) to substitute the name of an organisation in recognition of a change in its name:
+    
+    *   (e) to remove the name or description of an organisation.
+    
+    (2) The Minister must recommend that an Order in Council be made to remove the name or description of an organisation from [Schedule 4][280] if, and only if, the Minister is satisfied that---
+        
+    *   (a) the organisation has become a company or a Crown entity; or
+    
+    *   (b) in the case of a body, office, or officer established by or under an Act, the body, office, or officer has been disestablished; or
+    
+    *   (c) in the case of a trust,---
             
-        *   (i) the name of any body, officer, trust, or company in recognition of its dissolution or removal from the register under the [Companies Act 1993][284]:
+        *   (i) the trust has been wound up; or
         
-        *   (ii) the name of any company subject to subsection (3):
-        
-        *   (iii) the name of any trust in respect of which the Crown ceases to have the power to appoint a majority of the trustees:
-        
-        *   (iv) the name of any body, officer, trust, or company that becomes a Crown entity under the [Crown Entities Act 2004][299] or a State enterprise under the [State-Owned Enterprises Act 1986][301]:
+        *   (ii) the Crown no longer has the power to appoint a majority of the trustees.
         
         
     
-    *   (d) to substitute, in column 1, the name of any body, officer, trust, or company in recognition of a change in its name:
+    Section 3A: replaced, on 18 July 2013, by [section 7][316] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+##### 3AB Power to amend Schedule 4A
     
-    *   (e) to omit from column 2 the application of any provision of the [Crown Entities Act 2004][299] to any 1 or more organisations named in column 1\.
+*   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend [Schedule 4A][281]---
+        
+    *   (a) to add the name of a company that meets the following criteria:
+            
+        *   (i) Ministers of the Crown hold, on behalf of the Crown, more than 50% of the issued ordinary shares in the capital of the company; and
+        
+        *   (ii) shares in the company are not listed on a registered market (within the meaning of the [Securities Markets Act 1988][317]); and
+        
+        *   (iii) the company is not a Crown entity or a State enterprise named in [Schedule 1][294] of the State-Owned Enterprises Act 1986:
+        
+        
     
-    (2) An Order in Council may be made under subsection (1)(a)(iv) only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that more than 50% of the issued ordinary shares in the capital of the company to which the order relates are held by Ministers of the Crown on behalf of the Crown.
+    *   (b) to apply to a company any provision of the [Crown Entities Act 2004][314] that appears in [Schedule 4A][281] (other than [section 165][315] of that Act):
     
-    (3) An Order in Council may be made under subsection (1)(c)(ii) only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that at least 50% of the issued ordinary shares in the capital of the company to which the order relates are no longer held by Ministers of the Crown on behalf of the Crown.
+    *   (c) to disapply to a company any provision of the [Crown Entities Act 2004][314] that appears in [Schedule 4A][281]:
     
-    Section 3A: substituted, on 25 January 2005, by [section 6][302] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (d) to substitute the name of a company in recognition of a change in its name:
+    
+    *   (e) to remove the name of a company.
+    
+    (2) The Minister must recommend that an Order in Council be made to remove the name of a company from [Schedule 4A][281] if the Minister is satisfied that--- 
+        
+    *   (a) the company has been removed from the register of companies kept under the [Companies Act 1993][293]; or
+    
+    *   (b) the company no longer meets the criteria set out in subsection (1)(a).
+    
+    Section 3AB: inserted, on 18 July 2013, by [section 7][316] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 3B Power to amend Schedule 5 to reflect name changes
     
-*   The Governor-General may, by Order in Council, amend [Schedule 5][275] to replace the name of any company in recognition of a change in its name.
+*   The Governor-General may, by Order in Council, amend [Schedule 5][282] to replace the name of any company in recognition of a change in its name.
     
-    Section 3B: inserted, on 30 June 2012, by [section 6][303] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 3B: inserted, on 30 June 2012, by [section 6][318] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 3C Power to amend Schedule 5 to restore company to State-Owned Enterprises Act 1986
     
-*   (1) The Governor-General may, by Order in Council, repeal the name of a company from [Schedule 5][275] and insert the name of that company in [Schedules 1][285] and [2][304] of the State-Owned Enterprises Act 1986\.
+*   (1) The Governor-General may, by Order in Council, repeal the name of a company from [Schedule 5][282] and insert the name of that company in [Schedules 1][294] and [2][319] of the State-Owned Enterprises Act 1986\.
     
     (2) Every Order in Council made under subsection (1) must (unless the amendment is redundant), and is empowered to, also---
         
-    *   (a) insert the name of that company in [Part 2][305] of Schedule 1 of the Ombudsmen Act 1975; and
+    *   (a) insert the name of that company in [Part 2][320] of Schedule 1 of the Ombudsmen Act 1975; and
     
-    *   (b) repeal the name of that company from Part B of [Schedule 36][306] of the Income Tax Act 2007 and insert the name of that company in Part A of that schedule.
+    *   (b) repeal the name of that company from Part B of [Schedule 36][321] of the Income Tax Act 2007 and insert the name of that company in Part A of that schedule.
     
     (3) An Order in Council may be made under this section only if the Governor-General in Council is satisfied, at the time of the making of the Order in Council, that 100% of the issued ordinary shares in the company are held by Ministers of the Crown on behalf of the Crown.
     
-    Section 3C: inserted, on 30 June 2012, by [section 6][303] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 3C: inserted, on 30 June 2012, by [section 6][318] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ## Part 1  
 Appropriations
     
-*   Part 1: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 1: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Requirement for appropriations
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 4 Expenses or capital expenditure must not be incurred unless in accordance with appropriation or statutory authority
     
@@ -1165,13 +1331,15 @@ Appropriations
     
     *   (b) an operating loss incurred by---
             
-        *   (i) a Crown entity named or described in the [Crown Entities Act 2004][299]; or
+        *   (i) a Crown entity named or described in the [Crown Entities Act 2004][314]; or
         
-        *   (ii) an organisation named or described in [Schedule 4][274]; or
+        *   (ia) a Schedule 4 organisation; or
         
-        *   (iia) a mixed ownership model company listed in [Schedule 5][275]; or
+        *   (ii) a Schedule 4A company; or
         
-        *   (iii) a State enterprise named in [Schedule 1][285] of the State-Owned Enterprises Act 1986; or
+        *   (iia) a mixed ownership model company listed in [Schedule 5][282]; or
+        
+        *   (iii) a State enterprise named in [Schedule 1][294] of the State-Owned Enterprises Act 1986; or
         
         *   (iv) the Reserve Bank of New Zealand; or
         
@@ -1179,15 +1347,27 @@ Appropriations
         
         
     
-    Section 4: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 4: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 4(2)(b)(iia): inserted, on 30 June 2012, by [section 7][308] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 4(2)(b)(ia): inserted, on 18 July 2013, by [section 8][323] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 4(2)(b)(ii): replaced, on 18 July 2013, by [section 8][323] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 4(2)(b)(iia): inserted, on 30 June 2012, by [section 7][324] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+
+##### 4A Authority to incur expenses or capital expenditure under Imprest Supply Act
+    
+*   (1) The authority given by an Imprest Supply Act to incur expenses or capital expenditure in a financial year in advance of appropriation is an authority under an Act for the purposes of [sections 4(1)][325] and [26C(1)][326].
+    
+    (2) However, subsection (1) does not apply unless an appropriation for the expenses or capital expenditure is made before the end of the financial year.
+    
+    Section 4A: inserted, on 18 July 2013, by [section 9][327] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 5 Public money must not be spent unless in accordance with statutory authority
     
 *   The Crown or an Office of Parliament must not spend public money, except as expressly authorised by or under an Act (including this Act).
     
-    Section 5: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 5: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 6 Authority to spend public money
     
@@ -1201,7 +1381,7 @@ Appropriations
     
     *   (d) the settlement of liabilities of the Crown or an Office of Parliament.
     
-    Section 6: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 6: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 7 Separate appropriation required for types of expenses and capital expenditure
     
@@ -1241,11 +1421,39 @@ Appropriations
     
     (4) However, if subsection (3)(b) applies, the Estimates or other supporting information that must be presented with the Appropriation Bill in which the multi-class output expense appropriation is sought must,---
         
-    *   (a) to the extent required by [section 14][25] or, as the case may be, [section 15][26], relate to each class of outputs in that appropriation; and
+    *   (a) to the extent required by [section 14][29] or, as the case may be, [section 15][30], relate to each class of outputs in that appropriation; and
     
     *   (b) explain why those classes of outputs have been grouped under that one appropriation.
     
-    Section 7: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 7: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+##### 7C Responsibility for, and administration and use of, appropriations
+    
+*   (1) An appropriation is made to the Crown or an Office of Parliament.
+    
+    (2) In the case of an appropriation made to the Crown,---
+        
+    *   (a) a Minister (the _appropriation Minister_) is responsible for the appropriation; and
+    
+    *   (b) the appropriation must be administered by 1 department (the _appropriation administrator_) on behalf of the appropriation Minister; and
+    
+    *   (c) if the appropriation is an appropriation for departmental expenses or a multi-category appropriation, any other department may incur expenses against the appropriation---
+            
+        *   (i) at the direction of the appropriation Minister; or
+        
+        *   (ii) with the agreement of the appropriation administrator.
+        
+        
+    
+    (3) Despite subsection (2)(a), the Speaker is responsible for any appropriation administered by the Office of the Clerk of the House of Representatives or the Parliamentary Service.
+    
+    (4) In the case of an appropriation made to an Office of Parliament,---
+        
+    *   (a) the Speaker is responsible for the appropriation; and
+    
+    *   (b) the appropriation must be administered by that Office of Parliament.
+    
+    Section 7C: inserted, on 18 July 2013, by [section 10][328] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 8 Appropriation limited by amount
     
@@ -1253,9 +1461,9 @@ Appropriations
         
     *   (a) is limited to the amount specified for the appropriation by or under that Act; and
     
-    *   (b) may not be exceeded (except as provided for in [section 25][37] or [section 26A][39] or [section 26B][40]).
+    *   (b) may not be exceeded (except as provided for in [section 25][41] or [section 26A][43] or [section 26B][44]).
     
-    Section 8: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 8: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 9 Appropriation limited by scope
     
@@ -1269,21 +1477,21 @@ Appropriations
         
     *   (a) the scope of a multi-class output expense appropriation is the scope of each of the individual classes of outputs included in that appropriation; and
     
-    *   (b) any variation made by the Minister of the terms and conditions of a capital injection to any entity referred to in [section 27(3)(a) to (f)][76] does not change the scope or purpose of that capital injection.
+    *   (b) any variation made by the Minister of the terms and conditions of a capital injection to any entity referred to in [section 27(3)(a) to (f)][83] does not change the scope or purpose of that capital injection.
     
-    Section 9: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 9: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 9A Supplementary Estimates
     
 *   \[Repealed\]
     
-    Section 9A: repealed, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 9A: repealed, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 9B Power of Secretary to obtain information
     
 *   \[Repealed\]
     
-    Section 9B: repealed, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 9B: repealed, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 10 Appropriation limited by period
     
@@ -1297,35 +1505,37 @@ Appropriations
     
     (3) Despite subsection (2), the authority to incur expenses or capital expenditure must not apply for more than 5 financial years.
     
-    Section 10: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 10: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 11 Expenses or payments authorised other than by Appropriation Act
     
 *   (1) If an Act (other than an Appropriation Act) expressly provides for payments to be appropriated by or under that Act, any expense or capital expenditure incurred that gives rise to the need for those payments may be incurred without further appropriation than this section.
     
-    (2) Each expense or capital expenditure incurred in accordance with an appropriation by or under an Act (other than an Appropriation Act) must be managed and accounted for in the same manner as expenses or capital expenditure incurred in accordance with an Appropriation Act.
+    (2) Each expense or capital expenditure incurred in accordance with an appropriation, or other authority, by or under an Act (other than an Appropriation Act) must be managed and accounted for in the same manner as expenses or capital expenditure incurred in accordance with an Appropriation Act.
     
-    Section 11: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 11: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 11(2): amended, on 18 July 2013, by [section 11][329] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 12 Timing of first Appropriation Bill for financial year
     
 *   Except as otherwise provided by a resolution of the House of Representatives, the first Appropriation Bill that relates to a financial year must be introduced into the House of Representatives before the end of the first month after the start of that financial year.
     
-    Section 12: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 12: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Information requirements for appropriations
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 13 Estimates and other supporting information must be presented with first Appropriation Bill
     
 *   (1) The Minister must present to the House of Representatives the Estimates immediately after he or she has delivered the Budget, or at any time prior to that time on the same day.
     
-    (2) The Minister must also present to the House of Representatives the other supporting information referred to in [section 15][26] at the same time he or she presents the Estimates under subsection (1), unless that other supporting information is already contained in the Estimates.
+    (2) The Minister must also present to the House of Representatives the other supporting information referred to in [section 15][30] at the same time he or she presents the Estimates under subsection (1), unless that other supporting information is already contained in the Estimates.
     
-    Section 13: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 13: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 13(1): amended, on 25 February 2012, by [section 4][309] of the Public Finance Amendment Act 2012 (2012 No 17).
+    Section 13(1): amended, on 25 February 2012, by [section 4][330] of the Public Finance Amendment Act 2012 (2012 No 17).
 
 ##### 14 Content of Estimates
     
@@ -1339,23 +1549,23 @@ Appropriations
         
         *   (iii) the department that will administer the Vote containing the appropriation; and
         
-        *   (iv) the type of the appropriation (in terms of [section 7][15]); and
+        *   (iv) the type of the appropriation (in terms of [section 7][18]); and
         
-        *   (v) the amount of each expense or capital expenditure authorised by the appropriation (in terms of [section 8][16]); and
+        *   (v) the amount of each expense or capital expenditure authorised by the appropriation (in terms of [section 8][20]); and
         
-        *   (vi) the scope of the appropriation (in terms of [section 9][17]); and
+        *   (vi) the scope of the appropriation (in terms of [section 9][21]); and
         
-        *   (vii) the period of the appropriation, but only if the period is more than 1 financial year (in terms of [section 10][20]); and
+        *   (vii) the period of the appropriation, but only if the period is more than 1 financial year (in terms of [section 10][24]); and
         
         
     
     *   (b) for each department, the responsible Minister for the department; and
     
-    *   (c) for each department other than an intelligence and security department, the projected balance of net assets for the department at the end of the financial year (in terms of [section 23(1)(c)][35]).
+    *   (c) for each department other than an intelligence and security department, the projected balance of net assets for the department at the end of the financial year (in terms of [section 23(1)(c)][39]).
     
     (2) The Minister may, in addition to the information referred to in this section, include in the Estimates any further information that the Minister considers necessary or desirable.
     
-    Section 14: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 14: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 15 Other supporting information for first Appropriation Bill
     
@@ -1371,21 +1581,21 @@ Appropriations
     
     (2) The other supporting information must, for each Vote, include---
         
-    *   (a) comparative voted and estimated actual expenses or capital expenditure for the previous financial year, and comparative actual expenses or capital expenditure for each of the 4 financial years that preceded the previous financial year, for the total of each of the types of appropriation set out in [section 7(1)][15]; and
+    *   (a) comparative voted and estimated actual expenses or capital expenditure for the previous financial year, and comparative actual expenses or capital expenditure for each of the 4 financial years that preceded the previous financial year, for the total of each of the types of appropriation set out in [section 7(1)][18]; and
     
     *   (b) a summary of the financial activity relating to the Vote for the financial year to which the Appropriation Bill relates, and comparative budgeted and estimated actual figures for the previous financial year.
     
     (3) The other supporting information must also include, for each category of expense or capital expenditure that is proposed to be incurred in accordance with an appropriation by an Act (other than an Appropriation Act),---
         
-    *   (a) the information required, under subsection (1) and [section 14][25] for each appropriation (except that the reference in section 14(1)(a)(v) to the amount of each expense or capital expenditure authorised by the appropriation must be read as a reference to the amount of each expense or capital expenditure forecast to be incurred under the appropriation); and
+    *   (a) the information required, under subsection (1) and [section 14][29] for each appropriation (except that the reference in section 14(1)(a)(v) to the amount of each expense or capital expenditure authorised by the appropriation must be read as a reference to the amount of each expense or capital expenditure forecast to be incurred under the appropriation); and
     
     *   (b) the authority for that expense or capital expenditure.
     
     (4) The Minister may, in addition to the information referred to in this section, present any further information that the Minister considers necessary or desirable.
     
-    (5) Subsections (1)(a) and (b) and (2)(b) do not apply to an appropriation made in accordance with [section 7(1)(f)][15].
+    (5) Subsections (1)(a) and (b) and (2)(b) do not apply to an appropriation made in accordance with [section 7(1)(f)][18].
     
-    Section 15: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 15: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 16 Supplementary Estimates must be presented with Supplementary Appropriation Bill
     
@@ -1395,7 +1605,7 @@ Appropriations
     
     *   (b) an Appropriation Bill that deals only with matters that relate to a previous financial year.
     
-    Section 16: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 16: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 17 Content of Supplementary Estimates
     
@@ -1403,17 +1613,17 @@ Appropriations
         
     *   (a) if information about an appropriation or department was provided in the Estimates or previous Supplementary Estimates for the same financial year, state any changes to the information about that appropriation or department that---
             
-        *   (i) is required under [section 14][25]; and
+        *   (i) is required under [section 14][29]; and
         
         *   (ii) is contained in those Estimates; or
         
         
     
-    *   (b) if information about an appropriation or department was not provided in the Estimates or previous Supplementary Estimates for the same financial year, state the information about that appropriation or department that is required under [section 14][25].
+    *   (b) if information about an appropriation or department was not provided in the Estimates or previous Supplementary Estimates for the same financial year, state the information about that appropriation or department that is required under [section 14][29].
     
-    (2) If subsection (1)(b) applies, the Minister must also present the information about the appropriation that is required under [section 15(1)(a) to (c)][26].
+    (2) If subsection (1)(b) applies, the Minister must also present the information about the appropriation that is required under [section 15(1)(a) to (c)][30].
     
-    Section 17: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 17: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 18 Minister must consult on proposal to change format or content of information presented with Appropriation Bills
     
@@ -1421,7 +1631,7 @@ Appropriations
         
     *   (a) the Estimates; or
     
-    *   (b) the other supporting information referred to in [section 15][26]; or
+    *   (b) the other supporting information referred to in [section 15][30]; or
     
     *   (c) the Supplementary Estimates.
     
@@ -1437,15 +1647,15 @@ Appropriations
         
         
     
-    Section 18: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 18: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 19 Power of Secretary to obtain information
     
-*   (1) The Secretary may request a department or an entity referred to in [section 27(3)(a) to (f)][76], or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of---
+*   (1) The Secretary may request a department, a departmental agency, or an entity referred to in [section 27(3)(a) to (f)][83], or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of---
         
     *   (a) the Estimates; and
     
-    *   (b) the other supporting information referred to in [section 15][26]; and
+    *   (b) the other supporting information referred to in [section 15][30]; and
     
     *   (c) the Supplementary Estimates.
     
@@ -1457,27 +1667,27 @@ Appropriations
     
     (3) If a date is specified under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives---
         
-    *   (a) the Estimates or other supporting information referred to in [section 15][26]; and
+    *   (a) the Estimates or other supporting information referred to in [section 15][30]; and
     
     *   (b) the Supplementary Estimates.
     
-    (4) A department or entity to whom the request is made must comply with the request.
+    (4) A department, departmental agency, or entity to whom the request is made must comply with the request.
     
-    Section 19: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 19: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 19(1): amended, on 18 July 2013, by [section 12(1)][331] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 19(4): amended, on 18 July 2013, by [section 12(2)][331] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 #### Other provisions relating to appropriations
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 20 Departments may incur output expenses for, or on behalf of, other departments
     
-*   (1) This section applies if an output is supplied by a department (**A**) for, or on behalf of, another department (**B**) in accordance with an agreement between A and B.
+*   \[Repealed\]
     
-    (2) Output expenses may be incurred by A, without further appropriation than this section, up to the amount of revenue earned from B.
-    
-    (3) However, A must return to B any revenue earned by the supply of the output that is not utilised toward the costs of the output.
-    
-    Section 20: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 20: repealed, on 18 July 2013, by [section 13][332] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 21 Expenses restricted by revenue
     
@@ -1497,7 +1707,7 @@ Appropriations
     
     (5) In this section, a reference to the amount of revenue earned by a class of outputs from parties other than the Crown may include a reference to the amount of revenue earned by a class of outputs from another department.
     
-    Section 21: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 21: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 22 Operating surplus of department
     
@@ -1505,11 +1715,11 @@ Appropriations
     
     (2) The reported net asset holding of a department may increase as a result of a remeasurement without further authority than this section.
     
-    (3) The amount of net asset holding in a department must not exceed the most recent projected balance of net assets for that department at the end of the financial year, as set out in an Appropriation Act in accordance with [section 23(1)(c)][35].
+    (3) The amount of net asset holding in a department must not exceed the most recent projected balance of net assets for that department at the end of the financial year, as set out in an Appropriation Act in accordance with [section 23(1)(c)][39].
     
     (4) Subsection (3) is subject to subsections (1) and (2).
     
-    Section 22: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 22: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 23 Net assets of departments must be confirmed
     
@@ -1531,9 +1741,9 @@ Appropriations
         
     *   (a) any projected capital injections and withdrawals; and
     
-    *   (b) any surpluses projected to be retained in accordance with [section 22(1)][34].
+    *   (b) any surpluses projected to be retained in accordance with [section 22(1)][38].
     
-    Section 23: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 23: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 24 Movements within departmental statement of financial position
     
@@ -1541,19 +1751,19 @@ Appropriations
     
     (2) A department may, without further authority than this section, use the proceeds of the sale or disposal of its assets, together with any working capital held by it, to pay its liabilities.
     
-    Section 24: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 24: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 25 Expenses or capital expenditure may be incurred in emergencies
     
 *   (1) This section applies if---
         
-    *   (a) a state of emergency or state of civil defence emergency is declared under the Civil Defence Act 1983 or the [Civil Defence Emergency Management Act 2002][310]; or
+    *   (a) a state of emergency or state of civil defence emergency is declared under the Civil Defence Act 1983 or the [Civil Defence Emergency Management Act 2002][333]; or
     
     *   (b) a situation occurs that affects the public health or safety of New Zealand or any part of New Zealand that the Government declares to be an emergency.
     
-    (2) The Minister may approve expenses or capital expenditure to be incurred to meet the emergency or disaster and, whether or not there is an appropriation by Parliament available for the purpose and despite [sections 4][12], [8][16], and [9][17], the expenses or capital expenditure may be incurred accordingly.
+    (2) The Minister may approve expenses or capital expenditure to be incurred to meet the emergency or disaster and, whether or not there is an appropriation by Parliament available for the purpose and despite [sections 4][14], [8][20], and [9][21], the expenses or capital expenditure may be incurred accordingly.
     
-    (3) If expenses or capital expenditure that have not been appropriated are incurred under subsection (2), the Minister must publish a notice in the _Gazette_, stating that the expenses or capital expenditure have been so incurred.
+    (3) \[Repealed\]
     
     (4) Public money may be spent, without further authority than this section, for the purpose of meeting expenses or capital expenditure incurred in accordance with subsection (2) that have not been appropriated.
     
@@ -1565,19 +1775,21 @@ Appropriations
     
     (6) Subsection (5) does not limit the validity of any expenses or capital expenditure incurred under this section.
     
-    Section 25: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 25: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 25(3): repealed, on 18 July 2013, by [section 14][334] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 26 Minister may determine terms and conditions of capital injections
     
 *   (1) The Minister, after consultation with the Minister responsible for an entity, may---
         
-    *   (a) determine the terms and conditions under which any capital injection authorised by an appropriation under [section 7(1)(e)][15] or any other authority is to be made to that entity; and
+    *   (a) determine the terms and conditions under which any capital injection authorised by an appropriation under [section 7(1)(e)][18] or any other authority is to be made to that entity; and
     
     *   (b) vary those terms and conditions at any time.
     
-    (2) However, subsection (1)(b) does not apply in respect of a State enterprise named in [Schedule 1][285] of the State-Owned Enterprises Act 1986\.
+    (2) However, subsection (1)(b) does not apply in respect of a State enterprise named in [Schedule 1][294] of the State-Owned Enterprises Act 1986\.
     
-    Section 26: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26A Transfer of resources between output expense appropriations
     
@@ -1593,7 +1805,7 @@ Appropriations
     
     (3) Subsection (2) does not limit the validity of an Order in Council made under subsection (1) or the validity of any transfer made under that Order in Council.
     
-    Section 26A: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26A: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26B Minister may approve expenses or capital expenditure to be incurred in excess of existing appropriation
     
@@ -1609,13 +1821,13 @@ Appropriations
         
     *   (a) even though all or part of the expenses or capital expenditure may have been incurred; and
     
-    *   (b) despite [sections 4][12] and [8][16].
+    *   (b) despite [sections 4][14] and [8][20].
     
     (4) Any expenses or capital expenditure that the Minister approves under this section must be included, for confirmation by Parliament, in an Appropriation Bill that applies to that financial year.
     
     (5) Subsection (4) does not limit the validity of any expenses or capital expenditure incurred under this section.
     
-    Section 26B: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26B: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26C Expenses or capital expenditure incurred without appropriation or other authority requires validation by Parliament
     
@@ -1627,7 +1839,7 @@ Appropriations
     
     *   (b) the explanation of the Minister responsible for the expenses or capital expenditure.
     
-    Section 26C: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26C: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26D Reporting requirements in relation to expenses or capital expenditure incurred in excess of, or without, appropriation
     
@@ -1641,13 +1853,13 @@ Appropriations
         
     *   (a) the annual financial statements of the Government for the financial year; and
     
-    *   (b) the annual financial statements of the administering department for the financial year in accordance with [section 45B(2)(d)][120].
+    *   (b) the annual financial statements of the administering department for the financial year in accordance with [section 45B(2)(d)][124].
     
-    Section 26D: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26D: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Application of this Part to Offices of Parliament
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26E Application of this Part to Offices of Parliament
     
@@ -1661,7 +1873,7 @@ Appropriations
         
         
     
-    *   (b) the projected balance of net assets (in terms of [section 23(1)(c)][35]); and
+    *   (b) the projected balance of net assets (in terms of [section 23(1)(c)][39]); and
     
     *   (c) the revenue of the Office (including the revenue associated with each proposed expenses appropriation and each output class).
     
@@ -1673,22 +1885,22 @@ Appropriations
     
     (5) An alteration to a Vote administered by an Office of Parliament during a financial year is subject to the provisions of this section.
     
-    Section 26E: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26E: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 2  
 Fiscal responsibility
     
-*   Part 2: substituted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 2: substituted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Preliminary
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26F Interpretation
     
-*   If the context requires, references in this Part to total debt, total operating expenses, total operating revenues, and total net worth are references to the total fiscal aggregates of the forecast financial statements prepared in accordance with [section 26Q][62].
+*   If the context requires, references in this Part to total debt, total operating expenses, total operating revenues, and total net worth are references to the total fiscal aggregates of the forecast financial statements prepared in accordance with [section 26Q][69].
     
-    Section 26F: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26F: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26G Principles of responsible fiscal management
     
@@ -1702,7 +1914,13 @@ Fiscal responsibility
     
     *   (d) managing prudently the fiscal risks facing the Government; and
     
-    *   (e) pursuing policies that are consistent with a reasonable degree of predictability about the level and stability of tax rates for future years.
+    *   (e) when formulating revenue strategy, having regard to efficiency and fairness, including the predictability and stability of tax rates; and
+    
+    *   (f) when formulating fiscal strategy, having regard to the interaction between fiscal policy and monetary policy; and
+    
+    *   (g) when formulating fiscal strategy, having regard to its likely impact on present and future generations; and
+    
+    *   (h) ensuring that the Crown's resources are managed effectively and efficiently.
     
     (2) However, the Government may depart from the principles of responsible fiscal management if---
         
@@ -1718,17 +1936,25 @@ Fiscal responsibility
         
         
     
-    Section 26G: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26G: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 26G(1)(e): replaced, on 4 September 2013, by [section 4][335] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26G(1)(f): inserted, on 4 September 2013, by [section 4][335] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26G(1)(g): inserted, on 4 September 2013, by [section 4][335] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26G(1)(h): inserted, on 4 September 2013, by [section 4][335] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 ##### 26H Generally accepted accounting practice
     
 *   All financial statements and forecast financial statements included in reports and updates required under this Part must be prepared in accordance with generally accepted accounting practice.
     
-    Section 26H: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26H: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Fiscal strategy report
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26I Fiscal strategy report
     
@@ -1736,11 +1962,11 @@ Fiscal responsibility
     
     (2) The Minister must present the fiscal strategy report immediately after he or she has delivered the Budget for the financial year to which the report relates, or at any time prior to that time on the same day.
     
-    (3) [Sections 26J to 26L][52] set out the contents of the fiscal strategy report.
+    (3) [Sections 26J to 26L][56] set out the contents of the fiscal strategy report.
     
-    Section 26I: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26I: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26I(2): amended, on 25 February 2012, by [section 5][311] of the Public Finance Amendment Act 2012 (2012 No 17).
+    Section 26I(2): amended, on 25 February 2012, by [section 5][336] of the Public Finance Amendment Act 2012 (2012 No 17).
 
 ##### 26J Contents of fiscal strategy report: long-term objectives
     
@@ -1770,17 +1996,17 @@ Fiscal responsibility
             
         *   (i) with the long-term objectives in the most recent fiscal strategy report; or
         
-        *   (ii) if the long-term objectives in the most recent fiscal strategy report were amended in the budget policy statement most recently prepared under [section 26M][56], with the long-term objectives stated in the statement; and
+        *   (ii) if the long-term objectives in the most recent fiscal strategy report were amended in the budget policy statement most recently prepared under [section 26M][61], with the long-term objectives stated in the statement; and
         
         
     
-    *   (b) if the long-term objectives referred to in subsection (1)(a) are not consistent with the long-term objectives in the most recent fiscal strategy report or in the budget policy statement most recently prepared under [section 26M][56], justify the departure of the long-term objectives referred to in subsection (1)(a) from the long-term objectives in the most recent fiscal strategy report or in the statement.
+    *   (b) if the long-term objectives referred to in subsection (1)(a) are not consistent with the long-term objectives in the most recent fiscal strategy report or in the budget policy statement most recently prepared under [section 26M][61], justify the departure of the long-term objectives referred to in subsection (1)(a) from the long-term objectives in the most recent fiscal strategy report or in the statement.
     
-    Section 26J: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26J: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26K Contents of fiscal strategy report: short-term intentions
     
-*   (1) The fiscal strategy report must, for the financial year to which the report relates and at least the next 2 financial years, indicate explicitly, by the use of ranges, ratios, or other means, the Government's short-term intentions for each of the variables specified in [section 26J(1)(a)][52].
+*   (1) The fiscal strategy report must, for the financial year to which the report relates and at least the next 2 financial years, indicate explicitly, by the use of ranges, ratios, or other means, the Government's short-term intentions for each of the variables specified in [section 26J(1)(a)][56].
     
     (2) The fiscal strategy report must---
         
@@ -1788,11 +2014,11 @@ Fiscal responsibility
             
         *   (i) the principles of responsible fiscal management; and
         
-        *   (ii) the long-term objectives referred to in [section 26J(1)(a)][52]; and
+        *   (ii) the long-term objectives referred to in [section 26J(1)(a)][56]; and
         
         
     
-    *   (b) if those short-term intentions are not consistent with the principles of responsible fiscal management or with the long-term objectives referred to in [section 26J(1)(a)][52] or with both, state---
+    *   (b) if those short-term intentions are not consistent with the principles of responsible fiscal management or with the long-term objectives referred to in [section 26J(1)(a)][56] or with both, state---
             
         *   (i) the reasons for the departure of those short-term intentions from those principles or from those long-term objectives or from both; and
         
@@ -1808,43 +2034,69 @@ Fiscal responsibility
             
         *   (i) with the short-term intentions indicated in the most recent fiscal strategy report; or
         
-        *   (ii) if the short-term intentions indicated in the most recent fiscal strategy report were amended in the budget policy statement most recently prepared under [section 26M][56], with the short-term intentions indicated in the statement; and
+        *   (ii) if the short-term intentions indicated in the most recent fiscal strategy report were amended in the budget policy statement most recently prepared under [section 26M][61], with the short-term intentions indicated in the statement; and
         
         
     
-    *   (b) if the short-term intentions referred to in subsection (1) are not consistent with the short-term intentions in the most recent fiscal strategy report or in the budget policy statement most recently prepared under [section 26M][56], justify the departure of the short-term intentions referred to in subsection (1) from the short-term intentions in the most recent fiscal strategy report or in the statement.
+    *   (b) if the short-term intentions referred to in subsection (1) are not consistent with the short-term intentions in the most recent fiscal strategy report or in the budget policy statement most recently prepared under [section 26M][61], justify the departure of the short-term intentions referred to in subsection (1) from the short-term intentions in the most recent fiscal strategy report or in the statement.
     
-    Section 26K: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26K: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+##### 26KA Contents of fiscal strategy report: management of the Crown's resources
+    
+*   (1) The fiscal strategy report must include details of the Government's strategy for managing expenditure, assets, and liabilities in the period of at least 3 financial years commencing with the financial year to which the report relates.
+    
+    (2) Details of the Government's strategy for managing expenditure, assets, and liabilities may include---
+        
+    *   (a) the outcomes sought from new or reallocated expenditure, assets, and liabilities; and
+    
+    *   (b) any expected change over time in the major components of expenditure, assets, and liabilities.
+    
+    Section 26KA: inserted, on 4 September 2013, by [section 5][337] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 ##### 26L Contents of fiscal strategy report: other matters
     
 *   (1) The fiscal strategy report must include---
         
-    *   (a) an assessment of the extent to which the economic and fiscal update prepared under [section 26O(1)][60] is consistent with the short-term intentions referred to in [section 26K(1)][53]; and
+    *   (a) an assessment of the extent to which the economic and fiscal update prepared under [section 26O(1)][67] is consistent with the short-term intentions referred to in [section 26K(1)][57]; and
     
-    *   (b) if the economic and fiscal update departs from those short-term intentions, an explanation of the reasons for the departure.
+    *   (b) if the economic and fiscal update departs from those short-term intentions, an explanation of the reasons for the departure; and
+    
+    *   (c) an assessment of the extent to which the fiscal performance of the Government, in the period since the most recent substantial change in the political party composition of the administration, is consistent with the Government's fiscal strategy report (if any) for that period; and
+    
+    *   (d) details of the Government's revenue strategy, including the Government's objectives for the tax system and tax policy.
     
     (2) The fiscal strategy report must also include---
         
     *   (a) scenarios that---
             
-        *   (i) contain projections of trends in the variables specified in [section 26J(1)(a)][52] (which projections must illustrate, for stated significant assumptions, likely future progress towards achieving the long-term objectives referred to in that section); and
+        *   (i) contain projections of trends in the variables specified in [section 26J(1)(a)][56] (which projections must illustrate, for stated significant assumptions, likely future progress towards achieving the long-term objectives referred to in that section); and
         
         *   (ii) explain the reasons for any significant differences from previous scenarios; and
         
         
     
-    *   (b) an assessment of the consistency of the scenarios with the long-term objectives referred to in [section 26J(1)(a)][52]; and
+    *   (b) an assessment of the consistency of the scenarios with the long-term objectives referred to in [section 26J(1)(a)][56]; and
     
-    *   (c) if the scenarios depart from the long-term objectives referred to in [section 26J(1)(a)][52], an explanation of the reasons for the departure.
+    *   (c) if the scenarios depart from the long-term objectives referred to in [section 26J(1)(a)][56], an explanation of the reasons for the departure.
     
-    (3) The projections required by subsection (2)(a)(i) must relate to the period to which the long-term objectives referred to in [section 26J(1)(a)][52] relate (which must be a period of 10 or more consecutive financial years commencing with the financial year to which the fiscal strategy report relates).
+    (3) The projections required by subsection (2)(a)(i) must relate to the period to which the long-term objectives referred to in [section 26J(1)(a)][56] relate (which must be a period of 10 or more consecutive financial years commencing with the financial year to which the fiscal strategy report relates).
     
-    Section 26L: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    (4) In subsection (1)(c), _administration_ means the Ministers of the Crown for the time being.
+    
+    Section 26L: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 26L(1)(b): amended, on 4 September 2013, by [section 6(1)][338] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26L(1)(c): inserted, on 4 September 2013, by [section 6(2)][338] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26L(1)(d): inserted, on 4 September 2013, by [section 6(2)][338] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26L(4): inserted, on 4 September 2013, by [section 6(3)][338] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 #### Budget policy statement
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26M Budget policy statement
     
@@ -1864,15 +2116,21 @@ Fiscal responsibility
     
     (3) The budget policy statement must,---
         
-    *   (a) if the long-term objectives referred to in [section 26J(1)(a)][52] have changed from those stated in the most recent fiscal strategy report, indicate those amended long-term objectives and explain how they accord with the principles of responsible fiscal management; and
+    *   (a) if the long-term objectives referred to in [section 26J(1)(a)][56] have changed from those stated in the most recent fiscal strategy report, indicate those amended long-term objectives and explain how they accord with the principles of responsible fiscal management; and
     
-    *   (b) if the short-term intentions referred to in [section 26K(1)][53] have changed from those indicated in the most recent fiscal strategy report, indicate those amended short-term intentions and explain how they accord with the principles of responsible fiscal management and the long-term objectives in the most recent fiscal strategy report or the amended long-term objectives under paragraph (a).
+    *   (b) if the short-term intentions referred to in [section 26K(1)][57] have changed from those indicated in the most recent fiscal strategy report, indicate those amended short-term intentions and explain how they accord with the principles of responsible fiscal management and the long-term objectives in the most recent fiscal strategy report or the amended long-term objectives under paragraph (a); and
     
-    Section 26M: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (c) if the details of the Government's strategy for managing expenditure, assets, and liabilities (_see_ [section 26KA][57]) have changed from those stated in the most recent fiscal strategy report, indicate those amended details.
+    
+    Section 26M: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 26M(3)(b): amended, on 4 September 2013, by [section 7(1)][339] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26M(3)(c): inserted, on 4 September 2013, by [section 7(2)][339] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 #### Statement on long-term fiscal position
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26N Statement on long-term fiscal position
     
@@ -1894,11 +2152,31 @@ Fiscal responsibility
         
         
     
-    Section 26N: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26N: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+#### Investment statement
+    
+*   Heading: inserted, on 4 September 2013, by [section 8][340] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+
+##### 26NA Investment statement
+    
+*   (1) The Minister must, before the end of 2017 and then at intervals not exceeding 4 years, present to the House of Representatives an investment statement prepared by the Treasury.
+    
+    (2) The investment statement must---
+        
+    *   (a) describe and state the value of the Crown's significant assets and liabilities; and
+    
+    *   (b) state how those assets and liabilities have changed in value over time; and
+    
+    *   (c) forecast how those assets and liabilities are expected to change in value in each of at least the next 2 financial years after the financial year in which the investment statement is presented; and
+    
+    *   (d) identify any significant differences between the information specified in paragraphs (a) to (c) and the equivalent information reported in the most recent previous investment statement.
+    
+    Section 26NA: inserted, on 4 September 2013, by [section 8][340] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 #### Economic and fiscal updates
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26O Economic and fiscal update
     
@@ -1916,7 +2194,7 @@ Fiscal responsibility
         
         
     
-    *   (b) contain a statement of tax policy changes in accordance with [section 26R][63]; and
+    *   (b) contain a statement of tax policy changes in accordance with [section 26R][70]; and
     
     *   (c) be accompanied by a statement of responsibility.
     
@@ -1926,13 +2204,13 @@ Fiscal responsibility
     
     *   (b) the days on which the contents of different specified aspects of the update were finalised.
     
-    Section 26O: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26O: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 26O(2): amended, on 25 February 2012, by [section 6][312] of the Public Finance Amendment Act 2012 (2012 No 17).
+    Section 26O(2): amended, on 25 February 2012, by [section 6][341] of the Public Finance Amendment Act 2012 (2012 No 17).
 
 ##### 26P Economic forecasts
     
-*   (1) The economic forecasts contained in the economic and fiscal update prepared under [section 26O][60] must, for each of the 3 financial years to which they relate, include forecasts of movements in New Zealand's---
+*   (1) The economic forecasts contained in the economic and fiscal update prepared under [section 26O][67] must, for each of the 3 financial years to which they relate, include forecasts of movements in New Zealand's---
         
     *   (a) gross domestic product (including the major components of gross domestic product):
     
@@ -1944,11 +2222,11 @@ Fiscal responsibility
     
     (2) The economic forecasts must also include a statement of all significant assumptions underlying the forecasts.
     
-    Section 26P: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26P: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26Q Fiscal forecasts
     
-*   (1) The fiscal forecasts contained in the economic and fiscal update prepared under [section 26O][60] must, for each of the 3 financial years to which they relate, include forecast financial statements.
+*   (1) The fiscal forecasts contained in the economic and fiscal update prepared under [section 26O][67] must, for each of the 3 financial years to which they relate, include forecast financial statements.
     
     (2) In addition to the forecast financial statements required by subsection (1), the fiscal forecasts must include---
         
@@ -1964,13 +2242,13 @@ Fiscal responsibility
     
     (3) The fiscal forecasts must also include---
         
-    *   (a) a statement of commitments from the most recent monthly financial statements of the Government that are required to be prepared under [section 31A][83]; and
+    *   (a) a statement of commitments from the most recent monthly financial statements of the Government that are required to be prepared under [section 31A][90]; and
     
     *   (b) a statement of specific fiscal risks of the Government as at the day on which the forecast financial statements are finalised---
             
         *   (i) that sets out specific fiscal risks that relate to---
                 
-            *   (A) the Government decisions and other circumstances required by [section 26U][67] to be incorporated in the economic and fiscal update prepared under [section 26O][60]; and
+            *   (A) the Government decisions and other circumstances required by [section 26U][74] to be incorporated in the economic and fiscal update prepared under [section 26O][67]; and
             
             *   (B) any other contingent liabilities (including any guarantees or indemnities given under any Act); and
             
@@ -1980,7 +2258,7 @@ Fiscal responsibility
         
         
     
-    *   (c) a statement of all significant accounting policies (including any changes from the accounting policies contained in the annual financial statements of the Government most recently presented to the House of Representatives or published under [section 31][82]); and
+    *   (c) a statement of all significant accounting policies (including any changes from the accounting policies contained in the annual financial statements of the Government most recently presented to the House of Representatives or published under [section 31][89]); and
     
     *   (d) in relation to each forecast financial statement required by subsections (1) and (2)(a) and, if appropriate, subsection (2)(b),---
             
@@ -1994,13 +2272,13 @@ Fiscal responsibility
     
     *   (f) a statement that shows the sensitivity of the fiscal aggregates to changes in economic conditions.
     
-    (4) The fiscal forecasts must be for the same reporting entity as the annual financial statements of the Government to be prepared under [section 27][76] for the first of the financial years to which the fiscal forecasts relate.
+    (4) The fiscal forecasts must be for the same reporting entity as the annual financial statements of the Government to be prepared under [section 27][83] for the first of the financial years to which the fiscal forecasts relate.
     
-    Section 26Q: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26Q: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26R Annual statement of tax policy changes
     
-*   (1) The statement of tax policy changes contained in the economic and fiscal update prepared under [section 26O][60] must set out---
+*   (1) The statement of tax policy changes contained in the economic and fiscal update prepared under [section 26O][67] must set out---
         
     *   (a) a summary and quantitative assessment of tax policy changes that have resulted in a material change to the tax revenue forecasts for the financial year to which the update relates and at least the next 2 financial years; and
     
@@ -2012,7 +2290,7 @@ Fiscal responsibility
     
     *   (b) a proposed change in tax legislation that has been approved by the Government (whether set out in a Bill that has been introduced into the House of Representatives or otherwise).
     
-    Section 26R: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26R: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26S Half-year economic and fiscal update
     
@@ -2026,11 +2304,11 @@ Fiscal responsibility
     
     (3) The half-year economic and fiscal update must---
         
-    *   (a) include the information required by [sections 26O(3)(a) and (4)][60], [26P][61], [26Q][62], and [26U][67] to be included in the economic and fiscal update prepared under section 26O, except that---
+    *   (a) include the information required by [sections 26O(3)(a) and (4)][67], [26P][68], [26Q][69], and [26U][74] to be included in the economic and fiscal update prepared under section 26O, except that---
             
-        *   (i) the reference to estimated actual figures in [section 26Q(3)(d)(i)][62] must be read as if it were a reference to actual figures; and
+        *   (i) the reference to estimated actual figures in [section 26Q(3)(d)(i)][69] must be read as if it were a reference to actual figures; and
         
-        *   (ii) the actual figures required by [section 26Q(3)(d)(ii)][62] are not required; and
+        *   (ii) the actual figures required by [section 26Q(3)(d)(ii)][69] are not required; and
         
         
     
@@ -2038,11 +2316,11 @@ Fiscal responsibility
     
     (4) However, the Minister is not required to arrange the publication of the half-year economic and fiscal update in any financial year if, in the period of that financial year beginning on 1 October and ending on 31 December, a pre-election economic and fiscal update---
         
-    *   (a) has been published under [section 26T][65]; or
+    *   (a) has been published under [section 26T][72]; or
     
     *   (b) is required to be published under that section.
     
-    Section 26S: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26S: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26T Pre-election economic and fiscal update
     
@@ -2050,39 +2328,39 @@ Fiscal responsibility
     
     (2) The pre-election economic and fiscal update must,---
         
-    *   (a) except as provided in subsection (3), include the information required by [sections 26O(3)(a) and (4)][60], [26P][61], [26Q][62], and [26U][67] to be included in the economic and fiscal update prepared under section 26O; and
+    *   (a) except as provided in subsection (3), include the information required by [sections 26O(3)(a) and (4)][67], [26P][68], [26Q][69], and [26U][74] to be included in the economic and fiscal update prepared under section 26O; and
     
     *   (b) be accompanied by a statement of responsibility.
     
-    (3) If, before the day on which a pre-election economic and fiscal update is required to be published under this section, the annual financial statements of the Government for the financial year immediately before the first of the financial years to which the fiscal forecasts relate have been presented to the House of Representatives or published under [section 31][82],---
+    (3) If, before the day on which a pre-election economic and fiscal update is required to be published under this section, the annual financial statements of the Government for the financial year immediately before the first of the financial years to which the fiscal forecasts relate have been presented to the House of Representatives or published under [section 31][89],---
         
-    *   (a) the reference to estimated actual figures in [section 26Q(3)(d)(i)][62] must be read as if it were a reference to actual figures; and
+    *   (a) the reference to estimated actual figures in [section 26Q(3)(d)(i)][69] must be read as if it were a reference to actual figures; and
     
-    *   (b) the actual figures required by [section 26Q(3)(d)(ii)][62] are not required.
+    *   (b) the actual figures required by [section 26Q(3)(d)(ii)][69] are not required.
     
     (4) If the day of the dissolution of Parliament is less than 30 working days before the day appointed as polling day in relation to the general election of members of the House of Representatives, the Minister must arrange for the pre-election economic and fiscal update required under this section to be published not later than 10 working days after the day of the dissolution of Parliament.
     
     (5) The Minister must, as soon as possible after the next meeting of Parliament, present to the House of Representatives a copy of the update published under this section.
     
-    Section 26T: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26T: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Disclosure requirements for economic and fiscal updates
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26U Disclosure of policy decisions and other circumstances that may influence future fiscal situation
     
-*   (1) An economic and fiscal update prepared under [section 26O][60] or [section 26S][64] or [section 26T][65] must incorporate, to the fullest extent possible that is consistent with [section 26V][68], all Government decisions and all other circumstances that may have a material effect on the fiscal and economic outlook.
+*   (1) An economic and fiscal update prepared under [section 26O][67] or [section 26S][71] or [section 26T][72] must incorporate, to the fullest extent possible that is consistent with [section 26V][75], all Government decisions and all other circumstances that may have a material effect on the fiscal and economic outlook.
     
     (2) If the fiscal implications of Government decisions and other circumstances referred to in subsection (1) can be quantified for particular years with reasonable certainty by the day on which the forecast financial statements are finalised, the quantified fiscal implications of those Government decisions and other circumstances must be included in the forecast financial statements.
     
-    (3) If the fiscal implications of Government decisions and other circumstances referred to in subsection (1) cannot be quantified for or assigned to particular years with reasonable certainty by the day on which the forecast financial statements are finalised, those Government decisions and other circumstances must be disclosed in the statement of specific fiscal risks of the Government required by [section 26Q(3)(b)][62].
+    (3) If the fiscal implications of Government decisions and other circumstances referred to in subsection (1) cannot be quantified for or assigned to particular years with reasonable certainty by the day on which the forecast financial statements are finalised, those Government decisions and other circumstances must be disclosed in the statement of specific fiscal risks of the Government required by [section 26Q(3)(b)][69].
     
-    Section 26U: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26U: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26V Limits on disclosure requirements
     
-*   [Sections 26Q(2)(b)][62] and [26U(1)][67] do not apply to a decision, circumstance, or statement if the Minister, together with any other Minister designated for the purpose of this section, determines that---
+*   [Sections 26Q(2)(b)][69] and [26U(1)][74] do not apply to a decision, circumstance, or statement if the Minister, together with any other Minister designated for the purpose of this section, determines that---
         
     *   (a) to incorporate that decision, circumstance, or statement in an economic and fiscal update is likely---
             
@@ -2106,15 +2384,15 @@ Fiscal responsibility
         
         
     
-    Section 26V: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26V: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Statement of responsibility
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26W Requirements for statement of responsibility
     
-*   (1) The statement of responsibility required by [section 26O][60] or [section 26S][64] or [section 26T][65] must be signed by---
+*   (1) The statement of responsibility required by [section 26O][67] or [section 26S][71] or [section 26T][72] must be signed by---
         
     *   (a) the Minister; and
     
@@ -2136,7 +2414,7 @@ Fiscal responsibility
             
         *   (i) that incorporates the fiscal and economic implications of the decisions and circumstances referred to in paragraph (a); but
         
-        *   (ii) that does not incorporate any decisions, circumstances, or statements that the Minister and any other Minister designated for the purpose of [section 26V][68] have determined under that section should not be incorporated in that update; and
+        *   (ii) that does not incorporate any decisions, circumstances, or statements that the Minister and any other Minister designated for the purpose of [section 26V][75] have determined under that section should not be incorporated in that update; and
         
         
     
@@ -2146,7 +2424,7 @@ Fiscal responsibility
         
         *   (ii) for the consistency with the requirements of this Part of the information contained in the update; and
         
-        *   (iii) for the omission from the update under [section 26V][68] of any decision, circumstance, or statement.
+        *   (iii) for the omission from the update under [section 26V][75] of any decision, circumstance, or statement.
         
         
     
@@ -2156,63 +2434,61 @@ Fiscal responsibility
     
     *   (b) on the basis of economic and fiscal information available to it before the day on which the contents of the update or the relevant aspect of the update were finalised.
     
-    Section 26W: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26W: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 26X Certain statements and updates may be published in advance of presentation to House of Representatives
     
 *   The Minister may arrange for the following to be published in advance of their being presented to the House of Representatives:
         
-    *   (a) a budget policy statement under [section 26M(1)][56]:
+    *   (a) a budget policy statement under [section 26M(1)][61]:
     
-    *   (b) a half-year economic and fiscal update under [section 26S(1)][64]:
+    *   (aa) an investment statement under [section 26NA(1)][65]:
     
-    *   (c) a pre-election economic and fiscal update under [section 26T(1)][65].
+    *   (b) a half-year economic and fiscal update under [section 26S(1)][71]:
     
-    Section 26X: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (c) a pre-election economic and fiscal update under [section 26T(1)][72].
+    
+    Section 26X: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 26X(aa): inserted, on 4 September 2013, by [section 9][342] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
-##### 26Y Notification and availability of reports, statements, or updates
+##### 26Y Publication and availability of reports, statements, or updates
     
-*   (1) The Minister or, as the case may be, the Secretary must arrange to be published in the _Gazette_ a notice about each of the following:
+*   (1) The Minister must arrange for a specified document to be published on an Internet site maintained by or on behalf of the Treasury as soon as practicable after the specified document is--- 
         
-    *   (a) a fiscal strategy report presented to the House of Representatives under [section 26I(1)][51]:
+    *   (a) published in advance of being presented to the House of Representatives (if permitted under [section 26X][79]); or
     
-    *   (b) a budget policy statement presented to the House of Representatives under [section 26M(1)][56] or published under [section 26X][72]:
+    *   (b) if paragraph (a) does not apply, presented to the House of Representatives.
     
-    *   (c) a statement on the long-term fiscal position presented to the House of Representatives under [section 26N(1)][58]:
+    (2) The Secretary must ensure that the specified document remains available on the Internet site for inspection by members of the public for at least 5 financial years after the financial year (or, if the document relates to more than 1 financial year, the first financial year) to which the document relates.
     
-    *   (d) an economic and fiscal update presented to the House of Representatives under [section 26O(1)][60]:
+    (3) Subsection (1)(a) is deemed to be satisfied if the advance publication referred to in that paragraph includes publication on an Internet site maintained by or on behalf of the Treasury, but subsection (2) applies to the specified document.
     
-    *   (e) a half-year economic and fiscal update presented to the House of Representatives under [section 26S(1)][64] or published under [section 26X][72]:
-    
-    *   (f) a pre-election economic and fiscal update published under [section 26T(1)][65].
-    
-    (2) The notice must---
+    (4) In this section, _specified document_ means---
         
-    *   (a) indicate where copies of the report, statement, or update are available---
-            
-        *   (i) for inspection by members of the public free of charge at the place where the notice indicated they would be available; and
-        
-        *   (ii) for purchase by members of the public at the place where the notice indicated they would be available; and
-        
-        
+    *   (a) a fiscal strategy report (_see _[section 26I][55]):
     
-    *   (b) in the case of a statement or update referred to in [section 26X][72], indicate whether the statement or update has been published in advance of being presented to the House of Representatives.
+    *   (b) a budget policy statement (_see_ [section 26M][61]):
     
-    (3) The Secretary must, for at least 6 months after the date of the publication of the notice, arrange for copies of the report, statement, or update referred to in that notice to be available---
-        
-    *   (a) for inspection by members of the public free of charge; and
+    *   (c) a statement on the long-term fiscal position (_see_ [section 26N][63]):
     
-    *   (b) for purchase by members of the public.
+    *   (d) an investment statement (_see_ [section 26NA][65]):
     
-    Section 26Y: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (e) an economic and fiscal update (_see_ [section 26O][67]):
+    
+    *   (f) a half-year economic and fiscal update (_see_ [section 26S][71]):
+    
+    *   (g) a pre-election economic and fiscal update (_see_ [section 26T][72]).
+    
+    Section 26Y: replaced, on 4 September 2013, by [section 10][343] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 ##### 26Z Power of Secretary to obtain information
     
-*   (1) The Secretary may request any department or any entity referred to in [section 27(3)(a) to (f)][76], or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in [sections 26L][54], [26N][58], [26O][60], [26Q][62], [26S][64], and [26T][65].
+*   (1) The Secretary may request any department, any departmental agency, or any entity referred to in [section 27(3)(a) to (f)][83], or any entity that manages an asset or liability of the Government, to supply to the Secretary any information that is necessary to enable the preparation of any fiscal forecasts and projections referred to in [sections 26L][59], [26N][63], [26NA][65], [26O][67], [26Q][69], [26S][71], and [26T][72].
     
     (2) A request under subsection (1)---
         
@@ -2222,14 +2498,20 @@ Fiscal responsibility
     
     (3) If a date is stated under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives, or for publishing, the report or update for which the information is being requested.
     
-    (4) A department or entity to whom the request is made must comply with the request.
+    (4) A department, departmental agency, or entity to whom the request is made must comply with the request.
     
-    Section 26Z: inserted, on 25 January 2005, by [section 7][307] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 26Z: inserted, on 25 January 2005, by [section 7][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 26Z(1): amended, on 4 September 2013, by [section 11][344] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+    
+    Section 26Z(1): amended, on 18 July 2013, by [section 15(1)][345] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 26Z(4): amended, on 18 July 2013, by [section 15(2)][345] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ## Part 3  
 Reporting by Government reporting entity
     
-*   Part 3 heading: substituted, on 25 January 2005, by [section 8][313] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 3 heading: substituted, on 25 January 2005, by [section 8][346] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 27 Annual financial statements of Government
     
@@ -2239,7 +2521,7 @@ Reporting by Government reporting entity
         
     *   (a) be prepared in accordance with generally accepted accounting practice; and
     
-    *   (b) include the forecast financial statements prepared under [section 26Q][62], for comparison with the actual financial statements; and
+    *   (b) include the forecast financial statements prepared under [section 26Q][69], for comparison with the actual financial statements; and
     
     *   (c) include, in addition to those financial statements required by generally accepted accounting practice,---
             
@@ -2247,7 +2529,7 @@ Reporting by Government reporting entity
         
         *   (ii) a statement of unappropriated expenses and capital expenditure:
         
-        *   (iii) a statement of emergency expenses and capital expenditure incurred under [section 25][37]:
+        *   (iii) a statement of emergency expenses and capital expenditure incurred under [section 25][41]:
         
         *   (iv) a statement of trust money administered by departments and Offices of Parliament:
         
@@ -2257,13 +2539,15 @@ Reporting by Government reporting entity
     
     (3) The annual financial statements of the Government must include the Government reporting entity's interests in---
         
-    *   (a) all Crown entities named or described in the [Crown Entities Act 2004][299]:
+    *   (a) all Crown entities named or described in the [Crown Entities Act 2004][314]:
     
-    *   (b) all organisations named or described in [Schedule 4][274]:
+    *   (ab) all Schedule 4 organisations:
     
-    *   (ba) all mixed ownership model companies listed in [Schedule 5][275]:
+    *   (b) all Schedule 4A companies:
     
-    *   (c) all State enterprises named in [Schedule 1][285] of the State-Owned Enterprises Act 1986:
+    *   (ba) all mixed ownership model companies listed in [Schedule 5][282]:
+    
+    *   (c) all State enterprises named in [Schedule 1][294] of the State-Owned Enterprises Act 1986:
     
     *   (d) all Offices of Parliament:
     
@@ -2271,17 +2555,21 @@ Reporting by Government reporting entity
     
     *   (f) any other entity whose financial statements must be consolidated into the financial statements of the Government reporting entity to comply with generally accepted accounting practice.
     
-    Compare: 1989 No 44 [s 27][314]
+    Compare: 1989 No 44 [s 27][347]
     
-    Section 27: substituted, on 25 January 2005, by [section 9][315] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 27: substituted, on 25 January 2005, by [section 9][348] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 27(3)(ba): inserted, on 30 June 2012, by [section 8][316] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 27(3)(ab): inserted, on 18 July 2013, by [section 16][349] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 27(3)(b): replaced, on 18 July 2013, by [section 16][349] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 27(3)(ba): inserted, on 30 June 2012, by [section 8][350] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 28 Half-year financial statements of the Crown
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 12 December 2000, by [section 4][317] of the Public Finance Amendment Act 2000 (2000 No 78).
+    Section 28: repealed, on 12 December 2000, by [section 4][351] of the Public Finance Amendment Act 2000 (2000 No 78).
 
 ##### 29 Responsibility for annual financial statements of Government
     
@@ -2299,25 +2587,25 @@ Reporting by Government reporting entity
     
     Section 29: substituted, on 1 July 1994, by section 22 of the Public Finance Amendment Act 1994 (1994 No 18).
     
-    Section 29 heading: amended, on 25 January 2005, by [section 10(1)][318] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29 heading: amended, on 25 January 2005, by [section 10(1)][352] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 29(1): substituted, on 25 June 1997, by [section 2][296] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
+    Section 29(1): substituted, on 25 June 1997, by [section 2][310] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
     
-    Section 29(1): amended, on 12 December 2000, by [section 5][319] of the Public Finance Amendment Act 2000 (2000 No 78).
+    Section 29(1): amended, on 12 December 2000, by [section 5][353] of the Public Finance Amendment Act 2000 (2000 No 78).
     
-    Section 29(2)(a): substituted, on 25 June 1997, by [section 2][296] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
+    Section 29(2)(a): substituted, on 25 June 1997, by [section 2][310] of the Treasurer (Statutory References) Act 1997 (1997 No 20).
     
-    Section 29(2)(b): amended, on 25 January 2005, by [section 10(2)][318] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29(2)(b): amended, on 25 January 2005, by [section 10(2)][352] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 29(2)(d): substituted, on 25 January 2005, by [section 10(3)][318] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29(2)(d): substituted, on 25 January 2005, by [section 10(3)][352] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 29A Power of Secretary to obtain information
     
-*   (1) The Secretary may request any department or any entity referred to in [section 27(3)(a) to (f)][76], or any entity that manages an asset or liability of the Government reporting entity that is included in the annual financial statements referred to in section 27, to supply to the Secretary any information that is necessary to enable---
+*   (1) The Secretary may request any department, any departmental agency, or any entity referred to in [section 27(3)(a) to (f)][83], or any entity that manages an asset or liability of the Government reporting entity that is included in the annual financial statements referred to in section 27, to supply to the Secretary any information that is necessary to enable---
         
-    *   (a) the preparation of those financial statements and the monthly financial statements referred to in [section 31A][83]; or
+    *   (a) the preparation of those financial statements and the monthly financial statements referred to in [section 31A][90]; or
     
-    *   (b) the Minister or the Secretary to meet their obligations under [section 29][78].
+    *   (b) the Minister or the Secretary to meet their obligations under [section 29][85].
     
     (2) A request under subsection (1)---
         
@@ -2327,19 +2615,25 @@ Reporting by Government reporting entity
     
     (3) If a date is stated under subsection (2)(b), that date must be reasonable having regard to the time limits prescribed by this Act for presenting to the House of Representatives, or for publishing, the annual or monthly financial statements of the Government.
     
-    (4) A department or entity to whom the request is made must comply with the request.
+    (4) A department, departmental agency, or entity to whom the request is made must comply with the request.
     
-    Section 29A: substituted, on 25 January 2005, by [section 11][320] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29A: substituted, on 25 January 2005, by [section 11][354] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 29A(1): amended, on 18 July 2013, by [section 17(1)][355] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 29A(4): amended, on 18 July 2013, by [section 17(2)][355] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 29B Auditor-General to be auditor of Government reporting entity
     
-*   For the purposes of this Act the Government reporting entity is a public entity as defined in [section 4][281] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   For the purposes of this Act, the Government reporting entity is a public entity as defined in [section 4][289] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 29B: inserted, on 1 July 2001, by [section 53][298] of the Public Audit Act 2001 (2001 No 10).
+    Section 29B: inserted, on 1 July 2001, by [section 53][312] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 29B heading: amended, on 25 January 2005, by [section 12(1)][321] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29B heading: amended, on 25 January 2005, by [section 12(1)][356] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 29B: amended, on 25 January 2005, by [section 12(2)][321] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 29B: amended, on 18 July 2013, by [section 18][357] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 29B: amended, on 25 January 2005, by [section 12(2)][356] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 30 Audit report
     
@@ -2351,9 +2645,9 @@ Reporting by Government reporting entity
     
     *   (b) provide an audit report on those statements to the Treasury within 30 days after receiving them.
     
-    Section 30: substituted, on 25 January 2005, by [section 13][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 30: substituted, on 25 January 2005, by [section 13][358] of the Public Finance Amendment Act 2004 (2004 No 113).
 
-##### 31 Annual financial statements must be presented to House of Representatives
+##### 31 Annual financial statements must be presented to House of Representatives and published
     
 *   (1) The Treasury must forward the annual financial statements of the Government and the audit report to the Minister.
     
@@ -2363,13 +2657,21 @@ Reporting by Government reporting entity
     
     *   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    (3) The Minister must arrange for the annual financial statements, the audit report, and the statement of responsibility to be published---
+    (3) The Minister must arrange for the annual financial statements, the audit report, and the statement of responsibility to be published, on an Internet site maintained by or on behalf of the Treasury,---
         
     *   (a) as soon as practicable after they have been presented to the House of Representatives; but
     
     *   (b) in any case, not later than 15 working days after the audit report is provided to the Treasury.
     
-    Section 31: substituted, on 25 January 2005, by [section 13][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    (4) The Secretary must ensure that the annual financial statements, the audit report, and the statement of responsibility remain available on that Internet site for inspection by members of the public for at least 5 financial years after the financial year to which the annual financial statements relate.
+    
+    Section 31: substituted, on 25 January 2005, by [section 13][358] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 31 heading: amended, on 18 July 2013, by [section 19(1)][359] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 31(3): amended, on 18 July 2013, by [section 19(2)][359] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 31(4): inserted, on 18 July 2013, by [section 19(3)][359] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 31A Monthly financial statements of Government
     
@@ -2395,9 +2697,9 @@ Reporting by Government reporting entity
         
         
     
-    (3) The monthly financial statements prepared under subsection (1) must be for the same Government reporting entity as the annual financial statements prepared under [section 27][76] for the financial year to which the monthly financial statements relate.
+    (3) The monthly financial statements prepared under subsection (1) must be for the same Government reporting entity as the annual financial statements prepared under [section 27][83] for the financial year to which the monthly financial statements relate.
     
-    (4) The Minister must arrange for the monthly financial statements to be published not later than,---
+    (4) The Minister must arrange for the monthly financial statements to be published, on an Internet site maintained by or on behalf of the Treasury, not later than,---
         
     *   (a) in the case of the financial statements to the end of November, the last day of January in the following year; and
     
@@ -2405,45 +2707,27 @@ Reporting by Government reporting entity
     
     *   (c) in any other case, 6 weeks after the end of the period to which they relate.
     
-    Compare: 1989 No 44 [ss 30--31A][323]
+    (5) The Secretary must ensure that the monthly financial statements remain available on that Internet site for inspection by members of the public for at least 5 financial years after the financial year to which the monthly financial statements relate.
     
-    Section 31A: substituted, on 25 January 2005, by [section 13][322] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Compare: 1989 No 44 [ss 30--31A][360]
+    
+    Section 31A: substituted, on 25 January 2005, by [section 13][358] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 31A(4): amended, on 18 July 2013, by [section 20(1)][361] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 31A(5): inserted, on 18 July 2013, by [section 20(2)][361] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 31B Publication, inspection, and purchase of financial statements of Government reporting entity
     
-*   (1) The Minister shall, in respect of the annual and monthly consolidated financial statements for the Government reporting entity required by [sections 27][76] and [31A][83], arrange for publication in the _Gazette_ of a notice---
-        
-    *   (a) indicating, where the financial statements are published in advance of or without being laid before the House of Representatives, that the financial statements have been published; and
+*   \[Repealed\]
     
-    *   (b) showing where copies of the financial statements are available for inspection free of charge; and
-    
-    *   (c) showing where copies of the financial statements are available for purchase.
-    
-    (2) The Secretary shall, for at least 6 months after the date of the publication of the notice required by subsection (1), cause copies of the financial statements of the Government reporting entity referred to in that notice to be available---
-        
-    *   (a) for inspection by members of the public free of charge; and
-    
-    *   (b) for purchase by members of the public.
-    
-    Section 31B: inserted, on 1 July 1994, by section 26 of the Public Finance Amendment Act 1994 (1994 No 18).
-    
-    Section 31B heading: amended, on 25 January 2005, by [section 14(1)][324] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 31B(1): amended, on 25 January 2005, by [section 14(2)(a)][324] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 31B(1): amended, on 12 December 2000, by [section 9(a)][325] of the Public Finance Amendment Act 2000 (2000 No 78).
-    
-    Section 31B(1)(b): amended, on 25 January 2005, by [section 14(2)(c)][324] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 31B(1)(c): amended, on 25 January 2005, by [section 14(2)(c)][324] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 31B(2): amended, on 25 January 2005, by [section 14(2)(b)][324] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 31B: repealed, on 18 July 2013, by [section 21][362] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 32 Monthly cash flow statements
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 21 December 1992, by [section 22][326] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 32: repealed, on 21 December 1992, by [section 22][363] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 32A Additional reports in relation to non-departmental appropriations
     
@@ -2467,60 +2751,77 @@ Reporting by Government reporting entity
     
     (6) The Minister responsible for the appropriation or class of outputs must arrange for the report to be published if he or she is requested to do so by the Minister.
     
-    Compare: 1989 No 44 [s 32A][327]
+    Compare: 1989 No 44 [s 32A][364]
     
-    Section 32A: substituted, on 25 January 2005, by [section 15][328] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 32A: substituted, on 25 January 2005, by [section 15][365] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 4  
-Reporting by departments
+Reporting by departments and departmental agencies
     
-*   Part 4: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 4: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 4 heading: amended, on 18 July 2013, by [section 22][367] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 33 Interpretation
+##### 33 Extended meaning of department for purpose of Part 4
     
-*   In this Part, any activities, bodies, or statutory offices that are funded by way of appropriation and that are not natural persons or separate legal entities must be taken to be part of a department.
+*   In this Part, the following activities, bodies, and statutory offices must be taken to be part of a department:
+        
+    *   (a) any activities, other than activities performed by a natural person or separate legal entity, that are funded by way of appropriation administered by the department:
     
-    Section 33: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (b) any bodies or statutory offices, other than natural persons or separate legal entities, that are funded by way of appropriation administered by the department.
+    
+    Section 33: replaced, on 18 July 2013, by [section 23][368] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 #### Responsibilities of chief executives
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: replaced, on 18 July 2013, by [section 23][368] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 34 Responsibilities of departmental chief executives: financial management
+##### 34 Responsibilities of chief executives: financial management of departmental matters
     
-*   The chief executive of a department---
+*   (1) The chief executive of a department---
         
-    *   (a) is responsible to the responsible Minister for the financial management and financial performance of the department; and
+    *   (a) is responsible to the responsible Minister for the financial management, financial performance, and financial sustainability of the department; and
     
     *   (b) must comply with any lawful financial actions required by the Minister or the responsible Minister.
     
-    Section 34: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    (2) The chief executive of a department that administers an appropriation---
+        
+    *   (a) is responsible to the appropriation Minister for what is achieved with departmental expenses and departmental capital expenditure under that appropriation; and
+    
+    *   (b) is responsible for advising the appropriation Minister on the efficiency and effectiveness of any departmental expenses or departmental capital expenditure under that appropriation.
+    
+    (3) However, if a department other than the appropriation administrator, or any departmental agency, incurs departmental expenses or departmental capital expenditure against the appropriation at the direction of the appropriation Minister (under [section 7C(2)(c)(i)][19]), then the chief executive of that department or departmental agency, rather than the chief executive of the appropriation administrator, has the responsibility specified in subsection (2)(a) in respect of that expenditure.
+    
+    Section 34: replaced, on 18 July 2013, by [section 23][368] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 34A Forecast financial statements of departments
+##### 35 Responsibilities of chief executives: financial management of non-departmental matters
     
-*   \[Repealed\]
+*   The chief executive of a department is responsible for---
+        
+    *   (a) the financial management of, and financial reporting on, appropriations for non-departmental expenses and non-departmental capital expenditure administered by the department; and
     
-    Section 34A: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    *   (b) advising the appropriation Minister on the efficiency and effectiveness of expenditure under those appropriations; and
+    
+    *   (c) the financial management of, and financial reporting on, assets, liabilities, and revenue managed by the department on behalf of the Crown; and
+    
+    *   (d) advising the Minister responsible for those assets, liabilities, and revenue on their performance.
+    
+    Section 35: replaced, on 18 July 2013, by [section 23][368] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 35 Responsibilities of departmental chief executives: reporting
+##### 36 Responsibilities of chief executives: reporting
     
-*   The chief executive of a department is responsible to the responsible Minister for ensuring that the department complies with the reporting requirements imposed on the department by or under this or any other Act.
+*   (1) The chief executive of a department is responsible to the responsible Minister for ensuring that the department complies with the reporting requirements imposed on the department by or under this or any other Act.
     
-    Section 35: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
-
-##### 36 Departmental chief executives not responsible for financial performance of other entities
+    (2) The chief executive of a departmental agency is responsible, to the Minister for the time being responsible for the performance of the departmental agency, for ensuring that the departmental agency complies with the reporting requirements imposed on the departmental agency by or under this or any other Act.
     
-*   The chief executive of a department is not responsible for the outputs or financial performance of a Crown entity named or described in the [Crown Entities Act 2004][299], an organisation named or described in [Schedule 4][274], or a State enterprise named in [Schedule 1][285] of the State-Owned Enterprises Act 1986, even though the Crown entity, organisation, or State enterprise is wholly or partly funded through a Vote administered by the department.
-    
-    Section 36: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 36: replaced, on 18 July 2013, by [section 23][368] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 #### Power of chief executives to obtain information
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
-##### 37 Power of departmental chief executives to obtain information
+##### 37 Power of chief executives to obtain information
     
-*   (1) The chief executive of a department may request any specified person to supply to the chief executive any information that is necessary to enable the chief executive to carry out his or her responsibilities in relation to the department under [sections 34][90] and [35][92].
+*   (1) The chief executive of a department or departmental agency may request any specified person to supply to the chief executive any information that is necessary to enable the chief executive to carry out his or her responsibilities in relation to the department or departmental agency (as applicable) under [sections 34 to 36][97].
     
     (2) A request under subsection (1)---
         
@@ -2528,35 +2829,41 @@ Reporting by departments
     
     *   (b) may state the date by which, and the manner in which, the information requested must be provided.
     
-    (3) If a date is stated under subsection (2)(b), that date must be reasonable, having regard to the time limits prescribed by this Act or any other Act for the department to discharge its reporting obligations.
+    (3) If a date is stated under subsection (2)(b), that date must be reasonable, having regard to the time limits prescribed by this Act or any other Act for the department or departmental agency to discharge its reporting obligations.
     
     (4) A specified person to whom the request is made must comply with the request.
     
     (5) Nothing in this section limits or affects the privilege against self-incrimination.
     
-    (6) In this section, _specified person_ means a person who is responsible for any activities, bodies, or statutory offices that, under [section 33][88], are taken to be part of a department.
+    (6) In this section, _specified person_ means a person who is responsible for any activities, bodies, or statutory offices that, under [section 33][95], are taken to be part of a department.
     
-    Section 37: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 37: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 37 heading: amended, on 18 July 2013, by [section 24(1)][369] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 37(1): replaced, on 18 July 2013, by [section 24(2)][369] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 37(3): amended, on 18 July 2013, by [section 24(3)][369] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 #### Reporting requirements---Information on future operating intentions
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 38 Departments must provide information on future operating intentions
     
 *   (1) A department must, before the start of each financial year and not later than the date specified by its responsible Minister, provide information on the department's future operating intentions.
     
-    (2) The information must relate to the forthcoming financial year and, for the purposes of [section 40][99], to at least the next 2 financial years.
+    (2) The information must relate to the forthcoming financial year and, for the purposes of [section 40][105], to at least the next 2 financial years.
     
     (3) However, if the Government has announced that the department is to be disestablished or significantly restructured during the period referred to in subsection (2), the department may, with the agreement of its responsible Minister and the Minister, provide information under subsection (1) for a lesser period.
     
     (4) The department must provide the information to its responsible Minister who must forward a copy of it to,---
         
-    *   (a) in the case of an intelligence and security department, the members of the Intelligence and Security Committee established under the [Intelligence and Security Committee Act 1996][330] as soon as practicable after the introduction of the first Appropriation Bill that relates to the financial year; or
+    *   (a) in the case of an intelligence and security department, the members of the Intelligence and Security Committee established under the [Intelligence and Security Committee Act 1996][370] as soon as practicable after the introduction of the first Appropriation Bill that relates to the financial year; or
     
-    *   (b) in the case of any other department, the Minister in time for him or her to present the information, as required by [section 39][98].
+    *   (b) in the case of any other department, the Minister in time for him or her to present the information, as required by [section 39][104].
     
-    Section 38: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 38: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 39 Obligation to present and publish information on future operating intentions
     
@@ -2570,7 +2877,7 @@ Reporting by departments
             
         *   (i) a statement signed by the responsible Minister stating that the information is consistent with the policies and performance expectations of the Government; and
         
-        *   (ii) if [section 38(3)][97] applies, the explanation of the responsible Minister as to why the information was not presented for the period referred to in section 38(2).
+        *   (ii) if [section 38(3)][103] applies, the explanation of the responsible Minister as to why the information was not presented for the period referred to in section 38(2).
         
         
     
@@ -2580,13 +2887,13 @@ Reporting by departments
     
     *   (b) specified in instructions issued under this Act.
     
-    Section 39: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 39: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 39(1): amended, on 25 February 2012, by [section 7][331] of the Public Finance Amendment Act 2012 (2012 No 17).
+    Section 39(1): amended, on 25 February 2012, by [section 7][371] of the Public Finance Amendment Act 2012 (2012 No 17).
 
 ##### 40 Requirements for information on future operating intentions
     
-*   The information required under [section 38][97] must set out and explain for the period to which it relates---
+*   The information required under [section 38][103] must set out and explain for the period to which it relates---
         
     *   (a) the nature and scope of the department's functions and intended operations; and
     
@@ -2618,11 +2925,11 @@ Reporting by departments
         
         
     
-    Section 40: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 40: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41 Extra information required for first financial year
     
-*   (1) The information required under [section 38][97] must include, for the first financial year of the period to which it relates,---
+*   (1) The information required under [section 38][103] must include, for the first financial year of the period to which it relates,---
         
     *   (a) forecast financial statements for the department that have been prepared in accordance with generally accepted accounting practice; and
     
@@ -2648,65 +2955,65 @@ Reporting by departments
     
     (2) The information for each class of outputs that is included in a statement of forecast service performance in accordance with subsection (1)(e) must be agreed by the Minister responsible for the appropriation that includes that class of outputs.
     
-    Section 41: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41A Special provisions in relation to annual financial statements of school Board of Trustees
     
 *   \[Repealed\]
     
-    Section 41A: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41A: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41B Special provisions in relation to annual financial statements of Boards under Reserves Act 1977
     
 *   \[Repealed\]
     
-    Section 41B: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41B: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41C Draft statement of intent
     
 *   \[Repealed\]
     
-    Section 41C: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41C: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41D Contents of statement of intent
     
 *   \[Repealed\]
     
-    Section 41D: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41D: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41E Completed statement of intent
     
 *   \[Repealed\]
     
-    Section 41E: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41E: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41F Laying of statement of intent before House of Representatives
     
 *   \[Repealed\]
     
-    Section 41F: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41F: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41G Power of responsible Minister to require Crown entity to modify statement of intent
     
 *   \[Repealed\]
     
-    Section 41G: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41G: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41H Power of Crown entity to modify statement of intent
     
 *   \[Repealed\]
     
-    Section 41H: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41H: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 41I Annual report of Crown entities named or described in Schedule 6
     
 *   \[Repealed\]
     
-    Section 41I: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 41I: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 42 Information on future operating intentions must include statement of responsibility
     
-*   (1) The information required under [section 38][97] must also include a statement of responsibility that is---
+*   (1) The information required under [section 38][103] must also include a statement of responsibility that is---
         
     *   (a) signed by the department's chief executive; and
     
@@ -2724,71 +3031,81 @@ Reporting by departments
         
         
     
-    Section 42: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 42: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Reporting requirements---Annual reports
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 43 Departments must prepare annual reports
     
-*   (1) As soon as practicable after the end of each financial year, a department must---
-        
-    *   (a) prepare a report on the operations of the department for that financial year; and
+*   (1) As soon as practicable after the end of each financial year, each department must prepare a report on the operations of the department for that financial year, excluding operations on which any departmental agency hosted by the department is required to report under [section 43A][119].
     
-    *   (b) provide the report to its responsible Minister.
+    (2) Not later than 15 working days after receiving an audit report under [section 45D][126], the department must provide the annual report and the audit report to its responsible Minister.
     
-    (2) Subsection (1) does not derogate from any provision in any other Act that requires the chief executive of a department to present an annual report, but it is not necessary for the chief executive to provide a separate report under each enactment.
+    (3) This section does not limit any provision in any other Act that requires the chief executive of a department to provide an annual report, but the chief executive need not provide a separate report under each enactment.
     
-    Section 43: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 43: replaced, on 18 July 2013, by [section 25][372] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 44 Obligation to present and publish departmental annual reports
+##### 43A Departmental agencies must prepare annual reports
     
-*   (1) A responsible Minister must present a department's annual report to the House of Representatives---
+*   (1) As soon as practicable after the end of each financial year, each departmental agency must prepare a report on the operations of the departmental agency for that financial year.
+    
+    (2) As soon as practicable after the end of the financial year, but not later than 15 working days after the audit date (as defined in [section 44(6)][120]), the departmental agency must provide the annual report and any applicable audit report to---
         
-    *   (a) not later than 15 working days after the audit report is provided under [section 45D][122]; or
+    *   (a) the Minister for the time being responsible for the performance of the departmental agency; and
+    
+    *   (b) the responsible Minister for the departmental agency's host department.
+    
+    (3) This section does not limit any provision in any other Act that requires the chief executive of a departmental agency to provide an annual report, but the chief executive need not provide a separate report under each enactment.
+    
+    Section 43A: inserted, on 18 July 2013, by [section 25][372] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+##### 44 Obligation to present and publish annual reports
+    
+*   (1) A responsible Minister must present to the House of Representatives---
+        
+    *   (a) the annual report of a department for which he or she is the responsible Minister and any applicable audit report; and
+    
+    *   (b) the annual report of any departmental agency hosted by a department for which he or she is the responsible Minister and any applicable audit report.
+    
+    (2) The responsible Minister (or the Minister referred to in subsection (3)(b), if applicable) must comply with subsection (1)---
+        
+    *   (a) not later than 15 working days after the audit date; or
     
     *   (b) if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
     
-    (2) A department must publish its annual report---
+    (3) A Minister other than the responsible Minister may present an annual report and audit report (if any) to the House of Representatives if---
         
-    *   (a) as soon as practicable after it has been presented to the House of Representatives, but in any case not later than 15 working days after the audit report is provided under [section 45D][122]; and
+    *   (a) those reports are presented in a document that includes another report or other information (_see_ subsection (5)); and 
+    
+    *   (b) that other Minister is responsible for presenting that other report or information. 
+    
+    (4) A department or departmental agency must publish its annual report and any applicable audit report---
+        
+    *   (a) as soon as practicable after the annual report has been presented to the House of Representatives, but, if subsection (2)(b) applies, not later than 15 working days after the audit date; and
     
     *   (b) in accordance with the manner (if any)---
             
         *   (i) prescribed by regulations made under this Act; or
         
-        *   (ii) specified in instructions issued under this Act.
+        *   (ii) specified in instructions issued by the Minister under [section 80A][268].
         
         
     
-    (3) If a department's annual report is published in advance of it being presented to the House of Representatives, the responsible Minister must arrange for the publication in the _Gazette_ of a notice indicating that the annual report has been published.
+    (5) The annual report of a department or departmental agency may be presented or published in a document that includes any other report or information, whether or not that other report or information relates to the department or departmental agency, but only if each report or set of information is separately identifiable within that document.
     
-    Section 44: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
-
-##### 44A Laying before House of Representatives of financial statements of Crown entities (other than school Boards of Trustees and Reserves Boards)
+    (6) In this section,---
     
-*   \[Repealed\]
+    _audit date_ means,---
+        
+    *   (a) in the case of a department, the date on which the department receives an audit report; and
     
-    Section 44A: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
-
-##### 44B Annual report in relation to schools' sector
+    *   (b) in the case of a departmental agency, the date on which the departmental agency's host department receives an audit report
     
-*   \[Repealed\]
+    _audit report_ means an audit report under [section 45D][126].
     
-    Section 44B: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
-
-##### 44C Annual financial statements of school Boards of Trustees
-    
-*   \[Repealed\]
-    
-    Section 44C: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
-
-##### 44D Annual financial statements of Reserves Boards
-    
-*   \[Repealed\]
-    
-    Section 44D: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 44: replaced, on 18 July 2013, by [section 25][372] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45 Contents of departmental annual report
     
@@ -2796,21 +3113,43 @@ Reporting by departments
         
     *   (a) information on operations that complies with subsection (2); and
     
-    *   (b) a statement of service performance in accordance with [section 45A][119]; and
+    *   (b) a statement of service performance in accordance with [section 45A][123]; and
     
-    *   (c) the annual financial statements for the department in accordance with [section 45B][120]; and
+    *   (c) the annual financial statements for the department in accordance with [section 45B][124]; and
     
-    *   (d) the statement of responsibility in accordance with [section 45C][121]; and
+    *   (d) the statement of responsibility in accordance with [section 45C][125]; and
     
-    *   (e) the audit report provided under [section 45D][122]; and
+    *   (e) the audit report provided under [section 45D][126]; and
     
     *   (f) any other matters that relate to or affect the department's operations that the department is required, has undertaken, or wishes to report on in its annual report.
     
-    (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the department's performance during the financial year (including an assessment against the intentions, measures, and standards set out at the start of the financial year in the information on the department's future operating intentions in accordance with [sections 40][99] and [41][100]).
+    (2) The annual report must provide the information that is necessary to enable an informed assessment to be made of the department's performance during the financial year (including an assessment against the intentions, measures, and standards set out at the start of the financial year in the information on the department's future operating intentions in accordance with [sections 40][105] and [41][106]).
+    
+    (2A) However, a department's annual report need not include information that any departmental agency hosted by the department is required to include in its annual report under [section 45AA][122].
     
     (3) The annual report must be dated and signed on behalf of the department by its chief executive.
     
-    Section 45: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 45(2A): inserted, on 18 July 2013, by [section 26][373] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+##### 45AA Contents of departmental agency annual report
+    
+*   (1) The annual report of a departmental agency must contain the following information in respect of the financial year to which it relates: 
+        
+    *   (a) an assessment of the departmental agency's operations; and
+    
+    *   (b) an assessment of the departmental agency's progress in relation to any of the host department's future operating intentions that are relevant to the departmental agency; and
+    
+    *   (c) information about the departmental agency's management of its organisational health and capability; and
+    
+    *   (d) any other matters that relate to or affect the departmental agency's operations that the departmental agency is required, has undertaken, or wishes to report on in its annual report.
+    
+    (2) The annual report of a departmental agency must identify the departmental agency's host department.
+    
+    (3) The annual report must be dated and signed on behalf of the departmental agency by its chief executive.
+    
+    Section 45AA: inserted, on 18 July 2013, by [section 27][374] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45A Statement of service performance
     
@@ -2828,7 +3167,7 @@ Reporting by departments
         
         
     
-    Section 45A: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45A: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45B Annual financial statements
     
@@ -2850,7 +3189,7 @@ Reporting by departments
     
     *   (d) a statement of unappropriated expenses and capital expenditure incurred in relation to the activities of, or appropriations administered by, the department, together with an explanation of the reasons for the unappropriated expenses and capital expenditure.
     
-    Section 45B: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45B: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45C Statement of responsibility
     
@@ -2868,7 +3207,7 @@ Reporting by departments
     
     *   (b) countersigned by the department's chief financial officer.
     
-    Section 45C: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45C: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45D Audit report
     
@@ -2884,43 +3223,43 @@ Reporting by departments
     
     *   (b) provide an audit report on them to the department within 3 months after the end of each financial year.
     
-    Section 45D: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45D: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Miscellaneous
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45E Application of this Part to intelligence and security departments
     
 *   (1) This Part applies to an intelligence and security department, subject to subsection (2) and with the following (and any other necessary) modifications:
         
-    *   (a) [section 40][99] must be read as if section 40(e)(ii) did not include a reference to the Minister; and
+    *   (a) [section 40][105] must be read as if section 40(e)(ii) did not include a reference to the Minister; and
     
-    *   (b) [sections 41][100] and [45B(1) and (2)(a) and (b)][120] must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
+    *   (b) [sections 41][106] and [45B(1) and (2)(a) and (b)][124] must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
     
-    *   (c) [section 4J][332] of the New Zealand Security Intelligence Service Act 1969 or, as the case may be, [section 12][333] of the Government Communications Security Bureau Act 2003 is substituted (subject to all necessary modifications) for [sections 43][112] and [44][113], except that---
+    *   (c) [section 4J][375] of the New Zealand Security Intelligence Service Act 1969 or, as the case may be, [section 12][376] of the Government Communications Security Bureau Act 2003 is substituted (subject to all necessary modifications) for [sections 43][118] and [44][120], except that---
             
-        *   (i) the report presented to the House of Representatives under [section 4J(3)][332] of the New Zealand Security Intelligence Service Act 1969 or [section 12(3)][333] of the Government Communications Security Bureau Act 2003 must include a statement that provides a record of the total of the actual expenses and capital expenditure incurred by the department for that year against the department's appropriation for that financial year (that statement being a substitute for the financial statements submitted to the responsible Minister and the Intelligence and Security Committee); and
+        *   (i) the report presented to the House of Representatives under [section 4J(3)][375] of the New Zealand Security Intelligence Service Act 1969 or [section 12(3)][376] of the Government Communications Security Bureau Act 2003 must include a statement that provides a record of the total of the actual expenses and capital expenditure incurred by the department for that year against the department's appropriation for that financial year (that statement being a substitute for the financial statements submitted to the responsible Minister and the Intelligence and Security Committee); and
         
         *   (ii) the department must publish the report as soon as practicable after it has been presented to the House of Representatives; and
         
         
     
-    *   (d) [sections 45C][121] and [45D][122] must be read as if the references to a statement of service performance were omitted.
+    *   (d) [sections 45C][125] and [45D][126] must be read as if the references to a statement of service performance were omitted.
     
     (2) The following provisions do not apply to an intelligence and security department:
         
-    *   (a) [section 39][98] (which requires information provided by a department on its future operating intentions to be presented to the House of Representatives and to be published):
+    *   (a) [section 39][104] (which requires information provided by a department on its future operating intentions to be presented to the House of Representatives and to be published):
     
-    *   (b) [section 41(1)(e)][100] (which requires the information on future operating intentions to include a statement of forecast service performance):
+    *   (b) [section 41(1)(e)][106] (which requires the information on future operating intentions to include a statement of forecast service performance):
     
-    *   (c) [section 41(2)][100] (which provides that the information included in a statement of forecast service performance must be agreed by the Minister responsible for the appropriation):
+    *   (c) [section 41(2)][106] (which provides that the information included in a statement of forecast service performance must be agreed by the Minister responsible for the appropriation):
     
-    *   (d) [section 45(1)(b)][118] (which requires a department's annual report to contain a statement of service performance):
+    *   (d) [section 45(1)(b)][121] (which requires a department's annual report to contain a statement of service performance):
     
-    *   (e) [section 45A][119] (which relates to the statement of service performance).
+    *   (e) [section 45A][123] (which relates to the statement of service performance).
     
-    Section 45E: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45E: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45F Application of this Part to Offices of Parliament
     
@@ -2930,17 +3269,17 @@ Reporting by departments
     
     *   (b) references to the Auditor-General must be read as references to an auditor appointed by the House of Representatives to audit the financial statements and statements of service performance of Offices of Parliament; and
     
-    *   (c) [section 38][97] must be read in the manner indicated in [section 45G][126]; and
+    *   (c) [section 38][103] must be read in the manner indicated in [section 45G][130]; and
     
-    *   (d) [section 40(e)][99] must be read as if an Office of Parliament were not required to comply with the requirement for the report on future operating intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in the preparation of that report.
+    *   (d) [section 40(e)][105] must be read as if an Office of Parliament were not required to comply with the requirement for the report on future operating intentions to set out and explain any other matters that may be specified by the Minister or responsible Minister, but were instead required to have regard to those matters in the preparation of that report.
     
-    (2) [Section 39(2)(b)][98] (which requires the information on future operating intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
+    (2) [Section 39(2)(b)][104] (which requires the information on future operating intentions to be accompanied by a statement that the information is consistent with the policy and performance expectations of the Government) does not apply to an Office of Parliament.
     
-    Section 45F: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45F: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45G This Part modified for purpose of applying Part to Offices of Parliament
     
-*   (1) For the purposes of [section 45F(1)(c)][125], this Part must be read as if, for [section 38(1)][97], there were substituted the following subsection:
+*   (1) For the purposes of [section 45F(1)(c)][129], this Part must be read as if, for [section 38(1)][103], there were substituted the following subsection:
     
     > *   "(1) An Office of Parliament must,---
     >         
@@ -2958,34 +3297,36 @@ Reporting by departments
     > 
     > 
     
-    (2) For the purposes of [section 45F(1)(c)][125], this Part must be read as if, for [section 38(4)][97], there were substituted the following subsection:
+    (2) For the purposes of [section 45F(1)(c)][129], this Part must be read as if, for [section 38(4)][103], there were substituted the following subsection:
     
     > *   "(4) An Office of Parliament must provide the final information to the Speaker, who must arrange for the final information to be presented to the House of Representatives, as required by section 39\."
     > 
     > 
     
-    Section 45G: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45G: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 5  
 Special reporting requirements
     
-*   Part 5: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 5: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 1---Special annual reporting requirements
     
-*   Subpart 1: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 1: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 45H Application of subpart
     
-*   (1) This subpart applies to---
+*   (1) This subpart applies to the following entities:
         
-    *   (a) an entity that must provide an annual report that includes audited annual financial statements for presentation to the House of Representatives; and
+    *   (a) a department and any other entity that must provide an annual report that includes audited annual financial statements for presentation to the House of Representatives; and
     
-    *   (b) an entity that must provide audited annual financial statements (rather than an annual report) for presentation to the House of Representatives.
+    *   (b) a departmental agency; and
     
-    (2) For the purposes of subsection (1)(b), this subpart must be read as if, with all necessary modifications, every reference to an annual report were a reference to audited financial statements.
+    *   (c) an entity that must provide audited annual financial statements (rather than an annual report) for presentation to the House of Representatives.
     
-    (3) In this section and [sections 45I to 45K][130], _provide_, in relation to a report or set of statements, means to comply with the requirements of an Act (including this Act) for the report or, as the case may be, the set of statements to be---
+    (2) For the purposes of subsection (1)(c), this subpart must be read as if, with all necessary modifications, every reference to an annual report were a reference to audited financial statements.
+    
+    (3) In this section and [sections 45I to 45K][134], _provide_, in relation to a report or set of statements, means to comply with the requirements of an Act (including this Act) for the report or, as the case may be, the set of statements to be---
         
     *   (a) forwarded to an entity's auditor; or
     
@@ -2993,53 +3334,75 @@ Special reporting requirements
     
     *   (c) presented to the House of Representatives.
     
-    Section 45H: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45H: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 45H(1): replaced, on 18 July 2013, by [section 28(1)][377] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 45H(2): amended, on 18 July 2013, by [section 28(2)][377] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45I First annual report for newly established entities
     
-*   (1) The Minister may (at the Minister's discretion) exempt an entity that is established within 4 months before the end of a financial year from the obligation to provide an annual report for that financial year.
+*   (1) The Minister may (at the Minister's discretion) exempt an entity that is established during the last 4 months of a financial year from the obligation to provide an annual report for that financial year.
     
-    (2) Despite subsection (1), an entity that administers an appropriation must, as soon as practicable after the end of that financial year, provide---
+    (2) Despite subsection (1), an entity that administers an appropriation must, after the end of that financial year, provide the following statements and report as if they were an annual report:
         
-    *   (a) the statements required by [section 45B(2)(c) and (d)][120] (which comprise the statement of actual expenses and capital expenditure against appropriations and the statement of unappropriated expenses and capital expenditure); and
+    *   (a) the statements of expenses and capital expenditure required by [section 45B(2)(c) and (d)][124]; and
     
     *   (b) an audit report on those statements.
     
-    (3) An entity that is exempted under subsection (1) must, as soon as practicable after the end of the next financial year, provide an annual report that covers the period from the date on which it is established until the end of that next financial year.
+    (3) An entity that is exempted under subsection (1) must, after the end of the entity's first full financial year, provide an annual report that covers the period from the date on which the entity is established until the end of the entity's first full financial year.
     
-    (4) To avoid doubt, the annual report referred to in subsection (3) must contain the information required to be included in the entity's annual report (except that the information must be in respect of the period referred to in that subsection).
+    (4) To avoid doubt, the annual report referred to in subsection (3) must contain the information required to be included in the entity's annual report, except that the information must be in respect of the period referred to in that subsection.
     
-    (5) Subsections (1) to (4) also apply to an entity that, within 4 months before the end of a financial year, becomes subject to the requirement to provide an annual report for presentation to the House of Representatives.
+    (5) Subsections (1) to (4) also apply to an entity that, during the last 4 months of a financial year, becomes subject to the requirement to provide an annual report for presentation to the House of Representatives.
     
-    Section 45I: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45I: replaced, on 18 July 2013, by [section 29][378] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45J Final annual report for disestablished entities
     
-*   (1) An entity that is disestablished before the end of a financial year must, as soon as practicable after the date on which it is disestablished, provide a final report (as if the final report were an annual report) for the period up until that date.
+*   (1) An entity that is disestablished must provide a final report for the period---
+        
+    *   (a) commencing at the start of the financial year in which the entity is disestablished; and
     
-    (2) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for completing a final report to another party,---
+    *   (b) ending on the date on which the entity is disestablished (the _disestablishment date_).
+    
+    (2) The final report must be---
+        
+    *   (a) prepared as if it were an annual report; and
+    
+    *   (b) provided not later than 3 months after the disestablishment date.
+    
+    (3) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for providing a final report to another party,---
         
     *   (a) the Minister may approve the transfer of that responsibility; and
     
-    *   (b) if the Minister does so, the party to whom that responsibility is transferred must sign the statement of responsibility.
+    *   (b) if the Minister does so, each party with responsibility for providing the final report must sign the statement of responsibility for the report in respect of the matters in the report for which the party is responsible.
     
-    (3) Subsections (1) and (2) also apply to an entity that, before the end of the financial year, ceases to be subject to the requirement to provide an annual report for presentation to the House of Representatives.
-    
-    Section 45J: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45J: replaced, on 18 July 2013, by [section 29][378] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 45K Timing of special annual reports, etc
+##### 45K Final annual report for entities that cease to be subject to requirement to provide annual report
     
-*   (1) An entity that reports under [section 45I][130] must provide the statements and reports required under that section within the period specified in legislation for the entity to provide its annual report.
-    
-    (2) An entity that reports under [section 45J][131] must provide the final report within 20 working days after the end of the period specified in legislation for the entity to provide its annual report (except that the period so specified must start on the date on which the entity is disestablished, rather than at the end of the financial year).
-    
-    (3) Despite subsection (2) and [section 45J(1)][131], the Minister may allow an entity that ceases to be subject to the requirement to provide an annual report before the end of a financial year, but that is not disestablished, to provide the final report as soon as practicable after the end of the financial year on---
+*   (1) An entity that ceases to be subject to the requirement to provide an annual report for presentation to the House of Representatives must provide a final report for the period---
         
-    *   (a) the condition that the entity's final report contains the information that the entity is required to include in its annual report for at least the period up until the date on which it ceases to be so subject; and
+    *   (a) commencing at the start of the financial year in which the entity ceases to be subject to the requirement to provide an annual report; and
     
-    *   (b) any other conditions that the Minister thinks fit.
+    *   (b) ending on the date on which the entity ceases to be subject to the requirement to provide an annual report (the _specified date_).
     
-    Section 45K: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    (2) The final report must be---
+        
+    *   (a) prepared as if it were an annual report; and
+    
+    *   (b) provided not later than 3 months after the specified date.
+    
+    (3) Despite subsection (2)(b), the Minister may allow the entity to provide the final report later than 3 months after the specified date on any conditions that the Minister thinks fit.
+    
+    (4) If the Minister is satisfied that it is necessary or expedient to transfer some or all of the responsibility for providing a final report to another party,---
+        
+    *   (a) the Minister may approve the transfer of that responsibility; and
+    
+    *   (b) if the Minister does so, each party with responsibility for providing the final report must sign the statement of responsibility for the report in respect of the matters in the report for which the party is responsible.
+    
+    Section 45K: replaced, on 18 July 2013, by [section 29][378] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45L Minister may allow certain information to be included in another entity's annual report if operations transferred
     
@@ -3063,55 +3426,56 @@ Special reporting requirements
             
         *   (i) the information referred to in subsection (2)(a) and (b) is subsequently included, at the end of that financial year, in the annual report of the entity to whom the operations are transferred; and
         
-        *   (ii) the entity to whom those operations are transferred has not been exempted under [section 45I][130]; and
+        *   (ii) the entity to whom those operations are transferred has not been exempted under [section 45I][134]; and
         
         
     
     *   (b) only if the Minister is satisfied that the inclusion of that information in the other entity's annual report in accordance with paragraph (a)(i) does not unreasonably compromise accountability for the performance of those operations during that financial year.
     
-    Section 45L: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45L: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
-### Subpart 2---Application of provisions of Crown Entities Act 2004 to organisations named or described in Schedule 4
+### Subpart 2---Application of Crown Entities Act 2004 to Schedule 4 organisations
     
-*   Subpart 2: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 2: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 2 heading: replaced, on 18 July 2013, by [section 30][379] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 45M Provisions of Crown Entities Act 2004 that apply to all Schedule 4 organisations
+##### 45M Application of Crown Entities Act 2004 to Schedule 4 organisations
     
-*   (1) The following provisions of the [Crown Entities Act 2004][299] apply to an organisation named or described in [Schedule 4][274], as if the organisation were a Crown entity under the Crown Entities Act 2004:
+*   (1) The following sections of the [Crown Entities Act 2004][314], and any regulations that apply to the matters referred to in those sections, apply to a Schedule 4 organisation as if the organisation were a Crown entity under that Act:
         
-    *   (a) [sections 133][334] and [134][335] (which relate to supply of information):
+    *   (a) [sections 133][380] and [134][381] (which relate to supply of information):
     
-    *   (b) [sections 154 to 156][336] and any regulations that apply to the matters referred to in those sections:
+    *   (b) [sections 154 to 156][382] (which relate to annual financial statements, statements of responsibility, and audit reports):
     
-    *   (c) [section 158][337] (which relates to bank accounts).
+    *   (c) [section 158][383] (which relates to bank accounts):
     
-    (2) [Section 150][338] of the Crown Entities Act 2004 applies to an organisation that is named or described in [Schedule 4][274] and that is not required to produce an annual report as if the annual financial statements required under subsection (1)(b) were an annual report.
+    *   (d) if there is a tick in a column of the table in [Schedule 4][280] of this Act alongside the name or description of the organisation, the section indicated in the heading of that column:
     
-    (3) An organisation named or described in [Schedule 4][274] that is required to produce a statement of service performance must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
+    *   (e) if [section 139][384] of the Crown Entities Act 2004 (which is the obligation to prepare a statement of intent) applies to the organisation under paragraph (d), [sections 138][385] and [141 to 149][386] of that Act (which also relate to statements of intent):
     
-    (4) The provisions applied by this section apply to the organisation subject to any negation or modification of the provision in the entity's Act.
+    *   (f) if [section 150][387] of the Crown Entities Act 2004 (which is the obligation to prepare, present, and publish an annual report) applies to the organisation under paragraph (d), [sections 151][388] (other than subsection (1)(b)), [152][389], and [154 to 157][382] of that Act (which also relate to annual reports).
     
-    (5) A provision that applies to a parent organisation, and any negation or modification of the provision in the entity's Act, applies also to the subsidiaries of the organisation, except to the extent that the entity's Act provides otherwise.
+    (2) The responsible Minister for a Schedule 4 organisation that is required, under subsection (1)(d), to produce a statement of service performance under [section 153][390] of the Crown Entities Act 2004 must present that statement to the House of Representatives with the annual financial statements required under subsection (1)(b).
     
-    Section 45M: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    (3) If a Schedule 4 organisation is established or regulated under an Act, the provisions applied by this section apply to the organisation subject to any express negation or modification of the provision in that Act.
+    
+    Section 45M: replaced, on 18 July 2013, by [section 30][379] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 45N Some provisions of Crown Entities Act 2004 applied to some Schedule 4 organisations
+##### 45N Exemptions from certain sections of Crown Entities Act 2004 for Schedule 4 organisations
     
-*   (1) A provision of the [Crown Entities Act 2004][299] that is listed in column 2 of [Schedule 4][274] as applying to an organisation named or described in that schedule applies to that organisation as if the organisation were a Crown entity under the Crown Entities Act 2004\.
+*   (1) The Minister may exempt a Schedule 4 organisation, for 1 or more financial years or until further notice, from any of the requirements in [sections 141][386], [151][388], and [152][389] of the Crown Entities Act 2004, other than the requirements in section 151(1)(c) to (e).
     
-    (2) However, the Minister may exempt an organisation named or described in [Schedule 4][274] from any of the requirements in [sections 141][339], [142][340], [151][341], and [152][342] of the Crown Entities Act 2004\.
-    
-    (3) The exemption may be granted---
+    (2) If the Minister considers that it is necessary or desirable to grant an exemption under this section, the Minister may grant the exemption--- 
         
-    *   (a) if the Minister considers that it is necessary or expedient to grant the exemption; and
+    *   (a) by notice in writing to the organisation; and
     
-    *   (b) by notice in writing to the organisation, on any conditions that the Minister thinks fit.
+    *   (b) on any conditions that the Minister thinks fit.
     
-    Section 45N: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45N: replaced, on 18 July 2013, by [section 30][379] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 45O Special provisions relating to Reserves Boards
     
-*   (1) Despite [section 45M(2)][135], [section 150(3) and (4)][338] of the Crown Entities Act 2004 does not apply to a Reserves Board (as defined by [section 2][343] of the Reserves Act 1977) and accordingly, the Minister of Conservation is not required to present the annual financial statements of a Reserves Board to the House of Representatives.
+*   (1) Despite [section 45M(2)][139], [section 150(3) and (4)][387] of the Crown Entities Act 2004 does not apply to a Reserves Board (as defined by [section 2][391] of the Reserves Act 1977) and accordingly, the Minister of Conservation is not required to present the annual financial statements of a Reserves Board to the House of Representatives.
     
     (2) The Minister of Conservation must, in each year, send to each member of Parliament copies of the annual financial statements of a Reserves Board that manages a reserve in the member's electoral district.
     
@@ -3119,36 +3483,93 @@ Special reporting requirements
     
     (4) The chief executive of the Department of Conservation must ensure that information about the financial performance of Reserves Boards is, in each year, included in the annual report of the Department of Conservation.
     
-    Section 45O: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 45O: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+
+## Part 5AAA  
+Non-listed companies in which the Crown is majority or sole shareholder
+    
+*   Part 5AAA: inserted, on 18 July 2013, by [section 31][392] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+##### 45OA Application of Crown Entities Act 2004 to non-listed companies in which the Crown is majority or sole shareholder
+    
+*   (1) The following provisions of the [Crown Entities Act 2004][314] apply to a Schedule 4A company as if the company were a Crown entity company under the Crown Entities Act 2004:
+        
+    *   (a) [section 79][393] (which relates to formation and acquisition of shares):
+    
+    *   (b) [sections 81][394] and [82][395] (which require a constitution to be presented to the House of Representatives), except that section 81 must be read as if it required the constitution to contain a statement to the effect that the company is a company named in [Schedule 4A][281] of the Public Finance Act 1989:
+    
+    *   (c) [sections 83][396] and [84][397] (which relate to the shareholding Minister), except that, if the company is not 100% Crown-owned, the references in section 84 to a shareholding Minister must be read as if they were references to the shareholders:
+    
+    *   (d) [section 85][398] (which relates to the interface between the [Crown Entities Act 2004][314] and the [Companies Act 1993][399] and other Acts in respect of Crown entity companies):
+    
+    *   (e) if the company is 100% Crown-owned,---
+            
+        *   (i) [section 88][400] (which sets out the shareholding Ministers' role):
+        
+        *   (ii) [section 88A][401] (which sets out the monitor's role):
+        
+        
+    
+    *   (f) [sections 89 to 92][402], [94][403], and [95][404] (which relate to appointment, removal, and duties of board members), except that, if the company is not 100% Crown-owned, the reference in section 94(1) to duties owed to the shareholding Ministers must be read as a reference to duties owed to shareholders:
+    
+    *   (g) [sections 96][405], [97][406], and [99][407] (which relate to subsidiaries):
+    
+    *   (h) [section 100][408] (which relates to the acquisition of shares or interests in companies, trusts, and partnerships, etc):
+    
+    *   (i) [section 102][409] (which relates to the interface between the [Crown Entities Act 2004][314] and the [Companies Act 1993][293] and other Acts in respect of Crown entity subsidiaries):
+    
+    *   (j) [sections 107 to 111][410] and [113][411] (which relate to directions under section 107 of the Crown Entities Act 2004):
+    
+    *   (k) [section 114][412] (which relates to government directions):
+    
+    *   (l) [section 118][413] (which is the obligation to be a good employer):
+    
+    *   (m) [sections 132 to 135][414] (miscellaneous provisions):
+    
+    *   (n) [sections 136 to 157][415] (which relate to reporting obligations):
+    
+    *   (o) [section 158][383] (which relates to bank accounts):
+    
+    *   (p) if there is a tick in a column of the table in [Schedule 4A][281] of this Act alongside the name of the company, the section indicated in the heading of that column.
+    
+    (2) In the case of a Schedule 4A company that is not 100% Crown-owned, subsection (1)(n) does not prevent the shareholders from agreeing on a process for minority shareholders to be involved in the process of preparing, reviewing, or amending the statement of intent or statement of performance expectations referred to in [sections 136 to 157][415] of the Crown Entities Act 2004, but only if the agreed process is not inconsistent with those sections.
+    
+    (3) For the purposes of subsections (1) and (2), a Schedule 4A company is _100% Crown-owned_ if Ministers of the Crown, on behalf of the Crown, hold 100% of the issued ordinary shares in the capital of the company.
+    
+    (4) For the purposes of [section 107(2)(a)][410] of the Crown Entities Act 2004, Schedule 4A companies may be treated as a category of Crown entities.
+    
+    (5) If a Schedule 4A company is established or regulated under an Act, the provisions applied by this section apply to the company subject to any express negation or modification of the provision in that Act.
+    
+    Section 45OA: inserted, on 18 July 2013, by [section 31][392] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ## Part 5A  
 Mixed ownership model companies
     
-*   Part 5A: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Part 5A: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 #### Preliminary provisions
     
-*   Heading: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Heading: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45P Definitions of mixed ownership model company and other terms
     
-*   (1) In this Act, _mixed ownership model company_ means a company listed in [Schedule 5][275].
+*   (1) In this Act, _mixed ownership model company_ means a company listed in [Schedule 5][282].
     
     (2) In this Part,---
     
-    _10% limit_ has the meaning set out in [section 45S][145]
+    _10% limit_ has the meaning set out in [section 45S][151]
     
     _Crown_ means Her Majesty the Queen in right of New Zealand
     
     _excess securities_ means those shares or voting securities in which a person has a relevant interest in excess of the 10% limit
     
-    _FMA_ means the Financial Markets Authority established under [section 6][345] of the Financial Markets Authority Act 2011
+    _FMA_ means the Financial Markets Authority established under [section 6][417] of the Financial Markets Authority Act 2011
     
-    _relevant interest_ has the meaning given to it by [sections 5 to 6][346] of the Securities Markets Act 1988
+    _relevant interest_ has the meaning given to it by [sections 5 to 6][418] of the Securities Markets Act 1988
     
-    _security_ has the meaning set out in paragraph (a) of the definition of that term in [section 2(1)][347] of the Securities Markets Act 1988
+    _security_ has the meaning set out in paragraph (a) of the definition of that term in [section 2(1)][419] of the Securities Markets Act 1988
     
-    _voting right_ means a currently exercisable right to cast a vote at meetings of shareholders of a company (and, for this purpose, a right is treated as currently exercisable even if [section 45T(1)(c)][146] applies to prevent its exercise), other than a right to vote that is exercisable only in 1 or more of the following circumstances:
+    _voting right_ means a currently exercisable right to cast a vote at meetings of shareholders of a company (and, for this purpose, a right is treated as currently exercisable even if [section 45T(1)(c)][152] applies to prevent its exercise), other than a right to vote that is exercisable only in 1 or more of the following circumstances:
         
     *   (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
     
@@ -3162,7 +3583,7 @@ Mixed ownership model companies
     
     _voting security_ means a security that confers a voting right.
     
-    Section 45P: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45P: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45Q Treaty of Waitangi (Te Tiriti o Waitangi)
     
@@ -3170,13 +3591,13 @@ Mixed ownership model companies
     
     (2) For the avoidance of doubt, subsection (1) does not apply to persons other than the Crown.
     
-    Compare: 1986 No 124 [s 9][348]
+    Compare: 1986 No 124 [s 9][420]
     
-    Section 45Q: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45Q: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 #### 51% Crown control
     
-*   Heading: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Heading: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45R Restriction on reduction of the Crown's holding below 51% control
     
@@ -3196,11 +3617,11 @@ Mixed ownership model companies
     
     *   (b) 51% of any class of voting securities of the company.
     
-    Section 45R: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45R: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 #### 10% limit
     
-*   Heading: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Heading: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45S 10% limit on holdings by persons other than the Crown
     
@@ -3212,13 +3633,13 @@ Mixed ownership model companies
     
     (2) In this Part, _10% limit_ means the maximum relevant interest permitted under subsection (1). 
     
-    (3) Subsection (1) is subject to [section 45U][147].
+    (3) Subsection (1) is subject to [section 45U][153].
     
-    Section 45S: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45S: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45T Effect of exceeding 10% limit
     
-*   (1) Every person who contravenes [section 45S][145] must---
+*   (1) Every person who contravenes [section 45S][151] must---
         
     *   (a) comply with any written notice that the person receives from the mixed ownership model company requiring that the person sell or otherwise dispose of interests in excess securities of the company, or take any other steps that are specified, for the purpose of ensuring that the 10% limit is not exceeded; and
     
@@ -3226,31 +3647,31 @@ Mixed ownership model companies
     
     *   (c) while the person contravenes that section, not exercise or control the exercise of the voting rights attaching to the excess securities.
     
-    (2) A person has no right to be paid a dividend or other distribution in respect of the excess securities (despite the [Companies Act 1993][284]).
+    (2) A person has no right to be paid a dividend or other distribution in respect of the excess securities (despite the [Companies Act 1993][293]).
     
     (3) An exercise of a voting right in contravention of subsection (1)(c) is of no effect and must be disregarded in counting the votes concerned.
     
     (4) However, subsections (1)(c) and (3) do not invalidate a resolution if the votes concerned were counted by the company in good faith and without knowledge that the voting rights were exercised in contravention of subsection (1)(c).
     
-    (5) Nothing in [section 45S][145] or this section limits or prevents the constitution of a mixed ownership model company from providing for the 10% limit and the consequences of a person exceeding the 10% limit (including to implement, or to add to, the consequences set out in this section), and the company may, in accordance with the constitution, determine which shares or voting securities are the excess securities for the purposes of its application of this section.
+    (5) Nothing in [section 45S][151] or this section limits or prevents the constitution of a mixed ownership model company from providing for the 10% limit and the consequences of a person exceeding the 10% limit (including to implement, or to add to, the consequences set out in this section), and the company may, in accordance with the constitution, determine which shares or voting securities are the excess securities for the purposes of its application of this section.
     
-    Compare: 1988 No 234 [s 36U][349]
+    Compare: 1988 No 234 [s 36U][421]
     
-    Section 45T: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45T: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45U Exemption from 10% limit for trustee corporations and nominee companies, etc
     
-*   (1) A person (**A**) may exceed the 10% limit without contravening [section 45S][145] if---
+*   (1) A person (**A**) may exceed the 10% limit without contravening [section 45S][151] if---
         
     *   (a) A complies with both of the following subparagraphs:
             
         *   (i) A exceeds the 10% limit merely because A holds securities on behalf of another person in the ordinary course of business as a trustee corporation or nominee company; and
         
-        *   (ii) [section 31(1)(b)][350] of the Securities Markets Act 1988 currently applies to A (and so exempts A as a trustee corporation or a nominee company under that Act); or
+        *   (ii) [section 31(1)(b)][422] of the Securities Markets Act 1988 currently applies to A (and so exempts A as a trustee corporation or a nominee company under that Act); or
         
         
     
-    *   (b) A exceeds the 10% limit merely because A is attributed with (under [section 5B][351] of the Securities Markets Act 1988) the relevant interests of another person who is exempt from the 10% limit under paragraph (a) or this paragraph.
+    *   (b) A exceeds the 10% limit merely because A is attributed with (under [section 5B][423] of the Securities Markets Act 1988) the relevant interests of another person who is exempt from the 10% limit under paragraph (a) or this paragraph.
     
     (2) A person to whom subsection (1)(a) applies must---
         
@@ -3258,17 +3679,17 @@ Mixed ownership model companies
     
     *   (b) inform the mixed ownership model company if any of those persons exceeds the 10% limit.
     
-    (3) The exemption under this section does not apply to a person who is currently designated under [section 45V][148] as no longer exempt.
+    (3) The exemption under this section does not apply to a person who is currently designated under [section 45V][154] as no longer exempt.
     
-    Compare: 1988 No 234 [ss 31--32A][350]
+    Compare: 1988 No 234 [ss 31--32A][422]
     
-    Section 45U: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45U: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45V Power of FMA to remove exemption from 10% limit for trustee corporations, nominee companies, etc
     
-*   (1) The FMA may, by notice in the _Gazette_, designate a person as no longer exempt under [section 45U][147] if it is satisfied that---
+*   (1) The FMA may, by notice in the _Gazette_, designate a person as no longer exempt under [section 45U][153] if it is satisfied that---
         
-    *   (a) the person has not complied with the condition in [section 45U(2)][147]; or
+    *   (a) the person has not complied with the condition in [section 45U(2)][153]; or
     
     *   (b) the exemption is being used for the purpose or purposes of circumventing, evading, or defeating the operation of the 10% limit taking into account the nature, substance, and economic effect of the interest or relationship or other facts (and not the mere form).
     
@@ -3286,46 +3707,46 @@ Mixed ownership model companies
     
     (6) Failure to comply with subsection (4) does not invalidate the designation.
     
-    Compare: 1988 No 234 [ss 48C][352], [48D][353]
+    Compare: 1988 No 234 [ss 48C][424], [48D][425]
     
-    Section 45V: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45V: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 #### Continuing application of certain provisions
     
-*   Heading: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Heading: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ##### 45W Certain provisions of State-Owned Enterprises Act 1986 and other enactments continue to apply
     
-*   (1) [Sections 22 to 30(1)][354] of the State-Owned Enterprises Act 1986, the provisions listed in subsection (2), and any Order in Council made at any time under any of those provisions continue to apply to a mixed ownership model company, despite it ceasing to be a State enterprise, as if---
+*   (1) [Sections 22 to 30(1)][426] of the State-Owned Enterprises Act 1986, the provisions listed in subsection (2), and any Order in Council made at any time under any of those provisions continue to apply to a mixed ownership model company, despite it ceasing to be a State enterprise, as if---
         
-    *   (a) the company were a State enterprise and a company named in [Schedule 2][304] of the State-Owned Enterprises Act 1986; and
+    *   (a) the company were a State enterprise and a company named in [Schedule 2][319] of the State-Owned Enterprises Act 1986; and
     
     *   (b) the Minister of Finance and the Minister responsible for that company were the shareholding Ministers for the company.
     
     (2) The provisions are---
         
-    *   (a) the definition of State forest land in [section 2(1)][355] and [sections 24(1)][356] and (6), [24B(4) to (6)][357], and [61(2)][358] of the Conservation Act 1987:
+    *   (a) the definition of State forest land in [section 2(1)][427] and [sections 24(1)][428] and (6), [24B(4) to (6)][429], and [61(2)][430] of the Conservation Act 1987:
     
-    *   (b) [section 11][359] of the Crown Pastoral Land Act 1998:
+    *   (b) [section 11][431] of the Crown Pastoral Land Act 1998:
     
-    *   (c) [sections 8A to 8H][360] of the Treaty of Waitangi Act 1975\.
+    *   (c) [sections 8A to 8H][432] of the Treaty of Waitangi Act 1975\.
     
-    Compare: 1998 No 99 [s 3(2), (4)][361]
+    Compare: 1998 No 99 [s 3(2), (4)][433]
     
-    Section 45W: inserted, on 30 June 2012, by [section 9][344] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+    Section 45W: inserted, on 30 June 2012, by [section 9][416] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
 
 ## Part 6  
 Borrowing, securities, derivative transactions, investment, banking, and guarantees
     
-*   Part 6: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 6: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 1---Borrowing
     
-*   Subpart 1 heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 1 heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Limits on borrowing by the Crown
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 46 The Crown must not borrow except under statute
     
@@ -3335,7 +3756,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) any person to lend money to the Crown.
     
-    Section 46: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 46: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 47 Minister may borrow on behalf of the Crown if in public interest
     
@@ -3349,21 +3770,21 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) if the Minister directs, a Departmental Bank Account.
     
-    Section 47: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 47: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 48 Power to borrow must not be delegated
     
-*   Despite anything in the [State Sector Act 1988][283], the Minister must not delegate the Minister's power to borrow money under [section 47][155].
+*   Despite anything in the [State Sector Act 1988][291], the Minister must not delegate the Minister's power to borrow money under [section 47][161].
     
-    Section 48: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 48: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 49 The Crown not liable for debts of Crown entities, etc
     
 *   (1) The Crown is not liable to contribute towards the payment of any debts or liabilities of---
         
-    *   (a) a Crown entity or an organisation named or described in [Schedule 4][274]; or
+    *   (a) a Crown entity, a Schedule 4 organisation, or a Schedule 4A company; or
     
-    *   (b) a subsidiary of a Crown entity or of an organisation named or described in [Schedule 4][274]; or
+    *   (b) a subsidiary of a Crown entity, a Schedule 4 organisation, or a Schedule 4A company; or
     
     *   (c) any entity in which a Crown entity has an interest; or
     
@@ -3373,19 +3794,23 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
     *   (a) any sum the Crown is liable to contribute under any Act; or
     
-    *   (b) any sum the Crown is liable to contribute under any guarantee or indemnity given by the Minister under [section 65ZD][224] or the [Crown Retail Deposit Guarantee Scheme Act 2009][362]; or
+    *   (b) any sum the Crown is liable to contribute under any guarantee or indemnity given by the Minister under [section 65ZD][230] or the [Crown Retail Deposit Guarantee Scheme Act 2009][434]; or
     
     *   (c) any sum the Crown is liable to pay a creditor of a Crown entity, Crown subsidiary, other agency, or other body corporate, by virtue of a cause of action that the creditor has against the Crown; or
     
     *   (d) any sum the Crown is liable to pay to a creditor of the Reserve Bank of New Zealand.
     
-    Section 49: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 49: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 49(2)(b): amended, on 13 September 2009, by [section 10(2)][363] of the Crown Retail Deposit Guarantee Scheme Act 2009 (2009 No 30).
+    Section 49(1)(a): amended, on 18 July 2013, by [section 32(1)][435] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 49(1)(b): amended, on 18 July 2013, by [section 32(2)][435] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 49(2)(b): amended, on 13 September 2009, by [section 10(2)][436] of the Crown Retail Deposit Guarantee Scheme Act 2009 (2009 No 30).
 
 #### Appointment of borrowing agents
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 50 Minister may appoint agents for purpose of borrowing money
     
@@ -3431,13 +3856,13 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (5) The Minister may give notice of an appointment, or revocation of appointment, of a borrowing agent under this section by any means of communication that he or she thinks fit.
     
-    Section 50: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 50: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 51 Appointment of borrowing agents does not prevent exercise of power by Minister
     
-*   The appointment by the Minister of a borrowing agent under [section 50][159] does not prevent the exercise by the Minister of a power conferred by any Act or rule of law.
+*   The appointment by the Minister of a borrowing agent under [section 50][165] does not prevent the exercise by the Minister of a power conferred by any Act or rule of law.
     
-    Section 51: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 51: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 52 Borrowings must be taken to be lawful
     
@@ -3445,21 +3870,21 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The fact that a borrowing agent exercises any powers relating to money borrowed by the Crown is, in the absence of proof to the contrary, conclusive evidence of his or her authority to do so.
     
-    Section 52: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 52: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 52A Crown not to issue securities except under statute
     
 *   \[Repealed\]
     
-    Section 52A: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 52A: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 53 Borrowing agents may delegate powers
     
-*   (1) A borrowing agent appointed under [section 50][159] may delegate all or any of the powers conferred on the borrowing agent by the Minister under that section subject to---
+*   (1) A borrowing agent appointed under [section 50][165] may delegate all or any of the powers conferred on the borrowing agent by the Minister under that section subject to---
         
     *   (a) the consent of the Treasury; and
     
-    *   (b) the requirement under [section 50(3)][159] that the number of persons acting as borrowing agents must not be less than 2\.
+    *   (b) the requirement under [section 50(3)][165] that the number of persons acting as borrowing agents must not be less than 2\.
     
     (2) The delegation may---
         
@@ -3469,33 +3894,33 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (c) be subject to any conditions that the delegating agent, or agents, think fit.
     
-    Section 53: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 53: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Terms and conditions of borrowing
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 54 Minister may determine terms and conditions of borrowing
     
-*   For the purposes of [section 47][155], the Minister may borrow money on any terms and conditions that the Minister thinks fit.
+*   For the purposes of [section 47][161], the Minister may borrow money on any terms and conditions that the Minister thinks fit.
     
-    Section 54: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 54: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 55 Charge on public revenues
     
 *   All principal, interest, and other money that is payable in relation to money borrowed by the Crown is a charge on, and payable out of, the revenues of the Crown equally and rateably with all other general borrowing obligations of the Crown.
     
-    Section 55: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 55: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 56 Power to borrow by issue of series of similar securities
     
-*   The power conferred on the Minister under [section 47][155] includes the power to borrow money---
+*   The power conferred on the Minister under [section 47][161] includes the power to borrow money---
         
     *   (a) by way of the issue of public securities in 1 or more series (for example, Treasury bills or commercial paper); and
     
     *   (b) under 1 or more agreements between the Crown and 1 or more specified banks, financial institutions, or security dealers.
     
-    Section 56: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 56: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 57 Power to vary borrowings of the Crown
     
@@ -3507,7 +3932,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) revoke the direction and give other directions.
     
-    Section 57: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 57: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 58 Conversion of money borrowed by the Crown
     
@@ -3525,13 +3950,13 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
         
     
-    Section 58: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 58: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 58A Authority for the giving by the Crown of guarantees and indemnities
     
 *   \[Repealed\]
     
-    Section 58A: repealed, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 58A: repealed, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 59 Minister may appoint underwriters, managers, etc, for borrowings of the Crown
     
@@ -3551,11 +3976,11 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister may enter into the agreement on any terms and conditions that the Minister thinks fit.
     
-    Section 59: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 59: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Payments relating to borrowings
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 60 Payment of principal and interest on money borrowed by the Crown
     
@@ -3577,7 +4002,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) finance lease arrangements or arrangements that are of the same or a substantially similar nature.
     
-    Section 60: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 60: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 61 Expenses in respect of money borrowed by the Crown
     
@@ -3607,21 +4032,21 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) any expenses incurred on personnel and equipment necessary for the performance of functions set out in subsection (1).
     
-    Section 61: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 61: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 2---Securities
     
-*   Subpart 2 heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 2 heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Limits on the Crown issuing securities
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 62 The Crown must not issue securities except under statute
     
 *   Except as expressly authorised by any Act, the Crown must not issue securities (whether for money borrowed or any other purpose).
     
-    Section 62: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 62: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 63 Minister may issue securities for money borrowed by the Crown
     
@@ -3629,7 +4054,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister, on behalf of the Crown, may issue securities for that money in any manner and form that the Minister thinks fit.
     
-    Section 63: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 63: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 64 Issue or variation of security taken to be lawful
     
@@ -3639,17 +4064,17 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
     *   (a) the Minister; or
     
-    *   (b) a person acting in accordance with a delegation under the [State Sector Act 1988][283]; or
+    *   (b) a person acting in accordance with a delegation under the [State Sector Act 1988][291]; or
     
-    *   (c) borrowing agents appointed for the purpose under [section 50][159].
+    *   (c) borrowing agents appointed for the purpose under [section 50][165].
     
     (3) The fact that a borrowing agent exercises any powers relating to a security is, in the absence of proof to the contrary, conclusive evidence of his or her authority to do so.
     
-    Section 64: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 64: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Terms and conditions of securities
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65 Securities must be in name of Sovereign
     
@@ -3677,7 +4102,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
         
     
-    Section 65: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65A Power to vary public securities
     
@@ -3689,7 +4114,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) revoke the direction and give other directions.
     
-    Section 65A: substituted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65A: substituted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65B Issue of new public security on loss, damage, or destruction of public security
     
@@ -3697,7 +4122,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister may give a direction under subsection (1) subject to any conditions that the Minister thinks fit.
     
-    Section 65B: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65B: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65C Execution of securities
     
@@ -3705,17 +4130,17 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
     *   (a) the Minister; or
     
-    *   (b) a person acting in accordance with a delegation under [section 28][364] or [section 41][365] of the State Sector Act 1988; or
+    *   (b) a person acting in accordance with a delegation under [section 28][437] or [section 41][438] of the State Sector Act 1988; or
     
-    *   (c) borrowing agents appointed for the purpose under [section 50][159].
+    *   (c) borrowing agents appointed for the purpose under [section 50][165].
     
     (2) For the purposes of this section, it is enough if a facsimile of the signature of a person who is required to execute a security under this section is reproduced on the security.
     
-    Section 65C: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65C: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Payments relating to securities
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65D Payments under public securities
     
@@ -3731,11 +4156,11 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) all borrowing expenses incurred under a public security may be incurred without further appropriation, and must be paid without further authority, than this section.
     
-    (2) In this section and [section 65E][187], _public security_ does not include a guarantee or indemnity given under [section 65ZD][224], the [Crown Retail Deposit Guarantee Scheme Act 2009][362], or [section 125I][366] of the Weathertight Homes Resolution Services Act 2006\.
+    (2) In this section and [section 65E][193], _public security_ does not include a guarantee or indemnity given under [section 65ZD][230], the [Crown Retail Deposit Guarantee Scheme Act 2009][434], or [section 125I][439] of the Weathertight Homes Resolution Services Act 2006\.
     
-    Section 65D: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65D: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 65D(2): amended, on 23 July 2011, by [section 8(2)][367] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
+    Section 65D(2): amended, on 23 July 2011, by [section 8(2)][440] of the Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50).
 
 ##### 65E Expenses in respect of securities
     
@@ -3755,21 +4180,21 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) any expenses incurred on personnel and equipment necessary for the performance of functions set out in subsection (1).
     
-    Section 65E: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65E: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 3---Derivative transactions
     
-*   Subpart 3: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 3: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Limits on the Crown entering into derivative transactions
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65F The Crown must not enter into derivative transactions
     
 *   Except as expressly authorised by any Act, the Crown must not enter (either directly or through an intermediary) into a derivative transaction.
     
-    Section 65F: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65F: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65G Minister may enter into derivative transactions if in public interest
     
@@ -3777,11 +4202,11 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister may enter into a derivative transaction on any terms and conditions that the Minister thinks fit.
     
-    Section 65G: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65G: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Payments relating to derivative transactions
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65H Payments relating to derivative transactions of the Crown
     
@@ -3801,15 +4226,15 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (d) making payments under the derivative transaction.
     
-    Section 65H: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65H: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 4---Investment
     
-*   Subpart 4: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 4: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Investment of public money
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65I Investment of public money
     
@@ -3827,7 +4252,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) sell, or convert into money, any of the securities.
     
-    (3) The following must be paid into a Crown Bank Account:
+    (3) The following must be paid into a Crown Bank Account or, if the Minister directs, a Departmental Bank Account:
         
     *   (a) all interest received from the investment; and
     
@@ -3839,7 +4264,9 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
         
     
-    Section 65I: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65I: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 65I(3): amended, on 18 July 2013, by [section 33][441] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65J Payment of expenses relating to investment
     
@@ -3851,7 +4278,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The matters are---
         
-    *   (a) negotiating an investment referred to in [section 65I][196]; or
+    *   (a) negotiating an investment referred to in [section 65I][202]; or
     
     *   (b) placing the investment; or
     
@@ -3861,29 +4288,19 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (e) converting the investment.
     
-    Section 65J: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65J: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 65J(1)(b): amended, on 7 July 2010, by [section 4][368] of the Public Finance Amendment Act 2010 (2010 No 78).
+    Section 65J(1)(b): amended, on 7 July 2010, by [section 4][442] of the Public Finance Amendment Act 2010 (2010 No 78).
 
 #### Limits on lending by the Crown
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65K The Crown must not lend money except under statute
     
-*   The Crown must not lend money to a person or organisation, except---
-        
-    *   (a) as expressly authorised by any Act; or
+*   Except as expressly authorised by any Act, the Crown must not lend money to a person or an organisation.
     
-    *   (b) if lending the money is necessary for the Crown to---
-            
-        *   (i) meet a legal obligation; or
-        
-        *   (ii) properly perform a function.
-        
-        
-    
-    Section 65K: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65K: replaced, on 18 July 2013, by [section 34][443] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65L Minister may lend money to persons or organisations if in public interest
     
@@ -3891,7 +4308,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister may lend the money under subsection (1) on any terms and conditions that the Minister thinks fit.
     
-    Section 65L: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65L: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65M Minister may lend money to foreign government
     
@@ -3903,33 +4320,33 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) The Minister may lend the money under subsection (1) on any terms and conditions that the Minister thinks fit.
     
-    Section 65M: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65M: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65N Authority to lend money includes authority to defer payments
+
+\[Repealed\]
     
-*   For the purposes of [sections 65L][200] and [65M][201], the authority to lend money includes the authority to defer payment, on terms and conditions that the Minister thinks fit, for any goods or services supplied or works constructed for any person, organisation, or government.
-    
-    Section 65N: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Section 65N: repealed, on 18 July 2013, by [section 35][444] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65O Repayment of money lent by the Crown
     
-*   The Minister may, in relation to any money lent by the Crown under [section 65L][200] or [section 65M][201],---
+*   The Minister may, in relation to any money lent by the Crown under [section 65L][206] or [section 65M][207],---
         
     *   (a) accept all money payable under the loan in any currency that the Minister thinks fit; and
     
     *   (b) agree at any time to the variation of any security issued in respect of the loan.
     
-    Section 65O: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65O: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65P Appropriation required for lending
     
-*   Any lending under [section 65L][200] or [section 65M][201] must be made from a capital expenditure appropriation, or other authority, approved by Parliament for the purpose.
+*   Any lending under [section 65L][206] or [section 65M][207] must be made from a capital expenditure appropriation, or other authority, approved by Parliament for the purpose.
     
-    Section 65P: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65P: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65Q Securities relating to lending must be in name of Sovereign
     
-*   (1) A security taken in respect of a loan under [section 65L][200] or [section 65M][201] must be taken in the name of the Sovereign.
+*   (1) A security taken in respect of a loan under [section 65L][206] or [section 65M][207] must be taken in the name of the Sovereign.
     
     (2) The Minister may, on behalf of the Sovereign, do any of the following things in respect of, or in connection with, the security that could be done by the Sovereign:
         
@@ -3937,15 +4354,15 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) undertake and perform any liabilities.
     
-    Section 65Q: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65Q: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 5---Banking
     
-*   Subpart 5: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 5: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Crown Bank Accounts
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65R Crown Bank Accounts
     
@@ -3955,11 +4372,11 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (3) To avoid doubt, a reference to the Crown Bank Account in any other enactment must, unless the context otherwise requires, be read as a reference to a Crown Bank Account.
     
-    Section 65R: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65R: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Departmental Bank Accounts
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65S Departmental Bank Accounts
     
@@ -3969,7 +4386,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (3) The responsible Minister may give the authority under subsection (2) only if he or she is satisfied that the authority is needed to protect the security interests of the intelligence and security department.
     
-    Section 65S: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65S: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65T Directions relating to operation of Departmental Bank Accounts
     
@@ -3977,17 +4394,17 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (2) However, in the case of an intelligence and security department, the power conferred by subsection (1) must be exercised only on a basis agreed between the Minister and the responsible Minister for that department.
     
-    Section 65T: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65T: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### General
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65U Payment into Bank Accounts
     
 *   (1) All public money is the property of the Crown and must be lodged in either a Crown Bank Account or a Departmental Bank Account.
     
-    (2) A department that operates a Departmental Bank Account must, subject to any directions given under [section 65T][211], pay into that Account---
+    (2) A department that operates a Departmental Bank Account must, subject to any directions given under [section 65T][217], pay into that Account---
         
     *   (a) any money that,---
             
@@ -4005,7 +4422,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (4) Without limiting any provisions of this Act, any money that is paid into a Crown or Departmental Bank Account in error, or in excess of the amount required for the purpose for which it was paid, may be paid out of that Bank Account to the person who is entitled to the payment without further authority than this section.
     
-    Section 65U: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65U: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65V Requirements for payment of money out of Bank Accounts
     
@@ -4017,7 +4434,7 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) between Crown Bank Accounts and Departmental Bank Accounts.
     
-    Section 65V: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65V: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65W Powers of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account
     
@@ -4041,13 +4458,13 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (5) In the case of an intelligence and security department, the powers conferred on the Minister or the Treasury by subsections (3) and (4) must be exercised on a basis agreed between the Minister and the responsible Minister for that department.
     
-    Section 65W: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65W: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65X Statement of accounts must be sent to Treasury or Auditor-General
     
 *   A bank at which public money is kept must send to the Treasury or the Auditor-General the statements of account relating to that money that the Treasury or the Auditor-General may require, as the case may be.
     
-    Section 65X: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65X: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65Y Treasury must report on all expenses and capital expenditure incurred with or without appropriation or other statutory authority
     
@@ -4063,23 +4480,23 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (b) the amount that was actually incurred.
     
-    (3) The time required is 3 working days after the Treasury receives the information from departments that is required for the preparation of the monthly financial statements of the Government reporting entity under [section 31A][83].
+    (3) The time required is 3 working days after the Treasury receives the information from departments that is required for the preparation of the monthly financial statements of the Government reporting entity under [section 31A][90].
     
-    (4) To avoid doubt, this section does not limit the powers of the Auditor-General, under [Part 4][369] of the Public Audit Act 2001, to access information from a public entity or any person.
+    (4) To avoid doubt, this section does not limit the powers of the Auditor-General, under [Part 4][445] of the Public Audit Act 2001, to access information from a public entity or any person.
     
     (5) In this section, a reference to authority includes a reference to an authority in advance of an appropriation.
     
-    (6) In this section and [sections 65Z][218] and [65ZA][219], a reference to the Auditor-General is a reference to the Auditor-General in his or her capacity as Controller and Auditor-General.
+    (6) In this section and [sections 65Z][224] and [65ZA][225], a reference to the Auditor-General is a reference to the Auditor-General in his or her capacity as Controller and Auditor-General.
     
-    Section 65Y: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65Y: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65Z Auditor-General may direct Ministers to report to House of Representatives in cases involving unlawful expenses, etc
     
 *   (1) The Auditor-General may direct a Minister to report to the House of Representatives if the Auditor-General has reason to believe that expenses or capital expenditure for which that Minister is responsible have been incurred for a purpose that---
         
-    *   (a) is not lawful; or
+    *   (a) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act; or
     
-    *   (b) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act.
+    *   (b) is, for any other reason, unlawful.
     
     (2) The report must set out the following details:
         
@@ -4115,57 +4532,65 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     *   (c) if the direction is made after the end of the financial year,---
             
-        *   (i) comply with the direction by including the information required by subsection (2) or, as the case may be, subsection (3) in the report under [section 26C][41]; or
+        *   (i) comply with the direction by including the information required by subsection (2) or, as the case may be, subsection (3) in the report under [section 26C][45]; or
         
         *   (ii) comply with the direction within 20 working days after receiving it.
         
         
     
-    Section 65Z: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65Z: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 65Z(1)(a): replaced, on 18 July 2013, by [section 36][446] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 65Z(1)(b): replaced, on 18 July 2013, by [section 36][446] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65ZA Auditor-General may stop payments out of Bank Accounts
     
 *   (1) This section applies if the Auditor-General has reason to believe that any money to be paid out of a Crown Bank Account or a Departmental Bank Account may be applied for a purpose that---
         
-    *   (a) is not lawful; or
+    *   (a) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act; or
     
-    *   (b) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act.
+    *   (b) is, for any other reason, unlawful.
     
     (2) If this section applies, the Auditor-General may direct the Minister, the Treasury or, as the case may be, the department concerned to stop payments out of that Crown Bank Account or Departmental Bank Account.
     
-    Section 65ZA: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZA: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 65ZA(1)(a): replaced, on 18 July 2013, by [section 37][447] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 65ZA(1)(b): replaced, on 18 July 2013, by [section 37][447] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65ZB Application of this subpart to Offices of Parliament
     
-*   (1) Despite [section 65S][210], an Office of Parliament may open, maintain, and operate a Departmental Bank Account at a bank or banks that may be agreed between the Office and the Treasury.
+*   (1) Despite [section 65S][216], an Office of Parliament may open, maintain, and operate a Departmental Bank Account at a bank or banks that may be agreed between the Office and the Treasury.
     
-    (2) Despite [section 65U][213], an Office of Parliament may pay receipts from borrowings into a Departmental Bank Account that it operates.
+    (2) Despite [section 65U][219], an Office of Parliament may pay receipts from borrowings into a Departmental Bank Account that it operates.
     
     (3) This subpart, if the context requires, applies to that Departmental Bank Account as if---
         
     *   (a) references to a department were references to an Office of Parliament; and
     
-    *   (b) the money disbursed by the Treasury under [section 65U(2)(a)][213] were disbursed on a basis agreed between the chief executive of the Office concerned and the Secretary; and
+    *   (b) the money disbursed by the Treasury under [section 65U(2)(a)][219] were disbursed on a basis agreed between the chief executive of the Office concerned and the Secretary; and
     
-    *   (c) the powers of the Minister or the Treasury under [section 65W][215] in respect of a Departmental Bank Account were to be exercised on a basis agreed between the Minister and the Speaker; and
+    *   (c) the powers of the Minister or the Treasury under [section 65W][221] in respect of a Departmental Bank Account were to be exercised on a basis agreed between the Minister and the Speaker; and
     
-    *   (d) the investment of money held in a Departmental Bank Account operated by an Office of Parliament, in accordance with [section 65I][196], were on a basis agreed between the Treasury and the Office concerned.
+    *   (d) the investment of money held in a Departmental Bank Account operated by an Office of Parliament, in accordance with [section 65I][202], were on a basis agreed between the Treasury and the Office concerned.
     
-    Section 65ZB: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZB: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ### Subpart 6---Guarantees and indemnities
     
-*   Subpart 6: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Subpart 6: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Limits on giving by the Crown of guarantees and indemnities
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65ZC Guarantee or indemnity by the Crown must not be given except under statute
     
 *   Except as expressly authorised by any Act, it is not lawful for any person to give a guarantee or indemnity on behalf of or in the name of the Crown.
     
-    Section 65ZC: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZC: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65ZD Minister may give guarantee or indemnity if in public interest
     
@@ -4175,43 +4600,41 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
         
     *   (a) give the guarantee or indemnity on any terms and conditions that the Minister thinks fit; and
     
-    *   (b) in the case of a guarantee, give the guarantee in respect of the performance or non-performance of any duties or obligations by the person, organisation, or government.
+    *   (b) in the case of a guarantee, give the guarantee in respect of the performance or non-performance of any duties or obligations by a person, organisation, or government.
     
-    (3) If the contingent liability of the Crown under a guarantee or indemnity given under this section exceeds $10,000,000, the Minister must, as soon as practicable after the guarantee or indemnity is given,---
-        
-    *   (a) publish in the _Gazette_ a statement that the guarantee or indemnity has been given; and
-    
-    *   (b) present the statement to the House of Representatives.
+    (3) If the contingent liability of the Crown under a guarantee or an indemnity given by the Minister under subsection (1) exceeds $10 million, the Minister must, as soon as practicable after giving the guarantee or indemnity, present a statement to the House of Representatives that the guarantee or indemnity has been given.
     
     (4) The statement may contain any details about the guarantee or indemnity that the Minister considers appropriate.
     
-    Section 65ZD: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZD: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 65ZD(2)(b): amended, on 18 July 2013, by [section 38(1)][448] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 65ZD(3): replaced, on 18 July 2013, by [section 38(2)][448] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 65ZE Departments may give guarantee or indemnity specified in regulations if in public interest
     
-*   (1) A department, on behalf of or in the name of the Crown, may give, in writing, a guarantee or indemnity of a type specified in regulations made under [section 81][263] to a person or organisation if it appears to the department to be necessary or expedient in the public interest to do so.
+*   (1) A department, on behalf of or in the name of the Crown, may give, in writing, a guarantee or indemnity of a type specified in regulations made under [section 81][269] to a person or organisation if it appears to the department to be necessary or expedient in the public interest to do so.
     
     (2) A department must give the guarantee or indemnity on the prescribed terms and conditions (if any).
     
-    (3) If the contingent liability of the Crown under a guarantee or indemnity given by a department under subsection (1) exceeds $10,000,000, the responsible Minister must, as soon as practicable after the guarantee or indemnity is given,---
-        
-    *   (a) publish in the _Gazette_ a statement that the guarantee or indemnity has been given; and
-    
-    *   (b) present the statement to the House of Representatives.
+    (3) If the contingent liability of the Crown under a guarantee or an indemnity given by a department under subsection (1) exceeds $10 million, the responsible Minister must, as soon as practicable after the guarantee or indemnity is given, present to the House of Representatives a statement that the guarantee or indemnity has been given.
     
     (4) The statement may contain any details about the guarantee or indemnity that the responsible Minister considers appropriate.
     
-    (5) This section does not limit [section 65ZD][224].
+    (5) This section does not limit [section 65ZD][230].
     
-    Section 65ZE: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZE: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 65ZE(3): replaced, on 18 July 2013, by [section 39][449] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 #### Other provisions relating to guarantees and indemnities
     
-*   Heading: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65ZF Recovery of money paid under guarantee
     
-*   (1) Any money paid by the Crown under a guarantee given under [section 65ZD][224] or [section 65ZE][187] constitutes a debt due to the Crown from the person, organisation, or government for whom the guarantee was given.
+*   (1) Any money paid by the Crown under a guarantee given under [section 65ZD][230] or [section 65ZE][193] constitutes a debt due to the Crown from the person, organisation, or government for whom the guarantee was given.
     
     (2) A debt referred to in subsection (1)---
         
@@ -4223,20 +4646,20 @@ Borrowing, securities, derivative transactions, investment, banking, and guarant
     
     (3) This section does not limit or affect any other rights that the Crown may have as guarantor.
     
-    Section 65ZF: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZF: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 65ZG Payments in respect of guarantees or indemnities
     
-*   Any money paid by the Crown under a guarantee or indemnity given under [section 65ZD][224] and any expenses incurred by the Crown in relation to the guarantee or indemnity may be incurred without further appropriation, and must be paid without further authority, than this section.
+*   Any money paid by the Crown under a guarantee or indemnity given under [section 65ZD][230] and any expenses incurred by the Crown in relation to the guarantee or indemnity may be incurred without further appropriation, and must be paid without further authority, than this section.
     
-    Compare: 1989 No 44 [ss 18][29], [20][32], [23][35], [33(2), (3)][88], [34][90], [44A(4)][114], [44D][117], [46--48][154], [50--65][159], [70F][243]
+    Compare: 1989 No 44 [ss 18][33], [20][36], [23][39], [33(2), (3)][95], [34][97], [44A(4)][450], [44D][451], [46--48][160], [50--65][165], [70F][249]
     
-    Section 65ZG: inserted, on 25 January 2005, by [section 16][329] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 65ZG: inserted, on 25 January 2005, by [section 16][366] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 7  
 Trust money
     
-*   Part 7 heading: substituted, on 25 January 2005, by [section 17][370] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 7 heading: substituted, on 25 January 2005, by [section 17][452] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 66 Trust money
     
@@ -4266,9 +4689,11 @@ Trust money
     
 *   (1) There shall be established at any bank or banks approved by the Minister a bank account or accounts to be known as Trust Bank Accounts, to be operated and maintained by the Treasury or by a department or any agent appointed by the Treasury.
     
-    (2) All trust money shall be lodged in a Trust Bank Account.
+    (2) All trust money must, as soon as practicable after being identified as trust money, be lodged in a Trust Bank Account.
     
     (3) The Minister or the Treasury may give directions as to any terms and conditions under which a Trust Bank Account may be operated.
+    
+    Section 67(2): replaced, on 18 July 2013, by [section 40][453] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 68 Investment of trust money
     
@@ -4296,7 +4721,7 @@ Trust money
 
 ##### 70 Unclaimed trust money
     
-*   (1) Any trust money that is unclaimed for a period of 1 year (or such longer period as the Minister directs) after having become repayable to the depositor or payable to any other person entitled thereto, shall, together with interest (if any) added thereto pursuant to [section 69][233], be deemed to be public money and shall be transferred to the Crown Bank Account.
+*   (1) Any trust money that is unclaimed for a period of 1 year (or such longer period as the Minister directs) after having become repayable to the depositor or payable to any other person entitled thereto, shall, together with interest (if any) added thereto pursuant to [section 69][239], be deemed to be public money and shall be transferred to the Crown Bank Account.
     
     (2) If any person claims any trust money which has been deemed to be public money under this section, and establishes a claim to the satisfaction of the Treasury, the money shall be paid to that person out of the Crown Bank Account without further appropriation than this section.
 
@@ -4305,100 +4730,100 @@ Security and intelligence departments
 
 \[Repealed\]
     
-*   Part 7A: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 7A: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70A Interpretation
     
 *   \[Repealed\]
     
-    Section 70A: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70A: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Appropriations
     
-*   Heading: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70B Nature of appropriation required
     
 *   \[Repealed\]
     
-    Section 70B: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70B: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70C Estimates
     
 *   \[Repealed\]
     
-    Section 70C: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70C: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Banking and investment
     
-*   Heading: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70D Departmental Bank Accounts
     
 *   \[Repealed\]
     
-    Section 70D: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70D: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70E Payment into Bank Accounts
     
 *   \[Repealed\]
     
-    Section 70E: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70E: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70F Power of Minister or Treasury in relation to Crown Bank Account and Departmental Bank Account
     
 *   \[Repealed\]
     
-    Section 70F: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70F: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 #### Reporting
     
-*   Heading: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Heading: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70G Annual financial statements
     
 *   \[Repealed\]
     
-    Section 70G: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70G: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70H Half-yearly financial statements
     
 *   \[Repealed\]
     
-    Section 70H: repealed, on 21 December 1992, by [section 35][372] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 70H: repealed, on 21 December 1992, by [section 35][455] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 70I Tabling of financial statements
     
 *   \[Repealed\]
     
-    Section 70I: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70I: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70J Information to be provided to Treasury
     
 *   \[Repealed\]
     
-    Section 70J: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70J: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 70K Treasury instructions
     
 *   \[Repealed\]
     
-    Section 70K: repealed, on 25 January 2005, by [section 18][371] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 70K: repealed, on 25 January 2005, by [section 18][454] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ## Part 8  
 General provisions
     
-*   Part 8 heading: substituted, on 25 January 2005, by [section 19][373] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Part 8 heading: substituted, on 25 January 2005, by [section 19][456] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 71AA Delegation of Secretary's powers
     
-*   (1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in [Schedule 1][374] of the State Sector Act 1988) any power---
+*   (1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in [Schedule 1][457] of the State Sector Act 1988) any power---
         
     *   (a) conferred on the Secretary by this Act; or
     
-    *   (b) delegated to the Secretary by the Minister under this Act.
+    *   (b) conferred on the Minister by this Act and delegated to the Secretary by the Minister.
     
-    (2) Without limiting subsection (1), the Secretary may delegate to the persons referred to in subsection (3) any power conferred on the Secretary by [Part 6][151].
+    (2) Without limiting subsection (1), the Secretary may delegate to the persons referred to in subsection (3) any power conferred on the Secretary by [Part 6][157].
     
     (3) The persons are---
         
@@ -4408,11 +4833,13 @@ General provisions
     
     *   (c) the Deputy Governor of the Reserve Bank of New Zealand.
     
-    (4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under [section 41(1)][365] of the State Sector Act 1988\.
+    (4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under [section 41(1)][438] of the State Sector Act 1988\.
     
-    (5) [Section 41(2) to (7)][365] of the State Sector Act 1988 applies in relation to a delegation under this section as if it were a delegation made under section 41(1) of that Act.
+    (5) [Section 41(2) to (7)][438] of the State Sector Act 1988 applies in relation to a delegation under this section as if it were a delegation made under section 41(1) of that Act.
     
-    Section 71AA: inserted, on 25 January 2005, by [section 20][375] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 71AA: inserted, on 25 January 2005, by [section 20][458] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 71AA(1)(b): replaced, on 18 July 2013, by [section 41][459] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 71 Payments on behalf of governments and international organisations
     
@@ -4434,7 +4861,7 @@ General provisions
 
 ##### 73 Payment of fines to local authorities and other organisations that conduct prosecutions
     
-*   (1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, or an organisation named or described in [Schedule 4][274]) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
+*   (1) Subject to subsection (2) and any other provision of any Act, where a local authority, or other organisation (other than a department, an Office of Parliament, a Crown entity, a Schedule 4 organisation, or a Schedule 4A company) that is specifically empowered to do so by any Act, or any person on behalf thereof, prosecutes a person in a court of law in respect of an offence and the prosecution results in the imposition of a fine, the amount of the fine recovered shall be paid to the local authority or other organisation.
     
     (2) There shall be deducted from every amount payable to a local authority or other organisation under subsection (1) a sum equal to 10% thereof, and this sum shall be credited to the Crown Bank Account or a Departmental Bank Account:
     
@@ -4442,17 +4869,19 @@ General provisions
     
     Compare: 1977 No 65 s 103
     
-    Section 73(1): amended, on 25 January 2005, by [section 21][376] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 73(1): amended, on 18 July 2013, by [section 42][460] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 73(2): amended, on 21 December 1992, by [section 37(2)][377] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 73(1): amended, on 25 January 2005, by [section 21][461] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 73(2): amended, on 21 December 1992, by [section 37(2)][462] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 74 Unclaimed money
     
-*   (1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, Crown entity, or organisation named or described in [Schedule 4][274] that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
+*   (1) Unless otherwise provided in any Act, at the end of each financial year any money in any bank account of a department, Office of Parliament, Crown entity, Schedule 4 organisation, or Schedule 4A company that has remained unclaimed for a period of 6 years from the date it was payable to the person entitled thereto, shall be deposited with the Treasury.
     
-    (2) Notwithstanding [section 66][230], all money deposited with the Treasury under subsection (1) shall be public money and be paid into the Crown Bank Account.
+    (2) Notwithstanding [section 66][236], all money deposited with the Treasury under subsection (1) shall be public money and be paid into the Crown Bank Account.
     
-    (3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, or Crown entity concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
+    (3) When money is deposited with the Treasury under subsection (1), the department, Office of Parliament, Crown entity, organisation, or company concerned shall supply the Treasury with such particulars concerning the money as the Treasury requires.
     
     (4) No person shall have any right of action against the Treasury or the Crown in respect of any investment or non-investment of any money to which this section relates.
     
@@ -4462,21 +4891,39 @@ General provisions
     
     Compare: 1977 No 65 s 108
     
-    Section 74(1): amended, on 25 January 2005, by [section 22][378] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 74(1): amended, on 18 July 2013, by [section 43(1)][463] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 74(3): amended, on 21 December 1992, by [section 38][379] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 74(1): amended, on 25 January 2005, by [section 22][464] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 74(3): amended, on 18 July 2013, by [section 43(2)][463] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 75 Minister may exercise powers relating to _bona vacantia_
     
 *   (1) Where any property or right belongs to the Sovereign as _bona vacantia_, the Minister may from time to time on behalf of the Sovereign, exercise any power, function, and right (including any power of disposal) and undertake and perform any obligation, in respect of or in connection with the property or right that could be exercised, undertaken, or performed by the Sovereign.
     
-    (2) Where the Minister or any department, on the application of any persons, performs any act under subsection (1) the Minister or department shall be entitled to charge such person with all reasonable fees and costs incurred.
+    (2) If the Minister or any department or departmental agency, on the application of any person, performs an act under subsection (1), the Minister, department, or departmental agency is entitled to charge the person all reasonable fees and costs incurred.
     
-    (3) Nothing in this section shall derogate from any other enactment or rule of law.
+    (3) Nothing in subsection (1) or (2) limits any other enactment or rule of law.
+    
+    (4) If the Minister, a department, or a departmental agency performs an act under subsection (1) that involves the transfer or disposal of property or a right, that transfer or disposal may be made without further authority than this section.
+    
+    (5) If the Minister, a department, or a departmental agency performs an act under subsection (1) that involves the spending of public money, that money may be paid out of a Crown Bank Account without further authority than this section.
+    
+    (6) Subsections (4) and (5) do not affect the validity of anything done before those subsections come into force.
     
     Compare: 1977 No 65 s 108; 1980 No 7 s 7
     
-    Section 75(1): amended, on 25 January 2005, by [section 23][380] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 75(1): amended, on 25 January 2005, by [section 23][465] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 75(2): replaced, on 18 July 2013, by [section 44(1)][466] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 75(3): amended, on 18 July 2013, by [section 44(2)][466] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 75(4): inserted, on 18 July 2013, by [section 44(3)][466] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 75(5): inserted, on 18 July 2013, by [section 44(3)][466] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 75(6): inserted, on 18 July 2013, by [section 44(3)][466] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 76 Offences
     
@@ -4486,7 +4933,7 @@ General provisions
     
     *   (b) resists or obstructs any person acting in the discharge of that person's functions or duties or in the exercise of that person's powers under this Act.
     
-    (2) Every person commits an offence against this Act who---
+    (2) Every person commits an offence against this Act who,---
         
     *   (a) without reasonable excuse, refuses or neglects to pay any public money into a Crown Bank Account or a Departmental Bank Account; or
     
@@ -4503,26 +4950,34 @@ General provisions
         
     
     Compare: 1977 No 65 s 109
+    
+    Section 76(2): amended, on 18 July 2013, by [section 45][467] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 77 Penalties for offences
     
-*   (1) Every person who commits an offence against subsection (1) of [section 76][257] is liable on summary conviction,---
+*   (1) Every person who commits an offence against subsection (1) of [section 76][263] is liable on conviction,---
         
     *   (a) in the case of an individual, to a fine not exceeding $2,000:
     
     *   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $5,000\.
     
-    (2) Every person who commits an offence against subsection (2) of [section 76][257] is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (2) of [section 76][263] is liable on conviction,---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding $5,000:
     
     *   (b) in the case of a person or organisation other than an individual, to a fine not exceeding $15,000\.
     
     Compare: 1977 No 65 s 110
+    
+    Section 77(1): amended, on 1 July 2013, by [section 413][468] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 77(2): amended, on 1 July 2013, by [section 413][468] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 78 Time for commencing proceedings
     
-*   Notwithstanding [section 14][381] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years from the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][469] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+    
+    Section 78: replaced, on 1 July 2013, by [section 413][468] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 79 Information to be provided to Treasury
     
@@ -4538,13 +4993,17 @@ General provisions
     
     Compare: 1977 No 65 s 111
     
-    Section 79(3): added, on 25 January 2005, by [section 24][382] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 79(3): added, on 25 January 2005, by [section 24][470] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 80 Treasury instructions
     
-*   (1) Subject to the provisions of this Act and of any regulations made under this Act, the Treasury may issue instructions to departments for all or any of the purposes specified in [section 81(1)(a), (ab), (b), (bc), (bd), or (c) to (e)][263].
+*   (1) Subject to the provisions of this Act and of any regulations made under this Act, the Treasury may---
+        
+    *   (a) issue instructions to departments or departmental agencies for the purpose specified in [section 81(1)(a)][269]; and
     
-    (2) A chief executive of a department must comply with any instructions issued under this section to the extent that the instructions apply to that department.
+    *   (b) issue instructions to departments for all or any of the purposes specified in [section 81(1)(ab), (b), (bc), (bd), and (c) to (e)][269].
+    
+    (2) A chief executive of a department or departmental agency must comply with any instructions issued under this section to the extent that the instructions apply to that department or departmental agency.
     
     (3) Despite subsections (1) and (2), the Treasury may issue instructions under this section to an intelligence and security department---
         
@@ -4554,13 +5013,17 @@ General provisions
     
     (4) The Treasury must publish the instructions on the Internet as soon as practicable after issuing them.
     
-    Section 80: substituted, on 25 January 2005, by [section 25][383] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 80: substituted, on 25 January 2005, by [section 25][471] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 80(1): replaced, on 18 July 2013, by [section 46(1)][472] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 80(2): amended, on 18 July 2013, by [section 46(2)][472] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 80A Minister of Finance instructions
     
-*   (1) Subject to the provisions of this Act and of any regulations made under this Act, the Minister may issue instructions under subsection (3) for all or any of the purposes referred to in that subsection, rather than recommend the making of regulations under [section 81][263].
+*   (1) Subject to the provisions of this Act and of any regulations made under this Act, the Minister may issue instructions under subsection (3) for all or any of the purposes referred to in that subsection, rather than recommend the making of regulations under [section 81][269].
     
-    (2) In deciding whether to issue instructions under subsection (3) rather than recommend the making of regulations under [section 81][263], the Minister must have regard to only---
+    (2) In deciding whether to issue instructions under subsection (3) rather than recommend the making of regulations under [section 81][269], the Minister must have regard to only---
         
     *   (a) the importance of the instructions, including whether the instructions have a material effect on the rights and interests of individuals:
     
@@ -4570,47 +5033,57 @@ General provisions
     
     (3) The Minister may issue instructions,---
         
-    *   (a) for all or any of the purposes specified in [section 81(1)(ac) or (ba)][263], to---
+    *   (a) for all or any of the purposes specified in [section 81(1)(ac) or (ba)][269], to---
             
         *   (i) a department; or
         
+        *   (ia) a departmental agency; or
+        
         *   (ii) an Office of Parliament; or
         
-        *   (iii) an organisation named or described in [Schedule 4][274]; and
+        *   (iii) a Schedule 4 organisation; or
+        
+        *   (iv) a Schedule 4A company; and
         
         
     
-    *   (b) for all or any of the purposes specified in [section 81(1)(a), (b), or (c)][263], to an entity referred to in [section 27(3)(a) to (f)][76].
+    *   (b) for all or any of the purposes specified in [section 81(1)(a), (b), or (c)][269], to an entity referred to in [section 27(3)(a) to (f)][83].
     
-    (4) A chief executive of a department, an Office of Parliament, an organisation named or described in [Schedule 4][274], or an entity referred to in [section 27(3)(a) to (f)][76] must comply with any instructions issued under this section to the extent that the instructions apply to that department, Office, organisation, or entity.
+    (4) A chief executive of a department, a departmental agency, an Office of Parliament, a Schedule 4 organisation, a Schedule 4A company, or any other entity referred to in [section 27(3)][83] must comply with any instructions issued under this section to the extent that the instructions apply to that department, departmental agency, Office, organisation, company, or entity.
     
-    (5) Any instructions issued under this section for the purposes of [section 81(1)(ba)][263] must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
+    (5) Any instructions issued under this section for the purposes of [section 81(1)(ba)][269] must be consistent, in the opinion of the Minister, with generally accepted accounting practice and any reporting standard imposed by or under any other Act, to the extent that those matters are relevant to those instructions.
     
-    (6) Any instructions issued under this section---
-        
-    *   (a) are to be treated as regulations for the purposes of the [Regulations (Disallowance) Act 1989][384]; but
-    
-    *   (b) are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][385].
+    (6) Instructions issued under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][473] and must be presented to the House of Representatives under [section 41][474] of that Act.
     
     (7) The Minister must notify the instructions in the _Gazette_, and publish them on the Internet, as soon as practicable after issuing them.
     
-    Section 80A: inserted, on 25 January 2005, by [section 25][383] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 80A: inserted, on 25 January 2005, by [section 25][471] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 80A(3)(a)(ia): inserted, on 18 July 2013, by [section 47(1)][475] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 80A(3)(a)(iii): replaced, on 18 July 2013, by [section 47(2)][475] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 80A(3)(a)(iv): inserted, on 18 July 2013, by [section 47(2)][475] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 80A(4): replaced, on 18 July 2013, by [section 47(3)][475] of the Public Finance Amendment Act 2013 (2013 No 50).
+    
+    Section 80A(6): replaced, on 5 August 2013, by [section 77(3)][476] of the Legislation Act 2012 (2012 No 119).
 
 ##### 81 Regulations, Orders in Council, and notices
     
 *   (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
         
-    *   (a) requiring information to be supplied to the Treasury by departments and any entities referred to in [section 27(3)(a) to (f)][76] to enable the Treasury to properly fulfil the functions imposed on it by the Government or any Act:
+    *   (a) requiring information to be supplied to the Treasury by departments, departmental agencies, and any entities referred to in [section 27(3)(a) to (f)][83] to enable the Treasury to properly fulfil the functions imposed on it by the Government or any Act:
     
     *   (ab) prescribing the processes and data standards to be used when supplying the information required under paragraph (a):
     
-    *   (ac) prescribing minimum requirements concerning the publication of information that departments, Offices of Parliament, and organisations named or described in [Schedule 4][274] must publish under this Act:
+    *   (ac) prescribing minimum requirements concerning the publication of information that departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies must publish under this Act:
     
-    *   (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, Crown entities, or organisations named or described in [Schedule 4][274] must apply in their financial reporting:
+    *   (b) prescribing particular accounting policies and financial statement representations that Ministers, departments, Offices of Parliament, Crown entities, Schedule 4 organisations, or Schedule 4A companies must apply in their financial reporting:
     
-    *   (ba) prescribing the non-financial reporting standards that Ministers, departments, Offices of Parliament, or organisations named or described in [Schedule 4][274] must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
+    *   (ba) prescribing the non-financial reporting standards that Ministers, departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, or Schedule 4A companies must apply and the form in which they must provide the information they are required to present to the House of Representatives under this Act:
     
-    *   (bb) specifying the types of guarantees or indemnities that may be given by departments on behalf of or in the name of the Crown under [section 65ZE][225]:
+    *   (bb) specifying the types of guarantees or indemnities that may be given by departments on behalf of or in the name of the Crown under [section 65ZE][231]:
     
     *   (bc) prescribing the terms and conditions that must apply to those guarantees or indemnities referred to in paragraph (bb):
     
@@ -4640,33 +5113,37 @@ General provisions
     
     Compare: 1977 No 65 s 113(1), (1A), (3); 1986 No 67 s 9
     
-    Section 81(1): amended, on 25 January 2005, by [section 26(1)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1): amended, on 25 January 2005, by [section 26(1)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 81(1)(a): amended, on 25 January 2005, by [section 26(2)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(a): amended, on 18 July 2013, by [section 48(1)][478] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 81(1)(ab): inserted, on 25 January 2005, by [section 26(3)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(a): amended, on 25 January 2005, by [section 26(2)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 81(1)(ac): inserted, on 25 January 2005, by [section 26(3)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(ab): inserted, on 25 January 2005, by [section 26(3)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 81(1)(b): substituted, on 25 January 2005, by [section 26(4)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(ac): replaced, on 18 July 2013, by [section 48(2)][478] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 81(1)(ba): inserted, on 25 January 2005, by [section 26(4)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(b): substituted, on 25 January 2005, by [section 26(4)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 81(1)(bb): inserted, on 25 January 2005, by [section 26(4)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(b): amended, on 18 July 2013, by [section 48(3)][478] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 81(1)(bc): inserted, on 25 January 2005, by [section 26(4)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(ba): replaced, on 18 July 2013, by [section 48(4)][478] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    Section 81(1)(bd): inserted, on 25 January 2005, by [section 26(4)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(bb): inserted, on 25 January 2005, by [section 26(4)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
     
-    Section 81(4): added, on 25 January 2005, by [section 26(5)][386] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 81(1)(bc): inserted, on 25 January 2005, by [section 26(4)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 81(1)(bd): inserted, on 25 January 2005, by [section 26(4)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 81(4): added, on 25 January 2005, by [section 26(5)][477] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ##### 82 Consultation and approval requirements for regulations or instructions relating to reporting standards
     
 *   (1) This section applies to---
         
-    *   (a) any regulations that are proposed to be made under [section 81(1)(ba)][263] or any instructions that are proposed to be issued by the Minister to departments or organisations named or described in [Schedule 4][274], under [section 80A][262], for the purposes of section 81(1)(ba); and
+    *   (a) any regulations that are proposed to be made under [section 81(1)(ba)][269] or any instructions that are proposed to be issued by the Minister to departments, departmental agencies, Schedule 4 organisations, or Schedule 4A companies, under [section 80A][268], for the purposes of section 81(1)(ba); and
     
-    *   (b) any regulations that are proposed to be made under [section 81(1)(ac) or (ba)][263] in relation to Offices of Parliament or any instructions that are proposed to be issued by the Minister to Offices of Parliament, under [section 80A][262], for the purposes of section 81(1)(ac) or (ba).
+    *   (b) any regulations that are proposed to be made under [section 81(1)(ac) or (ba)][269] in relation to Offices of Parliament or any instructions that are proposed to be issued by the Minister to Offices of Parliament, under [section 80A][268], for the purposes of section 81(1)(ac) or (ba).
     
     (2) The Minister must prepare and submit to the Speaker a draft of any regulations or instructions to which this section applies.
     
@@ -4678,47 +5155,21 @@ General provisions
     
     (6) The Minister must, as soon as practicable after issuing instructions to which subsection (1) applies, present them to the House of Representatives.
     
-    Compare: 2001 No 10 [s 36][387]
+    Compare: 2001 No 10 [s 36][479]
     
-    Section 82: substituted, on 25 January 2005, by [section 27][388] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 82: substituted, on 25 January 2005, by [section 27][480] of the Public Finance Amendment Act 2004 (2004 No 113).
+    
+    Section 82(1)(a): amended, on 18 July 2013, by [section 49][481] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 83 Abolition of certain accounts
     
-*   (1) The following accounts are hereby abolished:
-        
-    *   (a) the Public Account:
+*   \[Repealed\]
     
-    *   (b) the Consolidated Account:
-    
-    *   (c) the Loans Account:
-    
-    *   (d) the Reserve Account:
-    
-    *   (e) the Loans Redemption Account:
-    
-    *   (f) the Trust Account:
-    
-    *   (g) the Energy Account.
-    
-    (2) All bank accounts forming part of any of the accounts specified in subsection (1) on 1 July 1989 shall be deemed to form part of the Crown Bank Account.
-    
-    (3) Notwithstanding subsection (2), all money held in an imprest account operated by a department on 1 July 1989 shall be transferred to and deemed part of a Departmental Bank Account opened and operated by that department.
-    
-    (4) Notwithstanding subsection (2) all money held in the Public Account to the credit of the Trust Account which is trust money pursuant to [section 66][230] at 1 July 1989 shall be transferred to a Trust Bank Account and dealt with in accordance with [Part 7][229]. Where money is held in the Trust Account on 30 June 1989 but it is uncertain whether such money is public money or trust money under this Act, then notwithstanding section 66, such money shall, at the discretion of the Minister, be deemed to be trust money until no later than 1 January 1990\.
-    
-    (5) Any investment of money relating to subsection (4) shall be deemed to be an investment of trust money under [Part 7][229].
-    
-    (6) Subject to subsections (3) and (4), all money that, if this section had not been passed, would be payable into or out of any of the accounts specified in subsection (1), shall be paid into or out of a Crown Bank Account.
-    
-    (7) Every reference to any of the accounts specified in subsection (1) in any Act, regulation, order, agreement, deed, instruction, application, notice, or other document whatever shall, unless the context otherwise requires, be read as a reference to a Crown Bank Account.
-    
-    Section 83(6): amended, on 25 January 2005, by [section 28][389] of the Public Finance Amendment Act 2004 (2004 No 113).
-    
-    Section 83(7): amended, on 25 January 2005, by [section 28][389] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 83: repealed, on 18 July 2013, by [section 50][482] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 84 Registration of public securities, local authority stock, and other stock
     
-*   Notwithstanding the repeal by [section 87][269] of---
+*   Notwithstanding the repeal by [section 87][275] of---
         
     *   (a) \[Repealed\]
     
@@ -4730,595 +5181,199 @@ General provisions
     
     those provisions shall continue to apply to---
         
-    *   (e) all public securities registered before the date on which regulations made under [section 81(1)(f)][263] come into force:
+    *   (e) all public securities registered before the date on which regulations made under [section 81(1)(f)][269] come into force:
     
     *   (f) \[Repealed\]
     
     *   (g) all other stock.
     
-    Section 84(a): repealed, on 27 July 1996, by [section 15(1)][390] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 84(a): repealed, on 27 July 1996, by [section 15(1)][483] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
     
-    Section 84(f): repealed, on 27 July 1996, by [section 15(1)][390] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
+    Section 84(f): repealed, on 27 July 1996, by [section 15(1)][483] of the Local Government Amendment Act (No 3) 1996 (1996 No 83).
 
 ##### 85 Government stock in United Kingdom
     
-*   (1) Notwithstanding section 163 or any other provision of the Public Finance Act 1977 or any other provision of this Act, sections 2, 41 to 47, and 49 of the New Zealand Loans Act 1953 shall continue to have effect in respect of all New Zealand Government securities (as defined in that Act) that---
-        
-    *   (a) have been registered with the Bank of England in the United Kingdom before the day this Act comes into force; and
+*   \[Repealed\]
     
-    *   (b) have not been transferred to the register kept in New Zealand pursuant to section 44 of that Act---
-    
-    as if the Public Finance Act 1977 and this Act had not been passed and as if references in sections 41 and 47 of the New Zealand Loans Act 1953 to the New Zealand Public Account in London were references to the Crown Bank Account and the reference in section 43 of the New Zealand Loans Act 1953 (as amended by section 4(4) of the Public Revenues Amendment Act 1963) to the Consolidated Revenue Account was a reference to the Crown Bank Account.
-    
-    (2) Any New Zealand Government securities transferred to the register kept in New Zealand pursuant to section 44 of the New Zealand Loans Act 1953 shall be deemed to be Government stock issued pursuant to [section 63][178] of this Act.
-    
-    Section 85(2): amended, on 25 January 2005, by [section 29][391] of the Public Finance Amendment Act 2004 (2004 No 113).
+    Section 85: repealed, on 18 July 2013, by [section 51][484] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 86 Consequential amendments
     
-*   (1) The enactments specified in [Schedule 1][271] are hereby amended in the manner indicated in that schedule.
+*   \[Repealed\]
     
-    (2) The amendments to [sections 2][392], [5][393], [9][394], and [10][395] of the Goods and Services Tax Act 1985 specified in [Schedule 1][271] are to apply to supplies made on or after 1 July 1989\.
+    Section 86: repealed, on 18 July 2013, by [section 51][484] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ##### 87 Repeals
     
-*   The enactments specified in [Schedule 2][272] are hereby repealed.
+*   \[Repealed\]
+    
+    Section 87: repealed, on 18 July 2013, by [section 51][484] of the Public Finance Amendment Act 2013 (2013 No 50).
 
-##### 88 Transitional provisions
+##### 88 Application, savings, and transitional provisions relating to amendments to Act
     
-*   (1) Notwithstanding [section 87][269], the provisions of section 52A of the Public Finance Act 1977 and Schedule 5 of that Act shall remain in force until the coming into force of the first Appropriation Act after 1 July 1989 or, in the case of the revolving funds operated by the Department of Internal Affairs, and the Department of Maori Affairs, after 1 July 1990:
+*   (1) The application, savings, and transitional provisions set out in [Schedule 1][277], which relate to amendments made to this Act after 1 January 2013, have effect for the purposes of this Act.
     
-    provided that each revolving fund specified in Schedule 5 shall become a Departmental Bank Account operated by the department specified as the operating department in that schedule.
+    (2) The application, savings, and transitional provisions relating to the amendment Acts specified in the first column of the following table are set out in the Parts of [Schedule 1][277] specified in the second column of the table.
     
-    (2) Notwithstanding [Part 3][75], until 1 July 1991 the financial statements of the Crown prepared pursuant to [sections 27][76] and [28][77] need not include the statements described in section 27(2)(a) and (b) and the statement of cash flows prepared in accordance with section 27(2)(c) shall be a receipts and payments statement.
+    **Amendment Act****Schedule 1 Part**
     
-    (3) Notwithstanding anything in this Act, until the close of 30 June 1993 the Housing Corporation of New Zealand is deemed to be a department for the purposes of [sections 7][15] and [9][17]:
+    Public Finance Amendment Act 2013[Part 1][485]
     
-    provided that nothing in this subsection shall deem the money of Housing New Zealand Corporation to be public money.
+    Public Finance (Fiscal Responsibility) Amendment Act 2013[Part 2][486]
     
-    (4) \[Repealed\]
+    Section 88: replaced, on 18 July 2013, by [section 52][487] of the Public Finance Amendment Act 2013 (2013 No 50).
     
-    (5) Notwithstanding any provision in any Act requiring receipts of any kind to be paid into a Departmental Bank Account, where a department is administering a Vote for which public money is appropriated pursuant to Mode A, the Treasury may direct that such receipts are to be paid into the Crown Bank Account.
-    
-    (6) All money held on behalf of the Crown in an account outside the Public Account (as that term is defined in the Public Finance Act 1977)---
-        
-    *   (a) which is public money pursuant to this Act at 1 July 1989 shall be transferred to and deemed part of the Crown Bank Account or a Departmental Bank Account in accordance with [section 20][32];
-    
-    *   (b) which is trust money pursuant to [section 66][230] at 1 July 1989 shall be transferred to a Trust Bank Account and dealt with in accordance with [Part 7][229].
-    
-    (7) Where money is held on behalf of the Crown in an account outside the Public Account on 30 June 1989 but it is uncertain whether such money is public money or trust money under this Act, then notwithstanding [section 66][230], such money shall, at the discretion of the Minister, be deemed to be trust money until no later than 1 January 1990\.
-    
-    (8) Any investment of money relating to paragraph (a) of subsection (6) shall be deemed to be an investment of public money under [Part 2][45], and any investment of money relating to paragraph (b) of subsection (6) or subsection (7) shall be deemed to be an investment of trust money under [Part 7][229].
-    
-    Section 88(1): amended, on 30 June 1990, by [section 31(1)][396] of the Acts and Regulations Publication Act 1989 (1989 No 142).
-    
-    Section 88(3): amended (with effect on 1 July 1992), on 18 August 1992, by section 16(1) of the Housing Corporation Amendment Act 1992 (1992 No 78).
-    
-    Section 88(3) proviso: amended, on 1 July 2001, by [section 24(1)][397] of the Housing Corporation Amendment Act 2001 (2001 No 37).
-    
-    Section 88(4): repealed (with effect on 1 July 1991), on 12 August 1991, by section 3 of the Public Finance Amendment Act (No 2) 1991 (1991 No 99).
+    Section 88(2): inserted, on 4 September 2013, by [section 12][488] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 ---
 
 ## Schedule 1  
-Enactments consequentially amended
-
-[s 86][268]
-
-##### Accident Compensation Act 1982 (1982 No 181)
-
-_Amendment(s) incorporated in the Act(s)_.
-
-##### Administration Act 1969 (1969 No 52) (RS Vol 19, p 1)
-
-_Amendment(s) incorporated in the [Act(s)][398]._
-
-##### Area Health Boards Act 1983 (1983 No 134)
-
-_Amendment(s) incorporated in the Act(s)_.
-
-##### Armed Forces Discipline Act 1971 (1971 No 53) (RS Vol 23, p 33)
-
-_Amendment(s) incorporated in the [Act(s)][399]._
-
-##### Auckland Agricultural, Pastoral and Industrial Shows Board Act 1972 (1972 No 4 (P))
-
-_Amendment(s) incorporated in the [Act(s)][400]._
-
-##### Bank of New Zealand Act 1988 (1988 No 172)
-
-_Amendment(s) incorporated in the [Act(s)][401]._
-
-##### Chateau Companies Act 1977 (1977 No 4)
-
-_Amendment(s) incorporated in the [Act(s)][402]._
-
-##### Civil Defence Act 1983 (1983 No 46)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Civil List Act 1979 (1979 No 33)
-
-_Amendment(s) incorporated in the [Act(s)][403]._
-
-##### Coal Mines Act 1979 (1979 No 21)
-
-_Amendment(s) incorporated in the Act(s)_.
-
-##### Commerce Act 1986 (1986 No 5)
-
-_Amendment(s) incorporated in the [Act(s)][404]._
-
-##### Conservation Act 1987 (1987 No 65)
-
-_Amendment(s) incorporated in the [Act(s)][405]._
-
-##### Contraception, Sterilisation and Abortion Act 1977 (1977 No 112)
-
-_Amendment(s) incorporated in the [Act(s)][406]._
-
-##### Customs Act 1966 (1966 No 19) (RS Vol 2, p 57)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Decimal Currency Act 1964 (1964 No 27) (RS Vol 2, p 277)
-
-_Amendment(s) incorporated in the [Act(s)][407]._
-
-##### Defence Act 1971 (1971 No 52) (RS Vol 23, p 297)
-
-_Amendment(s) incorporated in the Act(s)_.
-
-##### Designs Act 1953 (1953 No 65) (RS Vol 6, p 111)
-
-_Amendment(s) incorporated in the [Act(s)][408]._
-
-##### Development Finance Corporation of New Zealand Act 1986 (1986 No 129)
-
-_Amendment(s) incorporated in the [Act(s)][409]._
-
-##### Diplomatic Privileges and Immunities Act 1968 (1968 No 36) (RS Vol 17, p 171)
-
-_Amendment(s) incorporated in the [Act(s)][410]._
-
-##### District Courts Act 1947 (1947 No 16) (RS Vol 5, p 1)
-
-_Amendment(s) incorporated in the [Act(s)][411]._
-
-##### Dog Control and Hydatids Act 1982 (1982 No 42)
-
-_Amendment(s) incorporated in the Act(s)_.
-
-##### Earthquake and War Damage Act 1944 (1944 No 15) (RS Vol 6, p 207)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Eastwoodhill Trust Act 1975 (1975 No 1 (P))
-
-_Amendment(s) incorporated in the [Act(s)][412]._
-
-##### Education Act 1964 (1964 No 135) (Reprinted 1975, Vol 3, p 1699)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Electoral Act 1956 (1956 No 107) (RS Vol 19, p 159)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Electric Linemen Act 1959 (1959 No 46) (Reprinted 1976, Vol 4, p 3445)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Electrical Registration Act 1979 (1979 No 139)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Electricity Act 1968 (1968 No 125) (RS Vol 6, p 271)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Energy Resources Levy Act 1976 (1976 No 71)
-
-_Amendment(s) incorporated in the [Act(s)][413]._
-
-##### Environment Act 1986 (1986 No 127)
-
-_Amendment(s) incorporated in the [Act(s)][414]._
-
-##### Export Guarantee Act 1964 (1964 No 50) (RS Vol 16, p 129)
-
-_Amendment(s) incorporated in the [Act(s)][415]._
-
-##### External Relations Act 1988 (1988 No 159)
-
-_Amendment(s) incorporated in the [Act(s)][416]._
-
-##### Family Proceedings Act 1980 (1980 No 94)
-
-_Amendment(s) incorporated in the [Act(s)][417]._
-
-##### Finance Act 1971 (1971 No 55) (RS Vol 2, p 537)
-
-_Amendment(s) incorporated in the [Act(s)][418]._
-
-##### Finance Act 1988 (1988 No 107)
-
-_Amendment(s) incorporated in the [Act(s)][419]._
-
-##### Fisheries Act 1983 (1983 No 14)
-
-_Amendment(s) incorporated in the [Act(s)][420]._
-
-##### Fishing Industry Board Act 1963 (1963 No 70) (Reprinted 1976, Vol 5, p 3847)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Gaming and Lotteries Act 1977 (1977 No 84)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Gas Act 1982 (1982 No 27)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Geothermal Energy Act 1953 (1953 No 102) (Reprinted 1975, Vol 3, p 2019)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Goods and Services Tax Act 1985 (1985 No 141) (RS Vol 19, p 369)
-
-_Amendment(s) incorporated in the [Act(s)][394]._
-
-##### Government Life Insurance Corporation Act 1987 (1987 No 70)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
-
-_Amendment(s) incorporated in the [Act(s)][421]._
-
-##### Guardianship Act 1968 (1968 No 63) (RS Vol 9, p 147)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Housing Act 1955 (1955 No 51) (RS Vol 7, p 297)
-
-_Amendment(s) incorporated in the [Act(s)][422]._
-
-##### Human Rights Commission Act 1977 (1977 No 49) (RS Vol 18, p 227)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Hunter Gift for the Settlement of Discharged Soldiers Act 1921 (1921 No 12) (RS Vol 7, p 331)
-
-_Amendment(s) incorporated in the [Act(s)][423]._
-
-##### Industrial Training Levies Act 1978 (1978 No 82)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### International Finance Agreements Act 1961 (1961 No 3) (RS Vol 16, p 207)
-
-_Amendment(s) incorporated in the [Act(s)][424]._
-
-##### Iron and Steel Industry Act 1959 (1959 No 100) (RS Vol 9, p 187)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Judicature Act 1908 (1908 No 89) (RS Vol 22, p 107)
-
-_Amendment(s) incorporated in the [Act(s)][425]._
-
-##### Labour Relations Act 1987 (1987 No 77)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Land Act 1948 (1948 No 14) (RS Vol 23, p 559)
-
-_Amendment(s) incorporated in the [Act(s)][426]._
-
-##### Law Commission Act 1985 (1985 No 151)
-
-_Amendment(s) incorporated in the [Act(s)][427]._
-
-##### Local Authorities Loans Act 1956 (1956 No 63) (Reprinted 1974, Vol 3, p 2301)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Local Government Act 1974 (1974 No 66) (RS Vol 20, p 1)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Maori Affairs Act 1953 (1953 No 94) (RS Vol 8, p 1)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Maori Housing Act 1935 (1935 No 34) (RS Vol 8, p 413)
-
-_Amendment(s) incorporated in the [Act(s)][428]._
-
-##### Maori Language Act 1987 (1987 No 176)
-
-_Amendment(s) incorporated in the [Act(s)][429]._
-
-##### Maori Trust Boards Act 1955 (1955 No 37) (RS Vol 8, p 683)
-
-_Amendment(s) incorporated in the [Act(s)][430]._
-
-##### Maori Trustee Act 1953 (1953 No 53) (RS Vol 3, p 393)
-
-_Amendment(s) incorporated in the [Act(s)][431]._
-
-##### Marine Pollution Act 1974 (1974 No 14)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Marketing Act 1936 (1936 No 5) (RS Vol 10, p 1)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Marketing Amendment Act 1937 (1937 No 21) (RS Vol 10, p 14)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Marketing Amendment Act 1939 (1939 No 40) (RS Vol 10, p 20)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Meat Export Control Act 1921--22 (1921--22 No 73) (RS Vol 3, p 601)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Mining Act 1971 (1971 No 25) (RS Vol 17, p 355)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Ministry of Energy Act 1977 (1977 No 33) (RS Vol 21, p 517)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### National Art Gallery, Museum, and War Memorial Act 1972 (1972 No 11) (RS Vol 23, p 739)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### National Parks Act 1980 (1980 No 66)
-
-_Amendment(s) incorporated in the [Act(s)][432]._
-
-##### National Provident Fund Act 1950 (1950 No 55) (RS Vol 3, p 723)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand 1990 Commission Act 1988 (1988 No 168)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Export-Import Corporation Act 1974 (1974 No 2)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Film Commission Act 1978 (1978 No 61)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Horticulture Export Authority Act 1987 (1987 No 93)
-
-_Amendment(s) incorporated in the [Act(s)][433]._
-
-##### New Zealand Planning Act 1982 (1982 No 17)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Railways Corporation Act 1981 (1981 No 119)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Symphony Orchestra Act 1988 (1988 No 163)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### New Zealand Walkways Act 1975 (1975 No 31)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Noise Control Act 1982 (1982 No 140)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
-
-_Amendment(s) incorporated in the [Act(s)][434]._
-
-##### Palmerston North Showgrounds Act 1974 (1974 No 3 (P))
-
-_Amendment(s) incorporated in the [Act(s)][435]._
-
-##### Patents Act 1953 (1953 No 64) (RS Vol 10, p 563)
-
-_Amendment(s) incorporated in the [Act(s)][436]._
-
-##### Petroleum Act 1937 (1937 No 27) (RS Vol 7, p 647)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Pharmacy Act 1970 (1970 No 143) (RS Vol 21, p 691)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Pork Industry Board Act 1982 (1982 No 138)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Post Office Bank Act 1987 (1987 No 114)
-
-_Amendment(s) incorporated in the [Act(s)][437]._
-
-##### Poultry Board Act 1980 (1980 No 50)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Primary Products Marketing Act 1953 (1953 No 10) (RS Vol 4, p 201)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Private Investigators and Security Guards Act 1974 (1974 No 48)
-
-_Amendment(s) incorporated in the [Act(s)][438]._
-
-##### Property Law Act 1952 (1952 No 51) (RS Vol 22, p 773)
-
-_Amendment(s) incorporated in the [Act(s)][439]._
-
-##### Protection of Personal and Property Rights Act 1988 (1988 No 4)
-
-_Amendment(s) incorporated in the [Act(s)][440]._
-
-##### Public Finance Act 1977 (1977 No 65)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Public Trust Office Act 1957 (1957 No 36) (Reprinted 1976, Vol 5, p 4361)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Public Works Act 1981 (1981 No 35)
-
-_Amendment(s) incorporated in the [Act(s)][441]._
-
-##### Quarries and Tunnels Act 1982 (1982 No 18)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Queen Elizabeth the Second Arts Council of New Zealand Act 1974 (1974 No 67)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Reserve Bank of New Zealand Act 1964 (1964 No 134) (RS Vol 16, p 455)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Reserves Act 1977 (1977 No 66)
-
-_Amendment(s) incorporated in the [Act(s)][442]._
-
-##### Rural Banking and Finance Corporation Act 1974 (1974 No 3)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Scientific and Industrial Research Act 1974 (1974 No 6)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
-
-_Amendment(s) incorporated in the [Act(s)][443]._
-
-##### Southland Electric Power Supply Act 1936 (1936 No 25) (RS Vol 11, p 381)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### State Insurance Act 1963 (1963 No 38) (RS Vol 13, p 611)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Summary Proceedings Act 1957 (1957 No 87) (RS Vol 9, p 583)
-
-_Amendment(s) incorporated in the [Act(s)][444]._
-
-##### Superannuation Schemes Act 1976 (1976 No 3) (RS Vol 13, p 639)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Tourist Hotel Corporation Act 1974 (1974 No 59) (RS Vol 23, p 869)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Trade Marks Act 1953 (1953 No 66) (RS Vol 11, p 563)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Transport Act 1962 (1962 No 135) (RS Vol 16, p 659)
-
-_Amendment(s) incorporated in the [Act(s)][445]._
-
-##### Trustee Banks Restructuring Act 1988 (1988 No 90)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Trustee Companies Management Act 1975 (1975 No 25)
-
-_Amendment(s) incorporated in the [Act(s)][446]._
-
-##### Urban Transport Act 1980 (1980 No 156) (RS Vol 18, p 554)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Valuation of Land Act 1951 (1951 No 19) (RS Vol 21, p 851)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Water and Soil Conservation Act 1967 (1967 No 135) (RS Vol 17, p 783)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Wheat Research Levy Act 1974 (1974 No 5) (RS Vol 23, p 891)
-
-_Amendment(s) incorporated in the Act(s)._
+Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013
+
+[ss 2A][5], [88][276]
+
+*   Schedule 1: replaced, on 18 July 2013, by [section 53][489] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+## Part 1  
+Provisions relating to Public Finance Amendment Act 2013
+    
+*   Schedule 1 Part 1 heading: inserted, on 4 September 2013, by [section 13(2)][490] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+
+##### 1 Interpretation
+    
+*   In this Part,---
+    
+    _2013/14 financial year_ means the financial year ending with 30 June 2014
+    
+    _2014/15 financial year_ means the financial year ending with 30 June 2015
+    
+    _amendment Act_ means the [Public Finance Amendment Act 2013][491]
+    
+    _commencement date_ means the date on which the amendment Act comes into force
+    
+    _new provision_ means a provision of this Act as amended or inserted by the amendment Act, and _new section_ has a corresponding meaning
+    
+    _old provision_ means a provision of this Act as in force immediately before its amendment or repeal by the amendment Act, and _old section_ has a corresponding meaning.
+    
+    Schedule 1 clause 1: amended, on 4 September 2013, by [section 13(3)][490] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+
+#### General application of provisions relating to financial year
+
+##### 2 Amendments made on 1 July 2014 apply to 2014/15 financial year and subsequent financial years
+    
+*   (1) This clause applies to any provision of this Act that---
+        
+    *   (a) relates to a financial year; and
+    
+    *   (b) is amended on 1 July 2014 by [Part 2][492] of the amendment Act.
+    
+    (2) The provision must,---
+        
+    *   (a) to the extent that it relates to the 2014/15 financial year and subsequent financial years, be treated as if it were amended on the commencement date rather than 1 July 2014; and
+    
+    *   (b) to the extent that it relates to previous financial years, be treated as if it were not amended on 1 July 2014\.
+    
+    (3) This clause is subject to [clause 3][493].
+
+##### 3 Multi-category appropriations may be used in 2013/14 financial year
+    
+*   Despite [clause 2][494], in the 2013/14 financial year,---
+        
+    *   (a) old section 7(1) must be read as if it included, as a type of appropriation, a multi-category appropriation described in new section 7A(1)(g) (as inserted by [section 59][495] of the amendment Act); and
+    
+    *   (b) any new provision that relates to a multi-category appropriation must, for the purposes of the multi-category appropriation and any expenses or capital expenditure incurred under it, be treated as if it were amended on the commencement date.
+    
+    
+
+##### 4 Annual report for 2013/14 financial year must include forecast financial statements for 2014/15 financial year
+    
+*   Despite [clause 2][494], old section 45 must be read as if it included a requirement for a department's annual report for the 2013/14 financial year to include forecast financial statements for the 2014/15 financial year that comply with new section 45BA (as inserted by [section 86][496] of the amendment Act).
+
+##### 5 First information on strategic intentions under new section 38 must relate to 2014/15 financial year and subsequent financial years
+    
+*   (1) A department must provide to its responsible Minister, under new section 38 (as inserted by [section 80][497] of the amendment Act), information on its strategic intentions for the 2014/15 financial year and at least the following 3 financial years.
+    
+    (2) A department must comply with subclause (1) not later than the day on which it provides, to its responsible Minister, its annual report for the 2013/14 financial year.
+
+#### Additional transitional provisions applicable to Schedule 4 organisations and Schedule 4A companies
+
+##### 6 Additional transitional provisions applicable to Schedule 4 organisations and Schedule 4A companies
+    
+*   (1) [Clauses 1 to 3][498] of Schedule 1AAA of the Crown Entities Act 2004 (the _CEA transitional schedule_) apply to Schedule 4 organisations and Schedule 4A companies, except that references in clause 1 of the CEA transitional schedule to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
+    
+    (2) If new [section 139][384] of the Crown Entities Act 2004 applies to a Schedule 4 organisation or a Schedule 4A company, then [clause 4][499] of the CEA transitional schedule also applies to the organisation or company, except that references in that clause to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
+
+##### 7 Exception to section 45OA(1)(g) for Crown Fibre Holdings Limited in respect of certain subsidiaries
+    
+*   (1) Despite [section 45OA(1)(g)][143], [section 97][406] of the Crown Entities Act 2004 (which sets out rules that apply to a parent Crown entity in respect of its subsidiaries) does not apply to Crown Fibre Holdings Limited in respect of a specified subsidiary. 
+    
+    (2) For the purposes of subclause (1), _specified subsidiary_ means a subsidiary that, on the commencement date, is a company with no shareholders other than---
+        
+    *   (a) Crown Fibre Holdings Limited; and
+    
+    *   (b) the Crown; and
+    
+    *   (c) 1 of the following:
+            
+        *   (i) Chorus Limited:
+        
+        *   (ii) Enable Services Limited:
+        
+        *   (iii) Northpower Limited:
+        
+        *   (iv) Waikato Networks Limited:
+        
+        *   (v) a wholly owned subsidiary of Chorus Limited, Enable Services Limited, Northpower Limited, or Waikato Networks Limited.
+        
+        
+    
+    (3) This clause is repealed on the close of 30 June 2021\.
+
+##### 8 Application of Crown Entities Act 2004 to Tāmaki Redevelopment Company Limited's statement of intent for 2013/14 financial year
+    
+*   (1) Despite new [section 45OA(1)(n)][143],---
+        
+    *   (a) [sections 138 to 144][385], [145(a)][500] and (b), and [146][501] of the Crown Entities Act 2004 do not apply to TRCL's first statement of intent; and
+    
+    *   (b) [sections 145(c)][500] and [149][502]--- 
+            
+        *   (i) do not apply to TRCL's first statement of intent; but
+        
+        *   (ii) apply to an amendment to TRCL's first statement of intent.
+        
+        
+    
+    (2) If TRCL's first statement of intent includes information described in [section 141(1)(b)][386], (c), (d), (f), (g), or (h) or [section 142(1)(b)][503] (a _specified provision_) of the Crown Entities Act 2004, [section 147][504] of that Act applies as if the information were included in TRCL's first statement of intent under the specified provision.
+    
+    (3) In this clause, _TRCL's first statement of intent_ means Tāmaki Redevelopment Company Limited's statement of intent for the 2013/14 financial year.
+
+## Part 2  
+Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
+    
+*   Schedule 1 Part 2: inserted, on 4 September 2013, by [section 13(4)][490] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
+
+##### 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
+    
+*   (1) In this clause, _commencement date_ means the day on which the [Public Finance (Fiscal Responsibility) Amendment Act 2013][505] comes into force.
+    
+    (2) [Section 26M(3)(c)][61] does not apply to a budget policy statement if the fiscal strategy report most recently presented to the House of Representatives was presented before the commencement date.
+    
+    (3) [Section 26NA(2)(d)][65] does not apply to the first investment statement presented to the House of Representatives under section 26NA.
+    
+    (4) This Part is repealed 4 years after the commencement date.
+    
+    Schedule 1 clause 9: inserted, on 4 September 2013, by [section 13(4)][490] of the Public Finance (Fiscal Responsibility) Amendment Act 2013 (2013 No 67).
 
 ---
 
 ## Schedule 2  
 Enactments repealed
 
-[s 87][269]
+\[Repealed\]
 
-##### Area Health Boards Act 1983 (1983 No 134)
+[s 87][275]
 
-_Amendment(s) incorporated in the Act(s)._
-
-##### Constitution Act 1986 (1986 No 114)
-
-_Amendment(s) incorporated in the [Act(s)][447]._
-
-##### Finance Act (No 4) 1940 (1940 No 30) (RS Vol 2, p 488)
-
-##### Finance Act 1987 (1987 No 200)
-
-_Amendment(s) incorporated in the [Act(s)][448]._
-
-##### Local Authorities Loans Act 1956 (1956 No 63) (Reprinted 1974, Vol 3, p 2301)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Public Finance Act 1977 (1977 No 65)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Public Finance Amendment Act 1980 (1980 No 7)
-
-##### Public Finance Amendment Act 1986 (1986 No 67)
-
-##### Public Finance Amendment Act 1987 (1987 No 49)
-
-##### Public Works Amendment Act (No 2) 1987 (1987 No 67)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Reserve Bank of New Zealand Act 1964 (1964 No 134) (RS Vol 16, p 455)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### Reserve Bank of New Zealand Amendment Act 1977 (1977 No 68) (RS Vol 16, p 514)
-
-_Amendment(s) incorporated in the Act(s)._
-
-##### State-Owned Enterprises Act 1986 (1986 No 124)
-
-_Amendment(s) incorporated in the [Act(s)][449]._
-
-##### State Sector Act 1988 (1988 No 20)
-
-_Amendment(s) incorporated in the [Act(s)][450]._
+*   Schedule 2: repealed, on 18 July 2013, by [section 54][506] of the Public Finance Amendment Act 2013 (2013 No 50).
 
 ---
 
@@ -5329,18 +5384,18 @@ Liabilities, and categories of liabilities, not included in definition of contin
 
 \[Repealed\]
     
-*   Schedule 3: repealed, on 25 January 2005, by [section 31][451] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Schedule 3: repealed, on 25 January 2005, by [section 31][507] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
 ## Schedule 4  
 Organisations for the purposes of subpart 2 of Part 5
 
-[ss 3A][7], [45M][135], [45N][136]
+[ss 3A][8], [45M][139], [45N][140]
 
-*   Schedule 4: substituted, on 25 January 2005, by [section 30][452] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Schedule 4: substituted, on 25 January 2005, by [section 30][508] of the Public Finance Amendment Act 2004 (2004 No 113).
 
-**Note**: A tick alongside the name of an organisation means that the section of the [Crown Entities Act 2004][299] that appears above the tick applies to that organisation.
+**Note**: A tick alongside the name of an organisation means that the section of the [Crown Entities Act 2004][314] that appears above the tick applies to that organisation.
 
 Name or description of organisationSOIAnnual reportSSPSecuritiesBorrowingGuaranteesDerivativesSurplus
 
@@ -5350,27 +5405,15 @@ Agricultural and Marketing Research and Development Trust
 
 Asia New Zealand Foundation ![. ](images/Publicsch4tick.jpg) 
 
-Crown Asset Management Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
-Crown Fibre Holdings Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
-Dispute Resolution Services Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
-Health Benefits Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
 Leadership Development Centre Trust ![. ](images/Publicsch4tick.jpg) 
-
-Learning State Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
 the Māori Trustee ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
 National Pacific Radio Trust![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
-The Network for Learning Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
 New Zealand Fish and Game Council and Fish and Game Councils ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
-New Zealand Game Bird Habitat Trust Board ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+New Zealand Game Bird Habitat Trust Board ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
 New Zealand Government Property Corporation ![. ](images/Publicsch4tick.jpg)
 
@@ -5382,72 +5425,99 @@ Pacific Co-operation Foundation ![. ](images/Publicsch4tick.jpg)
 
 Pacific Island Business Development Trust ![. ](images/Publicsch4tick.jpg) 
 
-Research and Education Advanced Network New Zealand Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
-Reserves Boards as defined in section 2 of the Reserves Act 1977 ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+Reserves Boards as defined in section 2 of the Reserves Act 1977 ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
 
 Road Safety Trust 
 
 Sentencing Council ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)
 
-Southern Response Earthquake Services Limited![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg) 
-
-Tāmaki Redevelopment Company Limited ![. ](images/Publicsch4tick.jpg) ![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
-
 Te Ariki trust 
 
-Transferee companies under the New Zealand Railways Corporation Restructuring Act 1990 in which the Crown holds 50% or more of the issued ordinary shares![. ](images/Publicsch4tick.jpg)![. ](images/Publicsch4tick.jpg) 
+*   Schedule 4: amended, on 18 July 2013, by [section 55][509] of the Public Finance Amendment Act 2013 (2013 No 50).
+*   Schedule 4: amended, on 27 September 2012, by [clause 3][510] of the Public Finance (The Network for Learning Limited) Order 2012 (SR 2012/222).
+*   Schedule 4: amended, on 31 August 2012, by [clause 3][511] of the Public Finance (Tāmaki Redevelopment Company Limited) Order 2012 (SR 2012/250).
+*   Schedule 4: amended, on 18 April 2012, by [clause 3][512] of the Public Finance (Southern Response Earthquake Services Limited) Order 2012 (SR 2012/70).
+*   Schedule 4: amended, on 29 February 2012, by [clause 3][513] of the Public Finance (Crown Asset Management Limited) Order 2012 (SR 2012/15).
+*   Schedule 4: amended, on 1 July 2011, by [clause 3][514] of the Public Finance (Dispute Resolution Services Limited) Order 2011 (SR 2011/230).
+*   Schedule 4: amended, on 1 November 2010, by [section 28][515] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13).
+*   Schedule 4: amended, on 30 July 2010, by [clause 3][516] of the Public Finance (Health Benefits Limited) Order 2010 (SR 2010/212).
+*   Schedule 4: amended, on 1 July 2010, by [clause 3][517] of the Public Finance (Learning State Limited) Order 2010 (SR 2010/133).
+*   Schedule 4: amended, on 14 January 2010, by [clause 3][518] of the Public Finance (Crown Fibre Holdings Limited) Order 2009 (SR 2009/400).
+*   Schedule 4: amended, on 24 December 2009, by [clause 3][519] of the Public Finance (New Zealand Fast Forward Limited) Order 2009 (SR 2009/355).
+*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][520] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+*   Schedule 4: amended, on 4 June 2009, by [section 93(3)][521] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
+*   Schedule 4: amended, on 1 July 2008, by [clause 3][520] of the Public Finance (National Pacific Radio Trust) Order 2008 (SR 2008/167).
+*   Schedule 4: amended, on 1 November 2007, by [section 12][522] of the Sentencing Council Act 2007 (2007 No 25).
+*   Schedule 4: amended, on 11 May 2006, by [clause 3][523] of the Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006 (SR 2006/96).
 
-*   Schedule 4: amended, on 27 September 2012, by [clause 3][453] of the Public Finance (The Network for Learning Limited) Order 2012 (SR 2012/222).
-*   Schedule 4: amended, on 31 August 2012, by [clause 3][454] of the Public Finance (Tāmaki Redevelopment Company Limited) Order 2012 (SR 2012/250).
-*   Schedule 4: amended, on 18 April 2012, by [clause 3][455] of the Public Finance (Southern Response Earthquake Services Limited) Order 2012 (SR 2012/70).
-*   Schedule 4: amended, on 29 February 2012, by [clause 3][456] of the Public Finance (Crown Asset Management Limited) Order 2012 (SR 2012/15).
-*   Schedule 4: amended, on 1 July 2011, by [clause 3][457] of the Public Finance (Dispute Resolution Services Limited) Order 2011 (SR 2011/230).
-*   Schedule 4: amended, on 1 November 2010, by [section 28][458] of the Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13).
-*   Schedule 4: amended, on 30 July 2010, by [clause 3][459] of the Public Finance (Health Benefits Limited) Order 2010 (SR 2010/212).
-*   Schedule 4: amended, on 1 July 2010, by [clause 3][460] of the Public Finance (Learning State Limited) Order 2010 (SR 2010/133).
-*   Schedule 4: amended, on 14 January 2010, by [clause 3][461] of the Public Finance (Crown Fibre Holdings Limited) Order 2009 (SR 2009/400).
-*   Schedule 4: amended, on 24 December 2009, by [clause 3][462] of the Public Finance (New Zealand Fast Forward Limited) Order 2009 (SR 2009/355).
-*   Schedule 4: amended, on 1 July 2009, by [section 30(1)][463] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-*   Schedule 4: amended, on 4 June 2009, by [section 93(3)][464] of the Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98).
-*   Schedule 4: amended, on 1 July 2008, by [clause 3][463] of the Public Finance (National Pacific Radio Trust) Order 2008 (SR 2008/167).
-*   Schedule 4: amended, on 1 November 2007, by [section 12][465] of the Sentencing Council Act 2007 (2007 No 25).
-*   Schedule 4: amended, on 11 May 2006, by [clause 3][466] of the Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006 (SR 2006/96).
+---
+
+## Schedule 4A  
+Non-listed companies in which Crown is majority or sole shareholder
+
+[ss 3AB][9], [45OA][143]
+
+*   Schedule 4A: inserted, on 18 July 2013, by [section 56][524] of the Public Finance Amendment Act 2013 (2013 No 50).
+
+**Note**: A tick alongside the name of a company means that the section of the Crown Entities Act 2004 that appears above the tick applies to that company.
+
+CompanySections of Crown Entities Act 2004 (relating to financial powers)
+
+161162163164165
+
+Crown Asset Management Limited ✓✓✓ 
+
+Crown Fibre Holdings Limited 
+
+Dispute Resolution Services Limited✓✓✓✓ 
+
+Health Benefits Limited✓✓✓✓ 
+
+The Network for Learning Limited 
+
+Research and Education Advanced Network New Zealand Limited✓✓✓✓ 
+
+Southern Response Earthquake Services Limited✓✓ ✓ 
+
+Tāmaki Redevelopment Company Limited✓✓✓✓ 
 
 ---
 
 ## Schedule 5  
 Mixed ownership model companies
 
-[s 45P][140]
+[s 45P][146]
 
-*   Schedule 5: replaced, on 30 June 2012, by [section 10][467] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+*   Schedule 5: replaced, on 30 June 2012, by [section 10][525] of the Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45).
+
+Meridian Energy Limited
 
 Mighty River Power Limited
     
-*   Schedule 5: amended, on 8 March 2013, by [section 8(4)][468] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 5: amended, on 30 August 2013, by [section 8(3)][526] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
+*   Schedule 5: amended, on 8 March 2013, by [section 8(4)][526] of the State-Owned Enterprises Amendment Act 2012 (2012 No 44).
 
 ---
 
 ## Schedule 6  
 Crown entities required to prepare statements of intent
 
-[ss 3A][7], [41C][103], [41D][104], [41I][109]
+[ss 3A][8], [41C][109], [41D][110], [41I][115]
 
 \[Repealed\]
     
-*   Schedule 6: repealed, on 25 January 2005, by [section 31][451] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Schedule 6: repealed, on 25 January 2005, by [section 31][507] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
 ## Schedule 7  
 Crown entities subject to section 16
 
-[s 16][27]
+[s 16][31]
 
 \[Repealed\]
     
-*   Schedule 7: repealed, on 25 January 2005, by [section 31][451] of the Public Finance Amendment Act 2004 (2004 No 113).
+*   Schedule 7: repealed, on 25 January 2005, by [section 31][507] of the Public Finance Amendment Act 2004 (2004 No 113).
 
 ---
 
@@ -5459,7 +5529,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   (1) This Act is the [Public Finance Amendment Act 2004][469].
+*   (1) This Act is the [Public Finance Amendment Act 2004][527].
     
     (2) In this Act, the Public Finance Act 1989 is called ""the principal Act"".
 
@@ -5533,132 +5603,97 @@ Commencementsee section 2
     
 *   Every reference to section 25 of the principal Act that is in a trust deed at the date of commencement of this section must be read as a reference to section 161 of the Crown Entities Act 2004\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Public Finance Act 1989\. The reprint incorporates all the amendments to the Act as at 8 March 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][470] ![](/images/external_link.gif).
+*   This is a reprint of the Public Finance Act 1989 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][471] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][528] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][529] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][472] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][530] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][531] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][473] and [17E][474] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Public Finance (Fiscal Responsibility) Amendment Act 2013][505] (2013 No 67)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Public Finance Amendment Act 2013 (2013 No 50): [Part 1][532]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Legislation Act 2012 (2012 No 119): [section 77(3)][476]
     
+    [Public Finance (Tāmaki Redevelopment Company Limited) Order 2012][533] (SR 2012/250)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    [Public Finance (The Network for Learning Limited) Order 2012][534] (SR 2012/222)
     
-*   State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8][468]
+    [Public Finance (Mixed Ownership Model) Amendment Act 2012][535] (2012 No 45)
     
-    [Public Finance (The Network for Learning Limited) Order 2012][475] (SR 2012/222)
+    State-Owned Enterprises Amendment Act 2012 (2012 No 44): [section 8(1), (3), (4)][526]
     
-    [Public Finance (Tāmaki Redevelopment Company Limited) Order 2012][476] (SR 2012/250)
+    [Public Finance (Southern Response Earthquake Services Limited) Order 2012][536] (SR 2012/70)
     
-    [Public Finance (Mixed Ownership Model) Amendment Act 2012][477] (2012 No 45)
+    [Public Finance (Crown Asset Management Limited) Order 2012][537] (SR 2012/15)
     
-    [Public Finance (Southern Response Earthquake Services Limited) Order 2012][478] (SR 2012/70)
+    [Public Finance Amendment Act 2012][538] (2012 No 17)
     
-    [Public Finance (Crown Asset Management Limited) Order 2012][479] (SR 2012/15)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][468]
     
-    [Public Finance Amendment Act 2012][480] (2012 No 17)
+    Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50): [section 8][440]
     
-    Weathertight Homes Resolution Services (Financial Assistance Package) Amendment Act 2011 (2011 No 50): [section 8][367]
+    [Public Finance (Dispute Resolution Services Limited) Order 2011][539] (SR 2011/230)
     
-    [Public Finance (Dispute Resolution Services Limited) Order 2011][481] (SR 2011/230)
+    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][308]
     
-    Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][294]
+    [Public Finance (Health Benefits Limited) Order 2010][540] (SR 2010/212)
     
-    [Public Finance (Health Benefits Limited) Order 2010][482] (SR 2010/212)
+    [Public Finance Amendment Act 2010][541] (2010 No 78)
     
-    [Public Finance Amendment Act 2010][483] (2010 No 78)
+    [Public Finance (Learning State Limited) Order 2010][542] (SR 2010/133)
     
-    [Public Finance (Learning State Limited) Order 2010][484] (SR 2010/133)
+    [Public Finance (Crown Fibre Holdings Limited) Order 2009][543] (SR 2009/400)
     
-    [Public Finance (Crown Fibre Holdings Limited) Order 2009][485] (SR 2009/400)
+    [Public Finance (New Zealand Fast Forward Limited) Order 2009][544] (SR 2009/355)
     
-    [Public Finance (New Zealand Fast Forward Limited) Order 2009][486] (SR 2009/355)
+    Crown Retail Deposit Guarantee Scheme Act 2009 (2009 No 30): [section 10][436]
     
-    Crown Retail Deposit Guarantee Scheme Act 2009 (2009 No 30): [section 10][363]
+    Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13): [section 28][515]
     
-    Local Government (Tamaki Makaurau Reorganisation) Act 2009 (2009 No 13): [section 28][458]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][545]
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][487]
+    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 93(3)][521]
     
-    Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008 (2008 No 98): [section 93(3)][464]
+    [Public Finance (National Pacific Radio Trust) Order 2008][546] (SR 2008/167)
     
-    [Public Finance (National Pacific Radio Trust) Order 2008][488] (SR 2008/167)
+    Sentencing Council Act 2007 (2007 No 25): [section 12][522]
     
-    Sentencing Council Act 2007 (2007 No 25): [section 12][465]
+    [Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006][547] (SR 2006/96)
     
-    [Public Finance (Research and Education Advanced Network New Zealand Limited) Order 2006][489] (SR 2006/96)
+    [Public Finance Amendment Act 2004][527] (2004 No 113)
     
-    [Public Finance Amendment Act 2004][469] (2004 No 113)
+    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][548]
     
-    Maritime Transport Amendment Act 2004 (2004 No 98): [section 11(3)][490]
-    
-    Local Government Act 2002 (2002 No 84): [section 262][295]
+    Local Government Act 2002 (2002 No 84): [section 262][309]
     
     Housing Corporation Amendment Act 1992 (1992 No 78): section 16(1)
     
-    Public Audit Act 2001 (2001 No 10): [section 53][298]
+    Public Audit Act 2001 (2001 No 10): [section 53][312]
     
-    [Public Finance Amendment Act 2000][491] (2000 No 78)
+    [Public Finance Amendment Act 2000][549] (2000 No 78)
     
-    Treasurer (Statutory References) Act 1997 (1997 No 20): [section 2][296]
+    Treasurer (Statutory References) Act 1997 (1997 No 20): [section 2][310]
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 15(1)][390]
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 15(1)][483]
     
     Public Finance Amendment Act 1994 (1994 No 18)
     
-    [Public Finance Amendment Act 1992][492] (1992 No 142)
+    [Public Finance Amendment Act 1992][550] (1992 No 142)
     
     Housing Corporation Amendment Act 1992 (1992 No 78): section 16(1)
     
@@ -5666,500 +5701,559 @@ Commencementsee section 2
     
     Public Finance Amendment Act 1991 (1991 No 6)
     
-    Acts and Regulations Publication Act 1989 (1989 No 142): [section 31(1)][396]
+    Acts and Regulations Publication Act 1989 (1989 No 142): [section 31(1)][551]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM160811
 [2]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM160814
 [3]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM160817
 [4]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM160819
-[5]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161246
-[6]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161251
-[7]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161247
-[8]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576345
-[9]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576347
-[10]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161253
-[11]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161254
-[12]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161256
-[13]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161261
-[14]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161265
-[15]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161267
-[16]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161271
-[17]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161275
-[18]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161287
-[19]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM3756003
-[20]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161293
-[21]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161296
-[22]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161601
-[23]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161606
-[24]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161607
-[25]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161614
-[26]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161617
-[27]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161621
-[28]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161624
-[29]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161629
-[30]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161631
-[31]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161633
-[32]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161634
-[33]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161636
-[34]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161638
-[35]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161640
-[36]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161643
-[37]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161646
-[38]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161649
-[39]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161651
-[40]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161654
-[41]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161656
-[42]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161658
-[43]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161660
-[44]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161661
-[45]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161663
-[46]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161664
-[47]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161666
-[48]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161668
-[49]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161670
-[50]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161672
-[51]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161673
-[52]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161675
-[53]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161677
-[54]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161679
-[55]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161681
-[56]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161682
-[57]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161684
-[58]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161685
-[59]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161687
-[60]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161688
-[61]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161690
-[62]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161692
-[63]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161694
-[64]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161696
-[65]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161698
-[66]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162000
-[67]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162001
-[68]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162003
-[69]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162005
-[70]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162006
-[71]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162008
-[72]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162009
-[73]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162011
-[74]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162013
-[75]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162015
-[76]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162017
-[77]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162026
-[78]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162030
-[79]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162038
-[80]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162045
-[81]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162049
-[82]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162053
-[83]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162058
-[84]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162064
-[85]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162071
-[86]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162073
-[87]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162077
-[88]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162079
-[89]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162082
-[90]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162083
-[91]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162086
-[92]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162089
-[93]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162098
-[94]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162401
-[95]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162402
-[96]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162407
-[97]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162408
-[98]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162412
-[99]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162418
-[100]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162420
-[101]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162425
-[102]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162430
-[103]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162434
-[104]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162438
-[105]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162443
-[106]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162446
-[107]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162449
-[108]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162452
-[109]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162455
-[110]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162459
-[111]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162463
-[112]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162464
-[113]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162468
-[114]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162472
-[115]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162476
-[116]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162480
-[117]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162483
-[118]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162486
-[119]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162489
-[120]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162492
-[121]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162495
-[122]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162497
-[123]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162499
-[124]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162700
-[125]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162702
-[126]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162704
-[127]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162706
-[128]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162708
-[129]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162709
-[130]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162711
-[131]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162713
-[132]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162715
-[133]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162717
-[134]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162719
-[135]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162721
-[136]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162723
-[137]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162725
-[138]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576351
-[139]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576353
-[140]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576341
-[141]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577910
-[142]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577912
-[143]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577914
-[144]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577916
-[145]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576386
-[146]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577906
-[147]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576397
-[148]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577903
-[149]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577922
-[150]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577924
-[151]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162727
-[152]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162729
-[153]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162730
-[154]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162731
-[155]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162733
-[156]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162735
-[157]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162737
-[158]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162739
-[159]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162740
-[160]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162742
-[161]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162744
-[162]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162746
-[163]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162749
-[164]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162751
-[165]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162752
-[166]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162755
-[167]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162757
-[168]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162759
-[169]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162761
-[170]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162764
-[171]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162767
-[172]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162773
-[173]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162774
-[174]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162778
-[175]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162782
-[176]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162784
-[177]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162785
-[178]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162787
-[179]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162789
-[180]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162791
-[181]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162792
-[182]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162795
-[183]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162799
-[184]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162901
-[185]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162903
-[186]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162904
-[187]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162906
-[188]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162908
-[189]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162910
-[190]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162911
-[191]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162913
-[192]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162915
-[193]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162916
-[194]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162918
-[195]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162920
-[196]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162921
-[197]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162923
-[198]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162925
-[199]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162926
-[200]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162928
-[201]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162930
-[202]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162932
-[203]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162933
-[204]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162935
-[205]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162937
-[206]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162939
-[207]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162941
-[208]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162942
-[209]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162944
-[210]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162945
-[211]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162947
-[212]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162949
-[213]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162950
-[214]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162952
-[215]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162954
-[216]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162956
-[217]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162958
-[218]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162960
-[219]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162962
-[220]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162964
-[221]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162966
-[222]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162968
-[223]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162969
-[224]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162971
-[225]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162973
-[226]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162975
-[227]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162976
-[228]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162978
-[229]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162980
-[230]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162982
-[231]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162983
-[232]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162984
-[233]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162985
-[234]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162987
-[235]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162988
-[236]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162991
-[237]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162994
-[238]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162995
-[239]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162999
-[240]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163103
-[241]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163104
-[242]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163107
-[243]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163110
-[244]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163113
-[245]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163114
-[246]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163117
-[247]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163119
-[248]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163125
-[249]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163128
-[250]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163131
-[251]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163133
-[252]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163135
-[253]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163136
-[254]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163137
-[255]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163141
-[256]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163144
-[257]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163146
-[258]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163147
-[259]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163148
-[260]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163149
-[261]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163151
-[262]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163153
-[263]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163155
-[264]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163164
-[265]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163167
-[266]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163169
-[267]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163173
-[268]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163175
-[269]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163176
-[270]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163177
-[271]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163182
-[272]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163540
-[273]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163541
-[274]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163544
-[275]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163652
-[276]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163731
-[277]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163806
-[278]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM83446
-[279]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327276
-[280]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538213
-[281]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88548
-[282]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM199363
-[283]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129109
-[284]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM319569
-[285]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98444
-[286]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM329641
-[287]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM324802
-[288]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM324804
-[289]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM170872
-[290]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM319999
-[291]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM320101
-[292]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327278
-[293]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78331
-[294]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3701759
-[295]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM174088
-[296]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM408967
-[297]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538214
-[298]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88957
-[299]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM329630
-[300]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330571
-[301]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM97376
-[302]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328137
-[303]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538217
-[304]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98602
-[305]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431296
-[306]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1523394
-[307]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328140
-[308]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538220
-[309]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014907
-[310]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM149788
-[311]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014908
-[312]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014909
-[313]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328405
-[314]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162017
-[315]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328407
-[316]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538221
-[317]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78332
-[318]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328409
-[319]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78333
-[320]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328410
-[321]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328412
-[322]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328413
-[323]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162049
-[324]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328417
-[325]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78338
-[326]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289824
-[327]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162073
-[328]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328418
-[329]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328421
-[330]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM392241
-[331]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014910
-[332]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM391865
-[333]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM187833
-[334]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330501
-[335]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330502
-[336]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330556
-[337]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330562
-[338]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330552
-[339]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330542
-[340]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330543
-[341]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330553
-[342]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330554
-[343]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM444310
-[344]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538222
-[345]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3231064
-[346]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139980
-[347]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139735
-[348]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98028
-[349]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM141381
-[350]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM140991
-[351]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139987
-[352]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM142015
-[353]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM142016
-[354]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98066
-[355]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM103616
-[356]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM104699
-[357]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM104917
-[358]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM106966
-[359]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM426996
-[360]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM435544
-[361]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431912
-[362]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2335717
-[363]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2335747
-[364]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129507
-[365]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129566
-[366]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3913759
-[367]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3389770
-[368]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043505
-[369]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88908
-[370]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328836
-[371]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328839
-[372]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289841
-[373]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328841
-[374]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM130706
-[375]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328843
-[376]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328845
-[377]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289843
-[378]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328846
-[379]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289844
-[380]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328847
-[381]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM311191
-[382]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328848
-[383]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328849
-[384]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195534
-[385]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195097
-[386]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328852
-[387]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88925
-[388]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328853
-[389]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328855
-[390]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM394151
-[391]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328856
-[392]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM81045
-[393]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM81877
-[394]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM82419
-[395]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM82442
-[396]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195519
-[397]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM96736
-[398]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM393014
-[399]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM404099
-[400]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM107516
-[401]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139215
-[402]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM442525
-[403]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM32049
-[404]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88253
-[405]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM106628
-[406]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM18532
-[407]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM351272
-[408]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM281070
-[409]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM99959
-[410]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM388104
-[411]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM242775
-[412]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM109001
-[413]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM439694
-[414]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM99732
-[415]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM353495
-[416]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM138736
-[417]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM39722
-[418]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM404298
-[419]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM133235
-[420]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM66581
-[421]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM446000
-[422]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM291039
-[423]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM193447
-[424]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM325998
-[425]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM144692
-[426]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM250585
-[427]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM87367
-[428]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM219094
-[429]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM124435
-[430]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289314
-[431]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM282037
-[432]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM36962
-[433]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM118160
-[434]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431112
-[435]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM108271
-[436]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM280030
-[437]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM118758
-[438]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM414685
-[439]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM267064
-[440]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM126527
-[441]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM45426
-[442]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM444920
-[443]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM25999
-[444]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM314087
-[445]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM344435
-[446]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431745
-[447]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM94264
-[448]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM125676
-[449]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98662
-[450]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM130770
-[451]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328859
-[452]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328858
-[453]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674103
-[454]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679005
-[455]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414006
-[456]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294104
-[457]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823404
-[458]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2044571
-[459]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109702
-[460]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967302
-[461]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615817
-[462]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539550
-[463]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374406
-[464]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1375859
-[465]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM410063
-[466]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378033
-[467]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538250
-[468]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4326325
-[469]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327268
-[470]: http://www.pco.parliament.govt.nz/reprints/
-[471]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195439
-[472]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[473]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195468
-[474]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195470
-[475]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674110
-[476]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679012
-[477]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538207
-[478]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414000
-[479]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294111
-[480]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014902
-[481]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823411
-[482]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109710
-[483]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043500
-[484]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967309
-[485]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615811
-[486]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539544
-[487]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1583888
-[488]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374400
-[489]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378025
-[490]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM322600
-[491]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78325
-[492]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM288888
+[5]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467767
+[6]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161246
+[7]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161251
+[8]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161247
+[9]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467781
+[10]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576345
+[11]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576347
+[12]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161253
+[13]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161254
+[14]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161256
+[15]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467798
+[16]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161261
+[17]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161265
+[18]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161267
+[19]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467903
+[20]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161271
+[21]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161275
+[22]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161287
+[23]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM3756003
+[24]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161293
+[25]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161296
+[26]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161601
+[27]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161606
+[28]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161607
+[29]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161614
+[30]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161617
+[31]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161621
+[32]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161624
+[33]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161629
+[34]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161631
+[35]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161633
+[36]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161634
+[37]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161636
+[38]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161638
+[39]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161640
+[40]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161643
+[41]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161646
+[42]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161649
+[43]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161651
+[44]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161654
+[45]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161656
+[46]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161658
+[47]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161660
+[48]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161661
+[49]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161663
+[50]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161664
+[51]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161666
+[52]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161668
+[53]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161670
+[54]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161672
+[55]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161673
+[56]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161675
+[57]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161677
+[58]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5602005
+[59]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161679
+[60]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161681
+[61]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161682
+[62]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161684
+[63]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161685
+[64]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5602015
+[65]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5602016
+[66]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161687
+[67]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161688
+[68]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161690
+[69]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161692
+[70]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161694
+[71]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161696
+[72]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM161698
+[73]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162000
+[74]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162001
+[75]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162003
+[76]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162005
+[77]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162006
+[78]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162008
+[79]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162009
+[80]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162011
+[81]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162013
+[82]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162015
+[83]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162017
+[84]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162026
+[85]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162030
+[86]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162038
+[87]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162045
+[88]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162049
+[89]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162053
+[90]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162058
+[91]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162064
+[92]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162071
+[93]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162073
+[94]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162077
+[95]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162079
+[96]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162082
+[97]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162083
+[98]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162089
+[99]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162098
+[100]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162401
+[101]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162402
+[102]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162407
+[103]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162408
+[104]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162412
+[105]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162418
+[106]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162420
+[107]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162425
+[108]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162430
+[109]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162434
+[110]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162438
+[111]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162443
+[112]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162446
+[113]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162449
+[114]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162452
+[115]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162455
+[116]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162459
+[117]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162463
+[118]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162464
+[119]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467966
+[120]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162468
+[121]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162486
+[122]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5467980
+[123]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162489
+[124]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162492
+[125]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162495
+[126]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162497
+[127]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162499
+[128]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162700
+[129]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162702
+[130]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162704
+[131]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162706
+[132]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162708
+[133]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162709
+[134]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162711
+[135]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162713
+[136]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162715
+[137]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162717
+[138]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162719
+[139]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162721
+[140]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162723
+[141]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162725
+[142]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5471100
+[143]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5471101
+[144]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576351
+[145]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576353
+[146]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576341
+[147]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577910
+[148]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577912
+[149]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577914
+[150]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577916
+[151]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576386
+[152]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577906
+[153]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4576397
+[154]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577903
+[155]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577922
+[156]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM4577924
+[157]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162727
+[158]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162729
+[159]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162730
+[160]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162731
+[161]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162733
+[162]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162735
+[163]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162737
+[164]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162739
+[165]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162740
+[166]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162742
+[167]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162744
+[168]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162746
+[169]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162749
+[170]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162751
+[171]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162752
+[172]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162755
+[173]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162757
+[174]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162759
+[175]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162761
+[176]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162764
+[177]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162767
+[178]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162773
+[179]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162774
+[180]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162778
+[181]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162782
+[182]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162784
+[183]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162785
+[184]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162787
+[185]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162789
+[186]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162791
+[187]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162792
+[188]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162795
+[189]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162799
+[190]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162901
+[191]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162903
+[192]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162904
+[193]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162906
+[194]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162908
+[195]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162910
+[196]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162911
+[197]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162913
+[198]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162915
+[199]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162916
+[200]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162918
+[201]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162920
+[202]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162921
+[203]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162923
+[204]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162925
+[205]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162926
+[206]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162928
+[207]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162930
+[208]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162932
+[209]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162933
+[210]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162935
+[211]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162937
+[212]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162939
+[213]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162941
+[214]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162942
+[215]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162944
+[216]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162945
+[217]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162947
+[218]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162949
+[219]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162950
+[220]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162952
+[221]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162954
+[222]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162956
+[223]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162958
+[224]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162960
+[225]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162962
+[226]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162964
+[227]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162966
+[228]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162968
+[229]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162969
+[230]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162971
+[231]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162973
+[232]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162975
+[233]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162976
+[234]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162978
+[235]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162980
+[236]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162982
+[237]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162983
+[238]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162984
+[239]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162985
+[240]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162987
+[241]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162988
+[242]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162991
+[243]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162994
+[244]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162995
+[245]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162999
+[246]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163103
+[247]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163104
+[248]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163107
+[249]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163110
+[250]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163113
+[251]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163114
+[252]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163117
+[253]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163119
+[254]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163125
+[255]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163128
+[256]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163131
+[257]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163133
+[258]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163135
+[259]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163136
+[260]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163137
+[261]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163141
+[262]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163144
+[263]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163146
+[264]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163147
+[265]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163148
+[266]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163149
+[267]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163151
+[268]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163153
+[269]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163155
+[270]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163164
+[271]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163167
+[272]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163169
+[273]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163173
+[274]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163175
+[275]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163176
+[276]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163177
+[277]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163182
+[278]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163540
+[279]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163541
+[280]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163544
+[281]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5466801
+[282]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163652
+[283]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163731
+[284]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM163806
+[285]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM83446
+[286]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327276
+[287]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326012
+[288]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538213
+[289]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88548
+[290]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM199363
+[291]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129109
+[292]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129547
+[293]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM319569
+[294]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98444
+[295]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM329641
+[296]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5485261
+[297]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5485263
+[298]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM324802
+[299]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM324804
+[300]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM170872
+[301]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162916
+[302]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431112
+[303]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM319999
+[304]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM320101
+[305]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327278
+[306]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326013
+[307]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78331
+[308]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3701759
+[309]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM174088
+[310]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM408967
+[311]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538214
+[312]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88957
+[313]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326048
+[314]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM329630
+[315]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330571
+[316]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326050
+[317]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139726
+[318]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538217
+[319]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98602
+[320]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431296
+[321]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1523394
+[322]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328140
+[323]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326053
+[324]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538220
+[325]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM161256
+[326]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM161656
+[327]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326054
+[328]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326056
+[329]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326060
+[330]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014907
+[331]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326061
+[332]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326062
+[333]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM149788
+[334]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326063
+[335]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681512
+[336]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014908
+[337]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681513
+[338]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681515
+[339]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681517
+[340]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681518
+[341]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014909
+[342]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681521
+[343]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5243402
+[344]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681523
+[345]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326064
+[346]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328405
+[347]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162017
+[348]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328407
+[349]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326065
+[350]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538221
+[351]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78332
+[352]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328409
+[353]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78333
+[354]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328410
+[355]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326066
+[356]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328412
+[357]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326067
+[358]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328413
+[359]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326068
+[360]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162049
+[361]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326069
+[362]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326070
+[363]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289824
+[364]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM162073
+[365]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328418
+[366]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328421
+[367]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326071
+[368]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326072
+[369]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326078
+[370]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM392241
+[371]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014910
+[372]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326080
+[373]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326088
+[374]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326089
+[375]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM391865
+[376]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM187833
+[377]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326091
+[378]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326092
+[379]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326098
+[380]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330501
+[381]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330502
+[382]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330556
+[383]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330562
+[384]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330540
+[385]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330539
+[386]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330542
+[387]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330552
+[388]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330553
+[389]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330554
+[390]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330555
+[391]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM444310
+[392]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326302
+[393]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330317
+[394]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330319
+[395]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330320
+[396]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330321
+[397]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330322
+[398]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330323
+[399]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM319569
+[400]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330328
+[401]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5466937
+[402]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330330
+[403]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330336
+[404]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330338
+[405]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330341
+[406]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330342
+[407]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330344
+[408]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330345
+[409]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330347
+[410]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330355
+[411]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330361
+[412]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330363
+[413]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330368
+[414]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330500
+[415]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330506
+[416]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538222
+[417]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3231064
+[418]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139980
+[419]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139735
+[420]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98028
+[421]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM141381
+[422]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM140991
+[423]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM139987
+[424]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM142015
+[425]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM142016
+[426]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM98066
+[427]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM103616
+[428]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM104699
+[429]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM104917
+[430]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM106966
+[431]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM426996
+[432]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM435544
+[433]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM431912
+[434]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2335717
+[435]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326306
+[436]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2335747
+[437]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129507
+[438]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM129566
+[439]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3913759
+[440]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3389770
+[441]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326307
+[442]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043505
+[443]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326308
+[444]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326310
+[445]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88908
+[446]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326311
+[447]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326312
+[448]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328627
+[449]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326314
+[450]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162472
+[451]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM162483
+[452]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328836
+[453]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326315
+[454]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328839
+[455]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289841
+[456]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328841
+[457]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM130706
+[458]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328843
+[459]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326316
+[460]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326317
+[461]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328845
+[462]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM289843
+[463]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326318
+[464]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328846
+[465]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328847
+[466]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326319
+[467]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326320
+[468]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3360714
+[469]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3360067
+[470]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328848
+[471]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328849
+[472]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326321
+[473]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2997643
+[474]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998573
+[475]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326322
+[476]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998633
+[477]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328852
+[478]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326323
+[479]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM88925
+[480]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328853
+[481]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326324
+[482]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326325
+[483]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM394151
+[484]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326326
+[485]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5603347
+[486]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5603350
+[487]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326327
+[488]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM161601
+[489]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326329
+[490]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5560302
+[491]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326004
+[492]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328668
+[493]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5472755
+[494]: http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html#DLM5472754
+[495]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328562
+[496]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328640
+[497]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328625
+[498]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5466472
+[499]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5466489
+[500]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330546
+[501]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330547
+[502]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330550
+[503]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330543
+[504]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM330548
+[505]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4681500
+[506]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326330
+[507]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328859
+[508]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM328858
+[509]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326331
+[510]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674103
+[511]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679005
+[512]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414006
+[513]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294104
+[514]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823404
+[515]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2044571
+[516]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109702
+[517]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967302
+[518]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615817
+[519]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539550
+[520]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374406
+[521]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1375859
+[522]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM410063
+[523]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378033
+[524]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5326332
+[525]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538250
+[526]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4326325
+[527]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM327268
+[528]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998516
+[529]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998515
+[530]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2998532
+[531]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[532]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM5328666
+[533]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4679012
+[534]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4674110
+[535]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4538207
+[536]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4414000
+[537]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4294111
+[538]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM4014902
+[539]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3823411
+[540]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3109710
+[541]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM3043500
+[542]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2967309
+[543]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2615811
+[544]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM2539544
+[545]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1583888
+[546]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM1374400
+[547]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM378025
+[548]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM322600
+[549]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM78325
+[550]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM288888
+[551]: http://www.legislation.govt.nz/act/public/1989/0044/latest/link.aspx?id=DLM195519
