@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -368,9 +368,11 @@ Preliminary
         
         
     
-    (3) Every person who commits an offence against subsection (2) is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000\.
+    (3) Every person who commits an offence against subsection (2) is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000\.
     
     Compare: 1981 No 53 [s 13][76]
+    
+    Section 10(3): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Prohibition of mineral resource activities
@@ -401,7 +403,7 @@ Prohibition of mineral resource activities
     
 *   In this Part, _mineral resource activities_---
         
-    *   (a) means prospecting, exploration, and mining within the meaning of the [Crown Minerals Act 1991][77]:
+    *   (a) means prospecting, exploration, and mining within the meaning of the [Crown Minerals Act 1991][78]:
     
     *   (b) includes logistic support activities in connection with mineral resource activities:
     
@@ -411,9 +413,11 @@ Prohibition of mineral resource activities
 
 ##### 15 Penalties
     
-*   Every person who commits an offence against this Part is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
+*   Every person who commits an offence against this Part is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $200,000, and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues.
     
-    Compare: 1991 No 70 [s 101(1)][78]
+    Compare: 1991 No 70 [s 101(1)][79]
+    
+    Section 15: amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Environmental impact assessment
@@ -566,7 +570,9 @@ Environmental impact assessment
     
     *   (b) who is a New Zealand citizen or a person ordinarily resident in New Zealand.
     
-    (3) Every person who commits an offence against subsection (1) is liable on summary conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000\.
+    (3) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000\.
+    
+    Section 24(3): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Measures for conservation of Antarctic fauna and flora and protected areas
@@ -585,7 +591,7 @@ Measures for conservation of Antarctic fauna and flora and protected areas
     
     _Convention for the Conservation of Antarctic Seals_ means the Convention done at London on 1 June 1972
     
-    _Convention on the Conservation of Antarctic Marine Living Resources_ means the Convention that was opened for signature at Canberra on 1 August 1980, a copy of the English text of which is set out in [Schedule 1][79] of the Antarctic Marine Living Resources Act 1981
+    _Convention on the Conservation of Antarctic Marine Living Resources_ means the Convention that was opened for signature at Canberra on 1 August 1980, a copy of the English text of which is set out in [Schedule 1][80] of the Antarctic Marine Living Resources Act 1981
     
     _harmfully interfere_ has a meaning corresponding to the meaning of harmful interference in Article 1 of Annex II to the Protocol
     
@@ -615,7 +621,7 @@ Measures for conservation of Antarctic fauna and flora and protected areas
     
     (4) Every person commits an offence who does any act in contravention of this section.
     
-    Section 27(3)(a): replaced, on 25 February 2012, by [section 4][80] of the Antarctica (Environmental Protection) Amendment Act 2012 (2012 No 3).
+    Section 27(3)(a): replaced, on 25 February 2012, by [section 4][81] of the Antarctica (Environmental Protection) Amendment Act 2012 (2012 No 3).
 
 ##### 28 Acts prohibited except in accordance with permit
     
@@ -697,7 +703,7 @@ Measures for conservation of Antarctic fauna and flora and protected areas
 
 ##### 33 Offences
     
-*   (1) Every person who commits an offence against this Part is liable on summary conviction to imprisonment for a term not exceeding 6 months, or a fine not exceeding $100,000\.
+*   (1) Every person who commits an offence against this Part is liable on conviction to imprisonment for a term not exceeding 6 months, or a fine not exceeding $100,000\.
     
     (2) Notwithstanding any other provisions of this Part, any act or omission by any person which occurred---
         
@@ -705,11 +711,13 @@ Measures for conservation of Antarctic fauna and flora and protected areas
     
     *   (b) in accordance with a permit issued by a Party to the Convention for the Conservation of Antarctic Seals in accordance with that Convention; or
     
-    *   (c) in accordance with a permit issued in accordance with the [Antarctic Marine Living Resources Act 1981][81]; or
+    *   (c) in accordance with a permit issued in accordance with the [Antarctic Marine Living Resources Act 1981][82]; or
     
     *   (d) in accordance with a permit issued by a Party to the Convention on the Conservation of Antarctic Marine Living Resources in accordance with that Convention,---
     
     shall not be an offence against this Part.
+    
+    Section 33(1): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Waste disposal
@@ -732,9 +740,11 @@ Waste disposal
 
 ##### 37 Offences
     
-*   (1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000, who acts in contravention of [section 36][42].
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $100,000, who acts in contravention of [section 36][42].
     
     (2) Notwithstanding anything in subsection (1), no person shall be sentenced to imprisonment for any contravention of [section 36][42] unless that person acted with intent to cause the contravention or was reckless or negligent as to whether a contravention would result.
+    
+    Section 37(1): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -757,7 +767,9 @@ Miscellaneous provisions
     
     (2) Every person who commits any act or omission to which this section applies shall supply the Minister, within 60 days, with a full explanation of the act or omission and the reasons for it.
     
-    (3) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who fails to comply with subsection (2).
+    (3) Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who fails to comply with subsection (2).
+    
+    Section 38(3): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Inspectors
 
@@ -789,9 +801,9 @@ Miscellaneous provisions
     
     (5) Any inspector shall, on the expiration of the term of the appointment, or on removal from office, surrender his or her warrant to the Minister.
     
-    (6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of Her Majesty for the purpose of the [State Sector Act 1988][82].
+    (6) No inspector shall, by virtue of appointment as an inspector under this Act, be deemed to be employed in the service of Her Majesty for the purpose of the [State Sector Act 1988][83].
     
-    Compare: 1981 No 53 [s 8(2)--(5)][83]
+    Compare: 1981 No 53 [s 8(2)--(5)][84]
 
 ##### 41 Inspectors' general power of entry and inspection
     
@@ -805,7 +817,7 @@ Miscellaneous provisions
 
 ##### 42 Search and seizure by special inspectors with warrant
     
-*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][84] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3 of Part 4][85] of that Act by a special inspector, is satisfied that there are reasonable grounds for believing that there is on or in any area specified in the application any thing---
+*   (1) Subject to subsection (2), an issuing officer (within the meaning of [section 3][85] of the Search and Surveillance Act 2012) who, on an application made in the manner provided in [subpart 3 of Part 4][86] of that Act by a special inspector, is satisfied that there are reasonable grounds for believing that there is on or in any area specified in the application any thing---
         
     *   (a) in respect of which an offence against this Act has been or may have been committed; or
     
@@ -815,21 +827,21 @@ Miscellaneous provisions
     
     may issue a warrant authorising the entry and search of the area, and the seizure of any such thing that may be found on or in the area.
     
-    (2) The provisions of [Part 4][86] of the Search and Surveillance Act 2012 apply.
+    (2) The provisions of [Part 4][87] of the Search and Surveillance Act 2012 apply.
     
     (3) \[Repealed\]
     
     (4) \[Repealed\]
     
-    Section 42(1): amended, on 1 October 2012, by [section 200(2)(a)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(1): amended, on 1 October 2012, by [section 200(2)(a)][88] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(1): amended, on 1 October 2012, by [section 200(2)(b)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(1): amended, on 1 October 2012, by [section 200(2)(b)][88] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(2): replaced, on 1 October 2012, by [section 200(3)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(2): replaced, on 1 October 2012, by [section 200(3)][88] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(3): repealed, on 1 October 2012, by [section 200(3)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(3): repealed, on 1 October 2012, by [section 200(3)][88] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 42(4): repealed, on 1 October 2012, by [section 200(3)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 42(4): repealed, on 1 October 2012, by [section 200(3)][88] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 43 Search and seizure by special inspectors without warrant
     
@@ -845,11 +857,11 @@ Miscellaneous provisions
     
     may exercise the powers of search and seizure contained in [section 42][51] as if a warrant had been obtained.
     
-    (1A) Subject to subsection (2), the provisions of [Part 4][86] of the Search and Surveillance Act 2012 (except for [subparts 2][88] and [3][85]) apply.
+    (1A) Subject to subsection (2), the provisions of [Part 4][87] of the Search and Surveillance Act 2012 (except for [subparts 2][89] and [3][86]) apply.
     
     (2) Every special inspector who seizes any thing without warrant shall, as soon as reasonably practicable, send a written report to the Minister stating the reasons for the seizure without warrant.
     
-    Section 43(1A): inserted, on 1 October 2012, by [section 200(4)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 43(1A): inserted, on 1 October 2012, by [section 200(4)][88] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 44 Obligations of inspectors
     
@@ -883,7 +895,7 @@ Miscellaneous provisions
     
     *   (f) shall report any offence or suspected offence to the Police as soon as practicable.
     
-    Section 44: amended, on 1 October 2012, by [section 200(5)][87] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 44: amended, on 1 October 2012, by [section 200(5)][88] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 45 Arrest by special inspectors without warrant
     
@@ -901,7 +913,7 @@ Miscellaneous provisions
     
     (3) Every special inspector who arrests any person without warrant shall, as soon as reasonably practicable,---
         
-    *   (a) arrange for an information to be laid in respect of the offence; and
+    *   (a) arrange for a charging document to be filed in respect of the offence; and
     
     *   (b) deliver the arrested person into the custody of a constable; and
     
@@ -915,45 +927,61 @@ Miscellaneous provisions
     
     *   (b) where it is not reasonably practicable to so specify at that time, specifies as soon as possible thereafter.
     
-    (6) [Sections 32(3)][89], 32(4), [33(1)][90], 33(2), [36][91], [37(1)][92], 37(3), and 37(4) of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or a District Court were a reference to a special inspector, and with any other necessary modifications.
+    (6) [Sections 31(1)][90], [31(4)][90], [32(1)][91], [32(2)][91], [37][92], and [38][93] of the Bail Act 2000 apply to every grant of bail under this section as if every reference to a constable, a Registrar, or a District Court were a reference to a special inspector, and with any other necessary modifications.
     
-    Compare: 1989 No 18 [s 36A][93]; 1991 No 18 [s 14][94]; 1991 No 100 s 5
+    Compare: 1989 No 18 [s 36A][94]; 1991 No 18 [s 14][95]; 1991 No 100 s 5
     
-    Section 45(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
+    Section 45(3)(a): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 45(6): substituted, on 1 January 2001, by [section 74(2)][96] of the Bail Act 2000 (2000 No 38).
+    Section 45(3)(b): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
     
-    Section 45(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][95] of the Policing Act 2008 (2008 No 72).
+    Section 45(6): substituted, on 1 January 2001, by [section 74(2)][97] of the Bail Act 2000 (2000 No 38).
+    
+    Section 45(6): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 45(6): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][96] of the Policing Act 2008 (2008 No 72).
 
 ##### 46 Custody of property seized
     
 *   (1) Any thing seized under this Act shall be held in the custody of the Crown until---
         
-    *   (a) a decision is made not to lay any information in respect of the alleged offence for which the thing was seized; or
+    *   (a) a decision is made not to file a charging document in respect of the alleged offence for which the thing was seized; or
     
-    *   (b) where such an information is laid, the completion of the proceedings in respect of the alleged offence for which the thing was seized, or such other time as the court may determine,---
+    *   (b) where such a charging document is filed, the completion of the proceedings in respect of the alleged offence for which the thing was seized, or such other time as the court may determine,---
     
     and shall then be returned to the person entitled to possession of the thing.
     
-    (2) The special inspector shall decide whether or not to arrange for an information to be laid in respect of an alleged offence for which any thing is seized pursuant to this Act as soon as reasonably practicable after the thing is seized.
+    (2) The special inspector shall decide whether or not to arrange for a charging document to be filed in respect of an alleged offence for which any thing is seized pursuant to this Act as soon as reasonably practicable after the thing is seized.
     
     (3) The person from whom the thing was seized, or the owner or person entitled to possession of the thing seized, may---
         
-    *   (a) apply to the Minister (if no decision has been made whether or not to lay an information); or
+    *   (a) apply to the Minister (if no decision has been made whether or not to file a charging document); or
     
-    *   (b) apply to the court (if an information has been laid)---
+    *   (b) apply to the court (if a charging document has been filed)---
     
     for the release of the thing to any such person.
     
     (4) The Minister or the court, as the case may be, may order release of the thing under bond in such sum and under such sureties and conditions (if any) as may be specified.
     
-    Compare: 1991 No 18 [ss 16][97], [17(1)][98], [20][99]
+    Compare: 1991 No 18 [ss 16][98], [17(1)][99], [20][100]
+    
+    Section 46(1)(a): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(1)(b): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(2): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(3)(a): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 46(3)(b): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Offence to obstruct inspectors
     
-*   Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,500, who wilfully obstructs, hinders, resists, or deceives any inspector who is carrying out his or her functions under this Act.
+*   Every person commits an offence, and is liable on conviction to a fine not exceeding $1,500, who wilfully obstructs, hinders, resists, or deceives any inspector who is carrying out his or her functions under this Act.
     
-    Compare: 1991 No 69 [ss 338(3)(a)][100], [339(3)][101]
+    Compare: 1991 No 69 [ss 338(3)(a)][101], [339(3)][102]
+    
+    Section 47: amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 48 Observers
     
@@ -963,13 +991,13 @@ Miscellaneous provisions
     
 *   No action or proceedings shall be brought against the Crown, or any inspector, or any observer, or any person acting under the instructions of an inspector, in respect of any act or omission of an inspector or observer while carrying out his or her functions under this Act where that person has acted in good faith and with reasonable care.
     
-    Compare: 1981 No 53 [s 10][102]
+    Compare: 1981 No 53 [s 10][103]
 
 ##### 50 Liability for causing inspector to incur expense
     
 *   Where any person causes an inspector to incur any expense that the inspector would not otherwise have incurred, by failing to comply with or acting in contravention of any provision of this Act or any regulations made under this Act, or by failing to comply with or acting in contravention of any order or direction or requirement or conditions reasonably and properly given or imposed in accordance with this Act or any such regulations, that person shall, upon conviction, reimburse the Crown for the amount of any such expense that is, in the opinion of the convicting court, reasonably and properly incurred, and that amount shall be recoverable from that person in like manner as a fine.
     
-    Compare: 1981 No 53 [s 15][103]
+    Compare: 1981 No 53 [s 15][104]
 
 #### Miscellaneous provisions
 
@@ -999,7 +1027,7 @@ Miscellaneous provisions
     
     (4) A direction or other document is not deemed to have been served or sent or delivered to a person if the person proves that, through no fault on the person's part, the document was not received within the time specified.
     
-    Compare: 1993 No 105 [ss 391][104], [392][105]
+    Compare: 1993 No 105 [ss 391][105], [392][106]
 
 ##### 52 Evidentiary certificates
     
@@ -1021,23 +1049,23 @@ Miscellaneous provisions
     
     (3) For the purposes of this section, a document purporting to be a certificate under this section shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
     
-    Compare: 1960 No 47 [s 6][106]; 1981 No 53 [s 12][107]; 1993 No 48 [s 6][108]
+    Compare: 1960 No 47 [s 6][107]; 1981 No 53 [s 12][108]; 1993 No 48 [s 6][109]
 
 ##### 53 No derogation from certain enactments
     
 *   Nothing in this Act shall derogate from the provisions of---
         
-    *   (a) the [Antarctic Marine Living Resources Act 1981][81]:
+    *   (a) the [Antarctic Marine Living Resources Act 1981][82]:
     
-    *   (b) the [Marine Mammals Protection Act 1978][109]:
+    *   (b) the [Marine Mammals Protection Act 1978][110]:
     
-    *   (c) the [Antarctica Act 1960][110]:
+    *   (c) the [Antarctica Act 1960][111]:
     
-    *   (d) the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][111]:
+    *   (d) the [Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977][112]:
     
     *   (e) Ross Dependency Whaling Regulations 1929, as published in the _Gazette_ on 31 October 1929 at pages 2747 and 2748\.
     
-    Compare: 1981 No 53 [s 16][112]
+    Compare: 1981 No 53 [s 16][113]
     
     Section 53(d): amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
 
@@ -1045,7 +1073,7 @@ Miscellaneous provisions
     
 *   (1) The Governor-General may from time to time, by Order in Council, declare, for the purpose of implementing or giving better effect to Annex IV of the Protocol, that---
         
-    *   (a) any provisions of the [Maritime Transport Act 1994][113]; and
+    *   (a) any provisions of the [Maritime Transport Act 1994][114]; and
     
     *   (b) any marine protection rules made under that Act,---
     
@@ -1057,13 +1085,13 @@ Miscellaneous provisions
     
     *   (b) the power to make marine protection rules under that Act; or
     
-    *   (c) the application of other provisions of this Act in respect of an offence against the [Maritime Transport Act 1994][113] or marine protection rules made under that Act to which this section applies.
+    *   (c) the application of other provisions of this Act in respect of an offence against the [Maritime Transport Act 1994][114] or marine protection rules made under that Act to which this section applies.
     
     (3) In this section,---
     
     _Antarctic waters_ means the territorial sea of New Zealand adjacent to the Ross Dependency and other seas south of 60 degrees south latitude
     
-    _territorial sea_ means the territorial sea of New Zealand as provided for in [section 3][114] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
+    _territorial sea_ means the territorial sea of New Zealand as provided for in [section 3][115] of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977\.
     
     Section 54(3) **territorial sea**: amended, on 1 August 1996, pursuant to section 5(4) of the Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74).
 
@@ -1099,17 +1127,19 @@ Miscellaneous provisions
     
     *   (b) if made on or after 1 July in any year, expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
     
-    (4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the summary conviction of any offender, not exceeding in any case a fine of $5,000\.
+    (4) Any regulations made under this section may prescribe offences for contravention of, or non-compliance with, their provisions and penalties, on the conviction of any offender, not exceeding in any case a fine of $5,000\.
     
     (5) No Order in Council shall be made under subsection (1)(g) except on the advice of the Minister given after consultation by that Minister with the Minister for the Environment and the Minister of Conservation and such other Ministers and persons as the Minister considers appropriate.
     
-    Compare: 1990 No 98 [s 42C(2)][115]; 1992 No 75 [s 22][116]; 1993 No 95 [s 151][117]
+    Compare: 1990 No 98 [s 42C(2)][116]; 1992 No 75 [s 22][117]; 1993 No 95 [s 151][118]
+    
+    Section 55(4): amended, on 1 July 2013, by [section 413][77] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Amendments to other Acts
     
 *   (1) The enactments specified in [Schedule 1][68] are hereby amended in the manner indicated in that schedule.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][118]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][119]_.
 
 ##### 57 Repeal and revocations
     
@@ -1128,19 +1158,19 @@ Enactments amended
 
 ##### Antarctica Act 1960 (1960 No 47) (RS Vol 6, p 21)
 
-_Amendment(s) incorporated in the [Act(s)][110]_.
+_Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### Antarctic Marine Living Resources Act 1981 (1981 No 53)
 
-_Amendment(s) incorporated in the [Act(s)][112]_.
+_Amendment(s) incorporated in the [Act(s)][113]_.
 
 ##### Environment Act 1986 (1986 No 127)
 
-_Amendment(s) incorporated in the [Act(s)][119]_.
+_Amendment(s) incorporated in the [Act(s)][120]_.
 
 ##### Marine Mammals Protection Act 1978 (1978 No 80)
 
-_Amendment(s) incorporated in the [Act(s)][120]_.
+_Amendment(s) incorporated in the [Act(s)][121]_.
 
 ---
 
@@ -2103,11 +2133,11 @@ The Parties shall keep under continuing review measures for the conservation of 
 
 ## Appendices to the Annex
 
-### Appendix A Specially protected species
+### Appendix A---Specially protected species
 
 All species of the genus _Arctocephalus_, Fur Seals. _Ommatophoca rossii_, Ross Seal.
 
-### Appendix B Importation of animals and plants
+### Appendix B---Importation of animals and plants
 
 The following animals and plants may be imported into the Antarctic Treaty area in accordance with permits issued under Article 4 of this Annex:
     
@@ -2115,7 +2145,7 @@ The following animals and plants may be imported into the Antarctic Treaty area 
 
 *   (b) laboratory animals and plants including viruses, bacteria, yeasts and fungi.
 
-### Appendix C Precautions to prevent introduction of micro-organisms
+### Appendix C---Precautions to prevent introduction of micro-organisms
     
 *   1 Poultry. No live poultry of other living birds shall be brought into the Antarctic Treaty area. Before dressed poultry is packaged for shipment to the Antarctic Treaty area, it shall be inspected for evidence of disease, such as Newcastle's Disease, tuberculosis, and yeast infection. Any poultry or parts not consumed shall be removed from the Antarctic Treaty area or disposed of by incineration or equivalent means that eliminates risks to native flora and fauna.
 
@@ -2643,76 +2673,6 @@ For the purposes set out in this Annex, any area, including any marine area, may
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][121].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][122] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -2727,23 +2687,23 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Antarctica (Environmental Protection) Act 1994\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Antarctica (Environmental Protection) Act 1994\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][123] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][122] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][124] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][123] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][125] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][124] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][126] and [17E][127] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][125] and [17E][126] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2774,15 +2734,17 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Search and Surveillance Act 2012 (2012 No 24): [section 200][87]
+*   Search and Surveillance Act 2012 (2012 No 24): [section 200][88]
     
-    [Antarctica (Environmental Protection) Amendment Act 2012][128] (2012 No 3)
+    [Antarctica (Environmental Protection) Amendment Act 2012][127] (2012 No 3)
     
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][95]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][77]
     
-    Bail Act 2000 (2000 No 38): [section 74(2)][96]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][96]
     
-    District Courts Amendment Act 1998 (1998 No 76): [section 7][129]
+    Bail Act 2000 (2000 No 38): [section 74(2)][97]
+    
+    District Courts Amendment Act 1998 (1998 No 76): [section 7][128]
     
     [Antarctica (Environmental Protection) Act Commencement Order 1998][70] (SR 1998/1)
     
@@ -2867,56 +2829,55 @@ Amendments, repeals, and miscellaneous provisions
 [74]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM214686
 [75]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM325200
 [76]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52899
-[77]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM242535
-[78]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM246797
-[79]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53009
-[80]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM3558759
-[81]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52828
-[82]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM129109
-[83]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52890
-[84]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136542
-[85]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136781
-[86]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136770
-[87]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136925
-[88]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM4355336
-[89]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68950
-[90]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68953
-[91]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68958
+[77]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM3360714
+[78]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM242535
+[79]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM246797
+[80]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53009
+[81]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM3558759
+[82]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52828
+[83]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM129109
+[84]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52890
+[85]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136542
+[86]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136781
+[87]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136770
+[88]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136925
+[89]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM4355336
+[90]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68947
+[91]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68950
 [92]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68959
-[93]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM146586
-[94]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228982
-[95]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM1102349
-[96]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM69643
-[97]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228984
-[98]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228985
-[99]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228988
-[100]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM239038
-[101]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM239042
-[102]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52896
-[103]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53004
-[104]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM323276
-[105]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM323277
-[106]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM325219
-[107]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52898
-[108]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM302525
-[109]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM25110
-[110]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM325093
-[111]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM442578
-[112]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53005
-[113]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM334659
-[114]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM442665
-[115]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM216397
-[116]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM268593
-[117]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM316707
-[118]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM314314
-[119]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM99782
-[120]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM25367
-[121]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM2136500
-[122]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM4686448
-[123]: http://www.pco.parliament.govt.nz/reprints/
-[124]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195439
-[125]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[126]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195468
-[127]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195470
-[128]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM3558730
-[129]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM427920
+[93]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM68962
+[94]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM146586
+[95]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228982
+[96]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM1102349
+[97]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM69643
+[98]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228984
+[99]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228985
+[100]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM228988
+[101]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM239038
+[102]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM239042
+[103]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52896
+[104]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53004
+[105]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM323276
+[106]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM323277
+[107]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM325219
+[108]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM52898
+[109]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM302525
+[110]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM25110
+[111]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM325093
+[112]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM442578
+[113]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM53005
+[114]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM334659
+[115]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM442665
+[116]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM216397
+[117]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM268593
+[118]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM316707
+[119]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM314314
+[120]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM99782
+[121]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM25367
+[122]: http://www.pco.parliament.govt.nz/reprints/
+[123]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195439
+[124]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[125]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195468
+[126]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM195470
+[127]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM3558730
+[128]: http://www.legislation.govt.nz/act/public/1994/0119/latest/link.aspx?id=DLM427920
