@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Primary Industries.
+This Act is administered by the Ministry for Primary Industries.
 
 ---
 
@@ -335,9 +335,9 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
         
     *   (a) the officer shall cause the person to be delivered into the custody of a constable as soon as practicable; and
     
-    *   (b) if the person so delivered into custody is released by a constable without bail pursuant to [section 19A][46] of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be the duties of an enforcement officer and not of a constable.
+    *   (b) if the person so delivered into custody is issued with a summons pursuant to [sections 28 to 30][46] of the Criminal Procedure Act 2011, the duties under [section 31][47] of that Act are the duties of an enforcement officer and not of a constable.
     
-    
+    Section 14(2)(b): replaced, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Powers of seizure
     
@@ -349,21 +349,21 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
     *   (c) any goods that the officer believes on reasonable grounds have been acquired or are to be supplied in contravention of [section 11][13].
     
-    (2) Subject to [section 18][21], [subparts 1][39], [5][41], [6][47], [7][42], [9][43], and [10][44] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under this section.
+    (2) Subject to [section 18][21], [subparts 1][39], [5][41], [6][49], [7][42], [9][43], and [10][44] of Part 4 of the Search and Surveillance Act 2012 apply in respect of any property seized under this section.
     
-    Section 15(2): inserted, on 1 October 2012, by [section 236][48] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 15(2): inserted, on 1 October 2012, by [section 236][50] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 16 Custody of property seized
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 16: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 17 Release of property by Director-General
     
 *   \[Repealed\]
     
-    Section 17: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 17: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 18 Spoilage or deterioration of fish, etc, seized
     
@@ -375,25 +375,25 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
 *   \[Repealed\]
     
-    Section 19: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 19: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 20 Release of property by court
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 20: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 21 Final release of seized property
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 21: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 22 Persons assisting enforcement officer
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 1 October 2012, by [section 237][49] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 22: repealed, on 1 October 2012, by [section 237][51] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 23 Protection of enforcement officers and assistants from liability
     
@@ -405,7 +405,7 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 October 2012, by [section 238][50] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 24: repealed, on 1 October 2012, by [section 238][52] of the Search and Surveillance Act 2012 (2012 No 24).
 
 #### Proceedings for offences, etc
 
@@ -447,9 +447,13 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
 *   (1) Any offence against this Act that is committed within New Zealand fisheries waters, or within the Convention Area by a New Zealand citizen or by use of a New Zealand vessel, shall be deemed to have been committed in New Zealand.
     
-    (2) Every offence against this Act shall be punishable on summary conviction.
+    (2) \[Repealed\]
     
-    (3) Notwithstanding [section 14][51] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+    (3) Despite anything to the contrary in [section 25][53] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+    
+    Section 26(2): repealed, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 26(3): replaced, on 1 July 2013, by [section 413][48] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27 Strict liability
     
@@ -501,7 +505,7 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
     *   (b) a certificate purporting to be signed by the Director-General or any officer authorised by the Director-General for that purpose to the effect that, on a date specified in the certificate,---
             
-        *   (i) a vessel specified in the certificate was or was not registered under [section 57][52] of the Fisheries Act 1983; or
+        *   (i) a vessel specified in the certificate was or was not registered under [section 57][54] of the Fisheries Act 1983; or
         
         *   (ii) a person specified in the certificate was or was not the owner of a registered fishing vessel specified in the certificate; or
         
@@ -525,7 +529,7 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
         
         
     
-    *   (e) any certificate purporting to be signed by a member of the Armed Forces within the meaning of the [Defence Act 1990][53] and stating---
+    *   (e) any certificate purporting to be signed by a member of the Armed Forces within the meaning of the [Defence Act 1990][55] and stating---
             
         *   (i) the position of any vessel at a date and time specified in the certificate; or
         
@@ -559,9 +563,9 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
     
     (7) The court shall not make an order under subsection (4) or subsection (6) unless it is satisfied that there is a reasonable doubt as to the accuracy or validity of the relevant certificate or copy.
     
-    Section 29(1)(d)(i): amended, on 15 November 2000, by [section 3][54] of the Driftnet Prohibition Amendment Act 2000 (2000 No 60).
+    Section 29(1)(d)(i): amended, on 15 November 2000, by [section 3][56] of the Driftnet Prohibition Amendment Act 2000 (2000 No 60).
     
-    Section 29(1)(d)(ii): amended, on 15 November 2000, by [section 3][54] of the Driftnet Prohibition Amendment Act 2000 (2000 No 60).
+    Section 29(1)(d)(ii): amended, on 15 November 2000, by [section 3][56] of the Driftnet Prohibition Amendment Act 2000 (2000 No 60).
 
 ##### 30 Forfeiture of property on conviction
     
@@ -591,76 +595,6 @@ An Act to prohibit driftnet fishing activities and to implement the Convention f
 
 ---
 
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][55].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][56] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
-
----
-
 #### Contents
     
 *   1General
@@ -675,7 +609,7 @@ Amendments, repeals, and miscellaneous provisions
 
 ###### 1 General
     
-*   This is a reprint of the Driftnet Prohibition Act 1991\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Driftnet Prohibition Act 1991\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][57] ![](/images/external_link.gif).
 
@@ -723,6 +657,8 @@ Amendments, repeals, and miscellaneous provisions
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
 *   Search and Surveillance Act 2012 (2012 No 24): [sections 235--238][45]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][48]
     
     [Driftnet Prohibition Amendment Act 2000][62] (2000 No 60)
     
@@ -778,17 +714,17 @@ Amendments, repeals, and miscellaneous provisions
 [43]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136888
 [44]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136896
 [45]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136965
-[46]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM311305
-[47]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136860
-[48]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM4356300
-[49]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM4356301
-[50]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136969
-[51]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM311191
-[52]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM69445
-[53]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM204972
-[54]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM76227
-[55]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136500
-[56]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM4686448
+[46]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM3360071
+[47]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM3360074
+[48]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM3360714
+[49]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136860
+[50]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM4356300
+[51]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM4356301
+[52]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM2136969
+[53]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM3360067
+[54]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM69445
+[55]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM204972
+[56]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM76227
 [57]: http://www.pco.parliament.govt.nz/reprints/
 [58]: http://www.legislation.govt.nz/act/public/1991/0018/latest/link.aspx?id=DLM195439
 [59]: http://www.pco.parliament.govt.nz/editorial-conventions/
