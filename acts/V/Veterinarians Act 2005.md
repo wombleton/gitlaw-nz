@@ -1,5 +1,5 @@
 Reprint  
-as at 12 December 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry for Primary Industries.
 
@@ -277,7 +277,7 @@ This Act is administered by the Ministry for Primary Industries.
 
 [88][124][][124][Approved and prescribed matters to be notified and available for inspection][124]
 
-[89][125][][125][_Gazette_ notices are regulations under Regulations (Disallowance) Act 1989][125]
+[89][125][][125][Application of Legislation Act 2012 to _Gazette_ notices][125]
 
 [89A][126][][126][Notification of convictions][126]
 
@@ -431,10 +431,6 @@ Preliminary provisions
     _mental or physical condition_ includes, without limitation,---
         
     *   (a) any mental or physical impairment; and
-        
-        > 
-        
-        
     
     *   (b) any condition or impairment caused by alcohol or drug abuse
     
@@ -837,7 +833,7 @@ Registration and practising certificates
 
 ##### 21 Offences relating to registration
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, for the purpose of obtaining registration (either for himself or herself or for any other person),---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, for the purpose of obtaining registration (either for himself or herself or for any other person),---
         
     *   (a) either orally or in writing makes a declaration or representation knowing it to be false or misleading in relation to a material particular; or
     
@@ -845,11 +841,17 @@ Registration and practising certificates
     
     *   (c) provides to the Council or makes use of any document knowing that it is not genuine.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who claims to be registered under [section 12(2)][18] if he or she is registered under [section 14][21].
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who claims to be registered under [section 12(2)][18] if he or she is registered under [section 14][21].
     
-    (3) Every person who breaches [section 19][28] without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+    (3) Every person who breaches [section 19][28] without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
     Compare: 1994 No 107 ss 24, 62(2)
+    
+    Section 21(1): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(2): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 21(3): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Register of veterinarians and other registered persons
 
@@ -945,9 +947,11 @@ Registration and practising certificates
     
     (4) A notification under subsection (3) must be in writing (which may include by way of fax, email, or other electronic means) and made no later than 1 month after the information in the register is no longer current.
     
-    (5) Every person who breaches subsection (3) without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $500\.
+    (5) Every person who breaches subsection (3) without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $500\.
     
     Compare: 1994 No 107 s 18
+    
+    Section 23(5): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 2---Practising certificates
 
@@ -969,7 +973,7 @@ Registration and practising certificates
     
     Compare: 1994 No 107 s 7(1)
     
-    Section 24(2): substituted, on 27 March 2008, by [section 9][174] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 24(2): substituted, on 27 March 2008, by [section 9][175] of the Veterinarians Amendment Act 2008 (2008 No 19).
 
 ##### 25 Consideration of application
     
@@ -1043,7 +1047,7 @@ Registration and practising certificates
     
     *   (b) the date that the Council notifies the applicant under [section 26(3)(d)][38] that it is not satisfied that he or she meets the requirements for the issue of a new certificate.
     
-    Section 28A: inserted, on 12 December 2012, by [section 6][175] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 28A: inserted, on 12 December 2012, by [section 6][176] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 ##### 29 Surrender of certificate if certificate is cancelled or suspended
     
@@ -1069,11 +1073,15 @@ Registration and practising certificates
 
 ##### 31 Offences relating to practising certificates
     
-*   (1) Every registered person who practises as a veterinarian without holding a current practising certificate commits an offence and is liable on summary conviction to a fine not exceeding $10,000\.
+*   (1) Every registered person who practises as a veterinarian without holding a current practising certificate commits an offence and is liable on conviction to a fine not exceeding $10,000\.
     
-    (2) Every person who breaches [section 29][42] without reasonable excuse commits an offence and is liable on summary conviction to a fine not exceeding $2,000\.
+    (2) Every person who breaches [section 29][42] without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $2,000\.
     
     Compare: 1994 No 107 ss 6(2), 62(1)
+    
+    Section 31(1): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 31(2): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Unlawful use of title
 
@@ -1087,17 +1095,21 @@ Registration and practising certificates
     
     *   (c) the word ""veterinary"" with any words, initials, or abbreviations that are intended to cause, or that may reasonably cause, any person to believe that the person using the word ""veterinary"" with those words, initials, or abbreviations is a veterinarian.
     
-    (2) Every person who breaches subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who breaches subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
     
     Compare: 1994 No 107 s 4
+    
+    Section 32(2): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 33 Unlawful use of title of specialist
     
 *   (1) No person, other than a specialist, may use in connection with his or her business, trade, employment, calling, or profession any words, initials, or abbreviations of the title ""specialist"" that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a specialist.
     
-    (2) Every person who breaches subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) Every person who breaches subsection (1) commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
     
     Compare: 1994 No 107 s 5
+    
+    Section 33(2): amended, on 1 July 2013, by section 413 of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 Disciplinary proceedings and medical and competence assessments
@@ -1228,7 +1240,7 @@ Disciplinary proceedings and medical and competence assessments
         
         
     
-    Compare: 2003 No 48 [s 77][176]
+    Compare: 2003 No 48 [s 77][177]
 
 ##### 42 Compliance with requirement to provide information or document
     
@@ -1236,15 +1248,17 @@ Disciplinary proceedings and medical and competence assessments
     
     (2) Subsection (1) does not require a person to provide any information or produce any document that would be privileged in a court of law.
     
-    (3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the [Official Information Act 1982][177] or the [Privacy Act 1993][178]).
+    (3) No person is required to produce to a committee any papers, records, documents, or things if compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on the person by an enactment (other than the [Official Information Act 1982][178] or the [Privacy Act 1993][179]).
     
-    (4) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under [section 41][60],---
+    (4) Every person commits an offence, and is liable on conviction to a fine not exceeding $10,000, who, when required to comply with a notice given under [section 41][60],---
         
     *   (a) refuses or fails without reasonable excuse to comply with the notice; or
     
     *   (b) knowingly or recklessly provides information that is false or misleading in any material particular.
     
-    Compare: 2003 No 48 [s 78][179]
+    Compare: 2003 No 48 [s 78][180]
+    
+    Section 42(4): amended, on 1 July 2013, by section 413 of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 43 Decision of complaints assessment committee
     
@@ -1308,7 +1322,7 @@ Disciplinary proceedings and medical and competence assessments
     
     Compare: 1994 No 107 ss 26(5), (6), 27(3), (4)
     
-    Section 43(2A): inserted, on 27 March 2008, by [section 10][180] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 43(2A): inserted, on 27 March 2008, by [section 10][181] of the Veterinarians Amendment Act 2008 (2008 No 19).
 
 #### Interim suspension
 
@@ -1444,7 +1458,7 @@ Disciplinary proceedings and medical and competence assessments
 
 ##### 48 Council has powers of Commission of Inquiry
     
-*   For the purposes of a disciplinary hearing, the Council has the powers of a commission under the [Commissions of Inquiry Act 1908][181] and the provisions of that Act, except [sections 11][182] and [12][183] (which relate to costs) apply as if the hearing were an inquiry under that Act.
+*   For the purposes of a disciplinary hearing, the Council has the powers of a commission under the [Commissions of Inquiry Act 1908][182] and the provisions of that Act, except [sections 11][183] and [12][184] (which relate to costs) apply as if the hearing were an inquiry under that Act.
     
     Compare: 1994 No 107 s 35
 
@@ -1472,9 +1486,11 @@ Disciplinary proceedings and medical and competence assessments
     
     (4) Subsection (2)(b)(iii) does not apply in relation to the publication of the effect of an order under [section 54(2)][79].
     
-    (5) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who, without lawful excuse, breaches any order made by the Council under subsection (2).
+    (5) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without lawful excuse, breaches any order made by the Council under subsection (2).
     
     Compare: 1994 No 107 s 34
+    
+    Section 49(5): amended, on 1 July 2013, by section 413 of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 50 Grounds for discipline of specified person
     
@@ -1488,7 +1504,7 @@ Disciplinary proceedings and medical and competence assessments
             
             *   (B) any other offence against this or any other Act that has a direct bearing on the veterinary profession; or
             
-            *   (C) an offence against the [Agricultural Compounds and Veterinary Medicines Act 1997][184], the [Animal Welfare Act 1999][168], the [Medicines Act 1981][185], or the [Misuse of Drugs Act 1975][186], or an offence against any regulations made by or under those Acts; and
+            *   (C) an offence against the [Agricultural Compounds and Veterinary Medicines Act 1997][185], the [Animal Welfare Act 1999][168], the [Medicines Act 1981][186], or the [Misuse of Drugs Act 1975][187], or an offence against any regulations made by or under those Acts; and
             
             
         
@@ -1668,9 +1684,9 @@ Disciplinary proceedings and medical and competence assessments
     
     Compare: 1994 No 107 s 41(1)--(4)
     
-    Section 55(2)(d): replaced, on 12 December 2012, by [section 7(1)][187] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 55(2)(d): replaced, on 12 December 2012, by [section 7(1)][188] of the Veterinarians Amendment Act 2012 (2012 No 116).
     
-    Section 55(3A): inserted, on 12 December 2012, by [section 7(2)][187] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 55(3A): inserted, on 12 December 2012, by [section 7(2)][188] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 ##### 56 Interim suspension by Council pending medical assessment
     
@@ -1714,13 +1730,13 @@ Disciplinary proceedings and medical and competence assessments
     
     (2) An assessment must follow the procedure set out in [section 55(2) to (5)][82], and those provisions apply with all necessary modifications, as if the medical examination were an examination by a person qualified to assess the specified person's competence.
     
-    Section 58(1): amended, on 27 March 2008, by [section 11][188] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 58(1): amended, on 27 March 2008, by [section 11][189] of the Veterinarians Amendment Act 2008 (2008 No 19).
 
 ##### 59 Council may require specified person to make practice records available
     
 *   For the purposes of a competence assessment, the Council may inspect a specified person's practice records, and the specified person must make the records available, without charge, for that purpose to any person authorised by the Council to receive them.
     
-    Compare: 2003 No 48 [s 42][189]
+    Compare: 2003 No 48 [s 42][190]
 
 ##### 60 Consequences of competence assessment
     
@@ -1957,7 +1973,7 @@ Conditions of practice and appeals
     
     (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
     
-    (3) [Part 4][190] of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal---
+    (3) [Part 6][191] of the Criminal Procedure Act 2011 applies to the appeal---
         
     *   (a) so far as it is applicable and with all necessary modifications; but
     
@@ -1966,6 +1982,8 @@ Conditions of practice and appeals
     (4) Subsection (3) overrides subsection (2).
     
     Compare: 1994 No 107 s 60
+    
+    Section 72(3): amended, on 1 July 2013, by [section 413][174] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Veterinary Council of New Zealand
@@ -2036,15 +2054,15 @@ Veterinary Council of New Zealand
     
     Compare: 1994 No 107 s 44
     
-    Section 75(e)(ii): amended, on 27 March 2008, by [section 12(1)][191] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 75(e)(ii): amended, on 27 March 2008, by [section 12(1)][192] of the Veterinarians Amendment Act 2008 (2008 No 19).
     
-    Section 75(e)(iii): added, on 27 March 2008, by [section 12(2)][191] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 75(e)(iii): added, on 27 March 2008, by [section 12(2)][192] of the Veterinarians Amendment Act 2008 (2008 No 19).
     
-    Section 75(e)(iv): added, on 27 March 2008, by [section 12(2)][191] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 75(e)(iv): added, on 27 March 2008, by [section 12(2)][192] of the Veterinarians Amendment Act 2008 (2008 No 19).
     
-    Section 75(j)(ii): repealed, on 27 March 2008, by [section 12(3)][191] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 75(j)(ii): repealed, on 27 March 2008, by [section 12(3)][192] of the Veterinarians Amendment Act 2008 (2008 No 19).
     
-    Section 75(j)(iv): repealed, on 27 March 2008, by [section 12(4)][191] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Section 75(j)(iv): repealed, on 27 March 2008, by [section 12(4)][192] of the Veterinarians Amendment Act 2008 (2008 No 19).
 
 ##### 76 Capacity and powers
     
@@ -2080,7 +2098,7 @@ Veterinary Council of New Zealand
     
 *   (1) The Council may, by resolution, appoint 1 or more committees to---
         
-    *   (a) perform any of the Council's functions or duties, or exercise any of the Council's powers, that are delegated to the committee under [clause 17][192] of Schedule 1:
+    *   (a) perform any of the Council's functions or duties, or exercise any of the Council's powers, that are delegated to the committee under [clause 17][193] of Schedule 1:
     
     *   (b) inquire into and report to the Council on any matters within the scope of the Council's functions, duties, or powers that are referred to the committee by the Council.
     
@@ -2156,7 +2174,7 @@ Veterinary Council of New Zealand
     
     (3) The financial year of the Council ends in each year on 31 December or any other day determined by the Minister.
     
-    Section 85(3): amended, on 12 December 2012, by [section 8][193] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 85(3): amended, on 12 December 2012, by [section 8][194] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 ##### 86 Annual report
     
@@ -2187,15 +2205,11 @@ Miscellaneous provisions
     
     (4) The Council may make the documents or 1 or more of the documents relating to an approved or prescribed matter available (for inspection or supply) at any other place the Council determines.
 
-##### 89 _Gazette_ notices are regulations under Regulations (Disallowance) Act 1989
+##### 89 Application of Legislation Act 2012 to _Gazette_ notices
     
-*   Every matter approved or prescribed under this Act that is required to be published in the _Gazette_---
-        
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][194]; but
+*   Every matter approved or prescribed under this Act that is required to be published in the _Gazette_ is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][195] and must be presented to the House of Representatives under [section 41][196] of that Act.
     
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][195].
-    
-    
+    Section 89: replaced, on 5 August 2013, by [section 77(3)][197] of the Legislation Act 2012 (2012 No 119).
 
 ##### 89A Notification of convictions
     
@@ -2203,7 +2217,7 @@ Miscellaneous provisions
         
     *   (a) any offence against---
             
-        *   (i) the [Agricultural Compounds and Veterinary Medicines Act 1997][184]; or
+        *   (i) the [Agricultural Compounds and Veterinary Medicines Act 1997][185]; or
         
         *   (ii) the [Animal Products Act 1999][167]; or
         
@@ -2211,19 +2225,19 @@ Miscellaneous provisions
         
         *   (iv) the [Biosecurity Act 1993][169]; or
         
-        *   (v) the [Food Act 1981][196]; or
+        *   (v) the [Food Act 1981][198]; or
         
-        *   (vi) the [Hazardous Substances and New Organisms Act 1996][197]; or
+        *   (vi) the [Hazardous Substances and New Organisms Act 1996][199]; or
         
-        *   (vii) the [Medicines Act 1981][185]; or
+        *   (vii) the [Medicines Act 1981][186]; or
         
-        *   (viii) the [Misuse of Drugs Act 1975][186]; or
+        *   (viii) the [Misuse of Drugs Act 1975][187]; or
         
         
     
     *   (b) any other offence that is punishable by imprisonment for a term of 3 months or more.
     
-    Section 89A: inserted, on 12 December 2012, by [section 9][198] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 89A: inserted, on 12 December 2012, by [section 9][200] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 #### Evidence
 
@@ -2303,7 +2317,7 @@ Miscellaneous provisions
     
     Compare: 1994 No 107 s 70
     
-    Section 95: amended, on 12 December 2012, by [section 10][199] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Section 95: amended, on 12 December 2012, by [section 10][201] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 #### Service of documents
 
@@ -2417,7 +2431,7 @@ Miscellaneous provisions
 
 ##### 102 Amendment to Schedule 2 of Privacy Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][200]._
+*   _Amendment(s) incorporated in the [Act(s)][202]._
 
 #### Repeals and revocations
 
@@ -2530,7 +2544,7 @@ Further provisions applying to Council and its members
     
     *   (b) the member's successor is elected or appointed.
     
-    (4) This clause is subject to [clause 4][201].
+    (4) This clause is subject to [clause 4][203].
     
     Compare: 1994 No 107 ss 46--48
 
@@ -2560,9 +2574,9 @@ Further provisions applying to Council and its members
         
     *   (a) dies; or
     
-    *   (b) resigns in accordance with [clause 2][202]; or
+    *   (b) resigns in accordance with [clause 2][204]; or
     
-    *   (c) is removed from office in accordance with [clause 3][203] or any other enactment.
+    *   (c) is removed from office in accordance with [clause 3][205] or any other enactment.
     
     (2) Without limiting subclause (1),---
         
@@ -2638,7 +2652,7 @@ Further provisions applying to Council and its members
         
     *   (a) all reasonable efforts have been made to enable each member to participate in the meeting held in this manner; and
     
-    *   (b) the number of members participating constitutes a quorum for a meeting under [clause 12(1)][204]; and
+    *   (b) the number of members participating constitutes a quorum for a meeting under [clause 12(1)][206]; and
     
     *   (c) the members participating in the meeting can hear each other throughout the meeting.
     
@@ -2700,15 +2714,15 @@ Further provisions applying to Council and its members
     
     (2) However, the Council may delegate its powers to hold a hearing, suspend or revoke a practising certificate or registration, or impose penalties or conditions under [Part 3][49] only to a judicial committee.
     
-    Schedule 1 clause 17(2): amended, on 27 March 2008, by [section 13][205] of the Veterinarians Amendment Act 2008 (2008 No 19).
+    Schedule 1 clause 17(2): amended, on 27 March 2008, by [section 13][207] of the Veterinarians Amendment Act 2008 (2008 No 19).
 
 ##### 18 Effect of delegation
     
-*   (1) If any functions, duties, or powers are delegated under [clause 17][192], the delegate may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions and duties, and with the same effect as if the delegate were the Council.
+*   (1) If any functions, duties, or powers are delegated under [clause 17][193], the delegate may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions and duties, and with the same effect as if the delegate were the Council.
     
     (2) A delegate who purports to perform a function or duty, or exercise a power, under a delegation is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation.
     
-    (3) A delegation under [clause 17][192]---
+    (3) A delegation under [clause 17][193]---
         
     *   (a) may be revoked at will by resolution of the Council; and
     
@@ -2730,7 +2744,7 @@ Further provisions applying to Council and its members
 
 ##### 20A Registrar's ability to delegate
     
-*   (1) The Registrar may delegate 1 or more of his or her functions, duties, or powers to 1 or more employees of the Council except a function, duty, or power delegated to the Registrar by the Council under [clause 17][192].
+*   (1) The Registrar may delegate 1 or more of his or her functions, duties, or powers to 1 or more employees of the Council except a function, duty, or power delegated to the Registrar by the Council under [clause 17][193].
     
     (2) A delegation must be in writing and may be subject to any conditions that the Registrar thinks fit.
     
@@ -2746,7 +2760,7 @@ Further provisions applying to Council and its members
     
     (6) A delegation under this clause does not cease to have effect merely because the Registrar who made it ceases to hold office.
     
-    Schedule 1 clause 20A: inserted, on 12 December 2012, by [section 11][206] of the Veterinarians Amendment Act 2012 (2012 No 116).
+    Schedule 1 clause 20A: inserted, on 12 December 2012, by [section 11][208] of the Veterinarians Amendment Act 2012 (2012 No 116).
 
 ##### 21 Council may employ employees
     
@@ -2760,7 +2774,7 @@ Further provisions applying to Council and its members
 
 ##### 22 Superannuation or retiring allowance
     
-*   The Council, for the purpose of providing superannuation or retirement allowances to the Registrar or its employees, may subsidise or contribute to any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][207].
+*   The Council, for the purpose of providing superannuation or retirement allowances to the Registrar or its employees, may subsidise or contribute to any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][209].
 
 ---
 
@@ -2774,15 +2788,15 @@ Amendments to Acts
 
 ##### Agricultural Compounds and Veterinary Medicines Act 1997 (1997 No 87)
 
-_Amendment(s) incorporated in the [Act(s)][208]._
+_Amendment(s) incorporated in the [Act(s)][210]._
 
 ##### Animal Welfare Act 1999 (1999 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][209]._
+_Amendment(s) incorporated in the [Act(s)][211]._
 
 ##### Hazardous Substances and New Organisms Act 1996 (1996 No 30)
 
-_Amendment(s) incorporated in the [Act(s)][210]._
+_Amendment(s) incorporated in the [Act(s)][212]._
 
 ##### Meat Act 1981 (1981 No 56)
 
@@ -2790,19 +2804,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Medicines Act 1981 (1981 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][211]._
+_Amendment(s) incorporated in the [Act(s)][213]._
 
 ##### Misuse of Drugs Act 1975 (1975 No 116)
 
-_Amendment(s) incorporated in the [Act(s)][212]._
+_Amendment(s) incorporated in the [Act(s)][214]._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][213]._
+_Amendment(s) incorporated in the [Act(s)][215]._
 
 ##### Securities Act 1978 (1978 No 103)
 
-_Amendment(s) incorporated in the [Act(s)][214]._
+_Amendment(s) incorporated in the [Act(s)][216]._
 
 ## Part 2  
 Amendments to regulations
@@ -2813,7 +2827,7 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Animal Welfare Export Certificate Regulations 1999 (SR 1999/393)
 
-_Amendment(s) incorporated in the [regulations][215]._
+_Amendment(s) incorporated in the [regulations][217]._
 
 ##### Biosecurity (Costs) Regulations 2003 (SR 2003/77)
 
@@ -2821,11 +2835,11 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Biosecurity (Deer and Other Testing Costs) Regulations 1998 (SR 1998/458)
 
-_Amendment(s) incorporated in the [regulations][216]._
+_Amendment(s) incorporated in the [regulations][218]._
 
 ##### Biosecurity (National Bovine Tuberculosis Pest Management Strategy) Order 1998 (SR 1998/179)
 
-_Amendment(s) incorporated in the [order(s)][217]._
+_Amendment(s) incorporated in the [order(s)][219]._
 
 ##### Game Regulations 1975 (SR 1975/174)
 
@@ -2833,80 +2847,41 @@ _Amendment(s) incorporated in the regulations._
 
 ##### Health (Needles and Syringes) Regulations 1998 (SR 1998/254)
 
-_Amendment(s) incorporated in the [regulations][218]._
+_Amendment(s) incorporated in the [regulations][220]._
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Veterinarians Act 2005\. The reprint incorporates all the amendments to the Act as at 12 December 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Veterinarians Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][219] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][221] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][222] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][223] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][224] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][220] and [17E][221] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][197]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Veterinarians Amendment Act 2012][225] (2012 No 116)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Veterinarians Amendment Act 2012][222] (2012 No 116)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][174]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][172]
     
-    [Veterinarians Amendment Act 2008][223] (2008 No 19)
+    [Veterinarians Amendment Act 2008][226] (2008 No 19)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM363862
 [2]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM363863
 [3]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM363864
@@ -3080,53 +3055,56 @@ _Amendment(s) incorporated in the [regulations][218]._
 [171]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM359378
 [172]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1048943
 [173]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989123
-[174]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209213
-[175]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989124
-[176]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203883
-[177]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM64784
-[178]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM296638
-[179]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203884
-[180]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209214
-[181]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139130
-[182]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139172
-[183]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139174
-[184]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM414576
-[185]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM53789
-[186]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM436100
-[187]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989126
-[188]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209215
-[189]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203822
-[190]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM312656
-[191]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209216
-[192]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364904
-[193]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989127
-[194]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195534
-[195]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195097
-[196]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM48686
-[197]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM381221
-[198]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989128
-[199]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989130
-[200]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM298477
-[201]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364687
-[202]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364685
-[203]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364686
-[204]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364698
-[205]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209217
-[206]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989131
-[207]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM143291
-[208]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM414583
-[209]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM49669
-[210]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM385462
-[211]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM53795
-[212]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM436106
-[213]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM324284
-[214]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM324631
-[215]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1088
-[216]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM271447
-[217]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM251988
-[218]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM258076
-[219]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195439
-[220]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195468
-[221]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM195470
-[222]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989116
-[223]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209200
+[174]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM3360714
+[175]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209213
+[176]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989124
+[177]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203883
+[178]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM64784
+[179]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM296638
+[180]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203884
+[181]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209214
+[182]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139130
+[183]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139172
+[184]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM139174
+[185]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM414576
+[186]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM53789
+[187]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM436100
+[188]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989126
+[189]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209215
+[190]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM203822
+[191]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM3360366
+[192]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209216
+[193]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364904
+[194]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989127
+[195]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2997643
+[196]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998573
+[197]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998633
+[198]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM48686
+[199]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM381221
+[200]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989128
+[201]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989130
+[202]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM298477
+[203]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364687
+[204]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364685
+[205]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364686
+[206]: http://www.legislation.govt.nz/act/public/2005/0126/latest/whole.html#DLM364698
+[207]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209217
+[208]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989131
+[209]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM143291
+[210]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM414583
+[211]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM49669
+[212]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM385462
+[213]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM53795
+[214]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM436106
+[215]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM324284
+[216]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM324631
+[217]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1088
+[218]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM271447
+[219]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM251988
+[220]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM258076
+[221]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998516
+[222]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998515
+[223]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM2998532
+[224]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[225]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM4989116
+[226]: http://www.legislation.govt.nz/act/public/2005/0126/latest/link.aspx?id=DLM1209200
