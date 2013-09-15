@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2013
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation and Employment.
 
 ---
 
@@ -617,9 +617,9 @@ This Act is administered by the Ministry of Economic Development.
 
 [70AAC][286][][286][Access to material incorporated by reference][286]
 
-[70AAD][287][][287][Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference][287]
+[70AAD][287][][287][Application of Legislation Act 2012 to material incorporated by reference][287]
 
-[70AAE][288][][288][Application of Regulations (Disallowance) Act 1989 to material incorporated by reference][288]
+[70AAE][288][][288][Application of Regulations (Disallowance) Act 1989 to material incorporated by reference][288] \[Repealed\]
 
 [70AAF][289][][289][Application of Standards Act 1988 not affected][289]
 
@@ -3676,13 +3676,15 @@ Restrictions on offer and allotment of securities to the public
     
     (3) A notice issued by the FMA---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][465] and must be presented to the House of Representatives under [section 4][466] of that Act; and
+    *   (a) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][465]; and
     
-    *   (b) is a regulation for the purposes of the [Acts and Regulations Publication Act 1989][467].
+    *   (b) must be presented to the House of Representatives under [section 41][466] of that Act.
     
     (4) The FMA may vary or revoke a notice issued under this section, and subsections (2) and (3) apply, with necessary modifications, in all respects to the variation or revocation.
     
     Section 43EA: inserted, on 1 May 2011, by [section 21][464] of the Securities Amendment Act 2011 (2011 No 6).
+    
+    Section 43EA(3): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 #### FMA's powers to prohibit distribution of investment statements, prohibit allotments, or cancel registration of prospectuses
     
@@ -5058,9 +5060,9 @@ Restrictions on offer and allotment of securities to the public
     
     (3) A notice issued by the FMA---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][465] and must be presented to the House of Representatives under [section 4][466] of that Act; but
+    *   (a) is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][465]; and
     
-    *   (b) is not a regulation for the purposes of the [Acts and Regulations Publication Act 1989][467].
+    *   (b) must be presented to the House of Representatives under [section 41][466] of that Act.
     
     (4) A notice issued by the FMA must, as soon as practicable after it is issued, be---
         
@@ -5073,6 +5075,8 @@ Restrictions on offer and allotment of securities to the public
     (5) A notification in the _Gazette_ for the purpose of subsection (4)(b) does not have to include the text of the notice.
     
     Section 54D: inserted, on 1 May 2011, by [section 28][501] of the Securities Amendment Act 2011 (2011 No 6).
+    
+    Section 54D(3): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 ##### 54E Consultation
     
@@ -6637,25 +6641,29 @@ Regulations and exemptions
     
     Section 70AAC(2): amended, on 1 July 2011, by [section 12][562] of the Financial Reporting Amendment Act 2011 (2011 No 22).
 
-##### 70AAD Acts and Regulations Publication Act 1989 not applicable to material incorporated by reference
+##### 70AAD Application of Legislation Act 2012 to material incorporated by reference
     
-*   The [Acts and Regulations Publication Act 1989][467] does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
+*   (1) [Part 2][563] of the Legislation Act 2012 does not apply to material incorporated by reference in regulations or to an amendment to, or replacement of, that material.
     
-    Section 70AAD: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    (2) [Subpart 1][564] of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
+    
+    (3) However, nothing in [section 41][466] of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+    
+    Section 70AAD: replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 ##### 70AAE Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
     
-*   (1) Nothing in [section 4][466] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+*   \[Repealed\]
     
-    (2) Except as set out in subsection (1), the [Regulations (Disallowance) Act 1989][465] applies to regulations that incorporate material by reference.
-    
-    Section 70AAE: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 70AAE: repealed, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 ##### 70AAF Application of Standards Act 1988 not affected
     
-*   [Sections 70AA to 70AAE][284] do not affect the application of [sections 22 to 25][563] of the Standards Act 1988\.
+*   [Sections 70AA to 70AAD][284] do not affect the application of [sections 22 to 25][565] of the Standards Act 1988\.
     
     Section 70AAF: inserted, on 25 October 2006, by [section 21][561] of the Securities Amendment Act 2006 (2006 No 46).
+    
+    Section 70AAF: amended, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 ##### 70A Fees and charges
     
@@ -6685,17 +6693,17 @@ Regulations and exemptions
     
     *   (b) authorising the FMA to require payment of any costs incurred by the FMA.
     
-    Section 70A: inserted, on 21 December 1988, by [section 52][564] of the Securities Markets Act 1988 (1988 No 234).
+    Section 70A: inserted, on 21 December 1988, by [section 52][566] of the Securities Markets Act 1988 (1988 No 234).
     
-    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(1)][565] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(1)][567] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(b): amended, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(c): added, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(c): added, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1)(d): added, on 1 May 2011, by [section 45(2)][565] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1)(d): added, on 1 May 2011, by [section 45(2)][567] of the Securities Amendment Act 2011 (2011 No 6).
     
-    Section 70A(1A): inserted, on 1 May 2011, by [section 45(3)][565] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70A(1A): inserted, on 1 May 2011, by [section 45(3)][567] of the Securities Amendment Act 2011 (2011 No 6).
     
     Section 70A(3)(a): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6721,17 +6729,17 @@ Regulations and exemptions
     
     (3) Nothing in [Part 5][294] limits subsection (1).
     
-    Section 70B: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70B: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
 
 ##### 70C Status and publication of exemptions
     
 *   (1) An exemption granted under [section 70B][291]---
         
-    *   (a) is a regulation for the purposes of the [Regulations (Disallowance) Act 1989][465]; and
+    *   (a) is a disallowable instrument for the purposes of the [Legislation Act 2012][465]; and
     
-    *   (b) must be presented to the House of Representatives under [section 4][466] of that Act.
+    *   (b) must be presented to the House of Representatives under [section 41][466] of that Act.
     
-    (2) A class exemption (but not any other exemption granted under section 70B) is a regulation for the purposes of the Acts and Regulations Publication Act 1989\.
+    (2) A class exemption (but not any other exemption granted under [section 70B][291]) is a legislative instrument for the purposes of the [Legislation Act 2012][465].
     
     (3) An exemption granted under [section 70B][291] that is not a class exemption must, as soon as practicable after it is granted, be---
         
@@ -6757,7 +6765,11 @@ Regulations and exemptions
         
         
     
-    Section 70C: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70C: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
+    
+    Section 70C(1): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
+    
+    Section 70C(2): replaced, on 5 August 2013, by [section 77(3)][467] of the Legislation Act 2012 (2012 No 119).
 
 ##### 70D Variation or revocation of exemptions
     
@@ -6765,16 +6777,16 @@ Regulations and exemptions
     
     (2) [Sections 70B(2)][291] and [70C][292] apply, with necessary modifications, in all respects to a variation or revocation under this section.
     
-    Section 70D: inserted, on 1 May 2011, by [section 46][566] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 70D: inserted, on 1 May 2011, by [section 46][568] of the Securities Amendment Act 2011 (2011 No 6).
 
 ## Part 5  
 Recognition and application regimes
     
-*   Part 5 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+*   Part 5 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ### Subpart 1---Preliminary
     
-*   Subpart 1 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 1 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 71 Purpose of this Part
     
@@ -6786,17 +6798,17 @@ Recognition and application regimes
     
     *   (c) provide for enforcement in New Zealand of fines and pecuniary penalties imposed for breaches of securities laws of designated countries.
     
-    Section 71: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 71: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 72 Definition of country in this Part
     
 *   In this Part, _country_ includes a State, a territory, a country, or a group of countries in respect of which a single securities law, or set of laws, is in force.
     
-    Section 72: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 72: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ### Subpart 2---Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
     
-*   Subpart 2 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 2 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 73 Exemption from Part 2 and Regulations for New Zealand offers under recognition regime
     
@@ -6816,7 +6828,7 @@ Recognition and application regimes
     
     *   (b) of the full name and address in New Zealand of 1 or more persons resident or incorporated in New Zealand who are authorised to accept service in New Zealand at that address of documents on behalf of the issuer.
     
-    Section 73: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 73: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 74 Power to exempt from Part 2 and Regulations under recognition regime
     
@@ -6838,7 +6850,7 @@ Recognition and application regimes
     
     *   (b) after consulting with the FMA.
     
-    Section 74: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 74: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 74(2)(b): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6866,7 +6878,7 @@ Recognition and application regimes
     
     (2) Regulations may provide different exemptions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
     
-    Section 75: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 75: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 75(1)(d): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
     
@@ -6892,13 +6904,13 @@ Recognition and application regimes
     
     *   (b) in the case of a person other than the issuer, in the opinion of the court dealing with the case, the contravention did not take place with the person's knowledge and consent.
     
-    Section 76: substituted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 76: substituted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 76(2): amended, on 1 July 2013, by [section 413][458] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 3---Extension of Part 2 and Regulations to overseas offers under application regime
     
-*   Subpart 3 heading: inserted, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 3 heading: inserted, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 77 Extension of Part 2 and Regulations to overseas offers under application regime
     
@@ -6910,7 +6922,7 @@ Recognition and application regimes
     
     *   (c) any other preconditions of the application regime are met.
     
-    Section 77: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 77: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 78 Power to extend Part 2 and Regulations under application regime
     
@@ -6926,7 +6938,7 @@ Recognition and application regimes
     
     *   (b) after consulting with the FMA.
     
-    Section 78: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 78: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
     Section 78(2)(b): amended, on 1 May 2011, by [section 84(3)][358] of the Financial Markets Authority Act 2011 (2011 No 5).
 
@@ -6948,13 +6960,13 @@ Recognition and application regimes
     
     (2) The regulations may provide different applications of provisions, preconditions, and terms and conditions for different classes of securities, offers, persons, or circumstances.
     
-    Section 79: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 79: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 79(1)(d): substituted, on 1 May 2011, by [section 47][568] of the Securities Amendment Act 2011 (2011 No 6).
+    Section 79(1)(d): substituted, on 1 May 2011, by [section 47][570] of the Securities Amendment Act 2011 (2011 No 6).
 
 ### Subpart 4---Enforcement of overseas pecuniary penalties under application regime
     
-*   Subpart 4 heading: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+*   Subpart 4 heading: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 80 Enforcement of overseas pecuniary penalties under application regime
     
@@ -6966,7 +6978,7 @@ Recognition and application regimes
     
     *   (c) any other preconditions of the application regime are met.
     
-    Section 80: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 80: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 81 Power to enforce overseas pecuniary penalties under application regime
     
@@ -6976,7 +6988,7 @@ Recognition and application regimes
     
     *   (b) the preconditions of the application regime (if any).
     
-    Section 81: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 81: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 82 Interpretation
     
@@ -6994,15 +7006,15 @@ Recognition and application regimes
     
     _registered judgment_ means a judgment that is registered under [section 83][311].
     
-    Section 82: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 82: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 83 Registration of judgment
     
 *   The High Court must register a judgment to which this subpart applies under [section 80][308] as a civil judgment debt if an application is made to it in accordance with regulations made under [section 90][318].
     
-    Section 83: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 83: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
     
-    Section 83: amended, on 25 October 2006, by [section 22][569] of the Securities Amendment Act 2006 (2006 No 46).
+    Section 83: amended, on 25 October 2006, by [section 22][571] of the Securities Amendment Act 2006 (2006 No 46).
 
 ##### 84 Effect of registration
     
@@ -7014,7 +7026,7 @@ Recognition and application regimes
     
     as if the judgment had been given by the High Court.
     
-    Section 84: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 84: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 85 Enforceability of registered judgment
     
@@ -7024,7 +7036,7 @@ Recognition and application regimes
     
     *   (b) a court in the place of rendition.
     
-    Section 85: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 85: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 86 Stay may be granted
     
@@ -7048,7 +7060,7 @@ Recognition and application regimes
     
     (3) For the purposes of subsection (2)(a)(i), an _appropriate application for relief_ is an application to set aside, vary, or appeal against the registered judgment that is made to a court or tribunal that has jurisdiction under the law in force in the place of rendition to grant the application.
     
-    Section 86: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 86: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 87 Costs
     
@@ -7064,7 +7076,7 @@ Recognition and application regimes
     
     *   (b) if there is no such similar judgment, the most closely analogous judgment given by the High Court.
     
-    Section 87: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 87: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 88 Interest
     
@@ -7074,13 +7086,13 @@ Recognition and application regimes
     
     *   (b) is recoverable to the extent that the judgment creditor satisfies the High Court as to the amount of the interest.
     
-    Section 88: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 88: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 89 Rules of private international law not to apply
     
 *   If a judgment is registered in the High Court under this subpart, the courts of New Zealand must not, merely because of the operation of a rule of private international law, refuse to permit proceedings by way of enforcement of the registered judgment to be taken or continued.
     
-    Section 89: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 89: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ##### 90 Other regulations for registration of judgments under application regime
     
@@ -7094,7 +7106,7 @@ Recognition and application regimes
     
     *   (d) other requirements for the way in which those judgments may be registered (for example, the currency of registrations and the registration of partly satisfied judgments).
     
-    Section 90: added, on 1 December 2002, by [section 26][567] of the Securities Amendment Act 2002 (2002 No 43).
+    Section 90: added, on 1 December 2002, by [section 26][569] of the Securities Amendment Act 2002 (2002 No 43).
 
 ---
 
@@ -7105,7 +7117,7 @@ Acts to which section 67 applies
 
 \[Repealed\]
     
-*   Schedule 1: repealed, on 1 May 2011, by [section 48][570] of the Securities Amendment Act 2011 (2011 No 6).
+*   Schedule 1: repealed, on 1 May 2011, by [section 48][572] of the Securities Amendment Act 2011 (2011 No 6).
 
 ---
 
@@ -7114,9 +7126,9 @@ Qualifications
 
 [s 5(1)(e)][11]
 
-*   1 A practising certificate under the [Lawyers and Conveyancers Act 2006][571].
+*   1 A practising certificate under the [Lawyers and Conveyancers Act 2006][573].
 
-*   2 Registration (including interim or temporary registration) as a medical practitioner under the [Health Practitioners Competence Assurance Act 2003][572].
+*   2 Registration (including interim or temporary registration) as a medical practitioner under the [Health Practitioners Competence Assurance Act 2003][574].
 
 *   3 \[Repealed\]
 
@@ -7126,33 +7138,33 @@ Qualifications
 
 *   6 A qualification entitling the holder to practise the profession of engineering in New Zealand (which qualification may consist of membership of the Institution of Professional Engineers of New Zealand Incorporated and require the holder to comply with the applicable rules of the Institution).
 
-*   7 Registration as a valuer under the [Valuers Act 1948][573].
+*   7 Registration as a valuer under the [Valuers Act 1948][575].
 
-*   8 A practising certificate under the [Veterinarians Act 2005][574].
+*   8 A practising certificate under the [Veterinarians Act 2005][576].
 
 *   9 Registration as a surveyor within the meaning of the Survey Act 1986\.
 
-*   10 Registration as an optometrist or dispensing optician under the [Health Practitioners Competence Assurance Act 2003][572].
+*   10 Registration as an optometrist or dispensing optician under the [Health Practitioners Competence Assurance Act 2003][574].
 
-*   11 Registration as a registered architect under the [Registered Architects Act 2005][575].
+*   11 Registration as a registered architect under the [Registered Architects Act 2005][577].
 
-*   12 Registration as a dentist under the [Health Practitioners Competence Assurance Act 2003][572].
+*   12 Registration as a dentist under the [Health Practitioners Competence Assurance Act 2003][574].
 
-*   13 Registration as a patent attorney under the [Patents Act 1953][575].
+*   13 Registration as a patent attorney under the [Patents Act 1953][577].
 
-*   Schedule 2 item 1: amended, on 1 August 2008, pursuant to [section 349][576] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+*   Schedule 2 item 1: amended, on 1 August 2008, pursuant to [section 349][578] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 *   Schedule 2 item 2: substituted, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 2: amended, on 18 September 2004, by section 175(1) of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 2 item 3: repealed, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 4: repealed, on 1 July 1996, by section 143(1) of the Medical Practitioners Act 1995 (1995 No 95).
 *   Schedule 2 item 5: substituted, on 1 October 1996, by section 23 of the Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39).
-*   Schedule 2 item 5: amended, on 7 July 2010, by [section 10][577] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
-*   Schedule 2 item 6: substituted, on 1 January 2004, by [section 76][578] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
-*   Schedule 2 item 8: substituted, on 22 December 2005, by [section 105][579] of the Veterinarians Act 2005 (2005 No 126).
+*   Schedule 2 item 5: amended, on 7 July 2010, by [section 10][579] of the New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74).
+*   Schedule 2 item 6: substituted, on 1 January 2004, by [section 76][580] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+*   Schedule 2 item 8: substituted, on 22 December 2005, by [section 105][581] of the Veterinarians Act 2005 (2005 No 126).
 *   Schedule 2 item 9: amended, on 1 April 1987, pursuant to section 81(3) of the Survey Act 1986 (1986 No 123).
-*   Schedule 2 item 10: amended, on 18 September 2004, by [section 175(1)][580] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
-*   Schedule 2 item 11: substituted, on 1 July 2006, by [section 87][581] of the Registered Architects Act 2005 (2005 No 38).
-*   Schedule 2 item 12: amended, on 18 September 2004, by [section 175(1)][580] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 2 item 10: amended, on 18 September 2004, by [section 175(1)][582] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
+*   Schedule 2 item 11: substituted, on 1 July 2006, by [section 87][583] of the Registered Architects Act 2005 (2005 No 38).
+*   Schedule 2 item 12: amended, on 18 September 2004, by [section 175(1)][582] of the Health Practitioners Competence Assurance Act 2003 (2003 No 48).
 *   Schedule 2 item 13: added, on 1 September 1983, by section 36 of the Securities Amendment Act 1982 (1982 No 147).
 
 ---
@@ -7165,7 +7177,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Amendment Act 2006][582].
+*   This Act is the [Securities Amendment Act 2006][584].
 
 ##### 2 Commencement
     
@@ -7181,7 +7193,7 @@ Commencementsee section 2
     
     (3) For the purposes of subsection (2), 1 or more orders may be made bringing different provisions into force on different dates.
     
-    Section 2(2): brought into force, on 29 February 2008, by the [Securities Amendment Act 2006 Commencement Order 2007][583] (SR 2007/369).
+    Section 2(2): brought into force, on 29 February 2008, by the [Securities Amendment Act 2006 Commencement Order 2007][585] (SR 2007/369).
 
 ##### 3 Principal Act amended
     
@@ -7217,7 +7229,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Securities Amendment Act 2011][584].
+*   This Act is the [Securities Amendment Act 2011][586].
 
 ##### 2 Commencement
     
@@ -7367,70 +7379,29 @@ Commencementsee section 2
     
     
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Securities Act 1978\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][585] ![](/images/external_link.gif).
+*   This is a reprint of the Securities Act 1978 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][586] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][587] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][588] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][587] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][589] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][590] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][588] and [17E][589] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][467]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
-    
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Criminal Procedure Act 2011 (2011 No 81): [section 413][458]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][458]
     
     Financial Reporting Amendment Act 2011 (2011 No 22): [section 12][562]
     
@@ -7440,89 +7411,89 @@ Commencementsee section 2
     
     KiwiSaver Amendment Act 2011 (2011 No 8): [section 56][363]
     
-    [Securities Amendment Act 2011][584] (2011 No 6)
+    [Securities Amendment Act 2011][586] (2011 No 6) 
     
-    Financial Markets Authority Act 2011 (2011 No 5): [section 84(3), (5)][358]
+    Financial Markets Authority Act 2011 (2011 No 5): [section 84(3), (5) ][358]
     
     Limitation Act 2010 (2010 No 110): [section 58][442]
     
-    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][577]
+    New Zealand Institute of Chartered Accountants Amendment Act 2010 (2010 No 74): [section 10][579]
     
-    Unit Titles Act 2010 (2010 No 22): [section 233(1)][393]
+    Unit Titles Act 2010 (2010 No 22): [section 233(1) ][393]
     
-    [Securities Amendment Act 2009][590] (2009 No 56)
+    [Securities Amendment Act 2009][591] (2009 No 56) 
     
     Reserve Bank of New Zealand Amendment Act 2009 (2009 No 53): [section 10][499]
     
-    [Securities (Disclosure) Amendment Act 2009][591] (2009 No 23)
+    [Securities (Disclosure) Amendment Act 2009][592] (2009 No 23) 
     
-    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a)][362]
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(2)(a) ][362]
     
-    [Securities (Local Authority Exemption) Amendment Act 2008][592] (2008 No 23)
+    [Securities (Local Authority Exemption) Amendment Act 2008][593] (2008 No 23) 
     
-    Limited Partnerships Act 2008 (2008 No 1): [section 121(3)][359]
+    Limited Partnerships Act 2008 (2008 No 1): [section 121(3) ][359]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][349]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1) ][349]
     
-    [Securities Amendment Act 2007][593] (2007 No 79)
+    [Securities Amendment Act 2007][594] (2007 No 79) 
     
     Taxation (Savings Investment and Miscellaneous Provisions) Act 2006 (2006 No 81): [sections 232][367], [233][406]
     
     Securities Markets Amendment Act 2006 (2006 No 47): [section 14][401]
     
-    [Securities Amendment Act 2006][582] (2006 No 46)
+    [Securities Amendment Act 2006][584] (2006 No 46) 
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][576]
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 349][578]
     
-    Veterinarians Act 2005 (2005 No 126): [section 105][579]
+    Veterinarians Act 2005 (2005 No 126): [section 105][581]
     
-    Registered Architects Act 2005 (2005 No 38): [section 87][581]
+    Registered Architects Act 2005 (2005 No 38): [section 87][583]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][413]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][423]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][594]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][595]
     
-    [Securities Amendment Act 2004 (2004 No 31)][595]
+    [Securities Amendment Act 2004 (2004 No 31)][596]
     
     Retirement Villages Act 2003 (2003 No 112): [section 110][398]
     
-    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][580]
+    Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1) ][582]
     
-    [Securities Amendment Act 2002][596] (2002 No 43)
+    [Securities Amendment Act 2002][597] (2002 No 43) 
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][578]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][580]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][361]
+    Public Trust Act 2001 (2001 No 100): [section 170(1) ][361]
     
-    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1)][403]
+    Housing Corporation Amendment Act 2001 (2001 No 37): [section 24(1) ][403]
     
-    Takeovers Amendment Act 2001 (2001 No 30): [section 12(2)][378]
+    Takeovers Amendment Act 2001 (2001 No 30): [section 12(2) ][378]
     
-    [Securities Amendment Act 2001][597] (2001 No 25)
+    [Securities Amendment Act 2001][598] (2001 No 25) 
     
-    Public Audit Act 2001 (2001 No 10): [section 53][598]
+    Public Audit Act 2001 (2001 No 10): [section 53][599]
     
-    [Securities Amendment Act (No 2) 1997][599] (1997 No 54)
+    [Securities Amendment Act (No 2) 1997][600] (1997 No 54) 
     
-    [Securities Amendment Act 1997][600] (1997 No 16)
+    [Securities Amendment Act 1997][601] (1997 No 16) 
     
-    [Securities Amendment Act 1996][601] (1996 No 100)
+    [Securities Amendment Act 1996][602] (1996 No 100) 
     
-    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 13(1)][402]
+    Local Government Amendment Act (No 3) 1996 (1996 No 83): [section 13(1) ][402]
     
-    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][602]
+    Institute of Chartered Accountants of New Zealand Act 1996 (1996 No 39): [section 23][603]
     
     Co-operative Companies Act 1996 (1996 No 24): [section 51][354]
     
-    Medical Practitioners Act 1995 (1995 No 95): section 143(1)
+    Medical Practitioners Act 1995 (1995 No 95): section 143(1) 
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][366]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3) ][366]
     
-    Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5): section 13(2)
+    Reserve Bank of New Zealand Amendment Act 1995 (1995 No 5): section 13(2) 
     
-    [Securities Amendment Act (No 2) 1994][603] (1994 No 158)
+    [Securities Amendment Act (No 2) 1994][604] (1994 No 158) 
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][394]
     
@@ -7538,19 +7509,19 @@ Commencementsee section 2
     
     Survey Act 1986 (1986 No 123): section 81(3)
     
-    Constitution Act 1986 (1986 No 114): [section 29(2)][368]
+    Constitution Act 1986 (1986 No 114): [section 29(2) ][368]
     
-    [Securities Act Commencement Order 1983][323] (SR 1983/119)
+    [Securities Act Commencement Order 1983][323] (SR 1983/119) 
     
-    Securities Amendment Act 1982 (1982 No 147)
+    Securities Amendment Act 1982 (1982 No 147) 
     
-    [Securities Act Commencement Order 1979][322] (SR 1979/94)
+    [Securities Act Commencement Order 1979][322] (SR 1979/94) 
     
-    Securities Act 1978 (1978 No 103): [section 7A(2)][18]
+    Securities Act 1978 (1978 No 103): [section 7A(2) ][18]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM26802
 [2]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM26804
 [3]: http://www.legislation.govt.nz/act/public/1978/0103/latest/whole.html#DLM26805
@@ -8015,9 +7986,9 @@ Commencementsee section 2
 [462]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM406326
 [463]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637748
 [464]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637749
-[465]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195534
-[466]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195549
-[467]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195097
+[465]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2997643
+[466]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998573
+[467]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998633
 [468]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3231086
 [469]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637770
 [470]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1584200
@@ -8113,44 +8084,45 @@ Commencementsee section 2
 [560]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM324886
 [561]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383024
 [562]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3701759
-[563]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM128740
-[564]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142032
-[565]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638219
-[566]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638220
-[567]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161327
-[568]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638225
-[569]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383043
-[570]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638226
-[571]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364938
-[572]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM203311
-[573]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM249941
-[574]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM363858
-[575]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM343165
-[576]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM367851
-[577]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3043113
-[578]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM145126
-[579]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364675
-[580]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM205009
-[581]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM344303
-[582]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382646
-[583]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1061132
-[584]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637712
-[585]: http://www.pco.parliament.govt.nz/reprints/
-[586]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195439
-[587]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[588]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195468
-[589]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM195470
-[590]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2498702
-[591]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827100
-[592]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM995300
-[593]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968524
-[594]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM277145
-[595]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM244583
-[596]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160442
-[597]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM91203
-[598]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM88957
-[599]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM410721
-[600]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM408932
-[601]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM405828
-[602]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM391427
-[603]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347429
+[563]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2997693
+[564]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998558
+[565]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM128740
+[566]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM142032
+[567]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638219
+[568]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638220
+[569]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM161327
+[570]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638225
+[571]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM383043
+[572]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3638226
+[573]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364938
+[574]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM203311
+[575]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM249941
+[576]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM363858
+[577]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM343165
+[578]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM367851
+[579]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3043113
+[580]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM145126
+[581]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM364675
+[582]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM205009
+[583]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM344303
+[584]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM382646
+[585]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1061132
+[586]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM3637712
+[587]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998516
+[588]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998515
+[589]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2998532
+[590]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[591]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM2498702
+[592]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM1827100
+[593]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM995300
+[594]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM968524
+[595]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM277145
+[596]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM244583
+[597]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM160442
+[598]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM91203
+[599]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM88957
+[600]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM410721
+[601]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM408932
+[602]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM405828
+[603]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM391427
+[604]: http://www.legislation.govt.nz/act/public/1978/0103/latest/link.aspx?id=DLM347429
