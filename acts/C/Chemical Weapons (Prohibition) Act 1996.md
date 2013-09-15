@@ -1,5 +1,5 @@
 Reprint  
-as at 1 October 2012
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Foreign Affairs and Trade.
 
@@ -183,13 +183,15 @@ Offences
     
     *   (e) assists, encourages, or induces, in any way, any person to engage in any activity prohibited to a State Party under the Convention,---
     
-    and is liable on conviction on indictment to imprisonment for life or a fine not exceeding $1,000,000\.
+    and is liable on conviction to imprisonment for life or a fine not exceeding $1,000,000\.
     
     (2) Nothing in subsection (1) applies in respect of any seizure of chemical weapons by the Crown under the authority of this or any other Act.
     
     (3) Nothing in subsection (1)(e) limits the provisions of [Part 4][45] of the Crimes Act 1961\.
     
     Compare: Chemical Weapons (Prohibition) Act 1994 No 26 s 12 (Aust)
+    
+    Section 6(1): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 7 Forfeiture of chemical weapons
     
@@ -205,13 +207,17 @@ Offences
 
 ##### 8 Riot control agents
     
-*   Every person commits an offence who intentionally or recklessly uses riot control agents as a method of warfare, and is liable on conviction on indictment to imprisonment for life or a fine not exceeding $1,000,000\.
+*   Every person commits an offence who intentionally or recklessly uses riot control agents as a method of warfare, and is liable on conviction to imprisonment for life or a fine not exceeding $1,000,000\.
+    
+    Section 8: amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 9 Schedule 1 toxic chemicals
     
-*   (1) Every person commits an offence who intentionally or recklessly produces, acquires, retains, or uses any Schedule 1 chemical without the consent of the Secretary, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+*   (1) Every person commits an offence who intentionally or recklessly produces, acquires, retains, or uses any Schedule 1 chemical without the consent of the Secretary, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
     
     (2) In determining whether or not to give consent, the Secretary shall be guided by the provisions of Part VI of the Verification Annex.
+    
+    Section 9(1): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Imports and exports of toxic chemicals and precursors
     
@@ -219,11 +225,13 @@ Offences
     
     (2) In determining whether or not to give consent, the Secretary shall be guided by the restrictions on transfer set out in Parts VI to VIII of the Verification Annex.
     
-    (3) Every person commits an offence who imports or exports any chemical or precursor in contravention of subsection (1), and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (3) Every person commits an offence who imports or exports any chemical or precursor in contravention of subsection (1), and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 10(3): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Application of Customs and Excise Act 1996
     
-*   All the provisions of the [Customs and Excise Act 1996][46] that apply with respect to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][47] of that Act) shall extend and apply with respect to chemicals and precursors whose importation and exportation is prohibited by [section 10][13] of this Act, in all respects as if the importation or exportation of the goods were prohibited under [Part 5][48] of the Customs and Excise Act 1996\.
+*   All the provisions of the [Customs and Excise Act 1996][47] that apply with respect to prohibited imports and prohibited exports (except the penalty for an offence against [section 209(1)(a) or (b)][48] of that Act) shall extend and apply with respect to chemicals and precursors whose importation and exportation is prohibited by [section 10][13] of this Act, in all respects as if the importation or exportation of the goods were prohibited under [Part 5][49] of the Customs and Excise Act 1996\.
 
 ## Part 3  
 Information and documents
@@ -254,7 +262,9 @@ Information and documents
     
     (2) The records and reports under subsection (1)(b) to (d) must be sufficient to satisfy the Minister that the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
     
-    (3) Every person who refuses or fails, without reasonable excuse, to comply with subsection (1) commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (3) Every person who refuses or fails, without reasonable excuse, to comply with subsection (1) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 13(3): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Secretary may seek information
     
@@ -274,15 +284,19 @@ Information and documents
     
     (3) The Secretary may, by written notice given to a person, require the person to give to the Secretary particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
     
-    (4) Every person who, without reasonable excuse, fails to comply with a notice under this section to the extent that the person is capable of complying with it commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (4) Every person who, without reasonable excuse, fails to comply with a notice under this section to the extent that the person is capable of complying with it commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
     
     (5) The power of the Secretary under this section to require a person to give information or documents to the Secretary is in addition to any obligation to give information or documents that the person may have under [section 13][17].
     
     Compare: Chemical Weapons (Prohibition) Act 1994 No 26 s 31 (Aust)
+    
+    Section 14(4): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 False or misleading statements and documents
     
-*   Every person commits an offence who, in any document prepared pursuant to this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+*   Every person commits an offence who, in any document prepared pursuant to this Part, makes a statement or omits any matter knowing that, or being reckless as to whether, the statement or omission makes the document false or misleading in a material particular, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 15: amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 4  
 Inspections
@@ -335,7 +349,7 @@ Inspections
     
     *   (c) any constable.
     
-    Section 19(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][49] of the Policing Act 2008 (2008 No 72).
+    Section 19(c): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][50] of the Policing Act 2008 (2008 No 72).
 
 #### Directions
 
@@ -343,7 +357,9 @@ Inspections
     
 *   (1) The Minister may, by notice in writing, issue directions to any person for the purpose of facilitating any inspection under the Convention.
     
-    (2) Every person commits an offence who wilfully fails to comply with any direction given by the Minister under this section, and is liable on summary conviction to a fine not exceeding $100,000\.
+    (2) Every person commits an offence who wilfully fails to comply with any direction given by the Minister under this section, and is liable on conviction to a fine not exceeding $100,000\.
+    
+    Section 20(2): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### New Zealand assistance with inspections
 
@@ -361,7 +377,7 @@ Inspections
     
 *   (1) Any constable, or other person appointed under [section 21][29], may apply for a search warrant where the consent of the person who is in control of any place cannot be obtained.
     
-    (2) Subject to subsection (3), an issuing officer (within the meaning of [section 3][50] of the Search and Surveillance Act 2012), who is satisfied that there are reasonable grounds for believing that---
+    (2) Subject to subsection (3), an issuing officer (within the meaning of [section 3][51] of the Search and Surveillance Act 2012), who is satisfied that there are reasonable grounds for believing that---
         
     *   (a) a place referred to in [section 18][24] meets the conditions for entry described in that section; and
     
@@ -383,33 +399,35 @@ Inspections
     
     *   (b) must disclose on the application for the warrant the results of the inquiries.
     
-    (4) Subject to subsection (3), the provisions of [subparts 3][51] and [4][52] of Part 4 of the Search and Surveillance Act 2012 apply.
+    (4) Subject to subsection (3), the provisions of [subparts 3][52] and [4][53] of Part 4 of the Search and Surveillance Act 2012 apply.
     
-    Section 23(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][49] of the Policing Act 2008 (2008 No 72).
+    Section 23(1): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][50] of the Policing Act 2008 (2008 No 72).
     
-    Section 23(2): amended, on 1 October 2012, by [section 312(2)(a)][53] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(2): amended, on 1 October 2012, by [section 312(2)(a)][54] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(2): amended, on 1 October 2012, by [section 312(2)(b)][53] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(2): amended, on 1 October 2012, by [section 312(2)(b)][54] of the Search and Surveillance Act 2012 (2012 No 24).
     
-    Section 23(4): inserted, on 1 October 2012, by [section 312(3)][53] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 23(4): inserted, on 1 October 2012, by [section 312(3)][54] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 24 Use of force
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 1 October 2012, by [section 312(4)][53] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 24: repealed, on 1 October 2012, by [section 312(4)][54] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 25 Obligations of persons accompanying international inspectors
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 1 October 2012, by [section 312(4)][53] of the Search and Surveillance Act 2012 (2012 No 24).
+    Section 25: repealed, on 1 October 2012, by [section 312(4)][54] of the Search and Surveillance Act 2012 (2012 No 24).
 
 ##### 26 Obstruction of international inspectors
     
-*   (1) Every person commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Convention.
+*   (1) Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 6 months or a fine not exceeding $20,000, who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Convention.
     
     (2) Nothing in this section applies to a refusal to give consent to entry by an international inspector who is not acting pursuant to a search warrant.
+    
+    Section 26(1): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 5  
 Miscellaneous provisions
@@ -426,7 +444,9 @@ Miscellaneous provisions
     
     *   (c) dealing with an emergency involving public safety.
     
-    (3) Every person who contravenes this section commits an offence, and is liable on summary conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    (3) Every person who contravenes this section commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000\.
+    
+    Section 27(3): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 28 Self-incrimination
     
@@ -434,7 +454,7 @@ Miscellaneous provisions
     
     (2) A self-incriminating statement made or given under this Act or the Convention is not admissible as evidence in criminal proceedings against that person except on a charge of perjury in relation to that statement.
     
-    Compare: 1993 No 105 [s 267][54]
+    Compare: 1993 No 105 [s 267][55]
 
 ##### 29 Regulations
     
@@ -442,7 +462,7 @@ Miscellaneous provisions
         
     *   (a) providing for any matter that is necessary or desirable for the purpose of implementing the Convention or any agreement that is concluded between New Zealand and the Organization pursuant to the Convention:
     
-    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on summary conviction, be imposed in respect of any such offence:
+    *   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offence:
     
     *   (c) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
     
@@ -452,9 +472,13 @@ Miscellaneous provisions
     
     *   (b) revoke the [Schedule][42], and substitute a new schedule setting out in an up-to-date form the text of the Convention set out in that schedule.
     
-    (3) Any order made under subsection (2) shall be deemed to be a regulation for the purpose of the [Regulations (Disallowance) Act 1989][55].
+    (3) An order made under subsection (2) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][56] and must be presented to the House of Representatives under [section 41][57] of that Act.
     
-    Compare: 1968 No 36 [s 10A][56]; 1987 No 86 [s 26][57]; 1994 No 119 [s 55(2), (3)][58]
+    Compare: 1968 No 36 [s 10A][58]; 1987 No 86 [s 26][59]; 1994 No 119 [s 55(2), (3)][60]
+    
+    Section 29(1)(b): amended, on 1 July 2013, by [section 413][46] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 29(3): replaced, on 5 August 2013, by [section 77(3)][61] of the Legislation Act 2012 (2012 No 119).
 
 ##### 30 Application to Tokelau
     
@@ -462,7 +486,7 @@ Miscellaneous provisions
 
 ##### 31 Amendment to Diplomatic Privileges and Immunities Act 1968
     
-*   _Amendment(s) incorporated in the [Act(s)][56]_.
+*   _Amendment(s) incorporated in the [Act(s)][58]_.
 
 ---
 
@@ -475,61 +499,61 @@ The Convention on the Prohibition of the Development, Production, Stockpiling an
 
 \[This table is not part of the Convention and is included for convenience\]
 
-[Preamble][59] 
+[Preamble][62] 
 
-1[General obligations][60] 
+1[General obligations][63] 
 
-2[Definitions and criteria][61] 
+2[Definitions and criteria][64] 
 
-3[Declarations][62] 
+3[Declarations][65] 
 
-4[Chemical weapons][63] 
+4[Chemical weapons][66] 
 
-5[Chemical weapons production facilities][64] 
+5[Chemical weapons production facilities][67] 
 
-6[Activities not prohibited under this Convention][65] 
+6[Activities not prohibited under this Convention][68] 
 
-7[National implementation measures][66] 
+7[National implementation measures][69] 
 
-8[The Organization][67] 
+8[The Organization][70] 
 
-9[Consultations, cooperation and fact-finding][68] 
+9[Consultations, cooperation and fact-finding][71] 
 
-10[Assistance and protection against chemical weapons][69] 
+10[Assistance and protection against chemical weapons][72] 
 
-11[Economic and technological development][70] 
+11[Economic and technological development][73] 
 
-12[Measures to redress a situation and to ensure compliance, including sanctions][71] 
+12[Measures to redress a situation and to ensure compliance, including sanctions][74] 
 
-13[Relation to other international agreements][72] 
+13[Relation to other international agreements][75] 
 
-14[Settlement of disputes][73] 
+14[Settlement of disputes][76] 
 
-15[Amendments][74] 
+15[Amendments][77] 
 
-16[Duration and withdrawal][75] 
+16[Duration and withdrawal][78] 
 
-17[Status of the Annexes][76] 
+17[Status of the Annexes][79] 
 
-18[Signature][77] 
+18[Signature][80] 
 
-19[Ratification][78] 
+19[Ratification][81] 
 
-20[Accession][79] 
+20[Accession][82] 
 
-21[Entry into force][80] 
+21[Entry into force][83] 
 
-22[Reservations][81] 
+22[Reservations][84] 
 
-23[Depositary][82] 
+23[Depositary][85] 
 
-24[Authentic texts][83] 
+24[Authentic texts][86] 
 
-[Annex on Chemicals][84] 
+**[Annex on Chemicals][87]** 
 
-[Verification Annex][85] 
+**[Verification Annex][88]** 
 
-[Confidentiality Annex][86] 
+**[Confidentiality Annex][89]** 
 
 ---
 
@@ -919,7 +943,7 @@ National implementation measures
 ## Article VIII  
 The Organization
 
-### A. General provisions
+### A.---General provisions
     
 *   1\. The States Parties to this Convention hereby establish the Organization for the Prohibition of Chemical Weapons to achieve the object and purpose of this Convention, to ensure the implementation of its provisions, including those for international verification of compliance with it, and to provide a forum for consultation and cooperation among States Parties.
 
@@ -937,7 +961,7 @@ The Organization
 
 *   8\. A member of the Organization which is in arrears in the payment of its financial contribution to the Organization shall have no vote in the Organization if the amount of its arrears equals or exceeds the amount of the contribution due from it for the preceding two full years. The Conference of the States Parties may, nevertheless, permit such a member to vote if it is satisfied that the failure to pay is due to conditions beyond the control of the member.
 
-### B. The Conference of the States Parties
+### B.---The Conference of the States Parties
 
 #### Composition, procedures and decision-making
     
@@ -1005,7 +1029,7 @@ The Organization
 
 *   22\. The Conference shall not later than one year after the expiry of the fifth and the tenth year after the entry into force of this Convention, and at such other times within that time period as may be decided upon, convene in special sessions to undertake reviews of the operation of this Convention. Such reviews shall take into account any relevant scientific and technological developments. At intervals of five years thereafter, unless otherwise decided upon, further sessions of the Conference shall be convened with the same objective.
 
-### C. The Executive Council
+### C.---The Executive Council
 
 #### Composition, procedure and decision-making
     
@@ -1077,7 +1101,7 @@ The Organization
     
     The Executive Council shall, in cases of particular gravity and urgency, bring the issue or matter, including relevant information and conclusions, directly to the attention of the United Nations General Assembly and the United Nations Security Council. It shall at the same time inform all States Parties of this step.
 
-### D. The Technical Secretariat
+### D.---The Technical Secretariat
     
 *   37\. The Technical Secretariat shall assist the Conference and the Executive Council in the performance of their functions. The Technical Secretariat shall carry out the verification measures provided for in this Convention. It shall carry out the other functions entrusted to it under this Convention as well as those functions delegated to it by the Conference and the Executive Council.
 
@@ -1121,7 +1145,7 @@ The Organization
 
 *   47\. Each State Party shall respect the exclusively international character of the responsibilities of the Director-General, the inspectors and the other members of the staff and not seek to influence them in the discharge of their responsibilities.
 
-### E. Privileges and immunities
+### E.---Privileges and immunities
     
 *   48\. The Organization shall enjoy on the territory and in any other place under the jurisdiction or control of a State Party such legal capacity and such privileges and immunities as are necessary for the exercise of its functions.
 
@@ -1415,16 +1439,14 @@ IN WITNESS WHEREOF the undersigned, being duly authorized to that effect, have s
 
 Done at Paris on the thirteenth day of January, one thousand nine hundred and ninety-three.
 
----
-
 ##   
 Annex on Chemicals
 
 ## Contents
 
-A.[Guidelines for schedules of chemicals][87] 
+A.[Guidelines for schedules of chemicals][90] 
 
-B.[Schedules of chemicals][88] 
+B.[Schedules of chemicals][91] 
 
 ---
 
@@ -1659,134 +1681,134 @@ Annex on Implementation and Verification (""Verification Annex"")
 ## Contents
 
 Part I:  
-[Definitions][89] 
+[Definitions][92] 
 
 Part II:  
-[General rules of verification][90] 
+[General rules of verification][93] 
 
-A.[Designation of inspectors and inspection assistants][91] 
+A.[Designation of inspectors and inspection assistants][94] 
 
-B.[Privileges and immunities][92] 
+B.[Privileges and immunities][95] 
 
-C.[Standing arrangements][93] 
+C.[Standing arrangements][96] 
 
-D.[Pre-inspection activities][94] 
+D.[Pre-inspection activities][97] 
 
-E.[Conduct of inspections][95] 
+E.[Conduct of inspections][98] 
 
-F.[Departure][96] 
+F.[Departure][99] 
 
-G.[Reports][97] 
+G.[Reports][100] 
 
-H.[Application of general provisions][98] 
+H.[Application of general provisions][101] 
 
 Part III:  
-[General provisions for verification measures pursuant to Articles IV, V and VI, paragraph 3][99] 
+[General provisions for verification measures pursuant to Articles IV, V and VI, paragraph 3][102] 
 
-A.[Initial inspections and facility agreements][100] 
+A.[Initial inspections and facility agreements][103] 
 
-B.[Standing arrangements][101] 
+B.[Standing arrangements][104] 
 
-C.[Pre-inspection activities][102] 
+C.[Pre-inspection activities][105] 
 
 Part IV(A):  
-[Destruction of chemical weapons and its verification pursuant to Article IV][103] 
+[Destruction of chemical weapons and its verification pursuant to Article IV][106] 
 
-A.[Declarations][104] 
+A.[Declarations][107] 
 
-B.[Measures to secure the storage facility and storage facility preparation][105] 
+B.[Measures to secure the storage facility and storage facility preparation][108] 
 
-C.[Destruction][106] 
+C.[Destruction][109] 
 
-D.[Verification][107] 
+D.[Verification][110] 
 
 Part IV(B):  
-[Old chemical weapons and abandoned chemical weapons][108] 
+[Old chemical weapons and abandoned chemical weapons][111] 
 
-A.[General][109] 
+A.[General][112] 
 
-B.[Regime for old chemical weapons][110] 
+B.[Regime for old chemical weapons][113] 
 
-C.[Regime for abandoned chemical weapons][111] 
+C.[Regime for abandoned chemical weapons][114] 
 
 Part V:  
-[Destruction of chemical weapons production facilities and its verification pursuant to Article V][112] 
+[Destruction of chemical weapons production facilities and its verification pursuant to Article V][115] 
 
-A.[Declarations][113] 
+A.[Declarations][116] 
 
-B.[Destruction][114] 
+B.[Destruction][117] 
 
-C.[Verification][115] 
+C.[Verification][118] 
 
-D.[Conversion of chemical weapons production facilities to purposes not prohibited under this Convention][116] 
+D.[Conversion of chemical weapons production facilities to purposes not prohibited under this Convention][119] 
 
 Part VI:  
-[Activities not prohibited under this Convention in accordance with Article VI:][117]  
-[Regime for Schedule 1 chemicals and facilities related to such chemicals][117] 
+[Activities not prohibited under this Convention in accordance with Article VI:][120]  
+[Regime for Schedule 1 chemicals and facilities related to such chemicals][120] 
 
-A.[General provisions][118] 
+A.[General provisions][121] 
 
-B.[Transfers][119] 
+B.[Transfers][122] 
 
-C.[Production][120] 
+C.[Production][123] 
 
-D.[Declarations][121] 
+D.[Declarations][124] 
 
-E.[Verification][122] 
+E.[Verification][125] 
 
 Part VII:  
-[Activities not prohibited under this Convention in accordance with Article VI:][123]  
-[Regime for Schedule 2 chemicals and facilities related to such chemicals][123] 
+[Activities not prohibited under this Convention in accordance with Article VI:][126]  
+[Regime for Schedule 2 chemicals and facilities related to such chemicals][126] 
 
-A.[Declarations][124] 
+A.[Declarations][127] 
 
-B.[Verification][125] 
+B.[Verification][128] 
 
-C.[Transfers to States not Party to this Convention][126] 
+C.[Transfers to States not Party to this Convention][129] 
 
 Part VIII:  
-[Activities not prohibited under this Convention in accordance with Article VI:][127]  
-[Regime for Schedule 3 Chemicals and facilities related to such chemicals][127] 
+[Activities not prohibited under this Convention in accordance with Article VI:][130]  
+[Regime for Schedule 3 Chemicals and facilities related to such chemicals][130] 
 
-A.[Declarations][128] 
+A.[Declarations][131] 
 
-B.[Verification][129] 
+B.[Verification][132] 
 
-C.[Transfers to States not Party to this Convention][130] 
+C.[Transfers to States not Party to this Convention][133] 
 
 Part IX:  
-[Activities not prohibited under this Convention in accordance with Article VI:][131]  
-[Regime for other chemical production facilities][131] 
+[Activities not prohibited under this Convention in accordance with Article VI:][134]  
+[Regime for other chemical production facilities][134] 
 
-A.[Declarations][132] 
+A.[Declarations][135] 
 
-B.[Verification][133] 
+B.[Verification][136] 
 
-C.[Implementation and review of Section B][134] 
+C.[Implementation and review of Section B][137] 
 
 Part X:  
-[Challenge inspections pursuant to Article IX][135] 
+[Challenge inspections pursuant to Article IX][138] 
 
-A.[Designation and selection of inspectors and inspection assistants][136] 
+A.[Designation and selection of inspectors and inspection assistants][139] 
 
-B.[Pre-inspection activities][137] 
+B.[Pre-inspection activities][140] 
 
-C.[Conduct of inspections][138] 
+C.[Conduct of inspections][141] 
 
-D.[Post-inspection activities][139] 
+D.[Post-inspection activities][142] 
 
 Part XI:  
-[Investigations in cases of alleged use of chemical weapons][140] 
+[Investigations in cases of alleged use of chemical weapons][143] 
 
-A.[General][141] 
+A.[General][144] 
 
-B.[Pre-inspection activities][142] 
+B.[Pre-inspection activities][145] 
 
-C.[Conduct of inspections][143] 
+C.[Conduct of inspections][146] 
 
-D.[Reports][144] 
+D.[Reports][147] 
 
-E.[States not Party to this Convention][145] 
+E.[States not Party to this Convention][148] 
 
 ---
 
@@ -1930,7 +1952,7 @@ Definitions
 ## Part II  
 General rules of verification
 
-### A. Designation of inspectors and inspection assistants
+### A.---Designation of inspectors and inspection assistants
     
 *   1\. Not later than 30 days after entry into force of this Convention the Technical Secretariat shall communicate, in writing, to all States Parties the names, nationalities and ranks of the inspectors and inspection assistants proposed for designation, as well as a description of their qualifications and professional experiences.
 
@@ -1952,7 +1974,7 @@ General rules of verification
 
 *   9\. The members of the inspection team carrying out an inspection of a facility of a State Party located on the territory of another State Party shall be designated in accordance with the procedures set forth in this Annex as applied both to the inspected State Party and the Host State Party.
 
-### B. Privileges and immunities
+### B.---Privileges and immunities
     
 *   10\. Each State Party shall, not later than 30 days after acknowledgement of receipt of the list of inspectors and inspection assistants or of changes thereto, provide multiple entry/exit and/or transit visas and other such documents to enable each inspector or inspection assistant to enter and to remain on the territory of that State Party for the purpose of carrying out inspection activities. These documents shall be valid for at least two years after their provision to the Technical Secretariat.
 
@@ -1986,7 +2008,7 @@ General rules of verification
 
 *   15\. Observers shall be accorded the same privileges and immunities accorded to inspectors pursuant to this section, except for those accorded pursuant to paragraph 11(d).
 
-### C. Standing arrangements
+### C.---Standing arrangements
 
 #### Points of entry
     
@@ -2026,7 +2048,7 @@ General rules of verification
 
 *   30\. In cases where the inspection team finds it necessary to use equipment available on site not belonging to the Technical Secretariat and requests the inspected State Party to enable the team to use such equipment, the inspected State Party shall comply with the request to the extent it can.
 
-### D. Pre-inspection activities
+### D.---Pre-inspection activities
 
 #### Notification
     
@@ -2064,7 +2086,7 @@ General rules of verification
     
 *   37\. Upon arrival at the inspection site and before the commencement of the inspection, the inspection team shall be briefed by facility representatives, with the aid of maps and other documentation as appropriate, on the facility, the activities carried out there, safety measures and administrative and logistic arrangements necessary for the inspection. The time spent for the briefing shall be limited to the minimum necessary and in any event not exceed three hours.
 
-### E. Conduct of inspections
+### E.---Conduct of inspections
 
 #### General rules
     
@@ -2136,11 +2158,11 @@ General rules of verification
     
 *   60\. Upon completion of an inspection the inspection team shall meet with representatives of the inspected State Party and the personnel responsible for the inspection site to review the preliminary findings of the inspection team and to clarify any ambiguities. The inspection team shall provide to the representatives of the inspected State Party its preliminary findings in written form according to a standardized format, together with a list of any samples and copies of written information and data gathered and other material to be taken off-site. The document shall be signed by the head of the inspection team. In order to indicate that he has taken notice of the contents of the document, the representative of the inspected State Party shall countersign the document. This meeting shall be completed not later than 24 hours after the completion of the inspection.
 
-### F. Departure
+### F.---Departure
     
 *   61\. Upon completion of the post-inspection procedures, the inspection team shall leave, as soon as possible, the territory of the inspected State Party or the Host State.
 
-### G. Reports
+### G.---Reports
     
 *   62\. Not later than 10 days after the inspection, the inspectors shall prepare a factual, final report on the activities conducted by them and on their findings. It shall only contain facts relevant to compliance with this Convention, as provided for under the inspection mandate. The report shall also provide information as to the manner in which the State Party inspected cooperated with the inspection team. Differing observations made by inspectors may be attached to the report. The report shall be kept confidential.
 
@@ -2150,14 +2172,14 @@ General rules of verification
 
 *   65\. If the uncertainties cannot be removed or the facts established are of a nature to suggest that obligations undertaken under this Convention have not been met, the Director-General shall inform the Executive Council without delay.
 
-### H. Application of general provisions
+### H.---Application of general provisions
     
 *   66\. The provisions of this Part shall apply to all inspections conducted pursuant to this Convention, except where the provisions of this Part differ from the provisions set forth for specific types of inspections in Parts III to XI of this Annex, in which case the latter provisions shall take precedence.
 
 ## Part III  
 General provisions for verification measures pursuant to Articles IV, V and VI, paragraph 3
 
-### A. Initial inspections and facility agreements
+### A.---Initial inspections and facility agreements
     
 *   1\. Each declared facility subject to on-site inspection pursuant to Articles IV, V, and VI, paragraph 3, shall receive an initial inspection promptly after the facility is declared. The purpose of this inspection of the facility shall be to verify information provided and to obtain any additional information needed for planning future verification activities at the facility, including on-site inspections and continuous monitoring with on-site instruments, and to work on the facility agreements.
 
@@ -2177,7 +2199,7 @@ General provisions for verification measures pursuant to Articles IV, V and VI, 
 
 *   9\. The Technical Secretariat may retain at each site a sealed container for photographs, plans and other information that it may wish to refer to in the course of subsequent inspections.
 
-### B. Standing arrangements
+### B.---Standing arrangements
     
 *   10\. Where applicable, the Technical Secretariat shall have the right to have continuous monitoring instruments and systems and seals installed and to use them, in conformity with the relevant provisions in this Convention and the facility agreements between States Parties and the Organization.
 
@@ -2193,7 +2215,7 @@ General provisions for verification measures pursuant to Articles IV, V and VI, 
 
 *   16\. If the monitoring system indicates any anomaly, the Technical Secretariat shall immediately take action to determine whether this resulted from equipment malfunction or activities at the facility. If, after this examination, the problem remains unresolved, the Technical Secretariat shall immediately ascertain the actual situation, including through immediate on-site inspection of, or visit to, the facility if necessary. The Technical Secretariat shall report any such problem immediately after its detection to the inspected State Party which shall assist in its resolution.
 
-### C. Pre-inspection activities
+### C.---Pre-inspection activities
     
 *   17\. The inspected State Party shall, except as specified in paragraph 18, be notified of inspections not less than 24 hours in advance of the planned arrival of the inspection team at the point of entry.
 
@@ -2202,7 +2224,7 @@ General provisions for verification measures pursuant to Articles IV, V and VI, 
 ## Part IV(A)  
 Destruction of chemical weapons and its verification pursuant to Article IV
 
-### A. Declarations
+### A.---Declarations
 
 #### Chemical weapons
     
@@ -2324,7 +2346,7 @@ Destruction of chemical weapons and its verification pursuant to Article IV
     
     
 
-### B. Measures to secure the storage facility and storage facility preparation
+### B.---Measures to secure the storage facility and storage facility preparation
     
 *   7\. Not later than when submitting its declaration of chemical weapons, a State Party shall take such measures as it considers appropriate to secure its storage facilities and shall prevent any movement of its chemical weapons out of the facilities, except their removal for destruction.
 
@@ -2342,7 +2364,7 @@ Destruction of chemical weapons and its verification pursuant to Article IV
 
 *   11\. All maintenance activities shall be subject to monitoring by the Technical Secretariat.
 
-### C. Destruction
+### C.---Destruction
 
 #### Principles and methods for destruction of chemical weapons
     
@@ -2484,7 +2506,7 @@ Destruction of chemical weapons and its verification pursuant to Article IV
     
 *   36\. Information regarding the implementation of plans for destruction of chemical weapons shall be submitted to the Technical Secretariat pursuant to Article IV, paragraph 7(b), not later than 60 days after the end of each annual destruction period and shall specify the actual amounts of chemical weapons which were destroyed during the previous year at each destruction facility. If appropriate, reasons for not meeting destruction goals should be stated.
 
-### D. Verification
+### D.---Verification
 
 #### Verification of declarations of chemical weapons through on-site inspection
     
@@ -2633,13 +2655,13 @@ Destruction of chemical weapons and its verification pursuant to Article IV
 ## Part IV(B)  
 Old chemical weapons and abandoned chemical weapons
 
-### A. General
+### A.---General
     
 *   1\. Old chemical weapons shall be destroyed as provided for in Section B.
 
 *   2\. Abandoned chemical weapons, including those which also meet the definition of Article II, paragraph 5(b), shall be destroyed as provided for in Section C.
 
-### B. Regime for old chemical weapons
+### B.---Regime for old chemical weapons
     
 *   3\. A State Party which has on its territory old chemical weapons as defined in Article II, paragraph 5(a), shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information, including, to the extent possible, the location, type, quantity and the present condition of these old chemical weapons.
     
@@ -2653,7 +2675,7 @@ Old chemical weapons and abandoned chemical weapons
 
 *   7\. Subject to paragraphs 3 to 5, a State Party shall destroy old chemical weapons that have been confirmed by the Technical Secretariat as meeting the definition in Article II, paragraph 5(b), in accordance with Article IV and Part IV(A) of this Annex. Upon request of a State Party, the Executive Council may, however, modify the provisions on time-limit and order of destruction of these old chemical weapons, if it determines that doing so would not pose a risk to the objection and purpose of this Convention. The request shall contain specific proposals for modification of the provisions and a detailed explanation of the reasons for the proposed modification.
 
-### C. Regime for abandoned chemical weapons
+### C.---Regime for abandoned chemical weapons
     
 *   8\. A State Party on whose territory there are abandoned chemical weapons (hereinafter referred to as the ""Territorial State Party"") shall, not later than 30 days after this Convention enters into force for it, submit to the Technical Secretariat all available relevant information concerning the abandoned chemical weapons. This information shall include, to the extent possible, the location, type, quantity and the present condition of the abandoned chemical weapons as well as information on the abandonment.
 
@@ -2680,7 +2702,7 @@ Old chemical weapons and abandoned chemical weapons
 ## Part V  
 Destruction of chemical weapons production facilities and its verification pursuant to Article V
 
-### A. Declarations
+### A.---Declarations
 
 #### Declarations of chemical weapons production facilities
     
@@ -2824,7 +2846,7 @@ Destruction of chemical weapons production facilities and its verification pursu
 
 *   10\. For a chemical weapons production facility declared pursuant to Article III, paragraph 1(c)(iii), it is the responsibility of the State Party on whose territory the facility is or has been located to make appropriate arrangements to ensure that the declarations specified in paragraphs 6 to 9 above are made. If the State Party on whose territory the facility is or has been located is not able to fulfil this obligation, it shall state the reasons therefor.
 
-### B. Destruction
+### B.---Destruction
 
 #### General principles for destruction of chemical weapons production facilities
     
@@ -2996,7 +3018,7 @@ Destruction of chemical weapons production facilities and its verification pursu
 
 *   42\. If required verification or destruction actions are not taken as planned, all States Parties shall be so informed.
 
-### C. Verification
+### C.---Verification
 
 #### Verification of declarations of chemical weapons production facilities through on-site inspection
     
@@ -3084,7 +3106,7 @@ Destruction of chemical weapons production facilities and its verification pursu
 
 *   63\. Before the commencement of work at the facility to convert it temporarily for chemical weapons destruction purposes and after the facility has ceased to function as a facility for chemical weapons destruction, the facility shall be subject to the provisions of this Part applicable to chemical weapons production facilities.
 
-### D. Conversion of chemical weapons production facilities to purposes not prohibited under this Convention
+### D.---Conversion of chemical weapons production facilities to purposes not prohibited under this Convention
 
 #### Procedures for requesting conversion
     
@@ -3229,7 +3251,7 @@ Destruction of chemical weapons production facilities and its verification pursu
 ## Part VI  
 Activities not prohibited under this Convention in accordance with Article VI Regime for Schedule 1 chemicals and facilities related to such chemicals
 
-### A. General provisions
+### A.---General provisions
     
 *   1\. A State Party shall not produce, acquire, retain or use Schedule 1 chemicals outside the territories of States Parties and shall not transfer such chemicals outside its territory except to another State Party.
 
@@ -3245,7 +3267,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
     
 
-### B. Transfers
+### B.---Transfers
     
 *   3\. A State Party may transfer Schedule 1 chemicals outside its territory only to another State Party and only for research, medical, pharmaceutical or protective purposes in accordance with paragraph 2\.
 
@@ -3261,7 +3283,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
     
 
-### C. Production
+### C.---Production
 
 #### General principles for production
     
@@ -3281,7 +3303,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
 
 *   12\. Synthesis of Schedule 1 chemicals for research, medical or pharmaceutical purposes, but not for protective purposes, may be carried out at laboratories in aggregate quantities less than 100 g per year per facility. These facilities shall not be subject to any obligation relating to declaration and verification as specified in Sections D and E.
 
-### D. Declarations
+### D.---Declarations
 
 #### Single small-scale facility
     
@@ -3379,7 +3401,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
     
 
-### E. Verification
+### E.---Verification
 
 #### Single small-scale facility
     
@@ -3420,7 +3442,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
 ## Part VII  
 Activities not prohibited under this Convention in accordance with Article VI Regime for Schedule 2 chemicals and facilities related to such chemicals
 
-### A. Declarations
+### A.---Declarations
 
 #### Declarations of aggregate national data
     
@@ -3542,7 +3564,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   11\. A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 7(d)(i), 7(d)(iii), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-### B. Verification
+### B.---Verification
 
 #### General
     
@@ -3640,7 +3662,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   30\. A State Party shall be notified by the Technical Secretariat of the inspection not less than 48 hours before the arrival of the inspection team at the plant site to be inspected.
 
-### C. Transfers to States not Party to this Convention
+### C.---Transfers to States not Party to this Convention
     
 *   31\. Schedule 2 chemicals shall only be transferred to or received from States Parties. This obligation shall take effect three years after entry into force of this Convention.
 
@@ -3661,7 +3683,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
 ## Part VIII  
 Activities not prohibited under this Convention in accordance with Article VI Regime for Schedule 3 chemicals and facilities related to such chemicals
 
-### A. Declarations
+### A.---Declarations
 
 #### Declarations of aggregate national data
     
@@ -3749,7 +3771,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   11\. A list of plant sites declared under this Section together with the information provided under paragraphs 6, 7(a), 7(c), 8(a) and 10 shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-### B. Verification
+### B.---Verification
 
 #### General
     
@@ -3811,7 +3833,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   25\. A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
 
-### C. Transfers to States not Party to this Convention
+### C.---Transfers to States not Party to this Convention
     
 *   26\. When transferring Schedule 3 chemicals to States not Party to this Convention, each State Party shall adopt the necessary measures to ensure that the transferred chemicals shall only be used for purposes not prohibited under this Convention. _Inter alia_, the State Party shall require from the recipient State a certificate stating, in relation to the transferred chemicals:
         
@@ -3832,7 +3854,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
 ## Part IX  
 Activities not prohibited under this Convention in accordance with Article VI Regime for other chemical production facilities
 
-### A. Declarations
+### A.---Declarations
 
 #### List of other chemical production facilities
     
@@ -3872,7 +3894,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   8\. The lists of other chemical production facilities submitted pursuant to paragraph 1, including the information provided under paragraph 4, shall be transmitted by the Technical Secretariat to States Parties upon request.
 
-### B. Verification
+### B.---Verification
 
 #### General
     
@@ -3922,7 +3944,7 @@ Activities not prohibited under this Convention in accordance with Article VI Re
     
 *   21\. A State Party shall be notified by the Technical Secretariat of the inspection not less than 120 hours before the arrival of the inspection team at the plant site to be inspected.
 
-### C. Implementation and review of Section B
+### C.---Implementation and review of Section B
 
 #### Implementation
     
@@ -3941,13 +3963,13 @@ Activities not prohibited under this Convention in accordance with Article VI Re
 ## Part X  
 Challenge inspections pursuant to Article IX
 
-### A. Designation and selection of inspectors and inspection assistants
+### A.---Designation and selection of inspectors and inspection assistants
     
 *   1\. Challenge inspections pursuant to Article IX shall only be performed by inspectors and inspection assistants especially designated for this function. In order to designate inspectors and inspection assistants for challenge inspections pursuant to Article IX, the Director-General shall, by selecting inspectors and inspection assistants from among the inspectors and inspection assistants for routine inspection activities, establish a list of proposed inspectors and inspection assistants. It shall comprise a sufficiently large number of inspectors and inspection assistants having the necessary qualification, experience, skill and training, to allow for flexibility in the selection of the inspectors, taking into account their availability, and the need for rotation. Due regard shall be paid also to the importance of selecting inspectors and inspection assistants on as wide a geographical basis as possible. The designation of inspectors and inspection assistants shall follow the procedures provided for under Part II, Section A, of this Annex.
 
 *   2\. The Director-General shall determine the size of the inspection team and select its members taking into account the circumstances of a particular request. The size of the inspection team shall be kept to a minimum necessary for the proper fulfilment of the inspection mandate. No national of the requesting State Party or the inspected State Party shall be a member of the inspection team.
 
-### B. Pre-inspection activities
+### B.---Pre-inspection activities
     
 *   3\. Before submitting the inspection request for a challenge inspection, the State Party may seek confirmation from the Director-General that the Technical Secretariat is in a position to take immediate action on the request. If the Director-General cannot provide such confirmation immediately, he shall do so at the earliest opportunity, in keeping with the order of requests for confirmation. He shall also keep the State Party informed of when it is likely that immediate action can be taken. Should the Director-General reach the conclusion that timely action on requests can no longer be taken, he may ask the Executive Council to take appropriate action to improve the situation in the future.
 
@@ -4083,7 +4105,7 @@ Challenge inspections pursuant to Article IX
 
 *   37\. The perimeter activities of the inspection team may be conducted within a band around the outside of the perimeter up to 50 metres in width measured outward from the perimeter. If the inspected State Party agrees, the inspection team may also have access to any building or structure within the perimeter band. All directional monitoring shall be oriented inward. For declared facilities, at the discretion of the inspected State Party, the band could run inside, outside, or on both sides of the declared perimeter.
 
-### C. Conduct of inspections
+### C.---Conduct of inspections
 
 #### General rules
     
@@ -4157,7 +4179,7 @@ Challenge inspections pursuant to Article IX
     
 *   57\. The period of inspection shall not exceed 84 hours, unless extended by agreement with the inspected State Party.
 
-### D. Post-inspection activities
+### D.---Post-inspection activities
 
 #### Departure
     
@@ -4174,13 +4196,13 @@ Challenge inspections pursuant to Article IX
 ## Part XI  
 Investigations in cases of alleged use of chemical weapons
 
-### A. General
+### A.---General
     
 *   1\. Investigations of alleged use of chemical weapons, or of alleged use of riot control agents as a method of warfare, initiated pursuant to Articles IX or X, shall be conducted in accordance with this Annex and detailed procedures to be established by the Director-General.
 
 *   2\. The following additional provisions address specific procedures required in cases of alleged use of chemical weapons.
 
-### B. Pre-inspection activities
+### B.---Pre-inspection activities
 
 #### Request for an investigation
     
@@ -4236,7 +4258,7 @@ Investigations in cases of alleged use of chemical weapons
 
 *   14\. Before the commencement of the inspection the inspection team shall prepare an inspection plan to serve, _inter alia_, as a basis for logistic and safety arrangements. The inspection plan shall be updated as need arises.
 
-### C. Conduct of inspections
+### C.---Conduct of inspections
 
 #### Access
     
@@ -4262,7 +4284,7 @@ Investigations in cases of alleged use of chemical weapons
     
 *   21\. The inspection team shall have the right to interview and examine persons who may have been affected by the alleged use of chemical weapons. It shall also have the right to interview eyewitnesses of the alleged use of chemical weapons and medical personnel, and other persons who have treated or have come into contact with persons who may have been affected by the alleged use of chemical weapons. The inspection team shall have access to medical histories, if available, and be permitted to participate in autopsies, as appropriate, of persons who may have been affected by the alleged use of chemical weapons.
 
-### D. Reports
+### D.---Reports
 
 #### Procedures
     
@@ -4284,7 +4306,7 @@ Investigations in cases of alleged use of chemical weapons
 
 *   26\. If the inspection team collects through, _inter alia_, identification of any impurities or other substances during laboratory analysis of samples taken, any information in the course of its investigation that might serve to identify the origin of any chemical weapons used, that information shall be included in the report.
 
-### E. States not Party to this Convention
+### E.---States not Party to this Convention
     
 *   27\. In the case of alleged use of chemical weapons involving a State not Party to this Convention or in territory not controlled by a State Party, the Organization shall closely cooperate with the Secretary-General of the United Nations. If so requested, the Organization shall put its resources at the disposal of the Secretary-General of the United Nations.
 
@@ -4294,13 +4316,13 @@ Annex on the Protection of Confidential Information
 
 ## Contents
 
-A.[General principles for the handling of confidential information][146] 
+A.[General principles for the handling of confidential information][149] 
 
-B.[Employment and conduct of personnel in the Technical Secretariat][147] 
+B.[Employment and conduct of personnel in the Technical Secretariat][150] 
 
-C.[Measures to protect sensitive installations and prevent disclosure of confidential data in the course of on-site verification activities][148] 
+C.[Measures to protect sensitive installations and prevent disclosure of confidential data in the course of on-site verification activities][151] 
 
-D.[Procedures in case of breaches or alleged breaches of confidentiality][149] 
+D.[Procedures in case of breaches or alleged breaches of confidentiality][152] 
 
 ---
 
@@ -4410,148 +4432,39 @@ Procedures in case of breaches or alleged breaches of confidentiality
 
 *   23\. For breaches involving both a State Party and the Organization, a ""Commission for the settlement of disputes related to confidentiality"", set up as a subsidiary organ of the Conference, shall consider the case. This Commission shall be appointed by the Conference. Rules governing its composition and operating procedures shall be adopted by the Conference at its first session.
 
----
-
-# Search and Surveillance Act 2012Public Act2012 No 24
-
-Date of assent5 April 2012
-
-Commencementsee section 2
-
-##### 1 Title
-    
-*   This Act is the [Search and Surveillance Act 2012][150].
-
-##### 2 Commencement
-    
-*   (1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012\.
-    
-    (2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-    
-    (3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014\.
-    
-    (4) In this section, _provision_ includes any item, or any part of an item, in the Schedule.
-    
-    Section 2(2): Part 2, section 49(3), (4), subparts 2--4 of Part 3, Part 4 (except sections 136, 140, 141, 148, 162, 165--172, 175, 179--181), Part 5 (except sections 201(3)--(9), 247, 248, 251(3), 302, 325(1)--(3), (5), (7)--(13), 334(1), (7), 337(4), 342, 343, 346, 347, 349, 350, 352--356) and the Schedule (except the items relating to the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 and the Tax Administration Act 1994) brought into force, on 1 October 2012, by [clause 3][151] of the Search and Surveillance Act Commencement Order 2012 (SR 2012/229).
-
-## Part 1  
-General provisions
-
-##### 5 Purpose
-    
-*   The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by---
-        
-    *   (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-    
-    *   (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-    
-    *   (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-    
-    
-
-## Part 5  
-Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4---Regulation-making powers, transitional provisions, and review provision
-
-#### Transitional provisions
-
-##### 351 Transitional provision relating to provisions brought into force under section 2
-    
-*   (1) Despite any amendment in Part 5 of this Act,---
-        
-    *   (a) where an application has been made under an authorising Act before the relevant commencement, and the application is not finally determined before that date, the provisions of that Act continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (b) those provisions continue to apply to a continuing warrant and to any matter relating to the warrant in all respects as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted; and
-    
-    *   (c) those provisions continue to apply to any other proceeding, matter, or thing commenced and not completed before the relevant commencement as if this Act (other than this section and any provisions in force immediately before the relevant commencement) had not been enacted.
-    
-    (2) Subsection (1)(c) does not limit the provisions of the Interpretation Act 1999\.
-    
-    (3) In this section,---
-    
-    _authorising Act_ means an Act amended by Part 5
-    
-    _continuing warrant_ means a warrant or other authority issued under an authorising Act---
-        
-    *   (a) before the relevant commencement; or
-    
-    *   (b) on or after that date on an application made before that date
-    
-    _relevant commencement_, in relation to an authorising Act, means the commencement of a provision in Part 5 that amends an authorising Act.
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Chemical Weapons (Prohibition) Act 1996\. The reprint incorporates all the amendments to the Act as at 1 October 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][152] ![](/images/external_link.gif).
+*   This is a reprint of the Chemical Weapons (Prohibition) Act 1996 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][153] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][153] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][154] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][154] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][155] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][156] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][155] and [17E][156] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][61]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Search and Surveillance Act 2012 (2012 No 24): [section 312][54]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][46]
     
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Search and Surveillance Act 2012 (2012 No 24): [section 312][53]
-    
-    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][49]
+    Policing Act 2008 (2008 No 72): [section 116(a)(ii)][50]
     
     [Chemical Weapons (Prohibition) Act Commencement Order 1997][43] (SR 1997/47)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM386866
 [2]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM386868
 [3]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM386869
@@ -4597,114 +4510,114 @@ Amendments, repeals, and miscellaneous provisions
 [43]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM228417
 [44]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM325216
 [45]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM328505
-[46]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM377336
-[47]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM379566
-[48]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM378459
-[49]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM1102349
-[50]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136542
-[51]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136781
-[52]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136801
-[53]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2137097
-[54]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM321931
-[55]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM195534
-[56]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM388052
-[57]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM115174
-[58]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM343622
-[59]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM388320
-[60]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210301
-[61]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210302
-[62]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210319
-[63]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210320
-[64]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210322
-[65]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210324
-[66]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210329
-[67]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210332
-[68]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210200
-[69]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210346
-[70]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210348
-[71]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210349
-[72]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210350
-[73]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210351
-[74]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210352
-[75]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210353
-[76]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210354
-[77]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210355
-[78]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210356
-[79]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210357
-[80]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210358
-[81]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210359
-[82]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210360
-[83]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210361
-[84]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057613
-[85]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057619
-[86]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057622
-[87]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210363
-[88]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210367
-[89]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210372
-[90]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210410
-[91]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210411
-[92]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210412
-[93]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210413
-[94]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210418
-[95]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210422
-[96]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210430
-[97]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210431
-[98]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210432
-[99]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210433
-[100]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210434
-[101]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210435
-[102]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210436
-[103]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210437
-[104]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210438
-[105]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210443
-[106]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210444
-[107]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210453
-[108]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210460
-[109]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210461
-[110]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210462
-[111]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210463
-[112]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210464
-[113]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210465
-[114]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210471
-[115]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210480
-[116]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210485
-[117]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210492
-[118]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210494
-[119]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210495
-[120]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210496
-[121]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210500
-[122]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210503
-[123]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210506
-[124]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210508
-[125]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210513
-[126]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210520
-[127]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210521
-[128]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210523
-[129]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210528
-[130]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210533
-[131]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210534
-[132]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210536
-[133]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210542
-[134]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210547
-[135]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210550
-[136]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210551
-[137]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210552
-[138]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210562
-[139]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210567
-[140]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210570
-[141]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210571
-[142]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210572
-[143]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210578
-[144]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210584
-[145]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210587
-[146]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210589
-[147]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210590
-[148]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210591
-[149]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210592
-[150]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136500
-[151]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM4686448
-[152]: http://www.pco.parliament.govt.nz/reprints/
-[153]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM195439
-[154]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[155]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM195468
-[156]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM195470
+[46]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM3360714
+[47]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM377336
+[48]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM379566
+[49]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM378459
+[50]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM1102349
+[51]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136542
+[52]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136781
+[53]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2136801
+[54]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2137097
+[55]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM321931
+[56]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2997643
+[57]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998573
+[58]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM388052
+[59]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM115174
+[60]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM343622
+[61]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998633
+[62]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM388320
+[63]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210301
+[64]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210302
+[65]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210319
+[66]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210320
+[67]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210322
+[68]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210324
+[69]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210329
+[70]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210332
+[71]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210200
+[72]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210346
+[73]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210348
+[74]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210349
+[75]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210350
+[76]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210351
+[77]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210352
+[78]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210353
+[79]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210354
+[80]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210355
+[81]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210356
+[82]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210357
+[83]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210358
+[84]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210359
+[85]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210360
+[86]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210361
+[87]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057613
+[88]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057619
+[89]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM3057622
+[90]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210363
+[91]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210367
+[92]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210372
+[93]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210410
+[94]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210411
+[95]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210412
+[96]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210413
+[97]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210418
+[98]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210422
+[99]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210430
+[100]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210431
+[101]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210432
+[102]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210433
+[103]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210434
+[104]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210435
+[105]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210436
+[106]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210437
+[107]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210438
+[108]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210443
+[109]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210444
+[110]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210453
+[111]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210460
+[112]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210461
+[113]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210462
+[114]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210463
+[115]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210464
+[116]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210465
+[117]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210471
+[118]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210480
+[119]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210485
+[120]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210492
+[121]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210494
+[122]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210495
+[123]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210496
+[124]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210500
+[125]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210503
+[126]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210506
+[127]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210508
+[128]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210513
+[129]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210520
+[130]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210521
+[131]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210523
+[132]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210528
+[133]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210533
+[134]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210534
+[135]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210536
+[136]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210542
+[137]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210547
+[138]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210550
+[139]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210551
+[140]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210552
+[141]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210562
+[142]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210567
+[143]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210570
+[144]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210571
+[145]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210572
+[146]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210578
+[147]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210584
+[148]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210587
+[149]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210589
+[150]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210590
+[151]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210591
+[152]: http://www.legislation.govt.nz/act/public/1996/0037/latest/whole.html#DLM2210592
+[153]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998516
+[154]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998515
+[155]: http://www.legislation.govt.nz/act/public/1996/0037/latest/link.aspx?id=DLM2998532
+[156]: http://www.pco.parliament.govt.nz/editorial-conventions/
