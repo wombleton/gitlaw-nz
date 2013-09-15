@@ -1,5 +1,5 @@
 Reprint  
-as at 1 April 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,41 +25,41 @@ This Act is administered by the Ministry of Consumer Affairs.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Sale of services by booksellers][4]
+[3][4][][4][Sale of services by booksellers][4]
 
-[3A][5] [Provision of services][5]
+[3A][5][][5][Provision of services][5]
 
-[4][6] [Power to exempt goods and services][6]
+[4][6][][6][Power to exempt goods and services][6]
 
-[5][7] [Enforcement conditional on compliance with certain requirements][7]
+[5][7][][7][Enforcement conditional on compliance with certain requirements][7]
 
-[6][8] [Requirements as to agreements][8]
+[6][8][][8][Requirements as to agreements][8]
 
-[7][9] [Right of cancellation][9]
+[7][9][][9][Right of cancellation][9]
 
-[8][10] [Agreement may become enforceable][10]
+[8][10][][10][Agreement may become enforceable][10]
 
-[9][11] [Effect of cancellation][11]
+[9][11][][11][Effect of cancellation][11]
 
-[10][12] [Redelivery and care of goods comprised in the notice of cancellation][12]
+[10][12][][12][Redelivery and care of goods comprised in the notice of cancellation][12]
 
-[11][13] [Agreements initiated at the request of the purchaser excluded][13]
+[11][13][][13][Agreements initiated at the request of the purchaser excluded][13]
 
-[11A][14] [Existence of representations to be a question of fact][14]
+[11A][14][][14][Existence of representations to be a question of fact][14]
 
-[12][15] [No contracting out][15]
+[12][15][][15][No contracting out][15]
 
-[13][16] [Application of section 44 of the Mercantile Law Act 1908][16]
+[13][16][][16][Application of section 44 of the Mercantile Law Act 1908][16]
 
-[14][17] [Offences][17]
+[14][17][][17][Offences][17]
 
-[15][18] [Time for laying information][18]
+[15][18][][18][Time for filing charging document][18]
 
-[16][19] [Application][19]
+[16][19][][19][Application][19]
 
 [Schedule 1][20]  
 
@@ -380,9 +380,9 @@ An Act to regulate agreements for the sale of goods and the provision of service
 
 ##### 14 Offences
     
-*   (1) Any vendor who knowingly fails, after a notice of cancellation has been given pursuant to [section 7][9], to repay any money paid by a purchaser, or to redeliver any goods supplied in part exchange shall be guilty of an offence against this Act and (without prejudice to the rights of the purchaser to recover such money or goods by action in a court of competent jurisdiction) shall be liable on summary conviction to a fine not exceeding $200\.
+*   (1) Any vendor who knowingly fails, after a notice of cancellation has been given pursuant to [section 7][9], to repay any money paid by a purchaser, or to redeliver any goods supplied in part exchange shall be guilty of an offence against this Act and (without prejudice to the rights of the purchaser to recover such money or goods by action in a court of competent jurisdiction) shall be liable on conviction to a fine not exceeding $200\.
     
-    (2) A purchaser who knowingly fails in terms of [section 10][12] to redeliver at his own premises any goods delivered to him pursuant to an agreement, shall be guilty of an offence against this Act and (without prejudice to the rights of the vendor to recover the goods by action in a court of competent jurisdiction) shall be liable on summary conviction to a fine not exceeding $200\.
+    (2) A purchaser who knowingly fails in terms of [section 10][12] to redeliver at his own premises any goods delivered to him pursuant to an agreement, shall be guilty of an offence against this Act and (without prejudice to the rights of the vendor to recover the goods by action in a court of competent jurisdiction) shall be liable on conviction to a fine not exceeding $200\.
     
     (2A) Every person commits an offence against this Act who, being the vendor under any agreement that the purchaser may cancel under this Act, stipulates for or demands or accepts, before the end of the period within which the agreement may be so cancelled, the whole or any part of the consideration to be provided by or on behalf of the purchaser under the agreement if---
         
@@ -394,11 +394,17 @@ An Act to regulate agreements for the sale of goods and the provision of service
     
     (4) On conviction of any person of an offence under subsection (2) the court may make an order for the redelivery by the person of the goods to which the agreement relates.
     
+    Section 14(1): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 14(2): amended, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 14(2A): inserted, on 1 April 1974, by section 6 of the Door to Door Sales Amendment Act 1973 (1973 No 42).
 
-##### 15 Time for laying information
+##### 15 Time for filing charging document
     
-*   Notwithstanding anything in [section 14][32] of the Summary Proceedings Act 1957, any information in respect of any offence against this Act may be laid at any time within 2 years after the time when the matter of the information arose.
+*   Despite anything to the contrary in [section 25][33] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 2 years after the date on which the offence was committed.
+    
+    Section 15: replaced, on 1 July 2013, by [section 413][32] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Application
     
@@ -478,8 +484,6 @@ Signature:
 
 Address:
 
----
-
 **Note**: This notice may be given by posting it in a prepaid letter, or by delivering it personally, to the vendor at the address shown on the agreement before the end of the period of 7 days beginning with the day after the day on which you signed the agreement. If you post this notice you are recommended to send it by registered mail so that you obtain proof of the giving of the notice.
     
 *   Schedule 2: amended, on 1 April 1974, by section 3(2) of the Door to Door Sales Amendment Act 1973 (1973 No 42).
@@ -500,23 +504,23 @@ Address:
 
 ###### 1 General
     
-*   This is a reprint of the Door to Door Sales Act 1967\. The reprint incorporates all the amendments to the Act as at 1 April 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Door to Door Sales Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -547,7 +551,9 @@ Address:
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][30]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][32]
+    
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][30]
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][25]
     
@@ -589,9 +595,10 @@ Address:
 [29]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM211520
 [30]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM213532
 [31]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM172477
-[32]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM311191
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195470
+[32]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM3360714
+[33]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM3360067
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/public/1967/0126/latest/link.aspx?id=DLM195470
