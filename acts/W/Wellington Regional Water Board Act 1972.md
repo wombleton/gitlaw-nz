@@ -1,5 +1,5 @@
 Reprint  
-as at 25 March 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -281,7 +281,7 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [112][125][][125][Bylaws and special orders][125]
 
-[113][126][][126][Recovery of fines][126]
+[113][126][][126][Time for filing charging document][126]
 
 [114][127][][127][Liability for rates][127]
 
@@ -479,9 +479,11 @@ Preliminary
     
     *   (c) ceases to be a member of the constituent authority which appointed him.
     
-    (2) Every person who does any act as a member of the Board after his office has become vacant under this section, commits an offence and is liable on summary conviction to a fine not exceeding $100\.
+    (2) Every person who does any act as a member of the Board after his office has become vacant under this section, commits an offence and is liable on conviction to a fine not exceeding $100\.
     
     (3) Any vacancy occurring under this section shall be deemed to be an extraordinary vacancy.
+    
+    Section 11(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Filling of extraordinary vacancies
     
@@ -503,15 +505,17 @@ Preliminary
     
     *   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member of the Board during the period of that leave of absence.
     
-    (6) If any person does any act as a member of the Board while on leave of absence pursuant to subsection (5), he commits an offence and shall be liable on summary conviction to a fine not exceeding $100\.
+    (6) If any person does any act as a member of the Board while on leave of absence pursuant to subsection (5), he commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
-    Section 13(1): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(1): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13(3): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(3): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13(4): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(4): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13(5): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(5): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 13(6): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Chairman of Board
     
@@ -539,7 +543,7 @@ Preliminary
     
 *   (1) Subject to subsection (2), the Board may from time to time appoint standing or special committees consisting of 2 or more persons, and may relegate to any such committee any matters for consideration, inquiry, management, or regulation; and may delegate to any such committee any of the functions, rights, powers, and duties conferred or imposed on the Board by this Act, except the power to borrow money, to make a bylaw, to institute an action, or to make assessments upon constituent authorities.
     
-    (2) Any such committee to which any functions, rights, powers, and duties under the [Soil Conservation and Rivers Control Act 1941][148] and the Water and Soil Conservation Act 1967 are so delegated shall, for the purpose of considering or exercising the same, comprise not only the members appointed by the Board but also 3 additional representatives, 1 of whom shall be appointed by the Minister of Lands, 1 of whom shall be appointed by the Minister of Forests, and 1 of whom shall be appointed by the Minister for the Environment. The 3 additional representatives so appointed shall be entitled to attend and be heard, but not vote, at meetings of the committee.
+    (2) Any such committee to which any functions, rights, powers, and duties under the [Soil Conservation and Rivers Control Act 1941][149] and the Water and Soil Conservation Act 1967 are so delegated shall, for the purpose of considering or exercising the same, comprise not only the members appointed by the Board but also 3 additional representatives, 1 of whom shall be appointed by the Minister of Lands, 1 of whom shall be appointed by the Minister of Forests, and 1 of whom shall be appointed by the Minister for the Environment. The 3 additional representatives so appointed shall be entitled to attend and be heard, but not vote, at meetings of the committee.
     
     (3) Notwithstanding anything to the contrary in this section, every representative appointed by a Minister of the Crown shall hold office during the pleasure of the Minister.
     
@@ -559,7 +563,7 @@ Preliminary
     
     (11) Subsections (5), (6), (8), and (9) of [section 17][20] (relating to meetings of the Board) shall, with the necessary modifications, apply to every meeting of a committee.
     
-    Section 16(2): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 16(2): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 17 Meetings of Board
     
@@ -595,7 +599,7 @@ Preliminary
 
 ##### 19 Allowances to members
     
-*   (1) The Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][150], and there may be paid to members of the Board and of any committee of the Board travelling allowances and expenses in accordance with that Act, which shall apply accordingly.
+*   (1) The Board is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][151], and there may be paid to members of the Board and of any committee of the Board travelling allowances and expenses in accordance with that Act, which shall apply accordingly.
     
     (2) In addition to the allowances authorised by subsection (1), there may be paid, out of the Board's funds, to each member of the Board, other than the Chairman, in respect of each meeting of the Board or of any committee of the Board attended by him, remuneration at a rate fixed by the Board, not exceeding such amount as may be fixed from time to time by the Minister of Finance:
     
@@ -655,7 +659,7 @@ Preliminary
     
     provided that, in place of or in addition to taking such security from any officer, the Board may provide against any losses that may arise in the event of his dishonesty by taking out a guarantee policy and paying the premiums thereon.
     
-    Section 22(3): repealed, on 1 January 2004, by [section 76][151] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 22(3): repealed, on 1 January 2004, by [section 76][152] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 
 ##### 23 Acting officers
     
@@ -694,7 +698,7 @@ Bulk water supply
 
 ##### 25 Waterworks defined
     
-*   In this Part, unless the context otherwise requires, the term **waterworks** includes all rivers, streams, lakes, waters, and underground waters, and all rights appertaining thereto, and all land, watersheds, catchment areas, water collection areas, reservoirs, dams, bores, tanks, and pipes, and all buildings, machinery, and appliances of every kind, vested in the Board or acquired or constructed or operated by or under the control of the Board under this Act, for or relating to the purpose of water supply for or to the region or any part of it, or beyond the region.
+*   In this Part, unless the context otherwise requires, the term _waterworks_ includes all rivers, streams, lakes, waters, and underground waters, and all rights appertaining thereto, and all land, watersheds, catchment areas, water collection areas, reservoirs, dams, bores, tanks, and pipes, and all buildings, machinery, and appliances of every kind, vested in the Board or acquired or constructed or operated by or under the control of the Board under this Act, for or relating to the purpose of water supply for or to the region or any part of it, or beyond the region.
 
 ##### 26 Board to construct waterworks
     
@@ -714,7 +718,7 @@ Bulk water supply
     
     (4) All such waterworks shall vest in the Board.
     
-    (5) For the purpose of exercising and performing its powers and functions under this Part, the Board shall be deemed to be a local authority under the [Health Act 1956][152]; and, subject to the express provisions of this Act, the provisions of the Health Act 1956 shall for that purpose extend and apply accordingly.
+    (5) For the purpose of exercising and performing its powers and functions under this Part, the Board shall be deemed to be a local authority under the [Health Act 1956][153]; and, subject to the express provisions of this Act, the provisions of the Health Act 1956 shall for that purpose extend and apply accordingly.
 
 ##### 27 Local authorities to be notified of work, etc
     
@@ -734,7 +738,7 @@ Bulk water supply
     
     _local work_ has the same meaning as in the Public Works Act 1928; and includes a gas undertaking within the meaning of the Gas Industry Act 1958\.
     
-    Section 27(2): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 27(2): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 28 Entry on private land
     
@@ -762,7 +766,7 @@ Bulk water supply
     
     (3) On the hearing of the appeal, the court, whose decision shall be final, may confirm or amend or set aside the determination of the Board.
     
-    Section 29(2): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 29(2): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 30 Surplus water may be sold for motive power
     
@@ -778,11 +782,13 @@ Bulk water supply
 
 ##### 33 Drawing off water from streams supplying waterworks
     
-*   Every person who, without lawful authority, does any act whether previously authorised in that behalf or not, whereby the waters of any river or stream, being a part of any waterworks under this Part, are drawn off or diminished in quantity, and does not immediately on receiving notice in writing in that behalf from the Board restore the river or stream to the state in which it was in all respects before that act, commits an offence and is liable on summary conviction to a fine not exceeding $200 for every day during which the offence has continued; and the Board may, if it thinks fit, itself restore the river or stream to the said former state, and may recover from that person all the expenses incurred by so doing.
+*   Every person who, without lawful authority, does any act whether previously authorised in that behalf or not, whereby the waters of any river or stream, being a part of any waterworks under this Part, are drawn off or diminished in quantity, and does not immediately on receiving notice in writing in that behalf from the Board restore the river or stream to the state in which it was in all respects before that act, commits an offence and is liable on conviction to a fine not exceeding $200 for every day during which the offence has continued; and the Board may, if it thinks fit, itself restore the river or stream to the said former state, and may recover from that person all the expenses incurred by so doing.
+    
+    Section 33: amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 34 Offences with respect to waterworks
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $200 who does any of the following things:
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $200 who does any of the following things:
         
     *   (a) negligently injures or destroys any part of the waterworks; or
     
@@ -801,14 +807,18 @@ Bulk water supply
     *   (h) connects with a pipe of the waterworks any pipe of a strength or material not approved by the Board.
     
     (2) Every person who commits an offence against this section may, in addition to any penalty for the offence, be ordered to pay the cost incurred by the Board in repairing the injury done to any part of the waterworks by any such act.
+    
+    Section 34(1): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Pollution of waterworks
     
 *   (1) Every person commits an offence who throws or pours any pollutant, or suffers or allows any pollutant to fall or flow, into any water or watershed, being a part of or taken or used for supplying water to any waterworks, or who suffers or permits any livestock of which he is the owner or of which he has control to trespass on to any waterworks.
     
-    (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $200, and to a further fine not exceeding $20 for every day during which the offence has continued after he has received notice in writing from the Secretary to discontinue the same.
+    (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $200, and to a further fine not exceeding $20 for every day during which the offence has continued after he has received notice in writing from the Secretary to discontinue the same.
     
     (3) In this section, _pollutant_ means anything which contaminates water so as to change its physical or chemical condition in such a manner as to make it unclean, noxious, or impure, or as to be detrimental to the health, safety, or welfare of persons using the water, or as to render the water undrinkable.
+    
+    Section 35(2): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Factories, etc, may be examined
     
@@ -844,9 +854,9 @@ Bulk water supply
     
     (2) The decision of the High Court on any such appeal shall be final.
     
-    Section 39(1): amended, on 1 April 1980, pursuant to [section 12][153] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 39(1): amended, on 1 April 1980, pursuant to [section 12][154] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 39(2): replaced, on 15 August 1991, by [section 3(4)][154] of the Judicature Amendment Act 1991 (1991 No 60).
+    Section 39(2): replaced, on 15 August 1991, by [section 3(4)][155] of the Judicature Amendment Act 1991 (1991 No 60).
 
 ##### 40 Board may operate constituent authority's waterworks
     
@@ -913,7 +923,7 @@ Forestry provisions
     
 *   (1) The Board may from time to time designate any employee as a forest officer.
     
-    (2) Any forest officer may, with the written consent of the Secretary, hold an auction of forest produce without being the holder of a licence under the [Auctioneers Act 1928][155].
+    (2) Any forest officer may, with the written consent of the Secretary, hold an auction of forest produce without being the holder of a licence under the [Auctioneers Act 1928][156].
 
 ##### 47 Honorary rangers
     
@@ -1007,7 +1017,7 @@ Forestry provisions
 
 ##### 57 Offences in respect of water collection and forestry areas
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $200 who, within any water collection or forestry area vested in or under the control of the Board, except pursuant to a licence or permit granted under this Part or to other lawful authority,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $200 who, within any water collection or forestry area vested in or under the control of the Board, except pursuant to a licence or permit granted under this Part or to other lawful authority,---
         
     *   (a) hunts, shoots, kills, destroys, lays poison, or sets traps for the purpose of killing or capturing any animal or bird; or
     
@@ -1019,7 +1029,7 @@ Forestry provisions
     
     *   (e) lights any fire.
     
-    
+    Section 57: amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Water supply and forestry bylaws
     
@@ -1174,7 +1184,7 @@ Underground water
 
 ##### 64 Breach of bylaws
     
-*   (1) Every person who acts in contravention of or fails to comply with any provision of any bylaw made under this Part commits an offence and shall be liable on summary conviction---
+*   (1) Every person who acts in contravention of or fails to comply with any provision of any bylaw made under this Part commits an offence and shall be liable on conviction---
         
     *   (a) if the bylaw was made under paragraph (l) or paragraph (n) of subsection (1) of [section 61][67], to a fine not exceeding $2,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued:
     
@@ -1184,7 +1194,9 @@ Underground water
     
     (3) Without limiting the liability of any person to be convicted of an offence under subsection (1), the High Court shall have jurisdiction to restrain any breach or threatened breach of any bylaw made under this Part by injunction at the instance of the Board, and to make such order in the matter as to costs and otherwise as it thinks fit.
     
-    Section 64(3): amended, on 1 April 1980, pursuant to [section 12][153] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 64(1): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 64(3): amended, on 1 April 1980, pursuant to [section 12][154] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 65 Charges for water
     
@@ -1220,9 +1232,9 @@ Underground water
     
     Section 66(3): replaced (with effect on 1 April 1975), on 3 May 1975, by section 3(2) of the Wellington Regional Water Board Amendment Act 1975 (1975 No 3 (L)).
     
-    Section 66(4): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(4): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 66(9): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 66(9): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 67 Saving of existing bylaws
     
@@ -1241,7 +1253,7 @@ Soil conservation and rivers control
     
     *   (c) references in the said provisions to a catchment district shall be read as references to the region.
     
-    (2) In its application to the region and the Board, the references in [section 11][156] of the Soil Conservation and Rivers Control Amendment Act 1948 to a valuation roll shall be read as references to the valuation rolls prepared in respect of the districts of the constituent authorities under section 28 of the Valuation of Land Act 1951 or section 28 of the Rating Act 1967\.
+    (2) In its application to the region and the Board, the references in [section 11][157] of the Soil Conservation and Rivers Control Amendment Act 1948 to a valuation roll shall be read as references to the valuation rolls prepared in respect of the districts of the constituent authorities under section 28 of the Valuation of Land Act 1951 or section 28 of the Rating Act 1967\.
 
 ##### 68A Affiliation with Catchment Authorities' Association
     
@@ -1249,7 +1261,7 @@ Soil conservation and rivers control
     
     Section 68A: inserted (with effect on 1 April 1975), on 3 May 1975, by section 4 of the Wellington Regional Water Board Amendment Act 1975 (1975 No 3 (L)).
     
-    Section 68A: amended, on 1 April 1988, pursuant to [section 52(1)][157] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
+    Section 68A: amended, on 1 April 1988, pursuant to [section 52(1)][158] of the Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48).
 
 ## Part 6  
 Powers and duties
@@ -1286,17 +1298,17 @@ Powers and duties
     
     provided that, except in any case where the rate of interest is fixed by any other enactment, the Minister of Local Government shall not approve a rate of interest in excess of the maximum rate determined for the time being by the Minister of Finance for the purposes of section 9 of the Local Authorities Loans Act 1956:
     
-    provided also that the approval of the Minister of Local Government to the purchase or to the rate of interest shall not be required in the case of the purchase of land from the Crown on deferred payment licence under the [Land Act 1948][158], and the instalments under any such licence may extend over a period not exceeding 30 years.
+    provided also that the approval of the Minister of Local Government to the purchase or to the rate of interest shall not be required in the case of the purchase of land from the Crown on deferred payment licence under the [Land Act 1948][159], and the instalments under any such licence may extend over a period not exceeding 30 years.
     
     (2) The Board may from time to time purchase or hire plant and machinery for the purpose of executing any of its works.
     
     (3) The Board may sell or let out on hire or on loan, on such terms as it thinks fit, any such plant or machinery purchased by it.
     
-    Section 72(1): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 72(1): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 72(1) first proviso: amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 72(1) first proviso: amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 72(1) second proviso: amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 72(1) second proviso: amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 73 Contracts for works
     
@@ -1336,9 +1348,9 @@ Powers and duties
     
     (3) In any sudden emergency or danger to any waterworks or property adjoining the Board may, without any previous notice, proceed to effect the necessary repairs, but shall as soon as practicable thereafter inform the appropriate Minister or the National Roads Board, as the case may require.
     
-    Section 77(1)(a): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 77(1)(a): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 77(2): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 77(2): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 78 Board not authorised by this Act to create a nuisance
     
@@ -1361,9 +1373,9 @@ Financial provisions
     
     (5) Every payment of money by the Board shall be authorised by a prior resolution of the Board or shall be submitted to the Board for confirmation at its first ordinary meeting after the date of payment.
     
-    Section 79(3) proviso: amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 79(3) proviso: amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 79(4): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 79(4): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 80 Board may establish imprest account
     
@@ -1377,9 +1389,9 @@ Financial provisions
     
     (5) The payment of money out of the imprest account for any purpose not authorised by subsection (4) shall be misappropriation of the funds of the Board.
     
-    Section 80(2): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 80(2): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 80(3): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 80(3): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 81 Financial records
     
@@ -1413,9 +1425,9 @@ Financial provisions
     
     (5) The whole or any portion of any amount transferred pursuant to subsection (4) may at any time be re-transferred to the said separate account.
     
-    Section 81(2): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 81(2): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 81(3): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 81(3): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 82 Board may establish depreciation and plant renewal funds and reserve funds
     
@@ -1427,7 +1439,7 @@ Financial provisions
     
     provided that the amount so payable into the separate bank account may be reduced by the amount of any expenditure actually incurred and properly charged to the fund which has not already been withdrawn from the separate bank account.
     
-    (4) The Board may from time to time invest any money in the said separate bank account in the manner in which trust funds may be invested in accordance with the [Trustee Act 1956][160] or in accordance with any other Act.
+    (4) The Board may from time to time invest any money in the said separate bank account in the manner in which trust funds may be invested in accordance with the [Trustee Act 1956][161] or in accordance with any other Act.
 
 ##### 83 Borrowing powers
     
@@ -1505,7 +1517,7 @@ Financial provisions
     
     (5) [Sections 91 to 97][101] shall apply in respect of all charges and surcharges payable by constituent authorities under this Part.
     
-    Section 88(4): amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 88(4): amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 89 Calculation of assessments
     
@@ -1539,19 +1551,19 @@ Financial provisions
     
 *   (1) If any constituent authority is dissatisfied with such estimate or assessment, it may, within 28 days after notice of the assessment has been given to it, appeal to the High Court against the estimate or assessment.
     
-    (2) The provisions of the [Land Valuation Proceedings Act 1948][161], so far as they are applicable and with the necessary modifications, shall apply in respect of every such appeal.
+    (2) The provisions of the [Land Valuation Proceedings Act 1948][162], so far as they are applicable and with the necessary modifications, shall apply in respect of every such appeal.
     
     (3) On any such appeal the court may confirm or modify the estimate or assessment to which the appeal relates.
     
-    Section 92(1): amended, on 1 April 1980, pursuant to [section 12][153] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 92(1): amended, on 1 April 1980, pursuant to [section 12][154] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 93 Jurisdiction of District Court
     
-*   Except where [section 38][162] of the Land Valuation Proceedings Act 1948 applies, the Board may, notwithstanding that the amount sought to be recovered is in excess of the jurisdiction of any District Court, sue for and recover the amount of any such contribution in any such court as a debt.
+*   Except where [section 38][163] of the Land Valuation Proceedings Act 1948 applies, the Board may, notwithstanding that the amount sought to be recovered is in excess of the jurisdiction of any District Court, sue for and recover the amount of any such contribution in any such court as a debt.
     
-    Section 93 heading: amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93 heading: amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 93: amended, on 1 April 1980, pursuant to [section 18(2)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 93: amended, on 1 April 1980, pursuant to [section 18(2)][148] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 94 Production of documents to be evidence
     
@@ -1587,7 +1599,7 @@ Financial provisions
     
     (2) The power to make and levy a rate conferred by paragraph (b) of subsection (1) may be exercised by a constituent authority in addition to all other powers which it has under any other Act and notwithstanding any provision in any Act limiting or in any way affecting its power to rate.
     
-    (3) Where a constituent authority resolves to levy a separate rate under the provisions of paragraph (b) of subsection (1), it may classify the rateable properties within its local district or the portion thereof within the region and make and levy a separate rate on a sliding scale according to such classification; and the provisions of the [Soil Conservation and Rivers Control Act 1941][148] shall, with the necessary modifications, apply to such classification and rate.
+    (3) Where a constituent authority resolves to levy a separate rate under the provisions of paragraph (b) of subsection (1), it may classify the rateable properties within its local district or the portion thereof within the region and make and levy a separate rate on a sliding scale according to such classification; and the provisions of the [Soil Conservation and Rivers Control Act 1941][149] shall, with the necessary modifications, apply to such classification and rate.
 
 ##### 97 Powers of Board to recover contributions in case of default
     
@@ -1599,11 +1611,11 @@ Financial provisions
     
     (4) For the purpose of enabling the Board to collect and recover the amount of such contribution or assessment, interest, and costs, any Judge of the High Court shall, on application by or on behalf of the Board, have the same power, with the necessary modifications, with reference to such constituent authority as he would have under the Local Authorities Loans Act 1956, if default had been made by that authority in payment of any principal or interest due on any debenture by it and also full power to order, authorise, and empower the Board and its officers to make, levy, and collect such rate in the same way and to the same extent as such constituent authority so in default would be entitled to do.
     
-    Section 97(4): amended, on 1 April 1980, pursuant to [section 12][153] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 97(4): amended, on 1 April 1980, pursuant to [section 12][154] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 98 Superannuation and other benefits for employees
     
-*   (1) The Board is hereby declared to be a local authority for the purposes of the National Provident Fund Act 1950 and [section 6][163] of the Finance Act (No 2) 1941\.
+*   (1) The Board is hereby declared to be a local authority for the purposes of the National Provident Fund Act 1950 and [section 6][164] of the Finance Act (No 2) 1941\.
     
     (2) The Board may from time to time, by way of subsidy, pay such sums as it thinks fit to the funds of any sick, death, or funeral benefit society, or other similar institution established by its employees, or any section of them, the benefits of which are confined to such employees and their dependants.
 
@@ -1611,7 +1623,7 @@ Financial provisions
     
 *   As soon as practicable after the end of every financial year, the Treasurer shall prepare an abstract of all the transactions in the accounts referred to in [section 81][91] in respect of that year, together with such statements as may be prescribed by the Auditor-General that are necessary to show fully the financial position of the Board and the financial results of its operations during that year.
     
-    Section 99: amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 99: amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 100 Audit of accounts
     
@@ -1619,11 +1631,11 @@ Financial provisions
     
     (2) The Board's accounts in respect of each financial year shall be submitted to the Auditor-General for audit before 30 September next following that year.
     
-    Section 100(1): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 100(1): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
     
     Section 100(2): inserted, on 17 January 1977, by section 5 of the Wellington Regional Water Board Amendment Act 1976 (1976 No 11 (L)).
     
-    Section 100(2): amended, on 1 July 2001, pursuant to [section 52][159] of the Public Audit Act 2001 (2001 No 10).
+    Section 100(2): amended, on 1 July 2001, pursuant to [section 52][160] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 101 Abstract and inspection of accounts
     
@@ -1631,7 +1643,9 @@ Financial provisions
     
     (2) The financial records referred to in [section 81][91] shall at all reasonable times during office hours be open to inspection by any member of the Board or by any member of any constituent authority or other person appointed by it in that behalf, and any such person may make copies of or take extracts from such financial records.
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $20 who, having the custody of the financial records, fails or refuses or neglects to permit any person permitted under the provisions of subsection (2) to inspect or to make copies of or take extracts from such financial records.
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $20 who, having the custody of the financial records, fails or refuses or neglects to permit any person permitted under the provisions of subsection (2) to inspect or to make copies of or take extracts from such financial records.
+    
+    Section 101(3): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 8  
 Abolition of certain local authorities
@@ -1748,9 +1762,11 @@ General provisions
     
     (3) The publication in the _Gazette_ of any bylaw purporting to be made under this section shall be sufficient evidence that it has been duly made and approved under this section, in the absence of proof to the contrary.
     
-    (4) Every person who commits a breach of any bylaw made under this section shall be liable on summary conviction to a fine not exceeding $200\.
+    (4) Every person who commits a breach of any bylaw made under this section shall be liable on conviction to a fine not exceeding $200\.
     
-    Section 110(2): amended, on 1 April 1988, by [section 8][149] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 110(2): amended, on 1 April 1988, by [section 8][150] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    
+    Section 110(4): amended, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 111 Reserves and Domains Act 1953 not to apply
     
@@ -1762,11 +1778,11 @@ General provisions
     
     (2) In addition to the public notice required by paragraph (c) of the said section 77 of the Municipal Corporations Act 1954 the Board shall give to each constituent authority not less than 14 clear days' notice of the time and place fixed for the subsequent meeting and of the purport of the resolution to be confirmed at such subsequent meeting.
 
-##### 113 Recovery of fines
+##### 113 Time for filing charging document
     
-*   All fines imposed by this Act or by any bylaw made by the Board under the authority of this Act or any other Act may be recovered in a summary manner under the [Summary Proceedings Act 1957][164]:
+*   Despite anything to the contrary in [section 25][165] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any bylaw made under it ends on the date that is 12 months after the date on which the offence was committed.
     
-    provided that any information in respect of an offence against this Act or under such bylaw may be laid at any time within 12 months after the time when the matter of the information arose.
+    Section 113: replaced, on 1 July 2013, by [section 413][147] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 114 Liability for rates
     
@@ -1804,9 +1820,9 @@ General provisions
     
     *   (b) in any other case, the High Court.
     
-    Section 117(9)(a): amended, on 1 April 1980, pursuant to [section 18(1)][147] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 117(9)(a): amended, on 1 April 1980, pursuant to [section 18(1)][148] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 117(9)(b): amended, on 1 April 1980, pursuant to [section 12][153] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 117(9)(b): amended, on 1 April 1980, pursuant to [section 12][154] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 118 Service of legal proceedings on Board
     
@@ -1824,9 +1840,9 @@ General provisions
     
     (3) Every reference to the Hutt River Board in the Hutt River Improvement and Reclamation Act 1922 shall hereafter be read as a reference to the Board.
     
-    (4) Notwithstanding anything in the [River Boards Act 1908][165] or the Local Elections and Polls Act 1966, but subject to subsection (5), every person who, on the passing of this Act, is a member of the Hutt River Board shall, subject to [section 34][166] of the River Boards Act 1908, continue to hold office as a member of that Board until the expiry of 28 February 1973\.
+    (4) Notwithstanding anything in the [River Boards Act 1908][166] or the Local Elections and Polls Act 1966, but subject to subsection (5), every person who, on the passing of this Act, is a member of the Hutt River Board shall, subject to [section 34][167] of the River Boards Act 1908, continue to hold office as a member of that Board until the expiry of 28 February 1973\.
     
-    (5) Notwithstanding anything in the [River Boards Act 1908][165] or the Local Elections and Polls Act 1966, on the occurrence of an extraordinary vacancy in the office of a member of the Hutt River Board on or after the passing of this Act and before 28 February 1973, that Board may by resolution determine---
+    (5) Notwithstanding anything in the [River Boards Act 1908][166] or the Local Elections and Polls Act 1966, on the occurrence of an extraordinary vacancy in the office of a member of the Hutt River Board on or after the passing of this Act and before 28 February 1973, that Board may by resolution determine---
         
     *   (a) that the vacancy shall not be filled; or
     
@@ -1854,15 +1870,15 @@ General provisions
     
     (5) \[Repealed\]
     
-    Section 123(1): repealed, on 1 July 2003, by [section 266][167] of the Local Government Act 2002 (2002 No 84).
+    Section 123(1): repealed, on 1 July 2003, by [section 266][168] of the Local Government Act 2002 (2002 No 84).
     
-    Section 123(2): repealed, on 1 March 1988, by [section 58(1)][168] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 123(2): repealed, on 1 March 1988, by [section 58(1)][169] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
     
-    Section 123(5): repealed, on 1 December 1974, by [section 197(1)][169] of the Local Government Act 1974 (1974 No 66).
+    Section 123(5): repealed, on 1 December 1974, by [section 197(1)][170] of the Local Government Act 1974 (1974 No 66).
 
 ##### 124 Public Bodies Leases Act 1969 applied to Board
     
-*   The Board is hereby declared to be a leasing authority for the purposes of the [Public Bodies Leases Act 1969][170].
+*   The Board is hereby declared to be a leasing authority for the purposes of the [Public Bodies Leases Act 1969][171].
 
 ---
 
@@ -1893,23 +1909,23 @@ Provisions of Soil Conservation and Rivers Control Act 1941 and amendments which
 
 ##### Soil Conservation and Rivers Control Act 1941
 
-[Sections 2][171], [11][172], [30][173], [34 to 39][174], [108A][175], [122(3)][176], [125 to 131][177], [132(3)][178], [133][179], [134][180], [135(e), (f)][181], [136 to 138][182], [143][183], [144][184], [145A][185], [146 to 152][186], [152A][187], [153 to 160][188], [165A][189], [168][190].
+[Sections 2][172], [11][173], [30][174], [34 to 39][175], [108A][176], [122(3)][177], [125 to 131][178], [132(3)][179], [133][180], [134][181], [135(e), (f)][182], [136 to 138][183], [143][184], [144][185], [145A][186], [146 to 152][187], [152A][188], [153 to 160][189], [165A][190], [168][191].
 
 ##### Soil Conservation and Rivers Control Amendment Act 1946
 
-[Sections 4(4)][191], [7][192].
+[Sections 4(4)][192], [7][193].
 
 ##### Soil Conservation and Rivers Control Amendment Act 1948
 
-[Sections 11][156], [12][193].
+[Sections 11][157], [12][194].
 
 ##### Soil Conservation and Rivers Control Amendment Act 1959
 
-[Part 2][194].
+[Part 2][195].
 
 ##### Statutes Amendment Act 1945
 
-[Section 80][195].
+[Section 80][196].
 
 ---
 
@@ -1932,7 +1948,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Local Authorities (Members' Interests) Act 1968 (1968 No 147)
 
-_Amendment(s) incorporated in the [Act(s)][196]._
+_Amendment(s) incorporated in the [Act(s)][197]._
 
 ##### Local Government Commission Act 1967 (1967 No 134)
 
@@ -1940,7 +1956,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Bodies Contracts Act 1959 (1959 No 98)
 
-_Amendment(s) incorporated in the [Act(s)][197]._
+_Amendment(s) incorporated in the [Act(s)][198]._
 
 ##### Public Bodies Meetings Act 1962 (1962 No 113)
 
@@ -1985,23 +2001,23 @@ Orders in Council revoked
 
 ###### 1 General
     
-*   This is a reprint of the Wellington Regional Water Board Act 1972\. The reprint incorporates all the amendments to the Act as at 25 March 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Wellington Regional Water Board Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][198] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][199] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][199] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][200] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][200] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][201] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][201] and [17E][202] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][202] and [17E][203] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2032,29 +2048,31 @@ Orders in Council revoked
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Wellington Regional Council (Water Board Functions) Act 2005 (2005 No 1 (L)): [section 6][146]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][147]
     
-    Local Government Act 2002 (2002 No 84): [section 266][167]
+    Wellington Regional Council (Water Board Functions) Act 2005 (2005 No 1 (L)): [section 6][146]
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][151]
+    Local Government Act 2002 (2002 No 84): [section 266][168]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][159]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][152]
     
-    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][154]
+    Public Audit Act 2001 (2001 No 10): [section 52][160]
+    
+    Judicature Amendment Act 1991 (1991 No 60): [section 3(4)][155]
     
     Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27): sections 50, 51
     
     Soil Conservation and Rivers Control Amendment Act 1988 (1988 No 48): section 52(1)
     
-    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][149]
+    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][150]
     
-    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][168]
+    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][169]
     
     Wellington Regional Water Board Amendment Act 1983 (1983 No 11 (L))
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][147]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][148]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][153]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][154]
     
     Local Government Amendment Act 1979 (1979 No 59): [section 8(3)][144]
     
@@ -2062,7 +2080,7 @@ Orders in Council revoked
     
     Wellington Regional Water Board Amendment Act 1975 (1975 No 3 (L))
     
-    Local Government Act 1974 (1974 No 66): [section 197(1)][169]
+    Local Government Act 1974 (1974 No 66): [section 197(1)][170]
     
     Public Works Amendment Act 1973 (1973 No 44): section 2(4)(a)
 
@@ -2215,59 +2233,60 @@ Orders in Council revoked
 [144]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM34672
 [145]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM88800
 [146]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM88821
-[147]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM35085
-[148]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230364
-[149]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM131615
-[150]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM264952
-[151]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM145126
-[152]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM305839
-[153]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM35049
-[154]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230219
-[155]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM205305
-[156]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM248887
-[157]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM131677
-[158]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM250585
-[159]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM88956
-[160]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM304703
-[161]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249212
-[162]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249651
-[163]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM235134
-[164]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM310742
-[165]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM172771
-[166]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM173297
-[167]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM174092
-[168]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM123615
-[169]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM419406
-[170]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM394841
-[171]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230370
-[172]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230674
-[173]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM231010
-[174]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM231078
-[175]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232155
-[176]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232405
-[177]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232410
-[178]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232440
-[179]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232442
-[180]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232446
-[181]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232447
-[182]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232448
-[183]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232462
-[184]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232466
-[185]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232473
-[186]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232481
-[187]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232826
-[188]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232832
-[189]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232871
-[190]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232877
-[191]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM240829
-[192]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM240834
-[193]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249206
-[194]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM323097
-[195]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM239197
-[196]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM390522
-[197]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM324284
-[198]: http://www.pco.parliament.govt.nz/reprints/
-[199]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195439
-[200]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[201]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195468
-[202]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195470
+[147]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM3360714
+[148]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM35085
+[149]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230364
+[150]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM131615
+[151]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM264952
+[152]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM145126
+[153]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM305839
+[154]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM35049
+[155]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230219
+[156]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM205305
+[157]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM248887
+[158]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM131677
+[159]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM250585
+[160]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM88956
+[161]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM304703
+[162]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249212
+[163]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249651
+[164]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM235134
+[165]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM3360067
+[166]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM172771
+[167]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM173297
+[168]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM174092
+[169]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM123615
+[170]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM419406
+[171]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM394841
+[172]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230370
+[173]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM230674
+[174]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM231010
+[175]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM231078
+[176]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232155
+[177]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232405
+[178]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232410
+[179]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232440
+[180]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232442
+[181]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232446
+[182]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232447
+[183]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232448
+[184]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232462
+[185]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232466
+[186]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232473
+[187]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232481
+[188]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232826
+[189]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232832
+[190]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232871
+[191]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM232877
+[192]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM240829
+[193]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM240834
+[194]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM249206
+[195]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM323097
+[196]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM239197
+[197]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM390522
+[198]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM324284
+[199]: http://www.pco.parliament.govt.nz/reprints/
+[200]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195439
+[201]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[202]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195468
+[203]: http://www.legislation.govt.nz/act/local/1972/0003/latest/link.aspx?id=DLM195470
