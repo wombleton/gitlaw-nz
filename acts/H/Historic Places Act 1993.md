@@ -1,5 +1,5 @@
 Reprint  
-as at 13 March 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,301 +25,301 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Purpose and principles][5]
+[4][5][][5][Purpose and principles][5]
 
 [Part 1][6]  
 [Protection of historic places][6]
 
 [Heritage orders][7]
 
-[5][8] [Heritage orders][8]
+[5][8][][8][Heritage orders][8]
 
 [Heritage covenants][9]
 
-[6][10] [Heritage covenants][10]
+[6][10][][10][Heritage covenants][10]
 
-[7][11] [Effect of heritage covenants][11]
+[7][11][][11][Effect of heritage covenants][11]
 
-[8][12] [District Land Registrar to register heritage covenants][12]
+[8][12][][12][District Land Registrar to register heritage covenants][12]
 
 [Archaeological sites][13]
 
-[9][14] [Application of sections 10 to 20][14]
+[9][14][][14][Application of sections 10 to 20][14]
 
-[10][15] [Archaeological sites not to be destroyed, damaged, or modified][15]
+[10][15][][15][Archaeological sites not to be destroyed, damaged, or modified][15]
 
-[11][16] [Application to destroy, damage, or modify archaeological site][16]
+[11][16][][16][Application to destroy, damage, or modify archaeological site][16]
 
-[12][17] [Application for general authority to destroy, damage, or modify archaeological site][17]
+[12][17][][17][Application for general authority to destroy, damage, or modify archaeological site][17]
 
-[13][18] [Investigation where no authority application lodged][18]
+[13][18][][18][Investigation where no authority application lodged][18]
 
-[14][19] [Powers of Trust in relation to authority application][19]
+[14][19][][19][Powers of Trust in relation to authority application][19]
 
-[15][20] [Conditions of authority][20]
+[15][20][][20][Conditions of authority][20]
 
-[16][21] [Review of conditions of authority][21]
+[16][21][][21][Review of conditions of authority][21]
 
-[17][22] [Rights and duties under authority applications][22]
+[17][22][][22][Rights and duties under authority applications][22]
 
-[18][23] [Investigation of archaeological sites][23]
+[18][23][][23][Investigation of archaeological sites][23]
 
-[19][24] [Advice to chief executive][24]
+[19][24][][24][Advice to chief executive][24]
 
 [Rights of appeal][25]
 
-[20][26] [Rights of appeal][26]
+[20][26][][26][Rights of appeal][26]
 
-[20A][27] [Commencement of authority][27]
+[20A][27][][27][Commencement of authority][27]
 
 [Rights of entry][28]
 
-[21][29] [Rights of entry][29]
+[21][29][][29][Rights of entry][29]
 
 [Part 2][30]  
 [Registration of historic places, historic areas, wahi tapu, and wahi tapu areas][30]
 
-[22][31] [Register of historic places, historic areas, wahi tapu, and wahi tapu areas][31]
+[22][31][][31][Register of historic places, historic areas, wahi tapu, and wahi tapu areas][31]
 
-[23][32] [Criteria for registration of historic places and historic areas][32]
+[23][32][][32][Criteria for registration of historic places and historic areas][32]
 
-[24][33] [Provisions relating to historic places][33]
+[24][33][][33][Provisions relating to historic places][33]
 
-[25][34] [Provisions relating to wahi tapu][34]
+[25][34][][34][Provisions relating to wahi tapu][34]
 
-[26][35] [Interim registration][35]
+[26][35][][35][Interim registration][35]
 
-[27][36] [Interim protection of places proposed for registration][36]
+[27][36][][36][Interim protection of places proposed for registration][36]
 
-[28][37] [Procedure if registration of historic place or wahi tapu proposed][37]
+[28][37][][37][Procedure if registration of historic place or wahi tapu proposed][37]
 
-[29][38] [Final registration may be confirmed by agreement][38] \[Repealed\]
+[29][38][][38][Final registration may be confirmed by agreement][38] \[Repealed\]
 
-[30][39] [Final registration][39] \[Repealed\]
+[30][39][][39][Final registration][39] \[Repealed\]
 
-[31][40] [Provisions relating to historic areas][40]
+[31][40][][40][Provisions relating to historic areas][40]
 
-[32][41] [Provisions relating to wahi tapu areas][41]
+[32][41][][41][Provisions relating to wahi tapu areas][41]
 
-[32A][42] [Procedure if registration of historic area or wahi tapu area proposed][42]
+[32A][42][][42][Procedure if registration of historic area or wahi tapu area proposed][42]
 
-[32B][43] [Registration may be confirmed by agreement][43]
+[32B][43][][43][Registration may be confirmed by agreement][43]
 
-[32C][44] [When registration occurs][44]
+[32C][44][][44][When registration occurs][44]
 
-[32D][45] [Territorial authorities and regional councils must have particular regard to recommendations][45]
+[32D][45][][45][Territorial authorities and regional councils must have particular regard to recommendations][45]
 
-[33][46] [Proposals affecting registered wahi tapu areas][46]
+[33][46][][46][Proposals affecting registered wahi tapu areas][46]
 
-[34][47] [Records to be supplied to territorial authorities][47]
+[34][47][][47][Records to be supplied to territorial authorities][47]
 
-[35][48] [Notification to territorial authorities for land information memorandum and project information memorandum purposes][48]
+[35][48][][48][Notification to territorial authorities for land information memorandum and project information memorandum purposes][48]
 
-[36][49] [Availability of register][49]
+[36][49][][49][Availability of register][49]
 
-[37][50] [Review, variation, or removal of registration][50]
+[37][50][][50][Review, variation, or removal of registration][50]
 
-[37A][51] [Removal of registration in cases of destruction or demolition][51]
+[37A][51][][51][Removal of registration in cases of destruction or demolition][51]
 
 [Part 3][52]  
 [New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees][52]
 
 [Constitution of Trust and Board][53]
 
-[38][54] [New Zealand Historic Places Trust (Pouhere Taonga)][54]
+[38][54][][54][New Zealand Historic Places Trust (Pouhere Taonga)][54]
 
-[39][55] [Functions of Trust][55]
+[39][55][][55][Functions of Trust][55]
 
-[40][56] [New Zealand Historic Places Board of Trustees][56]
+[40][56][][56][New Zealand Historic Places Board of Trustees][56]
 
-[41][57] [Board has functions and powers of Trust][57] \[Repealed\]
+[41][57][][57][Board has functions and powers of Trust][57] \[Repealed\]
 
-[42][58] [Membership of Board][58]
+[42][58][][58][Membership of Board][58]
 
-[43][59] [Term of office of elected members of Board][59]
+[43][59][][59][Term of office of elected members of Board][59]
 
-[43A][60] [Extraordinary vacancies][60]
+[43A][60][][60][Extraordinary vacancies][60]
 
-[44][61] [Deputy Chairperson of Board][61] \[Repealed\]
+[44][61][][61][Deputy Chairperson of Board][61] \[Repealed\]
 
-[45][62] [Resignation or removal from office][62] \[Repealed\]
+[45][62][][62][Resignation or removal from office][62] \[Repealed\]
 
-[46][63] [Leave of absence][63] \[Repealed\]
+[46][63][][63][Leave of absence][63] \[Repealed\]
 
-[47][64] [Co-opted members][64] \[Repealed\]
+[47][64][][64][Co-opted members][64] \[Repealed\]
 
-[48][65] [Extraordinary vacancies][65] \[Repealed\]
+[48][65][][65][Extraordinary vacancies][65] \[Repealed\]
 
-[49][66] [Powers of Board not affected by vacancies][66] \[Repealed\]
+[49][66][][66][Powers of Board not affected by vacancies][66] \[Repealed\]
 
 [Conduct of business][67]
 
-[50][68] [Meetings of Board][68]
+[50][68][][68][Meetings of Board][68]
 
-[51][69] [Chief executive entitled to attend meetings of Board][69] \[Repealed\]
+[51][69][][69][Chief executive entitled to attend meetings of Board][69] \[Repealed\]
 
-[52][70] [Proceedings not affected by certain irregularities][70] \[Repealed\]
+[52][70][][70][Proceedings not affected by certain irregularities][70] \[Repealed\]
 
-[53][71] [Members of Board not personally liable][71] \[Repealed\]
+[53][71][][71][Members of Board not personally liable][71] \[Repealed\]
 
 [Powers of Trust][72]
 
-[54][73] [Powers of Trust][73]
+[54][73][][73][Powers of Trust][73]
 
-[55][74] [General rules as to delegation of functions or powers by Board][74]
+[55][74][][74][General rules as to delegation of functions or powers by Board][74]
 
-[55A][75] [Additional powers of delegation in respect of Maori Heritage Council and branch committees][75]
+[55A][75][][75][Additional powers of delegation in respect of Maori Heritage Council and branch committees][75]
 
-[56][76] [Delegation of functions or powers by chief executive officer][76] \[Repealed\]
+[56][76][][76][Delegation of functions or powers by chief executive officer][76] \[Repealed\]
 
-[57][77] [General policy for historic places, etc][77]
+[57][77][][77][General policy for historic places, etc][77]
 
-[58][78] [Conservation plans][78]
+[58][78][][78][Conservation plans][78]
 
-[59][79] [Contracts of Trust][79] \[Repealed\]
+[59][79][][79][Contracts of Trust][79] \[Repealed\]
 
-[60][80] [Rules of Trust][80]
+[60][80][][80][Rules of Trust][80]
 
 [Bylaws][81]
 
-[61][82] [Power to make bylaws][82]
+[61][82][][82][Power to make bylaws][82]
 
-[62][83] [Procedure for making bylaws][83]
+[62][83][][83][Procedure for making bylaws][83]
 
-[63][84] [Proof of bylaws][84]
+[63][84][][84][Proof of bylaws][84]
 
-[64][85] [Trust to provide printed copies of bylaws][85]
+[64][85][][85][Trust to provide printed copies of bylaws][85]
 
-[65][86] [Penalty for breach of bylaws][86]
+[65][86][][86][Penalty for breach of bylaws][86]
 
 [Employees][87]
 
-[66][88] [Appointment of chief executive officer][88] \[Repealed\]
+[66][88][][88][Appointment of chief executive officer][88] \[Repealed\]
 
-[67][89] [Appointment of other employees][89] \[Repealed\]
+[67][89][][89][Appointment of other employees][89] \[Repealed\]
 
-[68][90] [Personal liability][90] \[Repealed\]
+[68][90][][90][Personal liability][90] \[Repealed\]
 
-[69][91] [Personnel policy][91] \[Repealed\]
+[69][91][][91][Personnel policy][91] \[Repealed\]
 
-[70][92] [Equal employment opportunities programme][92] \[Repealed\]
+[70][92][][92][Equal employment opportunities programme][92] \[Repealed\]
 
-[71][93] [Transitional provisions relating to employees][93]
+[71][93][][93][Transitional provisions relating to employees][93]
 
-[72][94] [Contributors to Government Superannuation Fund][94]
+[72][94][][94][Contributors to Government Superannuation Fund][94]
 
 [Financial provisions][95]
 
-[73][96] [Funds of Trust][96] \[Repealed\]
+[73][96][][96][Funds of Trust][96] \[Repealed\]
 
-[74][97] [Payment to and withdrawal from bank accounts][97] \[Repealed\]
+[74][97][][97][Payment to and withdrawal from bank accounts][97] \[Repealed\]
 
-[75][98] [Unauthorised expenditure][98] \[Repealed\]
+[75][98][][98][Unauthorised expenditure][98] \[Repealed\]
 
-[76][99] [Borrowing powers][99] \[Repealed\]
+[76][99][][99][Borrowing powers][99] \[Repealed\]
 
-[77][100] [Liability for debts of Trust][100] \[Repealed\]
+[77][100][][100][Liability for debts of Trust][100] \[Repealed\]
 
-[78][101] [Investment of funds][101] \[Repealed\]
+[78][101][][101][Investment of funds][101] \[Repealed\]
 
-[79][102] [Accounts][102] \[Repealed\]
+[79][102][][102][Accounts][102] \[Repealed\]
 
-[80][103] [Exemption from income tax][103]
+[80][103][][103][Exemption from income tax][103]
 
-[81][104] [Annual report][104] \[Repealed\]
+[81][104][][104][Annual report][104] \[Repealed\]
 
-[82][105] [Contributions by territorial authorities, etc][105]
+[82][105][][105][Contributions by territorial authorities, etc][105]
 
-[83][106] [Fees and travelling allowances][106] \[Repealed\]
+[83][106][][106][Fees and travelling allowances][106] \[Repealed\]
 
 [Part 4][107]  
 [Maori Heritage Council][107]
 
-[84][108] [Maori Heritage Council][108]
+[84][108][][108][Maori Heritage Council][108]
 
-[85][109] [Functions of Council][109]
+[85][109][][109][Functions of Council][109]
 
-[86][110] [Powers of Council][110]
+[86][110][][110][Powers of Council][110]
 
-[87][111] [Deputy Chairperson of Council][111]
+[87][111][][111][Deputy Chairperson of Council][111]
 
-[88][112] [Resignation or removal from office][112]
+[88][112][][112][Resignation or removal from office][112]
 
-[89][113] [Leave of absence][113]
+[89][113][][113][Leave of absence][113]
 
-[90][114] [Co-opted members][114]
+[90][114][][114][Co-opted members][114]
 
-[91][115] [Extraordinary vacancies][115]
+[91][115][][115][Extraordinary vacancies][115]
 
-[92][116] [Powers of Council not affected by vacancies][116]
+[92][116][][116][Powers of Council not affected by vacancies][116]
 
-[93][117] [Meetings of Council][117]
+[93][117][][117][Meetings of Council][117]
 
-[94][118] [Chairperson of Board entitled to attend meetings of Council][118]
+[94][118][][118][Chairperson of Board entitled to attend meetings of Council][118]
 
-[95][119] [Proceedings not affected by certain irregularities][119]
+[95][119][][119][Proceedings not affected by certain irregularities][119]
 
-[96][120] [Members of Council not personally liable][120]
+[96][120][][120][Members of Council not personally liable][120]
 
-[96A][121] [Fees and travelling allowances in respect of Council][121]
+[96A][121][][121][Fees and travelling allowances in respect of Council][121]
 
 [Part 5][122]  
 [Offences][122]
 
-[97][123] [Offence of intentional destruction, damage, or modification][123]
+[97][123][][123][Offence of intentional destruction, damage, or modification][123]
 
-[98][124] [Offence of destruction, damage, or modification of land subject to heritage covenant][124]
+[98][124][][124][Offence of destruction, damage, or modification of land subject to heritage covenant][124]
 
-[99][125] [Offence of destruction, damage, or modification of archaeological site][125]
+[99][125][][125][Offence of destruction, damage, or modification of archaeological site][125]
 
-[100][126] [Offence of breaching conditions of authority][126]
+[100][126][][126][Offence of breaching conditions of authority][126]
 
-[101][127] [Offence of refusing access, etc][127]
+[101][127][][127][Offence of refusing access, etc][127]
 
-[102][128] [Offence of carrying out archaeological investigation in breach of conditions or without written permission][128]
+[102][128][][128][Offence of carrying out archaeological investigation in breach of conditions or without written permission][128]
 
-[103][129] [Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration][129]
+[103][129][][129][Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration][129]
 
-[104][130] [Other offences][130]
+[104][130][][130][Other offences][130]
 
-[105][131] [Court may stay exercise of rights under resource consent][131]
+[105][131][][131][Court may stay exercise of rights under resource consent][131]
 
-[106][132] [Strict liability and defences][132]
+[106][132][][132][Strict liability and defences][132]
 
-[107][133] [Offender to give name and address][133]
+[107][133][][133][Offender to give name and address][133]
 
-[108][134] [Time within which information may be laid][134]
+[108][134][][134][Time for filing charging document][134]
 
 [Part 6][135]  
 [Miscellaneous provisions][135]
 
-[109][136] [Members and employees not in service of the Crown][136] \[Repealed\]
+[109][136][][136][Members and employees not in service of the Crown][136] \[Repealed\]
 
-[110][137] [Local authorities may transfer land to Trust][137]
+[110][137][][137][Local authorities may transfer land to Trust][137]
 
-[111][138] [Notification to territorial authorities for land information memorandum and project information memorandum purposes][138] \[Repealed\]
+[111][138][][138][Notification to territorial authorities for land information memorandum and project information memorandum purposes][138] \[Repealed\]
 
-[112][139] [Service of documents][139]
+[112][139][][139][Service of documents][139]
 
-[113][140] [Regulations][140]
+[113][140][][140][Regulations][140]
 
 [Transitional provisions and consequential amendments][141]
 
-[114][142] [Registration or classification under former Act][142]
+[114][142][][142][Registration or classification under former Act][142]
 
-[115][143] [Savings][143]
+[115][143][][143][Savings][143]
 
-[116][144] [Transitional provisions for applications relating to archaeological sites][144]
+[116][144][][144][Transitional provisions for applications relating to archaeological sites][144]
 
-[117][145] [Transitional Board of Trustees][145] \[Repealed\]
+[117][145][][145][Transitional Board of Trustees][145] \[Repealed\]
 
-[118][146] [Repeals and amendments][146] \[Repealed\]
+[118][146][][146][Repeals and amendments][146] \[Repealed\]
 
 [Schedule 1][147]  
 [Enactments repealed][147]
@@ -1916,9 +1916,11 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 65 Penalty for breach of bylaws
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acts in contravention of or fails to comply with any bylaw under this Act.
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of or fails to comply with any bylaw under this Act.
     
     Compare: 1980 No 16 s 24
+    
+    Section 65: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Employees
 
@@ -1954,7 +1956,7 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 71 Transitional provisions relating to employees
     
-*   (1) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][209],---
+*   (1) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][210],---
         
     *   (a) every employee of the Department of Conservation who was, immediately before the commencement of this Act, employed wholly on servicing the functions of the Trust, is hereby deemed to be an employee of the Trust (in this section referred to as a _transferred employee_); and
     
@@ -1972,11 +1974,11 @@ New Zealand Historic Places Trust (Pouhere Taonga) and Board of Trustees
 
 ##### 72 Contributors to Government Superannuation Fund
     
-*   (1) Any person who, immediately before becoming an officer or employee of the Trust, is an appointee under the [State Sector Act 1988][209] and a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][210] shall, on becoming an officer or employee of the Trust, be deemed for the purposes of the Government Superannuation Fund Act 1956 to be employed in the Government service so long as that person continues in the service of the Trust; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Trust were Government service.
+*   (1) Any person who, immediately before becoming an officer or employee of the Trust, is an appointee under the [State Sector Act 1988][210] and a contributor to the Government Superannuation Fund under the [Government Superannuation Fund Act 1956][211] shall, on becoming an officer or employee of the Trust, be deemed for the purposes of the Government Superannuation Fund Act 1956 to be employed in the Government service so long as that person continues in the service of the Trust; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the Trust were Government service.
     
-    (2) Subject to the [Government Superannuation Fund Act 1956][210], nothing in subsection (1) shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
+    (2) Subject to the [Government Superannuation Fund Act 1956][211], nothing in subsection (1) shall entitle any such transferred employee to become a contributor to the Government Superannuation Fund after that person has once ceased to become a contributor.
     
-    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][210], in accordance with subsection (1), to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the Trust.
+    (3) For the purposes of applying the [Government Superannuation Fund Act 1956][211], in accordance with subsection (1), to a person who is in the service of the Trust and who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that person, means the Trust.
     
     (4) The Trust may, for the purpose of providing superannuation or retirement allowances for its officers and employees, subsidise out of its funds any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or any other employer-subsidised scheme approved by the Minister of Finance.
 
@@ -2085,7 +2087,7 @@ Maori Heritage Council
     
     (5) Unless a member of the Council vacates or is removed from his or her office under [section 88][112], or (in the case of a member appointed under subsection (2)(a)) who ceases to be a member of the Board, he or she shall continue in office until his or her successor comes into office.
     
-    Section 84(2): substituted, on 1 August 2006, by [section 24][211] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 84(2): substituted, on 1 August 2006, by [section 24][212] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 85 Functions of Council
     
@@ -2149,7 +2151,7 @@ Maori Heritage Council
     
     (2) Any member may be removed from office at any time by the Minister for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, if proved to the satisfaction of the Minister, or a conviction for an offence relating to historic places.
     
-    Section 88(2): amended, on 1 January 2002, by [section 70(1)][212] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 88(2): amended, on 1 January 2002, by [section 70(1)][213] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 89 Leave of absence
     
@@ -2238,13 +2240,13 @@ Offences
     
     without the authority of the Trust or any person or body authorised by the Trust in that behalf.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of destruction, to a fine not exceeding $100,000:
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    
+    Section 97(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 98 Offence of destruction, damage, or modification of land subject to heritage covenant
     
@@ -2256,13 +2258,13 @@ Offences
     
     otherwise than in accordance with the provisions of that heritage covenant.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of destruction, to a fine not exceeding $100,000:
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    
+    Section 98(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 99 Offence of destruction, damage, or modification of archaeological site
     
@@ -2274,21 +2276,23 @@ Offences
     
     without the authority of the Trust or any person or body authorised by the Trust in that behalf.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of destruction, to a fine not exceeding $100,000:
     
     *   (b) in the case of damage or modification, to a fine not exceeding $40,000\.
     
-    
+    Section 99(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 100 Offence of breaching conditions of authority
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under [section 14(1)][19] or [section 15][20].
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who contravenes or fails to comply with any condition imposed under [section 14(1)][19] or [section 15][20].
+    
+    Section 100: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 101 Offence of refusing access, etc
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $2,500 who---
         
     *   (a) refuses to let a person authorised by or under [section 21][29] to have access to an archaeological site or historic place for a purpose referred to in that section; or
     
@@ -2302,13 +2306,17 @@ Offences
         
         
     
-    
+    Section 101: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 102 Offence of carrying out archaeological investigation in breach of conditions or without written permission
     
-*   (1) Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under [section 18(1)][23] commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
+*   (1) Every person who carries out an archaeological investigation that is subject to any conditions imposed by the Trust under [section 18(1)][23] commits an offence and is liable on conviction to a fine not exceeding $40,000 who contravenes, or fails to comply with, any of those conditions.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under [section 18(1)][23].
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $40,000 who carries out an archaeological investigation without the written permission of the Trust under [section 18(1)][23].
+    
+    Section 102(1): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 102(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 103 Offence of destruction, damage, or modification while historic place or wahi tapu has interim registration
     
@@ -2320,17 +2328,17 @@ Offences
     
     without (in the case of an historic place) the authority of the Trust or any person or body authorised by the Trust for the purpose or (in the case of a wahi tapu) the authority of the Maori Heritage Council or any person or body authorised by the Council for the purpose.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction,---
+    (2) Every person who commits an offence against subsection (1) is liable on conviction,---
         
     *   (a) in the case of demolition or destruction, to a fine not exceeding $100,000:
     
     *   (b) in the case of alteration, extension, damage, or modification, to a fine not exceeding $40,000\.
     
-    
+    Section 103(2): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 104 Other offences
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,500 who, without the authority of the Trust or any person or body authorised by the Trust in that behalf,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $2,500 who, without the authority of the Trust or any person or body authorised by the Trust in that behalf,---
         
     *   (a) intentionally enters upon any land or historic place vested in or under the control of the Trust otherwise than in accordance with any bylaw made by the Trust in respect of such land; or
     
@@ -2352,7 +2360,9 @@ Offences
     
     *   (j) fails to carry out pest and weed control, to maintain land in a clean and safe condition, or to take any necessary protective measures, as required by [section 105(2)(c)][131].
     
-    Section 104(d): amended, on 27 March 2008, by [section 5][213] of the Historic Places Amendment Act 2008 (2008 No 12).
+    Section 104: amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 104(d): amended, on 27 March 2008, by [section 5][214] of the Historic Places Amendment Act 2008 (2008 No 12).
 
 ##### 105 Court may stay exercise of rights under resource consent
     
@@ -2364,7 +2374,7 @@ Offences
     
     *   (c) interim registration under this Act---
     
-    is convicted of an offence against [section 338(1)(a)][214] of the Resource Management Act 1991 (being an offence in respect of [section 9(2)][215] of that Act) or against [section 103][129], being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a court may make an order suspending for such period not exceeding 5 years as the court thinks fit---
+    is convicted of an offence against [section 338(1)(a)][215] of the Resource Management Act 1991 (being an offence in respect of [section 9(2)][216] of that Act) or against [section 103][129], being an offence in respect of that land or place, then, in addition to any penalty it may impose under those sections, a court may make an order suspending for such period not exceeding 5 years as the court thinks fit---
         
     *   (d) the exercise of any rights under a resource consent granted to that person in respect of that land; or
     
@@ -2410,7 +2420,7 @@ Offences
     
     *   (b) any subdivision of the land:
     
-    *   (c) any use of the land that is permissible under [section 9][215] of the Resource Management Act 1991\.
+    *   (c) any use of the land that is permissible under [section 9][216] of the Resource Management Act 1991\.
     
     
 
@@ -2444,7 +2454,7 @@ Offences
     
     *   (b) specifying the facts that support his or her reliance on that subsection.
     
-    Section 106(2)(b): amended, on 1 August 2006, by [section 25][216] of the Historic Places Amendment Act 2006 (2006 No 33).
+    Section 106(2)(b): amended, on 1 August 2006, by [section 25][217] of the Historic Places Amendment Act 2006 (2006 No 33).
 
 ##### 107 Offender to give name and address
     
@@ -2452,19 +2462,21 @@ Offences
     
     (2) If the offender, after being so required, fails to give his or her name or address, or gives a false name or address, or wilfully continues the offence, he or she commits a further offence against this Act.
     
-    (3) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000\.
+    (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000\.
     
     (4) The Trust may apply to the court for a writ of injunction to restrain any person from breach of any duty or obligation imposed upon him or her by this Act, if he or she has threatened or already commenced to commit the breach or the Trust has reasonable cause to believe that such a breach is likely to occur.
     
     Compare: 1980 No 16 s 55
     
     Section 107(1): amended, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
+    
+    Section 107(3): amended, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
-##### 108 Time within which information may be laid
+##### 108 Time for filing charging document
     
-*   Notwithstanding anything in the [Summary Proceedings Act 1957][217], any information in respect of any offence against this Act may be laid at any time within 12 months from the time the offence was committed.
+*   Despite anything to the contrary in [section 25][218] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was committed.
     
-    Compare: 1980 No 16 s 56
+    Section 108: replaced, on 1 July 2013, by [section 413][209] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
@@ -2477,7 +2489,7 @@ Miscellaneous provisions
 
 ##### 110 Local authorities may transfer land to Trust
     
-*   Notwithstanding anything in any enactment, any local authority (within the meaning of the [Local Government Act 2002][152]) may, without further authority than this section, convey or transfer any land (not being a public reserve within the meaning of the [Reserves Act 1977][218]) to the Trust and the Trust may accept such land to be held for the purposes of this Act.
+*   Notwithstanding anything in any enactment, any local authority (within the meaning of the [Local Government Act 2002][152]) may, without further authority than this section, convey or transfer any land (not being a public reserve within the meaning of the [Reserves Act 1977][219]) to the Trust and the Trust may accept such land to be held for the purposes of this Act.
     
     Compare: 1980 No 16 s 59
     
@@ -2487,7 +2499,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 111: repealed, on 3 June 1998, by [section 4][219] of the Historic Places Amendment Act 1998 (1998 No 49).
+    Section 111: repealed, on 3 June 1998, by [section 4][220] of the Historic Places Amendment Act 1998 (1998 No 49).
 
 ##### 112 Service of documents
     
@@ -2569,7 +2581,7 @@ Miscellaneous provisions
         
     *   (a) administered by the Department of Conservation; or
     
-    *   (b) included in [Schedule 1][220] of the Conservation Act 1987\.
+    *   (b) included in [Schedule 1][221] of the Conservation Act 1987\.
     
     Section 115(2): added, on 1 October 2000, by [section 12][155] of the Archives, Culture, and Heritage Reform Act 2000 (2000 No 32).
 
@@ -2612,11 +2624,11 @@ Enactments repealed
 
 ##### Trade and Industry Act Repeal Act 1988 (1988 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][221]_.
+_Amendment(s) incorporated in the [Act(s)][222]_.
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][222]_.
+_Amendment(s) incorporated in the [Act(s)][223]_.
 
 ---
 
@@ -2631,19 +2643,19 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Conservation Act 1987 (1987 No 65)
 
-_Amendment(s) incorporated in the [Act(s)][220]_.
+_Amendment(s) incorporated in the [Act(s)][221]_.
 
 ##### Ombudsmen Act 1975 (1975 No 9) (RS Vol 21, p 657)
 
-_Amendment(s) incorporated in the [Act(s)][223]_.
+_Amendment(s) incorporated in the [Act(s)][224]_.
 
 ##### Public Finance Amendment Act 1992 (1992 No 142)
 
-_Amendment(s) incorporated in the [Act(s)][224]_.
+_Amendment(s) incorporated in the [Act(s)][225]_.
 
 ##### Resource Management Act 1991 (1991 No 69)
 
-_Amendment(s) incorporated in the [Act(s)][225]_.
+_Amendment(s) incorporated in the [Act(s)][226]_.
 
 ##### Valuation of Land Act 1951 (1951 No 19) (RS Vol 21, p 851)
 
@@ -2665,23 +2677,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the Historic Places Act 1993\. The reprint incorporates all the amendments to the Act as at 13 March 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Historic Places Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][226] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][227] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][227] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][228] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][228] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][229] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][229] and [17E][230] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][230] and [17E][231] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2714,15 +2726,17 @@ _Amendment(s) incorporated in the Act(s)_.
     
 *   Building Amendment Act 2012 (2012 No 23): [section 93(5)][190]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][209]
+    
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][156]
     
-    [Historic Places Amendment Act 2008][231] (2008 No 12)
+    [Historic Places Amendment Act 2008][232] (2008 No 12)
     
     Property Law Act 2007 (2007 No 91): [section 364(1)][164]
     
     Protected Objects Amendment Act 2006 (2006 No 37): [section 35][171]
     
-    [Historic Places Amendment Act 2006][232] (2006 No 33)
+    [Historic Places Amendment Act 2006][233] (2006 No 33)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][158]
     
@@ -2734,13 +2748,13 @@ _Amendment(s) incorporated in the Act(s)_.
     
     Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][160]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][212]
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][213]
     
     Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][155]
     
     Ngāi Tahu Claims Settlement Act 1998 (1998 No 97): [sections 227--229][162]
     
-    [Historic Places Amendment Act 1998][233] (1998 No 49)
+    [Historic Places Amendment Act 1998][234] (1998 No 49)
     
     Resource Management Amendment Act 1996 (1996 No 160): [section 6(2)(a)][157]
 
@@ -2955,28 +2969,29 @@ _Amendment(s) incorporated in the Act(s)_.
 [206]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM331147
 [207]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM37993
 [208]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374664
-[209]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM129109
-[210]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM446000
-[211]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374665
-[212]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM122579
-[213]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209009
-[214]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM239038
-[215]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM231918
-[216]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374666
-[217]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM310742
-[218]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM444304
-[219]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426643
-[220]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM107200
-[221]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM137558
-[222]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM135633
-[223]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430983
-[224]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM289859
-[225]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM233389
-[226]: http://www.pco.parliament.govt.nz/reprints/
-[227]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195439
-[228]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[229]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195468
-[230]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195470
-[231]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209000
-[232]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374626
-[233]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426635
+[209]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360714
+[210]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM129109
+[211]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM446000
+[212]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374665
+[213]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM122579
+[214]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209009
+[215]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM239038
+[216]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM231918
+[217]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374666
+[218]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM3360067
+[219]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM444304
+[220]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426643
+[221]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM107200
+[222]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM137558
+[223]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM135633
+[224]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM430983
+[225]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM289859
+[226]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM233389
+[227]: http://www.pco.parliament.govt.nz/reprints/
+[228]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195439
+[229]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[230]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195468
+[231]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM195470
+[232]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM1209000
+[233]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM374626
+[234]: http://www.legislation.govt.nz/act/public/1993/0038/latest/link.aspx?id=DLM426635
