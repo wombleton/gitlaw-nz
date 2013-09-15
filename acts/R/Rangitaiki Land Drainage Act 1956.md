@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 1996
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -199,7 +199,7 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
     
     (3) Any notice given under this section may be at any time in like manner amended or revoked.
     
-    (4) Every person who does or causes or permits to be done any act prohibited by a notice given to him under this section commits an offence and is liable on summary conviction to a fine not exceeding 100 pounds.
+    (4) Every person who does or causes or permits to be done any act prohibited by a notice given to him under this section commits an offence and is liable on conviction to a fine not exceeding 100 pounds.
     
     (5) The Board may from time to time do such things as it deems necessary for the purposes of filling in any drain on any land in respect of which a notice has been given under this section and of remedying any other interference with the surface of any such land, whether the drain was constructed or the interference was made before or after the commencement of this Act or before or after the giving of the notice.
     
@@ -216,6 +216,8 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
     (11) Except as otherwise expressly provided in this section, no compensation shall be payable under the Public Works Act 1928 or any other Act in respect of any damage suffered from the exercise of any powers conferred on the Board by this section.
     
     (12) Notwithstanding anything to the contrary in the [Impounding Act 1955][39], or any other Act, and notwithstanding that any stopbank along the Tarawera River may not be on fenced land, the Board may claim and recover as a debt from the owner of any stock full satisfaction for any actual damage caused by the stock to the stopbank. For the purposes of this subsection the terms _fenced land_ and _stock_ have the same meanings as in the [Impounding Act 1955][39].
+    
+    Section 10(4): amended, on 1 July 2013, by [section 413][40] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Rates
 
@@ -237,9 +239,9 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
         
     *   (a) the land described in [Schedule 2][29]:
     
-    *   (b) the land in the Town of Matata and the district adjoining in respect of which the powers of a Borough Council as to the supply of water for domestic purposes were conferred on the former Whakatane County Council by an Order in Council made pursuant to [section 74][40] of the Reserves and Other Lands Disposal and Public Bodies Empowering Act 1922\.
+    *   (b) the land in the Town of Matata and the district adjoining in respect of which the powers of a Borough Council as to the supply of water for domestic purposes were conferred on the former Whakatane County Council by an Order in Council made pursuant to [section 74][41] of the Reserves and Other Lands Disposal and Public Bodies Empowering Act 1922\.
     
-    Section 13(b): amended, on 1 April 1980, by [section 8(3)][41] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 13(b): amended, on 1 April 1980, by [section 8(3)][42] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 14 Board may authorise Whakatane County Council to collect rates
     
@@ -251,7 +253,7 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
 
 ##### 15 Extending power of Board to make bylaws
     
-*   Without limiting the power to make bylaws conferred on the Board by the principal Act or any other Act, the Board may from time to time, in the manner provided by [section 50][42] of the principal Act, make bylaws---
+*   Without limiting the power to make bylaws conferred on the Board by the principal Act or any other Act, the Board may from time to time, in the manner provided by [section 50][43] of the principal Act, make bylaws---
         
     *   (a) preventing or regulating the overflow of artesian wells or the pumping of water into any watercourse within the district, whether the watercourse is under the control of the Board or not:
     
@@ -277,21 +279,21 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
 
 ##### 16 Penalty for breach of bylaws
     
-*   Notwithstanding the provisions of subsection (2) of [section 50][42] of the principal Act, bylaws made by the Board under this Act or the principal Act may prescribe fines not exceeding 50 pounds for any breach thereof, and in the case of a continuing breach may prescribe a further fine not exceeding 5 pounds for every day or part of a day during which the breach has continued.
+*   Notwithstanding the provisions of subsection (2) of [section 50][43] of the principal Act, bylaws made by the Board under this Act or the principal Act may prescribe fines not exceeding 50 pounds for any breach thereof, and in the case of a continuing breach may prescribe a further fine not exceeding 5 pounds for every day or part of a day during which the breach has continued.
 
 ##### 17 Power of Board to borrow in anticipation of revenue
     
 *   Notwithstanding anything in the Local Authorities Loans Act 1956 the Board during the first 2 years of its existence may, with the consent of the Minister of Local Government and upon such terms as he specifies, borrow money in anticipation of its revenue, whether on overdraft or otherwise, from its bankers or from any person or persons, and may give such security for the repayment thereof and interest thereon by debenture or otherwise as the Board, with the approval of the Minister of Local Government, thinks fit.
     
-    Section 17: amended, on 1 April 1980, pursuant to [section 10(7)(a)][43] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 17: amended, on 1 April 1980, pursuant to [section 10(7)(a)][44] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 18 Appointment of officers
     
-*   (1) Without limiting the powers conferred on the Board by [section 43][44] of the principal Act, the Board may agree with the Whakatane District Council for the employment by the Board, on a part time or other basis, of clerical, engineering, and other employees of the Council and to pay to the Council such sums as remuneration for those services as may be agreed on between the Board and the Council.
+*   (1) Without limiting the powers conferred on the Board by [section 43][45] of the principal Act, the Board may agree with the Whakatane District Council for the employment by the Board, on a part time or other basis, of clerical, engineering, and other employees of the Council and to pay to the Council such sums as remuneration for those services as may be agreed on between the Board and the Council.
     
     (2) The Council is hereby empowered to enter into contracts with the Board for the purposes of this section upon such terms as it thinks fit.
     
-    Section 18(1): amended, on 1 April 1980, by [section 8(3)][41] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 18(1): amended, on 1 April 1980, by [section 8(3)][42] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 19 Special provisions as to land in Edgecumbe township
     
@@ -305,11 +307,11 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
     
     Section 19: amended, on 23 October 1969, by section 2(1) of the Rangitaiki Land Drainage Amendment Act 1969 (1969 No 103).
     
-    Section 19(a): amended, on 1 April 1980, by [section 8(3)][41] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 19(a): amended, on 1 April 1980, by [section 8(3)][42] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 19(b): amended, on 1 April 1980, by [section 8(3)][41] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 19(b): amended, on 1 April 1980, by [section 8(3)][42] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 19(c): amended, on 1 April 1980, by [section 8(3)][41] of the Local Government Amendment Act 1979 (1979 No 59).
+    Section 19(c): amended, on 1 April 1980, by [section 8(3)][42] of the Local Government Amendment Act 1979 (1979 No 59).
 
 ##### 20 Repeals, savings, and amendments
     
@@ -317,11 +319,11 @@ An Act to constitute the Rangitaiki Drainage District and to provide for its adm
     
     (2) The repeal of any enactment by this Act shall not affect the liability of any person for the payment of any rate made and levied under any such enactment before the commencement of this Act, and all such rates shall continue to be owing and shall be deemed to be owing to the Board, which shall have the same powers in respect thereof as if those rates had been made and levied by the Board under this Act at the dates when the same were respectively made and levied.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][45]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][46]_.
     
     (4) \[Repealed\]
     
-    (5) _Amendment(s) incorporated in the [Act(s)][46]_.
+    (5) _Amendment(s) incorporated in the [Act(s)][47]_.
     
     Section 20(2): replaced (with effect on 1 April 1957), on 24 October 1957, by section 3 of the Rangitaiki Land Drainage Amendment Act 1957 (1957 No 66).
     
@@ -367,7 +369,7 @@ Enactments repealed
 
 ##### Finance Act 1932 (1932 No 11)
 
-_Amendment(s) incorporated in the [Act(s)][47]._
+_Amendment(s) incorporated in the [Act(s)][48]._
 
 ##### Finance Act (No 2) 1937 (1937 No 36)
 
@@ -383,15 +385,15 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Reserves and Other Lands Disposal Act 1938 (1938 No 19)
 
-_Amendment(s) incorporated in the [Act(s)][48]._
+_Amendment(s) incorporated in the [Act(s)][49]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1922 (1922 No 50)
 
-_Amendment(s) incorporated in the [Act(s)][49]._
+_Amendment(s) incorporated in the [Act(s)][50]._
 
 ##### Reserves and Other Lands Disposal and Public Bodies Empowering Act 1924 (1924 No 55)
 
-_Amendment(s) incorporated in the [Act(s)][50]._
+_Amendment(s) incorporated in the [Act(s)][51]._
 
 ---
 
@@ -409,23 +411,23 @@ _Amendment(s) incorporated in the [Act(s)][50]._
 
 ###### 1 General
     
-*   This is a reprint of the Rangitaiki Land Drainage Act 1956\. The reprint incorporates all the amendments to the Act as at 1 July 1996, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rangitaiki Land Drainage Act 1956\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][51] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][52] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][52] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][53] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][53] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][54] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][54] and [17E][55] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][55] and [17E][56] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -456,13 +458,15 @@ _Amendment(s) incorporated in the [Act(s)][50]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Survey Amendment Act 1996 (1996 No 55): section 5
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][40]
+    
+    Survey Amendment Act 1996 (1996 No 55): section 5
     
     Rating Powers Act 1988 (1988 No 97): section 209(1)
     
-    Public Works Act 1981 (1981 No 35): [section 248(1)][56]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][57]
     
-    Local Government Amendment Act 1979 (1979 No 59): [sections 8(3)][41], [10(7)(a)][43]
+    Local Government Amendment Act 1979 (1979 No 59): [sections 8(3)][42], [10(7)(a)][44]
     
     Land Drainage Amendment Act 1974 (1974 No 93): section 2(4)
     
@@ -514,20 +518,21 @@ _Amendment(s) incorporated in the [Act(s)][50]._
 [37]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM166899
 [38]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM166894
 [39]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM293863
-[40]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM196139
-[41]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM34672
-[42]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM167071
-[43]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM34675
-[44]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM167051
-[45]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195756
-[46]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM230370
-[47]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM212486
-[48]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM225743
-[49]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195725
-[50]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM198749
-[51]: http://www.pco.parliament.govt.nz/reprints/
-[52]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195439
-[53]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[54]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195468
-[55]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195470
-[56]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM48604
+[40]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM3360714
+[41]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM196139
+[42]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM34672
+[43]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM167071
+[44]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM34675
+[45]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM167051
+[46]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195756
+[47]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM230370
+[48]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM212486
+[49]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM225743
+[50]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195725
+[51]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM198749
+[52]: http://www.pco.parliament.govt.nz/reprints/
+[53]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195439
+[54]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[55]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195468
+[56]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM195470
+[57]: http://www.legislation.govt.nz/act/public/1956/0034/latest/link.aspx?id=DLM48604
