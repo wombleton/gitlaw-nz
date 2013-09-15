@@ -1,5 +1,5 @@
 Reprint  
-as at 1 May 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Treasury.
 
@@ -25,249 +25,249 @@ This Act is administered by the Treasury.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Restructuring of National Provident Fund][5]
 
 [Proposal for restructuring of Fund][6]
 
-[4][7] [Preparation of proposal for restructuring of Fund][7]
+[4][7][][7][Preparation of proposal for restructuring of Fund][7]
 
-[5][8] [Matters to be provided for in proposal][8]
+[5][8][][8][Matters to be provided for in proposal][8]
 
-[6][9] [Principles governing restructuring of Fund][9]
+[6][9][][9][Principles governing restructuring of Fund][9]
 
-[7][10] [Matters to accompany draft proposal, etc][10]
+[7][10][][10][Matters to accompany draft proposal, etc][10]
 
-[8][11] [Changes to draft proposal by Minister][11]
+[8][11][][11][Changes to draft proposal by Minister][11]
 
-[9][12] [Approval of proposal by Order in Council][12]
+[9][12][][12][Approval of proposal by Order in Council][12]
 
-[10][13] [Amendment of proposal by Order in Council][13]
+[10][13][][13][Amendment of proposal by Order in Council][13]
 
-[10A][14] [Amendment of proposal after transfer day][14]
+[10A][14][][14][Amendment of proposal after transfer day][14]
 
 [Implementation of proposal for restructuring of Fund][15]
 
-[11][16] [Implementation of proposal][16]
+[11][16][][16][Implementation of proposal][16]
 
 [Part 2][17]  
 [Continuation and renaming of National Provident Fund Board][17]
 
-[12][18] [Continuation of Board][18]
+[12][18][][18][Continuation of Board][18]
 
-[13][19] [Membership of Board][19]
+[13][19][][19][Membership of Board][19]
 
-[14][20] [Continuation in office of existing members of Board][20]
+[14][20][][20][Continuation in office of existing members of Board][20]
 
-[15][21] [Members of Board appointed after transfer day][21]
+[15][21][][21][Members of Board appointed after transfer day][21]
 
-[16][22] [Board to be restricted to existing schemes and existing investment arrangements][22]
+[16][22][][22][Board to be restricted to existing schemes and existing investment arrangements][22]
 
-[17][23] [Further provisions applying in respect of Board][23]
+[17][23][][23][Further provisions applying in respect of Board][23]
 
-[18][24] [Board's power to settle claims][24]
+[18][24][][24][Board's power to settle claims][24]
 
-[19][25] [Board's power to invest][25]
+[19][25][][25][Board's power to invest][25]
 
-[20][26] [Existing appointments, etc, of Board][26]
+[20][26][][26][Existing appointments, etc, of Board][26]
 
 [Part 3][27]  
 [Provisions relating to implementation of restructuring of Fund and Board][27]
 
-[21][28] [Vesting of property][28]
+[21][28][][28][Vesting of property][28]
 
-[22][29] [Vesting of liabilities][29]
+[22][29][][29][Vesting of liabilities][29]
 
-[23][30] [Certain matters not affected by restructuring][30]
+[23][30][][30][Certain matters not affected by restructuring][30]
 
 [Provisions relating to global asset trust][31]
 
-[24][32] [Interests in global asset trust][32]
+[24][32][][32][Interests in global asset trust][32]
 
-[25][33] [Status of global asset trust][33]
+[25][33][][33][Status of global asset trust][33]
 
-[26][34] [Interim management of global asset trust][34]
+[26][34][][34][Interim management of global asset trust][34]
 
 [Provisions relating to GAT subsidiaries][35]
 
-[27][36] [Interests in GAT subsidiaries][36]
+[27][36][][36][Interests in GAT subsidiaries][36]
 
-[28][37] [Status of GAT subsidiaries][37]
+[28][37][][37][Status of GAT subsidiaries][37]
 
-[29][38] [Interim management of GAT subsidiaries which are unit trusts][38]
+[29][38][][38][Interim management of GAT subsidiaries which are unit trusts][38]
 
 [Use of property][39]
 
-[30][40] [Use of pools][40]
+[30][40][][40][Use of pools][40]
 
-[31][41] [Use of trust funds][41]
+[31][41][][41][Use of trust funds][41]
 
-[32][42] [Unclaimed money][42]
+[32][42][][42][Unclaimed money][42]
 
 [Miscellaneous provisions][43]
 
-[33][44] [Registers][44]
+[33][44][][44][Registers][44]
 
-[34][45] [References in other enactments or instruments][45]
+[34][45][][45][References in other enactments or instruments][45]
 
-[35][46] [Taxes and duties][46]
+[35][46][][46][Taxes and duties][46]
 
-[36][47] [Protection of name National Provident Fund][47]
+[36][47][][47][Protection of name National Provident Fund][47]
 
-[37][48] [Final report and accounts][48]
+[37][48][][48][Final report and accounts][48]
 
 [Part 4][49]  
 [Restructuring of National Provident schemes][49]
 
 [Existing schemes closed to new members as at transfer day][50]
 
-[38][51] [Contributors to existing schemes][51]
+[38][51][][51][Contributors to existing schemes][51]
 
 [Terms and conditions of existing schemes][52]
 
-[39][53] [Terms and conditions upon which existing schemes are to continue][53]
+[39][53][][53][Terms and conditions upon which existing schemes are to continue][53]
 
 [Position of corporate contributors to existing schemes][54]
 
-[40][55] [Position of corporate contributors to existing schemes][55]
+[40][55][][55][Position of corporate contributors to existing schemes][55]
 
 [Information to be provided to Board][56]
 
-[40A][57] [Information to be provided to Board][57]
+[40A][57][][57][Information to be provided to Board][57]
 
 [Payments to existing schemes][58]
 
-[40B][59] [Timing of payment of contributions to schemes][59]
+[40B][59][][59][Timing of payment of contributions to schemes][59]
 
-[40C][60] [Interest payable on overdue amounts][60]
+[40C][60][][60][Interest payable on overdue amounts][60]
 
-[40D][61] [Recovery of debts][61]
+[40D][61][][61][Recovery of debts][61]
 
 [Provisions relating to defined benefit schemes][62]
 
-[41][63] [Amalgamation and subsequent division of defined benefit schemes][63]
+[41][63][][63][Amalgamation and subsequent division of defined benefit schemes][63]
 
-[42][64] [Provisions in trust deeds for DBP annuitants scheme and DBP contributors scheme][64]
+[42][64][][64][Provisions in trust deeds for DBP annuitants scheme and DBP contributors scheme][64]
 
-[43][65] [Aircrew superannuation scheme][65]
+[43][65][][65][Aircrew superannuation scheme][65]
 
-[44][66] [Increased or decreased contributions by corporate contributors to certain existing schemes][66]
+[44][66][][66][Increased or decreased contributions by corporate contributors to certain existing schemes][66]
 
-[44A][67] [Additional payments for period 1 October 2010 to 27 April 2011][67]
+[44A][67][][67][Additional payments for period 1 October 2010 to 27 April 2011][67]
 
 [New trust deeds][68]
 
-[45][69] [Board to prepare trust deed for certain existing schemes][69]
+[45][69][][69][Board to prepare trust deed for certain existing schemes][69]
 
-[46][70] [Board to be bound by existing terms and conditions in preparing trust deed][70]
+[46][70][][70][Board to be bound by existing terms and conditions in preparing trust deed][70]
 
-[47][71] [Power to make amendments to existing terms and conditions][71]
+[47][71][][71][Power to make amendments to existing terms and conditions][71]
 
-[48][72] [New terms and conditions may be included in trust deed][72]
+[48][72][][72][New terms and conditions may be included in trust deed][72]
 
-[49][73] [Trust deed to be approved by Minister before execution][73]
+[49][73][][73][Trust deed to be approved by Minister before execution][73]
 
-[50][74] [Transfer to other superannuation schemes][74]
+[50][74][][74][Transfer to other superannuation schemes][74]
 
-[51][75] [Management of existing schemes][75]
+[51][75][][75][Management of existing schemes][75]
 
-[52][76] [Interim management of existing schemes][76]
+[52][76][][76][Interim management of existing schemes][76]
 
-[53][77] [Investments of existing schemes][77]
+[53][77][][77][Investments of existing schemes][77]
 
-[54][78] [Board's powers and authorities][78]
+[54][78][][78][Board's powers and authorities][78]
 
-[55][79] [Limitation of liability of Board][79]
+[55][79][][79][Limitation of liability of Board][79]
 
-[56][80] [Termination of scheme][80]
+[56][80][][80][Termination of scheme][80]
 
-[57][81] [Consequences of executing trust deed in respect of existing scheme][81]
+[57][81][][81][Consequences of executing trust deed in respect of existing scheme][81]
 
-[58][82] [Members to be notified of execution of trust deed][82]
+[58][82][][82][Members to be notified of execution of trust deed][82]
 
 [Miscellaneous provision in respect of notices][83]
 
-[59][84] [Notices][84]
+[59][84][][84][Notices][84]
 
 [Part 5][85]  
 [Guarantees and subsidies][85]
 
 [Crown guarantee of existing schemes and investment arrangements][86]
 
-[60][87] [Crown guarantee continued in respect of existing schemes][87]
+[60][87][][87][Crown guarantee continued in respect of existing schemes][87]
 
-[61][88] [Crown guarantee continued in respect of existing investment arrangements][88]
+[61][88][][88][Crown guarantee continued in respect of existing investment arrangements][88]
 
-[62][89] [Crown guarantee continued in respect of provident advantage account][89] \[Repealed\]
+[62][89][][89][Crown guarantee continued in respect of provident advantage account][89] \[Repealed\]
 
-[63][90] [Application of withdrawals][90]
+[63][90][][90][Application of withdrawals][90]
 
-[64][91] [Minister may direct Board in respect of matters relating to Crown guarantees][91]
+[64][91][][91][Minister may direct Board in respect of matters relating to Crown guarantees][91]
 
-[65][92] [Additional obligations of Board and powers of Minister][92]
+[65][92][][92][Additional obligations of Board and powers of Minister][92]
 
-[66][93] [Additional provisions relating to Crown guarantees][93]
+[66][93][][93][Additional provisions relating to Crown guarantees][93]
 
-[67][94] [Annual reports to Minister][94]
+[67][94][][94][Annual reports to Minister][94]
 
-[67A][95] [Other reports to Minister][95]
+[67A][95][][95][Other reports to Minister][95]
 
-[68][96] [Actuarial examination][96]
+[68][96][][96][Actuarial examination][96]
 
 [Subsidies][97]
 
-[69][98] [Consequences of removal of Crown subsidy of existing schemes on and after transfer day][98]
+[69][98][][98][Consequences of removal of Crown subsidy of existing schemes on and after transfer day][98]
 
-[70][99] [Continuation of Crown subsidy of existing schemes in certain cases where employer is a charity][99]
+[70][99][][99][Continuation of Crown subsidy of existing schemes in certain cases where employer is a charity][99]
 
-[71][100] [Contributions by government departments][100]
+[71][100][][100][Contributions by government departments][100]
 
-[72][101] [Crown payments to meet deficiencies][101]
+[72][101][][101][Crown payments to meet deficiencies][101]
 
-[72A][102] [No Crown subsidy][102]
+[72A][102][][102][No Crown subsidy][102]
 
 [Part 6][103]  
 [Amendments, repeals, and revocations with effect on and after transfer day][103]
 
 [Amendments in relation to Income Tax Act 1976][104]
 
-[73][105] [Position of Board in relation to income tax][105]
+[73][105][][105][Position of Board in relation to income tax][105]
 
-[74][106] [Amendment to Income Tax Act 1976 in respect of National Provident Fund Board][106] \[Repealed\]
+[74][106][][106][Amendment to Income Tax Act 1976 in respect of National Provident Fund Board][106] \[Repealed\]
 
-[75][107] [Approval and classification of old public schemes][107] \[Repealed\]
+[75][107][][107][Approval and classification of old public schemes][107] \[Repealed\]
 
 [Amendment in relation to Superannuation Schemes Act 1989][108]
 
-[76][109] [Old public schemes deemed to be registered superannuation schemes][109]
+[76][109][][109][Old public schemes deemed to be registered superannuation schemes][109]
 
 [Amendment to Unit Trusts Act 1960][110]
 
-[77][111] [Exclusion from definition of term unit trust][111]
+[77][111][][111][Exclusion from definition of term unit trust][111]
 
 [General][112]
 
-[78][113] [Regulations][113]
+[78][113][][113][Regulations][113]
 
-[79][114] [Repeal of local authority monopoly][114]
+[79][114][][114][Repeal of local authority monopoly][114]
 
-[80][115] [Consequential amendments to other Acts][115]
+[80][115][][115][Consequential amendments to other Acts][115]
 
-[81][116] [Repeals and revocations][116]
+[81][116][][116][Repeals and revocations][116]
 
-[82][117] [Power to determine earning rates of schemes for periods up to transfer day][117]
+[82][117][][117][Power to determine earning rates of schemes for periods up to transfer day][117]
 
 [Savings][118]
 
-[83][119] [Board may be appointed Sinking Fund Commissioner or Depreciation Fund Commissioner][119]
+[83][119][][119][Board may be appointed Sinking Fund Commissioner or Depreciation Fund Commissioner][119]
 
-[84][120] [Saving in respect of validation of certain lump sum schemes][120]
+[84][120][][120][Saving in respect of validation of certain lump sum schemes][120]
 
 [Schedule 1][121]  
 
@@ -577,9 +577,9 @@ Restructuring of National Provident Fund
         
     *   (a) shall identify the draft proposal approved, but need not incorporate it in the order; and
     
-    *   (b) shall be deemed to be a regulation within the meaning of the [Regulations (Disallowance) Act 1989][143].
+    *   (b) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][143] and must be presented to the House of Representatives under [section 41][144] of that Act.
     
-    
+    Section 9(3)(b): replaced, on 5 August 2013, by [section 77(3)][145] of the Legislation Act 2012 (2012 No 119).
 
 ##### 10 Amendment of proposal by Order in Council
     
@@ -595,9 +595,9 @@ Restructuring of National Provident Fund
         
     *   (a) shall identify the amendment approved, but need not incorporate it in the order; and
     
-    *   (b) shall be deemed to be a regulation within the meaning of the [Regulations (Disallowance) Act 1989][143].
+    *   (b) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][143] and must be presented to the House of Representatives under [section 41][144] of that Act.
     
-    
+    Section 10(3)(b): replaced, on 5 August 2013, by [section 77(3)][145] of the Legislation Act 2012 (2012 No 119).
 
 ##### 10A Amendment of proposal after transfer day
     
@@ -615,11 +615,13 @@ Restructuring of National Provident Fund
         
     *   (a) shall identify the amendment approved, but need not incorporate it in the order; and
     
-    *   (b) shall be deemed to be a regulation within the meaning of the [Regulations (Disallowance) Act 1989][143].
+    *   (b) is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][143] and must be presented to the House of Representatives under [section 41][144] of that Act.
     
     (4) Every amendment approved under this section shall be deemed to have effect on and from the transfer day and the provisions of this Act shall apply to the proposal as so amended accordingly.
     
-    Section 10A: inserted, on 7 November 1991, by [section 2][144] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 10A: inserted, on 7 November 1991, by [section 2][146] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    
+    Section 10A(3)(b): replaced, on 5 August 2013, by [section 77(3)][145] of the Legislation Act 2012 (2012 No 119).
 
 #### Implementation of proposal for restructuring of Fund
 
@@ -666,7 +668,7 @@ Continuation and renaming of National Provident Fund Board
     
     (4) Any such member shall be eligible for reappointment from time to time.
     
-    (5) Where the term for which any such member has been appointed expires, that member, unless sooner removed from office under subsection (3) or vacating office under [clause 1][145] of Schedule 4, shall continue to hold office, by virtue of the appointment for the term that has expired, until---
+    (5) Where the term for which any such member has been appointed expires, that member, unless sooner removed from office under subsection (3) or vacating office under [clause 1][147] of Schedule 4, shall continue to hold office, by virtue of the appointment for the term that has expired, until---
         
     *   (a) that member is reappointed; or
     
@@ -696,9 +698,9 @@ Continuation and renaming of National Provident Fund Board
     
     (3) The Board may, in addition, provide services in respect of any fund or superannuation scheme that is managed by the Crown or a Crown entity or an entity whose board is appointed by the Crown and approved by the Minister for that purpose, on any terms and conditions that the Board thinks fit.
     
-    Section 16(2)(a): amended (with effect on 1 April 1991), on 7 November 1991, by [section 3][146] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 16(2)(a): amended (with effect on 1 April 1991), on 7 November 1991, by [section 3][148] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Section 16(3): added, on 22 August 2001, by [section 38(1)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Section 16(3): added, on 22 August 2001, by [section 38(1)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 ##### 17 Further provisions applying in respect of Board
     
@@ -734,7 +736,7 @@ Continuation and renaming of National Provident Fund Board
     
     (2) Except as expressly provided by this Act or the proposal, the continuity and operation of the Board shall in no way be affected, nor shall any property, powers, authorities, or liabilities of the Board, or any legal or other proceedings instituted or to be instituted by or against the Board, be affected by this Act or the proposal.
     
-    (3) Subject to the provisions of this Act, and to the terms of any trust deed in respect of an existing scheme, the Board shall have the same responsibilities regarding that scheme as a trustee of a superannuation scheme registered under the [Superannuation Schemes Act 1989][148].
+    (3) Subject to the provisions of this Act, and to the terms of any trust deed in respect of an existing scheme, the Board shall have the same responsibilities regarding that scheme as a trustee of a superannuation scheme registered under the [Superannuation Schemes Act 1989][150].
 
 ## Part 3  
 Provisions relating to implementation of restructuring of Fund and Board
@@ -779,7 +781,7 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     *   (f) shall invalidate or discharge any contract or security.
     
-    Compare: 1986 No 129 [s 6(g)][149]
+    Compare: 1986 No 129 [s 6(g)][151]
 
 #### Provisions relating to global asset trust
 
@@ -797,7 +799,7 @@ Provisions relating to implementation of restructuring of Fund and Board
         
     *   (a) shall be of such class and number as is determined in accordance with the proposal; and
     
-    *   (b) shall be deemed to be participatory securities for the purpose of [section 3][150] of the Goods and Services Tax Act 1985\.
+    *   (b) shall be deemed to be participatory securities for the purpose of [section 3][152] of the Goods and Services Tax Act 1985\.
     
     
 
@@ -805,19 +807,19 @@ Provisions relating to implementation of restructuring of Fund and Board
     
 *   (1) The global asset trust established in accordance with the proposal shall---
         
-    *   (a) be deemed for the purposes of any enactment to be registered under the [Superannuation Schemes Act 1989][148] as a superannuation scheme; and
+    *   (a) be deemed for the purposes of any enactment to be registered under the [Superannuation Schemes Act 1989][150] as a superannuation scheme; and
     
-    *   (b) for the purposes of the Acts specified in the [Schedule][151] of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, be one superannuation scheme notwithstanding that it may have separate pools and different classes of units; and
+    *   (b) for the purposes of the Acts specified in the [Schedule][153] of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, be one superannuation scheme notwithstanding that it may have separate pools and different classes of units; and
     
-    *   (c) be deemed to be a superannuation scheme for the purposes of [section EW 5(14)][152] or paragraph (b) of the definition of excepted financial arrangement in [section EZ 48][153] of the Income Tax Act 2007\.
+    *   (c) be deemed to be a superannuation scheme for the purposes of [section EW 5(14)][154] or paragraph (b) of the definition of excepted financial arrangement in [section EZ 48][155] of the Income Tax Act 2007\.
     
     (2) Nothing in subsection (1)(b) shall limit [section 73][105].
     
     Section 25(1)(b): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 25(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 25(1)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 25(1)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][155] of the Income Tax Act 2004 (2004 No 35).
+    Section 25(1)(c): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][157] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 26 Interim management of global asset trust
     
@@ -835,7 +837,7 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     (3) Every GAT subsidiary shall be deemed, on the transfer day, to have issued equity securities, debt securities, or participatory securities, or any combination of any of those types of securities, to the Board as trustee of the global asset trust as specified, and on the terms set out, in the proposal.
     
-    (4) Any participatory securities referred to in subsection (3) shall be deemed to be participatory securities for the purposes of [section 3][150] of the Goods and Services Tax Act 1985\.
+    (4) Any participatory securities referred to in subsection (3) shall be deemed to be participatory securities for the purposes of [section 3][152] of the Goods and Services Tax Act 1985\.
     
     (5) Nothing in section 60(1)(b) or section 60(2) of the Companies Act 1955 shall apply in respect of any issue of equity securities to which this section applies.
 
@@ -893,7 +895,7 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     *   (b) in the case of an instrument executed by a GAT subsidiary, containing a recital that the property is vested in the GAT subsidiary by virtue of the provisions of this Act shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the GAT subsidiary.
     
-    Compare: 1986 No 129 [s 11][156]
+    Compare: 1986 No 129 [s 11][158]
 
 ##### 34 References in other enactments or instruments
     
@@ -905,11 +907,11 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     *   (c) to a scheme under the National Provident Fund Act 1950, shall be read and construed as a reference to an existing scheme.
     
-    Compare: 1986 No 129 [s 12][157]
+    Compare: 1986 No 129 [s 12][159]
 
 ##### 35 Taxes and duties
     
-*   (1) For the purposes of the Acts specified in the [Schedule][151] of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge---
+*   (1) For the purposes of the Acts specified in the [Schedule][153] of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge---
         
     *   (a) any existing scheme which is continued in existence after the transfer day, without any amalgamation or division, shall be deemed to be the same scheme which was in existence immediately before the transfer day; and
     
@@ -929,43 +931,43 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     (2) Where any property which is vested under the proposal in the Board as trustee of the global asset trust or a GAT subsidiary consists of shares or an interest in shares, those shares shall not, by reason of that vesting, be treated as having ceased to be held by or on behalf of the same persons for the purposes of determining whether---
         
-    *   (a) any taxpayer satisfies the requirements of [section IA 5(2)][158] of the Income Tax Act 2007; or
+    *   (a) any taxpayer satisfies the requirements of [section IA 5(2)][160] of the Income Tax Act 2007; or
     
-    *   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of [section IA 6][159] of the Income Tax Act 2007; or
+    *   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of [section IA 6][161] of the Income Tax Act 2007; or
     
-    *   (c) any debit arises to be recorded in a taxpayer's imputation credit account, FDP account, or branch equivalent tax account under [section OA 6(2), (3), or (5)][160], as described in table O2, table O4, or table O8 of the Income Tax Act 2007---
+    *   (c) any debit arises to be recorded in a taxpayer's imputation credit account, FDP account, or branch equivalent tax account under [section OA 6(2), (3), or (5)][162], as described in table O2, table O4, or table O8 of the Income Tax Act 2007---
     
     and, for the purposes of determining the application of those sections in relation to any subsequent dealings in those shares, the shares (or interest therein) shall be treated as having been acquired by the Board as trustee of the global asset trust or the GAT subsidiary at the time they were acquired by the Board established under the National Provident Fund Act 1950\.
     
     (3) The vesting in accordance with the proposal of any property or liabilities of the Board established under the National Provident Fund Act 1950 in the Board as trustee of the global asset trust or in any GAT subsidiary, and any other steps taken to implement the proposal,---
         
-    *   (a) shall not for the purposes of the [Income Tax Act 1976][161] be treated as or giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or any liability of the Board or of any property or liability of any existing scheme:
+    *   (a) shall not for the purposes of the [Income Tax Act 1976][163] be treated as or giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or any liability of the Board or of any property or liability of any existing scheme:
     
-    *   (b) shall not, for the purposes of the [Goods and Services Tax Act 1985][162] be treated as a supply of any goods and services:
+    *   (b) shall not, for the purposes of the [Goods and Services Tax Act 1985][164] be treated as a supply of any goods and services:
     
-    *   (c) shall not, for the purposes of the [Stamp and Cheque Duties Act 1971][163], be treated as a conveyance of any property:
+    *   (c) shall not, for the purposes of the [Stamp and Cheque Duties Act 1971][165], be treated as a conveyance of any property:
     
-    *   (d) shall not, for the purposes of the [Estate and Gift Duties Act 1968][164], be treated as a dutiable gift.
+    *   (d) shall not, for the purposes of the [Estate and Gift Duties Act 1968][166], be treated as a dutiable gift.
     
     (4) Nothing in subsection (2) or subsection (3) shall limit the generality of subsection (1).
     
-    Compare: 1986 No 129 [s 17][165]
+    Compare: 1986 No 129 [s 17][167]
     
     Section 35(1): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 35(2): amended (with effect on 1 April 1991), on 7 November 1991, by [section 4][166] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 35(2): amended (with effect on 1 April 1991), on 7 November 1991, by [section 4][168] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Section 35(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 35(2)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
     
-    Section 35(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 35(2)(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
     
     Section 35(2)(b): amended, on 1 April 1995 (applying with respect to the tax on income derived in 1995--96 and subsequent income years), by section YB 1 of the Income Tax Act 1994 (1994 No 164).
     
-    Section 35(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Section 35(2)(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 36 Protection of name National Provident Fund
     
-*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""National Provident Fund"" or under any other name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][167] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
+*   (1) No company or other body shall be incorporated or registered under a name that contains the words ""National Provident Fund"" or under any other name that, in the opinion of the Registrar of Companies, or the appropriate registering authority within the meaning of [section 2][169] of the Flags, Emblems, and Names Protection Act 1981, so resembles such a name as to be likely to deceive.
     
     (2) Nothing in this section applies to the Board or to any GAT subsidiary or to any other person who is associated with the Board.
 
@@ -975,9 +977,9 @@ Provisions relating to implementation of restructuring of Fund and Board
     
     (2) The Minister shall lay a copy of the report and accounts before the House of Representatives as soon as practicable after receiving it.
     
-    Section 37(1): amended, on 1 July 2001, pursuant to [section 52][168] of the Public Audit Act 2001 (2001 No 10).
+    Section 37(1): amended, on 1 July 2001, pursuant to [section 52][170] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 37(1): amended, on 1 October 1997, pursuant to [section 6(1) ][169]of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 37(1): amended, on 1 October 1997, pursuant to [section 6(1) ][171]of the Financial Reporting Amendment Act 1997 (1997 No 17).
 
 ## Part 4  
 Restructuring of National Provident schemes
@@ -1014,7 +1016,7 @@ Restructuring of National Provident schemes
     
     *   (b) any other provision of this Act.
     
-    Section 38: substituted, on 8 May 1992, by [section 3][170] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 38: substituted, on 8 May 1992, by [section 3][172] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 #### Terms and conditions of existing schemes
 
@@ -1054,7 +1056,7 @@ Restructuring of National Provident schemes
 
 #### Information to be provided to Board
     
-*   Heading: inserted, on 29 October 1997, by [section 4][171] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+*   Heading: inserted, on 29 October 1997, by [section 4][173] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 ##### 40A Information to be provided to Board
     
@@ -1074,25 +1076,25 @@ Restructuring of National Provident schemes
     
     *   (b) if a person has been nominated by the Board under subsection (1), the name of that person.
     
-    Compare: 1956 No 47 [s 95D][172]; 1995 No 28 [s 17][173]
+    Compare: 1956 No 47 [s 95D][174]; 1995 No 28 [s 17][175]
     
-    Section 40A: inserted, on 29 October 1997, by [section 4][171] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+    Section 40A: inserted, on 29 October 1997, by [section 4][173] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 #### Payments to existing schemes
     
-*   Heading: inserted, on 29 October 1997, by [section 5][174] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+*   Heading: inserted, on 29 October 1997, by [section 5][176] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 ##### 40B Timing of payment of contributions to schemes
     
 *   Every person who is liable to pay contributions to the Board in respect of an existing scheme (including contributions deducted from remuneration or other money payable to another person, or held on behalf of another person) must pay those contributions to the Board (or to such person as the Board may from time to time nominate) by such time or times as are reasonably specified by the Board in a written notice to the person.
     
-    Compare: 1956 No 47 [s 95A][175]; 1995 No 28 [s 17][173]
+    Compare: 1956 No 47 [s 95A][177]; 1995 No 28 [s 17][175]
     
-    Section 40B: inserted, on 29 October 1997, by [section 5][174] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+    Section 40B: inserted, on 29 October 1997, by [section 5][176] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 ##### 40C Interest payable on overdue amounts
     
-*   (1) Every person who is required to pay an amount to the Board in respect of an existing scheme under any law or legally enforceable document or arrangement, and who fails to pay that amount to the Board at the time required by that law, document, or arrangement, must pay, on demand by the Board, interest on that amount at the bill rate for the period from the time payment was due (or the date of commencement of the [National Provident Fund Restructuring Amendment Act 1997][176], whichever is the later) until the time at which the amount is paid.
+*   (1) Every person who is required to pay an amount to the Board in respect of an existing scheme under any law or legally enforceable document or arrangement, and who fails to pay that amount to the Board at the time required by that law, document, or arrangement, must pay, on demand by the Board, interest on that amount at the bill rate for the period from the time payment was due (or the date of commencement of the [National Provident Fund Restructuring Amendment Act 1997][178], whichever is the later) until the time at which the amount is paid.
     
     (2) In this section, the _bill rate_ means the rate (expressed as a percentage rate per annum) that is the 3-month bank bill mid rate as determined by the Board from time to time.
     
@@ -1100,9 +1102,9 @@ Restructuring of National Provident schemes
     
     (4) The interest must be paid in addition to the overdue amount.
     
-    Compare: 1956 No 47 [s 95B][177]; 1995 No 28 [s 17][173]
+    Compare: 1956 No 47 [s 95B][179]; 1995 No 28 [s 17][175]
     
-    Section 40C: inserted, on 29 October 1997, by [section 5][174] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+    Section 40C: inserted, on 29 October 1997, by [section 5][176] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 ##### 40D Recovery of debts
     
@@ -1112,9 +1114,9 @@ Restructuring of National Provident schemes
     
     *   (b) following recovery, must be paid into the scheme.
     
-    Compare: 1956 No 47 [s 95C][178]; 1995 No 28 [s 17][173]
+    Compare: 1956 No 47 [s 95C][180]; 1995 No 28 [s 17][175]
     
-    Section 40D: inserted, on 29 October 1997, by [section 5][174] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
+    Section 40D: inserted, on 29 October 1997, by [section 5][176] of the National Provident Fund Restructuring Amendment Act 1997 (1997 No 83).
 
 #### Provisions relating to defined benefit schemes
 
@@ -1128,7 +1130,7 @@ Restructuring of National Provident schemes
     
     *   (b) secondly, the DBP contributors scheme, which shall have only contributors as members; and
     
-    *   (c) each such scheme shall be deemed to be registered under the [Superannuation Schemes Act 1989][148].
+    *   (c) each such scheme shall be deemed to be registered under the [Superannuation Schemes Act 1989][150].
     
     (3) For the purposes of this section, the term _annuitants_ means---
         
@@ -1142,7 +1144,7 @@ Restructuring of National Provident schemes
     
 *   (1) The trust deeds to be prepared for the DBP annuitants scheme and the DBP contributors scheme pursuant to [section 45][69] shall contain, unless the Minister and the Board otherwise agree, provisions to the effect of the provisions set out in [Schedule 5][125].
     
-    (2) Notwithstanding [section 9B][179] of the Superannuation Schemes Act 1989, members or other beneficiaries of the DBP contributors scheme may be transferred to the DBP annuitants scheme in accordance with the provisions of the trust deeds for those schemes.
+    (2) Notwithstanding [section 9B][181] of the Superannuation Schemes Act 1989, members or other beneficiaries of the DBP contributors scheme may be transferred to the DBP annuitants scheme in accordance with the provisions of the trust deeds for those schemes.
     
     (3) The Minister may require any provision included in the trust deeds for the DBP annuitants scheme or the DBP contributors scheme pursuant to [section 56][80] to be in such form as the Minister directs.
     
@@ -1154,7 +1156,7 @@ Restructuring of National Provident schemes
         
     *   (a) have become a separate superannuation scheme; and
     
-    *   (b) be registered under the [Superannuation Schemes Act 1989][148].
+    *   (b) be registered under the [Superannuation Schemes Act 1989][150].
     
     
 
@@ -1196,7 +1198,7 @@ Restructuring of National Provident schemes
     
     (3) In this section, _specified scheme_ means a defined benefit scheme whose trust deed requires adjustment of the amounts of the allowances, annuities, or pensions payable under it for increases in the New Zealand Consumers Price Index.
     
-    Section 44A: inserted, on 20 May 2010, by [section 3][180] of the National Provident Fund Restructuring Amendment Act 2010 (2010 No 29).
+    Section 44A: inserted, on 20 May 2010, by [section 3][182] of the National Provident Fund Restructuring Amendment Act 2010 (2010 No 29).
 
 #### New trust deeds
 
@@ -1208,11 +1210,11 @@ Restructuring of National Provident schemes
     
     *   (b) for the DBP annuitants scheme, the DBP contributors scheme, and the aircrew superannuation scheme.
     
-    (1A) The Board shall, as soon as practicable after the commencement of the [National Provident Fund Restructuring Amendment Act 1991][181], prepare a trust deed for every old public scheme.
+    (1A) The Board shall, as soon as practicable after the commencement of the [National Provident Fund Restructuring Amendment Act 1991][183], prepare a trust deed for every old public scheme.
     
-    (2) Each trust deed shall specify the matters required to be specified by [section 7][182] of the Superannuation Schemes Act 1989\.
+    (2) Each trust deed shall specify the matters required to be specified by [section 7][184] of the Superannuation Schemes Act 1989\.
     
-    Section 45(1A): inserted, on 7 November 1991, by [section 5][183] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 45(1A): inserted, on 7 November 1991, by [section 5][185] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 46 Board to be bound by existing terms and conditions in preparing trust deed
     
@@ -1228,11 +1230,11 @@ Restructuring of National Provident schemes
     
     *   (ba) in the case of an old public scheme, in order to reflect the practice of the Board in relation to that scheme immediately before the transfer day (whether or not the practice was authorised by those terms and conditions or by any Act or rule of law); or
     
-    *   (c) in order to ensure consistency with any provisions that are implied in the trust deed of a registered superannuation scheme by [sections 9][184], [9A][185], and [10][186] of the Superannuation Schemes Act 1989\.
+    *   (c) in order to ensure consistency with any provisions that are implied in the trust deed of a registered superannuation scheme by [sections 9][186], [9A][187], and [10][188] of the Superannuation Schemes Act 1989\.
     
-    Section 47(ba): inserted, on 7 November 1991, by [section 6(1)][187] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 47(ba): inserted, on 7 November 1991, by [section 6(1)][189] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Section 47(c): amended (with effect on 7 September 1990), on 7 November 1991, by [section 6(2)][187] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 47(c): amended (with effect on 7 September 1990), on 7 November 1991, by [section 6(2)][189] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 48 New terms and conditions may be included in trust deed
     
@@ -1248,13 +1250,13 @@ Restructuring of National Provident schemes
         
     *   (a) [sections 47(ba)][71], [50][74], and [54(d)][78]; or
     
-    *   (b) [sections 15][188] and [16][189] of the National Provident Fund Restructuring Amendment Act 1991; or
+    *   (b) [sections 15][190] and [16][191] of the National Provident Fund Restructuring Amendment Act 1991; or
     
-    *   (c) [section 12][190] of the National Provident Fund Restructuring Amendment Act 1992\.
+    *   (c) [section 12][192] of the National Provident Fund Restructuring Amendment Act 1992\.
     
-    Section 48(2): substituted, on 8 May 1992, by [section 4][191] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 48(2): substituted, on 8 May 1992, by [section 4][193] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
     
-    Section 48(3): added, on 8 May 1992, by [section 4][191] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 48(3): added, on 8 May 1992, by [section 4][193] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 49 Trust deed to be approved by Minister before execution
     
@@ -1268,7 +1270,7 @@ Restructuring of National Provident schemes
         
         *   (ii) does not include any provision that is additional to the existing terms and conditions, or that is different from the existing terms and conditions, other than as authorised by this Act; and
         
-        *   (iii) complies with [section 7][182] of the Superannuation Schemes Act 1989, and does not contain any provision that is contrary to those implied by [sections 9][184], [9A][185], and [10][186] of that Act; and
+        *   (iii) complies with [section 7][184] of the Superannuation Schemes Act 1989, and does not contain any provision that is contrary to those implied by [sections 9][186], [9A][187], and [10][188] of that Act; and
         
         
     
@@ -1282,7 +1284,7 @@ Restructuring of National Provident schemes
     
     (3) Any certificate required by this section may be given by the Board or a solicitor.
     
-    Section 49(2)(a)(iii): amended (with effect on 7 September 1990), on 7 November 1991, by [section 7][192] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 49(2)(a)(iii): amended (with effect on 7 September 1990), on 7 November 1991, by [section 7][194] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 50 Transfer to other superannuation schemes
     
@@ -1306,7 +1308,7 @@ Restructuring of National Provident schemes
     
     (5) This section is subject to [section 42][64].
     
-    Section 50: substituted, on 8 May 1992, by [section 5(1)][193] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 50: substituted, on 8 May 1992, by [section 5(1)][195] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 51 Management of existing schemes
     
@@ -1328,9 +1330,9 @@ Restructuring of National Provident schemes
     
     (3) This section does not prevent the Board as trustee of an existing scheme depositing money of that scheme into a bank account (which may be a bank account for 1 or more existing schemes) to the extent necessary or desirable for the operation of the scheme.
     
-    (4) Nothing in [section 8][194] of the Superannuation Schemes Act 1989 or the provisions of the [Trustee Act 1956][195] relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
+    (4) Nothing in [section 8][196] of the Superannuation Schemes Act 1989 or the provisions of the [Trustee Act 1956][197] relating to the investment of trust funds shall apply in respect of the trust deed for an existing scheme or the investment of the property of the scheme.
     
-    Section 53: substituted (with effect on 1 April 1991), on 7 November 1991 (subsection (2) applying in relation to an old public scheme only until a trust deed is executed for that scheme), by [section 8(1)][196] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 53: substituted (with effect on 1 April 1991), on 7 November 1991 (subsection (2) applying in relation to an old public scheme only until a trust deed is executed for that scheme), by [section 8(1)][198] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 54 Board's powers and authorities
     
@@ -1352,7 +1354,7 @@ Restructuring of National Provident schemes
     
     (2) \[Repealed\]
     
-    Section 55(2): repealed (with effect on 7 September 1990), on 7 November 1991, by [section 9][197] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 55(2): repealed (with effect on 7 September 1990), on 7 November 1991, by [section 9][199] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 56 Termination of scheme
     
@@ -1364,21 +1366,21 @@ Restructuring of National Provident schemes
     
     (2) Every provision under subsection (1)(a) shall provide for the distribution of the property of the scheme on a winding up.
     
-    Section 56(1)(a): substituted (with effect on 7 September 1990), on 8 May 1992, by [section 6][198] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 56(1)(a): substituted (with effect on 7 September 1990), on 8 May 1992, by [section 6][200] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 57 Consequences of executing trust deed in respect of existing scheme
     
 *   (1) Where a trust deed is executed in respect of an existing scheme,---
         
-    *   (a) each of the provisions set out in [sections 9][184], [9A][185], and [10][186] of the Superannuation Schemes Act 1989 shall be implied in the trust deed; and
+    *   (a) each of the provisions set out in [sections 9][186], [9A][187], and [10][188] of the Superannuation Schemes Act 1989 shall be implied in the trust deed; and
     
     *   (b) the existing scheme shall be treated, for the purposes of that Act, as a trust established by its trust deed, rather than an arrangement constituted under an Act of the Parliament of New Zealand; and
     
     *   (c) from the date of execution of that trust deed, the terms and conditions of that scheme shall be those contained or implied in that trust deed, as amended from time to time.
     
-    (2) In the application of the [Superannuation Schemes Act 1989][148] in relation to an existing scheme, the references in [section 11][199] and [section 12][200] of that Act to [section 8][194] of that Act shall be read as references to [section 9][184] of that Act.
+    (2) In the application of the [Superannuation Schemes Act 1989][150] in relation to an existing scheme, the references in [section 11][201] and [section 12][202] of that Act to [section 8][196] of that Act shall be read as references to [section 9][186] of that Act.
     
-    Section 57: substituted (with effect on 7 September 1990), on 8 May 1992, by [section 7(1)][201] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 57: substituted (with effect on 7 September 1990), on 8 May 1992, by [section 7(1)][203] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 58 Members to be notified of execution of trust deed
     
@@ -1429,7 +1431,7 @@ Guarantees and subsidies
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 8 May 1992, by [section 8(1)][202] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 62: repealed, on 8 May 1992, by [section 8(1)][204] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 63 Application of withdrawals
     
@@ -1439,9 +1441,9 @@ Guarantees and subsidies
     
     *   (b) secondly, a withdrawal of, or other dealing with, such money so deposited on or after the transfer day together with interest thereon.
     
-    Section 63: amended, on 8 May 1992, by [section 8(2)(a)][202] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 63: amended, on 8 May 1992, by [section 8(2)(a)][204] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
     
-    Section 63: amended, on 8 May 1992, by [section 8(2)(b)][202] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 63: amended, on 8 May 1992, by [section 8(2)(b)][204] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 64 Minister may direct Board in respect of matters relating to Crown guarantees
     
@@ -1533,15 +1535,15 @@ Guarantees and subsidies
     
     (2) The Minister shall lay a copy of each such report and financial statements before the House of Representatives as soon as practicable after receiving them.
     
-    Section 67(1A): inserted, on 21 December 1992, by [section 42][203] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 67(1A): inserted, on 21 December 1992, by [section 42][205] of the Public Finance Amendment Act 1992 (1992 No 142).
     
-    Section 67(1B): inserted, on 21 December 1992, by [section 42][203] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 67(1B): inserted, on 21 December 1992, by [section 42][205] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 67A Other reports to Minister
     
 *   In addition to the duties imposed on the Board by [section 67][94], the Board shall report to the Minister on the matters set out in section 67(1B) at such times as are agreed between the Minister and the Board.
     
-    Section 67A: inserted, on 21 December 1992, by [section 42][203] of the Public Finance Amendment Act 1992 (1992 No 142).
+    Section 67A: inserted, on 21 December 1992, by [section 42][205] of the Public Finance Amendment Act 1992 (1992 No 142).
 
 ##### 68 Actuarial examination
     
@@ -1581,7 +1583,7 @@ Guarantees and subsidies
     
 *   Where contributions are made by a government department on behalf of the employees of the department, the contributions shall be paid by the department out of money appropriated by Parliament.
     
-    Section 71: substituted, on 8 May 1992, by [section 9][204] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 71: substituted, on 8 May 1992, by [section 9][206] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ##### 72 Crown payments to meet deficiencies
     
@@ -1599,7 +1601,7 @@ Guarantees and subsidies
     
     (2) Nothing in this section limits [sections 69 to 72][98].
     
-    Section 72A: inserted, on 8 May 1992, by [section 10][205] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
+    Section 72A: inserted, on 8 May 1992, by [section 10][207] of the National Provident Fund Restructuring Amendment Act 1992 (1992 No 38).
 
 ## Part 6  
 Amendments, repeals, and revocations with effect on and after transfer day
@@ -1626,7 +1628,7 @@ Amendments, repeals, and revocations with effect on and after transfer day
     
     (2) Nothing in this section limits [section 35][46].
     
-    Section 73(1)(f): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][155] of the Income Tax Act 2004 (2004 No 35).
+    Section 73(1)(f): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][157] of the Income Tax Act 2004 (2004 No 35).
     
     Section 73(1)(f): amended, on 26 July 1996 (applying to the 1997--98 and subsequent income years), by section 484 of the Taxation (Core Provisions) Act 1996 (1996 No 67).
     
@@ -1636,7 +1638,7 @@ Amendments, repeals, and revocations with effect on and after transfer day
     
 *   \[Repealed\]
     
-    Section 74: repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][155] of the Income Tax Act 2004 (2004 No 35).
+    Section 74: repealed, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][157] of the Income Tax Act 2004 (2004 No 35).
 
 ##### 75 Approval and classification of old public schemes
     
@@ -1648,13 +1650,13 @@ Amendments, repeals, and revocations with effect on and after transfer day
 
 ##### 76 Old public schemes deemed to be registered superannuation schemes
     
-*   The old public schemes shall, on and after 1 April 1990, be deemed to be superannuation schemes which are registered under the [Superannuation Schemes Act 1989][148] for the purposes of that and any other Act, and shall be treated in all respects as if they had, on that date, been registered as such by the Government Actuary.
+*   The old public schemes shall, on and after 1 April 1990, be deemed to be superannuation schemes which are registered under the [Superannuation Schemes Act 1989][150] for the purposes of that and any other Act, and shall be treated in all respects as if they had, on that date, been registered as such by the Government Actuary.
 
 #### Amendment to Unit Trusts Act 1960
 
 ##### 77 Exclusion from definition of term unit trust
     
-*   _Amendment(s) incorporated in the [Act(s)][206]_.
+*   _Amendment(s) incorporated in the [Act(s)][208]_.
 
 #### General
 
@@ -1680,11 +1682,11 @@ Amendments, repeals, and revocations with effect on and after transfer day
     
 *   The following enactments are hereby repealed:
         
-    *   (a) _Amendment(s) incorporated in the [Act(s)][207]_:
+    *   (a) _Amendment(s) incorporated in the [Act(s)][209]_:
     
-    *   (b) _Amendment(s) incorporated in the [Act(s)][208]_:
+    *   (b) _Amendment(s) incorporated in the [Act(s)][210]_:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][209]_.
+    *   (c) _Amendment(s) incorporated in the [Act(s)][211]_.
     
     
 
@@ -1722,7 +1724,7 @@ Amendments, repeals, and revocations with effect on and after transfer day
     
     Compare: 1950 No 55 s 6(6), (7), (9)
     
-    Section 83(1): amended, on 7 November 1991, by [section 11][210] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Section 83(1): amended, on 7 November 1991, by [section 11][212] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 84 Saving in respect of validation of certain lump sum schemes
     
@@ -1777,7 +1779,7 @@ Staff Pension Schemes
 
 Standard Scheme for Local Authorities Superannuation (including Harbourmasters and (Ships') Pilots), which includes the Aircrew Superannuation Scheme
     
-*   Schedule 1 Part 1: amended (with effect on 7 September 1990), on 7 November 1991, by [section 12][211] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+*   Schedule 1 Part 1: amended (with effect on 7 September 1990), on 7 November 1991, by [section 12][213] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ## Part 2  
 Existing investment arrangements
@@ -1816,11 +1818,11 @@ Matters to be provided for in proposal
 
 ##### 2 Global asset trust
     
-*   The establishment of a trust in which certain property of the Fund will, and certain liabilities of the Fund may, be vested in accordance with [clause 5][212] and which will---
+*   The establishment of a trust in which certain property of the Fund will, and certain liabilities of the Fund may, be vested in accordance with [clause 5][214] and which will---
         
     *   (a) issue participatory securities to the Board as trustee of each of the existing schemes; and
     
-    *   (b) be in the nature of a unit trust, but not be a unit trust within the meaning of [section 2(1)][206] of the Unit Trusts Act 1960 or section 211(1) of the [Income Tax Act 1976][161]; and
+    *   (b) be in the nature of a unit trust, but not be a unit trust within the meaning of [section 2(1)][208] of the Unit Trusts Act 1960 or section 211(1) of the [Income Tax Act 1976][163]; and
     
     *   (c) have a number of pools of property, each comprising property of a particular type or types; and
     
@@ -1932,7 +1934,7 @@ Provisions applying in respect of Board
     
 *   There shall be paid to or in respect of the members of the Board out of such of the pools of the global asset trust or the property of such of the existing schemes as the Board considers appropriate, such remuneration for services as members of the Board and such expenses incurred in carrying on the affairs of the Board as may be determined from time to time by the Board and approved by the Minister.
     
-    Schedule 4 clause 2: substituted (with effect on 1 April 1991), on 7 November 1991, by [section 13(1)][213] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 4 clause 2: substituted (with effect on 1 April 1991), on 7 November 1991, by [section 13(1)][215] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 3 Other provisions relating to Board
     
@@ -1960,17 +1962,17 @@ Provisions applying in respect of Board
     
     (3) The Board may, by instrument in writing, appoint an attorney or attorneys of the Board to exercise any or all of the powers of the Board and for such period and on such other terms and conditions as the Board shall determine.
     
-    Schedule 4 clause 3(1): substituted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1): substituted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 3(1A): substituted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1A): substituted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 3(1B): inserted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1B): inserted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 3(1C): inserted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1C): inserted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 3(1D): inserted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1D): inserted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 3(1E): inserted, on 22 August 2001, by [section 38(2)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 3(1E): inserted, on 22 August 2001, by [section 38(2)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 ##### 4 Meetings
     
@@ -2006,13 +2008,13 @@ Provisions applying in respect of Board
     
     (3) The procedure of a committee established under this clause shall be determined by the Board by notice in writing.
     
-    Schedule 4 clause 5(1): substituted, on 22 August 2001, by [section 38(3)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 5(1): substituted, on 22 August 2001, by [section 38(3)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 5(1A): inserted, on 22 August 2001, by [section 38(3)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 5(1A): inserted, on 22 August 2001, by [section 38(3)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
     
-    Schedule 4 clause 5(2): substituted (with effect on 1 April 1991), on 7 November 1991, by [section 13(3)][213] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 4 clause 5(2): substituted (with effect on 1 April 1991), on 7 November 1991, by [section 13(3)][215] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Schedule 4 clause 5(3): added (with effect on 1 April 1991), on 7 November 1991, by [section 13(3)][213] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 4 clause 5(3): added (with effect on 1 April 1991), on 7 November 1991, by [section 13(3)][215] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 6 Delegation of Board's powers
     
@@ -2028,7 +2030,7 @@ Provisions applying in respect of Board
     
     (6) The delegation is revocable at will, and does not prevent the exercise of any power by the Board.
     
-    Schedule 4 clause 6: substituted, on 22 August 2001, by [section 38(4)][147] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
+    Schedule 4 clause 6: substituted, on 22 August 2001, by [section 38(4)][149] of the Government Superannuation Fund Amendment Act 2001 (2001 No 47).
 
 ---
 
@@ -2043,11 +2045,11 @@ Provisions to be included in trust deeds for DBP annuitants scheme and DBP contr
     
     (2) Upon a winding up of the DBP annuitants scheme, the Crown shall pay into that scheme the amount necessary to increase the market value of the property of that scheme to the value it would have had if---
         
-    *   (a) property had been allocated to that scheme by the proposal in accordance with [clause 4(10)][214] of Schedule 2 but without the deduction of the amount of $230 million (or such other amount as may have been agreed between the Crown and the Board for the purposes of that subclause); and
+    *   (a) property had been allocated to that scheme by the proposal in accordance with [clause 4(10)][216] of Schedule 2 but without the deduction of the amount of $230 million (or such other amount as may have been agreed between the Crown and the Board for the purposes of that subclause); and
     
     *   (b) the investment of the property of the scheme had been appropriate to its liabilities; and
     
-    *   (c) subparagraphs (ii) and (iii) of [clause 2(1)(a)][215] applied,---
+    *   (c) subparagraphs (ii) and (iii) of [clause 2(1)(a)][217] applied,---
     
     such assessment to be made by an actuary appointed by the Board and approved by the Crown.
 
@@ -2093,17 +2095,17 @@ Provisions to be included in trust deeds for DBP annuitants scheme and DBP contr
     
     *   (b) disadvantaged by the implementation of any settlement of claims in relation to any NPF group company.
     
-    Schedule 5 clause 2(5): amended, on 7 November 1991, by [section 14(1)][216] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 5 clause 2(5): amended, on 7 November 1991, by [section 14(1)][218] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Schedule 5 clause 2(6): amended, on 7 November 1991, by [section 14(2)][216] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 5 clause 2(6): amended, on 7 November 1991, by [section 14(2)][218] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
     
-    Schedule 5 clause 2(7): amended, on 7 November 1991, by [section 14(3)][216] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 5 clause 2(7): amended, on 7 November 1991, by [section 14(3)][218] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ##### 3 Transfer from DBP contributors scheme to DBP annuitants scheme
     
 *   Upon any member of the DBP contributors scheme ceasing to be a contributor but retaining a right, actual or contingent, to a benefit, the Board as trustee of the DBP contributors scheme shall transfer to the DBP annuitants scheme property having a market value equal to the liability of the DBP annuitants scheme to pay the benefit attributable to that person's membership, taking into account estimates of future investment earnings, taxation, inflation, and mortality rates, that are based on reasonable expectations over the appropriate term of the liability in respect of that benefit assuming that the scheme is fully funded with an asset mix based on the investments that a trustee would make in respect of the scheme if fully funded taking into account the term and nature of its liabilities.
     
-    Schedule 5 clause 3: amended, on 7 November 1991, by [section 14(4)][216] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
+    Schedule 5 clause 3: amended, on 7 November 1991, by [section 14(4)][218] of the National Provident Fund Restructuring Amendment Act 1991 (1991 No 114).
 
 ---
 
@@ -2118,19 +2120,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Alcoholic Liquor Advisory Council Act 1976 (1976 No 143)
 
-_Amendment(s) incorporated in the [Act(s)][217]._
+_Amendment(s) incorporated in the [Act(s)][219]._
 
 ##### Armed Forces Canteens Act 1948 (1948 No 51) (RS Vol 1, p 143)
 
-_Amendment(s) incorporated in the [Act(s)][218]._
+_Amendment(s) incorporated in the [Act(s)][220]._
 
 ##### Auckland Regional Authority Act 1963 (1963 No 18 (L)) (RS Vol 22, p 17)
 
-_Amendment(s) incorporated in the [Act(s)][219]._
+_Amendment(s) incorporated in the [Act(s)][221]._
 
 ##### Commerce Act 1986 (1986 No 5)
 
-_Amendment(s) incorporated in the [Act(s)][220]._
+_Amendment(s) incorporated in the [Act(s)][222]._
 
 ##### Dairy Board Act 1961 (1961 No 5) (Reprinted 1976, Vol 4, p 3337)
 
@@ -2138,11 +2140,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Government Superannuation Fund Act 1956 (1956 No 47) (RS Vol 21, p 209)
 
-_Amendment(s) incorporated in the [Act(s)][221]._
+_Amendment(s) incorporated in the [Act(s)][223]._
 
 ##### Government Superannuation Fund Amendment Act 1985 (1985 No 62) (RS Vol 21, p 486)
 
-_Amendment(s) incorporated in the [Act(s)][222]._
+_Amendment(s) incorporated in the [Act(s)][224]._
 
 ##### Hospitals Act 1957 (1957 No 40) (RS Vol 19, p 665)
 
@@ -2170,7 +2172,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### New Zealand Council for Educational Research Act 1972 (1972 No 35) (RS Vol 23, p 755)
 
-_Amendment(s) incorporated in the [Act(s)][223]._
+_Amendment(s) incorporated in the [Act(s)][225]._
 
 ##### New Zealand Export-Import Corporation Act 1974 (1974 No 2)
 
@@ -2178,15 +2180,15 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### New Zealand Film Commission Act 1978 (1978 No 61)
 
-_Amendment(s) incorporated in the [Act(s)][224]._
+_Amendment(s) incorporated in the [Act(s)][226]._
 
 ##### New Zealand Horticulture Export Authority Act 1987 (1987 No 93)
 
-_Amendment(s) incorporated in the [Act(s)][225]._
+_Amendment(s) incorporated in the [Act(s)][227]._
 
 ##### New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51) (RS Vol 8, p 835)
 
-_Amendment(s) incorporated in the [Act(s)][226]._
+_Amendment(s) incorporated in the [Act(s)][228]._
 
 ##### New Zealand Planning Act 1982 (1982 No 17)
 
@@ -2198,7 +2200,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Patriotic and Canteen Funds Act 1947 (1947 No 63) (RS Vol 4, p 19)
 
-_Amendment(s) incorporated in the [Act(s)][227]._
+_Amendment(s) incorporated in the [Act(s)][229]._
 
 ##### Queen Elizabeth the Second Arts Council of New Zealand Act 1974 (1974 No 67)
 
@@ -2214,19 +2216,19 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Securities Act 1978 (1978 No 103) (RS Vol 15, p 533)
 
-_Amendment(s) incorporated in the [Act(s)][228]._
+_Amendment(s) incorporated in the [Act(s)][230]._
 
 ##### Social Security Act 1964 (1964 No 136) (RS Vol 13, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][229]._
+_Amendment(s) incorporated in the [Act(s)][231]._
 
 ##### Taranaki Scholarships Trust Board Act 1957 (1957 No 108) (RS Vol 13, p 705)
 
-_Amendment(s) incorporated in the [Act(s)][230]._
+_Amendment(s) incorporated in the [Act(s)][232]._
 
 ##### Testing Laboratory Registration Act 1972 (1972 No 36) (RS Vol 23, p 847)
 
-_Amendment(s) incorporated in the [Act(s)][231]._
+_Amendment(s) incorporated in the [Act(s)][233]._
 
 ##### Vocational Training Council Act 1982 (1982 No 54)
 
@@ -2234,7 +2236,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Winston Churchill Memorial Trust Act 1965 (1965 No 39) (RS Vol 18, p 943)
 
-_Amendment(s) incorporated in the [Act(s)][232]._
+_Amendment(s) incorporated in the [Act(s)][234]._
 
 ---
 
@@ -2245,7 +2247,7 @@ Enactments repealed
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) (RS Vol 6, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][233]._
+_Amendment(s) incorporated in the [Act(s)][235]._
 
 ##### Income Tax Amendment Act 1989 (1989 No 7)
 
@@ -2318,7 +2320,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1991][181], and shall be read together with and deemed part of the National Provident Fund Restructuring Act 1990 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1991][183], and shall be read together with and deemed part of the National Provident Fund Restructuring Act 1990 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in subsections (3) and (4), this Act shall come into force on the day on which it receives the Royal assent.
     
@@ -2400,7 +2402,7 @@ Commencementsee section 1
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1992][234], and shall be read together with and deemed part of the National Provident Fund Restructuring Act 1990 (hereinafter referred to as ""the principal Act"").
+*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1992][236], and shall be read together with and deemed part of the National Provident Fund Restructuring Act 1990 (hereinafter referred to as ""the principal Act"").
     
     (2) Except as provided in subsections (3) and (4), this Act shall come into force on the day on which it receives the Royal assent.
     
@@ -2474,7 +2476,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1997][176], and is part of the National Provident Fund Restructuring Act 1990 (""the principal Act"").
+*   (1) This Act may be cited as the [National Provident Fund Restructuring Amendment Act 1997][178], and is part of the National Provident Fund Restructuring Act 1990 (""the principal Act"").
     
     (2) This Act comes into force on the day after the date on which this Act receives the Royal assent.
 
@@ -2720,7 +2722,9 @@ Restructuring of existing schemes
     
     *   (b) state the appointed day for that proposal.
     
-    (4) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+    (4) The notice is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][143] and must be presented to the House of Representatives under [section 41][144] of that Act.
+    
+    Section 21(4): replaced, on 5 August 2013, by [section 77(3)][145] of the Legislation Act 2012 (2012 No 119).
 
 ##### 22 Amendment of proposal
     
@@ -2736,7 +2740,9 @@ Restructuring of existing schemes
     
     *   (b) state the day on and from which the amendment has effect, which may be the appointed day or any later day.
     
-    (5) The Regulations (Disallowance) Act 1989 applies to the notice as if it were a regulation within the meaning of that Act.
+    (5) The notice is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][143] and must be presented to the House of Representatives under [section 41][144] of that Act.
+    
+    Section 22(5): replaced, on 5 August 2013, by [section 77(3)][145] of the Legislation Act 2012 (2012 No 119).
 
 ##### 23 Implementation of proposal
     
@@ -2834,19 +2840,13 @@ Miscellaneous provisions
 ## Schedule 1  
 Provisions applying to new pension schemes
 
-[s 19][235]
+[s 19][237]
 
-##### 1
-    
-*   Notwithstanding any other enactment or rule of law, the provisions of sections 51, 53, 54, 55, 56, and 57 of the principal Act (which relate to management, investment, the Board's powers and authorities, the Board's liability, termination, and trust deeds) apply to the trust deed for a pension scheme as if that deed were a trust deed prepared in respect of an existing scheme.
+*   1 Notwithstanding any other enactment or rule of law, the provisions of sections 51, 53, 54, 55, 56, and 57 of the principal Act (which relate to management, investment, the Board's powers and authorities, the Board's liability, termination, and trust deeds) apply to the trust deed for a pension scheme as if that deed were a trust deed prepared in respect of an existing scheme.
 
-##### 2
-    
-*   A pension scheme is deemed to be an existing scheme for the purposes of sections 16, 31, 38, 59, 60, 64, 65, 67, and 68 and Schedule 4 of the principal Act, and for the purposes of this Act.
+*   2 A pension scheme is deemed to be an existing scheme for the purposes of sections 16, 31, 38, 59, 60, 64, 65, 67, and 68 and Schedule 4 of the principal Act, and for the purposes of this Act.
 
-##### 3
-    
-*   A pension scheme is deemed to consist of a trust fund for the purposes of---
+*   3 A pension scheme is deemed to consist of a trust fund for the purposes of---
         
     *   (a) the definition of unclaimed money in section 2 of the principal Act; and
     
@@ -2856,36 +2856,26 @@ Provisions applying to new pension schemes
     
     
 
-##### 4
-    
-*   The trust deed for a pension scheme is deemed to be a trust deed to which section 59 and section 65(1) of the principal Act apply.
+*   4 The trust deed for a pension scheme is deemed to be a trust deed to which section 59 and section 65(1) of the principal Act apply.
 
 ## Schedule 2  
 Effect of implementation of amalgamation proposal
 
-[s 24][236]
+[s 24][238]
 
 #### General provisions
 
-##### 1
-    
-*   In this schedule, in relation to an amalgamation proposal,---
+*   1 In this schedule, in relation to an amalgamation proposal,---
     
     _existing scheme_ means an existing scheme to be amalgamated under the amalgamation proposal
     
     _new scheme_ means a new scheme established as the result of the amalgamation proposal under this Act.
 
-##### 2
-    
-*   All members and beneficiaries of an existing scheme will, on the appointed day, be transferred to and become members and beneficiaries of the new scheme.
+*   2 All members and beneficiaries of an existing scheme will, on the appointed day, be transferred to and become members and beneficiaries of the new scheme.
 
-##### 3
-    
-*   All assets and liabilities of the existing scheme will, on the appointed day, vest in the new scheme.
+*   3 All assets and liabilities of the existing scheme will, on the appointed day, vest in the new scheme.
 
-##### 4
-    
-*   Without limiting clause 3, on and from the appointed day in relation to an amalgamation proposal,---
+*   4 Without limiting clause 3, on and from the appointed day in relation to an amalgamation proposal,---
         
     *   (a) a reference (whether express or implied) to any of the existing schemes in any Act, or in any regulation, order, or notice made or given under any Act, or in any instrument, register, record, notice, security, document, or communication made, given, passed, registered, or executed before or after the appointed day must be read and construed as a reference to the new scheme:
     
@@ -2903,9 +2893,7 @@ Effect of implementation of amalgamation proposal
     
     
 
-##### 5
-    
-*   Nothing effected or authorised by an amalgamation proposal---
+*   5 Nothing effected or authorised by an amalgamation proposal---
         
     *   (a) places the Board in any of its capacities (or a member of the Board) or any other person in breach of, or default under, any contract, or in breach of trust, or in breach of confidence, or otherwise makes any of them guilty of a civil wrong; or
     
@@ -2929,15 +2917,11 @@ Effect of implementation of amalgamation proposal
     
     
 
-##### 6
-    
-*   A new scheme is deemed to be an existing scheme for the purposes of the principal Act, and for the purposes of this Act.
+*   6 A new scheme is deemed to be an existing scheme for the purposes of the principal Act, and for the purposes of this Act.
 
 #### Provisions relating to taxes and duties
 
-##### 7
-    
-*   For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge---
+*   7 For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge---
         
     *   (a) in relation to property that is---
             
@@ -2953,9 +2937,7 @@ Effect of implementation of amalgamation proposal
     
     
 
-##### 8
-    
-*   Where property which is vested under an amalgamation proposal in the Board as trustee of a new scheme consists of shares or an interest in shares, those shares are not, by reason of that vesting, to be treated as having ceased to be held by or on behalf of the same persons for the purposes of determining whether---
+*   8 Where property which is vested under an amalgamation proposal in the Board as trustee of a new scheme consists of shares or an interest in shares, those shares are not, by reason of that vesting, to be treated as having ceased to be held by or on behalf of the same persons for the purposes of determining whether---
         
     *   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
     
@@ -2965,15 +2947,13 @@ Effect of implementation of amalgamation proposal
     
     and, for the purposes of determining the application of those sections in relation to subsequent dealings in those shares, the shares (or interest in the shares) are to be treated as having been acquired by the Board as trustee of the new scheme at the time they were acquired by the Board as trustee of the existing scheme.
     
-    Schedule 2 clause 8(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No  97).
+    Schedule 2 clause 8(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No  97).
     
-    Schedule 2 clause 8(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 8(b): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
     
-    Schedule 2 clause 8(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 8(c): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
 
-##### 9
-    
-*   The vesting in accordance with an amalgamation proposal of property or liabilities of the Board as trustee of an existing scheme in the Board as trustee of a new scheme, and any other steps taken to implement that amalgamation proposal,---
+*   9 The vesting in accordance with an amalgamation proposal of property or liabilities of the Board as trustee of an existing scheme in the Board as trustee of a new scheme, and any other steps taken to implement that amalgamation proposal,---
         
     *   (a) are not for the purposes of the Income Tax Act 2007 to be treated as or as giving rise to a sale or other disposition, distribution, transfer, or a receipt of any property or liability of the Board in any of its capacities:
     
@@ -2983,106 +2963,63 @@ Effect of implementation of amalgamation proposal
     
     *   (d) are not, for the purposes of the Estate and Gift Duties Act 1968, to be treated as a dutiable gift.
     
-    Schedule 2 clause 9(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][154] of the Income Tax Act 2007 (2007 No 97).
+    Schedule 2 clause 9(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][156] of the Income Tax Act 2007 (2007 No 97).
 
-##### 10
-    
-*   Nothing in clause 8 or clause 9 limits the generality of clause 7\.
+*   10 Nothing in clause 8 or clause 9 limits the generality of clause 7\.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the National Provident Fund Restructuring Act 1990\. The reprint incorporates all the amendments to the Act as at 1 May 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][237] ![](/images/external_link.gif).
+*   This is a reprint of the National Provident Fund Restructuring Act 1990 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][238] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][239] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][240] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][239] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][241] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][242] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][240] and [17E][241] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][145]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Financial Markets Authority Act 2011 (2011 No 5): [section 82][139]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [National Provident Fund Restructuring Amendment Act 2010][243] (2010 No 29)
     
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][156]
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Financial Markets Authority Act 2011 (2011 No 5): [section 82][139]
-    
-    [National Provident Fund Restructuring Amendment Act 2010][242] (2010 No 29)
-    
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][154]
-    
-    Income Tax Act 2004 (2004 No 35): [section YA 2][155]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][157]
     
     Local Government Act 2002 (2002 No 84): [section 262][141]
     
-    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 38][147]
+    Government Superannuation Fund Amendment Act 2001 (2001 No 47): [section 38][149]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][168]
+    Public Audit Act 2001 (2001 No 10): [section 52][170]
     
-    [National Provident Fund Restructuring Amendment Act 1997][176] (1997 No 83)
+    [National Provident Fund Restructuring Amendment Act 1997][178] (1997 No 83)
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][169]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][171]
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
     Income Tax Act 1994 (1994 No 164): section YB 1
     
-    Public Finance Amendment Act 1992 (1992 No 142): [section 42][203]
+    Public Finance Amendment Act 1992 (1992 No 142): [section 42][205]
     
-    [National Provident Fund Restructuring Amendment Act 1992][234] (1992 No 38)
+    [National Provident Fund Restructuring Amendment Act 1992][236] (1992 No 38)
     
-    [National Provident Fund Restructuring Amendment Act 1991][181] (1991 No 114)
+    [National Provident Fund Restructuring Amendment Act 1991][183] (1991 No 114)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM225566
 [2]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM225568
 [3]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM225569
@@ -3225,103 +3162,104 @@ Effect of implementation of amalgamation proposal
 [140]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413643
 [141]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM174088
 [142]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261098
-[143]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM195534
-[144]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250131
-[145]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226637
-[146]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250132
-[147]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM98899
-[148]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143291
-[149]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99956
-[150]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM81823
-[151]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM359333
-[152]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1515242
-[153]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1516137
-[154]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1523176
-[155]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM277147
-[156]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99967
-[157]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99968
-[158]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1517695
-[159]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1517703
-[160]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1518651
-[161]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2474800
-[162]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM81034
-[163]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM399728
-[164]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM385591
-[165]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99978
-[166]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250133
-[167]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM51363
-[168]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM88956
-[169]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM408960
-[170]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261099
-[171]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413644
-[172]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448020
-[173]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM366246
-[174]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413645
-[175]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448010
-[176]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413617
-[177]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448013
-[178]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448017
-[179]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143758
-[180]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2988206
-[181]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250124
-[182]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143753
-[183]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250134
-[184]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143755
-[185]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143756
-[186]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143773
-[187]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250135
-[188]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250146
-[189]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250147
-[190]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261608
-[191]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261600
-[192]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250136
-[193]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261601
-[194]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143754
-[195]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM304703
-[196]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250137
-[197]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250138
-[198]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261602
-[199]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143774
-[200]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143775
-[201]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261603
-[202]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261604
-[203]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM289849
-[204]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261605
-[205]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261606
-[206]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM325269
-[207]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM235634
-[208]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM255613
-[209]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM304357
-[210]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250141
-[211]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250142
-[212]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226634
-[213]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250143
-[214]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226633
-[215]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226652
-[216]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250144
-[217]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM439968
-[218]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM249672
-[219]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM61285
-[220]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM87622
-[221]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM446000
-[222]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM75669
-[223]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM407019
-[224]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM22639
-[225]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM117371
-[226]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM348782
-[227]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM246644
-[228]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM25999
-[229]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM359106
-[230]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM317731
-[231]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM407090
-[232]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM373160
-[233]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM264952
-[234]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261092
-[235]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM413670
-[236]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM413676
-[237]: http://www.pco.parliament.govt.nz/reprints/
-[238]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM195439
-[239]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[240]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM195468
-[241]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM195470
-[242]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2988200
+[143]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2997643
+[144]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998573
+[145]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998633
+[146]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250131
+[147]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226637
+[148]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250132
+[149]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM98899
+[150]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143291
+[151]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99956
+[152]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM81823
+[153]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM359333
+[154]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1515242
+[155]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1516137
+[156]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1523176
+[157]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM277147
+[158]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99967
+[159]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99968
+[160]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1517695
+[161]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1517703
+[162]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM1518651
+[163]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2474800
+[164]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM81034
+[165]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM399728
+[166]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM385591
+[167]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM99978
+[168]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250133
+[169]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM51363
+[170]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM88956
+[171]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM408960
+[172]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261099
+[173]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413644
+[174]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448020
+[175]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM366246
+[176]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413645
+[177]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448010
+[178]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM413617
+[179]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448013
+[180]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM448017
+[181]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143758
+[182]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2988206
+[183]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250124
+[184]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143753
+[185]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250134
+[186]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143755
+[187]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143756
+[188]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143773
+[189]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250135
+[190]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250146
+[191]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250147
+[192]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261608
+[193]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261600
+[194]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250136
+[195]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261601
+[196]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143754
+[197]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM304703
+[198]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250137
+[199]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250138
+[200]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261602
+[201]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143774
+[202]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM143775
+[203]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261603
+[204]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261604
+[205]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM289849
+[206]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261605
+[207]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261606
+[208]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM325269
+[209]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM235634
+[210]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM255613
+[211]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM304357
+[212]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250141
+[213]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250142
+[214]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226634
+[215]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250143
+[216]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226633
+[217]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM226652
+[218]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM250144
+[219]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM439968
+[220]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM249672
+[221]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM61285
+[222]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM87622
+[223]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM446000
+[224]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM75669
+[225]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM407019
+[226]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM22639
+[227]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM117371
+[228]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM348782
+[229]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM246644
+[230]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM25999
+[231]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM359106
+[232]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM317731
+[233]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM407090
+[234]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM373160
+[235]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM264952
+[236]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM261092
+[237]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM413670
+[238]: http://www.legislation.govt.nz/act/public/1990/0126/latest/whole.html#DLM413676
+[239]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998516
+[240]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998515
+[241]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2998532
+[242]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[243]: http://www.legislation.govt.nz/act/public/1990/0126/latest/link.aspx?id=DLM2988200
