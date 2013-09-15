@@ -1,5 +1,5 @@
 Reprint  
-as at 1 November 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,101 +25,101 @@ This Act is administered by the Ministry of Economic Development.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Application][4] \[Repealed\]
+[3][4][][4][Application][4] \[Repealed\]
 
-[4][5] [Act to bind the Crown][5]
+[4][5][][5][Act to bind the Crown][5]
 
 [Part 1][6]  
 [Grants of plant variety rights][6]
 
-[5][7] [Applications][7]
+[5][7][][7][Applications][7]
 
-[6][8] [Objections before grant][8]
+[6][8][][8][Objections before grant][8]
 
-[7][9] [Withdrawal or lapse of applications][9]
+[7][9][][9][Withdrawal or lapse of applications][9]
 
-[8][10] [Inspection of applications][10]
+[8][10][][10][Inspection of applications][10]
 
-[9][11] [Provisional protection][11]
+[9][11][][11][Provisional protection][11]
 
-[10][12] [Making of grants][12]
+[10][12][][12][Making of grants][12]
 
-[11][13] [Varieties bred or discovered by 2 or more persons independently][13]
+[11][13][][13][Varieties bred or discovered by 2 or more persons independently][13]
 
-[12][14] [Priorities resulting from earlier overseas applications][14]
+[12][14][][14][Priorities resulting from earlier overseas applications][14]
 
-[13][15] [Cancellation of grants because of earlier overseas applications][15]
+[13][15][][15][Cancellation of grants because of earlier overseas applications][15]
 
-[14][16] [Date and term of grants][16]
+[14][16][][16][Date and term of grants][16]
 
-[15][17] [Objections after grant][17]
+[15][17][][17][Objections after grant][17]
 
-[16][18] [Cancellation of grants][18]
+[16][18][][18][Cancellation of grants][18]
 
-[17][19] [Rights of grantees][19]
+[17][19][][19][Rights of grantees][19]
 
-[18][20] [Exceptions to grantees' rights][20]
+[18][20][][20][Exceptions to grantees' rights][20]
 
-[19][21] [Licences][21]
+[19][21][][21][Licences][21]
 
-[20][22] [Notice of protection][22]
+[20][22][][22][Notice of protection][22]
 
-[21][23] [Compulsory licences and sales][23]
+[21][23][][23][Compulsory licences and sales][23]
 
-[22][24] [Use of denomination][24]
+[22][24][][24][Use of denomination][24]
 
 [Part 2][25]  
 [Appeals][25]
 
-[23][26] [Rights of appeal][26]
+[23][26][][26][Rights of appeal][26]
 
-[24][27] [Appeals to be made to District Court][27]
+[24][27][][27][Appeals to be made to District Court][27]
 
-[25][28] [Assessors][28]
+[25][28][][28][Assessors][28]
 
-[26][29] [Procedure][29]
+[26][29][][29][Procedure][29]
 
-[27][30] [Suspension of decision while appeal pending][30]
+[27][30][][30][Suspension of decision while appeal pending][30]
 
 [Part 3][31]  
 [Plant Variety Rights Office][31]
 
-[28][32] [Plant Variety Rights Office][32]
+[28][32][][32][Plant Variety Rights Office][32]
 
-[29][33] [Seal of Office][33]
+[29][33][][33][Seal of Office][33]
 
-[30][34] [Commissioner, Assistant Commissioners, and officers][34]
+[30][34][][34][Commissioner, Assistant Commissioners, and officers][34]
 
-[31][35] [Officers and employees not to acquire interests in grants][35]
+[31][35][][35][Officers and employees not to acquire interests in grants][35]
 
-[32][36] [Advisory and technical committees, and technical advisors][36]
+[32][36][][36][Advisory and technical committees, and technical advisors][36]
 
-[33][37] [Delegations][37]
+[33][37][][37][Delegations][37]
 
-[34][38] [Plant Variety Rights Journal][38]
+[34][38][][38][Plant Variety Rights Journal][38]
 
 [Part 4][39]  
 [Miscellaneous provisions][39]
 
-[35][40] [Service of notices, etc][40]
+[35][40][][40][Service of notices, etc][40]
 
-[36][41] [Fees and refunds][41]
+[36][41][][41][Fees and refunds][41]
 
-[37][42] [Offences and penalties][42]
+[37][42][][42][Offences and penalties][42]
 
-[38][43] [Regulations][43]
+[38][43][][43][Regulations][43]
 
-[38A][44] [Orders in Council as to convention parties][44]
+[38A][44][][44][Orders in Council as to convention parties][44]
 
-[39][45] [Transitional provisions][45]
+[39][45][][45][Transitional provisions][45]
 
-[40][46] [Consequential amendment][46] \[Repealed\]
+[40][46][][46][Consequential amendment][46] \[Repealed\]
 
-[41][47] [Repeals and revocations][47] \[Repealed\]
+[41][47][][47][Repeals and revocations][47] \[Repealed\]
 
 [Schedule][48]  
 [Plants to which Act applies][48]
@@ -900,11 +900,13 @@ Miscellaneous provisions
     
     (6) Every person who acts in contravention of [section 31(2)][35] commits an offence.
     
-    (7) Every person who commits an offence against this Act shall be liable on summary conviction to a fine not exceeding $1,000\.
+    (7) Every person who commits an offence against this Act shall be liable on conviction to a fine not exceeding $1,000\.
     
     (8) _Amendment(s) incorporated in the [Act(s)][61]._
     
     Compare: 1973 No 37 s 35
+    
+    Section 37(7): amended, on 1 July 2013, by [section 413][62] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 38 Regulations
     
@@ -1007,23 +1009,23 @@ Plants to which Act applies
 
 ###### 1 General
     
-*   This is a reprint of the Plant Variety Rights Act 1987\. The reprint incorporates all the amendments to the Act as at 1 November 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Plant Variety Rights Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][62] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][63] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][63] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][64] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][64] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][65] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][65] and [17E][66] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][66] and [17E][67] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1054,7 +1056,9 @@ Plants to which Act applies
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   District Courts Rules 2009 (SR 2009/257): [rule 17.1][56]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][62]
+    
+    District Courts Rules 2009 (SR 2009/257): [rule 17.1][56]
     
     Evidence Act 2006 (2006 No 69): [section 216][57]
     
@@ -1140,8 +1144,9 @@ Plants to which Act applies
 [59]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM130375
 [60]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM163167
 [61]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM314314
-[62]: http://www.pco.parliament.govt.nz/reprints/
-[63]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195439
-[64]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[65]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195468
-[66]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195470
+[62]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM3360714
+[63]: http://www.pco.parliament.govt.nz/reprints/
+[64]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195439
+[65]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[66]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195468
+[67]: http://www.legislation.govt.nz/act/public/1987/0005/latest/link.aspx?id=DLM195470
