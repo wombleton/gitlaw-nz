@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 18 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -252,7 +252,7 @@ Substantive law
 
 ##### 6 Liability of the Crown in tort
     
-*   (1) Subject to the provisions of this Act and any other Act, the Crown shall be subject to all those liabilities in tort to which, if it were a private person of full age and capacity, it would be subject---
+*   (1) Subject to the provisions of this Act and any other Act, and except as provided in subsection (4A), the Crown shall be subject to all those liabilities in tort to which, if it were a private person of full age and capacity, it would be subject---
         
     *   (a) in respect of torts committed by its servants or agents;
     
@@ -266,37 +266,49 @@ Substantive law
     
     (3) Where any functions are conferred or imposed upon an officer of the Crown as such either by any rule of the common law or by statute, and that officer commits a tort while performing or purporting to perform those functions, the liabilities of the Crown in respect of the tort shall be such as they would have been if those functions had been conferred or imposed solely by virtue of instructions lawfully given by the Crown.
     
-    (4) Any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
+    (4) Except as provided in subsection (4A), any enactment which negatives or limits the amount of the liability of any government department or officer of the Crown in respect of any tort committed by that department or officer shall, in the case of proceedings against the Crown under this section in respect of a tort committed by that department or officer, apply in relation to the Crown as it would have applied in relation to that department or officer if the proceedings against the Crown had been proceedings against that department or officer.
+    
+    (4A) Despite certain Crown servants being immune from liability under [section 86][67] of the State Sector Act 1988,---
+        
+    *   (a) a court may find the Crown itself liable in tort in respect of the actions or omissions of those servants; and
+    
+    *   (b) for the purpose of determining whether the Crown is so liable, the court must disregard the immunity in [section 86][67].
     
     (5) No proceedings shall lie against the Crown by virtue of this section in respect of anything done or omitted to be done by any person while discharging or purporting to discharge any responsibilities of a judicial nature vested in him, or any responsibilities which he has in connection with the execution of judicial process.
     
     Compare: 1910 No 54 ss 3(c), 4; Crown Proceedings Act 1947 s 2 (UK)
+    
+    Section 6(1): amended, on 18 July 2013, by [section 62(2)][68] of the State Sector Amendment Act 2013 (2013 No 49).
+    
+    Section 6(4): amended, on 18 July 2013, by [section 62(3)][68] of the State Sector Amendment Act 2013 (2013 No 49).
+    
+    Section 6(4A): inserted, on 18 July 2013, by [section 62(4)][68] of the State Sector Amendment Act 2013 (2013 No 49).
 
 ##### 7 Provisions as to industrial property
     
-*   (1) Where after the commencement of this Act any servant or agent of the Crown infringes a patent, a registered trade mark, or any copyright in a design, subsisting under the [Patents Act 1953][67] or the [Designs Act 1953][68] or the [Trade Marks Act 2002][69], and the infringement is committed with the authority of the Crown, then, subject to the provisions of this Act, civil proceedings in respect of the infringement shall lie against the Crown.
+*   (1) Where after the commencement of this Act any servant or agent of the Crown infringes a patent, a registered trade mark, or any copyright in a design, subsisting under the [Patents Act 1953][69] or the [Designs Act 1953][70] or the [Trade Marks Act 2002][71], and the infringement is committed with the authority of the Crown, then, subject to the provisions of this Act, civil proceedings in respect of the infringement shall lie against the Crown.
     
-    (2) Nothing in the last preceding subsection or in any other provision of this Act shall affect the rights of any government department under [sections 55 to 57][70] of the Patents Act 1953 or [sections 16 to 19][71] of the Designs Act 1953, or the rights of any Minister of the Crown under [section 26][72] of the Patents Act 1953\.
+    (2) Nothing in the last preceding subsection or in any other provision of this Act shall affect the rights of any government department under [sections 55 to 57][72] of the Patents Act 1953 or [sections 16 to 19][73] of the Designs Act 1953, or the rights of any Minister of the Crown under [section 26][74] of the Patents Act 1953\.
     
     (3) Save as expressly provided by this section, no proceedings shall lie against the Crown by virtue of this Act in respect of the infringement of a patent, a registered trade mark, or of any such copyright as is mentioned in subsection (1).
     
     Compare: Crown Proceedings Act 1947 s 3 (UK)
     
-    Section 7(1): amended, on 20 August 2003, by [section 201][73] of the Trade Marks Act 2002 (2002 No 49).
+    Section 7(1): amended, on 20 August 2003, by [section 201][75] of the Trade Marks Act 2002 (2002 No 49).
     
-    Section 7(1): amended, on 1 January 1955, pursuant to [section 52(1)][74] of the Designs Act 1953 (1953 No 65).
+    Section 7(1): amended, on 1 January 1955, pursuant to [section 52(1)][76] of the Designs Act 1953 (1953 No 65).
     
-    Section 7(1): amended, on 1 January 1955, pursuant to [section 119(1)][75] of the Patents Act 1953 (1953 No 64).
+    Section 7(1): amended, on 1 January 1955, pursuant to [section 119(1)][77] of the Patents Act 1953 (1953 No 64).
     
-    Section 7(2): amended, on 1 January 1955, pursuant to [section 52(1)][74] of the Designs Act 1953 (1953 No 65).
+    Section 7(2): amended, on 1 January 1955, pursuant to [section 52(1)][76] of the Designs Act 1953 (1953 No 65).
     
-    Section 7(2): amended, on 1 January 1955, pursuant to [section 119(1)][75] of the Patents Act 1953 (1953 No 64).
+    Section 7(2): amended, on 1 January 1955, pursuant to [section 119(1)][77] of the Patents Act 1953 (1953 No 64).
 
 ##### 8 Application of law as to indemnity, contribution, and joint and several tortfeasors
     
 *   (1) Where the Crown is subject to any liability by virtue of this Part, the law relating to indemnity and contribution shall be enforceable by or against the Crown in respect of the liability to which it is so subject as if the Crown were a private person of full age and capacity.
     
-    (2) Without prejudice to the effect of the last preceding subsection, [Part 5][76] of the Law Reform Act 1936 (which relates to proceedings against, and contribution between, joint and several tortfeasors) shall bind the Crown.
+    (2) Without prejudice to the effect of the last preceding subsection, [Part 5][78] of the Law Reform Act 1936 (which relates to proceedings against, and contribution between, joint and several tortfeasors) shall bind the Crown.
     
     Compare: Crown Proceedings Act 1947 s 4 (UK)
 
@@ -304,37 +316,37 @@ Substantive law
     
 *   (1) No proceedings for compensation or damages shall lie against the Crown or any officer of the Crown in respect of the death or disablement of any member of the New Zealand armed forces, if---
         
-    *   (a) any pension has at any time been paid or is being paid under the [War Pensions Act 1954][77] in respect of that death or disablement; or
+    *   (a) any pension has at any time been paid or is being paid under the [War Pensions Act 1954][79] in respect of that death or disablement; or
     
-    *   (b) a War Pensions Board has determined that for the purposes of [section 19][78] of the War Pensions Act 1954 that death or disablement is attributable to, or is deemed to be attributable to, the service of the member with the forces, or that the condition that resulted in that death or disablement was aggravated by his service with the forces:
+    *   (b) a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 that death or disablement is attributable to, or is deemed to be attributable to, the service of the member with the forces, or that the condition that resulted in that death or disablement was aggravated by his service with the forces:
     
     provided that this subsection shall not exempt an officer of the Crown from liability for any act or omission in any case where the court is satisfied that the act or omission was not connected with the execution of his duties as an officer of the Crown.
     
-    (2) Any determination of a War Pensions Board under subsection (1) may be made by the Board whether or not a claim for a pension has been made under the [War Pensions Act 1954][77].
+    (2) Any determination of a War Pensions Board under subsection (1) may be made by the Board whether or not a claim for a pension has been made under the [War Pensions Act 1954][79].
     
-    (2A) A certificate by the Secretary for War Pensions to the effect that a War Pensions Board has determined that for the purposes of [section 19][78] of the War Pensions Act 1954 the death or disablement of a member is attributable to, or is deemed to be attributable to, his service with the forces, or that the condition that resulted in the death or disablement of the member was aggravated by his service with the forces, shall for the purposes of this section be conclusive as to the fact which it certifies.
+    (2A) A certificate by the Secretary for War Pensions to the effect that a War Pensions Board has determined that for the purposes of [section 19][80] of the War Pensions Act 1954 the death or disablement of a member is attributable to, or is deemed to be attributable to, his service with the forces, or that the condition that resulted in the death or disablement of the member was aggravated by his service with the forces, shall for the purposes of this section be conclusive as to the fact which it certifies.
     
-    (3) Where any claim is made against the Crown in respect of any damage, loss, or injury sustained or alleged to have been sustained by or through or in connection with the use of any service aircraft, the provisions of [section 97][79] of the Civil Aviation Act 1990 shall, notwithstanding anything in [section 3][80] of that Act, apply with respect to the aircraft as if the applicable provisions of that Act and of any rules made under that Act (if any) have been complied with.
+    (3) Where any claim is made against the Crown in respect of any damage, loss, or injury sustained or alleged to have been sustained by or through or in connection with the use of any service aircraft, the provisions of [section 97][81] of the Civil Aviation Act 1990 shall, notwithstanding anything in [section 3][82] of that Act, apply with respect to the aircraft as if the applicable provisions of that Act and of any rules made under that Act (if any) have been complied with.
     
-    Compare: 1940 No 24 s 10; 1945 No 40 [s 22(2)][81]; Crown Proceedings Act 1947 s 10 (UK)
+    Compare: 1940 No 24 s 10; 1945 No 40 [s 22(2)][83]; Crown Proceedings Act 1947 s 10 (UK)
     
-    Section 9 heading: replaced, on 14 December 1962, by [section 2][82] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
+    Section 9 heading: replaced, on 14 December 1962, by [section 2][84] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
     
-    Section 9(1): replaced, on 14 December 1962, by [section 2(1)][82] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
+    Section 9(1): replaced, on 14 December 1962, by [section 2(1)][84] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
     
-    Section 9(2): replaced, on 14 December 1962, by [section 2(1)][82] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
+    Section 9(2): replaced, on 14 December 1962, by [section 2(1)][84] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
     
-    Section 9(2A): inserted, on 14 December 1962, by [section 2(1)][82] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
+    Section 9(2A): inserted, on 14 December 1962, by [section 2(1)][84] of the Crown Proceedings Amendment Act 1962 (1962 No 120).
     
     Section 9(3): replaced, on 1 September 1990, by [section 101(3)][64] of the Civil Aviation Act 1990 (1990 No 98).
     
-    Section 9(3): amended, on 28 November 1991, by [section 12][83] of the Civil Aviation Amendment Act 1991 (1991 No 116).
+    Section 9(3): amended, on 28 November 1991, by [section 12][85] of the Civil Aviation Amendment Act 1991 (1991 No 116).
 
 ##### 10 Claims in respect of visiting forces
     
 *   \[Repealed\]
     
-    Section 10: repealed, on 1 July 2004, by [section 26][84] of the Visiting Forces Act 2004 (2004 No 59).
+    Section 10: repealed, on 1 July 2004, by [section 26][86] of the Visiting Forces Act 2004 (2004 No 59).
 
 ##### 11 Saving in respect of acts done under prerogative and statutory powers
     
@@ -353,7 +365,7 @@ Jurisdiction, procedure, and judgments
     
     (2) All such civil proceedings by or against the Crown as are mentioned in [Schedule 2][45] are hereby abolished.
     
-    Compare: 1908 No 34 ss 25, 36; 1945 No 40 [s 23(2)][85]; Crown Proceedings Act 1947 ss 13, 15, 23 (UK)
+    Compare: 1908 No 34 ss 25, 36; 1945 No 40 [s 23(2)][87]; Crown Proceedings Act 1947 ss 13, 15, 23 (UK)
 
 ##### 13 Interpleader
     
@@ -431,7 +443,7 @@ Jurisdiction, procedure, and judgments
     
     (1H) In any proceedings for the recovery of a debt or damages, being proceedings in which a certificate is so filed, the certificate shall, in the absence of proof to the contrary, be sufficient evidence of the matters therein stated regarding the appointment and the non-revocation of the warrant.
     
-    (1I) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100 who wilfully or negligently signs any such certificate if the certificate is false in a material respect.
+    (1I) Every person commits an offence and is liable on conviction to a fine not exceeding $100 who wilfully or negligently signs any such certificate if the certificate is false in a material respect.
     
     (2) Every person so appointed to sue on behalf of the Crown shall sue in his own name with the addition of the words ""suing on behalf of the Crown"", or words to the like effect.
     
@@ -466,6 +478,8 @@ Jurisdiction, procedure, and judgments
     Section 15(1H): inserted, on 8 November 1974, by section 2(2) of the Crown Proceedings Amendment Act 1974 (1974 No 81).
     
     Section 15(1I): inserted, on 8 November 1974, by section 2(2) of the Crown Proceedings Amendment Act 1974 (1974 No 81).
+    
+    Section 15(1I): amended, on 1 July 2013, by [section 413][88] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Service of documents and time for filing defence by Crown
     
@@ -477,9 +491,9 @@ Jurisdiction, procedure, and judgments
     
     Compare: 1908 No 34 ss 27, 28; Crown Proceedings Act 1947 s 18 (UK)
     
-    Section 16(1): amended, on 1 July 1992, by [section 22(1)][86] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 16(1): amended, on 1 July 1992, by [section 22(1)][89] of the District Courts Amendment Act 1991 (1991 No 61).
     
-    Section 16(3): repealed, on 1 July 1992, by [section 22(2)][86] of the District Courts Amendment Act 1991 (1991 No 61).
+    Section 16(3): repealed, on 1 July 1992, by [section 22(2)][89] of the District Courts Amendment Act 1991 (1991 No 61).
 
 ##### 17 Nature of relief
     
@@ -519,9 +533,9 @@ Jurisdiction, procedure, and judgments
 
 ##### 20 Recovery of fines imposed otherwise than by judgment or conviction
     
-*   (1) Notwithstanding the foregoing provisions of this Act, where a fine is imposed upon any person otherwise than by a judgment or conviction of some court, and no other procedure is provided by any Act or rule of court for the recovery of the fine, a Judge or District Court Judge of the court by which the fine was imposed shall, if the same is not immediately paid, by writing under his hand in [form 1][87] of Schedule 3 or to the like effect, certify the fact, together with the name and place of abode or business of the person on whom the fine was imposed, and the cause and amount of the fine, and shall deliver or send by post the writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the fine, and a sum not exceeding $10 for costs.
+*   (1) Notwithstanding the foregoing provisions of this Act, where a fine is imposed upon any person otherwise than by a judgment or conviction of some court, and no other procedure is provided by any Act or rule of court for the recovery of the fine, a Judge or District Court Judge of the court by which the fine was imposed shall, if the same is not immediately paid, by writing under his hand in [form 1][90] of Schedule 3 or to the like effect, certify the fact, together with the name and place of abode or business of the person on whom the fine was imposed, and the cause and amount of the fine, and shall deliver or send by post the writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the fine, and a sum not exceeding $10 for costs.
     
-    (2) Every such judgment may be in [form 2][88] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
+    (2) Every such judgment may be in [form 2][91] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
     
     Compare: 1908 No 34 s 4
     
@@ -533,9 +547,9 @@ Jurisdiction, procedure, and judgments
     
 *   (1) Notwithstanding the foregoing provisions of this Act, where any person has entered into a recognisance to Her Majesty, and the recognisance is forfeited, and no other procedure is provided by any Act or rule of court for the estreat thereof, a Judge or District Court Judge of the court before which, or the Justice or Community Magistrate before whom, the same was forfeited may cause the recognisance to be estreated as hereinafter provided.
     
-    (2) The Judge, District Court Judge, Justice, or Community Magistrate shall, by writing under his hand in [form 3][89] of Schedule 3, or to the like effect, certify that the forfeiture has taken place, and shall deliver or send by post the said recognisance and writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the recognisance, and a sum not exceeding $10 for costs.
+    (2) The Judge, District Court Judge, Justice, or Community Magistrate shall, by writing under his hand in [form 3][92] of Schedule 3, or to the like effect, certify that the forfeiture has taken place, and shall deliver or send by post the said recognisance and writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the recognisance, and a sum not exceeding $10 for costs.
     
-    (3) Every such judgment may be in [form 4][90] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
+    (3) Every such judgment may be in [form 4][93] of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
     
     Compare: 1908 No 34 s 5
     
@@ -551,7 +565,7 @@ Jurisdiction, procedure, and judgments
 
 ##### 22 Barristers or solicitors may be appointed to act for Attorney-General in each district
     
-*   (1) The Governor-General may from time to time appoint for each district constituted under the [Judicature Act 1908][91] a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by [sections 20][24] and [21][25] of this Act are to be done by the Attorney-General.
+*   (1) The Governor-General may from time to time appoint for each district constituted under the [Judicature Act 1908][94] a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by [sections 20][24] and [21][25] of this Act are to be done by the Attorney-General.
     
     (2) On any such appointment being made and published in the _Gazette_ and while the appointment remains in force---
         
@@ -584,7 +598,7 @@ Execution
     
 *   (1) Except as provided in this section, no execution or attachment or process in the nature thereof shall be issued out of any court for enforcing satisfaction by the Crown, or by the Attorney-General, or any government department or officer of the Crown of any order made in any civil proceedings under this Act.
     
-    (2) Where in any civil proceedings any order (whether for costs or otherwise) is made by the court in favour of any person against the Crown or the Attorney-General or any government department or officer of the Crown, and the person in whose favour the order is made so requests, the proper officer of the court shall issue to that person, without payment of any fee, a certificate in [form 5][92] of Schedule 3 or to the like effect:
+    (2) Where in any civil proceedings any order (whether for costs or otherwise) is made by the court in favour of any person against the Crown or the Attorney-General or any government department or officer of the Crown, and the person in whose favour the order is made so requests, the proper officer of the court shall issue to that person, without payment of any fee, a certificate in [form 5][95] of Schedule 3 or to the like effect:
     
     provided that, if the order provides for the payment of money, the court by which the order is made or any court to which an appeal against the order lies may direct that, pending an appeal or otherwise, payment of the money so payable, or any part thereof, shall be suspended, and (if the certificate has not been issued) may order any such directions to be inserted therein.
     
@@ -594,7 +608,7 @@ Execution
     
     Compare: 1908 No 34 ss 31, 32; Crown Proceedings Act 1947 s 25 (UK)
     
-    Section 24(4): amended, on 1 July 2001, pursuant to [section 52][93] of the Public Audit Act 2001 (2001 No 10).
+    Section 24(4): amended, on 1 July 2001, pursuant to [section 52][96] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 25 Execution by the Crown
     
@@ -614,7 +628,7 @@ Execution
     
     *   (b) any money which is subject to the provisions of any enactment prohibiting or restricting assignment or charging or taking in execution.
     
-    Compare: 1947 No 16 [s 96][94]; Crown Proceedings Act 1947 s 27 (UK)
+    Compare: 1947 No 16 [s 96][97]; Crown Proceedings Act 1947 s 27 (UK)
 
 ## Part 4  
 Miscellaneous and supplemental
@@ -639,7 +653,7 @@ Miscellaneous and supplemental
             
         *   (i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
         
-        *   (ii) any interest protected by [section 7][95] of the Official Information Act 1982; or
+        *   (ii) any interest protected by [section 7][98] of the Official Information Act 1982; or
         
         
     
@@ -665,7 +679,7 @@ Miscellaneous and supplemental
     
 *   (1) This Act shall not prejudice the right of the Crown to take advantage of the provisions of an Act although not named therein; and it is hereby declared that in any civil proceedings against the Crown the provisions of any Act which could, if the proceedings were between subjects, be relied upon by the defendant as a defence to the proceedings, whether in whole or in part, or otherwise, may, subject to any express provision to the contrary, be so relied upon by the Crown.
     
-    (2) [Section 55][96] of the Judicature Act 1908 and [section 109][97] of the District Courts Act 1947 (which empower the High Court or a District Court Judge in certain circumstances to order the arrest of a defendant about to leave New Zealand), shall, with the necessary modifications, apply to civil proceedings by the Crown in the High Court or in a District Court, as the case may be.
+    (2) [Section 55][99] of the Judicature Act 1908 and [section 109][100] of the District Courts Act 1947 (which empower the High Court or a District Court Judge in certain circumstances to order the arrest of a defendant about to leave New Zealand), shall, with the necessary modifications, apply to civil proceedings by the Crown in the High Court or in a District Court, as the case may be.
     
     Compare: Crown Proceedings Act 1947 s 31 (UK)
     
@@ -709,13 +723,13 @@ Miscellaneous and supplemental
 
 ##### 32 Crown proceedings in the Cook Islands
     
-*   _Amendment(s) incorporated in the [Act(s)][98]._
+*   _Amendment(s) incorporated in the [Act(s)][101]._
 
 ##### 33 Crown proceedings in Western Samoa
     
 *   \[Repealed\]
     
-    Section 33: repealed, at 11 pm on 1 January 1962, by [section 10(1)][99] of the Western Samoa Act 1961 (1961 No 68).
+    Section 33: repealed, at 11 pm on 1 January 1962, by [section 10(1)][102] of the Western Samoa Act 1961 (1961 No 68).
 
 ##### 34 Repeals and savings
     
@@ -739,7 +753,7 @@ Miscellaneous and supplemental
     
     *   (d) subject the Crown to any greater liabilities in respect of the acts or omissions of any independent contractor employed by the Crown than those to which the Crown would be subject in respect of the acts or omissions if the Crown were a private person; or
     
-    *   (e) subject the Crown to any liability in respect of the acts or omissions of any medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or any other person while any such person is rendering any professional or other service or supplying any medicine, drug, appliance, or material in respect of any benefit provided in accordance with [Part 2][100] of the Social Security Act 1964, unless the medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or other person is acting as a servant of the Crown at the time of the act or omission; or
+    *   (e) subject the Crown to any liability in respect of the acts or omissions of any medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or any other person while any such person is rendering any professional or other service or supplying any medicine, drug, appliance, or material in respect of any benefit provided in accordance with [Part 2][103] of the Social Security Act 1964, unless the medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or other person is acting as a servant of the Crown at the time of the act or omission; or
     
     *   (f) subject the Crown, in its capacity as a highway authority, to any greater liability than that to which a local authority is subject in that capacity; or
     
@@ -749,13 +763,13 @@ Miscellaneous and supplemental
     
     *   (i) \[Repealed\]
     
-    *   (j) affect any liability imposed on the Māori Trustee or on a Crown Bank Account by the [Māori Trustee Act 1953][101]; or
+    *   (j) affect any liability imposed on the Māori Trustee or on a Crown Bank Account by the [Māori Trustee Act 1953][104]; or
     
     *   (k) affect any liability imposed on the Government Insurance Commissioner, the Government Insurance Department, or on a Crown Bank Account by the Government Life Insurance Act 1908; or
     
     *   (l) affect any liability imposed on the State Fire Insurance General Manager or the State Fire Insurance Department or on the public revenues of New Zealand by the State Fire Insurance Act 1908 or by the Government Life Insurance Act 1908; or
     
-    *   (m) affect any liability imposed on the Housing New Zealand Corporation or on a Crown Bank Account by the [Housing Corporation Act 1974][102].
+    *   (m) affect any liability imposed on the Housing New Zealand Corporation or on a Crown Bank Account by the [Housing Corporation Act 1974][105].
     
     (3) A certificate of the Attorney-General---
         
@@ -775,23 +789,23 @@ Miscellaneous and supplemental
     
     Section 35(2)(e): amended, on 1 January 1978, pursuant to section 61(1)(b) of the Nurses Act 1977 (1977 No 53).
     
-    Section 35(2)(e): amended, on 1 April 1965, pursuant to [section 135(1)][103] of the Social Security Act 1964 (1964 No 136).
+    Section 35(2)(e): amended, on 1 April 1965, pursuant to [section 135(1)][106] of the Social Security Act 1964 (1964 No 136).
     
-    Section 35(2)(i): repealed, on 1 March 2002, by [section 170(1)][104] of the Public Trust Act 2001 (2001 No 100).
+    Section 35(2)(i): repealed, on 1 March 2002, by [section 170(1)][107] of the Public Trust Act 2001 (2001 No 100).
     
     Section 35(2)(j): amended, on 1 July 2009, by [section 30(1)][62] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 35(2)(j): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
+    Section 35(2)(j): amended, on 25 January 2005, pursuant to [section 83(7)][108] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 35(2)(j): amended, on 1 April 1954, pursuant to [section 53(1)][106] of the Māori Trustee Act 1953 (1953 No 95).
+    Section 35(2)(j): amended, on 1 April 1954, pursuant to [section 53(1)][109] of the Māori Trustee Act 1953 (1953 No 95).
     
-    Section 35(2)(k): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
+    Section 35(2)(k): amended, on 25 January 2005, pursuant to [section 83(7)][108] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 35(2)(m): amended, on 25 January 2005, pursuant to [section 83(7)][105] of the Public Finance Act 1989 (1989 No 44).
+    Section 35(2)(m): amended, on 25 January 2005, pursuant to [section 83(7)][108] of the Public Finance Act 1989 (1989 No 44).
     
-    Section 35(2)(m): amended, on 1 July 2001, pursuant to [section 50(3)(a)][107] of the Housing Corporation Act 1974 (1974 No 19).
+    Section 35(2)(m): amended, on 1 July 2001, pursuant to [section 50(3)(a)][110] of the Housing Corporation Act 1974 (1974 No 19).
     
-    Section 35(2)(m): amended, on 14 October 1974, pursuant to [section 50(2)][107] of the Housing Corporation Act 1974 (1974 No 19).
+    Section 35(2)(m): amended, on 14 October 1974, pursuant to [section 50(2)][110] of the Housing Corporation Act 1974 (1974 No 19).
 
 ---
 
@@ -802,46 +816,46 @@ Enactments to bind the Crown
 
 ##### Acts Interpretation Act 1924 (1924 No 11) (Reprint of Statutes, Vol VIII, p 568)
 
-##### [Bills of Exchange Act 1908][108] (1908 No 15) (Reprint of Statutes, Vol I, p 583)
+##### [Bills of Exchange Act 1908][111] (1908 No 15) (Reprint of Statutes, Vol I, p 583)
 
-##### [Declaratory Judgments Act 1908][109] (1908 No 220) (Reprint of Statutes, Vol II, p 51)
+##### [Declaratory Judgments Act 1908][112] (1908 No 220) (Reprint of Statutes, Vol II, p 51)
 
 ##### [District Courts Act 1947][49] (1947 No 16)
 
 ##### Evidence Act 1908 (1908 No 56) (Reprint of Statutes, Vol III, p 106)
 
-##### [Imprisonment for Debt Limitation Act 1908][110] (1908 No 80) (Reprint of Statutes, Vol IV, p 388)
+##### [Imprisonment for Debt Limitation Act 1908][113] (1908 No 80) (Reprint of Statutes, Vol IV, p 388)
 
 ##### Infants Act 1908 (1908 No 86) (Reprint of Statutes, Vol III, p 1072)
 
 Part 2
 
-##### [Inferior Courts Procedure Act 1909][111] (1909 No 13) (Reprint of Statutes, Vol II, p 55)
+##### [Inferior Courts Procedure Act 1909][114] (1909 No 13) (Reprint of Statutes, Vol II, p 55)
 
 ##### Judicature Act 1908 (1908 No 89) (Reprint of Statutes, Vol II, p 60)
 
-[Section 51][112], [Part 3][113], and [Schedules 2][114] and [3][115]
+[Section 51][115], [Part 3][116], and [Schedules 2][117] and [3][118]
 
 ##### Law Reform Act 1936 (1936 No 31) 
 
-[Parts 1][116] and [7][117]
+[Parts 1][119] and [7][120]
 
 ##### Mercantile Law Act 1908 (1908 No 117) (Reprint of Statutes, Vol V, p 823)
 
-[Part 2][118]
+[Part 2][121]
 
-##### [Sale of Goods Act 1908][119] (1908 No 168) (Reprint of Statutes, Vol VIII, p 93)
+##### [Sale of Goods Act 1908][122] (1908 No 168) (Reprint of Statutes, Vol VIII, p 93)
 
 ##### Sea Carriage of Goods Act 1940 (1940 No 31)
 
-*   Schedule 1: amended, on 1 April 1986, by [section 4(1)(c)][120] of the Insurance Law Reform Act 1985 (1985 No 117).
-*   Schedule 1: amended, on 1 April 1983, by [section 161(2)][121] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
+*   Schedule 1: amended, on 1 April 1986, by [section 4(1)(c)][123] of the Insurance Law Reform Act 1985 (1985 No 117).
+*   Schedule 1: amended, on 1 April 1983, by [section 161(2)][124] of the Friendly Societies and Credit Unions Act 1982 (1982 No 118).
 *   Schedule 1: amended, on 1 April 1980, pursuant to [section 2(3) ][59] of the District Courts Amendment Act 1979 (1979 No 125).
 *   Schedule 1: amended, on 14 June 1967, by section 14 of the Carriage by Air Act 1962 (1962 No 19).
-*   Schedule 1: amended, on 1 April 1957, by [section 99(1)][122] of the Government Superannuation Fund Act 1956 (1956 No 47).
+*   Schedule 1: amended, on 1 April 1957, by [section 99(1)][125] of the Government Superannuation Fund Act 1956 (1956 No 47).
 *   Schedule 1: amended, on 1 January 1953, by section 79(1) of the Administration Act 1952 (1952 No 56).
-*   Schedule 1: amended, on 1 January 1953, by [section 155(2)][123] of the Property Law Act 1952 (1952 No 51).
-*   Schedule 1: amended, on 1 January 1953, by [section 23(1)][124] of the Deaths by Accidents Compensation Act 1952 (1952 No 35).
+*   Schedule 1: amended, on 1 January 1953, by [section 155(2)][126] of the Property Law Act 1952 (1952 No 51).
+*   Schedule 1: amended, on 1 January 1953, by [section 23(1)][127] of the Deaths by Accidents Compensation Act 1952 (1952 No 35).
 
 ---
 
@@ -850,9 +864,7 @@ Proceedings abolished by this Act
 
 [s 12][15]
 
-##### 1
-    
-*   Proceedings by Her Majesty by way of---
+*   1 Proceedings by Her Majesty by way of---
         
     *   (a) writs of _capias ad respondendum_:
     
@@ -864,9 +876,7 @@ Proceedings abolished by this Act
     
     Schedule 2 clause 1(d): inserted, on 1 January 1989, by section 2 of the Crown Proceedings Amendment Act 1988 (1988 No 115).
 
-##### 2
-    
-*   Proceedings against Her Majesty by way of petition of right, including proceedings by way of petition of right under [section 52][125] of the Naval Prize Act 1864 of the United Kingdom Parliament.
+*   2 Proceedings against Her Majesty by way of petition of right, including proceedings by way of petition of right under section 52 of the Naval Prize Act 1864 of the United Kingdom Parliament.
 
 ---
 
@@ -894,9 +904,7 @@ Given under my hand:
 Date:  
 Signature:  
 (Judge _or_ District Court Judge)
-
----
-
+    
 *   Schedule 3 form 1: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Form 2  
@@ -913,11 +921,9 @@ Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the c
 Dated at: \[_place, date_\]  
 Signature:  
 (Registrar)
-
----
-
+    
 *   Schedule 3 form 2: amended, on 1 April 1980, pursuant to [section 12][61] of the Judicature Amendment Act 1979 (1979 No 124).
-*   Schedule 3 form 2: amended, on 1 April 1973, by [section 18(3)][126] of the Judicature Amendment Act 1972 (1972 No 130).
+*   Schedule 3 form 2: amended, on 1 April 1973, by [section 18(3)][128] of the Judicature Amendment Act 1972 (1972 No 130).
 
 #### Form 3  
 Certificate of forfeiture of recognisance
@@ -930,9 +936,7 @@ Given under my hand:
 Date:  
 Signature:  
 (Judge, District Court Judge, Justice, _or_ Community Magistrate)
-
----
-
+    
 *   Schedule 3 form 3: amended, on 30 June 1998, by [section 7][63] of the District Courts Amendment Act 1998 (1998 No 76).
 *   Schedule 3 form 3: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 
@@ -948,11 +952,9 @@ Be it remembered that the Attorney- (_or_ Solicitor-) General has informed the c
 Dated at: \[_place, date_\]  
 Signature:  
 (Registrar)
-
----
-
+    
 *   Schedule 3 form 4: amended, on 1 April 1980, pursuant to [section 12][61] of the Judicature Amendment Act 1979 (1979 No 124).
-*   Schedule 3 form 4: amended, on 1 April 1973, by [section 18(3)][126] of the Judicature Amendment Act 1972 (1972 No 130).
+*   Schedule 3 form 4: amended, on 1 April 1973, by [section 18(3)][128] of the Judicature Amendment Act 1972 (1972 No 130).
 
 #### Form 5  
 Certificate of judgment, etc
@@ -972,12 +974,10 @@ I hereby certify that \[_name_\], of \[_place_\], did on \[_date_\], in the High
 Dated at: \[_place, date_\]  
 Signature:  
 (Registrar)
-
----
-
+    
 *   Schedule 3 form 5: amended, on 1 April 1980, pursuant to [section 18(2)][60] of the District Courts Amendment Act 1979 (1979 No 125).
 *   Schedule 3 form 5: amended, on 1 April 1980, pursuant to [section 12][61] of the Judicature Amendment Act 1979 (1979 No 124).
-*   Schedule 3 form 5: amended, on 1 April 1973, by [section 18(3)][126] of the Judicature Amendment Act 1972 (1972 No 130).
+*   Schedule 3 form 5: amended, on 1 April 1973, by [section 18(3)][128] of the Judicature Amendment Act 1972 (1972 No 130).
 
 ---
 
@@ -992,11 +992,11 @@ Enactments repealed
 
 ##### Law Reform Act 1936 (1936 No 31)
 
-_Amendment(s) incorporated in the [Act(s)][127]_.
+_Amendment(s) incorporated in the [Act(s)][129]_.
 
 ##### Statutes Amendment Act 1945 (1945 No 40)
 
-_Amendment(s) incorporated in the [Act(s)][128]_.
+_Amendment(s) incorporated in the [Act(s)][130]_.
 
 ---
 
@@ -1014,23 +1014,23 @@ _Amendment(s) incorporated in the [Act(s)][128]_.
 
 ###### 1 General
     
-*   This is a reprint of the Crown Proceedings Act 1950\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Crown Proceedings Act 1950\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][129] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][131] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][130] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][132] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][131] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][133] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][132] and [17E][133] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][134] and [17E][135] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1061,41 +1061,45 @@ _Amendment(s) incorporated in the [Act(s)][128]_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Limitation Act 2010 (2010 No 110): [section 58][66]
+*   State Sector Amendment Act 2013 (2013 No 49): [section 62][68]
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][88]
+    
+    Limitation Act 2010 (2010 No 110): [section 58][66]
     
     Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1)][62]
     
-    Visiting Forces Act 2004 (2004 No 59): [section 26][84]
+    Visiting Forces Act 2004 (2004 No 59): [section 26][86]
     
     Supreme Court Act 2003 (2003 No 53): [section 48(1)][56]
     
-    Trade Marks Act 2002 (2002 No 49): [section 201][73]
+    Trade Marks Act 2002 (2002 No 49): [section 201][75]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][104]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][107]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][93]
+    Public Audit Act 2001 (2001 No 10): [section 52][96]
     
     District Courts Amendment Act 1998 (1998 No 76): [section 7][63]
     
     Te Ture Whenua Maori Act 1993 (1993 No 4): [section 362(2)][57]
     
-    Civil Aviation Amendment Act 1991 (1991 No 116): [section 12][83]
+    Civil Aviation Amendment Act 1991 (1991 No 116): [section 12][85]
     
-    District Courts Amendment Act 1991 (1991 No 61): [section 22][86]
+    District Courts Amendment Act 1991 (1991 No 61): [section 22][89]
     
     Civil Aviation Act 1990 (1990 No 98): [section 101(3)][64]
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][105]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][108]
     
     Crown Proceedings Amendment Act 1988 (1988 No 115)
     
     Disputes Tribunals Act 1988 (1988 No 110): [section 82(2)][58]
     
-    Insurance Law Reform Act 1985 (1985 No 117): [section 4(1)(c)][120]
+    Insurance Law Reform Act 1985 (1985 No 117): [section 4(1)(c)][123]
     
     Crown Proceedings Amendment Act 1982 (1982 No 165)
     
-    Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2)][121]
+    Friendly Societies and Credit Unions Act 1982 (1982 No 118): [section 161(2)][124]
     
     District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][59], [18(2)][60]
     
@@ -1105,35 +1109,35 @@ _Amendment(s) incorporated in the [Act(s)][128]_.
     
     Crown Proceedings Amendment Act 1974 (1974 No 81)
     
-    Housing Corporation Act 1974 (1974 No 19): [section 50(2), (3)(a)][107]
+    Housing Corporation Act 1974 (1974 No 19): [section 50(2), (3)(a)][110]
     
-    Judicature Amendment Act 1972 (1972 No 130): [sections 14(1)][55], [18(3)][126]
+    Judicature Amendment Act 1972 (1972 No 130): [sections 14(1)][55], [18(3)][128]
     
     Crown Proceedings Amendment Act 1969 (1969 No 74)
     
-    Social Security Act 1964 (1964 No 136): [section 135(1)][103]
+    Social Security Act 1964 (1964 No 136): [section 135(1)][106]
     
     Crown Proceedings Amendment Act 1962 (1962 No 120)
     
     Carriage by Air Act 1962 (1962 No 19): section 14
     
-    Western Samoa Act 1961 (1961 No 68): [section 10(1)][99]
+    Western Samoa Act 1961 (1961 No 68): [section 10(1)][102]
     
     Crown Proceedings Amendment Act 1958 (1958 No 61)
     
-    Government Superannuation Fund Act 1956 (1956 No 47): [section 99(1)][122]
+    Government Superannuation Fund Act 1956 (1956 No 47): [section 99(1)][125]
     
-    Māori Trustee Act 1953 (1953 No 95): [section 53(1)][106]
+    Māori Trustee Act 1953 (1953 No 95): [section 53(1)][109]
     
-    Designs Act 1953 (1953 No 65): [section 52(1)][74]
+    Designs Act 1953 (1953 No 65): [section 52(1)][76]
     
-    Patents Act 1953 (1953 No 64): [section 119(1)][75]
+    Patents Act 1953 (1953 No 64): [section 119(1)][77]
     
     Administration Act 1952 (1952 No 56): section 79(1)
     
-    Property Law Act 1952 (1952 No 51): [section 155(2)][123]
+    Property Law Act 1952 (1952 No 51): [section 155(2)][126]
     
-    Deaths by Accidents Compensation Act 1952 (1952 No 35): [section 23(1)][124]
+    Deaths by Accidents Compensation Act 1952 (1952 No 35): [section 23(1)][127]
 
 
 
@@ -1204,70 +1208,72 @@ _Amendment(s) incorporated in the [Act(s)][128]_.
 [64]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM218728
 [65]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2033100
 [66]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM2033287
-[67]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280030
-[68]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281070
-[69]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM164239
-[70]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280722
-[71]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281732
-[72]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280449
-[73]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM165256
-[74]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282002
-[75]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281041
-[76]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219806
-[77]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM284374
-[78]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM285030
-[79]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM218702
-[80]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM215582
-[81]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239131
-[82]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM340764
-[83]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM250181
-[84]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM302851
-[85]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239132
-[86]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM230260
-[87]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262420
-[88]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262422
-[89]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262424
-[90]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262426
-[91]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM144692
-[92]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262428
-[93]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM88956
-[94]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM244365
-[95]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM65368
-[96]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM146653
-[97]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM244413
-[98]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM181599
-[99]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM336823
-[100]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM364892
-[101]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282037
-[102]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM411832
-[103]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM366042
-[104]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM124529
-[105]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM163167
-[106]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282964
-[107]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM412430
-[108]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM137810
-[109]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM176192
-[110]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM143557
-[111]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM176584
-[112]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM146493
-[113]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM147354
-[114]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM147653
-[115]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM160974
-[116]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219556
-[117]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219816
-[118]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM171974
-[119]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM173957
-[120]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM75987
-[121]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM61310
-[122]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM448031
-[123]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM268977
-[124]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM265898
-[125]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM12337
-[126]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM408384
-[127]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219814
-[128]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239127
-[129]: http://www.pco.parliament.govt.nz/reprints/
-[130]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195439
-[131]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[132]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195468
-[133]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195470
+[67]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM130371
+[68]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM4604900
+[69]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280030
+[70]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281070
+[71]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM164239
+[72]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280722
+[73]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281732
+[74]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM280449
+[75]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM165256
+[76]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282002
+[77]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM281041
+[78]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219806
+[79]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM284374
+[80]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM285030
+[81]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM218702
+[82]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM215582
+[83]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239131
+[84]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM340764
+[85]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM250181
+[86]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM302851
+[87]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239132
+[88]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM3360714
+[89]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM230260
+[90]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262420
+[91]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262422
+[92]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262424
+[93]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262426
+[94]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM144692
+[95]: http://www.legislation.govt.nz/act/public/1950/0054/latest/whole.html#DLM262428
+[96]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM88956
+[97]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM244365
+[98]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM65368
+[99]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM146653
+[100]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM244413
+[101]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM181599
+[102]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM336823
+[103]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM364892
+[104]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282037
+[105]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM411832
+[106]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM366042
+[107]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM124529
+[108]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM163167
+[109]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM282964
+[110]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM412430
+[111]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM137810
+[112]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM176192
+[113]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM143557
+[114]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM176584
+[115]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM146493
+[116]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM147354
+[117]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM147653
+[118]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM160974
+[119]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219556
+[120]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219816
+[121]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM171974
+[122]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM173957
+[123]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM75987
+[124]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM61310
+[125]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM448031
+[126]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM268977
+[127]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM265898
+[128]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM408384
+[129]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM219814
+[130]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM239127
+[131]: http://www.pco.parliament.govt.nz/reprints/
+[132]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195439
+[133]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[134]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195468
+[135]: http://www.legislation.govt.nz/act/public/1950/0054/latest/link.aspx?id=DLM195470
