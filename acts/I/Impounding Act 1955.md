@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -184,7 +184,7 @@ This Act is administered by the Department of Internal Affairs.
 
 [60][76][][76][Person using stock without consent of owner][76]
 
-[61][77][][77][Offences punishable on summary conviction][77]
+[61][77][][77][Offences punishable on summary conviction][77] \[Repealed\]
 
 [62][78][][78][Application of fines][78] \[Repealed\]
 
@@ -599,17 +599,21 @@ Remedies for stock trespassing
     
     (2) The occupier of any fenced land sown in grass or under cultivation may destroy any poultry or pigs or goats, other than branded Angora or Saanen or Toggenburg goats, found trespassing upon the land.
     
-    (3) The occupier so destroying any such animal or bird shall within 24 hours send in writing a description of the animal or bird so destroyed, and of the place where it was destroyed, to the owner thereof if he is known, and, if he is unknown, then to the nearest police station, and if he makes default in so doing he is liable to a fine not exceeding 10 pounds:
+    (3) The occupier so destroying any such animal or bird shall within 24 hours send in writing a description of the animal or bird so destroyed, and of the place where it was destroyed, to the owner thereof if he is known, and, if he is unknown, then to the nearest police station, and if he makes default in so doing he is liable on conviction to a fine not exceeding 10 pounds:
     
     provided that it shall not be necessary to send any description in the case of any wild animal or wild bird so destroyed.
     
-    (4) If the carcass of any animal or bird so destroyed is not claimed and removed by its owner within 48 hours after being destroyed, the occupier shall bury or otherwise dispose of the carcass, and if he makes default in so doing he is liable to a fine not exceeding 10 pounds.
+    (4) If the carcass of any animal or bird so destroyed is not claimed and removed by its owner within 48 hours after being destroyed, the occupier shall bury or otherwise dispose of the carcass, and if he makes default in so doing he is liable on conviction to a fine not exceeding 10 pounds.
     
     Compare: 1908 No 79 s 14
     
     Section 31(1): amended, on 1 April 1981, by section 10(4) of the Impounding Amendment Act 1980 (1980 No 59).
     
     Section 31(1): amended, on 1 April 1981, by section 10(5) of the Impounding Amendment Act 1980 (1980 No 59).
+    
+    Section 31(3): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 31(4): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Provisions for stock found straying or wandering on roads, and for wild stock
@@ -632,7 +636,7 @@ Provisions for stock found straying or wandering on roads, and for wild stock
 
 ##### 33 Stock straying or wandering on roads
     
-*   (1) Where at any time of the day or night any stock is found straying or wandering on any road, or tethered on any road in such a manner as to obstruct or be reasonably likely to obstruct the road, any person may seize the stock, and may either impound it or, where the owner thereof is known to him, return it to the owner; and in any such case the owner of the stock, in the case of entire animals, is liable to a fine not exceeding $100 for every head thereof and, in the case of other animals, to a fine not exceeding $50 for every head thereof, in addition to any other rates and charges payable under this Act.
+*   (1) Where at any time of the day or night any stock is found straying or wandering on any road, or tethered on any road in such a manner as to obstruct or be reasonably likely to obstruct the road, any person may seize the stock, and may either impound it or, where the owner thereof is known to him, return it to the owner; and in any such case the owner of the stock, in the case of entire animals, is liable on conviction to a fine not exceeding $100 for every head thereof and, in the case of other animals, to a fine not exceeding $50 for every head thereof, in addition to any other rates and charges payable under this Act.
     
     (2) Where any stock is found so straying or wandering or tethered between sunset and sunrise, any person may, with the consent of the owner of the yard or paddock, place it in any yard or fenced paddock for the night and shall, as soon as possible after sunrise, either return it to the owner or remove it or cause it to be removed to the nearest accessible pound.
     
@@ -641,6 +645,8 @@ Provisions for stock found straying or wandering on roads, and for wild stock
     (4) For the purposes of this section stock straying or wandering or tethered so near a road as to be reasonably likely to stray on to the road shall be deemed to be straying or wandering or tethered on the road.
     
     Compare: 1908 No 79 ss 17, 18
+    
+    Section 33(1): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 33(1): amended, on 1 April 1981, by section 9(c) of the Impounding Amendment Act 1980 (1980 No 59).
     
@@ -660,7 +666,7 @@ Provisions for stock found straying or wandering on roads, and for wild stock
         
     *   (a) erect and maintain in some permanent manner and in some conspicuous place at each entrance to the road or, as the case may be, at each end of the portion thereof, a warning notice in a form approved by the local authority to the effect that stock is depasturing on or adjacent to the road; and
     
-    *   (b) if the local authority so requires, and subject to [section 344][96] of the Local Government Act 1974, erect cattle stops or swing gates at such places on the road or portion thereof, as the case may be, as the local authority specifies,---
+    *   (b) if the local authority so requires, and subject to [section 344][97] of the Local Government Act 1974, erect cattle stops or swing gates at such places on the road or portion thereof, as the case may be, as the local authority specifies,---
     
     and the declaration shall have effect only so long as those notices and the cattle stops and swing gates required by the local authority are so erected and maintained.
     
@@ -670,7 +676,7 @@ Provisions for stock found straying or wandering on roads, and for wild stock
     
     Section 34(2)(b): replaced, on 1 April 1980, by [section 8(3)][92] of the Local Government Amendment Act 1979 (1979 No 59).
     
-    Section 34(3): repealed, on 1 February 1982, by [section 51(1)][97] of the Summary Offences Act 1981 (1981 No 113).
+    Section 34(3): repealed, on 1 February 1982, by [section 51(1)][98] of the Summary Offences Act 1981 (1981 No 113).
 
 ##### 35 Stock straying on roads may be impounded in a temporary pound
     
@@ -844,7 +850,7 @@ Procedure for disposing of unclaimed, suffering, or worthless impounded stock
     
     (3) Any proceeds from the sale of a carcass of an animal destroyed under subsection (1) must be dealt with in the same manner as is provided in [sections 54][69], [55][70], and [65][82] in respect of the proceeds of the sale of impounded stock.
     
-    Section 52: replaced, on 1 January 2000, by [section 194][98] of the Animal Welfare Act 1999 (1999 No 142).
+    Section 52: replaced, on 1 January 2000, by [section 194][99] of the Animal Welfare Act 1999 (1999 No 142).
 
 ##### 53 Disposal of unsold stock
     
@@ -868,7 +874,7 @@ Procedure for disposing of unclaimed, suffering, or worthless impounded stock
     
     (4) Every application to a District Court under this section shall be made by way of originating application in accordance with the rules of that court, and the fees prescribed by those rules in respect of originating applications shall be payable.
     
-    Compare: 1943 No 20 [s 16][99]
+    Compare: 1943 No 20 [s 16][100]
     
     Section 55(1): amended, on 1 April 1980, pursuant to [section 18(2)][94] of the District Courts Amendment Act 1979 (1979 No 125).
     
@@ -887,7 +893,7 @@ Offences and penalties
 
 ##### 57 Offences by poundkeepers
     
-*   (1) Every poundkeeper is liable to a fine not exceeding $500 who---
+*   (1) Every poundkeeper is liable on conviction to a fine not exceeding $500 who---
         
     *   (a) illegally impounds or assists or incites any person illegally to impound any stock; or
     
@@ -895,7 +901,7 @@ Offences and penalties
     
     *   (c) demands or receives any fees, charges, rates, or other sums of money knowing the same not to be authorized by or under this Act.
     
-    (2) Every poundkeeper is liable to a fine not exceeding $100 who---
+    (2) Every poundkeeper is liable on conviction to a fine not exceeding $100 who---
         
     *   (a) loses any stock impounded through wilful and culpable negligence, or uses the same while so impounded in any manner not authorized by this Act; or
     
@@ -905,7 +911,11 @@ Offences and penalties
     
     Compare: 1908 No 79 s 47
     
+    Section 57(1): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 57(1): amended, on 1 April 1981, by section 9(d) of the Impounding Amendment Act 1980 (1980 No 59).
+    
+    Section 57(2): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 57(2): amended, on 1 April 1981, by section 9(e) of the Impounding Amendment Act 1980 (1980 No 59).
     
@@ -913,7 +923,7 @@ Offences and penalties
 
 ##### 58 Offences by other persons
     
-*   (1) Every person other than a poundkeeper is liable to a fine not exceeding $500 who---
+*   (1) Every person other than a poundkeeper is liable on conviction to a fine not exceeding $500 who---
         
     *   (a) rescues or attempts to rescue or interferes with stock impounded or seized for the purpose of being impounded; or
     
@@ -925,7 +935,7 @@ Offences and penalties
     
     *   (e) purchases, in person or by his agent, unclaimed impounded stock at a sale conducted by him on behalf of the local authority.
     
-    (2) Every such person is liable to a fine not exceeding $100 who---
+    (2) Every such person is liable on conviction to a fine not exceeding $100 who---
         
     *   (a) refuses to disclose or states untruly the name and address of the owner of any stock of which he is in charge or assisting in driving, or the name of the agent or overseer of the owner, on demand by any constable or ranger or by or on behalf of any person upon whose land the stock is trespassing; or
     
@@ -937,7 +947,11 @@ Offences and penalties
     
     Compare: 1908 No 79 s 48
     
+    Section 58(1): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 58(1): amended, on 1 April 1981, by section 9(f) of the Impounding Amendment Act 1980 (1980 No 59).
+    
+    Section 58(2): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 58(2): amended, on 1 April 1981, by section 9(g) of the Impounding Amendment Act 1980 (1980 No 59).
 
@@ -953,13 +967,17 @@ Offences and penalties
 
 ##### 60 Person using stock without consent of owner
     
-*   Every poundkeeper and every other person who, without the authority or consent of the owner thereof, works or uses any horse, mare, gelding, ass, mule, bull, bullock, steer, or heifer while it is impounded is liable to a fine not exceeding 20 pounds, together with such sum as the convicting court considers reasonable and adjudges to be paid to the owner for his compensation and costs in that behalf.
+*   Every poundkeeper and every other person who, without the authority or consent of the owner thereof, works or uses any horse, mare, gelding, ass, mule, bull, bullock, steer, or heifer while it is impounded is liable on conviction to a fine not exceeding 20 pounds, together with such sum as the convicting court considers reasonable and adjudges to be paid to the owner for his compensation and costs in that behalf.
     
     Compare: 1908 No 79 s 50
+    
+    Section 60: amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Offences punishable on summary conviction
     
-*   Every offence against this Act shall be punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 61: repealed, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 62 Application of fines
     
@@ -1008,7 +1026,7 @@ Miscellaneous
     
     (2) \[Repealed\]
     
-    Section 67(2): repealed, on 19 December 1989, by [section 11][100] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 67(2): repealed, on 19 December 1989, by [section 11][101] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 68 Repeals, savings, and consequential amendments
     
@@ -1018,7 +1036,7 @@ Miscellaneous
     
     (3) \[Repealed\]
     
-    Section 68(3): repealed, on 1 February 1982, by [section 248(1)][101] of the Public Works Act 1981 (1981 No 35).
+    Section 68(3): repealed, on 1 February 1982, by [section 248(1)][102] of the Public Works Act 1981 (1981 No 35).
 
 ---
 
@@ -1065,7 +1083,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1939 (1939 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][102]._
+_Amendment(s) incorporated in the [Act(s)][103]._
 
 ##### Statutes Amendment Act 1941 (1941 No 26)
 
@@ -1073,7 +1091,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1943 (1943 No 20)
 
-_Amendment(s) incorporated in the [Act(s)][103]._
+_Amendment(s) incorporated in the [Act(s)][104]._
 
 ---
 
@@ -1091,23 +1109,23 @@ _Amendment(s) incorporated in the [Act(s)][103]._
 
 ###### 1 General
     
-*   This is a reprint of the Impounding Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Impounding Act 1955\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][104] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][105] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][105] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][106] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][107] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][107] and [17E][108] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1138,13 +1156,15 @@ _Amendment(s) incorporated in the [Act(s)][103]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government Act 2002 (2002 No 84): [section 262][93]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
     
-    Animal Welfare Act 1999 (1999 No 142): [section 194][98]
+    Local Government Act 2002 (2002 No 84): [section 262][93]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][100]
+    Animal Welfare Act 1999 (1999 No 142): [section 194][99]
     
-    Summary Offences Act 1981 (1981 No 113): [section 51(1)][97]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][101]
+    
+    Summary Offences Act 1981 (1981 No 113): [section 51(1)][98]
     
     Public Works Act 1981 (1981 No 35): section 248(1)
     
@@ -1258,16 +1278,17 @@ _Amendment(s) incorporated in the [Act(s)][103]._
 [93]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM174088
 [94]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM35085
 [95]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM228614
-[96]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM420620
-[97]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM53759
-[98]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM51965
-[99]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236441
-[100]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195558
-[101]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM48604
-[102]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM228224
-[103]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236420
-[104]: http://www.pco.parliament.govt.nz/reprints/
-[105]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195439
-[106]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[107]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195468
-[108]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195470
+[96]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM3360714
+[97]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM420620
+[98]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM53759
+[99]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM51965
+[100]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236441
+[101]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195558
+[102]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM48604
+[103]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM228224
+[104]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM236420
+[105]: http://www.pco.parliament.govt.nz/reprints/
+[106]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195439
+[107]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[108]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195468
+[109]: http://www.legislation.govt.nz/act/public/1955/0108/latest/link.aspx?id=DLM195470
