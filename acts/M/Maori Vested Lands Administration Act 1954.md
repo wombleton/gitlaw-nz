@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2009
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement29 September 1954
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by Te Puni Kōkiri.
 
@@ -694,9 +694,11 @@ Rights in respect of subsisting leases
     
 *   (1) Every new lease, and every renewal thereof, shall contain a provision to the effect that where the lessee desires to assign his lease, whether in whole or in part, he shall first offer to surrender the lease, in whole or in part, to the Māori Trustee for a consideration to be agreed on between the lessee and the Māori Trustee, and, failing agreement within 2 months from the date of the offer to surrender being made to the Māori Trustee as to the amount of the consideration, the lessee shall be at liberty to make any assignment which is otherwise permitted by his lease.
     
-    (2) Nothing in any provision in any lease under subsection (1) shall apply to any assignment as between husband and wife, or between civil union partners or de facto partners, or to any assignment to any child, brother, or sister of the lessee, or to any assignment by operation of law or to any disposition by will.
+    (2) Nothing in any provision in any lease under subsection (1) shall apply to any assignment as between spouses, or between civil union partners or de facto partners, or to any assignment to any child, brother, or sister of the lessee, or to any assignment by operation of law or to any disposition by will.
     
     Section 30(1): amended, on 1 July 2009, pursuant to [section 30(2)(a)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
+    
+    Section 30(2): amended, on 19 August 2013, by [section 9][111] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
     Section 30(2): amended, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 
@@ -946,7 +948,7 @@ Rights in respect of subsisting leases
     
     Section 52: amended, on 1 September 1977, by [section 6(6)][94] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 52: amended, on 1 April 1969, pursuant to [section 3(3)][111] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
+    Section 52: amended, on 1 April 1969, pursuant to [section 3(3)][112] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
 
 ##### 53 Valuer-General's right of audience
     
@@ -962,11 +964,11 @@ Rights in respect of subsisting leases
 
 ##### 54 Land Valuation Court to have exclusive jurisdiction
     
-*   Subject to the provisions of this Act, no proceedings in respect of any matter, provision for the hearing and determination of which is made by this Act, shall be brought otherwise than before a Land Valuation Tribunal, but nothing in this Act shall be construed to prevent the exercise by the Valuation Court in any proceedings under this Act of its power under [section 18][112] of the Land Valuation Proceedings Act 1948 to state a case for the opinion of the Court of Appeal.
+*   Subject to the provisions of this Act, no proceedings in respect of any matter, provision for the hearing and determination of which is made by this Act, shall be brought otherwise than before a Land Valuation Tribunal, but nothing in this Act shall be construed to prevent the exercise by the Valuation Court in any proceedings under this Act of its power under [section 18][113] of the Land Valuation Proceedings Act 1948 to state a case for the opinion of the Court of Appeal.
     
     Section 54: amended, on 1 September 1977, by [section 6(6)][94] of the Land Valuation Proceedings Amendment Act 1977 (1977 No 15).
     
-    Section 54: amended, on 1 April 1969, pursuant to [section 3(3)][111] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
+    Section 54: amended, on 1 April 1969, pursuant to [section 3(3)][112] of the Land Valuation Proceedings Amendment Act 1968 (1968 No 42).
 
 ## Part 3  
 Miscellaneous
@@ -975,7 +977,7 @@ Miscellaneous
     
 *   (1) The rent payable under any lease granted by the Māori Trustee under this Act shall be payable to the Māori Trustee and not otherwise.
     
-    (2) Where any such lease contains any provision for the payment of compensation for improvements, the Māori Trustee, after deducting from the rent all moneys properly deductible, including his commission, shall distribute to the owners for the time being entitled to it, half of the residue of the rent, or such lesser portion as may be fixed by the Māori Trustee after consultation with the owners or their representatives, and shall invest the undistributed portion, together with any money paid to him for improvements in accordance with the provisions of [section 20][29], in the Māori Trustee's Common Fund, there to accumulate with interest thereon at the rate from time to time determined by the Governor-General in Council pursuant to the provisions of [section 26][113] of the Maori Trustee Act 1953\.
+    (2) Where any such lease contains any provision for the payment of compensation for improvements, the Māori Trustee, after deducting from the rent all moneys properly deductible, including his commission, shall distribute to the owners for the time being entitled to it, half of the residue of the rent, or such lesser portion as may be fixed by the Māori Trustee after consultation with the owners or their representatives, and shall invest the undistributed portion, together with any money paid to him for improvements in accordance with the provisions of [section 20][29], in the Māori Trustee's Common Fund, there to accumulate with interest thereon at the rate from time to time determined by the Governor-General in Council pursuant to the provisions of [section 26][114] of the Maori Trustee Act 1953\.
     
     (3) The disposition, by operation of law or otherwise, of the interest of the owner of any undivided share in the land in respect of which a fund to provide for the payment to the lessee of compensation for improvements is held by the Māori Trustee under this section shall, notwithstanding anything to the contrary in any instrument of disposition, be and be deemed to be a disposition of his corresponding interest in the fund, and no such owner shall dispose of his interest in the fund otherwise than in accordance with this subsection.
     
@@ -985,7 +987,7 @@ Miscellaneous
     
     Section 55(2): amended, on 1 July 2009, by [section 30(1)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 55(3): inserted, on 1 December 1961, by [section 18][114] of the Maori Purposes Act 1961 (1961 No 129).
+    Section 55(3): inserted, on 1 December 1961, by [section 18][115] of the Maori Purposes Act 1961 (1961 No 129).
     
     Section 55(3): amended, on 1 July 2009, by [section 30(1)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -995,7 +997,7 @@ Miscellaneous
     
     (2) If the money so arising exceeds the amount payable to the lessee, the Māori Trustee shall pay the surplus to the persons then entitled to the revenues of the land demised.
     
-    (3) If the money arising as aforesaid or money otherwise available is insufficient to pay the lessee the amount to which he is entitled, the Māori Trustee may make up the deficiency by an advance out of money in his General Purposes Fund, and the land in respect of which any such advance is made by the Māori Trustee shall be charged with the payment of the amount so advanced, together with interest thereon at a rate fixed by the Māori Trustee, and the provisions of [section 49][115] of the Maori Trustee Act 1953 shall apply thereto accordingly.
+    (3) If the money arising as aforesaid or money otherwise available is insufficient to pay the lessee the amount to which he is entitled, the Māori Trustee may make up the deficiency by an advance out of money in his General Purposes Fund, and the land in respect of which any such advance is made by the Māori Trustee shall be charged with the payment of the amount so advanced, together with interest thereon at a rate fixed by the Māori Trustee, and the provisions of [section 49][116] of the Maori Trustee Act 1953 shall apply thereto accordingly.
     
     (4) For the purposes of paying compensation for improvements in accordance with this Act or any lease granted thereunder, the Māori Trustee may raise such money as he thinks fit upon the security of a mortgage of the land in respect of which the compensation is payable.
     
@@ -1101,7 +1103,7 @@ Miscellaneous
     
     (5) The Māori Trustee may from time to time, for the purpose of any such farming operations, raise such money as he thinks fit on the security of any crops on the farm or on the security of any stock or other chattels owned by the Māori Trustee and held by him on behalf of the beneficial owners of the farm, or on the security of a mortgage of the land vested in him and which is comprised in the farm or of which the farm forms a part.
     
-    (6) With the consent of the Board of Maori Affairs, the Māori Trustee may expend out of the General Purposes Fund such money as may be required for the purpose of carrying on any farming operations under this section, and any money so expended by the Māori Trustee, together with interest thereon at a rate fixed by the Māori Trustee, shall be a charge on the land comprised in the farm or the land of which the farm forms a part. The provisions of [section 49][115] of the Maori Trustee Act 1953 shall apply to any such charge.
+    (6) With the consent of the Board of Maori Affairs, the Māori Trustee may expend out of the General Purposes Fund such money as may be required for the purpose of carrying on any farming operations under this section, and any money so expended by the Māori Trustee, together with interest thereon at a rate fixed by the Māori Trustee, shall be a charge on the land comprised in the farm or the land of which the farm forms a part. The provisions of [section 49][116] of the Maori Trustee Act 1953 shall apply to any such charge.
     
     Section 64 heading: amended, on 1 July 2009, by [section 30(1)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
@@ -1177,7 +1179,7 @@ Miscellaneous
     
     Section 70(5): amended, on 1 July 2009, pursuant to [section 30(2)(a)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
     
-    Section 70(6): inserted, on 27 November 1970, by [section 17][116] of the Maori Purposes Act 1970 (1970 No 120).
+    Section 70(6): inserted, on 27 November 1970, by [section 17][117] of the Maori Purposes Act 1970 (1970 No 120).
     
     Section 70(6): amended, on 1 July 2009, pursuant to [section 30(2)(a)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -1207,7 +1209,7 @@ Miscellaneous
     
     provided that nothing in this section shall be construed to prevent or restrict any lessee, during the subsistence of his lease, from cutting or removing, or authorising the cutting or removal of any timber trees planted by the lessee or by any former lessee, or of any timber derived from any timber trees so planted.
     
-    Section 75: replaced (with effect on 29 September 1954), on 28 October 1955, by [section 11(1)][117] of the Maori Purposes Act 1955 (1955 No 106).
+    Section 75: replaced (with effect on 29 September 1954), on 28 October 1955, by [section 11(1)][118] of the Maori Purposes Act 1955 (1955 No 106).
     
     Section 75: amended, on 1 July 2009, pursuant to [section 30(2)(a)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
 
@@ -1217,7 +1219,7 @@ Miscellaneous
     
     (2) \[Repealed\]
     
-    Section 76(2): repealed, on 19 December 1989, by [section 11][118] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 76(2): repealed, on 19 December 1989, by [section 11][119] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 77 Repeals
     
@@ -1230,7 +1232,7 @@ Memorandum of lease
 
 [s 31][40]
 
-The Māori Trustee, a corporation sole constituted under the [Maori Trustee Act 1953][119] (hereinafter with his successors and assigns referred to as **the lessor**), being registered as proprietor of an estate in fee simple, subject, however, to such encumbrances, liens, and interests as are notified by memorandum underwritten or endorsed hereon, in all that parcel of land described in the Schedule, in exercise of the powers conferred upon him by the Maori Vested Lands Administration Act 1954 (hereinafter referred to as **the Act**) doth hereby lease unto \[_specify_\] (hereinafter with his executors administrators and assigns referred to as **the lessee**) all the said land to be held by the lessee as tenant for the term of 21 years from and including \[_date_\] yielding and paying therefor:
+The Māori Trustee, a corporation sole constituted under the [Maori Trustee Act 1953][120] (hereinafter with his successors and assigns referred to as **the lessor**), being registered as proprietor of an estate in fee simple, subject, however, to such encumbrances, liens, and interests as are notified by memorandum underwritten or endorsed hereon, in all that parcel of land described in the Schedule, in exercise of the powers conferred upon him by the Maori Vested Lands Administration Act 1954 (hereinafter referred to as **the Act**) doth hereby lease unto \[_specify_\] (hereinafter with his executors administrators and assigns referred to as **the lessee**) all the said land to be held by the lessee as tenant for the term of 21 years from and including \[_date_\] yielding and paying therefor:
     
 *   (a) for and during the first 10 years of the said term the yearly rent of \[_specify_\]:
 
@@ -1240,127 +1242,73 @@ provided that such rent shall be not less than the rent for the preceding term o
 
 And the lessee doth hereby covenant with the lessor as follows:
 
-##### 1
-    
-*   That the lessee will pay the rent hereby reserved half yearly in advance on the first days of \[_specify_\] and \[_specify_\] in each and every year of the said term free of exchange at the Maori Trust Office at \[_place_\] or such other place or places as the Māori Trustee may from time to time direct.
+*   1 That the lessee will pay the rent hereby reserved half yearly in advance on the first days of \[specify\] and \[specify\] in each and every year of the said term free of exchange at the Maori Trust Office at \[place\] or such other place or places as the Māori Trustee may from time to time direct.
 
-##### 2
-    
-*   That the lessee will during the said term and as and when the same shall become due and payable duly and punctually pay and discharge all rates taxes charges including electric light and power charges and assessments (other than Landlord's Land Tax) which during the said term may be rated taxed charged assessed or made payable in respect of the said land (all such rates charges and assessments in respect of the first and last years of the said term being apportioned between the parties and the lessee will pay his proportion thereof whether or not the same shall be due and payable before the commencement or after the termination of the term hereby created).
+*   2 That the lessee will during the said term and as and when the same shall become due and payable duly and punctually pay and discharge all rates taxes charges including electric light and power charges and assessments (other than Landlord's Land Tax) which during the said term may be rated taxed charged assessed or made payable in respect of the said land (all such rates charges and assessments in respect of the first and last years of the said term being apportioned between the parties and the lessee will pay his proportion thereof whether or not the same shall be due and payable before the commencement or after the termination of the term hereby created).
 
-##### 3
-    
-*   That subject to the provisions of clause 4 the lessee will not assign sublet or part with the possession of the land hereby demised or any part thereof without the consent of the lessor in writing first had and obtained:
+*   3 That subject to the provisions of clause 4 the lessee will not assign sublet or part with the possession of the land hereby demised or any part thereof without the consent of the lessor in writing first had and obtained:
     
     provided that such consent shall not be unreasonably or arbitrarily withheld in the case of a reputable assignee subtenant or underlessee.
 
-##### 4
-    
-*   That if the lessee shall be desirous of assigning the within lease whether in whole or in part he shall first offer to surrender the same to the lessor at a consideration to be agreed upon between the lessee and the lessor and failing any such agreement within 2 months after the date of any such offer the lessee subject to the provisions of clause 3 shall be at liberty to so assign:
+*   4 That if the lessee shall be desirous of assigning the within lease whether in whole or in part he shall first offer to surrender the same to the lessor at a consideration to be agreed upon between the lessee and the lessor and failing any such agreement within 2 months after the date of any such offer the lessee subject to the provisions of clause 3 shall be at liberty to so assign:
     
     provided that the provisions of this clause shall not apply in respect of any assignment to the wife (_or_ husband _or_ civil union partner _or_ de facto partner) of the lessee or to any child, brother or sister of the lessee or to any assignment by operation of law or pursuant to any disposition by will.
 
-##### 5
-    
-*   That the lessee will within 2 years of the commencement of the term of the within lease erect and put upon the boundaries of the land herein demised or upon such boundaries upon which no substantial fence exists a sufficient fence within the meaning of the [Fencing Act 1978][120].
+*   5 That the lessee will within 2 years of the commencement of the term of the within lease erect and put upon the boundaries of the land herein demised or upon such boundaries upon which no substantial fence exists a sufficient fence within the meaning of the Fencing Act 1978\.
 
-##### 6
-    
-*   That the lessee will at all times during the continuance of the said term repair and keep and maintain in good and substantial repair all buildings and other erections fences gates hedges culverts dams drains crossings fixtures stockyards and every description of improvement now or hereafter standing or being upon or growing on the hereby demised land and will renew all such parts thereof as shall become decayed or unserviceable and will at the end or sooner determination of the said term yield up the same in like good order and condition and the lessee will during the term and at intervals of not more than 5 years paint in a workmanlike manner all the outside woodwork and ironwork of all buildings (including the roof) now or hereafter to be erected upon the land hereby demised with 2 coats of proper oil colour.
+*   6 That the lessee will at all times during the continuance of the said term repair and keep and maintain in good and substantial repair all buildings and other erections fences gates hedges culverts dams drains crossings fixtures stockyards and every description of improvement now or hereafter standing or being upon or growing on the hereby demised land and will renew all such parts thereof as shall become decayed or unserviceable and will at the end or sooner determination of the said term yield up the same in like good order and condition and the lessee will during the term and at intervals of not more than 5 years paint in a workmanlike manner all the outside woodwork and ironwork of all buildings (including the roof) now or hereafter to be erected upon the land hereby demised with 2 coats of proper oil colour.
 
-##### 7
-    
-*   That the lessee will insure and keep insured to the full insurable value thereof all buildings of an insurable nature for the time being erected upon the demised land in the names of the lessor and the lessee for their respective rights and interests in some responsible insurance office in New Zealand to be approved by the lessor and in the event of the said buildings or any of them being destroyed or damaged by fire all moneys received under and by virtue of any such insurances shall forthwith be expended in reinstating or repairing the building or buildings so destroyed or damaged.
+*   7 That the lessee will insure and keep insured to the full insurable value thereof all buildings of an insurable nature for the time being erected upon the demised land in the names of the lessor and the lessee for their respective rights and interests in some responsible insurance office in New Zealand to be approved by the lessor and in the event of the said buildings or any of them being destroyed or damaged by fire all moneys received under and by virtue of any such insurances shall forthwith be expended in reinstating or repairing the building or buildings so destroyed or damaged.
 
-##### 8
-    
-*   That the lessee will during the term cultivate use and manage all such parts of the said land as now are or shall hereafter be broken up and converted into tillage in a proper and husbandmanlike manner and will not impoverish or waste the same but will keep the same in good heart and condition and will at the end or sooner determination of the term leave all such parts of the said land as shall be broken up in good permanent English grasses and clovers of the descriptions and in the proportions usually sown in the district.
+*   8 That the lessee will during the term cultivate use and manage all such parts of the said land as now are or shall hereafter be broken up and converted into tillage in a proper and husbandmanlike manner and will not impoverish or waste the same but will keep the same in good heart and condition and will at the end or sooner determination of the term leave all such parts of the said land as shall be broken up in good permanent English grasses and clovers of the descriptions and in the proportions usually sown in the district.
 
-##### 9
-    
-*   That the lessee will use the most approved modern methods to suppress and eradicate all noxious weeds and plants that are such by law from time to time in the district in which the said land is situate growing on the said land or upon the near half of any adjoining road and will grub up and destroy all gorse growing as aforesaid otherwise than in or upon the true line of fence without contribution from the lessor and will duly and punctually comply with all directions of the lessor or his agent as to the methods to be used or otherwise and also with all the provisions of the Noxious Weeds Act 1950:
+*   9 That the lessee will use the most approved modern methods to suppress and eradicate all noxious weeds and plants that are such by law from time to time in the district in which the said land is situate growing on the said land or upon the near half of any adjoining road and will grub up and destroy all gorse growing as aforesaid otherwise than in or upon the true line of fence without contribution from the lessor and will duly and punctually comply with all directions of the lessor or his agent as to the methods to be used or otherwise and also with all the provisions of the Noxious Weeds Act 1950:
     
     provided that the lessee shall have no claim against the lessor in respect of the reasonable expenses mentioned in [section 10][16] of the said Act and the lessee shall indemnify the lessor against all and any contribution or contributions costs charges and expenses which the lessor may be called upon or compelled to pay under the said Act.
 
-##### 10
-    
-*   That the lessee will at all times during the continuance of the said term keep clean and open all ditches drains and water courses on the said land.
+*   10 That the lessee will at all times during the continuance of the said term keep clean and open all ditches drains and water courses on the said land.
 
-##### 11
-    
-*   That the lessee will not at any time during the term hereby created overstock the said land and will not during the last year of the said term depasture upon the said land a greater number of stock than he shall have had depasturing upon the said land during the previous 12 months of the said term.
+*   11 That the lessee will not at any time during the term hereby created overstock the said land and will not during the last year of the said term depasture upon the said land a greater number of stock than he shall have had depasturing upon the said land during the previous 12 months of the said term.
 
-##### 12
-    
-*   That the lessee will while using the said land as a dairy farm in all respects comply with all the provisions of the Dairy Industry Act 1952 so far as the same relate to the demised premises and under no circumstances shall the lessor be liable to pay or to contribute to expenditure by the lessee on buildings or other improvements upon the demised premises notwithstanding the provisions of section 8 of the Dairy Industry Act 1952\.
+*   12 That the lessee will while using the said land as a dairy farm in all respects comply with all the provisions of the Dairy Industry Act 1952 so far as the same relate to the demised premises and under no circumstances shall the lessor be liable to pay or to contribute to expenditure by the lessee on buildings or other improvements upon the demised premises notwithstanding the provisions of section 8 of the Dairy Industry Act 1952\.
 
-##### 13
-    
-*   That the lessee will not at any time during the continuance of the term hereby created without the written consent of the lessor first had and obtained request or permit any Electric Power Board to instal any motor electric wires electric lamps or other electrical fittings or equipment on or about the premises hereby demised or do or cause or permit to be done any act deed matter or thing whereby any charge under section 119 of the Electric Power Boards Act 1925 shall or may be created upon the said premises in respect to the same.
+*   13 That the lessee will not at any time during the continuance of the term hereby created without the written consent of the lessor first had and obtained request or permit any Electric Power Board to instal any motor electric wires electric lamps or other electrical fittings or equipment on or about the premises hereby demised or do or cause or permit to be done any act deed matter or thing whereby any charge under section 119 of the Electric Power Boards Act 1925 shall or may be created upon the said premises in respect to the same.
 
-##### 14
-    
-*   That the lessee will in a husbandmanlike manner and at the proper season for so doing in each year topdress so much of the land herein demised as shall be laid down in pasture with artificial manure suitable to the nature of the soil and of a quantity normally used in the district.
+*   14 That the lessee will in a husbandmanlike manner and at the proper season for so doing in each year topdress so much of the land herein demised as shall be laid down in pasture with artificial manure suitable to the nature of the soil and of a quantity normally used in the district.
 
-##### 15
-    
-*   That the lessee will not during the said term take or permit or suffer to be taken from the said land or any part thereof more than 3 crops other than grass in successive years and will at the end or sooner determination of the said term leave the said land laid down in good permanent English grasses and clovers as provided by clause 8\.
+*   15 That the lessee will not during the said term take or permit or suffer to be taken from the said land or any part thereof more than 3 crops other than grass in successive years and will at the end or sooner determination of the said term leave the said land laid down in good permanent English grasses and clovers as provided by clause 8\.
 
-##### 16
-    
-*   That the lessee will at his own cost and expense do all things necessary to comply with the provisions of the Rabbit Nuisance Act 1928 and to keep the said land free and clear of rabbits and other noxious vermin and will indemnify the lessor against all and any contribution or contributions costs charges and expenses which the lessor may be called upon or compelled to pay under the said Act.
+*   16 That the lessee will at his own cost and expense do all things necessary to comply with the provisions of the Rabbit Nuisance Act 1928 and to keep the said land free and clear of rabbits and other noxious vermin and will indemnify the lessor against all and any contribution or contributions costs charges and expenses which the lessor may be called upon or compelled to pay under the said Act.
 
-##### 17
-    
-*   That the lessee will not allow pigs to roam at large over the said land but will at all times keep them in proper pig proof enclosures.
+*   17 That the lessee will not allow pigs to roam at large over the said land but will at all times keep them in proper pig proof enclosures.
 
-##### 18
-    
-*   That the lessee will pay all costs and expenses incurred in the preparation and completion of these presents and all costs and expenses incurred by the lessor in relation to any notice or any proceeding under the provisions of the Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided):
+*   18 That the lessee will pay all costs and expenses incurred in the preparation and completion of these presents and all costs and expenses incurred by the lessor in relation to any notice or any proceeding under the provisions of the Property Law Act 2007 relating to cancellation of leases (despite that, and whatever the means by which, such cancellation may be avoided):
     
     provided that in relation to any proceedings as aforesaid the costs and expenses shall be borne as the court may order.
 
-##### 19
-    
-*   That subject to the provisions of [section 29][38] of the Act the lessee will keep any native bush or shrubbery shelter ornamental or other trees at any time growing upon the said land in good order and condition and will not without the consent in writing of the lessor cut down damage or destroy or permit to be cut down damaged or destroyed any of the said native bush shrubbery shelter ornamental or other trees at any time growing on the said land and will use all proper and reasonable means to preserve the same and will not remove or permit to be removed from the said land any fencing posts timber or firewood:
+*   19 That subject to the provisions of section 29 of the Act the lessee will keep any native bush or shrubbery shelter ornamental or other trees at any time growing upon the said land in good order and condition and will not without the consent in writing of the lessor cut down damage or destroy or permit to be cut down damaged or destroyed any of the said native bush shrubbery shelter ornamental or other trees at any time growing on the said land and will use all proper and reasonable means to preserve the same and will not remove or permit to be removed from the said land any fencing posts timber or firewood:
     
     provided that the lessee may use for his own requirements on the said land for repairing or erecting fences and for firewood any logs or dead timber on the said land.
 
-##### 20
-    
-*   That if the lessee severs from the said land any timber trees whether related to the erection of fences or not he shall be liable to the lessor for damages in respect of the timber trees so severed from the land.
+*   20 That if the lessee severs from the said land any timber trees whether related to the erection of fences or not he shall be liable to the lessor for damages in respect of the timber trees so severed from the land.
 
-##### 21
-    
-*   That the lessee will not call upon or compel the lessor to contribute to the cost of erecting repairing and maintaining any boundary fence which may now or hereafter be erected between the land hereby demised and any land adjacent thereto in which the lessor may have any estate or interest either in his own right or as agent or trustee for any owner:
+*   21 That the lessee will not call upon or compel the lessor to contribute to the cost of erecting repairing and maintaining any boundary fence which may now or hereafter be erected between the land hereby demised and any land adjacent thereto in which the lessor may have any estate or interest either in his own right or as agent or trustee for any owner:
     
     provided that this covenant shall not enure for the benefit of any purchaser or lessee from the lessor of such adjacent land so as to deprive the said lessee of any rights he would have (but for this covenant) against the occupier (other than the lessor) of any adjoining land.
 
-##### 22
-    
-*   That in burning off or lighting fires upon the demised premises the lessee shall in all respects comply with the provisions of the [Forest and Rural Fires Act 1977][121] and shall use every care and precaution to prevent fires from spreading to adjoining properties and will indemnify the lessor and the owners against all claims for damage caused by any fire lit by the lessee or his agents and so spreading as aforesaid and against all contributions costs charges and expenses which the lessor or the owners may be compelled to pay pursuant to the provisions of the Forest and Rural Fires Act 1977 or otherwise howsoever.
+*   22 That in burning off or lighting fires upon the demised premises the lessee shall in all respects comply with the provisions of the Forest and Rural Fires Act 1977 and shall use every care and precaution to prevent fires from spreading to adjoining properties and will indemnify the lessor and the owners against all claims for damage caused by any fire lit by the lessee or his agents and so spreading as aforesaid and against all contributions costs charges and expenses which the lessor or the owners may be compelled to pay pursuant to the provisions of the Forest and Rural Fires Act 1977 or otherwise howsoever.
 
 *   And the lessor doth hereby covenant with the lessee as follows:
 
-##### 23
-    
-*   That the lessee having performed and observed the covenants and conditions on his part herein contained or implied shall subject to the provisions of the Act be entitled on the termination by effluxion of time of the term hereby created (unless a renewed term shall be created as hereinafter appears and in such case he shall be entitled on the termination by effluxion of time of such renewed term or on any earlier determination by the lessor of such renewed term pursuant to notice under [section 21][30] of the Act of his intention to resume possession of the said land) to compensation to the extent of two-thirds of the value of improvements effected by him.
+*   23 That the lessee having performed and observed the covenants and conditions on his part herein contained or implied shall subject to the provisions of the Act be entitled on the termination by effluxion of time of the term hereby created (unless a renewed term shall be created as hereinafter appears and in such case he shall be entitled on the termination by effluxion of time of such renewed term or on any earlier determination by the lessor of such renewed term pursuant to notice under section 21 of the Act of his intention to resume possession of the said land) to compensation to the extent of two-thirds of the value of improvements effected by him.
 
-##### 24
-    
-*   That for the purpose of ascertaining the amount of the compensation to which the lessee is so entitled under the foregoing clause 23 the value of the said improvements shall be determined by a valuation to be made by a registered valuer in accordance with the provisions of [section 28][37] of the Act.
+*   24 That for the purpose of ascertaining the amount of the compensation to which the lessee is so entitled under the foregoing clause 23 the value of the said improvements shall be determined by a valuation to be made by a registered valuer in accordance with the provisions of section 28 of the Act.
 
-##### 25
-    
-*   That when the lessee proposes to make on the said land any improvement of the kind referred to in clause 23 he shall be entitled on application to the lessor to have a record made by the lessor at the cost in all things of the lessee of the particulars of the nature of those improvements and of the state and condition of the land before the making of the improvements.
+*   25 That when the lessee proposes to make on the said land any improvement of the kind referred to in clause 23 he shall be entitled on application to the lessor to have a record made by the lessor at the cost in all things of the lessee of the particulars of the nature of those improvements and of the state and condition of the land before the making of the improvements.
 
-##### 26
-    
-*   That provided the lessor has not at least 1 year prior to the expiration of the term hereby created given notice to the lessee by delivering the same personally or by sending the same to him by registered post addressed to him at his last named place of abode or business that he desires to resume possession of the said land the lessee shall have the right to elect not more than 6 months and not less than 3 months before the expiration of the term hereby created to take a renewal of the within lease for a further period of 21 years subject to the right of the lessor on giving at least 1 year's notice to the lessee prior to the expiration of the 15th or 21st year of such renewed term of his desire so to do to resume possession of the said land on the payment to the lessee of compensation to the extent of two-thirds of the value of improvements effected by him.
+*   26 That provided the lessor has not at least 1 year prior to the expiration of the term hereby created given notice to the lessee by delivering the same personally or by sending the same to him by registered post addressed to him at his last named place of abode or business that he desires to resume possession of the said land the lessee shall have the right to elect not more than 6 months and not less than 3 months before the expiration of the term hereby created to take a renewal of the within lease for a further period of 21 years subject to the right of the lessor on giving at least 1 year's notice to the lessee prior to the expiration of the 15th or 21st year of such renewed term of his desire so to do to resume possession of the said land on the payment to the lessee of compensation to the extent of two-thirds of the value of improvements effected by him.
 
-##### 27
-    
-*   That if the lessee elects to renew the within lease as aforesaid the lessor will at the cost of the lessee grant and execute to the lessee a further lease of the said land for a term of 21 years subject to the lessor's right to resume possession as provided in the preceding clause the lessee yielding and paying therefor:
+*   27 That if the lessee elects to renew the within lease as aforesaid the lessor will at the cost of the lessee grant and execute to the lessee a further lease of the said land for a term of 21 years subject to the lessor's right to resume possession as provided in the preceding clause the lessee yielding and paying therefor:
         
     *   (a) for and during the first 10 years of the said term a yearly rent equal to 5 pounds per centum of the unimproved value as ascertained by a registered valuer in accordance with the provisions of [section 25][34] of the Act:
         
@@ -1374,35 +1322,21 @@ And the lessee doth hereby covenant with the lessor as follows:
 
 *   And it is hereby mutually agreed and declared by and between the parties hereto as follows:
 
-##### 28
-    
-*   That if the lessee elects not to accept a renewed lease or fails to execute a renewed lease within 1 month after the same is tendered to him for the purpose, the right to a new lease of the land shall as soon as practicable be put up to public competition by public tender in accordance with the provisions of section 33 of the Act, and the rights of the lessee with respect to compensation for improvements shall be determined by reference to the provisions of that section and [section 34][43] of the Act, and not otherwise.
+*   28 That if the lessee elects not to accept a renewed lease or fails to execute a renewed lease within 1 month after the same is tendered to him for the purpose, the right to a new lease of the land shall as soon as practicable be put up to public competition by public tender in accordance with the provisions of section 33 of the Act, and the rights of the lessee with respect to compensation for improvements shall be determined by reference to the provisions of that section and section 34 of the Act, and not otherwise.
 
-##### 29
-    
-*   The lessor may at all reasonable times during the continuance of the term hereby created enter upon the said land by any agent officer or servant of the lessor for the purpose of viewing the state and condition thereof and of the buildings and erections thereof.
+*   29 The lessor may at all reasonable times during the continuance of the term hereby created enter upon the said land by any agent officer or servant of the lessor for the purpose of viewing the state and condition thereof and of the buildings and erections thereof.
 
-##### 30
-    
-*   That subject to the provisions of [section 29][38] of the Act there are hereby excepted and reserved from this demise all milling timber flax coal lignite stone clay kauri-gum and other metals or minerals whatsoever in or upon the land hereby demised with full power and liberty to the said lessor its agents servants grantees or licensees to enter upon the said land for the purpose of searching for working winning getting and carrying away all such metals minerals and other things so reserved as aforesaid and for this purpose to make such roads erect such buildings sink such shafts, and do all such things as may be necessary:
+*   30 That subject to the provisions of section 29 of the Act there are hereby excepted and reserved from this demise all milling timber flax coal lignite stone clay kauri-gum and other metals or minerals whatsoever in or upon the land hereby demised with full power and liberty to the said lessor its agents servants grantees or licensees to enter upon the said land for the purpose of searching for working winning getting and carrying away all such metals minerals and other things so reserved as aforesaid and for this purpose to make such roads erect such buildings sink such shafts, and do all such things as may be necessary:
     
     provided that in the exercise of such rights the lessor shall cause as little interference as possible with the lessee's user of the said land and provided further that the lessor shall pay a fair compensation to the lessee for all loss or damage sustained by the lessee by the exercise of any such powers by the lessor. The amount of any such compensation shall in default of agreement be determined by 2 arbitrators and in case the arbitrators cannot agree, by their umpire, in accordance with the provisions of the Arbitration Act 1908; and these presents shall for the purpose be deemed to be a submission under that Act.
 
-##### 31
-    
-*   That if the lessee shall at any time make default in the performance of any of the covenants conditions or provisions on the part of the lessee herein expressed or implied it shall be lawful for the lessor (without prejudice to any right of re-entry or other right) to perform any such covenant condition or provision on behalf of the lessee (and if necessary for so doing to enter upon the said premises) and all moneys paid and expenses incurred in so doing and also all costs incurred by the lessor in connection therewith shall be forthwith repaid to the lessor by the lessee together with interest thereon at the rate of 10 pounds (£10) per centum per annum and it shall be lawful for the lessor or the agent of the lessor at all times for the purpose aforesaid and for the purpose of viewing the demised premises to enter upon the said premises with such workmen and other persons as the lessor or the agent of the lessor shall think fit and to remain there for such time as in the circumstances shall be reasonable and proper.
+*   31 That if the lessee shall at any time make default in the performance of any of the covenants conditions or provisions on the part of the lessee herein expressed or implied it shall be lawful for the lessor (without prejudice to any right of re-entry or other right) to perform any such covenant condition or provision on behalf of the lessee (and if necessary for so doing to enter upon the said premises) and all moneys paid and expenses incurred in so doing and also all costs incurred by the lessor in connection therewith shall be forthwith repaid to the lessor by the lessee together with interest thereon at the rate of 10 pounds (£10) per centum per annum and it shall be lawful for the lessor or the agent of the lessor at all times for the purpose aforesaid and for the purpose of viewing the demised premises to enter upon the said premises with such workmen and other persons as the lessor or the agent of the lessor shall think fit and to remain there for such time as in the circumstances shall be reasonable and proper.
 
-##### 32
-    
-*   That in case the rent payable hereunder or any part thereof shall be unpaid on any day on which the same ought to be paid and shall remain unpaid for thirty (30) days thereafter whether the same shall have been lawfully demanded or not or in case the lessee becomes bankrupt or compounds with or assigns his estate for the benefit of his creditors or in case of the breach non-observance or non-performance by the lessee of any covenant condition or restriction herein on the lessee's part contained or implied then and in every such case it shall be lawful for the lessor forthwith or at any time thereafter without notice or suit to enter upon any part of the said demised land in the name of the whole and thereby to determine the estate of the lessee under these presents but without releasing the lessee from liability in respect of any breach of any of the said covenants conditions and restrictions.
+*   32 That in case the rent payable hereunder or any part thereof shall be unpaid on any day on which the same ought to be paid and shall remain unpaid for thirty (30) days thereafter whether the same shall have been lawfully demanded or not or in case the lessee becomes bankrupt or compounds with or assigns his estate for the benefit of his creditors or in case of the breach non-observance or non-performance by the lessee of any covenant condition or restriction herein on the lessee's part contained or implied then and in every such case it shall be lawful for the lessor forthwith or at any time thereafter without notice or suit to enter upon any part of the said demised land in the name of the whole and thereby to determine the estate of the lessee under these presents but without releasing the lessee from liability in respect of any breach of any of the said covenants conditions and restrictions.
 
-##### 33
-    
-*   It is hereby declared that the covenants powers and conditions implied in leases by [sections 218][122] and [219][123] of the Property Law Act 2007 shall be implied herein except in so far as the same are hereby modified or negatived.
+*   33 It is hereby declared that the covenants powers and conditions implied in leases by sections 218 and 219 of the Property Law Act 2007 shall be implied herein except in so far as the same are hereby modified or negatived.
 
-##### 34
-    
-*   It is hereby further declared that terms and expressions defined in the Act shall when used in these presents have the meanings so defined and that where the Act directs the inclusion of any provision in these presents that provision shall be deemed to be included herein in accordance with the Act and not otherwise.
+*   34 It is hereby further declared that terms and expressions defined in the Act shall when used in these presents have the meanings so defined and that where the Act directs the inclusion of any provision in these presents that provision shall be deemed to be included herein in accordance with the Act and not otherwise.
 
 ## Schedule  
 Description of land
@@ -1428,11 +1362,11 @@ Occupation:
 Address:
     
 *   Schedule 1: amended, on 1 July 2009, pursuant to [section 30(2)(a)][92] of the Māori Trustee Amendment Act 2009 (2009 No 12).
-*   Schedule 1: amended, on 1 January 2008, by [section 364(1)][124] of the Property Law Act 2007 (2007 No 91).
+*   Schedule 1: amended, on 1 January 2008, by [section 364(1)][121] of the Property Law Act 2007 (2007 No 91).
 *   Schedule 1: amended, on 26 April 2005, by [section 7][99] of the Relationships (Statutory References) Act 2005 (2005 No 3).
 *   Schedule 1: amended, on 1 July 1998, by [section 54(1)][103] of the Rating Valuations Act 1998 (1998 No 69).
-*   Schedule 1: amended, on 1 April 1979, pursuant to [section 28(1)][125] of the Fencing Act 1978 (1978 No 50).
-*   Schedule 1: amended, on 1 April 1979, pursuant to [section 70(a)][126] of the Forest and Rural Fires Act 1977 (1977 No 52).
+*   Schedule 1: amended, on 1 April 1979, pursuant to [section 28(1)][122] of the Fencing Act 1978 (1978 No 50).
+*   Schedule 1: amended, on 1 April 1979, pursuant to [section 70(a)][123] of the Forest and Rural Fires Act 1977 (1977 No 52).
 
 ---
 
@@ -1467,72 +1401,31 @@ _Amendment(s) incorporated in the [Act(s)][108]_.
 
 ##### Thermal Springs Districts Act 1910 (1910 No 69) (Reprint of Statutes, Vol VI, p 366)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Maori Vested Lands Administration Act 1954\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][127] ![](/images/external_link.gif).
+*   This is a reprint of the Maori Vested Lands Administration Act 1954 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][128] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][124] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][125] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][129] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][126] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][127] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][130] and [17E][131] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][111]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1), (2)(a)][92]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Māori Trustee Amendment Act 2009 (2009 No 12): [section 30(1), (2)(a)][92]
-    
-    Property Law Act 2007 (2007 No 91): [section 364(1)][124]
+    Property Law Act 2007 (2007 No 91): [section 364(1)][121]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][99]
     
@@ -1542,33 +1435,33 @@ _Amendment(s) incorporated in the [Act(s)][108]_.
     
     Judicature Amendment Act 1991 (1991 No 60): [section 3(5)][96]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][118]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][119]
     
     District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][102]
     
-    Fencing Act 1978 (1978 No 50): [section 28(1)][125]
+    Fencing Act 1978 (1978 No 50): [section 28(1)][122]
     
-    Forest and Rural Fires Act 1977 (1977 No 52): [section 70(a)][126]
+    Forest and Rural Fires Act 1977 (1977 No 52): [section 70(a)][123]
     
     Land Valuation Proceedings Amendment Act 1977 (1977 No 15): [section 6(6)][94]
     
     Maori Purposes Act 1975 (1975 No 135): [section 9(c)][98]
     
-    Maori Purposes Act 1970 (1970 No 120): [section 17][116]
+    Maori Purposes Act 1970 (1970 No 120): [section 17][117]
     
     Land Settlement Promotion and Land Acquisition Amendment Act 1968 (1968 No 152): section 2(3)
     
-    Land Valuation Proceedings Amendment Act 1968 (1968 No 42): [sections 3(3)][111], [15][95]
+    Land Valuation Proceedings Amendment Act 1968 (1968 No 42): [sections 3(3)][112], [15][95]
     
     Maori Affairs Amendment Act 1967 (1967 No 124): sections 150, 151
     
-    Maori Purposes Act 1961 (1961 No 129): [section 18][114]
+    Maori Purposes Act 1961 (1961 No 129): [section 18][115]
     
-    Maori Purposes Act 1955 (1955 No 106): [section 11][117]
+    Maori Purposes Act 1955 (1955 No 106): [section 11][118]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1954/0060/latest/whole.html#DLM287743
 [2]: http://www.legislation.govt.nz/act/public/1954/0060/latest/whole.html#DLM287745
 [3]: http://www.legislation.govt.nz/act/public/1954/0060/latest/whole.html#DLM287746
@@ -1679,24 +1572,20 @@ _Amendment(s) incorporated in the [Act(s)][108]_.
 [108]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM284302
 [109]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM212211
 [110]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM269031
-[111]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM388233
-[112]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM249280
-[113]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282745
-[114]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM338481
-[115]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282955
-[116]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM396109
-[117]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM293861
-[118]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195558
-[119]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282037
-[120]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM21806
-[121]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM442946
-[122]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM969422
-[123]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM969423
-[124]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM969644
-[125]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM21887
-[126]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM443632
-[127]: http://www.pco.parliament.govt.nz/reprints/
-[128]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195439
-[129]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[130]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195468
-[131]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195470
+[111]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM5045103
+[112]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM388233
+[113]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM249280
+[114]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282745
+[115]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM338481
+[116]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282955
+[117]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM396109
+[118]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM293861
+[119]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM195558
+[120]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM282037
+[121]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM969644
+[122]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM21887
+[123]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM443632
+[124]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM2998516
+[125]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM2998515
+[126]: http://www.legislation.govt.nz/act/public/1954/0060/latest/link.aspx?id=DLM2998532
+[127]: http://www.pco.parliament.govt.nz/editorial-conventions/
