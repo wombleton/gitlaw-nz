@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -23,278 +23,278 @@ This Act is administered by the Ministry of Foreign Affairs and Trade and the Mi
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose of this Act][4]
+[3][4][][4][Purpose of this Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Terrorist act defined][6]
+[5][6][][6][Terrorist act defined][6]
 
-[6][7] [Act binds the Crown][7]
+[6][7][][7][Act binds the Crown][7]
 
 [Part 2][8]  
 [Suppression of terrorism][8]
 
 [Terrorist act][9]
 
-[6A][10] [Terrorist act][10]
+[6A][10][][10][Terrorist act][10]
 
 [Terrorist bombing][11]
 
-[7][12] [Terrorist bombing][12]
+[7][12][][12][Terrorist bombing][12]
 
 [Financing of terrorism][13]
 
-[8][14] [Financing of terrorism][14]
+[8][14][][14][Financing of terrorism][14]
 
 [Dealing with property][15]
 
-[9][16] [Prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity][16]
+[9][16][][16][Prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity][16]
 
 [Making property, or financial or related services, available][17]
 
-[10][18] [Prohibition on making property, or financial or related services, available to designated terrorist entity][18]
+[10][18][][18][Prohibition on making property, or financial or related services, available to designated terrorist entity][18]
 
 [Authorisations to deal with property, or to make property, or financial or related services, available][19]
 
-[11][20] [Authorisations by Prime Minister][20]
+[11][20][][20][Authorisations by Prime Minister][20]
 
 [Recruitment of members of terrorist groups][21]
 
-[12][22] [Recruiting members of terrorist groups][22]
+[12][22][][22][Recruiting members of terrorist groups][22]
 
 [Participation in terrorist groups][23]
 
-[13][24] [Participating in terrorist groups][24]
+[13][24][][24][Participating in terrorist groups][24]
 
 [Harbouring or concealing terrorists][25]
 
-[13A][26] [Harbouring or concealing terrorists][26]
+[13A][26][][26][Harbouring or concealing terrorists][26]
 
 [Offences relating to plastic explosives and nuclear materials][27]
 
-[13B][28] [Offences involving use and movement of unmarked plastic explosives][28]
+[13B][28][][28][Offences involving use and movement of unmarked plastic explosives][28]
 
-[13C][29] [Offences involving physical protection of nuclear material][29]
+[13C][29][][29][Offences involving physical protection of nuclear material][29]
 
 [Importation, acquisition, possession, or control of radioactive material][30]
 
-[13D][31] [Importation, acquisition, etc, of radioactive material][31]
+[13D][31][][31][Importation, acquisition, etc, of radioactive material][31]
 
 [Offences involving radioactive material and radioactive devices][32]
 
-[13E][33] [Offences involving radioactive material and radioactive devices][33]
+[13E][33][][33][Offences involving radioactive material and radioactive devices][33]
 
 [Extraterritorial jurisdiction][34]
 
-[14][35] [Offences also apply in certain cases outside New Zealand][35]
+[14][35][][35][Offences also apply in certain cases outside New Zealand][35]
 
-[15][36] [Offences apply to acts outside New Zealand by New Zealand citizens or on New Zealand aircraft and ships][36]
+[15][36][][36][Offences apply to acts outside New Zealand by New Zealand citizens or on New Zealand aircraft and ships][36]
 
-[16][37] [Further acts outside New Zealand to which terrorist bombing applies][37]
+[16][37][][37][Further acts outside New Zealand to which terrorist bombing applies][37]
 
-[17][38] [Further acts outside New Zealand to which financing of terrorism applies][38]
+[17][38][][38][Further acts outside New Zealand to which financing of terrorism applies][38]
 
-[18][39] [Offences also apply to acts outside New Zealand if alleged offender is in New Zealand and is not extradited][39]
+[18][39][][39][Offences also apply to acts outside New Zealand if alleged offender is in New Zealand and is not extradited][39]
 
-[19][40] [Application of Crimes Act 1961][40]
+[19][40][][40][Application of Crimes Act 1961][40]
 
 [Interim designation][41]
 
-[20][42] [Interim designation as terrorist or associated entity][42]
+[20][42][][42][Interim designation as terrorist or associated entity][42]
 
-[21][43] [Further provisions relating to interim designation][43]
+[21][43][][43][Further provisions relating to interim designation][43]
 
 [Final designation][44]
 
-[22][45] [Final designation as terrorist or associated entity][45]
+[22][45][][45][Final designation as terrorist or associated entity][45]
 
-[23][46] [Further provisions relating to final designation][46]
+[23][46][][46][Further provisions relating to final designation][46]
 
 [Further provisions relating to interim and final designations][47]
 
-[24][48] [Entity or property need not be in New Zealand][48]
+[24][48][][48][Entity or property need not be in New Zealand][48]
 
-[25][49] [Carrying out and facilitating terrorist acts][49]
+[25][49][][49][Carrying out and facilitating terrorist acts][49]
 
-[26][50] [Content of notice to designated entity][50]
+[26][50][][50][Content of notice to designated entity][50]
 
-[27][51] [Content of notice to public and others][51]
+[27][51][][51][Content of notice to public and others][51]
 
-[28][52] [Further notification of making of designation][52]
+[28][52][][52][Further notification of making of designation][52]
 
-[29][53] [Designations not invalid for certain reasons][53]
+[29][53][][53][Designations not invalid for certain reasons][53]
 
-[29A][54] [Changes of description of designated entities][54]
+[29A][54][][54][Changes of description of designated entities][54]
 
 [Material on which designations may be based][55]
 
-[30][56] [Information available to Prime Minister][56]
+[30][56][][56][Information available to Prime Minister][56]
 
-[31][57] [United Nations Security Council information][57] \[Repealed\]
+[31][57][][57][United Nations Security Council information][57] \[Repealed\]
 
-[32][58] [Classified security information defined][58]
+[32][58][][58][Classified security information defined][58]
 
 [Review, revocation, and expiry of designations][59]
 
-[33][60] [Judicial review of designations][60]
+[33][60][][60][Judicial review of designations][60]
 
-[34][61] [Revocation of designations][61]
+[34][61][][61][Revocation of designations][61]
 
-[35][62] [Designations under section 22 to expire after 3 years unless renewed by Prime Minister][62]
+[35][62][][62][Designations under section 22 to expire after 3 years unless renewed by Prime Minister][62]
 
-[36][63] [Applications under section 35 and related proceedings][63] \[Repealed\]
+[36][63][][63][Applications under section 35 and related proceedings][63] \[Repealed\]
 
-[37][64] [Grounds for orders under section 35(2)][64] \[Repealed\]
+[37][64][][64][Grounds for orders under section 35(2)][64] \[Repealed\]
 
-[38][65] [Procedure in proceedings involving classified security information][65]
+[38][65][][65][Procedure in proceedings involving classified security information][65]
 
-[39][66] [Procedure in other cases involving classified security information][66] \[Repealed\]
+[39][66][][66][Procedure in other cases involving classified security information][66] \[Repealed\]
 
-[40][67] [Ancillary general practices and procedures to protect classified security information][67]
+[40][67][][67][Ancillary general practices and procedures to protect classified security information][67]
 
-[41][68] [Appeal against decision on application under section 35][68] \[Repealed\]
+[41][68][][68][Appeal against decision on application under section 35][68] \[Repealed\]
 
-[42][69] [Notification of revocation, expiry, or invalidity of designations][69]
+[42][69][][69][Notification of revocation, expiry, or invalidity of designations][69]
 
 [Duty to report suspicions relating to property][70]
 
-[43][71] [Suspicions that property owned or controlled by designated terrorist entities to be reported][71]
+[43][71][][71][Suspicions that property owned or controlled by designated terrorist entities to be reported][71]
 
-[44][72] [Nature of suspicious property report][72]
+[44][72][][72][Nature of suspicious property report][72]
 
-[45][73] [Privileged communication defined][73]
+[45][73][][73][Privileged communication defined][73]
 
-[46][74] [Protection of persons][74]
+[46][74][][74][Protection of persons][74]
 
-[47][75] [Protection of identity of persons making reports][75]
+[47][75][][75][Protection of identity of persons making reports][75]
 
 [Customs' powers in relation to certain property][76]
 
-[47A][77] [Detention of goods suspected to be terrorist property][77]
+[47A][77][][77][Detention of goods suspected to be terrorist property][77]
 
-[47B][78] [Return of cash necessary to satisfy essential human needs][78]
+[47B][78][][78][Return of cash necessary to satisfy essential human needs][78]
 
-[47C][79] [Further provisions about detention under section 47A][79]
+[47C][79][][79][Further provisions about detention under section 47A][79]
 
-[47D][80] [Return of goods detained under section 47A][80]
+[47D][80][][80][Return of goods detained under section 47A][80]
 
-[47E][81] [Extension of 7-day period in section 47D(1)(a)][81]
+[47E][81][][81][Extension of 7-day period in section 47D(1)(a)][81]
 
-[47F][82] [Custody of certain goods detained under section 47A][82]
+[47F][82][][82][Custody of certain goods detained under section 47A][82]
 
-[47G][83] [Offences in relation to certain detained goods][83]
+[47G][83][][83][Offences in relation to certain detained goods][83]
 
 [Management of property subject to section 9][84]
 
-[48][85] [Direction that Official Assignee take control of property][85]
+[48][85][][85][Direction that Official Assignee take control of property][85]
 
-[49][86] [Notice of direction][86]
+[49][86][][86][Notice of direction][86]
 
-[50][87] [Variation, revocation, or expiry of direction][87]
+[50][87][][87][Variation, revocation, or expiry of direction][87]
 
-[51][88] [Further provisions on management of property subject to section 9][88]
+[51][88][][88][Further provisions on management of property subject to section 9][88]
 
 [Relief for third parties if property is subject to section 9 or application for forfeiture, or is forfeited][89]
 
-[52][90] [Third parties may apply for relief][90]
+[52][90][][90][Third parties may apply for relief][90]
 
-[53][91] [Limits on applications under section 52(3)][91]
+[53][91][][91][Limits on applications under section 52(3)][91]
 
-[54][92] [Court may grant relief to third party][92]
+[54][92][][92][Court may grant relief to third party][92]
 
 [Forfeiture][93]
 
-[55][94] [Forfeiture of property by order of High Court][94]
+[55][94][][94][Forfeiture of property by order of High Court][94]
 
-[56][95] [Notice of application under section 55][95]
+[56][95][][95][Notice of application under section 55][95]
 
-[57][96] [Further provisions relating to orders under section 55][96]
+[57][96][][96][Further provisions relating to orders under section 55][96]
 
-[58][97] [Appeal against decision on application under section 55][97]
+[58][97][][97][Appeal against decision on application under section 55][97]
 
-[59][98] [Discharge of order under section 55 on appeal][98]
+[59][98][][98][Discharge of order under section 55 on appeal][98]
 
-[60][99] [Attorney-General may apply for directions][99]
+[60][99][][99][Attorney-General may apply for directions][99]
 
-[61][100] [Double benefit not permitted][100]
+[61][100][][100][Double benefit not permitted][100]
 
 [Part 3][101]  
 [Miscellaneous provisions][101]
 
 [Evidence that States are, or are not, Parties to Conventions][102]
 
-[62][103] [Certificates as to States Parties under Conventions][103]
+[62][103][][103][Certificates as to States Parties under Conventions][103]
 
 [Investigation and prosecution of offences against Act or referred to in Conventions][104]
 
-[63][105] [Application of sections 64 and 65][105]
+[63][105][][105][Application of sections 64 and 65][105]
 
-[64][106] [Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction][106]
+[64][106][][106][Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction][106]
 
-[65][107] [Attorney-General to notify relevant States Parties if person taken into custody][107]
+[65][107][][107][Attorney-General to notify relevant States Parties if person taken into custody][107]
 
-[66][108] [Rights of certain persons taken into custody to communicate with consular representative, etc][108]
+[66][108][][108][Rights of certain persons taken into custody to communicate with consular representative, etc][108]
 
-[67][109] [Attorney-General's consent to prosecutions required][109]
+[67][109][][109][Attorney-General's consent to prosecutions required][109]
 
-[68][110] [Attorney-General to communicate outcome of prosecution][110]
+[68][110][][110][Attorney-General to communicate outcome of prosecution][110]
 
 [Extradition][111]
 
-[69][112] [Offences deemed to be included in extradition treaties][112]
+[69][112][][112][Offences deemed to be included in extradition treaties][112]
 
 [Review of provisions to implement Anti-terrorism Resolution][113]
 
 \[Repealed\]
 
-[70][114] [Review of operation of certain provisions of this Act][114] \[Repealed\]
+[70][114][][114][Review of operation of certain provisions of this Act][114] \[Repealed\]
 
 [Relationship with other enactments][115]
 
-[71][116] [Criminal Proceeds (Recovery) Act 2009 not affected][116]
+[71][116][][116][Criminal Proceeds (Recovery) Act 2009 not affected][116]
 
-[72][117] [United Nations Act 1946 not affected][117]
+[72][117][][117][United Nations Act 1946 not affected][117]
 
 [Regulations][118]
 
-[73][119] [Regulations][119]
+[73][119][][119][Regulations][119]
 
 [Revocations and saving and transitional provision][120]
 
-[74][121] [Revocations][121]
+[74][121][][121][Revocations][121]
 
-[75][122] [Saving and transitional provision relating to specified entities][122] \[Repealed\]
+[75][122][][122][Saving and transitional provision relating to specified entities][122] \[Repealed\]
 
 [Amendment to Extradition Act 1999][123]
 
-[76][124] [Amendment to Extradition Act 1999][124]
+[76][124][][124][Amendment to Extradition Act 1999][124]
 
 [Amendment to Financial Transactions Reporting Act 1996][125]
 
-[77][126] [Amendment to Financial Transactions Reporting Act 1996][126]
+[77][126][][126][Amendment to Financial Transactions Reporting Act 1996][126]
 
 [Amendment to Immigration Act 1987][127]
 
-[78][128] [Amendment to Immigration Act 1987][128]
+[78][128][][128][Amendment to Immigration Act 1987][128]
 
 [Amendments to Mutual Assistance in Criminal Matters Act 1992][129]
 
-[79][130] [Schedule amended to refer to Bombings Convention][130]
+[79][130][][130][Schedule amended to refer to Bombings Convention][130]
 
-[80][131] [Schedule amended to refer to Financing Convention][131]
+[80][131][][131][Schedule amended to refer to Financing Convention][131]
 
 [Amendment to Proceeds of Crime Act 1991][132]
 
 \[Repealed\]
 
-[81][133] [Amendment to Proceeds of Crime Act 1991][133] \[Repealed\]
+[81][133][][133][Amendment to Proceeds of Crime Act 1991][133] \[Repealed\]
 
 [Schedule 1][134]  
 [International Convention for the Suppression of Terrorist Bombings][134]
@@ -707,9 +707,11 @@ Suppression of terrorism
     
 *   (1) A person commits an offence who engages in a terrorist act.
     
-    (2) A person who commits a terrorist act is liable on conviction on indictment to imprisonment for life or a lesser term.
+    (2) A person who commits a terrorist act is liable on conviction to imprisonment for life or a lesser term.
     
     Section 6A: inserted, on 20 November 2007, by [section 6][159] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 6A(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Terrorist bombing
 
@@ -737,7 +739,9 @@ Suppression of terrorism
     
     *   (d) an infrastructure facility.
     
-    (3) A person who commits terrorist bombing is liable on conviction on indictment to imprisonment for life or a lesser term.
+    (3) A person who commits terrorist bombing is liable on conviction to imprisonment for life or a lesser term.
+    
+    Section 7(3): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Financing of terrorism
 
@@ -751,11 +755,13 @@ Suppression of terrorism
     
     (3) In a prosecution for financing of terrorism, it is not necessary for the prosecutor to prove that the funds collected or provided were actually used, in full or in part, to carry out a terrorist act.
     
-    (4) A person who commits financing of terrorism is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (4) A person who commits financing of terrorism is liable on conviction to imprisonment for a term not exceeding 14 years.
     
-    Section 8(2): repealed, on 20 November 2007, by [section 7][160] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 8(2): repealed, on 20 November 2007, by [section 7][161] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 8(2A): inserted, on 22 June 2005, by [section 4][161] of the Terrorism Suppression Amendment Act 2005 (2005 No 83).
+    Section 8(2A): inserted, on 22 June 2005, by [section 4][162] of the Terrorism Suppression Amendment Act 2005 (2005 No 83).
+    
+    Section 8(4): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Dealing with property
 
@@ -777,27 +783,29 @@ Suppression of terrorism
         
     *   (a) if the Prime Minister has, under [section 11][20], authorised the dealing with the property; or
     
-    *   (b) if the property concerned is the subject of a direction under [section 48][85] and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under [section 80][162] of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by [section 51(a)][88]).
+    *   (b) if the property concerned is the subject of a direction under [section 48][85] and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under [section 80][163] of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by [section 51(a)][88]).
     
-    (4) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+    (4) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
     
     (5) \[Repealed\]
     
     (6) A reference in the definition of deal with in [section 4][5] to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
     
-    Compare: SR 2001/26 [rr 3(2)][163], [15][164]
+    Compare: SR 2001/26 [rr 3(2)][164], [15][165]
     
-    Section 9 heading: amended, on 20 November 2007, by [section 8(1)][165] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 9 heading: amended, on 20 November 2007, by [section 8(1)][166] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 9(1)(a): amended, on 20 November 2007, by [section 8(2)][165] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 9(1)(a): amended, on 20 November 2007, by [section 8(2)][166] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 9(2): substituted, on 20 November 2007, by [section 8(3)][165] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 9(2): substituted, on 20 November 2007, by [section 8(3)][166] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 9(3)(b): amended, on 1 December 2009, by [section 219][166] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 9(3)(b): amended, on 1 December 2009, by [section 219][167] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
     
-    Section 9(5): repealed, on 20 November 2007, by [section 8(4)][165] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 9(4): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 9(6): amended, on 20 November 2007, by [section 8(5)][165] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 9(5): repealed, on 20 November 2007, by [section 8(4)][166] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 9(6): amended, on 20 November 2007, by [section 8(5)][166] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Making property, or financial or related services, available
 
@@ -811,19 +819,21 @@ Suppression of terrorism
     
     (4) Subsection (1) does not apply if the Prime Minister has, under [section 11][20], authorised the making available of the property or services.
     
-    (5) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+    (5) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
     
     (6) In this section, _make available_, in relation to any property or services, means to make the property or services available in any way and by any means (for example, to send, transfer, deliver, or provide the property or services).
     
     (7) A reference in subsection (6) to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
     
-    Compare: SR 2001/26 [rr 3(2)][163], [16][167]
+    Compare: SR 2001/26 [rr 3(2)][164], [16][168]
     
-    Section 10 heading: amended, on 20 November 2007, by [section 9(1)][168] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 10 heading: amended, on 20 November 2007, by [section 9(1)][169] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 10(1): amended, on 20 November 2007, by [section 9(2)][168] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 10(1): amended, on 20 November 2007, by [section 9(2)][169] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 10(2): repealed, on 20 November 2007, by [section 9(3)][168] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 10(2): repealed, on 20 November 2007, by [section 9(3)][169] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 10(5): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Authorisations to deal with property, or to make property, or financial or related services, available
 
@@ -845,7 +855,7 @@ Suppression of terrorism
     
     *   (b) those terms or conditions are not satisfied.
     
-    Compare: SR 2001/26 [rr 15(2)][164], [16(2)][167]; Criminal Code s 83.09 (Canada)
+    Compare: SR 2001/26 [rr 15(2)][165], [16(2)][168]; Criminal Code s 83.09 (Canada)
 
 #### Recruitment of members of terrorist groups
 
@@ -857,9 +867,11 @@ Suppression of terrorism
     
     *   (b) an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
     
-    (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
     
-    Section 12(1)(a): substituted, on 20 November 2007, by [section 10][169] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 12(1)(a): substituted, on 20 November 2007, by [section 10][170] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 12(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Participation in terrorist groups
 
@@ -873,15 +885,17 @@ Suppression of terrorism
     
     (2) The purpose referred to in subsection (1) is to enhance the ability of any entity (being an entity of the kind referred to in subsection (1)(a) or (b)) to carry out, or to participate in the carrying out of, 1 or more terrorist acts.
     
-    (3) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 14 years.
+    (3) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 14 years.
     
-    Section 13(1): amended, on 20 November 2007, by [section 11(1)][170] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13(1): amended, on 20 November 2007, by [section 11(1)][171] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 13(1)(a): substituted, on 20 November 2007, by [section 11(2)][170] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13(1)(a): substituted, on 20 November 2007, by [section 11(2)][171] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 13(3): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Harbouring or concealing terrorists
     
-*   Heading: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Heading: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 13A Harbouring or concealing terrorists
     
@@ -891,23 +905,25 @@ Suppression of terrorism
     
     *   (b) knowing, or being reckless as to whether, that person has carried out a terrorist act.
     
-    (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to a term of imprisonment not exceeding 7 years.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to a term of imprisonment not exceeding 7 years.
     
-    Section 13A: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 13A: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    
+    Section 13A(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences relating to plastic explosives and nuclear materials
     
-*   Heading: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Heading: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 13B Offences involving use and movement of unmarked plastic explosives
     
-*   (1) A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 10 years or a fine not exceeding $500,000, or both, who---
+*   (1) A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 10 years or a fine not exceeding $500,000, or both, who---
         
     *   (a) possesses, uses, or manufactures unmarked plastic explosives, knowing they are unmarked; or
     
     *   (b) imports or exports unmarked plastic explosives to or from New Zealand, knowing they are unmarked.
     
-    (2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the [Hazardous Substances and New Organisms Act 1996][172], be transported or possessed by---
+    (2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the [Hazardous Substances and New Organisms Act 1996][173], be transported or possessed by---
         
     *   (a) a person who performs military or Police functions during the period that begins with the entry into force of this section and ends 15 years later; or
     
@@ -927,7 +943,9 @@ Suppression of terrorism
     
     *   (b) that are destined to be, and are incorporated as, an integral part of a duly authorised military device in New Zealand within 3 years after the date on which this section comes into force.
     
-    Section 13B: inserted, on 17 February 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 13B: inserted, on 17 February 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    
+    Section 13B(1): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 13B(3)(a): amended, on 1 July 2011, by [section 53(1)][154] of the Environmental Protection Authority Act 2011 (2011 No 14).
 
@@ -945,7 +963,7 @@ Suppression of terrorism
         
         
     
-    *   (b) commits theft, as defined in [section 219][173] of the Crimes Act 1961, of nuclear material knowing that it was nuclear material; or
+    *   (b) commits theft, as defined in [section 219][174] of the Crimes Act 1961, of nuclear material knowing that it was nuclear material; or
     
     *   (c) fraudulently obtains nuclear material, knowing that it was nuclear material; or
     
@@ -963,31 +981,35 @@ Suppression of terrorism
     
     *   (g) without lawful authority, commits an act, or threatens to commit an act against a nuclear facility, or interferes with the operation of a nuclear facility with intent to cause, or being reckless as to whether it causes, death or serious injury to any person or substantial damage to property or to the environment by exposure to radiation or release of radioactive substances.
     
-    (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
     
-    Section 13C: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 13C: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 13C(1)(a)(iii): added, on 20 November 2007, by [section 12(1)][174] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13C(1)(a)(iii): added, on 20 November 2007, by [section 12(1)][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 13C(1)(e)(ii): amended, on 20 November 2007, by [section 12(2)][174] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13C(1)(e)(ii): amended, on 20 November 2007, by [section 12(2)][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 13C(1)(f): amended, on 20 November 2007, by [section 12(3)][174] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13C(1)(f): amended, on 20 November 2007, by [section 12(3)][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 13C(1)(g): added, on 20 November 2007, by [section 12(3)][174] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13C(1)(g): added, on 20 November 2007, by [section 12(3)][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 13C(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Importation, acquisition, possession, or control of radioactive material
     
-*   Heading: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Heading: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 13D Importation, acquisition, etc, of radioactive material
     
-*   A person commits an offence and is liable on conviction on indictment to a term of imprisonment not exceeding 10 years who imports, acquires, possesses, or has control over any radioactive material with intent to use it to commit an offence involving bodily injury, or the threat of violence, to any person.
+*   A person commits an offence and is liable on conviction to a term of imprisonment not exceeding 10 years who imports, acquires, possesses, or has control over any radioactive material with intent to use it to commit an offence involving bodily injury, or the threat of violence, to any person.
     
-    Section 13D: inserted, on 18 January 2004, by [section 5][171] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 13D: inserted, on 18 January 2004, by [section 5][172] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    
+    Section 13D: amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Offences involving radioactive material and radioactive devices
     
-*   Heading: inserted, on 20 November 2007, by [section 13][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Heading: inserted, on 20 November 2007, by [section 13][176] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 13E Offences involving radioactive material and radioactive devices
     
@@ -1015,9 +1037,11 @@ Suppression of terrorism
         
         
     
-    (2) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 10 years, or a fine not exceeding $500,000, or both.
     
-    Section 13E: inserted, on 20 November 2007, by [section 13][175] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 13E: inserted, on 20 November 2007, by [section 13][176] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 13E(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Extraterritorial jurisdiction
 
@@ -1029,11 +1053,11 @@ Suppression of terrorism
         
     *   (a) acts that occurred wholly within New Zealand; or
     
-    *   (b) an offence that, under [section 7][176] of the Crimes Act 1961, is deemed to be committed in New Zealand; or
+    *   (b) an offence that, under [section 7][177] of the Crimes Act 1961, is deemed to be committed in New Zealand; or
     
-    *   (c) acts that, under [section 8A][177] of that Act, are deemed to have taken place within New Zealand.
+    *   (c) acts that, under [section 8A][178] of that Act, are deemed to have taken place within New Zealand.
     
-    Section 14(1): amended, on 20 November 2007, by [section 14][178] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 14(1): amended, on 20 November 2007, by [section 14][179] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 15 Offences apply to acts outside New Zealand by New Zealand citizens or on New Zealand aircraft and ships
     
@@ -1045,7 +1069,7 @@ Suppression of terrorism
     
     *   (c) by any other person on board any aircraft---
             
-        *   (i) registered or required to be registered in New Zealand under the [Civil Aviation Act 1990][179]; or
+        *   (i) registered or required to be registered in New Zealand under the [Civil Aviation Act 1990][180]; or
         
         *   (ii) for the time being used as an aircraft of the New Zealand Defence Force:
         
@@ -1053,7 +1077,7 @@ Suppression of terrorism
     
     *   (d) by any other person on board any ship---
             
-        *   (i) registered under the [Ship Registration Act 1992][180]; or
+        *   (i) registered under the [Ship Registration Act 1992][181]; or
         
         *   (ii) not registered under that Act but required to be registered under that Act; or
         
@@ -1061,7 +1085,7 @@ Suppression of terrorism
         
         
     
-    Section 15: amended, on 12 December 2003, by [section 9(2)][181] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 15: amended, on 12 December 2003, by [section 9(2)][182] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 16 Further acts outside New Zealand to which terrorist bombing applies
     
@@ -1093,19 +1117,19 @@ Suppression of terrorism
     
 *   Even if the acts alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for terrorist bombing, financing of terrorism, a nuclear terrorism offence, or a nuclear material offence if the person to be charged has been found in New Zealand and has not been extradited.
     
-    Section 18: substituted, on 18 January 2004, by [section 7][182] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 18: substituted, on 18 January 2004, by [section 7][183] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 18: amended, on 20 November 2007, by [section 15][183] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 18: amended, on 20 November 2007, by [section 15][184] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 19 Application of Crimes Act 1961
     
-*   The following sections of the [Crimes Act 1961][184] do not apply in respect of any offence against this Act (except one against [section 43][71] or [section 47][75] or [section 47G][83]):
+*   The following sections of the [Crimes Act 1961][185] do not apply in respect of any offence against this Act (except one against [section 43][71] or [section 47][75] or [section 47G][83]):
         
-    *   (a) [section 8][185] (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
+    *   (a) [section 8][186] (which relates to jurisdiction in respect of crimes on ships or aircraft beyond New Zealand):
     
-    *   (b) [section 400][186] (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
+    *   (b) [section 400][187] (which requires the consent of the Attorney-General to proceedings in certain cases for offences on ships or aircraft).
     
-    Section 19: amended, on 12 December 2003, by [section 9(2)][181] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 19: amended, on 12 December 2003, by [section 9(2)][182] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 #### Interim designation
 
@@ -1171,7 +1195,7 @@ Suppression of terrorism
     
     *   (e) expires on the close of the 30th day after the day on which it is made, unless it has earlier been revoked by the Prime Minister under [section 34][61], or by the making of a final designation in respect of the entity concerned, under [section 22][45]:
     
-    *   (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under [Part 1][187] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under [section 23(b)][46] or [section 34][61], continues to operate until those proceedings are withdrawn or finally determined.
+    *   (f) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under [Part 1][188] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under [section 23(b)][46] or [section 34][61], continues to operate until those proceedings are withdrawn or finally determined.
     
     
 
@@ -1237,11 +1261,11 @@ Suppression of terrorism
     
     *   (g) \[Repealed\]
     
-    *   (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under [Part 1][187] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under [section 34][61], continues to operate until those proceedings are withdrawn or finally determined.
+    *   (h) operates until it expires or is revoked but, if it is made the subject of any judicial review (whether under [Part 1][188] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court and is not sooner revoked under [section 34][61], continues to operate until those proceedings are withdrawn or finally determined.
     
-    Section 23(g): repealed, on 20 November 2007, by [section 16(a)][188] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 23(g): repealed, on 20 November 2007, by [section 16(a)][189] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 23(h): amended, on 20 November 2007, by [section 16(b)][188] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 23(h): amended, on 20 November 2007, by [section 16(b)][189] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Further provisions relating to interim and final designations
 
@@ -1295,9 +1319,9 @@ Suppression of terrorism
     
     *   (e) must include any other information specified for the purposes of this paragraph by regulations made under this Act.
     
-    Section 26(ba): inserted, on 20 November 2007, by [section 17(1)][189] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 26(ba): inserted, on 20 November 2007, by [section 17(1)][190] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 26(c): amended, on 20 November 2007, by [section 17(2)][189] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 26(c): amended, on 20 November 2007, by [section 17(2)][190] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 27 Content of notice to public and others
     
@@ -1321,9 +1345,9 @@ Suppression of terrorism
     
     *   (e) may include details of all earlier designations under this Act that have not yet expired or been revoked, so as to provide details of all entities currently designated under this Act.
     
-    Section 27(2)(ba): inserted, on 20 November 2007, by [section 18(1)][190] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 27(2)(ba): inserted, on 20 November 2007, by [section 18(1)][191] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 27(2)(c): amended, on 20 November 2007, by [section 18(2)][190] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 27(2)(c): amended, on 20 November 2007, by [section 18(2)][191] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 28 Further notification of making of designation
     
@@ -1361,7 +1385,7 @@ Suppression of terrorism
     
     (4) The stating of the new description does not affect the designation of the entity and (in particular) does not affect the application of [section 35(1)][62] to it.
     
-    Section 29A: inserted, on 17 November 2003, by [section 8][191] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 29A: inserted, on 17 November 2003, by [section 8][192] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 #### Material on which designations may be based
 
@@ -1373,7 +1397,7 @@ Suppression of terrorism
     
 *   \[Repealed\]
     
-    Section 31: repealed, on 20 November 2007, by [section 19][192] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 31: repealed, on 20 November 2007, by [section 19][193] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 32 Classified security information defined
     
@@ -1409,13 +1433,13 @@ Suppression of terrorism
     
     *   (d) to endanger the safety of any person.
     
-    Compare: 1987 No 74 [s 114B(1)][193]
+    Compare: 1987 No 74 [s 114B(1)][194]
 
 #### Review, revocation, and expiry of designations
 
 ##### 33 Judicial review of designations
     
-*   Nothing in this Act prevents a person from bringing any judicial review (whether under [Part 1][187] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
+*   Nothing in this Act prevents a person from bringing any judicial review (whether under [Part 1][188] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court arising out of, or relating to, the making of a designation under this Act.
 
 ##### 34 Revocation of designations
     
@@ -1443,7 +1467,7 @@ Suppression of terrorism
     
     (5) Except as provided in subsection (4), subsection (1) overrides every other provision of this Act.
     
-    Compare: 1987 No 74 [s 114N][194]
+    Compare: 1987 No 74 [s 114N][195]
 
 ##### 35 Designations under section 22 to expire after 3 years unless renewed by Prime Minister
     
@@ -1461,19 +1485,19 @@ Suppression of terrorism
     
     (5) The Prime Minister may make any number of orders under subsection (3) in respect of the same designation.
     
-    Section 35: substituted, on 20 November 2007, by [section 20][195] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 35: substituted, on 20 November 2007, by [section 20][196] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 36 Applications under section 35 and related proceedings
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 20 November 2007, by [section 20][195] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 36: repealed, on 20 November 2007, by [section 20][196] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 37 Grounds for orders under section 35(2)
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 20 November 2007, by [section 20][195] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 37: repealed, on 20 November 2007, by [section 20][196] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 38 Procedure in proceedings involving classified security information
     
@@ -1501,17 +1525,17 @@ Suppression of terrorism
     
     *   (b) on being approved by the court a copy of the statement must be given to the entity concerned.
     
-    (5) Nothing in this section limits [section 27][196] of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
+    (5) Nothing in this section limits [section 27][197] of the Crown Proceedings Act 1950 or any rule of law that authorises or requires the withholding of a document or the refusal to answer a question on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest.
     
     (6) Subsections (2) to (5) apply despite any enactment or rule of law to the contrary.
     
-    Section 38: substituted, on 20 November 2007, by [section 21][197] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 38: substituted, on 20 November 2007, by [section 21][198] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 39 Procedure in other cases involving classified security information
     
 *   \[Repealed\]
     
-    Section 39: repealed, on 20 November 2007, by [section 21][197] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 39: repealed, on 20 November 2007, by [section 21][198] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 40 Ancillary general practices and procedures to protect classified security information
     
@@ -1525,21 +1549,21 @@ Suppression of terrorism
     
     *   (c) measures to preserve the integrity of the information until any appeals are withdrawn or finally determined.
     
-    Section 40(1): amended, on 20 November 2007, by [section 22(1)(a)][198] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 40(1): amended, on 20 November 2007, by [section 22(1)(a)][199] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 40(1): amended, on 20 November 2007, by [section 22(1)(b)][198] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 40(1): amended, on 20 November 2007, by [section 22(1)(b)][199] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 40(2(a): amended, on 20 November 2007, by [section 22(2)][198] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 40(2(a): amended, on 20 November 2007, by [section 22(2)][199] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 41 Appeal against decision on application under section 35
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 20 November 2007, by [section 23][199] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 41: repealed, on 20 November 2007, by [section 23][200] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 42 Notification of revocation, expiry, or invalidity of designations
     
-*   (1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under [section 34][61] or [section 35][62] or by virtue of any judicial review (whether under [Part 1][187] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court, the Prime Minister must---
+*   (1) If a designation under this Act expires or is revoked or is found to be or to have been invalid, under [section 34][61] or [section 35][62] or by virtue of any judicial review (whether under [Part 1][188] of the Judicature Amendment Act 1972 or otherwise) or other proceedings before a court, the Prime Minister must---
         
     *   (a) ensure that notice of the revocation or expiry or invalidity is published in the _Gazette_ as soon as practicable; and
     
@@ -1561,15 +1585,17 @@ Suppression of terrorism
     
     (3) Nothing in subsection (2) requires any lawyer to disclose any privileged communication (as defined in [section 45][73]).
     
-    (4) Every person who knowingly contravenes subsection (2) commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year.
+    (4) Every person who knowingly contravenes subsection (2) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year.
     
     (5) In this section, _financial institution_ has the meaning referred to in [section 44(5)][72].
     
-    Compare: 1996 No 9 [s 15(1)][200]
+    Compare: 1996 No 9 [s 15(1)][201]
     
-    Section 43 heading: amended, on 20 November 2007, by [section 24(1)][201] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 43 heading: amended, on 20 November 2007, by [section 24(1)][202] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 43(1)(a): amended, on 20 November 2007, by [section 24(2)][201] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 43(1)(a): amended, on 20 November 2007, by [section 24(2)][202] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    
+    Section 43(4): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Nature of suspicious property report
     
@@ -1597,27 +1623,27 @@ Suppression of terrorism
     
     (5) In this section, [section 47][75], and [Schedule 5][144],---
         
-    *   (a) in the case of a financial institution to which the [Financial Transactions Reporting Act 1996][202] applies, _facility_, _financial institution_, _suspicious transaction report_, and _transaction_ have the meanings given to them in [section 2(1)][203] of that Act; and
+    *   (a) in the case of a financial institution to which the [Financial Transactions Reporting Act 1996][203] applies, _facility_, _financial institution_, _suspicious transaction report_, and _transaction_ have the meanings given to them in [section 2(1)][204] of that Act; and
     
-    *   (b) in the case of a reporting entity to which the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][204] applies, _facility_, _reporting entity_, _suspicious transaction report_, and _transaction_ have the meanings given to them in [section 5][205] of that Act.
+    *   (b) in the case of a reporting entity to which the [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][205] applies, _facility_, _reporting entity_, _suspicious transaction report_, and _transaction_ have the meanings given to them in [section 5][206] of that Act.
     
-    Compare: 1996 No 9 [s 15(2)--(4)][200]
+    Compare: 1996 No 9 [s 15(2)--(4)][201]
     
-    Section 44(1)(b): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 44(1)(b): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 44(1)(d)(ii): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 44(1)(d)(ii): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 44(2): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 44(2): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 44(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][207] of the Policing Act 2008 (2008 No 72).
+    Section 44(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][208] of the Policing Act 2008 (2008 No 72).
     
-    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][207] of the Policing Act 2008 (2008 No 72).
+    Section 44(3): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][208] of the Policing Act 2008 (2008 No 72).
     
-    Section 44(3): amended, on 1 October 2008, by [section 130(1)][208] of the Policing Act 2008 (2008 No 72).
+    Section 44(3): amended, on 1 October 2008, by [section 130(1)][209] of the Policing Act 2008 (2008 No 72).
     
-    Section 44(4): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 44(4): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 44(5): substituted, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 44(5): substituted, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
 ##### 45 Privileged communication defined
     
@@ -1635,15 +1661,15 @@ Suppression of terrorism
     
     *   (c) it is not made or brought into existence for the purpose of committing or furthering the commission of some illegal or wrongful act.
     
-    (2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of [section 6][209] of the Lawyers and Conveyancers Act 2006\.
+    (2) However, where the information consists wholly or partly of, or relates wholly or partly to, the receipts, payments, income, expenditure, or financial transactions of a specified person (whether a lawyer, his or her client, or any other person), it is not a privileged communication if it is contained in, or comprises the whole or part of, any book, account, statement or other record prepared or kept by the lawyer in connection with a trust account of the lawyer within the meaning of [section 6][210] of the Lawyers and Conveyancers Act 2006\.
     
-    (3) For the purposes of this section, references to a lawyer include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][210]) in which he or she is, or is held out to be, a partner, director, or shareholder.
+    (3) For the purposes of this section, references to a lawyer include a firm or an incorporated law firm (within the meaning of the [Lawyers and Conveyancers Act 2006][211]) in which he or she is, or is held out to be, a partner, director, or shareholder.
     
-    Compare: 1996 No 9 [s 19][211]
+    Compare: 1996 No 9 [s 19][212]
     
-    Section 45(2): amended, on 1 August 2008, by [section 348][212] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 45(2): amended, on 1 August 2008, by [section 348][213] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
     
-    Section 45(3): substituted, on 1 August 2008, by [section 348][212] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
+    Section 45(3): substituted, on 1 August 2008, by [section 348][213] of the Lawyers and Conveyancers Act 2006 (2006 No 1).
 
 ##### 46 Protection of persons
     
@@ -1665,7 +1691,7 @@ Suppression of terrorism
     
     (3) However, subsection (2)(b) and (c) do not apply if the information was reported or disclosed in bad faith, or without reasonable care having been taken in determining, before the report or disclosure, that the property is or may be property to which [section 43][71] applies.
     
-    Compare: 1996 No 9 [s 17][213]
+    Compare: 1996 No 9 [s 17][214]
 
 ##### 47 Protection of identity of persons making reports
     
@@ -1687,21 +1713,23 @@ Suppression of terrorism
     
     (2) No constable may disclose any information to which this section applies except for the purposes of the enforcement of this Act, or for the purposes of the detection, investigation, and prosecution of an offence under this Act.
     
-    (3) Nothing in subsection (2) limits the provision of assistance under the [Mutual Assistance in Criminal Matters Act 1992][214].
+    (3) Nothing in subsection (2) limits the provision of assistance under the [Mutual Assistance in Criminal Matters Act 1992][215].
     
-    (4) No person may disclose, in any judicial proceeding (within the meaning of [section 108][215] of the Crimes Act 1961) any information to which this section applies, unless the Judge or, as the case requires, the person presiding at the proceeding, is satisfied that the disclosure of the information is necessary in the interests of justice.
+    (4) No person may disclose, in any judicial proceeding (within the meaning of [section 108][216] of the Crimes Act 1961) any information to which this section applies, unless the Judge or, as the case requires, the person presiding at the proceeding, is satisfied that the disclosure of the information is necessary in the interests of justice.
     
-    (5) Every person who knowingly contravenes subsection (4) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000\.
+    (5) Every person who knowingly contravenes subsection (4) commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
     
-    Compare: 1996 No 9 [s 21][216]
+    Compare: 1996 No 9 [s 21][217]
     
-    Section 47(1)(b)(i): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 47(1)(b)(i): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][207] of the Policing Act 2008 (2008 No 72).
+    Section 47(2): amended, on 1 October 2008, pursuant to [section 116(a)(ii)][208] of the Policing Act 2008 (2008 No 72).
+    
+    Section 47(5): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Customs' powers in relation to certain property
     
-*   Heading: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Heading: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 47A Detention of goods suspected to be terrorist property
     
@@ -1709,11 +1737,11 @@ Suppression of terrorism
         
     *   (a) the goods came to his or her attention, or into his or her possession, during a search, inspection, audit, or examination under---
             
-        *   (i) the [Customs and Excise Act 1996][218]; or
+        *   (i) the [Customs and Excise Act 1996][219]; or
         
-        *   (ia) [subpart 6][219] of Part 2 and [sections 114][220] and [115][221] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
+        *   (ia) [subpart 6][220] of Part 2 and [sections 114][221] and [115][222] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
         
-        *   (ii) [Part 5][222] of the Financial Transactions Reporting Act 1996 (which relates to reporting of imports and exports of cash); and
+        *   (ii) [Part 5][223] of the Financial Transactions Reporting Act 1996 (which relates to reporting of imports and exports of cash); and
         
         
     
@@ -1743,17 +1771,17 @@ Suppression of terrorism
     
     (2) In this section and [sections 47B to 47G][78],---
     
-    _authorised person_, _Chief Executive_, _the Customs_, _Customs officer_ or _officer_, _exportation_, _goods_, and _importation_ have the meanings given to them in [section 2(1)][223] of the Customs and Excise Act 1996
+    _authorised person_, _Chief Executive_, _the Customs_, _Customs officer_ or _officer_, _exportation_, _goods_, and _importation_ have the meanings given to them in [section 2(1)][224] of the Customs and Excise Act 1996
     
     _cash equivalents_ includes (without limitation) bearer bonds, gemstones, money orders, postal notes, precious metals, and travellers cheques.
     
-    Section 47A: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47A: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 47A(1)(a)(ia): inserted, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 47A(1)(a)(ia): inserted, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 47A(1)(c)(ii): amended, on 20 November 2007, by [section 25(1)][224] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 47A(1)(c)(ii): amended, on 20 November 2007, by [section 25(1)][225] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 47A(1)(d)(ii): substituted, on 20 November 2007, by [section 25(2)][224] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 47A(1)(d)(ii): substituted, on 20 November 2007, by [section 25(2)][225] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 47B Return of cash necessary to satisfy essential human needs
     
@@ -1767,7 +1795,7 @@ Suppression of terrorism
     
     (3) If the 7-day period referred to in [section 47D(1)(a)][80] is extended under [section 47E][81], subsection (1) applies to the extension, and the reference in subsection (1)(b) to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
     
-    Section 47B: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47B: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 47C Further provisions about detention under section 47A
     
@@ -1781,25 +1809,25 @@ Suppression of terrorism
     
     (3) Goods detained under [section 47A][77] must be taken to such place of security as a Customs officer or authorised person directs, and there detained, unless [section 47F][82] applies.
     
-    (4) [Section 175][225] of the Customs and Excise Act 1996 (which protects persons acting under authority of that Act) applies, with all necessary modifications, in relation to the exercise of a power under any of [sections 47A to 47F][77] of this Act.
+    (4) [Section 175][226] of the Customs and Excise Act 1996 (which protects persons acting under authority of that Act) applies, with all necessary modifications, in relation to the exercise of a power under any of [sections 47A to 47F][77] of this Act.
     
     (5) Nothing in [section 47A][77] limits or affects powers under the following Acts:
         
-    *   (a) [Customs and Excise Act 1996][218]:
+    *   (a) [Customs and Excise Act 1996][219]:
     
-    *   (ab) [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][204]:
+    *   (ab) [Anti-Money Laundering and Countering Financing of Terrorism Act 2009][205]:
     
-    *   (b) [Financial Transactions Reporting Act 1996][202]:
+    *   (b) [Financial Transactions Reporting Act 1996][203]:
     
-    *   (c) [Mutual Assistance in Criminal Matters Act 1992][214]:
+    *   (c) [Mutual Assistance in Criminal Matters Act 1992][215]:
     
-    *   (d) [Criminal Proceeds (Recovery) Act 2009][226].
+    *   (d) [Criminal Proceeds (Recovery) Act 2009][227].
     
-    Section 47C: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47C: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 47C(5)(ab): inserted, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Section 47C(5)(ab): inserted, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Section 47C(5)(d): substituted, on 1 December 2009, by [section 220][227] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 47C(5)(d): substituted, on 1 December 2009, by [section 220][228] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 47D Return of goods detained under section 47A
     
@@ -1827,9 +1855,9 @@ Suppression of terrorism
     
     *   (b) that the entity is a designated terrorist entity.
     
-    Section 47D: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47D: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 47D(3)(b): amended, on 20 November 2007, by [section 26][228] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 47D(3)(b): amended, on 20 November 2007, by [section 26][229] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 47E Extension of 7-day period in section 47D(1)(a)
     
@@ -1853,7 +1881,7 @@ Suppression of terrorism
     
     (4) The Customs must make all reasonable efforts to notify the person from whom the goods were seized, at least 24 hours before the hearing of the application, of the time and place of that hearing.
     
-    Section 47E: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47E: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 47F Custody of certain goods detained under section 47A
     
@@ -1873,23 +1901,27 @@ Suppression of terrorism
     
     *   (c) return the goods on demand to the custody of the Customs.
     
-    Compare: 1996 No 27 [s 226(7), (8)][229]
+    Compare: 1996 No 27 [s 226(7), (8)][230]
     
-    Section 47F: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47F: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 47G Offences in relation to certain detained goods
     
 *   (1) Every person commits an offence who, having custody of goods pursuant to [section 47F(1)][82], acts in breach of any requirement of, or imposed pursuant to, section 47F(2) or (3).
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $5,000\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $5,000\.
     
     (3) Every person commits an offence who, without the permission of the Chief Executive, takes or carries away or otherwise converts to his or her own use goods to which [section 47F(2) and (3)][82] applies.
     
-    (4) Every person who commits an offence against subsection (3) is liable on summary conviction to imprisonment for a term not exceeding 12 months, or to a fine not exceeding an amount equal to 3 times the value of the goods to which the offence relates.
+    (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 12 months, or to a fine not exceeding an amount equal to 3 times the value of the goods to which the offence relates.
     
-    Compare: 1996 No 27 [s 215][230]
+    Compare: 1996 No 27 [s 215][231]
     
-    Section 47G: inserted, on 12 December 2003, by [section 9(1)][217] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 47G: inserted, on 12 December 2003, by [section 9(1)][218] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    
+    Section 47G(2): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 47G(4): amended, on 1 July 2013, by [section 413][160] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Management of property subject to section 9
 
@@ -1911,9 +1943,9 @@ Suppression of terrorism
     
     (3) A person who has custody or control of property specified in the direction must allow the Official Assignee to take custody and control of that property in accordance with the direction.
     
-    Compare: 1991 No 120 [s 42(1)(b)][231]
+    Compare: 1991 No 120 [s 42(1)(b)][232]
     
-    Section 48(1): amended, on 20 November 2007, by [section 27][232] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 48(1): amended, on 20 November 2007, by [section 27][233] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 49 Notice of direction
     
@@ -1947,33 +1979,33 @@ Suppression of terrorism
     
     *   (ab) on the entity ceasing to be a United Nations listed terrorist entity; or
     
-    *   (b) on a forfeiture order being made under [section 55][94] in relation to the property concerned, in which case [section 85][233] of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by [section 57(b)][96] of this Act) applies.
+    *   (b) on a forfeiture order being made under [section 55][94] in relation to the property concerned, in which case [section 85][234] of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by [section 57(b)][96] of this Act) applies.
     
-    Section 50(3)(ab): inserted, on 20 November 2007, by [section 28][234] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 50(3)(ab): inserted, on 20 November 2007, by [section 28][235] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 50(3)(b): substituted, on 1 December 2009, by [section 221][235] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 50(3)(b): substituted, on 1 December 2009, by [section 221][236] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 51 Further provisions on management of property subject to section 9
     
-*   The following sections of the [Criminal Proceeds (Recovery) Act 2009][226] apply, with the following (and any other necessary) modifications, to property that is the subject of a direction under [section 48][85], as if the direction were a restraining order under that Act:
+*   The following sections of the [Criminal Proceeds (Recovery) Act 2009][227] apply, with the following (and any other necessary) modifications, to property that is the subject of a direction under [section 48][85], as if the direction were a restraining order under that Act:
         
-    *   (a) [section 27][236] (which relates to the registration of restraining orders):
+    *   (a) [section 27][237] (which relates to the registration of restraining orders):
     
-    *   (b) [section 32][237] (which relates to applications for orders that certain dispositions or dealings be set aside, except that the applications must be made by the Attorney-General):
+    *   (b) [section 32][238] (which relates to applications for orders that certain dispositions or dealings be set aside, except that the applications must be made by the Attorney-General):
     
-    *   (c) [section 80][162] (which relates to powers of the Official Assignee to preserve the value of property):
+    *   (c) [section 80][163] (which relates to powers of the Official Assignee to preserve the value of property):
     
-    *   (d) [section 81][238] (which relates to the Official Assignee's liability for payment of rates, etc, on the property):
+    *   (d) [section 81][239] (which relates to the Official Assignee's liability for payment of rates, etc, on the property):
     
-    *   (e) [section 87][239] (which relates to costs recoverable by the Official Assignee, and any regulations made under that Act for the purposes of that section apply, with any necessary modifications, accordingly):
+    *   (e) [section 87][240] (which relates to costs recoverable by the Official Assignee, and any regulations made under that Act for the purposes of that section apply, with any necessary modifications, accordingly):
     
-    *   (f) [sections 88 to 90][240] (which relate to the Official Assignee making and revoking delegations, except that the delegations must relate only to functions and powers of the Official Assignee under this Act):
+    *   (f) [sections 88 to 90][241] (which relate to the Official Assignee making and revoking delegations, except that the delegations must relate only to functions and powers of the Official Assignee under this Act):
     
-    *   (g) [section 150][241] (which makes it an offence to dispose of or deal with the property in contravention of a restraining order, knowing that the restraining order has been made in respect of the property):
+    *   (g) [section 150][242] (which makes it an offence to dispose of or deal with the property in contravention of a restraining order, knowing that the restraining order has been made in respect of the property):
     
-    *   (h) [section 157][242] (which relates to an indemnity for enforcement officers, except that the indemnity must relate only to the exercise or performance, or purported exercise or performance, or omission to exercise or perform, functions and powers of the Official Assignee under this Act).
+    *   (h) [section 157][243] (which relates to an indemnity for enforcement officers, except that the indemnity must relate only to the exercise or performance, or purported exercise or performance, or omission to exercise or perform, functions and powers of the Official Assignee under this Act).
     
-    Section 51: substituted, on 1 December 2009, by [section 222][243] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 51: substituted, on 1 December 2009, by [section 222][244] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 #### Relief for third parties if property is subject to section 9 or application for forfeiture, or is forfeited
 
@@ -1993,7 +2025,7 @@ Suppression of terrorism
     
     (5) A person who makes an application under this section must serve notice of the application on the Attorney-General, who is a party to any proceedings on the application.
     
-    Compare: 1991 No 120 [s 17(1)--(3), (7)][244]
+    Compare: 1991 No 120 [s 17(1)--(3), (7)][245]
 
 ##### 53 Limits on applications under section 52(3)
     
@@ -2007,7 +2039,7 @@ Suppression of terrorism
     
     *   (b) that evidence proposed to be adduced by the applicant in connection with the application under [section 52(3)][90] was not reasonably available to the applicant at the time of the hearing of the application for the order under [section 55][94].
     
-    Compare: 1991 No 120 [s 17(4)--(6)][244]
+    Compare: 1991 No 120 [s 17(4)--(6)][245]
 
 ##### 54 Court may grant relief to third party
     
@@ -2045,11 +2077,11 @@ Suppression of terrorism
     
     (4) However, nothing in subsection (3) requires a refusal to make an order under subsection (2), or limits the circumstances in which the court may refuse to make an order of that kind.
     
-    Compare: 1991 No 120 [s 18][245]
+    Compare: 1991 No 120 [s 18][246]
     
-    Section 54(3)(a): amended, on 20 November 2007, by [section 29][246] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 54(3)(a): amended, on 20 November 2007, by [section 29][247] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 54(3)(b): amended, on 20 November 2007, by [section 29][246] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 54(3)(b): amended, on 20 November 2007, by [section 29][247] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Forfeiture
 
@@ -2069,11 +2101,11 @@ Suppression of terrorism
     
     *   (b) the nature and extent of the entity's interest in the property, and the nature and extent of other interests in it (if any).
     
-    Compare: 1991 No 120 [s 15(2)(b), (c)][247]
+    Compare: 1991 No 120 [s 15(2)(b), (c)][248]
     
-    Section 55(1)(a): amended, on 20 November 2007, by [section 30(1)][248] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 55(1)(a): amended, on 20 November 2007, by [section 30(1)][249] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 55(2): substituted, on 20 November 2007, by [section 30(2)][248] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 55(2): substituted, on 20 November 2007, by [section 30(2)][249] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 56 Notice of application under section 55
     
@@ -2091,9 +2123,9 @@ Suppression of terrorism
 
 ##### 57 Further provisions relating to orders under section 55
     
-*   The following sections of the [Criminal Proceeds (Recovery) Act 2009][226] and the [Sentencing Act 2002][249] apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under [section 55][94], as if the order were an instrument forfeiture order under [section 142N][250] of the Sentencing Act 2002:
+*   The following sections of the [Criminal Proceeds (Recovery) Act 2009][227] and the [Sentencing Act 2002][250] apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under [section 55][94], as if the order were an instrument forfeiture order under [section 142N][251] of the Sentencing Act 2002:
         
-    *   (a) [sections 70][251], [72][252], and [73][253] of the Criminal Proceeds (Recovery) Act 2009 (which relate to the effect of the order) except that---
+    *   (a) [sections 70][252], [72][253], and [73][254] of the Criminal Proceeds (Recovery) Act 2009 (which relate to the effect of the order) except that---
             
         *   (i) the reference in section 73(2) to the Official Assignee must be read as a reference to the Attorney-General, and the property may be disposed of or otherwise dealt with in accordance with any direction of the Attorney-General; and
         
@@ -2101,7 +2133,7 @@ Suppression of terrorism
         
         
     
-    *   (b) [section 85][233] of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under [section 35(2)][62] or [section 55][94] of this Act means the period ending---
+    *   (b) [section 85][234] of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under [section 35(2)][62] or [section 55][94] of this Act means the period ending---
             
         *   (i) when the time for bringing an appeal against the decision of the court expires, if no such appeal has been brought; or
         
@@ -2109,9 +2141,9 @@ Suppression of terrorism
         
         
     
-    *   (c) [section 142N(3)(a), (4), and (5)][250] of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
+    *   (c) [section 142N(3)(a), (4), and (5)][251] of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
     
-    Section 57: substituted, on 1 December 2009, by [section 223][254] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 57: substituted, on 1 December 2009, by [section 223][255] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 58 Appeal against decision on application under section 55
     
@@ -2119,11 +2151,11 @@ Suppression of terrorism
     
     (2) Subject to [sections 38][65] and [40][67], the procedure for the appeal must be in accordance with rules of court.
     
-    (3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the [Supreme Court Act 2003][255].
+    (3) For the avoidance of doubt, an appeal under subsection (1) is a civil proceeding for the purposes of the [Supreme Court Act 2003][256].
     
-    Section 58(2): amended, on 20 November 2007, by [section 31][256] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 58(2): amended, on 20 November 2007, by [section 31][257] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 58(3): added, on 1 January 2004, by [section 48(1)][257] of the Supreme Court Act 2003 (2003 No 53).
+    Section 58(3): added, on 1 January 2004, by [section 48(1)][258] of the Supreme Court Act 2003 (2003 No 53).
 
 ##### 59 Discharge of order under section 55 on appeal
     
@@ -2147,17 +2179,17 @@ Suppression of terrorism
     
     *   (b) in any other case, and subject to [section 60][99], arrange for payment to the claimant of an amount equal to the value of the interest.
     
-    Compare: 1991 No 120 [s 19][258]
+    Compare: 1991 No 120 [s 19][259]
     
-    Section 59 heading: amended, on 20 November 2007, by [section 32(1)][259] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 59 heading: amended, on 20 November 2007, by [section 32(1)][260] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 59(1): repealed, on 20 November 2007, by [section 32(2)][259] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 59(1): repealed, on 20 November 2007, by [section 32(2)][260] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 59(2): amended, on 20 November 2007, by [section 32(3)][259] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 59(2): amended, on 20 November 2007, by [section 32(3)][260] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 59(3): amended, on 20 November 2007, by [section 32(4)][259] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 59(3): amended, on 20 November 2007, by [section 32(4)][260] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 59(5): amended, on 20 November 2007, by [section 32(5)][259] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 59(5): amended, on 20 November 2007, by [section 32(5)][260] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 60 Attorney-General may apply for directions
     
@@ -2175,13 +2207,13 @@ Suppression of terrorism
     
     *   (c) every person who claims an interest in the application is entitled to appear and to adduce evidence at the hearing of the application.
     
-    Compare: 1991 No 120 [s 20][260]
+    Compare: 1991 No 120 [s 20][261]
 
 ##### 61 Double benefit not permitted
     
 *   If, on an application made under [section 52(3)][90] in respect of any interest in any property, the court has made an order under [section 54(2)(c)][92] declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the court, an amount equal to the amount so declared must be deducted from any amount required to be paid, under [section 59(6)(b)][98], to that applicant in respect of that interest.
     
-    Compare: 1991 No 120 [s 21][261]
+    Compare: 1991 No 120 [s 21][262]
 
 ## Part 3  
 Miscellaneous provisions
@@ -2192,43 +2224,43 @@ Miscellaneous provisions
     
 *   A certificate that appears to be signed by, or on behalf of, the Secretary of Foreign Affairs and Trade, and that states that a State is, or is not, a State Party under the Bombings Convention, the Financing Convention, the Nuclear Material Convention, the Nuclear Terrorism Convention, or the Plastic Explosives Convention, is sufficient evidence of that matter unless the contrary is proved (for example, by the production of another certificate issued after the first certificate).
     
-    Section 62: amended, on 20 November 2007, by [section 33][262] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 62: amended, on 20 November 2007, by [section 33][263] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 62: amended, on 18 January 2004, by [section 10][263] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 62: amended, on 18 January 2004, by [section 10][264] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 #### Investigation and prosecution of offences against Act or referred to in Conventions
 
 ##### 63 Application of sections 64 and 65
     
-*   (1) [Sections 64][106] and [65][107] apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence referred to in [article 2][264] of the Bombings Convention, or [article 2][265] of the Financing Convention, or [article 7][266] of the Nuclear Material Convention, or [article 2][267] of the Nuclear Terrorism Convention, as the case requires.
+*   (1) [Sections 64][106] and [65][107] apply whenever the Attorney-General receives information that there may be present in New Zealand a person who has committed, or is alleged to have committed, an offence referred to in [article 2][265] of the Bombings Convention, or [article 2][266] of the Financing Convention, or [article 7][267] of the Nuclear Material Convention, or [article 2][268] of the Nuclear Terrorism Convention, as the case requires.
     
     (2) In [sections 64][106] and [65][107], _relevant States Parties_ means---
         
-    *   (a) any States Parties that have established jurisdiction in accordance with [article 6(1) or (2)][268] of the Bombings Convention, or [article 7(1) or (2)][269] of the Financing Convention, or [article 8][270] of the Nuclear Material Convention, or [article 8][271] of the Nuclear Terrorism Convention; and
+    *   (a) any States Parties that have established jurisdiction in accordance with [article 6(1) or (2)][269] of the Bombings Convention, or [article 7(1) or (2)][270] of the Financing Convention, or [article 8][271] of the Nuclear Material Convention, or [article 8][272] of the Nuclear Terrorism Convention; and
     
     *   (b) any other interested States Parties the Attorney-General considers it advisable to inform or notify.
     
-    Section 63: substituted, on 20 November 2007, by [section 34][272] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 63: substituted, on 20 November 2007, by [section 34][273] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 64 Attorney-General to indicate to relevant States Parties whether New Zealand to exercise jurisdiction
     
-*   When an investigation has been undertaken under New Zealand law of the facts contained in the information (being the investigation contemplated by [article 7(1)][273] of the Bombings Convention, or [article 9(1)][274] of the Financing Convention, or [article 9][275] of the Nuclear Material Convention, or [article 10][276] of the Nuclear Terrorism Convention, as the case requires, the Attorney-General must---
+*   When an investigation has been undertaken under New Zealand law of the facts contained in the information (being the investigation contemplated by [article 7(1)][274] of the Bombings Convention, or [article 9(1)][275] of the Financing Convention, or [article 9][276] of the Nuclear Material Convention, or [article 10][277] of the Nuclear Terrorism Convention, as the case requires, the Attorney-General must---
         
     *   (a) inform the relevant States Parties promptly of the findings of the investigation; and
     
     *   (b) indicate promptly to the relevant States Parties whether New Zealand intends to exercise jurisdiction.
     
-    Section 64: substituted, on 20 November 2007, by [section 35][277] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 64: substituted, on 20 November 2007, by [section 35][278] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 65 Attorney-General to notify relevant States Parties if person taken into custody
     
-*   If the measures taken under New Zealand law to ensure the person's presence for the purpose of prosecution or extradition (being the measures contemplated by [article 7][273] of the Bombings Convention, or [article 9][274] of the Financing Convention, or [article 9][275] of the Nuclear Material Convention, or [article 10][276] of the Nuclear Terrorism Convention, as the case requires) include taking the person into custody, the Attorney-General must, immediately after the person is taken into custody, notify the relevant States Parties, either directly or through the Secretary-General of the United Nations, of---
+*   If the measures taken under New Zealand law to ensure the person's presence for the purpose of prosecution or extradition (being the measures contemplated by [article 7][274] of the Bombings Convention, or [article 9][275] of the Financing Convention, or [article 9][276] of the Nuclear Material Convention, or [article 10][277] of the Nuclear Terrorism Convention, as the case requires) include taking the person into custody, the Attorney-General must, immediately after the person is taken into custody, notify the relevant States Parties, either directly or through the Secretary-General of the United Nations, of---
         
     *   (a) the fact that the person is in custody; and
     
     *   (b) the circumstances that justify the person's detention.
     
-    Section 65: substituted, on 20 November 2007, by [section 36][278] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 65: substituted, on 20 November 2007, by [section 36][279] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 66 Rights of certain persons taken into custody to communicate with consular representative, etc
     
@@ -2262,7 +2294,7 @@ Miscellaneous provisions
     
     (3) Despite subsections (1) and (2), nothing in this section applies in respect of an offence against [section 43][71] or [section 47][75] or [section 47G][83].
     
-    Section 67(3): amended, on 12 December 2003, by [section 14][279] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 67(3): amended, on 12 December 2003, by [section 14][280] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 ##### 68 Attorney-General to communicate outcome of prosecution
     
@@ -2272,7 +2304,7 @@ Miscellaneous provisions
 
 ##### 69 Offences deemed to be included in extradition treaties
     
-*   (1) For the purposes of the [Extradition Act 1999][280] and any Order in Council in force under [section 15][281] or [section 104][282] of that Act, terrorist bombing, financing of terrorism, and any nuclear material offence or nuclear terrorism offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
+*   (1) For the purposes of the [Extradition Act 1999][281] and any Order in Council in force under [section 15][282] or [section 104][283] of that Act, terrorist bombing, financing of terrorism, and any nuclear material offence or nuclear terrorism offence are each, if not already described in the treaty, deemed to be an offence described in any extradition treaty concluded before the relevant date and for the time being in force between New Zealand and any country that is a party to any of the following conventions, or to which any of the following conventions extends:
         
     *   (a) the [Bombings Convention][134]; or
     
@@ -2282,7 +2314,7 @@ Miscellaneous provisions
     
     *   (d) the [Nuclear Terrorism Convention][138].
     
-    (2) If under subsection (1) an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the [Extradition Act 1999][280] if the conduct alleged to constitute the offence occurred before the relevant date.
+    (2) If under subsection (1) an offence is deemed to be an offence described in an extradition treaty, no person may be surrendered for the offence in accordance with the [Extradition Act 1999][281] if the conduct alleged to constitute the offence occurred before the relevant date.
     
     (3) Subsection (2) does not prevent the person from being surrendered for an offence (other than terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence) described in the extradition treaty and constituted by conduct that also constitutes or may constitute terrorist bombing, financing of terrorism, a nuclear material offence, or a nuclear terrorism offence.
     
@@ -2294,49 +2326,49 @@ Miscellaneous provisions
     
     *   (c) in relation to a nuclear terrorism offence, the date on which this section enters into force in relation to that offence.
     
-    Section 69(1): substituted, on 18 January 2004, by [section 15(1)][283] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 69(1): substituted, on 18 January 2004, by [section 15(1)][284] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 69(1): amended, on 20 November 2007, by [section 37(1)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(1): amended, on 20 November 2007, by [section 37(1)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 69(1)(c): amended, on 20 November 2007, by [section 37(2)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(1)(c): amended, on 20 November 2007, by [section 37(2)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 69(1)(d): added, on 20 November 2007, by [section 37(2)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(1)(d): added, on 20 November 2007, by [section 37(2)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 69(3): substituted, on 18 January 2004, by [section 15(2)][283] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 69(3): substituted, on 18 January 2004, by [section 15(2)][284] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 69(3): amended, on 20 November 2007, by [section 37(3)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(3): amended, on 20 November 2007, by [section 37(3)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 69(4): substituted, on 18 January 2004, by [section 15(3)][283] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Section 69(4): substituted, on 18 January 2004, by [section 15(3)][284] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
     
-    Section 69(4)(b): amended, on 20 November 2007, by [section 37(4)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(4)(b): amended, on 20 November 2007, by [section 37(4)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
     
-    Section 69(4)(c): added, on 20 November 2007, by [section 37(4)][284] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 69(4)(c): added, on 20 November 2007, by [section 37(4)][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Review of provisions to implement Anti-terrorism Resolution
 
 \[Repealed\]
     
-*   Heading: repealed, on 20 November 2007, by [section 38][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Heading: repealed, on 20 November 2007, by [section 38][286] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### 70 Review of operation of certain provisions of this Act
     
 *   \[Repealed\]
     
-    Section 70: repealed, on 20 November 2007, by [section 38][285] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 70: repealed, on 20 November 2007, by [section 38][286] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Relationship with other enactments
 
 ##### 71 Criminal Proceeds (Recovery) Act 2009 not affected
     
-*   Nothing in this Act affects the [Criminal Proceeds (Recovery) Act 2009][226].
+*   Nothing in this Act affects the [Criminal Proceeds (Recovery) Act 2009][227].
     
-    Section 71: substituted, on 1 December 2009, by [section 224][286] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 71: substituted, on 1 December 2009, by [section 224][287] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 72 United Nations Act 1946 not affected
     
-*   (1) Nothing in [section 9][16] or [section 10][18] or [section 12][22] or [section 13][24], or in any other provision of this Act giving effect to the Anti-terrorism Resolution, affects the [United Nations Act 1946][287] or any regulations made under it.
+*   (1) Nothing in [section 9][16] or [section 10][18] or [section 12][22] or [section 13][24], or in any other provision of this Act giving effect to the Anti-terrorism Resolution, affects the [United Nations Act 1946][288] or any regulations made under it.
     
-    (2) Without limiting the generality of subsection (1), regulations may be made under [section 2][288] of the United Nations Act 1946 for the purpose of giving effect to the Anti-terrorism Resolution, or to other decisions of or on behalf of the Security Council of the United Nations that recall or reaffirm and are to give further or better effect to, the Anti-terrorism Resolution.
+    (2) Without limiting the generality of subsection (1), regulations may be made under [section 2][289] of the United Nations Act 1946 for the purpose of giving effect to the Anti-terrorism Resolution, or to other decisions of or on behalf of the Security Council of the United Nations that recall or reaffirm and are to give further or better effect to, the Anti-terrorism Resolution.
 
 #### Regulations
 
@@ -2358,25 +2390,25 @@ Miscellaneous provisions
     
 *   (1) The United Nations Sanctions (Terrorism Suppression and Afghanistan Measures) Regulations 2001 (SR 2001/351) are revoked.
     
-    (2) _Amendment(s) incorporated in the [regulations][289]_.
+    (2) _Amendment(s) incorporated in the [regulations][290]_.
 
 ##### 75 Saving and transitional provision relating to specified entities
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 20 November 2007, by [section 39(2)][290] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Section 75: repealed, on 20 November 2007, by [section 39(2)][291] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 #### Amendment to Extradition Act 1999
 
 ##### 76 Amendment to Extradition Act 1999
     
-*   _Amendment(s) incorporated in the [Act(s)][291]_.
+*   _Amendment(s) incorporated in the [Act(s)][292]_.
 
 #### Amendment to Financial Transactions Reporting Act 1996
 
 ##### 77 Amendment to Financial Transactions Reporting Act 1996
     
-*   _Amendment(s) incorporated in the [Act(s)][200]_.
+*   _Amendment(s) incorporated in the [Act(s)][201]_.
 
 #### Amendment to Immigration Act 1987
 
@@ -2388,23 +2420,23 @@ Miscellaneous provisions
 
 ##### 79 Schedule amended to refer to Bombings Convention
     
-*   _Amendment(s) incorporated in the [Act(s)][292]_.
+*   _Amendment(s) incorporated in the [Act(s)][293]_.
 
 ##### 80 Schedule amended to refer to Financing Convention
     
-*   _Amendment(s) incorporated in the [Act(s)][292]_.
+*   _Amendment(s) incorporated in the [Act(s)][293]_.
 
 #### Amendment to Proceeds of Crime Act 1991
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 December 2009, pursuant to [section 225][293] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+*   Heading: repealed, on 1 December 2009, pursuant to [section 225][294] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ##### 81 Amendment to Proceeds of Crime Act 1991
     
 *   \[Repealed\]
     
-    Section 81: repealed, on 1 December 2009, by [section 225][293] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
+    Section 81: repealed, on 1 December 2009, by [section 225][294] of the Criminal Proceeds (Recovery) Act 2009 (2009 No 8).
 
 ---
 
@@ -3055,8 +3087,8 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto by their resp
 ## Schedule 2A  
 Convention on the Physical Protection of Nuclear Material and Nuclear Facilities
     
-*   Schedule 2A: inserted, on 18 January 2004, by [section 16][294] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
-*   Schedule 2A heading: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A: inserted, on 18 January 2004, by [section 16][295] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Schedule 2A heading: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 *   _The States Parties to this Convention_,
     
@@ -3092,7 +3124,7 @@ Convention on the Physical Protection of Nuclear Material and Nuclear Facilities
     
     _Have agreed_ as follows:
     
-    Schedule 2A Preamble: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Schedule 2A Preamble: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 1
 
@@ -3108,14 +3140,14 @@ For the purposes of this Convention:
 
 *   (e) ""sabotage"" means any deliberate act directed against a nuclear facility or nuclear material in use, storage or transport which could directly or indirectly endanger the health and safety of personnel, the public or the environment by exposure to radiation or release of radioactive substances.
 
-*   Schedule 2A Article 1(d): added, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
-*   Schedule 2A Article 1(e): added, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 1(d): added, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 1(e): added, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 1A
 
 The purposes of this Convention are to achieve and maintain worldwide effective physical protection of nuclear material used for peaceful purposes and of nuclear facilities used for peaceful purposes; to prevent and combat offences relating to such material and facilities worldwide; as well as to facilitate co-operation among States Parties to those ends.
     
-*   Schedule 2A Article 1A: inserted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 1A: inserted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 2
     
@@ -3135,7 +3167,7 @@ The purposes of this Convention are to achieve and maintain worldwide effective 
 
 *   5\. This Convention shall not apply to nuclear material used or retained for military purposes or to a nuclear facility containing such material.
 
-*   Schedule 2A Article 2: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 2: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 2A
     
@@ -3215,7 +3247,7 @@ The purposes of this Convention are to achieve and maintain worldwide effective 
 
 (b) Nuclear material which is not subject to the provisions of this article pursuant to subparagraph (a) should be protected in accordance with prudent management practice.
 
-*   Schedule 2A Article 2A: inserted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 2A: inserted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 3
 
@@ -3273,7 +3305,7 @@ Each State Party shall take appropriate steps within the framework of its nation
 
 *   5\. A State Party may consult and co-operate, as appropriate, with other States Parties directly or through the International Atomic Energy Agency and other relevant international organizations, with a view to obtaining their guidance on the design, maintenance and improvement of its national system of physical protection of nuclear material in domestic use, storage and transport and of nuclear facilities.
 
-*   Schedule 2A Article 5: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 5: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 6
     
@@ -3281,7 +3313,7 @@ Each State Party shall take appropriate steps within the framework of its nation
 
 *   2\. States Parties shall not be required by this Convention to provide any information which they are not permitted to communicate pursuant to national law or which would jeopardize the security of the State concerned or the physical protection of nuclear material or nuclear facilities.
 
-*   Schedule 2A Article 6: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 6: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 7
     
@@ -3325,7 +3357,7 @@ Each State Party shall take appropriate steps within the framework of its nation
 
 *   2\. Each State Party shall make the offences described in this article punishable by appropriate penalties which take into account their grave nature.
 
-*   Schedule 2A Article 7(1): substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 7(1): substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 8
     
@@ -3365,13 +3397,13 @@ The State Party in whose territory the alleged offender is present shall, if it 
 
 None of the offences set forth in article 7 shall be regarded for the purposes of extradition or mutual legal assistance, as a political offence or as an offence connected with a political offence or as an offence inspired by political motives. Accordingly, a request for extradition or for mutual legal assistance based on such an offence may not be refused on the sole ground that it concerns a political offence or an offence connected with a political offence or an offence inspired by political motives.
     
-*   Schedule 2A Article 11A: inserted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 11A: inserted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 11B
 
 Nothing in this Convention shall be interpreted as imposing an obligation to extradite or to afford mutual legal assistance, if the requested State Party has substantial grounds for believing that the request for extradition for offences set forth in article 7 or for mutual legal assistance with respect to such offences has been made for the purpose of prosecuting or punishing a person on account of that person's race, religion, nationality, ethnic origin or political opinion or that compliance with the request would cause prejudice to that person's position for any of these reasons.
     
-*   Schedule 2A Article 11B: inserted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 11B: inserted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 12
 
@@ -3387,7 +3419,7 @@ Any person regarding whom proceedings are being carried out in connection with a
 
 Nothing in this Convention shall affect the transfer of nuclear technology for peaceful purposes that is undertaken to strengthen the physical protection of nuclear material and nuclear facilities.
     
-*   Schedule 2A Article 13A: inserted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 13A: inserted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 14
     
@@ -3397,7 +3429,7 @@ Nothing in this Convention shall affect the transfer of nuclear technology for p
 
 *   3\. Where an offence involves nuclear material in domestic use, storage or transport, and both the alleged offender and the nuclear material remain in the territory of the State Party in which the offence was committed, or where an offence involves a nuclear facility and the alleged offender remains in the territory of the State Party in which the offence was committed, nothing in this Convention shall be interpreted as requiring that State Party to provide information concerning criminal proceedings arising out of such an offence.
 
-*   Schedule 2A Article 14(3): substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 14(3): substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 15
 
@@ -3409,7 +3441,7 @@ The Annexes constitute an integral part of this Convention
 
 *   2\. At intervals of not less than five years thereafter, the majority of States Parties may obtain, by submitting a proposal to this effect to the depositary, the convening of further conferences with the same objective.
 
-*   Schedule 2A Article 16: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Article 16: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ## Article 17
     
@@ -3521,15 +3553,15 @@ Levels of Physical Protection to be Applied in International Transport of Nuclea
 
 *   e/ Other fuel which by virtue of its original fissile material content is classified as Category I and II before irradiation may be reduced one category level while the radiation level from the fuel exceeds 1 gray/hour (100 rads/hour) at one metre unshielded.
 
-*   Schedule 2A Annex 2 footnote b: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
-*   Schedule 2A Annex 2 footnote e: substituted, on 20 November 2007, by [section 40][295] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Annex 2 footnote b: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2A Annex 2 footnote e: substituted, on 20 November 2007, by [section 40][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ---
 
 ## Schedule 2B  
 Convention on the Marking of Plastic Explosives for the Purpose of Detection
     
-*   Schedule 2B: inserted, on 17 February 2004, by [section 16][294] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+*   Schedule 2B: inserted, on 17 February 2004, by [section 16][295] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
 *   #### Done at Montreal, on 1 March 1991
     
@@ -3747,7 +3779,7 @@ Nuclear Terrorism Convention
 
 [s 4(1)][5]
 
-*   Schedule 2C: inserted, on 20 November 2007, by [section 41][296] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 2C: inserted, on 20 November 2007, by [section 41][297] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 *   #### International Convention for the Suppression of Acts of Nuclear Terrorism
     
@@ -4108,49 +4140,29 @@ Specified terrorism conventions
 
 [s 4(1)][5]
 
-##### 1
-    
-*   Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on 16 December 1970\.
+*   1 Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on 16 December 1970\.
 
-##### 2
-    
-*   Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 September 1971\.
+*   2 Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 September 1971\.
 
-##### 3
-    
-*   Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by the General Assembly of the United Nations on 14 December 1973\.
+*   3 Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by the General Assembly of the United Nations on 14 December 1973\.
 
-##### 4
-    
-*   International Convention against the Taking of Hostages, adopted by the General Assembly of the United Nations on 17 December 1979\.
+*   4 International Convention against the Taking of Hostages, adopted by the General Assembly of the United Nations on 17 December 1979\.
 
-##### 5
-    
-*   Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 24 February 1988\.
+*   5 Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 24 February 1988\.
 
-##### 6
-    
-*   Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, done at Rome on 10 March 1988\.
+*   6 Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, done at Rome on 10 March 1988\.
 
-##### 7
-    
-*   Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf, done at Rome on 10 March 1988\.
+*   7 Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf, done at Rome on 10 March 1988\.
 
-##### 8
-    
-*   International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997\.
+*   8 International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations at New York on 15 December 1997\.
 
-##### 9
+*   9 Convention on the Physical Protection of Nuclear Material, done at New York and Vienna, 3 March 1980\.
     
-*   Convention on the Physical Protection of Nuclear Material, done at New York and Vienna, 3 March 1980\.
-    
-    Schedule 3 clause 9: added, on 18 January 2004, by [section 17][297] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
+    Schedule 3 clause 9: added, on 18 January 2004, by [section 17][298] of the Terrorism Suppression Amendment Act 2003 (2003 No 106).
 
-##### 10
+*   10 Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005\.
     
-*   Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005\.
-    
-    Schedule 3 clause 10: added, on 20 November 2007, by [section 42][298] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Schedule 3 clause 10: added, on 20 November 2007, by [section 42][299] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ---
 
@@ -4250,7 +4262,7 @@ United Nations Security Council Resolution 1267 (1999)
 
 [s 4(1)][5]
 
-*   Schedule 4A: inserted, on 20 November 2007, by [section 43][299] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 4A: inserted, on 20 November 2007, by [section 43][300] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### Resolution 1267 (1999)
 
@@ -4339,7 +4351,7 @@ United Nations Security Council Resolution 1333 (2000)
 
 [s 4(1)][5]
 
-*   Schedule 4B: inserted, on 20 November 2007, by [section 43][299] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 4B: inserted, on 20 November 2007, by [section 43][300] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### Resolution 1333 (2000)
 
@@ -4486,7 +4498,7 @@ United Nations Security Council Resolution 1390 (2002)
 
 [s 4(1)][5]
 
-*   Schedule 4C: inserted, on 20 November 2007, by [section 43][299] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+*   Schedule 4C: inserted, on 20 November 2007, by [section 43][300] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
 ##### Resolution 1390 (2002)
 
@@ -4565,15 +4577,11 @@ Details to be included in suspicious property reports
 
 [s 44(1)(a)][72]
 
-##### 1
+*   1 The name, and (if available) the last known address, of the designated terrorist entity concerned.
     
-*   The name, and (if available) the last known address, of the designated terrorist entity concerned.
-    
-    Schedule 5 clause 1: amended, on 20 November 2007, by [section 44][300] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
+    Schedule 5 clause 1: amended, on 20 November 2007, by [section 44][301] of the Terrorism Suppression Amendment Act 2007 (2007 No 102).
 
-##### 2
-    
-*   For property that came into the possession or immediate control of a financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity and involving a facility with the financial institution or reporting entity:
+*   2 For property that came into the possession or immediate control of a financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity and involving a facility with the financial institution or reporting entity:
         
     *   (a) the grounds on which the financial institution or reporting entity holds the suspicion referred to in [section 43(2)][71] and the date on which that suspicion was formed:
     
@@ -4599,27 +4607,25 @@ Details to be included in suspicious property reports
     
     *   (i) (if applicable) the branch name, address, and telephone number of the financial institution or reporting entity which provided the facility involved in the transaction or the financial institution or reporting entity through which the transaction was conducted, as the case may be.
     
-    Schedule 5 clause 2: amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2: amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(a): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(a): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(b): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(b): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(c): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(c): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(e): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(e): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(f): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(f): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(g): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(g): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(h): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(h): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 2(i): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 2(i): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
-##### 3
-    
-*   For other property in the possession or immediate control of a financial institution or reporting entity or any other person---
+*   3 For other property in the possession or immediate control of a financial institution or reporting entity or any other person---
         
     *   (a) the grounds on which the financial institution or reporting entity or other person holds the suspicion referred to in [section 43(2)][71] and the date on which that suspicion was formed:
     
@@ -4631,23 +4637,21 @@ Details to be included in suspicious property reports
     
     *   (e) (if available to the financial institution or reporting entity or other person) the name, address, date of birth (if applicable), and occupation (or, if appropriate, business or principal activity) of the person who controls the property (if it is not controlled by the entity), and details of any documentary or other evidence held by the financial institution or reporting entity or other person and used to establish the identity of the person who controls the property.
     
-    Schedule 5 clause 3: amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3: amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 3(a): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3(a): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 3(b): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3(b): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 3(c): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3(c): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 3(d): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3(d): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
     
-    Schedule 5 clause 3(e): amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 3(e): amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
-##### 4
+*   4 If the report is made in relation to property controlled or possessed by a financial institution or reporting entity, the name, position, and phone and fax number of the person authorised by the financial institution or reporting entity to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
     
-*   If the report is made in relation to property controlled or possessed by a financial institution or reporting entity, the name, position, and phone and fax number of the person authorised by the financial institution or reporting entity to prepare and submit the report. In all other cases, the name, position (if relevant), and phone and fax numbers of the person who prepared the report.
-    
-    Schedule 5 clause 4: amended, on 17 October 2009, by [section 161(2)][206] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
+    Schedule 5 clause 4: amended, on 17 October 2009, by [section 161(2)][207] of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35).
 
 ---
 
@@ -4659,7 +4663,7 @@ Commencementsee section 2
 
 ##### 1 Title
     
-*   This Act is the [Terrorism Suppression Amendment Act 2007][301].
+*   This Act is the [Terrorism Suppression Amendment Act 2007][302].
 
 ##### 2 Commencement
     
@@ -4690,23 +4694,23 @@ Amendments to principal Act
 
 ###### 1 General
     
-*   This is a reprint of the Terrorism Suppression Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Terrorism Suppression Act 2002\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][302] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][303] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][303] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][304] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][304] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][305] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][305] and [17E][306] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][306] and [17E][307] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -4737,23 +4741,25 @@ Amendments to principal Act
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][154]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][160]
     
-    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][206]
+    Environmental Protection Authority Act 2011 (2011 No 14): [section 53(1)][154]
     
-    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 219--225][166]
+    Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (2009 No 35): [section 161(2)][207]
     
-    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][207], [130(1)][208]
+    Criminal Proceeds (Recovery) Act 2009 (2009 No 8): [sections 219--225][167]
     
-    [Terrorism Suppression Amendment Act 2007][307] (2007 No 102)
+    Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][208], [130(1)][209]
     
-    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][212]
+    [Terrorism Suppression Amendment Act 2007][308] (2007 No 102)
     
-    [Terrorism Suppression Amendment Act 2005][308] (2005 No 83)
+    Lawyers and Conveyancers Act 2006 (2006 No 1): [section 348][213]
     
-    [Terrorism Suppression Amendment Act 2003][309] (2003 No 106)
+    [Terrorism Suppression Amendment Act 2005][309] (2005 No 83)
     
-    Supreme Court Act 2003 (2003 No 53): [section 48(1)][257]
+    [Terrorism Suppression Amendment Act 2003][310] (2003 No 106)
+    
+    Supreme Court Act 2003 (2003 No 53): [section 48(1)][258]
     
     [Terrorism Suppression Act Commencement Order 2002][145] (SR 2002/353)
 
@@ -4919,153 +4925,154 @@ Amendments to principal Act
 [157]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM108024
 [158]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM124828
 [159]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034431
-[160]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034434
-[161]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM358599
-[162]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451225
-[163]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM21644
-[164]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22221
-[165]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034435
-[166]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451477
-[167]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22223
-[168]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034436
-[169]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034437
-[170]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034438
-[171]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219459
-[172]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM381221
-[173]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM329897
-[174]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034439
-[175]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034440
-[176]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328024
-[177]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328042
-[178]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034443
-[179]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214686
-[180]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM275026
-[181]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219472
-[182]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219468
-[183]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034444
-[184]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM327381
-[185]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328038
-[186]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM332165
-[187]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM408335
-[188]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034445
-[189]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034446
-[190]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034447
-[191]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219470
-[192]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034448
-[193]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM112342
-[194]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM112383
-[195]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034449
-[196]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM261978
-[197]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034451
-[198]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034453
-[199]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034454
-[200]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373899
-[201]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034455
-[202]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373803
-[203]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373810
-[204]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140700
-[205]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140727
-[206]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2141072
-[207]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1102349
-[208]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1102383
-[209]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM364948
-[210]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM364938
-[211]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374112
-[212]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM367849
-[213]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374104
-[214]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM273056
-[215]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328793
-[216]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374114
-[217]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM223410
-[218]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM377336
-[219]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140932
-[220]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140998
-[221]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2353130
-[222]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374142
-[223]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM377342
-[224]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034456
-[225]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379282
-[226]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=BILL-SCDRAFT-7242
-[227]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451478
-[228]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034457
-[229]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379920
-[230]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379595
-[231]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251624
-[232]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034458
-[233]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451234
-[234]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034459
-[235]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451479
-[236]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451144
-[237]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451154
-[238]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451227
-[239]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451238
-[240]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451240
-[241]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451361
-[242]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451372
-[243]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451480
-[244]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251067
-[245]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251068
-[246]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034460
-[247]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251065
-[248]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034461
-[249]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM135341
-[250]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2601262
-[251]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451210
-[252]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451212
-[253]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451214
-[254]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451482
-[255]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214027
-[256]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034462
-[257]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214522
-[258]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251069
-[259]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034463
-[260]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251070
-[261]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251071
-[262]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034464
-[263]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219492
-[264]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476605
-[265]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476636
-[266]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476683
-[267]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476740
-[268]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476609
-[269]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476642
-[270]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476684
-[271]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476746
-[272]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034465
-[273]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476610
-[274]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476644
-[275]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476685
-[276]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476748
-[277]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034468
-[278]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034470
-[279]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219496
-[280]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM25627
-[281]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM26205
-[282]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM27321
-[283]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219497
-[284]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034472
-[285]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034473
-[286]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451484
-[287]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM240501
-[288]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM240510
-[289]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22233
-[290]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034474
-[291]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM27300
-[292]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM275013
-[293]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451486
-[294]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219499
-[295]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034475
-[296]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034476
-[297]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219900
-[298]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034477
-[299]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034478
-[300]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034479
-[301]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034390
-[302]: http://www.pco.parliament.govt.nz/reprints/
-[303]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195439
-[304]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[305]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195468
-[306]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195470
-[307]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034392
-[308]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM358591
-[309]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219433
+[160]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM3360714
+[161]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034434
+[162]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM358599
+[163]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451225
+[164]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM21644
+[165]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22221
+[166]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034435
+[167]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451477
+[168]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22223
+[169]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034436
+[170]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034437
+[171]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034438
+[172]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219459
+[173]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM381221
+[174]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM329897
+[175]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034439
+[176]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034440
+[177]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328024
+[178]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328042
+[179]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034443
+[180]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214686
+[181]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM275026
+[182]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219472
+[183]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219468
+[184]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034444
+[185]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM327381
+[186]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328038
+[187]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM332165
+[188]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM408335
+[189]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034445
+[190]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034446
+[191]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034447
+[192]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219470
+[193]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034448
+[194]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM112342
+[195]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM112383
+[196]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034449
+[197]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM261978
+[198]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034451
+[199]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034453
+[200]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034454
+[201]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373899
+[202]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034455
+[203]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373803
+[204]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM373810
+[205]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140700
+[206]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140727
+[207]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2141072
+[208]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1102349
+[209]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1102383
+[210]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM364948
+[211]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM364938
+[212]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374112
+[213]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM367849
+[214]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374104
+[215]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM273056
+[216]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM328793
+[217]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374114
+[218]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM223410
+[219]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM377336
+[220]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140932
+[221]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2140998
+[222]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2353130
+[223]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM374142
+[224]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM377342
+[225]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034456
+[226]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379282
+[227]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=BILL-SCDRAFT-7242
+[228]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451478
+[229]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034457
+[230]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379920
+[231]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM379595
+[232]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251624
+[233]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034458
+[234]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451234
+[235]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034459
+[236]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451479
+[237]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451144
+[238]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451154
+[239]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451227
+[240]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451238
+[241]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451240
+[242]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451361
+[243]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451372
+[244]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451480
+[245]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251067
+[246]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251068
+[247]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034460
+[248]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251065
+[249]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034461
+[250]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM135341
+[251]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM2601262
+[252]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451210
+[253]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451212
+[254]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451214
+[255]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451482
+[256]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214027
+[257]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034462
+[258]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM214522
+[259]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251069
+[260]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034463
+[261]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251070
+[262]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM251071
+[263]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034464
+[264]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219492
+[265]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476605
+[266]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476636
+[267]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476683
+[268]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476740
+[269]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476609
+[270]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476642
+[271]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476684
+[272]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476746
+[273]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034465
+[274]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476610
+[275]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476644
+[276]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476685
+[277]: http://www.legislation.govt.nz/act/public/2002/0034/latest/whole.html#DLM2476748
+[278]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034468
+[279]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034470
+[280]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219496
+[281]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM25627
+[282]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM26205
+[283]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM27321
+[284]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219497
+[285]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034472
+[286]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034473
+[287]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451484
+[288]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM240501
+[289]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM240510
+[290]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM22233
+[291]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034474
+[292]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM27300
+[293]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM275013
+[294]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1451486
+[295]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219499
+[296]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034475
+[297]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034476
+[298]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219900
+[299]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034477
+[300]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034478
+[301]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034479
+[302]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034390
+[303]: http://www.pco.parliament.govt.nz/reprints/
+[304]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195439
+[305]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[306]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195468
+[307]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM195470
+[308]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM1034392
+[309]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM358591
+[310]: http://www.legislation.govt.nz/act/public/2002/0034/latest/link.aspx?id=DLM219433
