@@ -1,5 +1,5 @@
 Reprint  
-as at 1 August 2008
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -405,9 +405,11 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
         
         provided that he shall not thereby go out of office until his successor has been duly appointed.
     
-    (2) Every person who does any act as a member of the Board after his office has become vacant under this section, commits an offence and is liable on summary conviction to a fine not exceeding 50 pounds.
+    (2) Every person who does any act as a member of the Board after his office has become vacant under this section, commits an offence and is liable on conviction to a fine not exceeding $100\.
     
     (3) Any vacancy occurring under this section shall be deemed an extraordinary vacancy.
+    
+    Section 10(2): amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 11 Filling of extraordinary vacancies
     
@@ -425,15 +427,15 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (5) No question which may be tried under this section shall be tried in the High Court; and no proceedings in the District Court under this section shall be removable into the High Court, by certiorari or otherwise.
     
-    Section 12(1): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(1): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(3): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(4): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(4): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(5): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(5): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 12(5): amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 13 Chairman of Board
     
@@ -451,7 +453,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
 *   \[Repealed\]
     
-    Section 14: repealed, on 30 March 1985, by [section 39(3)][111] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 14: repealed, on 30 March 1985, by [section 39(3)][112] of the Local Government Amendment Act 1985 (1985 No 60).
 
 ##### 15 Committees
     
@@ -501,19 +503,19 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
 
 ##### 18 Allowances to members
     
-*   (1) The Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][112] and there may be paid to members of the Board and of any committee of the Board travelling allowances in accordance with that Act which shall apply accordingly.
+*   (1) The Board is hereby declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][113] and there may be paid to members of the Board and of any committee of the Board travelling allowances in accordance with that Act which shall apply accordingly.
     
-    (2) Where any maximum annual allowance or remuneration is determined under [section 214B][113] or [section 214C][114] of the Local Government Act 1974 in respect of the chairman, chairmen of standing or special committees, or members of the Board, there may, subject to the conditions of that determination and [sections 214K][115] and [214L][116] of that Act, be paid to each of those persons such annual allowance or remuneration, not exceeding that maximum allowance or remuneration, as the Board determines.
+    (2) Where any maximum annual allowance or remuneration is determined under [section 214B][114] or [section 214C][115] of the Local Government Act 1974 in respect of the chairman, chairmen of standing or special committees, or members of the Board, there may, subject to the conditions of that determination and [sections 214K][116] and [214L][117] of that Act, be paid to each of those persons such annual allowance or remuneration, not exceeding that maximum allowance or remuneration, as the Board determines.
     
-    (3) Where any actual annual allowance or remuneration is determined under [section 214B][113] or [section 214C][114] of the Local Government Act 1974 in respect of the chairman, chairmen of standing or special committees, or members of the Board, there shall, subject to the conditions of that determination and [sections 214K][115] and [214L][116] of that Act, be paid to each of those persons the annual allowance or remuneration so determined.
+    (3) Where any actual annual allowance or remuneration is determined under [section 214B][114] or [section 214C][115] of the Local Government Act 1974 in respect of the chairman, chairmen of standing or special committees, or members of the Board, there shall, subject to the conditions of that determination and [sections 214K][116] and [214L][117] of that Act, be paid to each of those persons the annual allowance or remuneration so determined.
     
-    Section 18(2): replaced, on 30 March 1985, by [section 39(2)][111] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 18(2): replaced, on 30 March 1985, by [section 39(2)][112] of the Local Government Amendment Act 1985 (1985 No 60).
     
-    Section 18(2): amended (with effect on 30 March 1985), on 14 August 1986, by [section 15(1)][117] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Section 18(2): amended (with effect on 30 March 1985), on 14 August 1986, by [section 15(1)][118] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
     
-    Section 18(3): replaced, on 30 March 1985, by [section 39(2)][111] of the Local Government Amendment Act 1985 (1985 No 60).
+    Section 18(3): replaced, on 30 March 1985, by [section 39(2)][112] of the Local Government Amendment Act 1985 (1985 No 60).
     
-    Section 18(3): amended (with effect on 30 March 1985), on 14 August 1986, by [section 15(1)][117] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
+    Section 18(3): amended (with effect on 30 March 1985), on 14 August 1986, by [section 15(1)][118] of the Local Government Amendment Act (No 3) 1986 (1986 No 50).
 
 ##### 19 Rules as to proceedings of Board or committees, etc
     
@@ -567,7 +569,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     provided that, in place of or in addition to taking such security from any officer, the Board may provide against any losses that may arise in the event of his dishonesty by taking out a guarantee policy and paying the premiums thereon.
     
-    Section 21(5): repealed, on 1 January 2004, by [section 76][118] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
+    Section 21(5): repealed, on 1 January 2004, by [section 76][119] of the Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17).
 
 ##### 22 Acting officers
     
@@ -637,9 +639,9 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     provided that nothing contained in this subsection shall nullify or affect any consent heretofore granted by the Wellington Harbour Board in respect of the discharge of any sewage, refuse, sludge, effluent, or other matter into Wellington Harbour.
     
-    (2) If the Board and the Wellington Harbour Board are unable to agree as to the method of disposal of any sewage, refuse, sludge, effluent or other matter, or as to any other question in respect of drainage in which the powers and duties of the Board and the harbour board conflict, the difference shall be determined by arbitration under the [Arbitration Act 1996][119], and this subsection shall be deemed to be a submission within the meaning of that Act.
+    (2) If the Board and the Wellington Harbour Board are unable to agree as to the method of disposal of any sewage, refuse, sludge, effluent or other matter, or as to any other question in respect of drainage in which the powers and duties of the Board and the harbour board conflict, the difference shall be determined by arbitration under the [Arbitration Act 1996][120], and this subsection shall be deemed to be a submission within the meaning of that Act.
     
-    Section 27(2): amended, on 1 July 1997, pursuant to [section 20][120] of the Arbitration Act 1996 (1996 No 99).
+    Section 27(2): amended, on 1 July 1997, pursuant to [section 20][121] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 28 Protection of sewer and works
     
@@ -669,7 +671,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
         
         provided that before interfering with any such road, street, way, or footpath the Board, except in cases of emergency, of which the Board shall be the sole judge, shall give 1 week's notice in writing to the local authority having control thereof and shall in any case with all convenient speed reinstate and make good any road, street, way, or footpath that may be broken up or, at the option of the local authority, pay to it the cost of such reinstatement and making good, and shall indemnify such local authority in respect of any action, suit, claim, or demand arising directly or indirectly out of the work of the Board under this section:
         
-        provided also that the Board shall not interfere with any State highway within the meaning of the [Government Roading Powers Act 1989][121], without the prior consent of the Agency, which may be granted subject to such conditions, whether as to reinstatement or payment of any cost of reinstatement or otherwise, as the Agency thinks fit:
+        provided also that the Board shall not interfere with any State highway within the meaning of the [Government Roading Powers Act 1989][122], without the prior consent of the Agency, which may be granted subject to such conditions, whether as to reinstatement or payment of any cost of reinstatement or otherwise, as the Agency thinks fit:
     
     *   (b) without any previous payment, tender, or deposit---
             
@@ -713,9 +715,9 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     Section 30(1): amended, on 1 February 1982, pursuant to [section 248(1)][105] of the Public Works Act 1981 (1981 No 35).
     
-    Section 30(1)(a) second proviso: amended, on 1 August 2008, pursuant to [section 47(1)(c)][122] of the Land Transport Management Amendment Act 2008 (2008 No 47).
+    Section 30(1)(a) second proviso: amended, on 1 August 2008, pursuant to [section 47(1)(c)][123] of the Land Transport Management Amendment Act 2008 (2008 No 47).
     
-    Section 30(1)(a) second proviso: amended, on 1 August 2008, pursuant to [section 116(3)(a)][123] of the Government Roading Powers Act 1989 (1989 No 75).
+    Section 30(1)(a) second proviso: amended, on 1 August 2008, pursuant to [section 116(3)(a)][124] of the Government Roading Powers Act 1989 (1989 No 75).
 
 ##### 31 Compensation for land taken or damaged
     
@@ -819,15 +821,15 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) On any appeal under this section the court may determine all questions of fact in issue, and in arriving at its decision shall not be bound or limited by any opinion, belief, resolution, or decision which the Board may have reached or taken on the matter.
     
-    (3) On any such appeal the court shall have the like jurisdiction, rights, and powers as are vested in the court in the case of an appeal from the decision of a District Court Judge under the [District Courts Act 1947][124].
+    (3) On any such appeal the court shall have the like jurisdiction, rights, and powers as are vested in the court in the case of an appeal from the decision of a District Court Judge under the [District Courts Act 1947][125].
     
     (4) On any such appeal if the applicant and the Board so agree or a Judge on the application of either party so orders, each of the parties shall appoint a technical assessor to sit with the Judge for the purpose of hearing and adjudicating on the appeal; and, where assessors are so appointed, the decision of the Judge and at least 1 assessor shall be the decision of the court.
     
-    Section 45(1): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 45(1): amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 45(3): amended, on 1 April 1980, pursuant to [section 2(3)][125] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(3): amended, on 1 April 1980, pursuant to [section 2(3)][126] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 45(3): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 45(3): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 46 Inspection and sampling
     
@@ -855,13 +857,13 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     *   (e) prescribing charges to be paid in respect of connections to any sewer of the Board by persons and authorities other than local authorities.
     
-    (2) The Board may, by any bylaw made under this section, provide a penalty for every breach thereof which shall be in the discretion of the court imposing the penalty, but which shall in no case exceed the sum of 50 pounds for a single offence or the sum of 5 pounds for every day during which the offence has continued.
+    (2) The Board may, by any bylaw made under this section, provide a penalty for every breach thereof which shall be in the discretion of the court imposing the penalty, but which shall in no case exceed the sum of $100 for a single offence or the sum of $10 for every day during which the offence has continued.
     
     (3) Any bylaw made by the Board under this section shall, within the district, override any bylaws on the same subject made by any constituent authority.
     
-    (4) Any constituent authority may, with the consent of the Board, undertake within its own area the enforcement and administration of any bylaws made by the Board under this section, and in such cases all fines imposed for breaches of the Board's bylaws within the area of such constituent authority shall, subject to [section 73][126] of the Public Finance Act 1989, be paid to the constituent authority and be dealt with by it as if they were fines imposed in respect of breaches of the bylaws of that constituent authority.
+    (4) Any constituent authority may, with the consent of the Board, undertake within its own area the enforcement and administration of any bylaws made by the Board under this section, and in such cases all fines imposed for breaches of the Board's bylaws within the area of such constituent authority shall, subject to [section 73][127] of the Public Finance Act 1989, be paid to the constituent authority and be dealt with by it as if they were fines imposed in respect of breaches of the bylaws of that constituent authority.
     
-    Section 47(4): amended (with effect on 1 July 1989), on 26 July 1989, pursuant to [section 87][127] of the Public Finance Act 1989 (1989 No 44).
+    Section 47(4): amended (with effect on 1 July 1989), on 26 July 1989, pursuant to [section 87][128] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 48 Trade wastes bylaws
     
@@ -931,13 +933,13 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) In giving any consent and approval under subsection (1) the Minister may impose such conditions as he thinks fit for the protection and safety of the public works.
     
-    Section 50(1)(a): amended, on 1 April 1988, by [section 8][128] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 50(1)(a): amended, on 1 April 1988, by [section 8][129] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
     
-    Section 50(2): amended, on 1 April 1988, by [section 8][128] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
+    Section 50(2): amended, on 1 April 1988, by [section 8][129] of the Ministry of Works and Development Abolition Act 1988 (1988 No 42).
 
 ##### 51 Abatement of nuisances created by Board
     
-*   (1) Where any nuisance within the meaning of [section 29][129] of the Health Act 1956 is created by the Board in the exercise of any powers conferred on it by this Act, the local authority of the local district in which the nuisance exists or of any local district any part of which is affected by the nuisance may, with the concurrence of the Director-General of Health, by notice in writing to the Board, require the Board to abate the nuisance and specify the works to be done in order to abate the nuisance and the time within which they shall be done.
+*   (1) Where any nuisance within the meaning of [section 29][130] of the Health Act 1956 is created by the Board in the exercise of any powers conferred on it by this Act, the local authority of the local district in which the nuisance exists or of any local district any part of which is affected by the nuisance may, with the concurrence of the Director-General of Health, by notice in writing to the Board, require the Board to abate the nuisance and specify the works to be done in order to abate the nuisance and the time within which they shall be done.
     
     (2) If the Board considers the requirements specified in any such notice to be unreasonable or impracticable or unnecessary it may, within 7 days after service of the notice on the Board, apply to the District Court at Lower Hutt for an order setting aside or modifying the notice. Pending the hearing of the application, the notice shall be deemed to be suspended.
     
@@ -947,9 +949,9 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (5) All expenses reasonably incurred by the local authority in the abatement of a nuisance under subsection (4) shall be recoverable by the local authority from the Board.
     
-    (6) Nothing in this section shall operate to relieve the Board from liability under any rule of law for any nuisance within the meaning of [section 29][129] of the Health Act 1956, nor derogate from the provisions of [section 31][36] of this Act.
+    (6) Nothing in this section shall operate to relieve the Board from liability under any rule of law for any nuisance within the meaning of [section 29][130] of the Health Act 1956, nor derogate from the provisions of [section 31][36] of this Act.
     
-    Section 51(2): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 51(2): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 52 Commencement of actions not to stop works
     
@@ -957,13 +959,17 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
 
 ##### 53 Penalty for damaging sewer or drain
     
-*   Any sewer or drain constructed, controlled, operated or maintained by the Board shall be deemed to be the property of the Board, and any person doing any act whereby such sewer may be damaged or its efficiency impaired commits an offence and is liable on summary conviction to a fine not exceeding 50 pounds, without prejudice to the right of the Board to recover damages by action for any trespass or damage to the sewer.
+*   Any sewer or drain constructed, controlled, operated or maintained by the Board shall be deemed to be the property of the Board, and any person doing any act whereby such sewer may be damaged or its efficiency impaired commits an offence and is liable on conviction to a fine not exceeding $100, without prejudice to the right of the Board to recover damages by action for any trespass or damage to the sewer.
+    
+    Section 53: amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Entry on premises for inspection
     
 *   (1) The Board and its officers and employees may enter any land or premises for the purpose of examining as to the existence of any nuisance thereon affecting the functions of the Board or as to the breach of any provisions of this Act or the bylaws of the Board (with power to examine any drain or other sanitary apparatus or appliances), or for the purposes of enforcing the provisions of this Act and the bylaws, or for the purpose of executing, providing, or doing any works, materials, or things which the Board is authorised or empowered to execute, provide, or do under or by virtue of this Act or the bylaws.
     
-    (2) Every owner or occupier of land or premises who refuses to permit or allow the Board or any of its officers or employees to enter thereon for any of the purposes referred to in subsection (1) or for the performance of anything which it or he is empowered or required to do under this Act, and every person who obstructs the Board or any of its officers or employees in the exercise of any of the powers referred to in the said subsection (1), commits an offence and is liable on summary conviction to a fine not exceeding 50 pounds for each such offence.
+    (2) Every owner or occupier of land or premises who refuses to permit or allow the Board or any of its officers or employees to enter thereon for any of the purposes referred to in subsection (1) or for the performance of anything which it or he is empowered or required to do under this Act, and every person who obstructs the Board or any of its officers or employees in the exercise of any of the powers referred to in the said subsection (1), commits an offence and is liable on conviction to a fine not exceeding $100 for each such offence.
+    
+    Section 54(2): amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 55 Contracts for works
     
@@ -993,7 +999,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     provided that if in the opinion of the Board significant amounts of water are being used from the above sources but are not being discharged directly or indirectly into the Board's main sewerage works the Board may reduce the figure as assessed as it thinks fit and the net figure so assessed shall be the water usage of that constituent local authority.
     
-    Section 56A: inserted, on 1 March 1979, by [section 3][130] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
+    Section 56A: inserted, on 1 March 1979, by [section 3][131] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
 
 ##### 57 Annual estimate of proposed expenditure
     
@@ -1027,7 +1033,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     *   (c) a copy of the estimates of the expenditure of the Board for the current year.
     
-    Section 59: replaced, on 1 March 1979, by [section 4][131] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
+    Section 59: replaced, on 1 March 1979, by [section 4][132] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
 
 ##### 60 Calculation of assessments
     
@@ -1041,21 +1047,21 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) The amount of trade waste charges paid or payable to the Board in respect of trade wastes discharged within the district of a contributing authority as notified to that authority in terms of [section 59(2)(b)][69] shall be credited against the amount that contributing authority is required to pay to the Board in terms of the notice given to it under section 59(2)(a).
     
-    Section 60: replaced, on 1 March 1979, by [section 4][131] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
+    Section 60: replaced, on 1 March 1979, by [section 4][132] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
 
 ##### 61 Appeal against estimate or assessment
     
 *   If any contributing authority is dissatisfied with such estimate or assessment, it may, within 28 days after notice of the assessment has been given to it, appeal to a Judge of the High Court at Wellington against the estimate or assessment. Such appeal shall be commenced by notice of appeal being given to the Registrar of that court, who shall fix a day for the hearing thereof, and the contributing authority appealing shall give notice in writing to the Board and to each of the other contributing authorities stating the date when the appeal is to be heard and the grounds of the appeal, and thereupon the whole of such estimate and assessment shall be deemed to be set aside, and the estimate of the contribution to be paid by every contributing authority shall be settled by the Judge, whose decision shall be final and binding upon the Board and all the contributing authorities.
     
-    Section 61: amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 61: amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 62 Jurisdiction of District Courts
     
 *   The Board may, notwithstanding that the amount sought to be recovered is in excess of the jurisdiction of any District Court, sue for and recover the amount of any such contribution in any such court as a debt.
     
-    Section 62 heading: amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62 heading: amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 62: amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 62: amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 63 Production of documents to be evidence
     
@@ -1089,7 +1095,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     *   (c) the power to make and levy a rate conferred by paragraph (b) may be exercised by a contributing authority in addition to all other powers which it has under any other Act and notwithstanding any provision in any Act limiting or in any way affecting its power to rate:
     
-    *   (d) it may classify the rateable properties within its local district or the portion thereof within the drainage district and make and levy a rate on a sliding scale according to such classification. The provisions of the [Land Drainage Act 1908][132] shall, with the necessary modifications, apply to such classification and rate.
+    *   (d) it may classify the rateable properties within its local district or the portion thereof within the drainage district and make and levy a rate on a sliding scale according to such classification. The provisions of the [Land Drainage Act 1908][133] shall, with the necessary modifications, apply to such classification and rate.
     
     
 
@@ -1105,7 +1111,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     Section 66(2): amended, on 1 April 1968, pursuant to section 176(2) of the Rating Act 1967 (1967 No 123).
     
-    Section 66(4): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 66(4): amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 67 Reserve funds for replacement, etc
     
@@ -1113,7 +1119,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) The Board shall pay all money so set aside into a separate bank account or accounts, and may invest any part of it in the following manner:
         
-    *   (a) in any investment in which trust funds may be invested under [section 4][133] of the Trustee Act 1956, except real securities within the meaning of that section; or
+    *   (a) in any investment in which trust funds may be invested under [section 4][134] of the Trustee Act 1956, except real securities within the meaning of that section; or
     
     *   (b) in the National Provident Fund; or
     
@@ -1123,11 +1129,11 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (3) Separate accounts shall be kept by the Board of all money paid to or received by it in respect of each fund or funds.
     
-    Section 67(2)(c): amended, on 1 March 2002, by [section 170(2)][134] of the Public Trust Act 2001 (2001 No 100).
+    Section 67(2)(c): amended, on 1 March 2002, by [section 170(2)][135] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 68 Superannuation and other benefits for employees
     
-*   (1) The Board is hereby declared to be a local authority for the purposes of the National Provident Fund Act 1950 and [section 6][135] of the Finance Act (No 2) 1941\.
+*   (1) The Board is hereby declared to be a local authority for the purposes of the National Provident Fund Act 1950 and [section 6][136] of the Finance Act (No 2) 1941\.
     
     (2) The Board may from time to time, by way of subsidy, pay such sums as it thinks fit to the funds of any sick, death, or funeral benefit society, or other similar institution established by its employees, or any section of them, the benefits of which are confined to such employees and their dependants.
 
@@ -1159,7 +1165,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (3) Every payment of money by the Board shall be authorised by a prior resolution of the Board or shall be submitted to the Board for confirmation at its first ordinary meeting after the date of payment.
     
-    Section 71(2): replaced, on 20 October 1978, by [section 7][136] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
+    Section 71(2): replaced, on 20 October 1978, by [section 7][137] of the Hutt Valley Drainage Amendment Act 1978 (1978 No 10 (L)).
 
 ##### 72 Accounts
     
@@ -1169,7 +1175,9 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
 *   (1) The books of accounts referred to in [section 72][83] shall at all reasonable times be open to inspection by any member of the Board or of any constituent authority or any person appointed by it, who may take copies of or extracts from the books.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding 5 pounds who, having the custody of the books of accounts, fails or refuses or neglects, on the reasonable demand of any member of the Board or of any constituent authority or any person appointed by it, to permit him to inspect or take copies of or extracts from the books.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $10 who, having the custody of the books of accounts, fails or refuses or neglects, on the reasonable demand of any member of the Board or of any constituent authority or any person appointed by it, to permit him to inspect or take copies of or extracts from the books.
+    
+    Section 73(2): amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 74 Accounts to be kept in accordance with requirements of Auditor-General
     
@@ -1181,11 +1189,11 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) The decision of the Auditor-General as to whether or not any expenditure is properly chargeable against any such account shall be final.
     
-    Section 74 heading: amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 74 heading: amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 74(1): amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 74(1): amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 74(2): amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 74(2): amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 75 Preparation of accounts
     
@@ -1201,7 +1209,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
 *   The Auditor-General shall be the auditor of the Board, and shall have the same duties and powers in respect of the money and accounts of the Board, and of every person dealing therewith, as if the Board were a local authority within the meaning of the definition of that term in the Public Finance Act 1977\.
     
-    Section 76: amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 76: amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
     
     Section 76: amended, on 1 April 1978, by section 160(1) of the Public Finance Act 1977 (1977 No 65).
 
@@ -1215,23 +1223,29 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (2) The imprest account may be held jointly in the names of and be operated on by the treasurer and 1 other person appointed in that behalf by the Board, or may, with the express approval in writing of the Auditor-General, but not otherwise, be in the sole name of and be operated on by the treasurer or any other approved officer of the Board. Where the imprest account is held jointly in the names of the treasurer and 1 other person, that other person shall be either a responsible officer of the Board or a member of the Board.
     
-    (3) The Board shall from time to time, by resolution, fix the maximum amount that may be held at any time in the imprest account, not exceeding 75 pounds in any case where the imprest account may be operated on by 1 person acting alone, and not exceeding such amount as the Auditor-General may approve in any other case.
+    (3) The Board shall from time to time, by resolution, fix the maximum amount that may be held at any time in the imprest account, not exceeding $150 in any case where the imprest account may be operated on by 1 person acting alone, and not exceeding such amount as the Auditor-General may approve in any other case.
     
     (4) Money in the imprest account shall be available only for the payment of salaries and wages and emergency expenditure. A statement of every payment made from the account shall be submitted to the Board for confirmation at its first ordinary meeting after the date of payment.
     
     (5) The payment of money out of the imprest account for any purpose not authorised by subsection (4) shall be misappropriation of the funds of the Board.
     
-    Section 78(2): amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 78(2): amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
     
-    Section 78(3): amended, on 1 July 2001, pursuant to [section 52][137] of the Public Audit Act 2001 (2001 No 10).
+    Section 78(3): amended, on 1 July 2001, pursuant to [section 52][138] of the Public Audit Act 2001 (2001 No 10).
 
 #### Miscellaneous provisions
 
 ##### 79 Recovery of fines
     
-*   All fines imposed by this Act or by any bylaw made by the Board under the authority of this Act or any other Act may be recovered in a summary manner under the [Summary Proceedings Act 1957][138]:
+*   (1) All fines imposed by this Act or by any bylaw made by the Board under the authority of this Act or any other Act may be recovered in accordance with [Part 3][139] of the Summary Proceedings Act 1957\.
     
-    provided that any information in respect of an offence against this Act or under any such bylaw may be laid at any time within 12 months after the time when the matter of the information arose.
+    (2) Despite anything to the contrary in [section 25][140] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act or any bylaw made under it ends on the date that is 12 months after the date on which the offence was committed.
+    
+    Section 79(1): amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(1) proviso: repealed, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 79(2): inserted, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 80 Liability for rates
     
@@ -1241,9 +1255,11 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
 
 ##### 81 Offences
     
-*   Any contributing authority or other person doing anything contrary to the provisions of this Act or of any bylaw made by the Board under the authority of this Act or any other Act, or omitting or failing to perform any duty imposed on it or him by or arising under this Act or under any such bylaw, commits an offence, and, in cases where no other penalty is provided, shall be liable on summary conviction to a fine not exceeding 50 pounds; and whenever such act or omission is of a continuing nature a further offence shall be deemed to have been committed on each day on which it has continued; and whenever power is given by this Act or by any such bylaw to order anything to be done or omitted, an offence shall be deemed to have been committed on each day on which any contributing authority or other person has disobeyed or failed to comply with any such order; and in all cases in which property is damaged, destroyed, or lost, or pecuniary loss is suffered by reason of an offence, the court may add to the fine compensation for any loss which the Board may have sustained:
+*   Any contributing authority or other person doing anything contrary to the provisions of this Act or of any bylaw made by the Board under the authority of this Act or any other Act, or omitting or failing to perform any duty imposed on it or him by or arising under this Act or under any such bylaw, commits an offence, and, in cases where no other penalty is provided, shall be liable on conviction to a fine not exceeding $100; and whenever such act or omission is of a continuing nature a further offence shall be deemed to have been committed on each day on which it has continued; and whenever power is given by this Act or by any such bylaw to order anything to be done or omitted, an offence shall be deemed to have been committed on each day on which any contributing authority or other person has disobeyed or failed to comply with any such order; and in all cases in which property is damaged, destroyed, or lost, or pecuniary loss is suffered by reason of an offence, the court may add to the fine compensation for any loss which the Board may have sustained:
     
     provided that such compensation shall not, except as to the amount thereof, relieve such contributing authority or other person of any civil liability in respect of its or his act or omission.
+    
+    Section 81: amended, on 1 July 2013, by [section 413][109] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 82 Governor-General may extend time fixed by Act for exercising powers, etc
     
@@ -1259,9 +1275,9 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     *   (c) in any case not provided for by paragraph (a) or paragraph (b), be referred to 2 arbitrators, one to be appointed by the Board and one by the other party concerned, or to an umpire appointed by such arbitrators.
     
-    (2) The relevant provisions of the [Arbitration Act 1996][119] shall apply to any arbitration under this section, and this section shall be deemed to be a submission within the meaning of that Act.
+    (2) The relevant provisions of the [Arbitration Act 1996][120] shall apply to any arbitration under this section, and this section shall be deemed to be a submission within the meaning of that Act.
     
-    Section 83(2): amended, on 1 July 1997, pursuant to [section 20][120] of the Arbitration Act 1996 (1996 No 99).
+    Section 83(2): amended, on 1 July 1997, pursuant to [section 20][121] of the Arbitration Act 1996 (1996 No 99).
 
 ##### 84 Service of notices, etc
     
@@ -1285,13 +1301,13 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     (10) In this section the expression _the court_ means---
         
-    *   (a) in any case where any order or notice relates to any sum of money not exceeding 2,000 pounds, or to any property the value of which does not exceed the sum of 7,000 pounds, a District Court:
+    *   (a) in any case where any order or notice relates to any sum of money not exceeding $4,000, or to any property the value of which does not exceed the sum of $14,000, a District Court:
     
     *   (b) in any other case, the High Court.
     
-    Section 84(10)(a): amended, on 1 April 1980, pursuant to [section 18(2)][109] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 84(10)(a): amended, on 1 April 1980, pursuant to [section 18(2)][110] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 84(10)(b): amended, on 1 April 1980, pursuant to [section 12][110] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 84(10)(b): amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 85 Service of legal proceedings on Board
     
@@ -1311,7 +1327,7 @@ An Act to consolidate and amend the Hutt Valley Drainage Act 1948 and its amendm
     
     *   (c) the Shipping and Seamen Act 1952:
     
-    *   (d) the [Health Act 1956][139]:
+    *   (d) the [Health Act 1956][141]:
     
     *   (e) the Waters Pollution Act 1953\.
     
@@ -1357,23 +1373,23 @@ That portion of the County of Hutt bounded by a line commencing at the north-wes
 
 ###### 1 General
     
-*   This is a reprint of the Hutt Valley Drainage Act 1967\. The reprint incorporates all the amendments to the Act as at 1 August 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Hutt Valley Drainage Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][140] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][142] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][141] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][143] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][142] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][144] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][143] and [17E][144] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][145] and [17E][146] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1404,33 +1420,35 @@ That portion of the County of Hutt bounded by a line commencing at the north-wes
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport Management Amendment Act 2008 (2008 No 47): [section 47(1)(c)][122]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][109]
     
-    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][118]
+    Land Transport Management Amendment Act 2008 (2008 No 47): [section 47(1)(c)][123]
     
-    Public Trust Act 2001 (2001 No 100): [section 170(2)][134]
+    Chartered Professional Engineers of New Zealand Act 2002 (2002 No 17): [section 76][119]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][137]
+    Public Trust Act 2001 (2001 No 100): [section 170(2)][135]
     
-    Arbitration Act 1996 (1996 No 99): [section 20][120]
+    Public Audit Act 2001 (2001 No 10): [section 52][138]
     
-    Government Roading Powers Act 1989 (1989 No 75): [section 116(3)(a)][123]
+    Arbitration Act 1996 (1996 No 99): [section 20][121]
     
-    Public Finance Act 1989 (1989 No 44): [section 87][127]
+    Government Roading Powers Act 1989 (1989 No 75): [section 116(3)(a)][124]
     
-    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][128]
+    Public Finance Act 1989 (1989 No 44): [section 87][128]
     
-    Local Government Amendment Act (No 3) 1986 (1986 No 50): [section 15(1)][117]
+    Ministry of Works and Development Abolition Act 1988 (1988 No 42): [section 8][129]
     
-    Local Government Amendment Act 1985 (1985 No 60): [section 39(2), (3)][111]
+    Local Government Amendment Act (No 3) 1986 (1986 No 50): [section 15(1)][118]
+    
+    Local Government Amendment Act 1985 (1985 No 60): [section 39(2), (3)][112]
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][105]
     
-    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][125], [18(2)][109]
+    District Courts Amendment Act 1979 (1979 No 125): [sections 2(3)][126], [18(2)][110]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][110]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][111]
     
-    [Hutt Valley Drainage Amendment Act 1978][145] (1978 No 10 (L))
+    [Hutt Valley Drainage Amendment Act 1978][147] (1978 No 10 (L))
     
     Public Finance Act 1977 (1977 No 65): section 160(1)
     
@@ -1553,40 +1571,42 @@ That portion of the County of Hutt bounded by a line commencing at the north-wes
 [106]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM68214
 [107]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM39895
 [108]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM68215
-[109]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35085
-[110]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35049
-[111]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM75660
-[112]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM264952
-[113]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419520
-[114]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419524
-[115]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419548
-[116]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419551
-[117]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM93869
-[118]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM145126
-[119]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM403276
-[120]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM405710
-[121]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM174408
-[122]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM1313614
-[123]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM175926
-[124]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM242775
-[125]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35057
-[126]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM163137
-[127]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM163176
-[128]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM131615
-[129]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM306935
-[130]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73511
-[131]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73517
-[132]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM160976
-[133]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM304793
-[134]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM124529
-[135]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM235134
-[136]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73523
-[137]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM88956
-[138]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM310742
-[139]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM305839
-[140]: http://www.pco.parliament.govt.nz/reprints/
-[141]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195439
-[142]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[143]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195468
-[144]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195470
-[145]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73504
+[109]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM3360714
+[110]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35085
+[111]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35049
+[112]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM75660
+[113]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM264952
+[114]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419520
+[115]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419524
+[116]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419548
+[117]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM419551
+[118]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM93869
+[119]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM145126
+[120]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM403276
+[121]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM405710
+[122]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM174408
+[123]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM1313614
+[124]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM175926
+[125]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM242775
+[126]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM35057
+[127]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM163137
+[128]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM163176
+[129]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM131615
+[130]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM306935
+[131]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73511
+[132]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73517
+[133]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM160976
+[134]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM304793
+[135]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM124529
+[136]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM235134
+[137]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73523
+[138]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM88956
+[139]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM311863
+[140]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM3360067
+[141]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM305839
+[142]: http://www.pco.parliament.govt.nz/reprints/
+[143]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195439
+[144]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[145]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195468
+[146]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM195470
+[147]: http://www.legislation.govt.nz/act/local/1967/0003/latest/link.aspx?id=DLM73504
