@@ -1,7 +1,7 @@
 Reprint  
-as at 21 April 2005
+as at 30 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Registered Architects Act 2005Public Act2005 No 38
 
@@ -13,231 +13,231 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purpose][4]
+[3][4][][4][Purpose][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Registration, complaints, and discipline][7]
 
 [Title of registered architect and its protection][8]
 
-[6][9] [Title of registered architect][9]
+[6][9][][9][Title of registered architect][9]
 
-[7][10] [Protection of titles registered architect and architect][10]
+[7][10][][10][Protection of titles registered architect and architect][10]
 
 [Registration provisions][11]
 
-[8][12] [Entitlement to registration as registered architect][12]
+[8][12][][12][Entitlement to registration as registered architect][12]
 
-[9][13] [Applications for registration][13]
+[9][13][][13][Applications for registration][13]
 
-[10][14] [Board to register applicant or decline application][14]
+[10][14][][14][Board to register applicant or decline application][14]
 
-[11][15] [Expiry of registration][15]
+[11][15][][15][Expiry of registration][15]
 
-[12][16] [Registered architect must meet applicable minimum standards for registration to continue to be registered][16]
+[12][16][][16][Registered architect must meet applicable minimum standards for registration to continue to be registered][16]
 
-[13][17] [Consequences of failure to meet applicable minimum standards for registration][17]
+[13][17][][17][Consequences of failure to meet applicable minimum standards for registration][17]
 
-[14][18] [Cancellation of registration][18]
+[14][18][][18][Cancellation of registration][18]
 
-[15][19] [Mandatory suspension of registration][19]
+[15][19][][19][Mandatory suspension of registration][19]
 
-[16][20] [Voluntary suspension of registration][20]
+[16][20][][20][Voluntary suspension of registration][20]
 
-[17][21] [Effect of suspension of registration][21]
+[17][21][][21][Effect of suspension of registration][21]
 
 [Register of registered architects][22]
 
-[18][23] [Register of registered architects][23]
+[18][23][][23][Register of registered architects][23]
 
-[19][24] [Purpose of register][24]
+[19][24][][24][Purpose of register][24]
 
-[20][25] [Form of register][25]
+[20][25][][25][Form of register][25]
 
-[21][26] [Matters to be shown in register][26]
+[21][26][][26][Matters to be shown in register][26]
 
-[22][27] [Register to be public][27]
+[22][27][][27][Register to be public][27]
 
-[23][28] [Alterations to register][28]
+[23][28][][28][Alterations to register][28]
 
 [Discipline][29]
 
-[24][30] [Complaints about registered architects][30]
+[24][30][][30][Complaints about registered architects][30]
 
-[25][31] [Grounds for discipline of registered architects][31]
+[25][31][][31][Grounds for discipline of registered architects][31]
 
-[26][32] [Disciplinary penalties][32]
+[26][32][][32][Disciplinary penalties][32]
 
-[27][33] [Non-payment of fines or costs][33]
+[27][33][][33][Non-payment of fines or costs][33]
 
 [Decision-making functions and general procedure of Board under this Part][34]
 
-[28][35] [Specified procedure for making decisions][35]
+[28][35][][35][Specified procedure for making decisions][35]
 
-[29][36] [Other procedure for making decisions][36]
+[29][36][][36][Other procedure for making decisions][36]
 
 [Powers and procedure of Board on disciplinary matters][37]
 
-[30][38] [Board may hear evidence for disciplinary matters][38]
+[30][38][][38][Board may hear evidence for disciplinary matters][38]
 
-[31][39] [District Court may authorise Board to summon witnesses on disciplinary matters][39]
+[31][39][][39][District Court may authorise Board to summon witnesses on disciplinary matters][39]
 
-[32][40] [Issuing of summons by Board][40]
+[32][40][][40][Issuing of summons by Board][40]
 
-[33][41] [Serving of summons][41]
+[33][41][][41][Serving of summons][41]
 
-[34][42] [Witnesses' fees, allowances, and expenses][42]
+[34][42][][42][Witnesses' fees, allowances, and expenses][42]
 
-[35][43] [Failure to comply with summons][43]
+[35][43][][43][Failure to comply with summons][43]
 
-[36][44] [Protection for members of Board and others for disciplinary matters][44]
+[36][44][][44][Protection for members of Board and others for disciplinary matters][44]
 
-[37][45] [Enforcement of orders][45]
+[37][45][][45][Enforcement of orders][45]
 
 [Appeal of decisions][46]
 
-[38][47] [Right of appeal][47]
+[38][47][][47][Right of appeal][47]
 
-[39][48] [Notice of right of appeal][48]
+[39][48][][48][Notice of right of appeal][48]
 
-[40][49] [Actions to have effect pending determination of appeal][49]
+[40][49][][49][Actions to have effect pending determination of appeal][49]
 
-[41][50] [Procedure on appeal][50]
+[41][50][][50][Procedure on appeal][50]
 
-[42][51] [Court's decision final][51]
+[42][51][][51][Court's decision final][51]
 
-[43][52] [Court may refer matter back for reconsideration][52]
+[43][52][][52][Court may refer matter back for reconsideration][52]
 
-[44][53] [Orders as to costs][53]
+[44][53][][53][Orders as to costs][53]
 
-[45][54] [Orders as to publication of names][54]
+[45][54][][54][Orders as to publication of names][54]
 
-[46][55] [Appeal on question of law][55]
+[46][55][][55][Appeal on question of law][55]
 
 [Part 3][56]  
 [New Zealand Registered Architects' Board][56]
 
-[47][57] [Establishment of New Zealand Registered Architects' Board][57]
+[47][57][][57][Establishment of New Zealand Registered Architects' Board][57]
 
-[48][58] [Board is body corporate][58]
+[48][58][][58][Board is body corporate][58]
 
-[49][59] [Capacity and powers][59]
+[49][59][][59][Capacity and powers][59]
 
-[50][60] [Functions of Board][60]
+[50][60][][60][Functions of Board][60]
 
-[51][61] [Members and their role][61]
+[51][61][][61][Members and their role][61]
 
-[52][62] [Composition of Board][62]
+[52][62][][62][Composition of Board][62]
 
-[53][63] [Criteria for appointment][63]
+[53][63][][63][Criteria for appointment][63]
 
-[54][64] [Further provisions as to Board and its members][64]
+[54][64][][64][Further provisions as to Board and its members][64]
 
 [Committees of Board][65]
 
-[55][66] [Board may appoint committees][66]
+[55][66][][66][Board may appoint committees][66]
 
-[56][67] [Membership of committee][67]
+[56][67][][67][Membership of committee][67]
 
-[57][68] [Committee to regulate own procedure][68]
+[57][68][][68][Committee to regulate own procedure][68]
 
 [Reporting by Board][69]
 
-[58][70] [Obligation to prepare annual report][70]
+[58][70][][70][Obligation to prepare annual report][70]
 
-[59][71] [Form and content of annual report][71]
+[59][71][][71][Form and content of annual report][71]
 
-[60][72] [Annual financial statements and statement of responsibility][72]
+[60][72][][72][Annual financial statements and statement of responsibility][72]
 
-[61][73] [Audit][73]
+[61][73][][73][Audit][73]
 
-[62][74] [Obligation for Board to provide annual report to Minister][74]
+[62][74][][74][Obligation for Board to provide annual report to Minister][74]
 
-[63][75] [Board to publish reports][75]
+[63][75][][75][Board to publish reports][75]
 
-[64][76] [Annual reports to be presented to House of Representatives][76]
+[64][76][][76][Annual reports to be presented to House of Representatives][76]
 
-[65][77] [Power of Minister to require information relating to affairs of Board][77]
+[65][77][][77][Power of Minister to require information relating to affairs of Board][77]
 
-[66][78] [Financial year of Board][78]
+[66][78][][78][Financial year of Board][78]
 
 [Rules relating to registered architects][79]
 
-[67][80] [Board must make rules relating to registered architects][80]
+[67][80][][80][Board must make rules relating to registered architects][80]
 
-[68][81] [Particular requirements for preparation and approval of rules][81]
+[68][81][][81][Particular requirements for preparation and approval of rules][81]
 
-[69][82] [Rules must be approved by Minister][82]
+[69][82][][82][Rules must be approved by Minister][82]
 
-[70][83] [Revision of rules][83]
+[70][83][][83][Revision of rules][83]
 
-[71][84] [Approval of revised rule][84]
+[71][84][][84][Approval of revised rule][84]
 
-[72][85] [Review of rules][85]
+[72][85][][85][Review of rules][85]
 
-[73][86] [Requirements relating to amendments and revocations][86]
+[73][86][][86][Requirements relating to amendments and revocations][86]
 
-[74][87] [Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989 to rules][87]
+[74][87][][87][Application of Legislation Act 2012 to rules][87]
 
 [Part 4][88]  
 [Miscellaneous provisions][88]
 
 [Miscellaneous][89]
 
-[75][90] [Certificate of Board to be conclusive evidence][90]
+[75][90][][90][Certificate of Board to be conclusive evidence][90]
 
-[76][91] [Payment and application of charges, fines, and other money][91]
+[76][91][][91][Payment and application of charges, fines, and other money][91]
 
-[77][92] [Regulations][92]
+[77][92][][92][Regulations][92]
 
 [Transitional and consequential provisions: Outline][93]
 
-[78][94] [Outline of transitional and consequential provisions][94]
+[78][94][][94][Outline of transitional and consequential provisions][94]
 
 [Transitional provisions relating to existing architects][95]
 
-[79][96] [Persons entitled to retain registration until 30 June 2007][96]
+[79][96][][96][Persons entitled to retain registration until 30 June 2007][96]
 
-[80][97] [Annual practising certificates issued under Architects Act 1963 to continue in full force][97]
+[80][97][][97][Annual practising certificates issued under Architects Act 1963 to continue in full force][97]
 
 [Transitional and consequential provisions relating to establishment of Board][98]
 
-[81][99] [Architects Education and Registration Board to pay start-up amount to Board][99]
+[81][99][][99][Architects Education and Registration Board to pay start-up amount to Board][99]
 
-[82][100] [Related amendments to other Acts][100]
+[82][100][][100][Related amendments to other Acts][100]
 
 [Other transitional and consequential provisions][101]
 
-[83][102] [Related amendment to Privacy Act 1993][102]
+[83][102][][102][Related amendment to Privacy Act 1993][102]
 
-[84][103] [Dissolution of Architects Education and Registration Board][103]
+[84][103][][103][Dissolution of Architects Education and Registration Board][103]
 
-[85][104] [Repeal of Architects Act 1963][104]
+[85][104][][104][Repeal of Architects Act 1963][104]
 
-[86][105] [Existing matters and existing proceedings][105]
+[86][105][][105][Existing matters and existing proceedings][105]
 
-[87][106] [Securities Act 1978 amended][106]
+[87][106][][106][Securities Act 1978 amended][106]
 
 [Schedule][107]  
 [Further provisions applying to Board and its members][107]
@@ -332,7 +332,9 @@ Registration, complaints, and discipline
     
     (3) Despite subsections (1) and (2), a person may use the title ""registered architect"" or ""architect"" (or words, initials, or abbreviations of those titles), in accordance with the rules, in representing qualifications or titles awarded by overseas agencies.
     
-    (4) A person who contravenes subsection (1) or subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000\.
+    (4) A person who contravenes subsection (1) or subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $10,000\.
+    
+    Section 7(4): amended, on 1 July 2013, by [section 413][108] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Registration provisions
 
@@ -552,13 +554,21 @@ Registration, complaints, and discipline
     
 *   (1) Any person may complain to the Board about the conduct of a registered architect in accordance with the rules.
     
-    (2) The Board must, as soon as practicable after receiving a complaint, investigate the complaint and determine whether or not to proceed with it.
+    (2) As soon as practicable after receiving a complaint, the Board must---
+        
+    *   (a) decide whether to proceed with the complaint in accordance with the rules; and
     
-    (3) If the Board determines not to proceed with a complaint because the matter relates to a building practitioner who is licensed under the [Building Act 2004][108], the Board must refer the complaint to the Registrar of Licensed Building Practitioners appointed under that Act.
+    *   (b) if it decides to proceed with the complaint, appoint 1 or more persons in accordance with the rules to investigate, and report on, the complaint; and
+    
+    *   (c) determine the complaint in accordance with the rules after considering the report of that investigator or of those investigators (as the case may be).
+    
+    (3) If the Board determines not to proceed with a complaint because the matter relates to a building practitioner who is licensed under the [Building Act 2004][109], the Board must refer the complaint to the Registrar of Licensed Building Practitioners appointed under that Act.
     
     (4) A complaint or inquiry, and any decision on the complaint or inquiry, may relate to a person who is no longer a registered architect but who was a registered architect at the time of the relevant conduct.
     
-    Compare: 2002 No 17 [s 20][109]
+    Compare: 2002 No 17 [s 20][110]
+    
+    Section 24(2): replaced, on 30 August 2013, by [section 4][111] of the Registered Architects Amendment Act 2012 (2012 No 66).
 
 ##### 25 Grounds for discipline of registered architects
     
@@ -588,7 +598,7 @@ Registration, complaints, and discipline
     
     (2) The Board may take the action whether or not the person is still a registered architect.
     
-    Compare: 2002 No 17 [s 21][110]
+    Compare: 2002 No 17 [s 21][112]
 
 ##### 26 Disciplinary penalties
     
@@ -624,11 +634,11 @@ Registration, complaints, and discipline
     
     (5) In addition to notifying the action taken by the Board in the register, the Board---
         
-    *   (a) must notify the Registrar of Licensed Building Practitioners appointed under the [Building Act 2004][108] of the action and the reasons for it; and
+    *   (a) must notify the Registrar of Licensed Building Practitioners appointed under the [Building Act 2004][109] of the action and the reasons for it; and
     
     *   (b) may publicly notify the action in any other way that it thinks fit.
     
-    Compare: 2002 No 17 [s 22][111]
+    Compare: 2002 No 17 [s 22][113]
 
 ##### 27 Non-payment of fines or costs
     
@@ -638,7 +648,7 @@ Registration, complaints, and discipline
     
     *   (b) suspend the person's registration until the person pays the money and, if he or she does not do so within 12 months, cancel his or her registration and remove his or her name from the register.
     
-    Compare: 2002 No 17 [s 23][112]
+    Compare: 2002 No 17 [s 23][114]
 
 #### Decision-making functions and general procedure of Board under this Part
 
@@ -654,7 +664,7 @@ Registration, complaints, and discipline
     
     *   (d) comply with any regulations made under [section 77][92].
     
-    Compare: 2002 No 17 [s 25][113]
+    Compare: 2002 No 17 [s 25][115]
 
 ##### 29 Other procedure for making decisions
     
@@ -670,9 +680,9 @@ Registration, complaints, and discipline
     
     *   (b) permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath, statutory declaration, or otherwise.
     
-    (2) A hearing before the Board on a disciplinary matter is a judicial proceeding for the purposes of [sections 108][114] and [109][115] of the Crimes Act 1961\.
+    (2) A hearing before the Board on a disciplinary matter is a judicial proceeding for the purposes of [sections 108][116] and [109][117] of the Crimes Act 1961\.
     
-    Compare: 2002 No 17 [s 27][116]
+    Compare: 2002 No 17 [s 27][118]
 
 ##### 31 District Court may authorise Board to summon witnesses on disciplinary matters
     
@@ -684,7 +694,7 @@ Registration, complaints, and discipline
     
     *   (b) it is necessary or desirable that the summons be issued to compel the attendance of the witness at the hearing.
     
-    Compare: 2002 No 17 [s 28][117]
+    Compare: 2002 No 17 [s 28][119]
 
 ##### 32 Issuing of summons by Board
     
@@ -708,7 +718,7 @@ Registration, complaints, and discipline
     
     (3) The Board may require that any documents, things, or information produced under this section be verified by oath, statutory declaration, or otherwise.
     
-    Compare: 2002 No 17 [s 29][118]
+    Compare: 2002 No 17 [s 29][120]
 
 ##### 33 Serving of summons
     
@@ -726,15 +736,17 @@ Registration, complaints, and discipline
     
     (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
     
-    Compare: 2002 No 17 [s 30][119]
+    Compare: 2002 No 17 [s 30][121]
 
 ##### 34 Witnesses' fees, allowances, and expenses
     
-*   (1) A witness appearing before the Board under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Summary Proceedings Act 1957][120].
+*   (1) A witness appearing before the Board under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the [Criminal Procedure Act 2011][122].
     
     (2) The person requiring attendance of the witness must pay or tender to the witness the fees, allowances, and expenses at the time the summons is served or at some other reasonable time before the hearing.
     
-    Compare: 2002 No 17 [s 31][121]
+    Compare: 2002 No 17 [s 31][123]
+    
+    Section 34(1): amended, on 1 July 2013, by [section 413][108] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Failure to comply with summons
     
@@ -750,11 +762,13 @@ Registration, complaints, and discipline
     
     *   (e) does not provide any documents, things, or information that the summons requires the person to provide.
     
-    (2) A person who commits an offence against this section is liable on summary conviction to a fine not exceeding $2,000\.
+    (2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000\.
     
     (3) A person must not be convicted of an offence under this section if witnesses' fees, allowances, and expenses to which the person is entitled under [section 34][42] have not been paid or tendered to him or her.
     
-    Compare: 2002 No 17 [s 32][122]
+    Compare: 2002 No 17 [s 32][124]
+    
+    Section 35(2): amended, on 1 July 2013, by [section 413][108] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Protection for members of Board and others for disciplinary matters
     
@@ -768,13 +782,13 @@ Registration, complaints, and discipline
     
     (3) Every counsel appearing before the Board in relation to a disciplinary matter has the same privileges and immunities as counsel in court.
     
-    Compare: 2002 No 17 [s 33][123]
+    Compare: 2002 No 17 [s 33][125]
 
 ##### 37 Enforcement of orders
     
 *   If the Board, acting in accordance with this Act and the rules in relation to a disciplinary matter, takes an action or otherwise exercises any power in respect of a person who is or was a registered architect, that action or other exercise of any power has effect whether or not that person remains a registered architect.
     
-    Compare: 2002 No 17 [s 34][124]
+    Compare: 2002 No 17 [s 34][126]
 
 #### Appeal of decisions
 
@@ -794,7 +808,7 @@ Registration, complaints, and discipline
     
     *   (b) must be lodged within 20 working days after notice of the decision or action is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after the period expires.
     
-    Compare: 2002 No 17 [s 35][125]
+    Compare: 2002 No 17 [s 35][127]
 
 ##### 39 Notice of right of appeal
     
@@ -804,7 +818,7 @@ Registration, complaints, and discipline
     
 *   A decision or action against which an appeal is lodged under this Part continues in force unless the District Court orders otherwise.
     
-    Compare: 2002 No 17 [s 36][126]
+    Compare: 2002 No 17 [s 36][128]
 
 ##### 41 Procedure on appeal
     
@@ -824,7 +838,7 @@ Registration, complaints, and discipline
     
     *   (b) any decision or action not appealed against at all.
     
-    Compare: 2002 No 17 [s 37][127]
+    Compare: 2002 No 17 [s 37][129]
 
 ##### 42 Court's decision final
     
@@ -876,13 +890,15 @@ Registration, complaints, and discipline
     
     (2) The appeal must be heard and determined in accordance with the appropriate rules of court.
     
-    (3) [Part 4][128] of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal---
+    (3) [Part 6][130] of the Criminal Procedure Act 2011 applies to the appeal---
         
     *   (a) so far as it is applicable and with all necessary modifications; but
     
     *   (b) only so far as it relates to appeals on questions of law.
     
     (4) Subsection (3) overrides subsection (2).
+    
+    Section 46(3): amended, on 1 July 2013, by [section 413][108] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 3  
 New Zealand Registered Architects' Board
@@ -969,7 +985,7 @@ New Zealand Registered Architects' Board
     
 *   (1) The Board may, by resolution, appoint 1 or more committees to---
         
-    *   (a) perform any of the Board's functions or duties, or exercise any of the Board's powers, that are delegated to the committee under [clause 33][129] of the Schedule:
+    *   (a) perform any of the Board's functions or duties, or exercise any of the Board's powers, that are delegated to the committee under [clause 33][131] of the Schedule:
     
     *   (b) inquire into, and report to the Board on, any matters within the scope of the Board's functions, duties, or powers that are referred to the committee by the Board.
     
@@ -1013,7 +1029,7 @@ New Zealand Registered Architects' Board
 
 ##### 60 Annual financial statements and statement of responsibility
     
-*   (1) The Board must prepare its annual financial statements with respect to its affairs for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][130] of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
+*   (1) The Board must prepare its annual financial statements with respect to its affairs for each financial year in accordance with generally accepted accounting practice (within the meaning of [section 3][132] of the Financial Reporting Act 1993, applied as if the Board were a reporting entity).
     
     (2) The annual financial statements must contain---
         
@@ -1075,9 +1091,9 @@ New Zealand Registered Architects' Board
         
     *   (a) withholding the information is necessary to protect the privacy of any person (including a deceased person); or
     
-    *   (b) there would, under the [Official Information Act 1982][131], be good reason for withholding the information if---
+    *   (b) there would, under the [Official Information Act 1982][133], be good reason for withholding the information if---
             
-        *   (i) the request had been made under [section 12][132] of that Act and [section 9(2)(a)][133] of that Act applied; and
+        *   (i) the request had been made under [section 12][134] of that Act and [section 9(2)(a)][135] of that Act applied; and
         
         *   (ii) the need to protect the privacy of any person were not outweighed by the Minister's need to have the information in order to discharge the Minister's ministerial duties; or
         
@@ -1129,11 +1145,19 @@ New Zealand Registered Architects' Board
     
     *   (i) the information that must be provided by complainants, and the way in which this information must be evaluated and decisions on whether or not to proceed with the complaint must be made and implemented:
     
-    *   (j) an investigating committee to investigate complaints about, and inquire into the conduct of, registered architects and former registered architects, and the powers and procedures of that committee under this Act:
+    *   (j) how complaints about the conduct of registered architects or former registered architects must be dealt with, including---
+            
+        *   (i) the procedure for appointing a person or persons to investigate, and report on, a complaint:
+        
+        *   (ii) the requirement that at least 1 person appointed for the purpose specified in subparagraph (i) must not be a member of the Board:
+        
+        *   (iii) the procedure of the Board in determining a complaint:
+        
+        
     
-    *   (k) a disciplinary committee to hear complaints and matters referred to it by the investigating committee, and the powers and procedures of that committee under this Act:
+    *   (k) how a matter about the conduct of registered architects or former registered architects that is raised by the Board's own inquiries must be dealt with:
     
-    *   (l) the way in which a disciplinary matter must be considered and decided on, and the way in which decisions on that matter must be implemented:
+    *   (l) how decisions on a complaint or inquiry must be implemented:
     
     *   ###### Rule-making procedures
     
@@ -1147,7 +1171,13 @@ New Zealand Registered Architects' Board
     
     (4) The rules must be consistent with this Act.
     
-    Compare: 2002 No 17 [s 39][134]
+    Compare: 2002 No 17 [s 39][136]
+    
+    Section 67(2)(j): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
+    
+    Section 67(2)(k): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
+    
+    Section 67(2)(l): replaced, on 30 August 2013, by [section 5][137] of the Registered Architects Amendment Act 2012 (2012 No 66).
 
 ##### 68 Particular requirements for preparation and approval of rules
     
@@ -1159,7 +1189,7 @@ New Zealand Registered Architects' Board
     
     *   (c) take into account international best practice and New Zealand's international obligations.
     
-    Compare: 2002 No 17 [s 40][135]
+    Compare: 2002 No 17 [s 40][138]
 
 ##### 69 Rules must be approved by Minister
     
@@ -1219,9 +1249,11 @@ New Zealand Registered Architects' Board
     
 *   The requirements of [sections 68 to 71][81] that apply to making a rule containing a registered architects standard apply also to any amendment or revocation of that rule.
 
-##### 74 Application of Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989 to rules
+##### 74 Application of Legislation Act 2012 to rules
     
-*   The rules are regulations for the purposes of the [Regulations (Disallowance) Act 1989][136] and the [Acts and Regulations Publication Act 1989][137].
+*   The rules are a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][139] and must be presented to the House of Representatives under [section 41][140] of that Act.
+    
+    Section 74: replaced, on 5 August 2013, by [section 77(3)][141] of the Legislation Act 2012 (2012 No 119).
 
 ## Part 4  
 Miscellaneous provisions
@@ -1330,15 +1362,15 @@ Miscellaneous provisions
 
 ##### 82 Related amendments to other Acts
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][138]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][142]_.
     
-    (2) _Amendment(s) incorporated in the [Act(s)][139]_.
+    (2) _Amendment(s) incorporated in the [Act(s)][143]_.
 
 #### Other transitional and consequential provisions
 
 ##### 83 Related amendment to Privacy Act 1993
     
-*   _Amendment(s) incorporated in the [Act(s)][140]_.
+*   _Amendment(s) incorporated in the [Act(s)][144]_.
 
 ##### 84 Dissolution of Architects Education and Registration Board
     
@@ -1362,7 +1394,7 @@ Miscellaneous provisions
     
     *   (b) the Architects Regulations 2002 (SR 2002/398) are revoked:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][139]_.
+    *   (c) _Amendment(s) incorporated in the [Act(s)][143]_.
     
     
 
@@ -1374,7 +1406,7 @@ Miscellaneous provisions
 
 ##### 87 Securities Act 1978 amended
     
-*   _Amendment(s) incorporated in the [Act(s)][141]_.
+*   _Amendment(s) incorporated in the [Act(s)][145]_.
 
 ---
 
@@ -1393,7 +1425,7 @@ Further provisions applying to Board and its members
         
     *   (a) state the date on which the appointment takes effect; and
     
-    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][142] at the time of the certificate.
+    *   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under [clauses 13 to 16][146] at the time of the certificate.
     
     
 
@@ -1403,13 +1435,13 @@ Further provisions applying to Board and its members
         
     *   (a) a person who is an undischarged bankrupt:
     
-    *   (b) a person who is prohibited from being a member or promoter of, or being concerned or taking part in the management of, a company under [section 382][143], [section 383][144], or [section 385][145] of the Companies Act 1993:
+    *   (b) a person who is prohibited from being a member or promoter of, or being concerned or taking part in the management of, a company under [section 382][147], [section 383][148], or [section 385][149] of the Companies Act 1993:
     
-    *   (c) a person who is subject to a property order made under [section 10][146], [section 11][147], [section 12][148], [section 30][149], or [section 31][150] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][151] of that Act:
+    *   (c) a person who is subject to a property order made under [section 10][150], [section 11][151], [section 12][152], [section 30][153], or [section 31][154] of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under [section 32][155] of that Act:
     
     *   (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
     
-    *   (e) a person who has failed to disclose interests under [clause 1(2)][152]:
+    *   (e) a person who has failed to disclose interests under [clause 1(2)][156]:
     
     *   (f) a person who is not a natural person.
     
@@ -1433,7 +1465,7 @@ Further provisions applying to Board and its members
         
         
     
-    (2) This clause is subject to [clause 8][153].
+    (2) This clause is subject to [clause 8][157].
 
 ##### 4 Concurrent offices
     
@@ -1477,11 +1509,11 @@ Further provisions applying to Board and its members
     
 *   A member ceases to hold office if he or she---
         
-    *   (a) resigns in accordance with [clause 6][154]; or
+    *   (a) resigns in accordance with [clause 6][158]; or
     
-    *   (b) is removed from office in accordance with [clause 7][155] or any other enactment; or
+    *   (b) is removed from office in accordance with [clause 7][159] or any other enactment; or
     
-    *   (c) becomes disqualified from being a member under [clause 2][156]; or
+    *   (c) becomes disqualified from being a member under [clause 2][160]; or
     
     *   (d) otherwise ceases to hold office in accordance with any enactment.
     
@@ -1493,13 +1525,13 @@ Further provisions applying to Board and its members
     
 *   (1) A member is accountable to the Minister for performing his or her duties and responsibilities as a member.
     
-    (2) If the Board breaches any of its duties under [clause 11][157],---
+    (2) If the Board breaches any of its duties under [clause 11][161],---
         
     *   (a) each member of the Board is accountable to the Minister for the breach; and
     
     *   (b) that breach justifies all or any of the members being removed from office.
     
-    (3) The duties of members and the Board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][157]) and only to the Minister and the Board (in the case of all other duties), and do not provide any ground of action for any other person.
+    (3) The duties of members and the Board under this schedule are duties owed only to the Minister (in the case of duties under [clause 11][161]) and only to the Minister and the Board (in the case of all other duties), and do not provide any ground of action for any other person.
 
 ##### 10 Duties of members
     
@@ -1581,11 +1613,11 @@ Further provisions applying to Board and its members
 
 ##### 14 Obligation to disclose interest
     
-*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 15][158] as soon as practicable after the member becomes aware that he or she is interested.
+*   A member who is interested in a transaction or proposed transaction of, or other matter relating to, the Board must disclose the nature of the interest in accordance with [clause 15][162] as soon as practicable after the member becomes aware that he or she is interested.
 
 ##### 15 Method of disclosure of interest
     
-*   (1) If [clause 14][159] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
+*   (1) If [clause 14][163] applies, the member must disclose the details listed in subclause (2) in an interests register and to---
         
     *   (a) the chairperson or, if there is no chairperson, the deputy chairperson; or
     
@@ -1621,7 +1653,7 @@ Further provisions applying to Board and its members
     
     *   (c) in accordance with subclause (2); or
     
-    *   (d) in complying with [clauses 14][159] and [15][158].
+    *   (d) in complying with [clauses 14][163] and [15][162].
     
     (2) A member may disclose, make use of, or act on the information if---
         
@@ -1763,7 +1795,7 @@ Further provisions applying to Board and its members
 
 ##### 34 Effect of delegation
     
-*   (1) If any functions, duties, or powers are delegated under [clause 33][129], the delegate---
+*   (1) If any functions, duties, or powers are delegated under [clause 33][131], the delegate---
         
     *   (a) may, unless the delegation provides otherwise, perform the function or duty, or exercise the power, in the same manner, subject to the same restrictions and duties, and with the same effect as if the delegate were the Board; and
     
@@ -1771,7 +1803,7 @@ Further provisions applying to Board and its members
     
     (2) A delegate who purports to perform a function or duty, or exercise a power, under a delegation is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation.
     
-    (3) A delegation under [clause 33][129]---
+    (3) A delegation under [clause 33][131]---
         
     *   (a) may be revoked at will by resolution of the Board and written notice to the delegate; but
     
@@ -1789,7 +1821,7 @@ Further provisions applying to Board and its members
         
     *   (a) 2 or more of its members; or
     
-    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 36][160].
+    *   (b) 1 or more attorneys appointed by the Board in accordance with [clause 36][164].
     
     (3) An obligation that, if entered into by an individual, is required to be in writing may be entered into on behalf of the Board in writing by a person acting under the Board's express or implied authority.
     
@@ -1805,7 +1837,7 @@ Further provisions applying to Board and its members
 
 ##### 36 Attorneys
     
-*   (1) The Board may, by an instrument in writing executed in accordance with [clause 35(2)][161], appoint a person as its attorney either generally or in relation to a specified matter.
+*   (1) The Board may, by an instrument in writing executed in accordance with [clause 35(2)][165], appoint a person as its attorney either generally or in relation to a specified matter.
     
     (2) An act of the attorney in accordance with the instrument binds the Board.
 
@@ -1855,7 +1887,7 @@ Further provisions applying to Board and its members
 
 ##### 39 Application of Acts to members and employees
     
-*   No person is, by reason only of that person's appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][162] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][163].
+*   No person is, by reason only of that person's appointment as a member of, or employment by, the Board, deemed to be employed in the State services for the purposes of the [State Sector Act 1988][166] or in the Government service for the purposes of the [Government Superannuation Fund Act 1956][167].
 
 #### Financial provisions
 
@@ -1871,7 +1903,7 @@ Further provisions applying to Board and its members
 
 ##### 41 Bank accounts
     
-*   (1) The Board must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][164]).
+*   (1) The Board must establish, maintain, and operate 1 or more bank accounts at 1 or more registered banks (within the meaning of the [Reserve Bank of New Zealand Act 1989][168]).
     
     (2) All money received by the Board must be paid into that bank account or 1 of those bank accounts as soon as practicable after it has been received.
     
@@ -1879,7 +1911,7 @@ Further provisions applying to Board and its members
 
 ##### 42 Investment of money
     
-*   Any money that belongs to the Board and that is not immediately required may be invested subject to the restrictions in [section 161][165] of the Crown Entities Act 2004 (applied as if the Board were a Crown entity).
+*   Any money that belongs to the Board and that is not immediately required may be invested subject to the restrictions in [section 161][169] of the Crown Entities Act 2004 (applied as if the Board were a Crown entity).
 
 ##### 43 Board not to borrow without consent of Minister of Finance
     
@@ -1887,7 +1919,7 @@ Further provisions applying to Board and its members
 
 ##### 44 Auditor-General to be auditor of Board
     
-*   The Board is a public entity as defined in [section 4][166] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   The Board is a public entity as defined in [section 4][170] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 #### Subsidiaries
 
@@ -1895,74 +1927,35 @@ Further provisions applying to Board and its members
     
 *   The Board must not form, or acquire shares in, any body corporate except as approved by the Minister.
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Registered Architects Act 2005\. The reprint incorporates all the amendments to the Act as at 21 April 2005, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Registered Architects Act 2005 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][167] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][171] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][172] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][173] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][174] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][168] and [17E][169] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][141]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Registered Architects Amendment Act 2012][175] (2012 No 66)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][108]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM343169
 [2]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM343170
 [3]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM343171
@@ -2070,65 +2063,71 @@ Further provisions applying to Board and its members
 [105]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344302
 [106]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344303
 [107]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344305
-[108]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM306035
-[109]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144844
-[110]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144846
-[111]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144847
-[112]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144850
-[113]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144853
-[114]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM328793
-[115]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM328796
-[116]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144856
-[117]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144857
-[118]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144858
-[119]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144859
-[120]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM310742
-[121]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144860
-[122]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144861
-[123]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144862
-[124]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144863
-[125]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144865
-[126]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144866
-[127]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144867
-[128]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM312656
-[129]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344347
-[130]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM324886
-[131]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM64784
-[132]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65382
-[133]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65371
-[134]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144871
-[135]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144872
-[136]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195534
-[137]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195097
-[138]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM431296
-[139]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88987
-[140]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM298477
-[141]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM30446
-[142]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344321
-[143]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323249
-[144]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323252
-[145]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323259
-[146]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126583
-[147]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126585
-[148]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126587
-[149]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127009
-[150]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127010
-[151]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127016
-[152]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344307
-[153]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344314
-[154]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344312
-[155]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344313
-[156]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344308
-[157]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344318
-[158]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344323
-[159]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344322
-[160]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344351
-[161]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344350
-[162]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM129109
-[163]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM446000
-[164]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM199363
-[165]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM330566
-[166]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88548
-[167]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195439
-[168]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195468
-[169]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM195470
+[108]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM3360714
+[109]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM306035
+[110]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144844
+[111]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444608
+[112]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144846
+[113]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144847
+[114]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144850
+[115]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144853
+[116]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM328793
+[117]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM328796
+[118]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144856
+[119]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144857
+[120]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144858
+[121]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144859
+[122]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM3359902
+[123]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144860
+[124]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144861
+[125]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144862
+[126]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144863
+[127]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144865
+[128]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144866
+[129]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144867
+[130]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM3360366
+[131]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344347
+[132]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM324886
+[133]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM64784
+[134]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65382
+[135]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM65371
+[136]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144871
+[137]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444609
+[138]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM144872
+[139]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2997643
+[140]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998573
+[141]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998633
+[142]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM431296
+[143]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88987
+[144]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM298477
+[145]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM30446
+[146]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344321
+[147]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323249
+[148]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323252
+[149]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM323259
+[150]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126583
+[151]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126585
+[152]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM126587
+[153]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127009
+[154]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127010
+[155]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM127016
+[156]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344307
+[157]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344314
+[158]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344312
+[159]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344313
+[160]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344308
+[161]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344318
+[162]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344323
+[163]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344322
+[164]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344351
+[165]: http://www.legislation.govt.nz/act/public/2005/0038/latest/whole.html#DLM344350
+[166]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM129109
+[167]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM446000
+[168]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM199363
+[169]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM330566
+[170]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM88548
+[171]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998516
+[172]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998515
+[173]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM2998532
+[174]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[175]: http://www.legislation.govt.nz/act/public/2005/0038/latest/link.aspx?id=DLM4444602
