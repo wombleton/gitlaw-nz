@@ -1,5 +1,5 @@
 Reprint  
-as at 30 June 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -62,6 +62,8 @@ This Act is administered by Te Puni Kōkiri.
 
 [Part 2][19]  
 [Amendments of law relating to Maoris][19]
+
+\[Spent\]
 
 [17][20][][20][Provisions of Maori Affairs Act 1953 to apply to this Part][20] \[Spent\]
 
@@ -294,7 +296,9 @@ Lake Rotoaira
 
 ##### 11 Penalty for offences
     
-*   Every person who commits an offence against this Part is liable on summary conviction to a fine not exceeding $100\.
+*   Every person who commits an offence against this Part is liable on conviction to a fine not exceeding $100\.
+    
+    Section 11: amended, on 1 July 2013, by [section 413][62] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 12 Who may commence proceedings for offences
     
@@ -304,17 +308,17 @@ Lake Rotoaira
     
 *   From any fines recovered in proceedings for offences against this Part there shall be deducted and credited to a Crown Bank Account an amount equal to 5% of the amount of the fine, and the residue thereof after that deduction has been made shall be paid to the Trustees.
     
-    Section 13: amended, on 25 January 2005, pursuant to [section 65R(3)][62] of the Public Finance Act 1989 (1989 No 44).
+    Section 13: amended, on 25 January 2005, pursuant to [section 65R(3)][63] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 14 Modification of provisions of Conservation Act 1987
     
 *   The operation of the Conservation Act 1987, in its application to the Lake, is hereby modified as follows:
         
-    *   (a) [section 26ZO][63] of that Act shall not apply:
+    *   (a) [section 26ZO][64] of that Act shall not apply:
     
-    *   (b) [section 26R(4)(b)][64] of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words ""the area"" in that provision were the words ""the Lake"".
+    *   (b) [section 26R(4)(b)][65] of that Act shall apply as if the Trustees were a Fish and Game Council established under that Act, and the words ""the area"" in that provision were the words ""the Lake"".
     
-    Section 14: substituted, on 10 April 1990, by [section 37][65] of the Conservation Law Reform Act 1990 (1990 No 31).
+    Section 14: substituted, on 10 April 1990, by [section 37][66] of the Conservation Law Reform Act 1990 (1990 No 31).
 
 ##### 15 Regulations
     
@@ -356,16 +360,18 @@ Lake Rotoaira
     
 *   The following enactments are hereby repealed:
         
-    *   (a) _Amendment(s) incorporated in the [Act(s)][66]_.
+    *   (a) _Amendment(s) incorporated in the [Act(s)][67]_.
     
-    *   (b) _Amendment(s) incorporated in the [Act(s)][67]_.
+    *   (b) _Amendment(s) incorporated in the [Act(s)][68]_.
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][68]_.
+    *   (c) _Amendment(s) incorporated in the [Act(s)][69]_.
     
     
 
 ## Part 2  
 Amendments of law relating to Maoris
+
+\[Spent\]
     
 *   Part 2: spent, on 1 July 1993, pursuant to [section 362(2)][47] of Te Ture Whenua Maori Act 1993 (1993 No 4).
 
@@ -383,7 +389,7 @@ Amendments of law relating to Maoris
     
 *   \[Repealed\]
     
-    Section 18: repealed, on 16 October 1978, by [section 2(2)(a)][69] of the Maori Purposes Act 1978 (1978 No 70).
+    Section 18: repealed, on 16 October 1978, by [section 2(2)(a)][70] of the Maori Purposes Act 1978 (1978 No 70).
 
 ##### 19 Family protection
     
@@ -395,7 +401,7 @@ Amendments of law relating to Maoris
     
 *   \[Repealed\]
     
-    Section 20: repealed, on 25 October 1963, by [section 7(3)][70] of the Maori Purposes Act 1963 (1963 No 123).
+    Section 20: repealed, on 25 October 1963, by [section 7(3)][71] of the Maori Purposes Act 1963 (1963 No 123).
 
 ##### 21 Valuations for revision of rent
     
@@ -463,25 +469,25 @@ Amendments of law relating to Maoris
 
 ##### 31 Board may act as agent of borrower
     
-*   _Amendment(s) incorporated in the [Act(s)][71]_.
+*   _Amendment(s) incorporated in the [Act(s)][72]_.
 
 ##### 32 Training of young Maoris
     
-*   _Amendment(s) incorporated in the [Act(s)][72]_.
+*   _Amendment(s) incorporated in the [Act(s)][73]_.
 
 ##### 33 Charges for money advanced under Maori Housing Act 1935
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][73]_.
+*   (1) _Amendment(s) incorporated in the [Act(s)][74]_.
     
     (2) _Amendment(s) incorporated in the Act(s)_.
 
 ##### 34 Beneficiaries of the Tuhoe Maori Trust Board
     
-*   _Amendment(s) incorporated in the [Act(s)][74]_.
+*   _Amendment(s) incorporated in the [Act(s)][75]_.
 
 ##### 35 Maori Soldiers Trust Committee
     
-*   _Amendment(s) incorporated in the [Act(s)][75]_.
+*   _Amendment(s) incorporated in the [Act(s)][76]_.
 
 ---
 
@@ -499,23 +505,23 @@ Amendments of law relating to Maoris
 
 ###### 1 General
     
-*   This is a reprint of the Maori Purposes Act 1959\. The reprint incorporates all the amendments to the Act as at 30 June 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Maori Purposes Act 1959\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][76] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][77] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][77] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][78] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][78] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][79] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][79] and [17E][80] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][80] and [17E][81] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -548,6 +554,8 @@ Amendments of law relating to Maoris
     
 *   Public Finance (Mixed Ownership Model) Amendment Act 2012 (2012 No 45): [section 11][60]
     
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][62]
+    
     Cadastral Survey Act 2002 (2002 No 12): [section 68(2)][56]
     
     Electricity Industry Reform Act 1998 (1998 No 88): [section 100][59]
@@ -562,11 +570,11 @@ Amendments of law relating to Maoris
     
     Conservation Law Reform Act 1990 (1990 No 31): section 37
     
-    Public Finance Act 1989 (1989 No 44): [section 65R(3)][62]
+    Public Finance Act 1989 (1989 No 44): [section 65R(3)][63]
     
     Public Works Act 1981 (1981 No 35): [section 248(1)][57]
     
-    Maori Purposes Act 1978 (1978 No 70): [section 2(2)(a)][69]
+    Maori Purposes Act 1978 (1978 No 70): [section 2(2)(a)][70]
     
     Maori Purposes Act 1977 (1977 No 103): [sections 9][44], [10][61]
     
@@ -574,7 +582,7 @@ Amendments of law relating to Maoris
     
     Maori Purposes Act 1965 (1965 No 121): [section 11][55]
     
-    Maori Purposes Act 1963 (1963 No 123): [section 7(3)][70]
+    Maori Purposes Act 1963 (1963 No 123): [section 7(3)][71]
     
     Maori Affairs Amendment Act 1962 (1962 No 45): sections 8(2), 33(2), 34(3)
 
@@ -642,22 +650,23 @@ Amendments of law relating to Maoris
 [59]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM428672
 [60]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM4538252
 [61]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM9066
-[62]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM162942
-[63]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM106019
-[64]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM105734
-[65]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM208750
-[66]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM226787
-[67]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM246234
-[68]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM254466
-[69]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM24074
-[70]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM349937
-[71]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM219087
-[72]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM224632
-[73]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM224191
-[74]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM289372
-[75]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM310244
-[76]: http://www.pco.parliament.govt.nz/reprints/
-[77]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195439
-[78]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[79]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195468
-[80]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195470
+[62]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM3360714
+[63]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM162942
+[64]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM106019
+[65]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM105734
+[66]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM208750
+[67]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM226787
+[68]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM246234
+[69]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM254466
+[70]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM24074
+[71]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM349937
+[72]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM219087
+[73]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM224632
+[74]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM224191
+[75]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM289372
+[76]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM310244
+[77]: http://www.pco.parliament.govt.nz/reprints/
+[78]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195439
+[79]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[80]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195468
+[81]: http://www.legislation.govt.nz/act/public/1959/0090/latest/link.aspx?id=DLM195470
