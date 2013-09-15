@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2011
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,11 +13,11 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -57,9 +57,9 @@ This Act is administered by the Ministry of Economic Development.
 
 [7F][17][][17][Access to provisions incorporated by reference][17]
 
-[7G][18][][18][Acts and Regulations Publication Act 1989 not applicable to provisions incorporated by reference][18]
+[7G][18][][18][Application of Legislation Act 2012][18]
 
-[7H][19][][19][Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference][19]
+[7H][19][][19][Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference][19] \[Repealed\]
 
 [8][20][][20][Concessions][20]
 
@@ -69,7 +69,7 @@ This Act is administered by the Ministry of Economic Development.
 
 [9B][23][][23][Access to Tariff][23]
 
-[9C][24][][24][Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989][24]
+[9C][24][][24][Application of Legislation Act 2012][24]
 
 [9D][25][][25][Judicial notice of Tariff][25]
 
@@ -474,19 +474,19 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     Section 7F: inserted, on 1 January 2010 (immediately after the commencement of the Tariff (AANZFTA) Amendment Act 2009), by [section 4][78] of the Tariff Amendment Act 2009 (2009 No 62).
 
-##### 7G Acts and Regulations Publication Act 1989 not applicable to provisions incorporated by reference
+##### 7G Application of Legislation Act 2012
     
-*   The [Acts and Regulations Publication Act 1989][79] does not apply to provisions incorporated under [section 7C][14] or to an amendment to, or replacement of, those provisions.
+*   (1) An Order in Council that incorporates material by reference under [section 7C][14], or amends or replaces such an order, is a legislative instrument and a disallowable instrument for the purposes of the [Legislation Act 2012][79] and must be presented to the House of Representatives under [section 41][80] of that Act.
     
-    Section 7G: inserted, on 1 January 2010 (immediately after the commencement of the Tariff (AANZFTA) Amendment Act 2009), by [section 4][78] of the Tariff Amendment Act 2009 (2009 No 62).
+    (2) However, material incorporated by reference under [section 7C][14] does not have to be presented to the House of Representatives under [section 41][80] of that Act.
+    
+    Section 7G: replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
 ##### 7H Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
     
-*   (1) Nothing in [section 4][80] of the Regulations (Disallowance) Act 1989 requires provisions incorporated under [section 7C][14] to be laid before the House of Representatives.
+*   \[Repealed\]
     
-    (2) The [Regulations (Disallowance) Act 1989][81], apart from the modification to the application of [section 4][80] of that Act made by subsection (1) of this section, applies to an Order in Council that incorporates provisions under [section 7C][14].
-    
-    Section 7H: inserted, on 1 January 2010 (immediately after the commencement of the Tariff (AANZFTA) Amendment Act 2009), by [section 4][78] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 7H: repealed, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
 ##### 8 Concessions
     
@@ -540,7 +540,7 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
         
     *   (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
     
-    *   (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under [section 9][85] of the Acts and Regulations Publication Act 1989\.
+    *   (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under [section 7][85] of the Legislation Act 2012\.
     
     (2) The documents are---
         
@@ -567,16 +567,14 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     *   tables explaining the correlation between former and current Tariff items.
     
     Section 9B: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
+    
+    Section 9B(1)(b): amended, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
-##### 9C Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
+##### 9C Application of Legislation Act 2012
     
-*   Orders in Council amending or modifying the Tariff made under [section 9][21] or [10][29] on or after 1 January 2010---
-        
-    *   (a) are regulations for the purposes of the [Regulations (Disallowance) Act 1989][81] and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
+*   Orders in Council amending or modifying the Tariff made under [section 9][21] or [10][29] on or after 1 July 2011 are disallowable instruments, but not legislative instruments, for the purposes of the [Legislation Act 2012][79] and must be presented to the House of Representatives under [section 41][80] of that Act.
     
-    *   (b) are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][79].
-    
-    Section 9C: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
+    Section 9C: replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
 ##### 9D Judicial notice of Tariff
     
@@ -608,17 +606,19 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     (4) Nothing in this Act limits or affects the application of---
         
-    *   (a) the [Acts and Regulations Publication Act 1989][79] and the [Interpretation Act 1999][90] to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
+    *   (a) [Part 2][91] of the Legislation Act 2012 and the [Interpretation Act 1999][90] to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
     
     *   (b) the [Interpretation Act 1999][90] to an Order in Council made under [section 9][21] or [10][29].
     
     Section 9F: inserted, on 1 January 2010, by [section 8][86] of the Tariff Amendment Act 2009 (2009 No 62).
+    
+    Section 9F(4)(a): amended, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
 ##### 9G References to Schedule 1
     
 *   Every reference in the following to the Tariff or to [Schedule 1][48] of the Tariff Act 1988 must be read as if it were a reference to the Tariff (as defined by [section 2][3] of the Tariff Act 1988 as amended by [section 6(1)][54] of the Tariff Amendment Act 2009):
         
-    *   (a) an enactment not added, amended, inserted, or substituted by the [Tariff Amendment Act 2009][91] and in force at the commencement of this section:
+    *   (a) an enactment not added, amended, inserted, or substituted by the [Tariff Amendment Act 2009][92] and in force at the commencement of this section:
     
     *   (b) a document in operation at that commencement.
     
@@ -644,11 +644,11 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
 
 ##### 11 Orders in Council relating to Tariff
     
-*   (1) Every Order in Council made under [section 9][21] and laid before the House of Representatives pursuant to the [Regulations (Disallowance) Act 1989][81] shall expire on the close of 31 December in the calendar year following the calendar year during which it was so laid, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
+*   (1) Every Order in Council made under [section 9][21] and presented to the House of Representatives under the [Legislation Act 2012][79] expires on the close of 31 December in the calendar year following the calendar year during which it was presented to the House, except so far as it is expressly validated and confirmed by an Act of Parliament passed before that date.
     
     (2) If any Order in Council or any provision of any Order in Council expires by virtue of subsection (1), any duty collected under that Order in Council shall, except in so far as any other provision is made by an Act of Parliament in respect thereof, be refunded.
     
-    (3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under [section 9][21]) laid before it pursuant to the [Regulations (Disallowance) Act 1989][81] should be revoked or varied, it shall thereupon be revoked or varied in accordance with the terms of the resolution, and any duty payable shall, so far as such resolution provides, be refunded.
+    (3) If the House of Representatives resolves that any Order in Council made under this Act (other than an Order in Council made under [section 9][21]) presented to it under the [Legislation Act 2012][79] should be revoked or varied, it must be treated as having been revoked or varied in accordance with the terms of the resolution, and any duty payable must, so far as that resolution provides, be refunded.
     
     (4) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (1) shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
     
@@ -656,11 +656,9 @@ An Act to consolidate and amend the law relating to the imposition of tariff dut
     
     Compare: 1966 No 19 s 131
     
-    Section 11(1): amended, on 1 October 1996, by [section 289(1)][57] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 11(1): replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
     
-    Section 11(1): amended, on 19 December 1989, pursuant to [section 11][92] of the Regulations (Disallowance) Act 1989 (1989 No 143).
-    
-    Section 11(3): amended, on 19 December 1989, pursuant to [section 11][92] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 11(3): replaced, on 5 August 2013, by [section 77(3)][81] of the Legislation Act 2012 (2012 No 119).
 
 ##### 12 Actions pending alteration of Tariff
     
@@ -1077,88 +1075,47 @@ _Amendment(s) incorporated in the Act(s)._
 
 _Amendment(s) incorporated in the Act(s)._
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Tariff Act 1988\. The reprint incorporates all the amendments to the Act as at 1 January 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][109] ![](/images/external_link.gif).
+*   This is a reprint of the Tariff Act 1988 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][110] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][109] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][110] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][111] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][111] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][112] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][112] and [17E][113] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][81]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Limitation Act 2010 (2010 No 110): [section 58][94]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Tariff (Malaysia Free Trade Agreement) Amendment Act 2010][113] (2010 No 45)
     
+    [Tariff Amendment Act 2009][92] (2009 No 62)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Limitation Act 2010 (2010 No 110): [section 58][94]
-    
-    [Tariff (Malaysia Free Trade Agreement) Amendment Act 2010][114] (2010 No 45)
-    
-    [Tariff Amendment Act 2009][91] (2009 No 62)
-    
-    [Tariff (AANZFTA) Amendment Act 2009][115] (2009 No 20)
+    [Tariff (AANZFTA) Amendment Act 2009][114] (2009 No 20)
     
     Policing Act 2008 (2008 No 72): [section 116(a)(ii)][93]
     
-    [Tariff Amendment Act 2008][116] (2008 No 49)
+    [Tariff Amendment Act 2008][115] (2008 No 49)
     
-    [Tariff (Trans-Pacific Strategic Economic Partnership) Amendment Act 2006][117] (2006 No 4)
+    [Tariff (Trans-Pacific Strategic Economic Partnership) Amendment Act 2006][116] (2006 No 4)
     
-    [Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005][118] (2005 No 78)
+    [Tariff (New Zealand--Thailand Closer Economic Partnership) Act 2005][117] (2005 No 78)
     
     Ministry of Economic Development Act 2000 (2000 No 28): [section 8(1)][56]
     
-    [Tariff (Zero Duty Removal) Amendment Act 2000][119] (2000 No 15)
+    [Tariff (Zero Duty Removal) Amendment Act 2000][118] (2000 No 15)
     
     Customs and Excise Act 1996 (1996 No 27): [section 289(1)][57]
     
@@ -1166,13 +1123,11 @@ _Amendment(s) incorporated in the Act(s)._
     
     General Agreement on Tariffs and Trade Act Repeal Act 1994 (1994 No 132): [section 2(2)][107]
     
-    [Tariff Amendment Act 1990][120] (1990 No 88)
-    
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][92]
+    [Tariff Amendment Act 1990][119] (1990 No 88)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1988/0155/latest/whole.html#DLM136770
 [2]: http://www.legislation.govt.nz/act/public/1988/0155/latest/whole.html#DLM136772
 [3]: http://www.legislation.govt.nz/act/public/1988/0155/latest/whole.html#DLM136773
@@ -1251,20 +1206,20 @@ _Amendment(s) incorporated in the Act(s)._
 [76]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2176053
 [77]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584115
 [78]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584108
-[79]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195097
-[80]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195549
-[81]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195534
+[79]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997643
+[80]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998573
+[81]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998633
 [82]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2176077
 [83]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM380251
 [84]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584124
-[85]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195417
+[85]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997698
 [86]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584126
 [87]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195432
 [88]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195434
 [89]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195437
 [90]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM31458
-[91]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584102
-[92]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195558
+[91]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2997693
+[92]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2584102
 [93]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1102349
 [94]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2033287
 [95]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353729
@@ -1281,15 +1236,14 @@ _Amendment(s) incorporated in the Act(s)._
 [106]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM378909
 [107]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM345265
 [108]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM94203
-[109]: http://www.pco.parliament.govt.nz/reprints/
-[110]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195439
-[111]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[112]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195468
-[113]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM195470
-[114]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728912
-[115]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1956108
-[116]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314200
-[117]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM370777
-[118]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353717
-[119]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM55828
-[120]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214660
+[109]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998516
+[110]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998515
+[111]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2998532
+[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[113]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM2728912
+[114]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1956108
+[115]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM1314200
+[116]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM370777
+[117]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM353717
+[118]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM55828
+[119]: http://www.legislation.govt.nz/act/public/1988/0155/latest/link.aspx?id=DLM214660
