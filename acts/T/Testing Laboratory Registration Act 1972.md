@@ -1,5 +1,5 @@
 Reprint  
-as at 26 September 2006
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,15 +17,13 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Ministry of Economic Development.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
 ## Contents
 
-[Title][1]
-
-\[Repealed\]
+[Title][1] \[Repealed\]
 
 [1][2][][2][Short Title and commencement][2]
 
@@ -103,9 +101,7 @@ This Act is administered by the Ministry of Economic Development.
 
 ---
 
-\[Repealed\]
-
-Title 
+Title \[Repealed\]
     
 *   Title: repealed, on 26 September 2006, by [section 4][39] of the Testing Laboratory Registration Amendment Act 2006 (2006 No 45).
 
@@ -493,7 +489,9 @@ Title
     
 *   (1) Every person commits an offence against this Act who makes any statement or representation, whether in writing or not, or uses any mark with reference to any goods, which conveys or is likely to convey the impression that a testing laboratory which is not registered under this Act is so registered.
     
-    (2) Every person who commits an offence against this Act for which no specific penalty is provided elsewhere than in this section, shall be liable on summary conviction to a fine not exceeding $200 and, in the case of a continuing offence, to a further fine not exceeding $10 for every day on which the offence is continued.
+    (2) Every person who commits an offence against this Act for which no specific penalty is provided elsewhere than in this section, shall be liable on conviction to a fine not exceeding $200 and, in the case of a continuing offence, to a further fine not exceeding $10 for every day on which the offence is continued.
+    
+    Section 30(2): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -511,23 +509,23 @@ Title
 
 ###### 1 General
     
-*   This is a reprint of the Testing Laboratory Registration Act 1972\. The reprint incorporates all the amendments to the Act as at 26 September 2006, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Testing Laboratory Registration Act 1972\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][58] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][59] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][60] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][61] and [17E][62] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -558,13 +556,15 @@ Title
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Testing Laboratory Registration Amendment Act 2006][63] (2006 No 45)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][58]
+    
+    [Testing Laboratory Registration Amendment Act 2006][64] (2006 No 45)
     
     Crown Entities Act 2004 (2004 No 115): [section 200][46]
     
     Foundation for Research, Science, and Technology Act 1990 (1990 No 72): [section 14(1)][42]
     
-    [Testing Laboratory Registration Amendment Act 1988][64] (1988 No 167)
+    [Testing Laboratory Registration Amendment Act 1988][65] (1988 No 167)
     
     Payroll Tax Repeal Act 1973 (1973 No 21): [section 2(2)(a)][57]
     
@@ -630,10 +630,11 @@ Title
 [55]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM382633
 [56]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM138773
 [57]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM409759
-[58]: http://www.pco.parliament.govt.nz/reprints/
-[59]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195439
-[60]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[61]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195468
-[62]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195470
-[63]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM382615
-[64]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM138766
+[58]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM3360714
+[59]: http://www.pco.parliament.govt.nz/reprints/
+[60]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195439
+[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[62]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195468
+[63]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM195470
+[64]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM382615
+[65]: http://www.legislation.govt.nz/act/public/1972/0036/latest/link.aspx?id=DLM138766
