@@ -1,5 +1,5 @@
 Reprint  
-as at 1 January 2002
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,80 +25,80 @@ This Act is administered by the Ministry of Education.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Part 1][4]  
 [Institute of Registered Music Teachers of New Zealand][4]
 
-[3][5] [Constitution of Institute of Registered Music Teachers of New Zealand][5]
+[3][5][][5][Constitution of Institute of Registered Music Teachers of New Zealand][5]
 
-[4][6] [Purposes of institute][6]
+[4][6][][6][Purposes of institute][6]
 
-[5][7] [Council of institute][7]
+[5][7][][7][Council of institute][7]
 
-[6][8] [Registrar][8]
+[6][8][][8][Registrar][8]
 
-[7][9] [Powers of institute][9]
+[7][9][][9][Powers of institute][9]
 
-[8][10] [Contracts of institute][10]
+[8][10][][10][Contracts of institute][10]
 
-[9][11] [Rules of institute][11]
+[9][11][][11][Rules of institute][11]
 
-[10][12] [Procedure for making, altering, and rescinding rules][12]
+[10][12][][12][Procedure for making, altering, and rescinding rules][12]
 
-[11][13] [Proof of rules][13]
+[11][13][][13][Proof of rules][13]
 
-[12][14] [Fees][14]
+[12][14][][14][Fees][14]
 
-[13][15] [Registered office of institute and board][15]
+[13][15][][15][Registered office of institute and board][15]
 
 [Part 2][16]  
 [Registration of music teachers][16]
 
 [Registration board][17]
 
-[14][18] [Music Teachers Registration Board constituted][18]
+[14][18][][18][Music Teachers Registration Board constituted][18]
 
-[15][19] [Functions of board][19]
+[15][19][][19][Functions of board][19]
 
-[16][20] [Chairman][20]
+[16][20][][20][Chairman][20]
 
-[17][21] [Meetings of board][21]
+[17][21][][21][Meetings of board][21]
 
-[18][22] [Qualifications for registration][22]
+[18][22][][22][Qualifications for registration][22]
 
-[19][23] [Application for registration][23]
+[19][23][][23][Application for registration][23]
 
-[20][24] [Categories of registration][24]
+[20][24][][24][Categories of registration][24]
 
-[21][25] [Application for registration to be application for membership of institute][25]
+[21][25][][25][Application for registration to be application for membership of institute][25]
 
-[22][26] [Certificate of registration][26]
+[22][26][][26][Certificate of registration][26]
 
-[23][27] [Register of music teachers][27]
+[23][27][][27][Register of music teachers][27]
 
-[24][28] [Removal of name from register][28]
+[24][28][][28][Removal of name from register][28]
 
-[25][29] [Re-registration][29]
+[25][29][][29][Re-registration][29]
 
-[26][30] [Appeals][30]
+[26][30][][30][Appeals][30]
 
 [Part 3][31]  
 [Miscellaneous provisions][31]
 
-[27][32] [Application of fees and other income of board and institute][32]
+[27][32][][32][Application of fees and other income of board and institute][32]
 
-[28][33] [Dissolution of federation][33]
+[28][33][][33][Dissolution of federation][33]
 
-[29][34] [Assets, liabilities, and rights of federation and former board][34]
+[29][34][][34][Assets, liabilities, and rights of federation and former board][34]
 
-[30][35] [Affairs of institute to be managed temporarily by officers of federation][35]
+[30][35][][35][Affairs of institute to be managed temporarily by officers of federation][35]
 
-[31][36] [Offences][36]
+[31][36][][36][Offences][36]
 
-[32][37] [Repeals, consequential amendment, and revocations][37]
+[32][37][][37][Repeals, consequential amendment, and revocations][37]
 
 [Schedule][38]  
 [Enactments repealed][38]
@@ -488,13 +488,13 @@ Miscellaneous provisions
 
 ##### 31 Offences
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $500 who---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $500 who---
         
     *   (a) supplies any information to the board or Registrar in relation to an application for registration knowing that the information is misleading or incorrect; or
     
     *   (b) not being currently registered under this Act, uses or causes to be used or exhibited any certificate, words, titles, or initials that might reasonably cause any other person to believe that he is so registered.
     
-    
+    Section 31: amended, on 1 July 2013, by [section 413][47] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 32 Repeals, consequential amendment, and revocations
     
@@ -535,23 +535,23 @@ Enactments repealed
 
 ###### 1 General
     
-*   This is a reprint of the Music Teachers Act 1981\. The reprint incorporates all the amendments to the Act as at 1 January 2002, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Music Teachers Act 1981\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][47] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][48] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][48] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][49] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][49] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][50] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][50] and [17E][51] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][51] and [17E][52] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -582,7 +582,9 @@ Enactments repealed
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][44]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][47]
+    
+    Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][44]
     
     Education Amendment Act 2000 (2000 No 21): [section 33][45]
     
@@ -639,8 +641,9 @@ Enactments repealed
 [44]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM122579
 [45]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM57283
 [46]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM269031
-[47]: http://www.pco.parliament.govt.nz/reprints/
-[48]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195439
-[49]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[50]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195468
-[51]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195470
+[47]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM3360714
+[48]: http://www.pco.parliament.govt.nz/reprints/
+[49]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195439
+[50]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[51]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195468
+[52]: http://www.legislation.govt.nz/act/public/1981/0003/latest/link.aspx?id=DLM195470
