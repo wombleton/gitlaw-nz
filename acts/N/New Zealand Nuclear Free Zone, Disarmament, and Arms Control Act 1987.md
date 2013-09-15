@@ -1,5 +1,5 @@
 Reprint  
-as at 20 August 1998
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,75 +25,75 @@ This Act is administered by the Ministry of Foreign Affairs and Trade.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [New Zealand Nuclear Free Zone][5]
+[4][5][][5][New Zealand Nuclear Free Zone][5]
 
 [Prohibitions in relation to nuclear explosive devices and biological weapons][6]
 
-[5][7] [Prohibition on acquisition of nuclear explosive devices][7]
+[5][7][][7][Prohibition on acquisition of nuclear explosive devices][7]
 
-[6][8] [Prohibition on stationing of nuclear explosive devices][8]
+[6][8][][8][Prohibition on stationing of nuclear explosive devices][8]
 
-[7][9] [Prohibition on testing of nuclear explosive devices][9]
+[7][9][][9][Prohibition on testing of nuclear explosive devices][9]
 
-[8][10] [Prohibition of biological weapons][10]
+[8][10][][10][Prohibition of biological weapons][10]
 
-[9][11] [Entry into internal waters of New Zealand][11]
+[9][11][][11][Entry into internal waters of New Zealand][11]
 
-[10][12] [Landing in New Zealand][12]
+[10][12][][12][Landing in New Zealand][12]
 
-[11][13] [Visits by nuclear powered ships][13]
+[11][13][][13][Visits by nuclear powered ships][13]
 
 [Savings][14]
 
-[12][15] [Passage through territorial sea and straits][15]
+[12][15][][15][Passage through territorial sea and straits][15]
 
-[13][16] [Immunities][16]
+[13][16][][16][Immunities][16]
 
 [Offences][17]
 
-[14][18] [Offences and penalties][18]
+[14][18][][18][Offences and penalties][18]
 
-[15][19] [Consent of Attorney-General to proceedings in relation to offences][19]
+[15][19][][19][Consent of Attorney-General to proceedings in relation to offences][19]
 
 [Public Advisory Committee on Disarmament and Arms Control][20]
 
-[16][21] [Establishment of Public Advisory Committee on Disarmament and Arms Control][21]
+[16][21][][21][Establishment of Public Advisory Committee on Disarmament and Arms Control][21]
 
-[17][22] [Functions and powers of Committee][22]
+[17][22][][22][Functions and powers of Committee][22]
 
-[18][23] [Membership of Committee][23]
+[18][23][][23][Membership of Committee][23]
 
-[19][24] [Procedure of Committee][24]
+[19][24][][24][Procedure of Committee][24]
 
-[20][25] [Remuneration and travelling expenses][25]
+[20][25][][25][Remuneration and travelling expenses][25]
 
-[21][26] [Money to be appropriated by Parliament for purposes of this Act][26]
+[21][26][][26][Money to be appropriated by Parliament for purposes of this Act][26]
 
 [Amendments to Marine Pollution Act 1974][27]
 
 \[Repealed\]
 
-[22][28] [Interpretation][28] \[Repealed\]
+[22][28][][28][Interpretation][28] \[Repealed\]
 
-[23][29] [Application of Part 2 of Marine Pollution Act 1974][29] \[Repealed\]
+[23][29][][29][Application of Part 2 of Marine Pollution Act 1974][29] \[Repealed\]
 
-[24][30] [New sections inserted][30] \[Repealed\]
+[24][30][][30][New sections inserted][30] \[Repealed\]
 
-[25][31] [Permits][31] \[Repealed\]
+[25][31][][31][Permits][31] \[Repealed\]
 
 [Amendments to other Acts][32]
 
-[26][33] [Amendment to Diplomatic Privileges and Immunities Act 1968][33]
+[26][33][][33][Amendment to Diplomatic Privileges and Immunities Act 1968][33]
 
-[27][34] [Amendment to Official Information Act 1982][34]
+[27][34][][34][Amendment to Official Information Act 1982][34]
 
-[28][35] [Amendment to Foreign Affairs Act 1983][35] \[Repealed\]
+[28][35][][35][Amendment to Foreign Affairs Act 1983][35] \[Repealed\]
 
 [Schedule 1][36]  
 [Text of South Pacific Nuclear Free Zone Treaty of 6 August 1985][36]
@@ -258,11 +258,13 @@ An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage
     
 *   (1) Every person commits an offence against this Act who contravenes or fails to comply with any provision of [sections 5 to 8][7].
     
-    (2) Every person who commits an offence against this Act is liable on conviction on indictment to imprisonment for a term not exceeding 10 years.
+    (2) Every person who commits an offence against this Act is liable on conviction to imprisonment for a term not exceeding 10 years.
+    
+    Section 14(2): amended, on 1 July 2013, by [section 413][43] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 15 Consent of Attorney-General to proceedings in relation to offences
     
-*   (1) No information shall be laid against any person for---
+*   (1) No charging document may be filed against any person for---
         
     *   (a) an offence against this Act; or
     
@@ -272,9 +274,11 @@ An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage
     
     except with the consent of the Attorney-General:
     
-    provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for any such person's arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
+    provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for any such person's arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charging document for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
     
     (2) The Attorney-General may, before deciding whether or not to give consent under subsection (1), make such inquiries as the Attorney-General thinks fit.
+    
+    Section 15(1): amended, on 1 July 2013, by [section 413][43] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Public Advisory Committee on Disarmament and Arms Control
 
@@ -296,7 +300,7 @@ An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage
     
     (2) The Committee shall have all such powers as are reasonably necessary or expedient to enable it to carry out its functions.
     
-    Section 17(1)(a): amended, on 1 July 1993, by [section 6(1)][43] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 17(1)(a): amended, on 1 July 1993, by [section 6(1)][44] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
 
 ##### 18 Membership of Committee
     
@@ -312,21 +316,21 @@ An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage
     
     (4) The functions and powers of the Committee shall not be affected by any vacancy in its membership.
     
-    Section 18(1)(b): amended, on 1 July 1993, by [section 6(1)][43] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 18(1)(b): amended, on 1 July 1993, by [section 6(1)][44] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
     
-    Section 18(3): amended, on 1 July 1993, by [section 6(1)][43] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 18(3): amended, on 1 July 1993, by [section 6(1)][44] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
 
 ##### 19 Procedure of Committee
     
 *   Subject to any directives given by the Minister of Foreign Affairs and Trade, the Committee may regulate its procedure in such manner as it thinks fit.
     
-    Section 19: amended, on 1 July 1993, by [section 6(1)][43] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
+    Section 19: amended, on 1 July 1993, by [section 6(1)][44] of the Foreign Affairs Amendment Act 1993 (1993 No 48).
 
 ##### 20 Remuneration and travelling expenses
     
-*   (1) The Committee is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][44].
+*   (1) The Committee is hereby declared to be a statutory Board within the meaning of the [Fees and Travelling Allowances Act 1951][45].
     
-    (2) There shall be paid to the members of the Committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][44], and the provisions of that Act shall apply accordingly.
+    (2) There shall be paid to the members of the Committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees or allowances, and travelling allowances and expenses, in accordance with the [Fees and Travelling Allowances Act 1951][45], and the provisions of that Act shall apply accordingly.
 
 ##### 21 Money to be appropriated by Parliament for purposes of this Act
     
@@ -336,47 +340,47 @@ An Act to establish in New Zealand a Nuclear Free Zone, to promote and encourage
 
 \[Repealed\]
     
-*   Heading: repealed, on 20 August 1998, pursuant to [section 481(1)][45] of the Maritime Transport Act 1994 (1994 No 104).
+*   Heading: repealed, on 20 August 1998, pursuant to [section 481(1)][46] of the Maritime Transport Act 1994 (1994 No 104).
 
 ##### 22 Interpretation
     
 *   \[Repealed\]
     
-    Section 22: repealed, on 20 August 1998, by [section 481(1)][45] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 22: repealed, on 20 August 1998, by [section 481(1)][46] of the Maritime Transport Act 1994 (1994 No 104).
 
 ##### 23 Application of Part 2 of Marine Pollution Act 1974
     
 *   \[Repealed\]
     
-    Section 23: repealed, on 20 August 1998, by [section 481(1)][45] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 23: repealed, on 20 August 1998, by [section 481(1)][46] of the Maritime Transport Act 1994 (1994 No 104).
 
 ##### 24 New sections inserted
     
 *   \[Repealed\]
     
-    Section 24: repealed, on 20 August 1998, by [section 481(1)][45] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 24: repealed, on 20 August 1998, by [section 481(1)][46] of the Maritime Transport Act 1994 (1994 No 104).
 
 ##### 25 Permits
     
 *   \[Repealed\]
     
-    Section 25: repealed, on 20 August 1998, by [section 481(1)][45] of the Maritime Transport Act 1994 (1994 No 104).
+    Section 25: repealed, on 20 August 1998, by [section 481(1)][46] of the Maritime Transport Act 1994 (1994 No 104).
 
 #### Amendments to other Acts
 
 ##### 26 Amendment to Diplomatic Privileges and Immunities Act 1968
     
-*   _Amendment(s) incorporated in the [Act(s)][46]._
+*   _Amendment(s) incorporated in the [Act(s)][47]._
 
 ##### 27 Amendment to Official Information Act 1982
     
-*   _Amendment(s) incorporated in the [Act(s)][47]._
+*   _Amendment(s) incorporated in the [Act(s)][48]._
 
 ##### 28 Amendment to Foreign Affairs Act 1983
     
 *   \[Repealed\]
     
-    Section 28: repealed, on 1 December 1988, by [section 14(1)][48] of the Foreign Affairs Act 1988 (1988 No 159).
+    Section 28: repealed, on 1 December 1988, by [section 14(1)][49] of the Foreign Affairs Act 1988 (1988 No 159).
 
 ---
 
@@ -1061,23 +1065,23 @@ This Convention, the English, Russian, French, Spanish and Chinese texts of whic
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987\. The reprint incorporates all the amendments to the Act as at 20 August 1998, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][49] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][50] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][50] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][51] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][51] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][52] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][52] and [17E][53] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][53] and [17E][54] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1108,13 +1112,15 @@ This Convention, the English, Russian, French, Spanish and Chinese texts of whic
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][43]
     
-    Maritime Transport Act 1994 (1994 No 104): [section 481(1)][45]
+    Territorial Sea and Exclusive Economic Zone Amendment Act 1996 (1996 No 74): section 5(4)
     
-    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][43]
+    Maritime Transport Act 1994 (1994 No 104): [section 481(1)][46]
     
-    Foreign Affairs Act 1988 (1988 No 159): [section 14(1)][48]
+    Foreign Affairs Amendment Act 1993 (1993 No 48): [section 6(1)][44]
+    
+    Foreign Affairs Act 1988 (1988 No 159): [section 14(1)][49]
 
 
 
@@ -1161,14 +1167,15 @@ This Convention, the English, Russian, French, Spanish and Chinese texts of whic
 [40]: http://www.legislation.govt.nz/act/public/1987/0086/latest/whole.html#DLM117185
 [41]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM442667
 [42]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM442665
-[43]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM302525
-[44]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM264952
-[45]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM339223
-[46]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM388051
-[47]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM65921
-[48]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM138741
-[49]: http://www.pco.parliament.govt.nz/reprints/
-[50]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195439
-[51]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[52]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195468
-[53]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195470
+[43]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM3360714
+[44]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM302525
+[45]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM264952
+[46]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM339223
+[47]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM388051
+[48]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM65921
+[49]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM138741
+[50]: http://www.pco.parliament.govt.nz/reprints/
+[51]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195439
+[52]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[53]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195468
+[54]: http://www.legislation.govt.nz/act/public/1987/0086/latest/link.aspx?id=DLM195470
