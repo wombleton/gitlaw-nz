@@ -1,5 +1,5 @@
 Reprint  
-as at 7 July 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -451,17 +451,19 @@ Incorporation of trust boards
     
     (2) If any alteration is made in the rules or other documents providing for the constitution of any board, and the alteration is made in accordance with [section 61][69] and affects the trusts on which any property is held or is to be held, or if any board desires to alter the address of its registered office, notice of the alteration or desired alteration shall be given to the Registrar within 1 month from the date thereof. Where any board gives notice under this subsection of its desire to alter the address of its registered office and specifies a new address for its registered office with sufficient particularity to enable documents to be served by hand and served by post, the Registrar shall forthwith alter the registered address accordingly.
     
-    (3) If in any case the requirements of this section are not complied with within any such period of 1 month, each of the trustees for the time being incorporated as the board, or each member of the committee or other governing body of the society incorporated as the board, and each officer of the board, commits an offence and shall be liable on summary conviction to a fine not exceeding 1 shilling for every day thereafter during which the default continues.
+    (3) If in any case the requirements of this section are not complied with within any such period of 1 month, each of the trustees for the time being incorporated as the board, or each member of the committee or other governing body of the society incorporated as the board, and each officer of the board, commits an offence and shall be liable on conviction to a fine not exceeding 1 shilling for every day thereafter during which the default continues.
     
     (4) Where any board has been incorporated before the commencement of this Act, the board may at any time lodge with the Registrar all or any of the documents or copies and declarations which it would be required to lodge with the Registrar on an application for incorporation made after the commencement of this Act; and (if the Registrar so requests) the memorial and all other documents and copies which were filed in connection with the incorporation of the board may be transferred to the Registrar.
+    
+    Section 23(3): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 24 Voluntary liquidation of society as a board
     
 *   (1) In any case where a society is incorporated as a board, the board may be put into liquidation if at a general meeting of its members it passes a resolution appointing a liquidator, and the resolution is confirmed at a subsequent general meeting called for that purpose and held not sooner than the 28th day and not later than the 42nd day after the date on which the resolution to be confirmed was passed.
     
-    (2) Subject to this Act and to any regulations made under this Act, [Parts 16][86] and [17][87] of the Companies Act 1993, with such modifications as may be necessary, shall apply to the liquidation as if the resolution had been passed under [section 241(2)(a)][88] of that Act.
+    (2) Subject to this Act and to any regulations made under this Act, [Parts 16][87] and [17][88] of the Companies Act 1993, with such modifications as may be necessary, shall apply to the liquidation as if the resolution had been passed under [section 241(2)(a)][89] of that Act.
     
-    Section 24: replaced, on 1 July 1994, by [section 2][89] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
+    Section 24: replaced, on 1 July 1994, by [section 2][90] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
 
 ##### 25 Liquidation of a board by court
     
@@ -483,13 +485,13 @@ Incorporation of trust boards
     
     (3) All costs incurred by the Attorney-General or the Registrar in making the application shall, unless the court otherwise orders, be a first charge on the assets of the board.
     
-    (4) Subject to this Act and to any regulations made under this Act, [Parts 16][86] and [17][87] of the Companies Act 1993 shall apply, with such modifications as may be necessary,---
+    (4) Subject to this Act and to any regulations made under this Act, [Parts 16][87] and [17][88] of the Companies Act 1993 shall apply, with such modifications as may be necessary,---
         
-    *   (a) to the application for the appointment of a liquidator as if the application was an application under [section 241(2)(c)][88] of that Act; and
+    *   (a) to the application for the appointment of a liquidator as if the application was an application under [section 241(2)(c)][89] of that Act; and
     
-    *   (b) to the liquidation as if the liquidator had been appointed under [section 241(2)(c)][88] of that Act.
+    *   (b) to the liquidation as if the liquidator had been appointed under [section 241(2)(c)][89] of that Act.
     
-    Section 25: replaced, on 1 July 1994, by [section 2][89] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
+    Section 25: replaced, on 1 July 1994, by [section 2][90] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
 
 ##### 26 Dissolution by Registrar
     
@@ -529,7 +531,7 @@ Incorporation of trust boards
     
     (6) At the time the declaration of revocation is recorded in the register the society is revived, as if no dissolution had taken place, with effect from the time that the society was dissolved.
     
-    Section 26: replaced, on 7 July 2010, by [section 4][90] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
+    Section 26: replaced, on 7 July 2010, by [section 4][91] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
 
 ##### 26A Registrar may inquire whether board still carrying on operations
     
@@ -547,13 +549,13 @@ Incorporation of trust boards
     
     (2) Nothing in this section prevents the Registrar from satisfying himself or herself in any other manner that the board is no longer carrying on its operations.
     
-    Section 26A: inserted, on 7 July 2010, by [section 4][90] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
+    Section 26A: inserted, on 7 July 2010, by [section 4][91] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
 
 ##### 27 Distribution of surplus assets
     
 *   On the liquidation of a board or on its dissolution by the Registrar, all surplus assets after the payment of all costs, debts, and liabilities shall be disposed of as the court directs.
     
-    Section 27: replaced, on 1 July 1994, by [section 3][91] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
+    Section 27: replaced, on 1 July 1994, by [section 3][92] of the Charitable Trusts Amendment Act 1993 (1993 No 112).
 
 ##### 28 Register of boards and seal of Registrar
     
@@ -567,7 +569,7 @@ Incorporation of trust boards
     
     (2) The seal of the Registrar may be used for the authentication of any documents required for the purposes of this Part.
     
-    Section 28(1A): inserted, on 7 July 2010, by [section 5][92] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
+    Section 28(1A): inserted, on 7 July 2010, by [section 5][93] of the Charitable Trusts Amendment Act 2010 (2010 No 51).
 
 ##### 29 Inspection, production, and evidence of documents kept by Registrar
     
@@ -585,7 +587,7 @@ Incorporation of trust boards
     
     Compare: 1955 No 63 ss 8(3), 9
     
-    Section 29(6): amended, on 25 January 2005, pursuant to [section 83(7)][93] of the Public Finance Act 1989 (1989 No 44).
+    Section 29(6): amended, on 25 January 2005, pursuant to [section 83(7)][94] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 30 Exemption from fees
     
@@ -725,9 +727,9 @@ Schemes in respect of charitable funds raised by voluntary contribution
     
 *   (1) If in any case it is made to appear that the administration of any money, or income from money, to which this Part applies could be facilitated by extending or varying the powers of the trustees or by prescribing or varying the mode of administering the trust on which the money or income is held, the powers of the trustees may be extended or varied, and the mode of administering the trust may be prescribed or varied, in the manner and subject to the provisions hereafter contained in this Part.
     
-    (2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the [Trustee Act 1956][85] or any other Act or by law or restrict the operation of [section 86][94] of the Public Trust Act 2001\.
+    (2) Nothing in this Part shall restrict the powers that are or may be conferred on the court or the trustees by or under the [Trustee Act 1956][85] or any other Act or by law or restrict the operation of [section 86][95] of the Public Trust Act 2001\.
     
-    Section 41(2): amended, on 1 March 2002, by [section 170(1)][95] of the Public Trust Act 2001 (2001 No 100).
+    Section 41(2): amended, on 1 March 2002, by [section 170(1)][96] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 42 Contributor or money holder may proceed under this Part
     
@@ -876,11 +878,11 @@ Miscellaneous provisions
     
     Compare: 1908 No 164 ss 28, 45, 49
     
-    Section 51(2)(b): amended, on 1 January 2001, by [section 111(1)][96] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
+    Section 51(2)(b): amended, on 1 January 2001, by [section 111(1)][97] of the New Zealand Public Health and Disability Act 2000 (2000 No 91).
     
     Section 51(2)(b): amended, on 1 April 1958, pursuant to section 158(1) of the Hospitals Act 1957 (1957 No 40).
     
-    Section 51(2)(d): amended, on 1 March 2002, by [section 170(1)][95] of the Public Trust Act 2001 (2001 No 100).
+    Section 51(2)(d): amended, on 1 March 2002, by [section 170(1)][96] of the Public Trust Act 2001 (2001 No 100).
 
 ##### 52 Expenses of scheme
     
@@ -934,9 +936,11 @@ Miscellaneous provisions
     
     (2) The Attorney-General may, instead of himself making any such inquiry or examination, from time to time appoint an officer of the Government service or any person to make the inquiry or examination in any specified case or cases; and it shall be lawful for the officer or person so appointed to examine and inquire into the charity or charities in New Zealand to which his appointment relates, including trusts for charitable purposes within the meaning of [Part 4][44], and the nature and objects, administration, management, and results thereof, and to examine and inquire into the value, condition, management, and application of the property and income belonging thereto.
     
-    (3) It shall be the duty of all trustees and persons acting or having any concern in the management or administration of any such charity into which any such examination or inquiry is being made, or of the property or income thereof, on request, to produce to the Attorney-General or to the officer or person making the examination or inquiry all books, papers, writings, and documents in relation to the charity or the property and income thereof, or to the administration, management, value, condition, and application of that property and income, and to answer all questions and give all assistance in connection with the examination or inquiry which they are reasonably able to answer or give. Every person who acts in contravention of or fails to comply in any respect with any provision of this subsection commits an offence and shall be liable on summary conviction to a fine not exceeding 20 pounds.
+    (3) It shall be the duty of all trustees and persons acting or having any concern in the management or administration of any such charity into which any such examination or inquiry is being made, or of the property or income thereof, on request, to produce to the Attorney-General or to the officer or person making the examination or inquiry all books, papers, writings, and documents in relation to the charity or the property and income thereof, or to the administration, management, value, condition, and application of that property and income, and to answer all questions and give all assistance in connection with the examination or inquiry which they are reasonably able to answer or give. Every person who acts in contravention of or fails to comply in any respect with any provision of this subsection commits an offence and shall be liable on conviction to a fine not exceeding 20 pounds.
     
-    (4) Without restricting the generality of the foregoing provisions of this section, it is hereby declared that for the purposes of any such inquiry or examination the provisions of the [Commissions of Inquiry Act 1908][97] shall, so far as they are applicable and with the necessary modifications, apply as if the Attorney-General or the officer or person were a commission of inquiry appointed under that Act.
+    (4) Without restricting the generality of the foregoing provisions of this section, it is hereby declared that for the purposes of any such inquiry or examination the provisions of the [Commissions of Inquiry Act 1908][98] shall, so far as they are applicable and with the necessary modifications, apply as if the Attorney-General or the officer or person were a commission of inquiry appointed under that Act.
+    
+    Section 58(3): amended, on 1 July 2013, by [section 413][86] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Holder of property to transfer it in accordance with scheme
     
@@ -1010,7 +1014,7 @@ Miscellaneous provisions
     
     Section 61A: inserted, on 2 October 1963, by section 3 of the Charitable Trusts Amendment Act 1963 (1963 No 21).
     
-    Section 61A(7): repealed, on 1 January 1972, by [section 101(1)][98] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
+    Section 61A(7): repealed, on 1 January 1972, by [section 101(1)][99] of the Stamp and Cheque Duties Act 1971 (1971 No 51).
 
 ##### 61B Inclusion of non-charitable and invalid purposes not to invalidate a trust
     
@@ -1040,7 +1044,7 @@ Miscellaneous provisions
     
     (2) \[Repealed\]
     
-    Section 62(2): repealed, on 19 December 1989, by [section 11][99] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 62(2): repealed, on 19 December 1989, by [section 11][100] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 63 Repeals, amendment, and savings
     
@@ -1054,7 +1058,7 @@ Miscellaneous provisions
     
     (5) Every certificate in respect of a scheme given by the Attorney-General under Part 4 of the Religious, Charitable, and Educational Trusts Act 1908 shall be deemed to be an approval of the scheme by the Attorney-General under [Part 4][44] of this Act.
     
-    Section 63(2): repealed, on 12 October 1978, by [section 8][100] of the Finance Act 1978 (1978 No 56).
+    Section 63(2): repealed, on 12 October 1978, by [section 8][101] of the Finance Act 1978 (1978 No 56).
 
 ---
 
@@ -1127,8 +1131,6 @@ Charitable Trusts Act 1957
 
 Dated:
 
----
-
 #### Form 2  
 Application for incorporation of a society as a board
 
@@ -1179,23 +1181,23 @@ Enactments repealed
 
 ###### 1 General
     
-*   This is a reprint of the Charitable Trusts Act 1957\. The reprint incorporates all the amendments to the Act as at 7 July 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Charitable Trusts Act 1957\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][101] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][102] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][102] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][103] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][103] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][104] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][104] and [17E][105] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][105] and [17E][106] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1226,25 +1228,27 @@ Enactments repealed
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Charitable Trusts Amendment Act 2010][106] (2010 No 51)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][86]
     
-    [Charitable Trusts Amendment Act 2007][107] (2007 No 45)
+    [Charitable Trusts Amendment Act 2010][107] (2010 No 51)
     
-    Public Trust Act 2001 (2001 No 100): [section 170(1)][95]
+    [Charitable Trusts Amendment Act 2007][108] (2007 No 45)
     
-    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][96]
+    Public Trust Act 2001 (2001 No 100): [section 170(1)][96]
     
-    [Charitable Trusts Amendment Act 1993][108] (1993 No 112)
+    New Zealand Public Health and Disability Act 2000 (2000 No 91): [section 111(1)][97]
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][99]
+    [Charitable Trusts Amendment Act 1993][109] (1993 No 112)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][93]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][100]
+    
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][94]
     
     Judicature Amendment Act 1979 (1979 No 124): [section 12][78]
     
-    Finance Act 1978 (1978 No 56): [section 8][100]
+    Finance Act 1978 (1978 No 56): [section 8][101]
     
-    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101][98]
+    Stamp and Cheque Duties Act 1971 (1971 No 51): [section 101][99]
     
     Charitable Trusts Amendment Act 1963 (1963 No 21)
     
@@ -1338,26 +1342,27 @@ Enactments repealed
 [83]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM175797
 [84]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM176101
 [85]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM304703
-[86]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM321666
-[87]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM322825
-[88]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM321678
-[89]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327431
-[90]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040205
-[91]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327432
-[92]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040210
-[93]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM163167
-[94]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124007
-[95]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124529
-[96]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM81644
-[97]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM139130
-[98]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM401040
-[99]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195558
-[100]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM22164
-[101]: http://www.pco.parliament.govt.nz/reprints/
-[102]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195439
-[103]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[104]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195468
-[105]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195470
-[106]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040200
-[107]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM968110
-[108]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327425
+[86]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3360714
+[87]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM321666
+[88]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM322825
+[89]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM321678
+[90]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327431
+[91]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040205
+[92]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327432
+[93]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040210
+[94]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM163167
+[95]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124007
+[96]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM124529
+[97]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM81644
+[98]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM139130
+[99]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM401040
+[100]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195558
+[101]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM22164
+[102]: http://www.pco.parliament.govt.nz/reprints/
+[103]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195439
+[104]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[105]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195468
+[106]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM195470
+[107]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM3040200
+[108]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM968110
+[109]: http://www.legislation.govt.nz/act/public/1957/0018/latest/link.aspx?id=DLM327425
