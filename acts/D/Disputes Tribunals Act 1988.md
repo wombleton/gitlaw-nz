@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1437,7 +1437,7 @@ Miscellaneous provisions
 
 ##### 56 Contempt of Tribunal
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who---
         
     *   (a) wilfully assaults, insults, or obstructs a Referee, or any witness or any officer of a Tribunal during a sitting of a Tribunal or while a Referee, a witness, or an officer is going to, or returning from, a sitting of a Tribunal; or
     
@@ -1450,6 +1450,8 @@ Miscellaneous provisions
     (2) A Referee may order the exclusion from a sitting of a Tribunal of any person whose behaviour, in the opinion of the Referee, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any Registrar, or officer under a Registrar's control, or constable may take such steps as are reasonably necessary to enforce such exclusion.
     
     Compare: 1976 No 35 s 39
+    
+    Section 56(1): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Publication of orders
     
@@ -1459,7 +1461,7 @@ Miscellaneous provisions
 
 ##### 58 Protection of Referees, Investigators, etc
     
-*   (1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [Part 7][156] of the Summary Proceedings Act 1957\.
+*   (1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under [sections 4A to 4F][157] of the Justices of the Peace Act 1957\.
     
     (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives, and witnesses in the proceedings of a Tribunal it is hereby declared that such proceedings are judicial proceedings.
     
@@ -1472,14 +1474,16 @@ Miscellaneous provisions
     *   (c) a person who gives information, or makes any statement, to the Investigator or Tribunal on any such occasion.
     
     Compare: 1976 No 35 s 41; 1979 No 144 s 3
+    
+    Section 58(1): amended, on 1 July 2013, by [section 413][156] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 59 Referee to be employee for accident compensation purposes
     
-*   A Referee, while acting as such, is an employee employed by the Crown for the purposes of the [Injury Prevention, Rehabilatation, and Compensation Act 2001][157].
+*   A Referee, while acting as such, is an employee employed by the Crown for the purposes of the [Injury Prevention, Rehabilatation, and Compensation Act 2001][158].
     
     Compare: 1976 No 35 s 42
     
-    Section 59: amended, on 1 April 2002, by [section 337(1)][158] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
+    Section 59: amended, on 1 April 2002, by [section 337(1)][159] of the Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49).
 
 ##### 60 Rules
     
@@ -1547,13 +1551,13 @@ Miscellaneous provisions
     
     Compare: 1976 No 35 s 43
     
-    Section 60(2)(a): amended, on 3 July 1998, by [section 9][159] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
+    Section 60(2)(a): amended, on 3 July 1998, by [section 9][160] of the Disputes Tribunals Amendment Act 1998 (1998 No 84).
     
     Section 60(2)(ga): inserted, on 30 March 1995, by section 2 of the Disputes Tribunals Amendment Act 1995 (1995 No 8).
 
 ##### 61 Crown Proceedings Act 1950 not restricted
     
-*   Nothing in this Act shall limit or restrict the operation of the [Crown Proceedings Act 1950][160].
+*   Nothing in this Act shall limit or restrict the operation of the [Crown Proceedings Act 1950][161].
     
     Compare: 1976 No 35 s 44
 
@@ -1564,37 +1568,37 @@ Amendments to other Acts
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 62 Interpretation
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 62: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 63 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 63: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 63: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Contractual Mistakes Act 1977
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 64 Interpretation
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 64: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 65 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 65: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Contractual Remedies Act 1979
 
@@ -1602,7 +1606,7 @@ Amendments to other Acts
     
 *   \[Repealed\]
     
-    Section 66: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 66: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 67 Statements during negotiations for a contract
     
@@ -1612,19 +1616,19 @@ Amendments to other Acts
     
 *   \[Repealed\]
     
-    Section 68: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 68: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Credit Contracts Act 1981
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2005, by [section 139][162] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Heading: repealed, on 1 April 2005, by [section 139][163] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 69 Interpretation
     
 *   \[Repealed\]
     
-    Section 69: repealed, on 1 April 2005, by [section 139][162] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 69: repealed, on 1 April 2005, by [section 139][163] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 70 Jurisdiction of Disputes Tribunals
     
@@ -1636,31 +1640,31 @@ Amendments to other Acts
 
 ##### 71 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][163]._
+*   _Amendment(s) incorporated in the [Act(s)][164]._
 
 ##### 72 Proceedings to be in accordance with District Courts Act 1947
     
-*   _Amendment(s) incorporated in the [Act(s)][164]._
+*   _Amendment(s) incorporated in the [Act(s)][165]._
 
 ##### 73 Jurisdiction of Disputes Tribunals
     
-*   _Amendment(s) incorporated in the [Act(s)][165]._ 
+*   _Amendment(s) incorporated in the [Act(s)][166]._ 
 
 ##### 74 Rules
     
-*   _Amendment(s) incorporated in the [Act(s)][166]_.
+*   _Amendment(s) incorporated in the [Act(s)][167]_.
 
 #### Amendments to Hire Purchase Act 1971
 
 \[Repealed\]
     
-*   Heading: repealed, on 1 April 2005, by [section 139][162] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Heading: repealed, on 1 April 2005, by [section 139][163] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 75 Interpretation
     
 *   \[Repealed\]
     
-    Section 75: repealed, on 1 April 2005, by [section 139][162] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+    Section 75: repealed, on 1 April 2005, by [section 139][163] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ##### 76 Jurisdiction of Disputes Tribunals
     
@@ -1672,25 +1676,25 @@ Amendments to other Acts
 
 \[Repealed\]
     
-*   Heading: repealed, on 19 December 2002, pursuant to [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Heading: repealed, on 19 December 2002, pursuant to [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 77 Interpretation
     
 *   \[Repealed\]
     
-    Section 77: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 77: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ##### 78 Jurisdiction of Disputes Tribunals
     
 *   \[Repealed\]
     
-    Section 78: repealed, on 19 December 2002, by [section 7][161] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+    Section 78: repealed, on 19 December 2002, by [section 7][162] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 #### Amendments to Minors' Contracts Act 1969
 
 ##### 79 Interpretation
     
-*   _Amendment(s) incorporated in the [Act(s)][167]._
+*   _Amendment(s) incorporated in the [Act(s)][168]._
 
 ##### 80 Settlement of claims by minors
     
@@ -1698,7 +1702,7 @@ Amendments to other Acts
 
 ##### 81 Jurisdiction of Disputes Tribunals
     
-*   _Amendment(s) incorporated in the [Act(s)][168]._
+*   _Amendment(s) incorporated in the [Act(s)][169]._
 
 ## Part 7  
 Repeals, consequential amendments, and transitional provisions
@@ -1711,7 +1715,7 @@ Repeals, consequential amendments, and transitional provisions
     
     *   (b) the Small Claims Tribunals Amendment Act 1979:
     
-    *   (c) _Amendment(s) incorporated in the [Act(s)][169]_:
+    *   (c) _Amendment(s) incorporated in the [Act(s)][170]_:
     
     *   (d) the Contractual Mistakes Amendment Act 1985:
     
@@ -1725,13 +1729,13 @@ Repeals, consequential amendments, and transitional provisions
     
     *   (i) the Small Claims Tribunals Amendment Act 1985\.
     
-    (2) The enactments specified in [Schedule 2][170] are hereby consequentially amended in the manner indicated in that schedule.
+    (2) The enactments specified in [Schedule 2][171] are hereby consequentially amended in the manner indicated in that schedule.
     
-    (3) The repeal by subsection (1) of [sections 5][169] and [6][171] of, and the [Schedule][172] of, the District Courts Amendment Act 1982 shall not affect the validity of anything validated by those sections or that schedule.
+    (3) The repeal by subsection (1) of [sections 5][170] and [6][172] of, and the [Schedule][173] of, the District Courts Amendment Act 1982 shall not affect the validity of anything validated by those sections or that schedule.
 
 ##### 83 References to Small Claims Tribunals, etc, deemed references to Disputes Tribunals
     
-*   Every reference to a Small Claims Tribunal in any enactment (other than an enactment to which [sections 62 to 81][79] apply or an enactment specified in [Schedule 2][170]) passed before the commencement of this section or in any document executed before that date, shall, after the commencement of this section, be deemed for all purposes to be a reference to a Disputes Tribunal established under this Act, and every reference to a Referee of a Small Claims Tribunal shall, after the commencement of this section, be deemed for all purposes to be a reference to a Referee of a Disputes Tribunal established under this Act.
+*   Every reference to a Small Claims Tribunal in any enactment (other than an enactment to which [sections 62 to 81][79] apply or an enactment specified in [Schedule 2][171]) passed before the commencement of this section or in any document executed before that date, shall, after the commencement of this section, be deemed for all purposes to be a reference to a Disputes Tribunal established under this Act, and every reference to a Referee of a Small Claims Tribunal shall, after the commencement of this section, be deemed for all purposes to be a reference to a Referee of a Disputes Tribunal established under this Act.
 
 ##### 84 Transitional provisions
     
@@ -1750,41 +1754,41 @@ Powers and jurisdiction of Disputes Tribunals
 
 [s 10(1A), (2)][17]
 
-*   Schedule 1: substituted, on 19 December 2002, by [section 8][173] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
+*   Schedule 1: substituted, on 19 December 2002, by [section 8][174] of the Disputes Tribunals Amendment Act 2002 (2002 No 80).
 
 ## Part 1  
 Enactments under which Disputes Tribunals may exercise powers
 
-[Contracts (Privity) Act 1982][174]
+[Contracts (Privity) Act 1982][175]
 
-[Contractual Mistakes Act 1977][175]
+[Contractual Mistakes Act 1977][176]
 
-[Contractual Remedies Act 1979][176]
+[Contractual Remedies Act 1979][177]
 
-[Frustrated Contracts Act 1944][177]
+[Frustrated Contracts Act 1944][178]
 
-[Illegal Contracts Act 1970][178]
+[Illegal Contracts Act 1970][179]
 
 ## Part 2  
 Enactments that confer jurisdiction on Disputes Tribunals
 
-[Consumer Guarantees Act 1993][179]
+[Consumer Guarantees Act 1993][180]
 
-[Credit Contracts and Consumer Finance Act 2003][180]
+[Credit Contracts and Consumer Finance Act 2003][181]
 
-[Credit (Repossession) Act 1997][181]
+[Credit (Repossession) Act 1997][182]
 
-[Fair Trading Act 1986][182]
+[Fair Trading Act 1986][183]
 
-[Fencing Act 1978][183]
+[Fencing Act 1978][184]
 
-[Friendly Societies and Credit Unions Act 1982][184]
+[Friendly Societies and Credit Unions Act 1982][185]
 
-[Minors' Contracts Act 1969][185]
+[Minors' Contracts Act 1969][186]
 
 Motor Vehicle Securities Act 1989
     
-*   Schedule 1 Part 2: amended, on 1 April 2005, by [section 139][162] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
+*   Schedule 1 Part 2: amended, on 1 April 2005, by [section 139][163] of the Credit Contracts and Consumer Finance Act 2003 (2003 No 52).
 
 ---
 
@@ -1795,31 +1799,31 @@ Consequential amendments
 
 ##### Crown Proceedings Act 1950 (1950 No 54) (RS Vol 2, p 23)
 
-_Amendment(s) incorporated in the [Act(s)][186]._
+_Amendment(s) incorporated in the [Act(s)][187]._
 
 ##### District Courts Act 1947 (1947 No 16) (RS Vol 5, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][187]._
+_Amendment(s) incorporated in the [Act(s)][188]._
 
 ##### Fair Trading Act 1986 (1986 No 121)
 
-_Amendment(s) incorporated in the [Act(s)][188]._
+_Amendment(s) incorporated in the [Act(s)][189]._
 
 ##### Friendly Societies and Credit Unions Act 1982 (1982 No 118)
 
-_Amendment(s) incorporated in the [Act(s)][189]._
+_Amendment(s) incorporated in the [Act(s)][190]._
 
 ##### Inferior Courts Procedure Act 1909 (1909 No 13) (RS Vol 3, p 13)
 
-_Amendment(s) incorporated in the [Act(s)][190]._
+_Amendment(s) incorporated in the [Act(s)][191]._
 
 ##### Maori Language Act 1987 (1987 No 176)
 
-_Amendment(s) incorporated in the [Act(s)][191]._
+_Amendment(s) incorporated in the [Act(s)][192]._
 
 ##### Oaths and Declarations Act 1957 (1957 No 88) (RS Vol 4, p 1)
 
-_Amendment(s) incorporated in the [Act(s)][192]._
+_Amendment(s) incorporated in the [Act(s)][193]._
 
 ---
 
@@ -1837,23 +1841,23 @@ _Amendment(s) incorporated in the [Act(s)][192]._
 
 ###### 1 General
     
-*   This is a reprint of the Disputes Tribunals Act 1988\. The reprint incorporates all the amendments to the Act as at 1 July 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Disputes Tribunals Act 1988\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][193] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][194] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][194] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][195] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][195] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][196] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][196] and [17E][197] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][197] and [17E][198] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1884,21 +1888,23 @@ _Amendment(s) incorporated in the [Act(s)][192]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175): [clause 4][147]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][156]
+    
+    Disputes Tribunals (Prescribed Rate of Interest) Order 2011 (SR 2011/175): [clause 4][147]
     
     Limitation Act 2010 (2010 No 110): [section 58][133]
     
-    [Disputes Tribunals Amendment Act 2009][198] (2009 No 22)
+    [Disputes Tribunals Amendment Act 2009][199] (2009 No 22)
     
     Arbitration Amendment Act 2007 (2007 No 94): [section 11][142]
     
-    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][162]
+    Credit Contracts and Consumer Finance Act 2003 (2003 No 52): [section 139][163]
     
     State Sector Amendment Act 2003 (2003 No 41): [section 14(1)][120]
     
     Motor Vehicle Sales Act 2003 (2003 No 12): [section 145][150]
     
-    [Disputes Tribunals Amendment Act 2002][199] (2002 No 80)
+    [Disputes Tribunals Amendment Act 2002][200] (2002 No 80)
     
     Remuneration Authority (Members of Parliament) Amendment Act 2002 (2002 No 54): [section 4(1)][127]
     
@@ -1906,13 +1912,13 @@ _Amendment(s) incorporated in the [Act(s)][192]._
     
     Sentencing Act 2002 (2002 No 9): [section 186][135]
     
-    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][158]
+    Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49): [section 337(1)][159]
     
     Hire Purchase Amendment Act 1999 (1999 No 6): section 3(a)
     
     Credit Contracts Amendment Act 1999 (1999 No 2): section 3
     
-    [Disputes Tribunals Amendment Act 1998 ][200](1998 No 84)
+    [Disputes Tribunals Amendment Act 1998 ][201](1998 No 84)
     
     Department of Justice (Restructuring) Act 1995 (1995 No 39): [sections 3(1)(b)][124], [10(1)][121]
     
@@ -2080,48 +2086,49 @@ _Amendment(s) incorporated in the [Act(s)][192]._
 [153]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM244437
 [154]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM162942
 [155]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM243732
-[156]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM313779
-[157]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM99493
-[158]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM104117
-[159]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428171
-[160]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261466
-[161]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169831
-[162]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM213532
-[163]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21813
-[164]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21874
-[165]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21878
-[166]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21884
-[167]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392356
-[168]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392611
-[169]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58297
-[170]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134182
-[171]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58299
-[172]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59004
-[173]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169832
-[174]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63970
-[175]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM443633
-[176]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM31565
-[177]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM236924
-[178]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM396434
-[179]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM311052
-[180]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM211511
-[181]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM414112
-[182]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96438
-[183]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21806
-[184]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59731
-[185]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392349
-[186]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261467
-[187]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242776
-[188]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96439
-[189]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59732
-[190]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM176585
-[191]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM124116
-[192]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM314553
-[193]: http://www.pco.parliament.govt.nz/reprints/
-[194]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195439
-[195]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[196]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195468
-[197]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195470
-[198]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919600
-[199]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169822
-[200]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428159
+[156]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM3360714
+[157]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM5344702
+[158]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM99493
+[159]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM104117
+[160]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428171
+[161]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261466
+[162]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169831
+[163]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM213532
+[164]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21813
+[165]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21874
+[166]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21878
+[167]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21884
+[168]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392356
+[169]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392611
+[170]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58297
+[171]: http://www.legislation.govt.nz/act/public/1988/0110/latest/whole.html#DLM134182
+[172]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM58299
+[173]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59004
+[174]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169832
+[175]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM63970
+[176]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM443633
+[177]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM31565
+[178]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM236924
+[179]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM396434
+[180]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM311052
+[181]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM211511
+[182]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM414112
+[183]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96438
+[184]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM21806
+[185]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59731
+[186]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM392349
+[187]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM261467
+[188]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM242776
+[189]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM96439
+[190]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM59732
+[191]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM176585
+[192]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM124116
+[193]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM314553
+[194]: http://www.pco.parliament.govt.nz/reprints/
+[195]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195439
+[196]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[197]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195468
+[198]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM195470
+[199]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM1919600
+[200]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM169822
+[201]: http://www.legislation.govt.nz/act/public/1988/0110/latest/link.aspx?id=DLM428159
