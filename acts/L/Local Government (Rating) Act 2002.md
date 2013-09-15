@@ -751,9 +751,9 @@ Preliminary and key provisions
 
 ##### 8 Non-rateable land
     
-*   (1) The land described in [Part 1][2] of Schedule 1 is non-rateable.
+*   (1) The land described in [Part 1][252] of Schedule 1 is non-rateable.
     
-    (2) Rates assessed for the land described in [Part 2][37] of Schedule 1 must not exceed 50% of the rates that would otherwise have been assessed if the land were not described in that schedule.
+    (2) Rates assessed for the land described in [Part 2][253] of Schedule 1 must not exceed 50% of the rates that would otherwise have been assessed if the land were not described in that schedule.
     
     (3) Subsections (1) and (2) are subject to [section 9][13].
     
@@ -769,7 +769,7 @@ Preliminary and key provisions
     
     Compare: 1988 No 97 s 7
     
-    Section 9(a): amended, on 7 July 2004, by [section 3][252] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
+    Section 9(a): amended, on 7 July 2004, by [section 3][254] of the Local Government (Rating) Amendment Act 2004 (2004 No 66).
 
 #### Who is a ratepayer?
 
@@ -785,7 +785,7 @@ Preliminary and key provisions
     
     *   (b) the lessee of the rating unit under a lease that---
             
-        *   (i) is registered, after the commencement of this section, under [section 115][253] of the Land Transfer Act 1952; and
+        *   (i) is registered, after the commencement of this section, under [section 115][255] of the Land Transfer Act 1952; and
         
         *   (ii) is for a term (including renewals) of not less than 10 years; and
         
@@ -807,7 +807,7 @@ Preliminary and key provisions
                 
             *   (A) precludes the renegotiation of rent or any other payments that would allow the owner to be reimbursed if the owner were directly liable to pay the rates due on the unit; or
             
-            *   (B) is a lease registered under [section 115][253] of the Land Transfer Act 1952\.
+            *   (B) is a lease registered under [section 115][255] of the Land Transfer Act 1952\.
             
             
         
@@ -981,7 +981,7 @@ Preliminary and key provisions
 
 ##### 22 Defence land
     
-*   (1) This section applies to land owned or used by the Crown as an air force base, army camp, naval establishment, or other defence area within the meaning of [section 2(1)][254] of the Defence Act 1990\.
+*   (1) This section applies to land owned or used by the Crown as an air force base, army camp, naval establishment, or other defence area within the meaning of [section 2(1)][256] of the Defence Act 1990\.
     
     (2) The total amount of any rates assessed under [section 13(2)][20] or [section 16][23] must not exceed the amount of rates that would otherwise have been assessed if the rates for the district had been calculated on the land value only.
 
@@ -1041,7 +1041,7 @@ Preliminary and key provisions
 
 ##### 25 Regulations relating to rating of educational establishments
     
-*   (1) The Governor-General may, by Order in Council, make regulations prescribing how local authorities may assess rates for sewage disposal under [section 9][13] in relation to the land referred to in [clause 6(a) or (b)][255] of Part 1 of Schedule 1\.
+*   (1) The Governor-General may, by Order in Council, make regulations prescribing how local authorities may assess rates for sewage disposal under [section 9][13] in relation to the land referred to in [clause 6(a) or (b)][252] of Part 1 of Schedule 1\.
     
     (2) Regulations---
         
@@ -1059,7 +1059,7 @@ Preliminary and key provisions
     
     (4) In this section and [section 26][36] (except paragraph (c)(i)), _Minister_ means the Minister responsible for the administration of this Act.
     
-    Section 25(2): substituted, on 22 October 2003, by [section 3][256] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
+    Section 25(2): substituted, on 22 October 2003, by [section 3][257] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
 
 ##### 26 Report of Ministerial review of rating practice in relation to educational establishments
     
@@ -1069,7 +1069,7 @@ Preliminary and key provisions
     
     *   (b) the report reviews the practice of local authorities, in relation to not fewer than 2 consecutive financial years,---
             
-        *   (i) in assessing rates for sewage disposal under [section 9][13] in relation to the land referred to in [clause 6(a) or (b)][257] of Part 1 of Schedule 1; and
+        *   (i) in assessing rates for sewage disposal under [section 9][13] in relation to the land referred to in [clause 6(a) or (b)][258] of Part 1 of Schedule 1; and
         
         *   (ii) in remitting those rates; and
         
@@ -1077,7 +1077,7 @@ Preliminary and key provisions
     
     *   (c) in preparing the report, the Minister has consulted---
             
-        *   (i) the Minister responsible for the administration of [Part 8][258] of the Education Act 1989; and
+        *   (i) the Minister responsible for the administration of [Part 8][259] of the Education Act 1989; and
         
         *   (ii) New Zealand Local Government Association Incorporated; and
         
@@ -1087,9 +1087,9 @@ Preliminary and key provisions
     
     *   (d) the report is presented to Parliament by the Minister.
     
-    Section 26(b): amended, on 22 October 2003, by [section 4(1)][259] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
+    Section 26(b): amended, on 22 October 2003, by [section 4(1)][260] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
     
-    Section 26(c)(i): amended, on 22 October 2003, by [section 4(2)][259] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
+    Section 26(c)(i): amended, on 22 October 2003, by [section 4(2)][260] of the Local Government (Rating) Amendment Act 2003 (2003 No 83).
 
 ## Part 2  
 Rating information database and rates records
@@ -1130,7 +1130,7 @@ Rating information database and rates records
         
     *   (a) the inclusion of different parts in different categories under subsection (4)(b)(i) or (ii):
     
-    *   (b) the application of [Part 1][255] or [Part 2][260] of Schedule 1 to one or more parts of the rating unit:
+    *   (b) the application of [Part 1][252] or [Part 2][253] of Schedule 1 to one or more parts of the rating unit:
     
     *   (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit.
     
@@ -3896,7 +3896,7 @@ Land fully non-rateable
     
     
 
-*   4 For the purposes of [clause 6][257], land must be treated as being used for the purposes of a school, institution, or centre described in that clause if---
+*   4 For the purposes of [clause 6][258], land must be treated as being used for the purposes of a school, institution, or centre described in that clause if---
         
     *   (a) it is used solely or predominantly as residential accommodation for any principal, teacher, or caretaker; and
     
@@ -5072,15 +5072,15 @@ Commencementsee section 2
 [249]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374303
 [250]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM3213476
 [251]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM2922485
-[252]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304033
-[253]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM271028
-[254]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM204978
-[255]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133513
-[256]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217665
-[257]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733711
-[258]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180130
-[259]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217666
-[260]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133531
+[252]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133513
+[253]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM133531
+[254]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304033
+[255]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM271028
+[256]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM204978
+[257]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217665
+[258]: http://www.legislation.govt.nz/act/public/2002/0006/latest/whole.html#DLM1733711
+[259]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM180130
+[260]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM217666
 [261]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM297436
 [262]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM374308
 [263]: http://www.legislation.govt.nz/act/public/2002/0006/latest/link.aspx?id=DLM304034
