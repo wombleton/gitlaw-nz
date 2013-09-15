@@ -1,5 +1,5 @@
 Reprint  
-as at 24 January 2009
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,178 +25,178 @@ This Act is administered by the Ministry of Health.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act not to apply to Maori burial grounds][4]
+[3][4][][4][Act not to apply to Maori burial grounds][4]
 
 [Part 1][5]  
 [Establishment, maintenance, and regulation of cemeteries][5]
 
-[4][6] [Local authorities to provide cemeteries][6]
+[4][6][][6][Local authorities to provide cemeteries][6]
 
-[5][7] [Functions of local authorities][7]
+[5][7][][7][Functions of local authorities][7]
 
-[6][8] [Cemetery to be open to public][8]
+[6][8][][8][Cemetery to be open to public][8]
 
-[7][9] [Name of cemetery][9]
+[7][9][][9][Name of cemetery][9]
 
-[8][10] [Management of cemetery][10]
+[8][10][][10][Management of cemetery][10]
 
-[9][11] [Powers as to vaults, monuments, etc][11]
+[9][11][][11][Powers as to vaults, monuments, etc][11]
 
-[10][12] [Exclusive right of burial, etc][12]
+[10][12][][12][Exclusive right of burial, etc][12]
 
-[11][13] [Portions for different denominations][13]
+[11][13][][13][Portions for different denominations][13]
 
-[12][14] [Sections may be marked off and consecrated][14]
+[12][14][][14][Sections may be marked off and consecrated][14]
 
-[13][15] [Rights of minister of religion, etc][15]
+[13][15][][15][Rights of minister of religion, etc][15]
 
-[14][16] [Guardians][16]
+[14][16][][16][Guardians][16]
 
-[15][17] [Burial of members of Her Majesty's Forces, etc][17]
+[15][17][][17][Burial of members of Her Majesty's Forces, etc][17]
 
-[16][18] [Bylaws][18]
+[16][18][][18][Bylaws][18]
 
-[17][19] [Copies of bylaws][19]
+[17][19][][19][Copies of bylaws][19]
 
 [Part 2][20]  
 [Finance and miscellaneous functions][20]
 
-[18][21] [Receipts and expenditure][21]
+[18][21][][21][Receipts and expenditure][21]
 
-[19][22] [Appointment of officers][22]
+[19][22][][22][Appointment of officers][22]
 
-[20][23] [Clearance of disused cemeteries][23]
+[20][23][][23][Clearance of disused cemeteries][23]
 
-[21][24] [Restrictions on alienation][24]
+[21][24][][24][Restrictions on alienation][24]
 
 [Part 3][25]  
 [Trustees][25]
 
-[22][26] [Application of this Part][26]
+[22][26][][26][Application of this Part][26]
 
-[23][27] [Appointment and removal of trustees][27]
+[23][27][][27][Appointment and removal of trustees][27]
 
-[24][28] [Governor-General may delegate powers][28]
+[24][28][][28][Governor-General may delegate powers][28]
 
-[25][29] [Functions of trustees][29]
+[25][29][][29][Functions of trustees][29]
 
-[26][30] [Proceedings of trustees][30]
+[26][30][][30][Proceedings of trustees][30]
 
-[27][31] [Property to vest in trustees][31]
+[27][31][][31][Property to vest in trustees][31]
 
-[28][32] [Finance][32]
+[28][32][][32][Finance][32]
 
-[29][33] [Accounts and audit][33]
+[29][33][][33][Accounts and audit][33]
 
-[30][34] [Bylaws made by trustees][34]
+[30][34][][34][Bylaws made by trustees][34]
 
 [Part 4][35]  
 [Burial grounds][35]
 
-[31][36] [Dedication of denominational burial grounds][36]
+[31][36][][36][Dedication of denominational burial grounds][36]
 
-[32][37] [Managers of denominational burial grounds][37]
+[32][37][][37][Managers of denominational burial grounds][37]
 
-[33][38] [Private burial grounds][38]
+[33][38][][38][Private burial grounds][38]
 
-[34][39] [Trustees of private burial grounds][39]
+[34][39][][39][Trustees of private burial grounds][39]
 
-[35][40] [Trustees may hold endowments for maintenance of burial ground, etc][40]
+[35][40][][40][Trustees may hold endowments for maintenance of burial ground, etc][40]
 
-[36][41] [Application of Act to burial grounds][41]
+[36][41][][41][Application of Act to burial grounds][41]
 
 [Part 5][42]  
 [Cremation][42]
 
-[37][43] [Regulations as to cremation][43]
+[37][43][][43][Regulations as to cremation][43]
 
-[38][44] [Erection of crematoria][44]
+[38][44][][44][Erection of crematoria][44]
 
-[39][45] [Application of Act in respect of crematoria][45]
+[39][45][][45][Application of Act in respect of crematoria][45]
 
-[40][46] [Crematorium bylaws][46]
+[40][46][][46][Crematorium bylaws][46]
 
 [Part 6][47]  
 [Closing of cemeteries and burial grounds][47]
 
-[41][48] [Minister may close cemeteries and burial grounds][48]
+[41][48][][48][Minister may close cemeteries and burial grounds][48]
 
-[42][49] [Saving of rights][49]
+[42][49][][49][Saving of rights][49]
 
-[43][50] [Closed cemeteries][50]
+[43][50][][50][Closed cemeteries][50]
 
-[44][51] [Closed burial grounds][51]
+[44][51][][51][Closed burial grounds][51]
 
-[45][52] [Clearance of closed cemeteries and closed burial grounds][52]
+[45][52][][52][Clearance of closed cemeteries and closed burial grounds][52]
 
-[45A][53] [Minister may reopen closed cemeteries and burial grounds][53]
+[45A][53][][53][Minister may reopen closed cemeteries and burial grounds][53]
 
-[45B][54] [Control and management of reopened cemeteries and burial grounds][54]
+[45B][54][][54][Control and management of reopened cemeteries and burial grounds][54]
 
-[45C][55] [Vesting of title in reopened cemeteries and burial grounds][55]
+[45C][55][][55][Vesting of title in reopened cemeteries and burial grounds][55]
 
-[45D][56] [Crematoria situated within reopened cemeteries or burial grounds][56]
+[45D][56][][56][Crematoria situated within reopened cemeteries or burial grounds][56]
 
 [Part 7][57]  
 [General provisions][57]
 
-[46][58] [Unlawful burials][58]
+[46][58][][58][Unlawful burials][58]
 
-[46AA][59] [Doctor's certificate or coroner's authorisation required before body disposed of][59]
+[46AA][59][][59][Doctor's certificate or coroner's authorisation required before body disposed of][59]
 
-[46A][60] [Stillborn children][60]
+[46A][60][][60][Stillborn children][60]
 
-[46B][61] [Doctor's certificate in relation to illness][61]
+[46B][61][][61][Doctor's certificate in relation to illness][61]
 
-[46C][62] [Doctor's certificate in relation to accidents to elderly persons][62]
+[46C][62][][62][Doctor's certificate in relation to accidents to elderly persons][62]
 
-[46D][63] [No liability for costs incurred in supplying information][63]
+[46D][63][][63][No liability for costs incurred in supplying information][63]
 
-[46E][64] [Bodies to be disposed of within reasonable time][64]
+[46E][64][][64][Bodies to be disposed of within reasonable time][64]
 
-[46F][65] [Transfer of charge of body][65]
+[46F][65][][65][Transfer of charge of body][65]
 
-[47][66] [Burial in private burial place][66]
+[47][66][][66][Burial in private burial place][66]
 
-[48][67] [Burial in special place][67]
+[48][67][][67][Burial in special place][67]
 
-[49][68] [Burial and cremation of poor persons][68]
+[49][68][][68][Burial and cremation of poor persons][68]
 
-[50][69] [Burials to be registered][69]
+[50][69][][69][Burials to be registered][69]
 
-[51][70] [Removal of body][70]
+[51][70][][70][Removal of body][70]
 
-[52][71] [Inspection of cemeteries][71]
+[52][71][][71][Inspection of cemeteries][71]
 
-[53][72] [Vesting of title in certain cases][72]
+[53][72][][72][Vesting of title in certain cases][72]
 
 [Part 8][73]  
 [Offences and penalties][73]
 
-[54AA][74] [Offences concerning doctor's certificate or certificate relating to stillbirth][74]
+[54AA][74][][74][Offences concerning doctor's certificate or certificate relating to stillbirth][74]
 
-[54][75] [Offences concerning burials][75]
+[54][75][][75][Offences concerning burials][75]
 
-[55][76] [Unlawful exhumation][76]
+[55][76][][76][Unlawful exhumation][76]
 
-[56][77] [Offences concerning cremation][77]
+[56][77][][77][Offences concerning cremation][77]
 
-[57][78] [Trespass by animals][78]
+[57][78][][78][Trespass by animals][78]
 
-[58][79] [Offences punishable on summary conviction][79]
+[58][79][][79][Offences punishable on summary conviction][79] \[Repealed\]
 
 [Part 9][80]  
 [Regulations, savings, and repeals][80]
 
-[59][81] [Regulations][81]
+[59][81][][81][Regulations][81]
 
-[60][82] [Savings][82]
+[60][82][][82][Savings][82]
 
-[61][83] [Repeals and savings][83]
+[61][83][][83][Repeals and savings][83]
 
 [Schedule 1][84]  
 
@@ -1259,9 +1259,11 @@ Offences and penalties
 
 ##### 54AA Offences concerning doctor's certificate or certificate relating to stillbirth
     
-*   A person who contravenes or fails to comply with [section 46AA][59] or [46A][60] commits an offence and is liable, on summary conviction, to a fine not exceeding $1,000\.
+*   A person who contravenes or fails to comply with [section 46AA][59] or [46A][60] commits an offence and is liable, on conviction, to a fine not exceeding $1,000\.
     
     Section 54AA: inserted, on 24 January 2009, by [section 47][91] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 54AA: amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 54 Offences concerning burials
     
@@ -1273,45 +1275,59 @@ Offences and penalties
     
     *   (c) buries a body without obtaining the necessary sanction---
     
-    commits an offence and shall be liable to a fine not exceeding 200 pounds.
+    commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds.
     
     Compare: 1908 No 19 ss 75, 80(2), 81(2), 82(4)
+    
+    Section 54: amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 54(b): amended, on 1 April 1980, pursuant to section 18(2) of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 55 Unlawful exhumation
     
-*   Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under [section 51][70] or in breach of the conditions of any such licence commits an offence and shall be liable to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months:
+*   (1) Any person who disinters or removes a body or the remains of a body from a place where it is buried without a licence under [section 51][70] or in breach of the conditions of any such licence commits an offence and shall be liable on conviction to a fine not exceeding 200 pounds or to imprisonment for a term not exceeding 3 months.
     
-    provided that no person shall be prosecuted for an offence against this section except upon an information laid by a constable, an officer of the Ministry of Health, an officer of the Ministry of Maori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
+    (2) Proceedings for an offence against this section may only be commenced by a member of the Police, an officer of the Ministry of Health, an officer of the Ministry of Māori Development, a member or officer of a local authority, or a trustee, manager, or other person having control of the place where the body was buried before its disinterment or removal.
     
     Compare: 1908 No 19 s 68
     
-    Section 55 proviso: substituted, on 1 July 1993, by [section 32][135] of the Health Sector (Transfers) Act 1993 (1993 No 23).
+    Section 55(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 55 proviso: amended, on 1 October 2008, pursuant to [section 116(a)(ii)][136] of the Policing Act 2008 (2008 No 72).
+    Section 55(1) proviso: repealed, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 55(2): inserted, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 56 Offences concerning cremation
     
-*   (1) Any person who commits a breach of any regulation made pursuant to [section 37][43], or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
+*   (1) Any person who commits a breach of any regulation made pursuant to [section 37][43], or who knowingly carries out or procures or takes part in the burning of any body except in accordance with such regulations, commits an offence and shall be liable on conviction to a fine not exceeding 500 pounds, or to imprisonment for a term not exceeding 12 months.
     
-    (2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable to imprisonment for a term not exceeding 2 years.
+    (2) Any person who wilfully signs or utters any false certificate with a view to procuring the cremation of any body commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
     
-    (3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under [section 37][43] commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+    (3) Any person who with intent to conceal the commission of an offence, or to impede the prosecution of any person for an offence, procures or attempts to procure the cremation of any body, or with such intent makes any declaration or gives any certificate prescribed by regulations under [section 37][43] commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
     
-    (4) _Amendment(s) incorporated in the [Act(s)][137]_.
+    (4) _Amendment(s) incorporated in the [Act(s)][136]_.
+    
+    Section 56(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 56(2): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 56(3): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 57 Trespass by animals
     
-*   (1) Any person who permits any animal to enter any cemetery or burial ground or Maori burial ground contrary to any regulations or bylaws which may be made under this Act or otherwise than in accordance with any such regulations or bylaws, or, if there are no such regulations or bylaws applicable thereto, except with the permission of the local authority or trustees or managers or person or persons having the control and management of the Maori burial ground, as the case may be, commits an offence and shall be liable to a fine not exceeding 20 pounds and to a further fine not exceeding 5 pounds in respect of every animal so entering.
+*   (1) Any person who permits any animal to enter any cemetery or burial ground or Maori burial ground contrary to any regulations or bylaws which may be made under this Act or otherwise than in accordance with any such regulations or bylaws, or, if there are no such regulations or bylaws applicable thereto, except with the permission of the local authority or trustees or managers or person or persons having the control and management of the Maori burial ground, as the case may be, commits an offence and shall be liable on conviction to a fine not exceeding 20 pounds and to a further fine not exceeding 5 pounds in respect of every animal so entering.
     
     (2) The owner of any animal, and the person for the time being in charge of any animal, who fails to take reasonable precautions to prevent such animal from entering a cemetery, burial ground, or Maori burial ground contrary to subsection (1), shall be deemed to have permitted such entry.
     
     Compare: 1908 No 19 s 89
+    
+    Section 57(1): amended, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 58 Offences punishable on summary conviction
     
-*   Except where this Act otherwise provides, every offence against this Act or against any regulations or bylaws made under this Act shall be punishable on summary conviction.
+*   \[Repealed\]
+    
+    Section 58: repealed, on 1 July 2013, by [section 413][135] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 9  
 Regulations, savings, and repeals
@@ -1449,11 +1465,11 @@ Enactments repealed
 
 ##### Finance Act 1930 (No 2) (1930 No 40) (1957 Reprint, Vol 1, pp 786, 797)
 
-_Amendment(s) incorporated in the [Act(s)][138]_.
+_Amendment(s) incorporated in the [Act(s)][137]_.
 
 ##### Health Act 1956 (1956 No 65) (1957 Reprint, Vol 6, pp 87, 88)
 
-_Amendment(s) incorporated in the [Act(s)][139]_.
+_Amendment(s) incorporated in the [Act(s)][138]_.
 
 ##### Public Revenues Amendment Act 1958 (1958 No 88)
 
@@ -1461,7 +1477,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1936 (1936 No 58) (1957 Reprint, Vol 1, pp 770, 797)
 
-_Amendment(s) incorporated in the [Act(s)][140]_.
+_Amendment(s) incorporated in the [Act(s)][139]_.
 
 ---
 
@@ -1479,23 +1495,23 @@ _Amendment(s) incorporated in the [Act(s)][140]_.
 
 ###### 1 General
     
-*   This is a reprint of the Burial and Cremation Act 1964\. The reprint incorporates all the amendments to the Act as at 24 January 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Burial and Cremation Act 1964\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][141] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][140] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][142] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][141] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][143] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][142] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][144] and [17E][145] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][143] and [17E][144] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1526,7 +1542,9 @@ _Amendment(s) incorporated in the [Act(s)][140]_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [sections 116(a)(ii)][136], [130(2)][129]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][135]
+    
+    Policing Act 2008 (2008 No 72): [130(2)][129]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][91]
     
@@ -1534,7 +1552,7 @@ _Amendment(s) incorporated in the [Act(s)][140]_.
     
     Corrections Act 2004 (2004 No 50): [section 206][130]
     
-    [Burial and Cremation Amendment Act 2003][146] (2003 No 63)
+    [Burial and Cremation Amendment Act 2003][145] (2003 No 63)
     
     Health Practitioners Competence Assurance Act 2003 (2003 No 48): [section 175(1)][93]
     
@@ -1544,11 +1562,9 @@ _Amendment(s) incorporated in the [Act(s)][140]_.
     
     Public Audit Act 2001 (2001 No 10): [section 53][108]
     
-    [Burial and Cremation Amendment Act 2000][147] (2000 No 55)
+    [Burial and Cremation Amendment Act 2000][146] (2000 No 55)
     
     Burial and Cremation Amendment Act 1997 (1997 No 36)
-    
-    Health Sector (Transfers) Act 1993 (1993 No 23): [section 32][135]
     
     Building Act 1991 (1991 No 150): section 92(1)
     
@@ -1703,16 +1719,15 @@ _Amendment(s) incorporated in the [Act(s)][140]_.
 [132]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM305839
 [133]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216532
 [134]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM269037
-[135]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM295182
-[136]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM1102349
-[137]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM314307
-[138]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM208915
-[139]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM308767
-[140]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM221360
-[141]: http://www.pco.parliament.govt.nz/reprints/
-[142]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195439
-[143]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[144]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195468
-[145]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195470
-[146]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216525
-[147]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75759
+[135]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM3360714
+[136]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM314307
+[137]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM208915
+[138]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM308767
+[139]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM221360
+[140]: http://www.pco.parliament.govt.nz/reprints/
+[141]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195439
+[142]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[143]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195468
+[144]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM195470
+[145]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM216525
+[146]: http://www.legislation.govt.nz/act/public/1964/0075/latest/link.aspx?id=DLM75759
