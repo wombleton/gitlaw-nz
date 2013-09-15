@@ -1,5 +1,5 @@
 Reprint  
-as at 13 June 2013
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -861,11 +861,13 @@ Functions and powers of Corporation
     
     (7) The Corporation may enter into any kind of contract for the carriage of goods described in [section 8][196] of the [Carriage of Goods Act 1979][195].
     
-    (8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000\.
+    (8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000\.
     
     (9) If in any such document there is any understatement of the quantity, weight, measurement, or value of the goods, or any misdescription of their nature, which if undetected might lead to their being charged for at less than the proper rate, then, in lieu of charges at the ordinary rate, and irrespective of any person's liability under the last preceding subsection, and whether the understatement or misdescription is wilful or not, charges at a special rate to be fixed by the Corporation, not exceeding double the ordinary rate on the whole consignment, shall be payable in respect of the goods.
     
     Compare: 1949 No 40 ss 23, 25; 1979 No 43 [s 31(1)][197]
+    
+    Section 18(8): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19 Conveyance of hazardous substances and dangerous goods
     
@@ -893,7 +895,7 @@ Functions and powers of Corporation
 
 ##### 22 Power to retain goods received for conveyance if subject to unpaid Customs duties
     
-*   (1) When any goods have been received for conveyance upon a railway, and the consignee or owner has not complied with all the provisions of any law relating to the charge or collection of duties by the New Zealand Customs Service established by the [Customs and Excise Act 1996][198], or has not paid all charges incurred by the Corporation on account of the goods that have accrued upon or prior to receipt of the goods by the Corporation, or if the goods are held awaiting the consignor's order to deliver, they may all be held and detained by the Corporation until all such provisions are complied with, and all such charges (if any) are paid, and the consignor's order to deliver (if necessary) is given.
+*   (1) When any goods have been received for conveyance upon a railway, and the consignee or owner has not complied with all the provisions of any law relating to the charge or collection of duties by the New Zealand Customs Service established by the [Customs and Excise Act 1996][199], or has not paid all charges incurred by the Corporation on account of the goods that have accrued upon or prior to receipt of the goods by the Corporation, or if the goods are held awaiting the consignor's order to deliver, they may all be held and detained by the Corporation until all such provisions are complied with, and all such charges (if any) are paid, and the consignor's order to deliver (if necessary) is given.
     
     (2) During the time the goods are so held and detained the Corporation shall be responsible only as a warehouseman in respect of any loss or damage that may occur thereto.
     
@@ -901,7 +903,7 @@ Functions and powers of Corporation
     
     Compare: 1949 No 40 s 19
     
-    Section 22(1): amended, on 1 October 1996, pursuant to [section 294(1)][199] of the Customs and Excise Act 1996 (1996 No 27).
+    Section 22(1): amended, on 1 October 1996, pursuant to [section 294(1)][200] of the Customs and Excise Act 1996 (1996 No 27).
 
 ##### 23 Power to produce, sell, hire, and operate
     
@@ -965,13 +967,13 @@ Functions and powers of Corporation
     
 *   \[Repealed\]
     
-    Section 26: repealed, on 1 April 1990, by [section 230(1)][200] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 26: repealed, on 1 April 1990, by [section 230(1)][201] of the Sale of Liquor Act 1989 (1989 No 63).
 
 ##### 27 Food and entertainment licences under Sale of Liquor Act in respect of railway restaurants
     
 *   \[Repealed\]
     
-    Section 27: repealed, on 1 April 1990, by [section 230(1)][200] of the Sale of Liquor Act 1989 (1989 No 63).
+    Section 27: repealed, on 1 April 1990, by [section 230(1)][201] of the Sale of Liquor Act 1989 (1989 No 63).
 
 ##### 28 Disposal of railways
     
@@ -1021,11 +1023,11 @@ Functions and powers of Corporation
 
 ##### 30 Powers of Minister and Corporation under Public Works Act 1981
     
-*   (1) The powers and duties conferred and imposed on the Minister of Lands in respect of the compulsory acquisition of land by the [Public Works Act 1981][201] are, so far as they are applicable and with any necessary modifications, hereby conferred and imposed on the Minister in respect of all matters and works under the control of, or being carried out by, the Corporation.
+*   (1) The powers and duties conferred and imposed on the Minister of Lands in respect of the compulsory acquisition of land by the [Public Works Act 1981][202] are, so far as they are applicable and with any necessary modifications, hereby conferred and imposed on the Minister in respect of all matters and works under the control of, or being carried out by, the Corporation.
     
     (2) The powers and duties conferred and imposed on---
         
-    *   (a) the Minister of Lands under any provision of the [Public Works Act 1981][201] (other than the powers and duties conferred and imposed on that Minister in respect of the compulsory acquisition of land); and
+    *   (a) the Minister of Lands under any provision of the [Public Works Act 1981][202] (other than the powers and duties conferred and imposed on that Minister in respect of the compulsory acquisition of land); and
     
     *   (b) the Minister of Transport under any provision of that Act (other than the powers and duties conferred and imposed on that Minister in respect of motorways and limited access roads); and
     
@@ -1035,7 +1037,7 @@ Functions and powers of Corporation
     
     are hereby conferred and imposed on the Corporation in respect of all matters and works under the control of, or being carried out by, the Corporation.
     
-    (3) The powers and duties conferred and imposed on the Minister and the Corporation by this section shall not in any way limit or interfere with the powers and duties conferred on any Minister of the Crown or on any chief executive under the [Public Works Act 1981][201].
+    (3) The powers and duties conferred and imposed on the Minister and the Corporation by this section shall not in any way limit or interfere with the powers and duties conferred on any Minister of the Crown or on any chief executive under the [Public Works Act 1981][202].
     
     Section 30: substituted, on 1 April 1988, by section 2 of the New Zealand Railways Corporation Amendment Act 1988 (1988 No 76).
     
@@ -1043,7 +1045,7 @@ Functions and powers of Corporation
 
 ##### 31 Power to protect railway
     
-*   (1) Without in any way limiting the powers conferred upon the Minister of Transport by [section 166][202] of the [Public Works Act 1981][201], it is hereby declared that either the Corporation or the Minister of Transport, for the purpose of protecting any Corporation railway, or preventing or lessening any risk of damage thereto, may from time to time construct, maintain, alter, or reconstruct any embankment, groyne, or other protective work on any land or on the bank of any river or stream, or divert, impound, or take away any part or the whole of the water of any river or stream, or alter the course of any river or stream; and may also discontinue or abandon any such work as and when it or he thinks fit.
+*   (1) Without in any way limiting the powers conferred upon the Minister of Transport by [section 166][203] of the [Public Works Act 1981][202], it is hereby declared that either the Corporation or the Minister of Transport, for the purpose of protecting any Corporation railway, or preventing or lessening any risk of damage thereto, may from time to time construct, maintain, alter, or reconstruct any embankment, groyne, or other protective work on any land or on the bank of any river or stream, or divert, impound, or take away any part or the whole of the water of any river or stream, or alter the course of any river or stream; and may also discontinue or abandon any such work as and when it or he thinks fit.
     
     (2) The Corporation may, by notice in writing, require the occupier or, where there is no occupier, the owner of any land abutting upon a railway to do any of the following acts:
         
@@ -1063,9 +1065,9 @@ Functions and powers of Corporation
     
     (7) Except with the written consent of the Corporation or of the Minister of Transport, it shall not be lawful for any local authority, or for any person other than the Corporation or the Minister of Transport, to exercise upon any railway land any of the powers conferred by this section upon the Corporation or the Minister of Transport.
     
-    (8) All claims for compensation in respect of the exercise of any of the powers conferred by this section shall, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][201], and the provisions of that Act relating to compensation shall, so far as they are applicable and with any necessary modifications, apply accordingly.
+    (8) All claims for compensation in respect of the exercise of any of the powers conferred by this section shall, unless settled by agreement, be determined in the manner provided by the [Public Works Act 1981][202], and the provisions of that Act relating to compensation shall, so far as they are applicable and with any necessary modifications, apply accordingly.
     
-    (9) Nothing in this section shall derogate from the provisions of [Part 3][203] of the Resource Management Act 1991\.
+    (9) Nothing in this section shall derogate from the provisions of [Part 3][204] of the Resource Management Act 1991\.
     
     Compare: 1949 No 40 s 11; 1959 No 66 s 2
     
@@ -1087,11 +1089,11 @@ Functions and powers of Corporation
     
 *   (1) Where any land has become vested in the Crown or the Corporation for railway purposes so that the fee simple estate and all other estates and interests therein of any person other than the Crown are extinguished, the District Land Registrar, on the completion of such surveys (if any) as may be necessary shall, at the request of the Corporation, issue a certificate of title for the estate in the land or part of the land specified in the request in the name of either the Crown or the Corporation, and that certificate of title shall include a reference to the purposes for which the land is held.
     
-    (2) Any instrument which relates to the land in any such certificate of title and is duly executed by a person having the necessary authority under this Act may thereafter be registered in accordance with the [Land Transfer Act 1952][204].
+    (2) Any instrument which relates to the land in any such certificate of title and is duly executed by a person having the necessary authority under this Act may thereafter be registered in accordance with the [Land Transfer Act 1952][205].
     
     (3) Any certificate of title issued before the commencement of this section in the name of the Crown and any instrument which is duly executed by a person having the necessary authority under this Act or under the corresponding provisions of any former Act and which relates to the land in any such certificate of title shall be deemed to have been lawfully issued or executed.
     
-    (4) Any land declared by [section 26][205] or [section 37][206] of the Public Works Act 1981 to be vested in the Crown in fee simple shall for the purposes of this section be deemed to be vested in the Crown so that the fee simple therein is extinguished.
+    (4) Any land declared by [section 26][206] or [section 37][207] of the Public Works Act 1981 to be vested in the Crown in fee simple shall for the purposes of this section be deemed to be vested in the Crown so that the fee simple therein is extinguished.
     
     Compare: 1949 No 40 s 46A; 1950 No 71 s 2
     
@@ -1131,21 +1133,21 @@ Functions and powers of Corporation
     
     (5) \[Repealed\]
     
-    (6) In addition to the powers conferred on the Corporation by the foregoing provisions of this section, the Corporation shall, in respect of any lands to which this section relates, have all the powers of a leasing authority under the [Public Bodies Leases Act 1969][207].
+    (6) In addition to the powers conferred on the Corporation by the foregoing provisions of this section, the Corporation shall, in respect of any lands to which this section relates, have all the powers of a leasing authority under the [Public Bodies Leases Act 1969][208].
     
-    (7) In subsection (3), _registered valuer_ means a valuer registered under the [Valuers Act 1948][208].
+    (7) In subsection (3), _registered valuer_ means a valuer registered under the [Valuers Act 1948][209].
     
     Compare: 1949 No 40 ss 49, 50(1); 1971 No 41 s 4(1); 1979 No 59 [s 8(3)][173]
     
-    Section 33 heading: amended, on 22 October 2003, by [section 3(1)][209] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
+    Section 33 heading: amended, on 22 October 2003, by [section 3(1)][210] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
     
-    Section 33(3) proviso paragraph (b): substituted, on 22 October 2003, by [section 3(2)][209] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
+    Section 33(3) proviso paragraph (b): substituted, on 22 October 2003, by [section 3(2)][210] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
     
-    Section 33(3) proviso paragraph (c): added, on 22 October 2003, by [section 3(2)][209] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
+    Section 33(3) proviso paragraph (c): added, on 22 October 2003, by [section 3(2)][210] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
     
     Section 33(5): repealed, on 29 June 1988, by section 209(1) of the Rating Powers Act 1988 (1988 No 97).
     
-    Section 33(7): added, on 22 October 2003, by [section 3(3)][209] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
+    Section 33(7): added, on 22 October 2003, by [section 3(3)][210] of the New Zealand Railways Corporation Amendment Act 2003 (2003 No 88).
 
 ##### 34 Development licences may be granted in respect of unused railway land or buildings
     
@@ -1179,34 +1181,34 @@ Functions and powers of Corporation
     
     (3) Notwithstanding anything in subsection (1) or subsection (2), where any easement, privilege, or concession to which those subsections refer is granted to any person under or in connection with any licence granted under [section 34(1)][41], or under or in connection with any lease granted pursuant to any such licence, the easement, privilege, or right may be subject to such payments of rent and such conditions as the Corporation thinks fit.
     
-    (4) Subject to the [Telecommunications Act 1987][210], the [Electricity Act 1992][211], and the [Gas Act 1992][212], but notwithstanding anything in any other Act, no person shall have any right to any easement, or to construct or carry out any work upon, over, or under any railway, without having first obtained from the Corporation a grant of the right as provided in this section; and the Corporation may require the person to execute a deed or agreement setting forth the conditions subject to which the right is granted.
+    (4) Subject to the [Telecommunications Act 1987][211], the [Electricity Act 1992][212], and the [Gas Act 1992][213], but notwithstanding anything in any other Act, no person shall have any right to any easement, or to construct or carry out any work upon, over, or under any railway, without having first obtained from the Corporation a grant of the right as provided in this section; and the Corporation may require the person to execute a deed or agreement setting forth the conditions subject to which the right is granted.
     
     (5) Any easement granted to a public body upon, over, or under any railway at a public level crossing shall be at a nominal rental.
     
-    (6) This section continues to apply to any easement, privilege, or concession granted under it before the [New Zealand Railways Corporation Amendment Act 2010][213] comes into force as if the amendments made by that Act to this section had not been made.
+    (6) This section continues to apply to any easement, privilege, or concession granted under it before the [New Zealand Railways Corporation Amendment Act 2010][214] comes into force as if the amendments made by that Act to this section had not been made.
     
     Compare: 1949 No 49 ss 55, 56; 1971 No 41 s 7
     
-    Section 35(1): amended, on 6 August 2010, by [section 9(1)][214] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 35(1): amended, on 6 August 2010, by [section 9(1)][215] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
     
-    Section 35(1) proviso: repealed, on 6 August 2010, by [section 9(2)][214] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 35(1) proviso: repealed, on 6 August 2010, by [section 9(2)][215] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
     
-    Section 35(2): amended, on 6 August 2010, by [section 9(3)][214] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 35(2): amended, on 6 August 2010, by [section 9(3)][215] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
     
-    Section 35(3): amended, on 6 August 2010, by [section 9(4)][214] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 35(3): amended, on 6 August 2010, by [section 9(4)][215] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
     
-    Section 35(4): amended, on 1 April 1993, by [section 173(2)][215] of the Electricity Act 1992 (1992 No 122).
+    Section 35(4): amended, on 1 April 1993, by [section 173(2)][216] of the Electricity Act 1992 (1992 No 122).
     
     Section 35(4): amended, on 1 April 1989, by section 25(2) of the Telecommunications Amendment Act 1988 (1988 No 164).
     
-    Section 35(6): added, on 6 August 2010, by [section 9(5)][214] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 35(6): added, on 6 August 2010, by [section 9(5)][215] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
 
 ## Part 3  
 Financial provisions
 
 ##### 36 Capital of Corporation
     
-*   (1) The Governor-General shall, on the advice of the Minister of Finance, by [Order in Council][216] determine the capital of the Corporation at the commencement of this Act.
+*   (1) The Governor-General shall, on the advice of the Minister of Finance, by [Order in Council][217] determine the capital of the Corporation at the commencement of this Act.
     
     (2) Any amount owing to the Crown by the Corporation at the commencement of this Act and specified in the Order in Council made under subsection (1) shall be deemed to have been paid to the Corporation by the Minister of Finance as part of the capital of the Corporation, and the liability of the Corporation to repay advances of that amount shall be extinguished.
     
@@ -1214,11 +1216,11 @@ Financial provisions
     
     (4) The Corporation may from time to time, by resolution, recommend to the Minister of Finance that the capital of the Corporation be reduced, and in any such case, the Minister of Finance may, by notice in the _Gazette_, decrease the capital of the Corporation to the amount specified in the notice.
     
-    Section 36(3): amended, on 6 August 2010, by [section 10(1)][217] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 36(3): amended, on 6 August 2010, by [section 10(1)][218] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
     
     Section 36(4): added, on 28 August 1990, by [section 34][174] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
     
-    Section 36(4): amended, on 6 August 2010, by [section 10(2)][217] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 36(4): amended, on 6 August 2010, by [section 10(2)][218] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
 
 ##### 37 Borrowing by and loans to Corporation
     
@@ -1228,7 +1230,7 @@ Financial provisions
         
     *   (a) advance money to the Corporation; and
     
-    *   (b) give in respect of any advances made to the Corporation by any other person any guarantee, indemnity or security pursuant to the [Public Finance Act 1989][218],---
+    *   (b) give in respect of any advances made to the Corporation by any other person any guarantee, indemnity or security pursuant to the [Public Finance Act 1989][219],---
     
     on and subject to such terms and conditions as the Minister of Finance thinks fit.
     
@@ -1238,7 +1240,7 @@ Financial provisions
     
     Section 37(2)(b): amended (with effect on 1 July 1989), on 26 July 1989, by [section 86(1)][190] of the Finance Act 1989 (1989 No 44).
     
-    Section 37(4): amended, on 25 January 2005, pursuant to [section 83(7)][219] of the Public Finance Act 1989 (1989 No 44).
+    Section 37(4): amended, on 25 January 2005, pursuant to [section 83(7)][220] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 37A Power to enter into swaps or other financial arrangements
     
@@ -1258,7 +1260,7 @@ Financial provisions
     
     Section 37B: inserted, on 28 August 1990, by [section 34][174] of the New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105).
     
-    Section 37B: amended, on 25 January 2005, pursuant to [section 65R(3)][220] of the Public Finance Act 1989 (1989 No 44).
+    Section 37B: amended, on 25 January 2005, pursuant to [section 65R(3)][221] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 38 Investments
     
@@ -1282,13 +1284,13 @@ Financial provisions
     
 *   \[Repealed\]
     
-    Section 40: repealed, on 6 August 2010, by [section 11][221] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 40: repealed, on 6 August 2010, by [section 11][222] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
 
 ##### 41 Unauthorised expenditure
     
 *   \[Repealed\]
     
-    Section 41: repealed, on 6 August 2010, by [section 11][221] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
+    Section 41: repealed, on 6 August 2010, by [section 11][222] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
 
 ##### 42 Dividends on capital
     
@@ -1298,13 +1300,13 @@ Financial provisions
     
     (2) The amount of any dividend declared by the Corporation under this section shall be paid into a Crown Bank Account.
     
-    Section 42(2): amended, on 25 January 2005, pursuant to [section 83(7)][219] of the Public Finance Act 1989 (1989 No 44).
+    Section 42(2): amended, on 25 January 2005, pursuant to [section 83(7)][220] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 43 Financial statements and annual report
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 April 1987, by [section 32(1)][222] of the State-Owned Enterprises Act 1986 (1986 No 124).
+    Section 43: repealed, on 1 April 1987, by [section 32(1)][223] of the State-Owned Enterprises Act 1986 (1986 No 124).
 
 ## Part 4  
 Inquiries
@@ -1412,9 +1414,9 @@ Railway operations
 
 ##### 56 Employee may impound trespassing cattle
     
-*   (1) Any employee may impound cattle trespassing on any railway; and any act, matter, or thing required under the [Impounding Act 1955][223] to be performed or done by the occupier of land as defined in that Act may be performed and done in respect of any railway by any person authorised generally or specially in that behalf by a railway district traffic manager, a railway district civil engineer, or a railway resident civil engineer.
+*   (1) Any employee may impound cattle trespassing on any railway; and any act, matter, or thing required under the [Impounding Act 1955][224] to be performed or done by the occupier of land as defined in that Act may be performed and done in respect of any railway by any person authorised generally or specially in that behalf by a railway district traffic manager, a railway district civil engineer, or a railway resident civil engineer.
     
-    (2) [Section 174][224] of the Public Works Act 1981 shall not apply to Corporation railways open for traffic.
+    (2) [Section 174][225] of the Public Works Act 1981 shall not apply to Corporation railways open for traffic.
     
     Compare: 1949 No 40 s 20
 
@@ -1435,49 +1437,49 @@ Wellington to Johnsonville and Hutt Valley railways
 
 \[Repealed\]
     
-*   Part 6: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+*   Part 6: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 59 Application of this Part
     
 *   \[Repealed\]
     
-    Section 59: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 59: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 60 Interpretation
     
 *   \[Repealed\]
     
-    Section 60: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 60: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 61 Restriction upon the carrying on of passenger services
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 61: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 62 Offences
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 62: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 63 Corporation to carry on passenger services within prescribed area
     
 *   \[Repealed\]
     
-    Section 63: repealed, 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 63: repealed, 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 64 Information for offences
     
 *   \[Repealed\]
     
-    Section 64: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 64: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ##### 65 Hutt Valley passenger services
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 1 October 1989, by [section 68(1)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 65: repealed, on 1 October 1989, by [section 68(1)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
 
 ## Part 7  
 Staff administration
@@ -1524,7 +1526,7 @@ Staff administration
 
 ##### 72 Superannuation of officers and employees
     
-*   Notwithstanding the definition of Government service in [section 2][226] of the Government Superannuation Fund Act 1956, employment in the service of the Department or the Corporation as the case may be, either before or after the commencement of this Act shall be deemed to be Government service for the purposes of the [Government Superannuation Fund Act 1956][181].
+*   Notwithstanding the definition of Government service in [section 2][227] of the Government Superannuation Fund Act 1956, employment in the service of the Department or the Corporation as the case may be, either before or after the commencement of this Act shall be deemed to be Government service for the purposes of the [Government Superannuation Fund Act 1956][181].
 
 ##### 73 Classification of Corporation
     
@@ -1855,49 +1857,49 @@ New Zealand Railways Staff Welfare Society
 
 \[Repealed\]
     
-*   Part 8: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+*   Part 8: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 103 Interpretation
     
 *   \[Repealed\]
     
-    Section 103: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 103: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 104 Constitution and membership of society
     
 *   \[Repealed\]
     
-    Section 104: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 104: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 105 Functions of society
     
 *   \[Repealed\]
     
-    Section 105: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 105: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 106 New Zealand Railways Staff Welfare Board
     
 *   \[Repealed\]
     
-    Section 106: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 106: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 107 Meetings of Welfare Board
     
 *   \[Repealed\]
     
-    Section 107: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 107: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 108 Miscellaneous financial provisions
     
 *   \[Repealed\]
     
-    Section 108: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 108: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ##### 109 Contracts of Welfare Board
     
 *   \[Repealed\]
     
-    Section 109: repealed, on 1 July 1999, by [section 11][227] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
+    Section 109: repealed, on 1 July 1999, by [section 11][228] of the New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17).
 
 ## Part 9  
 Regulations, scales of charges, and codes of practice
@@ -1942,13 +1944,15 @@ Regulations, scales of charges, and codes of practice
     
     *   (c) regulations may be so made as to apply generally to all railways and other services lawfully carried on by the Corporation or to any particular railway or service or part of a railway or service:
     
-    *   (d) every person who acts in contravention of any regulation under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $100:
+    *   (d) every person who acts in contravention of any regulation under this section commits an offence and shall be liable on conviction to a fine not exceeding $100:
     
     *   (e) if in the opinion of the Corporation the breach of any regulation would cause or be likely to cause danger or annoyance to the public or hindrance to the proper use or working of a railway, the Corporation may authorise any employee, whether in person or otherwise, summarily to interfere or othewise take all proper steps to prevent the occurrence of the danger, annoyance, or hindrance, or the continuance or repetition thereof; and the taking of any such steps shall not relieve any person from any penalty to which he may be liable in respect of the breach of any such regulation.
     
     Compare: 1949 No 40 s 32; 1953 No 63 s 7; 1980 No 15 s 5
     
     Section 110(1A): inserted, on 1 July 1985, by section 4 of the New Zealand Railways Corporation Amendment Act 1985 (1985 No 105).
+    
+    Section 110(2)(d): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 111 Scales of charges
     
@@ -2087,7 +2091,7 @@ General provisions
     
     *   (m) makes or procures to be made to any employee, or to any agent of the Corporation, or in any document delivered to any such employee or agent, any false statement respecting the age or occupation of any person, or respecting any other matter on which the charge for any ticket is dependent,---
     
-    that person commits an offence and shall, in respect of each offence, be liable on summary conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000\.
+    that person commits an offence and shall, in respect of each offence, be liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000\.
     
     (2) If any person knowingly does, or causes or procures to be done, any of the following things,---
         
@@ -2099,11 +2103,15 @@ General provisions
     
     *   (d) neglects to shut any gate or slip panel in any fence forming the boundary of, or upon adjoining, any railway,---
     
-    that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding $500\.
+    that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding $500\.
     
     Compare: 1949 No 40 ss 26, 27, 28; 1968 No 40 s 3(2)
     
+    Section 115(1): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 115(1)(m): amended, on 16 December 1983, by section 5 of the New Zealand Railways Corporation Amendment Act (No 2) 1983 (1983 No 127).
+    
+    Section 115(2): amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 116 Penalties for damage to railways
     
@@ -2119,9 +2127,11 @@ General provisions
     
     *   (e) fells or removes any tree, shrub, or timber growing on any such land,---
     
-    that person commits an offence and shall, in respect of each offence, be liable on summary conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
+    that person commits an offence and shall, in respect of each offence, be liable on conviction to a fine not exceeding in the case of a body corporate $2,000, and in every other case $500, for every day upon which the offence is committed or suffered to continue, and a further sum equal to the cost incurred in removing any such encroachment or obstruction, or in repairing any such injury done to any such land, ditch, drain, watercourse, or other property of the Corporation, or in replacing any such tree, shrub, or timber.
     
     Compare: 1949 No 40 s 30
+    
+    Section 116: amended, on 1 July 2013, by [section 413][198] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 117 Certificate by Corporation to be evidence of certain facts
     
@@ -2147,27 +2157,27 @@ General provisions
     
     (2) This section shall be deemed to be a special Act within the meaning of section 175 of the Harbours Act 1950\.
     
-    Compare: 1957 No 106 [s 5][228]
+    Compare: 1957 No 106 [s 5][229]
     
     Section 119(1): amended, on 6 August 2010, by [section 5(2)(b)][178] of the New Zealand Railways Corporation Amendment Act 2010 (2010 No 100).
 
 ##### 119A Application of certain transport Acts to Corporation
     
-*   Notwithstanding [section 4(1)][7], or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the [Road User Charges Act 2012][229], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][230], the [Railways Act 2005][231], the [Land Transport Act 1998][192], or the [Land Transport Management Act 2003][232], or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
+*   Notwithstanding [section 4(1)][7], or any other enactment or rule of law, proceedings for any offence committed on or after 1 November 1989 against the [Road User Charges Act 2012][230], the [Transport (Vehicle and Driver Registration and Licensing) Act 1986][231], the [Railways Act 2005][232], the [Land Transport Act 1998][192], or the [Land Transport Management Act 2003][233], or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
     
-    Section 119A: inserted, on 1 October 1989, by [section 68(2)][225] of the Transport Services Licensing Act 1989 (1989 No 74).
+    Section 119A: inserted, on 1 October 1989, by [section 68(2)][226] of the Transport Services Licensing Act 1989 (1989 No 74).
     
-    Section 119A heading: amended, on 20 July 2005, by [section 103(3)][233] of the Railways Act 2005 (2005 No 37).
+    Section 119A heading: amended, on 20 July 2005, by [section 103(3)][234] of the Railways Act 2005 (2005 No 37).
     
-    Section 119A: amended, on 13 June 2013, by [section 72][234] of the Land Transport Management Amendment Act 2013 (2013 No 35).
+    Section 119A: amended, on 13 June 2013, by [section 72][235] of the Land Transport Management Amendment Act 2013 (2013 No 35).
     
-    Section 119A: amended, on 1 August 2012, by [section 94][235] of the Road User Charges Act 2012 (2012 No 1).
+    Section 119A: amended, on 1 August 2012, by [section 94][236] of the Road User Charges Act 2012 (2012 No 1).
     
-    Section 119A: amended, on 10 May 2011, by [section 100(3)][236] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 119A: amended, on 10 May 2011, by [section 100(3)][237] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
-    Section 119A: amended, on 20 July 2005, by [section 103(3)][233] of the Railways Act 2005 (2005 No 37).
+    Section 119A: amended, on 20 July 2005, by [section 103(3)][234] of the Railways Act 2005 (2005 No 37).
     
-    Section 119A: amended, on 13 November 2003, by [section 90][237] of the Land Transport Management Act 2003 (2003 No 118).
+    Section 119A: amended, on 13 November 2003, by [section 90][238] of the Land Transport Management Act 2003 (2003 No 118).
 
 ##### 120 Repeals and amendments
     
@@ -2175,13 +2185,13 @@ General provisions
     
     (2) \[Repealed\]
     
-    (3) _Amendment(s) incorporated in the [Act(s)][238]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][239]_.
     
     (4) Every reference in any enactment or document whatever to the New Zealand Government Railways Department shall, unless the context otherwise requires, hereafter be read as a reference to the New Zealand Railways Corporation.
     
     (5) Every reference in any enactment or document whatever to Government railways shall, unless the context otherwise requires, hereafter be read as a reference to New Zealand Railways Corporation railways.
     
-    Section 120(2): repealed, on 10 May 2011, by [section 100(3)][236] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    Section 120(2): repealed, on 10 May 2011, by [section 100(3)][237] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
 
 ---
 
@@ -2233,23 +2243,23 @@ Enactments repealed
 
 ##### Age of Majority Act 1970 (1970 No 137)
 
-_Amendment(s) incorporated in the [Act(s)][239]_.
+_Amendment(s) incorporated in the [Act(s)][240]_.
 
 ##### Carriage of Goods Act 1979 (1979 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][240]_.
+_Amendment(s) incorporated in the [Act(s)][241]_.
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79)
 
-_Amendment(s) incorporated in the [Act(s)][241]_.
+_Amendment(s) incorporated in the [Act(s)][242]_.
 
 ##### Finance Act 1957 (1957 No 106) (Reprinted 1973, Vol 2, p 1515)
 
-_Amendment(s) incorporated in the [Act(s)][242]_.
+_Amendment(s) incorporated in the [Act(s)][243]_.
 
 ##### Finance Act 1958 (1958 No 38) (Reprinted 1973, Vol 2, p 1515)
 
-_Amendment(s) incorporated in the [Act(s)][243]_.
+_Amendment(s) incorporated in the [Act(s)][244]_.
 
 ##### Government Railways Act 1949 (1949 No 40) (Reprinted 1973, Vol 2, p 1403)
 
@@ -2301,7 +2311,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Government Amendment Act 1979 (1979 No 59)
 
-_Amendment(s) incorporated in the [Act(s)][244]_.
+_Amendment(s) incorporated in the [Act(s)][245]_.
 
 ##### Public Finance Act 1977 (1977 No 65)
 
@@ -2331,23 +2341,23 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Railways Corporation Act 1981\. The reprint incorporates all the amendments to the Act as at 13 June 2013, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Railways Corporation Act 1981\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][245] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][246] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][246] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][247] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][247] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][248] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][248] and [17E][249] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][249] and [17E][250] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -2378,35 +2388,37 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][234]
+*   Land Transport Management Amendment Act 2013 (2013 No 35): [section 72][235]
     
-    [New Zealand Railways Corporation Amendment Act 2012][250] (2012 No 15)
+    [New Zealand Railways Corporation Amendment Act 2012][251] (2012 No 15)
     
-    Road User Charges Act 2012 (2012 No 1): [section 94][235]
+    Road User Charges Act 2012 (2012 No 1): [section 94][236]
     
-    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][236]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][198]
+    
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][237]
     
     Marine and Coastal Area (Takutai Moana) Act 2011 (2011 No 3): [section 128][175]
     
-    [New Zealand Railways Corporation Amendment Act 2010][213] (2010 No 100)
+    [New Zealand Railways Corporation Amendment Act 2010][214] (2010 No 100)
     
     Land Transport Amendment Act 2005 (2005 No 77): [section 95(6)][194]
     
-    Railways Act 2005 (2005 No 37): [section 103(3)][233]
+    Railways Act 2005 (2005 No 37): [section 103(3)][234]
     
-    Land Transport Management Act 2003 (2003 No 118): [section 90][237]
+    Land Transport Management Act 2003 (2003 No 118): [section 90][238]
     
-    [New Zealand Railways Corporation Amendment Act 2003][251] (2003 No 88)
+    [New Zealand Railways Corporation Amendment Act 2003][252] (2003 No 88)
     
     Local Government Act 2002 (2002 No 84): [section 262][176]
     
-    New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17): [section 11][227]
+    New Zealand Railways Staff Welfare Society Dissolution Act 1999 (1999 No 17): [section 11][228]
     
     Land Transport Act 1998 (1998 No 110): [section 215(1)][193]
     
-    Customs and Excise Act 1996 (1996 No 27): [section 294(1)][199]
+    Customs and Excise Act 1996 (1996 No 27): [section 294(1)][200]
     
-    Electricity Act 1992 (1992 No 122): [section 173(2)][215]
+    Electricity Act 1992 (1992 No 122): [section 173(2)][216]
     
     Railway Safety and Corridor Management Act 1992 (1992 No 111): section 28(1), (2)(b)
     
@@ -2414,13 +2426,13 @@ _Amendment(s) incorporated in the Act(s)_.
     
     New Zealand Railways Corporation Restructuring Act 1990 (1990 No 105): [section 34][174]
     
-    Transport Services Licensing Act 1989 (1989 No 74): [section 68][225]
+    Transport Services Licensing Act 1989 (1989 No 74): [section 68][226]
     
-    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][200]
+    Sale of Liquor Act 1989 (1989 No 63): [section 230(1)][201]
     
     New Zealand Railways Corporation Amendment Act 1989 (1989 No 55)
     
-    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][220], [83(7)][219], [86(1)][190]
+    Public Finance Act 1989 (1989 No 44): [sections 65R(3)][221], [83(7)][220], [86(1)][190]
     
     Telecommunications Amendment Act 1988 (1988 No 164): section 25(2)
     
@@ -2434,7 +2446,7 @@ _Amendment(s) incorporated in the Act(s)_.
     
     State Services Conditions of Employment Amendment Act 1987 (1987 No 17): section 20(3)(a), (c), (d)
     
-    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][222]
+    State-Owned Enterprises Act 1986 (1986 No 124): [section 32(1)][223]
     
     New Zealand Railways Corporation Amendment Act 1985 (1985 No 105)
     
@@ -2640,57 +2652,58 @@ _Amendment(s) incorporated in the Act(s)_.
 [195]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM33494
 [196]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34045
 [197]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34086
-[198]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM377336
-[199]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM380192
-[200]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM167530
-[201]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM45426
-[202]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM47751
-[203]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM231916
-[204]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM269031
-[205]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM46014
-[206]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM46045
-[207]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM394841
-[208]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM249941
-[209]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218124
-[210]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM119011
-[211]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM281857
-[212]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM285411
-[213]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925003
-[214]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3110800
-[215]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM284137
-[216]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM82317
-[217]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925016
-[218]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM160808
-[219]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM163167
-[220]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM162942
-[221]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925017
-[222]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM98437
-[223]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM293863
-[224]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM47766
-[225]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM172819
-[226]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM446007
-[227]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM22732
-[228]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317324
-[229]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3394800
-[230]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM90414
-[231]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM341567
-[232]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM226229
-[233]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM343101
-[234]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4663359
-[235]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3395080
-[236]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3231293
-[237]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM228040
-[238]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM430983
-[239]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM396810
-[240]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34087
-[241]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM264952
-[242]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317313
-[243]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM320040
-[244]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34678
-[245]: http://www.pco.parliament.govt.nz/reprints/
-[246]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195439
-[247]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[248]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195468
-[249]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195470
-[250]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4014600
-[251]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218118
+[198]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3360714
+[199]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM377336
+[200]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM380192
+[201]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM167530
+[202]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM45426
+[203]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM47751
+[204]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM231916
+[205]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM269031
+[206]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM46014
+[207]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM46045
+[208]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM394841
+[209]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM249941
+[210]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218124
+[211]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM119011
+[212]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM281857
+[213]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM285411
+[214]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925003
+[215]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3110800
+[216]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM284137
+[217]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM82317
+[218]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925016
+[219]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM160808
+[220]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM163167
+[221]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM162942
+[222]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM2925017
+[223]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM98437
+[224]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM293863
+[225]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM47766
+[226]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM172819
+[227]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM446007
+[228]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM22732
+[229]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317324
+[230]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3394800
+[231]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM90414
+[232]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM341567
+[233]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM226229
+[234]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM343101
+[235]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4663359
+[236]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3395080
+[237]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM3231293
+[238]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM228040
+[239]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM430983
+[240]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM396810
+[241]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34087
+[242]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM264952
+[243]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM317313
+[244]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM320040
+[245]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM34678
+[246]: http://www.pco.parliament.govt.nz/reprints/
+[247]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195439
+[248]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[249]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195468
+[250]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM195470
+[251]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM4014600
+[252]: http://www.legislation.govt.nz/act/public/1981/0119/latest/link.aspx?id=DLM218118
