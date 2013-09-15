@@ -1,7 +1,7 @@
 Reprint  
-as at 1 October 2008
+as at 5 August 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Sports Anti-Doping Act 2006Public Act2006 No 58
 
@@ -13,171 +13,171 @@ Commencementsee section 2
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
-This Act is administered by Sport and Recreation New Zealand.
+This Act is administered by Sport New Zealand.
 
 ---
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
-[2][2] [Commencement][2]
+[2][2][][2][Commencement][2]
 
 [Part 1][3]  
 [Preliminary provisions][3]
 
-[3][4] [Purposes of this Act][4]
+[3][4][][4][Purposes of this Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Drug Free Sport New Zealand][7]
 
-[Subpart 1][8]---[Continuation and membership of Drug Free Sport NZ][8]
+[Subpart 1][8][---][8][Continuation and membership of Drug Free Sport NZ][8]
 
-[6][9] [Drug Free Sport New Zealand continued][9]
+[6][9][][9][Drug Free Sport New Zealand continued][9]
 
-[7][10] [Drug Free Sport NZ is Crown entity][10]
+[7][10][][10][Drug Free Sport NZ is Crown entity][10]
 
-[8][11] [Drug Free Sport NZ must act independently][11]
+[8][11][][11][Drug Free Sport NZ must act independently][11]
 
-[9][12] [Membership of Drug Free Sport NZ][12]
+[9][12][][12][Membership of Drug Free Sport NZ][12]
 
-[10][13] [Eligibility for appointment as member of Drug Free Sport NZ][13]
+[10][13][][13][Eligibility for appointment as member of Drug Free Sport NZ][13]
 
-[11][14] [Superannuation fund or retiring allowances][14]
+[11][14][][14][Superannuation fund or retiring allowances][14]
 
-[Subpart 2][15]---[Functions and powers of Drug Free Sport NZ][15]
+[Subpart 2][15][---][15][Functions and powers of Drug Free Sport NZ][15]
 
-[12][16] [Functions of Drug Free Sport NZ][16]
+[12][16][][16][Functions of Drug Free Sport NZ][16]
 
-[13][17] [Powers of Drug Free Sport NZ][17]
+[13][17][][17][Powers of Drug Free Sport NZ][17]
 
-[14][18] [Charges for testing][18]
+[14][18][][18][Charges for testing][18]
 
-[15][19] [Performing Drug Free Sport NZ's functions and exercising Drug Free Sport NZ's powers][19]
+[15][19][][19][Performing Drug Free Sport NZ's functions and exercising Drug Free Sport NZ's powers][19]
 
-[Subpart 3][20]---[Rules][20]
+[Subpart 3][20][---][20][Rules][20]
 
-[16][21] [Board must make rules][21]
+[16][21][][21][Board must make rules][21]
 
-[17][22] [Incorporation of material by reference in rules][22]
+[17][22][][22][Incorporation of material by reference in rules][22]
 
-[18][23] [Effect of amendments to, or replacement of, material incorporated by reference in rules][23]
+[18][23][][23][Effect of amendments to, or replacement of, material incorporated by reference in rules][23]
 
-[19][24] [Proof of material incorporated by reference][24]
+[19][24][][24][Proof of material incorporated by reference][24]
 
-[20][25] [Effect of expiry of material incorporated by reference][25]
+[20][25][][25][Effect of expiry of material incorporated by reference][25]
 
-[21][26] [Method of making rules][26]
+[21][26][][26][Method of making rules][26]
 
-[22][27] [Public access to rules and material incorporated by reference][27]
+[22][27][][27][Public access to rules and material incorporated by reference][27]
 
-[23][28] [Review of rules][28]
+[23][28][][28][Review of rules][28]
 
-[24][29] [Acts and Regulations Publication Act 1989 not applicable][29]
+[24][29][][29][Application of Legislation Act 2012 to rules][29]
 
-[25][30] [Application of Regulations (Disallowance) Act 1989][30]
+[25][30][][30][Application of Regulations (Disallowance) Act 1989][30] \[Repealed\]
 
-[26][31] [Application of Standards Act 1988 not affected][31]
+[26][31][][31][Application of Standards Act 1988 not affected][31]
 
-[Subpart 4][32]---[Miscellaneous matters concerning Drug Free Sport NZ][32]
+[Subpart 4][32][---][32][Miscellaneous matters concerning Drug Free Sport NZ][32]
 
-[27][33] [Recognising needs and privacy of athletes][33]
+[27][33][][33][Recognising needs and privacy of athletes][33]
 
-[28][34] [Sharing of evidence and information by Customs, police, and others][34]
+[28][34][][34][Sharing of evidence and information by Customs, police, and others][34]
 
 [Part 3][35]  
 [Sports Tribunal of New Zealand][35]
 
-[Subpart 1][36]---[Continuation and membership of Tribunal][36]
+[Subpart 1][36][---][36][Continuation and membership of Tribunal][36]
 
-[29][37] [Sports Tribunal of New Zealand continued][37]
+[29][37][][37][Sports Tribunal of New Zealand continued][37]
 
-[30][38] [Membership of Tribunal][38]
+[30][38][][38][Membership of Tribunal][38]
 
-[31][39] [Chairperson of Tribunal][39]
+[31][39][][39][Chairperson of Tribunal][39]
 
-[32][40] [Deputy chairperson of Tribunal][40]
+[32][40][][40][Deputy chairperson of Tribunal][40]
 
-[33][41] [Eligibility for appointment as member of Tribunal][41]
+[33][41][][41][Eligibility for appointment as member of Tribunal][41]
 
-[34][42] [Term of office of members of Tribunal][42]
+[34][42][][42][Term of office of members of Tribunal][42]
 
-[35][43] [Termination of appointment of member of Tribunal][43]
+[35][43][][43][Termination of appointment of member of Tribunal][43]
 
-[36][44] [Remuneration, allowances, and expenses of members][44]
+[36][44][][44][Remuneration, allowances, and expenses of members][44]
 
-[37][45] [Members of Tribunal not personally liable][45]
+[37][45][][45][Members of Tribunal not personally liable][45]
 
-[Subpart 2][46]---[Jurisdiction and procedure][46]
+[Subpart 2][46][---][46][Jurisdiction and procedure][46]
 
-[38][47] [Functions of Tribunal][47]
+[38][47][][47][Functions of Tribunal][47]
 
-[39][48] [Procedure of Tribunal][48]
+[39][48][][48][Procedure of Tribunal][48]
 
-[40][49] [Evidence in proceedings before Tribunal][49]
+[40][49][][49][Evidence in proceedings before Tribunal][49]
 
-[41][50] [Witness summons][50]
+[41][50][][50][Witness summons][50]
 
-[42][51] [Service of summons][51]
+[42][51][][51][Service of summons][51]
 
-[43][52] [Witnesses' allowances][52]
+[43][52][][52][Witnesses' allowances][52]
 
-[44][53] [Privileges and immunities][53]
+[44][53][][53][Privileges and immunities][53]
 
-[45][54] [Non-attendance or refusal to co-operate][54]
+[45][54][][54][Non-attendance or refusal to co-operate][54]
 
-[46][55] [Contempt of Tribunal][55]
+[46][55][][55][Contempt of Tribunal][55]
 
-[47][56] [Costs][56]
+[47][56][][56][Costs][56]
 
 [Part 4][57]  
 [Transitional provisions, repeal, revocations, and consequential amendments][57]
 
 [General transitional provision][58]
 
-[48][59] [Matters commenced under New Zealand Sports Drug Agency Act 1994][59]
+[48][59][][59][Matters commenced under New Zealand Sports Drug Agency Act 1994][59]
 
 [Transitional provisions for Drug Free Sport NZ][60]
 
-[49][61] [Meaning of Agency][61]
+[49][61][][61][Meaning of Agency][61]
 
-[50][62] [Tests, proceedings, matters, issues, or things before Agency][62]
+[50][62][][62][Tests, proceedings, matters, issues, or things before Agency][62]
 
-[51][63] [References to Agency][63]
+[51][63][][63][References to Agency][63]
 
-[52][64] [Preparation and making of rules before 1 July 2007][64]
+[52][64][][64][Preparation and making of rules before 1 July 2007][64]
 
 [Temporary additional functions of Drug Free Sport NZ][65]
 
-[53][66] [Additional functions of Agency prior to 1 July 2007][66]
+[53][66][][66][Additional functions of Agency prior to 1 July 2007][66]
 
-[54][67] [Use of information and evidence gathered under section 53(1)(a)][67]
+[54][67][][67][Use of information and evidence gathered under section 53(1)(a)][67]
 
 [Transitional provisions for Tribunal][68]
 
-[55][69] [Meaning of Sports Disputes Tribunal][69]
+[55][69][][69][Meaning of Sports Disputes Tribunal][69]
 
-[56][70] [Issues, proceedings, matters, or things before Sports Disputes Tribunal][70]
+[56][70][][70][Issues, proceedings, matters, or things before Sports Disputes Tribunal][70]
 
-[57][71] [References to Sports Disputes Tribunal][71]
+[57][71][][71][References to Sports Disputes Tribunal][71]
 
-[58][72] [Transitional remuneration of members of Tribunal][72]
+[58][72][][72][Transitional remuneration of members of Tribunal][72]
 
 [Repeal, revocations, and consequential amendments][73]
 
-[59][74] [New Zealand Sports Drug Agency Act 1994 repealed][74]
+[59][74][][74][New Zealand Sports Drug Agency Act 1994 repealed][74]
 
-[60][75] [Regulations revoked][75]
+[60][75][][75][Regulations revoked][75]
 
-[61][76] [Consequential amendments to other Acts][76]
+[61][76][][76][Consequential amendments to other Acts][76]
 
 [Schedule 1][77]  
 [Regulations revoked][77]
@@ -483,21 +483,25 @@ Drug Free Sport New Zealand
     
     (2) [Sections 16 to 22][21] apply, with the necessary modifications, to the making of a new, amended, or revised rule.
 
-##### 24 Acts and Regulations Publication Act 1989 not applicable
+##### 24 Application of Legislation Act 2012 to rules
     
-*   (1) The rules are not regulations for the purposes of the [Acts and Regulations Publication Act 1989][90].
+*   (1) The rules are a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][90] and must be presented to the House of Representatives under [section 41][91] of that Act.
     
-    (2) The [Acts and Regulations Publication Act 1989][90] does not apply to material incorporated by reference in the rules or to an amendment to, or replacement of, that material.
+    (2) However, [section 41][91] of the Legislation Act 2012 does not apply to material incorporated by reference in the rules.
+    
+    (3) To avoid doubt, nothing in [Part 2][92] of the Legislation Act 2012 applies to material incorporated by reference in the rules.
+    
+    Section 24: replaced, on 5 August 2013, by [section 77(3)][93] of the Legislation Act 2012 (2012 No 119).
 
 ##### 25 Application of Regulations (Disallowance) Act 1989
     
-*   (1) The rules are regulations for the purposes of the [Regulations (Disallowance) Act 1989][91].
+*   \[Repealed\]
     
-    (2) Despite subsection (1), nothing in [section 4][92] of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in the rules to be laid before the House of Representatives.
+    Section 25: repealed, on 5 August 2013, by [section 77(3)][93] of the Legislation Act 2012 (2012 No 119).
 
 ##### 26 Application of Standards Act 1988 not affected
     
-*   [Sections 16 to 25][21] do not affect the application of [sections 22 to 25][93] of the Standards Act 1988\.
+*   [Sections 16 to 25][21] do not affect the application of [sections 22 to 25][94] of the Standards Act 1988\.
 
 ### Subpart 4---Miscellaneous matters concerning Drug Free Sport NZ
 
@@ -517,7 +521,7 @@ Drug Free Sport New Zealand
     
 *   A Police employee, a Customs officer, or any other person may provide evidence or information to Drug Free Sport NZ if that person believes that that evidence or information may assist Drug Free Sport NZ in complying with or implementing the rules.
     
-    Section 28: amended, on 1 October 2008, by [section 130(1)][94] of the Policing Act 2008 (2008 No 72).
+    Section 28: amended, on 1 October 2008, by [section 130(1)][95] of the Policing Act 2008 (2008 No 72).
 
 ## Part 3  
 Sports Tribunal of New Zealand
@@ -528,7 +532,7 @@ Sports Tribunal of New Zealand
     
 *   (1) There continues to be a tribunal to be called the Sports Tribunal of New Zealand.
     
-    (2) The Tribunal is the same body as the Sports Disputes Tribunal of New Zealand established by the board of Sport and Recreation New Zealand under [section 8(i)][95] of the Sport and Recreation New Zealand Act 2002\.
+    (2) The Tribunal is the same body as the Sports Disputes Tribunal of New Zealand established by the board of Sport and Recreation New Zealand under [section 8(i)][96] of the Sport and Recreation New Zealand Act 2002\.
     
     (3) The Tribunal continues under this Act with the functions, powers, and duties specified in this Act, but otherwise without any change in its continuity, assets, rights, liabilities, contracts, or members.
     
@@ -542,7 +546,7 @@ Sports Tribunal of New Zealand
     
     (3) In recommending a person for appointment as a member of the Tribunal, the Minister must have regard to the person's personal attributes, qualifications, and skills.
     
-    (4) A member is not employed in the State services for the purposes of the [State Sector Act 1988][96] or the Government service for the purposes of the [Government Superannuation Fund Act 1956][86] only because the person is a member of the Tribunal.
+    (4) A member is not employed in the State services for the purposes of the [State Sector Act 1988][97] or the Government service for the purposes of the [Government Superannuation Fund Act 1956][86] only because the person is a member of the Tribunal.
 
 ##### 31 Chairperson of Tribunal
     
@@ -594,7 +598,7 @@ Sports Tribunal of New Zealand
     
 *   (1) A member of the Tribunal may, at any time, resign his or her office by giving notice in writing to that effect to the Minister.
     
-    (2) A member of the Tribunal is taken to have vacated his or her office if he or she dies or is adjudged bankrupt under the [Insolvency Act 2006][97].
+    (2) A member of the Tribunal is taken to have vacated his or her office if he or she dies or is adjudged bankrupt under the [Insolvency Act 2006][98].
     
     (3) A member of the Tribunal may, at any time, be removed from office by the Governor-General on the recommendation of the Minister made after consultation with the board of Sport and Recreation New Zealand for inability to perform the duties of office, neglect of duty, or misconduct proved to the satisfaction of the Governor-General.
     
@@ -602,11 +606,11 @@ Sports Tribunal of New Zealand
 
 ##### 36 Remuneration, allowances, and expenses of members
     
-*   (1) A member of the Tribunal is entitled to receive remuneration for services as a member at a rate and of a kind determined by the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][98].
+*   (1) A member of the Tribunal is entitled to receive remuneration for services as a member at a rate and of a kind determined by the Remuneration Authority in accordance with the [Remuneration Authority Act 1977][99].
     
-    (2) There may be paid out of public money to the members of the Tribunal travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][99], and the provisions of that Act apply accordingly.
+    (2) There may be paid out of public money to the members of the Tribunal travelling allowances and travelling expenses in accordance with the [Fees and Travelling Allowances Act 1951][100], and the provisions of that Act apply accordingly.
     
-    (3) The Tribunal is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][99].
+    (3) The Tribunal is a statutory board for the purposes of the [Fees and Travelling Allowances Act 1951][100].
     
     (4) Remuneration determined under subsection (1) must not include remuneration of the kind paid under subsection (2).
 
@@ -660,7 +664,7 @@ Sports Tribunal of New Zealand
     
     (3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
     
-    (4) Subject to subsections (1) to (3), the [Evidence Act 1908][100] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+    (4) Subject to subsections (1) to (3), the [Evidence Act 1908][101] applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
 
 ##### 41 Witness summons
     
@@ -698,7 +702,7 @@ Sports Tribunal of New Zealand
 
 ##### 43 Witnesses' allowances
     
-*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Summary Proceedings Act 1957][101], and those regulations apply accordingly.
+*   (1) Every witness attending before the Tribunal to give evidence pursuant to a summons is entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the [Criminal Procedure Act 2011][102], and those regulations apply accordingly.
     
     (2) On each occasion on which the Tribunal issues a summons under [section 41][50], the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, must be paid or tendered to the witness.
     
@@ -712,7 +716,7 @@ Sports Tribunal of New Zealand
     
     *   (b) be paid from money appropriated by Parliament for the purpose.
     
-    
+    Section 43(1): amended, on 1 July 2013, by [section 413][103] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Privileges and immunities
     
@@ -730,13 +734,15 @@ Sports Tribunal of New Zealand
     
     *   (c) fails to produce that paper, document, record, or thing.
     
-    (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500\.
+    (2) Every person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,500\.
     
     (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless travelling expenses were tendered or paid to that person in accordance with [section 43][52].
+    
+    Section 45(2): amended, on 1 July 2013, by [section 413][103] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 46 Contempt of Tribunal
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who---
         
     *   (a) threatens, intimidates, or intentionally insults the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
     
@@ -745,6 +751,8 @@ Sports Tribunal of New Zealand
     *   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
     
     (2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not that person is charged with the offence; and any member of the police may take the steps reasonably necessary to enforce that exclusion.
+    
+    Section 46(1): amended, on 1 July 2013, by [section 413][103] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 47 Costs
     
@@ -783,7 +791,7 @@ Transitional provisions, repeal, revocations, and consequential amendments
     
     (3) Anything done by the Agency before the commencement of [sections 16 to 22][21] is valid and effective if, had it been done after the commencement of those sections, it would have been done in accordance with those sections.
     
-    (4) This section does not limit [section 11][102] of the Interpretation Act 1999\.
+    (4) This section does not limit [section 11][104] of the Interpretation Act 1999\.
 
 #### Temporary additional functions of Drug Free Sport NZ
 
@@ -797,7 +805,7 @@ Transitional provisions, repeal, revocations, and consequential amendments
     
     (2) The Agency must perform its additional functions in accordance with the Code and the World Anti-Doping Agency's International Standards, Models of Best Practice, and its other standards, requirements, and recommended practices.
     
-    (3) The functions set out in subsection (1) are in addition to the functions of the Agency set out in [section 6][103] of the New Zealand Sports Drug Agency Act 1994\.
+    (3) The functions set out in subsection (1) are in addition to the functions of the Agency set out in [section 6][105] of the New Zealand Sports Drug Agency Act 1994\.
 
 ##### 54 Use of information and evidence gathered under section 53(1)(a)
     
@@ -815,7 +823,7 @@ Transitional provisions, repeal, revocations, and consequential amendments
 
 ##### 55 Meaning of Sports Disputes Tribunal
     
-*   In this Part, _Sports Disputes Tribunal_ means the tribunal established by the board of Sport and Recreation New Zealand under [section 8(i)][95] of the Sport and Recreation New Zealand Act 2002 and known as the Sports Disputes Tribunal of New Zealand.
+*   In this Part, _Sports Disputes Tribunal_ means the tribunal established by the board of Sport and Recreation New Zealand under [section 8(i)][96] of the Sport and Recreation New Zealand Act 2002 and known as the Sports Disputes Tribunal of New Zealand.
 
 ##### 56 Issues, proceedings, matters, or things before Sports Disputes Tribunal
     
@@ -871,92 +879,53 @@ Consequential amendments to other Acts
 
 ##### Crown Entities Act 2004 (2004 No 115)
 
-[Part 3][104] of Schedule 1: omit ""New Zealand Sports Drug Agency"".
+[Part 3][106] of Schedule 1: omit ""New Zealand Sports Drug Agency"".
 
-[Part 3][104] of Schedule 1: insert ""Drug Free Sport New Zealand"" after ""Commerce Commission"".
+[Part 3][106] of Schedule 1: insert ""Drug Free Sport New Zealand"" after ""Commerce Commission"".
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-[Part 2][105] of Schedule 1: omit ""The New Zealand Sports Drug Agency"".
+[Part 2][107] of Schedule 1: omit ""The New Zealand Sports Drug Agency"".
 
-[Part 2][105] of Schedule 1: insert ""Drug Free Sport New Zealand"" after ""District health boards"".
+[Part 2][107] of Schedule 1: insert ""Drug Free Sport New Zealand"" after ""District health boards"".
 
 ##### Remuneration Authority Act 1977 (1977 No 110)
 
-[Schedule 4][106]: omit ""The members of the New Zealand Sports Drug Agency"".
+[Schedule 4][108]: omit ""The members of the New Zealand Sports Drug Agency"".
 
-[Schedule 4][106]: insert ""The members of Drug Free Sport New Zealand"" after ""The Chief Community Magistrate"".
+[Schedule 4][108]: insert ""The members of Drug Free Sport New Zealand"" after ""The Chief Community Magistrate"".
 
-[Schedule 4][106]: insert ""The members of the Sports Tribunal of New Zealand"" after ""The Retirement Commissioner"".
+[Schedule 4][108]: insert ""The members of the Sports Tribunal of New Zealand"" after ""The Retirement Commissioner"".
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Sports Anti-Doping Act 2006\. The reprint incorporates all the amendments to the Sports Anti-Doping Act 2006 as at 1 October 2008, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
+*   This is a reprint of the Sports Anti-Doping Act 2006 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][107] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][109] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][110] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ http://www.pco.parliament.govt.nz/legislation/reprints.shtml or Part 8 of the _Tables of Acts and Ordinances and Statutory Regulations, and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][111] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][112] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][93]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][103]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Policing Act 2008 (2008 No 72): [section 130(1)][94]
+    Policing Act 2008 (2008 No 72): [section 130(1)][95]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/2006/0058/latest/whole.html#DLM390110
 [2]: http://www.legislation.govt.nz/act/public/2006/0058/latest/whole.html#DLM390111
 [3]: http://www.legislation.govt.nz/act/public/2006/0058/latest/whole.html#DLM390112
@@ -1046,23 +1015,26 @@ Consequential amendments to other Acts
 [87]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM330360
 [88]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM329930
 [89]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM329931
-[90]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195097
-[91]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195534
-[92]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195549
-[93]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM128740
-[94]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM1102383
-[95]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM157169
-[96]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM129109
-[97]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM385298
-[98]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM15636
-[99]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM264952
-[100]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM142512
-[101]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM310742
-[102]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM31478
-[103]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM333119
-[104]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM331121
-[105]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM431296
-[106]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM16452
-[107]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195439
-[108]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195468
-[109]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM195470
+[90]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2997643
+[91]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998573
+[92]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2997693
+[93]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998633
+[94]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM128740
+[95]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM1102383
+[96]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM157169
+[97]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM129109
+[98]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM385298
+[99]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM15636
+[100]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM264952
+[101]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM142512
+[102]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM3359902
+[103]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM3360714
+[104]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM31478
+[105]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM333119
+[106]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM331121
+[107]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM431296
+[108]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM16452
+[109]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998516
+[110]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998515
+[111]: http://www.legislation.govt.nz/act/public/2006/0058/latest/link.aspx?id=DLM2998532
+[112]: http://www.pco.parliament.govt.nz/editorial-conventions/
