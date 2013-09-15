@@ -1,5 +1,5 @@
 Reprint  
-as at 20 September 2007
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -17,7 +17,7 @@ Changes authorised by [section 17C][0] of the Acts and Regulations Publication A
 
 A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
 
-This Act is administered by the Department of Building and Housing.
+This Act is administered by the Ministry of Business, Innovation, and Employment.
 
 ---
 
@@ -25,87 +25,87 @@ This Act is administered by the Department of Building and Housing.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Registration Board and Investigation Committee][4]
 
-[3][5] [Constitution of Board][5]
+[3][5][][5][Constitution of Board][5]
 
-[4][6] [Meetings of Board][6]
+[4][6][][6][Meetings of Board][6]
 
-[5][7] [Chairman and Deputy Chairman of Board][7]
+[5][7][][7][Chairman and Deputy Chairman of Board][7]
 
-[6][8] [Procedure of Board][8]
+[6][8][][8][Procedure of Board][8]
 
-[7][9] [Registrar of Board][9]
+[7][9][][9][Registrar of Board][9]
 
-[8][10] [Engineering Associates Investigation Committee][10]
+[8][10][][10][Engineering Associates Investigation Committee][10]
 
-[9][11] [Remuneration and travelling expenses][11]
+[9][11][][11][Remuneration and travelling expenses][11]
 
-[10][12] [Extraordinary vacancies on Board and Committee][12]
+[10][12][][12][Extraordinary vacancies on Board and Committee][12]
 
 [Registration][13]
 
-[11][14] [Registration][14]
+[11][14][][14][Registration][14]
 
-[12][15] [Application for registration][15]
+[12][15][][15][Application for registration][15]
 
-[13][16] [Consideration of applications][16]
+[13][16][][16][Consideration of applications][16]
 
-[14][17] [Registrar to observe directions of Board][17]
+[14][17][][17][Registrar to observe directions of Board][17]
 
-[15][18] [Certificate of registration][18]
+[15][18][][18][Certificate of registration][18]
 
-[16][19] [False representation or declaration][19]
+[16][19][][19][False representation or declaration][19]
 
-[17][20] [Name to be removed from register if person cannot be found, etc][20]
+[17][20][][20][Name to be removed from register if person cannot be found, etc][20]
 
-[18][21] [Correction of register][21]
+[18][21][][21][Correction of register][21]
 
-[19][22] [Voluntary removal of name from register][22]
+[19][22][][22][Voluntary removal of name from register][22]
 
-[20][23] [Removal of name from register for default in payment of annual fee][23]
+[20][23][][23][Removal of name from register for default in payment of annual fee][23]
 
 [Complaints against persons registered under this Act][24]
 
-[21][25] [Complaints against persons registered under this Act][25]
+[21][25][][25][Complaints against persons registered under this Act][25]
 
-[22][26] [Removal of name from register][26]
+[22][26][][26][Removal of name from register][26]
 
-[23][27] [Inquiry by Board into complaint][27]
+[23][27][][27][Inquiry by Board into complaint][27]
 
-[24][28] [Further disciplinary powers of Board][28]
+[24][28][][28][Further disciplinary powers of Board][28]
 
 [Appeals][29]
 
-[25][30] [Appeals from decision of the Board][30]
+[25][30][][30][Appeals from decision of the Board][30]
 
 [Financial provisions][31]
 
-[26][32] [Application of fees, etc, received by Board][32]
+[26][32][][32][Application of fees, etc, received by Board][32]
 
-[27][33] [Accounts and audit][33]
+[27][33][][33][Accounts and audit][33]
 
-[28][34] [Associations to contribute to Board's funds][34]
+[28][34][][34][Associations to contribute to Board's funds][34]
 
-[29][35] [Unauthorised expenditure][35]
+[29][35][][35][Unauthorised expenditure][35]
 
 [Miscellaneous][36]
 
-[30][37] [Suspension of application of Act to association][37]
+[30][37][][37][Suspension of application of Act to association][37]
 
-[31][38] [Certificate by Registrar to be evidence of registration, etc][38]
+[31][38][][38][Certificate by Registrar to be evidence of registration, etc][38]
 
-[32][39] [Registrar to notify association of entries in register][39]
+[32][39][][39][Registrar to notify association of entries in register][39]
 
-[33][40] [Use of words, initials, etc, implying registration][40]
+[33][40][][40][Use of words, initials, etc, implying registration][40]
 
-[34][41] [Penalty for offences][41]
+[34][41][][41][Penalty for offences][41]
 
-[35][42] [Regulations][42]
+[35][42][][42][Regulations][42]
 
 [Schedule][43]  
 [Rules and objects of associations][43]
@@ -306,7 +306,9 @@ An Act to provide for the registration and control of certain persons associated
     
     (4) Every person registered under this Act who at any time changes his address as appearing in the register shall, within 3 months thereafter, send to the Registrar a notice of his new address; and the Registrar shall thereupon correct the entry in the register relating to that person accordingly.
     
-    (5) Every person registered under this Act who fails to comply with the provisions of subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding 5 pounds.
+    (5) Every person registered under this Act who fails to comply with the provisions of subsection (4) commits an offence and is liable on conviction to a fine not exceeding $10\.
+    
+    Section 17(5): amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Correction of register
     
@@ -374,7 +376,7 @@ An Act to provide for the registration and control of certain persons associated
     
     provided that the sum which may be so paid to any witness shall not exceed the amount to which he would have been entitled for expenses and loss of time if the inquiry had been a proceeding in a District Court.
     
-    Section 23(9): amended, on 1 April 1980, pursuant to [section 18(2)][49] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 23(9): amended, on 1 April 1980, pursuant to [section 18(2)][50] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 24 Further disciplinary powers of Board
     
@@ -404,9 +406,9 @@ An Act to provide for the registration and control of certain persons associated
     
     (6) From the time an appeal is lodged under this section until a decision is given by the Appeal Tribunal, any appellant who was registered under the provisions of this Act shall be deemed to remain so registered.
     
-    (7) On any appeal under this section the Appeal Tribunal shall be deemed to be a Commission of Inquiry under the [Commissions of Inquiry Act 1908][50], and all the provisions of that Act shall apply accordingly.
+    (7) On any appeal under this section the Appeal Tribunal shall be deemed to be a Commission of Inquiry under the [Commissions of Inquiry Act 1908][51], and all the provisions of that Act shall apply accordingly.
     
-    Section 25(2): amended, on 1 April 1980, pursuant to [section 18(2)][49] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 25(2): amended, on 1 April 1980, pursuant to [section 18(2)][50] of the District Courts Amendment Act 1979 (1979 No 125).
 
 #### Financial provisions
 
@@ -436,11 +438,11 @@ An Act to provide for the registration and control of certain persons associated
     
 *   (1) The accounts of the Board for every year ending with 31 March shall comprise a statement of financial position showing the financial position of the Board at 31 March in that year, together with a statement of income and expenditure.
     
-    (2) The Board is a public entity as defined in [section 4][51] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+    (2) The Board is a public entity as defined in [section 4][52] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 27(1): amended, on 1 October 1997, pursuant to [section 6(1)][52] of the Financial Reporting Amendment Act 1997 (1997 No 17).
+    Section 27(1): amended, on 1 October 1997, pursuant to [section 6(1)][53] of the Financial Reporting Amendment Act 1997 (1997 No 17).
     
-    Section 27(2): replaced, on 1 July 2001, by [section 53][53] of the Public Audit Act 2001 (2001 No 10).
+    Section 27(2): replaced, on 1 July 2001, by [section 53][54] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 28 Associations to contribute to Board's funds
     
@@ -450,7 +452,7 @@ An Act to provide for the registration and control of certain persons associated
 
 ##### 29 Unauthorised expenditure
     
-*   The Board may, in any financial year, expend out of its funds for purposes not authorised by this Act or any other Act any sum or sums not amounting in the whole to more than 50 pounds.
+*   The Board may, in any financial year, expend out of its funds for purposes not authorised by this Act or any other Act any sum or sums not amounting in the whole to more than $100\.
 
 #### Miscellaneous
 
@@ -478,7 +480,9 @@ An Act to provide for the registration and control of certain persons associated
 
 ##### 34 Penalty for offences
     
-*   Every person who commits an offence against this Act for which no penalty is provided in this Act elsewhere than in this section is liable on summary conviction to a fine not exceeding 50 pounds, and, where the offence is a continuing one, to a further fine not exceeding 5 pounds for every day during which the offence has continued.
+*   Every person who commits an offence against this Act for which no penalty is provided in this Act elsewhere than in this section is liable on conviction to a fine not exceeding $100, and, where the offence is a continuing one, to a further fine not exceeding $10 for every day during which the offence has continued.
+    
+    Section 34: amended, on 1 July 2013, by [section 413][49] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 35 Regulations
     
@@ -504,15 +508,15 @@ An Act to provide for the registration and control of certain persons associated
     
     *   (i) providing for the taxation or review by the Board or the Investigation Committee or a District Court Judge of charges made by persons registered under this Act:
     
-    *   (j) prescribing fines, not exceeding 50 pounds, and in the case of a continuing offence a further fine not exceeding 5 pounds for every day during which the offence has continued, for the breach of any regulation made under this section.
+    *   (j) prescribing fines, not exceeding $100, and in the case of a continuing offence a further fine not exceeding $10 for every day during which the offence has continued, for the breach of any regulation made under this section.
     
     (3) \[Repealed\]
     
     Section 35(2)(d): replaced, on 13 November 1964, by section 4 of the Engineering Associates Amendment Act 1964 (1964 No 52).
     
-    Section 35(2)(i): amended, on 1 April 1980, pursuant to [section 18(2)][49] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 35(2)(i): amended, on 1 April 1980, pursuant to [section 18(2)][50] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 35(3): repealed, on 19 December 1989, by [section 11][54] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 35(3): repealed, on 19 December 1989, by [section 11][55] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ---
 
@@ -555,23 +559,23 @@ The Minister shall not extend the application of this Act to any association, in
 
 ###### 1 General
     
-*   This is a reprint of the Engineering Associates Act 1961\. The reprint incorporates all the amendments to the Act as at 20 September 2007, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Engineering Associates Act 1961\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][55] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][56] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][56] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][57] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][57] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][58] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][58] and [17E][59] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][59] and [17E][60] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -602,21 +606,23 @@ The Minister shall not extend the application of this Act to any association, in
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Engineering Associates Amendment Act 2007][60] (2007 No 55)
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][49]
+    
+    [Engineering Associates Amendment Act 2007][61] (2007 No 55)
     
     Human Rights Amendment Act 2001 (2001 No 96): [section 70(1)][47]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][53]
+    Public Audit Act 2001 (2001 No 10): [section 53][54]
     
-    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][52]
+    Financial Reporting Amendment Act 1997 (1997 No 17): [section 6(1)][53]
     
     Engineering Associates Amendment Act 1996 (1996 No 120)
     
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][54]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][55]
     
     Trade and Industry Act Repeal Act 1988 (1988 No 156): [section 4(1)][44]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][49]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][50]
     
     Engineering Associates Amendment Act 1976 (1976 No 88)
     
@@ -675,15 +681,16 @@ The Minister shall not extend the application of this Act to any association, in
 [46]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM264952
 [47]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM122579
 [48]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM968258
-[49]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM35085
-[50]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM139130
-[51]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM88548
-[52]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM408960
-[53]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM88957
-[54]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195558
-[55]: http://www.pco.parliament.govt.nz/reprints/
-[56]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195439
-[57]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[58]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195468
-[59]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195470
-[60]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM968250
+[49]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM3360714
+[50]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM35085
+[51]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM139130
+[52]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM88548
+[53]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM408960
+[54]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM88957
+[55]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195558
+[56]: http://www.pco.parliament.govt.nz/reprints/
+[57]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195439
+[58]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[59]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195468
+[60]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM195470
+[61]: http://www.legislation.govt.nz/act/public/1961/0070/latest/link.aspx?id=DLM968250
