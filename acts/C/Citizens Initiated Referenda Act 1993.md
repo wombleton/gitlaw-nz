@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -1081,11 +1081,13 @@ Publicity
 
 ##### 42 Limits on expenditure
     
-*   Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who, either alone or in combination with others,---
+*   Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who, either alone or in combination with others,---
         
     *   (a) knowingly spends, on advertisements published or broadcast in relation to an indicative referendum petition, more than $50,000:
     
     *   (b) knowingly spends, on advertisements promoting one of the answers to the precise question to be put to voters in an indicative referendum (whether those advertisements are published or broadcast or both), more than $50,000\.
+    
+    Section 42: amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 42: amended, on 6 December 1995, by section 13 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
 
@@ -1113,13 +1115,13 @@ Publicity
     
     (2) \[Repealed\]
     
-    (3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
+    (3) Every person commits an offence and is liable on conviction to a fine not exceeding $20,000 who fails, without reasonable excuse, to comply with subsection (1A).
     
     (4) Every person who makes, under subsection (1A), a return that is false in any material particular---
         
-    *   (a) is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000, or to both; and
+    *   (a) is, if the person makes the return knowing that the return is false in a material particular, guilty of a corrupt practice and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $20,000, or to both; and
     
-    *   (b) is, in any other case, guilty of an illegal practice, and is liable on conviction on indictment to a fine not exceeding $20,000, unless the person proves:
+    *   (b) is, in any other case, guilty of an illegal practice, and is liable on conviction to a fine not exceeding $20,000, unless the person proves:
             
         *   (i) that he or she had no intention to mis-state or conceal the facts; and
         
@@ -1131,21 +1133,27 @@ Publicity
     
     Section 43: substituted, on 6 December 1995, by section 14 of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
     
-    Section 43(1): substituted, on 15 November 2000, by [section 93(1)][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(1): substituted, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 43(1)**appropriate official**: repealed, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 43(1A): inserted, on 15 November 2000, by [section 93(1)][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(1A): inserted, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 43(1A): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
     Section 43(1A)(b): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
-    Section 43(2): repealed, on 15 November 2000, by [section 93(1)][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(2): repealed, on 15 November 2000, by [section 93(1)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
-    Section 43(3): amended, on 15 November 2000, by [section 93(2)][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(3): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 43(4): amended, on 15 November 2000, by [section 93(3)][181] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 43(3): amended, on 15 November 2000, by [section 93(2)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    
+    Section 43(4): amended, on 15 November 2000, by [section 93(3)][182] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    
+    Section 43(4)(a): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 43(4)(b): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 44 Duty of Electoral Commission
     
@@ -1173,7 +1181,7 @@ Publicity
         
     *   (a) must be kept by the Electoral Commission in the office of the Electoral Commission, or some other convenient place to be appointed by the Electoral Commission, for a period of 5 years after it has been received by the Electoral Commission; and
     
-    *   (b) shall, during the period that it is kept under paragraph (a), be open to inspection by any person on payment of such charges (if any) as may be made under the [Official Information Act 1982][182].
+    *   (b) shall, during the period that it is kept under paragraph (a), be open to inspection by any person on payment of such charges (if any) as may be made under the [Official Information Act 1982][183].
     
     (2) At the end of the period specified in subsection (1), the Electoral Commission must cause the return to be destroyed.
     
@@ -1196,19 +1204,19 @@ Publicity
 ## Part 4  
 Application for inquiry into conduct of indicative referendum
     
-*   Heading: substituted, on 15 November 2000, by [section 96][183] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 96][184] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 47 Sections of Electoral Act 1993 applied
     
 *   (1) The sections of the [Electoral Act 1993][95] described in subsection (2), as far as they are applicable and with the necessary modifications, shall apply to a petition for an inquiry under [section 48][66].
     
-    (2) The sections of the [Electoral Act 1993][95] referred to in subsection (1) are [sections 232 to 234][184], [235][185], [236(1), (2), (4) to (7)][140], [240][186], [241][187], [242][188], [247 to 255][189], [256(1)(a) and (b)][143], and [257][190].
+    (2) The sections of the [Electoral Act 1993][95] referred to in subsection (1) are [sections 232 to 234][185], [235][186], [236(1), (2), (4) to (7)][140], [240][187], [241][188], [242][189], [247 to 255][190], [256(1)(a) and (b)][143], and [257][191].
     
     Section 47: substituted, on 1 July 1995, by section 11 of the Citizens Initiated Referenda Amendment Act 1994 (1994 No 146).
 
 #### Applicants
     
-*   Heading: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 48 Who may be applicants
     
@@ -1216,11 +1224,11 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(1)][66]
     
-    Section 48: substituted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 48: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Respondents
     
-*   Heading: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 49 Who may be respondents
     
@@ -1234,7 +1242,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 49][68]
     
-    Section 49: substituted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 49: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 50 Who may be respondents
     
@@ -1246,21 +1254,21 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(2)][66]
     
-    Section 50: substituted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 50: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Making of application
     
-*   Heading: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51 Application form
     
-*   (1) The application must be in [form 6][192] of the Schedule, or in a similar form.
+*   (1) The application must be in [form 6][193] of the Schedule, or in a similar form.
     
     (2) The application must state the specific grounds on which the applicant is dissatisfied with the result of the referendum.
     
     Compare: 1993 No 101 [s 48(3), (4)][66]
     
-    Section 51: substituted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51: substituted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51A Application to be filed in High Court
     
@@ -1268,7 +1276,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(4)][66]
     
-    Section 51A: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51A: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51B Time for making application
     
@@ -1276,7 +1284,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(1)][66]
     
-    Section 51B: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51B: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 51B: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
@@ -1288,7 +1296,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(4)][66]
     
-    Section 51C: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51C: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51D Application to be served on respondents
     
@@ -1300,7 +1308,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(5)][66]
     
-    Section 51D: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51D: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51E Matters to be inquired into at hearing
     
@@ -1312,11 +1320,11 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 48(3)][66]
     
-    Section 51E: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51E: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 #### Court's decision
     
-*   Heading: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51F Decision of court as to result of indicative referendum
     
@@ -1328,7 +1336,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 50][69]
     
-    Section 51F: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51F: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 51G Fresh indicative referendum
     
@@ -1342,7 +1350,7 @@ Application for inquiry into conduct of indicative referendum
     
     Compare: 1993 No 101 [s 51][71]
     
-    Section 51G: inserted, on 15 November 2000, by [section 97][191] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 51G: inserted, on 15 November 2000, by [section 97][192] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
     
     Section 51G(2): amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
     
@@ -1351,11 +1359,11 @@ Application for inquiry into conduct of indicative referendum
 ## Part 5  
 Offences
     
-*   Heading: substituted on 15 November 2000, by [section 98][193] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted on 15 November 2000, by [section 98][194] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 52 Interfering with or influencing voters
     
-*   (1) Every person commits an offence and shall be liable on summary conviction to a fine not exceeding $5,000 who, at an indicative referendum,---
+*   (1) Every person commits an offence and shall be liable on conviction to a fine not exceeding $5,000 who, at an indicative referendum,---
         
     *   (a) in any way interferes with any elector, either in the polling place or while the elector is on the way to the polling place, with the intention of influencing the elector or advising the elector as to the elector's vote:
     
@@ -1418,6 +1426,8 @@ Offences
     (3) Nothing in this section shall apply to any official statement or announcement made or exhibited under the authority of this Act or the [Electoral Act 1993][95].
     
     Compare: 1956 No 107 s 127; 1990 No 1 s 65(1)
+    
+    Section 52(1): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 52(1)(a): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
     
@@ -1501,18 +1511,22 @@ Offences
     
     *   (b) does or omits to do an act (other than an act to which [section 52][81] applies) that if done or omitted to be done at an electoral poll would be an offence under the [Electoral Act 1993][95].
     
-    (2) Every person who commits an offence against subsection (1)(a) shall be liable on summary conviction to a fine not exceeding $2,000\.
+    (2) Every person who commits an offence against subsection (1)(a) shall be liable on conviction to a fine not exceeding $2,000\.
     
-    (3) Every person who commits an offence against subsection (1)(b) shall be liable on summary conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the [Electoral Act 1993][95].
+    (3) Every person who commits an offence against subsection (1)(b) shall be liable on conviction to the same penalty as that for which he or she would have been liable if he or she had committed the offence under the [Electoral Act 1993][95].
     
     Section 54: substituted, on 6 December 1995, by section 17(1) of the Citizens Initiated Referenda Amendment Act 1995 (1995 No 62).
     
     Section 54(1)(a): amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
+    
+    Section 54(2): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 54(3): amended, on 1 July 2013, by [section 413][181] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 6  
 Miscellaneous provisions
     
-*   Heading: substituted, on 15 November 2000, by [section 99][194] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Heading: substituted, on 15 November 2000, by [section 99][195] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 55 Two or more referenda
     
@@ -1520,7 +1534,7 @@ Miscellaneous provisions
     
     (2) One or more indicative referenda may be held during the voting period for 1 or more referenda (within the meaning of the [Referenda (Postal Voting) Act 2000][97]).
     
-    Section 55: substituted, on 15 November 2000, by [section 100][195] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 55: substituted, on 15 November 2000, by [section 100][196] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 56 Appropriation
     
@@ -1538,7 +1552,7 @@ Miscellaneous provisions
 
 ##### 57 Application of Ombudsmen Act 1975 and Official Information Act 1982
     
-*   The [Ombudsmen Act 1975][196] and the [Official Information Act 1982][182] shall apply in relation to the Clerk of the House of Representatives as if the Clerk of the House of Representatives were, in relation to the functions conferred on the Clerk of the House of Representatives by this Act, an organisation named in [Schedule 1][197] of the Ombudsmen Act 1975\.
+*   The [Ombudsmen Act 1975][197] and the [Official Information Act 1982][183] shall apply in relation to the Clerk of the House of Representatives as if the Clerk of the House of Representatives were, in relation to the functions conferred on the Clerk of the House of Representatives by this Act, an organisation named in [Schedule 1][198] of the Ombudsmen Act 1975\.
 
 ##### 58 Regulations
     
@@ -1562,9 +1576,9 @@ Miscellaneous provisions
 
 ##### 58A Rules of court
     
-*   Rules of court may be made in the manner prescribed in the [Judicature Act 1908][198] for the purposes of [Part 6][86].
+*   Rules of court may be made in the manner prescribed in the [Judicature Act 1908][199] for the purposes of [Part 6][86].
     
-    Section 58A: inserted, on 15 November 2000, by [section 101][199] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+    Section 58A: inserted, on 15 November 2000, by [section 101][200] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ##### 59 Right to petition House of Representatives unaffected
     
@@ -1612,9 +1626,7 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required---
 Signed by Her Excellency the Governor-General at \[_place_\] on \[_date_\].
 
 Signature of Minister of Justice:
-
----
-
+    
 *   Form 2: substituted, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 *   Form 2: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Form 2: amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
@@ -1641,9 +1653,7 @@ An Electoral Commissioner, on behalf of the Electoral Commission, is required---
 Signed by Her Excellency the Governor-General at \[_place_\] on \[_date_\].
 
 Signature of Minister of Justice:
-
----
-
+    
 *   Form 2A: substituted, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 *   Form 2A: amended, on 1 October 2010, by [section 32(1)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
 *   Form 2A: amended, on 1 October 2010, by [section 32(2)(b)][99] of the Electoral (Administration) Amendment Act 2010 (2010 No 26).
@@ -1695,9 +1705,7 @@ Having considered the nominations duly lodged in this behalf, and having heard a
 Date:
 
 Signature of Returning Officer:
-
----
-
+    
 *   Form 4: amended, on 28 February 2002, by [section 101(2)][100] of the Electoral Amendment Act 2002 (2002 No 1).
 
 #### Form 5  
@@ -1793,7 +1801,7 @@ In the matter of an indicative referendum held on \[_date_\] on \[_describe ques
 
 NameAddressElectoral DistrictSignature
 
-*   Form 6: substituted, on 15 November 2000, by [section 102(2)][200] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
+*   Form 6: substituted, on 15 November 2000, by [section 102(2)][201] of the Referenda (Postal Voting) Act 2000 (2000 No 48).
 
 ---
 
@@ -1811,23 +1819,23 @@ NameAddressElectoral DistrictSignature
 
 ###### 1 General
     
-*   This is a reprint of the Citizens Initiated Referenda Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Citizens Initiated Referenda Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][201] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][202] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][202] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][203] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][203] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][204] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][204] and [17E][205] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][205] and [17E][206] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1858,7 +1866,9 @@ NameAddressElectoral DistrictSignature
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Citizens Initiated Referenda Amendment Act 2012][206] (2012 No 5)
+*   [Citizens Initiated Referenda Amendment Act 2012][207] (2012 No 5)
+    
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][181]
     
     Electoral (Administration) Amendment Act 2011 (2011 No 57): [section 54][106]
     
@@ -1872,7 +1882,7 @@ NameAddressElectoral DistrictSignature
     
     Electoral Amendment Act 2002 (2002 No 1): [section 101(2)][100]
     
-    Referenda (Postal Voting) Act 2000 (2000 No 48): [Part 9][207]
+    Referenda (Postal Voting) Act 2000 (2000 No 48): [Part 9][208]
     
     Citizens Initiated Referenda Amendment Act 1995 (1995 No 62)
     
@@ -2063,30 +2073,31 @@ NameAddressElectoral DistrictSignature
 [178]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75025
 [179]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM155371
 [180]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75027
-[181]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75028
-[182]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM64784
-[183]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75041
-[184]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310434
-[185]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310438
-[186]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310443
-[187]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310444
-[188]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310445
-[189]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310451
-[190]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310464
-[191]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75043
-[192]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318885
-[193]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75059
-[194]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75061
-[195]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75063
-[196]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM430983
-[197]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM431204
-[198]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM144692
-[199]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75065
-[200]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
-[201]: http://www.pco.parliament.govt.nz/reprints/
-[202]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195439
-[203]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[204]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195468
-[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195470
-[206]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013800
-[207]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74678
+[181]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM3360714
+[182]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75028
+[183]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM64784
+[184]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75041
+[185]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310434
+[186]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310438
+[187]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310443
+[188]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310444
+[189]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310445
+[190]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310451
+[191]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM310464
+[192]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75043
+[193]: http://www.legislation.govt.nz/act/public/1993/0101/latest/whole.html#DLM318885
+[194]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75059
+[195]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75061
+[196]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75063
+[197]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM430983
+[198]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM431204
+[199]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM144692
+[200]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75065
+[201]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM75067
+[202]: http://www.pco.parliament.govt.nz/reprints/
+[203]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195439
+[204]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[205]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195468
+[206]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM195470
+[207]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM4013800
+[208]: http://www.legislation.govt.nz/act/public/1993/0101/latest/link.aspx?id=DLM74678
