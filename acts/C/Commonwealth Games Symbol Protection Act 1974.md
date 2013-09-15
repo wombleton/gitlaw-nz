@@ -1,5 +1,5 @@
 Reprint  
-as at 29 June 1974
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,13 +25,13 @@ This Act is administered by the Department of Internal Affairs.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Restriction on use of symbol][4]
+[3][4][][4][Restriction on use of symbol][4]
 
-[4][5] [Minister may consent to use of symbol, and impose conditions][5]
+[4][5][][5][Minister may consent to use of symbol, and impose conditions][5]
 
 [Schedule][6]  
 [Official symbol of the Xth British Commonwealth Games][6]
@@ -68,9 +68,11 @@ An Act to control the use of the official symbol of the Xth British Commonwealth
     
     *   (b) to the use by any person for any purpose of any article incorporating in its design or imprinted with the symbol, if that article was lawfully manufactured in or imported into New Zealand before the commencement of this Act.
     
-    (4) Every person who acts in contravention of subsection (1) commits an offence and shall be liable on summary conviction to a fine not exceeding $200\.
+    (4) Every person who acts in contravention of subsection (1) commits an offence and shall be liable on conviction to a fine not exceeding $200\.
     
     (5) In any prosecution for an offence against this section it shall be for the defendant to prove that he acted with the consent of the Minister, or that the act complained of was not an offence by virtue of subsection (3).
+    
+    Section 3(4): amended, on 1 July 2013, by [section 413][7] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 4 Minister may consent to use of symbol, and impose conditions
     
@@ -115,23 +117,23 @@ Official symbol of the Xth British Commonwealth Games
 
 ###### 1 General
     
-*   This is a reprint of the Commonwealth Games Symbol Protection Act 1974\. The reprint incorporates all the amendments to the Act as at 29 June 1974, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Commonwealth Games Symbol Protection Act 1974\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][7] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][8] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][8] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][9] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][9] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][10] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][10] and [17E][11] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][11] and [17E][12] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -162,7 +164,7 @@ Official symbol of the Xth British Commonwealth Games
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][7]
 
 
 
@@ -173,8 +175,9 @@ Official symbol of the Xth British Commonwealth Games
 [4]: http://www.legislation.govt.nz/act/public/1974/0023/latest/whole.html#DLM412747
 [5]: http://www.legislation.govt.nz/act/public/1974/0023/latest/whole.html#DLM412748
 [6]: http://www.legislation.govt.nz/act/public/1974/0023/latest/whole.html#DLM412749
-[7]: http://www.pco.parliament.govt.nz/reprints/
-[8]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195439
-[9]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[10]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195468
-[11]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195470
+[7]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM3360714
+[8]: http://www.pco.parliament.govt.nz/reprints/
+[9]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195439
+[10]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[11]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195468
+[12]: http://www.legislation.govt.nz/act/public/1974/0023/latest/link.aspx?id=DLM195470
