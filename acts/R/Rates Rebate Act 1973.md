@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2012
+as at 15 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -109,7 +109,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
         
         *   (vi) any family tax credit payable under the [Income Tax Act 2007][19]:
         
-        *   (vii) any salary or wages of a person in receipt of a widow's, invalid's, domestic purposes, or related emergency benefit under the [Social Security Act 1964][18] or a veteran's pension under [Part 6][20] of the War Pensions Act 1954 or a veteran's pension under the [Social Welfare (Transitional Provisions) Act 1990][21], being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
+        *   (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the [Social Security Act 1964][18] or a veteran's pension under [Part 6][20] of the War Pensions Act 1954 or a veteran's pension under the [Social Welfare (Transitional Provisions) Act 1990][21], being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
         
         
     
@@ -183,11 +183,15 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 2(1) **income** paragraph (d)(vi): amended (with effect from 1 April 2007), on 19 December 2007, by [section 299][36] of the Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109).
     
-    Section 2(1) **income** paragraph (d)(vii): amended, on 15 April 2003, by [section 12(1)][37] of the War Pensions Amendment Act 2003 (2003 No 18).
+    Section 2(1) **income** paragraph (d)(vii): amended, on 15 July 2013, by [section 86][37] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 2(1) **income** paragraph (d)(vii): amended, on 1 October 1998, by [section 57][38] of the Social Security Amendment Act 1998 (1998 No 19).
+    Section 2(1) **income** paragraph (d)(vii): amended, on 15 July 2013, by [section 97][38] of the Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13).
     
-    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **income** paragraph (d)(vii): amended, on 15 April 2003, by [section 12(1)][39] of the War Pensions Amendment Act 2003 (2003 No 18).
+    
+    Section 2(1) **income** paragraph (d)(vii): amended, on 1 October 1998, by [section 57][40] of the Social Security Amendment Act 1998 (1998 No 19).
+    
+    Section 2(1) **local authority**: replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(1) **partner**: inserted, on 1 July 2006, by [section 5(4)][29] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
@@ -195,27 +199,27 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 2(1) **preceding tax year**: inserted, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][32] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 2(1) **property**: inserted, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 2(1) **property**: inserted, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 2(1) **ratepayer**: replaced, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 2(1) **ratepayer**: replaced, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 2(1) **rates**: replaced, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 2(1) **rates**: replaced, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 2(1) **rates**: amended, on 1 July 2006, by [section 4(1)(a)][41] of the Rates Rebate Amendment Act 2006 (2006 No 29).
+    Section 2(1) **rates**: amended, on 1 July 2006, by [section 4(1)(a)][43] of the Rates Rebate Amendment Act 2006 (2006 No 29).
     
-    Section 2(1) **rates** paragraph (a): repealed, on 1 July 2006, by [section 4(1)(b)][41] of the Rates Rebate Amendment Act 2006 (2006 No 29).
+    Section 2(1) **rates** paragraph (a): repealed, on 1 July 2006, by [section 4(1)(b)][43] of the Rates Rebate Amendment Act 2006 (2006 No 29).
     
-    Section 2(1) **rating year**: replaced, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **rating year**: replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
-    Section 2(1) **residential property**: amended, on 1 July 2006, by [section 4(2)][41] of the Rates Rebate Amendment Act 2006 (2006 No 29).
+    Section 2(1) **residential property**: amended, on 1 July 2006, by [section 4(2)][43] of the Rates Rebate Amendment Act 2006 (2006 No 29).
     
-    Section 2(1) **residential property**: amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 2(1) **residential property**: amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 2(1) **residential property**: amended (with effect on 1 April 1974), on 19 July 1974, by section 2(3) of the Rates Rebate Amendment Act 1974 (1974 No 29).
     
     Section 2(1) **spouse**: replaced, on 1 July 2006, by [section 5(5)][29] of the Relationships (Statutory References) Act 2005 (2005 No 3).
     
-    Section 2(1) **territorial authority**: replaced, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 2(1) **territorial authority**: replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
     Section 2(2): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][34] of the Income Tax Act 2007 (2007 No 97).
     
@@ -229,11 +233,11 @@ An Act to make provision for the granting of rebates of rates payable in respect
             
         *   (i) two-thirds of the amount by which those rates exceed $160, reduced by
         
-        *   (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $23,650, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+        *   (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $23,870, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
         
         
     
-    *   (b) $590,---
+    *   (b) $595,---
     
     whichever amount is the less.
     
@@ -241,23 +245,23 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) by substituting any amount for any amount specified in that subsection.
     
-    Section 3(1): replaced, on 1 April 1979, by [section 3(1)][42] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 3(1): replaced, on 1 April 1979, by [section 3(1)][44] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 3(1): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 3(1): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 3(1)(a)(i): amended, on 6 May 1982, by [clause 2][43] of the Rates Rebate Order 1982 (SR 1982/100).
+    Section 3(1)(a)(i): amended, on 6 May 1982, by [clause 2][45] of the Rates Rebate Order 1982 (SR 1982/100).
     
-    Section 3(1)(a)(ii): amended (not applying to a determination of a ratepayer's entitlement to a rebate for a rating year ending on or before the commencement of the Rates Rebate (Specified Amounts) Order 2012 and the amount (if any) of that rebate), on 1 July 2012, by [clause 3(1)][44] of the Rates Rebate (Specified Amounts) Order 2012 (SR 2012/103).
+    Section 3(1)(a)(ii): amended, on 1 July 2013 (but a ratepayer's entitlement to a rebate for a rating year ending on or before this date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(1)][46] of the Rates Rebate (Specified Amounts) Order 2013 (SR 2013/146).
     
-    Section 3(1)(a)(ii): amended, on 1 July 2006, by [clause 3(b)][45] of the Rates Rebate Order 2006 (SR 2006/60).
+    Section 3(1)(a)(ii): amended, on 1 July 2006, by [clause 3(b)][47] of the Rates Rebate Order 2006 (SR 2006/60).
     
     Section 3(1)(a)(ii): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][32] of the Income Tax Act 2004 (2004 No 35).
     
-    Section 3(1)(a)(ii): amended, on 1 July 1994, by [section 3][46] of the Rates Rebate Amendment Act 1994 (1994 No 58).
+    Section 3(1)(a)(ii): amended, on 1 July 1994, by [section 3][48] of the Rates Rebate Amendment Act 1994 (1994 No 58).
     
-    Section 3(1)(b): amended (not applying to a determination of a ratepayer's entitlement to a rebate for a rating year ending on or before the commencement of the Rates Rebate (Specified Amounts) Order 2012 and the amount (if any) of that rebate), on 1 July 2012, by [clause 3(2)][44] of the Rates Rebate (Specified Amounts) Order 2012 (SR 2012/103).
+    Section 3(1)(b): amended, on 1 July 2013 (but a ratepayer's entitlement to a rebate for a rating year ending on or before this date, and the amount (if any) of that rebate, must be determined as if this order had not been made), by [clause 3(2)][46] of the Rates Rebate (Specified Amounts) Order 2013 (SR 2013/146).
     
-    Section 3(1A): replaced, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 3(1A): replaced, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 4 Assessment of income if more than 1 ratepayer
     
@@ -265,7 +269,7 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     (2) For the purposes of [section 3][4], the income for the preceding tax year of the other persons who were ordinarily resident on the property at the commencement of the rating year in respect of which the application was made must be added to the income for the preceding tax year of the applicant.
     
-    Section 4: replaced, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 4: replaced, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 4(2): amended, on 1 April 2005 (effective for 2005--06 tax year and later tax years, except when the context requires otherwise), by [section YA 2][32] of the Income Tax Act 2004 (2004 No 35).
 
@@ -293,15 +297,15 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 5(3): amended, on 1 April 1977, by section 3(2) of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 5(4): replaced, on 1 April 1979, by [section 4][47] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 5(4): replaced, on 1 April 1979, by [section 4][49] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 5(5): amended, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 5(5): amended, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
     
-    Section 5(5) proviso: amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 5(5) proviso: amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 5(5) proviso: amended, on 29 June 1988, by section 208(1) of the Rating Powers Act 1988 (1988 No 97).
     
-    Section 5(6): amended, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 5(6): amended, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
 
 ##### 6 Applications for refunds of rates paid
     
@@ -321,9 +325,9 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     (4) Where application for a refund is made under this section and the chief executive of the territorial authority or other officer authorised by the chief executive is satisfied that the application has been properly completed, the chief executive or authorised officer must grant the application and pay to the ratepayer the amount of the refund to which the ratepayer is entitled.
     
-    Section 6: replaced, on 1 April 1979, by [section 5(1)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 6: replaced, on 1 April 1979, by [section 5(1)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 6(4): replaced, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 6(4): replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
 
 ##### 7 Refund to owner of owner-occupier flat of contribution towards rates
     
@@ -361,13 +365,13 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 7(2)(b): amended, on 1 April 1977, by section 3(2) of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 7(2)(d): replaced, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 7(2)(d): replaced, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 7(5): replaced, on 1 July 2003, by [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 7(5): replaced, on 1 July 2003, by [section 262][41] of the Local Government Act 2002 (2002 No 84).
 
 ##### 8 Provisions applying where system of rating by instalments in force
     
-*   (1) Where any rates in respect of which a ratepayer has applied for a rebate pursuant to [section 5][6] are payable by instalments pursuant to [section 24][49] of the Local Government (Rating) Act 2002, the following provisions shall apply with respect to any rebate granted pursuant to the said section 5:
+*   (1) Where any rates in respect of which a ratepayer has applied for a rebate pursuant to [section 5][6] are payable by instalments pursuant to [section 24][51] of the Local Government (Rating) Act 2002, the following provisions shall apply with respect to any rebate granted pursuant to the said section 5:
         
     *   (a) where the rebate is granted before the rates for the rating year have been set, the amount of the rebate granted in respect of each such instalment shall be---
             
@@ -385,29 +389,29 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     (2) \[Repealed\]
     
-    Section 8(1): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 8(1): amended, on 12 December 1989, by section 4(1)(f) of the Rating Powers Amendment Act (No 2) 1989 (1989 No 135).
     
     Section 8(1)(a): replaced, on 1 April 1977, by section 2 of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 8(1)(a): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(a): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 8(1)(a)(ii): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(a)(ii): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 8(1)(a) proviso: amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(a) proviso: amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 8(1)(b): replaced, on 1 April 1977, by section 2 of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 8(1)(b): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(b): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 8(1)(c): repealed, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(c): repealed, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
     Section 8(1)(d): inserted, on 1 April 1977, by section 2 of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 8(1)(d): amended, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(1)(d): amended, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
     
-    Section 8(2): repealed, on 1 July 2003, by [section 137(1)][40] of the Local Government (Rating) Act 2002 (2002 No 6).
+    Section 8(2): repealed, on 1 July 2003, by [section 137(1)][42] of the Local Government (Rating) Act 2002 (2002 No 6).
 
 ##### 9 Refund to territorial authorities of rebates granted
     
@@ -415,9 +419,9 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     (2) The Secretary for Local Government may from time to time pay to any territorial authority, out of money appropriated by Parliament, such amounts as the Secretary thinks fit by way of advances in anticipation of refunds to be made to the territorial authority pursuant to subsection (1).
     
-    Section 9(1): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 9(1): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 9(1): amended, on 1 April 1979, by [section 6][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 9(1): amended, on 1 April 1979, by [section 6][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
 
 ##### 10 Recovery of overpayments
     
@@ -437,19 +441,19 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     the amount of the rebate or refund granted, or, as the case may be, the amount of the excess, may be recovered from the ratepayer as a debt due to the Crown.
     
-    Section 10(1): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(1): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(1)(a): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(1)(a): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(1)(a): amended, on 1 April 1979, by [section 7][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(1)(a): amended, on 1 April 1979, by [section 7][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(1)(b): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(1)(b): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(2): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(2): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(2)(a): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(2)(a): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
     
-    Section 10(2)(b): amended, on 1 April 1979, by [section 5(2)][48] of the Rates Rebate Amendment Act 1978 (1978 No 35).
+    Section 10(2)(b): amended, on 1 April 1979, by [section 5(2)][50] of the Rates Rebate Amendment Act 1978 (1978 No 35).
 
 ##### 11 Information to be supplied and books and documents to be produced
     
@@ -463,21 +467,21 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 11A: inserted, on 13 December 1979, by section 2 of the Rates Rebate Amendment Act 1979 (1979 No 106).
     
-    Section 11A: amended, on 1 July 2003, pursuant to [section 262][39] of the Local Government Act 2002 (2002 No 84).
+    Section 11A: amended, on 1 July 2003, pursuant to [section 262][41] of the Local Government Act 2002 (2002 No 84).
 
 ##### 12 Secrecy
     
-*   Except for the purposes of this Act or the [Public Finance Act 1989][50], or of investigating the correctness of any information contained in any application for a rebate under this Act, no officer of a territorial authority shall disclose to any person any information contained in any application for a rebate made under this Act or disclosed or obtained pursuant to [section 11][12].
+*   Except for the purposes of this Act or the [Public Finance Act 1989][52], or of investigating the correctness of any information contained in any application for a rebate under this Act, no officer of a territorial authority shall disclose to any person any information contained in any application for a rebate made under this Act or disclosed or obtained pursuant to [section 11][12].
     
-    Section 12: replaced, on 1 April 1987, by [section 25(1)][51] of the Official Information Amendment Act 1987 (1987 No 8).
+    Section 12: replaced, on 1 April 1987, by [section 25(1)][53] of the Official Information Amendment Act 1987 (1987 No 8).
     
-    Section 12: amended, on 1 July 1989, pursuant to [section 87][52] of the Public Finance Act 1989 (1989 No 44).
+    Section 12: amended, on 1 July 1989, pursuant to [section 87][54] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 13 Declarations
     
 *   (1) Any declaration required for the purposes of this Act may be made before any of the following persons:
         
-    *   (a) a person authorised to receive statutory declarations in accordance with [section 9][53] of the Oaths and Declarations Act 1957:
+    *   (a) a person authorised to receive statutory declarations in accordance with [section 9][55] of the Oaths and Declarations Act 1957:
     
     *   (b) an officer of a territorial authority authorised for the purpose by that authority:
     
@@ -491,11 +495,11 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 13: replaced, on 1 April 1977, by section 3(1) of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
-    Section 13(1)(c): repealed, on 1 July 1994, by [section 5(1)][54] of the Rates Rebate Amendment Act 1994 (1994 No 58).
+    Section 13(1)(c): repealed, on 1 July 1994, by [section 5(1)][56] of the Rates Rebate Amendment Act 1994 (1994 No 58).
     
-    Section 13(2): amended, on 1 July 1994, by [section 5(2)(a)][54] of the Rates Rebate Amendment Act 1994 (1994 No 58).
+    Section 13(2): amended, on 1 July 1994, by [section 5(2)(a)][56] of the Rates Rebate Amendment Act 1994 (1994 No 58).
     
-    Section 13(2): amended, on 1 July 1994, by [section 5(2)(b)][54] of the Rates Rebate Amendment Act 1994 (1994 No 58).
+    Section 13(2): amended, on 1 July 1994, by [section 5(2)(b)][56] of the Rates Rebate Amendment Act 1994 (1994 No 58).
 
 ##### 14 Offences
     
@@ -505,9 +509,9 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     *   (b) refuses or fails to comply with any requirement under [section 11][12], or refuses or fails to answer any question put to him pursuant to that section, or knowingly gives any false or misleading answer to any such question.
     
-    (2) Every person who commits an offence against this Act is liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $500, or to both.
+    (2) Every person who commits an offence against this Act is liable on conviction before a District Court Judge to imprisonment for a term not exceeding 12 months or to a fine not exceeding $500, or to both.
     
-    (3) Notwithstanding anything in [section 14][55] of the Summary Proceedings Act 1957, any information for an offence against this Act may be laid at any time within 12 months after the facts alleged in the information have been brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act.
+    (3) Despite anything to the contrary in [section 25][57] of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the facts alleged in the charging document are brought to the knowledge of any officer of the Department of Internal Affairs concerned in the administration of this Act.
     
     Section 14(1): amended, on 1 April 1977, by section 4(1)(a) of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
@@ -515,7 +519,11 @@ An Act to make provision for the granting of rebates of rates payable in respect
     
     Section 14(2): replaced, on 1 April 1977, by section 4(2) of the Rates Rebate Amendment Act 1976 (1976 No 32).
     
+    Section 14(2): amended, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
+    
     Section 14(2): amended, on 1 April 1980, pursuant to section 18(2) of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 14(3): replaced, on 1 July 2013, by [section 413][58] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ---
 
@@ -533,23 +541,23 @@ An Act to make provision for the granting of rebates of rates payable in respect
 
 ###### 1 General
     
-*   This is a reprint of the Rates Rebate Act 1973\. The reprint incorporates all the amendments to the Act as at 1 July 2012, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rates Rebate Act 1973\. The reprint incorporates all the amendments to the Act as at 15 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][56] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][59] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][57] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][60] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][58] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][61] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][59] and [17E][60] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][62] and [17E][63] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -580,47 +588,51 @@ An Act to make provision for the granting of rebates of rates payable in respect
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   [Rates Rebate (Specified Amounts) Order 2012][61] (SR 2012/103)
+*   [Rates Rebate (Specified Amounts) Order 2013][64] (SR 2013/146)
     
-    [Rates Rebate Amendment Act 2010][62] (2010 No 81)
+    Social Security (Benefit Categories and Work Focus) Amendment Act 2013 (2013 No 13): [sections 86][37], [97][38]
     
-    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 299][63]
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][58]
     
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][64]
+    [Rates Rebate Amendment Act 2010][65] (2010 No 81)
     
-    [Rates Rebate Amendment Act 2006][65] (2006 No 29)
+    Taxation (Business Taxation and Remedial Matters) Act 2007 (2007 No 109): [section 299][66]
+    
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][67]
+    
+    [Rates Rebate Amendment Act 2006][68] (2006 No 29)
     
     Rates Rebate Order 2006 (SR 2006/60)
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 5][29]
     
-    Income Tax Act 2004 (2004 No 35): [section YA 2][66]
+    Income Tax Act 2004 (2004 No 35): [section YA 2][69]
     
-    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][37]
+    War Pensions Amendment Act 2003 (2003 No 18): [section 12(1)][39]
     
-    Local Government Act 2002 (2002 No 84): [section 262][39]
+    Local Government Act 2002 (2002 No 84): [section 262][41]
     
-    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][40]
+    Local Government (Rating) Act 2002 (2002 No 6): [section 137(1)][42]
     
     Employment Services and Income Support (Integrated Administration) Act 1998 (1998 No 96): [section 11][35]
     
-    Social Security Amendment Act 1998 (1998 No 19): [section 57][38]
+    Social Security Amendment Act 1998 (1998 No 19): [section 57][40]
     
     Taxation (Core Provisions) Act 1996 (1996 No 67): section 484
     
-    [Rates Rebate Amendment Act 1994][67] (1994 No 58)
+    [Rates Rebate Amendment Act 1994][70] (1994 No 58)
     
     Local Government Reform (Transitional Provisions) Act 1990 (1990 No 27): section 40(2)
     
-    Public Finance Act 1989 (1989 No 44): [section 87][68]
+    Public Finance Act 1989 (1989 No 44): [section 87][71]
     
     Rating Powers Act 1988 (1988 No 97): section 208(1)
     
-    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][51]
+    Official Information Amendment Act 1987 (1987 No 8): [section 25(1)][53]
     
-    [Rates Rebate Order 1982][69] (SR 1982/100)
+    [Rates Rebate Order 1982][72] (SR 1982/100)
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][70]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][73]
     
     Rates Rebate Amendment Act 1979 (1979 No 106)
     
@@ -669,37 +681,40 @@ An Act to make provision for the granting of rebates of rates payable in respect
 [34]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1523176
 [35]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM429013
 [36]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1172339
-[37]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM191905
-[38]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM426000
-[39]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM174088
-[40]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM133500
-[41]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374374
-[42]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21213
-[43]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81542
-[44]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM4476506
-[45]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM370957
-[46]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332318
-[47]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21214
-[48]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21215
-[49]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM132242
-[50]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM160808
-[51]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM101353
-[52]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM160813
-[53]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM314584
-[54]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332320
-[55]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM311191
-[56]: http://www.pco.parliament.govt.nz/reprints/
-[57]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195439
-[58]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[59]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195468
-[60]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195470
-[61]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM4476500
-[62]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3043800
-[63]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1172422
-[64]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1512303
-[65]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374367
-[66]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM245344
-[67]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332311
-[68]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM163176
-[69]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81537
-[70]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM35085
+[37]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM4542405
+[38]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM4542434
+[39]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM191905
+[40]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM426000
+[41]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM174088
+[42]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM133500
+[43]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374374
+[44]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21213
+[45]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81542
+[46]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM5173512
+[47]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM370957
+[48]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332318
+[49]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21214
+[50]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM21215
+[51]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM132242
+[52]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM160808
+[53]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM101353
+[54]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM160813
+[55]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM314584
+[56]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332320
+[57]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3360067
+[58]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3360714
+[59]: http://www.pco.parliament.govt.nz/reprints/
+[60]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195439
+[61]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[62]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195468
+[63]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM195470
+[64]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM5173506
+[65]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM3043800
+[66]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1172422
+[67]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM1512303
+[68]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM374367
+[69]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM245344
+[70]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM332311
+[71]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM163176
+[72]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM81537
+[73]: http://www.legislation.govt.nz/act/public/1973/0005/latest/link.aspx?id=DLM35085
