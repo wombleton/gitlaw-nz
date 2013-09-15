@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -259,11 +259,13 @@ An Act to make provision for the control in New Zealand of the means of producin
     
 *   (1) Without prejudice to the provisions of section 4 of the Mining Amendment Act 1934, it is hereby declared that any person authorised either specially or generally by the Minister may enter on any premises on which any mining operations are carried on or on which the person or officer so authorised has reasonable grounds to suspect that there may be found minerals, concentrates, or other materials which have been mined, extracted, isolated, or concentrated and which contain any prescribed substance, for the purpose of ascertaining whether or not there is any prescribed substance on the premises or in any minerals, concentrates, or other materials thereon, and for that purpose the person or officer so authorised as aforesaid may make observations and tests and may extract and remove samples for further testing.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding 3 months who wilfully obstructs or interferes with any person exercising or attempting to exercise his powers under this section.
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding 3 months who wilfully obstructs or interferes with any person exercising or attempting to exercise his powers under this section.
     
     Section 15(1): amended, on 4 October 1957, by section 2(4)(d) of the Atomic Energy Amendment Act 1957 (1957 No 12).
     
     Section 15(1): amended, on 4 October 1957, by section 10 of the Atomic Energy Amendment Act 1957 (1957 No 12).
+    
+    Section 15(2): amended, on 1 July 2013, by [section 413][31] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 16 Granting of consents, etc
     
@@ -279,7 +281,9 @@ An Act to make provision for the control in New Zealand of the means of producin
 
 ##### 18 Offences
     
-*   Any person who fails to comply with, or contravenes, any provision, prohibition, condition, or requirement contained in or imposed under this Act commits an offence and, where no specific penalty is elsewhere provided, shall be liable on summary conviction to a fine not exceeding $1,000, or to imprisonment for a term not exceeding 6 months, or to both such fine and such imprisonment.
+*   Any person who fails to comply with, or contravenes, any provision, prohibition, condition, or requirement contained in or imposed under this Act commits an offence and, where no specific penalty is elsewhere provided, shall be liable on conviction to a fine not exceeding $1,000, or to imprisonment for a term not exceeding 6 months, or to both such fine and such imprisonment.
+    
+    Section 18: amended, on 1 July 2013, by [section 413][31] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 18: amended, on 4 October 1957, by section 12(1) of the Atomic Energy Amendment Act 1957 (1957 No 12).
 
@@ -303,23 +307,23 @@ An Act to make provision for the control in New Zealand of the means of producin
 
 ###### 1 General
     
-*   This is a reprint of the Atomic Energy Act 1945\. The reprint incorporates all the amendments to the Act as at 1 February 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Atomic Energy Act 1945\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][31] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][32] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][32] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][33] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][33] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][34] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][34] and [17E][35] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][35] and [17E][36] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -350,7 +354,9 @@ An Act to make provision for the control in New Zealand of the means of producin
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Research, Science, and Technology Act 2010 (2010 No 131): [section 18][28]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][31]
+    
+    Research, Science, and Technology Act 2010 (2010 No 131): [section 18][28]
     
     Crown Research Institutes Act 1992 (1992 No 47): [section 46(1)][27]
     
@@ -403,8 +409,9 @@ An Act to make provision for the control in New Zealand of the means of producin
 [28]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM3431046
 [29]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM336822
 [30]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM239393
-[31]: http://www.pco.parliament.govt.nz/reprints/
-[32]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195439
-[33]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[34]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195468
-[35]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195470
+[31]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM3360714
+[32]: http://www.pco.parliament.govt.nz/reprints/
+[33]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195439
+[34]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[35]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195468
+[36]: http://www.legislation.govt.nz/act/public/1945/0041/latest/link.aspx?id=DLM195470
