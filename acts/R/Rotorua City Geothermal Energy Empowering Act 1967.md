@@ -1,5 +1,5 @@
 Reprint  
-as at 1 February 1982
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -115,7 +115,9 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
     
     (2) Any person acting under the authority of the Council may, for the purpose of ascertaining whether geothermal energy supplied from the geothermal works to any land or building is being wasted or misused, enter on such land at any hour of the day or night, or into such building at any time between the hours of 8 o'clock in the forenoon and 6 o'clock in the afternoon of any day; and if such person is refused admittance or obstructed in such examination, the Council may stop the supply of geothermal energy to any such land or building in any manner it thinks fit.
     
-    (3) Any person may remove any pipe or other apparatus or appliance belonging to him connected with the geothermal works after giving to the Council 14 days' notice in writing of his intention so to do and of the time of such removal, but shall be liable for all damage done to any part of the geothermal works caused thereby, and if any person removes any such pipe or apparatus or appliance without giving such notice he commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds, and to pay to the Council for all damage done to the geothermal works by such removal.
+    (3) Any person may remove any pipe or other apparatus or appliance belonging to him connected with the geothermal works after giving to the Council 14 days' notice in writing of his intention so to do and of the time of such removal, but shall be liable for all damage done to any part of the geothermal works caused thereby, and if any person removes any such pipe or apparatus or appliance without giving such notice he commits an offence and shall be liable on conviction to a fine not exceeding $100, and to pay to the Council for all damage done to the geothermal works by such removal.
+    
+    Section 4(3): amended, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 5 Council may purchase geothermal works
     
@@ -157,7 +159,9 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
     
     *   (n) removes, damages, destroys, or otherwise interferes with any survey pegs placed in the ground in connection with any survey lawfully carried on under this Act or any valve or instrument being used in connection with any such survey or any bore.
     
-    (2) Every person who commits an offence against this section shall be liable on summary conviction to a fine not exceeding 50 pounds for each such offence and shall pay to the Council, whether any such fine be imposed or not, a sum equal to the cost incurred by the Council in repairing the injury done to any part of the geothermal works by any such act.
+    (2) Every person who commits an offence against this section shall be liable on conviction to a fine not exceeding $100 for each such offence and shall pay to the Council, whether any such fine be imposed or not, a sum equal to the cost incurred by the Council in repairing the injury done to any part of the geothermal works by any such act.
+    
+    Section 7(2): amended, on 1 July 2013, by [section 413][22] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Bylaws
     
@@ -213,7 +217,7 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
     
     *   (p) prescribing the powers and duties of inspectors, and requiring compliance by all persons with any directions lawfully given by them:
     
-    *   (q) prescribing penalties not exceeding a fine of 50 pounds for the breach of any bylaw made under this section.
+    *   (q) prescribing penalties not exceeding a fine of $100 for the breach of any bylaw made under this section.
     
     
 
@@ -227,19 +231,19 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
     
     provided that this Act and the bylaws thereunder shall apply to the interest of any lessee, licensee, or other person claiming an interest in any property of the Crown in the same manner as they apply to property owned by private persons.
     
-    (2) Nothing in this Act shall be construed to limit or affect in any way the provisions of [section 16][22] of the Rotorua Borough Act 1922\.
+    (2) Nothing in this Act shall be construed to limit or affect in any way the provisions of [section 16][23] of the Rotorua Borough Act 1922\.
 
 ##### 11 Right of appeal
     
 *   Any person aggrieved at any decision of the Council in respect of the operation of this Act or of any bylaw thereunder may within 21 days after receiving the decision of the Council appeal to the District Court held at Rotorua and the decision of the presiding District Court Judge shall be final and binding on all parties. Written notice of such appeal shall be given to the Council within 21 days of the filing of notice of the appeal in such court.
     
-    Section 11: amended, on 1 April 1980, pursuant to [section 18(2)][23] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11: amended, on 1 April 1980, pursuant to [section 18(2)][24] of the District Courts Amendment Act 1979 (1979 No 125).
 
 ##### 12 General power to take land
     
-*   The Council may take under the [Public Works Act 1981][24] as for a public work within the meaning of that Act any land or estate or interest in land necessary for the tapping, taking, use, or application of geothermal energy for any purpose in connection with the construction of any geothermal works.
+*   The Council may take under the [Public Works Act 1981][25] as for a public work within the meaning of that Act any land or estate or interest in land necessary for the tapping, taking, use, or application of geothermal energy for any purpose in connection with the construction of any geothermal works.
     
-    Section 12: amended, on 1 February 1982, pursuant to [section 248(1)][25] of the Public Works Act 1981 (1981 No 35).
+    Section 12: amended, on 1 February 1982, pursuant to [section 248(1)][26] of the Public Works Act 1981 (1981 No 35).
 
 ##### 13 Council may require bore to be closed
     
@@ -259,9 +263,9 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
     
     *   (b) the owner of the land, if he permitted the bore to be made without authority from the Council.
     
-    (3) Compensation in respect of the closing of a bore shall be payable by the Council to a licensee in respect of any loss which he may suffer in consequence of the bore being closed during any period specified in the licence during which he was entitled to use or apply geothermal energy for any purpose if the grounds for closing the bore include all or any of those specified in paragraphs (b) and (c) of subsection (1). Compensation shall not be payable to any other person or in any other case. Any claims for such compensation shall be made and determined as a claim for compensation under the [Public Works Act 1981][24] and the provisions of that Act shall, so far as they are applicable and with any necessary modifications, apply with respect to claims under this section.
+    (3) Compensation in respect of the closing of a bore shall be payable by the Council to a licensee in respect of any loss which he may suffer in consequence of the bore being closed during any period specified in the licence during which he was entitled to use or apply geothermal energy for any purpose if the grounds for closing the bore include all or any of those specified in paragraphs (b) and (c) of subsection (1). Compensation shall not be payable to any other person or in any other case. Any claims for such compensation shall be made and determined as a claim for compensation under the [Public Works Act 1981][25] and the provisions of that Act shall, so far as they are applicable and with any necessary modifications, apply with respect to claims under this section.
     
-    Section 13(3): amended, on 1 February 1982, pursuant to [section 248(1)][25] of the Public Works Act 1981 (1981 No 35).
+    Section 13(3): amended, on 1 February 1982, pursuant to [section 248(1)][26] of the Public Works Act 1981 (1981 No 35).
 
 ##### 14 No compensation in respect of geothermal energy
     
@@ -303,23 +307,23 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
 
 ###### 1 General
     
-*   This is a reprint of the Rotorua City Geothermal Energy Empowering Act 1967\. The reprint incorporates all the amendments to the Act as at 1 February 1982, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Rotorua City Geothermal Energy Empowering Act 1967\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][26] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][27] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][27] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][28] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][28] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][29] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][29] and [17E][30] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][30] and [17E][31] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -350,9 +354,11 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Public Works Act 1981 (1981 No 35): [section 248(1)][25]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][22]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][23]
+    Public Works Act 1981 (1981 No 35): [section 248(1)][26]
+    
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][24]
     
     Geothermal Energy Amendment Act 1977 (1977 No 89): section 2(2)
     
@@ -382,12 +388,13 @@ An Act to enable the Rotorua City Council to make provisions for the control of 
 [19]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM239207
 [20]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM444304
 [21]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM445092
-[22]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195397
-[23]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM35085
-[24]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM45426
-[25]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM48604
-[26]: http://www.pco.parliament.govt.nz/reprints/
-[27]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195439
-[28]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[29]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195468
-[30]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195470
+[22]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM3360714
+[23]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195397
+[24]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM35085
+[25]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM45426
+[26]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM48604
+[27]: http://www.pco.parliament.govt.nz/reprints/
+[28]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195439
+[29]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[30]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195468
+[31]: http://www.legislation.govt.nz/act/local/1967/0002/latest/link.aspx?id=DLM195470
