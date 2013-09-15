@@ -1,5 +1,5 @@
 Reprint  
-as at 10 May 2011
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,41 +25,41 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Dissolution of Authority and abolition of tolls][4]
+[3][4][][4][Dissolution of Authority and abolition of tolls][4]
 
-[4][5] [Vesting of assets and liabilities of Authority in Crown][5]
+[4][5][][5][Vesting of assets and liabilities of Authority in Crown][5]
 
-[5][6] [Continuance of proceedings][6]
+[5][6][][6][Continuance of proceedings][6]
 
-[6][7] [Bridge declared motorway][7]
+[6][7][][7][Bridge declared motorway][7]
 
-[7][8] [Saving of bylaws and bylaw-making powers][8]
+[7][8][][8][Saving of bylaws and bylaw-making powers][8]
 
-[8][9] [Rights of navigation, etc][9]
+[8][9][][9][Rights of navigation, etc][9]
 
-[9][10] [Bridge to be properly lighted][10]
+[9][10][][10][Bridge to be properly lighted][10]
 
-[10][11] [Installation of services on bridge][11]
+[10][11][][11][Installation of services on bridge][11]
 
-[11][12] [Advertising matter prohibited][12]
+[11][12][][12][Advertising matter prohibited][12]
 
-[12][13] [Minister of Works and Development to be designating authority][13]
+[12][13][][13][Minister of Works and Development to be designating authority][13]
 
-[13][14] [Redemption of toll tickets][14]
+[13][14][][14][Redemption of toll tickets][14]
 
-[14][15] [Redundancy compensation not payable in respect of continuing employment][15]
+[14][15][][15][Redundancy compensation not payable in respect of continuing employment][15]
 
-[15][16] [Redundancy compensation][16]
+[15][16][][16][Redundancy compensation][16]
 
-[16][17] [Amending Trustee Act 1956][17] \[Repealed\]
+[16][17][][17][Amending Trustee Act 1956][17] \[Repealed\]
 
-[17][18] [Consequential amendments to other Acts][18]
+[17][18][][18][Consequential amendments to other Acts][18]
 
-[18][19] [Repeals][19]
+[18][19][][19][Repeals][19]
 
 [Schedule][20]  
 [North Auckland Land Registration District][20]
@@ -168,13 +168,15 @@ An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve t
     
     (5) For the purposes of the Land Transport Act 1998, any bylaw made under this section is to be treated as being made under [section 22AB][23] of the Land Transport Act 1998\.
     
-    (6) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on summary conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
+    (6) Every person who acts in contravention of or fails to comply with any bylaw for the time being in force under this section commits an offence and shall be liable on conviction to a fine not exceeding $500 and, if the offence is a continuing one, to a further fine not exceeding $50 for every day or part of a day during which the offence has continued.
     
     Section 7(1): amended, on 10 May 2011, by [section 100(3)][24] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 7(3): amended, on 10 May 2011, by [section 100(3)][24] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
     
     Section 7(5): substituted, on 10 May 2011, by [section 100(3)][24] of the Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13).
+    
+    Section 7(6): amended, on 1 July 2013, by [section 413][25] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 8 Rights of navigation, etc
     
@@ -236,11 +238,11 @@ An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve t
     
 *   \[Repealed\]
     
-    Section 16: repealed, on 1 October 1988, by [section 16(1)][25] of the Trustee Amendment Act 1988 (1988 No 119).
+    Section 16: repealed, on 1 October 1988, by [section 16(1)][26] of the Trustee Amendment Act 1988 (1988 No 119).
 
 ##### 17 Consequential amendments to other Acts
     
-*   (1) _Amendment(s) incorporated in the [Act(s)][26]._
+*   (1) _Amendment(s) incorporated in the [Act(s)][27]._
     
     (2) \[Repealed\]
     
@@ -260,7 +262,7 @@ An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve t
     
     *   (e) the Auckland Harbour Bridge Amendment Act 1958:
     
-    *   (f) so much of [Part 2][27] of Schedule 1 of the Public Bodies Contracts Act 1959 as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority, and so much of [Schedule 2][28] of that Act as relates to the Auckland Harbour Bridge Act 1950 and to the Christchurch-Lyttelton Road Tunnel Act 1956:
+    *   (f) so much of [Part 2][28] of Schedule 1 of the Public Bodies Contracts Act 1959 as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority, and so much of [Schedule 2][29] of that Act as relates to the Auckland Harbour Bridge Act 1950 and to the Christchurch-Lyttelton Road Tunnel Act 1956:
     
     *   (g) the Auckland Harbour Bridge Amendment Act 1962:
     
@@ -270,19 +272,19 @@ An Act to abolish tolls for use of the Auckland Harbour Bridge and to dissolve t
     
     *   (j) the Auckland Harbour Bridge Amendment Act 1965:
     
-    *   (k) so much of [Part 2][29] of Schedule 1 of the Local Authorities (Members' Interests) Act 1968 as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority:
+    *   (k) so much of [Part 2][30] of Schedule 1 of the Local Authorities (Members' Interests) Act 1968 as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority:
     
     *   (l) the Auckland Harbour Bridge Amendment Act 1971:
     
-    *   (m) so much of [Part 3][30] of Schedule 1 of the Local Government Act 1974 (as substituted by section 2(1) of the Local Government Amendment Act 1976) as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority:
+    *   (m) so much of [Part 3][31] of Schedule 1 of the Local Government Act 1974 (as substituted by section 2(1) of the Local Government Amendment Act 1976) as relates to the Auckland Harbour Bridge Authority and to the Christchurch-Lyttelton Road Tunnel Authority:
     
     *   (n) the Auckland Harbour Bridge Amendment Act 1979:
     
-    *   (o) so much of [Part 3][31] of Schedule 3 of the Local Government Amendment Act 1979 as relates to the Auckland Harbour Bridge Act 1950:
+    *   (o) so much of [Part 3][32] of Schedule 3 of the Local Government Amendment Act 1979 as relates to the Auckland Harbour Bridge Act 1950:
     
     *   (p) the Auckland Harbour Bridge Amendment Act 1980\.
     
-    Section 18(h): repealed, on 1 March 1988, by [section 58(1)][32] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
+    Section 18(h): repealed, on 1 March 1988, by [section 58(1)][33] of the Local Government Official Information and Meetings Act 1987 (1987 No 174).
 
 ---
 
@@ -317,23 +319,23 @@ North Auckland Land Registration District
 
 ###### 1 General
     
-*   This is a reprint of the Auckland Harbour Bridge Authority Dissolution Act 1983\. The reprint incorporates all the amendments to the Act as at 10 May 2011, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Auckland Harbour Bridge Authority Dissolution Act 1983\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][33] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][34] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][34] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][35] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][35] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][36] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][36] and [17E][37] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][37] and [17E][38] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -364,17 +366,19 @@ North Auckland Land Registration District
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][24]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][25]
+    
+    Land Transport (Road Safety and Other Matters) Amendment Act 2011 (2011 No 13): [section 100(3)][24]
     
     Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 (2002 No 11): section 38(2)
     
-    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][25]
+    Trustee Amendment Act 1988 (1988 No 119): [section 16(1)][26]
     
     Auckland Harbour Bridge Authority Dissolution Amendment Act 1988 (1988 No 52)
     
     Public Works Amendment Act 1988 (1988 No 43): section 84(6)(a)
     
-    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][32]
+    Local Government Official Information and Meetings Act 1987 (1987 No 174): [section 58(1)][33]
 
 
 
@@ -403,16 +407,17 @@ North Auckland Land Registration District
 [22]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM141417
 [23]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM2609705
 [24]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM3231293
-[25]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM135631
-[26]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM430987
-[27]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM324284
-[28]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM324631
-[29]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM390522
-[30]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM425427
-[31]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM34678
-[32]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM123615
-[33]: http://www.pco.parliament.govt.nz/reprints/
-[34]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195439
-[35]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[36]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195468
-[37]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195470
+[25]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM3360714
+[26]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM135631
+[27]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM430987
+[28]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM324284
+[29]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM324631
+[30]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM390522
+[31]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM425427
+[32]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM34678
+[33]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM123615
+[34]: http://www.pco.parliament.govt.nz/reprints/
+[35]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195439
+[36]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[37]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195468
+[38]: http://www.legislation.govt.nz/act/public/1983/0153/latest/link.aspx?id=DLM195470
