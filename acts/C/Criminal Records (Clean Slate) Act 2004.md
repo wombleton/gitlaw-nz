@@ -1,7 +1,7 @@
 Reprint  
-as at 1 July 2009
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Criminal Records (Clean Slate) Act 2004Public Act2004 No 36
 
@@ -23,75 +23,75 @@ This Act is administered by the Ministry of Justice.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Overview][4]
+[3][4][][4][Overview][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Clean slate scheme][7]
 
-[6][8] [Application of clean slate scheme][8]
+[6][8][][8][Application of clean slate scheme][8]
 
-[7][9] [Who is eligible under clean slate scheme][9]
+[7][9][][9][Who is eligible under clean slate scheme][9]
 
-[8][10] [Effect of further conviction on eligibility][10]
+[8][10][][10][Effect of further conviction on eligibility][10]
 
-[9][11] [Individual may apply to District Court for order that rehabilitation period need not be completed][11]
+[9][11][][11][Individual may apply to District Court for order that rehabilitation period need not be completed][11]
 
-[10][12] [Individual may apply to District Court for order that rehabilitation period need not be completed or conviction be disregarded][12]
+[10][12][][12][Individual may apply to District Court for order that rehabilitation period need not be completed or conviction be disregarded][12]
 
-[11][13] [Further application][13]
+[11][13][][13][Further application][13]
 
-[12][14] [Right of appeal][14]
+[12][14][][14][Right of appeal][14]
 
-[13][15] [Prohibition against publication of applicant's or appellant's name][15]
+[13][15][][15][Prohibition against publication of applicant's or appellant's name][15]
 
 [Effect of clean slate scheme on eligible individual][16]
 
-[14][17] [Effect of clean slate scheme on eligible individual][17]
+[14][17][][17][Effect of clean slate scheme on eligible individual][17]
 
 [Effect of clean slate scheme on government departments and law enforcement agencies that hold or have access to criminal records][18]
 
-[15][19] [Responsibility of chief executives][19]
+[15][19][][19][Responsibility of chief executives][19]
 
-[16][20] [Effect of clean slate scheme on government departments, law enforcement agencies, employees, and contractors][20]
+[16][20][][20][Effect of clean slate scheme on government departments, law enforcement agencies, employees, and contractors][20]
 
 [Offences][21]
 
-[17][22] [Offence to unlawfully disclose information required to be concealed][22]
+[17][22][][22][Offence to unlawfully disclose information required to be concealed][22]
 
-[18][23] [Offence to require or request that individual disregard scheme][23]
+[18][23][][23][Offence to require or request that individual disregard scheme][23]
 
 [Exceptions][24]
 
-[19][25] [Exceptions to general effect of clean slate scheme][25]
+[19][25][][25][Exceptions to general effect of clean slate scheme][25]
 
 [Limits on use of criminal records][26]
 
-[20][27] [Limits on use of eligible individuals' criminal records][27]
+[20][27][][27][Limits on use of eligible individuals' criminal records][27]
 
 [Relationship to other provisions][28]
 
-[21][29] [Relationship to other provisions][29]
+[21][29][][29][Relationship to other provisions][29]
 
 [Miscellaneous][30]
 
-[22][31] [Rules][31]
+[22][31][][31][Rules][31]
 
-[23][32] [Application of Legal Services Act 2000][32]
+[23][32][][32][Application of Legal Services Act 2000][32]
 
 [Transitional provision][33]
 
-[24][34] [Transitional provision relating to answers and responses to questions and requests asked or made before commencement][34]
+[24][34][][34][Transitional provision relating to answers and responses to questions and requests asked or made before commencement][34]
 
 ---
 
@@ -206,9 +206,7 @@ Preliminary provisions
     
     _non-custodial sentence_ includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
     
-    _offence_ means any act or omission for which a person may be punished under the [Crimes Act 1961][43] or any other enactment, whether on conviction on indictment or on summary conviction
-    
-    _prison officer_ means a person who is an officer as defined in [section 3(1)][44] of the Corrections Act 2004
+    _prison officer_ means a person who is an officer as defined in [section 3(1)][43] of the Corrections Act 2004
     
     _probation officer_ has the same meaning as in [section 4(1)][35] of the Sentencing Act 2002
     
@@ -216,13 +214,13 @@ Preliminary provisions
     
     _rehabilitation period_, in relation to an individual, means any period of not less than 7 consecutive years after the date on which the individual was last sentenced, or a specified order was last made, in which the individual has not been convicted of an offence
     
-    _security officer_ has the same meaning as in [section 3(1)][44] of the Corrections Act 2004
+    _security officer_ has the same meaning as in [section 3(1)][43] of the Corrections Act 2004
     
     _sentence_ means a sentence imposed by a court in New Zealand for a conviction for an offence
     
     _specified offence_ means any of the following offences:
         
-    *   (a) an offence committed (whether before or after the commencement of the [Crimes Amendment Act 2005][45]) against any of the following provisions of the [Crimes Act 1961][43]:
+    *   (a) an offence committed (whether before or after the commencement of the [Crimes Amendment Act 2005][44]) against any of the following provisions of the [Crimes Act 1961][45]:
             
         *   (i) [section 130][46] (incest):
         
@@ -236,7 +234,7 @@ Preliminary provisions
         
         
     
-    *   (b) an offence committed after the commencement of the [Crimes Amendment Act 2005][45] against any of the following provisions of the [Crimes Act 1961][43]:
+    *   (b) an offence committed after the commencement of the [Crimes Amendment Act 2005][44] against any of the following provisions of the [Crimes Act 1961][45]:
             
         *   (i) [section 131][51] (sexual conduct with a dependent family member):
         
@@ -250,7 +248,7 @@ Preliminary provisions
         
         
     
-    *   (c) an offence committed before the commencement of the [Crimes Amendment Act 2005][45] against any of the following provisions of the [Crimes Act 1961][43]:
+    *   (c) an offence committed before the commencement of the [Crimes Amendment Act 2005][44] against any of the following provisions of the [Crimes Act 1961][45]:
             
         *   (i) [section 131][51] (sexual intercourse with a girl under care or protection):
         
@@ -368,11 +366,13 @@ Preliminary provisions
     
     Section 4 **non-custodial sentence**: amended, on 1 October 2007, by [section 58][77] of the Sentencing Amendment Act 2007 (2007 No 27).
     
-    Section 4 **prison officer**: amended, on 1 June 2005, by [section 206][78] of the Corrections Act 2004 (2004 No 50).
+    Section 4 **offence**: repealed, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 4 **security officer**: amended, on 1 June 2005, by [section 206][78] of the Corrections Act 2004 (2004 No 50).
+    Section 4 **prison officer**: amended, on 1 June 2005, by [section 206][79] of the Corrections Act 2004 (2004 No 50).
     
-    Section 4 **specified offence**: substituted, on 20 May 2005, by [section 10][79] of the Crimes Amendment Act 2005 (2005 No 41).
+    Section 4 **security officer**: amended, on 1 June 2005, by [section 206][79] of the Corrections Act 2004 (2004 No 50).
+    
+    Section 4 **specified offence**: substituted, on 20 May 2005, by [section 10][80] of the Crimes Amendment Act 2005 (2005 No 41).
 
 ##### 5 Act binds the Crown
     
@@ -401,17 +401,17 @@ Clean slate scheme
     
     *   (b) no custodial sentence has ever been imposed on him or her; and
     
-    *   (c) no order has ever been made in relation to him or her under [section 34(1)(b)][80] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, [section 118][81] of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); and
+    *   (c) no order has ever been made in relation to him or her under [section 34(1)(b)][81] of the Criminal Procedure (Mentally Impaired Persons) Act 2003, [section 118][82] of the Criminal Justice Act 1985, or section 39J of the Criminal Justice Act 1954 (being an order imposed, instead of passing sentence, that the offender be treated or cared for in a manner that the offender's mental impairment requires, either in the offender's interest, or for the safety of the public, or for the safety of a person or class of person); and
     
     *   (d) he or she has not been convicted of a specified offence; and
     
     *   (e) in the case of a court having imposed a sentence of a fine or reparation on the individual, the amount owing has been paid in full or has been deemed to have been remitted; and
     
-    *   (f) in the case of a court having ordered the individual to pay costs or compensation under [section 106][82], [section 108][61], or [section 110][64] of the Sentencing Act 2002 (or a corresponding provision of an earlier enactment), the amount owing has been paid in full or has been deemed to have been remitted; and
+    *   (f) in the case of a court having ordered the individual to pay costs or compensation under [section 106][83], [section 108][61], or [section 110][64] of the Sentencing Act 2002 (or a corresponding provision of an earlier enactment), the amount owing has been paid in full or has been deemed to have been remitted; and
     
-    *   (g) no order has ever been made disqualifying him or her from holding or obtaining a driver licence under [section 65][83] of the Land Transport Act 1998 or a driver's licence under [section 30A][84] of the Transport Act 1962\.
+    *   (g) no order has ever been made disqualifying him or her from holding or obtaining a driver licence under [section 65][84] of the Land Transport Act 1998 or a driver's licence under [section 30A][85] of the Transport Act 1962\.
     
-    (2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under [section 100][85] of the Land Transport Act 1998 or [section 30C][86] of the Transport Act 1962\.
+    (2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under [section 100][86] of the Land Transport Act 1998 or [section 30C][87] of the Transport Act 1962\.
 
 ##### 8 Effect of further conviction on eligibility
     
@@ -503,13 +503,13 @@ Clean slate scheme
     
     *   (b) the public interest.
     
-    (4) Every person commits an offence if the person contravenes subsection (1) and is liable on summary conviction,---
+    (4) Every person commits an offence if the person contravenes subsection (1) and is liable on conviction,---
         
     *   (a) in the case of an individual, to a term of imprisonment not exceeding 3 months or a fine not exceeding $1,000, or both; or
     
     *   (b) in the case of a body corporate, to a fine not exceeding $5,000\.
     
-    
+    Section 13(4): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Effect of clean slate scheme on eligible individual
 
@@ -561,7 +561,9 @@ Clean slate scheme
     
 *   (1) A person commits an offence if the person has access to criminal records, and knowing that he or she does not have lawful authority under this Act, or being reckless as to whether or not he or she has lawful authority under this Act, discloses to any person, body, or agency the criminal record, or information about the criminal record, of an eligible individual that is required to be concealed.
     
-    (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $20,000\.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $20,000\.
+    
+    Section 17(2): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 18 Offence to require or request that individual disregard scheme
     
@@ -571,7 +573,9 @@ Clean slate scheme
     
     *   (b) disregard the effect of the clean slate scheme and disclose, or give consent to the disclosure of, his or her criminal record.
     
-    (2) A person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $10,000\.
+    (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000\.
+    
+    Section 18(2): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Exceptions
 
@@ -595,7 +599,7 @@ Clean slate scheme
     
     *   (b) the eligible individual's criminal record or information about the eligible individual's criminal record is relevant to any criminal or civil proceedings before a court or tribunal (including sentencing) or proceedings before the New Zealand Parole Board; or
     
-    *   (c) the eligible individual has made an application of any kind under the [Arms Act 1983][87] and a Police employee is considering whether the individual is a fit and proper person for the purposes of that application; or
+    *   (c) the eligible individual has made an application of any kind under the [Arms Act 1983][88] and a Police employee is considering whether the individual is a fit and proper person for the purposes of that application; or
     
     *   (d) the eligible individual has made an application for employment---
             
@@ -609,13 +613,13 @@ Clean slate scheme
     
     *   (e) the eligible individual has made an application to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, a child or young person (for example, a foster parent or a caregiver of children or young persons); or
     
-    *   (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under [section 17][88] of the Children, Young Persons, and Their Families Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under [Part 2][89] of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or a Family Court's consideration of an application for a declaration that a child or young person is in need of care or protection); or
+    *   (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under [section 17][89] of the Children, Young Persons, and Their Families Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under [Part 2][90] of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or a Family Court's consideration of an application for a declaration that a child or young person is in need of care or protection); or
     
     *   (g) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to the undertaking of research that requires access to criminal history information to be given to any employee or person contracted to a government department or law enforcement agency or to any person undertaking research approved by a government department or law enforcement agency.
     
-    Section 19(3)(c): amended, on 1 October 2008, by [section 130(1)][90] of the Policing Act 2008 (2008 No 72).
+    Section 19(3)(c): amended, on 1 October 2008, by [section 130(1)][91] of the Policing Act 2008 (2008 No 72).
     
-    Section 19(3)(d)(iii): amended, on 1 October 2008, by [section 123(2)][91] of the Policing Act 2008 (2008 No 72).
+    Section 19(3)(d)(iii): amended, on 1 October 2008, by [section 123(2)][92] of the Policing Act 2008 (2008 No 72).
 
 #### Limits on use of criminal records
 
@@ -631,7 +635,7 @@ Clean slate scheme
     
 *   (1) In this section, _provision_ means a provision---
         
-    *   (a) of any enactment (including, without limitation, [section 71(4)][92] of the Summary Proceedings Act 1957 and any rules made under [section 409][93] of the Crimes Act 1961); or
+    *   (a) of any enactment (including, without limitation, [section 184][93] of the Criminal Procedure Act 2011 and any rules made under [section 409][94] of the Crimes Act 1961); or
     
     *   (b) of a rule of law; or
     
@@ -644,28 +648,30 @@ Clean slate scheme
     *   (b) an ability to request the disclosure of information about an individual is applied to an eligible individual's criminal record, it must be interpreted in a way that is consistent with the eligible individual's right to have his or her criminal record concealed.
     
     (3) Nothing in this Act affects an eligible individual's right under any provision to request information about, or a copy of, his or her own criminal record.
+    
+    Section 21(1)(a): amended, on 1 July 2013, by [section 413][78] of the Criminal Procedure Act 2011 (2011 No 81).
 
 #### Miscellaneous
 
 ##### 22 Rules
     
-*   (1) In addition to the powers conferred by the [District Courts Act 1947][94], the Governor-General may, by Order in Council, with the concurrence of the Chief District Court Judge and any 2 or more members of the Rules Committee (established under [section 51B][95] of the Judicature Act 1908) of whom at least 1 is a District Court Judge,---
+*   (1) In addition to the powers conferred by the [District Courts Act 1947][95], the Governor-General may, by Order in Council, with the concurrence of the Chief District Court Judge and any 2 or more members of the Rules Committee (established under [section 51B][96] of the Judicature Act 1908) of whom at least 1 is a District Court Judge,---
         
     *   (a) make rules regulating the practice and procedure of District Courts under this Act; and
     
     *   (b) without limiting paragraph (a), make rules regulating the manner in which applications may be made to District Courts under [section 9][11] and [section 10][12].
     
-    (2) In addition to powers conferred by the [Judicature Act 1908][96], the Governor-General may, by Order in Council, with the concurrence of the Chief Justice and any 2 or more members of the Rules Committee (established under [section 51B][95] of the Judicature Act 1908) of whom at least 1 is a High Court Judge,---
+    (2) In addition to powers conferred by the [Judicature Act 1908][97], the Governor-General may, by Order in Council, with the concurrence of the Chief Justice and any 2 or more members of the Rules Committee (established under [section 51B][96] of the Judicature Act 1908) of whom at least 1 is a High Court Judge,---
         
     *   (a) make rules regulating the practice and procedure of the High Court and the Court of Appeal under this Act; and
     
     *   (b) without limiting paragraph (a), make rules regulating the manner in which appeals may be brought to the High Court and Court of Appeal under [section 12(1) or (2)][14].
     
-    (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the [District Courts Act 1947][94] or the [Judicature Act 1908][96] (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
+    (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the [District Courts Act 1947][95] or the [Judicature Act 1908][97] (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
 
 ##### 23 Application of Legal Services Act 2000
     
-*   All proceedings under this Act are civil proceedings for the purposes of the [Legal Services Act 2000][97].
+*   All proceedings under this Act are civil proceedings for the purposes of the [Legal Services Act 2000][98].
 
 #### Transitional provision
 
@@ -695,13 +701,13 @@ Clean slate scheme
 
 ###### 1 General
     
-*   This is a reprint of the Criminal Records (Clean Slate) Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2009, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Criminal Records (Clean Slate) Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][98] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][99] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -711,7 +717,7 @@ Clean slate scheme
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][99] and [17E][100] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][100] and [17E][101] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -742,7 +748,9 @@ Clean slate scheme
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Policing Act 2008 (2008 No 72): [sections 123(2)][91], [130(1)][90]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][78]
+    
+    Policing Act 2008 (2008 No 72): [sections 123(2)][92], [130(1)][91]
     
     Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][75]
     
@@ -750,13 +758,13 @@ Clean slate scheme
     
     Sentencing Amendment Act 2007 (2007 No 27): [section 58][77]
     
-    Crimes Amendment Act 2005 (2005 No 41): [section 10][79]
+    Crimes Amendment Act 2005 (2005 No 41): [section 10][80]
     
     Relationships (Statutory References) Act 2005 (2005 No 3): [section 7][76]
     
-    Corrections Act 2004 (2004 No 50): [section 206][78]
+    Corrections Act 2004 (2004 No 50): [section 206][79]
     
-    [Criminal Records (Clean Slate) Act Commencement Order 2004 (SR 2004/377)][101]
+    [Criminal Records (Clean Slate) Act Commencement Order 2004 (SR 2004/377)][102]
 
 
 
@@ -803,9 +811,9 @@ Clean slate scheme
 [40]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM364770
 [41]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM135341
 [42]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM298798
-[43]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM327381
-[44]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM294857
-[45]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM346154
+[43]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM294857
+[44]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM346154
+[45]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM327381
 [46]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM329081
 [47]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM329200
 [48]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM329270
@@ -838,27 +846,28 @@ Clean slate scheme
 [75]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM1048943
 [76]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM333795
 [77]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM411004
-[78]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM297136
-[79]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM346419
-[80]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM224504
-[81]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM78549
-[82]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM136807
-[83]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM434820
-[84]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM342586
-[85]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM435064
-[86]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM342596
-[87]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM72621
-[88]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM149470
-[89]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM149452
-[90]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM1102383
-[91]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM1102361
-[92]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM311813
-[93]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM332190
-[94]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM242775
-[95]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM146601
-[96]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM144692
-[97]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM71806
-[98]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195439
-[99]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195468
-[100]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195470
-[101]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM295650
+[78]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM3360714
+[79]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM297136
+[80]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM346419
+[81]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM224504
+[82]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM78549
+[83]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM136807
+[84]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM434820
+[85]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM342586
+[86]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM435064
+[87]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM342596
+[88]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM72621
+[89]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM149470
+[90]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM149452
+[91]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM1102383
+[92]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM1102361
+[93]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM3360317
+[94]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM332190
+[95]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM242775
+[96]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM146601
+[97]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM144692
+[98]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM71806
+[99]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195439
+[100]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195468
+[101]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM195470
+[102]: http://www.legislation.govt.nz/act/public/2004/0036/latest/link.aspx?id=DLM295650
