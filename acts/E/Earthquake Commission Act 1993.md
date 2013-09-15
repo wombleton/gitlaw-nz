@@ -1,7 +1,7 @@
 Reprint  
-as at 1 April 2008
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # Earthquake Commission Act 1993Public Act1993 No 84
 
@@ -25,109 +25,109 @@ This Act is administered by the Earthquake Commission.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
 [Part 1][5]  
 [Earthquake Commission][5]
 
-[4][6] [Earthquake Commission][6]
+[4][6][][6][Earthquake Commission][6]
 
-[4A][7] [Crown Entities Act 2004 to apply][7]
+[4A][7][][7][Crown Entities Act 2004 to apply][7]
 
-[4B][8] [Membership of Commission's board][8]
+[4B][8][][8][Membership of Commission's board][8]
 
-[5][9] [Functions of Commission][9]
+[5][9][][9][Functions of Commission][9]
 
-[6][10] [Powers of Commission][10] \[Repealed\]
+[6][10][][10][Powers of Commission][10] \[Repealed\]
 
-[7][11] [Capital of Commission][11]
+[7][11][][11][Capital of Commission][11]
 
-[8][12] [Commission to be Crown entity][12] \[Repealed\]
+[8][12][][12][Commission to be Crown entity][12] \[Repealed\]
 
-[9][13] [Minister may determine dividend][13]
+[9][13][][13][Minister may determine dividend][13]
 
-[10][14] [Exemption from income tax][14]
+[10][14][][14][Exemption from income tax][14]
 
-[11][15] [Auditor-General to be auditor of Commission][15]
+[11][15][][15][Auditor-General to be auditor of Commission][15]
 
-[12][16] [Directions by Minister][16]
+[12][16][][16][Directions by Minister][16]
 
-[13][17] [Natural Disaster Fund][17]
+[13][17][][17][Natural Disaster Fund][17]
 
-[14][18] [Money payable into Fund][18]
+[14][18][][18][Money payable into Fund][18]
 
-[15][19] [Money payable out of Fund][19]
+[15][19][][19][Money payable out of Fund][19]
 
-[16][20] [Deficiency in Fund][20]
+[16][20][][20][Deficiency in Fund][20]
 
-[17][21] [Fees payable to Crown by Commission][21]
+[17][21][][21][Fees payable to Crown by Commission][21]
 
 [Part 2][22]  
 [Insurance of residential property against natural disaster][22]
 
 [Insurance][23]
 
-[18][24] [Residential buildings][24]
+[18][24][][24][Residential buildings][24]
 
-[19][25] [Residential land][25]
+[19][25][][25][Residential land][25]
 
-[20][26] [Personal property][26]
+[20][26][][26][Personal property][26]
 
-[21][27] [Property not insured under this Act][27]
+[21][27][][27][Property not insured under this Act][27]
 
-[22][28] [Voluntary insurance against natural disaster damage][28]
+[22][28][][28][Voluntary insurance against natural disaster damage][28]
 
 [Premiums][29]
 
-[23][30] [Premiums payable to Commission][30]
+[23][30][][30][Premiums payable to Commission][30]
 
-[24][31] [Payment of premiums by insurance companies][31]
+[24][31][][31][Payment of premiums by insurance companies][31]
 
-[25][32] [Secrecy of information][32]
+[25][32][][32][Secrecy of information][32]
 
-[26][33] [Insurance companies to keep records][33]
+[26][33][][33][Insurance companies to keep records][33]
 
 [Conditions of insurance][34]
 
-[27][35] [Conditions of insurance in Schedule 3][35]
+[27][35][][35][Conditions of insurance in Schedule 3][35]
 
-[28][36] [Certificates of certain events to be registered against land][36]
+[28][36][][36][Certificates of certain events to be registered against land][36]
 
-[29][37] [Settlement of claims][37]
+[29][37][][37][Settlement of claims][37]
 
-[30][38] [Insurance otherwise than under this Act][38]
+[30][38][][38][Insurance otherwise than under this Act][38]
 
-[31][39] [Application of conditions in other documents][39]
+[31][39][][39][Application of conditions in other documents][39]
 
 [Part 3][40]  
 [Miscellaneous provisions][40]
 
-[32][41] [Power to inspect property, obtain information, and enter land][41]
+[32][41][][41][Power to inspect property, obtain information, and enter land][41]
 
-[33][42] [Provisions applying in respect of entry][42]
+[33][42][][42][Provisions applying in respect of entry][42]
 
-[34][43] [Power to issue warrant authorising entry][43]
+[34][43][][43][Power to issue warrant authorising entry][43]
 
-[35][44] [Offences][44]
+[35][44][][44][Offences][44]
 
-[36][45] [Regulations][45]
+[36][45][][45][Regulations][45]
 
-[37][46] [Transitional provisions relating to staff][46]
+[37][46][][46][Transitional provisions relating to staff][46]
 
-[38][47] [Amendment to Ombudsmen Act 1975][47] \[Repealed\]
+[38][47][][47][Amendment to Ombudsmen Act 1975][47] \[Repealed\]
 
-[39][48] [Repeals and revocations][48]
+[39][48][][48][Repeals and revocations][48]
 
-[40][49] [Temporary continuation of existing earthquake and war damage cover][49]
+[40][49][][49][Temporary continuation of existing earthquake and war damage cover][49]
 
 [Part 4][50]  
 [Transitional provisions in respect of non-residential property][50]
 
-[41][51] [Insurance of non-residential property][51]
+[41][51][][51][Insurance of non-residential property][51]
 
 [Schedule 1][52]  
 [Provisions relating to board][52]
@@ -789,7 +789,7 @@ Miscellaneous provisions
 
 ##### 35 Offences
     
-*   (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $2,000 who---
+*   (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who---
         
     *   (a) intentionally makes any statement that is both incorrect and material in any information or particulars furnished (whether in writing or not) under [section 32][41] or under any regulations in force under this Act; or
     
@@ -797,7 +797,7 @@ Miscellaneous provisions
     
     *   (c) intentionally destroys or mutilates or renders illegible any entry in any record, book, or account required to be kept under or for the purposes of this Act or any regulations in force under this Act, or wilfully makes a false or fraudulent entry in or omission from any such record, book, or account.
     
-    (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued who---
+    (2) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 and, if the offence is a continuing one, to a further fine not exceeding $100 for every day or part of a day during which the offence has continued who---
         
     *   (a) resists, obstructs, deceives, or attempts to deceive, any person who is exercising or attempting to exercise any power or function under [section 32][41] or [section 34][43]; or
     
@@ -806,6 +806,10 @@ Miscellaneous provisions
     *   (c) without lawful excuse, acts in contravention of or fails to comply with either of [sections 25][32] and [26][33].
     
     (3) Any offence against this section committed by any employee or agent in the course of employment or agency shall be deemed to have been also committed by his or her employer or principal if it is proved that the act or omission constituting the offence occurred with the employer's or principal's authority, permission, or consent.
+    
+    Section 35(1): amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 35(2): amended, on 1 July 2013, by [section 413][75] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Regulations
     
@@ -845,11 +849,11 @@ Miscellaneous provisions
     
 *   (1) Every person employed by the Commission immediately before the commencement of this Act shall, on the commencement of this Act, be deemed to have been appointed as an employee of the reconstituted Commission on the same terms and conditions of employment (including those relating to salaries and allowances) as applied in respect of that person immediately before such commencement.
     
-    (2) Any person who, immediately before the commencement of this Act, was an officer or employee of the Commission and was a contributor to the [Government Superannuation Fund Act 1956][75] shall be deemed, for the purposes of the Government Superannuation Fund Act 1956, to be employed in the Government service so long as that person continues in the service of the reconstituted Commission; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the reconstituted Commission were Government service.
+    (2) Any person who, immediately before the commencement of this Act, was an officer or employee of the Commission and was a contributor to the [Government Superannuation Fund Act 1956][76] shall be deemed, for the purposes of the Government Superannuation Fund Act 1956, to be employed in the Government service so long as that person continues in the service of the reconstituted Commission; and the Government Superannuation Fund Act 1956 shall apply to that person in all respects as if the service with the reconstituted Commission were Government service.
     
-    (3) Subject to the [Government Superannuation Fund Act 1956][75], nothing in subsection (2) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+    (3) Subject to the [Government Superannuation Fund Act 1956][76], nothing in subsection (2) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][75], in accordance with subsection (2), to a person who is in the service of the reconstituted Commission and is a contributor to the Government Superannuation Fund the term _controlling authority_, in relation to that person, means the reconstituted Commission.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][76], in accordance with subsection (2), to a person who is in the service of the reconstituted Commission and is a contributor to the Government Superannuation Fund the term _controlling authority_, in relation to that person, means the reconstituted Commission.
 
 ##### 38 Amendment to Ombudsmen Act 1975
     
@@ -1007,7 +1011,7 @@ Provisions relating to board
 
 ##### 12 Commission may provide superannuation subsidy
     
-*   Without limiting [sections 16][76] and [17][77] of the Crown Entities Act 2004, the Commission may, for the purpose of providing a superannuation fund or retiring allowance for any of the employees or contracted personnel of the Commission, subsidise out of the Fund any scheme approved by the Commission.
+*   Without limiting [sections 16][77] and [17][78] of the Crown Entities Act 2004, the Commission may, for the purpose of providing a superannuation fund or retiring allowance for any of the employees or contracted personnel of the Commission, subsidise out of the Fund any scheme approved by the Commission.
     
     Schedule 1 clause 12: amended, on 25 January 2005, by [section 200][57] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1042,57 +1046,31 @@ Property not insured by this Act
 
 [s 21(1)(a)][27]
 
-##### 1
-    
-*   Any property that is not tangible property.
+*   1 Any property that is not tangible property.
 
-##### 2
-    
-*   Any motor vehicle (being a vehicle drawn or propelled by mechanical power), or any parts of, or accessories to, a motor vehicle.
+*   2 Any motor vehicle (being a vehicle drawn or propelled by mechanical power), or any parts of, or accessories to, a motor vehicle.
 
-##### 3
-    
-*   Any trailer (being a vehicle without motive power that is capable of being drawn or propelled by a motor vehicle and that is not being used as a dwelling), or any parts of, or accessories to, a trailer.
+*   3 Any trailer (being a vehicle without motive power that is capable of being drawn or propelled by a motor vehicle and that is not being used as a dwelling), or any parts of, or accessories to, a trailer.
 
-##### 4
-    
-*   Any vessel (being anything made to float, whether it is fixed or free, and whether or not it has any means of propulsion), or any parts of, or accessories to, a vessel.
+*   4 Any vessel (being anything made to float, whether it is fixed or free, and whether or not it has any means of propulsion), or any parts of, or accessories to, a vessel.
 
-##### 5
-    
-*   Any aircraft, or anything in or on an aircraft.
+*   5 Any aircraft, or anything in or on an aircraft.
 
-##### 6
-    
-*   Any bush, forest, tree, plant, or lawn.
+*   6 Any bush, forest, tree, plant, or lawn.
 
-##### 7
-    
-*   Any growing crops (including fruit trees and vines) or cut crops in the open fields.
+*   7 Any growing crops (including fruit trees and vines) or cut crops in the open fields.
 
-##### 8
-    
-*   Any explosives.
+*   8 Any explosives.
 
-##### 9
-    
-*   Any animals, including livestock and pets.
+*   9 Any animals, including livestock and pets.
 
-##### 10
-    
-*   Any road, street, drive, path, bridge, or culvert other than a gangway, ladder, access platform, or other form of access, constructed in a residential building or being an integral part of a residential building.
+*   10 Any road, street, drive, path, bridge, or culvert other than a gangway, ladder, access platform, or other form of access, constructed in a residential building or being an integral part of a residential building.
 
-##### 11
-    
-*   Any drain, channel, tunnel, or cutting, unless used to connect parts of 1 or more residential buildings.
+*   11 Any drain, channel, tunnel, or cutting, unless used to connect parts of 1 or more residential buildings.
 
-##### 12
-    
-*   Any dam, breakwater, mole, groyne, fence, pole, or wall that does not constitute an integral part of a residential building.
+*   12 Any dam, breakwater, mole, groyne, fence, pole, or wall that does not constitute an integral part of a residential building.
 
-##### 13
-    
-*   Any reservoir, swimming pool, bath, spa pool, tank, or water tower, other than---
+*   13 Any reservoir, swimming pool, bath, spa pool, tank, or water tower, other than---
         
     *   (a) a reservoir, swimming pool, bath, spa pool, tank, or water tower that constitutes an integral part of, and that is within, a residential building; or
     
@@ -1104,21 +1082,13 @@ Property not insured by this Act
     
     
 
-##### 14
-    
-*   Any tennis court, whether inside or outside and whether lawn or not.
+*   14 Any tennis court, whether inside or outside and whether lawn or not.
 
-##### 15
-    
-*   Any jetty, wharf, or landing.
+*   15 Any jetty, wharf, or landing.
 
-##### 16
-    
-*   Any paving or other artificial surface.
+*   16 Any paving or other artificial surface.
 
-##### 17
-    
-*   Any jewellery, precious stones, money, works of art, securities, documents, or stamps.
+*   17 Any jewellery, precious stones, money, works of art, securities, documents, or stamps.
 
 ---
 
@@ -1157,7 +1127,7 @@ Conditions applying to insurance under this Act
         
         the property was not constructed in accordance with standards considered appropriate for that property at the time of construction, and the failure to meet those standards has caused or exacerbated the natural disaster damage; or
     
-    *   (d) the certificate of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under [section 74][78] of the Building Act 2004; or
+    *   (d) the certificate of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under [section 74][79] of the Building Act 2004; or
     
     *   (e) there is or has been on the part of the insured person (whether to the Commission or its agents or to the insurance company concerned)---
             
@@ -1171,7 +1141,7 @@ Conditions applying to insurance under this Act
     
     *   (g) the natural disaster damage is caused or contributed to by the wilful act or negligence of the insured person, or of any previous owner or occupier of the property where the insured person was aware of that wilful act or negligence at the time the insured person acquired the property.
     
-    Schedule 3 clause 3(d): amended, on 31 March 2005, by [section 414][79] of the Building Act 2004 (2004 No 72).
+    Schedule 3 clause 3(d): amended, on 31 March 2005, by [section 414][80] of the Building Act 2004 (2004 No 72).
 
 ##### 4 Cancellation of insurance in certain circumstances
     
@@ -1360,7 +1330,7 @@ Enactments repealed
 
 ##### Fees and Travelling Allowances Act 1951 (1951 No 79) (RS Vol 6, p 403)
 
-_Amendment(s) incorporated in the [Act(s)][80]._
+_Amendment(s) incorporated in the [Act(s)][81]._
 
 ##### Official Information Amendment Act 1987 (1987 No 8)
 
@@ -1368,11 +1338,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][81]._
+_Amendment(s) incorporated in the [Act(s)][82]._
 
 ##### Stamp and Cheque Duties Act 1971 (1971 No 51) (RS Vol 23, p 771)
 
-_Amendment(s) incorporated in the [Act(s)][82]._
+_Amendment(s) incorporated in the [Act(s)][83]._
 
 ## Part 2  
 Regulations revoked
@@ -1401,7 +1371,7 @@ Commencementsee section 1(2)
 
 ##### 1 Short Title and commencement
     
-*   (1) This Act may be cited as the [Earthquake Commission Amendment Act 1998][83], and is part of the Earthquake Commission Act 1993 (""the principal Act"").
+*   (1) This Act may be cited as the [Earthquake Commission Amendment Act 1998][84], and is part of the Earthquake Commission Act 1993 (""the principal Act"").
     
     (2) This Act comes into force on the day on which it receives the Royal assent.
 
@@ -1425,23 +1395,23 @@ Commencementsee section 1(2)
 
 ###### 1 General
     
-*   This is a reprint of the Earthquake Commission Act 1993\. The reprint incorporates all the amendments to the Act as at 1 April 2008, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Earthquake Commission Act 1993\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][84] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][85] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][85] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][86] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][86] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][87] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][87] and [17E][88] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][88] and [17E][89] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1472,19 +1442,21 @@ Commencementsee section 1(2)
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][62]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][75]
+    
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][62]
     
     Crown Entities Act 2004 (2004 No 115): [section 200][57]
     
     Public Finance Amendment Act 2004 (2004 No 113): [section 37(1)][69]
     
-    Building Act 2004 (2004 No 72): [section 414][79]
+    Building Act 2004 (2004 No 72): [section 414][80]
     
     Public Audit Act 2001 (2001 No 10): [section 53][65]
     
     District Courts Amendment Act 1998 (1998 No 76): [section 7][74]
     
-    [Earthquake Commission Amendment Act 1998][83] (1998 No 9)
+    [Earthquake Commission Amendment Act 1998][84] (1998 No 9)
     
     Public Finance Act 1989 (1989 No 44): [section 65R(3)][63]
 
@@ -1565,17 +1537,18 @@ Commencementsee section 1(2)
 [72]: http://www.legislation.govt.nz/act/public/1993/0084/latest/whole.html#DLM307152
 [73]: http://www.legislation.govt.nz/act/public/1993/0084/latest/whole.html#DLM307151
 [74]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM427920
-[75]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM446000
-[76]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM329930
-[77]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM329931
-[78]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM306821
-[79]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM309090
-[80]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM264983
-[81]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM163182
-[82]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM400067
-[83]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM424975
-[84]: http://www.pco.parliament.govt.nz/reprints/
-[85]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195439
-[86]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[87]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195468
-[88]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195470
+[75]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM3360714
+[76]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM446000
+[77]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM329930
+[78]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM329931
+[79]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM306821
+[80]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM309090
+[81]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM264983
+[82]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM163182
+[83]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM400067
+[84]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM424975
+[85]: http://www.pco.parliament.govt.nz/reprints/
+[86]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195439
+[87]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[88]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195468
+[89]: http://www.legislation.govt.nz/act/public/1993/0084/latest/link.aspx?id=DLM195470
