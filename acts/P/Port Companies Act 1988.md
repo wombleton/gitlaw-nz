@@ -1,5 +1,5 @@
 Reprint  
-as at 24 November 2009
+as at 5 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Transport.
 
@@ -25,110 +25,110 @@ This Act is administered by the Ministry of Transport.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[2A][4] [Special provisions where more than 1 regional council or territorial authority succeeds Harbour Board][4]
+[2A][4][][4][Special provisions where more than 1 regional council or territorial authority succeeds Harbour Board][4]
 
-[3][5] [Act to bind Crown][5]
+[3][5][][5][Act to bind Crown][5]
 
 [Part 1][6]  
 [Port companies][6]
 
-[4][7] [Amendment of documents constituting port companies][7]
+[4][7][][7][Amendment of documents constituting port companies][7]
 
-[4A][8] [Harbour Board may hold securities in port company][8]
+[4A][8][][8][Harbour Board may hold securities in port company][8]
 
-[5][9] [Principal objective to be successful business][9]
+[5][9][][9][Principal objective to be successful business][9]
 
-[6][10] [Directors of port companies][10]
+[6][10][][10][Directors of port companies][10]
 
-[7][11] [Shareholding of port companies][11]
+[7][11][][11][Shareholding of port companies][11]
 
-[7A][12] [Restrictions on holding equity securities][12]
+[7A][12][][12][Restrictions on holding equity securities][12]
 
-[8][13] [Statement of corporate intent][13]
+[8][13][][13][Statement of corporate intent][13]
 
-[9][14] [Contents of statement of corporate intent][14]
+[9][14][][14][Contents of statement of corporate intent][14]
 
-[10][15] [Completion of statement of corporate intent][15]
+[10][15][][15][Completion of statement of corporate intent][15]
 
-[11][16] [Modifications of statement of corporate intent][16]
+[11][16][][16][Modifications of statement of corporate intent][16]
 
-[12][17] [Obligation to make statement of corporate intent available][17]
+[12][17][][17][Obligation to make statement of corporate intent available][17]
 
-[13][18] [Circumstances in which statement of corporate intent not required][18]
+[13][18][][18][Circumstances in which statement of corporate intent not required][18]
 
-[14][19] [Power of Minister to direct certain provisions not to apply][19]
+[14][19][][19][Power of Minister to direct certain provisions not to apply][19]
 
-[15][20] [Saving of certain transactions][20]
+[15][20][][20][Saving of certain transactions][20]
 
-[16][21] [Reports and accounts][21]
+[16][21][][21][Reports and accounts][21]
 
-[17][22] [Protection from disclosure of sensitive information][22]
+[17][22][][22][Protection from disclosure of sensitive information][22]
 
-[18][23] [Non-commercial activities][23]
+[18][23][][23][Non-commercial activities][23]
 
-[19][24] [Auditor-General to be auditor of port companies and subsidiaries][24]
+[19][24][][24][Auditor-General to be auditor of port companies and subsidiaries][24]
 
-[20][25] [Application of Act to related and associated companies][25]
+[20][25][][25][Application of Act to related and associated companies][25]
 
 [Part 2][26]  
 [Establishment procedures][26]
 
-[21][27] [Establishment Units][27]
+[21][27][][27][Establishment Units][27]
 
-[22][28] [Determination of port company plan and port related commercial undertakings to be transferred][28]
+[22][28][][28][Determination of port company plan and port related commercial undertakings to be transferred][28]
 
-[23][29] [Port related commercial undertakings to be transferred to port company][29]
+[23][29][][29][Port related commercial undertakings to be transferred to port company][29]
 
-[24][30] [Abrogation of restrictions on transfer][30]
+[24][30][][30][Abrogation of restrictions on transfer][30]
 
-[25][31] [Transfer of reserves][31]
+[25][31][][31][Transfer of reserves][31]
 
-[26][32] [Modification of provisions of Public Works Act 1981][32]
+[26][32][][32][Modification of provisions of Public Works Act 1981][32]
 
-[27][33] [Effect of registration under Land Transfer Act 1952][33]
+[27][33][][33][Effect of registration under Land Transfer Act 1952][33]
 
-[28][34] [Exclusion of Public Bodies Leases Act 1969][34]
+[28][34][][34][Exclusion of Public Bodies Leases Act 1969][34]
 
-[29][35] [Liabilities in respect of port related commercial undertakings][35]
+[29][35][][35][Liabilities in respect of port related commercial undertakings][35]
 
-[30][36] [Certain matters not affected by transfer of undertakings to port company][36]
+[30][36][][36][Certain matters not affected by transfer of undertakings to port company][36]
 
-[31][37] [Consequential provisions on transfer of port related commercial undertakings to port company][37]
+[31][37][][37][Consequential provisions on transfer of port related commercial undertakings to port company][37]
 
-[32][38] [Employment deemed to be continuous][38]
+[32][38][][38][Employment deemed to be continuous][38]
 
-[33][39] [Duty to act in furtherance of objects of Act][39]
+[33][39][][39][Duty to act in furtherance of objects of Act][39]
 
-[34][40] [Supply of information][40]
+[34][40][][40][Supply of information][40]
 
 [Part 3][41]  
 [Miscellaneous provisions][41]
 
-[35][42] [Public availability of documents][42]
+[35][42][][42][Public availability of documents][42]
 
-[36][43] [Power of other persons to operate ports][43]
+[36][43][][43][Power of other persons to operate ports][43]
 
-[37][44] [Stamp duty exemption][44]
+[37][44][][44][Stamp duty exemption][44]
 
-[38][45] [Application of Income Tax Act 1976 and Goods and Services Tax Act 1985][45]
+[38][45][][45][Application of Income Tax Act 1976 and Goods and Services Tax Act 1985][45]
 
-[39][46] [Designations under district schemes][46] \[Repealed\]
+[39][46][][46][Designations under district schemes][46] \[Repealed\]
 
-[40][47] [Special provision in relation to Gisborne, Greymouth, and Wanganui Harbour Boards][47]
+[40][47][][47][Special provision in relation to Gisborne, Greymouth, and Wanganui Harbour Boards][47]
 
-[41][48] [Repeal of New Zealand Ports Authority Act 1968][48]
+[41][48][][48][Repeal of New Zealand Ports Authority Act 1968][48]
 
-[42][49] [Transitional provision in respect of applications before Ports Authority][49]
+[42][49][][49][Transitional provision in respect of applications before Ports Authority][49]
 
-[43][50] [Amendment to Ministry of Transport Act 1968][50] \[Repealed\]
+[43][50][][50][Amendment to Ministry of Transport Act 1968][50] \[Repealed\]
 
-[44][51] [Repeals][51]
+[44][51][][51][Repeals][51]
 
-[45][52] [Repeals taking effect on 1 October 1988][52]
+[45][52][][52][Repeals taking effect on 1 October 1988][52]
 
 [Schedule 1][53]  
 [Specified Harbour Boards][53]
@@ -441,11 +441,15 @@ Port companies
     
     (3) Any direction under this section may be revoked at any time by the Minister, by notice in the _Gazette_, if the Minister is satisfied that the circumstances that led to the giving of the direction no longer exist.
     
+    (4) A notice in the _Gazette_ under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the [Legislation Act 2012][72] and must be presented to the House of Representatives under [section 41][73] of that Act.
+    
     Section 14: substituted, on 31 August 1990, by section 6 of the Port Companies Amendment Act 1990 (1990 No 120).
     
     Section 14(1): amended, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
     
     Section 14(2): amended, on 1 July 2003, by [section 262][63] of the Local Government Act 2002 (2002 No 84).
+    
+    Section 14(4): inserted, on 5 August 2013, by [section 77(3)][74] of the Legislation Act 2012 (2012 No 119).
 
 ##### 15 Saving of certain transactions
     
@@ -457,7 +461,7 @@ Port companies
     
     shall not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by a port company.
     
-    Compare: 1986 No 124 [s 21][72]
+    Compare: 1986 No 124 [s 21][75]
 
 ##### 16 Reports and accounts
     
@@ -485,13 +489,13 @@ Port companies
     
     *   (b) state the maximum dividend (if any) recommended to be payable by the port company in respect of its equity securities (other than fixed interest securities) for the financial year to which the report relates.
     
-    Compare: 1986 No 124 [ss 15][73], [16][74]
+    Compare: 1986 No 124 [ss 15][76], [16][77]
 
 ##### 17 Protection from disclosure of sensitive information
     
 *   Nothing in this Act shall be construed as requiring the inclusion in any statement of corporate intent, annual report, financial statement, or half-yearly report required to be produced under this Act of any information that could be properly withheld if the [Local Government Official Information and Meetings Act 1987][65] applied to port companies and a request for that information were made under that Act.
     
-    Compare: 1986 No 124 [s 20][75]
+    Compare: 1986 No 124 [s 20][78]
 
 ##### 18 Non-commercial activities
     
@@ -513,21 +517,21 @@ Port companies
     
     (3) This section applies to a Harbour Board that is a regional council or a territorial authority only in relation to statutory functions, duties, or powers transferred from a Harbour Board specified in [Schedule 1][53] to that regional council or territorial authority pursuant to an Order in Council made under [section 36][62] of the Local Government Act 1974\.
     
-    Compare: 1986 No 124 [s 7][76]
+    Compare: 1986 No 124 [s 7][79]
     
     Section 18(3): added, on 31 August 1990, by section 7 of the Port Companies Amendment Act 1990 (1990 No 120).
 
 ##### 19 Auditor-General to be auditor of port companies and subsidiaries
     
-*   Despite [sections 196 to 203][77] of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in [section 4][78] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+*   Despite [sections 196 to 203][80] of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in [section 4][81] of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
     
-    Section 19: substituted, on 1 July 2001, by [section 53][79] of the Public Audit Act 2001 (2001 No 10).
+    Section 19: substituted, on 1 July 2001, by [section 53][82] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 20 Application of Act to related and associated companies
     
 *   (1) Subject to subsection (2), [sections 4][7] (except subsections (1), (3), (6), and (7)), [5][9], [6][10], [7][11], [15][20], and [18][23] shall apply to every company that is---
         
-    *   (a) a related company (as defined in section 2(5) of the Companies Act 1955 or [section 2(3)][80] of the Companies Act 1993, as the case may be,) to a port company; or
+    *   (a) a related company (as defined in section 2(5) of the Companies Act 1955 or [section 2(3)][83] of the Companies Act 1993, as the case may be,) to a port company; or
     
     *   (b) a company that consists substantially of the same shareholders as the port company, or is under the control of the same persons---
     
@@ -630,7 +634,7 @@ Establishment procedures
     
     (4) Any port related commercial undertaking of a Harbour Board may be transferred to a port company pursuant to this Act whether or not any Act or agreement relating to the undertaking prohibits any such transfer or requires any consent to or in any way restricts any such transfer.
     
-    Compare: 1986 No 124 [s 23(3), (4)][81]
+    Compare: 1986 No 124 [s 23(3), (4)][84]
 
 ##### 24 Abrogation of restrictions on transfer
     
@@ -650,21 +654,21 @@ Establishment procedures
     
     (2) Nothing in this section shall apply in respect of the sale of any area to which section 150 of the Harbours Act 1950 applies; but any such area may be leased to a port company by a Harbour Board for a period not exceeding 21 years, and sections 150 to 155 of the Harbours Act 1950 shall not apply in respect of any such lease.
     
-    Compare: 1986 No 124 [s 23(6)][81]
+    Compare: 1986 No 124 [s 23(6)][84]
 
 ##### 25 Transfer of reserves
     
-*   Any land that is subject to the [Reserves Act 1977][82] and is identified in an approved port company plan as being all or part of a port related commercial undertaking may be transferred to a port company pursuant to this Act as if it were not subject to the Reserves Act 1977 and shall cease to be subject to that Act from the registration of the transfer.
+*   Any land that is subject to the [Reserves Act 1977][85] and is identified in an approved port company plan as being all or part of a port related commercial undertaking may be transferred to a port company pursuant to this Act as if it were not subject to the Reserves Act 1977 and shall cease to be subject to that Act from the registration of the transfer.
 
 ##### 26 Modification of provisions of Public Works Act 1981
     
-*   Nothing in [sections 40 to 42][83] of the Public Works Act 1981 shall apply to the transfer of land to a port company pursuant to this Act, but sections 40 and [41][84] of that Act shall, after the transfer, apply to that land as if the port company were a Harbour Board and the land had not been transferred pursuant to this Act.
+*   Nothing in [sections 40 to 42][86] of the Public Works Act 1981 shall apply to the transfer of land to a port company pursuant to this Act, but sections 40 and [41][87] of that Act shall, after the transfer, apply to that land as if the port company were a Harbour Board and the land had not been transferred pursuant to this Act.
     
-    Compare: 1986 No 124 [s 24(4)][85]
+    Compare: 1986 No 124 [s 24(4)][88]
 
 ##### 27 Effect of registration under Land Transfer Act 1952
     
-*   (1) On registration under the [Land Transfer Act 1952][86] of a memorandum of transfer to a port company pursuant to a port company plan of land formerly vested in a Harbour Board in fee simple or held by it on lease---
+*   (1) On registration under the [Land Transfer Act 1952][89] of a memorandum of transfer to a port company pursuant to a port company plan of land formerly vested in a Harbour Board in fee simple or held by it on lease---
         
     *   (a) the land shall vest in the port company for an estate in fee simple or be held by it on lease, as the case may require, subject to all leases, licences, easements, liens, and encumbrances existing in respect of the land immediately before the registration of the memorandum of transfer but otherwise freed and discharged from all trusts, reservations, and restrictions then affecting the land (other than the reservations and restrictions imposed by section 8 of the Mining Act 1971 and section 5 of the Coal Mines Act 1979); and
     
@@ -674,7 +678,7 @@ Establishment procedures
 
 ##### 28 Exclusion of Public Bodies Leases Act 1969
     
-*   Notwithstanding section 144 of the Harbours Act 1950, nothing in the [Public Bodies Leases Act 1969][87] shall apply to any lease granted by a Harbour Board to a port company pursuant to a port company plan before 1 October 1989 or such later date as the Minister in any particular case may allow.
+*   Notwithstanding section 144 of the Harbours Act 1950, nothing in the [Public Bodies Leases Act 1969][90] shall apply to any lease granted by a Harbour Board to a port company pursuant to a port company plan before 1 October 1989 or such later date as the Minister in any particular case may allow.
 
 ##### 29 Liabilities in respect of port related commercial undertakings
     
@@ -712,7 +716,7 @@ Establishment procedures
     
     *   (e) shall invalidate or discharge any contract or security.
     
-    Compare: 1986 No 129 [s 6(g)][88]
+    Compare: 1986 No 129 [s 6(g)][91]
 
 ##### 31 Consequential provisions on transfer of port related commercial undertakings to port company
     
@@ -726,7 +730,7 @@ Establishment procedures
     
     (3) Nothing in this section shall apply in respect of the liabilities of the Harbour Board in relation to any port related commercial undertaking except as may be necessary to give effect to any agreement referred to in [section 29(2)][35].
     
-    Compare: 1986 No 129 [s 6(a), (b)][88]
+    Compare: 1986 No 129 [s 6(a), (b)][91]
 
 ##### 32 Employment deemed to be continuous
     
@@ -764,7 +768,7 @@ Establishment procedures
     
     (3) Nothing in subsection (2) shall apply in respect of---
         
-    *   (a) any action taken by the Wellington Harbour Board pursuant to the [Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987][89]:
+    *   (a) any action taken by the Wellington Harbour Board pursuant to the [Wellington Harbour Board and Wellington City Council Vesting and Empowering Act 1987][92]:
     
     *   (b) any undertaking or class of undertaking that the Minister has informed the Harbour Board in writing is not to be subject to this section.
     
@@ -803,7 +807,7 @@ Miscellaneous provisions
 
 ##### 37 Stamp duty exemption
     
-*   No stamp duty shall be payable under the [Stamp and Cheque Duties Act 1971][90] in respect of any instrument of conveyance of property from a Harbour Board to a port company or any lease between those parties which, in each case, is executed pursuant to a port company plan and which is so executed before 1 October 1989, or such later date in any particular case as the Minister, after consultation with the Minister of Finance, may allow.
+*   No stamp duty shall be payable under the [Stamp and Cheque Duties Act 1971][93] in respect of any instrument of conveyance of property from a Harbour Board to a port company or any lease between those parties which, in each case, is executed pursuant to a port company plan and which is so executed before 1 October 1989, or such later date in any particular case as the Minister, after consultation with the Minister of Finance, may allow.
 
 ##### 38 Application of Income Tax Act 1976 and Goods and Services Tax Act 1985
     
@@ -825,11 +829,11 @@ Miscellaneous provisions
     
     *   (c) from a port operator to a port company that operates at the same port.
     
-    (3) For the purposes of the [Goods and Services Tax Act 1985][91], every transfer of an undertaking from a Harbour Board to a port company pursuant to a port company plan before 1 October 1989, or such later date in any particular case as the Minister, after consultation with the Minister of Finance, may allow, shall be deemed to be the transfer of a part of a taxable activity as a going concern that is capable of separate operation.
+    (3) For the purposes of the [Goods and Services Tax Act 1985][94], every transfer of an undertaking from a Harbour Board to a port company pursuant to a port company plan before 1 October 1989, or such later date in any particular case as the Minister, after consultation with the Minister of Finance, may allow, shall be deemed to be the transfer of a part of a taxable activity as a going concern that is capable of separate operation.
     
     (4) For the purposes of this section,---
         
-    *   (a) the term _port operator_ means any local authority (as defined in [section YA 1][92] of the Income Tax Act 2007) which operates a port related commercial undertaking; but does not include a port company or a local authority (as so defined) to the extent that it operates a port related commercial undertaking through a port company; and
+    *   (a) the term _port operator_ means any local authority (as defined in [section YA 1][95] of the Income Tax Act 2007) which operates a port related commercial undertaking; but does not include a port company or a local authority (as so defined) to the extent that it operates a port related commercial undertaking through a port company; and
     
     *   (b) in relation to a port operator, the definition of the term port related commercial undertaking in [section 2][3] shall apply as if the references in that definition to a Harbour Board were references to the port operator.
     
@@ -851,7 +855,7 @@ Miscellaneous provisions
     
     Section 38(4): added, on 28 March 1990 (applying with respect to the tax on income derived in the income year commencing on 1 April 1988 and in every subsequent year), by section 14(2) of the Income Tax Amendment Act 1990 (1990 No 24).
     
-    Section 38(4)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][93] of the Income Tax Act 2007 (2007 No 97).
+    Section 38(4)(a): amended, on 1 April 2008 (effective for 2008--09 income year and later income years, except when the context requires otherwise), by [section ZA 2(1)][96] of the Income Tax Act 2007 (2007 No 97).
 
 ##### 39 Designations under district schemes
     
@@ -895,13 +899,13 @@ Miscellaneous provisions
     
     *   (c) shall be made available by the Minister of Transport to the public.
     
-    (10) Every determination issued under subsection (5) shall be given effect to by Order in Council, and the provisions of [Part 1][94] of the Local Government Act 1974 shall apply in respect of every such Order in Council as if it had been made pursuant to that Part.
+    (10) Every determination issued under subsection (5) shall be given effect to by Order in Council, and the provisions of [Part 1][97] of the Local Government Act 1974 shall apply in respect of every such Order in Council as if it had been made pursuant to that Part.
     
-    (11) Subsections (1) and (2) of [section 35][95], and [sections 37C][96] and [37F][97] of the Local Government Act 1974 shall apply, with any necessary modifications, to any proposal or determination for the dissolution or abolition of a Harbour Board issued under this section as if the proposal or determination were a reorganisation scheme.
+    (11) Subsections (1) and (2) of [section 35][98], and [sections 37C][99] and [37F][100] of the Local Government Act 1974 shall apply, with any necessary modifications, to any proposal or determination for the dissolution or abolition of a Harbour Board issued under this section as if the proposal or determination were a reorganisation scheme.
     
-    Section 40(1)(b): amended, on 1 July 1988, by [section 10(a)][98] of the Wanganui Harbour Act 1988 (1988 No 1 (L)).
+    Section 40(1)(b): amended, on 1 July 1988, by [section 10(a)][101] of the Wanganui Harbour Act 1988 (1988 No 1 (L)).
     
-    Section 40(1)(c): repealed, on 1 July 1988, by [section 10(b)][98] of the Wanganui Harbour Act 1988 (1988 No 1 (L)).
+    Section 40(1)(c): repealed, on 1 July 1988, by [section 10(b)][101] of the Wanganui Harbour Act 1988 (1988 No 1 (L)).
 
 ##### 41 Repeal of New Zealand Ports Authority Act 1968
     
@@ -919,7 +923,7 @@ Miscellaneous provisions
     
 *   \[Repealed\]
     
-    Section 43: repealed, on 1 September 1990, by [section 5(2)(i)][99] of the Ministry of Transport Act Repeal Act 1990 (1990 No 101).
+    Section 43: repealed, on 1 September 1990, by [section 5(2)(i)][102] of the Ministry of Transport Act Repeal Act 1990 (1990 No 101).
 
 ##### 44 Repeals
     
@@ -985,7 +989,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Official Information Act 1982 (1982 No 156) (RS Vol 21)
 
-_Amendment(s) incorporated in the [Act(s)][100]_.
+_Amendment(s) incorporated in the [Act(s)][103]_.
 
 ---
 
@@ -1010,7 +1014,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Local Legislation Act 1931 (1931 No 43)
 
-_Amendment(s) incorporated in the [Act(s)][101]_.
+_Amendment(s) incorporated in the [Act(s)][104]_.
 
 ##### New Zealand Portland Cement Company (Limited) Reclamation and Empowering Act 1910 (1910 No 8 (L))
 
@@ -1057,7 +1061,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Taranaki Harbours Board Empowering Amendment Act 1956 (1956 No 4 (L))
 
-_Amendment(s) incorporated in the [Act(s)][102]_.
+_Amendment(s) incorporated in the [Act(s)][105]_.
 
 ##### Timaru Harbour Board Loan and Empowering Act 1959 (1959 No 12 (L))
 
@@ -1065,84 +1069,43 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Timaru Harbour Board Loan and Empowering Act 1966 (1966 No 16 (L))
 
-_Amendment(s) incorporated in the [Act(s)][103]_.
+_Amendment(s) incorporated in the [Act(s)][106]_.
 
 ##### Wellington Harbour Board Loan and Empowering Act 1967 (1967 No 15 (L))
 
-_Amendment(s) incorporated in the [Act(s)][104]_.
+_Amendment(s) incorporated in the [Act(s)][107]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Port Companies Act 1988\. The reprint incorporates all the amendments to the Act as at 24 November 2009, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][105] ![](/images/external_link.gif).
+*   This is a reprint of the Port Companies Act 1988 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][106] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][108] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][109] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][107] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][110] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][111] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][108] and [17E][109] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Legislation Act 2012 (2012 No 119): [section 77(3)][74]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][70]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   Securities Markets Amendment Act 2009 (2009 No 54): [section 23(1)][70]
-    
-    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][93]
+    Income Tax Act 2007 (2007 No 97): [section ZA 2(1)][96]
     
     Local Government Act 2002 (2002 No 84): [section 262][63]
     
     Securities Markets Amendment Act 2002 (2002 No 44): [section 30][71]
     
-    Public Audit Act 2001 (2001 No 10): [section 53][79]
+    Public Audit Act 2001 (2001 No 10): [section 53][82]
     
     Company Law Reform (Transitional Provisions) Act 1994 (1994 No 16): [section 2][64]
     
@@ -1150,17 +1113,17 @@ _Amendment(s) incorporated in the [Act(s)][104]_.
     
     Port Companies Amendment Act 1990 (1990 No 120)
     
-    Ministry of Transport Act Repeal Act 1990 (1990 No 101): [section 5(2)(i)][99]
+    Ministry of Transport Act Repeal Act 1990 (1990 No 101): [section 5(2)(i)][102]
     
     Income Tax Amendment Act (No 2) 1990 (1990 No 63): section 62(1), (2)
     
     Income Tax Amendment Act 1990 (1990 No 24): section 14(1), (2)
     
-    Wanganui Harbour Act 1988 (1988 No 1 (L)): [section 10][98]
+    Wanganui Harbour Act 1988 (1988 No 1 (L)): [section 10][101]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1988/0091/latest/whole.html#DLM131685
 [2]: http://www.legislation.govt.nz/act/public/1988/0091/latest/whole.html#DLM131687
 [3]: http://www.legislation.govt.nz/act/public/1988/0091/latest/whole.html#DLM131688
@@ -1232,41 +1195,43 @@ _Amendment(s) incorporated in the [Act(s)][104]_.
 [69]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM139735
 [70]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2498696
 [71]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM162198
-[72]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98065
-[73]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98052
-[74]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98053
-[75]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98063
-[76]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98021
-[77]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM320877
-[78]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM88548
-[79]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM88957
-[80]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM319576
-[81]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98067
-[82]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM444304
-[83]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM46055
-[84]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM46068
-[85]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98075
-[86]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM269031
-[87]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM394841
-[88]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM99956
-[89]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM78106
-[90]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM399728
-[91]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM81034
-[92]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM1520575
-[93]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM1523176
-[94]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416138
-[95]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416299
-[96]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416418
-[97]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416429
-[98]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM78730
-[99]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM222605
-[100]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM65921
-[101]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM211754
-[102]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM57705
-[103]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM64034
-[104]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM65894
-[105]: http://www.pco.parliament.govt.nz/reprints/
-[106]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM195439
-[107]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[108]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM195468
-[109]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM195470
+[72]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2997643
+[73]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998573
+[74]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998633
+[75]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98065
+[76]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98052
+[77]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98053
+[78]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98063
+[79]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98021
+[80]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM320877
+[81]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM88548
+[82]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM88957
+[83]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM319576
+[84]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98067
+[85]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM444304
+[86]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM46055
+[87]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM46068
+[88]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM98075
+[89]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM269031
+[90]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM394841
+[91]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM99956
+[92]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM78106
+[93]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM399728
+[94]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM81034
+[95]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM1520575
+[96]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM1523176
+[97]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416138
+[98]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416299
+[99]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416418
+[100]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM416429
+[101]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM78730
+[102]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM222605
+[103]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM65921
+[104]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM211754
+[105]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM57705
+[106]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM64034
+[107]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM65894
+[108]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998516
+[109]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998515
+[110]: http://www.legislation.govt.nz/act/public/1988/0091/latest/link.aspx?id=DLM2998532
+[111]: http://www.pco.parliament.govt.nz/editorial-conventions/
