@@ -1,5 +1,5 @@
 Reprint  
-as at 17 August 2011
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencement27 October 1955
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -91,7 +91,7 @@ This Act is administered by the Ministry of Justice.
 
 [26][34][][34][Restriction upon advertisements][34]
 
-[27][35][][35][Summary offences][35]
+[27][35][][35][Offences][35]
 
 [27A][36][][36][Offence to induce consent][36]
 
@@ -133,7 +133,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     _adoption order_ means an adoption order made under this Act; and does not include an interim order
     
-    _adoptive parent_ means any person who adopts a child in accordance with an adoption order; and, in the case of an order made in favour of a husband and wife on their joint application, means both the husband and wife; but does not include a spouse who merely consents to an adoption
+    _adoptive parent_ means any person who adopts a child in accordance with an adoption order; and, in the case of an order made in favour of a married couple on their joint application, means both the spouses; but does not include a spouse who merely consents to an adoption
     
     _chief executive_ means the chief executive of the department
     
@@ -185,37 +185,39 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 2 **adoption order**: amended, on 1 April 1963, by [section 2(a)][51] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 2 **chief executive**: inserted, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **adoptive parent**: amended, on 19 August 2013, by [section 9][52] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 2 **child**: amended, on 1 January 1971, by [section 6][53] of the Age of Majority Act 1970 (1970 No 137).
+    Section 2 **chief executive**: inserted, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **child welfare officer**: repealed, on 1 April 1972, by [section 23(1)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 2 **child**: amended, on 1 January 1971, by [section 6][54] of the Age of Majority Act 1970 (1970 No 137).
     
-    Section 2 **court**: replaced, on 1 October 1981, by [section 17(1)][55] of the Family Courts Act 1980 (1980 No 161).
+    Section 2 **child welfare officer**: repealed, on 1 April 1972, by [section 23(1)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 2 **department**: inserted, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **court**: replaced, on 1 October 1981, by [section 17(1)][56] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 2 **Director-General**: repealed, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **department**: inserted, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **father**: repealed, on 1 January 1970, by [section 12(2)][56] of the Status of Children Act 1969 (1969 No 18).
+    Section 2 **Director-General**: repealed, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **Maori**: amended, on 23 March 1995, by [section 2(1)][57] of the Adoption Amendment Act 1995 (1995 No 4).
+    Section 2 **father**: repealed, on 1 January 1970, by [section 12(2)][57] of the Status of Children Act 1969 (1969 No 18).
+    
+    Section 2 **Maori**: amended, on 23 March 1995, by [section 2(1)][58] of the Adoption Amendment Act 1995 (1995 No 4).
     
     Section 2 **Registrar**: amended (with effect on 27 October 1955), on 24 September 1965, by section 2(2) of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 2 **relative**: replaced, on 1 January 1970, by [section 12(2)][56] of the Status of Children Act 1969 (1969 No 18).
+    Section 2 **relative**: replaced, on 1 January 1970, by [section 12(2)][57] of the Status of Children Act 1969 (1969 No 18).
     
-    Section 2 **social worker**: replaced, on 23 March 1995, by [section 2(2)][57] of the Adoption Amendment Act 1995 (1995 No 4).
+    Section 2 **social worker**: replaced, on 23 March 1995, by [section 2(2)][58] of the Adoption Amendment Act 1995 (1995 No 4).
     
-    Section 2 **social worker** paragraph (a)(i): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker** paragraph (a)(i): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **social worker** paragraph (a)(ii): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker** paragraph (a)(ii): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **social worker** paragraph (b)(i): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker** paragraph (b)(i): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **social worker** paragraph (b)(ii): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 2 **social worker** paragraph (b)(ii): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 2 **Superintendent of Child Welfare**: repealed, on 1 April 1972, by [section 23(2)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 2 **Superintendent of Child Welfare**: repealed, on 1 April 1972, by [section 23(2)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
 
 #### Making of adoption orders
 
@@ -249,13 +251,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1908 No 86 ss 16, 17, 19; Adoption Act 1950 s 2 (UK)
     
-    Section 4(1)(a): amended, on 1 January 1971, by [section 6][53] of the Age of Majority Act 1970 (1970 No 137).
+    Section 4(1)(a): amended, on 1 January 1971, by [section 6][54] of the Age of Majority Act 1970 (1970 No 137).
     
-    Section 4(1)(b): amended, on 1 January 1971, by [section 6][53] of the Age of Majority Act 1970 (1970 No 137).
+    Section 4(1)(b): amended, on 1 January 1971, by [section 6][54] of the Age of Majority Act 1970 (1970 No 137).
     
-    Section 4(5): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 4(5): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 4(5): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 4(5): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 5 Interim orders to be made in first instance
     
@@ -287,21 +289,21 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
     *   (a) the child is in the home pursuant to any provision of the [Children, Young Persons, and Their Families Act 1989][47] or to an order made pursuant to that Act; or
     
-    *   (b) the child is in the home pursuant to an order made pursuant to the [Care of Children Act 2004][60]; or
+    *   (b) the child is in the home pursuant to an order made pursuant to the [Care of Children Act 2004][61]; or
     
     *   (c) the child is in the home of one of the child's parents and a step-parent of the child; or
     
     *   (d) the child is in the home of a relative of the child (not being a relative who, in the absence of special circumstances, is prohibited, by reason of age or sex, from adopting the child).
     
-    Section 6(1)(a): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 6(1)(a): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 6(2): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 6(2): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 6(3): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 6(3): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 6(4): replaced, on 1 November 1989, by [section 450(1)][61] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
+    Section 6(4): replaced, on 1 November 1989, by [section 450(1)][62] of the Children, Young Persons, and Their Families Act 1989 (1989 No 24).
     
-    Section 6(4)(b): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 6(4)(b): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 7 Consents to adoptions
     
@@ -311,7 +313,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
     *   (a) the parents and guardians of the child as provided in subsections (3) to (5); and
     
-    *   (b) the spouse of the applicant in any case where the application is made by either a husband or a wife alone.
+    *   (b) the spouse of the applicant in any case where the application is made by either spouse alone.
     
     (3) The parents and guardians whose consents to any such order in respect of any child are required as aforesaid, unless they are dispensed with by the court under [section 8][10], shall be,---
         
@@ -355,31 +357,33 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (10) Every person who is an applicant for an adoption order shall be deemed to consent to the adoption, and it shall not be necessary for him or her to file a formal consent under this section.
     
-    Compare: 1908 No 86 s 18; 1947 No 60 [s 26][62]; 1948 No 48 s 10; Adoption Act 1950 s 3(3) (UK)
+    Compare: 1908 No 86 s 18; 1947 No 60 [s 26][63]; 1948 No 48 s 10; Adoption Act 1950 s 3(3) (UK)
     
-    Section 7(3)(a): replaced, on 1 January 1970, by [section 12(2)][56] of the Status of Children Act 1969 (1969 No 18).
+    Section 7(2)(b): amended, on 19 August 2013, by [section 9][52] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 7(3)(a): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 7(3)(a): replaced, on 1 January 1970, by [section 12(2)][57] of the Status of Children Act 1969 (1969 No 18).
     
-    Section 7(3)(b): replaced, on 1 January 1970, by [section 12(2)][56] of the Status of Children Act 1969 (1969 No 18).
+    Section 7(3)(a): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 7(3)(b): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 7(3)(b): replaced, on 1 January 1970, by [section 12(2)][57] of the Status of Children Act 1969 (1969 No 18).
     
-    Section 7(3)(c): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 7(3)(b): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 7(4): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 7(3)(c): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 7(5): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 7(4): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 7(8): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 7(5): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 7(8)(a): amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 7(8): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 7(8)(a): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 7(8)(a): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
+    
+    Section 7(8)(a): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 7(8)(aa): replaced, on 25 March 1987, by section 2(1) of the Adoption Amendment Act 1987 (1987 No 19).
     
-    Section 7(9): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 7(9): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
 ##### 8 Cases where consent may be dispensed with
     
@@ -407,9 +411,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (8) In any case where the High Court revokes any interim order or discharges any adoption order in accordance with this section, that court may include in its order an order for the refund by some person specified in the order of money spent by any adopter or proposed adopter for the child's benefit. Any such order for the refund of money shall be enforceable as a judgment of the court which made the order in favour of the person to whom the money has to be repaid.
     
-    Compare: 1908 No 86 s 23; 1941 No 26 s 36; 1951 No 81 [s 15][64]; Adoption Act 1950 s 3 (UK).
+    Compare: 1908 No 86 s 23; 1941 No 26 s 36; 1951 No 81 [s 15][65]; Adoption Act 1950 s 3 (UK).
     
-    Section 8(2): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 8(2): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
     Section 8(5): amended, on 1 April 1970, pursuant to section 129(4) of the Mental Health Act 1969 (1969 No 16).
     
@@ -417,21 +421,21 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 8(5A): inserted, on 24 September 1965, by section 3 of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 8(5A): amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 8(5A): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 8(5A): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 8(5A): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 8(6): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 8(6): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 8(6): amended, on 1 April 1963, by [section 4(1)][65] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 8(6): amended, on 1 April 1963, by [section 4(1)][66] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 8(7): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 8(7): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 8(7): amended, on 1 April 1963, by [section 4(2)][65] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 8(7): amended, on 1 April 1963, by [section 4(2)][66] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 8(8): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 8(8): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 8(8): amended, on 1 April 1963, by [section 4(3)][65] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 8(8): amended, on 1 April 1963, by [section 4(3)][66] of the Adoption Amendment Act 1962 (1962 No 134).
 
 ##### 9 Withdrawal of consents
     
@@ -439,9 +443,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Subject to the provisions of subsection (1), any consent to an adoption, and any appointment of the chief executive as the guardian of a child under subsection (4) of [section 7][9], may be withdrawn at any time while neither an interim order nor an adoption order has been made in connection with the adoption, but shall not be withdrawn after any such order has been made. Where any such appointment of the chief executive is so withdrawn, any consent given by him shall lapse.
     
-    Section 9(1): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 9(1): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 9(2): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 9(2): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
 
 ##### 10 Social worker to report
     
@@ -457,15 +461,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) The social worker shall be entitled to appear at the hearing of the application, and to cross-examine, call evidence, and address the court.
     
-    Section 10 heading: amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 10 heading: amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 10(1)(a): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 10(1)(a): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 10(1)(b): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 10(1)(b): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 10(1)(c): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 10(1)(c): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 10(2): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 10(2): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
 
 ##### 11 Restrictions on making of orders in respect of adoption
     
@@ -479,7 +483,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1908 No 86 s 18(1)(c); Adoption Act 1950 s 5 (UK)
     
-    Section 11(a): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 11(a): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 12 Revocation of interim order
     
@@ -493,13 +497,13 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 12(1A): inserted, on 24 September 1965, by section 4 of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 12(1A): amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 12(1A): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 12(1A): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 12(1A): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 12(1B): inserted, on 24 September 1965, by section 4 of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 12(1B): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 12(1B): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 13 Issue of adoption order where an interim order has been made
     
@@ -539,37 +543,37 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (5) In any case where an adoption order could issue under this section in favour of 1 person only, the court may, upon application by that person and his or her spouse and after further hearing, issue the adoption order in favour of that person and his or her spouse jointly without requiring any further consents to the adoption.
     
-    Section 13(1)(b): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(1)(b): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 13(2): replaced, on 1 April 1963, by [section 5][66] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 13(2): replaced, on 1 April 1963, by [section 5][67] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 13(2A): inserted, on 1 April 1963, by [section 5][66] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 13(2A): inserted, on 1 April 1963, by [section 5][67] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 13(3): replaced, on 1 April 1963, by [section 5][66] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 13(3): replaced, on 1 April 1963, by [section 5][67] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 13(3)(a): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(3)(a): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
     Section 13(3)(b): amended, on 24 September 1965, by section 5(3) of the Adoption Amendment Act 1965 (1965 No 32).
     
     Section 13(3)(c): replaced, on 24 September 1965, by section 5(4) of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 13(3)(c): amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(3)(c): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13(3)(c): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 13(3)(c): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
     Section 13(3)(d): inserted, on 24 September 1965, by section 5(4) of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 13(3)(d): amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13(3)(d): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13(4): replaced, on 1 April 1963, by [section 5][66] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 13(4): replaced, on 1 April 1963, by [section 5][67] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 13(4)(a): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(4)(a): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 13(4)(b): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(4)(b): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 13(4)(c): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(4)(c): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 13(4)(d): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 13(4)(d): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
 
 ##### 13A Appeal against refusal to make interim order or adoption order
     
@@ -577,9 +581,9 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Section 13A: inserted, on 24 September 1965, by section 5(1) of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 13A: amended, on 1 April 1980, pursuant to [section 18(2)][63] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 13A: amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 13A: amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 13A: amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
 
 ##### 14 Date on which adoption order becomes effective
     
@@ -623,11 +627,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: Adoption Act 1950 s 6(4) (UK)
     
-    Section 15(2)(a): replaced, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 15(2)(a): replaced, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 15(2)(b): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 15(2)(b): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 15(2)(d): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 15(2)(d): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
 
 ##### 16 Effect of adoption order
     
@@ -641,7 +645,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
     *   (a) the adopted child shall be deemed to become the child of the adoptive parent, and the adoptive parent shall be deemed to become the parent of the child, as if the child had been born to that parent in lawful wedlock:
         
-        provided that, where the adopted child is adopted by his mother either alone or jointly with her husband, the making of the adoption order shall not prevent the making of an affiliation order or maintenance order, or of an application for an affiliation order or maintenance order, in respect of the child:
+        provided that, where the adopted child is adopted by his mother either alone or jointly with her spouse, the making of the adoption order shall not prevent the making of an affiliation order or maintenance order, or of an application for an affiliation order or maintenance order, in respect of the child:
     
     *   (b) the adopted child shall be deemed to cease to be the child of his existing parents (whether his natural parents or his adoptive parents under any previous adoption), and the existing parents of the adopted child shall be deemed to cease to be his parents, and any existing adoption order in respect of the child shall be deemed to be discharged under [section 20][26]:
         
@@ -651,7 +655,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (d) the foregoing provisions of this subsection shall not apply for the purposes of any deed, instrument, will, or intestacy, or affect any vested or contingent right of the adopted child or any other person under any deed, instrument, will, or intestacy, where the adoption order is made after the date of the deed or instrument or after the date of the death of the testator or intestate, as the case may be, unless in the case of a deed, instrument, or will, express provision is made to that effect:
     
-    *   (e) subject to the [Citizenship Act 1977][67], the adoption order shall not affect the race, nationality, or citizenship of the adopted child:
+    *   (e) subject to the [Citizenship Act 1977][68], the adoption order shall not affect the race, nationality, or citizenship of the adopted child:
     
     *   (f) the adopted child shall acquire the domicile of his adoptive parent or adoptive parents, and the child's domicile shall thereafter be determined as if the child had been born in lawful wedlock to the said parent or parents:
     
@@ -661,7 +665,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (i) any affiliation order or maintenance order in respect of the adopted child and any agreement (not being in the nature of a trust) which provides for payments for the maintenance of the adopted child shall cease to have effect:
         
-        provided that, where the adopted child is adopted by his mother either alone or jointly with her husband, the order or agreement shall not cease to have effect by reason of the making of the adoption order:
+        provided that, where the adopted child is adopted by his mother either alone or jointly with her spouse, the order or agreement shall not cease to have effect by reason of the making of the adoption order:
         
         provided also that nothing in this paragraph shall prevent the recovery of any arrears which are due under any order or agreement at the date on which it ceases to have effect as aforesaid.
     
@@ -677,31 +681,35 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (4) Subsection (2)(i) applies to all maintenance orders, whether made before, on, or after 1 July 1992\.
     
-    (5) The first proviso to subsection (2)(a) applies subject to [section 6(2)][68] of the Child Support Act 1991\.
+    (5) The first proviso to subsection (2)(a) applies subject to [section 6(2)][69] of the Child Support Act 1991\.
     
-    (6) The first proviso to subsection (2)(i) applies subject to [section 25(1)(b)(iii)][69] of the Child Support Act 1991\.
+    (6) The first proviso to subsection (2)(i) applies subject to [section 25(1)(b)(iii)][70] of the Child Support Act 1991\.
     
     Compare: 1950 No 18 s 2
     
-    Section 16(1): replaced, on 1 September 1995, by [section 95][70] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 16(1): replaced, on 1 September 1995, by [section 95][71] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 16(1A): inserted, on 1 September 1995, by [section 95][70] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 16(1A): inserted, on 1 September 1995, by [section 95][71] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 16(1B): inserted, on 1 September 1995, by [section 95][70] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 16(1B): inserted, on 1 September 1995, by [section 95][71] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 16(2)(b) proviso: amended, on 26 April 2005, by [section 40(1)][71] of the Civil Union Act 2004 (2004 No 102).
+    Section 16(2)(a) proviso: amended, on 19 August 2013, by [section 9][52] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 16(2)(e): replaced, on 1 January 1978, by [section 30(2)][72] of the Citizenship Act 1977 (1977 No 61).
+    Section 16(2)(b) proviso: amended, on 26 April 2005, by [section 40(1)][72] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 16(2)(f) proviso: repealed, on 1 January 1981, by [section 14(2)][73] of the Domicile Act 1976 (1976 No 17).
+    Section 16(2)(e): replaced, on 1 January 1978, by [section 30(2)][73] of the Citizenship Act 1977 (1977 No 61).
     
-    Section 16(2)(g): repealed, on 1 January 1981, by [section 14(2)][73] of the Domicile Act 1976 (1976 No 17).
+    Section 16(2)(f) proviso: repealed, on 1 January 1981, by [section 14(2)][74] of the Domicile Act 1976 (1976 No 17).
     
-    Section 16(4): inserted, on 1 July 1992, by [section 243][74] of the Child Support Act 1991 (1991 No 142).
+    Section 16(2)(g): repealed, on 1 January 1981, by [section 14(2)][74] of the Domicile Act 1976 (1976 No 17).
     
-    Section 16(5): inserted, on 1 July 1992, by [section 243][74] of the Child Support Act 1991 (1991 No 142).
+    Section 16(2)(i) proviso: amended, on 19 August 2013, by [section 9][52] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 16(6): inserted, on 1 July 1992, by [section 243][74] of the Child Support Act 1991 (1991 No 142).
+    Section 16(4): inserted, on 1 July 1992, by [section 243][75] of the Child Support Act 1991 (1991 No 142).
+    
+    Section 16(5): inserted, on 1 July 1992, by [section 243][75] of the Child Support Act 1991 (1991 No 142).
+    
+    Section 16(6): inserted, on 1 July 1992, by [section 243][75] of the Child Support Act 1991 (1991 No 142).
 
 ##### 17 Effect of overseas adoption
     
@@ -737,17 +745,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (c) which takes place in that Contracting State on or after the date on which the Convention has entered into force as between New Zealand and that Contracting State.
     
-    (6) In subsection (5), _Contracting State_ and _Convention_ have the same meaning as in the [Adoption (Intercountry) Act 1997][75].
+    (6) In subsection (5), _Contracting State_ and _Convention_ have the same meaning as in the [Adoption (Intercountry) Act 1997][76].
     
-    Section 17(2)(b): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 17(2)(b): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
     
     Section 17(2)(c)(i): replaced, on 24 September 1965, by section 6(1) of the Adoption Amendment Act 1965 (1965 No 32).
     
     Section 17(2A): inserted, on 24 September 1965, by section 6(2) of the Adoption Amendment Act 1965 (1965 No 32).
     
-    Section 17(5): inserted, on 1 January 1999, by [section 25][76] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 17(5): inserted, on 1 January 1999, by [section 25][77] of the Adoption (Intercountry) Act 1997 (1997 No 109).
     
-    Section 17(6): inserted, on 1 January 1999, by [section 25][76] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 17(6): inserted, on 1 January 1999, by [section 25][77] of the Adoption (Intercountry) Act 1997 (1997 No 109).
 
 #### Maori adoptions
 
@@ -811,17 +819,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     Compare: 1908 No 86 s 22; 1950 No 18 s 4
     
-    Section 20(5): replaced, on 1 April 1963, by [section 6][77] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 20(5): replaced, on 1 April 1963, by [section 6][78] of the Adoption Amendment Act 1962 (1962 No 134).
     
-    Section 20(5): amended, on 1 April 1980, pursuant to [section 12][59] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 20(5): amended, on 1 April 1980, pursuant to [section 12][60] of the Judicature Amendment Act 1979 (1979 No 124).
     
-    Section 20(6)(b): amended, on 1 July 2005, by [section 151][58] of the Care of Children Act 2004 (2004 No 90).
+    Section 20(6)(b): amended, on 1 July 2005, by [section 151][59] of the Care of Children Act 2004 (2004 No 90).
 
 ##### 21 Court to which application for adoption order shall be made
     
 *   \[Repealed\]
     
-    Section 21: repealed, on 1 April 1963, by [section 7][78] of the Adoption Amendment Act 1962 (1962 No 134).
+    Section 21: repealed, on 1 April 1963, by [section 7][79] of the Adoption Amendment Act 1962 (1962 No 134).
 
 ##### 22 Attendance at hearings
     
@@ -861,17 +869,17 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (c) to exclude any person from the court.
     
-    Section 22: replaced, on 18 May 2009, by [section 4][79] of the Adoption Amendment Act 2008 (2008 No 73).
+    Section 22: replaced, on 18 May 2009, by [section 4][80] of the Adoption Amendment Act 2008 (2008 No 73).
 
 ##### 22A Publication of reports of proceedings
     
-*   [Sections 11B to 11D][80] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
+*   [Sections 11B to 11D][81] of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act---
         
     *   (a) in a Family Court:
     
     *   (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
     
-    Section 22A: inserted, on 18 May 2009, by [section 4][79] of the Adoption Amendment Act 2008 (2008 No 73).
+    Section 22A: inserted, on 18 May 2009, by [section 4][80] of the Adoption Amendment Act 2008 (2008 No 73).
 
 ##### 23 Inspection of adoption records
     
@@ -879,15 +887,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Adoption records are open to inspection by---
         
-    *   (a) any Registrar (as defined in [section 2][81] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) or marriage celebrant under the [Marriage Act 1955][82] for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
+    *   (a) any Registrar (as defined in [section 2][82] of the Births, Deaths, Marriages, and Relationships Registration Act 1995) or marriage celebrant under the [Marriage Act 1955][83] for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
     
-    *   (b) any Registrar (as so defined) or civil union celebrant under the [Civil Union Act 2004][83] for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004\.
+    *   (b) any Registrar (as so defined) or civil union celebrant under the [Civil Union Act 2004][84] for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004\.
     
     (2A) Adoption records are open to inspection by a social worker for the purpose of preparing a report required under [section 23A(1)][31].
     
     (3) Adoption records shall not be available for production or open to inspection except---
         
-    *   (a) to the extent authorised by subsections (1), (2), or (2A) of this section or by [section 11(4)(b)][84] of the Adult Adoption Information Act 1985; or
+    *   (a) to the extent authorised by subsections (1), (2), or (2A) of this section or by [section 11(4)(b)][85] of the Adult Adoption Information Act 1985; or
     
     *   (b) on the order of a Family Court, a District Court, or the High Court, made---
             
@@ -899,15 +907,15 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         
     
-    Section 23: replaced, on 1 March 1986, by [section 15][85] of the Adult Adoption Information Act 1985 (1985 No 127).
+    Section 23: replaced, on 1 March 1986, by [section 15][86] of the Adult Adoption Information Act 1985 (1985 No 127).
     
-    Section 23(2): replaced, on 26 April 2005, by [section 40(2)][71] of the Civil Union Act 2004 (2004 No 102).
+    Section 23(2): replaced, on 26 April 2005, by [section 40(2)][72] of the Civil Union Act 2004 (2004 No 102).
     
-    Section 23(2)(a): amended, on 24 January 2009, by [section 47][86] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 23(2)(a): amended, on 24 January 2009, by [section 47][87] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
     
-    Section 23(2A): inserted, on 15 November 2000, by [section 3(1)][87] of the Adoption Amendment Act 2000 (2000 No 49).
+    Section 23(2A): inserted, on 15 November 2000, by [section 3(1)][88] of the Adoption Amendment Act 2000 (2000 No 49).
     
-    Section 23(3)(a): amended, on 15 November 2000, by [section 3(2)][87] of the Adoption Amendment Act 2000 (2000 No 49).
+    Section 23(3)(a): amended, on 15 November 2000, by [section 3(2)][88] of the Adoption Amendment Act 2000 (2000 No 49).
 
 ##### 23A Report on application for inspection
     
@@ -919,7 +927,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) may not consider information relating to any party to the adoption or application that was obtained by the department before the application was made.
     
-    Section 23A: inserted, on 15 November 2000, by [section 4][88] of the Adoption Amendment Act 2000 (2000 No 49).
+    Section 23A: inserted, on 15 November 2000, by [section 4][89] of the Adoption Amendment Act 2000 (2000 No 49).
 
 ##### 24 Evidence in adoption cases
     
@@ -931,27 +939,27 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (1A) Subsection (1) does not apply to the payment of the hospital and medical expenses of the confinement of the mother of a child if---
         
-    *   (a) the expenses are incurred by virtue of the provision by a society or body of persons of hospital care (within the meaning of the [Health and Disability Services (Safety) Act 2001][89]); and
+    *   (a) the expenses are incurred by virtue of the provision by a society or body of persons of hospital care (within the meaning of the [Health and Disability Services (Safety) Act 2001][90]); and
     
     *   (b) the payment is made by an applicant for an adoption order in respect of the child directly to the society or body; and
     
-    *   (c) the amount paid has been approved in the particular instance, or is in accordance with a scale approved generally, by the chief executive of the department of State responsible for the administration of the [Health and Disability Services (Safety) Act 2001][89].
+    *   (c) the amount paid has been approved in the particular instance, or is in accordance with a scale approved generally, by the chief executive of the department of State responsible for the administration of the [Health and Disability Services (Safety) Act 2001][90].
     
-    (2) Subsection (1) does not apply to the payment of reasonable costs and expenses to any organisation approved as a New Zealand accredited body under [Part 2][90] of the Adoption (Intercountry) Act 1997, provided those costs and expenses---
+    (2) Subsection (1) does not apply to the payment of reasonable costs and expenses to any organisation approved as a New Zealand accredited body under [Part 2][91] of the Adoption (Intercountry) Act 1997, provided those costs and expenses---
         
-    *   (a) are in connection with the exercise of a function delegated to that body under [Part 1][91] of that Act; and
+    *   (a) are in connection with the exercise of a function delegated to that body under [Part 1][92] of that Act; and
     
     *   (b) are set out in an invoice or statement of account rendered by that body which sets out details of the costs and expenses, and the services or functions to which they apply.
     
     Compare: 1908 No 86 s 20
     
-    Section 25(1) proviso: repealed, on 1 October 2002, by [section 58(1)][92] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 25(1) proviso: repealed, on 1 October 2002, by [section 58(1)][93] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 25(1A): inserted, on 1 October 2002, by [section 58(1)][92] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 25(1A): inserted, on 1 October 2002, by [section 58(1)][93] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
     
-    Section 25(2): inserted, on 1 January 1999, by [section 26][93] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 25(2): inserted, on 1 January 1999, by [section 26][94] of the Adoption (Intercountry) Act 1997 (1997 No 109).
     
-    Section 25(2): amended, on 1 October 2002, by [section 58(1)][92] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
+    Section 25(2): amended, on 1 October 2002, by [section 58(1)][93] of the Health and Disability Services (Safety) Act 2001 (2001 No 93).
 
 ##### 26 Restriction upon advertisements
     
@@ -965,23 +973,23 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     provided that the chief executive may in his discretion approve in particular cases of advertisements published by any group or society caring for the welfare of children.
     
-    (2) An organisation approved as a New Zealand accredited body under [Part 2][90] of the Adoption (Intercountry) Act 1997 does not commit an offence against subsection (1)(c) by publicly notifying---
+    (2) An organisation approved as a New Zealand accredited body under [Part 2][91] of the Adoption (Intercountry) Act 1997 does not commit an offence against subsection (1)(c) by publicly notifying---
         
     *   (a) that it is a New Zealand accredited body under that Act; or
     
-    *   (b) that functions have been delegated to that body under [Part 1][91] of that Act.
+    *   (b) that functions have been delegated to that body under [Part 1][92] of that Act.
     
     Compare: Adoption Act 1950 s 38 (UK)
     
-    Section 26(1): amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 26(1): amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 26(1): amended, on 1 April 1972, by [section 23(4)(b)][54] of the Department of Social Welfare Act 1971 (1971 No 60).
+    Section 26(1): amended, on 1 April 1972, by [section 23(4)(b)][55] of the Department of Social Welfare Act 1971 (1971 No 60).
     
-    Section 26(1) proviso: amended, on 1 October 1999, by [section 13][52] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
+    Section 26(1) proviso: amended, on 1 October 1999, by [section 13][53] of the Department of Child, Youth and Family Services Act 1999 (1999 No 82).
     
-    Section 26(2): inserted, on 1 January 1999, by [section 27][94] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 26(2): inserted, on 1 January 1999, by [section 27][95] of the Adoption (Intercountry) Act 1997 (1997 No 109).
 
-##### 27 Summary offences
+##### 27 Offences
     
 *   (1) Every person commits an offence against this section who,---
         
@@ -997,23 +1005,27 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (f) makes any false statement for the purpose of obtaining or opposing an interim order or adoption order or any variation or discharge of any such order.
     
-    (2) Every person who commits an offence against this section shall be liable on summary conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $15,000 or to both.
+    (2) Every person who commits an offence against this section shall be liable on conviction before a District Court Judge to imprisonment for a term not exceeding 3 months or to a fine not exceeding $15,000 or to both.
     
     (3) \[Repealed\]
     
-    Section 27 heading: amended, on 17 August 2011, by [section 5(1)][95] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27 heading: amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 27(2): amended, on 1 January 1999, by [section 28][96] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    Section 27(2): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 27(3): repealed, on 17 August 2011, by [section 5(2)][95] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27(2): amended, on 1 January 1999, by [section 28][97] of the Adoption (Intercountry) Act 1997 (1997 No 109).
+    
+    Section 27(3): repealed, on 17 August 2011, by [section 5(2)][98] of the Adoption Amendment Act 2011 (2011 No 60).
 
 ##### 27A Offence to induce consent
     
 *   (1) Every person commits an offence who induces another person, by fraud, duress, undue influence (by payment or otherwise), or other improper means, to consent to an adoption.
     
-    (2) Every person who commits an offence under subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
+    (2) Every person who commits an offence under subsection (1) is liable on conviction to imprisonment for a term not exceeding 7 years.
     
-    Section 27A: inserted, on 17 August 2011, by [section 6][97] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27A: inserted, on 17 August 2011, by [section 6][99] of the Adoption Amendment Act 2011 (2011 No 60).
+    
+    Section 27A(2): amended, on 1 July 2013, by [section 413][96] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 27B Safety of child where offence committed
     
@@ -1025,7 +1037,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) Subsection (1) applies whether or not any person has been convicted of the offence.
     
-    Section 27B: inserted, on 17 August 2011, by [section 6][97] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27B: inserted, on 17 August 2011, by [section 6][99] of the Adoption Amendment Act 2011 (2011 No 60).
 
 ##### 27C Extraterritorial jurisdiction in respect of offence under section 27A as required by Optional Protocol
     
@@ -1057,7 +1069,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
     *   (a) acts that occurred wholly within New Zealand; or
     
-    *   (b) the application of [section 7][98] of the Crimes Act 1961 to the occurrence in New Zealand of---
+    *   (b) the application of [section 7][100] of the Crimes Act 1961 to the occurrence in New Zealand of---
             
         *   (i) an act forming part of an offence; or
         
@@ -1065,11 +1077,11 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
         
         
     
-    *   (c) the application of [section 8][99] of the Crimes Act 1961; or
+    *   (c) the application of [section 8][101] of the Crimes Act 1961; or
     
-    *   (d) the application of [section 8A][100] of the Crimes Act 1961\.
+    *   (d) the application of [section 8A][102] of the Crimes Act 1961\.
     
-    Section 27C: inserted, on 17 August 2011, by [section 6][97] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27C: inserted, on 17 August 2011, by [section 6][99] of the Adoption Amendment Act 2011 (2011 No 60).
 
 ##### 27D Attorney-General's consent required where jurisdiction claimed under section 27C
     
@@ -1077,7 +1089,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) However, a person alleged to have committed an offence against [section 27A][36] may be arrested, or a warrant for the person's arrest may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent under subsection (1) has not been obtained.
     
-    Section 27D: inserted, on 17 August 2011, by [section 6][97] of the Adoption Amendment Act 2011 (2011 No 60).
+    Section 27D: inserted, on 17 August 2011, by [section 6][99] of the Adoption Amendment Act 2011 (2011 No 60).
 
 ##### 28 Regulations
     
@@ -1085,19 +1097,19 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     (2) \[Repealed\]
     
-    Section 28(2): repealed, on 19 December 1989, by [section 11][101] of the Regulations (Disallowance) Act 1989 (1989 No 143).
+    Section 28(2): repealed, on 19 December 1989, by [section 11][103] of the Regulations (Disallowance) Act 1989 (1989 No 143).
 
 ##### 28A Rules
     
 *   Rules may be made regulating the practice and procedure of courts in proceedings under this Act,---
         
-    *   (a) in the case of the High Court, under [section 51C][102] of the Judicature Act 1908:
+    *   (a) in the case of the High Court, under [section 51C][104] of the Judicature Act 1908:
     
-    *   (b) in the case of District Courts, under [section 122][103] of the District Courts Act 1947:
+    *   (b) in the case of District Courts, under [section 122][105] of the District Courts Act 1947:
     
-    *   (c) in the case of Family Courts, under [section 16A][104] of the Family Courts Act 1980\.
+    *   (c) in the case of Family Courts, under [section 16A][106] of the Family Courts Act 1980\.
     
-    Section 28A: inserted, on 13 September 2002, by [section 6][105] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 28A: inserted, on 13 September 2002, by [section 6][107] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 29 Consequential amendments
     
@@ -1107,7 +1119,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
 *   (1) The enactments specified in [Schedule 2][45] are hereby repealed.
     
-    (2) Without limiting the provisions of the [Interpretation Act 1999][106], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+    (2) Without limiting the provisions of the [Interpretation Act 1999][108], it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
     
     (3) All applications, matters, and proceedings commenced under any such enactment and pending or in progress at the commencement of this Act may, at the discretion of the court, be continued and completed,---
         
@@ -1115,7 +1127,7 @@ An Act to consolidate and amend certain enactments of the Parliament of New Zeal
     
     *   (b) under the said enactments in all respects as if the said enactments continued in force and as if this Act had not been passed.
     
-    Section 30(2): amended, on 1 November 1999, pursuant to [section 38(1)][107] of the Interpretation Act 1999 (1999 No 85).
+    Section 30(2): amended, on 1 November 1999, pursuant to [section 38(1)][109] of the Interpretation Act 1999 (1999 No 85).
 
 ---
 
@@ -1130,7 +1142,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Deaths by Accidents Compensation Act 1952 (1952 No 35)
 
-_Amendment(s) incorporated in the [Act(s)][108]_.
+_Amendment(s) incorporated in the [Act(s)][110]_.
 
 ##### Destitute Persons Act 1910 (1910 No 38) (Reprint of Statutes, Vol II, p 896)
 
@@ -1167,7 +1179,7 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1939 (1939 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][109]_.
+_Amendment(s) incorporated in the [Act(s)][111]_.
 
 ##### Statutes Amendment Act 1941 (1941 No 26)
 
@@ -1179,138 +1191,99 @@ _Amendment(s) incorporated in the Act(s)_.
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][110]_.
+_Amendment(s) incorporated in the [Act(s)][112]_.
 
 ##### Statutes Amendment Act 1951 (1951 No 81)
 
-_Amendment(s) incorporated in the [Act(s)][111]_.
+_Amendment(s) incorporated in the [Act(s)][113]_.
+
+#### 
 
 ---
 
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
-
----
-
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Adoption Act 1955\. The reprint incorporates all the amendments to the Act as at 17 August 2011, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][112] ![](/images/external_link.gif).
+*   This is a reprint of the Adoption Act 1955 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][113] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][114] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][115] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][114] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][116] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][117] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][115] and [17E][116] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20): [section 9][52]
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][96]
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
+    [Adoption Amendment Act 2011][118] (2011 No 60)
     
+    [Adoption Amendment Act 2008][119] (2008 No 73)
     
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][87]
     
-*   [Adoption Amendment Act 2011][117] (2011 No 60)
+    Civil Union Act 2004 (2004 No 102): [section 40][72]
     
-    [Adoption Amendment Act 2008][118] (2008 No 73)
+    Care of Children Act 2004 (2004 No 90): [section 151][59]
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][86]
+    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][93]
     
-    Civil Union Act 2004 (2004 No 102): [section 40][71]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][107]
     
-    Care of Children Act 2004 (2004 No 90): [section 151][58]
+    [Adoption Amendment Act 2000][120] (2000 No 49)
     
-    Health and Disability Services (Safety) Act 2001 (2001 No 93): [section 58(1)][92]
+    Interpretation Act 1999 (1999 No 85): [section 38(1)][109]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][105]
+    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][53]
     
-    [Adoption Amendment Act 2000][119] (2000 No 49)
+    Adoption (Intercountry) Act 1997 (1997 No 109): [sections 25--28][77]
     
-    Interpretation Act 1999 (1999 No 85): [section 38(1)][107]
+    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 95][71]
     
-    Department of Child, Youth and Family Services Act 1999 (1999 No 82): [section 13][52]
+    [Adoption Amendment Act 1995][121] (1995 No 4)
     
-    Adoption (Intercountry) Act 1997 (1997 No 109): [sections 25--28][76]
+    Child Support Act 1991 (1991 No 142): [section 243][75]
     
-    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [section 95][70]
+    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][103]
     
-    [Adoption Amendment Act 1995][120] (1995 No 4)
-    
-    Child Support Act 1991 (1991 No 142): [section 243][74]
-    
-    Regulations (Disallowance) Act 1989 (1989 No 143): [section 11][101]
-    
-    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 450(1)][61]
+    Children, Young Persons, and Their Families Act 1989 (1989 No 24): [section 450(1)][62]
     
     Adoption Amendment Act 1987 (1987 No 19)
     
     Constitution Act 1986 (1986 No 114): [section 29(2)][46]
     
-    Adult Adoption Information Act 1985 (1985 No 127): [section 15][85]
+    Adult Adoption Information Act 1985 (1985 No 127): [section 15][86]
     
-    Family Courts Act 1980 (1980 No 161): [section 17(1)][55]
+    Family Courts Act 1980 (1980 No 161): [section 17(1)][56]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][63]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][64]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][59]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][60]
     
-    Citizenship Act 1977 (1977 No 61): [section 30(2)][72]
+    Citizenship Act 1977 (1977 No 61): [section 30(2)][73]
     
-    Domicile Act 1976 (1976 No 17): [section 14(2)][73]
+    Domicile Act 1976 (1976 No 17): [section 14(2)][74]
     
-    Department of Social Welfare Act 1971 (1971 No 60): [section 23(1), (2), (4)(b)][54]
+    Department of Social Welfare Act 1971 (1971 No 60): [section 23(1), (2), (4)(b)][55]
     
-    Age of Majority Act 1970 (1970 No 137): [section 6][53]
+    Age of Majority Act 1970 (1970 No 137): [section 6][54]
     
-    Status of Children Act 1969 (1969 No 18): [section 12(2)][56]
+    Status of Children Act 1969 (1969 No 18): [section 12(2)][57]
     
     Mental Health Act 1969 (1969 No 16): section 129(4), (7)
     
     Adoption Amendment Act 1965 (1965 No 32)
     
-    [Adoption Amendment Act 1962][121] (1962 No 134)
+    [Adoption Amendment Act 1962][122] (1962 No 134)
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1955/0093/latest/whole.html#DLM292663
 [2]: http://www.legislation.govt.nz/act/public/1955/0093/latest/whole.html#DLM292665
 [3]: http://www.legislation.govt.nz/act/public/1955/0093/latest/whole.html#DLM292666
@@ -1362,73 +1335,74 @@ _Amendment(s) incorporated in the [Act(s)][111]_.
 [49]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM129718
 [50]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM228623
 [51]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341182
-[52]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31416
-[53]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM396805
-[54]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM405016
-[55]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM43501
-[56]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM391030
-[57]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359344
-[58]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM317988
-[59]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM35049
-[60]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM317232
-[61]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM155092
-[62]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM246283
-[63]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM35085
-[64]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265568
-[65]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341184
-[66]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341185
-[67]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM443683
-[68]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM253517
-[69]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM253561
-[70]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM364790
-[71]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM323476
-[72]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM444037
-[73]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM438780
-[74]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM257701
-[75]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM422493
-[76]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423058
-[77]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341186
-[78]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341187
-[79]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1230109
-[80]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2061203
-[81]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359378
-[82]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM292027
-[83]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM323384
-[84]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM80568
-[85]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM80590
-[86]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1048943
-[87]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75089
-[88]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75090
-[89]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM119974
-[90]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423035
-[91]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423020
-[92]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM120905
-[93]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423061
-[94]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423062
-[95]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314948
-[96]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423063
-[97]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314949
-[98]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328024
-[99]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328038
-[100]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328042
-[101]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195558
-[102]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM146607
-[103]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM244468
-[104]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM42296
-[105]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM76831
-[106]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31458
-[107]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31885
-[108]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265835
-[109]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM228224
-[110]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM246253
-[111]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265526
-[112]: http://www.pco.parliament.govt.nz/reprints/
-[113]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195439
-[114]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[115]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195468
-[116]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195470
-[117]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314942
-[118]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1230100
-[119]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75083
-[120]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359338
-[121]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341176
+[52]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM5045103
+[53]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31416
+[54]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM396805
+[55]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM405016
+[56]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM43501
+[57]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM391030
+[58]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359344
+[59]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM317988
+[60]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM35049
+[61]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM317232
+[62]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM155092
+[63]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM246283
+[64]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM35085
+[65]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265568
+[66]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341184
+[67]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341185
+[68]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM443683
+[69]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM253517
+[70]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM253561
+[71]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM364790
+[72]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM323476
+[73]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM444037
+[74]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM438780
+[75]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM257701
+[76]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM422493
+[77]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423058
+[78]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341186
+[79]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341187
+[80]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1230109
+[81]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2061203
+[82]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359378
+[83]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM292027
+[84]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM323384
+[85]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM80568
+[86]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM80590
+[87]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1048943
+[88]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75089
+[89]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75090
+[90]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM119974
+[91]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423035
+[92]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423020
+[93]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM120905
+[94]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423061
+[95]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423062
+[96]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3360714
+[97]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM423063
+[98]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314948
+[99]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314949
+[100]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328024
+[101]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328038
+[102]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM328042
+[103]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM195558
+[104]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM146607
+[105]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM244468
+[106]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM42296
+[107]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM76831
+[108]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31458
+[109]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM31885
+[110]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265835
+[111]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM228224
+[112]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM246253
+[113]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM265526
+[114]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2998516
+[115]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2998515
+[116]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM2998532
+[117]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[118]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM3314942
+[119]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM1230100
+[120]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM75083
+[121]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM359338
+[122]: http://www.legislation.govt.nz/act/public/1955/0093/latest/link.aspx?id=DLM341176
