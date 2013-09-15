@@ -1,5 +1,5 @@
 Reprint  
-as at 25 February 2012
+as at 19 August 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -13,9 +13,9 @@ Commencementsee section 1(2)
 
 ###### Note
 
-Changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in this reprint.
+Changes authorised by [subpart 2][0] of Part 2 of the Legislation Act 2012 have been made in this reprint.
 
-A general outline of these changes is set out in the notes at the end of this reprint, together with other explanatory material about this reprint.
+Note 4 at the end of this reprint provides a list of the amendments incorporated.
 
 This Act is administered by the Ministry of Justice.
 
@@ -66,7 +66,7 @@ This Act is administered by the Ministry of Justice.
 
 [15][20][][20][Marriage of persons within prohibited degrees of relationship void][20]
 
-[16][21][][21][Validation of certain marriages already solemnized][21]
+[16][21][][21][Validation of certain marriages already solemnised][21]
 
 [17][22][][22][Marriage of persons under 16 years of age][22]
 
@@ -95,12 +95,12 @@ This Act is administered by the Ministry of Justice.
 
 [28][34][][34][Registrar to issue licence unless satisfied marriage unlawful][34]
 
-[29][35][][35][Licence authorizes but not obliges marriage celebrant to solemnize marriage][35]
+[29][35][][35][Licence authorises but not obliges marriage celebrant to solemnise marriage][35]
 
 [Part 5][36]  
-[Solemnization of marriage][36]
+[Solemnisation of marriage][36]
 
-[30][37][][37][When marriage may be solemnized][37]
+[30][37][][37][When marriage may be solemnised][37]
 
 [31][38][][38][Place and form of marriage before marriage celebrant][38]
 
@@ -150,7 +150,7 @@ This Act is administered by the Ministry of Justice.
 
 [44][60][][60][Validity of service marriages][60]
 
-[45][61][][61][Record of service marriages solemnized outside New Zealand][61] \[Repealed\]
+[45][61][][61][Record of service marriages solemnised outside New Zealand][61] \[Repealed\]
 
 [46][62][][62][Special register of service marriages][62] \[Repealed\]
 
@@ -187,15 +187,15 @@ This Act is administered by the Ministry of Justice.
 
 [55A][78][][78][Recording of changes of name in marriage record book][78] \[Repealed\]
 
-[56][79][][79][Offence to deny or impugn validity of lawful marriage][79]
+[56][79][][79][Offence to deny or impugn validity of lawful marriage][79] \[Repealed\]
 
 [57][80][][80][Offence to alter register book without authority][80]
 
-[58][81][][81][Offence to solemnize marriage contrary to provisions of this Act][81]
+[58][81][][81][Offence to solemnise marriage contrary to provisions of this Act][81]
 
-[59][82][][82][Offence to solemnize marriage falsely pretending to be marriage celebrant][82]
+[59][82][][82][Offence to solemnise marriage falsely pretending to be marriage celebrant][82]
 
-[60][83][][83][Offences in connection with false statements and improper solemnization of marriages][83]
+[60][83][][83][Offences in connection with false statements and improper solemnisation of marriages][83]
 
 [61][84][][84][Offences generally][84] \[Repealed\]
 
@@ -217,7 +217,7 @@ This Act is administered by the Ministry of Justice.
 [Religious bodies][92]
 
 [Schedule 2][93]  
-[Forbidden marriages][93]
+[Prohibited degrees of marriage][93]
 
 [Schedule 3][94]  
 [Enactments repealed][94]
@@ -244,6 +244,8 @@ Preliminary
     
     _Commonwealth country_ includes a territory for whose international relations the Government of a Commonwealth country is responsible
     
+    _marriage_ means the union of 2 people, regardless of their sex, sexual orientation, or gender identity
+    
     _marriage celebrant_ means a person authorised to act as a marriage celebrant under this Act
     
     _Minister_ means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -262,19 +264,21 @@ Preliminary
     
     Section 2: replaced, on 1 September 1995, by [section 92][99] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 2(1) **Minister**: inserted, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 2(1) **marriage**: inserted, on 19 August 2013, by [section 5][100] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
     
-    Section 2(1) **minor**: inserted, on 26 April 2005, by [section 3][101] of the Marriage Amendment Act 2005 (2005 No 15).
+    Section 2(1) **Minister**: inserted, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 2(1) **service marriage** paragraph (b): amended, on 24 January 2009, by [section 47][102] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **minor**: inserted, on 26 April 2005, by [section 3][102] of the Marriage Amendment Act 2005 (2005 No 15).
     
-    Section 2(2): amended, on 24 January 2009, by [section 47][102] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    Section 2(1) **service marriage** paragraph (b): amended, on 24 January 2009, by [section 47][103] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
+    
+    Section 2(2): amended, on 24 January 2009, by [section 47][103] of the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48).
 
 ##### 3 Application of Act
     
-*   (1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnized in New Zealand or elsewhere.
+*   (1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnised in New Zealand or elsewhere.
     
-    (2) The provisions of this Act, so far as they relate to the formalities of marriage, including the provisions relating to consents to the marriage of minors, shall apply to any marriage solemnized in New Zealand, and to any marriage solemnized under [section 44][60], whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
+    (2) The provisions of this Act, so far as they relate to the formalities of marriage, including the provisions relating to consents to the marriage of minors, shall apply to any marriage solemnised in New Zealand, and to any marriage solemnised under [section 44][60], whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
 
 ##### 4 Registrar-General and Deputy Registrar-General
     
@@ -290,18 +294,18 @@ Preliminary
     
 *   \[Repealed\]
     
-    Section 5: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 5: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 6 Fact of deputies acting conclusive evidence of authority to do so
     
 *   \[Repealed\]
     
-    Section 6: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 6: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ## Part 2  
 Marriage celebrants
     
-*   Part 2 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+*   Part 2 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 7 List of marriage celebrants
     
@@ -313,23 +317,23 @@ Marriage celebrants
     
     Compare: 1908 No 113 s 14
     
-    Section 7 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 7 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 7(1): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 7(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 7(2): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 7(2): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 8 Marriage celebrants of specified religious bodies
     
 *   (1) Subject to the provisions of subsections (2) and (3), there shall be entered in the list the name of any minister of religion which has been sent to the Registrar-General by any of the religious bodies enumerated in [Schedule 1][92].
     
-    (2) The name of any minister of religion which has been sent to the Registrar-General as aforesaid shall be accompanied by a certificate to the effect that the minister is recognized by the religious body as a minister of religion of that body.
+    (2) The name of any minister of religion which has been sent to the Registrar-General as aforesaid shall be accompanied by a certificate to the effect that the minister is recognised by the religious body as a minister of religion of that body.
     
-    (3) The certificate shall be signed by the person or persons within New Zealand in whom ecclesiastical authority over the religious body is for the time being vested, or reputed to be vested, or, if there is no such person, by 2 duly recognized office bearers of the religious body.
+    (3) The certificate shall be signed by the person or persons within New Zealand in whom ecclesiastical authority over the religious body is for the time being vested, or reputed to be vested, or, if there is no such person, by 2 duly recognised office bearers of the religious body.
     
     Compare: 1908 No 113 s 9
     
-    Section 8 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 8 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 9 Approval of organisations
     
@@ -391,15 +395,15 @@ Marriage celebrants
     
     the Minister may, by notice in the _Gazette_, cancel the approval of that organisation; and on the date of the publication of that notice that organisation shall cease to be an approved organisation.
     
-    (8) Every religious body not enumerated in [Schedule 1][92] of which a member was an officiating minister immediately before the commencement of the [Marriage Amendment Act 1976][105] is hereby declared to be an approved organisation.
+    (8) Every religious body not enumerated in [Schedule 1][92] of which a member was an officiating minister immediately before the commencement of the [Marriage Amendment Act 1976][106] is hereby declared to be an approved organisation.
     
-    Section 9: replaced, on 1 January 1977, by [section 3(1)][106] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 9: replaced, on 1 January 1977, by [section 3(1)][107] of the Marriage Amendment Act 1976 (1976 No 8).
     
     Section 9(4): replaced, on 6 November 1986, by section 2(1) of the Marriage Amendment Act 1986 (1986 No 97).
     
     Section 9(4A): inserted, on 6 November 1986, by section 2(1) of the Marriage Amendment Act 1986 (1986 No 97).
     
-    Section 9(4A): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 9(4A): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 9(5): repealed, on 6 November 1986, by section 2(1) of the Marriage Amendment Act 1986 (1986 No 97).
     
@@ -411,9 +415,9 @@ Marriage celebrants
     
     Section 9(6C): inserted, on 8 March 1985, by section 3 of the Marriage Amendment Act 1985 (1985 No 27).
     
-    Section 9(6C): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 9(6C): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
-    Section 9(6C)(d): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 9(6C)(d): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 9(6C)(d): amended, on 6 November 1986, by section 2(2)(a) of the Marriage Amendment Act 1986 (1986 No 97).
     
@@ -421,11 +425,11 @@ Marriage celebrants
     
     Section 9(7): replaced, on 8 March 1985, by section 3 of the Marriage Amendment Act 1985 (1985 No 27).
     
-    Section 9(7): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 9(7): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 9(7): amended, on 6 November 1986, by section 2(2)(d) of the Marriage Amendment Act 1986 (1986 No 97).
     
-    Section 9(7)(a): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 9(7)(a): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
     
     Section 9(7)(a)(i): amended, on 6 November 1986, by section 2(2)(b) of the Marriage Amendment Act 1986 (1986 No 97).
     
@@ -441,9 +445,9 @@ Marriage celebrants
     
     (4) If the Registrar-General fails or refuses to enter in the list the name of any person nominated pursuant to this section he shall, if required to do so by any signatory to the certificate accompanying the person's nomination, refer the nomination to the Minister, who may direct the Registrar-General to enter the person's name in the list, and in that case the Registrar-General shall forthwith enter the person's name in the list.
     
-    Section 10: replaced, on 1 January 1977, by [section 3(1)][106] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 10: replaced, on 1 January 1977, by [section 3(1)][107] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 10(4): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 10(4): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 11 Other persons may be marriage celebrants
     
@@ -467,11 +471,11 @@ Marriage celebrants
         
         
     
-    *   (b) the applicant will conscientiously perform the duties of a marriage celebrant under this Act and under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][107]; and
+    *   (b) the applicant will conscientiously perform the duties of a marriage celebrant under this Act and under the [Births, Deaths, Marriages, and Relationships Registration Act 1995][108]; and
     
     *   (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be a marriage celebrant.
     
-    Section 11: replaced, on 7 July 2010, by [section 4][108] of the Marriage Amendment Act 2010 (2010 No 71).
+    Section 11: replaced, on 7 July 2010, by [section 4][109] of the Marriage Amendment Act 2010 (2010 No 71).
 
 ##### 12 Renewal of list
     
@@ -479,7 +483,7 @@ Marriage celebrants
     
     Compare: 1908 No 113 s 12
     
-    Section 12: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 12: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 13 Removal of names from list
     
@@ -503,9 +507,9 @@ Marriage celebrants
     
     he may direct the Registrar-General to remove the name of that marriage celebrant from the list, and the Registrar-General shall remove the name from the list and shall publish in the _Gazette_ a correction to that effect.
     
-    Section 13: replaced, on 1 January 1977, by [section 4][109] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 13: replaced, on 1 January 1977, by [section 4][110] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 13(2): amended, on 1 October 1995, by [section 10(3)][100] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
+    Section 13(2): amended, on 1 October 1995, by [section 10(3)][101] of the Department of Justice (Restructuring) Act 1995 (1995 No 39).
 
 ##### 14 Evidence of list or correction to list
     
@@ -515,13 +519,13 @@ Marriage celebrants
     
     Compare: 1908 No 113 s 16
     
-    Section 14(1): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 14(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 14A This Part not to limit sections 32 and 32A
     
 *   Nothing in this Part limits [sections 32][39] and 32A (which exempt the Quakers and certain other religious bodies from observing requirements in [Part 5][36] relating to the solemnisation of marriage in the presence of marriage celebrants).
     
-    Section 14A: inserted, on 1 January 2002, by [section 60][110] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 14A: inserted, on 1 January 2002, by [section 60][111] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ## Part 3  
 Restrictions on marriage
@@ -538,13 +542,13 @@ Restrictions on marriage
     
     Compare: 1946 No 8 s 9
     
-    Section 15(2): amended, on 1 April 1980, pursuant to [section 12][111] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 15(2): amended, on 1 April 1980, pursuant to [section 12][112] of the Judicature Amendment Act 1979 (1979 No 124).
 
-##### 16 Validation of certain marriages already solemnized
+##### 16 Validation of certain marriages already solemnised
     
-*   All marriages solemnized before the commencement of this Act that by virtue of [section 15][20] would have been valid and lawful if this Act had been in force when they were solemnized shall be deemed to have been and to be valid and lawful, and the issue born of any such marriage (whether born before or after the commencement of this Act) shall be deemed to have been born in lawful wedlock:
+*   All marriages solemnised before the commencement of this Act that by virtue of [section 15][20] would have been valid and lawful if this Act had been in force when they were solemnised shall be deemed to have been and to be valid and lawful, and the issue born of any such marriage (whether born before or after the commencement of this Act) shall be deemed to have been born in lawful wedlock:
     
-    provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnization of the second marriage:
+    provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnisation of the second marriage:
     
     provided also that this section shall not affect any estate, right, or interest in any real or personal property to which any person has become absolutely entitled before the commencement of this Act, or affect any proceedings commenced in any court before the commencement of this Act, or any decree, order, or judgment made or given (whether before or after the commencement of this Act) in any such proceedings.
     
@@ -552,17 +556,17 @@ Restrictions on marriage
 
 ##### 17 Marriage of persons under 16 years of age
     
-*   (1) A marriage licence shall not be issued by any Registrar and no marriage shall be solemnized by any Registrar or marriage celebrant if either of the persons intending marriage is under the age of 16 years on the date of the notice of the intended marriage given under [section 23][29].
+*   (1) A marriage licence shall not be issued by any Registrar and no marriage shall be solemnised by any Registrar or marriage celebrant if either of the persons intending marriage is under the age of 16 years on the date of the notice of the intended marriage given under [section 23][29].
     
     (2) No marriage shall be void by reason only of an infringement of the provisions of this section.
     
-    Compare: 1939 No 39 [s 41][112]
+    Compare: 1939 No 39 [s 41][113]
     
-    Section 17(1): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 17(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 18 Consent to marriage of minors
     
-*   (1) If either of the parties to an intended marriage is a minor, the Registrar shall not issue a licence authorizing the marriage or solemnize the marriage unless it has been consented to in accordance with this section.
+*   (1) If either of the parties to an intended marriage is a minor, the Registrar shall not issue a licence authorising the marriage or solemnise the marriage unless it has been consented to in accordance with this section.
     
     (2) Subject to the provisions of this section, consents to the marriage of a minor shall be obtained in accordance with the following provisions:
         
@@ -596,15 +600,15 @@ Restrictions on marriage
     
     Compare: 1926 No 32 s 8
     
-    Section 18(1): amended, on 26 April 2005, by [section 4][113] of the Marriage Amendment Act 2005 (2005 No 15).
+    Section 18(1): amended, on 26 April 2005, by [section 4][114] of the Marriage Amendment Act 2005 (2005 No 15).
     
-    Section 18(2): replaced, on 1 January 1970, by [section 12(2)][114] of the Status of Children Act 1969 (1969 No 18).
+    Section 18(2): replaced, on 1 January 1970, by [section 12(2)][115] of the Status of Children Act 1969 (1969 No 18).
     
-    Section 18(2)(c)(i): amended, on 1 April 1980, pursuant to [section 18(2)][115] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 18(2)(c)(i): amended, on 1 April 1980, pursuant to [section 18(2)][116] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 18(6): amended, on 1 July 2005, by [section 151][116] of the Care of Children Act 2004 (2004 No 90).
+    Section 18(6): amended, on 1 July 2005, by [section 151][117] of the Care of Children Act 2004 (2004 No 90).
     
-    Section 18(6): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 18(6): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 19 Application to Family Court Judge where consent refused
     
@@ -616,19 +620,19 @@ Restrictions on marriage
     
     Compare: 1926 No 32 s 8
     
-    Section 19 heading: amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 19 heading: amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 19(1): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 19(1): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 19(2): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 19(2): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 19(2) proviso: amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 19(2) proviso: amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 20 General provisions relating to consents
     
 *   (1) Every consent under [section 18][23] shall be in writing witnessed by some person who, if resident in New Zealand, shall add his occupation and address, and the consent shall be delivered to the Registrar to whom notice of the intended marriage is given.
     
-    (2) Any consent given under [section 18][23] may, by notice in writing signed by the person giving his consent, be withdrawn at any time before the Registrar issues the marriage licence or solemnizes the marriage, as the case may be.
+    (2) Any consent given under [section 18][23] may, by notice in writing signed by the person giving his consent, be withdrawn at any time before the Registrar issues the marriage licence or solemnises the marriage, as the case may be.
 
 ##### 21 Marriages without licence or marriage celebrant void
     
@@ -636,19 +640,19 @@ Restrictions on marriage
     
     Compare: 1908 No 113 s 48
     
-    Section 21 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 21 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 21: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 21: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 22 Marriages not to be void because of defects in procedure
     
-*   (1) Except as provided in [section 15][20] or in [section 21][26], no marriage shall be deemed to be void by reason of any error or defect in the notice, declaration, or licence required before solemnization, or in the registration of the marriage when solemnized where the identity of the parties is not questioned, or on account of any other infringement of the provisions of this Act.
+*   (1) Except as provided in [section 15][20] or in [section 21][26], no marriage shall be deemed to be void by reason of any error or defect in the notice, declaration, or licence required before solemnisation, or in the registration of the marriage when solemnised where the identity of the parties is not questioned, or on account of any other infringement of the provisions of this Act.
     
     (2) Nothing in this section shall exempt any marriage celebrant, Registrar, or other person who does anything contrary to the provisions of this Act from any penalty for any offence under this Act committed by any such person.
     
     Compare: 1908 No 113 s 47
     
-    Section 22(2): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 22(2): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ## Part 4  
 Formalities preliminary to marriage
@@ -685,9 +689,9 @@ Formalities preliminary to marriage
     
     a Registrar may issue a marriage licence and marriage return forms before the third day after the day the notice concerned was given.
     
-    Section 24: replaced, on 1 September 1995, by [section 93][118] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 24: replaced, on 1 September 1995, by [section 93][119] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 24(1A): inserted, on 7 May 1999, by [section 2][119] of the Marriage Amendment Act 1999 (1999 No 38).
+    Section 24(1A): inserted, on 7 May 1999, by [section 2][120] of the Marriage Amendment Act 1999 (1999 No 38).
 
 ##### 25 Caveats may be lodged
     
@@ -697,13 +701,13 @@ Formalities preliminary to marriage
     
     (3) Notice of any caveat may be given to any Registrar other than the Registrar with whom it was lodged. The notice shall be in writing signed by or on behalf of the caveator, and shall state his full name and residential address, the date and place of lodgment of the caveat, and the grounds of objection on which the caveat is founded.
     
-    (4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by [section 26][32], no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnize the marriage.
+    (4) Until the caveat has been withdrawn by the caveator or has been discharged as provided by [section 26][32], no licence in respect of the marriage of the person to whom the caveat relates shall be issued by any Registrar with whom the caveat has been lodged or to whom notice of the caveat has been given in accordance with this section, and no such Registrar shall solemnise the marriage.
     
     Compare: 1908 No 113 s 22
 
 ##### 26 Discharge of caveat
     
-*   (1) On receiving notice under [section 23][29] of an intended marriage against which he is aware that a caveat has been lodged, the Registrar shall submit the caveat to a Family Court Judge, or, if a Family Court Judge is not immediately available, to a District Court Judge who shall forthwith inquire into the grounds of objection stated in the caveat, and, if he is of the opinion that those grounds should not prevent the solemnization of the marriage, he shall discharge the caveat.
+*   (1) On receiving notice under [section 23][29] of an intended marriage against which he is aware that a caveat has been lodged, the Registrar shall submit the caveat to a Family Court Judge, or, if a Family Court Judge is not immediately available, to a District Court Judge who shall forthwith inquire into the grounds of objection stated in the caveat, and, if he is of the opinion that those grounds should not prevent the solemnisation of the marriage, he shall discharge the caveat.
     
     (2) A caveat shall be deemed to be discharged after the expiration of 1 year from the date on which it was lodged unless within that time a notice of the intended marriage to which the caveat relates has been given.
     
@@ -711,9 +715,9 @@ Formalities preliminary to marriage
     
     Compare: 1908 No 113 s 22(2)
     
-    Section 26(1): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 26(1): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
     
-    Section 26(3): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 26(3): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
 
 ##### 27 Vexatious caveat
     
@@ -723,42 +727,46 @@ Formalities preliminary to marriage
 
 ##### 28 Registrar to issue licence unless satisfied marriage unlawful
     
-*   A Registrar shall issue a marriage licence or solemnize a marriage, as the case may be, unless he has reasonable cause to believe that the marriage is prohibited by this Act or that any of the requirements of this Act have not been complied with:
+*   A Registrar shall issue a marriage licence or solemnise a marriage, as the case may be, unless he has reasonable cause to believe that the marriage is prohibited by this Act or that any of the requirements of this Act have not been complied with:
     
     provided that no Registrar shall be required to solemnise a marriage at a time or on a day when his office is not ordinarily open for the transaction of public business under this Act unless he has agreed to do so.
     
     Compare: 1908 No 113 s 25
     
-    Section 28 proviso: inserted, on 1 January 1977, by [section 7(2)][120] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 28 proviso: inserted, on 1 January 1977, by [section 7(2)][121] of the Marriage Amendment Act 1976 (1976 No 8).
 
-##### 29 Licence authorizes but not obliges marriage celebrant to solemnize marriage
+##### 29 Licence authorises but not obliges marriage celebrant to solemnise marriage
     
-*   A marriage licence shall authorize but not oblige any marriage celebrant to solemnize the marriage to which it relates.
+*   (1) A marriage licence shall authorise but not oblige any marriage celebrant to solemnise the marriage to which it relates.
+    
+    (2) Without limiting the generality of subsection (1), no celebrant who is a minister of religion recognised by a religious body enumerated in [Schedule 1][92], and no celebrant who is a person nominated to solemnise marriages by an approved organisation, is obliged to solemnise a marriage if solemnising that marriage would contravene the religious beliefs of the religious body or the religious beliefs or philosophical or humanitarian convictions of the approved organisation.
     
     Compare: 1908 No 113 s 28
     
-    Section 29 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 29 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 29: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 29(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
+    
+    Section 29(2): inserted, on 19 August 2013, by [section 6][122] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 ## Part 5  
-Solemnization of marriage
+Solemnisation of marriage
 
-##### 30 When marriage may be solemnized
+##### 30 When marriage may be solemnised
     
-*   (1) A marriage shall not be solemnized by a marriage celebrant until the marriage licence issued in respect of the marriage has been delivered to him.
+*   (1) A marriage shall not be solemnised by a marriage celebrant until the marriage licence issued in respect of the marriage has been delivered to him.
     
-    (2) A marriage shall not be solemnized after the expiration of 3 months from the date of the licence issued in respect of the marriage.
+    (2) A marriage shall not be solemnised after the expiration of 3 months from the date of the licence issued in respect of the marriage.
     
-    (3) A marriage shall not be solemnized by a Registrar before the third day after notice of the intended marriage has been given to him:
+    (3) A marriage shall not be solemnised by a Registrar before the third day after notice of the intended marriage has been given to him:
     
-    provided that the Registrar, if he is satisfied that the marriage is not prohibited by this Act, that the requirements of this Act have been complied with, and that inconvenience would otherwise be caused to the persons intending marriage, may solemnize the marriage before that day.
+    provided that the Registrar, if he is satisfied that the marriage is not prohibited by this Act, that the requirements of this Act have been complied with, and that inconvenience would otherwise be caused to the persons intending marriage, may solemnise the marriage before that day.
     
-    (4) A marriage shall not be solemnized by a Registrar after the expiration of 3 months from the date when notice of the intended marriage was given to him, or, where a caveat has been lodged, after the expiration of 3 months from the date when the caveat was withdrawn or discharged.
+    (4) A marriage shall not be solemnised by a Registrar after the expiration of 3 months from the date when notice of the intended marriage was given to him, or, where a caveat has been lodged, after the expiration of 3 months from the date when the caveat was withdrawn or discharged.
     
     Compare: 1908 No 113 s 31
     
-    Section 30(1): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 30(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 31 Place and form of marriage before marriage celebrant
     
@@ -794,27 +802,27 @@ Solemnization of marriage
     
     *   (b) an organisation approved under [section 9][12] as an organisation that may nominate marriage celebrants.
     
-    Section 31: replaced, on 1 January 1977, by [section 6][121] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 31: replaced, on 1 January 1977, by [section 6][123] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 31(2): amended, on 7 May 1999, by [section 3][122] of the Marriage Amendment Act 1999 (1999 No 38).
+    Section 31(2): amended, on 7 May 1999, by [section 3][124] of the Marriage Amendment Act 1999 (1999 No 38).
     
     Section 31(2): amended, on 15 December 1994, by section 2(1) of the Marriage Amendment Act 1994 (1994 No 153).
     
-    Section 31(3): replaced, on 1 January 2002, by [section 59][123] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 31(3): replaced, on 1 January 2002, by [section 59][125] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 31(4): inserted, on 1 January 2002, by [section 59][123] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 31(4): inserted, on 1 January 2002, by [section 59][125] of the Human Rights Amendment Act 2001 (2001 No 96).
     
-    Section 31(5): inserted, on 1 January 2002, by [section 59][123] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 31(5): inserted, on 1 January 2002, by [section 59][125] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 32 Marriage of Quakers
     
-*   (1) The provisions of this Part relating to the solemnization of marriages in the presence of a marriage celebrant shall not extend, and shall be deemed not to have extended, to any marriage solemnized (whether before or after the commencement of this Act) in accordance with the marriage regulations of the religious Society of Friends, commonly called Quakers, or in accordance with those regulations except so far as the regulations may require that marriages be solemnized at a place where public meetings for worship are regularly held:
+*   (1) The provisions of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant shall not extend, and shall be deemed not to have extended, to any marriage solemnised (whether before or after the commencement of this Act) in accordance with the marriage regulations of the religious Society of Friends, commonly called Quakers, or in accordance with those regulations except so far as the regulations may require that marriages be solemnised at a place where public meetings for worship are regularly held:
     
-    provided that no such marriage shall be solemnized unless a marriage licence has been issued:
+    provided that no such marriage shall be solemnised unless a marriage licence has been issued:
     
     provided also that every such marriage shall be solemnised at a place stated in the marriage licence.
     
-    (2) Every marriage to which this section applies shall be as valid as if solemnized under this Act before a marriage celebrant, and accordingly shall, for the purposes of this Act, wherever necessary be deemed to have been so solemnized.
+    (2) Every marriage to which this section applies shall be as valid as if solemnised under this Act before a marriage celebrant, and accordingly shall, for the purposes of this Act, wherever necessary be deemed to have been so solemnised.
     
     (3) \[Repealed\]
     
@@ -822,17 +830,17 @@ Solemnization of marriage
     
     (5) Nothing in this section shall be construed to limit in any way the provisions of [section 22][27] as to the validity of marriages.
     
-    Compare: 1940 No 18 [s 30][124]
+    Compare: 1940 No 18 [s 30][126]
     
-    Section 32(1): amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 32(1): amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 32(1) second proviso: replaced, on 1 January 1977, by [section 5(2)][125] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 32(1) second proviso: replaced, on 1 January 1977, by [section 5(2)][127] of the Marriage Amendment Act 1976 (1976 No 8).
     
     Section 32(1) second proviso: amended, on 15 December 1994, by section 2(2) of the Marriage Amendment Act 1994 (1994 No 153).
     
-    Section 32(3): repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 32(3): repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
     
-    Section 32(4): repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 32(4): repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 32A Marriage in accordance with rules and procedures of exempt religious bodies
     
@@ -850,7 +858,7 @@ Solemnization of marriage
     
     (5) In this section and in [sections 32B to 32E][41], an _exempt religious body_ is a body that is exempted by the Registrar-General under [section 32C][42] from observing the requirements of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant.
     
-    Section 32A: inserted, on 1 January 2002, by [section 61][126] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 32A: inserted, on 1 January 2002, by [section 61][128] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 32B Application to become exempt religious body
     
@@ -878,7 +886,7 @@ Solemnization of marriage
     
     *   (b) the signatures of the signatories are attested by another person who must, by statutory declaration attached to the statement, verify the signatures as the genuine signatures of the persons whose signatures they purport to be.
     
-    Section 32B: inserted, on 1 January 2002, by [section 61][126] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 32B: inserted, on 1 January 2002, by [section 61][128] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 32C Declaration of religious body as exempt religious body
     
@@ -904,7 +912,7 @@ Solemnization of marriage
     
     (4) A declaration under this section that a religious body is an exempt religious body must be made by way of notice in the _Gazette_.
     
-    Section 32C: inserted, on 1 January 2002, by [section 61][126] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 32C: inserted, on 1 January 2002, by [section 61][128] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 32D Change in beliefs or objects of exempt religious bodies
     
@@ -942,7 +950,7 @@ Solemnization of marriage
     
     (7) If subsection (6) applies, the Minister may, by notice in the _Gazette_, cancel the exemption of the religious body referred to in subsection (6), and on the date of the publication of that notice that body ceases to be an exempt religious body.
     
-    Section 32D: inserted, on 1 January 2002, by [section 61][126] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 32D: inserted, on 1 January 2002, by [section 61][128] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 32E List of exempt religious bodies
     
@@ -958,7 +966,7 @@ Solemnization of marriage
     
     (4) The Registrar-General must specify in each list published in the _Gazette_ a date on which the list comes into force, and on that date all previous lists and all corrections and additions to any previous list are cancelled and of no effect.
     
-    Section 32E: inserted, on 1 January 2002, by [section 61][126] of the Human Rights Amendment Act 2001 (2001 No 96).
+    Section 32E: inserted, on 1 January 2002, by [section 61][128] of the Human Rights Amendment Act 2001 (2001 No 96).
 
 ##### 33 Marriages before Registrar
     
@@ -974,9 +982,9 @@ Solemnization of marriage
     
     or words to similar effect.
     
-    Section 33: replaced, on 1 January 1977, by [section 7(1)][120] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 33: replaced, on 1 January 1977, by [section 7(1)][121] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 33(1): amended, on 7 May 1999, by [section 4][127] of the Marriage Amendment Act 1999 (1999 No 38).
+    Section 33(1): amended, on 7 May 1999, by [section 4][129] of the Marriage Amendment Act 1999 (1999 No 38).
     
     Section 33(1): amended, on 15 December 1994, by section 3 of the Marriage Amendment Act 1994 (1994 No 153).
 
@@ -984,19 +992,19 @@ Solemnization of marriage
     
 *   With his prior consent, notice of an intended marriage may be given to the Registrar-General or Deputy Registrar-General, and the marriage may be solemnised before him, in the same manner and subject to the same requirements and conditions as if he were a Registrar.
     
-    Section 33A: inserted, on 1 January 1977, by [section 8][128] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 33A: inserted, on 1 January 1977, by [section 8][130] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 34 Proxy marriages
     
-*   (1) Notwithstanding the provisions of this Act, a marriage solemnized in New Zealand in the absence of 1 party to the marriage shall, if it is solemnized in accordance with this section, be lawful.
+*   (1) Notwithstanding the provisions of this Act, a marriage solemnised in New Zealand in the absence of 1 party to the marriage shall, if it is solemnised in accordance with this section, be lawful.
     
-    (2) A Family Court Judge may, on application in that behalf, authorize the marriage in New Zealand of any person who is resident in New Zealand to any person who is outside New Zealand if the Judge is satisfied that the person who is outside New Zealand is unable to come to New Zealand by reason of the existence of a state of war or armed conflict or by reason of the conditions of his service as a member of the armed forces of any Commonwealth country, or of any country for the time being allied with any Commonwealth country.
+    (2) A Family Court Judge may, on application in that behalf, authorise the marriage in New Zealand of any person who is resident in New Zealand to any person who is outside New Zealand if the Judge is satisfied that the person who is outside New Zealand is unable to come to New Zealand by reason of the existence of a state of war or armed conflict or by reason of the conditions of his service as a member of the armed forces of any Commonwealth country, or of any country for the time being allied with any Commonwealth country.
     
     (3) All the provisions of this Act shall, as far as they are applicable and with the necessary modifications, apply to any marriage to which this section relates.
     
-    (4) Regulations under this Act may prescribe the form of any marriage to which this section relates before a Registrar, the manner and form in which the assent of the absent party to any such marriage shall be given, the time during which and the circumstances in which any document signed by the absent party may be revoked and the effect of any such revocation, and such other matters as may be considered necessary in respect of the solemnization and registration of any such marriage.
+    (4) Regulations under this Act may prescribe the form of any marriage to which this section relates before a Registrar, the manner and form in which the assent of the absent party to any such marriage shall be given, the time during which and the circumstances in which any document signed by the absent party may be revoked and the effect of any such revocation, and such other matters as may be considered necessary in respect of the solemnisation and registration of any such marriage.
     
-    Section 34(2): amended, on 1 October 1981, by [section 17(1)][117] of the Family Courts Act 1980 (1980 No 161).
+    Section 34(2): amended, on 1 October 1981, by [section 17(1)][118] of the Family Courts Act 1980 (1980 No 161).
     
     Section 34(2): amended, on 24 September 1959, by section 3 of the Marriage Amendment Act 1959 (1959 No 11).
 
@@ -1007,52 +1015,54 @@ Registration of marriages
     
 *   (1) \[Repealed\]
     
-    (2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his custody, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
+    (2) Any person having lawful custody of a register book shall keep the book safely, and any such person who negligently loses the book, or wilfully or negligently destroys or defaces any entry in the book, or wilfully or negligently allows any entry in the book to be destroyed or defaced while the book is in his custody, commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     Compare: 1908 No 113 ss 36(1), 39
     
-    Section 35(1): repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 35(1): repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    
+    Section 35(2): amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 36 Particulars of marriage to be entered in register book
     
 *   \[Repealed\]
     
-    Section 36: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 36: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 37 Penalty for failing to register marriage
     
 *   \[Repealed\]
     
-    Section 37: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 37: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 37A Marriage celebrant to comply with directions of the Registrar-General with respect to registration
     
 *   \[Repealed\]
     
-    Section 37A: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 37A: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 38 Registrar-General to keep register
     
 *   \[Repealed\]
     
-    Section 38: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 38: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ## Part 7  
 Marriages out of New Zealand
 
 ##### 39 Foreign marriages of British subjects
     
-*   All marriages (whether solemnized before or after the commencement of this Act) which are valid in the United Kingdom by virtue of the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom, or by virtue of any Act of the Parliament of the United Kingdom passed in amendment of or in substitution for the Foreign Marriage Acts 1892 to 1947, shall be and shall be deemed always to have been as valid in New Zealand as if solemnized in New Zealand in accordance with this Act:
+*   All marriages (whether solemnised before or after the commencement of this Act) which are valid in the United Kingdom by virtue of the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom, or by virtue of any Act of the Parliament of the United Kingdom passed in amendment of or in substitution for the Foreign Marriage Acts 1892 to 1947, shall be and shall be deemed always to have been as valid in New Zealand as if solemnised in New Zealand in accordance with this Act:
     
-    provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnization of the second marriage:
+    provided that where either of the parties to any such marriage has thereafter during the lifetime of the other party to the marriage and before the commencement of this Act lawfully married any other person, the first marriage shall be deemed to have been dissolved immediately before the solemnisation of the second marriage:
     
     provided also that this section shall not affect any estate, right, or interest in any real or personal property to which any person has become absolutely entitled before the commencement of this Act, or affect any proceedings commenced in any court before the commencement of this Act, or any decree, order, or judgment made or given (whether before or after the commencement of this Act) in any such proceedings.
 
 ##### 40 Marriages abroad of Commonwealth citizens and citizens of Ireland
     
-*   (1) All marriages (whether solemnized before or after the commencement of this Act) at least 1 party to which is a citizen of a Commonwealth country or of the Republic of Ireland solemnized in a country other than the country of which the party is a citizen in accordance with a form authorized in that case by the law of the country of which the party is a citizen shall be as valid in New Zealand as if solemnized in New Zealand in accordance with this Act.
+*   (1) All marriages (whether solemnised before or after the commencement of this Act) at least 1 party to which is a citizen of a Commonwealth country or of the Republic of Ireland solemnised in a country other than the country of which the party is a citizen in accordance with a form authorised in that case by the law of the country of which the party is a citizen shall be as valid in New Zealand as if solemnised in New Zealand in accordance with this Act.
     
-    (2) Nothing in this section shall affect the validity of any marriage solemnized out of New Zealand in accordance with the law of the country where the marriage was solemnized.
+    (2) Nothing in this section shall affect the validity of any marriage solemnised out of New Zealand in accordance with the law of the country where the marriage was solemnised.
 
 ##### 41 Certificate of no impediment to person intending foreign marriage
     
@@ -1076,7 +1086,7 @@ Marriages out of New Zealand
     
     *   (b) the Registrar-General is satisfied that no lawful impediment to the intended marriage has been shown to exist.
     
-    Section 41: replaced, on 25 February 2012, by [section 4][129] of the Marriage Amendment Act 2012 (2012 No 13).
+    Section 41: replaced, on 25 February 2012, by [section 4][132] of the Marriage Amendment Act 2012 (2012 No 13).
 
 ##### 42 Notice of intended marriage outside New Zealand
     
@@ -1084,41 +1094,41 @@ Marriages out of New Zealand
     
     (2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration that the several particulars set forth in the notice are true and that he believes the marriage is not prohibited by [Schedule 2][93] and that there is no other lawful impediment to the marriage.
     
-    (3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnized in New Zealand.
+    (3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnised in New Zealand.
     
-    (4) The provisions of [section 25][31] relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnized in New Zealand.
+    (4) The provisions of [section 25][31] relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnised in New Zealand.
     
     (5) Subject to the provisions of subsections (2) to (4), the Registrar shall, after the expiry of 14 days from the date of giving notice, issue a certificate in the prescribed form that notice of the intended marriage has been given.
     
     Compare: 1915 No 25 s 6
     
-    Section 42(3): amended, on 1 January 1971, by [section 6][130] of the Age of Majority Act 1970 (1970 No 137).
+    Section 42(3): amended, on 1 January 1971, by [section 6][133] of the Age of Majority Act 1970 (1970 No 137).
 
 ##### 43 New Zealand representative may attend marriage abroad of New Zealand citizen and give certificate
     
-*   (1) Any New Zealand representative who has attended the marriage of a New Zealand citizen in a country other than New Zealand and is satisfied that the marriage has been solemnized in accordance with the formalities of the law of that other country may give a certificate in the prescribed form and shall forward a duplicate copy of the certificate to the Registrar-General.
+*   (1) Any New Zealand representative who has attended the marriage of a New Zealand citizen in a country other than New Zealand and is satisfied that the marriage has been solemnised in accordance with the formalities of the law of that other country may give a certificate in the prescribed form and shall forward a duplicate copy of the certificate to the Registrar-General.
     
     (2) \[Repealed\]
     
-    Section 43(2): repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 43(2): repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 44 Validity of service marriages
     
 *   A service marriage shall be deemed to have been and to be as valid as if it had been solemnised in New Zealand in accordance with the provisions of this Act.
     
-    Section 44: replaced, on 1 September 1995, by [section 94][131] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 44: replaced, on 1 September 1995, by [section 94][134] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
-##### 45 Record of service marriages solemnized outside New Zealand
+##### 45 Record of service marriages solemnised outside New Zealand
     
 *   \[Repealed\]
     
-    Section 45: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 45: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 46 Special register of service marriages
     
 *   \[Repealed\]
     
-    Section 46: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 46: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ## Part 8  
 General
@@ -1127,131 +1137,129 @@ General
     
 *   \[Repealed\]
     
-    Section 47: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 47: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 48 Search of records of Registrar
     
 *   \[Repealed\]
     
-    Section 48: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 48: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 49 Search of records of Registrar-General
     
 *   \[Repealed\]
     
-    Section 49: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 49: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 49A Disclosure of information to Department of Social Welfare
     
 *   \[Repealed\]
     
-    Section 49A: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 49A: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 49B Registrar-General may authorise access to information
     
 *   \[Repealed\]
     
-    Section 49B: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 49B: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 49C Limitations on access
     
 *   \[Repealed\]
     
-    Section 49C: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 49C: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 49D Health or demographic research or collection of statistics
     
 *   \[Repealed\]
     
-    Section 49D: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 49D: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 50 Shortened form of marriage certificates
     
 *   \[Repealed\]
     
-    Section 50: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 50: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 50A Searches of Registrar-General's indexes
     
 *   \[Repealed\]
     
-    Section 50A: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 50A: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 51 Certified copies to be evidence
     
 *   \[Repealed\]
     
-    Section 51: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 51: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 52 Officers may take statutory declarations
     
 *   \[Repealed\]
     
-    Section 52: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 52: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 53 Records to be made of dissolution of marriages
     
 *   \[Repealed\]
     
-    Section 53: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 53: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 54 Convictions for bigamy to be recorded
     
 *   \[Repealed\]
     
-    Section 54: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 54: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 55 Records of dissolution of marriage or bigamy to be made in record book
     
 *   \[Repealed\]
     
-    Section 55: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 55: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 55A Recording of changes of name in marriage record book
     
 *   \[Repealed\]
     
-    Section 55A: repealed, on 1 September 1995, by [section 96][103] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
+    Section 55A: repealed, on 1 September 1995, by [section 96][104] of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16).
 
 ##### 56 Offence to deny or impugn validity of lawful marriage
     
-*   (1) Every person commits an offence against this Act, and shall be liable on summary conviction to a fine not exceeding 100 pounds, who---
-        
-    *   (a) alleges, expressly or by implication, that any persons lawfully married are not truly and sufficiently married; or
+*   \[Repealed\]
     
-    *   (b) alleges, expressly or by implication, that the issue of any lawful marriage is illegitimate or born out of true wedlock.
-    
-    (2) For the purposes of this section the term _alleges_ means making any verbal statement, or publishing or issuing any printed or written statement, or in any manner authorizing the making of any verbal statement, or in any manner authorizing or being party to the publication or issue of any printed or written statement.
-    
-    (3) A person shall not be deemed to make an allegation contrary to the provisions of this section by reason only of using in the solemnization of a marriage a form of marriage service which at the commencement of this Act was in use by the religious body to which that person belongs, or by reason only of the printing or issue of any book containing a copy of a form of marriage service in use at the commencement of this Act by any religious body.
-    
-    Compare: 1920 No 65 s 7
+    Section 56: repealed, on 19 August 2013, by [section 7][135] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
 
 ##### 57 Offence to alter register book without authority
     
-*   Any person who without the authority of the Registrar-General makes any alteration in a register book, or any person having lawful custody of a register book who permits any such alteration, commits an offence and shall be liable on summary conviction to a fine not exceeding 50 pounds.
-
-##### 58 Offence to solemnize marriage contrary to provisions of this Act
+*   Any person who without the authority of the Registrar-General makes any alteration in a register book, or any person having lawful custody of a register book who permits any such alteration, commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
-*   Every Registrar who knowingly and wilfully issues any marriage licence or solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnizes any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years, or to a fine not exceeding 300 pounds, or to both.
+    Section 57: amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
+
+##### 58 Offence to solemnise marriage contrary to provisions of this Act
+    
+*   Every Registrar who knowingly and wilfully issues any marriage licence or solemnises any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, and every marriage celebrant who knowingly and wilfully solemnises any marriage contrary to the provisions of this Act, or where there is any other lawful impediment to the marriage, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years, or to a fine not exceeding $600, or to both.
     
     Compare: 1908 No 113 s 55
     
-    Section 58: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
-
-##### 59 Offence to solemnize marriage falsely pretending to be marriage celebrant
+    Section 58: amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
     
-*   Every person who falsely pretends to be a marriage celebrant and solemnizes any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+    Section 58: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
+
+##### 59 Offence to solemnise marriage falsely pretending to be marriage celebrant
+    
+*   Every person who falsely pretends to be a marriage celebrant and solemnises any marriage, knowingly and wilfully so doing, commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
     
     Compare: 1908 No 113 s 54
     
-    Section 59 heading: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 59 heading: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 59: amended, on 1 January 1977, by [section 2(1)][104] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 59: amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 59: amended, on 1 January 1977, by [section 2(1)][105] of the Marriage Amendment Act 1976 (1976 No 8).
 
-##### 60 Offences in connection with false statements and improper solemnization of marriages
+##### 60 Offences in connection with false statements and improper solemnisation of marriages
     
-*   Every person commits an offence and shall be liable on conviction on indictment to imprisonment for a term not exceeding 2 years, or to a fine not exceeding 200 pounds, or to both, who knowingly and wilfully---
+*   Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $400, or to both, who knowingly and wilfully---
         
     *   (a) makes or causes to be made any false declaration for the purposes of this Act; or
     
@@ -1260,18 +1268,20 @@ General
     *   (c) notifies any Registrar of the lodgment of a caveat under [section 25][31] if in fact no such caveat has been lodged.
     
     Compare: 1908 No 113 s 53
+    
+    Section 60: amended, on 1 July 2013, by [section 413][131] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 61 Offences generally
     
 *   \[Repealed\]
     
-    Section 61: repealed, on 1 January 1977, by [section 9][132] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 61: repealed, on 1 January 1977, by [section 9][136] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 62 Magistrate to have summary jurisdiction
     
 *   \[Repealed\]
     
-    Section 62: repealed, on 1 April 1958, by [section 214(1)][133] of the Summary Proceedings Act 1957 (1957 No 87).
+    Section 62: repealed, on 1 April 1958, by [section 214(1)][137] of the Summary Proceedings Act 1957 (1957 No 87).
 
 ##### 63 Limitation on prosecutions
     
@@ -1293,11 +1303,11 @@ General
     
     (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General may dispense with the payment of any fee payable under this Act.
     
-    Section 64: replaced, on 1 January 1977, by [section 10][134] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 64: replaced, on 1 January 1977, by [section 10][138] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 64A Rules of procedure
     
-*   (1) Rules may be made under [section 16A][135] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under [sections 19][24] and [26][32].
+*   (1) Rules may be made under [section 16A][139] of the Family Courts Act 1980 regulating the practice and procedure of Family Courts in proceedings under [sections 19][24] and [26][32].
     
     (2) The rules---
         
@@ -1305,21 +1315,21 @@ General
     
     *   (b) do not affect the practice and procedure of District Courts in proceedings under [section 26][32].
     
-    Section 64A: inserted, on 13 September 2002, by [section 6][136] of the Family Courts Amendment Act 2000 (2000 No 65).
+    Section 64A: inserted, on 13 September 2002, by [section 6][140] of the Family Courts Amendment Act 2000 (2000 No 65).
 
 ##### 65 Regulations may prescribe fees
     
 *   \[Repealed\]
     
-    Section 65: repealed, on 1 January 1977, by [section 10][134] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 65: repealed, on 1 January 1977, by [section 10][138] of the Marriage Amendment Act 1976 (1976 No 8).
 
 ##### 66 Disposition of fines and fees
     
 *   All fines recovered and all fees received by a Registrar or the Registrar-General under this Act shall be paid into and form part of a Crown Bank Account.
     
-    Section 66: amended, on 1 January 1977, by [section 11][137] of the Marriage Amendment Act 1976 (1976 No 8).
+    Section 66: amended, on 1 January 1977, by [section 11][141] of the Marriage Amendment Act 1976 (1976 No 8).
     
-    Section 66: amended, on 25 January 2005, pursuant to [section 83(7)][138] of the Public Finance Act 1989 (1989 No 44).
+    Section 66: amended, on 25 January 2005, pursuant to [section 83(7)][142] of the Public Finance Act 1989 (1989 No 44).
 
 ##### 67 Repeals and savings
     
@@ -1363,183 +1373,49 @@ The Salvation Army
 ---
 
 ## Schedule 2  
-Forbidden marriages
+Prohibited degrees of marriage
 
 [s 15(1)][20]
 
-##### 1
+*   Schedule 2: replaced, on 19 August 2013, by [section 8][143] of the Marriage (Definition of Marriage) Amendment Act 2013 (2013 No 20).
+
+##### 
     
-*   A man may not marry his---
+*   (1) A person may not marry the person's---
         
-    *   (1) grandmother:
+    *   (a) grandparent:
     
-    *   (2) grandfather's wife:
+    *   (b) parent:
     
-    *   (3) wife's grandmother:
+    *   (c) child:
     
-    *   (4) father's sister:
+    *   (d) grandchild:
     
-    *   (5) mother's sister:
+    *   (e) sibling:
     
-    *   (6) mother:
+    *   (f) parent's sibling:
     
-    *   (7) stepmother:
+    *   (g) sibling's child:
     
-    *   (8) wife's mother:
+    *   (h) grandparent's spouse or civil union partner:
     
-    *   (9) daughter:
+    *   (i) parent's spouse or civil union partner:
     
-    *   (10) wife's daughter:
+    *   (j) spouse's or civil union partner's parent:
     
-    *   (11) son's wife:
+    *   (k) spouse's or civil union partner's grandparent:
     
-    *   (12) sister:
+    *   (l) spouse's or civil union partner's child:
     
-    *   (13) son's daughter:
+    *   (m) child's spouse or civil union partner:
     
-    *   (14) daughter's daughter
+    *   (n) grandchild's spouse or civil union partner:
     
-    *   (15) son's son's wife:
+    *   (o) spouse's or civil union partner's grandchild.
     
-    *   (16) daughter's son's wife:
+    (2) The prohibited degrees of marriage apply whether the relationships described are by the whole blood or by the half blood.
     
-    *   (17) wife's son's daughter:
-    
-    *   (18) wife's daughter's daughter:
-    
-    *   (19) brother's daughter:
-    
-    *   (20) sister's daughter.
-    
-    
-
-##### 2
-    
-*   A woman may not marry her---
-        
-    *   (1) grandfather:
-    
-    *   (2) grandmother's husband:
-    
-    *   (3) husband's grandfather:
-    
-    *   (4) father's brother:
-    
-    *   (5) mother's brother:
-    
-    *   (6) father:
-    
-    *   (7) stepfather:
-    
-    *   (8) husband's father:
-    
-    *   (9) son:
-    
-    *   (10) husband's son:
-    
-    *   (11) daughter's husband:
-    
-    *   (12) brother:
-    
-    *   (13) son's son:
-    
-    *   (14) daughter's son:
-    
-    *   (15) son's daughter's husband:
-    
-    *   (16) daughter's daughter's husband:
-    
-    *   (17) husband's son's son:
-    
-    *   (18) husband's daughter's son:
-    
-    *   (19) brother's son:
-    
-    *   (20) sister's son.
-    
-    
-
-##### 3
-    
-*   The foregoing provisions of this schedule with respect to any relationship shall apply whether the relationship is by the whole blood or by the half blood.
-    
-    Schedule 2 clause 3: amended, on 1 January 1970, by [section 12(2)][114] of the Status of Children Act 1969 (1969 No 18).
-
-##### 4
-    
-*   In this schedule, unless the context otherwise requires, the term _wife_ means a former wife, whether she is alive or deceased, and whether her marriage was terminated by death or divorce or otherwise; and the term _husband_ has a corresponding meaning.
-
-##### 5
-    
-*   A man may not marry his---
-        
-    *   (1) grandmother's civil union partner
-    
-    *   (2) grandfather's civil union partner
-    
-    *   (3) mother's civil union partner
-    
-    *   (4) father's civil union partner
-    
-    *   (5) son's civil union partner
-    
-    *   (6) daughter's civil union partner
-    
-    *   (7) grandson's civil union partner
-    
-    *   (8) granddaughter's civil union partner
-    
-    *   (9) civil union partner's grandmother
-    
-    *   (10) civil union partner's mother
-    
-    *   (11) civil union partner's daughter
-    
-    *   (12) civil union partner's granddaughter.
-    
-    Schedule 2 clause 5: inserted, on 26 April 2005, by [section 5][139] of the Marriage Amendment Act 2005 (2005 No 15).
-
-##### 6
-    
-*   A woman may not marry her---
-        
-    *   (1) grandmother's civil union partner
-    
-    *   (2) grandfather's civil union partner
-    
-    *   (3) mother's civil union partner
-    
-    *   (4) father's civil union partner
-    
-    *   (5) son's civil union partner
-    
-    *   (6) daughter's civil union partner
-    
-    *   (7) granddaughter's civil union partner
-    
-    *   (8) grandson's civil union partner
-    
-    *   (9) civil union partner's grandfather
-    
-    *   (10) civil union partner's father
-    
-    *   (11) civil union partner's son
-    
-    *   (12) civil union partner's grandson.
-    
-    Schedule 2 clause 6: inserted, on 26 April 2005, by [section 5][139] of the Marriage Amendment Act 2005 (2005 No 15).
-
-##### 7
-    
-*   In this schedule, the term _civil union partner_ means a former civil union partner whether he or she is alive or deceased, and whether the civil union was terminated by death or dissolution or otherwise.
-    
-    Schedule 2 clause 7: inserted, on 26 April 2005, by [section 5][139] of the Marriage Amendment Act 2005 (2005 No 15).
-
-##### 8
-    
-*   In this schedule, a reference to a stepfather or stepmother is a reference to a relationship established by marriage.
-    
-    Schedule 2 clause 8: inserted, on 26 April 2005, by [section 5][139] of the Marriage Amendment Act 2005 (2005 No 15).
+    (3) In this schedule, _spouse_ and _civil union partner_ include a former spouse or former civil union partner, whether alive or deceased, and whether the marriage or civil union was terminated by death, dissolution, or otherwise.
 
 ---
 
@@ -1582,11 +1458,11 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1939 (1939 No 39)
 
-_Amendment(s) incorporated in the [Act(s)][140]._
+_Amendment(s) incorporated in the [Act(s)][144]._
 
 ##### Statutes Amendment Act 1940 (1940 No 18)
 
-_Amendment(s) incorporated in the [Act(s)][141]._
+_Amendment(s) incorporated in the [Act(s)][145]._
 
 ##### Statutes Amendment Act 1941 (1941 No 26)
 
@@ -1594,7 +1470,7 @@ _Amendment(s) incorporated in the Act(s)._
 
 ##### Statutes Amendment Act 1947 (1947 No 60)
 
-_Amendment(s) incorporated in the [Act(s)][142]._
+_Amendment(s) incorporated in the [Act(s)][146]._
 
 ##### Summary Jurisdiction Act 1952 (1952 No 41)
 
@@ -1627,118 +1503,79 @@ Enactments ceasing to have effect in New Zealand
 
 ##### Marriage Act 1890 (53 & 54 Vict, c 47)
 
----
-
-#### Contents
-    
-*   1General
-*   2Status of reprints
-*   3How reprints are prepared
-*   4Changes made under section 17C of the Acts and Regulations Publication Act 1989
-*   5List of amendments incorporated in this reprint (most recent first)
+#### 
 
 ---
 
-##### Notes
+##### Reprints notes
 
 ###### 1 General
     
-*   This is a reprint of the Marriage Act 1955\. The reprint incorporates all the amendments to the Act as at 25 February 2012, as specified in the list of amendments at the end of these notes.
-    
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][143] ![](/images/external_link.gif).
+*   This is a reprint of the Marriage Act 1955 that incorporates all the amendments to that Act as at the date of the last amendment to it.
 
-###### 2 Status of reprints
+###### 2 Legal status
     
-*   Under [section 16D][144] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
-    
-    This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
+*   Reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by any amendments to that enactment. [Section 18][147] of the Legislation Act 2012 provides that this reprint, published in electronic form, will have the status of an official version once issued by the Chief Parliamentary Counsel under [section 17(1)][148] of that Act.
 
-###### 3 How reprints are prepared
+###### 3 Editorial and format changes
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/ ][145] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   Editorial and format changes to reprints are made using the powers under [sections 24 to 26][149] of the Legislation Act 2012\. See also [http://www.pco.parliament.govt.nz/editorial-conventions/][150] ![](/images/external_link.gif).
 
-###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
+###### 4 Amendments incorporated in this reprint
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][146] and [17E][147] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Marriage (Definition of Marriage) Amendment Act 2013][151] (2013 No 20)
     
-    A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
+    [Marriage Amendment Act 2012][152] (2012 No 13)
     
-    In outline, the editorial changes made in reprints under the authority of [section 17C][0] of the Acts and Regulations Publication Act 1989 are set out below, and they have been applied, where relevant, in the preparation of this reprint:
-        
-    *   •omission of unnecessary referential words (such as ""of this section"" and ""of this Act"")
-    *   •typeface and type size (Times Roman, generally in 11.5 point)
-    *   •layout of provisions, including:
-            
-        *   •indentation
-        *   •position of section headings (eg, the number and heading now appear above the section)
-        
-    *   •format of definitions (eg, the defined term now appears in bold type, without quotation marks)
-    *   •format of dates (eg, a date formerly expressed as ""the 1st day of January 1999"" is now expressed as ""1 January 1999"")
-    *   •position of the date of assent (it now appears on the front page of each Act)
-    *   •punctuation (eg, colons are not used after definitions)
-    *   •Parts numbered with roman numerals are replaced with arabic numerals, and all cross-references are changed accordingly
-    *   •case and appearance of letters and words, including:
-            
-        *   •format of headings (eg, headings where each word formerly appeared with an initial capital letter followed by small capital letters are amended so that the heading appears in bold, with only the first word (and any proper nouns) appearing with an initial capital letter)
-        *   •small capital letters in section and subsection references are now capital letters
-        
-    *   •schedules are renumbered (eg, Schedule 1 replaces First Schedule), and all cross-references are changed accordingly
-    *   •running heads (the information that appears at the top of each page)
-    *   •format of two-column schedules of consequential amendments, and schedules of repeals (eg, they are rearranged into alphabetical order, rather than chronological).
-    
-    
-
-###### 5 List of amendments incorporated in this reprint (most recent first)
-    
-*   [Marriage Amendment Act 2012][148] (2012 No 13)
+    Criminal Procedure Act 2011 (2011 No 81): [section 413][131]
     
     Marriage Amendment Act 2010 (2010 No 71)
     
-    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][102]
+    Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008 (2008 No 48): [section 47][103]
     
-    [Marriage Amendment Act 2005][149] (2005 No 15)
+    [Marriage Amendment Act 2005][153] (2005 No 15)
     
-    Care of Children Act 2004 (2004 No 90): [section 151][116]
+    Care of Children Act 2004 (2004 No 90): [section 151][117]
     
-    Human Rights Amendment Act 2001 (2001 No 96): [sections 59--61][123]
+    Human Rights Amendment Act 2001 (2001 No 96): [sections 59--61][125]
     
-    Family Courts Amendment Act 2000 (2000 No 65): [section 6][136]
+    Family Courts Amendment Act 2000 (2000 No 65): [section 6][140]
     
-    [Marriage Amendment Act 1999][150] (1999 No 38)
+    [Marriage Amendment Act 1999][154] (1999 No 38)
     
-    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][100]
+    Department of Justice (Restructuring) Act 1995 (1995 No 39): [section 10(3)][101]
     
-    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [sections 92--94][99], [96][103]
+    Births, Deaths, Marriages, and Relationships Registration Act 1995 (1995 No 16): [sections 92--94][99], [96][104]
     
     Marriage Amendment Act 1994 (1994 No 153)
     
-    Public Finance Act 1989 (1989 No 44): [section 83(7)][138]
+    Public Finance Act 1989 (1989 No 44): [section 83(7)][142]
     
     Marriage Amendment Act 1986 (1986 No 97)
     
     Marriage Amendment Act 1985 (1985 No 27)
     
-    Family Courts Act 1980 (1980 No 161): [section 17(1)][117]
+    Family Courts Act 1980 (1980 No 161): [section 17(1)][118]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][115]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][116]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][111]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][112]
     
-    [Marriage Amendment Act 1976][105] (1976 No 8)
+    [Marriage Amendment Act 1976][106] (1976 No 8)
     
-    Age of Majority Act 1970 (1970 No 137): [section 6][130]
+    Age of Majority Act 1970 (1970 No 137): [section 6][133]
     
     Marriage Amendment Act 1970 (1970 No 84)
     
-    Status of Children Act 1969 (1969 No 18): [section 12(2)][114]
+    Status of Children Act 1969 (1969 No 18): [section 12(2)][115]
     
     Marriage Amendment Act 1959 (1959 No 11)
     
-    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][133]
+    Summary Proceedings Act 1957 (1957 No 87): [section 214(1)][137]
 
 
 
-[0]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM195466
+[0]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM2998524
 [1]: http://www.legislation.govt.nz/act/public/1955/0092/latest/whole.html#DLM292030
 [2]: http://www.legislation.govt.nz/act/public/1955/0092/latest/whole.html#DLM292032
 [3]: http://www.legislation.govt.nz/act/public/1955/0092/latest/whole.html#DLM292033
@@ -1838,54 +1675,58 @@ Enactments ceasing to have effect in New Zealand
 [97]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM138727
 [98]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM359378
 [99]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364775
-[100]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM367235
-[101]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336312
-[102]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM1048943
-[103]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364791
-[104]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437925
-[105]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437919
-[106]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437927
-[107]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM359368
-[108]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM3042805
-[109]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437928
-[110]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122552
-[111]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM35049
-[112]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM228642
-[113]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336315
-[114]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM391030
-[115]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM35085
-[116]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM317988
-[117]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM43501
-[118]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364785
-[119]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24715
-[120]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437931
-[121]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437930
-[122]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24716
-[123]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122550
-[124]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM230108
-[125]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437929
-[126]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122554
-[127]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24717
-[128]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437932
-[129]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4014507
-[130]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM396805
-[131]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364787
-[132]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437933
-[133]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM314306
-[134]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437934
-[135]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM42296
-[136]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM76831
-[137]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437935
-[138]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM163167
-[139]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336316
-[140]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM228224
-[141]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM229668
-[142]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM246253
-[143]: http://www.pco.parliament.govt.nz/reprints/
-[144]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM195439
-[145]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[146]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM195468
-[147]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM195470
-[148]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4014502
-[149]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336306
-[150]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24709
+[100]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4505010
+[101]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM367235
+[102]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336312
+[103]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM1048943
+[104]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364791
+[105]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437925
+[106]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437919
+[107]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437927
+[108]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM359368
+[109]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM3042805
+[110]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437928
+[111]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122552
+[112]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM35049
+[113]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM228642
+[114]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336315
+[115]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM391030
+[116]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM35085
+[117]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM317988
+[118]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM43501
+[119]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364785
+[120]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24715
+[121]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437931
+[122]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM5045101
+[123]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437930
+[124]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24716
+[125]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122550
+[126]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM230108
+[127]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437929
+[128]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM122554
+[129]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24717
+[130]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437932
+[131]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM3360714
+[132]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4014507
+[133]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM396805
+[134]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM364787
+[135]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM5045102
+[136]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437933
+[137]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM314306
+[138]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437934
+[139]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM42296
+[140]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM76831
+[141]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM437935
+[142]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM163167
+[143]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4505013
+[144]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM228224
+[145]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM229668
+[146]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM246253
+[147]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM2998516
+[148]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM2998515
+[149]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM2998532
+[150]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[151]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4505000
+[152]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM4014502
+[153]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM336306
+[154]: http://www.legislation.govt.nz/act/public/1955/0092/latest/link.aspx?id=DLM24709
