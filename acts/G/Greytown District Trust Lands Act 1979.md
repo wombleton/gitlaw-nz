@@ -1,5 +1,5 @@
 Reprint  
-as at 1 July 2003
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,97 +25,97 @@ A general outline of these changes is set out in the notes at the end of this re
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
 [Constitution][4]
 
-[3][5] [Incorporation and constitution of Trust Board][5]
+[3][5][][5][Incorporation and constitution of Trust Board][5]
 
-[4][6] [Qualification of electors][6]
+[4][6][][6][Qualification of electors][6]
 
-[4A][7] [Qualifications of members][7]
+[4A][7][][7][Qualifications of members][7]
 
-[5][8] [Elections of members][8]
+[5][8][][8][Elections of members][8]
 
-[6][9] [Transitional provisions][9] \[Repealed\]
+[6][9][][9][Transitional provisions][9] \[Repealed\]
 
-[7][10] [Retirement of members by rotation][10]
+[7][10][][10][Retirement of members by rotation][10]
 
-[8][11] [Disqualification from election or appointment][11]
+[8][11][][11][Disqualification from election or appointment][11]
 
-[9][12] [Vacation of office by member][12]
+[9][12][][12][Vacation of office by member][12]
 
-[10][13] [Extraordinary vacancies][13]
+[10][13][][13][Extraordinary vacancies][13]
 
 [Ouster of office][14]
 
-[11][15] [Ouster of office][15]
+[11][15][][15][Ouster of office][15]
 
 [Trusts and powers][16]
 
-[12][17] [Vesting of lands][17]
+[12][17][][17][Vesting of lands][17]
 
-[13][18] [Trusts on which lands to be held][18]
+[13][18][][18][Trusts on which lands to be held][18]
 
-[14][19] [Application of income from trust lands][19]
+[14][19][][19][Application of income from trust lands][19]
 
-[15][20] [Leasing powers][20]
+[15][20][][20][Leasing powers][20]
 
-[16][21] [Public Bodies Leases Act 1969 to apply][21]
+[16][21][][21][Public Bodies Leases Act 1969 to apply][21]
 
-[17][22] [Powers of dedication][22]
+[17][22][][22][Powers of dedication][22]
 
-[18][23] [Power to grant easements][23]
+[18][23][][23][Power to grant easements][23]
 
-[19][24] [Powers of acquisition][24]
+[19][24][][24][Powers of acquisition][24]
 
-[20][25] [Restriction on alienation of lands][25]
+[20][25][][25][Restriction on alienation of lands][25]
 
-[21][26] [Alienation permitted for boundary adjustments][26]
+[21][26][][26][Alienation permitted for boundary adjustments][26]
 
-[22][27] [Exchange of trust lands][27]
+[22][27][][27][Exchange of trust lands][27]
 
-[23][28] [Sale of trust lands][28]
+[23][28][][28][Sale of trust lands][28]
 
-[24][29] [Power to accept trusteeships][29]
+[24][29][][29][Power to accept trusteeships][29]
 
-[25][30] [Power to set aside fund for general purposes][30]
+[25][30][][30][Power to set aside fund for general purposes][30]
 
-[26][31] [Investment of money][31]
+[26][31][][31][Investment of money][31]
 
-[26A][32] [Income from investment of proceeds of sale][32]
+[26A][32][][32][Income from investment of proceeds of sale][32]
 
-[27][33] [Power to borrow on overdraft][33]
+[27][33][][33][Power to borrow on overdraft][33]
 
-[28][34] [Power to borrow][34]
+[28][34][][34][Power to borrow][34]
 
 [General][35]
 
-[29][36] [Officers][36]
+[29][36][][36][Officers][36]
 
-[30][37] [Management][37]
+[30][37][][37][Management][37]
 
-[31][38] [Member not to vote on question in which he or she has pecuniary interest][38]
+[31][38][][38][Member not to vote on question in which he or she has pecuniary interest][38]
 
-[32][39] [Money to be paid into bank][39]
+[32][39][][39][Money to be paid into bank][39]
 
-[33][40] [Accounts][40]
+[33][40][][40][Accounts][40]
 
-[34][41] [Annual statements][41]
+[34][41][][41][Annual statements][41]
 
-[35][42] [Annual meeting of electors][42]
+[35][42][][42][Annual meeting of electors][42]
 
-[36][43] [Contracts of Trust Board][43]
+[36][43][][43][Contracts of Trust Board][43]
 
-[36A][44] [Remuneration, allowances, and expenses of members of Trust Board][44]
+[36A][44][][44][Remuneration, allowances, and expenses of members of Trust Board][44]
 
-[37][45] [Indemnity of members][45]
+[37][45][][45][Indemnity of members][45]
 
-[38][46] [Amending Ombudsmen Act 1975][46]
+[38][46][][46][Amending Ombudsmen Act 1975][46]
 
-[39][47] [Repeal][47]
+[39][47][][47][Repeal][47]
 
 [Schedule][48]  
 [Greytown trust lands][48]
@@ -254,13 +254,15 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     *   (b) the member concerned shall be deemed to have been granted leave of absence until the expiration of that time, and shall not be capable of acting as a member during the period of that leave of absence.
     
-    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the persons commits an offence and shall be liable on summary conviction to a fine not exceeding $100\.
+    (3) If any person does any act as a member after the person's office has become vacant under this section (other than under subsection (1)(c)) or while on leave of absence under subsection (2), the persons commits an offence and shall be liable on conviction to a fine not exceeding $100\.
     
     Section 9: substituted, on 17 June 1986, by section 12 of the Local Government Amendment Act 1986 (1986 No 21).
     
     Section 9(1)(c): substituted, on 26 August 1993, by [section 8(1)][60] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
     Section 9(1)(d): amended, on 26 August 1993, by [section 8(2)][60] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    
+    Section 9(3): amended, on 1 July 2013, by [section 413][61] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 10 Extraordinary vacancies
     
@@ -286,15 +288,15 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     (5) No question that may be tried under this section shall be tried in the High Court; and no proceedings in a District Court hereunder shall be removable into the High Court by certiorari or otherwise.
     
-    Section 11(1): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(1): amended, on 1 April 1980, pursuant to [section 18(2)][62] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(3): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(3): amended, on 1 April 1980, pursuant to [section 18(2)][62] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(4): amended, on 1 April 1980, pursuant to [section 18(2)][61]of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(4): amended, on 1 April 1980, pursuant to [section 18(2)][62]of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(5): amended, on 1 April 1980, pursuant to [section 18(2)][61] of the District Courts Amendment Act 1979 (1979 No 125).
+    Section 11(5): amended, on 1 April 1980, pursuant to [section 18(2)][62] of the District Courts Amendment Act 1979 (1979 No 125).
     
-    Section 11(5): amended, on 1 April 1980, pursuant to [section 12][62] of the Judicature Amendment Act 1979 (1979 No 124).
+    Section 11(5): amended, on 1 April 1980, pursuant to [section 12][63] of the Judicature Amendment Act 1979 (1979 No 124).
 
 #### Trusts and powers
 
@@ -318,7 +320,7 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     *   (c) for the purposes of public utility and for the purpose of maintaining and promoting in the district the general well-being of the public.
     
-    Section 13: substituted, on 26 August 1993, by [section 9][63] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 13: substituted, on 26 August 1993, by [section 9][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 14 Application of income from trust lands
     
@@ -344,17 +346,17 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     *   (g) in expending for purposes not authorised by any Act or law for the time being in force any sum or sums not amounting in the whole to more than 1% of the gross rentals derived during that financial year from the trust lands or $2,000, whichever is the lesser.
     
-    Section 14(a): substituted on 26 August 1993, by [section 10(1)][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 14(a): substituted on 26 August 1993, by [section 10(1)][65] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 14(aa): substituted, on 1 July 2003, by [section 262][65] of the Local Government Act 2002 (2002 No 84).
+    Section 14(aa): substituted, on 1 July 2003, by [section 262][66] of the Local Government Act 2002 (2002 No 84).
     
-    Section 14(ab): inserted, on 26 August 1993, by [section 10(1)][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 14(ab): inserted, on 26 August 1993, by [section 10(1)][65] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 14(ac): inserted, on 26 August 1993, by [section 10(1)][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 14(ac): inserted, on 26 August 1993, by [section 10(1)][65] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 14(d): amended, on 26 August 1993, by [section 10(2)][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 14(d): amended, on 26 August 1993, by [section 10(2)][65] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 14(g): amended, on 26 August 1993, by [section 10(3)][64] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 14(g): amended, on 26 August 1993, by [section 10(3)][65] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 15 Leasing powers
     
@@ -362,9 +364,9 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
 
 ##### 16 Public Bodies Leases Act 1969 to apply
     
-*   Every power of granting leases or tenancies conferred on the Trust Board by this Act shall confer on the Trust Board power to grant any such lease or tenancy on any terms authorised by the [Public Bodies Leases Act 1969][66], and for that purpose the Trust Board is hereby declared to be a leasing authority within the meaning and for the purposes of the Public Bodies Leases Act 1969:
+*   Every power of granting leases or tenancies conferred on the Trust Board by this Act shall confer on the Trust Board power to grant any such lease or tenancy on any terms authorised by the [Public Bodies Leases Act 1969][67], and for that purpose the Trust Board is hereby declared to be a leasing authority within the meaning and for the purposes of the Public Bodies Leases Act 1969:
     
-    provided that [sections 8][67], [19][68], and [23(1)(d)][69] of that Act shall not apply to the Trust Board.
+    provided that [sections 8][68], [19][69], and [23(1)(d)][70] of that Act shall not apply to the Trust Board.
 
 ##### 17 Powers of dedication
     
@@ -392,7 +394,7 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     (3) No power conferred by this section shall be exercised except by or pursuant to a special resolution.
     
-    Section 19(2): amended, on 26 August 1993, by [section 11][70] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 19(2): amended, on 26 August 1993, by [section 11][71] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 20 Restriction on alienation of lands
     
@@ -420,7 +422,7 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     (4) Land acquired by the Trust Board in exchange for any part or parts of the trust lands and any land or lands purchased from money from the special reserve account hereinbefore mentioned shall be deemed to form part of the trust lands and be held on the same terms and for the same purposes.
     
-    Section 22(1): amended, on 26 August 1993, by [section 12][71] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 22(1): amended, on 26 August 1993, by [section 12][72] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 23 Sale of trust lands
     
@@ -454,9 +456,9 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     and, except as provided in [section 26A][32], the income from such investments shall be credited to the fund to which the investments belong.
     
-    Section 26: amended, on 26 August 1993, by [section 13(2)][72] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 26: amended, on 26 August 1993, by [section 13(2)][73] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 26(b): amended, on 26 August 1993, by [section 13(1)][72] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 26(b): amended, on 26 August 1993, by [section 13(1)][73] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 26A Income from investment of proceeds of sale
     
@@ -472,7 +474,7 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
     
     (2) Nothing in subsection (1) authorises the Trust Board to apply income under that subsection to such an extent that the total of the sum so applied, together with the sum applied under [section 14(b)][19], in any financial year is greater than the total amount applied for all or any of the purposes specified in [section 13][18] in the immediately preceding financial year.
     
-    Section 26A: inserted, on 26 August 1993, by [section 14][73] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 26A: inserted, on 26 August 1993, by [section 14][74] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 27 Power to borrow on overdraft
     
@@ -502,15 +504,15 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
         
     *   (a) oversight of the provisions of [section 8][11]; and
     
-    *   (b) administration of the application of [sections 6][74] and [7][75] of the Local Authorities (Members' Interests) Act 1968, as applied by [section 31][38] of this Act, and, in particular,---
+    *   (b) administration of the application of [sections 6][75] and [7][76] of the Local Authorities (Members' Interests) Act 1968, as applied by [section 31][38] of this Act, and, in particular,---
             
         *   (i) the investigation, following receipt of a complaint or on his or her own motion, of any matter relating to the application of those provisions; and
         
-        *   (ii) if the auditor considers the circumstances warrant it, the institution of proceedings against any person for any offence against [section 7(1)][75] of that Act, as so applied.
+        *   (ii) if the auditor considers the circumstances warrant it, the institution of proceedings against any person for any offence against [section 7(1)][76] of that Act, as so applied.
         
         
     
-    Section 29(4): substituted, on 26 August 1993, by [section 15][76] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 29(4): substituted, on 26 August 1993, by [section 15][77] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
 
 ##### 30 Management
     
@@ -518,17 +520,17 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
 
 ##### 31 Member not to vote on question in which he or she has pecuniary interest
     
-*   (1) Subject to subsection (2), [sections 6][74] and [7][75] of the Local Authorities (Members' Interests) Act 1968 shall apply in respect of members of the Trust Board as if---
+*   (1) Subject to subsection (2), [sections 6][75] and [7][76] of the Local Authorities (Members' Interests) Act 1968 shall apply in respect of members of the Trust Board as if---
         
     *   (a) the Trust Board was a local authority for the purposes of those provisions; and
     
     *   (b) every reference in those sections to the Auditor-General was a reference to the auditor appointed under [section 35][42].
     
-    (2) The amount of any fine imposed under [section 7(1)][75] of the Local Authorities (Members' Interests) Act 1968, as applied by subsection (1), shall be payable to the Trust Board.
+    (2) The amount of any fine imposed under [section 7(1)][76] of the Local Authorities (Members' Interests) Act 1968, as applied by subsection (1), shall be payable to the Trust Board.
     
-    Section 31: substituted, on 26 August 1993, by [section 16][77] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
+    Section 31: substituted, on 26 August 1993, by [section 16][78] of the Greytown District Trust Lands Amendment Act 1993 (1993 No 7 (L)).
     
-    Section 31(1)(b): amended, on 1 July 2001, pursuant to [section 52][78] of the Public Audit Act 2001 (2001 No 10).
+    Section 31(1)(b): amended, on 1 July 2001, pursuant to [section 52][79] of the Public Audit Act 2001 (2001 No 10).
 
 ##### 32 Money to be paid into bank
     
@@ -570,11 +572,11 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
 
 ##### 36A Remuneration, allowances, and expenses of members of Trust Board
     
-*   (1) The Trust Board is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][79].
+*   (1) The Trust Board is declared to be a statutory board within the meaning of the [Fees and Travelling Allowances Act 1951][80].
     
-    (2) The members of the Trust Board are entitled to be paid remuneration by way of fees, salary, or allowances, and travelling allowances and travelling expenses, in accordance with the provisions of the [Fees and Travelling Allowances Act 1951][79]; and the provisions of that Act apply accordingly.
+    (2) The members of the Trust Board are entitled to be paid remuneration by way of fees, salary, or allowances, and travelling allowances and travelling expenses, in accordance with the provisions of the [Fees and Travelling Allowances Act 1951][80]; and the provisions of that Act apply accordingly.
     
-    Section 36A: inserted, on 1 July 2003, by [section 262][65] of the Local Government Act 2002 (2002 No 84).
+    Section 36A: inserted, on 1 July 2003, by [section 262][66] of the Local Government Act 2002 (2002 No 84).
 
 ##### 37 Indemnity of members
     
@@ -582,7 +584,7 @@ An Act to consolidate and amend the Greytown Trust Lands Act 1956
 
 ##### 38 Amending Ombudsmen Act 1975
     
-*   _Amendment(s) incorporated in the [Act(s)][80]._
+*   _Amendment(s) incorporated in the [Act(s)][81]._
 
 ##### 39 Repeal
     
@@ -801,23 +803,23 @@ Greytown trust lands
 
 ###### 1 General
     
-*   This is a reprint of the Greytown District Trust Lands Act 1979\. The reprint incorporates all the amendments to the Act as at 1 July 2003, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Greytown District Trust Lands Act 1979\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][81] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][82] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][82] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][83] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][83] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][84] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][84] and [17E][85] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][85] and [17E][86] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -848,21 +850,23 @@ Greytown trust lands
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Electoral Amendment Act 2002 (2002 No 85): [section 52][53]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][61]
     
-    Local Government Act 2002 (2002 No 84): [section 262][65]
+    Local Electoral Amendment Act 2002 (2002 No 85): [section 52][53]
     
-    Public Audit Act 2001 (2001 No 10): [section 52][78]
+    Local Government Act 2002 (2002 No 84): [section 262][66]
     
-    [Greytown District Trust Lands Amendment Act 1993][86] (1993 No 7 (L))
+    Public Audit Act 2001 (2001 No 10): [section 52][79]
+    
+    [Greytown District Trust Lands Amendment Act 1993][87] (1993 No 7 (L))
     
     Local Government Amendment Act 1991 (1991 No 49): [section 29][52]
     
     Local Government Amendment Act 1986 (1986 No 21): [section 12][58]
     
-    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][61]
+    District Courts Amendment Act 1979 (1979 No 125): [section 18(2)][62]
     
-    Judicature Amendment Act 1979 (1979 No 124): [section 12][62]
+    Judicature Amendment Act 1979 (1979 No 124): [section 12][63]
 
 
 
@@ -927,29 +931,30 @@ Greytown trust lands
 [58]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM92851
 [59]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81908
 [60]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM293073
-[61]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM35085
-[62]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM35049
-[63]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM293074
-[64]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81912
-[65]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM174088
-[66]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394841
-[67]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394883
-[68]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394899
-[69]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM395405
-[70]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81913
-[71]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81914
-[72]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81915
-[73]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81916
-[74]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM390047
-[75]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM390057
-[76]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81918
-[77]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81919
-[78]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM88956
-[79]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM264952
-[80]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM431685
-[81]: http://www.pco.parliament.govt.nz/reprints/
-[82]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195439
-[83]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[84]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195468
-[85]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195470
-[86]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81394
+[61]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM3360714
+[62]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM35085
+[63]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM35049
+[64]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM293074
+[65]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81912
+[66]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM174088
+[67]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394841
+[68]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394883
+[69]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM394899
+[70]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM395405
+[71]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81913
+[72]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81914
+[73]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81915
+[74]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81916
+[75]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM390047
+[76]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM390057
+[77]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81918
+[78]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81919
+[79]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM88956
+[80]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM264952
+[81]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM431685
+[82]: http://www.pco.parliament.govt.nz/reprints/
+[83]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195439
+[84]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[85]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195468
+[86]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM195470
+[87]: http://www.legislation.govt.nz/act/local/1979/0004/latest/link.aspx?id=DLM81394
