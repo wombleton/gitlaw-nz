@@ -1,5 +1,5 @@
 Reprint  
-as at 1 November 2010
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,67 +25,67 @@ This Act is administered by the Department of Internal Affairs.
 
 [Title][1]
 
-[1][2] [Short Title][2]
+[1][2][][2][Short Title][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Responsibility for promotion of litter control][5]
+[4][5][][5][Responsibility for promotion of litter control][5]
 
 [Litter Control Officers][6]
 
-[5][7] [Litter Control Officers][7]
+[5][7][][7][Litter Control Officers][7]
 
-[6][8] [Other Litter Control Officers][8]
+[6][8][][8][Other Litter Control Officers][8]
 
-[7][9] [Powers and duties of Officers][9]
+[7][9][][9][Powers and duties of Officers][9]
 
-[8][10] [Litter Wardens][10]
+[8][10][][10][Litter Wardens][10]
 
 [Powers and duties of public authorities and others][11]
 
-[9][12] [Receptacles to be provided in public places][12]
+[9][12][][12][Receptacles to be provided in public places][12]
 
-[10][13] [Territorial authority may require occupier of private land to clear litter][13]
+[10][13][][13][Territorial authority may require occupier of private land to clear litter][13]
 
-[11][14] [Local or public authority may make grants, etc, for the abatement or prevention of litter][14]
+[11][14][][14][Local or public authority may make grants, etc, for the abatement or prevention of litter][14]
 
-[12][15] [Public authorities may make bylaws][15]
+[12][15][][15][Public authorities may make bylaws][15]
 
 [Infringement notices][16]
 
-[13][17] [Territorial authorities may adopt infringement notice provisions][17]
+[13][17][][17][Territorial authorities may adopt infringement notice provisions][17]
 
-[14][18] [Infringement notices][18]
+[14][18][][18][Infringement notices][18]
 
-[14A][19] [Entitlement to infringement fees][19]
+[14A][19][][19][Entitlement to infringement fees][19]
 
 [Offences and penalties][20]
 
-[15][21] [Deposit of litter in public place or on private land][21]
+[15][21][][21][Deposit of litter in public place or on private land][21]
 
-[16][22] [Wilful breaking of bottles or glass][22]
+[16][22][][22][Wilful breaking of bottles or glass][22]
 
-[17][23] [Offences in respect of Officers][23]
+[17][23][][23][Offences in respect of Officers][23]
 
-[18][24] [Liability of officers of body corporate][24]
+[18][24][][24][Liability of officers of body corporate][24]
 
-[19][25] [Offences punishable on summary conviction][25]
+[19][25][][25][Offences punishable on summary conviction][25] \[Repealed\]
 
-[19A][26] [Strict liability for certain offences][26]
+[19A][26][][26][Strict liability for certain offences][26]
 
-[19B][27] [Defences to strict liability offences][27]
+[19B][27][][27][Defences to strict liability offences][27]
 
 [Special powers of convicting court][28]
 
-[20][29] [Offender may be ordered to clear area][29]
+[20][29][][29][Offender may be ordered to clear area][29]
 
-[21][30] [Cost of removing litter][30]
+[21][30][][30][Cost of removing litter][30]
 
 [Miscellaneous provisions][31]
 
-[22][32] [Repeals, revocations, and amendment][32]
+[22][32][][32][Repeals, revocations, and amendment][32]
 
 [Schedule][33]  
 [Form of infringement notice][33]
@@ -360,7 +360,7 @@ An Act to make better provision for the abatement and control of litter
     
     *   (b) fails to comply with any notice varied or confirmed by a territorial authority or a District Court Judge under this section within the time specified by the territorial authority or the District Court Judge.
     
-    (11) Every person who commits an offence against subsection (10) is liable,---
+    (11) Every person who commits an offence against subsection (10) is liable on conviction,---
         
     *   (a) in the case of a natural person, to a fine not exceeding $500 for each day on which the failure continues; or
     
@@ -381,6 +381,8 @@ An Act to make better provision for the abatement and control of litter
     Section 10(10)(b): amended, on 1 April 1980, pursuant to [section 18(2)][64] of the District Courts Amendment Act 1979 (1979 No 125).
     
     Section 10(11): substituted, on 19 March 1990, by [section 5(3)][63] of the Litter Amendment Act 1990 (1990 No 9).
+    
+    Section 10(11): amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
     
     Section 10(11)(a): amended, on 28 June 2006, by [section 5(2)(a)][65] of the Litter Amendment Act 2006 (2006 No 24).
     
@@ -422,7 +424,7 @@ An Act to make better provision for the abatement and control of litter
     
     (5) Where any person is alleged to have committed an infringement offence, that person may either---
         
-    *   (a) be proceeded against summarily for the offence; or
+    *   (a) be proceeded against by filing a charging document under [section 14][67] of the Criminal Procedure Act 2011; or
     
     *   (b) be served with an infringement notice as provided in [section 14][18].
     
@@ -434,7 +436,9 @@ An Act to make better provision for the abatement and control of litter
     
     Section 13(3): amended, on 1 July 2003, by [section 262][49] of the Local Government Act 2002 (2002 No 84).
     
-    Section 13(4): amended, on 28 June 2006, by [section 6][66] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 13(4): amended, on 28 June 2006, by [section 6][68] of the Litter Amendment Act 2006 (2006 No 24).
+    
+    Section 13(5)(a): replaced, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 14 Infringement notices
     
@@ -446,9 +450,9 @@ An Act to make better provision for the abatement and control of litter
     
     *   (b) by sending it by post addressed to him at his last known place of residence or business.
     
-    (3) For the purposes of the [Summary Proceedings Act 1957][67], an infringement notice sent to a person by post pursuant to subsection (2)(b) shall be deemed to have been served on the person when it was so posted.
+    (3) An infringement notice sent to a person by post pursuant to subsection (2)(b) shall be deemed to have been served on the person when it was so posted.
     
-    (4) Every infringement notice shall be in such form as the Governor-General may from time to time by [Order in Council][68] prescribe, and shall contain the following particulars:
+    (4) Every infringement notice shall be in such form as the Governor-General may from time to time by [Order in Council][69] prescribe, and shall contain the following particulars:
         
     *   (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
     
@@ -458,7 +462,7 @@ An Act to make better provision for the abatement and control of litter
     
     *   (d) the time within which the infringement fee may be paid; and
     
-    *   (e) a summary of the provisions of [section 21(10)][69] of the Summary Proceedings Act 1957; and
+    *   (e) a summary of the provisions of [section 21(10)][70] of the Summary Proceedings Act 1957; and
     
     *   (f) a statement of the right of the person served with the notice to request a hearing; and
     
@@ -476,17 +480,19 @@ An Act to make better provision for the abatement and control of litter
     
     (9) For the purposes of this section, a territorial authority may delegate its powers and functions under this section to a committee of the territorial authority or to its chief executive but to no other person.
     
-    Section 14(2)(b): amended, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(2)(b): amended, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 14(3): substituted, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(3): substituted, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 14(4): substituted: on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(3): amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 14(5): repealed, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(4): substituted: on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 14(6): repealed, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(5): repealed, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
-    Section 14(7): repealed, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    Section 14(6): repealed, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+    
+    Section 14(7): repealed, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
     
     Section 14(9): amended, on 1 July 2003, by [section 262][49] of the Local Government Act 2002 (2002 No 84).
 
@@ -494,13 +500,13 @@ An Act to make better provision for the abatement and control of litter
     
 *   A territorial authority may retain the infringement fee received by it for an infringement offence if the infringement notice was issued by a Litter Control Officer appointed by the territorial authority.
     
-    Section 14A: inserted, on 28 June 2006, by [section 7][71] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 14A: inserted, on 28 June 2006, by [section 7][72] of the Litter Amendment Act 2006 (2006 No 24).
 
 #### Offences and penalties
 
 ##### 15 Deposit of litter in public place or on private land
     
-*   (1) Every person commits an offence and is liable, in the case of an individual, to a fine not exceeding $5,000 or, in the case of a body corporate, to a fine not exceeding $20,000, who deposits any litter or, having deposited any litter, leaves it---
+*   (1) Every person commits an offence and is liable on conviction, in the case of an individual, to a fine not exceeding $5,000 or, in the case of a body corporate, to a fine not exceeding $20,000, who deposits any litter or, having deposited any litter, leaves it---
         
     *   (a) in or on a public place; or
     
@@ -508,7 +514,7 @@ An Act to make better provision for the abatement and control of litter
     
     (1A) Subsection (1) is subject to subsection (2).
     
-    (2) Where any person commits an offence against subsection (1), and the litter deposited is of such a nature as is likely to endanger any person or to cause physical injury or disease or infection to any person coming into contact with it (being in particular any bottle whether broken or not, glass, article containing glass, sharp or jagged material, or any substance of a toxic or poisonous nature) that person is liable---
+    (2) Where any person commits an offence against subsection (1), and the litter deposited is of such a nature as is likely to endanger any person or to cause physical injury or disease or infection to any person coming into contact with it (being in particular any bottle whether broken or not, glass, article containing glass, sharp or jagged material, or any substance of a toxic or poisonous nature) that person is liable on conviction---
         
     *   (a) in the case of an individual, to imprisonment for a term not exceeding 1 month, or to a fine not exceeding $7,500, or to both; or
     
@@ -516,25 +522,31 @@ An Act to make better provision for the abatement and control of litter
     
     Compare: 1968 No 134 s 10
     
-    Section 15(1): substituted, on 28 June 2006, by [section 8(1)][72] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 15(1): substituted, on 28 June 2006, by [section 8(1)][73] of the Litter Amendment Act 2006 (2006 No 24).
     
-    Section 15(1A): inserted, on 28 June 2006, by [section 8(1)][72] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 15(1): amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 15(2)(a): amended, on 28 June 2006, by [section 8(2)(a)][72] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 15(1A): inserted, on 28 June 2006, by [section 8(1)][73] of the Litter Amendment Act 2006 (2006 No 24).
     
-    Section 15(2)(b): amended, on 28 June 2006, by [section 8(2)(b)][72] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 15(2): amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 15(2)(a): amended, on 28 June 2006, by [section 8(2)(a)][73] of the Litter Amendment Act 2006 (2006 No 24).
+    
+    Section 15(2)(b): amended, on 28 June 2006, by [section 8(2)(b)][73] of the Litter Amendment Act 2006 (2006 No 24).
 
 ##### 16 Wilful breaking of bottles or glass
     
-*   Every person commits an offence, and is liable to imprisonment for a term not exceeding 1 month or to a fine not exceeding $7,500, or to both, who wilfully breaks any bottle, or any glass, or any article made of glass, in or on any public place without lawful authority or without the express consent of the public authority having the control or management of the public place, or in or on any private land without lawful authority or without the express consent of the occupier of the private land.
+*   Every person commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 month or to a fine not exceeding $7,500, or to both, who wilfully breaks any bottle, or any glass, or any article made of glass, in or on any public place without lawful authority or without the express consent of the public authority having the control or management of the public place, or in or on any private land without lawful authority or without the express consent of the occupier of the private land.
     
     Compare: 1968 No 134 s 11
     
-    Section 16: amended, on 28 June 2006, by [section 9][73] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 16: amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
+    
+    Section 16: amended, on 28 June 2006, by [section 9][74] of the Litter Amendment Act 2006 (2006 No 24).
 
 ##### 17 Offences in respect of Officers
     
-*   (1) Every person commits an offence, and is liable to a fine not exceeding $1,500, who---
+*   (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $1,500, who---
         
     *   (a) wilfully obstructs a Litter Control Officer while acting in the execution of any of the powers or duties conferred on him by this Act:
     
@@ -556,9 +568,11 @@ An Act to make better provision for the abatement and control of litter
     
     Compare: 1968 No 134 s 12
     
-    Section 17(1): amended, on 28 June 2006, by [section 10(1)][74] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 17(1): amended, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
     
-    Section 17(1)(b): amended, on 28 June 2006, by [section 10(2)][74] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 17(1): amended, on 28 June 2006, by [section 10(1)][75] of the Litter Amendment Act 2006 (2006 No 24).
+    
+    Section 17(1)(b): amended, on 28 June 2006, by [section 10(2)][75] of the Litter Amendment Act 2006 (2006 No 24).
 
 ##### 18 Liability of officers of body corporate
     
@@ -568,9 +582,9 @@ An Act to make better provision for the abatement and control of litter
 
 ##### 19 Offences punishable on summary conviction
     
-*   Subject to [section 13(5)][17], every offence against this Act shall be punishable on summary conviction.
+*   \[Repealed\]
     
-    Compare: 1968 No 134 s 14
+    Section 19: repealed, on 1 July 2013, by [section 413][66] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ##### 19A Strict liability for certain offences
     
@@ -578,7 +592,7 @@ An Act to make better provision for the abatement and control of litter
     
     (2) This section is for the avoidance of doubt.
     
-    Section 19A: inserted, on 28 June 2006, by [section 11][75] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 19A: inserted, on 28 June 2006, by [section 11][76] of the Litter Amendment Act 2006 (2006 No 24).
 
 ##### 19B Defences to strict liability offences
     
@@ -608,7 +622,7 @@ An Act to make better provision for the abatement and control of litter
     
     (2) The defences set out in this section are the only defences available to a defendant.
     
-    Section 19B: inserted, on 28 June 2006, by [section 11][75] of the Litter Amendment Act 2006 (2006 No 24).
+    Section 19B: inserted, on 28 June 2006, by [section 11][76] of the Litter Amendment Act 2006 (2006 No 24).
 
 #### Special powers of convicting court
 
@@ -646,7 +660,7 @@ An Act to make better provision for the abatement and control of litter
     
     (2) The Litter Order 1969 and the Litter Order 1973 are hereby revoked.
     
-    (3) _Amendment(s) incorporated in the [Act(s)][76]_.
+    (3) _Amendment(s) incorporated in the [Act(s)][77]_.
 
 ---
 
@@ -657,7 +671,7 @@ Form of infringement notice
 
 \[Repealed\]
     
-*   Schedule: repealed, on 1 November 1987, by [section 17][70] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
+*   Schedule: repealed, on 1 November 1987, by [section 17][71] of the Summary Proceedings Amendment Act 1987 (1987 No 165).
 
 ---
 
@@ -675,23 +689,23 @@ Form of infringement notice
 
 ###### 1 General
     
-*   This is a reprint of the Litter Act 1979\. The reprint incorporates all the amendments to the Act as at 1 November 2010, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Litter Act 1979\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][77] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][78] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][78] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][79] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][79] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][80] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][80] and [17E][81] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][81] and [17E][82] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -722,7 +736,9 @@ Form of infringement notice
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][45]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][66]
+    
+    Local Government (Auckland Transitional Provisions) Act 2010 (2010 No 37): [section 113(1)][45]
     
     Walking Access Act 2008 (2008 No 101): [section 82][50]
     
@@ -738,9 +754,9 @@ Form of infringement notice
     
     Fisheries Act 1996 (1996 No 88): [section 314(1)(v)][60]
     
-    [Litter Amendment Act 1990][82] (1990 No 9)
+    [Litter Amendment Act 1990][83] (1990 No 9)
     
-    Summary Proceedings Amendment Act 1987 (1987 No 165): [section 17][70]
+    Summary Proceedings Amendment Act 1987 (1987 No 165): [section 17][71]
     
     Conservation Act 1987 (1987 No 65): [section 65(1)][48]
     
@@ -818,20 +834,21 @@ Form of infringement notice
 [63]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM203547
 [64]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM35085
 [65]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373586
-[66]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373587
-[67]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM310742
-[68]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM405458
-[69]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM311346
-[70]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM122239
-[71]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373588
-[72]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373590
-[73]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373591
-[74]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373592
-[75]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373593
-[76]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM444971
-[77]: http://www.pco.parliament.govt.nz/reprints/
-[78]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195439
-[79]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[80]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195468
-[81]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195470
-[82]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM203538
+[66]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM3360714
+[67]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM3360057
+[68]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373587
+[69]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM405458
+[70]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM311346
+[71]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM122239
+[72]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373588
+[73]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373590
+[74]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373591
+[75]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373592
+[76]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM373593
+[77]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM444971
+[78]: http://www.pco.parliament.govt.nz/reprints/
+[79]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195439
+[80]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[81]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195468
+[82]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM195470
+[83]: http://www.legislation.govt.nz/act/public/1979/0041/latest/link.aspx?id=DLM203538
