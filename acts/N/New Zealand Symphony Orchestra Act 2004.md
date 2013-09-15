@@ -1,7 +1,7 @@
 Reprint  
-as at 25 January 2005
+as at 1 July 2013
 
-![Crest](/images/leg-crest.jpg)
+![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
 # New Zealand Symphony Orchestra Act 2004Public Act2004 No 20
 
@@ -23,145 +23,147 @@ This Act is administered by the Ministry of Culture and Heritage.
 
 ## Contents
 
-[1][1] [Title][1]
+[1][1][][1][Title][1]
 
 [Part 1][2]  
 [Preliminary provisions][2]
 
-[2][3] [Commencement][3]
+[2][3][][3][Commencement][3]
 
-[3][4] [Purpose of Act][4]
+[3][4][][4][Purpose of Act][4]
 
-[4][5] [Interpretation][5]
+[4][5][][5][Interpretation][5]
 
-[5][6] [Act binds the Crown][6]
+[5][6][][6][Act binds the Crown][6]
 
 [Part 2][7]  
 [Establishment, structure, and powers of Orchestra and related matters][7]
 
-[Subpart 1][8]---[Key provisions about establishment of Orchestra][8]
+[Subpart 1][8][---][8][Key provisions about establishment of Orchestra][8]
 
 [Establishment of Orchestra][9]
 
-[6][10] [Orchestra established][10]
+[6][10][][10][Orchestra established][10]
 
-[7][11] [Orchestra is Crown entity][11]
+[7][11][][11][Orchestra is Crown entity][11]
 
 [Principal objectives and functions of Orchestra][12]
 
-[8][13] [Principal objectives of Orchestra][13]
+[8][13][][13][Principal objectives of Orchestra][13]
 
-[9][14] [Functions of Orchestra][14]
+[9][14][][14][Functions of Orchestra][14]
 
-[10][15] [Limitation applying to principal objectives and functions][15] \[Repealed\]
+[10][15][][15][Limitation applying to principal objectives and functions][15] \[Repealed\]
 
 [Powers of Orchestra][16]
 
 \[Repealed\]
 
-[11][17] [Capacity and powers of Orchestra][17] \[Repealed\]
+[11][17][][17][Capacity and powers of Orchestra][17] \[Repealed\]
 
-[Subpart 2][18]---[Key provisions about governance of Orchestra][18]
+[Subpart 2][18][---][18][Key provisions about governance of Orchestra][18]
 
 [Board is governing body of Orchestra][19]
 
-[12][20] [Board of Orchestra][20]
+[12][20][][20][Board of Orchestra][20]
 
-[13][21] [Role of board][21] \[Repealed\]
+[13][21][][21][Role of board][21] \[Repealed\]
 
 [Other provisions relating to governance of Orchestra][22]
 
-[14][23] [Role of Minister][23] \[Repealed\]
+[14][23][][23][Role of Minister][23] \[Repealed\]
 
-[15][24] [Orchestra to have regard to government policy on matters of general administration][24] \[Repealed\]
+[15][24][][24][Orchestra to have regard to government policy on matters of general administration][24] \[Repealed\]
 
-[16][25] [Independence of Orchestra][25]
+[16][25][][25][Independence of Orchestra][25]
 
-[Subpart 3][26]---[Key provisions about operation of board][26]
+[Subpart 3][26][---][26][Key provisions about operation of board][26]
 
 [Collective duties of board members][27]
 
-[17][28] [Collective duties of board][28]
+[17][28][][28][Collective duties of board][28]
 
 [Individual duties of board members][29]
 
 \[Repealed\]
 
-[18][30] [Individual duties of board members][30] \[Repealed\]
+[18][30][][30][Individual duties of board members][30] \[Repealed\]
 
 [Effect of breach of duties][31]
 
 \[Repealed\]
 
-[19][32] [Effect of breach of duties][32] \[Repealed\]
+[19][32][][32][Effect of breach of duties][32] \[Repealed\]
 
 [Financial and accountability provisions][33]
 
 \[Repealed\]
 
-[20][34] [Funds of Orchestra][34] \[Repealed\]
+[20][34][][34][Funds of Orchestra][34] \[Repealed\]
 
-[21][35] [Bank accounts][35] \[Repealed\]
+[21][35][][35][Bank accounts][35] \[Repealed\]
 
 [Powers to invest and borrow][36]
 
 \[Repealed\]
 
-[22][37] [Restrictions on investments][37] \[Repealed\]
+[22][37][][37][Restrictions on investments][37] \[Repealed\]
 
-[23][38] [Restrictions on borrowing][38] \[Repealed\]
+[23][38][][38][Restrictions on borrowing][38] \[Repealed\]
 
 [Reporting requirements][39]
 
 \[Repealed\]
 
-[24][40] [Annual report][40] \[Repealed\]
+[24][40][][40][Annual report][40] \[Repealed\]
 
-[Subpart 4][41]---[Provisions relating to interests in other bodies and subsidiaries of Orchestra][41]
+[Subpart 4][41][---][41][Provisions relating to interests in other bodies and subsidiaries of Orchestra][41]
+
+\[Repealed\]
 
 [Limits on power of Orchestra to hold shares or other interests in other bodies or associations][42]
 
 \[Repealed\]
 
-[25][43] [Shares in bodies corporate or interests in associations of persons][43] \[Repealed\]
+[25][43][][43][Shares in bodies corporate or interests in associations of persons][43] \[Repealed\]
 
 [Subsidiaries of Orchestra][44]
 
 \[Repealed\]
 
-[26][45] [Limits to functions and powers of subsidiaries][45] \[Repealed\]
+[26][45][][45][Limits to functions and powers of subsidiaries][45] \[Repealed\]
 
 [Remuneration and allowances for directors of subsidiaries][46]
 
 \[Repealed\]
 
-[27][47] [Remuneration and allowances][47] \[Repealed\]
+[27][47][][47][Remuneration and allowances][47] \[Repealed\]
 
-[Subpart 5][48]---[Protection of names][48]
+[Subpart 5][48][---][48][Protection of names][48]
 
-[28][49] [Protection of names][49]
+[28][49][][49][Protection of names][49]
 
-[Subpart 6][50]---[Transitional provisions][50]
+[Subpart 6][50][---][50][Transitional provisions][50]
 
 [Dissolution of New Zealand Symphony Orchestra Limited][51]
 
-[29][52] [Dissolution of New Zealand Symphony Orchestra Limited][52]
+[29][52][][52][Dissolution of New Zealand Symphony Orchestra Limited][52]
 
-[30][53] [Certain matters not affected by transfer to Orchestra][53]
+[30][53][][53][Certain matters not affected by transfer to Orchestra][53]
 
-[31][54] [Reference to New Zealand Symphony Orchestra Limited is reference to Orchestra][54]
+[31][54][][54][Reference to New Zealand Symphony Orchestra Limited is reference to Orchestra][54]
 
-[32][55] [Taxes and duties][55]
+[32][55][][55][Taxes and duties][55]
 
-[33][56] [Final report on New Zealand Symphony Orchestra Limited][56]
+[33][56][][56][Final report on New Zealand Symphony Orchestra Limited][56]
 
-[34][57] [Further transitional provisions][57]
+[34][57][][57][Further transitional provisions][57]
 
-[Subpart 7][58]---[Repeal and amendments][58]
+[Subpart 7][58][---][58][Repeal and amendments][58]
 
-[35][59] [New Zealand Symphony Orchestra Act 1988 repealed][59]
+[35][59][][59][New Zealand Symphony Orchestra Act 1988 repealed][59]
 
-[36][60] [Amendments to enactments][60]
+[36][60][][60][Amendments to enactments][60]
 
 [Schedule 1][61]  
 [Administrative provisions applying to board and further transitional provisions][61]
@@ -444,6 +446,8 @@ Establishment, structure, and powers of Orchestra and related matters
     Section 24: repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
 ### Subpart 4---Provisions relating to interests in other bodies and subsidiaries of Orchestra
+
+\[Repealed\]
     
 *   Subpart 4 heading: repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -509,7 +513,9 @@ Establishment, structure, and powers of Orchestra and related matters
     
     *   (b) under a name, knowing that it so resembles a name listed in subsection (1) as to be likely to mislead a person.
     
-    (3) A person who breaches subsection (2) commits an offence and is liable on summary conviction to a fine not exceeding $2,500\.
+    (3) A person who breaches subsection (2) commits an offence and is liable on conviction to a fine not exceeding $2,500\.
+    
+    Section 28(3): amended, on 1 July 2013, by [section 413][68] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ### Subpart 6---Transitional provisions
 
@@ -533,7 +539,7 @@ Establishment, structure, and powers of Orchestra and related matters
     
     (2) No director of the New Zealand Symphony Orchestra Limited is entitled to compensation as a result of the expiry under this section of his or her term of office.
     
-    (3) The Registrar of Companies must remove the name of the New Zealand Symphony Orchestra Limited from the register of companies kept under [section 360(1)][68] of the Companies Act 1993\.
+    (3) The Registrar of Companies must remove the name of the New Zealand Symphony Orchestra Limited from the register of companies kept under [section 360(1)][69] of the Companies Act 1993\.
 
 ##### 30 Certain matters not affected by transfer to Orchestra
     
@@ -571,7 +577,7 @@ Establishment, structure, and powers of Orchestra and related matters
     
     (2) \[Repealed\]
     
-    (3) In this section, _Inland Revenue Acts_ has the same meaning as in [section 3(1)][69] of the Tax Administration Act 1994\.
+    (3) In this section, _Inland Revenue Acts_ has the same meaning as in [section 3(1)][70] of the Tax Administration Act 1994\.
     
     Section 32(2): repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -583,13 +589,13 @@ Establishment, structure, and powers of Orchestra and related matters
     
     (3) In this section, _final report_ means---
         
-    *   (a) a report setting out the information specified in [section 41I][70] of the Public Finance Act 1989 on the operations of the New Zealand Symphony Orchestra Limited for the period beginning on 1 July 2003 and ending with the close of the day immediately before the commencement day; and
+    *   (a) a report setting out the information specified in [section 41I][71] of the Public Finance Act 1989 on the operations of the New Zealand Symphony Orchestra Limited for the period beginning on 1 July 2003 and ending with the close of the day immediately before the commencement day; and
     
     *   (b) the financial statements of the New Zealand Symphony Orchestra Limited for that period---
             
-        *   (i) setting out the information specified in [section 41][71] of the Public Finance Act 1989; and
+        *   (i) setting out the information specified in [section 41][72] of the Public Finance Act 1989; and
         
-        *   (ii) accompanied by an audit opinion prepared by the Auditor-General in accordance with [section 43][72] of the Public Finance Act 1989\.
+        *   (ii) accompanied by an audit opinion prepared by the Auditor-General in accordance with [section 43][73] of the Public Finance Act 1989\.
         
         
     
@@ -597,7 +603,7 @@ Establishment, structure, and powers of Orchestra and related matters
 
 ##### 34 Further transitional provisions
     
-*   [Part 5][73] of Schedule 1 applies to transitional arrangements for the New Zealand Symphony Orchestra Limited and its employees.
+*   [Part 5][74] of Schedule 1 applies to transitional arrangements for the New Zealand Symphony Orchestra Limited and its employees.
 
 ### Subpart 7---Repeal and amendments
 
@@ -618,6 +624,8 @@ Administrative provisions applying to board and further transitional provisions
 
 ## Part 1  
 Further provisions about membership of board
+
+\[Repealed\]
     
 *   Schedule 1 Part 1 heading: repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -749,6 +757,8 @@ Further provisions about membership of board
 
 ## Part 2  
 Provisions relating to operation of board and its members
+
+\[Repealed\]
     
 *   Schedule 1 Part 2 heading: repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -947,7 +957,7 @@ Procedures of board
     
     *   (g) to appoint an attorney.
     
-    (2) In other respects, [section 73][74] of the Crown Entities Act 2004 applies.
+    (2) In other respects, [section 73][75] of the Crown Entities Act 2004 applies.
     
     Schedule 1 Part 3 clause 37(1)(a): repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
     
@@ -963,6 +973,8 @@ Procedures of board
 
 ## Part 4  
 Employment provisions
+
+\[Repealed\]
     
 *   Schedule 1 Part 4 heading: repealed, on 25 January 2005, by [section 200][64] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -1053,13 +1065,13 @@ Further transitional provisions
 
 ##### 49 Existing members of Government Superannuation Fund
     
-*   (1) Despite [clause 43][75], a person who, immediately before becoming an employee of the Orchestra, was a contributor to the Government Superannuation Fund under [Part 2][76] or [Part 2A][77] of the Government Superannuation Fund Act 1956 is, for the purpose of that Act, to be treated as if he or she were employed in the Government service so long as that person continues to be an employee of the Orchestra.
+*   (1) Despite [clause 43][76], a person who, immediately before becoming an employee of the Orchestra, was a contributor to the Government Superannuation Fund under [Part 2][77] or [Part 2A][78] of the Government Superannuation Fund Act 1956 is, for the purpose of that Act, to be treated as if he or she were employed in the Government service so long as that person continues to be an employee of the Orchestra.
     
-    (2) The [Government Superannuation Fund Act 1956][78] applies to the person in all respects as if the person's service as an employee of the Orchestra were Government service.
+    (2) The [Government Superannuation Fund Act 1956][79] applies to the person in all respects as if the person's service as an employee of the Orchestra were Government service.
     
     (3) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
     
-    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][78] under subclause (1), _controlling authority_ means the board.
+    (4) For the purpose of applying the [Government Superannuation Fund Act 1956][79] under subclause (1), _controlling authority_ means the board.
 
 ---
 
@@ -1070,35 +1082,35 @@ Amendments to other enactments
 
 ##### Archives, Culture, and Heritage Reform Act 2000 (2000 No 32)
 
-_Amendment(s) incorporated in the [Act(s)][79]._
+_Amendment(s) incorporated in the [Act(s)][80]._
 
 ##### Broadcasting Act 1989 (1989 No 25)
 
-_Amendment(s) incorporated in the [Act(s)][80]._
+_Amendment(s) incorporated in the [Act(s)][81]._
 
 ##### Human Rights Act 1993 (1993 No 82)
 
-_Amendment(s) incorporated in the [Act(s)][81]._
+_Amendment(s) incorporated in the [Act(s)][82]._
 
 ##### Income Tax Act 1994 (1994 No 164)
 
-_Amendment(s) incorporated in the [Act(s)][82]._
+_Amendment(s) incorporated in the [Act(s)][83]._
 
 ##### Official Information Act 1982 (1982 No 156)
 
-_Amendment(s) incorporated in the [Act(s)][83]._
+_Amendment(s) incorporated in the [Act(s)][84]._
 
 ##### Ombudsmen Act 1975 (1975 No 9)
 
-_Amendment(s) incorporated in the [Act(s)][84]._
+_Amendment(s) incorporated in the [Act(s)][85]._
 
 ##### Public Audit Act 2001 (2001 No 10)
 
-_Amendment(s) incorporated in the [Act(s)][85]._
+_Amendment(s) incorporated in the [Act(s)][86]._
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][86]._
+_Amendment(s) incorporated in the [Act(s)][87]._
 
 ---
 
@@ -1116,13 +1128,13 @@ _Amendment(s) incorporated in the [Act(s)][86]._
 
 ###### 1 General
     
-*   This is a reprint of the New Zealand Symphony Orchestra Act 2004\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the New Zealand Symphony Orchestra Act 2004\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
     Relevant provisions of any amending enactments that have yet to come into force or that contain relevant transitional or savings provisions are also included, after the principal enactment, in chronological order.
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][87] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][88] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
@@ -1132,7 +1144,7 @@ _Amendment(s) incorporated in the [Act(s)][86]._
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][88] and [17E][89] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][89] and [17E][90] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -1163,7 +1175,9 @@ _Amendment(s) incorporated in the [Act(s)][86]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Entities Act 2004 (2004 No 115): [section 200][64]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][68]
+    
+    Crown Entities Act 2004 (2004 No 115): [section 200][64]
 
 
 
@@ -1235,25 +1249,26 @@ _Amendment(s) incorporated in the [Act(s)][86]._
 [65]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM319569
 [66]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM329630
 [67]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM329955
-[68]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM323203
-[69]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM348353
-[70]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162455
-[71]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162420
-[72]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162464
-[73]: http://www.legislation.govt.nz/act/public/2004/0020/latest/whole.html#DLM243481
-[74]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM330308
-[75]: http://www.legislation.govt.nz/act/public/2004/0020/latest/whole.html#DLM243475
-[76]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446395
-[77]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446842
-[78]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446000
-[79]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM67172
-[80]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM158945
-[81]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM305939
-[82]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM1184504
-[83]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM64784
-[84]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM430983
-[85]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM89121
-[86]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM160808
-[87]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195439
-[88]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195468
-[89]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195470
+[68]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM3360714
+[69]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM323203
+[70]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM348353
+[71]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162455
+[72]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162420
+[73]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM162464
+[74]: http://www.legislation.govt.nz/act/public/2004/0020/latest/whole.html#DLM243481
+[75]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM330308
+[76]: http://www.legislation.govt.nz/act/public/2004/0020/latest/whole.html#DLM243475
+[77]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446395
+[78]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446842
+[79]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM446000
+[80]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM67172
+[81]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM158945
+[82]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM305939
+[83]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM1184504
+[84]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM64784
+[85]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM430983
+[86]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM89121
+[87]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM160808
+[88]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195439
+[89]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195468
+[90]: http://www.legislation.govt.nz/act/public/2004/0020/latest/link.aspx?id=DLM195470
