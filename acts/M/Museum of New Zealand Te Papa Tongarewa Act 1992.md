@@ -1,5 +1,5 @@
 Reprint  
-as at 25 January 2005
+as at 1 July 2013
 
 ![Coat of Arms of New Zealand](/images/leg-crest.jpg)
 
@@ -25,88 +25,88 @@ This Act is administered by the Ministry for Culture and Heritage.
 
 [Title][1]
 
-[1][2] [Short Title and commencement][2]
+[1][2][][2][Short Title and commencement][2]
 
-[2][3] [Interpretation][3]
+[2][3][][3][Interpretation][3]
 
-[3][4] [Act to bind the Crown][4]
+[3][4][][4][Act to bind the Crown][4]
 
-[4][5] [Purpose of Act][5]
+[4][5][][5][Purpose of Act][5]
 
 [Part 1][6]  
 [Museum of New Zealand Te Papa Tongarewa][6]
 
-[5][7] [Museum of New Zealand Te Papa Tongarewa][7]
+[5][7][][7][Museum of New Zealand Te Papa Tongarewa][7]
 
-[6][8] [Museum of New Zealand Te Papa Tongarewa Board][8]
+[6][8][][8][Museum of New Zealand Te Papa Tongarewa Board][8]
 
-[7][9] [Functions][9]
+[7][9][][9][Functions][9]
 
-[8][10] [Performance of functions][10]
+[8][10][][10][Performance of functions][10]
 
-[9][11] [Money][11]
+[9][11][][11][Money][11]
 
-[10][12] [Membership][12]
+[10][12][][12][Membership][12]
 
-[11][13] [Co-opted members][13] \[Repealed\]
+[11][13][][13][Co-opted members][13] \[Repealed\]
 
-[12][14] [Term of office][14] \[Repealed\]
+[12][14][][14][Term of office][14] \[Repealed\]
 
-[13][15] [Extraordinary vacancies][15] \[Repealed\]
+[13][15][][15][Extraordinary vacancies][15] \[Repealed\]
 
-[14][16] [Deputy Chairperson][16] \[Repealed\]
+[14][16][][16][Deputy Chairperson][16] \[Repealed\]
 
-[15][17] [Rules][17] \[Repealed\]
+[15][17][][17][Rules][17] \[Repealed\]
 
-[16][18] [Committees][18] \[Repealed\]
+[16][18][][18][Committees][18] \[Repealed\]
 
-[17][19] [Delegation of functions and powers][19]
+[17][19][][19][Delegation of functions and powers][19]
 
-[18][20] [Contracts][20] \[Repealed\]
+[18][20][][20][Contracts][20] \[Repealed\]
 
-[19][21] [Gifts][21]
+[19][21][][21][Gifts][21]
 
-[20][22] [Exemption from income tax][22]
+[20][22][][22][Exemption from income tax][22]
 
-[21][23] [Protection of persons acting under authority of Act][23] \[Repealed\]
+[21][23][][23][Protection of persons acting under authority of Act][23] \[Repealed\]
 
-[22][24] [Further provisions applying to Board][24]
+[22][24][][24][Further provisions applying to Board][24]
 
-[23][25] [Protection of names][25]
+[23][25][][25][Protection of names][25]
 
 [Part 2][26]  
 [Dissolution of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial][26]
 
-[24][27] [Dissolution of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial][27]
+[24][27][][27][Dissolution of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial][27]
 
-[25][28] [Assets and liabilities][28]
+[25][28][][28][Assets and liabilities][28]
 
-[26][29] [Vesting of assets][29]
+[26][29][][29][Vesting of assets][29]
 
-[27][30] [Vesting in Board of land vested in the Crown][30]
+[27][30][][30][Vesting in Board of land vested in the Crown][30]
 
-[28][31] [New Zealand Academy of Fine Arts][31]
+[28][31][][31][New Zealand Academy of Fine Arts][31]
 
-[29][32] [Final accounts of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial][32]
+[29][32][][32][Final accounts of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial][32]
 
-[30][33] [Transitional provision in relation to employees][33]
+[30][33][][33][Transitional provision in relation to employees][33]
 
 [Part 3][34]  
 [Consequential amendments and repeals][34]
 
-[31][35] [Amendment to Estate and Gift Duties Act 1968][35]
+[31][35][][35][Amendment to Estate and Gift Duties Act 1968][35]
 
-[32][36] [Amendments to Stamp and Cheque Duties Act 1971][36] \[Repealed\]
+[32][36][][36][Amendments to Stamp and Cheque Duties Act 1971][36] \[Repealed\]
 
-[33][37] [Amendments to Flags, Emblems, and Names Protection Act 1981][37]
+[33][37][][37][Amendments to Flags, Emblems, and Names Protection Act 1981][37]
 
-[34][38] [References to National Art Gallery, Dominion Museum, or National Museum deemed references to Museum of New Zealand Te Papa Tongarewa][38]
+[34][38][][38][References to National Art Gallery, Dominion Museum, or National Museum deemed references to Museum of New Zealand Te Papa Tongarewa][38]
 
-[35][39] [References to Board of Trustees deemed references to Museum of New Zealand Te Papa Tongarewa Board][39]
+[35][39][][39][References to Board of Trustees deemed references to Museum of New Zealand Te Papa Tongarewa Board][39]
 
-[36][40] [Consequential amendments to other enactments][40]
+[36][40][][40][Consequential amendments to other enactments][40]
 
-[37][41] [Repeals][41]
+[37][41][][41][Repeals][41]
 
 [Schedule 1][42]  
 [Provisions applying in respect of Board][42]
@@ -375,9 +375,11 @@ Museum of New Zealand Te Papa Tongarewa
     
     *   (b) trade or carry on business under any other name, knowing that that name so resembles any name listed in paragraphs (a) to (d) of subsection (1), as to be likely to mislead any person.
     
-    (3) Every person who contravenes subsection (2) commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
+    (3) Every person who contravenes subsection (2) commits an offence, and is liable on conviction to a fine not exceeding $1,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues.
     
     Compare: 1972 No 11 s 30A; 1981 No 47 [s 27(1)][59]
+    
+    Section 23(3): amended, on 1 July 2013, by [section 413][60] of the Criminal Procedure Act 2011 (2011 No 81).
 
 ## Part 2  
 Dissolution of Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial
@@ -390,21 +392,21 @@ Dissolution of Board of Trustees of the National Art Gallery, the National Museu
 
 ##### 25 Assets and liabilities
     
-*   Subject to [sections 6][60] and [7][61] of the National War Memorial Act 1992, on the commencement of this Act all assets and liabilities of the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall become assets and liabilities of the Board constituted by [section 6][8] of this Act.
+*   Subject to [sections 6][61] and [7][62] of the National War Memorial Act 1992, on the commencement of this Act all assets and liabilities of the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall become assets and liabilities of the Board constituted by [section 6][8] of this Act.
 
 ##### 26 Vesting of assets
     
-*   (1) Subject to [sections 6][60] and [7][61] of the National War Memorial Act 1992, on the commencement of this Act all real and personal property vested in the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall vest in the Board constituted by [section 6][8] of this Act, subject to all liabilities, charges, obligations, or trusts affecting that property.
+*   (1) Subject to [sections 6][61] and [7][62] of the National War Memorial Act 1992, on the commencement of this Act all real and personal property vested in the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall vest in the Board constituted by [section 6][8] of this Act, subject to all liabilities, charges, obligations, or trusts affecting that property.
     
-    (2) Subject to [section 7][61] of the National War Memorial Act 1992, on the commencement of this Act all money payable to the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall become payable to the Board constituted by [section 6][8] of this Act.
+    (2) Subject to [section 7][62] of the National War Memorial Act 1992, on the commencement of this Act all money payable to the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial shall become payable to the Board constituted by [section 6][8] of this Act.
     
-    (3) Where, on the commencement of this Act, any trust money within the meaning of [section 66(1)][62] of the Public Finance Act 1989,---
+    (3) Where, on the commencement of this Act, any trust money within the meaning of [section 66(1)][63] of the Public Finance Act 1989,---
         
     *   (a) is held by the Crown in trust for the Museum of New Zealand project; and
     
-    *   (b) is, by virtue of an appointment under [section 66(4)][62] of the Public Finance Act 1989, managed by the Department of Internal Affairs,---
+    *   (b) is, by virtue of an appointment under [section 66(4)][63] of the Public Finance Act 1989, managed by the Department of Internal Affairs,---
     
-    that money, together with any interest accrued in relation to that money, whether before or after the commencement of this Act, shall, subject both to the terms and conditions determined under [section 66(4)][62] of the Public Finance Act 1989 and to [section 66(5)][62] of the Public Finance Act 1989, become payable to the Board constituted by [section 6][8] of this Act.
+    that money, together with any interest accrued in relation to that money, whether before or after the commencement of this Act, shall, subject both to the terms and conditions determined under [section 66(4)][63] of the Public Finance Act 1989 and to [section 66(5)][63] of the Public Finance Act 1989, become payable to the Board constituted by [section 6][8] of this Act.
     
     (4) The collection known as the ""Oldman Collection"" and the collection of 4 murals known as the ""Coventry Murals"", both of which collections are vested in the Crown, are hereby vested in the Board constituted by [section 6][8].
 
@@ -448,7 +450,7 @@ Dissolution of Board of Trustees of the National Art Gallery, the National Museu
     
     *   (c) by the Secretary for Internal Affairs in the Department of Internal Affairs' Museum of New Zealand Project Office.
     
-    (2) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][63],---
+    (2) Notwithstanding any other provision of this Act or any provision of the [State Sector Act 1988][64],---
         
     *   (a) on the commencement of this Act, every person to whom this section applies shall become a person employed by the Board; and
     
@@ -491,17 +493,17 @@ Consequential amendments and repeals
 
 ##### 31 Amendment to Estate and Gift Duties Act 1968
     
-*   _Amendment(s) incorporated in the [Act(s)][64]_.
+*   _Amendment(s) incorporated in the [Act(s)][65]_.
 
 ##### 32 Amendments to Stamp and Cheque Duties Act 1971
     
 *   \[Repealed\]
     
-    Section 32: repealed, on 20 May 1999, by [section 7][65] of the Stamp Duty Abolition Act 1999 (1999 No 61).
+    Section 32: repealed, on 20 May 1999, by [section 7][66] of the Stamp Duty Abolition Act 1999 (1999 No 61).
 
 ##### 33 Amendments to Flags, Emblems, and Names Protection Act 1981
     
-*   _Amendment(s) incorporated in the [Act(s)][66]_.
+*   _Amendment(s) incorporated in the [Act(s)][67]_.
 
 ##### 34 References to National Art Gallery, Dominion Museum, or National Museum deemed references to Museum of New Zealand Te Papa Tongarewa
     
@@ -509,7 +511,7 @@ Consequential amendments and repeals
 
 ##### 35 References to Board of Trustees deemed references to Museum of New Zealand Te Papa Tongarewa Board
     
-*   Subject to [section 18][67] of the National War Memorial Act 1992, every reference to the Board of Trustees of the National Art Gallery and the Dominion Museum, or to the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial in any enactment passed before the commencement of this Act, or in any document executed before that date, shall, unless the context otherwise requires, be deemed to be a reference to the Board constituted by [section 6][8] of this Act.
+*   Subject to [section 18][68] of the National War Memorial Act 1992, every reference to the Board of Trustees of the National Art Gallery and the Dominion Museum, or to the Board of Trustees of the National Art Gallery, the National Museum, and the National War Memorial in any enactment passed before the commencement of this Act, or in any document executed before that date, shall, unless the context otherwise requires, be deemed to be a reference to the Board constituted by [section 6][8] of this Act.
 
 ##### 36 Consequential amendments to other enactments
     
@@ -560,17 +562,17 @@ Provisions applying in respect of Board
     
 *   \[Repealed\]
     
-    Schedule 1 clause 6: repealed, on 1 December 2004, by [section 72][68] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
+    Schedule 1 clause 6: repealed, on 1 December 2004, by [section 72][69] of the Employment Relations Amendment Act (No 2) 2004 (2004 No 86).
 
 ##### 7 Superannuation or retiring allowances
     
-*   (1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, the Board may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][69].
+*   (1) For the purpose of providing a superannuation fund or retiring allowances for any of its members, the Board may from time to time pay sums by way of subsidy or contribution into any superannuation scheme that is registered under the [Superannuation Schemes Act 1989][70].
     
-    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Board, is a contributor to the Government Superannuation Fund under [Part 2][70] or [Part 2A][71] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Board; and that Act shall apply to that person in all respects as if that person's service as an employee of the Board is Government service.
+    (2) Notwithstanding anything in this Act, a person who, immediately before becoming an employee of the Board, is a contributor to the Government Superannuation Fund under [Part 2][71] or [Part 2A][72] of the Government Superannuation Fund Act 1956 shall, for the purposes of that Act, be deemed to be employed in the Government service so long as that person continues to be an employee of the Board; and that Act shall apply to that person in all respects as if that person's service as an employee of the Board is Government service.
     
     (3) Nothing in subclause (2) entitles any person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
     
-    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][72], in accordance with subclause (2), to an employee of the Board who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that employee, means the Board.
+    (4) For the purposes of applying the [Government Superannuation Fund Act 1956][73], in accordance with subclause (2), to an employee of the Board who is a contributor to the Government Superannuation Fund, the term _controlling authority_, in relation to that employee, means the Board.
     
     Schedule 1 clause 7(1): amended, on 25 January 2005, by [section 200][48] of the Crown Entities Act 2004 (2004 No 115).
 
@@ -657,11 +659,11 @@ Enactments repealed
 
 ##### Public Finance Act 1989 (1989 No 44)
 
-_Amendment(s) incorporated in the [Act(s)][73]._
+_Amendment(s) incorporated in the [Act(s)][74]._
 
 ##### Trustee Amendment Act 1988 (1988 No 119)
 
-_Amendment(s) incorporated in the [Act(s)][74]._
+_Amendment(s) incorporated in the [Act(s)][75]._
 
 ---
 
@@ -679,23 +681,23 @@ _Amendment(s) incorporated in the [Act(s)][74]._
 
 ###### 1 General
     
-*   This is a reprint of the Museum of New Zealand Te Papa Tongarewa Act 1992\. The reprint incorporates all the amendments to the Act as at 25 January 2005, as specified in the list of amendments at the end of these notes.
+*   This is a reprint of the Museum of New Zealand Te Papa Tongarewa Act 1992\. The reprint incorporates all the amendments to the Act as at 1 July 2013, as specified in the list of amendments at the end of these notes.
     
-    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][75] ![](/images/external_link.gif).
+    Relevant provisions of any amending enactments that contain transitional, savings, or application provisions that cannot be compiled in the reprint are also included, after the principal enactment, in chronological order. For more information, _see_ [http://www.pco.parliament.govt.nz/reprints/][76] ![](/images/external_link.gif).
 
 ###### 2 Status of reprints
     
-*   Under [section 16D][76] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
+*   Under [section 16D][77] of the Acts and Regulations Publication Act 1989, reprints are presumed to correctly state, as at the date of the reprint, the law enacted by the principal enactment and by the amendments to that enactment. This presumption applies even though editorial changes authorised by [section 17C][0] of the Acts and Regulations Publication Act 1989 have been made in the reprint.
     
     This presumption may be rebutted by producing the official volumes of statutes or statutory regulations in which the principal enactment and its amendments are contained.
 
 ###### 3 How reprints are prepared
     
-*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][77] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
+*   A number of editorial conventions are followed in the preparation of reprints. For example, the enacting words are not included in Acts, and provisions that are repealed or revoked are omitted. For a detailed list of the editorial conventions, _see_ [http://www.pco.parliament.govt.nz/editorial-conventions/][78] ![](/images/external_link.gif) or Part 8 of the _Tables of New Zealand Acts and Ordinances and Statutory Regulations and Deemed Regulations in Force_.
 
 ###### 4 Changes made under section 17C of the Acts and Regulations Publication Act 1989
     
-*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][78] and [17E][79] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
+*   [Section 17C][0] of the Acts and Regulations Publication Act 1989 authorises the making of editorial changes in a reprint as set out in [sections 17D][79] and [17E][80] of that Act so that, to the extent permitted, the format and style of the reprinted enactment is consistent with current legislative drafting practice. Changes that would alter the effect of the legislation are not permitted.
     
     A new format of legislation was introduced on 1 January 2000\. Changes to legislative drafting style have also been made since 1997, and are ongoing. To the extent permitted by [section 17C][0] of the Acts and Regulations Publication Act 1989, all legislation reprinted after 1 January 2000 is in the new format for legislation and reflects current drafting practice at the time of the reprint.
     
@@ -726,15 +728,17 @@ _Amendment(s) incorporated in the [Act(s)][74]._
 
 ###### 5 List of amendments incorporated in this reprint (most recent first)
     
-*   Crown Entities Act 2004 (2004 No 115): [section 200][48]
+*   Criminal Procedure Act 2011 (2011 No 81): [section 413][60]
     
-    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][68]
+    Crown Entities Act 2004 (2004 No 115): [section 200][48]
+    
+    Employment Relations Amendment Act (No 2) 2004 (2004 No 86): [section 72][69]
     
     Local Government Act 2002 (2002 No 84): [section 262][58]
     
     Archives, Culture, and Heritage Reform Act 2000 (2000 No 32): [section 12][47]
     
-    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][65]
+    Stamp Duty Abolition Act 1999 (1999 No 61): [section 7][66]
 
 
 
@@ -798,23 +802,24 @@ _Amendment(s) incorporated in the [Act(s)][74]._
 [57]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM170872
 [58]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM174088
 [59]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM52254
-[60]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260640
-[61]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260641
-[62]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM162982
-[63]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM129109
-[64]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM387126
-[65]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM29377
-[66]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM51357
-[67]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260661
-[68]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM316477
-[69]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM143291
-[70]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446395
-[71]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446842
-[72]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446000
-[73]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM163182
-[74]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM135633
-[75]: http://www.pco.parliament.govt.nz/reprints/
-[76]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195439
-[77]: http://www.pco.parliament.govt.nz/editorial-conventions/
-[78]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195468
-[79]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195470
+[60]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM3360714
+[61]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260640
+[62]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260641
+[63]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM162982
+[64]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM129109
+[65]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM387126
+[66]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM29377
+[67]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM51357
+[68]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM260661
+[69]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM316477
+[70]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM143291
+[71]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446395
+[72]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446842
+[73]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM446000
+[74]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM163182
+[75]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM135633
+[76]: http://www.pco.parliament.govt.nz/reprints/
+[77]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195439
+[78]: http://www.pco.parliament.govt.nz/editorial-conventions/
+[79]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195468
+[80]: http://www.legislation.govt.nz/act/public/1992/0019/latest/link.aspx?id=DLM195470
